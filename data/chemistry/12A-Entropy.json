@@ -46,11 +46,18 @@
         "true statement"
       ],
       "question": "The equation for an exothermic reaction is shown, and the question asks which of the options is true. The equation and options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Equation and options are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: delta S surroundings is positive",
+      "steps": [
+        "The reaction is exothermic, so delta H is negative (A is false).",
+        "Heat released to the surroundings gives delta S surroundings = -delta H / T, which is positive (B is true).",
+        "A gas (H2) is produced from solid and aqueous reactants, so delta S system is positive (C is false), and the total entropy change is positive for a feasible reaction (D is false)."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-01.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q2.jpg"
       ]
     },
     {
@@ -67,14 +74,21 @@
         "surroundings"
       ],
       "question": "Potassium bromate(V) decomposes to potassium bromide and oxygen. Using the standard molar entropies in the table, calculate the total entropy change, Stotal, at 298 K.",
-      "status": "pending",
-      "answer": "Needs the standard entropy table and the enthalpy change from the PDF; the table is missing from the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "+734 J K-1 mol-1",
+      "steps": [
+        "Delta S system = (2 x 95.9 + 3 x 205.0) - (2 x 149.2) = 191.8 + 615.0 - 298.4 = +508.4 J K-1 mol-1.",
+        "Delta S surroundings = -delta H / T = -(-67 200 J mol-1) / 298 K = +225.5 J K-1 mol-1 (convert kJ to J).",
+        "Delta S total = 508.4 + 225.5 = +733.9, which is +734 J K-1 mol-1 (3 s.f.); it is positive, so the decomposition is feasible."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-02.jpg",
         "papers/chemistry/img/12A-Entropy-03.jpg",
         "papers/chemistry/img/12A-Entropy-04.jpg",
         "papers/chemistry/img/12A-Entropy-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q3.jpg"
       ]
     },
     {
@@ -91,14 +105,22 @@
         "acidic solution"
       ],
       "question": "Using the graph of Br- concentration against time (bromate(V) and H+ in large excess), determine the order with respect to bromide ions, showing working on the graph.",
-      "status": "pending",
-      "answer": "Needs the concentration-time graph from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "First order with respect to bromide ions",
+      "steps": [
+        "The curve is an exponential decay, so a constant half-life shows a first-order reaction.",
+        "Draw lines on the graph: [Br-] falls from 0.10 to 0.05 mol dm-3 in about 200 s, then from 0.05 to 0.025 in a further 200 s (at about 400 s), and from 0.025 to 0.0125 in another 200 s (at about 600 s).",
+        "The half-life is constant (about 200 s), so the order with respect to Br- is 1."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-02.jpg",
         "papers/chemistry/img/12A-Entropy-03.jpg",
         "papers/chemistry/img/12A-Entropy-04.jpg",
         "papers/chemistry/img/12A-Entropy-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q3-2.jpg",
+        "papers/chemistry/fig/12A-Entropy-Q3-3.jpg"
       ]
     },
     {
@@ -115,14 +137,22 @@
         "bromide excess"
       ],
       "question": "In Experiment 2, the initial concentrations of bromate(V) and H+ are changed while Br- is in large excess. Determine the order with respect to bromate(V) and H+, explaining your working.",
-      "status": "pending",
-      "answer": "Needs the initial-rate data from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "BrO3- is first order and H+ is second order",
+      "steps": [
+        "Runs 1 and 2: [BrO3-] doubles from 0.1 to 0.2 with [H+] constant, and the rate doubles (3.6 x 10^-3 to 7.2 x 10^-3), so the reaction is first order in BrO3-.",
+        "Run 3 compared with run 1: [BrO3-] is x3 and [H+] is x2, and the rate rises by 4.3 x 10^-2 / 3.6 x 10^-3 = 12 = 3 x 4.",
+        "The factor of 3 comes from BrO3-, so the remaining factor of 4 comes from doubling [H+], meaning the order with respect to H+ is 2."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-02.jpg",
         "papers/chemistry/img/12A-Entropy-03.jpg",
         "papers/chemistry/img/12A-Entropy-04.jpg",
         "papers/chemistry/img/12A-Entropy-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q3-2.jpg",
+        "papers/chemistry/fig/12A-Entropy-Q3-4.jpg"
       ]
     },
     {
@@ -138,14 +168,20 @@
         "hydrogen ions"
       ],
       "question": "Give the overall rate equation for the reaction and include the units of the rate constant.",
-      "status": "pending",
-      "answer": "Depends on the orders from (b)(i) and (b)(ii), which need the PDF data",
-      "steps": [],
+      "status": "ready",
+      "answer": "Rate = k[Br-][BrO3-][H+]^2; units of k: dm9 mol-3 s-1",
+      "steps": [
+        "Orders: Br- first order, BrO3- first order, H+ second order, so rate = k[Br-][BrO3-][H+]^2 (overall order 4).",
+        "k = rate / ([Br-][BrO3-][H+]^2), so the units are (mol dm-3 s-1) / (mol dm-3)^4 = dm9 mol-3 s-1."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-02.jpg",
         "papers/chemistry/img/12A-Entropy-03.jpg",
         "papers/chemistry/img/12A-Entropy-04.jpg",
         "papers/chemistry/img/12A-Entropy-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q3-2.jpg"
       ]
     },
     {
@@ -163,14 +199,22 @@
         "R = 8.31"
       ],
       "question": "The rate constant for the reaction between a bromoalkane and cyanide ions is measured at five temperatures. Plot ln k against 1/T and use it to determine the activation energy, including the sign and units of the gradient. R = 8.31 J mol-1 K-1.",
-      "status": "pending",
-      "answer": "Needs the five data points from the PDF table; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Gradient is about -1.3 x 10^4 K, so Ea = +110 kJ mol-1 (about 1.1 x 10^2)",
+      "steps": [
+        "Plot ln k (y-axis) against 1/T (x-axis) using the five points (3.33 x 10^-3, -10.20), (3.23 x 10^-3, -8.92), (3.13 x 10^-3, -7.51), (3.03 x 10^-3, -6.21) and (2.93 x 10^-3, -4.93); label both axes and draw a straight line of best fit. The points lie on a line with a negative slope.",
+        "Gradient = change in ln k / change in 1/T = (-4.93 - (-10.20)) / (2.93 x 10^-3 - 3.33 x 10^-3) = 5.27 / (-4.0 x 10^-4) = -1.3 x 10^4 K (negative, in K).",
+        "From ln k = -Ea/R x 1/T + constant, the gradient = -Ea/R.",
+        "Ea = -gradient x R = 1.3 x 10^4 K x 8.31 J mol-1 K-1 = 1.1 x 10^5 J mol-1 = +110 kJ mol-1 (positive; give 2 s.f. as the line is read from a graph)."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-02.jpg",
         "papers/chemistry/img/12A-Entropy-03.jpg",
         "papers/chemistry/img/12A-Entropy-04.jpg",
         "papers/chemistry/img/12A-Entropy-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q3-5.jpg"
       ]
     },
     {
@@ -187,12 +231,19 @@
         "reactions P Q R S"
       ],
       "question": "The entropy changes of the surroundings and of the system are given for four reactions P, Q, R and S. Which are thermodynamically feasible? Options: A P only, B P and Q only, C R only, D R and S only.",
-      "status": "pending",
-      "answer": "The table of entropy values for P, Q, R and S is missing from the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: reactions P and Q only",
+      "steps": [
+        "A reaction is feasible if delta S total = delta S surroundings + delta S system is positive.",
+        "P: +245 + 34 = +279 (feasible). Q: +350 - 276 = +74 (feasible).",
+        "R: -482 + 65 = -417 and S: -563 - 128 = -691 are both negative, so not feasible."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-05.jpg",
         "papers/chemistry/img/12A-Entropy-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q4.jpg"
       ]
     },
     {
@@ -210,11 +261,17 @@
         "cement"
       ],
       "question": "For CaCO3(s) -> CaO(s) + CO2(g), deltaH = +178 kJ mol-1, what are the signs of deltaS system and deltaS surroundings? The option list is not in the extracted text.",
-      "status": "pending",
-      "answer": "Options are missing from the extracted text; expected answer is system positive and surroundings negative, check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: delta S system positive and delta S surroundings negative",
+      "steps": [
+        "The reaction makes a gas (CO2) from solids, so the disorder increases and delta S system is positive.",
+        "The reaction is endothermic (delta H = +178 kJ mol-1), so delta S surroundings = -delta H / T is negative."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q5.jpg"
       ]
     },
     {
@@ -393,11 +450,17 @@
         "standard molar entropy"
       ],
       "question": "Which sequence shows the elements in order of increasing standard entropy? The four options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Options are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Os(s) < Hg(l) < He(g) < O2(g)",
+      "steps": [
+        "Entropy increases from solid to liquid to gas, so Os(s) is lowest, then Hg(l), then the two gases.",
+        "Of the two gases, O2 is a diatomic molecule with more ways of storing energy and a higher standard entropy (205 J K-1 mol-1) than monatomic He (126 J K-1 mol-1), so He < O2."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q12.jpg"
       ]
     },
     {
@@ -442,12 +505,19 @@
         "tap opened"
       ],
       "question": "Flask P contains argon and flask Q is a vacuum; the tap is opened and the argon fills both flasks. How do the entropy and energy of the system change? The option list is not in the extracted text.",
-      "status": "pending",
-      "answer": "Options are missing from the extracted text; expected answer is entropy increases and energy stays the same, check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: entropy increases and energy is unchanged",
+      "steps": [
+        "The argon spreads into twice the volume, so there are more ways of arranging the atoms and the entropy of the system increases.",
+        "Argon is treated as an ideal gas with no intermolecular forces and no work is done against a vacuum, so the total energy of the gas stays the same."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-10.jpg",
         "papers/chemistry/img/12A-Entropy-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q14.jpg",
+        "papers/chemistry/fig/12A-Entropy-Q14-2.jpg"
       ]
     },
     {
@@ -463,12 +533,19 @@
         "entropy of substance"
       ],
       "question": "Which graph shows the entropy of a substance as it changes state from solid to liquid to gas? The four graphs are not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the four graphs from the PDF to be checked; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Graph 4",
+      "steps": [
+        "Entropy rises gradually as the temperature rises within each state, so the lines must slope upwards (Graphs 1 and 2 show flat lines, which is wrong).",
+        "There is a sudden jump in entropy at each change of state, and the jump at boiling (liquid to gas) is much larger than at melting (solid to liquid), because a gas is far more disordered.",
+        "Graph 3 has the larger jump at the first change of state, so only Graph 4 shows both features correctly."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-11.jpg",
         "papers/chemistry/img/12A-Entropy-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q15.jpg"
       ]
     },
     {
@@ -485,13 +562,20 @@
         "2N2O"
       ],
       "question": "Nitrous oxide, N2O, decomposes to nitrogen and oxygen. Using the standard molecular entropy data (table not in the extracted text), calculate the standard entropy change of the system, with sign and units.",
-      "status": "pending",
-      "answer": "Needs the standard entropy table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "+74.5 J K-1 mol-1",
+      "steps": [
+        "Delta S system = sum S(products) - sum S(reactants) = [S(N2) + 1/2 S(O2)] - S(N2O).",
+        "= (192 + 0.5 x 205) - 220 = 192 + 102.5 - 220.",
+        "= +74.5 J K-1 mol-1 (positive because 1.5 mol of gas forms from 1 mol)."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-12.jpg",
         "papers/chemistry/img/12A-Entropy-13.jpg",
         "papers/chemistry/img/12A-Entropy-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q16.jpg"
       ]
     },
     {
@@ -536,13 +620,20 @@
         "sign and units"
       ],
       "question": "Calculate the total entropy change of the reaction at 2048 K, with sign and units, using your answers to (a)(i) and (a)(ii).",
-      "status": "pending",
-      "answer": "Depends on the system entropy change from (a)(i), which needs the PDF table",
-      "steps": [],
+      "status": "ready",
+      "answer": "+114.5 J K-1 mol-1",
+      "steps": [
+        "Delta S total = delta S system + delta S surroundings.",
+        "= +74.5 + 40.0 (from (a)(ii)) = +114.5 J K-1 mol-1.",
+        "The value is positive, so the decomposition is thermodynamically feasible."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-12.jpg",
         "papers/chemistry/img/12A-Entropy-13.jpg",
         "papers/chemistry/img/12A-Entropy-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q16.jpg"
       ]
     },
     {
@@ -559,13 +650,21 @@
         "Arrhenius"
       ],
       "question": "From the rate graph for the decomposition of nitrous oxide, calculate the activation energy in kJ mol-1, including the value of the gradient.",
-      "status": "pending",
-      "answer": "Needs the graph from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Gradient about -2.9 x 10^4 K, so Ea about +2.4 x 10^2 kJ mol-1 (240 kJ mol-1)",
+      "steps": [
+        "Draw a large right-angled triangle on the line: for example from (0.00646, -189.1) to (0.00672, -196.6).",
+        "Gradient = change in ln k / change in 1/T = (-196.6 - (-189.1)) / (0.00672 - 0.00646) = -7.5 / 0.00026 = about -2.9 x 10^4 K.",
+        "Gradient = -Ea / R, so Ea = -(-2.9 x 10^4) x 8.31 = 2.4 x 10^5 J mol-1.",
+        "Ea = about +240 kJ mol-1 (accept a range for graph reading, about 230 to 250)."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-12.jpg",
         "papers/chemistry/img/12A-Entropy-13.jpg",
         "papers/chemistry/img/12A-Entropy-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q16-2.jpg"
       ]
     },
     {
@@ -582,13 +681,20 @@
         "2048 K"
       ],
       "question": "Explain whether or not this reaction occurs at 2048 K, considering the values calculated in (a) and (b).",
-      "status": "pending",
-      "answer": "Depends on the values from (a)(iii) and (b), which need the PDF data",
-      "steps": [],
+      "status": "ready",
+      "answer": "The reaction does occur at 2048 K: delta S total is positive (+114.5 J K-1 mol-1) so it is thermodynamically feasible, and at this very high temperature enough molecules exceed the large activation energy (about 240 kJ mol-1) for the rate to be significant.",
+      "steps": [
+        "Feasibility: delta S total from (a)(iii) is positive (+114.5 J K-1 mol-1), so the decomposition is thermodynamically feasible.",
+        "Kinetics: the activation energy is high (about 240 kJ mol-1), but the temperature is very high (2048 K), so a large fraction of molecules have energy greater than Ea and the rate is fast enough.",
+        "Both conditions are met, so the reaction occurs."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-12.jpg",
         "papers/chemistry/img/12A-Entropy-13.jpg",
         "papers/chemistry/img/12A-Entropy-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q16-2.jpg"
       ]
     },
     {
@@ -633,12 +739,20 @@
         "kJ mol-1"
       ],
       "question": "Using the table of rate constants at two temperatures, calculate Ea by a non-graphical method, giving the answer in kJ mol-1 with a sign and an appropriate number of significant figures.",
-      "status": "pending",
-      "answer": "Needs the table of rate constants and temperatures from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "+56.0 kJ mol-1",
+      "steps": [
+        "Convert to kelvin: T1 = 22.0 + 273 = 295 K and T2 = 47.0 + 273 = 320 K.",
+        "Write ln k at each temperature: ln k1 = -Ea/(R x 295) + c and ln k2 = -Ea/(R x 320) + c; subtract: ln(k2/k1) = (Ea/R)(1/T1 - 1/T2).",
+        "ln(2.92 x 10^-3 / 4.90 x 10^-4) = 1.785, and 1/295 - 1/320 = 2.648 x 10^-4 K-1.",
+        "Ea = 8.31 x 1.785 / 2.648 x 10^-4 = 5.60 x 10^4 J mol-1 = +56.0 kJ mol-1 (3 s.f., positive)."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-14.jpg",
         "papers/chemistry/img/12A-Entropy-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q17.jpg"
       ]
     },
     {
@@ -736,13 +850,20 @@
         "allotropes"
       ],
       "question": "Rhombic and monoclinic sulfur are interchangeable solid forms. The value of deltaStotal is given for the forward reaction. What can be concluded? The direction of the forward reaction is shown in a diagram not in the extracted text.",
-      "status": "pending",
-      "answer": "The forward reaction direction is in a diagram not in the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: monoclinic sulfur could change into rhombic sulfur but nothing can be deduced about the rate",
+      "steps": [
+        "Delta S total for the forward reaction (rhombic to monoclinic) is negative, so that direction is not feasible.",
+        "The reverse reaction (monoclinic to rhombic) therefore has a positive delta S total, so it is feasible.",
+        "Thermodynamics says nothing about the rate (the activation energy could be high), so nothing can be said about how quickly it happens."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-16.jpg",
         "papers/chemistry/img/12A-Entropy-17.jpg",
         "papers/chemistry/img/12A-Entropy-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q19.jpg"
       ]
     },
     {
@@ -760,13 +881,20 @@
         "table"
       ],
       "question": "For SiO2(s) + 4Mg(s) -> Mg2Si(s) + 2MgO(s), complete the table indicating the type of bonding in the reactants and products.",
-      "status": "pending",
-      "answer": "The table is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "SiO2: giant covalent (macromolecular); Mg: metallic; Mg2Si: covalent (given); MgO: ionic",
+      "steps": [
+        "SiO2 is a giant lattice of covalently bonded Si and O atoms.",
+        "Mg is a metal, so it has metallic bonding.",
+        "MgO is a compound of a metal and a non-metal, so it is ionic (Mg2+ and O2-)."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-16.jpg",
         "papers/chemistry/img/12A-Entropy-17.jpg",
         "papers/chemistry/img/12A-Entropy-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q20.jpg"
       ]
     },
     {
@@ -951,13 +1079,21 @@
         "J K-1 mol-1"
       ],
       "question": "Calculate the entropy change of the system, in J K-1 mol-1, for SiH4(g) + 2O2(g) -> SiO2(s) + 2H2O(l), using the entropy data shown.",
-      "status": "pending",
-      "answer": "Needs the entropy data table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "-432.9 J K-1 mol-1",
+      "steps": [
+        "Reaction 2: SiH4(g) + 2O2(g) -> SiO2(s) + 2H2O(l).",
+        "Sum S(products) = 41.8 + 2 x 69.9 = 181.6 J K-1 mol-1.",
+        "Sum S(reactants) = 204.5 + 2 x 205.0 = 614.5 J K-1 mol-1.",
+        "Delta S system = 181.6 - 614.5 = -432.9 J K-1 mol-1 (negative because 3 mol of gas become liquid and solid)."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-16.jpg",
         "papers/chemistry/img/12A-Entropy-17.jpg",
         "papers/chemistry/img/12A-Entropy-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q20-2.jpg"
       ]
     },
     {
@@ -1001,12 +1137,20 @@
         "system"
       ],
       "question": "The equations for three reactions involving hydrogen (J, K, L) are shown in a diagram not in the extracted text. What is the order of increasing standard entropy change of the system? Options: A J, K, L; B K, L, J; C K, J, L; D L, K, J.",
-      "status": "pending",
-      "answer": "The three equations are in a diagram not in the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: K, J, L",
+      "steps": [
+        "Count the change in moles of gas: J goes from 4 mol of gas to 2 mol of gas (decrease of 2 mol of gas).",
+        "K goes from 3 mol of gas to 0 mol of gas (a liquid forms), the largest decrease in disorder, so it has the most negative delta S.",
+        "L goes from 1 mol of gas (plus a solid) to 2 mol of gas, so the entropy increases and delta S is positive.",
+        "Increasing order of delta S system: K (most negative), then J, then L."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-18.jpg",
         "papers/chemistry/img/12A-Entropy-19.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q21.jpg"
       ]
     },
     {
@@ -1023,12 +1167,18 @@
         "signs"
       ],
       "question": "What are the signs of the entropy changes at 373 K when water vapour condenses? The option list is not in the extracted text.",
-      "status": "pending",
-      "answer": "Options are missing from the extracted text; expected answer is system negative and surroundings positive, check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: delta S system negative, delta S surroundings positive",
+      "steps": [
+        "Gas condensing to liquid becomes more ordered, so delta S system is negative.",
+        "Condensation releases heat (it is exothermic) to the surroundings, so delta S surroundings = -delta H / T is positive."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-19.jpg",
         "papers/chemistry/img/12A-Entropy-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q22.jpg"
       ]
     },
     {
@@ -1046,12 +1196,20 @@
         "J K-1 mol-1"
       ],
       "question": "Methane reacts with steam to form carbon dioxide and hydrogen. Using the standard molar entropies in the table (not in the extracted text), find the entropy change for the reaction. Options: A -174, B -30, C +30, D +174.",
-      "status": "pending",
-      "answer": "The standard molar entropy table is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: +174 J K-1 mol-1",
+      "steps": [
+        "Delta S = sum S(products) - sum S(reactants).",
+        "Products: 214 + 4 x 131 = 214 + 524 = 738 J K-1 mol-1.",
+        "Reactants: 186 + 2 x 189 = 186 + 378 = 564 J K-1 mol-1.",
+        "Delta S = 738 - 564 = +174 J K-1 mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-19.jpg",
         "papers/chemistry/img/12A-Entropy-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q23.jpg"
       ]
     },
     {
@@ -1067,12 +1225,20 @@
         "reactions W X Y Z"
       ],
       "question": "Some thermodynamic information is given for four reactions W, X, Y and Z at 298 K. Which are feasible? Options: A X only, B W and X only, C Y only, D W and Z only.",
-      "status": "pending",
-      "answer": "The thermodynamic data table for W, X, Y and Z is missing from the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: W and X only",
+      "steps": [
+        "A reaction is feasible when delta S total > 0, which means T delta S system > delta H (delta G = delta H - T delta S system < 0).",
+        "W: delta H is negative and more negative than T delta S system, so delta H < T delta S system: feasible.",
+        "X: delta H negative and T delta S system positive: always feasible.",
+        "Y: T delta S system is positive but smaller than delta H, so T delta S system < delta H: not feasible. Z: delta H positive and T delta S system negative: never feasible."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-20.jpg",
         "papers/chemistry/img/12A-Entropy-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q24.jpg"
       ]
     },
     {
@@ -1089,12 +1255,19 @@
         "pair of values"
       ],
       "question": "Which pair of values will always give a thermodynamically feasible reaction? The option list is not in the extracted text.",
-      "status": "pending",
-      "answer": "Options are missing from the extracted text; the expected pair is deltaH negative and deltaS positive, check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: entropy change of the system positive and enthalpy change negative",
+      "steps": [
+        "A reaction is feasible when delta S total = delta S system - delta H / T is positive.",
+        "If delta S system is positive and delta H is negative, both terms are positive, so delta S total is positive at every temperature.",
+        "The other combinations give a negative term that can outweigh the other at some temperatures."
+      ],
       "images": [
         "papers/chemistry/img/12A-Entropy-20.jpg",
         "papers/chemistry/img/12A-Entropy-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q25.jpg"
       ]
     },
     {

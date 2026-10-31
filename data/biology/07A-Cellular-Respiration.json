@@ -164,13 +164,20 @@
         "significant figures"
       ],
       "question": "The muscle strength before moderate training was 12.5 a.u. Calculate the muscle strength after 12 weeks of moderate training, to 3 significant figures.",
-      "status": "pending",
-      "answer": "Needs the graph value of muscle strength after 12 weeks of moderate training (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "15.9 a.u.",
+      "steps": [
+        "Read the left-hand graph: the percentage increase in strength after moderate training is about 27.5%.",
+        "Increase in strength = 12.5 x 27.5 / 100 = 3.44 a.u.",
+        "Strength after 12 weeks = 12.5 + 3.44 = 15.9 a.u. (3 s.f.); equivalent to 12.5 x 1.275 = 15.9."
+      ],
       "images": [
         "papers/biology/img/07A-Cellular-Respiration-02.jpg",
         "papers/biology/img/07A-Cellular-Respiration-03.jpg",
         "papers/biology/img/07A-Cellular-Respiration-04.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07A-Cellular-Respiration-Q2.jpg"
       ]
     },
     {
@@ -201,6 +208,9 @@
         "papers/biology/img/07A-Cellular-Respiration-02.jpg",
         "papers/biology/img/07A-Cellular-Respiration-03.jpg",
         "papers/biology/img/07A-Cellular-Respiration-04.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07A-Cellular-Respiration-Q2.jpg"
       ]
     },
     {
@@ -218,13 +228,21 @@
         "graph"
       ],
       "question": "Comment on the effect of exercise on this muscle, using the information in the graphs and the table.",
-      "status": "pending",
-      "answer": "Needs the strength and cross-sectional area graphs and the fibre-type table (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Training increases strength and muscle size, more with moderate than low training, and changes fibre type: fast twitch fibres fall (6% to 1%) and intermediate fibres rise (50% to 55%), while slow twitch stays at 44%.",
+      "steps": [
+        "Strength increased by about 22% after low training and about 27.5% after moderate training, so more training gave a greater increase.",
+        "The cross-sectional area rose by about 2.1 cm^2 with low training and by 3 cm^2 or more with moderate training; the extra strength is linked to larger muscle (more myofibrils in the fibres).",
+        "Fibre types changed: fast twitch fell from 6% to 2% (low) and 1% (moderate), and intermediate rose from 50% to 54% and 55%, so fast fibres became intermediate fibres; slow twitch stayed at 44%.",
+        "Limitation: only one muscle or a small sample is shown, so the effect may not be general."
+      ],
       "images": [
         "papers/biology/img/07A-Cellular-Respiration-02.jpg",
         "papers/biology/img/07A-Cellular-Respiration-03.jpg",
         "papers/biology/img/07A-Cellular-Respiration-04.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07A-Cellular-Respiration-Q2.jpg"
       ]
     },
     {
@@ -242,13 +260,20 @@
         "table"
       ],
       "question": "Complete the table to show one other product of each stage of aerobic respiration that also produces ATP.",
-      "status": "pending",
-      "answer": "Needs the table of respiration stages and product boxes (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Glycolysis: pyruvate (or reduced NAD); Krebs cycle: carbon dioxide (or reduced NAD or reduced FAD); oxidative phosphorylation: water.",
+      "steps": [
+        "Glycolysis splits glucose into two pyruvate molecules and also gives reduced NAD; either pyruvate or reduced NAD is accepted.",
+        "The Krebs cycle gives CO2 (decarboxylation), as well as reduced NAD and reduced FAD.",
+        "In oxidative phosphorylation oxygen accepts electrons and H+ at the end of the electron transport chain, forming water (and oxidised NAD and FAD)."
+      ],
       "images": [
         "papers/biology/img/07A-Cellular-Respiration-04.jpg",
         "papers/biology/img/07A-Cellular-Respiration-05.jpg",
         "papers/biology/img/07A-Cellular-Respiration-06.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07A-Cellular-Respiration-Q3.jpg"
       ]
     },
     {
@@ -266,13 +291,20 @@
         "stoichiometry"
       ],
       "question": "Complete the incomplete equation for the aerobic respiration of a substrate by inserting the numbers that balance it.",
-      "status": "pending",
-      "answer": "Needs the incomplete equation with dotted lines (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C57H104O6 + 80 O2 -> 57 CO2 + 52 H2O",
+      "steps": [
+        "Carbon: 57 C on the left, so 57 CO2 on the right.",
+        "Hydrogen: 104 H on the left gives 52 H2O, which matches the equation.",
+        "Oxygen on the right = (57 x 2) + 52 = 166 atoms; the substrate supplies 6, so O2 must supply 160 atoms, so 80 O2."
+      ],
       "images": [
         "papers/biology/img/07A-Cellular-Respiration-04.jpg",
         "papers/biology/img/07A-Cellular-Respiration-05.jpg",
         "papers/biology/img/07A-Cellular-Respiration-06.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07A-Cellular-Respiration-Q3-2.jpg"
       ]
     },
     {
@@ -407,14 +439,21 @@
         "stages"
       ],
       "question": "Which row of the table shows the location of each of the three stages of aerobic respiration with enzyme-catalysed reactions?",
-      "status": "pending",
-      "answer": "Needs the table of locations (rows) for each stage (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: glycolysis in the cytoplasm, link reaction and Krebs cycle in the mitochondrial matrix.",
+      "steps": [
+        "Glycolysis occurs in the cytoplasm, because the enzymes for splitting glucose are free in the cell cytosol.",
+        "The link reaction and Krebs cycle occur in the mitochondrial matrix, which contains the enzymes for them.",
+        "Only row B has cytoplasm, matrix, matrix."
+      ],
       "images": [
         "papers/biology/img/07A-Cellular-Respiration-06.jpg",
         "papers/biology/img/07A-Cellular-Respiration-07.jpg",
         "papers/biology/img/07A-Cellular-Respiration-08.jpg",
         "papers/biology/img/07A-Cellular-Respiration-09.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07A-Cellular-Respiration-Q4.jpg"
       ]
     },
     {
@@ -463,14 +502,20 @@
         "expected changes"
       ],
       "question": "Hydramethylnon inhibits the electron transport chain. Which row of the table shows the expected changes caused by hydramethylnon?",
-      "status": "pending",
-      "answer": "Needs the table of rows showing expected changes (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: oxygen consumption decreases and lactate production increases.",
+      "steps": [
+        "If the electron transport chain is inhibited, oxygen is not used as the final electron acceptor, so oxygen consumption decreases.",
+        "Less ATP is made by oxidative phosphorylation, so cells make ATP from glycolysis alone (anaerobic respiration), which makes lactate, so lactate production increases."
+      ],
       "images": [
         "papers/biology/img/07A-Cellular-Respiration-06.jpg",
         "papers/biology/img/07A-Cellular-Respiration-07.jpg",
         "papers/biology/img/07A-Cellular-Respiration-08.jpg",
         "papers/biology/img/07A-Cellular-Respiration-09.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07A-Cellular-Respiration-Q4-2.jpg"
       ]
     },
     {
@@ -488,14 +533,22 @@
         "calculation"
       ],
       "question": "Calculate how many times greater the metabolic rate of the field mouse is than that of the southern elephant seal, using the oxygen consumption and body mass data.",
-      "status": "pending",
-      "answer": "Needs the table of oxygen consumption and body mass for the two animals (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 549 times (5.49 x 10^2)",
+      "steps": [
+        "Metabolic rate = oxygen consumption / body mass, in cm^3 g^-1 h^-1.",
+        "Southern elephant seal: 1.82 x 10^4 / 5.00 x 10^6 = 3.64 x 10^-3 cm^3 g^-1 h^-1.",
+        "Field mouse: 20.00 / 10.00 = 2.00 cm^3 g^-1 h^-1.",
+        "Ratio = 2.00 / 3.64 x 10^-3 = 549 (about 550), so the mouse's metabolic rate is about 549 times greater."
+      ],
       "images": [
         "papers/biology/img/07A-Cellular-Respiration-06.jpg",
         "papers/biology/img/07A-Cellular-Respiration-07.jpg",
         "papers/biology/img/07A-Cellular-Respiration-08.jpg",
         "papers/biology/img/07A-Cellular-Respiration-09.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07A-Cellular-Respiration-Q4-3.jpg"
       ]
     },
     {
@@ -513,14 +566,24 @@
         "saltwater"
       ],
       "question": "Discuss the roles of aerobic and anaerobic respiration in the active crocodiles, using the lactate production graph and your own knowledge.",
-      "status": "pending",
-      "answer": "Needs the graph of lactate production rate for individual crocodiles (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Active crocodiles use both: aerobic respiration gives most ATP for sustained activity, while anaerobic respiration (lactate production) gives fast extra ATP, used most by small crocodiles and much less per gram by large ones.",
+      "steps": [
+        "Lactate is only produced by anaerobic respiration, so every active crocodile in the graph is making some ATP anaerobically, giving ATP rapidly in bursts of activity (for example to catch prey or escape) when oxygen supply to muscles cannot keep up.",
+        "The graph shows that the lactate production rate depends on body mass: about 5 to 10 micromol min^-1 g^-1 in crocodiles of 0.3 to 20 kg, falling to about 1 micromol min^-1 g^-1 at about 200 kg, so smaller crocodiles rely more on anaerobic respiration per gram.",
+        "Small crocodiles have a higher metabolic rate per gram (larger surface area to volume ratio), so their oxygen supply is less able to meet demand and they use anaerobic respiration more; large crocodiles rely more on aerobic respiration.",
+        "Aerobic respiration (link reaction, Krebs cycle, oxidative phosphorylation in mitochondria) gives about 32 to 38 ATP per glucose and no lactate, so it supports longer activity and is used to recover after exercise.",
+        "Anaerobic respiration (glycolysis only) gives only 2 ATP per glucose and lactate lowers pH in muscle, causing fatigue, so it can only be used for a short time; lactate is later removed by aerobic respiration (oxygen debt).",
+        "Each point is one crocodile, so there is considerable scatter (for example about 3 to 10 at 0.3 kg), and the trend line is only a general guide."
+      ],
       "images": [
         "papers/biology/img/07A-Cellular-Respiration-06.jpg",
         "papers/biology/img/07A-Cellular-Respiration-07.jpg",
         "papers/biology/img/07A-Cellular-Respiration-08.jpg",
         "papers/biology/img/07A-Cellular-Respiration-09.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07A-Cellular-Respiration-Q4-4.jpg"
       ]
     },
     {
@@ -538,13 +601,20 @@
         "measurement"
       ],
       "question": "The mitochondrion is 2000 nm long. Calculate its width between X and Y in the micrograph.",
-      "status": "pending",
-      "answer": "Needs the micrograph to measure X to Y against the mitochondrion length (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 640 nm (accept 600 to 680 nm)",
+      "steps": [
+        "Measure the length of the mitochondrion on the micrograph along its long axis: about 79 mm on the printed page.",
+        "Measure the distance X to Y in the same units: about 25 mm.",
+        "Scale: 79 mm on the picture = 2000 nm, so width = (25 / 79) x 2000 = about 640 nm."
+      ],
       "images": [
         "papers/biology/img/07A-Cellular-Respiration-09.jpg",
         "papers/biology/img/07A-Cellular-Respiration-10.jpg",
         "papers/biology/img/07A-Cellular-Respiration-11.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07A-Cellular-Respiration-Q5.jpg"
       ]
     },
     {
@@ -1239,12 +1309,19 @@
         "glucose"
       ],
       "question": "Which is the correct order of the stages of respiration required for the complete oxidation of glucose? The options are not in the text.",
-      "status": "pending",
-      "answer": "Needs the list of options for the order of stages (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: glycolysis, link reaction, Krebs cycle.",
+      "steps": [
+        "Glucose is first split into pyruvate by glycolysis in the cytoplasm.",
+        "Pyruvate then enters the mitochondrion for the link reaction, which makes acetyl CoA.",
+        "Acetyl CoA is then oxidised in the Krebs cycle, so the order is glycolysis, link reaction, Krebs cycle (row B)."
+      ],
       "images": [
         "papers/biology/img/07A-Cellular-Respiration-20.jpg",
         "papers/biology/img/07A-Cellular-Respiration-21.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07A-Cellular-Respiration-Q10.jpg"
       ]
     },
     {
@@ -1405,13 +1482,20 @@
         "calculation"
       ],
       "question": "The actual length of the mitochondrion between X and Y is 2.7 m (as stated). Calculate the magnification, in standard form.",
-      "status": "pending",
-      "answer": "Needs the length of the mitochondrion between X and Y measured on the photograph (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 1.6 x 10^4 (accept 1.5 to 1.7 x 10^4)",
+      "steps": [
+        "Measure the length of the mitochondrion between the lines X and Y on the photograph: about 44 mm.",
+        "Convert the actual length to the same unit: 2.7 micrometres = 2.7 x 10^-3 mm.",
+        "Magnification = image size / actual size = 44 / 2.7 x 10^-3 = about 16 000 = 1.6 x 10^4."
+      ],
       "images": [
         "papers/biology/img/07A-Cellular-Respiration-21.jpg",
         "papers/biology/img/07A-Cellular-Respiration-22.jpg",
         "papers/biology/img/07A-Cellular-Respiration-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07A-Cellular-Respiration-Q11.jpg"
       ]
     },
     {

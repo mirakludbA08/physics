@@ -1208,12 +1208,12 @@
       ],
       "question": "Calculate the reaction rate (V) at a substrate concentration of 4 a.u. using the given formula.",
       "status": "ready",
-      "answer": "33 a.u. (33.3)",
+      "answer": "about 34 a.u. (33.3 if K is taken as 2; accept 33-34)",
       "steps": [
         "Vmax is the plateau of the graph: 50 a.u.",
-        "K is the concentration at half Vmax (25 a.u.), read from the curve as about 2 a.u.",
-        "V = (Vmax x S) / (K + S) = (50 x 4) / (2 + 4).",
-        "= 200 / 6 = 33.3, so about 33 a.u."
+        "K is the substrate concentration at half Vmax (25 a.u.): reading the curve gives about 1.9, so roughly 2 a.u.",
+        "V = (Vmax x S) / (K + S) = (50 x 4) / (1.9 + 4).",
+        "= 200 / 5.9 = 33.9, so about 34 a.u. (K = 2 gives 33.3)."
       ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-18.jpg",
@@ -1514,12 +1514,20 @@
         "ial biology"
       ],
       "question": "Calculate the rate of decrease in clotting time at two days after stopping warfarin, using a tangent.",
-      "status": "pending",
-      "answer": "Missing: the clotting time graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "4 s per day (rate of decrease of clotting time; accept 3.5-4.5)",
+      "steps": [
+        "Draw a tangent to the curve at day 2, where the clotting time is 21 s.",
+        "The tangent passes through about (0 days, 29 s) and (4 days, 13 s).",
+        "Gradient = change in time / change in days = (13 - 29) / (4 - 0) = -4 s per day.",
+        "So the clotting time is decreasing at about 4 s per day at day 2."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-26.jpg",
         "papers/biology/img/02B-Proteins-DNA-27.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q11.jpg"
       ]
     },
     {
@@ -1539,13 +1547,21 @@
         "ial biology"
       ],
       "question": "Complete the table by filling the empty boxes with monomer names, elements or bond types.",
-      "status": "pending",
-      "answer": "Missing: the table is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Polysaccharide monomer: carbon, hydrogen, oxygen. Nucleic acid: monomer nucleotide, bond phosphodiester. Protein monomer (amino acid): carbon, hydrogen, oxygen, nitrogen (sometimes sulfur).",
+      "steps": [
+        "Monosaccharides contain only carbon, hydrogen and oxygen.",
+        "The monomer of a nucleic acid is a (mono)nucleotide.",
+        "Nucleotides are joined by phosphodiester bonds (between the phosphate of one and the sugar of the next).",
+        "Amino acids contain carbon, hydrogen, oxygen and nitrogen, and some also contain sulfur."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-27.jpg",
         "papers/biology/img/02B-Proteins-DNA-28.jpg",
         "papers/biology/img/02B-Proteins-DNA-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q12.jpg"
       ]
     },
     {
@@ -1594,13 +1610,22 @@
         "ial biology"
       ],
       "question": "Which diagram shows a mononucleotide?",
-      "status": "pending",
-      "answer": "Missing: the diagram options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B",
+      "steps": [
+        "A mononucleotide is one phosphate, one pentose sugar and one base.",
+        "The base is joined to carbon 1 of the sugar and the phosphate to the CH2 (carbon 5) on carbon 4, and carbons 1 and 4 lie either side of the ring oxygen, so the two attachments are on non-adjacent corners of the pentagon.",
+        "B shows the phosphate and base on the two sides of the pentagon with one corner between them.",
+        "In A, C and D the phosphate and base are joined to neighbouring corners, so they are wrong."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-29.jpg",
         "papers/biology/img/02B-Proteins-DNA-30.jpg",
         "papers/biology/img/02B-Proteins-DNA-31.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q13.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q13-2.jpg"
       ]
     },
     {
@@ -1619,13 +1644,22 @@
         "ial biology"
       ],
       "question": "Which diagram shows two components joined by a phosphodiester bond?",
-      "status": "pending",
-      "answer": "Missing: the diagram options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B",
+      "steps": [
+        "A phosphodiester bond is the covalent bond between a phosphate group and a sugar.",
+        "It joins one nucleotide to the next in the sugar-phosphate backbone.",
+        "B shows a pentagon (sugar) joined to a circle (phosphate).",
+        "A is sugar to base, C is phosphate to phosphate and D is base to phosphate, so none of these is correct."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-29.jpg",
         "papers/biology/img/02B-Proteins-DNA-30.jpg",
         "papers/biology/img/02B-Proteins-DNA-31.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q13.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q13-3.jpg"
       ]
     },
     {
@@ -1645,13 +1679,22 @@
         "ial biology"
       ],
       "question": "Which diagram shows complementary base pairing?",
-      "status": "pending",
-      "answer": "Missing: the diagram options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C",
+      "steps": [
+        "Complementary base pairs are a purine paired with a pyrimidine: here a large rectangle with a small square.",
+        "The bases are held together by hydrogen bonds, shown as dashed lines.",
+        "C shows a square and a rectangle joined by dashed lines.",
+        "A and B use solid lines (covalent bonds) and D joins two rectangles, so they are wrong."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-29.jpg",
         "papers/biology/img/02B-Proteins-DNA-30.jpg",
         "papers/biology/img/02B-Proteins-DNA-31.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q13.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q13-4.jpg"
       ]
     },
     {
@@ -1671,13 +1714,22 @@
         "ial biology"
       ],
       "question": "For each statement about the new complementary DNA strand and the mRNA strand, tick the correct box.",
-      "status": "pending",
-      "answer": "Missing: the base sequence diagram and statement table are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Guanines the same as template: neither strand. Thymines equal to adenines in template: only the new complementary DNA strand. No adenine present: neither strand.",
+      "steps": [
+        "Template: A T T G G C G A G A A C has 4 A, 2 T, 4 G and 2 C.",
+        "New DNA strand: T A A C C G C T C T T G. It has 2 G (not 4), 4 T (equal to the template's 4 A) and contains adenine.",
+        "mRNA: U A A C C G C U C U U G. It has 2 G, no thymine (uracil replaces it) and does contain adenine.",
+        "So: statement 1 is neither strand, statement 2 is only the new DNA strand, statement 3 is neither strand."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-29.jpg",
         "papers/biology/img/02B-Proteins-DNA-30.jpg",
         "papers/biology/img/02B-Proteins-DNA-31.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q13-5.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q13-6.jpg"
       ]
     },
     {
@@ -1816,13 +1868,20 @@
         "ial biology"
       ],
       "question": "Complete the diagram showing the base sequence on the other RNA strand.",
-      "status": "pending",
-      "answer": "Missing: the base sequence diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "G  U  C  U  U  U  C (left to right, bottom row)",
+      "steps": [
+        "The two RNA strands are complementary, with A pairing with U and G pairing with C.",
+        "Top strand C A G A A A G, so the bottom strand is G U C U U U C.",
+        "RNA has uracil, not thymine, so every A on the top strand pairs with U."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-32.jpg",
         "papers/biology/img/02B-Proteins-DNA-33.jpg",
         "papers/biology/img/02B-Proteins-DNA-34.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q14.jpg"
       ]
     },
     {
@@ -1986,6 +2045,9 @@
         "papers/biology/img/02B-Proteins-DNA-35.jpg",
         "papers/biology/img/02B-Proteins-DNA-36.jpg",
         "papers/biology/img/02B-Proteins-DNA-37.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q15-2.jpg"
       ]
     },
     {
@@ -2003,14 +2065,22 @@
         "ial biology"
       ],
       "question": "Explain the effects of pH on the activity of free and immobilised lactase, using the table.",
-      "status": "pending",
-      "answer": "Missing: the table of pH and activity values is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both enzymes work best at pH 5 and lose activity either side of it, but immobilised lactase keeps more activity at extreme pH.",
+      "steps": [
+        "Both enzymes have their highest activity at pH 5 (free 94 a.u., immobilised 98 a.u.) and the activity falls either side of the optimum.",
+        "Away from the optimum, extra H+ or OH- ions break ionic and hydrogen bonds, changing the tertiary structure and the shape of the active site, so fewer enzyme-substrate complexes form.",
+        "At pH 2 both are 0 because the enzyme is denatured.",
+        "Immobilised lactase is more active than free lactase at pH 3 (38 against 0) and at pH 6 to 8 (e.g. 76 against 63 at pH 6), because the bead protects the enzyme from the surrounding pH so it is less denatured."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-34.jpg",
         "papers/biology/img/02B-Proteins-DNA-35.jpg",
         "papers/biology/img/02B-Proteins-DNA-36.jpg",
         "papers/biology/img/02B-Proteins-DNA-37.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q15.jpg"
       ]
     },
     {
@@ -2241,6 +2311,9 @@
         "papers/biology/img/02B-Proteins-DNA-41.jpg",
         "papers/biology/img/02B-Proteins-DNA-42.jpg",
         "papers/biology/img/02B-Proteins-DNA-43.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q17.jpg"
       ]
     },
     {
@@ -2330,15 +2403,24 @@
         "ial biology"
       ],
       "question": "Complete the diagram showing the results of the Meselson and Stahl experiment.",
-      "status": "pending",
-      "answer": "Missing: the flow chart and band diagram are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Stage 2: one full-width band on the middle dotted line. Stage 3: two bands, one on the top line and one on the middle line, each half width.",
+      "steps": [
+        "Heavy (15N) DNA sits on the bottom line, hybrid DNA in the middle and light (14N) DNA on the top line.",
+        "After stage 2 all DNA molecules are hybrid (one old heavy strand, one new light strand): a single full-width band on the middle line.",
+        "After stage 3 half the molecules are hybrid and half are all light, so there are two bands, each half the width of the stage 1 band.",
+        "The light band is on the top dotted line and the hybrid band on the middle dotted line."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-39.jpg",
         "papers/biology/img/02B-Proteins-DNA-40.jpg",
         "papers/biology/img/02B-Proteins-DNA-41.jpg",
         "papers/biology/img/02B-Proteins-DNA-42.jpg",
         "papers/biology/img/02B-Proteins-DNA-43.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q17-2.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q17-3.jpg"
       ]
     },
     {
@@ -2358,15 +2440,24 @@
         "ial biology"
       ],
       "question": "Complete the diagram showing band positions if the conservative theory were correct.",
-      "status": "pending",
-      "answer": "Missing: the conservative theory diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Stage 2: two bands, a half-width heavy band on the bottom line and a half-width light band on the top line.",
+      "steps": [
+        "In the conservative theory the original double helix stays intact and a completely new molecule is made.",
+        "After one generation in 14N there is one all-heavy molecule (the original) and one all-light molecule (new).",
+        "The heavy molecule gives a band at the bottom dotted line (as in stage 1) and the light one a band at the top dotted line.",
+        "There is no band in the middle line, and each band is half the width of the stage 1 band."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-39.jpg",
         "papers/biology/img/02B-Proteins-DNA-40.jpg",
         "papers/biology/img/02B-Proteins-DNA-41.jpg",
         "papers/biology/img/02B-Proteins-DNA-42.jpg",
         "papers/biology/img/02B-Proteins-DNA-43.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q17-4.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q17-5.jpg"
       ]
     },
     {
@@ -2386,15 +2477,24 @@
         "ial biology"
       ],
       "question": "Complete the diagram showing band positions if the dispersive theory were correct.",
-      "status": "pending",
-      "answer": "Missing: the dispersive theory diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Stage 2: one full-width band on the middle dotted line.",
+      "steps": [
+        "In the dispersive theory each new molecule is a mixture of old heavy and new light segments.",
+        "So after stage 2 both molecules have the same intermediate density.",
+        "They form a single band at the middle dotted line, with the full width of the stage 1 band.",
+        "No bands appear on the top or bottom lines."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-39.jpg",
         "papers/biology/img/02B-Proteins-DNA-40.jpg",
         "papers/biology/img/02B-Proteins-DNA-41.jpg",
         "papers/biology/img/02B-Proteins-DNA-42.jpg",
         "papers/biology/img/02B-Proteins-DNA-43.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q17-6.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q17-7.jpg"
       ]
     },
     {
@@ -2478,13 +2578,21 @@
         "ial biology"
       ],
       "question": "Calculate the effect on the rate of reaction of each degree increase between 46 C and 50 C (2 s.f.).",
-      "status": "pending",
-      "answer": "Missing: the rate values are read from the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "-8.5 a.u. per degree C (the rate falls; accept 8.5 to 8.8)",
+      "steps": [
+        "Read the rate at 46 C from the graph: about 54 a.u.",
+        "Read the rate at 50 C: 20 a.u.",
+        "Change in rate = 20 - 54 = -34 a.u. over 4 C (50 - 46).",
+        "Change per degree = -34 / 4 = -8.5 a.u. per C (2 significant figures), a decrease."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-43.jpg",
         "papers/biology/img/02B-Proteins-DNA-44.jpg",
         "papers/biology/img/02B-Proteins-DNA-45.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q18.jpg"
       ]
     },
     {
@@ -2515,6 +2623,9 @@
         "papers/biology/img/02B-Proteins-DNA-43.jpg",
         "papers/biology/img/02B-Proteins-DNA-44.jpg",
         "papers/biology/img/02B-Proteins-DNA-45.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q18.jpg"
       ]
     },
     {
@@ -2532,14 +2643,22 @@
         "ial biology"
       ],
       "question": "Draw a diagram of a phospholipid using the information in the table.",
-      "status": "pending",
-      "answer": "Missing: the table of phospholipid components is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Glycerol (hatched rectangle) with one phosphate (circle) and two fatty acids (open rectangles) each joined to it by a bond line.",
+      "steps": [
+        "Draw the hatched glycerol rectangle upright.",
+        "Join one phosphate circle to one end of the glycerol with a line (bond).",
+        "Join two fatty acid rectangles to the other two positions on the glycerol, each with a line.",
+        "The two fatty acids run parallel, side by side, away from the glycerol."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-45.jpg",
         "papers/biology/img/02B-Proteins-DNA-46.jpg",
         "papers/biology/img/02B-Proteins-DNA-47.jpg",
         "papers/biology/img/02B-Proteins-DNA-48.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q19.jpg"
       ]
     },
     {
@@ -2559,14 +2678,22 @@
         "ial biology"
       ],
       "question": "Which diagram shows an ester bond?",
-      "status": "pending",
-      "answer": "Missing: the diagram options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C",
+      "steps": [
+        "An ester bond is C-O-C=O, formed between a carboxyl group and a hydroxyl group.",
+        "It joins a fatty acid to glycerol in a phospholipid.",
+        "C shows the carbon, an oxygen link, then a carbon with a double bond to oxygen.",
+        "A is a peptide bond (N-C=O), B has no linking oxygen and D has an N-O link, so they are wrong."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-45.jpg",
         "papers/biology/img/02B-Proteins-DNA-46.jpg",
         "papers/biology/img/02B-Proteins-DNA-47.jpg",
         "papers/biology/img/02B-Proteins-DNA-48.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q19-2.jpg"
       ]
     },
     {
@@ -2618,14 +2745,22 @@
         "ial biology"
       ],
       "question": "Which row of the table describes an unsaturated fatty acid compared with a saturated fatty acid with the same number of carbons?",
-      "status": "pending",
-      "answer": "Missing: the table rows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: has double bonds between two carbons; fewer hydrogens than the saturated fatty acid",
+      "steps": [
+        "An unsaturated fatty acid has one or more C=C double bonds.",
+        "Each double bond means two fewer hydrogens are attached to the carbon chain.",
+        "So with the same number of carbons it has fewer hydrogens than the saturated acid.",
+        "C is correct."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-45.jpg",
         "papers/biology/img/02B-Proteins-DNA-46.jpg",
         "papers/biology/img/02B-Proteins-DNA-47.jpg",
         "papers/biology/img/02B-Proteins-DNA-48.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q19-3.jpg"
       ]
     },
     {
@@ -2808,13 +2943,21 @@
         "ial biology"
       ],
       "question": "Which arrow on the energy graph shows the energy required to start the reaction?",
-      "status": "pending",
-      "answer": "Missing: the energy graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B",
+      "steps": [
+        "Activation energy is the energy needed to start the reaction, from the energy of the reactants up to the peak.",
+        "Arrow Q goes from the reactant level up to the top of the energy hill.",
+        "P is the energy of the reactants above the base line, and R and S are measured from the product level or axis.",
+        "So Q is correct."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-48.jpg",
         "papers/biology/img/02B-Proteins-DNA-49.jpg",
         "papers/biology/img/02B-Proteins-DNA-50.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q20.jpg"
       ]
     },
     {
@@ -2834,13 +2977,21 @@
         "ial biology"
       ],
       "question": "Explain why E1 cannot convert AB into AC or AC into D, using the diagram.",
-      "status": "pending",
-      "answer": "Missing: the reaction pathway diagram with enzymes E1, E2 and E3 is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Enzymes are specific: E1's active site fits only A and B, so it cannot bind AB or AC.",
+      "steps": [
+        "Each enzyme has an active site with a specific shape complementary to one substrate.",
+        "The substrates of E1 are A and B. AB and AC have different shapes from A and B, so they do not fit E1's active site.",
+        "So no enzyme-substrate complex forms, and E1 cannot catalyse AB to AC or AC to D.",
+        "Separate enzymes, E2 and E3, are needed for those steps."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-48.jpg",
         "papers/biology/img/02B-Proteins-DNA-49.jpg",
         "papers/biology/img/02B-Proteins-DNA-50.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q20-2.jpg"
       ]
     },
     {
@@ -2859,13 +3010,21 @@
         "ial biology"
       ],
       "question": "Describe two conclusions from the table of rates at different pH and temperature combinations.",
-      "status": "pending",
-      "answer": "Missing: the table of rates is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1. pectinase works best at pH 4 and 30 C (35 a.u.). 2. At pH 2 or at 60 C there is no activity at all.",
+      "steps": [
+        "The highest rate is 35 a.u. at pH 4 and 30 C, so this is the best of the combinations tested.",
+        "At pH 2 the rate is 0 at all temperatures, and at 60 C it is 0 at all pHs, so extreme pH and high temperature denature the enzyme.",
+        "At 30 C the rate is much higher at pH 4 (35) than at pH 8 (10), so pH 4 is closer to the optimum.",
+        "At 5 C the rate is low (5 a.u.) at both pH 4 and pH 8, so low temperature slows the reaction."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-48.jpg",
         "papers/biology/img/02B-Proteins-DNA-49.jpg",
         "papers/biology/img/02B-Proteins-DNA-50.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q20-3.jpg"
       ]
     },
     {
@@ -2885,13 +3044,21 @@
         "ial biology"
       ],
       "question": "Calculate the minimum mass of protein a 70 kg person should eat in one week to reach a synthesis rate of 150 mg per kg.",
-      "status": "pending",
-      "answer": "Missing: the graph relating protein intake to synthesis rate is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "686 g",
+      "steps": [
+        "From the graph a rate of 150 is first reached at a diet of 1.4 g of protein per kg per day (0.9 gives only 130).",
+        "Per day for a 70 kg person: 1.4 x 70 = 98 g.",
+        "Per week: 98 x 7 = 686 g.",
+        "The minimum mass of protein is 686 g."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-50.jpg",
         "papers/biology/img/02B-Proteins-DNA-51.jpg",
         "papers/biology/img/02B-Proteins-DNA-52.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q21.jpg"
       ]
     },
     {
@@ -2973,14 +3140,22 @@
         "ial biology"
       ],
       "question": "Describe the evidence for and against a relationship between blood cholesterol and heart disease.",
-      "status": "pending",
-      "answer": "Missing: the graph of cholesterol and heart disease results is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "For: the curve for people who developed heart disease is shifted to higher cholesterol levels. Against: the curves overlap greatly and have the same maximum.",
+      "steps": [
+        "For: the dashed curve (developed heart disease) peaks at a higher blood cholesterol level, and a bigger percentage of this group have higher cholesterol (to the right of the peak).",
+        "For: a bigger percentage of the group who did not develop heart disease have lower cholesterol (left of the peak).",
+        "Against: the two curves overlap for most of their length, with similar shapes and the same peak height.",
+        "Against: many people with high cholesterol did not develop heart disease, and some with low cholesterol did."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-52.jpg",
         "papers/biology/img/02B-Proteins-DNA-53.jpg",
         "papers/biology/img/02B-Proteins-DNA-54.jpg",
         "papers/biology/img/02B-Proteins-DNA-55.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q22-2.jpg"
       ]
     },
     {
@@ -2998,14 +3173,21 @@
         "ial biology"
       ],
       "question": "Describe the evidence in the HDL and LDL graph that supports the three conclusions.",
-      "status": "pending",
-      "answer": "Missing: the HDL and LDL graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Incidence of CVD rises with LDL, falls with HDL, and is highest at low HDL with high LDL.",
+      "steps": [
+        "LDL: at every HDL level, the bars get taller as LDL increases (e.g. at HDL below 40, from about 2 a.u. at LDL below 100 to over 6 a.u. at LDL 160 or more).",
+        "HDL: at every LDL level, the bars get shorter as HDL increases (e.g. at LDL 160 or more, from the tallest bar at HDL below 40 to a much shorter bar at HDL 60 or more).",
+        "Ratio: the highest incidence is at low HDL and high LDL (lowest ratio of HDL to LDL), and the lowest incidence (less than 1 a.u.) is at high HDL and low LDL (highest ratio)."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-52.jpg",
         "papers/biology/img/02B-Proteins-DNA-53.jpg",
         "papers/biology/img/02B-Proteins-DNA-54.jpg",
         "papers/biology/img/02B-Proteins-DNA-55.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q22.jpg"
       ]
     },
     {
@@ -3038,6 +3220,9 @@
         "papers/biology/img/02B-Proteins-DNA-53.jpg",
         "papers/biology/img/02B-Proteins-DNA-54.jpg",
         "papers/biology/img/02B-Proteins-DNA-55.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q22-3.jpg"
       ]
     },
     {
@@ -3069,6 +3254,9 @@
         "papers/biology/img/02B-Proteins-DNA-53.jpg",
         "papers/biology/img/02B-Proteins-DNA-54.jpg",
         "papers/biology/img/02B-Proteins-DNA-55.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q22-3.jpg"
       ]
     },
     {
@@ -3153,12 +3341,20 @@
         "ial biology"
       ],
       "question": "Draw one DNA mononucleotide using shapes selected from the table.",
-      "status": "pending",
-      "answer": "Missing: the table of component shapes is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Pentagon D joined by a line to a circle (phosphate) and by a line to the thymine box T.",
+      "steps": [
+        "A DNA mononucleotide has one phosphate, one deoxyribose and one base.",
+        "Use the pentagon marked D (deoxyribose), not R (ribose, found in RNA).",
+        "Use the box marked T for the base, not U (uracil, found in RNA).",
+        "Draw a bond line from the deoxyribose to the phosphate circle and another bond line from the deoxyribose to the T box."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-55.jpg",
         "papers/biology/img/02B-Proteins-DNA-56.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q23.jpg"
       ]
     },
     {
@@ -3178,14 +3374,22 @@
         "ial biology"
       ],
       "question": "Which arrow shows the activation energy for this reaction?",
-      "status": "pending",
-      "answer": "Missing: the energy graph and option arrows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Q",
+      "steps": [
+        "Activation energy is the energy needed to start the reaction.",
+        "It is measured from the energy of the reactants up to the top of the peak.",
+        "Arrow Q spans this gap; P is the difference between the reactants and the base line (energy released), and R and S are measured from the product level.",
+        "So Q is correct."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-56.jpg",
         "papers/biology/img/02B-Proteins-DNA-57.jpg",
         "papers/biology/img/02B-Proteins-DNA-58.jpg",
         "papers/biology/img/02B-Proteins-DNA-59.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q24.jpg"
       ]
     },
     {
@@ -3208,14 +3412,23 @@
         "ial biology"
       ],
       "question": "Which row of the table shows the molecule present at time Y and time Z on this graph?",
-      "status": "pending",
-      "answer": "Missing: the table and graph are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: time Y reactant, monophenol; time Z product, o-diphenol",
+      "steps": [
+        "The equation shows that monophenol is converted to o-diphenol.",
+        "At the start (time Y) the reactant, monophenol, is present.",
+        "At the end (time Z) the product, o-diphenol, is present.",
+        "So the row is reactant/monophenol and product/o-diphenol (C)."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-56.jpg",
         "papers/biology/img/02B-Proteins-DNA-57.jpg",
         "papers/biology/img/02B-Proteins-DNA-58.jpg",
         "papers/biology/img/02B-Proteins-DNA-59.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q24.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q24-2.jpg"
       ]
     },
     {
@@ -3235,14 +3448,23 @@
         "ial biology"
       ],
       "question": "Which row shows how the lengths of arrows P and Q would change when polyphenol oxidase is present?",
-      "status": "pending",
-      "answer": "Missing: the table of options and graph are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: P no change, Q decrease",
+      "steps": [
+        "The enzyme lowers the activation energy, so arrow Q gets shorter.",
+        "The enzyme does not change the energy of the reactants or products.",
+        "So the energy difference between reactants and products, arrow P, does not change.",
+        "So the row is no change for P and decrease for Q (C)."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-56.jpg",
         "papers/biology/img/02B-Proteins-DNA-57.jpg",
         "papers/biology/img/02B-Proteins-DNA-58.jpg",
         "papers/biology/img/02B-Proteins-DNA-59.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q24.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q24-3.jpg"
       ]
     },
     {
@@ -3262,14 +3484,22 @@
         "ial biology"
       ],
       "question": "Calculate the rate of reaction at 3 minutes by drawing a tangent.",
-      "status": "pending",
-      "answer": "Missing: the monophenol concentration graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "about 9.4 mmol dm^-3 min^-1 (accept 9-10)",
+      "steps": [
+        "At 3 minutes the monophenol concentration is about 25 mmol dm^-3.",
+        "Draw a tangent to the curve at 3 minutes; it passes through about (0 min, 53 mmol dm^-3) and (5.6 min, 0).",
+        "Gradient = (0 - 53) / (5.6 - 0) = -9.5 mmol dm^-3 min^-1.",
+        "The rate of reaction at 3 minutes is therefore about 9.4 mmol dm^-3 min^-1."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-56.jpg",
         "papers/biology/img/02B-Proteins-DNA-57.jpg",
         "papers/biology/img/02B-Proteins-DNA-58.jpg",
         "papers/biology/img/02B-Proteins-DNA-59.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q24-4.jpg"
       ]
     },
     {
@@ -3303,6 +3533,9 @@
         "papers/biology/img/02B-Proteins-DNA-57.jpg",
         "papers/biology/img/02B-Proteins-DNA-58.jpg",
         "papers/biology/img/02B-Proteins-DNA-59.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q24-4.jpg"
       ]
     },
     {
@@ -3322,12 +3555,19 @@
         "ial biology"
       ],
       "question": "Complete the diagram showing the base sequence of the mRNA made from the template strand.",
-      "status": "pending",
-      "answer": "Missing: the template strand base diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "U  A  C  G  G  C  A  A (left to right)",
+      "steps": [
+        "mRNA is made complementary to the template strand: A pairs with U, T with A, G with C and C with G.",
+        "Template A T G C C G T T gives U A C G G C A A.",
+        "RNA has uracil in place of thymine, so there is no T in the mRNA."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-59.jpg",
         "papers/biology/img/02B-Proteins-DNA-60.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q25.jpg"
       ]
     },
     {
@@ -3415,6 +3655,9 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-59.jpg",
         "papers/biology/img/02B-Proteins-DNA-60.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q25-2.jpg"
       ]
     },
     {
@@ -3465,13 +3708,21 @@
         "ial biology"
       ],
       "question": "Calculate the rate of reaction at 30 minutes by drawing a tangent.",
-      "status": "pending",
-      "answer": "Missing: the elastin protease graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "about 2.5 nmol dm^-3 min^-1 (accept 2.2-2.8)",
+      "steps": [
+        "At 30 minutes the concentration of breakdown product is about 163 nmol dm^-3.",
+        "Draw a tangent to the curve at 30 minutes; it passes through about (10 min, 113) and (50 min, 213).",
+        "Gradient = (213 - 113) / (50 - 10) = 100 / 40.",
+        "Rate of reaction at 30 minutes = about 2.5 nmol dm^-3 min^-1."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-60.jpg",
         "papers/biology/img/02B-Proteins-DNA-61.jpg",
         "papers/biology/img/02B-Proteins-DNA-62.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q26.jpg"
       ]
     },
     {
@@ -3681,14 +3932,22 @@
         "ial biology"
       ],
       "question": "Comment on the results comparing the effect of variegin and drug H on clot mass in stents.",
-      "status": "pending",
-      "answer": "Missing: the graph of clot masses is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Clots in stents with variegin are much smaller than with drug H, but there are few results and one overlaps.",
+      "steps": [
+        "Variegin clots are about 11-22 mg, much less than most drug H clots (43-70 mg), so variegin looks more effective at preventing clots in stents.",
+        "The mean clot mass for variegin (about 15 mg) is far lower than for drug H (about 47 mg).",
+        "One drug H result (about 18 mg) is within the variegin range, and drug H results are very variable.",
+        "There are only 4-5 stents per treatment, so more repeats and a statistical test are needed to be confident."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-62.jpg",
         "papers/biology/img/02B-Proteins-DNA-63.jpg",
         "papers/biology/img/02B-Proteins-DNA-64.jpg",
         "papers/biology/img/02B-Proteins-DNA-65.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q27.jpg"
       ]
     },
     {
@@ -3717,6 +3976,9 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-65.jpg",
         "papers/biology/img/02B-Proteins-DNA-66.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q28.jpg"
       ]
     },
     {
@@ -3734,12 +3996,20 @@
         "ial biology"
       ],
       "question": "Draw a circle around the base in uridine monophosphate.",
-      "status": "pending",
-      "answer": "Missing: the UMP structure diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Circle the six-membered ring at the top of the molecule (the uracil base), not the sugar or phosphate.",
+      "steps": [
+        "Uridine monophosphate has a phosphate group, a ribose sugar and a base.",
+        "The base is the nitrogen-containing ring with two C=O groups and an NH, attached to the sugar through its N.",
+        "Draw the circle round this whole ring (with its =O and HN), and stop at the bond to the sugar.",
+        "Do not include the five-membered sugar ring or the phosphate group."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-65.jpg",
         "papers/biology/img/02B-Proteins-DNA-66.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q28.jpg"
       ]
     },
     {
@@ -3769,6 +4039,9 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-65.jpg",
         "papers/biology/img/02B-Proteins-DNA-66.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q28.jpg"
       ]
     },
     {
@@ -3800,6 +4073,9 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-65.jpg",
         "papers/biology/img/02B-Proteins-DNA-66.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q28.jpg"
       ]
     },
     {
@@ -3830,6 +4106,9 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-65.jpg",
         "papers/biology/img/02B-Proteins-DNA-66.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q28.jpg"
       ]
     },
     {
@@ -4030,13 +4309,21 @@
         "ial biology"
       ],
       "question": "Complete the diagram showing how two glucose molecules join by a glycosidic bond to form two products.",
-      "status": "pending",
-      "answer": "Missing: the glucose diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Maltose (two glucose rings joined by a C1-O-C4 glycosidic bond) and a water molecule.",
+      "steps": [
+        "Glucose molecules join in a condensation reaction.",
+        "The OH on carbon 1 of the first glucose (right-hand carbon) joins with the H of the OH on carbon 4 of the second glucose (left-hand carbon).",
+        "Draw the two rings with a single oxygen between C1 of the first and C4 of the second: this is the 1-4 glycosidic bond, making a disaccharide (maltose).",
+        "The OH and H removed form the second product, a molecule of water (H2O)."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-69.jpg",
         "papers/biology/img/02B-Proteins-DNA-70.jpg",
         "papers/biology/img/02B-Proteins-DNA-71.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q31.jpg"
       ]
     },
     {
@@ -4055,13 +4342,21 @@
         "ial biology"
       ],
       "question": "Draw one disaccharide and two different oligosaccharides produced by amylase digesting the amylopectin shown.",
-      "status": "pending",
-      "answer": "Missing: the amylopectin diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Disaccharide: the two open circles between the grey circles on the top row. Oligosaccharides: the three open circles at the left end of the top row, and the five-circle chain made of the first grey circle and the four circles below it.",
+      "steps": [
+        "Amylase cuts only 1-4 bonds, so the bonds from a grey circle to the circle below it (1-6 bonds) stay intact.",
+        "Cut between the third open circle and the first grey circle, between the first grey circle and the next open circle, and between the last open circle and the second grey circle.",
+        "This gives a disaccharide (the two open circles joined to each other), a trisaccharide (three open circles joined) and a pentasaccharide (the first grey circle plus the four circles joined below it, in a line).",
+        "Each product has at least two circles, because only disaccharides and oligosaccharides are made (no single glucose)."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-69.jpg",
         "papers/biology/img/02B-Proteins-DNA-70.jpg",
         "papers/biology/img/02B-Proteins-DNA-71.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q31-2.jpg"
       ]
     },
     {
@@ -4091,6 +4386,9 @@
         "papers/biology/img/02B-Proteins-DNA-69.jpg",
         "papers/biology/img/02B-Proteins-DNA-70.jpg",
         "papers/biology/img/02B-Proteins-DNA-71.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q31-2.jpg"
       ]
     },
     {
@@ -4201,13 +4499,21 @@
         "ial biology"
       ],
       "question": "Complete the diagram to show a hydrogen bond between two water molecules.",
-      "status": "pending",
-      "answer": "Missing: the three-water-molecule diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Draw a dashed line from a hydrogen atom (delta +) of one water molecule to the oxygen atom (delta -) of a neighbouring molecule.",
+      "steps": [
+        "A hydrogen bond forms between the slightly positive hydrogen of one water molecule and the slightly negative oxygen of another.",
+        "For example, join the upper H of the middle molecule to the O of the right-hand molecule with a dashed line.",
+        "Mark delta + on the hydrogen atoms and delta - on the oxygen atoms.",
+        "The line must go from an H to an O of a different molecule, not within one molecule."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-71.jpg",
         "papers/biology/img/02B-Proteins-DNA-72.jpg",
         "papers/biology/img/02B-Proteins-DNA-73.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q32.jpg"
       ]
     },
     {
@@ -4226,13 +4532,21 @@
         "ial biology"
       ],
       "question": "Complete the diagram showing two water molecules around a sodium ion.",
-      "status": "pending",
-      "answer": "Missing: the sodium ion diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Two water molecules touching the Na+ ion with their oxygen atoms pointing towards it and their hydrogens pointing away.",
+      "steps": [
+        "Water is polar: oxygen is slightly negative (delta -) and hydrogen is slightly positive (delta +).",
+        "The positive Na+ ion attracts the delta - oxygen atoms.",
+        "Draw two water molecules next to the ion with their O atoms nearest to the Na+ and the H atoms pointing outwards.",
+        "Label the oxygens delta - (and hydrogens delta +)."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-71.jpg",
         "papers/biology/img/02B-Proteins-DNA-72.jpg",
         "papers/biology/img/02B-Proteins-DNA-73.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q32-2.jpg"
       ]
     },
     {
@@ -4250,13 +4564,21 @@
         "ial biology"
       ],
       "question": "Describe the effects of temperature on the solubility of chemicals A, B, C and D.",
-      "status": "pending",
-      "answer": "Missing: the solubility graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: solubility rises steadily with temperature. B: rises sharply to about 33 C, then falls slightly. C: almost unchanged. D: falls as temperature rises.",
+      "steps": [
+        "Chemical A: solubility increases steadily (roughly linearly), from about 7 g per 100 g at 0 C to about 85 g at 80 C.",
+        "Chemical B: increases rapidly from about 4 g to a peak of about 50 g at about 33 C, then decreases slowly to about 43 g at 80 C.",
+        "Chemical C: little effect; solubility stays about 36-38 g per 100 g over the whole range.",
+        "Chemical D: solubility decreases as temperature increases, from about 17 g at 0 C to about 1 g at 80 C (the fall is steepest at low temperatures)."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-71.jpg",
         "papers/biology/img/02B-Proteins-DNA-72.jpg",
         "papers/biology/img/02B-Proteins-DNA-73.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q32-3.jpg"
       ]
     },
     {
@@ -4335,9 +4657,14 @@
         "ial biology"
       ],
       "question": "Calculate the diameter of a lipid nanoparticle with a volume of 0.108 (units as given), using pi = 3.0.",
-      "status": "pending",
-      "answer": "Missing: the exponent in the volume is lost in extraction (0.108 m3 would not be a 'very small' particle).",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.6 um",
+      "steps": [
+        "V = (4/3) x pi x r^3, with pi = 3.0, so V = 4 r^3.",
+        "0.108 = 4 r^3, so r^3 = 0.108 / 4 = 0.027.",
+        "r = cube root of 0.027 = 0.3 um.",
+        "Diameter = 2 x r = 0.6 um."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-73.jpg",
         "papers/biology/img/02B-Proteins-DNA-74.jpg",
@@ -4403,6 +4730,9 @@
         "papers/biology/img/02B-Proteins-DNA-73.jpg",
         "papers/biology/img/02B-Proteins-DNA-74.jpg",
         "papers/biology/img/02B-Proteins-DNA-75.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q33.jpg"
       ]
     },
     {
@@ -4422,9 +4752,14 @@
         "ial biology"
       ],
       "question": "Explain why eating soybeans may reduce the risk of heart disease.",
-      "status": "pending",
-      "answer": "Soybean compounds lower cholesterol and LDL in the blood, which reduces atherosclerosis and the risk of heart disease.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Less LDL and cholesterol means less atheroma in the artery walls, so arteries stay wider and clots are less likely, lowering the risk of heart disease.",
+      "steps": [
+        "LDLs carry cholesterol to tissues and deposit it in artery walls, so lower LDL and cholesterol means less cholesterol is deposited.",
+        "So less atheroma (plaque) forms, which means less damage to the endothelium and less narrowing of the coronary arteries.",
+        "Blood flow to the heart muscle stays high and the risk of blood clots (thrombosis) is lower.",
+        "This reduces the risk of coronary heart disease and heart attacks."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-76.jpg",
         "papers/biology/img/02B-Proteins-DNA-77.jpg",
@@ -4526,6 +4861,9 @@
         "papers/biology/img/02B-Proteins-DNA-77.jpg",
         "papers/biology/img/02B-Proteins-DNA-78.jpg",
         "papers/biology/img/02B-Proteins-DNA-79.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q34-2.jpg"
       ]
     },
     {
@@ -4559,6 +4897,9 @@
         "papers/biology/img/02B-Proteins-DNA-77.jpg",
         "papers/biology/img/02B-Proteins-DNA-78.jpg",
         "papers/biology/img/02B-Proteins-DNA-79.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q34-2.jpg"
       ]
     },
     {
@@ -4577,14 +4918,22 @@
         "ial biology"
       ],
       "question": "Explain why eating soybeans may reduce blood cholesterol, using the graph of HMGCR activity.",
-      "status": "pending",
-      "answer": "Missing: the graph of HMGCR activity and cholesterol synthesis is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Soybean peptides inhibit HMGCR, so less cholesterol is synthesised by liver cells and blood cholesterol falls.",
+      "steps": [
+        "As the concentration of soybean peptides rises, the inhibition of HMGCR rises from about 5% to nearly 100%.",
+        "Over the same range, the synthesis of cholesterol falls from 100% to about 5%.",
+        "HMGCR is an enzyme in cholesterol synthesis, so inhibiting it lowers cholesterol production, so less enters the blood.",
+        "Therefore eating soybeans (which provide the peptides) may reduce blood cholesterol."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-76.jpg",
         "papers/biology/img/02B-Proteins-DNA-77.jpg",
         "papers/biology/img/02B-Proteins-DNA-78.jpg",
         "papers/biology/img/02B-Proteins-DNA-79.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q34.jpg"
       ]
     },
     {
@@ -4786,14 +5135,22 @@
         "ial biology"
       ],
       "question": "Describe two conclusions from the graph of blood cholesterol and coronary heart disease death rate.",
-      "status": "pending",
-      "answer": "Missing: the graph of cholesterol and CHD death rate is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "In every region the CHD death rate rises as blood cholesterol rises, and at the same cholesterol level the death rate is higher in Northern Europe and the US than in the Mediterranean and Japan.",
+      "steps": [
+        "For Northern Europe the death rate rises from about 14% at 5.0 mmol dm^-3 to about 29% at 8.3; for the United States from about 10% at 4.9 to about 25% at 7.8, so there is a positive correlation.",
+        "Mediterranean and Japan stay low (below about 7%) even at 5.5 or more mmol dm^-3, where the US and Northern Europe have 12-14% or more.",
+        "So blood cholesterol is not the only factor, because the death rate differs between regions with the same cholesterol level (other factors such as diet and lifestyle).",
+        "Northern Europe has the highest death rate at each cholesterol level."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-82.jpg",
         "papers/biology/img/02B-Proteins-DNA-83.jpg",
         "papers/biology/img/02B-Proteins-DNA-84.jpg",
         "papers/biology/img/02B-Proteins-DNA-85.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q37.jpg"
       ]
     },
     {
@@ -5032,13 +5389,24 @@
         "ial biology"
       ],
       "question": "Complete the graphs showing the concentrations and densities of DNA at stages 1, 2 and 3 of the flowchart.",
-      "status": "pending",
-      "answer": "Missing: the flowchart and the graph axes are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Stage 1: one peak at 7.74. Stage 2: one peak at 7.67. Stage 3: two peaks at 7.60 and 7.67, each half the height of the stage 1 peak.",
+      "steps": [
+        "Stage 1: all DNA is heavy (15N) with density 7.74, so one peak at 7.74 of the same height as the reference peak.",
+        "Stage 2: all DNA is hybrid (one heavy and one light strand), with density halfway between 7.74 and 7.60, which is 7.67: one peak at 7.67 of the same height.",
+        "Stage 3: half the DNA is hybrid (7.67) and half is light only (7.60): two peaks, one at 7.60 and one at 7.67.",
+        "Each stage 3 peak is half the height of the stage 1 peak, as each holds half the molecules; there is no peak at 7.74 after stage 1."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-85.jpg",
         "papers/biology/img/02B-Proteins-DNA-86.jpg",
         "papers/biology/img/02B-Proteins-DNA-87.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q38.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q38-2.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q38-3.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q38-4.jpg"
       ]
     },
     {
@@ -5132,6 +5500,9 @@
         "papers/biology/img/02B-Proteins-DNA-88.jpg",
         "papers/biology/img/02B-Proteins-DNA-89.jpg",
         "papers/biology/img/02B-Proteins-DNA-90.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q39.jpg"
       ]
     },
     {
@@ -5165,6 +5536,9 @@
         "papers/biology/img/02B-Proteins-DNA-88.jpg",
         "papers/biology/img/02B-Proteins-DNA-89.jpg",
         "papers/biology/img/02B-Proteins-DNA-90.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q39.jpg"
       ]
     },
     {
@@ -5392,6 +5766,9 @@
         "papers/biology/img/02B-Proteins-DNA-92.jpg",
         "papers/biology/img/02B-Proteins-DNA-93.jpg",
         "papers/biology/img/02B-Proteins-DNA-94.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q40.jpg"
       ]
     }
   ]

@@ -21034,7 +21034,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-02.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q1.jpg"
+     ]
     },
     {
      "id": "3B-Q1b(i)",
@@ -21052,15 +21054,23 @@ window.BANK.physics = {
       "160 Hz"
      ],
      "question": "Loudspeakers at 3.00 m from line XY (160 Hz) give a minimum 84 cm from O. Determine the speed of sound.",
-     "status": "pending",
-     "answer": "Pending: needs the separation of the two loudspeakers, which is shown only on the missing diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Speed of sound = 3.4 x 10^2 m s^-1 (about 340 m s^-1).",
+     "steps": [
+      "The loudspeakers are 5.00 m apart and 3.00 m from XY, with O on the line midway between them, so each is 2.50 m from the axis through O.",
+      "The first minimum is 0.84 m from O, so the distances from the point to the speakers are s1 = sqrt(3.00^2 + (2.50 - 0.84)^2) = 3.43 m and s2 = sqrt(3.00^2 + (2.50 + 0.84)^2) = 4.49 m.",
+      "Path difference = 4.49 - 3.43 = 1.06 m.",
+      "The first minimum (antiphase, destructive) has path difference = lambda / 2, so lambda = 2 x 1.06 = 2.12 m.",
+      "v = f x lambda = 160 Hz x 2.12 m = 339 m s^-1, about 3.4 x 10^2 m s^-1."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-01.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-02.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q1.jpg"
+     ]
     },
     {
      "id": "3B-Q1b(ii)",
@@ -21138,15 +21148,22 @@ window.BANK.physics = {
       "displacement distance",
       "points X Y Z"
      ],
-     "question": "Displacement-distance graph of a stationary wave at two instants. Which statement is not correct (points X, Y, Z)?",
-     "status": "pending",
-     "answer": "Pending: the displacement-distance diagram of the stationary wave and the statement options are missing from the text.",
-     "steps": [],
+     "question": "The diagram shows how the displacement varies with distance along a stationary wave at two instants of time (X is on the first loop; Y and Z are on the second loop, Z at the antinode). Which statement is not correct? A Points X and Z are in antiphase with each other. B Points Y and Z have the same amplitude of vibration. C Points Y and Z have the same frequency of vibration. D Point Z is an antinode.",
+     "status": "ready",
+     "answer": "B: Y and Z do not have the same amplitude, so this statement is not correct.",
+     "steps": [
+      "In a stationary wave the amplitude depends on position: it is zero at a node and a maximum at an antinode.",
+      "Z is at the peak of the loop (an antinode), but Y is part-way between the node and the antinode, so its amplitude is smaller than Z's. B is false.",
+      "A is true: X and Z are on adjacent loops, which vibrate in antiphase.",
+      "C is true: every point on a stationary wave vibrates at the same frequency. D is true: Z is at maximum amplitude."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-03.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q2.jpg"
+     ]
     },
     {
      "id": "3B-Q3",
@@ -21193,10 +21210,14 @@ window.BANK.physics = {
       "coherent",
       "1.5 rad"
      ],
-     "question": "Two coherent waves have a phase difference of 1.5 rad at point P. Which path difference could produce this?",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text.",
-     "steps": [],
+     "question": "Two waves from the same source travel along different paths and then meet at a point P. The phase difference between the waves at P is 1.5 pi radians. Which is a possible path difference? A 3 lambda/2; B 7 lambda/4; C 3 lambda; D 7 lambda/2.",
+     "status": "ready",
+     "answer": "B: 7 lambda / 4.",
+     "steps": [
+      "Phase difference = 2 pi x (path difference / lambda), so path difference = (1.5 pi / 2 pi) lambda = 3 lambda / 4, or 3 lambda / 4 plus any whole number of wavelengths.",
+      "B: 7 lambda / 4 = 3 lambda / 4 + lambda, which gives a phase difference of 3.5 pi, equivalent to 1.5 pi.",
+      "A gives 3 pi, C gives 6 pi and D gives 7 pi, none equivalent to 1.5 pi."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-04.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-05.jpg",
@@ -21281,15 +21302,22 @@ window.BANK.physics = {
       "concentric rings"
      ],
      "question": "Sketch a graph of intensity along line AB across the circular-gap diffraction pattern.",
-     "status": "pending",
-     "answer": "Pending: the pattern along line AB is shown only in the missing diagram; expected a tall central maximum with weaker, decreasing outer maxima.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A symmetrical graph with a tall central maximum in the middle of AB and weaker, equally spaced outer maxima whose heights decrease away from the centre, with zero intensity between them.",
+     "steps": [
+      "Label the centre of AB as the point of greatest intensity: a tall peak well above all the others.",
+      "On each side the intensity drops to about zero (dark ring) and then rises to a much smaller secondary maximum.",
+      "Each further secondary maximum is lower than the one before, so the peaks decrease in height outwards.",
+      "The pattern is symmetrical about the centre, and the central peak is the widest (about twice the width of the outer peaks)."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-04.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-05.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q6.jpg"
+     ]
     },
     {
      "id": "3B-Q7a",
@@ -21307,15 +21335,21 @@ window.BANK.physics = {
       "1.70 m"
      ],
      "question": "A string of length L = 1.70 m vibrates in the stationary wave pattern shown. Determine the wavelength.",
-     "status": "pending",
-     "answer": "Pending: the number of loops in the stationary wave is shown only in the missing diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Wavelength = 0.85 m.",
+     "steps": [
+      "The pattern between P and Q has 4 loops, and each loop is half a wavelength.",
+      "So L = 4 x (lambda / 2) = 2 lambda.",
+      "lambda = L / 2 = 1.70 m / 2 = 0.85 m."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-06.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-07.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q7.jpg"
+     ]
     },
     {
      "id": "3B-Q7b",
@@ -21394,10 +21428,14 @@ window.BANK.physics = {
       "single source",
       "options"
      ],
-     "question": "Two waves of wavelength lambda from one source diverge and meet again. Which path or phase difference gives constructive interference?",
-     "status": "pending",
-     "answer": "Pending: the option expressions use symbols missing from the text.",
-     "steps": [],
+     "question": "Two waves, of wavelength lambda, from a single source diverge and then meet again. Which situation would cause constructive interference? A a path difference of lambda/2; B a path difference of lambda; C a phase difference of pi/2; D a phase difference of pi.",
+     "status": "ready",
+     "answer": "B: a path difference of lambda.",
+     "steps": [
+      "Constructive interference needs the waves in phase: a path difference of a whole number of wavelengths (phase difference 0, 2 pi, 4 pi ...).",
+      "B: a path difference of lambda is a phase difference of 2 pi, so the waves reinforce.",
+      "A (lambda/2) gives a phase difference of pi, and D (pi) is antiphase, so these give destructive interference. C (pi/2) gives partial reinforcement only."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
      ],
@@ -21418,10 +21456,14 @@ window.BANK.physics = {
       "34 deg",
       "270 deg"
      ],
-     "question": "Two waves from the same source arrive with a path difference equal to a multiple of the wavelength (symbol missing). Which phase difference (34, 68, 135 or 270 deg) results?",
-     "status": "pending",
-     "answer": "Pending: the path difference expression is missing from the text (phase difference = 360 deg x path difference / wavelength).",
-     "steps": [],
+     "question": "Two waves from the same source arrive at a point with a path difference of 3 lambda/8, where lambda is the wavelength. Which is the phase difference? A 34 deg; B 68 deg; C 135 deg; D 270 deg.",
+     "status": "ready",
+     "answer": "C: 135 deg.",
+     "steps": [
+      "Phase difference = 360 deg x (path difference / lambda).",
+      "Phase difference = 360 deg x 3/8 = 135 deg.",
+      "This matches option C."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
      ],
@@ -21441,15 +21483,22 @@ window.BANK.physics = {
       "calculation",
       "sin theta"
      ],
-     "question": "A grating has 300 lines per mm. The first order maximum position is shown. Which calculation gives the wavelength?",
-     "status": "pending",
-     "answer": "Pending: the calculation options and the diagram of the first-order angle are missing from the text.",
-     "steps": [],
+     "question": "A diffraction grating has 300 lines per mm. Laser light directed at it gives a first order maximum on a screen 2.00 m from the grating and 0.40 m from the central maximum (see diagram). Which calculation gives the wavelength, in mm? A 300 sin(theta), theta = sin^-1(0.40/2.00); B 300 sin(theta), theta = tan^-1(0.40/2.00); C sin(theta)/300, theta = sin^-1(0.40/2.00); D sin(theta)/300, theta = tan^-1(0.40/2.00).",
+     "status": "ready",
+     "answer": "D: wavelength = sin(theta) / 300 mm, where theta = tan^-1(0.40 / 2.00).",
+     "steps": [
+      "The line spacing is d = 1/300 mm, so lambda = d sin theta = sin theta / 300 (in mm). This rules out A and B.",
+      "The 2.00 m is the perpendicular distance from the grating to the screen and 0.40 m is the sideways distance, so tan theta = 0.40/2.00.",
+      "The ray itself is longer than 2.00 m, so sin theta is not 0.40/2.00, which rules out C.",
+      "Check: theta = 11.3 deg, so lambda = sin 11.3 deg / 300 = 6.5 x 10^-4 mm = 650 nm, a sensible visible wavelength."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-09.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q10.jpg"
+     ]
     },
     {
      "id": "3B-Q11",
@@ -21525,14 +21574,21 @@ window.BANK.physics = {
       "wavefront diagrams"
      ],
      "question": "Wavefronts approach gaps of different sizes. In which diagram are the diffracted wavefronts not semicircular?",
-     "status": "pending",
-     "answer": "Pending: the four wavefront diagrams (A to D) are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: the gap is much wider than the wavelength, so the diffracted wavefronts are not semicircular.",
+     "steps": [
+      "Diffracted wavefronts are semicircular only when the gap is about the size of the wavelength or smaller.",
+      "In A the wavefront spacing is about equal to the gap width, and C has a gap narrower than the wavelength, so both spread out in semicircles.",
+      "In D the gap is only about 1.5 wavelengths, so the spreading is still pronounced.",
+      "In B the wavefronts are close together (small wavelength) and the gap is about 4 wavelengths wide, so most of the wavefront passes straight through and little diffraction occurs except at the edges."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-10.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q13.jpg"
+     ]
     },
     {
      "id": "3B-Q14",
@@ -21549,14 +21605,20 @@ window.BANK.physics = {
       "expression",
       "vibrator"
      ],
-     "question": "String between vibrator and pulley (length L), hanging masses M, whole string mass m. Which expression gives the wave speed on the string?",
-     "status": "pending",
-     "answer": "Pending: the answer options and the string-length diagram are missing from the text (expected v = sqrt(Mg / (m / total length))).",
-     "steps": [],
+     "question": "The speed of waves on a vibrating string is investigated using the apparatus shown. Length of string between vibrator and pulley = L; length of string between pulley and hanging masses = L/3; mass of whole string = m; mass of hanging masses = M. Which expression represents the speed of the waves on the string? A sqrt(4MgL/(3m)); B sqrt(2MgL/(3m)); C sqrt(MgL/m); D sqrt(MgL/(3m)).",
+     "status": "ready",
+     "answer": "A: v = sqrt(4MgL / (3m)).",
+     "steps": [
+      "Tension in the string T = Mg (weight of the hanging masses).",
+      "The whole string has length L + L/3 = 4L/3 and mass m, so mass per unit length mu = m / (4L/3) = 3m / (4L).",
+      "v = sqrt(T / mu) = sqrt(Mg x 4L / (3m)) = sqrt(4MgL / (3m))."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q14.jpg"
+     ]
     },
     {
      "id": "3B-Q15",
@@ -21574,14 +21636,21 @@ window.BANK.physics = {
       "water waves"
      ],
      "question": "Two in-phase sources S1 and S2 in a ripple tank. Explain the type of superposition at positions A and B on the diagram of crests.",
-     "status": "pending",
-     "answer": "Pending: positions A and B are marked only on the missing ripple-tank diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: constructive superposition (waves arrive in phase). B: destructive superposition (waves arrive in antiphase).",
+     "steps": [
+      "S1 and S2 are in phase and emit waves of the same wavelength, so the waves are coherent and superpose at every point.",
+      "A is about 3.5 wavelengths from S1 and 4.5 wavelengths from S2: path difference of about one wavelength, so the waves arrive in phase (here both are at a trough). Displacements add, giving constructive interference and a large amplitude.",
+      "B lies on a crest line from S2 (about 5 wavelengths away) but is about 3.5 wavelengths from S1, where there is a trough: path difference of about 1.5 wavelengths, so the waves arrive in antiphase.",
+      "At B a crest meets a trough, so the displacements cancel: destructive interference and a very small amplitude."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-12.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q15.jpg"
+     ]
     },
     {
      "id": "3B-Q16",
@@ -21598,15 +21667,21 @@ window.BANK.physics = {
       "microwave oven",
       "table"
      ],
-     "question": "Two microwave rays meet at point L in a microwave oven. Which row of the table shows the possible interference at L?",
-     "status": "pending",
-     "answer": "Pending: the table of rows is missing from the text.",
-     "steps": [],
+     "question": "A microwave oven has a source that emits microwaves in all directions into the oven. The diagram shows the paths of two microwave rays that meet at point L. The interference between the waves following these two paths could cause heating effects at L depending on the wavelength. Which row is possible at L? A maximum heating, wavelength 24 cm; B maximum heating, wavelength 18 cm; C no heating, wavelength 24 cm; D no heating, wavelength 18 cm.",
+     "status": "ready",
+     "answer": "C: no heating with a wavelength of 24 cm.",
+     "steps": [
+      "Path 1 = 22 + 8 = 30 cm and path 2 = 15 + 27 = 42 cm, so the path difference is 12 cm.",
+      "For a wavelength of 24 cm, 12 cm = lambda / 2, so the waves arrive in antiphase and cancel: no heating.",
+      "For a wavelength of 18 cm, 12 cm = 2/3 lambda, which is neither a whole number of wavelengths nor an odd number of half wavelengths, so neither maximum heating nor zero heating occurs. Only row C is possible."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-14.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q16.jpg"
+     ]
     },
     {
      "id": "3B-Q17",
@@ -21623,15 +21698,21 @@ window.BANK.physics = {
       "air particles",
       "position V"
      ],
-     "question": "The displacement of air particles in a sound wave is shown at an instant, with a compression at V. At which other position is there a compression (W, X, Y or Z)?",
-     "status": "pending",
-     "answer": "Pending: the displacement-position diagram of the sound wave is missing from the text.",
-     "steps": [],
+     "question": "A sound wave travels through air. The diagram represents the displacement of air particles along the wave at an instant in time (V at the start, W the maximum, X the zero crossing, Y the minimum, Z the end of one cycle). There is a compression at position V. At which position is there also a compression? A W; B X; C Y; D Z.",
+     "status": "ready",
+     "answer": "D: Z.",
+     "steps": [
+      "Compressions and rarefactions occur at the points of zero displacement, where neighbouring particles are displaced towards or away from each other.",
+      "V and Z both have zero displacement and the same gradient, and they are one whole wavelength apart, so they are in the same state: both compressions.",
+      "X also has zero displacement but the opposite gradient, so it is a rarefaction. W and Y are at maximum displacement, where the air density is normal."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-14.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q17.jpg"
+     ]
     },
     {
      "id": "3B-Q18",
@@ -21677,15 +21758,22 @@ window.BANK.physics = {
       "antinodes",
       "points W X Y Z"
      ],
-     "question": "Displacement-distance graph of a stationary wave at two instants (points W, X, Y, Z). Which statement is correct?",
-     "status": "pending",
-     "answer": "Pending: the displacement-distance diagram with points W, X, Y and Z is missing from the text.",
-     "steps": [],
+     "question": "The diagram shows how the displacement varies with distance along a stationary wave at two instants of time (W and X are on the first loop, either side of its peak; Y and Z are on the second loop). Which statement is correct? A Points W and X are in antiphase. B Points W and Y are in phase. C Points X and Y are in phase. D Points X and Z are in antiphase.",
+     "status": "ready",
+     "answer": "D: points X and Z are in antiphase.",
+     "steps": [
+      "In a stationary wave, all points between two adjacent nodes vibrate in phase, and points in adjacent loops vibrate in antiphase.",
+      "W and X are on the same loop, so they are in phase (A is wrong).",
+      "Y and Z are on the next loop, so they are in antiphase with W and X (B and C are wrong).",
+      "X is on loop 1 and Z is on loop 2, so they are in antiphase (D is correct)."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-15.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q19.jpg"
+     ]
     },
     {
      "id": "3B-Q20a",
@@ -21702,15 +21790,22 @@ window.BANK.physics = {
       "laser"
      ],
      "question": "A grating has 450 lines per mm. The first bright dot X is at a measured position on the screen. Determine the wavelength of the laser light.",
-     "status": "pending",
-     "answer": "Pending: the position of X and the screen distance are shown only in the missing diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Wavelength = 6.3 x 10^-7 m (630 nm).",
+     "steps": [
+      "Line spacing d = 1 / (450 x 10^3 lines per m) = 2.22 x 10^-6 m.",
+      "X is the first order maximum (n = 1): tan theta = 0.500 / 1.690, so theta = 16.5 deg.",
+      "lambda = d sin theta / n = 2.22 x 10^-6 x sin 16.5 deg = 2.22 x 10^-6 x 0.2837.",
+      "lambda = 6.30 x 10^-7 m = 630 nm."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-16.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-17.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q20.jpg"
+     ]
     },
     {
      "id": "3B-Q20b",
@@ -21820,14 +21915,22 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "Using the graph of d against 1/f and mass per unit length 4.5 x 10^-4 kg m-1, determine the total mass of the hanging masses.",
-     "status": "pending",
-     "answer": "Pending: the gradient of the d against 1/f graph is needed and is shown only on the missing graph.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Total mass of hanging masses = 0.20 kg.",
+     "steps": [
+      "d is half a wavelength, so lambda = 2d and v = f lambda = 2fd, giving d = (v / 2)(1/f). The gradient of the d against 1/f graph is v / 2.",
+      "Gradient of the best-fit line = 2.4 m / 0.072 s = 33 m s^-1 (point (0.072, 2.4) lies on the line).",
+      "v = 2 x 33 = 67 m s^-1.",
+      "v = sqrt(T / mu), so T = mu v^2 = 4.5 x 10^-4 x 67^2 = 2.0 N.",
+      "The tension equals the weight of the hanging masses, so M = T / g = 2.0 / 9.81 = 0.20 kg."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q21.jpg"
+     ]
     },
     {
      "id": "3B-Q21b(ii)",
@@ -21844,14 +21947,21 @@ window.BANK.physics = {
       "straight line"
      ],
      "question": "The string is replaced by one with twice the mass per unit length, other quantities unchanged. Add a line to the graph of d against 1/f for the new string.",
-     "status": "pending",
-     "answer": "Pending: the original graph is missing from the text; expected a line through the origin with a gradient smaller by a factor of 1 / sqrt(2).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A straight line through the origin with a gradient about 24 m s^-1, lower than the original 33 m s^-1 line (about 0.71 times as steep).",
+     "steps": [
+      "With the same tension and twice the mass per unit length, v = sqrt(T / mu) falls by a factor of sqrt(2).",
+      "The gradient v / 2 falls from about 33 to 33 / sqrt(2) = 23.5 m s^-1.",
+      "The new line is still straight and passes through the origin, but is below the original line.",
+      "For example it passes through d = 1.4 m at 1/f = 0.060 s and d = 1.9 m at 1/f = 0.080 s."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q21.jpg"
+     ]
     },
     {
      "id": "3B-Q22a",
@@ -21868,15 +21978,22 @@ window.BANK.physics = {
       "14 deg"
      ],
      "question": "Laser light is incident on a grating at 90 deg, with angle theta1 = 14.0 deg shown on the diagram. Calculate angle theta2.",
-     "status": "pending",
-     "answer": "Pending: the diagram showing which angle theta2 is measured from is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "theta2 = 28.9 deg.",
+     "steps": [
+      "theta1 is the angle of the n = 1 maximum and theta2 (measured from the central line) is the angle of the n = 2 maximum.",
+      "d sin theta1 = lambda and d sin theta2 = 2 lambda, so sin theta2 = 2 sin theta1.",
+      "sin theta2 = 2 x sin 14.0 deg = 2 x 0.2419 = 0.4838.",
+      "theta2 = sin^-1(0.4838) = 28.9 deg."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-19.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-20.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q22.jpg"
+     ]
     },
     {
      "id": "3B-Q22b",
@@ -22049,15 +22166,21 @@ window.BANK.physics = {
       "laser",
       "expression"
      ],
-     "question": "Laser, grating (300 lines per mm) and screen; O is the central maximum and X the first order. Which expression gives the wavelength?",
-     "status": "pending",
-     "answer": "Pending: the expression options and the diagram are missing from the text.",
-     "steps": [],
+     "question": "A laser, diffraction grating and screen are set up as shown. The position of the central maximum is O and the position of the first order maximum is X. The diffraction grating has 300 lines per mm. Which expression gives the wavelength of the laser light? A 300000 x (0.378/2.000); B 300000 x (0.378/2.035); C (1/300000) x (0.378/2.000); D (1/300000) x (0.378/2.035).",
+     "status": "ready",
+     "answer": "D: wavelength = (1/300000) x (0.378 / 2.035) = 6.19 x 10^-7 m.",
+     "steps": [
+      "The grating spacing is d = 1/300000 m (300 lines per mm = 300000 lines per m), so lambda = d sin theta with n = 1. This rules out A and B.",
+      "sin theta = opposite / hypotenuse. The sideways distance OX = 0.378 m is the opposite side and the slant distance from grating to X = 2.035 m is the hypotenuse.",
+      "So sin theta = 0.378 / 2.035 (not 0.378 / 2.000, which is tan theta), and lambda = (1/300000)(0.378/2.035) = 6.19 x 10^-7 m."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-22.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q24.jpg"
+     ]
     },
     {
      "id": "3B-Q25",
@@ -22073,10 +22196,13 @@ window.BANK.physics = {
       "two waves",
       "same source"
      ],
-     "question": "Two waves of wavelength lambda from the same source meet with path difference lambda. What is the phase difference in radians?",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text (expected 2 pi rad for a path difference of one wavelength).",
-     "steps": [],
+     "question": "Two waves of wavelength lambda are produced by the same source. They travel different distances and meet, where the path difference is lambda/8. Which is the phase difference in radians? A pi/2; B pi/4; C pi/8; D pi/16.",
+     "status": "ready",
+     "answer": "B: pi / 4 radians.",
+     "steps": [
+      "Phase difference = 2 pi x (path difference / lambda).",
+      "= 2 pi x (1/8) = pi / 4 rad."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-23.jpg"
      ],
@@ -22126,15 +22252,21 @@ window.BANK.physics = {
       "nodes",
       "phase"
      ],
-     "question": "Standing wave pattern on a string with sections VW, WX and XY. Which sections are in phase with each other?",
-     "status": "pending",
-     "answer": "Pending: the standing wave diagram labelling V, W, X and Y is missing from the text.",
-     "steps": [],
+     "question": "This question refers to the standing wave pattern on a string as shown (loops VW, WX and XY). Which sections of the string would be in phase with each other? A VW and WX; B WX and XY; C VW and XY; D no sections are in phase.",
+     "status": "ready",
+     "answer": "C: VW and XY.",
+     "steps": [
+      "In a standing wave, all points within one loop (between adjacent nodes) vibrate in phase.",
+      "Adjacent loops are in antiphase, so VW and WX are in antiphase, and so are WX and XY.",
+      "VW and XY are two loops apart (one wavelength), so they are in phase."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-24.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q27.jpg"
+     ]
     },
     {
      "id": "3B-Q28a",
@@ -22239,10 +22371,14 @@ window.BANK.physics = {
       "d",
       "n = d sin theta"
      ],
-     "question": "The grating equation n = d sin theta is given. Which quantity has no units? Options are A n, B (symbol missing), C d, D (symbol missing).",
-     "status": "pending",
-     "answer": "Pending: options B and D are missing their symbols in the text, so the correct letter cannot be confirmed (A, n, is dimensionless; C, d, has units of metres).",
-     "steps": [],
+     "question": "The formula for a diffraction grating in the list of equations is n lambda = d sin theta. Which of the following quantities does not have units? A n; B lambda; C d; D theta.",
+     "status": "ready",
+     "answer": "A: n.",
+     "steps": [
+      "n is the order of the maximum, a pure number with no units.",
+      "lambda and d are lengths, measured in metres.",
+      "theta is an angle, measured in degrees (or radians), so it does have a unit. Only sin theta is unitless."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-27.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-28.jpg"
@@ -22292,10 +22428,14 @@ window.BANK.physics = {
       "twice the length",
       "options"
      ],
-     "question": "A string under tension T carries a wave. A second string has the same mass but twice the length and the same wave speed. What is its tension?",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text; derived result is T/2 (half the original tension).",
-     "steps": [],
+     "question": "A string is placed under tension T. A wave travels along the string. A second string has the same mass but twice the length. A wave travels along it with the same velocity. Which is the tension in the second string? A 4T; B 2T; C T/2; D T/4.",
+     "status": "ready",
+     "answer": "C: T / 2.",
+     "steps": [
+      "v = sqrt(T / mu), so T = mu v^2.",
+      "Mass per unit length mu = mass / length, so doubling the length at the same mass halves mu.",
+      "The speed v is the same, so the tension is also halved: T2 = (mu/2) v^2 = T / 2."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-27.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-28.jpg"
@@ -22376,10 +22516,14 @@ window.BANK.physics = {
       "point X",
       "radians"
      ],
-     "question": "Two waves of wavelength 12 cm leave a source in phase and have path difference 18 cm at X. What is the phase difference at X? (Option list missing.)",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text; derived phase difference is 3 pi rad (540 deg).",
-     "steps": [],
+     "question": "Two waves of wavelength 12 cm leave a source in phase. They travel along different paths to a point X. The path difference at X is 18 cm. Which is the phase difference between the two waves at X? A 0 radians; B pi/2 radians; C pi radians; D 3 pi/2 radians.",
+     "status": "ready",
+     "answer": "C: pi radians.",
+     "steps": [
+      "Phase difference = 2 pi x (path difference / lambda) = 2 pi x 18/12 = 3 pi rad.",
+      "A phase difference of 3 pi is equivalent to pi once a whole cycle (2 pi) is subtracted, so the waves are in antiphase at X.",
+      "Of the options, only C (pi radians) matches."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-29.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-30.jpg"
@@ -22464,14 +22608,16 @@ window.BANK.physics = {
      ],
      "question": "A standing wave on a cable fixed at both ends, with two points X and Y marked on the diagram. Answer the part about X and Y.",
      "status": "pending",
-     "answer": "Pending: the question wording for part (b) and the diagram showing points X and Y are not fully in the text.",
+     "answer": "Part (b) has no instruction on the page (only the diagram and the statement that X and Y are two points on the cable), so what to answer cannot be determined.",
      "steps": [],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-30.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-31.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q37.jpg"
+     ]
     },
     {
      "id": "3B-Q37c(i)",
@@ -22611,16 +22757,23 @@ window.BANK.physics = {
       "panpipes"
      ],
      "question": "Oscilloscope trace of a pipe sound with time base 1 division = 1.5 ms. Calculate the frequency.",
-     "status": "pending",
-     "answer": "Pending: the oscilloscope trace (number of divisions per cycle) is in the missing photograph.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Frequency = 4.1 x 10^2 Hz (about 410 Hz).",
+     "steps": [
+      "Measure over many cycles to be accurate: the trace shows 6 complete cycles between the first and the last peak.",
+      "6 cycles take about 9.8 divisions, so the period is T = 9.8 / 6 = 1.63 divisions.",
+      "T = 1.63 x 1.5 ms = 2.45 ms.",
+      "f = 1 / T = 1 / (2.45 x 10^-3 s) = 408 Hz, about 410 Hz."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-33.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-34.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-35.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q39.jpg"
+     ]
     },
     {
      "id": "3B-Q39b",
@@ -22638,16 +22791,23 @@ window.BANK.physics = {
       "wave 1 wave 2"
      ],
      "question": "Wave 1 and wave 2 in the same pipe (open top, closed bottom) are shown with nodes and antinodes. Explain how the frequency of wave 1 compares with wave 2.",
-     "status": "pending",
-     "answer": "Pending: the node and antinode diagrams for wave 1 and wave 2 are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The frequency of wave 2 is three times the frequency of wave 1 (wave 1 has one third the frequency of wave 2).",
+     "steps": [
+      "Both waves have a node at the closed bottom and an antinode at the open top, in the same pipe of length L, and sound travels at the same speed v in both.",
+      "Wave 1: node to the next antinode is lambda / 4, so L = lambda1 / 4 and lambda1 = 4L.",
+      "Wave 2: node, antinode, node, antinode is three quarter-wavelengths, so L = 3 lambda2 / 4 and lambda2 = 4L / 3.",
+      "v = f lambda with the same v, so f is inversely proportional to lambda: f2 / f1 = lambda1 / lambda2 = 3."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-33.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-34.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-35.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q39-2.jpg"
+     ]
     },
     {
      "id": "3B-Q39c",
@@ -22665,16 +22825,22 @@ window.BANK.physics = {
       "plotted"
      ],
      "question": "The student plotted frequency and wavelength of sound from different pipes. Determine a value for the speed of sound from the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph values are missing from the text; speed equals the gradient of frequency against 1 / wavelength.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Speed of sound = about 3.3 x 10^2 m s^-1 (the gradient of the graph).",
+     "steps": [
+      "v = f lambda, so lambda = v x (1/f): the gradient of wavelength against 1/frequency is the speed of sound.",
+      "Draw a best-fit line and read two well-separated points, for example (0.00105 Hz^-1, 0.335 m) and (0.00150 Hz^-1, 0.485 m).",
+      "Gradient = (0.485 - 0.335) / (0.00150 - 0.00105) = 0.150 / 0.00045 = 3.3 x 10^2 m s^-1."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-33.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-34.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-35.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q39-3.jpg"
+     ]
     },
     {
      "id": "3B-Q39d",
@@ -22706,7 +22872,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-35.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q39-4.jpg"
+     ]
     },
     {
      "id": "3B-Q40a",
@@ -22856,7 +23024,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q41.jpg"
+     ]
     },
     {
      "id": "3B-Q41b",
@@ -22873,13 +23043,20 @@ window.BANK.physics = {
       "calculation"
      ],
      "question": "The grating has line spacing 1.62 x 10^-6 m. Calculate the wavelength of the violet light.",
-     "status": "pending",
-     "answer": "Pending: the diffraction angle of the violet light is needed and is shown only on the missing diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Wavelength of the violet light = 3.9 x 10^-7 m (392 nm).",
+     "steps": [
+      "The diagram shows the first-order spectrum, with the violet edge at theta = 14 deg to the central line.",
+      "n lambda = d sin theta with n = 1.",
+      "lambda = 1.62 x 10^-6 m x sin 14 deg = 1.62 x 10^-6 x 0.2419.",
+      "lambda = 3.92 x 10^-7 m, about 390 nm, a violet wavelength."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q41.jpg"
+     ]
     },
     {
      "id": "3B-Q42a",
@@ -22926,14 +23103,23 @@ window.BANK.physics = {
       "path difference"
      ],
      "question": "Waves arrive parallel to the harbour wall through two gaps, with varying wavelength. Explain why the boat at A always oscillates strongly and the boat at B oscillates strongly or very weakly depending on wavelength.",
-     "status": "pending",
-     "answer": "Pending: positions A and B relative to the two gaps are shown only on the missing harbour diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A is on the axis midway between the two gaps, so the waves from the gaps always arrive in phase and A is always a maximum. B is off-axis, so the path difference depends on the wavelength: whole number of wavelengths gives a large amplitude and an odd number of half wavelengths gives a very small amplitude.",
+     "steps": [
+      "The gaps are comparable to the wavelength, so the waves diffract and spread into the harbour. The two gaps are in the same wavefront, so they act as coherent sources in phase, and the waves from them overlap and superpose.",
+      "A lies on the line of symmetry midway between the gaps, so the path lengths from the two gaps are equal.",
+      "The path difference at A is zero for every wavelength, so the waves always arrive in phase: constructive interference and always a large amplitude.",
+      "B is closer to one gap than the other, so there is a fixed non-zero path difference, but its value in wavelengths changes as the wavelength changes.",
+      "When the path difference at B is a whole number of wavelengths, the waves are in phase: constructive interference and a large amplitude.",
+      "When the path difference at B is an odd number of half wavelengths, the waves are in antiphase: destructive interference and almost no oscillation."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-39.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q42.jpg"
+     ]
     },
     {
      "id": "3B-Q43",
@@ -22949,10 +23135,13 @@ window.BANK.physics = {
       "diameter",
       "expression"
      ],
-     "question": "String of length l, tension T, speed v. A string of length 2l, same diameter and material, has tension 2T. Which expression gives the wave speed on it? (Options missing.)",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text; derived speed is sqrt(2) v.",
-     "steps": [],
+     "question": "There is tension T in a string of length l. When the string is displaced and then released, waves move on the string with speed v. A string of length 2l has the same diameter and is made from the same material. The tension in this string is 2T. Which expression gives the speed of waves on the string of length 2l? A v/sqrt(2); B v/2; C sqrt(2) v; D 2v.",
+     "status": "ready",
+     "answer": "C: sqrt(2) v.",
+     "steps": [
+      "v = sqrt(T / mu). The mass per unit length mu = density x cross-sectional area, which is the same for both strings (same material and diameter), whatever their lengths.",
+      "The new tension is 2T with the same mu, so v_new = sqrt(2T / mu) = sqrt(2) x sqrt(T / mu) = sqrt(2) v."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-41.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-42.jpg",
@@ -23018,7 +23207,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-42.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q44.jpg"
+     ]
     },
     {
      "id": "3B-Q44c",
@@ -23035,15 +23226,23 @@ window.BANK.physics = {
       "harp string"
      ],
      "question": "String produces 196 Hz with wavelength 0.72 m under tension 41 N. Deduce which new string (A, B, C or D, of given masses for 1.5 m) should replace it, cut to the same length.",
-     "status": "pending",
-     "answer": "Pending: the mass table for strings A to D is missing from the text. Required mass per unit length is about 2.06 x 10^-3 kg m-1, but the cut length is not stated in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "String B.",
+     "steps": [
+      "Wave speed v = f lambda = 196 Hz x 0.72 m = 141 m s^-1.",
+      "v = sqrt(T / mu), so mu = T / v^2 = 41 / 141^2 = 2.06 x 10^-3 kg m^-1.",
+      "The new string has the same tension and must give the same wave speed, so it needs the same mass per unit length. This does not depend on how much is cut off.",
+      "mu for each string = mass / 1.5 m: A 1.0 x 10^-3, B 2.07 x 10^-3, C 2.93 x 10^-3, D 4.2 x 10^-3 kg m^-1.",
+      "String B (3.1 g in 1.5 m) matches the required 2.06 x 10^-3 kg m^-1."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-41.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-42.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q44-2.jpg"
+     ]
     },
     {
      "id": "3B-Q45a",
@@ -23298,15 +23497,21 @@ window.BANK.physics = {
       "radians",
       "in phase"
      ],
-     "question": "Two waves of wavelength 2 m from source X start in phase and meet at Y after travelling different distances. What is the phase difference in radians? (Diagram and options missing.)",
-     "status": "pending",
-     "answer": "Pending: the path difference at Y is shown only on the missing diagram, and the answer options are missing.",
-     "steps": [],
+     "question": "Two waves, of wavelength 2 m, are produced by a source at point X. Both waves are initially in phase. The waves travel different distances and meet at point Y: the upper route is 4 m + 4 m and the lower route is 3 m + 6 m. Which is the phase difference, in radians, between the two waves at point Y? A 0; B pi/4; C pi/2; D pi.",
+     "status": "ready",
+     "answer": "D: pi radians.",
+     "steps": [
+      "Upper route = 4 + 4 = 8 m. Lower route = 3 + 6 = 9 m.",
+      "Path difference = 1 m = lambda / 2 (lambda = 2 m).",
+      "Phase difference = 2 pi x (1/2) = pi rad: the waves arrive in antiphase."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-46.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q48.jpg"
+     ]
     },
     {
      "id": "3B-Q49",
@@ -23351,15 +23556,23 @@ window.BANK.physics = {
       "displacement",
       "moving towards each other"
      ],
-     "question": "Two waves of equal speed and wavelength move towards each other on a string. Which diagram shows the string after both waves have moved half a wavelength?",
-     "status": "pending",
-     "answer": "Pending: the answer options are diagrams that are not in the text.",
-     "steps": [],
+     "question": "Two waves on a string move towards each other at the same speed and with the same wavelength. The diagram shows the string when the waves are half a wavelength apart (each wave is a crest followed by a trough, with the troughs leading). Which of the diagrams A to D shows the string when both waves have moved a distance of half a wavelength?",
+     "status": "ready",
+     "answer": "B: a crest, then a deep trough (twice as deep), then a crest.",
+     "steps": [
+      "Each wave is one wavelength long (a crest and a trough), and the two leading troughs face each other.",
+      "The gap between the waves is half a wavelength. When each wave moves half a wavelength, the two waves overlap over half a wavelength: the leading trough of each wave.",
+      "Where they overlap, the two troughs add (principle of superposition) to give one trough with twice the depth.",
+      "On either side the remaining crests of each wave are unaffected, so the shape is crest, double-depth trough, crest, which is B."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-48.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q50.jpg",
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q50-2.jpg"
+     ]
     },
     {
      "id": "3B-Q51a",
@@ -23375,15 +23588,20 @@ window.BANK.physics = {
       "stationary wave diagram"
      ],
      "question": "Label each node N and each antinode A on the standing wave shown.",
-     "status": "pending",
-     "answer": "Pending: the standing wave diagram is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "N at each end of the string (two nodes) and A at the middle of the loop (one antinode).",
+     "steps": [
+      "The string is fixed (or cannot move) at both ends, so there are nodes (N) at both ends.",
+      "The single loop shows the fundamental mode, so the point of maximum amplitude in the middle is the only antinode (A)."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-49.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-50.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q51.jpg"
+     ]
     },
     {
      "id": "3B-Q51b",
@@ -23463,15 +23681,22 @@ window.BANK.physics = {
       "string"
      ],
      "question": "Using the student's graph of f squared against T with l = 0.85 m, determine the mass per unit length mu of the string.",
-     "status": "pending",
-     "answer": "Pending: the gradient read from the graph is needed and the graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "mu = 6.5 x 10^-4 kg m^-1.",
+     "steps": [
+      "The graph is a straight line through the origin, so the gradient is f^2 / T = 1 / (4 l^2 mu).",
+      "Using the best-fit line, for example the point (5.0 N, 2650 Hz^2): gradient = 2650 / 5.0 = 5.3 x 10^2 Hz^2 N^-1.",
+      "mu = 1 / (4 l^2 x gradient) = 1 / (4 x 0.85^2 x 530).",
+      "mu = 6.5 x 10^-4 kg m^-1."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-49.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-50.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q51-2.jpg"
+     ]
     },
     {
      "id": "3B-Q52",
@@ -23487,15 +23712,22 @@ window.BANK.physics = {
       "phase",
       "energy"
      ],
-     "question": "A wave of amplitude A on a string with points P and Q. Which row of the table is correct for the stationary wave?",
-     "status": "pending",
-     "answer": "Pending: the table rows and the wave diagram are missing from the text.",
-     "steps": [],
+     "question": "The diagram shows a wave of amplitude A on a string. P and Q are two points on the string (either side of the crest). The wave on the string is a stationary wave. Which row is correct? Phase difference between P and Q / amplitude of oscillation of P and Q: A 0 deg, equal to A; B 0 deg, less than A; C 90 deg, equal to A; D 90 deg, less than A.",
+     "status": "ready",
+     "answer": "B: phase difference 0 deg, amplitude less than A.",
+     "steps": [
+      "P and Q are on the same loop, between the same pair of nodes, so they vibrate in phase: phase difference 0 deg (not 90 deg).",
+      "In a stationary wave the amplitude varies with position. Only the antinode at the crest has amplitude A.",
+      "P and Q are away from the antinode, so each has amplitude less than A."
+     ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-51.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q52.jpg",
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q52-2.jpg"
+     ]
     }
    ]
   },
@@ -23701,10 +23933,14 @@ window.BANK.physics = {
       "expression",
       "speed ratio"
      ],
-     "question": "Light travels at 2.3 x 10^8 m s-1 in water and 2.0 x 10^8 m s-1 in glass (n glass = 1.5). Which expression gives the refractive index of water? (Options missing.)",
-     "status": "pending",
-     "answer": "Pending: the list of expressions is missing from the text (expected n = c / v for water, about 1.3).",
-     "steps": [],
+     "question": "Light travels at a speed of 2.3 x 10^8 m s^-1 in water and 2.0 x 10^8 m s^-1 in glass. The refractive index of glass is 1.5. Which expression can be used to determine the refractive index of water? A (2.3 x 10^8 x 1.5) / (2.0 x 10^8); B (2.0 x 10^8 x 1.5) / (2.3 x 10^8); C (2.0 x 10^8) / (2.3 x 10^8 x 1.5); D (2.3 x 10^8) / (2.0 x 10^8 x 1.5).",
+     "status": "ready",
+     "answer": "B: n(water) = (2.0 x 10^8 x 1.5) / (2.3 x 10^8) = 1.30.",
+     "steps": [
+      "n = c / v. For glass, 1.5 = c / (2.0 x 10^8), so c = 1.5 x 2.0 x 10^8 = 3.0 x 10^8 m s^-1.",
+      "For water, n = c / v = (2.0 x 10^8 x 1.5) / (2.3 x 10^8) = 1.30.",
+      "This is the expression in B."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-03.jpg",
       "papers/physics/img/17-3C-Light-Waves-04.jpg"
@@ -23817,15 +24053,22 @@ window.BANK.physics = {
       "angle"
      ],
      "question": "A ray reflects by TIR inside a glass fibre and emerges at the end into water at the critical angle C for the glass-air interface. Determine the angle between the emerging ray and the normal.",
-     "status": "pending",
-     "answer": "Pending: the refractive index of the glass and the geometry of the missing diagram are needed (the glass index is not given in the text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "theta = 59 deg (59.3 deg).",
+     "steps": [
+      "At the glass-air side wall, sin C = 1 / 1.50, so C = 41.8 deg. This is the angle between the ray and the normal to the side wall (a horizontal line).",
+      "The bottom surface of the glass has a vertical normal, so the angle of incidence there is 90 - 41.8 = 48.2 deg.",
+      "Snell's law at glass-water: 1.50 sin 48.2 deg = 1.30 sin theta, so sin theta = 1.50 x 0.7454 / 1.30 = 0.860.",
+      "theta = sin^-1(0.860) = 59.3 deg. (The glass-water critical angle is 60.1 deg, which is larger than 48.2 deg, so the ray does refract out.)"
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-04.jpg",
       "papers/physics/img/17-3C-Light-Waves-05.jpg",
       "papers/physics/img/17-3C-Light-Waves-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q5.jpg"
+     ]
     },
     {
      "id": "3C-Q6a",
@@ -23843,15 +24086,24 @@ window.BANK.physics = {
       "sound path"
      ],
      "question": "Sound from 900 m depth bends at 700 m because the speed of sound varies with depth (diagram A). Explain the path shown in diagram B, referring to refraction and diagram A.",
-     "status": "pending",
-     "answer": "Pending: diagram A (speed of sound against depth) and diagram B are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The speed of sound increases as the sound rises from 900 m to 700 m, so it refracts away from the normal until it turns round (total internal reflection) and travels back down, giving the curved path to P.",
+     "steps": [
+      "Sound refracts when its speed changes. Diagram A shows the speed varying with depth, so the water behaves as many thin layers of different speed.",
+      "Diagram A shows the speed is a minimum (about 1477 m s^-1) near 900 m and increases towards the surface (about 1479 m s^-1 at 700 m and more above), so the sound moves into regions of higher speed as it rises.",
+      "On entering a region of higher speed, a wave bends away from the normal (the vertical), so the ray becomes closer to horizontal at each layer.",
+      "By about 700 m the angle to the normal has reached 90 deg, beyond the critical angle, so the sound is totally internally reflected and heads back down.",
+      "On the way down the speed decreases, so it bends towards the normal and the path is a symmetrical curve ending at P."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-06.jpg",
       "papers/physics/img/17-3C-Light-Waves-07.jpg",
       "papers/physics/img/17-3C-Light-Waves-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q6.jpg",
+      "papers/physics/fig/17-3C-Light-Waves-Q6-2.jpg"
+     ]
     },
     {
      "id": "3C-Q6b",
@@ -23868,15 +24120,22 @@ window.BANK.physics = {
       "longer time"
      ],
      "question": "Sound along a straight line from source to P takes longer to arrive than sound along the path in diagram B. Suggest why.",
-     "status": "pending",
-     "answer": "Pending: the speed-depth relationship in diagram A and the path in diagram B are needed to explain the arrival times.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The straight line stays at about 900 m where the speed of sound is lowest; the curved path rises to shallower, faster water, so it has a higher average speed and arrives first despite being longer.",
+     "steps": [
+      "The straight line from source to P stays close to 900 m depth, where diagram A shows the speed is at its minimum (about 1477 m s^-1).",
+      "The curved path goes up to about 700 m, where the speed is higher (about 1479 m s^-1 or more), so part of the path is travelled faster.",
+      "time = distance / speed, so the higher average speed more than makes up for the longer path, and the sound along the curve arrives sooner."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-06.jpg",
       "papers/physics/img/17-3C-Light-Waves-07.jpg",
       "papers/physics/img/17-3C-Light-Waves-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q6.jpg",
+      "papers/physics/fig/17-3C-Light-Waves-Q6-2.jpg"
+     ]
     },
     {
      "id": "3C-Q6c",
@@ -24041,15 +24300,22 @@ window.BANK.physics = {
       "side CD"
      ],
      "question": "White light is incident on side AB of a rectangular glass block (n red = 1.513, n violet = 1.532). Determine the distance between the red and violet points on side CD.",
-     "status": "pending",
-     "answer": "Pending: the angle of incidence and block dimensions are shown only in the missing diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Distance between the points = 0.070 cm (0.0698 cm, about 0.7 mm).",
+     "steps": [
+      "Snell's law at AB: sin 54.00 deg = n sin r. For red, sin r = 0.8090 / 1.513 = 0.5347, so r = 32.32 deg; for violet, sin r = 0.8090 / 1.532 = 0.5281, so r = 31.88 deg.",
+      "Both rays travel through the block depth of 6.400 cm, so the sideways shift from the normal line is x = 6.400 tan r.",
+      "Red: x = 6.400 tan 32.32 deg = 4.050 cm. Violet: x = 6.400 tan 31.88 deg = 3.980 cm.",
+      "Distance between the points on CD = 4.050 - 3.980 = 0.070 cm."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-09.jpg",
       "papers/physics/img/17-3C-Light-Waves-10.jpg",
       "papers/physics/img/17-3C-Light-Waves-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q10.jpg"
+     ]
     },
     {
      "id": "3C-Q10b",
@@ -24066,15 +24332,22 @@ window.BANK.physics = {
       "calculations"
      ],
      "question": "White light is incident on a glass-air boundary. Explain what happens to the red and violet light, including calculations.",
-     "status": "pending",
-     "answer": "Pending: the angle of incidence at the boundary is given only in the missing diagram (critical angles are about 41.3 deg for red and 40.8 deg for violet).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Red light is partly refracted out into the air (it does not meet the critical angle), but violet light is totally internally reflected back into the glass.",
+     "steps": [
+      "The critical angle is given by sin C = 1 / n. For red, C = sin^-1(1/1.513) = 41.37 deg. For violet, C = sin^-1(1/1.532) = 40.75 deg.",
+      "The angle of incidence is 41.00 deg.",
+      "Red: 41.00 deg < 41.37 deg, so the red light is refracted out into the air (also partially reflected). The angle in air is sin^-1(1.513 x sin 41.00 deg) = 83.0 deg to the normal.",
+      "Violet: 41.00 deg > 40.75 deg, so the violet light is totally internally reflected and stays in the glass."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-09.jpg",
       "papers/physics/img/17-3C-Light-Waves-10.jpg",
       "papers/physics/img/17-3C-Light-Waves-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q10-2.jpg"
+     ]
     },
     {
      "id": "3C-Q11a",
@@ -24215,15 +24488,21 @@ window.BANK.physics = {
       "calculation"
      ],
      "question": "Using the simplified diagram of a ray from the edge of the coin to the eye through water, determine the refractive index of the water.",
-     "status": "pending",
-     "answer": "Pending: the angles on the refraction diagram are shown only in the missing figure.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Refractive index of water = 1.3 (1.32).",
+     "steps": [
+      "In the water the ray goes 1.8 cm sideways over 3.0 cm depth: tan theta_w = 1.8 / 3.0, so theta_w = 31.0 deg to the normal.",
+      "In the air the ray passes the rim of the cup, 3.7 cm sideways and 4.0 cm vertically from the point where it leaves the surface: tan theta_a = 3.7 / 4.0, so theta_a = 42.8 deg to the normal.",
+      "n sin theta_w = 1.00 x sin theta_a, so n = sin 42.8 deg / sin 31.0 deg = 0.679 / 0.515 = 1.32."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-13.jpg",
       "papers/physics/img/17-3C-Light-Waves-14.jpg",
       "papers/physics/img/17-3C-Light-Waves-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q12.jpg"
+     ]
     },
     {
      "id": "3C-Q13",
@@ -24239,15 +24518,21 @@ window.BANK.physics = {
       "refractive index",
       "boundary"
      ],
-     "question": "A ray travels through glass towards a glass-air boundary whose critical angle is 42 deg. Which row of the table is correct? (Table missing.)",
-     "status": "pending",
-     "answer": "Pending: the table of rows is missing from the text (for C = 42 deg, n glass = 1 / sin 42 deg = 1.49).",
-     "steps": [],
+     "question": "A ray of light travels through glass, towards a boundary between glass and air. The critical angle for this boundary is 42 deg. Which row of the table is correct? Angle of incidence / what happens at the boundary: A 40 deg, all of the light is refracted; B 40 deg, all of the light is reflected; C 45 deg, all of the light is refracted; D 45 deg, all of the light is reflected.",
+     "status": "ready",
+     "answer": "D: at 45 deg all of the light is reflected.",
+     "steps": [
+      "Total internal reflection happens when the light travels from glass to air and the angle of incidence is greater than the critical angle.",
+      "45 deg is greater than the critical angle of 42 deg, so all of the light is reflected (C is wrong).",
+      "40 deg is less than 42 deg, so there is no TIR: some light refracts and some reflects. It is not \"all refracted\" or \"all reflected\" (A and B are wrong)."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-15.jpg",
       "papers/physics/img/17-3C-Light-Waves-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q13.jpg"
+     ]
     },
     {
      "id": "3C-Q14a",
@@ -24265,15 +24550,23 @@ window.BANK.physics = {
       "table"
      ],
      "question": "The speed of light in diamond, cubic zirconia and silicon carbide is given in a table. Deduce which material is the gemstone from the ray directed at the air boundary.",
-     "status": "pending",
-     "answer": "Pending: the table of speeds and the angle data from the diagram are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Cubic zirconia.",
+     "steps": [
+      "Refractive index n = c / v. Diamond: 3.00 x 10^8 / 1.24 x 10^8 = 2.42. Cubic zirconia: 3.00 x 10^8 / 1.39 x 10^8 = 2.16. Silicon carbide: 3.00 x 10^8 / 1.15 x 10^8 = 2.61.",
+      "From the diagram, the angle of incidence in air is 50 deg and the angle of refraction in the gemstone is 21 deg.",
+      "n = sin 50 deg / sin 21 deg = 0.766 / 0.358 = 2.14.",
+      "This matches cubic zirconia (2.16)."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-16.jpg",
       "papers/physics/img/17-3C-Light-Waves-17.jpg",
       "papers/physics/img/17-3C-Light-Waves-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q14.jpg",
+      "papers/physics/fig/17-3C-Light-Waves-Q14-2.jpg"
+     ]
     },
     {
      "id": "3C-Q14b(i)",
@@ -24290,15 +24583,23 @@ window.BANK.physics = {
       "calculation"
      ],
      "question": "A ray in a diamond is incident on a diamond-air boundary. Add to the diagram the path of the ray as it leaves the boundary, including a calculation.",
-     "status": "pending",
-     "answer": "Pending: the table of speeds, the angle of incidence and the diagram are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The ray is totally internally reflected at the diamond-air boundary (it does not leave). It reflects at 40.5 deg to the normal and travels back into the diamond, towards the left.",
+     "steps": [
+      "The ray enters the flat top face along the normal, so it is not deviated and travels vertically down.",
+      "It meets the lower facet that is tilted at 40.5 deg to the horizontal, so the angle of incidence there is 40.5 deg.",
+      "n(diamond) = 3.00 x 10^8 / 1.24 x 10^8 = 2.42, so sin C = 1 / 2.42 and C = 24.4 deg.",
+      "40.5 deg > 24.4 deg, so total internal reflection occurs. Draw the reflected ray at 40.5 deg to the normal on the other side, i.e. heading nearly horizontally to the left, staying inside the diamond."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-16.jpg",
       "papers/physics/img/17-3C-Light-Waves-17.jpg",
       "papers/physics/img/17-3C-Light-Waves-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q14-3.jpg",
+      "papers/physics/fig/17-3C-Light-Waves-Q14-2.jpg"
+     ]
     },
     {
      "id": "3C-Q14b(ii)",
@@ -24315,15 +24616,22 @@ window.BANK.physics = {
       "explain"
      ],
      "question": "Explain what would happen at the boundary if silicon carbide were used instead of diamond.",
-     "status": "pending",
-     "answer": "Pending: the speed of light in silicon carbide is in the missing table.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The same thing would happen: total internal reflection, because the critical angle for silicon carbide (22.5 deg) is even smaller than 40.5 deg.",
+     "steps": [
+      "n(silicon carbide) = 3.00 x 10^8 / 1.15 x 10^8 = 2.61.",
+      "sin C = 1 / 2.61 so C = 22.5 deg, which is smaller than for diamond (24.4 deg).",
+      "The angle of incidence (40.5 deg) is still greater than C, so the ray would still be totally internally reflected along the same path."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-16.jpg",
       "papers/physics/img/17-3C-Light-Waves-17.jpg",
       "papers/physics/img/17-3C-Light-Waves-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q14-3.jpg",
+      "papers/physics/fig/17-3C-Light-Waves-Q14-2.jpg"
+     ]
     },
     {
      "id": "3C-Q15a",
@@ -24340,14 +24648,21 @@ window.BANK.physics = {
       "incident ray"
      ],
      "question": "A ray is incident on a glass block (n = 1.58). Complete the diagram to show the ray as it enters the block, with calculations.",
-     "status": "pending",
-     "answer": "Pending: the angle of incidence is shown only in the missing diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw the refracted ray bending towards the normal at about 31 deg to the normal (angle of incidence measured as about 54-55 deg).",
+     "steps": [
+      "Draw the normal at the point of entry, perpendicular to the top surface.",
+      "Measure the angle of incidence with a protractor: about 54-55 deg.",
+      "sin r = sin i / n = sin 54.5 deg / 1.58 = 0.814 / 1.58 = 0.515.",
+      "r = 31 deg. The ray in the glass is drawn 31 deg from the normal on the far side, bent towards the normal because the light slows down in the glass."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-18.jpg",
       "papers/physics/img/17-3C-Light-Waves-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q15.jpg"
+     ]
     },
     {
      "id": "3C-Q15b",
@@ -24393,14 +24708,20 @@ window.BANK.physics = {
       "show that"
      ],
      "question": "Show that the critical angle for light at the core-cladding boundary of an optical fibre is about 75 deg.",
-     "status": "pending",
-     "answer": "Pending: the refractive indices of the core and cladding are not given in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Critical angle = 75.0 deg.",
+     "steps": [
+      "The light travels from the core (n = 1.48) to the cladding (n = 1.43).",
+      "At the critical angle the angle of refraction is 90 deg: 1.48 sin C = 1.43 sin 90 deg.",
+      "sin C = 1.43 / 1.48 = 0.966, so C = 75.0 deg, which is about 75 deg."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-19.jpg",
       "papers/physics/img/17-3C-Light-Waves-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q16.jpg"
+     ]
     },
     {
      "id": "3C-Q16a(ii)",
@@ -24417,14 +24738,21 @@ window.BANK.physics = {
       "measurement"
      ],
      "question": "Explain what happens to the ray after it meets the core-cladding boundary, using a measurement from the scale diagram.",
-     "status": "pending",
-     "answer": "Pending: the angle measured from the scale diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The ray is totally internally reflected at the boundary and goes back into the core, because its angle of incidence (about 80 deg) is greater than the critical angle (75 deg).",
+     "steps": [
+      "The ray meets the boundary at about 10 deg to the boundary (measured from the scale diagram).",
+      "The angle of incidence is measured from the normal, so i = 90 - 10 = 80 deg.",
+      "This is greater than the critical angle of 75 deg, and the light is going from the higher index core to the lower index cladding.",
+      "So there is total internal reflection: the ray is reflected back into the core at about 80 deg to the normal and no light enters the cladding."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-19.jpg",
       "papers/physics/img/17-3C-Light-Waves-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q16.jpg"
+     ]
     },
     {
      "id": "3C-Q16b(i)",
@@ -24441,14 +24769,20 @@ window.BANK.physics = {
       "calculation"
      ],
      "question": "Calculate the time taken for light to travel in a straight line along 70.0 km of the optical fibre.",
-     "status": "pending",
-     "answer": "Pending: the refractive index of the core is not given in the text (t = n L / c once it is known).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Time = 3.45 x 10^-4 s.",
+     "steps": [
+      "The core has refractive index 1.48, so the speed of light in it is v = c / n = 3.00 x 10^8 / 1.48 = 2.03 x 10^8 m s^-1.",
+      "Distance = 70.0 km = 7.00 x 10^4 m.",
+      "t = s / v = 7.00 x 10^4 / 2.03 x 10^8 = 3.45 x 10^-4 s."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-19.jpg",
       "papers/physics/img/17-3C-Light-Waves-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q16-2.jpg"
+     ]
     },
     {
      "id": "3C-Q16b(ii)",
@@ -24493,15 +24827,22 @@ window.BANK.physics = {
       "table",
       "conditions"
      ],
-     "question": "A ray is incident on the boundary between materials x and y (refractive indices nx and ny). Which row gives the conditions for TIR? (Table missing.)",
-     "status": "pending",
-     "answer": "Pending: the table of conditions is missing from the text (TIR needs light passing from the higher index nx to the lower ny, at an angle beyond the critical angle).",
-     "steps": [],
+     "question": "A ray of light is incident on the boundary between two materials, x (above) and y (below), as shown. The refractive index value for material x is n_x and for material y is n_y. Which row gives the conditions required for total internal reflection? Condition 1 / condition 2: A i > critical angle, n_x > n_y; B i > critical angle, n_x < n_y; C i < critical angle, n_x > n_y; D i < critical angle, n_x < n_y.",
+     "status": "ready",
+     "answer": "A: i > critical angle and n_x > n_y.",
+     "steps": [
+      "Total internal reflection needs the light to travel from the material of higher refractive index to the one of lower index. The ray is in material x, so n_x > n_y.",
+      "The angle of incidence must also be greater than the critical angle.",
+      "Only row A has both conditions."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-20.jpg",
       "papers/physics/img/17-3C-Light-Waves-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q17.jpg",
+      "papers/physics/fig/17-3C-Light-Waves-Q17-2.jpg"
+     ]
     },
     {
      "id": "3C-Q18",
@@ -24517,15 +24858,21 @@ window.BANK.physics = {
       "speed order",
       "transparent substances"
      ],
-     "question": "A ray refracts through substances L, M and N with speeds vL, vM and vN. Which shows the relationship between the speeds? (Diagram and options missing.)",
-     "status": "pending",
-     "answer": "Pending: the refraction diagram and option list are missing from the text.",
-     "steps": [],
+     "question": "The diagram shows refraction of a ray of light as it passes through three transparent substances, L, M and N. The speeds of light in the three substances are v_L, v_M and v_N, respectively. Which shows the relationship between v_L, v_M and v_N? A v_L > v_M > v_N; B v_L > v_N > v_M; C v_N > v_M > v_L; D v_M > v_N > v_L.",
+     "status": "ready",
+     "answer": "B: v_L > v_N > v_M.",
+     "steps": [
+      "The ray bends towards the normal on entering M from L, so light is slower in M: v_L > v_M.",
+      "It bends away from the normal on entering N from M, so light is faster in N: v_N > v_M.",
+      "The angle to the normal is largest in L (about 34 deg), then N (about 18 deg), then M (about 8 deg). Since sin(angle) is proportional to the speed, v_L > v_N > v_M."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-21.jpg",
       "papers/physics/img/17-3C-Light-Waves-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q18.jpg"
+     ]
     },
     {
      "id": "3C-Q19",
@@ -24541,15 +24888,21 @@ window.BANK.physics = {
       "polariser",
       "options"
      ],
-     "question": "Unpolarised light is incident on a polarising filter that transmits intensity I. The filter is rotated 90 deg. What is the transmitted intensity? (Options missing.)",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text.",
-     "steps": [],
+     "question": "A ray of unpolarised light is incident on a polarising filter. The filter transmits light of intensity I. The polarising filter is then rotated. Which gives the intensity of light transmitted after the filter has been rotated 90 deg? A 0; B I/4; C I/2; D I.",
+     "status": "ready",
+     "answer": "D: I.",
+     "steps": [
+      "Unpolarised light has oscillations in all planes, so any orientation of the filter passes the same fraction of it.",
+      "Rotating the filter does not change the intensity of transmitted light when the incident light is unpolarised.",
+      "The transmitted intensity therefore stays at I."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-22.jpg",
       "papers/physics/img/17-3C-Light-Waves-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q19.jpg"
+     ]
     },
     {
      "id": "3C-Q20",
@@ -24566,14 +24919,21 @@ window.BANK.physics = {
       "speeds"
      ],
      "question": "Refraction through L, M and N is shown. Which could give total internal reflection? A L to M; B L to N; C M to L; D N to M.",
-     "status": "pending",
-     "answer": "Pending: the diagram that fixes the ordering of speeds or refractive indices of L, M and N is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: light travelling from M to L.",
+     "steps": [
+      "Total internal reflection can only occur when light travels from a medium of higher refractive index (lower speed) to one of lower refractive index.",
+      "From the diagram the angles to the normal are about 34 deg in L, 8 deg in M and 18 deg in N, so v_L > v_N > v_M and n_M > n_N > n_L.",
+      "M has the highest refractive index, so light going from M to L (or from M to N) can be totally internally reflected.",
+      "Of the options, only M to L (C) goes from higher to lower index; L to M, L to N and N to M all go from lower to higher."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-22.jpg",
       "papers/physics/img/17-3C-Light-Waves-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q20.jpg"
+     ]
     },
     {
      "id": "3C-Q21a(i)",
@@ -24590,14 +24950,20 @@ window.BANK.physics = {
       "measurement"
      ],
      "question": "A ray is directed at a glass prism, shown before and after entering. Determine the refractive index of the glass.",
-     "status": "pending",
-     "answer": "Pending: the angles on the prism diagram are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Refractive index of the glass = 1.3 (1.32).",
+     "steps": [
+      "The 32 deg and 50 deg angles on the diagram are measured from the prism surface, not the normal.",
+      "Angle of incidence = 90 - 32 = 58 deg. Angle of refraction = 90 - 50 = 40 deg.",
+      "n = sin i / sin r = sin 58 deg / sin 40 deg = 0.848 / 0.643 = 1.32."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-23.jpg",
       "papers/physics/img/17-3C-Light-Waves-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q21.jpg"
+     ]
     },
     {
      "id": "3C-Q21a(ii)",
@@ -24614,14 +24980,20 @@ window.BANK.physics = {
       "construction"
      ],
      "question": "Draw the ray as it emerges from the prism at A.",
-     "status": "pending",
-     "answer": "Pending: the drawing depends on the prism diagram, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The ray leaves the prism at A refracted away from the normal, bending further from the normal than the angle inside the glass.",
+     "steps": [
+      "The angle between the ray and the right-hand face inside the glass is about 70 deg (180 - 50 - 60, with the prism drawn with a 60 deg apex angle), so the angle of incidence at A is about 20 deg to the normal.",
+      "This is less than the critical angle (about 49 deg), so the ray emerges into the air.",
+      "Going from glass into air it speeds up and bends away from the normal: draw the ray leaving A at a larger angle to the normal than inside the glass (about 27 deg)."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-23.jpg",
       "papers/physics/img/17-3C-Light-Waves-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q21.jpg"
+     ]
     },
     {
      "id": "3C-Q21b",
@@ -24695,15 +25067,22 @@ window.BANK.physics = {
       "table",
       "polarised light"
      ],
-     "question": "Two photographs X and Y of a car windscreen; Y is taken through a polarising filter. Which row of the table is correct? (Table missing.)",
-     "status": "pending",
-     "answer": "Pending: the table of rows is missing from the text.",
-     "steps": [],
+     "question": "Two photographs, X and Y, were taken of the same car windscreen. Photograph Y was taken through a polarising filter (the reflections are much reduced in Y). Which row of the table is correct? Light transmitted through windscreen / light reflected from windscreen: A plane polarised / plane polarised; B plane polarised / unpolarised; C unpolarised / plane polarised; D unpolarised / unpolarised.",
+     "status": "ready",
+     "answer": "C: transmitted light is unpolarised and reflected light is plane polarised.",
+     "steps": [
+      "The filter in Y removes most of the reflections, so the reflected light must be (at least partly) plane polarised and the filter blocks it.",
+      "The light from inside the car that is transmitted through the windscreen is still visible through the filter whatever its orientation, so it is unpolarised.",
+      "This is row C."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-25.jpg",
       "papers/physics/img/17-3C-Light-Waves-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q23.jpg",
+      "papers/physics/fig/17-3C-Light-Waves-Q23-2.jpg"
+     ]
     },
     {
      "id": "3C-Q24a",
@@ -24720,15 +25099,21 @@ window.BANK.physics = {
       "refraction"
      ],
      "question": "A ray from a fish to an observer refracts at the water-air boundary. Determine the refractive index of the water using measurements from the diagram.",
-     "status": "pending",
-     "answer": "Pending: the angles must be read from the missing diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Refractive index of water = 1.35 (accept 1.3 to 1.4).",
+     "steps": [
+      "Measure angles from the dashed normal with a protractor (diagram is to scale): in the water about 42 deg and in the air about 65 deg.",
+      "The light goes from water to air, so n(water) sin(angle in water) = 1.00 x sin(angle in air).",
+      "n = sin 65 deg / sin 42 deg = 0.906 / 0.669 = 1.35 (accept 1.3 to 1.4)."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-26.jpg",
       "papers/physics/img/17-3C-Light-Waves-27.jpg",
       "papers/physics/img/17-3C-Light-Waves-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q24.jpg"
+     ]
     },
     {
      "id": "3C-Q24b(i)",
@@ -24834,14 +25219,22 @@ window.BANK.physics = {
       "lake"
      ],
      "question": "A swimmer looks up through water at rays A, B and C incident on the surface. Rays A and B reach the eyes, ray C mostly does not. Explain the paths of the rays after they change direction at the surface.",
-     "status": "pending",
-     "answer": "Pending: the angles of rays A, B and C are shown only on the missing diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A refracts into the water, bending towards the normal, and reaches the eyes. B is totally internally reflected at the surface and goes back down to the eyes. Most of C refracts out into the air, so little reaches the eyes.",
+     "steps": [
+      "The critical angle for water-air is sin C = 1 / 1.33, so C = 48.8 deg.",
+      "Ray A travels from air into water at a large angle of incidence (about 67 deg). It slows down and bends towards the normal (about 44 deg in the water), so it travels down to the swimmer's eyes.",
+      "Ray B is travelling in the water and meets the surface at a large angle of incidence (about 70 deg), greater than 48.8 deg, so it is totally internally reflected and returns into the water, down towards the swimmer's eyes.",
+      "Ray C meets the surface at a small angle of incidence (about 14 deg), less than the critical angle, so most of it is refracted out into the air, bending away from the normal.",
+      "Only a small fraction of C is partially reflected back into the water, so most of the light from C does not reach the swimmer's eyes."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-28.jpg",
       "papers/physics/img/17-3C-Light-Waves-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q25.jpg"
+     ]
     },
     {
      "id": "3C-Q26a",
@@ -24871,7 +25264,9 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-30.jpg",
       "papers/physics/img/17-3C-Light-Waves-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q26.jpg"
+     ]
     },
     {
      "id": "3C-Q26b",
@@ -24888,15 +25283,22 @@ window.BANK.physics = {
       "deduce"
      ],
      "question": "Light must be reflected at surface Y; deduce whether a silver layer is needed, given n glass = 1.52.",
-     "status": "pending",
-     "answer": "Pending: the angle of incidence at surface Y is shown only on the missing diagram (critical angle for glass-air is about 41.1 deg).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes, a silver layer is needed: the angle of incidence at Y (37 deg) is less than the critical angle (41.1 deg), so total internal reflection will not occur.",
+     "steps": [
+      "The 53 deg on the diagram is between the ray and surface Y, so the angle of incidence (to the normal) is 90 - 53 = 37 deg.",
+      "The critical angle for glass to air is sin C = 1 / 1.52, so C = 41.1 deg.",
+      "37 deg < 41.1 deg, so the light will not be totally internally reflected: most would be transmitted out of the prism.",
+      "Therefore a layer of silver is needed on surface Y to reflect the light."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-29.jpg",
       "papers/physics/img/17-3C-Light-Waves-30.jpg",
       "papers/physics/img/17-3C-Light-Waves-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q26.jpg"
+     ]
     },
     {
      "id": "3C-Q26c(i)",
@@ -24944,15 +25346,23 @@ window.BANK.physics = {
       "efficiency"
      ],
      "question": "Monochromatic light of wavelength 600 nm, power 1.0 W, is incident on the sensor, whose current is proportional to photons detected. Using the graph of current against wavelength, determine the percentage of photons detected.",
-     "status": "pending",
-     "answer": "Pending: the current at 600 nm must be read from the graph, which is missing from the text. The incident photon rate is about 3.0 x 10^18 per second.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 85 % of the photons are detected.",
+     "steps": [
+      "From the graph, the current at 600 nm is about 0.41 A.",
+      "Assuming each detected photon releases one electron, the number of photons detected per second = I / e = 0.41 / 1.60 x 10^-19 = 2.6 x 10^18 s^-1.",
+      "Photon energy at 600 nm: E = hc / lambda = 6.63 x 10^-34 x 3.00 x 10^8 / 600 x 10^-9 = 3.3 x 10^-19 J.",
+      "Photons arriving per second = P / E = 1.0 / 3.3 x 10^-19 = 3.0 x 10^18 s^-1.",
+      "Percentage detected = 2.6 x 10^18 / 3.0 x 10^18 x 100 = 85 %."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-29.jpg",
       "papers/physics/img/17-3C-Light-Waves-30.jpg",
       "papers/physics/img/17-3C-Light-Waves-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q26-2.jpg"
+     ]
     },
     {
      "id": "3C-Q27",
@@ -24998,15 +25408,21 @@ window.BANK.physics = {
       "expression",
       "ray diagram"
      ],
-     "question": "A ray is incident at a boundary between oil and water (n water = 1.33). Which expression gives the refractive index of the oil? (Options and diagram missing.)",
-     "status": "pending",
-     "answer": "Pending: the expression options and the ray diagram are missing from the text.",
-     "steps": [],
+     "question": "The diagram shows a ray of light incident at a boundary between oil and water (15 deg to the normal in the oil, 17 deg to the normal in the water). The refractive index of water is 1.33. Which expression gives the refractive index of the oil? A sin 17 / (1.33 sin 15); B 1.33 sin 17 / sin 15; C sin 15 / (1.33 sin 17); D 1.33 sin 15 / sin 17.",
+     "status": "ready",
+     "answer": "B: n(oil) = 1.33 sin 17 deg / sin 15 deg (= 1.50).",
+     "steps": [
+      "Snell's law at the boundary: n(oil) sin 15 deg = n(water) sin 17 deg.",
+      "So n(oil) = 1.33 x sin 17 deg / sin 15 deg = 1.33 x 0.2924 / 0.2588 = 1.50.",
+      "The other options invert the ratio or put the 1.33 in the wrong place."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-32.jpg",
       "papers/physics/img/17-3C-Light-Waves-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q28.jpg"
+     ]
     },
     {
      "id": "3C-Q29a",
@@ -25052,14 +25468,20 @@ window.BANK.physics = {
       "calculation"
      ],
      "question": "A ray in air is incident on a damaged hydro-bead (n = 1.38). Calculate the angle of refraction r.",
-     "status": "pending",
-     "answer": "Pending: the angle of incidence is shown only on the missing diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "r = 29 deg.",
+     "steps": [
+      "Snell's law at the air-bead surface: 1.00 x sin 42 deg = 1.38 x sin r.",
+      "sin r = 0.6691 / 1.38 = 0.485.",
+      "r = 29.0 deg."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-33.jpg",
       "papers/physics/img/17-3C-Light-Waves-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q29.jpg"
+     ]
     },
     {
      "id": "3C-Q29b(ii)",
@@ -25076,14 +25498,21 @@ window.BANK.physics = {
       "refraction"
      ],
      "question": "Complete the diagram to show what happens to the ray at position X on the damaged surface, with a calculation.",
-     "status": "pending",
-     "answer": "Pending: the angle of incidence at X is needed and depends on the missing diagram (critical angle for n = 1.38 is about 46.4 deg).",
-     "steps": [],
+     "status": "ready",
+     "answer": "The ray is totally internally reflected at X: draw it reflecting back into the bead, at 50 deg to the normal on the other side.",
+     "steps": [
+      "The angle of incidence at X is 50 deg (marked between the ray and the normal).",
+      "The critical angle for the bead-air boundary is sin C = 1 / 1.38, so C = 46.4 deg.",
+      "50 deg > 46.4 deg, so total internal reflection takes place. The ray does not leave the bead.",
+      "Draw the reflected ray inside the bead, the same angle (50 deg) to the normal as the incident ray."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-33.jpg",
       "papers/physics/img/17-3C-Light-Waves-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q29.jpg"
+     ]
     },
     {
      "id": "3C-Q30",
@@ -25099,15 +25528,23 @@ window.BANK.physics = {
       "angles",
       "light source"
      ],
-     "question": "Two polarising filters X and Y between a source and observer give maximum intensity. X is rotated and Y then rotated to give maximum again. Which row of the table gives possible angles? (Table missing.)",
-     "status": "pending",
-     "answer": "Pending: the table of angle rows is missing from the text.",
-     "steps": [],
+     "question": "Two polarising filters, X and Y, are arranged between a light source and an observer. The intensity of light reaching the observer is a maximum. The observer rotates filter X. The observer then rotates filter Y so that the intensity of light is a maximum again. Which row shows possible angles of rotation? Angle of rotation of X / of Y: A 90 deg / 180 deg; B 180 deg / 270 deg; C 270 deg / 90 deg; D 360 deg / 270 deg.",
+     "status": "ready",
+     "answer": "C: X rotated 270 deg and Y rotated 90 deg.",
+     "steps": [
+      "Maximum intensity needs the transmission planes of X and Y to be parallel, which is true every 180 deg of relative rotation.",
+      "So for the maximum to return, the rotations of X and Y must differ by 0, 180 or 360 deg.",
+      "Row C differs by 180 deg, so the planes are parallel again.",
+      "Rows A, B and D differ by 90 deg, which puts the filters crossed and gives a minimum."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-34.jpg",
       "papers/physics/img/17-3C-Light-Waves-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q30.jpg",
+      "papers/physics/fig/17-3C-Light-Waves-Q30-2.jpg"
+     ]
     },
     {
      "id": "3C-Q31",
@@ -25154,15 +25591,21 @@ window.BANK.physics = {
       "ray"
      ],
      "question": "A ray box directs a narrow ray onto the surface of a glass block. Determine the angle of incidence.",
-     "status": "pending",
-     "answer": "Pending: the angle of incidence is read from the missing diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Angle of incidence = 54 deg (measured from the normal; accept about 52 to 56 deg).",
+     "steps": [
+      "Draw the normal at the point where the ray meets the glass, perpendicular to the surface.",
+      "Measure the angle between the incident ray and the normal with a protractor.",
+      "The ray makes about 54 deg with the normal (and about 36 deg with the surface)."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-35.jpg",
       "papers/physics/img/17-3C-Light-Waves-36.jpg",
       "papers/physics/img/17-3C-Light-Waves-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q32.jpg"
+     ]
     },
     {
      "id": "3C-Q32a(ii)",
@@ -25179,15 +25622,21 @@ window.BANK.physics = {
       "ray box"
      ],
      "question": "Calculate the angle of refraction in the glass block (n = 1.5) for the angle of incidence found in part (i).",
-     "status": "pending",
-     "answer": "Pending: depends on the angle of incidence from the missing diagram (use sin r = sin i / 1.5).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Angle of refraction = 33 deg (using an angle of incidence of 54 deg).",
+     "steps": [
+      "Snell's law: 1.00 x sin 54 deg = 1.5 x sin r.",
+      "sin r = 0.809 / 1.5 = 0.539.",
+      "r = 32.6 deg, about 33 deg."
+     ],
      "images": [
       "papers/physics/img/17-3C-Light-Waves-35.jpg",
       "papers/physics/img/17-3C-Light-Waves-36.jpg",
       "papers/physics/img/17-3C-Light-Waves-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q32.jpg"
+     ]
     },
     {
      "id": "3C-Q32b(i)",
@@ -25392,14 +25841,21 @@ window.BANK.physics = {
       "Planck"
      ],
      "question": "Using the hydrogen energy level diagram, determine the transition that releases a photon of frequency 7.48e13 Hz.",
-     "status": "pending",
-     "answer": "Pending: hydrogen energy level diagram is missing from the text (the photon energy works out to about 0.31 eV).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Transition from -0.54 eV to -0.85 eV.",
+     "steps": [
+      "Photon energy E = hf = 6.63 x 10^-34 x 7.48 x 10^13 = 4.96 x 10^-20 J.",
+      "In eV: 4.96 x 10^-20 / 1.60 x 10^-19 = 0.31 eV.",
+      "Look for two levels 0.31 eV apart: -0.54 - (-0.85) = 0.31 eV.",
+      "A photon is released when the electron falls, so the transition is from -0.54 eV down to -0.85 eV."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-02.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q3.jpg"
+     ]
     },
     {
      "id": "3D-Q4a",
@@ -25473,10 +25929,14 @@ window.BANK.physics = {
       "output power",
       "calculation"
      ],
-     "question": "Which expression calculates the maximum efficiency of a solar panel of area 1.54 m^2, incident intensity 1050 W m^-2 and maximum output 250 W?",
-     "status": "pending",
-     "answer": "Pending: answer options (A to D) are missing from the text.",
-     "steps": [],
+     "question": "A solar panel has a surface area of 1.54 m^2. The intensity of radiation incident on the Earth's surface is 1050 W m^-2. The manufacturer states that the maximum output power of the solar panel is 250 W. Which could be used to calculate the maximum efficiency of the solar panel? A (250 x 1.54) / 1050; B 1050 / (250 x 1.54); C (1050 x 1.54) / 250; D 250 / (1050 x 1.54).",
+     "status": "ready",
+     "answer": "D: 250 / (1050 x 1.54) = 0.155 (15.5 %).",
+     "steps": [
+      "Efficiency = useful power output / total power input.",
+      "Power input = intensity x area = 1050 x 1.54 W.",
+      "So efficiency = 250 / (1050 x 1.54), about 0.155. The other options invert the ratio or multiply the output by the area."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-04.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
@@ -25620,15 +26080,20 @@ window.BANK.physics = {
       "ultraviolet",
       "metal surface"
      ],
-     "question": "Which pair of graphs shows how photoelectron emission rate N and maximum KE Ek vary with intensity I of UV light on a metal?",
-     "status": "pending",
-     "answer": "Pending: the graph options are missing from the text.",
-     "steps": [],
+     "question": "Ultraviolet light is incident on a metal surface and photoelectrons are released. The number of photoelectrons released per second is N and the maximum kinetic energy of the released electrons is E_k. Which pair of graphs shows how N and E_k vary with the intensity I of the incident light? A N constant, E_k increases linearly with I; B N increases linearly with I (through the origin), E_k constant; C N and E_k both increase linearly with I; D N and E_k both constant.",
+     "status": "ready",
+     "answer": "B: N is proportional to I and E_k is constant.",
+     "steps": [
+      "Higher intensity means more photons arriving per second. Each photon releases at most one electron, so N is proportional to I (a straight line through the origin).",
+      "The maximum kinetic energy E_k = hf - phi depends on the photon frequency and the work function only, not on the number of photons, so it stays constant as I changes."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-06.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q8.jpg"
+     ]
     },
     {
      "id": "3D-Q9a",
@@ -25644,15 +26109,21 @@ window.BANK.physics = {
       "electron",
       "wave particle duality"
      ],
-     "question": "Determine whether the student's statement about the speed of the car is mathematically correct, given electron speed 1.5e7 m/s and car mass 900 kg.",
-     "status": "pending",
-     "answer": "Pending: the student's statement is missing from the text, so it cannot be checked.",
-     "steps": [],
+     "question": "A student writes: \"If every particle has a de Broglie wavelength, it should be possible for a moving car to have the same de Broglie wavelength as a fast moving electron, although the car would be moving very slowly.\" Determine whether the student's statement about the speed of the car is mathematically correct. Speed of electron = 1.5 x 10^7 m s^-1; mass of car = 900 kg.",
+     "status": "ready",
+     "answer": "The statement is correct: the car would need a speed of about 1.5 x 10^-26 m s^-1, which is extremely slow.",
+     "steps": [
+      "De Broglie wavelength lambda = h / (m v), so equal wavelengths need equal momentum: m_car v_car = m_e v_e.",
+      "v_car = m_e v_e / m_car = (9.11 x 10^-31 x 1.5 x 10^7) / 900.",
+      "v_car = 1.5 x 10^-26 m s^-1, an extremely small speed (effectively stationary), so the student is right."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-07.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q9.jpg"
+     ]
     },
     {
      "id": "3D-Q9b",
@@ -25724,15 +26195,21 @@ window.BANK.physics = {
       "photon energy",
       "table"
      ],
-     "question": "Light of frequency 6.32e15 Hz gives photoelectrons with maximum KE 3.60e-18 J. Determine which of four metals (work function table) is illuminated.",
-     "status": "pending",
-     "answer": "Pending: the work function table is missing from the text. Calculated work function is 5.90e-19 J (3.69 eV).",
-     "steps": [],
+     "question": "The work functions of four metals are: potassium 3.62 x 10^-19 J, magnesium 5.89 x 10^-19 J, tungsten 7.18 x 10^-19 J, iron 7.41 x 10^-19 J. When light with a frequency of 6.32 x 10^15 Hz is incident on a metal, photoelectrons are released with a maximum kinetic energy of 3.60 x 10^-18 J. Determine which of the four metals the light is incident on.",
+     "status": "ready",
+     "answer": "Magnesium.",
+     "steps": [
+      "Photon energy = hf = 6.63 x 10^-34 x 6.32 x 10^15 = 4.19 x 10^-18 J.",
+      "phi = hf - E_k(max) = 4.19 x 10^-18 - 3.60 x 10^-18 = 5.90 x 10^-19 J.",
+      "This matches the work function of magnesium (5.89 x 10^-19 J)."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-08.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q10.jpg"
+     ]
     },
     {
      "id": "3D-Q10c(i)",
@@ -25749,14 +26226,21 @@ window.BANK.physics = {
       "classical wave"
      ],
      "question": "UV intensity 38.0 mW m^-2 is absorbed over 8.10e-20 m^2 by a potassium atom. Calculate the time for the atom to absorb enough energy to release an electron.",
-     "status": "pending",
-     "answer": "Pending: the work function of potassium is in the missing table. Use t = phi / (I x A), where I x A = 3.08e-21 W.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Time taken = 1.2 x 10^2 s (about 118 s).",
+     "steps": [
+      "The work function of potassium (from the table) is 3.62 x 10^-19 J.",
+      "Intensity = 38.0 mW m^-2 = 3.80 x 10^-2 W m^-2. Power absorbed by the atom = I x A = 3.80 x 10^-2 x 8.10 x 10^-20 = 3.08 x 10^-21 W.",
+      "t = energy / power = 3.62 x 10^-19 / 3.08 x 10^-21 = 118 s.",
+      "The wave model predicts a delay of about two minutes, whereas emission is observed to be instant."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-08.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q10.jpg"
+     ]
     },
     {
      "id": "3D-Q10c(ii)",
@@ -25857,14 +26341,21 @@ window.BANK.physics = {
       "sketch"
      ],
      "question": "Sketch a graph of intensity against position along line AB across the circular diffraction pattern.",
-     "status": "pending",
-     "answer": "Pending: the diffraction pattern close-up and line AB are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A symmetrical graph with a tall central maximum at the middle of AB and weaker outer maxima that decrease in height away from the centre, with zero intensity between them.",
+     "steps": [
+      "The centre of AB is the position of greatest intensity: draw one tall peak there.",
+      "On each side the intensity falls to about zero (dark ring) and then rises to a much smaller secondary maximum.",
+      "Each further maximum is lower than the one before it, so the peak heights decrease outwards.",
+      "The graph is symmetrical about the centre, and the central peak is about twice as wide as the secondary peaks."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-10.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q12.jpg"
+     ]
     },
     {
      "id": "3D-Q13a(i)",
@@ -26208,15 +26699,22 @@ window.BANK.physics = {
       "125 s",
       "energy use"
      ],
-     "question": "Assess whether one kettle boil (1200 W for 125 s) uses less than 1% of the total energy shown on the smart meter display.",
-     "status": "pending",
-     "answer": "Pending: the smart meter display value is missing. Kettle energy = 1200 x 125 = 1.5e5 J = 0.0417 kWh.",
-     "steps": [],
+     "question": "The display of the smart meter in one household shows the total electrical energy used in one day: 6.85 kWh. 1 kW h is a unit of energy equivalent to 1 kW of power used for 1 hour. The kettle in this house has a power of 1200 W. The kettle takes 125 seconds to heat the water to boiling, then switches off. A student suggests that boiling the kettle once uses less than 1% of the total energy shown on the smart meter display. Assess the student's suggestion.",
+     "status": "ready",
+     "answer": "The suggestion is correct: one boil uses about 0.61 % of the 6.85 kWh.",
+     "steps": [
+      "Energy used by the kettle = P t = 1200 W x 125 s = 1.5 x 10^5 J (0.0417 kWh).",
+      "Total energy on the display = 6.85 kWh = 6.85 x 3.6 x 10^6 J = 2.47 x 10^7 J.",
+      "Fraction = 1.5 x 10^5 / 2.47 x 10^7 = 0.0061 = 0.61 %.",
+      "0.61 % is less than 1 %, so the student is correct."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-16.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q17.jpg"
+     ]
     },
     {
      "id": "3D-Q18a",
@@ -26293,10 +26791,14 @@ window.BANK.physics = {
       "light sensor",
       "inverse square"
      ],
-     "question": "A bulb of efficiency 12% is 2.0 m above a sensor reading 0.14 W m^-2. Which expression gives the bulb's power?",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text.",
-     "steps": [],
+     "question": "A light bulb with an efficiency of 12% is positioned 2.0 m above a light sensor. The intensity of light at the light sensor is 0.14 W m^-2. Which could be used to calculate the power of the light bulb? A (0.14) x (0.12) x (4 pi) x (2.0)^2; B (0.14) x (4 pi) x (2.0)^2 / 0.12; C (0.14) x (0.12) x (pi) x (2.0)^2; D (0.14) x (pi) x (2.0)^2 / 0.12.",
+     "status": "ready",
+     "answer": "B: P = (0.14 x 4 pi x 2.0^2) / 0.12 = 59 W.",
+     "steps": [
+      "The light spreads out over a sphere of radius 2.0 m, so the light power emitted P_light = I x 4 pi r^2 = 0.14 x 4 pi x 2.0^2 = 7.0 W.",
+      "Only 12 % of the electrical power is emitted as light, so P_bulb = P_light / 0.12.",
+      "P_bulb = 0.14 x 4 pi x 2.0^2 / 0.12 = 59 W."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-18.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-19.jpg"
@@ -26376,14 +26878,20 @@ window.BANK.physics = {
       "diagram"
      ],
      "question": "Which wavefront diagram (A to D, gaps of different sizes) shows diffracted wavefronts that are not semicircular?",
-     "status": "pending",
-     "answer": "Pending: the wavefront diagrams A to D are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: the gap is much wider than the wavelength, so the diffracted wavefronts are not semicircular.",
+     "steps": [
+      "Diffracted wavefronts are semicircular only when the gap is about the size of the wavelength or smaller.",
+      "In A the gap is about equal to the wavelength, and in C it is narrower than the wavelength, so both spread out in semicircles. In D the gap is only about 1.5 wavelengths.",
+      "In B the wavefronts are close together (short wavelength) and the gap is about four wavelengths wide, so most of the wavefront passes straight through with only slight bending at the edges."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-19.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q21.jpg"
+     ]
     },
     {
      "id": "3D-Q22",
@@ -26663,10 +27171,13 @@ window.BANK.physics = {
       "options",
       "momentum"
      ],
-     "question": "A moving electron has de Broglie wavelength 656 nm. Which expression could be used to find its speed?",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text.",
-     "steps": [],
+     "question": "A moving electron has a de Broglie wavelength of 656 nm. Which could be used to determine the speed of the electron? A 6.63 x 10^-34 / ((656 x 10^-9)(9.11 x 10^-31)); B (656 x 10^-9)(9.11 x 10^-31) / 6.63 x 10^-34; C (656 x 10^-9)(6.63 x 10^-34) / 9.11 x 10^-31; D 9.11 x 10^-31 / ((656 x 10^-9)(6.63 x 10^-34)).",
+     "status": "ready",
+     "answer": "A: v = h / (m lambda) = 6.63 x 10^-34 / ((656 x 10^-9)(9.11 x 10^-31)).",
+     "steps": [
+      "de Broglie: lambda = h / (m v), so v = h / (m lambda).",
+      "Substituting h = 6.63 x 10^-34 J s, m = 9.11 x 10^-31 kg and lambda = 656 x 10^-9 m gives option A (about 1.1 x 10^3 m s^-1)."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-24.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-25.jpg"
@@ -26719,15 +27230,22 @@ window.BANK.physics = {
       "shift"
      ],
      "question": "Explain what change the student made to the microphone position between Photograph 2 and Photograph 3.",
-     "status": "pending",
-     "answer": "Pending: Photographs 2 and 3 (oscilloscope traces) are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The microphone was moved along the line by a whole number of wavelengths (for example one wavelength) towards or away from the loudspeaker, since the traces are in antiphase again.",
+     "steps": [
+      "In Photograph 2 the peaks of one trace are directly above the troughs of the other: the traces are in antiphase (phase difference 180 deg).",
+      "In Photograph 3 the traces are again in antiphase (each peak is over a trough of the other trace), so the phase difference is unchanged.",
+      "The phase difference only repeats when the path from loudspeaker to microphone changes by a whole number of wavelengths (moving by half a wavelength would turn antiphase into in phase).",
+      "So the microphone was moved a distance of one wavelength (or n wavelengths) along the line, which is how the wavelength can be measured."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-25.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-26.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q28.jpg"
+     ]
     },
     {
      "id": "3D-Q29a",
@@ -26773,14 +27291,22 @@ window.BANK.physics = {
       "student statements"
      ],
      "question": "Explain the conclusions that can be drawn from the student's statements about photoelectric emission from copper and zinc with sources A (2.0 eV) and B (4.4 eV).",
-     "status": "pending",
-     "answer": "Pending: the student's statements are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Photon energy must exceed the work function for electrons to be released, so there is a threshold: 2.0 eV is below both work functions; 4.4 eV is above the work function of zinc but below that of copper; intensity changes the rate of emission, not whether emission occurs. This supports the photon (particle) model of light.",
+     "steps": [
+      "Source A (2.0 eV): no electrons from either metal, however intense, so 2.0 eV is less than the work function of both copper and zinc. A photon gives all its energy to one electron, so raising the intensity (more photons) cannot help.",
+      "Source B (4.4 eV) releases electrons from zinc but not copper: so phi(zinc) is less than 4.4 eV and phi(copper) is greater than 4.4 eV. Different metals have different work functions.",
+      "Putting these together: 2.0 eV < phi(zinc) < 4.4 eV < phi(copper) (zinc is 4.30 eV).",
+      "Increasing the intensity of B on zinc means more photons per second, so more electrons per second are released (rate proportional to intensity).",
+      "Conclusion: emission depends on photon energy (frequency) exceeding the work function, not on intensity. This cannot be explained by the wave model, where energy would build up, but fits light as photons with energy hf."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-27.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q29.jpg"
+     ]
     },
     {
      "id": "3D-Q30",
@@ -26796,14 +27322,20 @@ window.BANK.physics = {
       "smallest energy difference"
      ],
      "question": "Which of four electron transitions (A to D) emits a photon with the longest wavelength?",
-     "status": "pending",
-     "answer": "Pending: the transition diagram and options are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A.",
+     "steps": [
+      "A photon is emitted only when an electron drops to a lower level, so only the downward arrows A and B are emissions (C and D are upward: absorption).",
+      "Photon energy = hc / lambda, so the longest wavelength comes from the smallest energy gap.",
+      "A is the smaller drop (top level to the middle level), while B is a larger drop to the ground state, so A has the least energy and the longest wavelength."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-28.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q30.jpg"
+     ]
     },
     {
      "id": "3D-Q31",
@@ -26819,14 +27351,20 @@ window.BANK.physics = {
       "particle behaviour"
      ],
      "question": "Explain how the pattern produced when electrons pass through a thin metal foil is evidence for wave rather than particle behaviour.",
-     "status": "pending",
-     "answer": "Pending: the pattern image is missing from the text (expected: concentric rings from diffraction, as in Q55).",
-     "steps": [],
+     "status": "ready",
+     "answer": "The pattern is a set of concentric bright and dark rings, which is a diffraction pattern; diffraction and interference occur only for waves, so the electrons are behaving as waves.",
+     "steps": [
+      "The screen shows concentric rings of alternating bright and dark regions, a diffraction pattern.",
+      "The electrons are diffracted by the regularly spaced atoms in the foil (spacing similar to their de Broglie wavelength), and the diffracted waves interfere: constructively at the bright rings, destructively at the dark rings.",
+      "Particles would pass straight through, or scatter randomly, giving a central spot or a diffuse patch rather than a pattern of maxima and minima. Diffraction and interference are wave properties, so this is evidence of wave behaviour."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-29.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q31.jpg"
+     ]
     },
     {
      "id": "3D-Q32a",
@@ -26843,14 +27381,21 @@ window.BANK.physics = {
       "bright dot"
      ],
      "question": "A grating of 450 lines/mm produces the next bright dot at X. Determine the laser wavelength from the diagram.",
-     "status": "pending",
-     "answer": "Pending: the diagram giving the position of X and screen distance is missing. Grating spacing d = 1/450 mm = 2.22e-6 m.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Wavelength = 6.3 x 10^-7 m (630 nm).",
+     "steps": [
+      "Line spacing d = 1 / (450 x 10^3 lines per m) = 2.22 x 10^-6 m.",
+      "X is the first order maximum (n = 1): tan theta = 0.500 / 1.690, so theta = 16.5 deg.",
+      "lambda = d sin theta / n = 2.22 x 10^-6 x sin 16.5 deg = 2.22 x 10^-6 x 0.2837.",
+      "lambda = 6.30 x 10^-7 m = 630 nm."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-30.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q32.jpg"
+     ]
     },
     {
      "id": "3D-Q32b",
@@ -26953,16 +27498,25 @@ window.BANK.physics = {
       "zinc",
       "wavelength bands"
      ],
-     "question": "Electrons released from zinc have minimum de Broglie wavelength 1.50e-9 m; zinc work function 4.30 eV. Deduce whether the UV is UVA, UVB or UVC (band table missing).",
-     "status": "pending",
-     "answer": "Pending: the UV band wavelength table is missing. Calculated photon wavelength is about 250 nm (max KE 0.67 eV, photon energy 4.97 eV).",
-     "steps": [],
+     "question": "Ultraviolet light is incident on a zinc plate. The UV section is split into UVC (200-280 nm), UVB (280-320 nm) and UVA (320-400 nm). The minimum de Broglie wavelength of the released electrons is 1.50 x 10^-9 m. Deduce whether the ultraviolet light incident on the zinc plate is UVA, UVB or UVC. Work function of zinc = 4.30 eV.",
+     "status": "ready",
+     "answer": "UVC (the wavelength is about 250 nm).",
+     "steps": [
+      "The shortest de Broglie wavelength belongs to the electrons with the greatest momentum, i.e. the maximum kinetic energy.",
+      "p = h / lambda = 6.63 x 10^-34 / 1.50 x 10^-9 = 4.42 x 10^-25 kg m s^-1.",
+      "E_k(max) = p^2 / 2m = (4.42 x 10^-25)^2 / (2 x 9.11 x 10^-31) = 1.07 x 10^-19 J = 0.67 eV.",
+      "Photon energy = phi + E_k(max) = 4.30 + 0.67 = 4.97 eV = 7.95 x 10^-19 J.",
+      "lambda = hc / E = 6.63 x 10^-34 x 3.00 x 10^8 / 7.95 x 10^-19 = 2.50 x 10^-7 m = 250 nm.",
+      "250 nm lies in the range 200-280 nm, so the light is UVC."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-31.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-32.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q33.jpg"
+     ]
     },
     {
      "id": "3D-Q33c",
@@ -26978,16 +27532,23 @@ window.BANK.physics = {
       "gradient",
       "intercept"
      ],
-     "question": "Describe two ways the student's graph of KE max against frequency for zinc is inconsistent with known zinc values (work function 4.30 eV).",
-     "status": "pending",
-     "answer": "Pending: the graph is missing from the text.",
-     "steps": [],
+     "question": "A student used a zinc plate and UV light of different frequencies. The graph of maximum kinetic energy (eV) against frequency (x 10^14 Hz) is a straight line through (7.5, 0), (9.0, 2), (10.5, 4), (12.0, 6), (13.5, 8) and (15.0, 10). Einstein's photoelectric equation hf = phi + (1/2)mv^2 applies. Describe two ways that the graph is not consistent with the values known for a zinc plate. Your answer should include calculations. Work function of zinc = 4.30 eV.",
+     "status": "ready",
+     "answer": "(1) The threshold frequency is 7.5 x 10^14 Hz on the graph (phi = 3.1 eV) but should be 1.04 x 10^15 Hz for phi = 4.30 eV. (2) The gradient is 1.33 x 10^-14 eV s (2.1 x 10^-33 J s), more than three times the Planck constant (4.14 x 10^-15 eV s).",
+     "steps": [
+      "The gradient of a graph of E_k against f should equal h = 6.63 x 10^-34 J s = 4.14 x 10^-15 eV s, i.e. 0.414 eV per 10^14 Hz.",
+      "The graph's gradient is 10 eV / (15.0 - 7.5) x 10^14 Hz = 1.33 x 10^-14 eV s = 2.1 x 10^-33 J s, about 3.2 times too big.",
+      "The intercept on the frequency axis is the threshold frequency f0 = phi / h. With phi = 4.30 eV it should be 4.30 / 4.14 x 10^-15 = 1.04 x 10^15 Hz (10.4 x 10^14 Hz).",
+      "The graph has f0 = 7.5 x 10^14 Hz, which corresponds to phi = h f0 = 4.14 x 10^-15 x 7.5 x 10^14 = 3.1 eV, not 4.30 eV. (Also, at 15.0 x 10^14 Hz E_k should be 6.2 - 4.3 = 1.9 eV, not 10 eV.)"
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-31.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-32.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q33-2.jpg"
+     ]
     },
     {
      "id": "3D-Q34",
@@ -27064,15 +27625,23 @@ window.BANK.physics = {
       "wavelength table"
      ],
      "question": "Deduce the colour of visible light absorbed when an electron is excited from -3.40 eV to -1.50 eV in hydrogen (colour wavelength table missing).",
-     "status": "pending",
-     "answer": "Pending: the colour wavelength table is missing. Energy 1.90 eV gives wavelength about 654 nm.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Red light (wavelength about 654 nm).",
+     "steps": [
+      "The energy absorbed = -1.50 - (-3.40) = 1.90 eV = 1.90 x 1.60 x 10^-19 = 3.04 x 10^-19 J.",
+      "The photon energy equals the energy gap, so lambda = hc / E = 6.63 x 10^-34 x 3.00 x 10^8 / 3.04 x 10^-19.",
+      "lambda = 6.54 x 10^-7 m = 654 nm.",
+      "654 nm lies in the range 620-750 nm, so the light is red."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-34.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-35.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q36.jpg",
+      "papers/physics/fig/18-3D-Quantum-Physics-Q36-2.jpg"
+     ]
     },
     {
      "id": "3D-Q36b",
@@ -27148,10 +27717,14 @@ window.BANK.physics = {
       "expression",
       "power of the Sun"
      ],
-     "question": "Sun-Mercury distance 4.60e10 m, intensity 1.45e4 W m^-2. Which expression gives the Sun's power?",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text. Expected form: P = 4 pi r^2 I.",
-     "steps": [],
+     "question": "When the distance between the Sun and the planet Mercury is 4.60 x 10^10 m, the intensity of solar radiation at the surface of Mercury is 1.45 x 10^4 W m^-2. Which expression gives the power of the Sun? A (1.45 x 10^4)(pi)(4.60 x 10^10)^2; B (1.45 x 10^4)(4 pi)(4.60 x 10^10)^2; C (1.45 x 10^4) / ((pi)(4.60 x 10^10)^2); D (1.45 x 10^4) / ((4 pi)(4.60 x 10^10)^2).",
+     "status": "ready",
+     "answer": "B: P = I x 4 pi r^2 = (1.45 x 10^4)(4 pi)(4.60 x 10^10)^2 (about 3.9 x 10^26 W).",
+     "steps": [
+      "Intensity = power / area, so P = I x A.",
+      "The Sun radiates equally in all directions, so at distance r the power is spread over a sphere of area 4 pi r^2.",
+      "P = (1.45 x 10^4)(4 pi)(4.60 x 10^10)^2, which is option B."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-36.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-37.jpg"
@@ -27173,14 +27746,20 @@ window.BANK.physics = {
       "options"
      ],
      "question": "Which could NOT have caused the electron transition shown in the hydrogen diagram (A: absorb 13.6 eV photon; B: absorb 10.2 eV photon; C: 13.6 eV electron collision; D: 10.2 eV electron collision)?",
-     "status": "pending",
-     "answer": "Pending: the energy level diagram showing the transition is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: the atom absorbing a photon with an energy of 13.6 eV.",
+     "steps": [
+      "The transition is from -13.6 eV to -3.4 eV, which needs 13.6 - 3.4 = 10.2 eV.",
+      "An atom can only absorb a photon whose energy exactly matches an energy gap, so a 10.2 eV photon (B) can do it, but a 13.6 eV photon (A) does not match this gap and cannot cause it.",
+      "An electron colliding with the atom can transfer part of its kinetic energy, so electrons of 10.2 eV (D) or 13.6 eV (C) could both excite the atom (the 13.6 eV electron keeps the extra 3.4 eV)."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-36.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q38.jpg"
+     ]
     },
     {
      "id": "3D-Q39",
@@ -27195,10 +27774,13 @@ window.BANK.physics = {
       "momentum",
       "options"
      ],
-     "question": "The de Broglie wavelength of a moving electron is 5.47e-10 m. Which expression gives its speed?",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text. Expected: v = h / (m lambda), which gives 1.33e6 m s-1.",
-     "steps": [],
+     "question": "The de Broglie wavelength for a moving electron is 5.47 x 10^-10 m. Which expression gives the speed of the electron in m s^-1? A 6.63 x 10^-34 / ((9.11 x 10^-31)(5.47 x 10^-10)); B 6.63 x 10^-34 / ((1.60 x 10^-19)(5.47 x 10^-10)); C (9.11 x 10^-31)(5.47 x 10^-10) / 6.63 x 10^-34; D (1.60 x 10^-19)(5.47 x 10^-10) / 6.63 x 10^-34.",
+     "status": "ready",
+     "answer": "A: v = h / (m lambda) = 6.63 x 10^-34 / ((9.11 x 10^-31)(5.47 x 10^-10)) = 1.33 x 10^6 m s^-1.",
+     "steps": [
+      "lambda = h / (m v), so v = h / (m lambda).",
+      "The mass needed is the electron mass 9.11 x 10^-31 kg (not the charge 1.60 x 10^-19 C), which gives option A."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-37.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-38.jpg"
@@ -27247,15 +27829,22 @@ window.BANK.physics = {
       "threshold",
       "identify source"
      ],
-     "question": "Electrons from magnesium (work function 3.68 eV) have speed 5.70e5 m/s. Deduce which of sources A, B, C (frequency table missing) was used.",
-     "status": "pending",
-     "answer": "Pending: the source frequency table is missing. Calculated photon energy is 4.61 eV (about 1.11e15 Hz).",
-     "steps": [],
+     "question": "The frequencies of three sources of light are: A 1.11 x 10^15 Hz, B 1.23 x 10^15 Hz, C 1.34 x 10^15 Hz. Light from one of the sources was incident on a magnesium plate and electrons were released with a maximum speed of 5.70 x 10^5 m s^-1. Deduce which of the three sources was used. Work function of magnesium = 3.68 eV.",
+     "status": "ready",
+     "answer": "Source A.",
+     "steps": [
+      "E_k(max) = (1/2) m v^2 = 0.5 x 9.11 x 10^-31 x (5.70 x 10^5)^2 = 1.48 x 10^-19 J = 0.925 eV.",
+      "Photon energy = phi + E_k = 3.68 + 0.925 = 4.61 eV = 4.61 x 1.60 x 10^-19 = 7.37 x 10^-19 J.",
+      "f = E / h = 7.37 x 10^-19 / 6.63 x 10^-34 = 1.11 x 10^15 Hz.",
+      "This matches source A."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-38.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q40.jpg"
+     ]
     },
     {
      "id": "3D-Q41a",
@@ -27471,14 +28060,20 @@ window.BANK.physics = {
       "expression",
       "options"
      ],
-     "question": "Which expression equals the lowest frequency of light possible from a transition between the hydrogen levels shown?",
-     "status": "pending",
-     "answer": "Pending: the energy level diagram and options are missing from the text.",
-     "steps": [],
+     "question": "The diagram shows some of the energy levels for a hydrogen atom: 0, -1.36 x 10^-19 J, -2.42 x 10^-19 J and -5.42 x 10^-19 J. Which expression is equal to the lowest frequency of light possible from a transition between these energy levels? A 5.42 x 10^-19 / 6.63 x 10^-34; B 1.36 x 10^-19 / 6.63 x 10^-34; C (2.42 x 10^-19 + 1.36 x 10^-19) / 6.63 x 10^-34; D (2.42 x 10^-19 - 1.36 x 10^-19) / 6.63 x 10^-34.",
+     "status": "ready",
+     "answer": "D: (2.42 x 10^-19 - 1.36 x 10^-19) / 6.63 x 10^-34.",
+     "steps": [
+      "f = Delta E / h, so the lowest frequency comes from the smallest energy gap.",
+      "The gaps (in 10^-19 J) are: 0 to -1.36 = 1.36; -1.36 to -2.42 = 1.06; -2.42 to -5.42 = 3.00 (larger gaps are bigger still).",
+      "The smallest gap is between -1.36 and -2.42: 2.42 - 1.36 = 1.06 x 10^-19 J, giving f = 1.6 x 10^14 Hz. This is option D."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q44.jpg"
+     ]
     },
     {
      "id": "3D-Q45a(i)",
@@ -27522,15 +28117,22 @@ window.BANK.physics = {
       "maximum KE",
       "identify metal"
      ],
-     "question": "UV of wavelength 310 nm released electrons with KE max 0.351 eV. Deduce which metal (work function table missing) was most likely used.",
-     "status": "pending",
-     "answer": "Pending: the work function table is missing. Photon energy is 4.01 eV, so the work function is 3.66 eV.",
-     "steps": [],
+     "question": "The table shows work functions (x 10^-19 J): magnesium 5.89, aluminium 6.53, zinc 6.88, iron 7.20. The ultraviolet light used had a wavelength of 310 nm and released electrons with a maximum kinetic energy of 0.351 eV. Deduce which of the metals was most likely to have been used as the metal plate.",
+     "status": "ready",
+     "answer": "Magnesium.",
+     "steps": [
+      "Photon energy = hc / lambda = 6.63 x 10^-34 x 3.00 x 10^8 / 310 x 10^-9 = 6.42 x 10^-19 J (4.01 eV).",
+      "E_k(max) = 0.351 eV = 0.351 x 1.60 x 10^-19 = 5.6 x 10^-20 J.",
+      "phi = photon energy - E_k = 6.42 x 10^-19 - 0.56 x 10^-19 = 5.86 x 10^-19 J (3.66 eV).",
+      "This matches magnesium (5.89 x 10^-19 J). The other metals all have work functions above the photon energy of 6.42 x 10^-19 J, so they would not emit at all."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-43.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q45.jpg"
+     ]
     },
     {
      "id": "3D-Q45b",
@@ -27870,10 +28472,13 @@ window.BANK.physics = {
       "momentum",
       "options"
      ],
-     "question": "An electron has de Broglie wavelength 1.55e-9 m. Which expression gives its speed in m/s?",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text. Expected: v = h / (m lambda), giving about 4.7e5 m s-1.",
-     "steps": [],
+     "question": "An electron has a de Broglie wavelength of 1.55 x 10^-9 m. Which gives the speed, in m s^-1, of this electron? A 9.11 x 10^-31 / (6.63 x 10^-34 x 1.55 x 10^-9); B (1.55 x 10^-9 x 9.11 x 10^-31) / 6.63 x 10^-34; C (6.63 x 10^-34 x 1.55 x 10^-9) / 9.11 x 10^-31; D 6.63 x 10^-34 / (1.55 x 10^-9 x 9.11 x 10^-31).",
+     "status": "ready",
+     "answer": "D: v = h / (m lambda) = 6.63 x 10^-34 / (1.55 x 10^-9 x 9.11 x 10^-31) = 4.7 x 10^5 m s^-1.",
+     "steps": [
+      "lambda = h / (m v), so v = h / (m lambda).",
+      "v = 6.63 x 10^-34 / (9.11 x 10^-31 x 1.55 x 10^-9) = 4.7 x 10^5 m s^-1, which is option D."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-48.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-49.jpg"
@@ -27923,10 +28528,13 @@ window.BANK.physics = {
       "orbit",
       "expression"
      ],
-     "question": "Earth is 1.49e11 m from the Sun and Jupiter 7.78e11 m. Jupiter's sunlight intensity is IJ. Which expression gives the intensity at Earth?",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text. Expected: I_E = I_J x (7.78e11 / 1.49e11)^2.",
-     "steps": [],
+     "question": "Earth and Jupiter orbit the Sun. The distance from Earth to the Sun is 1.49 x 10^11 m. The distance from Jupiter to the Sun is 7.78 x 10^11 m. The intensity of sunlight at Jupiter is I_J. Which can be used to calculate the intensity of the sunlight at Earth? A I_J x (7.78 x 10^11)^2 / (1.49 x 10^11)^2; B I_J x 4 pi x (7.78 x 10^11)^2 / (1.49 x 10^11)^2; C I_J x 7.78 x 10^11 / 1.49 x 10^11; D I_J x 4 pi x 7.78 x 10^11 / 1.49 x 10^11.",
+     "status": "ready",
+     "answer": "A: I_E = I_J x (7.78 x 10^11)^2 / (1.49 x 10^11)^2.",
+     "steps": [
+      "Intensity = P / (4 pi r^2), so intensity is inversely proportional to the square of the distance from the Sun.",
+      "I_E / I_J = (r_J / r_E)^2, so I_E = I_J x (7.78 x 10^11 / 1.49 x 10^11)^2 (about 27 times I_J). The factor 4 pi cancels, so B and D are wrong; the square is needed, so C is wrong."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-49.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-50.jpg"
@@ -28330,15 +28938,20 @@ window.BANK.physics = {
       "expression",
       "emitted photon"
      ],
-     "question": "An electron drops from E2 to E1 emitting a photon of wavelength lambda. Which expression gives E2?",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text. Expected: E2 = E1 + hc / lambda.",
-     "steps": [],
+     "question": "In an atom, an electron drops from energy level E2 to energy level E1. A photon of wavelength lambda is emitted. Which expression gives the energy E2? A hc/lambda - E1; B hc/lambda + E1; C h lambda/c - E1; D h lambda/c + E1.",
+     "status": "ready",
+     "answer": "B: E2 = hc / lambda + E1.",
+     "steps": [
+      "The photon energy equals the energy lost by the electron: hc / lambda = E2 - E1.",
+      "Rearranging gives E2 = hc / lambda + E1. The photon energy is hc/lambda (not h lambda/c), which rules out C and D."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-56.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-57.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q58.jpg"
+     ]
     },
     {
      "id": "3D-Q59",
@@ -28409,10 +29022,13 @@ window.BANK.physics = {
       "momentum",
       "options"
      ],
-     "question": "An electron has de Broglie wavelength 3.5e-10 m. Which expression gives its velocity in m/s?",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text. Expected: v = h / (m lambda), giving about 2.08e6 m s-1.",
-     "steps": [],
+     "question": "An electron has a de Broglie wavelength of 3.5 x 10^-10 m. Which expression gives the velocity of the electron in m s^-1? A 6.63 x 10^-34 / (9.11 x 10^-31 x 3.5 x 10^-10); B 6.63 x 10^-34 / 3.5 x 10^-10; C (9.11 x 10^-31 x 3.5 x 10^-10) / 6.63 x 10^-34; D 3.5 x 10^-10 / 6.63 x 10^-34.",
+     "status": "ready",
+     "answer": "A: v = h / (m lambda) = 6.63 x 10^-34 / (9.11 x 10^-31 x 3.5 x 10^-10) = 2.1 x 10^6 m s^-1.",
+     "steps": [
+      "lambda = h / (m v), so v = h / (m lambda).",
+      "Option B leaves out the electron mass (it would give momentum, not velocity), and C and D are inverted. So A is correct."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-58.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-59.jpg"
@@ -28433,15 +29049,21 @@ window.BANK.physics = {
       "options",
       "h"
      ],
-     "question": "Which statement shows how the gradient of the graph of 1/lambda against KE gives Planck's constant h? (graph and options missing)",
-     "status": "pending",
-     "answer": "Pending: the graph and option list are missing from the text.",
-     "steps": [],
+     "question": "Light of wavelength lambda travelling at speed c is incident on a metal surface. Photoelectrons are emitted with a maximum kinetic energy (1/2)mv^2(max). The graph shows 1/lambda (y-axis) against (1/2)mv^2(max) (x-axis), a straight line. Which shows how the gradient can be used to determine the Planck constant h? A h = 1/gradient; B h = 1/(c x gradient); C h = c/gradient; D h = gradient.",
+     "status": "ready",
+     "answer": "B: h = 1 / (c x gradient).",
+     "steps": [
+      "hf = phi + (1/2)mv^2, and f = c / lambda, so hc / lambda = phi + (1/2)mv^2.",
+      "Rearranging: 1/lambda = (1/hc) x (1/2)mv^2 + phi/(hc).",
+      "On a graph of 1/lambda against (1/2)mv^2, the gradient = 1/(hc), so h = 1 / (c x gradient)."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-58.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q62.jpg"
+     ]
     },
     {
      "id": "3D-Q63",
@@ -28604,16 +29226,23 @@ window.BANK.physics = {
       "85.0 kohm",
       "power supply"
      ],
-     "question": "Four 85.0 kohm resistors in a circuit with a switch: supply p.d. 1960 V when open, and 108 V across resistor A when closed. Calculate the internal resistance of the supply.",
-     "status": "pending",
-     "answer": "Pending: the circuit diagram showing how the resistors and switch are connected is missing from the text.",
-     "steps": [],
+     "question": "The circuit has four resistors A, B, C and D in series (each 85.0 kohm) connected across a power supply through a switch. When the switch is open, the p.d. across the power supply is 1960 V. When the switch is closed, the p.d. across resistor A is 108 V. Calculate the internal resistance of the power supply.",
+     "status": "ready",
+     "answer": "Internal resistance = 1.2 x 10^6 ohm (1.20 M ohm).",
+     "steps": [
+      "The e.m.f. is the open-circuit p.d. = 1960 V.",
+      "The current in the series circuit I = V_A / R_A = 108 / 85 000 = 1.27 x 10^-3 A.",
+      "The p.d. across all four resistors (the terminal p.d.) = 4 x 108 = 432 V, so the lost volts = 1960 - 432 = 1528 V.",
+      "r = lost volts / I = 1528 / 1.27 x 10^-3 = 1.2 x 10^6 ohm."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-60.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-61.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-62.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q64.jpg"
+     ]
     },
     {
      "id": "3D-Q65",
@@ -28629,15 +29258,21 @@ window.BANK.physics = {
       "particle Y",
       "table"
      ],
-     "question": "Particle X (mass m, velocity v) has de Broglie wavelength lambda; particle Y has wavelength 0.25 lambda. Which table row could give Y's mass and velocity?",
-     "status": "pending",
-     "answer": "Pending: the table of mass and velocity options is missing from the text.",
-     "steps": [],
+     "question": "Particle X of mass m is moving with velocity v and has a de Broglie wavelength lambda. Particle Y has a de Broglie wavelength 0.25 lambda. Which row could give the mass and velocity of particle Y? A 0.25m, v; B 0.5m, 8v; C m, 2v; D 2m, 4v.",
+     "status": "ready",
+     "answer": "B: mass 0.5m and velocity 8v.",
+     "steps": [
+      "lambda = h / (m v), so a wavelength 0.25 times as big needs a momentum 4 times as big: m_Y v_Y = 4 m v.",
+      "B: 0.5m x 8v = 4 m v, which works.",
+      "A gives 0.25 mv, C gives 2 mv and D gives 8 mv, none of which equal 4 mv."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-62.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-63.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q65.jpg"
+     ]
     },
     {
      "id": "3D-Q66",
@@ -28653,10 +29288,13 @@ window.BANK.physics = {
       "options",
       "loud sound"
      ],
-     "question": "A student a distance d from a wall hears an echo after time t. Which expression gives the speed of sound?",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text. Expected: v = 2d / t.",
-     "steps": [],
+     "question": "A student stands a distance d from a wall. She makes a loud sound and hears the echo of the sound from the wall after a time t. Which expression gives the speed of the sound wave? A 2d/t; B d/t; C d/(2t); D 2t/d.",
+     "status": "ready",
+     "answer": "A: v = 2d / t.",
+     "steps": [
+      "The sound travels to the wall and back, a total distance of 2d, in time t.",
+      "speed = distance / time = 2d / t."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-62.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-63.jpg"
@@ -28739,16 +29377,23 @@ window.BANK.physics = {
       "photocell",
       "kinetic energy"
      ],
-     "question": "With the battery reversed, UV of wavelength 250 nm is incident on the photocell (work function 6.9e-19 J). Deduce whether there is a current.",
-     "status": "pending",
-     "answer": "Pending: the battery's e.m.f. is not given in the text. Max KE is 1.06e-19 J, so the stopping p.d. is 0.66 V; a current needs the battery p.d. to be below 0.66 V.",
-     "steps": [],
+     "question": "The scientist reversed the connections to the 1.5 V battery so that the electrode is at a lower potential than the plate (negligible internal resistance). When photoelectrons have enough kinetic energy to overcome the potential difference across the photocell, there is a current. Ultraviolet light of wavelength 250 nm is incident on the photocell. Work function of the metal plate = 6.9 x 10^-19 J. Deduce whether there is a current in the circuit.",
+     "status": "ready",
+     "answer": "No current: the maximum kinetic energy (1.06 x 10^-19 J, 0.66 eV) is less than the 1.5 eV needed to overcome the 1.5 V p.d.",
+     "steps": [
+      "Photon energy = hc / lambda = 6.63 x 10^-34 x 3.00 x 10^8 / 250 x 10^-9 = 7.96 x 10^-19 J.",
+      "Maximum kinetic energy of the photoelectrons = 7.96 x 10^-19 - 6.9 x 10^-19 = 1.06 x 10^-19 J (0.66 eV).",
+      "With the battery reversed, the electrons are repelled by the electrode. To reach it each needs kinetic energy of at least eV = 1.60 x 10^-19 x 1.5 = 2.40 x 10^-19 J.",
+      "1.06 x 10^-19 J is less than 2.40 x 10^-19 J (equivalent to a stopping p.d. of 0.66 V against 1.5 V), so no electrons cross the gap and there is no current."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-63.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-64.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-65.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q67.jpg"
+     ]
     },
     {
      "id": "3D-Q68",
@@ -28792,15 +29437,21 @@ window.BANK.physics = {
       "emission",
       "number of frequencies"
      ],
-     "question": "Photons transfer 8.74e-19 J to electrons in the ground state of mercury atoms. How many different frequencies of light could be emitted? (energy level diagram missing)",
-     "status": "pending",
-     "answer": "Pending: the mercury energy level diagram and options are missing from the text. Photon energy transferred = 5.46 eV.",
-     "steps": [],
+     "question": "The diagram shows the energy needed for an electron in the ground state of a mercury atom to move to different energy levels: 4.91 eV, 5.46 eV, 6.70 eV and 7.73 eV above the ground state. Photons transfer 8.74 x 10^-19 J to electrons in the ground state of mercury atoms. Which gives the number of different frequencies of light that could be emitted? A 1; B 3; C 6; D 10.",
+     "status": "ready",
+     "answer": "B: 3 different frequencies.",
+     "steps": [
+      "The energy transferred in eV = 8.74 x 10^-19 / 1.60 x 10^-19 = 5.46 eV, so electrons are excited to the 5.46 eV level only.",
+      "From the 5.46 eV level an electron can fall to 4.91 eV, or to the ground state; an electron at 4.91 eV can then fall to the ground state.",
+      "The possible transitions are 5.46 to 4.91, 5.46 to 0 and 4.91 to 0: three different photon energies, so three frequencies."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-66.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-67.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q69.jpg"
+     ]
     },
     {
      "id": "3D-Q70",
@@ -28845,14 +29496,21 @@ window.BANK.physics = {
       "200 microseconds"
      ],
      "question": "Determine whether the transducer can detect ultrasound reflected from a crack 4.0 cm away in concrete at 23 C, pulse duration 200 us (speed-temperature graph missing).",
-     "status": "pending",
-     "answer": "Pending: the speed of ultrasound against temperature graph is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "No: the echo returns after about 19 microseconds while the 200 microsecond pulse is still being emitted, so the pulses overlap and the crack cannot be detected.",
+     "steps": [
+      "The graph is a straight line from 4000 m s^-1 at 0 deg C to 4200 m s^-1 at 40 deg C, a gradient of 5 m s^-1 per deg C, so at 23 deg C v = 4000 + 5 x 23 = 4115 m s^-1.",
+      "The pulse travels to the crack and back: distance = 2 x 4.0 cm = 0.080 m.",
+      "Time for the echo = 0.080 / 4115 = 1.9 x 10^-5 s = 19 microseconds.",
+      "The pulse lasts 200 microseconds, so the reflected pulse arrives back while the transducer is still sending: the pulses overlap and the reflection cannot be detected."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-67.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-68.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q71.jpg"
+     ]
     },
     {
      "id": "3D-Q71b",
@@ -29017,16 +29675,22 @@ window.BANK.physics = {
       "130 J",
       "screen area"
      ],
-     "question": "Show that the total energy of UV incident on the glass screen in 25 s is about 130 J, given intensity 50 mW cm^-2 (screen dimensions in diagram).",
-     "status": "pending",
-     "answer": "Pending: the screen dimensions are in the missing diagram. The implied area is about 104 cm^2 (0.0104 m^2).",
-     "steps": [],
+     "question": "A technician replaces the screen on a mobile phone. The equipment and screen dimensions (7.15 cm wide, 14.7 cm long) are shown. The intensity of the UV light received on the screen is 50 mW cm^-2. The glue takes 25 s to harden. Show that the total energy incident on the glass screen during this time is about 130 J.",
+     "status": "ready",
+     "answer": "E = 131 J, which is about 130 J.",
+     "steps": [
+      "Area of the screen = 7.15 cm x 14.7 cm = 105 cm^2.",
+      "Power received = intensity x area = 50 mW cm^-2 x 105 cm^2 = 5260 mW = 5.26 W.",
+      "Energy = power x time = 5.26 W x 25 s = 131 J, about 130 J."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-70.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-71.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-72.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q73.jpg"
+     ]
     },
     {
      "id": "3D-Q73b(ii)",
@@ -29132,10 +29796,13 @@ window.BANK.physics = {
       "photoelectrons per second",
       "statements"
      ],
-     "question": "Which statement about photoelectric emission from a metal is correct? (Options A and B given; options C and D missing from the text.)",
-     "status": "pending",
-     "answer": "Pending: options C and D are missing from the text. Option B is wrong as written, because the number emitted per second depends on intensity, not work function.",
-     "steps": [],
+     "question": "When monochromatic light is incident on the surface of a metal, photoelectrons are emitted. Which statement is correct? A The maximum kinetic energy of the photoelectrons depends on the intensity of the incident light. B The number of photoelectrons emitted per second depends on the frequency of the incident light. C The maximum kinetic energy of the photoelectrons depends on the frequency of the incident light. D The number of photoelectrons emitted per second depends on the work function of the metal.",
+     "status": "ready",
+     "answer": "C: the maximum kinetic energy depends on the frequency of the incident light.",
+     "steps": [
+      "Each photon gives all its energy hf to one electron, so E_k(max) = hf - phi depends on the frequency (and the work function), which makes C correct.",
+      "Intensity only changes the number of photons per second, so A is wrong, and the number of electrons per second depends on the intensity (not on the frequency or the work function), so B and D are wrong."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-72.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-73.jpg"
@@ -29157,14 +29824,20 @@ window.BANK.physics = {
       "largest energy"
      ],
      "question": "Which transition (arrows A to D on the hydrogen energy level diagram) would emit a photon with the shortest wavelength?",
-     "status": "pending",
-     "answer": "Pending: the energy level diagram with arrows A to D is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A.",
+     "steps": [
+      "A photon is emitted when an electron falls to a lower level, so only A and D (downward arrows) are emissions; B and C are upward (absorption).",
+      "Photon wavelength lambda = hc / Delta E, so the shortest wavelength comes from the largest energy drop.",
+      "A is a drop of 13.6 eV (0 to -13.6) but D is only 3.39 eV (0 to -3.39), so A emits the photon with the shortest wavelength."
+     ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-72.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-73.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q75.jpg"
+     ]
     }
    ]
   },
@@ -29188,13 +29861,19 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "Choose the current-potential difference graph for a negative temperature coefficient thermistor.",
-     "status": "pending",
-     "answer": "The graph options are missing from the text, so the correct graph cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "For a negative temperature coefficient (NTC) thermistor, a larger current heats it, which frees more conduction electrons, so its resistance falls as V increases.",
+      "Falling resistance means I rises faster than V: the I-V graph curves upward with an increasing gradient, which is graph C.",
+      "A is a straight line (ohmic resistor), B flattens (filament lamp, resistance rising), D shows current falling as V rises, which no listed component does."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-01.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q1.jpg"
+     ]
     },
     {
      "id": "4A-Q2",
@@ -29211,14 +29890,21 @@ window.BANK.physics = {
       "resistivity table"
      ],
      "question": "A wire of length 0.20 m, resistance (value given, unit lost in text) and diameter 0.36 mm is used to find its resistivity. Use a table of resistivities to determine the metal.",
-     "status": "pending",
-     "answer": "The table of resistivity values is missing from the text, so the metal cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Aluminium (rho = 2.5 x 10^-8 ohm m, closest to 2.7 x 10^-8 ohm m)",
+     "steps": [
+      "Convert the resistance: R = 50 m ohm = 0.050 ohm. Area A = pi d^2 / 4 = pi x (0.36 x 10^-3)^2 / 4 = 1.02 x 10^-7 m^2.",
+      "Use R = rho L / A, so rho = R A / L = 0.050 x 1.02 x 10^-7 / 0.20.",
+      "rho = 2.5 x 10^-8 ohm m.",
+      "This is closest to the tabulated value for aluminium (2.7 x 10^-8 ohm m), so the wire is aluminium (tungsten is 5.6 x 10^-8, iron 1.0 x 10^-7)."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-02.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q2.jpg"
+     ]
     },
     {
      "id": "4A-Q3a",
@@ -29290,15 +29976,21 @@ window.BANK.physics = {
       "wire Q"
      ],
      "question": "Wires P and Q are in series. P has density n and diameter d, with drift velocity v. Q has density 2n and diameter 2d. Find the drift velocity in Q.",
-     "status": "pending",
-     "answer": "The answer options A-D are missing from the text. Working gives v_Q = v / 8, since the current is equal, n doubles and area is x4.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: v/8",
+     "steps": [
+      "The wires are in series, so the current I is the same in P and Q.",
+      "Use I = n q v A. Q has diameter 2d, so its area A_Q = 4 A_P. Its carrier density is n_Q = 2 n.",
+      "Same I gives n_P A_P v = n_Q A_Q v_Q, so v_Q = n A v / (2n x 4A) = v / 8."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-03.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-04.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q4.jpg"
+     ]
     },
     {
      "id": "4A-Q5a",
@@ -29488,13 +30180,19 @@ window.BANK.physics = {
       "resistance"
      ],
      "question": "Which row of a table contains two components whose resistance decreases as the applied potential difference increases?",
-     "status": "pending",
-     "answer": "The table of components is missing from the text, so the correct row cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: negative temperature coefficient thermistor and diode",
+     "steps": [
+      "An NTC thermistor heats as the pd and current rise, freeing more conduction electrons, so its resistance falls.",
+      "A diode conducts better as the forward pd rises above its threshold, so V/I falls.",
+      "An ohmic conductor has constant resistance and a filament lamp has resistance that increases as it heats, so rows A, B and D are wrong."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q8.jpg"
+     ]
     },
     {
      "id": "4A-Q9",
@@ -29537,14 +30235,20 @@ window.BANK.physics = {
       "component identification"
      ],
      "question": "Identify the electrical component with the current-potential difference graph shown (A diode, B filament lamp, C resistor, D thermistor).",
-     "status": "pending",
-     "answer": "The I-V graph is missing from the text, so the component cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: thermistor",
+     "steps": [
+      "The curve passes through the origin and is symmetrical for positive and negative pd, so the component conducts both ways (not a diode).",
+      "The gradient increases as the pd increases, so the resistance V/I decreases. A filament lamp would flatten and a resistor would be a straight line.",
+      "Falling resistance with increasing pd and current is the behaviour of an NTC thermistor."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-07.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q10.jpg"
+     ]
     },
     {
      "id": "4A-Q11",
@@ -29560,14 +30264,21 @@ window.BANK.physics = {
       "points X Y Z"
      ],
      "question": "For an ideal diode graph with points X, Y and Z labelled, state at which point(s) the resistance is infinite.",
-     "status": "pending",
-     "answer": "The diode graph with labelled points X, Y and Z is missing from the text, so the answer cannot be read off.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: X and Y",
+     "steps": [
+      "Resistance R = V / I is infinite where there is a non-zero pd but zero current.",
+      "Point X is on the reverse-bias part of the graph, which lies on the pd axis (I = 0).",
+      "Point Y is at a small forward pd below the threshold, where the curve is still on the axis with I = 0.",
+      "Point Z is on the steep forward part where the current is large, so its resistance is finite. Hence X and Y only."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-07.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q11.jpg"
+     ]
     },
     {
      "id": "4A-Q12a",
@@ -29729,13 +30440,19 @@ window.BANK.physics = {
       "number density"
      ],
      "question": "A copper wire has area 5.0 x 10^-7 m^2 and current 0.93 A, with 8.4 x 10^28 conduction electrons per m^3. Which value gives the drift velocity in m s^-1?",
-     "status": "pending",
-     "answer": "The answer options A-D are missing from the text. The calculated value is about 1.4 x 10^-4 m s^-1 (v = I / nAe).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: v = 0.93 / [(8.4 x 10^28)(1.6 x 10^-19)(5.0 x 10^-7)]",
+     "steps": [
+      "Use I = n A v e, so v = I / (n A e).",
+      "Substitute I = 0.93 A, n = 8.4 x 10^28 m^-3, A = 5.0 x 10^-7 m^2 and e = 1.6 x 10^-19 C. The charge e must be in the denominator, which only option D has.",
+      "The value is about 1.4 x 10^-4 m s^-1."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q14.jpg"
+     ]
     },
     {
      "id": "4A-Q15",
@@ -29752,13 +30469,19 @@ window.BANK.physics = {
       "length"
      ],
      "question": "A metal cube of side x has current I through opposite faces and pd V across them. Which expression gives the resistivity?",
-     "status": "pending",
-     "answer": "The answer options are missing from the text. Working gives rho = V x / I (R = V / I, A = x^2, L = x).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: V x / I",
+     "steps": [
+      "Resistance R = V / I.",
+      "Current flows between opposite faces, so the length is L = x and the area is A = x^2.",
+      "rho = R A / L = (V / I)(x^2) / x = V x / I."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q15.jpg"
+     ]
     },
     {
      "id": "4A-Q16",
@@ -29802,14 +30525,19 @@ window.BANK.physics = {
       "table"
      ],
      "question": "The temperature of a thermistor increases. Which row of the table gives the effect on the number of conduction electrons and the amplitude of lattice vibrations?",
-     "status": "pending",
-     "answer": "The table of rows is missing from the text, so the correct row cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: number of conduction electrons increases; amplitude of lattice vibrations increases",
+     "steps": [
+      "Raising the temperature of a (NTC) thermistor gives electrons enough energy to leave their atoms, so the number of conduction electrons increases.",
+      "The lattice ions gain thermal energy, so their vibration amplitude increases as well, which means that row A is correct."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-12.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q17.jpg"
+     ]
     },
     {
      "id": "4A-Q18",
@@ -29826,14 +30554,22 @@ window.BANK.physics = {
       "explanation"
      ],
      "question": "Explain the shape of the I-V graphs for a filament bulb and for a negative temperature coefficient thermistor, referring to the movement of conduction electrons.",
-     "status": "pending",
-     "answer": "The two graphs are not present in the text, and the answer depends on their shapes.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Filament bulb: resistance rises because ions vibrate more. NTC thermistor: resistance falls because many more electrons are freed.",
+     "steps": [
+      "Filament bulb: as V and I rise, the filament heats up, so the lattice ions vibrate with larger amplitude.",
+      "The conduction electrons collide with the ions more often, which lowers their drift velocity, and the number of conduction electrons in the metal stays about the same.",
+      "So the resistance V/I increases and the graph flattens as the pd rises (gradient decreases).",
+      "Thermistor: as V and I rise, the thermistor heats up and more electrons are released from their atoms, so the number of conduction electrons increases a lot.",
+      "Lattice vibrations also increase, but this effect is smaller than the increase in carriers, so the resistance falls and the graph gets steeper (I = nAvq with n increasing)."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-12.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q18.jpg"
+     ]
     },
     {
      "id": "4A-Q19",
@@ -29849,14 +30585,20 @@ window.BANK.physics = {
       "amperes"
      ],
      "question": "3.1 x 10^19 electrons pass a point in 30 s. Which gives the magnitude of the current in amperes?",
-     "status": "pending",
-     "answer": "The answer options are missing from the text. Working gives I = 3.1 x 10^19 x 1.60 x 10^-19 / 30 = 0.17 A (0.165 A).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: (3.1 x 10^19 x 1.6 x 10^-19) / 30",
+     "steps": [
+      "Current is charge per unit time: I = Q / t.",
+      "The charge is Q = N e = 3.1 x 10^19 x 1.6 x 10^-19 C.",
+      "I = (3.1 x 10^19 x 1.6 x 10^-19) / 30, which is about 0.17 A, option A."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-14.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q19.jpg"
+     ]
     },
     {
      "id": "4A-Q20a",
@@ -29884,7 +30626,9 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-14.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q20.jpg"
+     ]
     },
     {
      "id": "4A-Q20b",
@@ -29901,14 +30645,22 @@ window.BANK.physics = {
       "copper wires"
      ],
      "question": "Complete the table of ratios for wires W and Z, where W has twice the diameter of Z and the wires are in series with I = nqvA.",
-     "status": "pending",
-     "answer": "The table layout is missing from the text. Expected ratios: current 1, charge carrier density 1, area 4, drift velocity 1/4 (W to Z).",
-     "steps": [],
+     "status": "ready",
+     "answer": "I_W / I_Z = 1 (series, same current); v_W / v_Z = 1/4 (area of W is 4 times that of Z)",
+     "steps": [
+      "I_W / I_Z = 1. The wires are in series, so the same current passes through both.",
+      "The wires are the same material, so n_W / n_Z = 1 (given). Diameter of W is 2 times that of Z, so A_W / A_Z = 2^2 = 4.",
+      "From I = n q v A with I, n and q the same, v is inversely proportional to A, so v_W / v_Z = A_Z / A_W = 1/4.",
+      "Reason for the last row: the same current has to pass through 4 times the area, so the carriers in W drift more slowly."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-14.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q20.jpg",
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q20-2.jpg"
+     ]
     },
     {
      "id": "4A-Q21",
@@ -30009,14 +30761,20 @@ window.BANK.physics = {
       "component"
      ],
      "question": "Which component gives the current-potential difference graph shown (A diode, B filament bulb, C ohmic conductor, D thermistor)?",
-     "status": "pending",
-     "answer": "The I-V graph is missing from the text, so the component cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: thermistor",
+     "steps": [
+      "The graph passes through the origin and is symmetrical, so the component conducts in both directions.",
+      "The gradient (I/V) increases as the pd increases, so the resistance falls with heating.",
+      "This is an NTC thermistor; a filament lamp would show a decreasing gradient and a diode would not conduct for negative pd."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-16.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q24.jpg"
+     ]
     },
     {
      "id": "4A-Q25",
@@ -30032,14 +30790,20 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "The graph shows potential difference V against current I for an electrical component. Which component is it (A diode, B filament lamp, C ohmic conductor, D thermistor)?",
-     "status": "pending",
-     "answer": "The V-I graph is missing from the text, so the component cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: filament lamp",
+     "steps": [
+      "On a V against I graph, the resistance at any point is V / I (the gradient of the line from the origin).",
+      "The curve gets steeper as I increases, so V / I increases and the resistance rises with current.",
+      "A filament lamp heats up, so more lattice vibration raises its resistance. A resistor would be a straight line, a thermistor would curve the other way, and a diode is not symmetric."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-17.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q25.jpg"
+     ]
     },
     {
      "id": "4A-Q26",
@@ -30084,15 +30848,21 @@ window.BANK.physics = {
       "tungsten"
      ],
      "question": "Sketch a graph of current against potential difference for a filament bulb.",
-     "status": "pending",
-     "answer": "Requires a drawn sketch graph, which cannot be given as a one-line answer. Expected: a curve whose gradient decreases as the pd increases.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A curve through the origin with the gradient decreasing as |V| increases, and mirrored (rotated 180 degrees) in the negative quadrant.",
+     "steps": [
+      "For positive V: draw a smooth curve starting at the origin that rises steeply at first, then flattens, because resistance increases as the filament heats up.",
+      "For negative V: the graph is the same shape reflected through the origin, with I negative, so the curve is symmetric about the origin.",
+      "Do not draw a straight line, and do not let the curve cross the V axis again or turn downwards."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-18.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-19.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q27.jpg"
+     ]
     },
     {
      "id": "4A-Q27b(i)",
@@ -30137,15 +30907,22 @@ window.BANK.physics = {
       "temperature"
      ],
      "question": "With 140 V across the filament and 0.44 A flowing, deduce the filament temperature using a table of resistivity values for tungsten at different temperatures.",
-     "status": "pending",
-     "answer": "The resistivity table is missing from the text. Calculated value: R = 140 / 0.44 = 318 ohm and rho = R A / L = 9.1 x 10^-7 ohm m, to match with the table.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 2700 degrees C",
+     "steps": [
+      "R = V / I = 140 V / 0.44 A = 318 ohm.",
+      "Area A = pi (0.023 x 10^-3 m)^2 = 1.66 x 10^-9 m^2, and length L = 0.580 m.",
+      "rho = R A / L = 318 x 1.66 x 10^-9 / 0.580 = 9.1 x 10^-7 ohm m.",
+      "The table gives 9.04 x 10^-7 ohm m at 2700 degrees C, so the filament temperature is about 2700 degrees C."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-18.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-19.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q27-2.jpg"
+     ]
     },
     {
      "id": "4A-Q28a",
@@ -30246,14 +31023,21 @@ window.BANK.physics = {
       "component"
      ],
      "question": "The graphs show I against V for three components. Which component is not represented (A diode, B filament bulb, C NTC thermistor, D ohmic conductor)?",
-     "status": "pending",
-     "answer": "The three I-V graphs are missing from the text, so the missing component cannot be determined.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: negative temperature coefficient thermistor",
+     "steps": [
+      "Left graph: a straight line through the origin is an ohmic conductor (D).",
+      "Middle graph: symmetric, with the gradient decreasing as |V| increases, is a filament bulb (B).",
+      "Right graph: no current for negative pd and a sharp rise above a threshold is a diode (A).",
+      "The NTC thermistor (steeper as V increases) is not shown, so the answer is C."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-21.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q29.jpg"
+     ]
     },
     {
      "id": "4A-Q30",
@@ -30269,14 +31053,19 @@ window.BANK.physics = {
       "1.25 A"
      ],
      "question": "The current at a point is 1.25 A. Which expression gives the number of electrons passing the point in 45 seconds?",
-     "status": "pending",
-     "answer": "The answer options are missing from the text. Working gives N = I t / e = (1.25 x 45) / (1.60 x 10^-19).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: (1.25 x 45) / (1.60 x 10^-19)",
+     "steps": [
+      "Charge passing in 45 s: Q = I t = 1.25 A x 45 s.",
+      "Number of electrons N = Q / e = (1.25 x 45) / (1.60 x 10^-19), about 3.5 x 10^20 electrons, which is option A."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-21.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q30.jpg"
+     ]
     },
     {
      "id": "4A-Q31",
@@ -30376,14 +31165,19 @@ window.BANK.physics = {
       "component"
      ],
      "question": "The graph shows I against V for an electrical component. Which component is it (A diode, B filament lamp, C ohmic conductor, D thermistor)?",
-     "status": "pending",
-     "answer": "The I-V graph is missing from the text, so the component cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: diode",
+     "steps": [
+      "The current is zero for all negative pd and for small positive pd, then rises sharply above a threshold.",
+      "The component conducts in only one direction, which is the behaviour of a diode."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-23.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q34.jpg"
+     ]
     },
     {
      "id": "4A-Q35",
@@ -30455,14 +31249,20 @@ window.BANK.physics = {
       "forward bias"
      ],
      "question": "For the I-V graph of a diode, which statement is correct? A it does not conduct in reverse; B reverse resistance is infinite; C resistance decreases above 0.7 V; D it does not conduct below 0.7 V.",
-     "status": "pending",
-     "answer": "The diode I-V graph is missing from the text, so the statements cannot be checked against it.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: the resistance of this diode decreases when the p.d. is above 0.7 V",
+     "steps": [
+      "Above 0.7 V the current rises steeply, so V / I falls and the resistance decreases, so C is correct.",
+      "In the reverse direction there is a very small non-zero current (the curve is just below the axis), so A and B are false (resistance is large but not infinite).",
+      "Below 0.7 V the curve still shows a small current, so D is false."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-24.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q37.jpg"
+     ]
     },
     {
      "id": "4A-Q38a",
@@ -30491,7 +31291,9 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-25.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q38.jpg"
+     ]
     },
     {
      "id": "4A-Q38b",
@@ -30507,14 +31309,22 @@ window.BANK.physics = {
       "table of crosses"
      ],
      "question": "Wires W and Z are now connected in series. Complete the table by placing a cross for each quantity.",
-     "status": "pending",
-     "answer": "The table of boxes is missing from the text. Expected: current is the same in W and Z; drift velocity in Z is one quarter of that in W.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Current: same value for W and Z. Resistance, pd and drift velocity: larger in W.",
+     "steps": [
+      "Series circuit: the same current passes through both wires, so put the cross in \"Same value\" for current.",
+      "Z has twice the diameter, so A_Z = 4 A_W. For equal lengths of the same material R = rho L / A, so the resistance of W is 4 times that of Z (larger in W).",
+      "V = I R with the same I, so the pd across W is larger.",
+      "From v = I / (n q A), W has the smaller area, so the drift velocity in W is 4 times that in Z (larger in W)."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-25.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q38-2.jpg",
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q38-3.jpg"
+     ]
     },
     {
      "id": "4A-Q39a",
@@ -30530,15 +31340,23 @@ window.BANK.physics = {
       "conclusions"
      ],
      "question": "Using the pattern produced on the fluorescent screen by an electron beam passing through graphite, state conclusions about the electrons and the structure of graphite.",
-     "status": "pending",
-     "answer": "The screen pattern is an image that is missing from the text. Expected conclusions: electrons show wave behaviour (diffraction) and graphite has a regular crystal lattice.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Electrons behave as waves (they diffract and interfere), and graphite has a regular structure with atom spacings similar to the electron wavelength.",
+     "steps": [
+      "The screen shows a pattern of concentric rings, which is a diffraction pattern.",
+      "Diffraction is a wave property, so electrons can show wave-like behaviour (wave-particle duality).",
+      "Diffraction only happens when the wavelength is similar to the gap size, so the spacing between the atoms in graphite is of the order of the electron wavelength (about 10^-10 m).",
+      "A regular pattern of rings shows the carbon atoms are arranged in a regular lattice (crystalline, with many crystals in random orientations)."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-26.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-27.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q39.jpg",
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q39-2.jpg"
+     ]
     },
     {
      "id": "4A-Q39b(i)",
@@ -30625,7 +31443,9 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-27.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q39-2.jpg"
+     ]
     },
     {
      "id": "4A-Q40",
@@ -30668,14 +31488,19 @@ window.BANK.physics = {
       "component"
      ],
      "question": "The graph shows I against V for an electrical component. Which is it (A diode, B filament lamp, C resistor at constant temperature, D thermistor)?",
-     "status": "pending",
-     "answer": "The I-V graph is missing from the text, so the component cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: resistor at constant temperature",
+     "steps": [
+      "The graph is a straight line through the origin, so I is directly proportional to V.",
+      "Constant gradient means constant resistance, which is an ohmic resistor at constant temperature."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-29.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q41.jpg"
+     ]
     },
     {
      "id": "4A-Q42",
@@ -30691,14 +31516,21 @@ window.BANK.physics = {
       "charge passing point"
      ],
      "question": "A lamp is connected to a cell with negligible internal resistance. The charge passing point P in 30 s is 0.4 C. Which gives the energy transferred by the cell?",
-     "status": "pending",
-     "answer": "The circuit diagram and option list are missing from the text, and the cell e.m.f. is not given. Working needs E = Q x emf.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 1.5 x 0.4 (= 0.60 J)",
+     "steps": [
+      "The cell has negligible internal resistance, so the pd across it is its e.m.f., 1.5 V.",
+      "Energy transferred W = Q V = 0.4 C x 1.5 V = 0.60 J, option B.",
+      "The time of 30 s is not needed because the charge is already given."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-29.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q42.jpg",
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q42-2.jpg"
+     ]
     },
     {
      "id": "4A-Q43a",
@@ -30730,7 +31562,10 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-31.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q43.jpg",
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q43-2.jpg"
+     ]
     },
     {
      "id": "4A-Q43b(i)",
@@ -30974,14 +31809,19 @@ window.BANK.physics = {
       "conduction electrons"
      ],
      "question": "A current in a wire makes its temperature increase. Which row of the table describes the changes to the wire?",
-     "status": "pending",
-     "answer": "The table of rows is missing from the text, so the correct row cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: amplitude of lattice vibrations increases; resistance increases",
+     "steps": [
+      "A rising temperature means the lattice ions vibrate with greater amplitude.",
+      "The conduction electrons then collide with the ions more often, so the resistance of the metal wire increases, which is row D."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-34.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q47.jpg"
+     ]
     },
     {
      "id": "4A-Q48",
@@ -30997,14 +31837,19 @@ window.BANK.physics = {
       "resistance"
      ],
      "question": "The temperature of a thermistor and of a metal wire are both increased. Which row of the table gives the changes in their resistances?",
-     "status": "pending",
-     "answer": "The table of rows is missing from the text, so the correct row cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: thermistor resistance decreases; metal wire resistance increases",
+     "steps": [
+      "In an NTC thermistor more conduction electrons are freed as the temperature rises, so its resistance falls.",
+      "In a metal wire the number of conduction electrons stays about the same but the lattice vibrates more, so the resistance rises, which is row B."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-34.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q48.jpg"
+     ]
     },
     {
      "id": "4A-Q49a",
@@ -31032,7 +31877,9 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-35.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q49.jpg"
+     ]
     },
     {
      "id": "4A-Q49b",
@@ -31061,7 +31908,9 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-35.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q49.jpg"
+     ]
     },
     {
      "id": "4A-Q50",
@@ -31077,14 +31926,19 @@ window.BANK.physics = {
       "LDR"
      ],
      "question": "The light intensity on an LDR increases, changing the number of conduction electrons and the resistance. Which row of the table describes these changes?",
-     "status": "pending",
-     "answer": "The table of rows is missing from the text, so the correct row cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: number of conduction electrons increases; resistance of the LDR decreases",
+     "steps": [
+      "Photons of light give electrons in the LDR enough energy to be released, so the number of conduction electrons increases.",
+      "More charge carriers per unit volume means R falls (I = nAvq), so the resistance decreases, row C."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-36.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q50.jpg"
+     ]
     },
     {
      "id": "4A-Q51",
@@ -31156,15 +32010,22 @@ window.BANK.physics = {
       "conduction electrons"
      ],
      "question": "A circuit includes a thermistor. Which explains the change in the ammeter reading as the thermistor temperature decreases?",
-     "status": "pending",
-     "answer": "The circuit diagram and the option list are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: the number of conduction electrons decreases so the ammeter reading decreases",
+     "steps": [
+      "The thermistor is a negative temperature coefficient type (its resistance falls as it warms up).",
+      "A lower temperature means fewer electrons are released, so the number of conduction electrons decreases.",
+      "Fewer charge carriers raises the resistance, so for the same cell the current falls and the ammeter reading decreases, option A."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-38.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-39.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q53.jpg",
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q53-2.jpg"
+     ]
     },
     {
      "id": "4A-Q54a",
@@ -31381,16 +32242,21 @@ window.BANK.physics = {
       "wire"
      ],
      "question": "There is a current I in a wire and the charge on an electron is e. Which gives the number of electrons passing a point in time t?",
-     "status": "pending",
-     "answer": "The answer options are missing from the text. Working gives N = I t / e.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: I t / e",
+     "steps": [
+      "Charge passing in time t is Q = I t.",
+      "Each electron carries charge e, so the number of electrons is N = Q / e = I t / e."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-42.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-43.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-44.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q59.jpg"
+     ]
     },
     {
      "id": "4A-Q60a",
@@ -31420,7 +32286,9 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-44.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q60.jpg"
+     ]
     },
     {
      "id": "4A-Q60b",
@@ -31452,7 +32320,9 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-44.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q60-2.jpg"
+     ]
     },
     {
      "id": "4A-Q60c",
@@ -31469,16 +32339,23 @@ window.BANK.physics = {
       "current"
      ],
      "question": "With the battery connections reversed, UV of wavelength 250 nm (work function 6.9 x 10^-19 J) is incident on the photocell. Deduce whether there is a current.",
-     "status": "pending",
-     "answer": "The battery e.m.f. is not given in the text. Photon energy 7.96 x 10^-19 J gives Ek(max) = 1.06 x 10^-19 J (0.66 eV), which must be compared with the battery pd to decide.",
-     "steps": [],
+     "status": "ready",
+     "answer": "No current: the maximum kinetic energy of 1.1 x 10^-19 J is less than the 2.4 x 10^-19 J needed to cross 1.5 V.",
+     "steps": [
+      "Photon energy E = h c / lambda = (6.63 x 10^-34 x 3.00 x 10^8) / (250 x 10^-9) = 7.96 x 10^-19 J.",
+      "Maximum kinetic energy of photoelectrons: E_k = E - work function = 7.96 x 10^-19 - 6.9 x 10^-19 = 1.06 x 10^-19 J (0.66 eV).",
+      "With the battery reversed, an electron must overcome 1.5 V, which needs at least e V = 1.60 x 10^-19 x 1.5 = 2.4 x 10^-19 J.",
+      "Since 1.06 x 10^-19 J < 2.4 x 10^-19 J, no electrons reach the electrode, so there is no current."
+     ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-42.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-43.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-44.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/19-4A-Electrical-Quantities-Q60-3.jpg"
+     ]
     }
    ]
   },
@@ -31504,14 +32381,23 @@ window.BANK.physics = {
       "ntc"
      ],
      "question": "Explain how to set up the thermistor potential divider circuit so the air conditioning switches on when the room is hot, using particle behaviour of an NTC thermistor.",
-     "status": "pending",
-     "answer": "Needs the circuit diagram (thermistor, fixed resistor, secondary circuit connection) which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Connect the secondary (air-conditioning) circuit across the fixed resistor XY. When the room is hot the thermistor resistance falls, so the p.d. across XY rises above the switch-on value.",
+     "steps": [
+      "Choice of connection: in the series circuit the p.d. divides in proportion to resistance. The aircon must switch on when it is hot, so the secondary circuit is connected across the fixed resistor XY (not across the thermistor YZ).",
+      "Particle explanation of an NTC thermistor: as the temperature rises, more electrons gain enough energy to leave their atoms and become conduction electrons, so the number of charge carriers per unit volume increases.",
+      "This outweighs the larger lattice vibrations, so the thermistor resistance decreases as the room gets hotter.",
+      "The total resistance of the series circuit falls, so the current rises (I = E / R_total).",
+      "The p.d. across the fixed resistor is V = I R (R constant), so it rises, while the p.d. across the thermistor YZ falls.",
+      "When the p.d. across XY exceeds the set value, the secondary circuit switches the air-conditioning on, which cools the room; as it cools the p.d. falls and the unit switches off."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-01.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q1.jpg"
+     ]
     },
     {
      "id": "Q1b",
@@ -31543,7 +32429,9 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-01.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q1-2.jpg"
+     ]
     },
     {
      "id": "Q2a",
@@ -31560,16 +32448,23 @@ window.BANK.physics = {
       "variable resistor"
      ],
      "question": "Complete a circuit diagram to determine the e.m.f. and internal resistance of a potato cell.",
-     "status": "pending",
-     "answer": "Diagram-completion question; the circuit diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Add an ammeter and a variable resistor in series with the potato cell, and a voltmeter connected in parallel across the cell.",
+     "steps": [
+      "In the gap of the main wire draw an ammeter in series with the cell, to measure the current I.",
+      "Also in series draw a variable resistor (rheostat), so that I can be varied to take several readings.",
+      "Connect a voltmeter in parallel with the potato cell (directly across its two electrodes) to measure the terminal p.d. V.",
+      "Then V = E - I r, so a graph of V against I gives E and r."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-02.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-03.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-04.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q2.jpg"
+     ]
     },
     {
      "id": "Q2b",
@@ -31586,16 +32481,23 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "From a graph of p.d. V against current I for a potato cell, determine its e.m.f. and internal resistance.",
-     "status": "pending",
-     "answer": "Needs the V-I graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "E.m.f. = 0.29 V; internal resistance = 4.3 x 10^2 ohm",
+     "steps": [
+      "Terminal p.d. V = e.m.f. - I r, so the graph of V against I is a straight line with intercept e.m.f. and gradient -r.",
+      "Draw a best-fit line through the points. It meets the V axis at about 0.29 V, so the e.m.f. is about 0.29 V.",
+      "Take two well-separated points on the line, e.g. (0.10 mA, 0.244 V) and (0.40 mA, 0.116 V): gradient = (0.116 - 0.244) / (0.40 - 0.10) = -0.43 V per mA.",
+      "Current is in mA, so |gradient| = 0.43 V / 10^-3 A = 4.3 x 10^2 ohm, which is the internal resistance r."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-02.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-03.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-04.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q2-2.jpg"
+     ]
     },
     {
      "id": "Q2c",
@@ -31627,7 +32529,9 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-04.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q2-3.jpg"
+     ]
     },
     {
      "id": "Q3",
@@ -31644,14 +32548,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "Wires P and Q are in series. P has carrier density n and diameter d, drift velocity v. Q has carrier density 2n and diameter 2d. Find the drift velocity in Q.",
-     "status": "pending",
-     "answer": "Multiple-choice options are missing from the text. Derived value: drift velocity in Q = v/8 (current I = nAev is equal in both wires, so v_Q = v/8); match to the option letter.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: v/8",
+     "steps": [
+      "The wires are in series, so the current I is the same in both.",
+      "Using I = n A v e: Q has n_Q = 2n and A_Q = 4 A_P (diameter 2d gives 4 times the area).",
+      "n A v = (2n)(4A) v_Q, so v_Q = v / 8."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-05.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q3.jpg"
+     ]
     },
     {
      "id": "Q4",
@@ -31723,14 +32633,20 @@ window.BANK.physics = {
       "parabola"
      ],
      "question": "Which graph shows how power P dissipated by an ohmic conductor varies with p.d. V across it?",
-     "status": "pending",
-     "answer": "Multiple-choice graphs are not in the text. Expected answer: P = V^2/R gives a parabola (curve through origin, increasing faster than linearly).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D",
+     "steps": [
+      "For an ohmic conductor R is constant and P = V^2 / R, so P is proportional to V^2.",
+      "The graph of P against V is therefore a curve through the origin whose gradient increases with V (a parabola), which is graph D.",
+      "A is constant P, B is a straight line (P proportional to V), C is flattening, so none of these match."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-07.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q6.jpg"
+     ]
     },
     {
      "id": "Q7a",
@@ -31775,15 +32691,22 @@ window.BANK.physics = {
       "resistance r"
      ],
      "question": "A resistor combination with an ammeter reading 0.50 A (negligible internal battery resistance) is shown. Calculate resistance R.",
-     "status": "pending",
-     "answer": "Circuit diagram of the resistor combination and battery e.m.f. are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "R = 12 ohm",
+     "steps": [
+      "Total resistance from the battery: R_total = V / I = 7.0 V / 0.50 A = 14 ohm.",
+      "The 6.0 ohm resistor is in series with the parallel section, so the parallel section has 14 - 6.0 = 8.0 ohm.",
+      "The 8.0 ohm and 16.0 ohm resistors are in series: 24.0 ohm. R is in parallel with this: 1/8.0 = 1/R + 1/24.0.",
+      "1/R = 1/8.0 - 1/24.0 = 1/12, so R = 12 ohm."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-08.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-09.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q7.jpg"
+     ]
     },
     {
      "id": "Q7c(i)",
@@ -31800,15 +32723,21 @@ window.BANK.physics = {
       "battery no internal resistance"
      ],
      "question": "In daylight an LDR has resistance 670 ohm; the fixed resistor is 8.00 k ohm. Calculate the power in the fixed resistor.",
-     "status": "pending",
-     "answer": "Circuit diagram (how the LDR and fixed resistor are connected, and the battery e.m.f.) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "P = 1.5 x 10^-2 W",
+     "steps": [
+      "The LDR and the fixed resistor are in series across the 12.0 V battery (negligible internal resistance).",
+      "R_total = 8000 + 670 = 8670 ohm, so I = 12.0 / 8670 = 1.38 x 10^-3 A.",
+      "Power in the fixed resistor P = I^2 R = (1.38 x 10^-3)^2 x 8000 = 1.5 x 10^-2 W (0.015 W)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-08.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-09.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q7-2.jpg"
+     ]
     },
     {
      "id": "Q7c(ii)",
@@ -31839,7 +32768,9 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-09.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q7-2.jpg"
+     ]
     },
     {
      "id": "Q8",
@@ -31886,14 +32817,21 @@ window.BANK.physics = {
       "resistance falls"
      ],
      "question": "A negative temperature coefficient thermistor is in a circuit with meters V1, V2 and A. The thermistor temperature increases. Which table row shows the meter readings?",
-     "status": "pending",
-     "answer": "Table of options is missing from the text. Expected: current rises and the p.d. across the thermistor falls (its resistance falls); match to the row.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: V1 decreases, V2 increases, A increases",
+     "steps": [
+      "As the temperature of an NTC thermistor rises, more conduction electrons are released and its resistance falls.",
+      "The total resistance falls, so the current (ammeter A) increases.",
+      "V2 is across the fixed resistor, so V2 = I R increases; V1 (across the thermistor) = E - V2 decreases. This is row A."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-11.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q9.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q9-2.jpg"
+     ]
     },
     {
      "id": "Q10a",
@@ -31908,14 +32846,20 @@ window.BANK.physics = {
       "resistors"
      ],
      "question": "Calculate the voltmeter reading for the circuit shown.",
-     "status": "pending",
-     "answer": "Circuit diagram (resistor values, battery e.m.f.) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Voltmeter reading = 1.2 V",
+     "steps": [
+      "The 12 k ohm and 55 k ohm resistors are in series with the 1.5 V cell, and the voltmeter is across the 55 k ohm resistor.",
+      "Potential divider: V = 1.5 x 55 / (12 + 55) = 1.5 x 0.821.",
+      "V = 1.2 V (1.23 V)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-11.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q10.jpg"
+     ]
     },
     {
      "id": "Q10b",
@@ -31931,14 +32875,20 @@ window.BANK.physics = {
       "circuit"
      ],
      "question": "A student measures a voltmeter reading lower than calculated in (a). Explain two reasons.",
-     "status": "pending",
-     "answer": "Depends on the circuit diagram from part (a), which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "(1) The cell has internal resistance, so its terminal p.d. is less than 1.5 V. (2) The voltmeter has a finite resistance, which lowers the resistance of the parallel combination across the 55 k ohm resistor.",
+     "steps": [
+      "Reason 1: the cell has internal resistance r, so there are lost volts I r. The p.d. available to the two resistors is below 1.5 V, so the voltmeter reads less than the calculated value.",
+      "Reason 2: the voltmeter does not have infinite resistance. It draws current, so the effective resistance of the 55 k ohm resistor and voltmeter in parallel is less than 55 k ohm.",
+      "A smaller resistance in this section takes a smaller share of the cell p.d. (potential divider), so the reading is lower."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-11.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q10.jpg"
+     ]
     },
     {
      "id": "Q11",
@@ -31953,14 +32903,19 @@ window.BANK.physics = {
       "table"
      ],
      "question": "Two 5 ohm resistors are in series and in parallel. Which table row shows the total resistances?",
-     "status": "pending",
-     "answer": "Table of options is missing from the text. Derived values: series 10 ohm, parallel 2.5 ohm; match to the row.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: series 10 ohm, parallel 2.5 ohm",
+     "steps": [
+      "Series: R_T = 5 + 5 = 10 ohm.",
+      "Parallel: 1/R_T = 1/5 + 1/5 = 2/5, so R_T = 2.5 ohm. This is row D."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-12.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q11.jpg"
+     ]
     },
     {
      "id": "Q12a",
@@ -32325,15 +33280,23 @@ window.BANK.physics = {
       "series parallel"
      ],
      "question": "Four identical 2.0 ohm resistors A, B, C and D in a circuit. Determine the power dissipated in each resistor.",
-     "status": "pending",
-     "answer": "Circuit diagram (how the four resistors are connected and the supply) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 18 W; B: 2.0 W; C: 2.0 W; D: 8.0 W",
+     "steps": [
+      "B and C are in series: 4.0 ohm. In parallel with D (2.0 ohm): R = 4.0 x 2.0 / 6.0 = 1.33 ohm. Total R = 2.0 + 1.33 = 3.33 ohm.",
+      "Current from the 10 V battery (taking its internal resistance as negligible): I = 10 / 3.33 = 3.0 A. Power in A: P = I^2 R = 3.0^2 x 2.0 = 18 W.",
+      "P.d. across the parallel section = 3.0 x 1.33 = 4.0 V. Power in D: V^2 / R = 4.0^2 / 2.0 = 8.0 W.",
+      "Current in B and C = 4.0 / 4.0 = 1.0 A, so P = I^2 R = 1.0^2 x 2.0 = 2.0 W for each of B and C.",
+      "Check: 18 + 8.0 + 2.0 + 2.0 = 30 W = 10 V x 3.0 A."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-17.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-18.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q15.jpg"
+     ]
     },
     {
      "id": "Q15b",
@@ -32349,15 +33312,21 @@ window.BANK.physics = {
       "circuit"
      ],
      "question": "Explain, without calculation, what happens to the power in resistor A if resistor D is disconnected.",
-     "status": "pending",
-     "answer": "Depends on the circuit diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The power dissipated in A decreases.",
+     "steps": [
+      "Disconnecting D removes a parallel branch, so the resistance of the section containing B and C rises (from 1.33 ohm to 4.0 ohm).",
+      "The total resistance of the circuit increases, so with a fixed e.m.f. the current falls.",
+      "Resistor A carries the total current and P = I^2 R with R fixed, so the power in A decreases (to about 5.6 W)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-17.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-18.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q15.jpg"
+     ]
     },
     {
      "id": "Q15c",
@@ -32404,15 +33373,23 @@ window.BANK.physics = {
       "potential divider"
      ],
      "question": "With a voltmeter reading of 3.42 V in a thermistor circuit, determine the temperature of the thermistor.",
-     "status": "pending",
-     "answer": "Needs the thermistor resistance-temperature graph and the circuit (fixed resistor value), which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 34 degrees C",
+     "steps": [
+      "The voltmeter is across the 11.5 ohm resistor, so I = 3.42 / 11.5 = 0.297 A.",
+      "P.d. across the thermistor = 9.00 - 3.42 = 5.58 V.",
+      "R_thermistor = V / I = 5.58 / 0.297 = 18.8 ohm.",
+      "On the graph, a resistance of 18.8 ohm corresponds to a temperature of about 34 degrees C."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-19.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-20.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q16.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q16-2.jpg"
+     ]
     },
     {
      "id": "Q16b",
@@ -32442,7 +33419,9 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-20.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q16.jpg"
+     ]
     },
     {
      "id": "Q17a",
@@ -32487,14 +33466,20 @@ window.BANK.physics = {
       "3 ohm"
      ],
      "question": "Five 5.0 ohm resistors M, N, O, P, Q form a combination. Show that the resistance between A and B is about 3 ohm.",
-     "status": "pending",
-     "answer": "The arrangement diagram of resistors M, N, O, P, Q is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "R_AB = 3.1 ohm (about 3 ohm)",
+     "steps": [
+      "P and Q are in series: 5.0 + 5.0 = 10 ohm. This is in parallel with N (5.0 ohm): 1/R = 1/5.0 + 1/10 = 3/10, so R = 3.33 ohm.",
+      "This combination is in series with O: 3.33 + 5.0 = 8.33 ohm.",
+      "That branch is in parallel with M (5.0 ohm): 1/R = 1/5.0 + 1/8.33 = 0.32, so R_AB = 3.1 ohm, which is about 3 ohm."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-21.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q17.jpg"
+     ]
     },
     {
      "id": "Q17b(ii)",
@@ -32510,14 +33495,20 @@ window.BANK.physics = {
       "network"
      ],
      "question": "Explain which 5.0 ohm resistor should be replaced with a 20.0 ohm resistor to make the resistance between A and B greater than 5.0 ohm, without the arrangement changing.",
-     "status": "pending",
-     "answer": "Depends on the resistor network diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Replace resistor M.",
+     "steps": [
+      "M is connected directly between A and B, in parallel with all the other resistors.",
+      "The combined resistance of a parallel arrangement is always smaller than the smallest branch resistance. With M = 5.0 ohm unchanged, the total can never be more than 5.0 ohm.",
+      "Replacing M with 20.0 ohm removes this limit; the resistance becomes 20 x 8.33 / (20 + 8.33) = 5.9 ohm, which is greater than 5.0 ohm."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-21.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q17.jpg"
+     ]
     },
     {
      "id": "Q18",
@@ -32533,13 +33524,19 @@ window.BANK.physics = {
       "circuit"
      ],
      "question": "Circuit with variable resistor R used to find internal resistance r and e.m.f. of a cell. Which expression gives the current in the cell?",
-     "status": "pending",
-     "answer": "Options are missing from the text. Expected expression: I = E / (R + r).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: E / (R + r)",
+     "steps": [
+      "The cell (internal resistance r) is in series with the variable resistor R, so the total resistance is R + r.",
+      "The current is I = E / (R + r), which is option C."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q18.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q18-2.jpg"
+     ]
     },
     {
      "id": "Q19",
@@ -32554,14 +33551,20 @@ window.BANK.physics = {
       "expression"
      ],
      "question": "A combination of three resistors X, Y, Z is shown. Which expression gives the total resistance?",
-     "status": "pending",
-     "answer": "Circuit diagram and options are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: X + YZ / (Y + Z)",
+     "steps": [
+      "Y and Z are in parallel: 1/R = 1/Y + 1/Z, so R = YZ / (Y + Z).",
+      "X is in series with this section, so R_T = X + YZ / (Y + Z), option C."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-23.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q19.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q19-2.jpg"
+     ]
     },
     {
      "id": "Q20",
@@ -32606,13 +33609,21 @@ window.BANK.physics = {
       "resistance equation"
      ],
      "question": "Current carrying wire AB of length x and uniform diameter; slider S moved until voltmeter reads 0 V. Which equation is correct?",
-     "status": "pending",
-     "answer": "Circuit diagram and option equations are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: y / (x - y) = R1 / R2",
+     "steps": [
+      "The wire AB and the chain R1, R2 are two potential dividers across the same battery.",
+      "The voltmeter reads 0 when the slider S is at the same potential as the junction of R1 and R2, so the p.d. across length y of the wire equals the p.d. across R1.",
+      "For a uniform wire: y / x = R1 / (R1 + R2).",
+      "Rearranging: y (R1 + R2) = x R1, so y R2 = (x - y) R1, which gives y / (x - y) = R1 / R2, option B."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q21.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q21-2.jpg"
+     ]
     },
     {
      "id": "Q22a",
@@ -32641,7 +33652,9 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-25.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q22.jpg"
+     ]
     },
     {
      "id": "Q22b",
@@ -32657,14 +33670,21 @@ window.BANK.physics = {
       "battery negligible internal resistance"
      ],
      "question": "A student suggests the maximum power output from the resistors in the circuit is greater than 12 W. Assess this suggestion.",
-     "status": "pending",
-     "answer": "Depends on the switch and resistor arrangement diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The suggestion is not correct: the maximum power is about 9.2 W, which is less than 12 W.",
+     "steps": [
+      "Maximum power needs the smallest resistance, which is with both switches closed.",
+      "The branch with X has two resistors (47.0 ohm) in parallel with the branch with Y (23.5 ohm): R = 47.0 x 23.5 / 70.5 = 15.7 ohm.",
+      "P = V^2 / R = 12.0^2 / 15.7 = 9.2 W.",
+      "This is less than 12 W (and the wire resistance rises when it warms up, which would lower the power further), so the student is wrong."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-25.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q22.jpg"
+     ]
     },
     {
      "id": "Q22c(i)",
@@ -32680,14 +33700,20 @@ window.BANK.physics = {
       "per second"
      ],
      "question": "With switch X open and switch Y closed, calculate the number of conduction electrons passing through the resistor each second immediately after Y is closed.",
-     "status": "pending",
-     "answer": "Circuit diagram and the battery e.m.f. are not in the text, so the current cannot be found.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Number of electrons per second = 3.2 x 10^18",
+     "steps": [
+      "With X open and Y closed, only one resistor (23.5 ohm) is connected to the 12.0 V battery.",
+      "I = V / R = 12.0 / 23.5 = 0.51 A (A = 0.51 C per second).",
+      "Number of electrons per second = I / e = 0.51 / 1.60 x 10^-19 = 3.2 x 10^18 s^-1."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-25.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q22.jpg"
+     ]
     },
     {
      "id": "Q22c(ii)",
@@ -32703,14 +33729,20 @@ window.BANK.physics = {
       "time"
      ],
      "question": "After switch Y has been closed for a few minutes the power dissipated by the resistor decreases. Explain why.",
-     "status": "pending",
-     "answer": "Depends on the circuit diagram showing how the switches and resistors connect, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The wire heats up, so its resistance increases and the current (and power) decreases.",
+     "steps": [
+      "The current heats the resistor wire, so the temperature of the metal rises.",
+      "The lattice ions vibrate with greater amplitude, so the conduction electrons collide with them more often, and the resistance of the wire increases.",
+      "The p.d. stays at 12.0 V, so I falls and P = V^2 / R decreases."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-25.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q22.jpg"
+     ]
     },
     {
      "id": "Q23a",
@@ -32755,14 +33787,21 @@ window.BANK.physics = {
       "evaluate statement"
      ],
      "question": "Lamps A (12 V 60 W) and B (12 V 30 W) are in a circuit; a student says both operate normally. Evaluate this.",
-     "status": "pending",
-     "answer": "Circuit diagram showing how the lamps are connected is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The statement is not correct: A gets about 8 V (dimmer than normal) and B gets about 16 V (above its 12 V rating).",
+     "steps": [
+      "Lamp A: R = V^2 / P = 12^2 / 60 = 2.4 ohm (rated current 5.0 A). Lamp B: R = 12^2 / 30 = 4.8 ohm (rated current 2.5 A).",
+      "In series across 24 V (assuming these resistances), R_total = 7.2 ohm, so I = 24 / 7.2 = 3.3 A.",
+      "P.d. across A = 3.3 x 2.4 = 8.0 V (less than 12 V, so A is dim), and across B = 3.3 x 4.8 = 16 V (more than 12 V, so B is overloaded).",
+      "The lamps do not both work normally. Normal operation would need 5.0 A through A and 2.5 A through B, which cannot happen in series."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-26.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q23.jpg"
+     ]
     },
     {
      "id": "Q24a",
@@ -32777,14 +33816,20 @@ window.BANK.physics = {
       "potential divider"
      ],
      "question": "Cell e.m.f. 1.50 V, voltmeter reads 1.19 V with lights off. Calculate the LDR resistance in the dark.",
-     "status": "pending",
-     "answer": "Circuit diagram (which component the voltmeter is across, and the fixed resistor value) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Resistance of LDR = 1.3 x 10^3 ohm",
+     "steps": [
+      "The voltmeter is across the 5.00 k ohm resistor, so I = 1.19 / 5000 = 2.38 x 10^-4 A.",
+      "P.d. across the LDR = 1.50 - 1.19 = 0.31 V.",
+      "R_LDR = 0.31 / 2.38 x 10^-4 = 1.3 x 10^3 ohm (1.30 k ohm)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-27.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q24.jpg"
+     ]
     },
     {
      "id": "Q24b",
@@ -32800,14 +33845,20 @@ window.BANK.physics = {
       "precision"
      ],
      "question": "With lights on the LDR is about 9 ohm. Explain why the circuit cannot determine the LDR resistance with the lights on, given the voltmeter resolution of 0.01 V.",
-     "status": "pending",
-     "answer": "Needs the fixed resistor value and circuit diagram, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "With R_LDR of 9 ohm, the p.d. across the LDR is only about 0.003 V, less than the 0.01 V resolution, so the voltmeter reads 1.50 V.",
+     "steps": [
+      "With the lights on, R_LDR is about 9 ohm compared with 5000 ohm, so the p.d. across the fixed resistor is 1.50 x 5000 / 5009 = 1.497 V.",
+      "The voltmeter has a resolution of 0.01 V, so it displays 1.50 V, the same as the e.m.f.",
+      "The p.d. across the LDR (1.50 - 1.50 = 0 V, really about 0.003 V) is smaller than the resolution, so it cannot be measured and the resistance cannot be calculated."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-27.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q24.jpg"
+     ]
     },
     {
      "id": "Q25a",
@@ -32823,15 +33874,21 @@ window.BANK.physics = {
       "resistivity"
      ],
      "question": "Complete the circuit diagram for a nichrome resistivity experiment with ammeter, voltmeter and variable resistor.",
-     "status": "pending",
-     "answer": "Diagram-drawing question; the diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Connect a cell, the ammeter and the variable resistor in series with the nichrome wire, and connect the voltmeter in parallel across the nichrome wire.",
+     "steps": [
+      "Join the two ends of the wire to a series loop containing a cell (or power supply), a variable resistor and an ammeter.",
+      "The variable resistor lets the current be kept at 0.200 A as the wire length changes.",
+      "Connect the voltmeter in parallel across the nichrome wire only (between the two dots), so it reads the p.d. across the wire."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-28.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-29.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q25.jpg"
+     ]
     },
     {
      "id": "Q25b(i)",
@@ -32848,15 +33905,22 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "From a graph of p.d. against length (current 0.200 A, area 5.31 x 10^-8 m^2), determine the resistivity of nichrome.",
-     "status": "pending",
-     "answer": "Needs the p.d.-length graph (its gradient), which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Resistivity = 1.1 x 10^-6 ohm m",
+     "steps": [
+      "R = V / I and R = rho L / A, so V = (I rho / A) L. The gradient of the V against L graph is I rho / A.",
+      "Gradient = (4.13 - 0) V / (1.00 - 0) m = 4.13 V m^-1 (read from the best-fit line).",
+      "rho = gradient x A / I = 4.13 x 5.31 x 10^-8 / 0.200.",
+      "rho = 1.1 x 10^-6 ohm m."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-28.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-29.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q25-2.jpg"
+     ]
     },
     {
      "id": "Q25b(ii)",
@@ -32872,18 +33936,21 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "Calculate the power dissipated from nichrome wire of length 0.75 m with current 0.200 A.",
-     "status": "pending",
-     "answer": "Needs the resistance per metre from the p.d.-length graph, which is not in the text (or resistivity from part (i)).",
+     "status": "ready",
+     "answer": "Power = 0.62 W",
      "steps": [
-      "Once rho is known from (b)(i): R = rho L / A with L = 0.75 m.",
-      "P = I^2 R with I = 0.200 A."
+      "From the line, a length of 0.75 m has p.d. V = 4.13 V m^-1 x 0.75 m = 3.10 V.",
+      "The current is 0.200 A, so P = V I = 3.10 x 0.200.",
+      "P = 0.62 W."
      ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-28.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-29.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q25-2.jpg"
+     ]
     },
     {
      "id": "Q26a",
@@ -32956,15 +34023,22 @@ window.BANK.physics = {
       "circuit diagram"
      ],
      "question": "A voltmeter is added to the circuit. Explain how this circuit can determine r using a graph.",
-     "status": "pending",
-     "answer": "Depends on where the voltmeter is connected in the circuit diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Plot V (voltmeter across R) against I; the y-intercept is the e.m.f. and the gradient is -r.",
+     "steps": [
+      "The voltmeter across the variable resistor reads the terminal p.d., V = E - I r.",
+      "Vary R, and record the voltmeter reading V and the ammeter reading I (convert mA to A) for several values.",
+      "Plot V on the y-axis against I on the x-axis; this gives a straight line with a negative gradient.",
+      "Compare with y = c + m x: the gradient equals -r, so r = -gradient (and the intercept on the V axis gives the e.m.f.)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-30.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-31.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q26.jpg"
+     ]
     },
     {
      "id": "Q27a",
@@ -33059,15 +34133,23 @@ window.BANK.physics = {
       "reading"
      ],
      "question": "Determine the milliammeter reading when the thermistor temperature is 54 C.",
-     "status": "pending",
-     "answer": "Needs the thermistor resistance-temperature graph and circuit values, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Milliammeter reading = 9.0 mA",
+     "steps": [
+      "From the graph, the thermistor resistance at 54 degrees C is about 1.0 k ohm.",
+      "The 3.0 k ohm resistor and thermistor are in series: 4.0 k ohm. This branch and the 2.0 k ohm resistor are both across the 12 V battery.",
+      "Current in the 2.0 k ohm branch = 12 / 2000 = 6.0 mA. Current in the other branch = 12 / 4000 = 3.0 mA.",
+      "The milliammeter is in the main line and reads the total current: 6.0 + 3.0 = 9.0 mA."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-33.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-34.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q28.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q28-2.jpg"
+     ]
     },
     {
      "id": "Q28b(i)",
@@ -33083,15 +34165,21 @@ window.BANK.physics = {
       "no calculation"
      ],
      "question": "Explain how decreasing the thermistor temperature affects the voltmeter reading, without calculation.",
-     "status": "pending",
-     "answer": "Depends on which component the voltmeter is connected across, which is not clear from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The voltmeter reading increases.",
+     "steps": [
+      "Decreasing the temperature of the NTC thermistor means fewer conduction electrons are released, so its resistance increases.",
+      "The thermistor and the 3.0 k ohm resistor form a potential divider across the 12 V battery (negligible internal resistance).",
+      "The thermistor now has a larger share of the total resistance of this branch, so it takes a larger share of the 12 V and the voltmeter reading increases."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-33.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-34.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q28.jpg"
+     ]
     },
     {
      "id": "Q28b(ii)",
@@ -33107,15 +34195,21 @@ window.BANK.physics = {
       "no calculation"
      ],
      "question": "Explain how decreasing the thermistor temperature affects the power dissipated by the 2.0 k ohm resistor, without calculation.",
-     "status": "pending",
-     "answer": "Depends on the circuit diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The power in the 2.0 k ohm resistor stays the same.",
+     "steps": [
+      "The 2.0 k ohm resistor is connected directly across the battery, in parallel with the other branch.",
+      "The battery has negligible internal resistance, so the p.d. across it stays at 12 V whatever the thermistor does.",
+      "With V and R both unchanged, P = V^2 / R is unchanged."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-33.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-34.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q28.jpg"
+     ]
     },
     {
      "id": "Q29a",
@@ -33131,9 +34225,13 @@ window.BANK.physics = {
       "cell"
      ],
      "question": "Draw a circuit diagram to determine the e.m.f. and internal resistance of a cell using an ammeter and voltmeter.",
-     "status": "pending",
-     "answer": "Diagram-drawing question; the diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Cell in series with an ammeter and a variable resistor; voltmeter connected in parallel across the cell terminals.",
+     "steps": [
+      "Draw a series loop: the cell, an ammeter and a variable resistor (rheostat).",
+      "Connect a voltmeter across the cell terminals (in parallel with the cell, and not across the ammeter) so that it reads the terminal p.d.",
+      "Label the symbols correctly (cell, ammeter A in a circle, voltmeter V in a circle, variable resistor with an arrow)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-35.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-36.jpg"
@@ -33155,14 +34253,20 @@ window.BANK.physics = {
       "current"
      ],
      "question": "Explain how the e.m.f. and internal resistance can be determined from a graph of terminal p.d. against current.",
-     "status": "pending",
-     "answer": "The graph itself is not in the text, though the method is standard: E is the y-intercept and r is the magnitude of the gradient.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The y-intercept is the e.m.f.; the magnitude of the gradient is the internal resistance r.",
+     "steps": [
+      "The terminal p.d. is V = E - I r, which compares with y = c + m x.",
+      "The intercept on the V axis (where I = 0) equals the e.m.f. E.",
+      "The gradient of the straight line is -r, so r = -(change in V / change in I), found with a large triangle on the line."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-35.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q29.jpg"
+     ]
     },
     {
      "id": "Q30",
@@ -33208,14 +34312,20 @@ window.BANK.physics = {
       "uniform wire"
      ],
      "question": "A battery is connected to identical uniform nichrome wires PQ and RS, with a voltmeter connected as shown. Which is the voltmeter reading? A 1.0 V, B 2.0 V, C 3.0 V, D 4.0 V.",
-     "status": "pending",
-     "answer": "The circuit diagram showing the wires and voltmeter connections is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 2.0 V",
+     "steps": [
+      "Both identical wires are across the 4.0 V battery, so each has a p.d. that falls uniformly along its length at 4.0 V m^-1 (each wire is 1.00 m long).",
+      "The voltmeter is connected 0.25 m along PQ and 0.75 m along RS, and P and R are at the same potential.",
+      "So the potentials differ by (0.75 - 0.25) m x 4.0 V m^-1 = 2.0 V."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-37.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q31.jpg"
+     ]
     },
     {
      "id": "Q32",
@@ -33258,14 +34368,20 @@ window.BANK.physics = {
       "emf"
      ],
      "question": "Show that the power of the LED is about 0.1 W, given the ammeter reads 9.2 mA.",
-     "status": "pending",
-     "answer": "The battery e.m.f. (or the LED p.d.) shown in the diagram is not in the text, so P = VI cannot be completed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "P = V I = 12.0 x 9.2 x 10^-3 = 0.11 W (about 0.1 W)",
+     "steps": [
+      "The LED is connected directly across the 12.0 V battery (negligible internal resistance), so its p.d. is 12.0 V.",
+      "The ammeter reads the current through the LED: I = 9.2 mA = 9.2 x 10^-3 A.",
+      "P = V I = 12.0 x 9.2 x 10^-3 = 0.11 W, which is about 0.1 W."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-38.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q33.jpg"
+     ]
     },
     {
      "id": "Q33a(ii)",
@@ -33282,14 +34398,21 @@ window.BANK.physics = {
       "hc/lambda"
      ],
      "question": "LED of wavelength 627 nm, 100% efficient, power about 0.1 W. Calculate the number of photons emitted in one minute.",
-     "status": "pending",
-     "answer": "Depends on the exact LED power from part (a)(i), which needs the diagram value (about 1.9 x 10^19 photons using P = 0.10 W).",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 2.1 x 10^19 photons in one minute (1.9 x 10^19 if 0.10 W is used)",
+     "steps": [
+      "Photon energy E = h c / lambda = 6.63 x 10^-34 x 3.00 x 10^8 / 627 x 10^-9 = 3.17 x 10^-19 J.",
+      "The LED is 100% efficient, so light energy in one minute = 0.110 W x 60 s = 6.6 J.",
+      "Number of photons N = 6.6 / 3.17 x 10^-19 = 2.1 x 10^19.",
+      "Using the rounded power of 0.10 W instead gives 1.9 x 10^19."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-38.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q33.jpg"
+     ]
     },
     {
      "id": "Q33b",
@@ -33316,7 +34439,9 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-38.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q33.jpg"
+     ]
     },
     {
      "id": "Q33c",
@@ -33360,15 +34485,24 @@ window.BANK.physics = {
       "identical resistors"
      ],
      "question": "Explain how current and p.d. measurements could show charge and energy are conserved in a circuit with identical resistors A, B and C.",
-     "status": "pending",
-     "answer": "Depends on the circuit diagram of resistors A, B and C, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Show that I_C = I_A + I_B (charge) and E = V_C + V_A (energy), using ammeters and voltmeters.",
+     "steps": [
+      "Measure the current in C (I_C), in A (I_A) and in B (I_B) with ammeters placed in series with each resistor.",
+      "Charge is conserved, so the charge per second arriving at the junction equals the charge per second leaving: I_C = I_A + I_B. Because A and B are identical and in parallel, I_A = I_B = I_C / 2.",
+      "Measure the p.d. across the cell (E), across C (V_C) and across the parallel pair A and B (V_A = V_B) with voltmeters in parallel with each.",
+      "Energy is conserved, so the energy per unit charge supplied by the cell equals the energy per unit charge transferred in C and then in A (or B): E = V_C + V_A.",
+      "Equivalently, multiply by the current: the power supplied E I_C equals the total power dissipated V_C I_C + V_A I_A + V_B I_B.",
+      "Readings agree within the uncertainty of the meters, which shows that charge and energy are both conserved."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-39.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-40.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q34.jpg"
+     ]
     },
     {
      "id": "Q34b(i)",
@@ -33383,15 +34517,20 @@ window.BANK.physics = {
       "combination"
      ],
      "question": "Three identical 12.5 ohm resistors in the circuit shown. Calculate the total resistance.",
-     "status": "pending",
-     "answer": "Arrangement of the resistors (series/parallel) is not clear from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Total resistance = 18.8 ohm",
+     "steps": [
+      "A and B are in parallel: 1/R = 1/12.5 + 1/12.5 = 2/12.5, so R = 6.25 ohm.",
+      "C is in series with this parallel section: R_total = 12.5 + 6.25 = 18.75 ohm, which is 18.8 ohm."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-39.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-40.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q34.jpg"
+     ]
     },
     {
      "id": "Q34b(ii)",
@@ -33407,15 +34546,21 @@ window.BANK.physics = {
       "ammeter position"
      ],
      "question": "Describe how a single ammeter reading can determine the internal resistance of the cell, showing where the ammeter goes on the diagram.",
-     "status": "pending",
-     "answer": "Requires adding the ammeter to the diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Put an ammeter in series with the cell (in the main line, e.g. next to C). Then r = E / I - 18.75 ohm.",
+     "steps": [
+      "Add the ammeter in the main loop in series with the cell and resistor C, so it reads the total current I from the cell.",
+      "The total resistance of the circuit is the external resistance (18.75 ohm from part (b)(i)) plus the internal resistance r.",
+      "E = I (R_external + r), so r = E / I - 18.75 ohm, using the known e.m.f. E and the ammeter reading I."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-39.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-40.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q34-2.jpg"
+     ]
     },
     {
      "id": "Q35a",
@@ -33431,14 +34576,20 @@ window.BANK.physics = {
       "circuit"
      ],
      "question": "Cell e.m.f. 1.54 V with negligible internal resistance; ammeter reads 0.14 A. Calculate the resistance of R.",
-     "status": "pending",
-     "answer": "Total resistance is 11 ohm (E/I); the circuit diagram is needed to know whether the 9.0 ohm resistor is in series with R (then R = 2.0 ohm), which the text does not show.",
-     "steps": [],
+     "status": "ready",
+     "answer": "R = 6.0 ohm",
+     "steps": [
+      "Total resistance: R_total = E / I = 1.54 / 0.14 = 11.0 ohm (negligible internal resistance).",
+      "The 9.0 ohm resistor is in series with the parallel pair (3.0 ohm and R), so the parallel section is 11.0 - 9.0 = 2.0 ohm.",
+      "1/2.0 = 1/3.0 + 1/R, so 1/R = 0.500 - 0.333 = 0.167, giving R = 6.0 ohm."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-41.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q35.jpg"
+     ]
     },
     {
      "id": "Q35b(i)",
@@ -33531,15 +34682,22 @@ window.BANK.physics = {
       "e = 1.60 x 10^-19"
      ],
      "question": "Calculate the number of electrons passing point X each second in the circuit shown.",
-     "status": "pending",
-     "answer": "The circuit diagram and component values are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Number of electrons per second = 4.2 x 10^18",
+     "steps": [
+      "The 3.0 ohm and 6.0 ohm resistors are in parallel: R = 3.0 x 6.0 / 9.0 = 2.0 ohm. Total R = 4.0 + 2.0 = 6.0 ohm.",
+      "Total current I = 12 / 6.0 = 2.0 A. P.d. across the parallel section = 2.0 x 2.0 = 4.0 V.",
+      "Current through the 6.0 ohm resistor (at X) = 4.0 / 6.0 = 0.667 A.",
+      "Electrons per second = I / e = 0.667 / 1.60 x 10^-19 = 4.2 x 10^18."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-42.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-43.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q36.jpg"
+     ]
     },
     {
      "id": "Q36b",
@@ -33555,15 +34713,23 @@ window.BANK.physics = {
       "circuit"
      ],
      "question": "Resistor Y is added to the circuit; evaluate the student's statement.",
-     "status": "pending",
-     "answer": "Depends on the circuit diagram and the student's statement, neither of which is in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The first two parts are correct, but the conclusion is wrong: the total power decreases.",
+     "steps": [
+      "Y is in series with the 3.0 ohm resistor, so that branch has more resistance and the resistance of the parallel section increases. The first statement is correct.",
+      "This makes the total resistance of the circuit increase, which is also correct.",
+      "However, the current from the battery then decreases. P = I^2 R cannot be used to compare because I does not stay the same.",
+      "With a fixed e.m.f. of 12 V (negligible internal resistance), P = E^2 / R_total, so a larger R_total gives a smaller power. The total power decreases, so the student is wrong about the overall effect."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-42.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-43.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q36-2.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q36-3.jpg"
+     ]
     },
     {
      "id": "Q37",
@@ -33579,14 +34745,20 @@ window.BANK.physics = {
       "table row"
      ],
      "question": "NTC thermistor and fixed resistor in circuit; thermistor temperature increases. Which table row shows the changes to ammeter and voltmeter readings?",
-     "status": "pending",
-     "answer": "Table of options and circuit diagram are missing from the text. Expected: ammeter reading rises, voltmeter across the fixed resistor rises.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: ammeter reading increases; voltmeter reading increases",
+     "steps": [
+      "Raising the temperature of an NTC thermistor lowers its resistance, so the total resistance of the circuit falls and the current (ammeter) increases.",
+      "The voltmeter is across the fixed resistor, so V = I R increases because I increases, which is row D."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-44.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q37.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q37-2.jpg"
+     ]
     },
     {
      "id": "Q38a(i)",
@@ -33602,14 +34774,20 @@ window.BANK.physics = {
       "power supply"
      ],
      "question": "Ammeter reads 23 mA in a thermistor circuit with a negligible-resistance supply. Show that the voltmeter reading was about 6 V.",
-     "status": "pending",
-     "answer": "The circuit diagram (which resistors the voltmeter is across, and the supply e.m.f.) is not in the text, so the 6 V cannot be derived.",
-     "steps": [],
+     "status": "ready",
+     "answer": "V = 0.023 x 273 = 6.3 V, about 6 V",
+     "steps": [
+      "The 500 ohm and 600 ohm resistors are in parallel: R = 500 x 600 / (500 + 600) = 273 ohm.",
+      "The ammeter current (23 mA) passes through this parallel pair, so the voltmeter across it reads V = I R = 0.023 x 273.",
+      "V = 6.3 V, which is about 6 V."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-45.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q38.jpg"
+     ]
     },
     {
      "id": "Q38a(ii)",
@@ -33634,7 +34812,9 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-45.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q38.jpg"
+     ]
     },
     {
      "id": "Q38b",
@@ -33650,14 +34830,21 @@ window.BANK.physics = {
       "current decreases"
      ],
      "question": "The student decreases the temperature of the thermistor. Explain the effect on the ammeter and voltmeter readings.",
-     "status": "pending",
-     "answer": "Depends on the circuit diagram (where the voltmeter and ammeter are), which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The ammeter reading decreases and the voltmeter reading decreases.",
+     "steps": [
+      "Lowering the temperature of the NTC thermistor means fewer conduction electrons are released, so its resistance increases.",
+      "The total resistance of the circuit increases, so with a constant 12 V the current falls and the ammeter reading decreases.",
+      "The voltmeter is across the fixed parallel pair (273 ohm), so V = I R decreases because I decreases.",
+      "The p.d. across the thermistor rises, because the sum of the p.d.s remains 12 V."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-45.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q38.jpg"
+     ]
     },
     {
      "id": "Q39a",
@@ -33810,15 +34997,22 @@ window.BANK.physics = {
       "p.d."
      ],
      "question": "Intensity of light incident on an LDR decreases. Which row of the table is correct?",
-     "status": "pending",
-     "answer": "Table of options is not in the text. Expected: LDR resistance increases, current decreases, p.d. across fixed resistor decreases.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: ammeter reading decreases; voltmeter reading decreases",
+     "steps": [
+      "Less light on an LDR means fewer conduction electrons, so its resistance increases.",
+      "The total resistance of the circuit increases, so the current (ammeter) decreases.",
+      "The voltmeter is across the fixed resistor, V = I R, and so the reading decreases. This is row A."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-49.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-50.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q41.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q41-2.jpg"
+     ]
     },
     {
      "id": "Q42a",
@@ -33835,15 +35029,23 @@ window.BANK.physics = {
       "fixed resistor"
      ],
      "question": "A temperature sensing circuit switches on a heater when the p.d. across the thermistor exceeds 0.7 V. Using the resistance-temperature graph, deduce whether the heater switches on when temperature falls below 10 C.",
-     "status": "pending",
-     "answer": "Needs the thermistor resistance-temperature graph and the fixed resistor value, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes: at 10 degrees C the p.d. across the thermistor is 0.71 V, which is above 0.7 V, so the heater switches on.",
+     "steps": [
+      "From the graph, the thermistor resistance at 10 degrees C is about 2.0 ohm.",
+      "The 15 ohm resistor and the thermistor are a potential divider across 6.0 V: V_thermistor = 6.0 x 2.0 / (15 + 2.0).",
+      "V = 0.71 V, which is greater than 0.7 V.",
+      "Below 10 degrees C the thermistor resistance rises further, so its p.d. is even larger and the heater switches on."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-49.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-50.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q42.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q42-2.jpg"
+     ]
     },
     {
      "id": "Q42b",
@@ -33888,16 +35090,23 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "A headlight emits light when it dissipates at least 35 W. Using its I-V graph, determine the minimum p.d. for light emission.",
-     "status": "pending",
-     "answer": "Needs the I-V graph for the headlight, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Minimum p.d. = 9.0 V",
+     "steps": [
+      "The headlight emits light when P = V I >= 35 W, so read pairs (V, I) from the graph and calculate V I.",
+      "At 7.5 V, I = 3.57 A, so P = 26.8 W (too low). At 9.0 V, I = 3.93 A, so P = 35.4 W (just enough).",
+      "At 10.5 V, I = 4.27 A, P = 44.8 W, so the 35 W point is at the 9.0 V value.",
+      "Minimum p.d. is about 9.0 V."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-51.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-52.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-53.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-54.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q43.jpg"
+     ]
     },
     {
      "id": "Q43b(i)",
@@ -33944,16 +35153,23 @@ window.BANK.physics = {
       "combined resistance"
      ],
      "question": "Two headlights are connected to a 12.0 V battery. A student says the parallel combined resistance is one quarter of the series combined resistance. Deduce whether this is correct, using the graph.",
-     "status": "pending",
-     "answer": "Needs the I-V graph values for one headlight at 12 V, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Not correct: the ratio is about 0.35, not 0.25.",
+     "steps": [
+      "Parallel: each headlight has 12.0 V across it, so from the graph I = 4.6 A each. Total I = 9.2 A, so R_parallel = 12 / 9.2 = 1.3 ohm.",
+      "Series: the identical headlights share the 12.0 V, so each has 6.0 V. From the graph, I = 3.2 A, so R_series = 12 / 3.2 = 3.8 ohm.",
+      "Ratio R_parallel / R_series = 1.3 / 3.8 = 0.35, not one quarter.",
+      "The quarter rule only holds for a fixed resistance. A filament lamp has a resistance that rises with p.d. (heating), so the student is incorrect."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-51.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-52.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-53.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-54.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q43.jpg"
+     ]
     },
     {
      "id": "Q43c",
@@ -33998,15 +35214,22 @@ window.BANK.physics = {
       "circuit"
      ],
      "question": "Two resistors are connected in a circuit with an expression given for their combined resistance. Derive this expression.",
-     "status": "pending",
-     "answer": "The expression and circuit diagram are not legible in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "R = R1 R2 / (R1 + R2)",
+     "steps": [
+      "The resistors are in parallel, so the p.d. across each is the supply p.d. V.",
+      "Charge is conserved at the junction, so I = I1 + I2, with I1 = V / R1 and I2 = V / R2.",
+      "The combined resistance is R = V / I = V / (V / R1 + V / R2) = 1 / (1/R1 + 1/R2).",
+      "Combine over a common denominator: 1/R1 + 1/R2 = (R1 + R2) / (R1 R2), so R = R1 R2 / (R1 + R2)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-54.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-55.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q44.jpg"
+     ]
     },
     {
      "id": "Q45a",
@@ -34022,15 +35245,23 @@ window.BANK.physics = {
       "cell"
      ],
      "question": "Determine the e.m.f. and internal resistance of the cell from the student's V against I graph.",
-     "status": "pending",
-     "answer": "Needs the V-I graph values, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "E.m.f. = 1.50 V; internal resistance = 0.75 ohm",
+     "steps": [
+      "The voltmeter is across the cell, so V = E - I r: the y-intercept is the e.m.f. and the gradient is -r.",
+      "Extrapolate the line back to I = 0: V = 1.50 V, so E = 1.50 V.",
+      "Gradient = (0.30 - 1.35) / (1.6 - 0.2) = -0.75 V A^-1.",
+      "So r = 0.75 ohm."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-54.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-55.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q45.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q45-2.jpg"
+     ]
     },
     {
      "id": "Q45b",
@@ -34075,15 +35306,21 @@ window.BANK.physics = {
       "ohm's law"
      ],
      "question": "Show that, for the circuit with variable resistor R and cell of e.m.f. E and internal resistance r, the required linear relation holds (the equation is not in the text).",
-     "status": "pending",
-     "answer": "The equation to be shown is not legible in the text, so the derivation cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "R = E / I - r",
+     "steps": [
+      "The e.m.f. equals the sum of the p.d.s around the circuit: E = I R + I r.",
+      "Divide by I: E / I = R + r.",
+      "Rearranging gives R = E / I - r."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-56.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-57.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-58.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q46.jpg"
+     ]
     },
     {
      "id": "Q46b",
@@ -34099,15 +35336,21 @@ window.BANK.physics = {
       "variable resistor"
      ],
      "question": "From the graph of R against the plotted quantity, determine the e.m.f. and internal resistance of the cell.",
-     "status": "pending",
-     "answer": "Needs the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "E.m.f. = 1.5 V; internal resistance = 2.0 ohm",
+     "steps": [
+      "R = E (1/I) - r compares with y = m x + c: the gradient is the e.m.f. and the y-intercept is -r.",
+      "Gradient = (10 - 2) / (8.0 - 2.7) = 1.5 V (reading the points (2.7, 2) and (8.0, 10)). So E = 1.5 V.",
+      "The line cuts the R axis at -2.0 ohm, so r = 2.0 ohm."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-56.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-57.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-58.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q46-2.jpg"
+     ]
     },
     {
      "id": "Q46c",
@@ -34135,7 +35378,9 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-57.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-58.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q46.jpg"
+     ]
     },
     {
      "id": "Q46d",
@@ -34150,15 +35395,22 @@ window.BANK.physics = {
       "internal resistance doubles"
      ],
      "question": "A second identical cell is added in series with the first and the experiment repeated. Add a line to the graph to show the result.",
-     "status": "pending",
-     "answer": "Requires drawing on the original graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw a steeper straight line: R = 3.0 / I - 4.0, with y-intercept -4.0 ohm and the same x-intercept 1.33 A^-1.",
+     "steps": [
+      "Two identical cells in series: E doubles (3.0 V) and r doubles (4.0 ohm).",
+      "The new relationship is R = (3.0 / I) - 4.0, so the gradient becomes 3.0 (twice the original 1.5) and the intercept on the R axis is -4.0 ohm.",
+      "The line still crosses the 1/I axis at 4.0 / 3.0 = 1.33 A^-1, the same point as the original line.",
+      "It also passes through (4.0, 8.0) and (6.0, 14), so it lies above the original line at larger 1/I."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-56.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-57.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-58.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q46-2.jpg"
+     ]
     },
     {
      "id": "Q47",
@@ -34202,14 +35454,19 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "The current in a uniform wire is constant. Which graph shows how p.d. across the wire varies with its length? (Options are graphs.)",
-     "status": "pending",
-     "answer": "Graph options are not in the text. Expected: a straight line through the origin (V = I rho L / A).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "For a uniform wire with constant current, V = I R and R = rho L / A, so V = (I rho / A) L.",
+      "V is directly proportional to length: a straight line through the origin, which is graph C."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-58.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q48.jpg"
+     ]
     },
     {
      "id": "Q49a",
@@ -34309,13 +35566,20 @@ window.BANK.physics = {
       "circuit diagram"
      ],
      "question": "A student connects four resistors between points X and Y. Which expression gives the total resistance between X and Y?",
-     "status": "pending",
-     "answer": "Circuit diagram and options are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 15 + 1 / (1/7 + 1/18)",
+     "steps": [
+      "The 7 ohm and 18 ohm resistors are in parallel: 1 / (1/7 + 1/18).",
+      "The 4 ohm resistor is connected in parallel with a plain wire (short circuit), so no current flows through it and it contributes nothing to the resistance.",
+      "The 15 ohm resistor is in series with the parallel pair, so R = 15 + 1 / (1/7 + 1/18), option C."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-61.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q50.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q50-2.jpg"
+     ]
     },
     {
      "id": "Q51",
@@ -34331,15 +35595,21 @@ window.BANK.physics = {
       "circuit"
      ],
      "question": "A circuit includes a thermistor; the temperature increases. Which row of the table shows how the ammeter and voltmeter readings change?",
-     "status": "pending",
-     "answer": "Table of options and circuit diagram are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: ammeter reading increases; voltmeter reading increases",
+     "steps": [
+      "Raising the temperature of the thermistor lowers its resistance, so the total resistance falls and the current (ammeter reading) increases.",
+      "The voltmeter is across the fixed resistor, V = I R, so it increases as well, which is row D."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-62.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-63.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-64.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q51.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q51-2.jpg"
+     ]
     },
     {
      "id": "Q52a",
@@ -34383,9 +35653,13 @@ window.BANK.physics = {
       "v against i"
      ],
      "question": "Draw a circuit diagram to investigate how p.d. V across a battery varies with current I.",
-     "status": "pending",
-     "answer": "Diagram-drawing question; the diagram is not in the text (expected: battery, ammeter in series, variable resistor, voltmeter across battery).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Battery in series with an ammeter and a variable resistor; a voltmeter connected across the battery terminals.",
+     "steps": [
+      "Draw a series loop of the battery, an ammeter and a variable resistor (the variable resistor changes the current I).",
+      "Connect a voltmeter in parallel across the battery terminals, to read the p.d. V across the battery.",
+      "Use the correct symbols (ammeter in series, voltmeter in parallel, variable resistor with an arrow)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-62.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-63.jpg",
@@ -34407,15 +35681,22 @@ window.BANK.physics = {
       "battery"
      ],
      "question": "From the student's graph of V against I, determine the e.m.f. and internal resistance of the battery.",
-     "status": "pending",
-     "answer": "Needs the graph values, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "E.m.f. = 8.8 V; internal resistance = 2.3 ohm",
+     "steps": [
+      "V = E - I r: the y-intercept of the line is the e.m.f. and the gradient is -r.",
+      "The best-fit line meets the V axis at 8.8 V, so E = 8.8 V.",
+      "Gradient = (0.75 - 7.65) / (3.5 - 0.5) = -2.3 V A^-1, so r = 2.3 ohm.",
+      "Check: the line meets the I axis at I = 8.8 / 2.3 = 3.8 A, in agreement with the graph."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-62.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-63.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-64.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q52.jpg"
+     ]
     },
     {
      "id": "Q52c(ii)",
@@ -34443,7 +35724,9 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-63.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-64.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q52.jpg"
+     ]
     },
     {
      "id": "Q53",
@@ -34601,15 +35884,22 @@ window.BANK.physics = {
       "safe"
      ],
      "question": "A system uses five heating panels with resistivity 6.4 x 10^-3 ohm m and thickness 0.48 mm. Maximum power must be below 350 W. Deduce whether the design is safe.",
-     "status": "pending",
-     "answer": "Needs the panel dimensions (length and width) and the arrangement of the five panels, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Not safe: the maximum power is about 680 W, which is more than 350 W.",
+     "steps": [
+      "Current flows across the panel between the electrodes, so L = 0.51 m and A = width x thickness = 1.60 m x 0.48 x 10^-3 m = 7.68 x 10^-4 m^2.",
+      "Resistance of one panel R = rho L / A = 6.4 x 10^-3 x 0.51 / 7.68 x 10^-4 = 4.25 ohm.",
+      "The panels are connected in parallel across 24 V, so P of one panel = V^2 / R = 24^2 / 4.25 = 136 W.",
+      "Five panels: total P = 5 x 136 = 680 W (equivalently V^2 / (R / 5)), which is greater than 350 W, so the design is not safe."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-65.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-66.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-67.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q54.jpg"
+     ]
     },
     {
      "id": "Q55a(i)",
@@ -34638,7 +35928,9 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-68.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-69.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q55-2.jpg"
+     ]
     },
     {
      "id": "Q55a(ii)",
@@ -34654,15 +35946,23 @@ window.BANK.physics = {
       "thermistor graph"
      ],
      "question": "Determine the potential difference across the battery given P = 0.38 W at 45 C.",
-     "status": "pending",
-     "answer": "Needs the resistance of the wire (or the thermistor resistance at 45 C from the graph) which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "P.d. across the battery = 9.1 V",
+     "steps": [
+      "Read the thermistor resistance at 45 degrees C from the graph: about 35 ohm. So the resistor has R = 35 / 4 = 8.75 ohm.",
+      "P.d. across the resistor: P = V^2 / R, so V = sqrt(P R) = sqrt(0.38 x 8.75) = 1.82 V.",
+      "The resistor has one fifth of the total resistance (R + 4R = 5R) in the series circuit, so the battery p.d. is 5 x 1.82 V.",
+      "Battery p.d. = 9.1 V (check: I = 1.82 / 8.75 = 0.208 A; 0.208 x 43.75 = 9.1 V)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-67.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-68.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-69.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q55.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q55-2.jpg"
+     ]
     },
     {
      "id": "Q55b(i)",
@@ -34706,15 +36006,23 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "Both the wire resistor and thermistor are heated from 80 C to 90 C. Explain why the current in the circuit decreases.",
-     "status": "pending",
-     "answer": "Requires the thermistor resistance values at 80 C and 90 C and the wire's temperature coefficient, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The resistance of the wire rises by more than the thermistor resistance falls, so the total resistance increases and the current decreases.",
+     "steps": [
+      "When the temperature rises, the thermistor resistance decreases because more electrons are released as conduction electrons. However, between 80 and 90 degrees C the graph is nearly flat, so the decrease is small.",
+      "The metal wire has a roughly constant number of conduction electrons but its lattice ions vibrate with larger amplitude.",
+      "The conduction electrons collide with the ions more frequently, so the resistance of the wire increases.",
+      "The total resistance of the series circuit is the sum of both resistances, so it increases because the wire resistance rises more than the thermistor resistance falls.",
+      "With a fixed battery e.m.f., I = E / R_total, so the current in the circuit decreases."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-67.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-68.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-69.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q55.jpg"
+     ]
     },
     {
      "id": "Q56",
@@ -34729,14 +36037,21 @@ window.BANK.physics = {
       "expression"
      ],
      "question": "A cell is connected to two resistors. Which expression gives the power transferred by the 20 ohm resistor?",
-     "status": "pending",
-     "answer": "Circuit diagram and options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: [1.5 / (20 + 30)] x [1.5 x 20 / (20 + 30)]",
+     "steps": [
+      "The resistors are in series, so the current is I = 1.5 / (20 + 30).",
+      "The p.d. across the 20 ohm resistor is V = 1.5 x 20 / (20 + 30) (potential divider).",
+      "Power P = V I = [1.5 x 20 / (20 + 30)] x [1.5 / (20 + 30)], which is option C."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-69.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-70.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q56.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q56-2.jpg"
+     ]
     },
     {
      "id": "Q57a",
@@ -34863,15 +36178,22 @@ window.BANK.physics = {
       "resistor chain"
      ],
      "question": "Four 85.0 k ohm resistors A to D apply p.d. between plates. With switch open the supply p.d. is 1960 V; with switch closed the p.d. across A is 108 V. Calculate the internal resistance of the supply.",
-     "status": "pending",
-     "answer": "The arrangement of the resistors when the switch is closed is not in the text, so the current through the chain cannot be determined.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Internal resistance = 1.2 x 10^6 ohm",
+     "steps": [
+      "Open switch: no current, so the e.m.f. of the supply is 1960 V.",
+      "Switch closed: the four 85.0 k ohm resistors are in series, so I = 108 / 85 000 = 1.27 x 10^-3 A, and the p.d. across the chain is 4 x 108 = 432 V.",
+      "Lost volts = 1960 - 432 = 1528 V.",
+      "r = lost volts / I = 1528 / 1.27 x 10^-3 = 1.2 x 10^6 ohm."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-70.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-71.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-72.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q57.jpg"
+     ]
     },
     {
      "id": "Q58",
@@ -34885,14 +36207,21 @@ window.BANK.physics = {
       "circuit"
      ],
      "question": "Circuit with a cell of internal resistance 0.5 ohm. Which expression gives the e.m.f. of the cell?",
-     "status": "pending",
-     "answer": "Options and circuit diagram are not in the text. Expected form: E = I(R + 0.5).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 1.2 + (1.2 x 0.5) / 6",
+     "steps": [
+      "The voltmeter reads the p.d. across the 6 ohm resistor (1.2 V), so I = 1.2 / 6.",
+      "Lost volts across the internal resistance = I r = (1.2 / 6) x 0.5.",
+      "E = V + I r = 1.2 + (1.2 x 0.5) / 6, which is option C (1.2 + 0.10 = 1.3 V)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-72.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-73.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q58.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q58-2.jpg"
+     ]
     },
     {
      "id": "Q59",
@@ -34907,14 +36236,21 @@ window.BANK.physics = {
       "circuit part"
      ],
      "question": "The diagram shows part of a circuit. Which expression gives the total resistance between X and Y?",
-     "status": "pending",
-     "answer": "Circuit diagram and options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 1 / [1/(2 + 3) + 1/4] + 6",
+     "steps": [
+      "The 2 ohm and 3 ohm resistors are in series: (2 + 3).",
+      "This is in parallel with the 4 ohm resistor: 1 / [1/(2 + 3) + 1/4].",
+      "The 6 ohm resistor is in series with the parallel section, so add 6, which is option D (total 8.2 ohm)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-73.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-74.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q59.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q59-2.jpg"
+     ]
     },
     {
      "id": "Q60",
@@ -34930,14 +36266,21 @@ window.BANK.physics = {
       "expression"
      ],
      "question": "Battery with negligible internal resistance; R1 and R2 identical. Which expression gives the p.d. across R1?",
-     "status": "pending",
-     "answer": "Circuit diagram and options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 10 - 3.3",
+     "steps": [
+      "The battery e.m.f. is 10 V (negligible internal resistance), and the voltmeter shows 3.3 V across the first resistor.",
+      "The p.d. across the parallel pair (R1 and R2) is 10 - 3.3 = 6.7 V.",
+      "In a parallel section each branch has the same p.d. as the section, so the p.d. across R1 is 10 - 3.3 (the 1/2 in option C would be wrong)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-74.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-75.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q60.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q60-2.jpg"
+     ]
     },
     {
      "id": "Q61",
@@ -34952,14 +36295,21 @@ window.BANK.physics = {
       "ohm's law"
      ],
      "question": "A student connects a circuit with resistors of different resistances. Which expression gives the current in resistor R?",
-     "status": "pending",
-     "answer": "Circuit diagram and options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 1.4 / 4.7 - 0.13",
+     "steps": [
+      "The voltmeter reads 1.4 V across the 4.7 ohm resistor, which is in the main branch with the cell, so it carries the total current: I = 1.4 / 4.7.",
+      "This current splits between resistor R and the lower branch with the ammeter (0.13 A).",
+      "Charge conservation: I_R = 1.4 / 4.7 - 0.13, option A."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-75.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-76.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q61.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q61-2.jpg"
+     ]
     },
     {
      "id": "Q62",
@@ -34975,14 +36325,20 @@ window.BANK.physics = {
       "negligible internal resistance"
      ],
      "question": "A 1.5 V cell with negligible internal resistance is in a circuit with two resistors and a voltmeter; the switch is closed. What is the reading? A 0.15 V, B 0.50 V, C 1.00 V, D 1.50 V.",
-     "status": "pending",
-     "answer": "Circuit diagram is not in the text, so the ratio of resistances (and the voltmeter position) cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 1.50 V",
+     "steps": [
+      "The closed switch is in parallel with the 5 ohm resistor, so it short-circuits it and no current flows through the 5 ohm resistor.",
+      "The circuit then has the 10 ohm resistor only, directly across the 1.5 V cell (negligible internal resistance).",
+      "The voltmeter across the 10 ohm resistor reads 1.50 V."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-76.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-77.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q62.jpg"
+     ]
     },
     {
      "id": "Q63",
@@ -34998,14 +36354,20 @@ window.BANK.physics = {
       "linear"
      ],
      "question": "A uniform wire on a metre rule carries current; the distance d between voltmeter connections is increased. Which graph shows V against d?",
-     "status": "pending",
-     "answer": "Graph options and circuit are not in the text. Expected: straight line through the origin (V proportional to d).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "The current in the uniform wire is constant and R = rho L / A, so the p.d. between the connections is V = I rho d / A.",
+      "V is directly proportional to d, so the graph is a straight line through the origin, graph C."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-76.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-77.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q63.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q63-2.jpg"
+     ]
     },
     {
      "id": "Q64a",
@@ -35084,7 +36446,9 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-80.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-81.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q65.jpg"
+     ]
     },
     {
      "id": "Q65b",
@@ -35100,15 +36464,22 @@ window.BANK.physics = {
       "angle of incidence"
      ],
      "question": "Deduce whether a silver layer is needed on surface Y of the prism with refractive index 1.52.",
-     "status": "pending",
-     "answer": "Needs the angle of incidence of the ray at surface Y, which is shown only in the diagram. (Critical angle for glass n = 1.52 is 41.1 degrees.)",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes, a silver layer is needed: the angle of incidence at Y (37 degrees) is less than the critical angle (41 degrees).",
+     "steps": [
+      "The 53 degrees shown is the angle between the ray and the surface, so the angle of incidence (to the normal) is 90 - 53 = 37 degrees.",
+      "Critical angle: sin C = 1 / n = 1 / 1.52, so C = 41 degrees.",
+      "Total internal reflection needs the angle of incidence to be greater than C. Since 37 degrees < 41 degrees, there is no total internal reflection, so the ray is partly transmitted.",
+      "A silver layer is therefore needed on Y to reflect the light."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-79.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-80.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-81.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q65.jpg"
+     ]
     },
     {
      "id": "Q65c(i)",
@@ -35152,15 +36523,22 @@ window.BANK.physics = {
       "photon energy"
      ],
      "question": "Monochromatic light at 600 nm with power 1.0 W is incident on the sensor. Determine the percentage of photons detected by the sensor.",
-     "status": "pending",
-     "answer": "Needs the current-wavelength graph for the sensor, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 85 % of the photons are detected",
+     "steps": [
+      "From the graph, the current at 600 nm is about 0.41 A.",
+      "Number of electrons per second (one per detected photon) = I / e = 0.41 / 1.60 x 10^-19 = 2.6 x 10^18 s^-1.",
+      "Photon energy E = h c / lambda = 6.63 x 10^-34 x 3.00 x 10^8 / 600 x 10^-9 = 3.3 x 10^-19 J, so photons arriving per second = 1.0 / 3.3 x 10^-19 = 3.0 x 10^18 s^-1.",
+      "Percentage detected = 2.6 x 10^18 / 3.0 x 10^18 x 100 = 85 %."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-79.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-80.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-81.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q65-2.jpg"
+     ]
     },
     {
      "id": "Q66a",
@@ -35176,9 +36554,13 @@ window.BANK.physics = {
       "variable resistor"
      ],
      "question": "Draw a circuit diagram the student could use to investigate the LED's current against p.d.",
-     "status": "pending",
-     "answer": "Diagram-drawing question; the diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "LED in series with a cell, a variable resistor and an ammeter; voltmeter across the LED; LED connected the right way round (forward biased).",
+     "steps": [
+      "Draw a series circuit: power supply (cell), variable resistor (or a potential divider), ammeter and the LED, with the LED symbol pointing in the direction of conventional current.",
+      "The ammeter is in series with the LED to measure its current.",
+      "The voltmeter is connected in parallel across the LED only, to measure the p.d. across it."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-81.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-82.jpg"
@@ -35198,14 +36580,20 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "Determine the power of the LED when the p.d. across it is 2.2 V, using the graph.",
-     "status": "pending",
-     "answer": "Needs the current at 2.2 V from the LED graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Power = 8.4 x 10^-2 W",
+     "steps": [
+      "Read the current from the graph at 2.2 V: I = 38 mA = 0.038 A.",
+      "Power P = V I = 2.2 x 0.038.",
+      "P = 8.4 x 10^-2 W (0.084 W)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-81.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-82.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q66.jpg"
+     ]
     },
     {
      "id": "Q66c",
@@ -35220,14 +36608,20 @@ window.BANK.physics = {
       "current increases"
      ],
      "question": "Describe, without calculation, how the resistance of the LED changes as the p.d. increases from 0 V to 2.4 V.",
-     "status": "pending",
-     "answer": "Needs the LED I-V graph shape, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Resistance is very large at first (almost no current below about 1.6 V), then decreases rapidly above this threshold, and then decreases more slowly.",
+     "steps": [
+      "From 0 to about 1.6 V the current is almost zero, so V / I is very large (the LED does not conduct).",
+      "Above 1.6 V the current increases rapidly with p.d., so the resistance V / I decreases sharply.",
+      "By 2.4 V the graph is nearly a straight line with a constant steep gradient, and the resistance has fallen to about 46 ohm (2.4 V / 52 mA)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-81.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-82.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q66.jpg"
+     ]
     },
     {
      "id": "Q67a",
@@ -35296,9 +36690,14 @@ window.BANK.physics = {
       "assess statement"
      ],
      "question": "Copper cable replaces steel with same length and diameter and same p.d.; copper has lower resistivity and more conduction electrons per volume. A student says drift velocities are the same. Assess the statement.",
-     "status": "pending",
-     "answer": "Needs numerical carrier densities for steel (only the qualitative comparison is given). Drift velocity v = I/(nAe), with I = V/R, so v is proportional to 1/(rho n); the statement is not correct, but the comparison needs the values.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The statement is not justified: copper has a lower resistivity (more current) but also a larger n (smaller drift velocity per unit current), so v is the same only by coincidence.",
+     "steps": [
+      "For the same length and diameter, R = rho L / A is smaller for copper because its resistivity is lower, so I = V / R is larger with the same p.d.",
+      "Drift velocity v = I / (n A e): the larger current increases v, but the greater number of conduction electrons per unit volume n decreases v.",
+      "Combined: v = V / (rho L n e), so v is inversely proportional to rho x n. The speeds are equal only if the product rho n is the same for both materials, which is unlikely.",
+      "For example, copper resistivity is about 8 times less than steel (1.72 x 10^-8 against 1.4 x 10^-7 ohm m), so the current is much bigger and v is probably higher in copper. The statement is therefore not correct in general."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-82.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-83.jpg"
@@ -35458,15 +36857,23 @@ window.BANK.physics = {
       "5 ohm"
      ],
      "question": "Voltmeter reads 3.6 V across the lamp; use the I-V graph to show the combined resistance of lamp and resistor is about 5 ohm.",
-     "status": "pending",
-     "answer": "Needs the current at 3.6 V from the lamp graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Combined resistance = 3.6 V / 0.71 A = 5.1 ohm, about 5 ohm",
+     "steps": [
+      "The voltmeter reads 3.6 V across the lamp-and-ammeter branch in parallel with the 15 ohm resistor, so the lamp also has 3.6 V across it.",
+      "From the graph, the lamp current at 3.6 V is about 0.47 A. The current in the 15 ohm resistor is 3.6 / 15 = 0.24 A.",
+      "Total current = 0.47 + 0.24 = 0.71 A.",
+      "Combined resistance = V / I = 3.6 / 0.71 = 5.1 ohm, which is about 5 ohm."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-86.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-87.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-88.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q70.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q70-2.jpg"
+     ]
     },
     {
      "id": "Q70b",
@@ -35494,7 +36901,9 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-87.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-88.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q70.jpg"
+     ]
     },
     {
      "id": "Q71",
@@ -35510,14 +36919,21 @@ window.BANK.physics = {
       "ohm's law"
      ],
      "question": "Student connects a circuit; voltmeter reading is 6 V. Which expression gives the internal resistance of the battery?",
-     "status": "pending",
-     "answer": "Circuit diagram and options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 10 x (9 - 6) / 6",
+     "steps": [
+      "The voltmeter reads the terminal p.d. across the 10 ohm resistor: 6 V, so I = 6 / 10.",
+      "Lost volts = E - V = 9 - 6 = 3 V = I r.",
+      "r = (9 - 6) / I = (9 - 6) x 10 / 6 = 10 x (9 - 6) / 6, option A (5 ohm)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-88.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-89.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q71.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q71-2.jpg"
+     ]
     },
     {
      "id": "Q72a",
@@ -35587,14 +37003,20 @@ window.BANK.physics = {
       "copper wire"
      ],
      "question": "A uniform copper wire of length L is measured with an ohmmeter; a length d of the wire has resistance R. Which gives the total resistance of the wire?",
-     "status": "pending",
-     "answer": "Options are not in the text. Derived result: total resistance = R L / d (resistance is proportional to length).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: (L / d) x R",
+     "steps": [
+      "For a uniform wire, resistance is directly proportional to length.",
+      "Length d has resistance R, so length L has resistance R x L / d, option D."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-89.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-90.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q73.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q73-2.jpg"
+     ]
     },
     {
      "id": "Q74",
@@ -35609,14 +37031,20 @@ window.BANK.physics = {
       "circuit"
      ],
      "question": "Three identical resistors are connected in a circuit with an e.m.f. and negligible internal resistance. Which is equal to the voltmeter reading?",
-     "status": "pending",
-     "answer": "Circuit diagram and options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 2E / 3 (where E is the e.m.f.)",
+     "steps": [
+      "The two identical resistors R in parallel give R / 2. This is in series with the third resistor R, so R_total = 1.5 R.",
+      "The voltmeter is across the single resistor R, so V = E x R / (1.5 R) = 2E / 3, option C."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-90.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-91.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q74.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q74-2.jpg"
+     ]
     },
     {
      "id": "Q75a",
@@ -35655,15 +37083,21 @@ window.BANK.physics = {
       "circuit"
      ],
      "question": "Voltmeter reads 1.64 V; show the ammeter reads about 20 mA.",
-     "status": "pending",
-     "answer": "The circuit diagram (which components the voltmeter and ammeter are across) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "I = 4.36 / 200 = 0.0218 A = 22 mA, about 20 mA",
+     "steps": [
+      "The voltmeter reads 1.64 V across the parallel pair, so the p.d. across the 200 ohm resistor is 6.00 - 1.64 = 4.36 V.",
+      "The ammeter is in series with the 200 ohm resistor, so I = V / R = 4.36 / 200 = 0.0218 A.",
+      "This is 22 mA, which is about 20 mA."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-91.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-92.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q75.jpg"
+     ]
     },
     {
      "id": "Q75b(ii)",
@@ -35678,15 +37112,21 @@ window.BANK.physics = {
       "emf 6.00 v"
      ],
      "question": "Determine the resistance of resistor X.",
-     "status": "pending",
-     "answer": "Circuit diagram needed to know how resistor X is connected.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Resistance of X = 3.0 x 10^2 ohm",
+     "steps": [
+      "Total current I = 21.8 mA (from part (i)). Current in the 100 ohm resistor = 1.64 / 100 = 16.4 mA.",
+      "Current in X = 21.8 - 16.4 = 5.4 mA (the current divides at the junction).",
+      "R_X = V / I = 1.64 / 5.4 x 10^-3 = 3.0 x 10^2 ohm (about 304 ohm)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-91.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-92.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q75.jpg"
+     ]
     },
     {
      "id": "Q75b(iii)",
@@ -35701,15 +37141,21 @@ window.BANK.physics = {
       "p = i^2 r"
      ],
      "question": "Determine the power dissipated in the 100 ohm resistor.",
-     "status": "pending",
-     "answer": "Circuit diagram needed to know the current through the 100 ohm resistor.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Power = 2.7 x 10^-2 W",
+     "steps": [
+      "The 100 ohm resistor has the voltmeter p.d. of 1.64 V across it.",
+      "P = V^2 / R = 1.64^2 / 100.",
+      "P = 2.7 x 10^-2 W (0.027 W)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-91.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-92.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q75.jpg"
+     ]
     },
     {
      "id": "Q75c",
@@ -35724,15 +37170,22 @@ window.BANK.physics = {
       "current"
      ],
      "question": "Discuss the student's prediction (shown in a missing image), without calculations.",
-     "status": "pending",
-     "answer": "The student's prediction is in an image that is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The prediction is correct: the voltmeter reading would increase.",
+     "steps": [
+      "After swapping, the parallel section is X (about 300 ohm) with 200 ohm, whose resistance (about 120 ohm) is greater than the original parallel section of X with 100 ohm (about 75 ohm).",
+      "The series resistor changes from 200 ohm to 100 ohm, so it is smaller.",
+      "In a potential divider, the section with the larger share of the total resistance has the larger share of the 6.00 V, so the p.d. across the parallel section, which is the voltmeter reading, rises (to about 3.3 V compared with 1.64 V)."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-91.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-92.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q75.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q75-2.jpg"
+     ]
     },
     {
      "id": "Q76",
@@ -35747,15 +37200,21 @@ window.BANK.physics = {
       "table row"
      ],
      "question": "An NTC thermistor is connected in a circuit and its temperature is increased. Which row of the table gives the changes to the ammeter and voltmeter?",
-     "status": "pending",
-     "answer": "Table of options and circuit diagram are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: ammeter reading increases; voltmeter reading decreases",
+     "steps": [
+      "Raising the temperature of an NTC thermistor lowers its resistance, so the total resistance falls and the current (ammeter) increases.",
+      "The p.d. across the fixed resistor (V = I R) rises, so the p.d. across the thermistor (voltmeter) = E - I R decreases. This is row D."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q76.jpg",
+      "papers/physics/fig/20-4B-Complete-Circuits-Q76-2.jpg"
+     ]
     },
     {
      "id": "Q77a",
@@ -35800,15 +37259,21 @@ window.BANK.physics = {
       "uv light"
      ],
      "question": "UV intensity on the screen is 50 mW cm^-2 and the glue takes 25 s to harden. Show that the total energy incident on the glass screen is 130 J.",
-     "status": "pending",
-     "answer": "Needs the screen area from the diagram (E = I A t gives 130 J only for an area of about 104 cm^2), which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "E = 131 J, which is about 130 J",
+     "steps": [
+      "Screen area A = 7.15 cm x 14.7 cm = 105 cm^2.",
+      "Power on the screen P = intensity x area = 50 mW cm^-2 x 105 cm^2 = 5250 mW = 5.25 W.",
+      "Energy E = P t = 5.25 W x 25 s = 131 J, which is about 130 J."
+     ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/20-4B-Complete-Circuits-Q77.jpg"
+     ]
     },
     {
      "id": "Q77b(ii)",
@@ -39453,14 +40918,20 @@ window.BANK.physics = {
       "electric force"
      ],
      "question": "An oil drop of charge q and mass m stays stationary between two metal plates separated by d, with potential difference V. Select the charge on the drop from the options.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice options are missing from the text extraction (the answer is q = mgd / V).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: q = mgd / V",
+     "steps": [
+      "The drop is stationary, so the upward electric force balances its weight: qE = mg.",
+      "For parallel plates the field is uniform, E = V / d.",
+      "So q V / d = mg, giving q = mgd / V (option C)."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-01.jpg",
       "papers/physics/img/23-6A-Electric-Fields-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q1.jpg"
+     ]
     },
     {
      "id": "6A-Q2",
@@ -39476,14 +40947,20 @@ window.BANK.physics = {
       "point X"
      ],
      "question": "Two equal positive charges are at Y and Z, and X is equidistant from them. Select the diagram showing the direction of the electric field at X.",
-     "status": "pending",
-     "answer": "Pending: the diagrams A to D are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: the field at X points straight down, away from the two charges.",
+     "steps": [
+      "The field of a positive charge points away from the charge, so each charge pushes a positive test charge at X away from itself (down and sideways).",
+      "X is equidistant from equal charges, so the two field magnitudes are equal and the horizontal components cancel.",
+      "The vertical components both point downwards (Y and Z are above X) and add, so the resultant field is vertically down: option B."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-01.jpg",
       "papers/physics/img/23-6A-Electric-Fields-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q2.jpg"
+     ]
     },
     {
      "id": "6A-Q3",
@@ -39500,14 +40977,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A force F acts between +Q and +2Q separated by d. The charges become +2Q and +4Q and the distance becomes 2d. Select the new force from the options.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice options are missing from the text extraction (the new force equals F).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: F (the force is unchanged).",
+     "steps": [
+      "Original force: F = k (Q)(2Q) / d^2 = 2kQ^2 / d^2.",
+      "New force: F' = k (2Q)(4Q) / (2d)^2 = 8kQ^2 / 4d^2 = 2kQ^2 / d^2.",
+      "So F' = F: the doubled charges give a factor 4 and the doubled distance gives a factor 1/4 (option C)."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-02.jpg",
       "papers/physics/img/23-6A-Electric-Fields-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q3.jpg"
+     ]
     },
     {
      "id": "6A-Q4",
@@ -39554,13 +41037,19 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A potential difference is applied across two parallel plates. Point X is midway between the plates. Select its electric field strength and direction from options A to D.",
-     "status": "pending",
-     "answer": "Pending: the potential difference value and plate polarity from the diagram are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 50 V m^-1 downwards",
+     "steps": [
+      "The field between parallel plates is uniform: E = V / d = 10 / 0.20 = 50 V m^-1 (the same at X as everywhere between the plates).",
+      "The field points from the positive plate to the negative plate. The top plate is at +10 V and the bottom at 0 V, so the field points downwards.",
+      "So the answer is 50 V m^-1 downwards (option B)."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q5.jpg"
+     ]
     },
     {
      "id": "6A-Q6",
@@ -39576,14 +41065,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "Equipotential lines about a point charge are shown. Select the diagram of field lines and polarity that could produce this pattern.",
-     "status": "pending",
-     "answer": "Pending: the diagrams of field lines and charge polarity are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: a positive charge with field lines pointing radially outwards.",
+     "steps": [
+      "The potential is highest (6 V) closest to the charge and falls with distance (4 V, then 2 V), so the charge is positive.",
+      "Field lines point away from a positive charge and run radially, at right angles to the circular equipotentials.",
+      "Only diagram A shows a + charge with arrows pointing outwards (B has arrows inwards, C and D show negative charges)."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-04.jpg",
       "papers/physics/img/23-6A-Electric-Fields-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q6.jpg"
+     ]
     },
     {
      "id": "6A-Q7",
@@ -39600,14 +41095,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "At distance d from a point charge q the potential is V. Select the potential at distance 4d from a charge 2q.",
-     "status": "pending",
-     "answer": "Pending: options A and B are missing from the text extraction (the answer is V/2, which is not among the visible options C and D).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: V / 2",
+     "steps": [
+      "For a point charge V = kq / r, so V is proportional to q / r.",
+      "Originally V = kq / d. Now the charge is 2q and the distance is 4d: V' = k(2q) / (4d) = (1/2) kq / d.",
+      "So the new potential is V / 2 (option B)."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-04.jpg",
       "papers/physics/img/23-6A-Electric-Fields-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q7.jpg"
+     ]
     },
     {
      "id": "6A-Q8a",
@@ -39868,16 +41369,23 @@ window.BANK.physics = {
       "elementary charge"
      ],
      "question": "The teacher says charge can only change in integer multiples of 1.6 x 10^-19 C. Explain the extent to which the students' results (a graph of number of droplets against charge) support this.",
-     "status": "pending",
-     "answer": "Pending: the graph of number of droplets against measured charge is not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The results support the statement well: the peaks are at 3.2, 4.8, 6.4, 8.0, 9.6 and 11.2 x 10^-19 C, which are 2 to 7 times 1.6 x 10^-19 C, with no droplets in between; but they cannot prove it for every charge.",
+     "steps": [
+      "Read the peak positions: 3.2, 4.8, 6.4, 8.0, 9.6, 11.2 (x 10^-19 C). Dividing by 1.6 x 10^-19 C gives 2, 3, 4, 5, 6, 7, all whole numbers.",
+      "The peaks are equally spaced by 1.6 x 10^-19 C and almost no droplets have charges between the peaks, so the charges come in whole-number multiples of a basic unit of 1.6 x 10^-19 C.",
+      "The spread of values around each peak is explained by the uncertainty in the measurement (for example of drop radius or terminal speed).",
+      "Limitation: there is no peak at 1.6 x 10^-19 C itself, and a finite sample cannot prove that charge can ONLY change in these steps (the unit could be a sub-multiple of 1.6 x 10^-19 C), so the data are consistent with the statement rather than a proof."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-07.jpg",
       "papers/physics/img/23-6A-Electric-Fields-08.jpg",
       "papers/physics/img/23-6A-Electric-Fields-09.jpg",
       "papers/physics/img/23-6A-Electric-Fields-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q10b.jpg"
+     ]
     },
     {
      "id": "6A-Q10c",
@@ -39927,13 +41435,19 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "Select the graph showing how the electric field strength E varies with distance r from a positive point charge.",
-     "status": "pending",
-     "answer": "Pending: the graphs A to D are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: a curve that falls steeply and then flattens (E proportional to 1/r^2).",
+     "steps": [
+      "For a point charge E = kq / r^2, so E decreases with distance following an inverse-square law and tends to zero at large r.",
+      "A is constant and D is a straight line, so neither is correct.",
+      "C is a 1/r-type curve (it falls too slowly); in B the field drops by a factor of about 4 each time r doubles, matching 1/r^2, so B is correct."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q11.jpg"
+     ]
     },
     {
      "id": "6A-Q12",
@@ -39950,14 +41464,21 @@ window.BANK.physics = {
       "superposition"
      ],
      "question": "Point charges of 2 C and 3 C are placed 1.2 m apart. Find the electric field strength at the point X shown.",
-     "status": "pending",
-     "answer": "Pending: the position of point X relative to the charges is shown in the diagram and is not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 2 x 10^-6 / (4 pi eps0 (0.4)^2) - 3 x 10^-6 / (4 pi eps0 (0.8)^2)",
+     "steps": [
+      "X is 0.4 m from the 2 microcoulomb charge and 0.8 m from the 3 microcoulomb charge (1.2 m in total).",
+      "Each field has magnitude Q / (4 pi eps0 r^2). Both are positive charges, so each field points away from its charge.",
+      "At X the two fields point in opposite directions, so the resultant is the DIFFERENCE of the magnitudes: B.",
+      "Numerically 1.1 x 10^5 - 4.2 x 10^4 = 7.0 x 10^4 V m^-1, towards the 3 microcoulomb charge."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-11.jpg",
       "papers/physics/img/23-6A-Electric-Fields-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q12.jpg"
+     ]
     },
     {
      "id": "6A-Q13",
@@ -39973,14 +41494,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A 6 V battery is connected across two parallel metal plates. Select the diagram showing the electric field lines and equipotentials between the plates.",
-     "status": "pending",
-     "answer": "Pending: the diagrams A to D are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: arrows pointing up, with 1.5 V at the top, 3.0 V in the middle and 4.5 V at the bottom.",
+     "steps": [
+      "Field lines run from the positive plate (bottom) to the negative plate (top), so the arrows must point upwards.",
+      "The potential is highest at the positive plate, so it increases downwards: 4.5 V near the bottom, 1.5 V near the top.",
+      "Equipotentials are parallel to the plates (perpendicular to the field lines) and equally spaced for a uniform field, which is diagram D."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-11.jpg",
       "papers/physics/img/23-6A-Electric-Fields-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q13.jpg"
+     ]
     },
     {
      "id": "6A-Q14a",
@@ -40055,14 +41582,21 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "The electric potential V varies with distance r from a charged object. Select the distance (A, B, C or D) at which the electric field strength has its maximum value.",
-     "status": "pending",
-     "answer": "Pending: the V against r graph and the marked positions A to D are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "Field strength is the negative of the potential gradient: E = -dV/dr.",
+      "At A (inside the conducting object) V is constant, so the gradient and the field are zero.",
+      "Outside the surface V falls as 1/r, so the gradient is steepest just outside the surface, at B, and becomes shallower at C and D.",
+      "So E is largest at B, the surface of the charged object."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-13.jpg",
       "papers/physics/img/23-6A-Electric-Fields-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q15.jpg"
+     ]
     },
     {
      "id": "6A-Q16",
@@ -40079,14 +41613,20 @@ window.BANK.physics = {
       "draw"
      ],
      "question": "A negative point charge is shown in a diagram. Draw field lines to show the electric field around the charge.",
-     "status": "pending",
-     "answer": "Pending: the drawing is not in the text extraction; the answer is radial field lines pointing inwards towards the charge with arrows.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Evenly spaced straight radial lines, all with arrows pointing inwards towards the negative charge.",
+     "steps": [
+      "Draw at least six straight lines, equally spaced around the dot, each starting away from the charge and ending on it (radial, never crossing).",
+      "The field direction is the direction of force on a positive test charge, which is attracted to a negative charge, so every arrow points towards the dot.",
+      "The lines are closer together near the charge, showing the stronger field there."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-14.jpg",
       "papers/physics/img/23-6A-Electric-Fields-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q16.jpg"
+     ]
     },
     {
      "id": "6A-Q17",
@@ -40102,14 +41642,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "The field pattern between charges X (charge -Q) and Y is shown. Select the possible charge of Y from -Q, -2Q, +Q or +2Q.",
-     "status": "pending",
-     "answer": "Pending: the field pattern diagram is not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: -2Q",
+     "steps": [
+      "The field lines from X and Y bend away from each other and do not join, with a neutral point between them, so X and Y have the same sign. X is -Q, so Y is negative: A or B.",
+      "Many more field lines meet Y than X, so Y carries the larger charge.",
+      "The neutral point is also closer to X (the smaller charge), which fits Y being the larger, so Y = -2Q (option B)."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-14.jpg",
       "papers/physics/img/23-6A-Electric-Fields-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q17.jpg"
+     ]
     },
     {
      "id": "6A-Q18",
@@ -40126,13 +41672,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "Two equally charged ions exert a force of 4.0 x 10^-9 N on each other with centres 2.4 x 10^-10 m apart. Select the charge on each ion from the options.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice options are missing from the text extraction (the charge is about 1.6 x 10^-19 C).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: q = sqrt(4.0 x 10^-9 x (2.4 x 10^-10)^2 / 8.99 x 10^9) = 1.6 x 10^-19 C",
+     "steps": [
+      "Coulomb's law for equal charges: F = k q^2 / r^2, with k = 8.99 x 10^9 N m^2 C^-2.",
+      "Rearranging, q^2 = F r^2 / k, so q = sqrt(F r^2 / k).",
+      "Substituting: q = sqrt(4.0 x 10^-9 x (2.4 x 10^-10)^2 / 8.99 x 10^9) = 1.6 x 10^-19 C (option A).",
+      "C and D omit the square root, and B divides by 4 pi eps0 instead of multiplying by it."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q18.jpg"
+     ]
     },
     {
      "id": "6A-Q19",
@@ -40162,7 +41715,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-16.jpg",
       "papers/physics/img/23-6A-Electric-Fields-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q19.jpg"
+     ]
     },
     {
      "id": "6A-Q20",
@@ -40178,14 +41733,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "Point charges of equal magnitude are placed close together. Select the diagram showing the electric field around the charges.",
-     "status": "pending",
-     "answer": "Pending: the field diagrams A to D are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: lines run from the positive charge (right) to the negative charge (left), with arrows pointing towards the negative charge.",
+     "steps": [
+      "For opposite charges of equal magnitude the field lines leave the positive charge and end on the negative charge, so lines curve between the two charges and join them (C and D, with lines not joining, show like charges).",
+      "Field direction is that of the force on a positive test charge: away from + (right) and towards - (left).",
+      "Between the charges the arrows must therefore point left, towards the negative charge; A has them pointing the wrong way, so the answer is B."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-16.jpg",
       "papers/physics/img/23-6A-Electric-Fields-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q20.jpg"
+     ]
     },
     {
      "id": "6A-Q21a",
@@ -40201,16 +41762,22 @@ window.BANK.physics = {
       "conducting sphere"
      ],
      "question": "Complete the diagram to show the electric field around a positively charged conducting sphere.",
-     "status": "pending",
-     "answer": "Pending: the drawing is not in the text extraction; the answer is radial lines pointing outwards from the sphere.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Straight radial lines, equally spaced all round the sphere, leaving the surface at right angles with arrows pointing outwards.",
+     "steps": [
+      "Draw at least eight lines, equally spaced, starting on the surface of the sphere and pointing radially outwards (normal to the conducting surface), none inside the sphere.",
+      "Arrows point away from the sphere because it is positively charged.",
+      "Lines must not cross; they spread out (get further apart) with distance from the sphere, showing the field weakens."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-17.jpg",
       "papers/physics/img/23-6A-Electric-Fields-18.jpg",
       "papers/physics/img/23-6A-Electric-Fields-19.jpg",
       "papers/physics/img/23-6A-Electric-Fields-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q21a.jpg"
+     ]
     },
     {
      "id": "6A-Q21b(i)",
@@ -40382,15 +41949,22 @@ window.BANK.physics = {
       "electric field"
      ],
      "question": "Add dashed lines to the electric field diagram of the two charges to show equipotentials.",
-     "status": "pending",
-     "answer": "Pending: the field diagram is not in the text extraction, so the equipotentials cannot be drawn on it.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Dashed curves at right angles to every field line: a straight vertical line midway between X and Y, and closed loops around each charge.",
+     "steps": [
+      "Equipotentials cross field lines at 90 degrees everywhere, so near each charge they are almost circles centred on the charge.",
+      "Draw the 0 V line as a straight vertical dashed line midway between X and Y (the perpendicular bisector), because the charges are equal and opposite.",
+      "Draw closed loops around X (positive potentials) and around Y (negative), the mirror image of each other; loops further out become egg-shaped, flattening towards the central line.",
+      "Space them at equal potential intervals, so they are close together near the charges (strong field) and further apart where the field is weaker."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-20.jpg",
       "papers/physics/img/23-6A-Electric-Fields-21.jpg",
       "papers/physics/img/23-6A-Electric-Fields-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q22b.jpg"
+     ]
     },
     {
      "id": "6A-Q22b(ii)",
@@ -40407,15 +41981,22 @@ window.BANK.physics = {
       "accuracy"
      ],
      "question": "A textbook says an electric field line shows the path a free positive test charge follows. Discuss the accuracy of this for free positive test charges placed at points A and B on the diagram.",
-     "status": "pending",
-     "answer": "Pending: the positions of A and B relative to the field lines are in the diagram, which is not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Accurate at A, where the field line is straight, but not accurate at B, where the field line is curved.",
+     "steps": [
+      "The force on a positive test charge is always along the tangent to the field line at its position (in the field direction), so the charge accelerates along the line.",
+      "At A the field line is straight, so the force always acts in the same direction and a charge released from rest accelerates along the line: the statement is accurate for A.",
+      "At B the field line is curved, so the direction of the force keeps changing; the charge keeps its velocity (inertia) from one point to the next, so its velocity is not in line with the new field direction.",
+      "The charge therefore moves off the field line, along a flatter path, and the statement is not accurate at B (it is true only for a straight field line)."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-20.jpg",
       "papers/physics/img/23-6A-Electric-Fields-21.jpg",
       "papers/physics/img/23-6A-Electric-Fields-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q22b.jpg"
+     ]
     },
     {
      "id": "6A-Q22c",
@@ -40432,15 +42013,22 @@ window.BANK.physics = {
       "equipotential"
      ],
      "question": "The charges are replaced by charges of twice the magnitude (+5.0 x 10^-7 C and -5.0 x 10^-7 C). Determine the potential difference between points C and D, which lie between the charges.",
-     "status": "pending",
-     "answer": "Pending: the positions of C and D between the charges are shown in the diagram and are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "2.0 x 10^5 V (1.96 x 10^5 V)",
+     "steps": [
+      "Distances: C is 2.5 cm from X and 8.0 - 2.5 = 5.5 cm from Y; D is 2.5 cm from Y and 5.5 cm from X.",
+      "V = kQ / r, so V at C = (8.99 x 10^9 x 5.0 x 10^-7)(1 / 0.025 - 1 / 0.055) = 4495 x 21.8 = 9.8 x 10^4 V.",
+      "By symmetry the potential at D has the same size but opposite sign: -9.8 x 10^4 V.",
+      "Potential difference = 9.8 x 10^4 - (-9.8 x 10^4) = 1.96 x 10^5 V, about 2.0 x 10^5 V."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-20.jpg",
       "papers/physics/img/23-6A-Electric-Fields-21.jpg",
       "papers/physics/img/23-6A-Electric-Fields-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q22c.jpg"
+     ]
     },
     {
      "id": "6A-Q23",
@@ -40458,13 +42046,19 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A proton and then a helium nucleus are accelerated by the same uniform field. The proton's speed increases by v after time t. Select the time for the helium nucleus to achieve the same change in speed.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice options are missing from the text extraction (the answer is 2t).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 2t",
+     "steps": [
+      "In the same field a particle accelerates at a = qE / m, so the change in speed in time t is Delta v = qEt / m.",
+      "The helium nucleus has twice the charge of a proton (2e) and four times the mass (about 4 m_p), so its acceleration is (2/4) = 1/2 of the proton's.",
+      "To reach the same Delta v it needs twice as long: 2t (option B)."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q23.jpg"
+     ]
     },
     {
      "id": "6A-Q24a",
@@ -40479,14 +42073,20 @@ window.BANK.physics = {
       "X"
      ],
      "question": "Add equipotential lines, at intervals of equal potential difference, to the diagram of a point charge at X.",
-     "status": "pending",
-     "answer": "Pending: the diagram is not in the text extraction; the answer is concentric circles around X with spacing increasing outwards.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Concentric circles centred on X, drawn closer together near X and further apart as the distance from X increases.",
+     "steps": [
+      "Equipotentials of a point charge are spheres, shown as circles in the diagram, centred on X (at right angles to the radial field lines).",
+      "V = kQ / r, so equal steps in V correspond to radii in the ratio r : r/2 : r/3 ..., i.e. the circles are bunched together near X and the gaps grow outwards.",
+      "Draw at least three circles with this spacing (not equally spaced)."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-23.jpg",
       "papers/physics/img/23-6A-Electric-Fields-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q24a.jpg"
+     ]
     },
     {
      "id": "6A-Q24b",
@@ -40617,14 +42217,21 @@ window.BANK.physics = {
       "dipole"
      ],
      "question": "The diagram shows the electric field of a spacecraft X and satellite Y with equal and opposite charge. Add dashed equipotentials at equal potential intervals.",
-     "status": "pending",
-     "answer": "Pending: the field diagram is not in the text extraction, so the equipotentials cannot be drawn on it.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Dashed closed loops round each sphere at right angles to the field lines, plus a straight line midway between the spheres.",
+     "steps": [
+      "Each sphere's surface is itself an equipotential; draw loops around X and around Y, nearly circular close to each sphere and crossing the field lines at 90 degrees.",
+      "Around X (positive) the loops are at positive potentials, around Y (negative) at negative potentials, mirror images of each other.",
+      "Draw a straight vertical line midway between the spheres (the 0 V equipotential).",
+      "Equal potential intervals, so the lines are closer together near the spheres (strong field) and widely spaced where the field is weak."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-25.jpg",
       "papers/physics/img/23-6A-Electric-Fields-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q26a.jpg"
+     ]
     },
     {
      "id": "6A-Q26a(ii)",
@@ -40640,14 +42247,19 @@ window.BANK.physics = {
       "equal opposite charges"
      ],
      "question": "Label the equipotential that represents 0 V on the diagram of the spacecraft and satellite.",
-     "status": "pending",
-     "answer": "Pending: the diagram is not in the text extraction; the 0 V equipotential is the perpendicular bisector between the two spheres.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The straight vertical dashed line midway between the two spheres (the perpendicular bisector of XY), labelled 0 V.",
+     "steps": [
+      "The charges are equal in size and opposite in sign, so the potentials of the two spheres cancel at every point equidistant from them.",
+      "That set of points is the plane midway between X and Y, drawn as a straight line at right angles to the axis, labelled 0 V."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-25.jpg",
       "papers/physics/img/23-6A-Electric-Fields-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q26a.jpg"
+     ]
     },
     {
      "id": "6A-Q26b(i)",
@@ -40752,14 +42364,21 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "The solid line shows an alpha particle's path near a gold nucleus. A second alpha particle with the same kinetic energy approaches. Select the dotted line showing a possible path.",
-     "status": "pending",
-     "answer": "Pending: the path diagrams A to D are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "Both the alpha particle and the gold nucleus are positive, so the alpha particle is repelled and is deflected away from the nucleus (upwards in the diagram). This rules out A, which bends towards the nucleus, and D, which is deflected towards the side of the nucleus.",
+      "In Rutherford scattering, a closer approach (smaller impact parameter) gives a larger deflection angle for the same kinetic energy.",
+      "B starts closer to the nucleus than the solid path but is deflected less, so B is wrong.",
+      "C starts closer to the nucleus than the solid path and is deflected more strongly, away from the nucleus, so C is correct."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-26.jpg",
       "papers/physics/img/23-6A-Electric-Fields-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q27.jpg"
+     ]
     },
     {
      "id": "6A-Q28",
@@ -40775,14 +42394,19 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A potential difference is applied across parallel plates. Select the graph showing how the field strength E varies with distance d from the positive plate.",
-     "status": "pending",
-     "answer": "Pending: the graphs A to D are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: a horizontal straight line (constant E).",
+     "steps": [
+      "Between parallel plates the field is uniform: E = V / d is the same at every point between the plates.",
+      "So E does not vary with distance from the positive plate and the graph is a horizontal line, option A."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-27.jpg",
       "papers/physics/img/23-6A-Electric-Fields-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q28.jpg"
+     ]
     },
     {
      "id": "6A-Q29a(i)",
@@ -40902,7 +42526,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-29.jpg",
       "papers/physics/img/23-6A-Electric-Fields-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q29b.jpg"
+     ]
     },
     {
      "id": "6A-Q29b(ii)",
@@ -40947,14 +42573,20 @@ window.BANK.physics = {
       "arrows"
      ],
      "question": "A positive point charge is shown. Draw field lines to show the electric field around the charge.",
-     "status": "pending",
-     "answer": "Pending: the drawing is not in the text extraction; the answer is radial lines pointing outwards from the charge.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Evenly spaced straight radial lines with arrows pointing outwards, away from the positive charge.",
+     "steps": [
+      "Draw at least six straight lines, equally spaced all round the dot, radiating outwards.",
+      "Arrows point away from the charge (the direction a positive test charge is pushed).",
+      "Lines must not cross; they are closer together near the charge, showing the stronger field."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-30.jpg",
       "papers/physics/img/23-6A-Electric-Fields-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q30a.jpg"
+     ]
     },
     {
      "id": "6A-Q30b",
@@ -40971,14 +42603,21 @@ window.BANK.physics = {
       "position of Q"
      ],
      "question": "A +14 nC charge at P and a -14 nC charge at Q are shown, with R 4.0 cm from P. Calculate the magnitude of the electric field strength at R.",
-     "status": "pending",
-     "answer": "Pending: the distance of R from Q is shown in the diagram and is not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "9.8 x 10^4 V m^-1 (N C^-1), directed towards Q",
+     "steps": [
+      "R is 4.0 cm from P and 12.0 - 4.0 = 8.0 cm from Q.",
+      "Field of the +14 nC charge at P: E_P = kQ / r^2 = 8.99 x 10^9 x 14 x 10^-9 / (0.040)^2 = 7.9 x 10^4 V m^-1, pointing away from P (towards Q).",
+      "Field of the -14 nC charge at Q: E_Q = 8.99 x 10^9 x 14 x 10^-9 / (0.080)^2 = 2.0 x 10^4 V m^-1, pointing towards Q.",
+      "Both fields point the same way, so they add: E = 7.9 x 10^4 + 2.0 x 10^4 = 9.8 x 10^4 V m^-1."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-30.jpg",
       "papers/physics/img/23-6A-Electric-Fields-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q30b.jpg"
+     ]
     },
     {
      "id": "6A-Q31",
@@ -41006,7 +42645,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-31.jpg",
       "papers/physics/img/23-6A-Electric-Fields-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q31.jpg"
+     ]
     },
     {
      "id": "6A-Q32a",
@@ -41077,14 +42718,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "Two identical +8.0 x 10^-6 C particles are 0.020 m apart in a vacuum. Select the magnitude of the force on each particle from the options.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice options are missing from the text extraction (the force is about 1.4 x 10^3 N).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: F = 8.99 x 10^9 x (8.0 x 10^-6)^2 / 0.020^2 = 1.4 x 10^3 N",
+     "steps": [
+      "Coulomb's law for two identical charges: F = k q^2 / r^2.",
+      "The charge must be squared (q x q) and the distance squared as well, which only option B does.",
+      "F = 8.99 x 10^9 x (8.0 x 10^-6)^2 / (0.020)^2 = 1.4 x 10^3 N."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-32.jpg",
       "papers/physics/img/23-6A-Electric-Fields-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q33.jpg"
+     ]
     },
     {
      "id": "6A-Q34a",
@@ -41101,14 +42748,20 @@ window.BANK.physics = {
       "draw"
      ],
      "question": "Add to the diagram the field lines between two parallel charged plates in Millikan's experiment.",
-     "status": "pending",
-     "answer": "Pending: the diagram is not in the text extraction; the answer is parallel straight lines, evenly spaced, from the positive plate to the negative plate.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Straight, parallel, equally spaced vertical lines from the +V plate to the 0 V plate, with arrows pointing downwards.",
+     "steps": [
+      "Draw at least five lines, perpendicular to both plates and equally spaced, showing a uniform field between the plates.",
+      "Arrows point from the positive (top) plate to the 0 V (bottom) plate, as the field points in the direction of the force on a positive charge.",
+      "Near the edges the outer lines may bow slightly outwards; they must not cross."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-33.jpg",
       "papers/physics/img/23-6A-Electric-Fields-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q34a.jpg"
+     ]
     },
     {
      "id": "6A-Q34b",
@@ -41157,14 +42810,21 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A proton in a vacuum produces an electric field of 0.77 N C^-1 at distance r. Select the distance r in metres from the options.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice options are missing from the text extraction (r = 4.3 x 10^-5 m).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: r = sqrt(1.6 x 10^-19 / (4 pi x 8.85 x 10^-12 x 0.77)) = 4.3 x 10^-5 m",
+     "steps": [
+      "Field of a point charge: E = e / (4 pi eps0 r^2), with the proton charge e = 1.6 x 10^-19 C.",
+      "Rearranging, r^2 = e / (4 pi eps0 E), so r = sqrt(e / (4 pi eps0 E)).",
+      "r = sqrt(1.6 x 10^-19 / (4 pi x 8.85 x 10^-12 x 0.77)) = 4.3 x 10^-5 m (option A).",
+      "B has the charge squared and C, D have no square root, so they are wrong."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-34.jpg",
       "papers/physics/img/23-6A-Electric-Fields-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q35.jpg"
+     ]
     },
     {
      "id": "6A-Q36a",
@@ -41181,16 +42841,22 @@ window.BANK.physics = {
       "diagram"
      ],
      "question": "A negatively charged plate is above a positively charged solar panel. Add the electric field lines between the plate and the panel.",
-     "status": "pending",
-     "answer": "Pending: the diagram is not in the text extraction; the answer is straight field lines from the panel up to the plate.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Straight, parallel, equally spaced vertical lines from the positive solar panel up to the negative plate, with arrows pointing upwards.",
+     "steps": [
+      "Draw several straight vertical lines, perpendicular to both the panel and the plate, equally spaced (a uniform field).",
+      "Arrows point from the positively charged panel (bottom) to the negatively charged plate (top).",
+      "Near the ends of the plates the outer lines may curve slightly outwards; lines must not cross."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-35.jpg",
       "papers/physics/img/23-6A-Electric-Fields-36.jpg",
       "papers/physics/img/23-6A-Electric-Fields-37.jpg",
       "papers/physics/img/23-6A-Electric-Fields-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q36a.jpg"
+     ]
     },
     {
      "id": "6A-Q36b(i)",
@@ -41269,16 +42935,24 @@ window.BANK.physics = {
       "largest diameter"
      ],
      "question": "The maximum positive charge on a sand particle is 4.0 x 10^-12 C, and the field is 8.1 x 10^5 V m^-1. Density of sand is 2600 kg m^-3. Deduce the largest diameter of sand particles from the table that could be lifted from the panel.",
-     "status": "pending",
-     "answer": "Pending: the table of sand particle diameters is not in the text extraction. The threshold is about 0.62 mm: particles larger than this cannot be lifted.",
-     "steps": [],
+     "status": "ready",
+     "answer": "590 micrometres (the limit is about 620 micrometres)",
+     "steps": [
+      "A particle just lifts off when the electric force equals its weight: qE = mg.",
+      "Maximum electric force = 4.0 x 10^-12 x 8.1 x 10^5 = 3.24 x 10^-6 N, so the heaviest particle has m = 3.24 x 10^-6 / 9.81 = 3.30 x 10^-7 kg.",
+      "Volume = m / rho = 3.30 x 10^-7 / 2600 = 1.27 x 10^-10 m^3.",
+      "For a sphere V = (pi/6) d^3, so d^3 = 6 x 1.27 x 10^-10 / pi = 2.43 x 10^-10 m^3 and d = 6.2 x 10^-4 m (about 620 micrometres).",
+      "Of the table values 310, 590, 720 and 970 micrometres, 590 micrometres is the largest below this limit; 720 and 970 are too heavy to be lifted."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-35.jpg",
       "papers/physics/img/23-6A-Electric-Fields-36.jpg",
       "papers/physics/img/23-6A-Electric-Fields-37.jpg",
       "papers/physics/img/23-6A-Electric-Fields-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q36b.jpg"
+     ]
     },
     {
      "id": "6A-Q36c(i)",
@@ -41295,16 +42969,22 @@ window.BANK.physics = {
       "angle"
      ],
      "question": "The solar panel is inclined at an angle to the horizontal. Add to the diagram the forces acting on a charged sand particle.",
-     "status": "pending",
-     "answer": "Pending: the inclined panel diagram is not in the text extraction; the forces are weight vertically down, the electric force from the plate, and a normal reaction from the panel.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Weight mg vertically downwards, and electric force qE perpendicular to the plates pointing towards the negative plate (up and to the left).",
+     "steps": [
+      "Draw an arrow from the particle vertically downwards, labelled weight (mg).",
+      "The field between inclined parallel plates is perpendicular to them, so draw an arrow perpendicular to the plates pointing from the positive panel towards the negative plate (up and to the left, at angle theta to the vertical), labelled electric force.",
+      "The particle is shown clear of the panel, so there is no contact force on it; if it were still resting on the panel there would also be a normal reaction (and friction) acting from the panel."
+     ],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-35.jpg",
       "papers/physics/img/23-6A-Electric-Fields-36.jpg",
       "papers/physics/img/23-6A-Electric-Fields-37.jpg",
       "papers/physics/img/23-6A-Electric-Fields-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q36c.jpg"
+     ]
     },
     {
      "id": "6A-Q36c(ii)",
@@ -41361,14 +43041,21 @@ window.BANK.physics = {
       "capacitance choice"
      ],
      "question": "A night light uses an LED (constant resistance 340 ohm) and a resistor R = 860 ohm. The light goes out when the LED p.d. falls to 1.4 V, and the time should be as close to 10 minutes as possible but not less. Choose the capacitance from 0.50, 0.51, 0.54, 0.58 and 0.60 F.",
-     "status": "pending",
-     "answer": "Pending: the circuit diagram (the e.m.f. or starting p.d. across the capacitor and the arrangement of the LED and R) is not in the text extraction, so the discharge time cannot be calculated.",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.58 F",
+     "steps": [
+      "The capacitor discharges through R and the LED in series: R_total = 860 + 340 = 1200 ohm.",
+      "The LED goes out when its p.d. is 1.4 V. The p.d. divides in the ratio of resistances, so the capacitor p.d. is then V = 1.4 x 1200 / 340 = 4.94 V.",
+      "Discharge: V = V0 e^(-t/RC) with V0 = 12 V, so t = RC ln(12 / 4.94) = 1200 C x 0.887 = 1065 C seconds.",
+      "Need t >= 600 s, so C >= 600 / 1065 = 0.56 F. The smallest available value not below this is 0.58 F (t = 618 s, about 10.3 min); 0.54 F gives only 575 s, which is too short."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-01.jpg",
       "papers/physics/img/24-6B-Capacitors-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q1a.jpg"
+     ]
     },
     {
      "id": "6B-Q1b",
@@ -41385,14 +43072,20 @@ window.BANK.physics = {
       "intensity"
      ],
      "question": "The LED's resistance is not constant. Using its current against p.d. graph, explain how this behaviour affects the time for the light intensity to decrease to zero.",
-     "status": "pending",
-     "answer": "Pending: the current against p.d. graph for the LED is not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The time for the light to go out is longer than the student calculated, because the LED resistance rises as the p.d. falls.",
+     "steps": [
+      "Below about 1.4 V the LED current is almost zero, so the LED resistance becomes very large (the graph is flat), and as the capacitor p.d. falls the LED resistance increases.",
+      "A larger resistance means a larger time constant RC, so the capacitor discharges more and more slowly and the current (and light intensity) decreases more slowly than the constant-resistance model predicts.",
+      "With a constant 340 ohm LED the light stopped when the capacitor was at about 4.9 V, but with the real LED the current only reaches zero when the capacitor p.d. has fallen to about 1.4 V, so the light takes longer to decrease to zero than the student's calculation of about 10 minutes."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-01.jpg",
       "papers/physics/img/24-6B-Capacitors-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q1b.jpg"
+     ]
     },
     {
      "id": "6B-Q1c",
@@ -41437,13 +43130,19 @@ window.BANK.physics = {
       "2C"
      ],
      "question": "A capacitor of capacitance C with p.d. V stores charge Q. It is replaced by two capacitors of capacitance 2C in parallel. Select the total charge stored from the options.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice options are missing from the text extraction (the total charge is 4Q for the same p.d.).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 4Q",
+     "steps": [
+      "Original charge Q = CV.",
+      "Capacitors in parallel add: 2C + 2C = 4C, with the same p.d. V across them.",
+      "Total charge = 4C x V = 4Q (option D)."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q2.jpg"
+     ]
     },
     {
      "id": "6B-Q3",
@@ -41460,14 +43159,20 @@ window.BANK.physics = {
       "capacitor"
      ],
      "question": "A battery of e.m.f. V charges an initially uncharged capacitor, transferring charge Q with final p.d. V. Select the row giving the work done by the battery and the energy stored.",
-     "status": "pending",
-     "answer": "Pending: the table of rows is not in the text extraction (the work done is QV and the stored energy is QV/2).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: work done by the battery = QV; energy stored = QV/2",
+     "steps": [
+      "The battery moves charge Q through its e.m.f. V, so it does work W = QV.",
+      "The energy stored in the capacitor is the area under the V-Q graph: E = QV/2.",
+      "The other half of the battery's energy, QV/2, is dissipated as heat in the circuit resistance, so the row is C."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-03.jpg",
       "papers/physics/img/24-6B-Capacitors-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q3.jpg"
+     ]
     },
     {
      "id": "6B-Q4a",
@@ -41483,14 +43188,19 @@ window.BANK.physics = {
       "charge"
      ],
      "question": "Two capacitors, each of capacitance 32 uF, are connected to a 6.0 V battery as shown. Calculate the total charge stored.",
-     "status": "pending",
-     "answer": "Pending: the arrangement of the two capacitors (series or parallel) is shown in the diagram, which is not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "3.8 x 10^-4 C",
+     "steps": [
+      "The diagram shows the two capacitors in parallel across the 6.0 V battery, so the capacitances add: C = 32 + 32 = 64 microfarad.",
+      "Q = CV = 64 x 10^-6 x 6.0 = 3.84 x 10^-4 C (3.8 x 10^-4 C)."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-04.jpg",
       "papers/physics/img/24-6B-Capacitors-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q4.jpg"
+     ]
     },
     {
      "id": "6B-Q4b",
@@ -41506,14 +43216,19 @@ window.BANK.physics = {
       "arrangement"
      ],
      "question": "Calculate the total energy stored by the two 32 uF capacitors connected to the 6.0 V battery as shown.",
-     "status": "pending",
-     "answer": "Pending: the arrangement of the capacitors is shown in the diagram, which is not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1.2 x 10^-3 J",
+     "steps": [
+      "The capacitors are in parallel, so total C = 64 x 10^-6 F, with 6.0 V across them.",
+      "E = 1/2 C V^2 = 0.5 x 64 x 10^-6 x 6.0^2 = 1.15 x 10^-3 J (1.2 x 10^-3 J)."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-04.jpg",
       "papers/physics/img/24-6B-Capacitors-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q4.jpg"
+     ]
     },
     {
      "id": "6B-Q5a",
@@ -41531,15 +43246,21 @@ window.BANK.physics = {
       "measure p.d."
      ],
      "question": "Add to the diagram a suitable circuit for charging and discharging the capacitor through the resistor while measuring the p.d. across the capacitor.",
-     "status": "pending",
-     "answer": "Pending: the diagram is not in the text extraction; the answer is a two-way switch to the 6.0 V battery and to a discharge path, with a voltmeter across the capacitor.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Battery (6.0 V) and a two-way switch connecting the capacitor-resistor series branch to the battery (charging) or round a closed loop (discharging), with a voltmeter in parallel with the capacitor.",
+     "steps": [
+      "Add the 6.0 V battery in series with a two-way switch, so that in position 1 the battery is connected to the series resistor and capacitor and the capacitor charges through the resistor.",
+      "In position 2 the capacitor and resistor are connected to each other only, giving a closed loop so that the capacitor discharges through the resistor.",
+      "Connect a voltmeter directly across the capacitor (in parallel with it, not across the resistor) to record the capacitor p.d. during charging and discharging."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-05.jpg",
       "papers/physics/img/24-6B-Capacitors-06.jpg",
       "papers/physics/img/24-6B-Capacitors-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q5a.jpg"
+     ]
     },
     {
      "id": "6B-Q5b(i)",
@@ -41555,15 +43276,21 @@ window.BANK.physics = {
       "6.0 V"
      ],
      "question": "On the same axes as the capacitor p.d. against time graph, sketch how the p.d. across the resistor varies with time during charging.",
-     "status": "pending",
-     "answer": "Pending: the drawing is not in the text extraction; the sketch is an exponential decrease from 6.0 V to zero, the mirror image of the capacitor curve.",
-     "steps": [],
+     "status": "ready",
+     "answer": "An exponential decay from 6.0 V at t = 0 towards 0 V, the mirror image of the capacitor curve in the 3.0 V line; it crosses the capacitor curve at 3.0 V at about 3.3 s.",
+     "steps": [
+      "The cell p.d. is shared between the capacitor and resistor: V_R = 6.0 - V_C.",
+      "At t = 0 the capacitor p.d. is zero so V_R = 6.0 V; V_R falls with a decreasing gradient and approaches 0 V as t increases (V_R = 6.0 e^(-t/RC), about 2.2 V at t = RC = 4.8 s).",
+      "The two curves cross at 3.0 V (V_C = V_R = V0 / 2) at t = RC ln 2, about 3.3 s."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-05.jpg",
       "papers/physics/img/24-6B-Capacitors-06.jpg",
       "papers/physics/img/24-6B-Capacitors-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q5b.jpg"
+     ]
     },
     {
      "id": "6B-Q5b(ii)",
@@ -41611,15 +43338,21 @@ window.BANK.physics = {
       "recorded values"
      ],
      "question": "The student recorded the p.d. across the capacitor and the resistance (330 kohm) during charging. From the list of 10, 15, 47, 100 and 150 uF capacitors, deduce the capacitance used.",
-     "status": "pending",
-     "answer": "Pending: the recorded p.d. and time values (or graph) are not in the text extraction, so the capacitance cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "15 microfarad",
+     "steps": [
+      "The time constant is the time for the capacitor p.d. to reach 63 percent of 6.0 V, that is 3.8 V. From the graph this is at t of about 4.8 s, so RC = 4.8 s.",
+      "C = (time constant) / R = 4.8 / 330 000 = 1.5 x 10^-5 F = 15 microfarad.",
+      "Check with another point: for 15 microfarad RC = 4.95 s and V at 10 s = 6.0(1 - e^(-10/4.95)) = 5.2 V, in agreement with the graph; 10 microfarad (RC = 3.3 s) or 47 microfarad (RC = 15.5 s) would not fit."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-05.jpg",
       "papers/physics/img/24-6B-Capacitors-06.jpg",
       "papers/physics/img/24-6B-Capacitors-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q5b.jpg"
+     ]
     },
     {
      "id": "6B-Q5b(iv)",
@@ -41634,15 +43367,20 @@ window.BANK.physics = {
       "capacitance"
      ],
      "question": "Calculate the charge on the fully charged capacitor, using the capacitance found in part (iii).",
-     "status": "pending",
-     "answer": "Pending: depends on the capacitance from part (iii), which is not determined from the text; the method is Q = CV0 = C x 6.0 V.",
-     "steps": [],
+     "status": "ready",
+     "answer": "9.0 x 10^-5 C",
+     "steps": [
+      "Fully charged, the capacitor p.d. equals the e.m.f. of the battery, 6.0 V.",
+      "Q = CV0 = 15 x 10^-6 x 6.0 = 9.0 x 10^-5 C."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-05.jpg",
       "papers/physics/img/24-6B-Capacitors-06.jpg",
       "papers/physics/img/24-6B-Capacitors-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q5b.jpg"
+     ]
     },
     {
      "id": "6B-Q5b(v)",
@@ -41657,15 +43395,20 @@ window.BANK.physics = {
       "capacitance"
      ],
      "question": "Calculate the energy stored by the fully charged capacitor, using the capacitance found in part (iii).",
-     "status": "pending",
-     "answer": "Pending: depends on the capacitance from part (iii), which is not determined from the text; the method is E = 0.5 C V0^2.",
-     "steps": [],
+     "status": "ready",
+     "answer": "2.7 x 10^-4 J",
+     "steps": [
+      "E = 1/2 C V0^2 = 0.5 x 15 x 10^-6 x 6.0^2.",
+      "E = 2.7 x 10^-4 J."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-05.jpg",
       "papers/physics/img/24-6B-Capacitors-06.jpg",
       "papers/physics/img/24-6B-Capacitors-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q5b.jpg"
+     ]
     },
     {
      "id": "6B-Q6",
@@ -41682,14 +43425,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "An uncharged capacitor, resistor, switch and cell are connected. Select the graphs showing how the charge on the capacitor and the p.d. across the resistor vary with time after the switch is closed.",
-     "status": "pending",
-     "answer": "Pending: the graphs A to D are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: charge rises with time (levelling off), p.d. across the resistor falls with time",
+     "steps": [
+      "When the switch is closed the uncharged capacitor charges up, so the charge on it increases from zero towards a maximum with a decreasing gradient.",
+      "The cell p.d. is shared by the resistor and capacitor: V_R = V0 - V_C. As V_C rises the p.d. across the resistor falls exponentially from V0 towards zero (the current falls).",
+      "Only graph pair C shows charge rising and the resistor p.d. falling."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-07.jpg",
       "papers/physics/img/24-6B-Capacitors-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q6.jpg"
+     ]
     },
     {
      "id": "6B-Q7",
@@ -41706,13 +43455,19 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A charged capacitor discharges through a resistor of resistance R. A graph of ln(current) against time has gradient g. Select the expression giving the capacitance.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice expressions are missing from the text extraction (the answer is C = -1 / (R x gradient)).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: C = -1 / (gradient x R)",
+     "steps": [
+      "During discharge I = I0 e^(-t/RC), so ln I = ln I0 - t/(RC).",
+      "A graph of ln I against t is a straight line with gradient = -1/(RC).",
+      "Rearranging, RC = -1/gradient, so C = -1 / (gradient x R) (option B)."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q7.jpg"
+     ]
     },
     {
      "id": "6B-Q8a",
@@ -41742,7 +43497,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-09.jpg",
       "papers/physics/img/24-6B-Capacitors-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q8b.jpg"
+     ]
     },
     {
      "id": "6B-Q8b",
@@ -41759,14 +43516,20 @@ window.BANK.physics = {
       "initial p.d."
      ],
      "question": "With the switch opened, the capacitor (47 mF) discharges through a 470 ohm resistor, the controller having infinite resistance. Calculate the time for the capacitor p.d. to fall to 4.0 V.",
-     "status": "pending",
-     "answer": "Pending: the starting p.d. across the capacitor (the battery or supply e.m.f. in the diagram) is not in the text extraction; the method is t = RC ln(V0 / 4.0) with RC = 22.1 s.",
-     "steps": [],
+     "status": "ready",
+     "answer": "24 s",
+     "steps": [
+      "With the switch closed the capacitor is connected directly across the 12 V battery, so it is charged to V0 = 12 V when the switch opens.",
+      "The capacitor then discharges through the 470 ohm resistor: RC = 470 x 47 x 10^-3 = 22.1 s.",
+      "V = V0 e^(-t/RC), so t = RC ln(V0 / V) = 22.1 x ln(12 / 4.0) = 22.1 x 1.10 = 24 s."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-09.jpg",
       "papers/physics/img/24-6B-Capacitors-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q8b.jpg"
+     ]
     },
     {
      "id": "6B-Q8c",
@@ -41782,14 +43545,20 @@ window.BANK.physics = {
       "capacitor discharge"
      ],
      "question": "The switch is closed at t = 0 and opened at t = 20 s. Sketch a graph of the current through the resistor against time.",
-     "status": "pending",
-     "answer": "Pending: the sketch is not in the text extraction; the answer is a decaying charging current from t = 0, then a negative decaying current after 20 s.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A constant current of about 25.5 mA from t = 0 to 20 s, then an exponential decay from 25.5 mA at t = 20 s (time constant 22 s), reaching about 10 mA at t = 40 s.",
+     "steps": [
+      "With the switch closed, the 470 ohm resistor is connected directly across the 12 V battery, so I = 12 / 470 = 25.5 mA, constant from t = 0 to t = 20 s (a horizontal line).",
+      "The capacitor is charged to 12 V, so when the switch opens at t = 20 s the current in the resistor is still 25.5 mA, and then decays exponentially as the capacitor discharges (same direction, so it stays positive).",
+      "The decay is I = 25.5 e^(-(t-20)/22.1) mA with time constant RC = 22.1 s, so the current has fallen to 37 percent (9.4 mA) at t = 42 s and is about 10 mA at t = 40 s."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-09.jpg",
       "papers/physics/img/24-6B-Capacitors-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q8c.jpg"
+     ]
     },
     {
      "id": "6B-Q9",
@@ -41805,14 +43574,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "The graph shows charge Q against p.d. V for a capacitor. Select the expression giving the energy stored when V is 12 V.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice options and the graph are not in the text extraction (the energy is the area under the Q-V graph, E = 0.5 Q V).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: (550 x 10^-9 x 12) / 2 J",
+     "steps": [
+      "The energy stored is the area under the Q-V graph, a triangle: E = 1/2 Q V.",
+      "At 12 V the charge is 550 nC = 550 x 10^-9 C, so E = (550 x 10^-9 x 12) / 2 = 3.3 x 10^-6 J (option D).",
+      "A and B are not energies, and C has not converted nC to C."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-10.jpg",
       "papers/physics/img/24-6B-Capacitors-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q9.jpg"
+     ]
     },
     {
      "id": "6B-Q10a",
@@ -41829,15 +43604,21 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "The capacitor in the defibrillator is discharged, then the switch is moved to S1 at t = 0. Complete the graph to show how the current varies with time until the capacitor is fully charged.",
-     "status": "pending",
-     "answer": "Pending: the graph axes and circuit values are not in the text extraction; the answer is an exponential decrease from the maximum current at t = 0 to zero.",
-     "steps": [],
+     "status": "ready",
+     "answer": "An exponential decay curve starting at 7.7 x 10^-2 A (77 mA) at t = 0 and falling towards zero (about 2.8 x 10^-2 A at t = 2.2 s).",
+     "steps": [
+      "At t = 0 the capacitor is uncharged, so the whole 5000 V is across the 65 kohm resistor: I0 = 5000 / 65 000 = 0.077 A.",
+      "As the capacitor charges, its p.d. rises and the p.d. across the resistor falls, so the current falls exponentially, with a decreasing gradient, towards zero when the capacitor is fully charged.",
+      "Time constant RC = 65 000 x 34 x 10^-6 = 2.2 s: the current falls to 37 percent (0.028 A) at t = 2.2 s, and is about zero by about 10 s."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-11.jpg",
       "papers/physics/img/24-6B-Capacitors-12.jpg",
       "papers/physics/img/24-6B-Capacitors-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q10a.jpg"
+     ]
     },
     {
      "id": "6B-Q10b",
@@ -41853,15 +43634,22 @@ window.BANK.physics = {
       "requirement check"
      ],
      "question": "The defibrillator must deliver a discharge current of at least 30 A for 2.0 ms through a body resistance of 150 ohm. Deduce whether the design meets this requirement.",
-     "status": "pending",
-     "answer": "Pending: the capacitance and charging p.d. of the defibrillator capacitor are in the diagram and are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "No: the current starts at 33 A but falls below 30 A after about 0.54 ms, so it is not at least 30 A for 2.0 ms.",
+     "steps": [
+      "The fully charged capacitor has p.d. 5000 V (the supply), so the initial discharge current through the body is I0 = V/R = 5000 / 150 = 33 A.",
+      "Time constant = RC = 150 x 34 x 10^-6 = 5.1 x 10^-3 s = 5.1 ms.",
+      "I = I0 e^(-t/RC): after 2.0 ms I = 33.3 x e^(-2.0/5.1) = 22.5 A, which is less than 30 A.",
+      "The current drops to 30 A at t = RC ln(33.3/30) = 5.1 x 0.105 = 0.54 ms, so the design does not meet the requirement (30 A for 2.0 ms)."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-11.jpg",
       "papers/physics/img/24-6B-Capacitors-12.jpg",
       "papers/physics/img/24-6B-Capacitors-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q10b.jpg"
+     ]
     },
     {
      "id": "6B-Q11a(i)",
@@ -41877,14 +43665,20 @@ window.BANK.physics = {
       "integrated circuit input"
      ],
      "question": "Sketch a graph of the p.d. VC across the capacitor against time after the switch is closed, marking the time constant T on the time axis.",
-     "status": "pending",
-     "answer": "Pending: the sketch is not in the text extraction; the answer is a curve rising from zero to the supply p.d., reaching about 63 percent at t = T.",
-     "steps": [],
+     "status": "ready",
+     "answer": "An exponential rise from 0 at t = 0, with decreasing gradient, levelling off at 5 V; at t = T the p.d. is about 3.2 V (63 percent of 5 V).",
+     "steps": [
+      "At t = 0 the capacitor is uncharged, so V_C = 0.",
+      "V_C = 5(1 - e^(-t/RC)) rises steeply at first then flattens, approaching the supply p.d. of 5 V (asymptote).",
+      "At the time constant t = T = RC, V_C = 0.63 x 5 = 3.2 V; mark this point on the curve above T."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-13.jpg",
       "papers/physics/img/24-6B-Capacitors-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q11.jpg"
+     ]
     },
     {
      "id": "6B-Q11a(ii)",
@@ -41912,7 +43706,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-13.jpg",
       "papers/physics/img/24-6B-Capacitors-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q11.jpg"
+     ]
     },
     {
      "id": "6B-Q11a(iii)",
@@ -41941,7 +43737,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-13.jpg",
       "papers/physics/img/24-6B-Capacitors-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q11.jpg"
+     ]
     },
     {
      "id": "6B-Q11b",
@@ -41958,14 +43756,20 @@ window.BANK.physics = {
       "4.7 uF to 150 uF"
      ],
      "question": "The input to an integrated circuit should be 3.3 V at 3.5 s after the switch is closed, with R = 68 kohm. Choose a capacitor from 4.7, 10, 15, 47 and 150 uF.",
-     "status": "pending",
-     "answer": "Pending: the supply p.d. V0 in the circuit diagram is not in the text extraction, so the capacitor cannot be selected.",
-     "steps": [],
+     "status": "ready",
+     "answer": "47 microfarad",
+     "steps": [
+      "V_C = 5 - 5 e^(-t/RC) = 3.3 V at t = 3.5 s, so e^(-t/RC) = 1 - 3.3/5 = 0.34.",
+      "Hence t/RC = -ln 0.34 = 1.08, so RC = 3.5 / 1.08 = 3.24 s.",
+      "C = 3.24 / (68 x 10^3) = 4.8 x 10^-5 F = 48 microfarad, so the 47 microfarad capacitor should be used (it gives V_C = 3.33 V)."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-13.jpg",
       "papers/physics/img/24-6B-Capacitors-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q11.jpg"
+     ]
     },
     {
      "id": "6B-Q12a",
@@ -41981,15 +43785,21 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "Determine whether the initial value of current on the graph is consistent with the values stated on the circuit diagram.",
-     "status": "pending",
-     "answer": "Pending: the circuit diagram values and the current-time graph are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes, consistent: I0 = 5.0 / 33 000 = 1.5 x 10^-4 A = 0.15 mA, which matches the 0.15 mA at t = 0 on the graph.",
+     "steps": [
+      "At t = 0 the capacitor is uncharged, so the whole 5.0 V is across the 33 kohm resistor.",
+      "I0 = V / R = 5.0 / 33 000 = 1.5 x 10^-4 A = 0.15 mA.",
+      "The graph starts at 0.15 mA, so the initial current is consistent with the circuit values."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-14.jpg",
       "papers/physics/img/24-6B-Capacitors-15.jpg",
       "papers/physics/img/24-6B-Capacitors-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q12.jpg"
+     ]
     },
     {
      "id": "6B-Q12b",
@@ -42004,15 +43814,20 @@ window.BANK.physics = {
       "circuit diagram"
      ],
      "question": "Explain how the current on ammeter A2 would vary over the same time interval.",
-     "status": "pending",
-     "answer": "Pending: the position of ammeter A2 in the circuit diagram is not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The reading on A2 is the same as on A1 at all times: it starts at 0.15 mA and falls exponentially to zero.",
+     "steps": [
+      "A1 and A2 are in series in the same loop, so the same current flows through both at any instant.",
+      "Charge flows onto one plate and off the other plate of the capacitor at the same rate (no current passes through the dielectric), so A2 shows the same exponentially decaying current as A1, from 0.15 mA to about zero over 30 s."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-14.jpg",
       "papers/physics/img/24-6B-Capacitors-15.jpg",
       "papers/physics/img/24-6B-Capacitors-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q12.jpg"
+     ]
     },
     {
      "id": "6B-Q12c",
@@ -42028,15 +43843,21 @@ window.BANK.physics = {
       "determine C"
      ],
      "question": "Using the current-time graph and the circuit values, determine the capacitance of the capacitor.",
-     "status": "pending",
-     "answer": "Pending: the graph values and circuit resistance are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C = 2.2 x 10^-4 F (about 220 microfarad)",
+     "steps": [
+      "The current decays as I = I0 e^(-t/RC). The time constant RC is the time for the current to fall to I0/e = 0.15/2.72 = 0.055 mA, which the graph gives at t of about 7 s.",
+      "Check: at t = 10 s the graph shows about 0.037 mA, and 0.15 e^(-10/7.1) = 0.037 mA, so RC = 7 s.",
+      "C = RC / R = 7.1 / 33 000 = 2.2 x 10^-4 F."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-14.jpg",
       "papers/physics/img/24-6B-Capacitors-15.jpg",
       "papers/physics/img/24-6B-Capacitors-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q12.jpg"
+     ]
     },
     {
      "id": "6B-Q12d",
@@ -42052,15 +43873,21 @@ window.BANK.physics = {
       "charging"
      ],
      "question": "Determine the charge stored on the capacitor after 30 s.",
-     "status": "pending",
-     "answer": "Pending: depends on the capacitance and p.d. from the diagram and graph, which are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1.1 x 10^-3 C",
+     "steps": [
+      "After 30 s (about 4 time constants) the current has fallen to about zero, so the capacitor is almost fully charged to the 5.0 V supply p.d.",
+      "Q = CV = 2.2 x 10^-4 x 5.0 = 1.1 x 10^-3 C.",
+      "Check: the area under the I-t graph is about I0 x RC = 0.15 x 10^-3 x 7.1 = 1.1 x 10^-3 C."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-14.jpg",
       "papers/physics/img/24-6B-Capacitors-15.jpg",
       "papers/physics/img/24-6B-Capacitors-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q12.jpg"
+     ]
     },
     {
      "id": "6B-Q12e",
@@ -42075,15 +43902,20 @@ window.BANK.physics = {
       "capacitor"
      ],
      "question": "Determine the maximum energy stored by the capacitor.",
-     "status": "pending",
-     "answer": "Pending: depends on the capacitance and supply p.d. from the diagram and graph, which are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "2.8 x 10^-3 J",
+     "steps": [
+      "The maximum energy is stored when the capacitor is fully charged to 5.0 V.",
+      "E = 1/2 C V^2 = 0.5 x 2.2 x 10^-4 x 5.0^2 = 2.75 x 10^-3 J, about 2.8 x 10^-3 J."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-14.jpg",
       "papers/physics/img/24-6B-Capacitors-15.jpg",
       "papers/physics/img/24-6B-Capacitors-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q12.jpg"
+     ]
     },
     {
      "id": "6B-Q13",
@@ -42273,15 +44105,22 @@ window.BANK.physics = {
       "evaluate"
      ],
      "question": "The capacitor is labelled 470 uF with a tolerance of 10 percent. Using the discharge graph through 150 kohm, evaluate whether the capacitance is within the stated tolerance.",
-     "status": "pending",
-     "answer": "Pending: the V-t discharge graph readings are not in the text extraction, so the measured capacitance cannot be evaluated.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C = about 5.0 x 10^-4 F (500 microfarad), which is 6 percent above 470 microfarad, so it is within the +/-10 percent tolerance.",
+     "steps": [
+      "During discharge V = V0 e^(-t/RC). V0 = 12 V at t = 0, and the time constant RC is the time for V to fall to V0/e = 12/2.72 = 4.4 V, which the graph gives at t = 75 s.",
+      "Check with another point: V = 3.2 V at t = 100 s gives RC = 100 / ln(12/3.2) = 76 s.",
+      "C = RC / R = 75 / 150 000 = 5.0 x 10^-4 F = 500 microfarad.",
+      "The tolerance range is 470 +/- 10 percent = 423 to 517 microfarad. 500 microfarad is inside this range (6 percent above the marked value), so the capacitor is within the stated tolerance (though in the upper part of it)."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-19.jpg",
       "papers/physics/img/24-6B-Capacitors-20.jpg",
       "papers/physics/img/24-6B-Capacitors-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q17.jpg"
+     ]
     },
     {
      "id": "6B-Q17b",
@@ -42328,16 +44167,22 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "There is a p.d. of 6 V across a 220 uF capacitor. Select the expression giving the charge stored.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice expressions are missing from the text extraction (the charge is Q = CV = 1.32 mC).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Q = 2.2 x 10^-4 x 6 (= 1.3 x 10^-3 C)",
+     "steps": [
+      "Charge stored Q = CV.",
+      "C = 220 microfarad = 2.2 x 10^-4 F and V = 6 V, so Q = 2.2 x 10^-4 x 6 = 1.3 x 10^-3 C (option B).",
+      "Option A includes a factor 1/2 (that would be the energy), and C and D divide by V, which is wrong."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-21.jpg",
       "papers/physics/img/24-6B-Capacitors-22.jpg",
       "papers/physics/img/24-6B-Capacitors-23.jpg",
       "papers/physics/img/24-6B-Capacitors-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q18.jpg"
+     ]
     },
     {
      "id": "6B-Q19a",
@@ -42353,16 +44198,23 @@ window.BANK.physics = {
       "charging"
      ],
      "question": "The capacitor is marked 22 uF and is charged through a 240 kohm resistor while the current is measured. Using the graph of current against time, show that the marked value is correct.",
-     "status": "pending",
-     "answer": "Pending: the current-time graph is not in the text extraction, so the time constant cannot be read.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C = 2.2 x 10^-5 F (22 microfarad), matching the marked value.",
+     "steps": [
+      "While charging the current is I = I0 e^(-t/RC), so ln I = ln I0 - t/(RC): the ln I against t graph is a straight line of gradient -1/(RC).",
+      "Gradient from the points (2.0 s, -9.60) and (12.0 s, -11.50): (-11.50 + 9.60) / (12.0 - 2.0) = -0.19 s^-1.",
+      "So RC = 1 / 0.19 = 5.3 s.",
+      "C = 5.3 / R = 5.3 / 240 000 = 2.2 x 10^-5 F = 22 microfarad, which agrees with the value marked on the capacitor."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-21.jpg",
       "papers/physics/img/24-6B-Capacitors-22.jpg",
       "papers/physics/img/24-6B-Capacitors-23.jpg",
       "papers/physics/img/24-6B-Capacitors-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q19a.jpg"
+     ]
     },
     {
      "id": "6B-Q19b(i)",
@@ -42471,15 +44323,20 @@ window.BANK.physics = {
       "measurement"
      ],
      "question": "Give two reasons why the circuit did not operate as the student intended.",
-     "status": "pending",
-     "answer": "Pending: the circuit diagram showing the components is not in the text extraction, so the faults cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "(1) The voltmeter is not connected across the capacitor when the switch is at X, so the p.d. cannot be measured during charging. (2) At Y the capacitor discharges only through the voltmeter and not through the resistor R.",
+     "steps": [
+      "With the switch at X the capacitor is in the loop with the cell and resistor R, but the voltmeter is on the Y branch and is disconnected, so V cannot be measured while the capacitor charges.",
+      "With the switch at Y the capacitor is connected across the voltmeter only: R is in the cell branch, so the capacitor discharges through the voltmeter, not through R as intended."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-24.jpg",
       "papers/physics/img/24-6B-Capacitors-25.jpg",
       "papers/physics/img/24-6B-Capacitors-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q20a.jpg"
+     ]
     },
     {
      "id": "6B-Q20b(i)",
@@ -42495,15 +44352,21 @@ window.BANK.physics = {
       "discharge"
      ],
      "question": "The capacitance is 2.2 uF. Using the V against t graph, determine the resistance in the circuit when the switch was at position Y.",
-     "status": "pending",
-     "answer": "Pending: the V against t graph is not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "R = about 1.1 x 10^7 ohm (11 megohm)",
+     "steps": [
+      "At Y the capacitor discharges through the voltmeter, so R is the resistance of the voltmeter: V = V0 e^(-t/RC).",
+      "V0 = 6.2 V at t = 0. The time constant RC is the time for V to fall to V0/e = 6.2/2.72 = 2.3 V, which the graph gives at t = 24 s.",
+      "R = (time constant) / C = 24 / (2.2 x 10^-6) = 1.1 x 10^7 ohm."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-24.jpg",
       "papers/physics/img/24-6B-Capacitors-25.jpg",
       "papers/physics/img/24-6B-Capacitors-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q20b.jpg"
+     ]
     },
     {
      "id": "6B-Q20b(ii)",
@@ -42519,15 +44382,21 @@ window.BANK.physics = {
       "discharge"
      ],
      "question": "Determine the average current in the circuit between t = 0 s and t = 30 s, for the capacitor of 2.2 uF.",
-     "status": "pending",
-     "answer": "Pending: requires the p.d. values read from the graph, which are not in the text extraction (average current = C (V0 - V30) / 30 s).",
-     "steps": [],
+     "status": "ready",
+     "answer": "3.2 x 10^-7 A",
+     "steps": [
+      "From the graph V = 6.2 V at t = 0 and V = 1.8 V at t = 30 s, so the capacitor p.d. falls by 4.4 V.",
+      "Charge that flows: Delta Q = C Delta V = 2.2 x 10^-6 x 4.4 = 9.7 x 10^-6 C.",
+      "Average current = Delta Q / Delta t = 9.7 x 10^-6 / 30 = 3.2 x 10^-7 A."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-24.jpg",
       "papers/physics/img/24-6B-Capacitors-25.jpg",
       "papers/physics/img/24-6B-Capacitors-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q20b.jpg"
+     ]
     },
     {
      "id": "6B-Q20b(iii)",
@@ -42543,15 +44412,21 @@ window.BANK.physics = {
       "2.2 uF"
      ],
      "question": "Calculate the energy dissipated by the current in the circuit between t = 0 s and t = 30 s.",
-     "status": "pending",
-     "answer": "Pending: requires the p.d. values from the graph, which are not in the text extraction (energy dissipated = 0.5 C (V0^2 - V30^2)).",
-     "steps": [],
+     "status": "ready",
+     "answer": "3.9 x 10^-5 J",
+     "steps": [
+      "The energy dissipated equals the energy lost by the capacitor: Delta E = 1/2 C (V0^2 - V^2).",
+      "V0 = 6.2 V, and V = 1.8 V at 30 s: Delta E = 0.5 x 2.2 x 10^-6 x (6.2^2 - 1.8^2) = 1.1 x 10^-6 x 35.2.",
+      "Delta E = 3.9 x 10^-5 J."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-24.jpg",
       "papers/physics/img/24-6B-Capacitors-25.jpg",
       "papers/physics/img/24-6B-Capacitors-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q20b.jpg"
+     ]
     },
     {
      "id": "6B-Q21",
@@ -42583,7 +44458,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-26.jpg",
       "papers/physics/img/24-6B-Capacitors-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q21.jpg"
+     ]
     },
     {
      "id": "6B-Q22",
@@ -42599,14 +44476,20 @@ window.BANK.physics = {
       "energy"
      ],
      "question": "A student selects a capacitor (value shown in the diagram) with tolerance of 20 percent. Calculate the maximum energy such a capacitor can store.",
-     "status": "pending",
-     "answer": "Pending: the capacitor value and rated p.d. are shown in the diagram, which is not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.83 J",
+     "steps": [
+      "The label shows 2200 microfarad and 25 V (the maximum working p.d.).",
+      "With a tolerance of +20 percent the largest capacitance is 1.2 x 2200 = 2640 microfarad = 2.64 x 10^-3 F.",
+      "Maximum energy E = 1/2 C V^2 = 0.5 x 2.64 x 10^-3 x 25^2 = 0.825 J, about 0.83 J."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-27.jpg",
       "papers/physics/img/24-6B-Capacitors-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q22.jpg"
+     ]
     },
     {
      "id": "6B-Q23a(i)",
@@ -42623,15 +44506,22 @@ window.BANK.physics = {
       "determine C"
      ],
      "question": "The student recorded V every 10 s while the capacitor charged through a resistor. Using the graph of V against t, determine a value for the capacitance C.",
-     "status": "pending",
-     "answer": "Pending: the V against t graph and resistor value are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C = 2.2 x 10^-4 F (220 microfarad)",
+     "steps": [
+      "While charging V = V0(1 - e^(-t/RC)) with V0 = 6.0 V, the cell p.d. in the circuit diagram.",
+      "The time constant RC is the time to reach 63 percent of V0: 0.63 x 6.0 = 3.8 V, which the graph gives at t = 37 s.",
+      "Check: V = 2.5 V at t = 20 s gives e^(-t/RC) = 0.58, so RC = 37 s.",
+      "C = RC / R = 37 / 168 000 = 2.2 x 10^-4 F."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-28.jpg",
       "papers/physics/img/24-6B-Capacitors-29.jpg",
       "papers/physics/img/24-6B-Capacitors-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q23a.jpg"
+     ]
     },
     {
      "id": "6B-Q23a(ii)",
@@ -42647,15 +44537,22 @@ window.BANK.physics = {
       "capacitor"
      ],
      "question": "Sketch on the axes how the current I in the circuit varies with time, including the maximum value of current.",
-     "status": "pending",
-     "answer": "Pending: the axes and maximum current values are not in the text extraction; the answer is a curve starting at the maximum current V0/R and decaying exponentially to zero.",
-     "steps": [],
+     "status": "ready",
+     "answer": "An exponential decay starting at the maximum current 3.6 x 10^-5 A (36 microamp) at t = 0 and falling towards zero (1.3 x 10^-5 A at t = 37 s).",
+     "steps": [
+      "At t = 0 the capacitor is uncharged, so the whole 6.0 V is across the 168 kohm resistor: I_max = 6.0 / 168 000 = 3.6 x 10^-5 A.",
+      "As the capacitor charges, the p.d. across the resistor falls, so the current falls exponentially, with decreasing gradient, towards zero.",
+      "It falls to 37 percent of the maximum (1.3 x 10^-5 A) after one time constant, 37 s."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-28.jpg",
       "papers/physics/img/24-6B-Capacitors-29.jpg",
       "papers/physics/img/24-6B-Capacitors-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q23a.jpg",
+      "papers/physics/fig/24-6B-Capacitors-Q23a-2.jpg"
+     ]
     },
     {
      "id": "6B-Q23b",
@@ -42701,14 +44598,19 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A capacitor of capacitance C with p.d. V stores charge Q. It is replaced by two capacitors of capacitance C each, connected in parallel. Select the total charge stored in the parallel circuit.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice options are missing from the text extraction (the total charge is 2Q).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 2Q",
+     "steps": [
+      "Capacitors in parallel add: C + C = 2C, with the same p.d. V across the combination.",
+      "Total charge = (2C) V = 2CV = 2Q, since the single capacitor stored Q = CV (option D)."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-30.jpg",
       "papers/physics/img/24-6B-Capacitors-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q24.jpg"
+     ]
     },
     {
      "id": "6B-Q25a",
@@ -42724,15 +44626,20 @@ window.BANK.physics = {
       "diagram"
      ],
      "question": "Add to the diagram a suitable circuit to measure the current as the capacitor charges through the resistor.",
-     "status": "pending",
-     "answer": "Pending: the diagram is not in the text extraction; the answer is an ammeter placed in series with the resistor and capacitor.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Add a d.c. supply (with a switch) in series with the resistor and capacitor, and connect an ammeter in series in the same loop.",
+     "steps": [
+      "Complete the series loop with a cell or battery (and switch) so that the capacitor charges through the resistor.",
+      "Place an ammeter in series in the loop (any position), so that the same charging current passes through it; it must not be in parallel with a component."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-31.jpg",
       "papers/physics/img/24-6B-Capacitors-32.jpg",
       "papers/physics/img/24-6B-Capacitors-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q25a.jpg"
+     ]
     },
     {
      "id": "6B-Q25b(i)",
@@ -42748,15 +44655,21 @@ window.BANK.physics = {
       "show that"
      ],
      "question": "The resistance is 5.1 kohm. Using the current against time graph, show that the capacitance of the capacitor is about 0.02 F.",
-     "status": "pending",
-     "answer": "Pending: the current against time graph is not in the text extraction, so the time constant cannot be read.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C = 0.018 F, about 0.02 F",
+     "steps": [
+      "During charging I = I0 e^(-t/RC), with I0 = 2.4 mA at t = 0. The time constant RC is the time for I to fall to I0/e = 2.4/2.72 = 0.88 mA.",
+      "From the graph I = 0.88 mA at t = 91 s, so RC = 91 s.",
+      "C = RC / R = 91 / 5100 = 0.018 F, which is about 0.02 F (to 1 s.f.)."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-31.jpg",
       "papers/physics/img/24-6B-Capacitors-32.jpg",
       "papers/physics/img/24-6B-Capacitors-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q25b.jpg"
+     ]
     },
     {
      "id": "6B-Q25b(ii)",
@@ -42772,15 +44685,21 @@ window.BANK.physics = {
       "current graph"
      ],
      "question": "Calculate the charge on the capacitor when it is fully charged, using capacitance about 0.02 F and the supply p.d. from the graph.",
-     "status": "pending",
-     "answer": "Pending: the supply p.d. from the graph (or initial current times resistance) is not in the text extraction (the method is Q = C V0).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Q = 0.22 C (about 0.2 C)",
+     "steps": [
+      "At t = 0 all the supply p.d. is across the resistor: V0 = I0 R = 2.4 x 10^-3 x 5.1 x 10^3 = 12.2 V (about 12 V).",
+      "When fully charged the capacitor p.d. equals the supply p.d., V0 = 12.2 V.",
+      "Q = CV0 = 0.018 x 12.2 = 0.22 C (using C = 0.02 F gives 0.24 C). Check: the area under the I-t graph, about I0 x RC = 2.4 x 10^-3 x 91, is 0.22 C."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-31.jpg",
       "papers/physics/img/24-6B-Capacitors-32.jpg",
       "papers/physics/img/24-6B-Capacitors-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q25b.jpg"
+     ]
     },
     {
      "id": "6B-Q25b(iii)",
@@ -42795,15 +44714,20 @@ window.BANK.physics = {
       "charge"
      ],
      "question": "Calculate the energy stored by the capacitor when it is fully charged.",
-     "status": "pending",
-     "answer": "Pending: depends on the charge from part (ii), which depends on graph values not in the text extraction (method E = 0.5 Q V = 0.5 C V0^2).",
-     "steps": [],
+     "status": "ready",
+     "answer": "1.3 J (about 1 J)",
+     "steps": [
+      "E = 1/2 Q V0 = 0.5 x 0.22 x 12.2 = 1.3 J.",
+      "Equivalently E = 1/2 C V0^2 = 0.5 x 0.018 x 12.2^2 = 1.3 J (1.5 J if C is rounded to 0.02 F)."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-31.jpg",
       "papers/physics/img/24-6B-Capacitors-32.jpg",
       "papers/physics/img/24-6B-Capacitors-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q25b.jpg"
+     ]
     },
     {
      "id": "6B-Q26",
@@ -42820,14 +44744,20 @@ window.BANK.physics = {
       "charged to V0"
      ],
      "question": "A capacitor of capacitance C charged to V0 discharges through a resistor of resistance R. After time t the p.d. is V. Select the expression for the time constant.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice expressions are missing from the text extraction (the time constant is RC).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: time constant = -t / ln(V / V0)",
+     "steps": [
+      "During discharge V = V0 e^(-t/RC), so V / V0 = e^(-t/RC).",
+      "Taking natural logs: ln(V / V0) = -t / RC.",
+      "So the time constant RC = -t / ln(V / V0) (option D)."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-33.jpg",
       "papers/physics/img/24-6B-Capacitors-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q26.jpg"
+     ]
     },
     {
      "id": "6B-Q27a(i)",
@@ -42856,7 +44786,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-35.jpg",
       "papers/physics/img/24-6B-Capacitors-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q27.jpg"
+     ]
     },
     {
      "id": "6B-Q27a(ii)",
@@ -42872,15 +44804,22 @@ window.BANK.physics = {
       "switch X"
      ],
      "question": "Sketch a graph of the variation of current in the circuit as the capacitor is charged, including the maximum value of current.",
-     "status": "pending",
-     "answer": "Pending: the sketch is not in the text extraction; the answer is an exponential decay curve starting at the maximum current V0/R at t = 0.",
-     "steps": [],
+     "status": "ready",
+     "answer": "An exponential decay of current from the maximum 6.4 x 10^-5 A (64 microamp) at t = 0 towards zero, falling to 2.4 x 10^-5 A at t = 59 s.",
+     "steps": [
+      "At t = 0 the capacitor is uncharged, so the 8.0 V is entirely across the 125 kohm resistor: I_max = 8.0 / 125 000 = 6.4 x 10^-5 A.",
+      "As the capacitor charges, its p.d. rises, the p.d. across the resistor falls, and the current falls exponentially with decreasing gradient towards zero.",
+      "The time constant is RC = 125 000 x 470 x 10^-6 = 59 s, so the current is 37 percent of its maximum (2.4 x 10^-5 A) after 59 s."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-34.jpg",
       "papers/physics/img/24-6B-Capacitors-35.jpg",
       "papers/physics/img/24-6B-Capacitors-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q27.jpg",
+      "papers/physics/fig/24-6B-Capacitors-Q27a-2.jpg"
+     ]
     },
     {
      "id": "6B-Q27b(i)",
@@ -42896,15 +44835,20 @@ window.BANK.physics = {
       "switch position Y"
      ],
      "question": "Show that the time constant of the discharge circuit is about 60 s.",
-     "status": "pending",
-     "answer": "Pending: the resistance and capacitance values are in the diagram, which is not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Time constant = RC = 59 s, which is about 60 s.",
+     "steps": [
+      "In position Y the capacitor discharges through the 125 kohm resistor in the lower branch.",
+      "RC = 125 x 10^3 x 470 x 10^-6 = 58.75 s, which is about 60 s."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-34.jpg",
       "papers/physics/img/24-6B-Capacitors-35.jpg",
       "papers/physics/img/24-6B-Capacitors-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q27.jpg"
+     ]
     },
     {
      "id": "6B-Q27b(ii)",
@@ -42949,15 +44893,21 @@ window.BANK.physics = {
       "voltage sensors"
      ],
      "question": "The data logger output shows VC and VR against time during recharging. Determine the p.d. and the time at which the two lines intersect.",
-     "status": "pending",
-     "answer": "Pending: the data logger graph is not in the text extraction; at the intersection VC = VR, which is half the supply p.d.",
-     "steps": [],
+     "status": "ready",
+     "answer": "p.d. = 4.0 V; time = about 41 s",
+     "steps": [
+      "The cell p.d. is shared between capacitor and resistor at every instant: V_C + V_R = 8.0 V (ammeter and cell resistance negligible).",
+      "Where the lines intersect V_C = V_R, so each is 8.0 / 2 = 4.0 V.",
+      "V_C = 8.0(1 - e^(-t/RC)) = 4.0 gives e^(-t/RC) = 0.5, so t = RC ln 2 = 58.75 x 0.693 = 41 s."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-34.jpg",
       "papers/physics/img/24-6B-Capacitors-35.jpg",
       "papers/physics/img/24-6B-Capacitors-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q27c.jpg"
+     ]
     },
     {
      "id": "6B-Q27d",
@@ -43001,16 +44951,21 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "Capacitor C1 has half the capacitance of C2 and is charged to half the p.d. of C2. Select the ratio of the energy stored in C1 to that in C2.",
-     "status": "pending",
-     "answer": "Pending: the ratio expression is missing from the text extraction (the ratio W1 / W2 = 1/8).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 1/8",
+     "steps": [
+      "Energy stored W = 1/2 C V^2.",
+      "C1 = C2 / 2 and V1 = V2 / 2, so W1 / W2 = (C2/2)(V2/2)^2 / (C2 V2^2) = (1/2)(1/4) = 1/8 (option A)."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-37.jpg",
       "papers/physics/img/24-6B-Capacitors-38.jpg",
       "papers/physics/img/24-6B-Capacitors-39.jpg",
       "papers/physics/img/24-6B-Capacitors-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q28.jpg"
+     ]
     },
     {
      "id": "6B-Q29a",
@@ -43026,16 +44981,21 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "State the p.d. across the capacitor at the end of a period of discharge, using the graph of the modified output.",
-     "status": "pending",
-     "answer": "Pending: the output graphs are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 3.5 V",
+     "steps": [
+      "Each discharge stops where the falling bold line meets the rising original output, at the lowest point of the bold line.",
+      "Reading the graph, this lowest p.d. is about 3.5 V (at t of about 2.5 ms, 12.5 ms, 22.5 ms)."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-37.jpg",
       "papers/physics/img/24-6B-Capacitors-38.jpg",
       "papers/physics/img/24-6B-Capacitors-39.jpg",
       "papers/physics/img/24-6B-Capacitors-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q29.jpg"
+     ]
     },
     {
      "id": "6B-Q29b(i)",
@@ -43051,16 +45011,23 @@ window.BANK.physics = {
       "time constant range"
      ],
      "question": "The capacitor (3.3 uF) discharges through a 6.8 kohm resistor with tolerance 5 percent. Deduce whether the output shown in the graph is consistent with this tolerance.",
-     "status": "pending",
-     "answer": "Pending: the output graph with the capacitor is not in the text extraction, so the measured discharge cannot be compared with the expected range (RC = 22.4 ms plus or minus 5 percent).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Consistent: the measured time constant is about 21.6 ms, inside the permitted range 21.3 ms to 23.6 ms (R about 6.5 kohm, 4 percent below 6.8 kohm, within +/-5 percent).",
+     "steps": [
+      "Nominal RC = 6.8 x 10^3 x 3.3 x 10^-6 = 22.4 ms. A tolerance of +/-5 percent gives RC from 21.3 ms to 23.6 ms.",
+      "On the graph the capacitor starts to discharge at the peak (t = 5.0 ms, V = 5.0 V) and the discharge ends at about 12.4 ms with V = 3.55 V, a time of 7.4 ms.",
+      "V = V0 e^(-t/RC), so RC = t / ln(V0/V) = 7.4 / ln(5.0/3.55) = 7.4 / 0.343 = 21.6 ms.",
+      "This lies within 21.3 to 23.6 ms (R = 21.6 ms / 3.3 microfarad = 6.5 kohm, within 6.46 to 7.14 kohm), so the output is consistent with a +/-5 percent resistor, although near the lower limit."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-37.jpg",
       "papers/physics/img/24-6B-Capacitors-38.jpg",
       "papers/physics/img/24-6B-Capacitors-39.jpg",
       "papers/physics/img/24-6B-Capacitors-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q29.jpg"
+     ]
     },
     {
      "id": "6B-Q29b(ii)",
@@ -43076,16 +45043,22 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "Calculate the change in energy stored in the capacitor during the discharging process shown.",
-     "status": "pending",
-     "answer": "Pending: requires the start and end p.d. values from the graph, which are not in the text extraction (change = 0.5 C (V1^2 - V2^2)).",
-     "steps": [],
+     "status": "ready",
+     "answer": "The stored energy decreases by about 2.1 x 10^-5 J",
+     "steps": [
+      "Discharge goes from V1 = 5.0 V (the peak) to V2 = 3.5 V.",
+      "Change in energy = 1/2 C (V1^2 - V2^2) = 0.5 x 3.3 x 10^-6 x (5.0^2 - 3.5^2) = 1.65 x 10^-6 x 12.75.",
+      "Change = 2.1 x 10^-5 J (a decrease)."
+     ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-37.jpg",
       "papers/physics/img/24-6B-Capacitors-38.jpg",
       "papers/physics/img/24-6B-Capacitors-39.jpg",
       "papers/physics/img/24-6B-Capacitors-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q29.jpg"
+     ]
     },
     {
      "id": "6B-Q29b(iii)",
@@ -43115,7 +45088,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-39.jpg",
       "papers/physics/img/24-6B-Capacitors-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q29.jpg"
+     ]
     },
     {
      "id": "6B-Q30",
@@ -43142,7 +45117,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-40.jpg",
       "papers/physics/img/24-6B-Capacitors-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q30.jpg"
+     ]
     }
    ]
   },

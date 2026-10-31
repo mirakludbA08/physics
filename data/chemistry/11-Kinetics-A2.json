@@ -47,12 +47,19 @@
         "kinetics graph"
       ],
       "question": "A reactant Q forms two products. Which of four graphs shows the reaction is first order with respect to Q? (Options A-D are graphs 1-4.)",
-      "status": "pending",
-      "answer": "Needs the four graphs from the PDF to be checked; they are not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Graph 3",
+      "steps": [
+        "First order in Q means rate is directly proportional to [Q], so a plot of rate against [Q] is a straight line through the origin.",
+        "Graph 3 (rate against [Q], straight line from the origin) shows this.",
+        "Graph 2 (rate constant whatever [Q]) is zero order; Graph 1 (straight-line fall of [Q]) is also zero order; Graph 4 shows [Q] not changing at all."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-01.jpg",
         "papers/chemistry/img/11-Kinetics-A2-02.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q2.jpg"
       ]
     },
     {
@@ -68,12 +75,19 @@
         "concentration time graph"
       ],
       "question": "Cisplatin is hydrolysed in a first order overall reaction. Using a graph of concentration against time, which half-life is correct? Options: A 430 min, B 460 min, C 590 min, D 600 min.",
-      "status": "pending",
-      "answer": "Needs the concentration-time graph from the PDF to be checked; it is not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 460 min",
+      "steps": [
+        "Initial concentration = 20 x 10^-3 mol dm-3, so the concentration must fall to 10 x 10^-3 mol dm-3 after one half-life.",
+        "On the curve, 10 x 10^-3 is reached at about 460 min (11.0 at 400 min, 9.4 at 500 min).",
+        "Check with a second half-life: 10 -> 5 x 10^-3 occurs between about 460 and 920 min, again about 460 min, so the half-lives are constant (first order)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-02.jpg",
         "papers/chemistry/img/11-Kinetics-A2-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q3.jpg"
       ]
     },
     {
@@ -89,11 +103,18 @@
         "table"
       ],
       "question": "The rate of reaction between Y and Z was investigated and the results tabulated. What are the orders with respect to Y and Z?",
-      "status": "pending",
-      "answer": "Needs the results table from the PDF to be checked; the table is missing from the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: order 0 with respect to Y and order 2 with respect to Z",
+      "steps": [
+        "Experiments 1 and 2: [Z] doubles (0.24 -> 0.48) with [Y] constant and the rate rises by 3.20 x 10^-2 / 8.00 x 10^-3 = 4, so 2^n = 4 and the order in Z is 2.",
+        "Experiments 2 and 3: [Y] halves (0.64 -> 0.32) with [Z] constant and the rate is unchanged, so the order in Y is 0.",
+        "Orders are Y = 0 and Z = 2, option B."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q4.jpg"
       ]
     },
     {
@@ -197,13 +218,20 @@
         "Arrhenius"
       ],
       "question": "Complete a table of values for ln k and 1/T for the rate constant of the cyclopropane to propene reaction at five temperatures.",
-      "status": "pending",
-      "answer": "Needs the table values from the PDF; the table is missing from the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "1/T at 840 K = 1.19 x 10^-3 K-1; ln k at 791 K = -6.40",
+      "steps": [
+        "1/840 = 1.19 x 10^-3 K-1 (3 s.f., matching the other entries).",
+        "ln(1.66 x 10^-3) = -6.40 (2 d.p., matching the other entries).",
+        "The completed (1/T, ln k) values are (1.39 x 10^-3, -10.60), (1.34 x 10^-3, -9.00), (1.26 x 10^-3, -6.40), (1.19 x 10^-3, -4.00) and (1.12 x 10^-3, -1.80)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-05.jpg",
         "papers/chemistry/img/11-Kinetics-A2-06.jpg",
         "papers/chemistry/img/11-Kinetics-A2-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q6.jpg"
       ]
     },
     {
@@ -219,13 +247,20 @@
         "best fit line"
       ],
       "question": "Plot a graph of ln k against 1/T for the five data points from part (a)(i).",
-      "status": "pending",
-      "answer": "Graph plotting needs the data points from the PDF table; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A straight line of best fit with negative gradient through the five points (1/T on the x axis, ln k on the y axis)",
+      "steps": [
+        "Label the axes: x = 1/T / K-1 (e.g. 1.10 to 1.40 x 10^-3) and y = ln k (from about -12 to 0), with a scale that uses more than half of the grid in each direction.",
+        "Plot the five points accurately: (1.39 x 10^-3, -10.60), (1.34 x 10^-3, -9.00), (1.26 x 10^-3, -6.40), (1.19 x 10^-3, -4.00), (1.12 x 10^-3, -1.80).",
+        "Draw one straight best-fit line through the points (they lie almost exactly on a line) sloping down from left to right, using a ruler."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-05.jpg",
         "papers/chemistry/img/11-Kinetics-A2-06.jpg",
         "papers/chemistry/img/11-Kinetics-A2-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q6.jpg"
       ]
     },
     {
@@ -243,13 +278,20 @@
         "cyclopropane"
       ],
       "question": "From the graph of ln k against 1/T, determine the activation energy Ea in kJ mol-1, including the value and units of the gradient.",
-      "status": "pending",
-      "answer": "Needs the plotted graph and gradient from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "gradient about -3.3 x 10^4 K; Ea = +2.7 x 10^2 kJ mol-1 (about 270 kJ mol-1)",
+      "steps": [
+        "From ln k = -(Ea/R)(1/T) + constant, the gradient of the line is -Ea/R.",
+        "Take two widely spaced points on the line, e.g. (1.39 x 10^-3, -10.60) and (1.12 x 10^-3, -1.80): gradient = (-1.80 - (-10.60)) / (1.12 x 10^-3 - 1.39 x 10^-3) = 8.80 / (-2.7 x 10^-4) = -3.3 x 10^4 K (units K).",
+        "Ea = -gradient x R = 3.3 x 10^4 x 8.31 = 2.7 x 10^5 J mol-1 = +2.7 x 10^2 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-05.jpg",
         "papers/chemistry/img/11-Kinetics-A2-06.jpg",
         "papers/chemistry/img/11-Kinetics-A2-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q6.jpg"
       ]
     },
     {
@@ -265,13 +307,20 @@
         "cyclopropane"
       ],
       "question": "The activation energy for many reactions is around +50 kJ mol-1. Comment on the value of Ea found in (a)(iii).",
-      "status": "pending",
-      "answer": "Depends on the Ea value found in (a)(iii) from the PDF graph; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Ea (about +270 kJ mol-1) is far higher than the typical +50 kJ mol-1, so very few collisions are successful except at high temperature",
+      "steps": [
+        "The value is about five times the typical +50 kJ mol-1, so the reaction has an unusually high activation energy.",
+        "A high Ea means that only a very small fraction of molecules have energy >= Ea at normal temperatures, so the reaction is very slow unless the temperature is high (the data were measured at 719-889 K).",
+        "This is consistent with the ring isomerisation needing a strained C-C bond to be broken (covalent bond fission) before the product forms."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-05.jpg",
         "papers/chemistry/img/11-Kinetics-A2-06.jpg",
         "papers/chemistry/img/11-Kinetics-A2-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q6.jpg"
       ]
     },
     {
@@ -318,12 +367,19 @@
         "diagram"
       ],
       "question": "Which of four diagrams shows the mechanism for the second order reaction between 1-bromoethane and aqueous potassium hydroxide?",
-      "status": "pending",
-      "answer": "Needs the four mechanism diagrams from the PDF to be checked; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Diagram 3",
+      "steps": [
+        "A second order reaction (rate = k[C2H5Br][OH-]) is SN2: one concerted step in which OH- and the halogenoalkane both take part in the rate-determining step.",
+        "Diagram 3 shows the OH- lone pair attacking the delta+ carbon (curly arrow from the lone pair to carbon) while the C-Br bond breaks, with a single transition state containing both Br and OH partially bonded.",
+        "Diagrams 1 and 2 show a carbocation intermediate (SN1, first order); Diagram 4 has the curly arrow drawn the wrong way (from carbon to OH-)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-07.jpg",
         "papers/chemistry/img/11-Kinetics-A2-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q7.jpg"
       ]
     },
     {
@@ -340,12 +396,19 @@
         "rate equation"
       ],
       "question": "For the formation of iodopropanone (propanone with iodine in acid), which statement is true? Options: A units of k are dm3 mol-1 s-1, B first order overall, C units of rate are dm3 mol-1 s-1, D doubling both concentrations quadruples the rate. The rate equation itself is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the rate equation shown in the PDF to be checked; it is missing from the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: the units of k are dm3 mol-1 s-1",
+      "steps": [
+        "The rate equation shown on the paper is rate = k[CH3COCH3][H+], second order overall (first order in propanone and in H+).",
+        "Units of k = (mol dm-3 s-1) / (mol dm-3)^2 = dm3 mol-1 s-1, so A is true.",
+        "B is false (second order overall); C is false (rate has units mol dm-3 s-1); D is false because iodine is zero order, so doubling [propanone] and [I2] only doubles the rate."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-08.jpg",
         "papers/chemistry/img/11-Kinetics-A2-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q8.jpg"
       ]
     },
     {
@@ -373,6 +436,9 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-08.jpg",
         "papers/chemistry/img/11-Kinetics-A2-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q8.jpg"
       ]
     },
     {
@@ -416,9 +482,13 @@
         "gas constant R"
       ],
       "question": "A graph of ln k against 1/T is plotted for a reaction. Which expression gives the activation energy Ea? Options A and C contain a minus sign and B and D a plus sign; the minus signs are garbled in the extracted text.",
-      "status": "pending",
-      "answer": "Options are garbled in the extracted text (minus signs unreadable); check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: - gradient x R",
+      "steps": [
+        "ln k = -(Ea/R) x (1/T) + constant has the form y = mx + c with y = ln k and x = 1/T.",
+        "So the gradient m = -Ea/R and Ea = -gradient x R (the gradient is negative, so Ea is positive).",
+        "Option C."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-10.jpg",
         "papers/chemistry/img/11-Kinetics-A2-11.jpg",
@@ -440,15 +510,22 @@
         "333 K"
       ],
       "question": "Plot a graph of concentration of benzenediazonium chloride against time for the 333 K experiment.",
-      "status": "pending",
-      "answer": "Needs the data table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Concentration (y axis, 0 to 0.5 mol dm-3) against time (x axis, 0 to 400 s): a smooth falling curve through the seven points, starting at 0.500 at t = 0 and flattening out towards 0.050 at 400 s",
+      "steps": [
+        "Axes: x = time / s (0 to 400), y = [C6H5N2Cl] / mol dm-3 (0 to 0.50), scales using more than half the grid.",
+        "Plot (0, 0.500), (40, 0.410), (100, 0.285), (200, 0.165), (280, 0.100), (350, 0.070), (400, 0.050).",
+        "Draw one smooth curve (not dot-to-dot) that is steep at first and gets less steep as time increases (an exponential decay)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-10.jpg",
         "papers/chemistry/img/11-Kinetics-A2-11.jpg",
         "papers/chemistry/img/11-Kinetics-A2-12.jpg",
         "papers/chemistry/img/11-Kinetics-A2-13.jpg",
         "papers/chemistry/img/11-Kinetics-A2-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q11.jpg"
       ]
     },
     {
@@ -464,15 +541,22 @@
         "graph working"
       ],
       "question": "Determine the half-life, t1/2, from the concentration-time graph, showing working on the graph.",
-      "status": "pending",
-      "answer": "Needs the graph from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "t1/2 = about 125 s (accept 120-130 s)",
+      "steps": [
+        "Initial concentration = 0.500 mol dm-3, so half of this is 0.250 mol dm-3.",
+        "Draw a horizontal line from 0.250 on the y axis to the curve and a vertical line down to the time axis; this reads about 125 s.",
+        "Check: from 0.250 to 0.125 mol dm-3 takes about 125 s as well (at t = 250 s), so the half-lives are constant, consistent with first order."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-10.jpg",
         "papers/chemistry/img/11-Kinetics-A2-11.jpg",
         "papers/chemistry/img/11-Kinetics-A2-12.jpg",
         "papers/chemistry/img/11-Kinetics-A2-13.jpg",
         "papers/chemistry/img/11-Kinetics-A2-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q11.jpg"
       ]
     },
     {
@@ -489,15 +573,22 @@
         "benzenediazonium chloride"
       ],
       "question": "Calculate the rate constant k at 333 K using ln 2 = k t1/2. Include units.",
-      "status": "pending",
-      "answer": "Needs the half-life from part (a)(ii), which depends on the PDF graph",
-      "steps": [],
+      "status": "ready",
+      "answer": "k = 5.5 x 10^-3 s-1",
+      "steps": [
+        "ln 2 = k x t1/2, so k = ln 2 / t1/2.",
+        "k = 0.693 / 125 s = 5.5 x 10^-3.",
+        "Units: s-1 (first order rate constant)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-10.jpg",
         "papers/chemistry/img/11-Kinetics-A2-11.jpg",
         "papers/chemistry/img/11-Kinetics-A2-12.jpg",
         "papers/chemistry/img/11-Kinetics-A2-13.jpg",
         "papers/chemistry/img/11-Kinetics-A2-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q11.jpg"
       ]
     },
     {
@@ -514,15 +605,22 @@
         "data point"
       ],
       "question": "Use the rate constant from (a)(iii) to obtain a data point (1/T, ln k) for 333 K.",
-      "status": "pending",
-      "answer": "Depends on the rate constant from (a)(iii), which depends on the PDF graph",
-      "steps": [],
+      "status": "ready",
+      "answer": "1/T = 3.00 x 10^-3 K-1 and ln k = -5.2",
+      "steps": [
+        "1/T = 1/333 K = 3.00 x 10^-3 K-1 (0.00300).",
+        "ln k = ln(5.5 x 10^-3) = -5.2 (-5.20).",
+        "So the point to plot is (0.00300, -5.2)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-10.jpg",
         "papers/chemistry/img/11-Kinetics-A2-11.jpg",
         "papers/chemistry/img/11-Kinetics-A2-12.jpg",
         "papers/chemistry/img/11-Kinetics-A2-13.jpg",
         "papers/chemistry/img/11-Kinetics-A2-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q11-2.jpg"
       ]
     },
     {
@@ -537,15 +635,22 @@
         "1/T"
       ],
       "question": "Plot the data point from (b)(i) on the Arrhenius graph.",
-      "status": "pending",
-      "answer": "Needs the graph axes and data from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A point plotted at x = 0.00300, y = -5.2, on the left of the existing points and above the first one, lying on the same straight trend",
+      "steps": [
+        "On the 1/T axis, 0.00300 is at the 0.0030 gridline, which is 0.0001 left of the 0.0031 gridline.",
+        "On the ln k axis, -5.2 lies between the -4 and -6 gridlines, 0.8 above the -6 line.",
+        "The new point lies on the line through the other five points (the line slopes down from left to right)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-10.jpg",
         "papers/chemistry/img/11-Kinetics-A2-11.jpg",
         "papers/chemistry/img/11-Kinetics-A2-12.jpg",
         "papers/chemistry/img/11-Kinetics-A2-13.jpg",
         "papers/chemistry/img/11-Kinetics-A2-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q11-2.jpg"
       ]
     },
     {
@@ -562,15 +667,23 @@
         "ln k against 1/T"
       ],
       "question": "Determine the gradient of the Arrhenius graph by drawing a best-fit line, including sign and units.",
-      "status": "pending",
-      "answer": "Needs the plotted graph from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "gradient = about -1.36 x 10^4 K (accept -1.3 to -1.45 x 10^4 K)",
+      "steps": [
+        "Draw a straight best-fit line through the six points (the five given plus the plotted point at 0.00300, -5.2).",
+        "Choose two points on the line that are far apart, e.g. (0.00300, -5.2) and (0.00347, -11.6).",
+        "Gradient = (-11.6 - (-5.2)) / (0.00347 - 0.00300) = -6.4 / 0.00047 = -1.36 x 10^4.",
+        "The gradient is negative and its units are K (ln k has no units, 1/T is in K-1)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-10.jpg",
         "papers/chemistry/img/11-Kinetics-A2-11.jpg",
         "papers/chemistry/img/11-Kinetics-A2-12.jpg",
         "papers/chemistry/img/11-Kinetics-A2-13.jpg",
         "papers/chemistry/img/11-Kinetics-A2-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q11-2.jpg"
       ]
     },
     {
@@ -587,15 +700,22 @@
         "kJ mol-1"
       ],
       "question": "Use the gradient from (b)(iii) to calculate the activation energy for decomposition of benzenediazonium chloride, with sign and units.",
-      "status": "pending",
-      "answer": "Depends on the gradient from (b)(iii), which needs the PDF graph",
-      "steps": [],
+      "status": "ready",
+      "answer": "Ea = +1.13 x 10^2 kJ mol-1 (about +113 kJ mol-1)",
+      "steps": [
+        "Gradient = -Ea/R, so Ea = -gradient x R.",
+        "Ea = 1.36 x 10^4 x 8.31 = 1.13 x 10^5 J mol-1.",
+        "Ea = +113 kJ mol-1 (positive; allow +108 to +120 for the graph reading)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-10.jpg",
         "papers/chemistry/img/11-Kinetics-A2-11.jpg",
         "papers/chemistry/img/11-Kinetics-A2-12.jpg",
         "papers/chemistry/img/11-Kinetics-A2-13.jpg",
         "papers/chemistry/img/11-Kinetics-A2-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q11-2.jpg"
       ]
     },
     {
@@ -612,12 +732,19 @@
         "tertiary"
       ],
       "question": "2-bromo-2-methylbutane is hydrolysed with NaOH(aq). Which suggestion about the mechanism is correct? The four options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Options A-D are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: SN1, two steps",
+      "steps": [
+        "2-bromo-2-methylbutane is a tertiary halogenoalkane, which hydrolyses by SN1.",
+        "Step 1 (slow): the C-Br bond breaks heterolytically to give a tertiary carbocation and Br-; step 2 (fast): OH- attacks the carbocation.",
+        "So the mechanism is SN1 with two steps (option D); SN2 would involve a crowded transition state at a tertiary carbon."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-14.jpg",
         "papers/chemistry/img/11-Kinetics-A2-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q12.jpg"
       ]
     },
     {
@@ -665,12 +792,19 @@
         "enol"
       ],
       "question": "The reaction CH3COCH3 + I2 -> CH3COCH2I + HI has rate = k[CH3COCH3][H+]. Which is a possible mechanism? Mechanism options are in diagrams not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the mechanism options from the PDF to be checked; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A",
+      "steps": [
+        "The rate equation rate = k[CH3COCH3][H+] has no I2, so I2 must react after the rate-determining step.",
+        "In mechanism A, the fast equilibrium CH3COCH3 + H+ <=> protonated propanone makes the concentration of protonated propanone proportional to [CH3COCH3][H+]; the slow step then loses H+ from it, so rate = k[CH3COCH3][H+].",
+        "In B the slow step involves I2, which would put [I2] in the rate equation; C and D have I2 or I- in slow steps, so they do not fit."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-15.jpg",
         "papers/chemistry/img/11-Kinetics-A2-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q14.jpg"
       ]
     },
     {
@@ -714,13 +848,20 @@
         "excess acid"
       ],
       "question": "Using the data for five initial bromate(V) concentrations, plot a suitable graph to show the reaction is first order with respect to bromate(V) ions.",
-      "status": "pending",
-      "answer": "Needs the data table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Graph of initial rate (y axis) against [BrO3-] (x axis): a straight line through the origin",
+      "steps": [
+        "Axes: x = initial [BrO3-] / mol dm-3 (0 to 0.150) and y = initial rate / mol dm-3 s-1 (0 to about 2.2 x 10^-6), using over half the grid in each direction.",
+        "Plot (0.030, 4.17 x 10^-7), (0.060, 8.34 x 10^-7), (0.090, 1.25 x 10^-6), (0.120, 1.67 x 10^-6), (0.150, 2.09 x 10^-6).",
+        "Draw a ruled best-fit straight line through the points and extend it to the origin (gradient about 1.39 x 10^-5 s-1)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-17.jpg",
         "papers/chemistry/img/11-Kinetics-A2-18.jpg",
         "papers/chemistry/img/11-Kinetics-A2-19.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q16.jpg"
       ]
     },
     {
@@ -748,6 +889,9 @@
         "papers/chemistry/img/11-Kinetics-A2-17.jpg",
         "papers/chemistry/img/11-Kinetics-A2-18.jpg",
         "papers/chemistry/img/11-Kinetics-A2-19.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q16.jpg"
       ]
     },
     {
@@ -764,13 +908,20 @@
         "table"
       ],
       "question": "Using the second experiment's initial rate data and the first order result from (a), deduce the orders with respect to Br- and H+.",
-      "status": "pending",
-      "answer": "Needs the table of initial rates from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Br-: first order; H+: second order",
+      "steps": [
+        "Runs 1 and 3: [Br-] triples (0.21 -> 0.63) with the others constant and the rate triples (4.56 x 10^-5 / 1.52 x 10^-5 = 3.0), so the order in Br- is 1.",
+        "Runs 1 and 2: [BrO3-] rises 5 times (0.062 -> 0.31), which on its own (first order) would multiply the rate by 5, while [H+] is halved (0.40 -> 0.20).",
+        "Observed rate ratio = 1.90 x 10^-5 / 1.52 x 10^-5 = 1.25 = 5 x (1/2)^n, so (1/2)^n = 1/4 and the order in H+ is 2."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-17.jpg",
         "papers/chemistry/img/11-Kinetics-A2-18.jpg",
         "papers/chemistry/img/11-Kinetics-A2-19.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q16-2.jpg"
       ]
     },
     {
@@ -786,13 +937,19 @@
         "overall rate"
       ],
       "question": "Write the rate equation for the reaction using the orders from (b)(i).",
-      "status": "pending",
-      "answer": "Depends on the orders from (b)(i), which need the PDF table",
-      "steps": [],
+      "status": "ready",
+      "answer": "rate = k[BrO3-][Br-][H+]^2",
+      "steps": [
+        "Orders from (a) and (b)(i): first order in BrO3-, first order in Br-, second order in H+.",
+        "Write them as powers of the concentrations: rate = k[BrO3-][Br-][H+]^2."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-17.jpg",
         "papers/chemistry/img/11-Kinetics-A2-18.jpg",
         "papers/chemistry/img/11-Kinetics-A2-19.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q16-2.jpg"
       ]
     },
     {
@@ -810,13 +967,20 @@
         "hydrogen ions"
       ],
       "question": "Use the Run 1 data and your rate equation from (b)(ii) to calculate k, including units.",
-      "status": "pending",
-      "answer": "Needs the Run 1 data and orders from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "k = 7.3 x 10^-3 dm9 mol-3 s-1",
+      "steps": [
+        "Rearrange: k = rate / ([BrO3-][Br-][H+]^2).",
+        "Run 1: k = 1.52 x 10^-5 / (0.062 x 0.21 x 0.40^2) = 1.52 x 10^-5 / 2.08 x 10^-3 = 7.3 x 10^-3.",
+        "Units = (mol dm-3 s-1) / (mol dm-3)^4 = dm9 mol-3 s-1."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-17.jpg",
         "papers/chemistry/img/11-Kinetics-A2-18.jpg",
         "papers/chemistry/img/11-Kinetics-A2-19.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q16-2.jpg"
       ]
     },
     {
@@ -862,12 +1026,19 @@
         "2NO + 2H2"
       ],
       "question": "For 2NO + 2H2 -> N2 + 2H2O, which statement about the mechanism is correct? The steps are shown in a diagram not in the extracted text; options A-D are: step 3 is rate determining with overall order 2 / step 3 with order 4 / step 2 with order 2 / step 2 with order 3.",
-      "status": "pending",
-      "answer": "Needs the mechanism steps from the PDF to be checked; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: step 2 is the rate-determining step and the overall order is 3",
+      "steps": [
+        "The slow step (step 2) is rate-determining: rate = k[N2O2][H2].",
+        "N2O2 comes from the fast equilibrium step 1 (2NO <=> N2O2), so [N2O2] is proportional to [NO]^2.",
+        "Rate = k[NO]^2[H2], which is order 2 + 1 = 3 overall, so D."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-19.jpg",
         "papers/chemistry/img/11-Kinetics-A2-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q17.jpg"
       ]
     },
     {
@@ -933,12 +1104,19 @@
         "ammonia decomposition"
       ],
       "question": "Which of the graphs represents a zero order reaction? The graph options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Graph options are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: rate against [NH3], a horizontal line",
+      "steps": [
+        "Zero order means the rate does not depend on [NH3]: rate = k.",
+        "The graph of rate against [NH3] is therefore a horizontal straight line (graph A).",
+        "B (straight line through the origin) is first order; C is an exponential fall in [NH3] (first order); D shows [NH3] not changing with time, so no reaction occurs."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-20.jpg",
         "papers/chemistry/img/11-Kinetics-A2-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q18.jpg"
       ]
     },
     {
@@ -1007,13 +1185,20 @@
         "graph working"
       ],
       "question": "From the concentration-time graph at 573 K, determine values for t1/2 and state whether the data confirm first order behaviour. Show working on the graph.",
-      "status": "pending",
-      "answer": "Needs the concentration-time graph from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "t1/2 = about 130 min (accept 125-135 min); the half-life is constant, so the data confirm first order",
+      "steps": [
+        "Initial concentration = 9.0 x 10^-3 mol dm-3. Half = 4.5 x 10^-3: read across to the curve and down to the time axis, about 130 min.",
+        "A second half-life: from 4.5 x 10^-3 to 2.25 x 10^-3 takes the curve from about 130 min to about 262 min, i.e. about 130 min again (or 7.0 -> 3.5 x 10^-3 takes similar time).",
+        "Constant successive half-lives show that the reaction is first order."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-22.jpg",
         "papers/chemistry/img/11-Kinetics-A2-23.jpg",
         "papers/chemistry/img/11-Kinetics-A2-24.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q20.jpg"
       ]
     },
     {
@@ -1030,9 +1215,13 @@
         "573 K"
       ],
       "question": "Calculate the rate constant k in s-1 for decomposition of azomethane at 573 K, using the half-life from (b)(i) and k = ln 2 / t1/2.",
-      "status": "pending",
-      "answer": "Depends on the half-life from (b)(i), which needs the PDF graph",
-      "steps": [],
+      "status": "ready",
+      "answer": "k = 8.9 x 10^-5 s-1 (using t1/2 = 130 min)",
+      "steps": [
+        "Convert the half-life to seconds: 130 min x 60 = 7800 s.",
+        "k = ln 2 / t1/2 = 0.693 / 7800 = 8.9 x 10^-5 s-1.",
+        "Allow 8.6 x 10^-5 to 9.2 x 10^-5 s-1 for half-lives of 126-134 min."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-22.jpg",
         "papers/chemistry/img/11-Kinetics-A2-23.jpg",
@@ -1165,12 +1354,18 @@
         "298 K"
       ],
       "question": "From the experimental data for hydrolysis of 2-bromobutane, deduce and justify the order with respect to 2-bromobutane and hydroxide ions.",
-      "status": "pending",
-      "answer": "Needs the data table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "first order with respect to 2-bromobutane; zero order with respect to OH-",
+      "steps": [
+        "Experiments 1 and 2: [2-bromobutane] doubles (0.100 -> 0.200) with [OH-] constant and the rate doubles (1.01 -> 2.02 x 10^-3), so it is first order in 2-bromobutane.",
+        "Experiments 1 and 3: [OH-] doubles (0.100 -> 0.200) with [2-bromobutane] constant and the rate is unchanged (1.01 x 10^-3), so it is zero order in OH-."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-25.jpg",
         "papers/chemistry/img/11-Kinetics-A2-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q22.jpg"
       ]
     },
     {
@@ -1185,12 +1380,17 @@
         "order"
       ],
       "question": "Write the rate equation using your orders from (a)(i).",
-      "status": "pending",
-      "answer": "Depends on the orders from (a)(i), which need the PDF table",
-      "steps": [],
+      "status": "ready",
+      "answer": "rate = k[CH3CH2CHBrCH3]",
+      "steps": [
+        "Only 2-bromobutane appears in the rate equation (first order); OH- is zero order so it is left out."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-25.jpg",
         "papers/chemistry/img/11-Kinetics-A2-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q22.jpg"
       ]
     },
     {
@@ -1206,12 +1406,19 @@
         "units"
       ],
       "question": "Calculate the rate constant for Experiment 1, including units.",
-      "status": "pending",
-      "answer": "Needs the Experiment 1 data from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "k = 1.01 x 10^-2 s-1",
+      "steps": [
+        "k = rate / [CH3CH2CHBrCH3] using Experiment 1.",
+        "k = 1.01 x 10^-3 / 0.100 = 1.01 x 10^-2.",
+        "Units = (mol dm-3 s-1) / (mol dm-3) = s-1."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-25.jpg",
         "papers/chemistry/img/11-Kinetics-A2-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q22.jpg"
       ]
     },
     {
@@ -1229,9 +1436,13 @@
         "SN2"
       ],
       "question": "Draw the mechanism for hydrolysis of 2-bromobutane that is consistent with your rate equation, including curly arrows, dipoles and lone pairs.",
-      "status": "pending",
-      "answer": "Requires a drawn mechanism, which cannot be checked from the text; check against the PDF's order from (a)(i)",
-      "steps": [],
+      "status": "ready",
+      "answer": "SN1 two-step mechanism: slow heterolytic fission of C-Br to a carbocation, then fast attack of OH- on the carbocation",
+      "steps": [
+        "Rate depends on [halogenoalkane] only, so the slow step involves only the halogenoalkane: SN1.",
+        "Step 1 (slow): show the dipole C(delta+)-Br(delta-) in CH3CH2CHBrCH3; curly arrow from the middle of the C-Br bond to Br; products CH3CH2CH(+)CH3 (the carbocation) and Br-.",
+        "Step 2 (fast): OH- with a lone pair on oxygen (and its negative charge); curly arrow from the lone pair of OH- to the C+ of the carbocation, giving CH3CH2CH(OH)CH3 (butan-2-ol)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-25.jpg",
         "papers/chemistry/img/11-Kinetics-A2-26.jpg"
@@ -1249,12 +1460,18 @@
         "four graphs"
       ],
       "question": "Which of four graphs shows rate plotted against concentration for a zero order reaction? Graphs 1-4 are in a figure not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the four graphs from the PDF to be checked; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Graph 3",
+      "steps": [
+        "Zero order: the rate does not change when the concentration changes, so rate against concentration is a horizontal straight line.",
+        "Graph 3 is the horizontal line."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-26.jpg",
         "papers/chemistry/img/11-Kinetics-A2-27.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q23.jpg"
       ]
     },
     {
@@ -1269,12 +1486,18 @@
         "graph"
       ],
       "question": "Which of four graphs shows rate plotted against concentration for a first order reaction? Graphs 1-4 are in a figure not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the four graphs from the PDF to be checked; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Graph 4",
+      "steps": [
+        "First order: rate is directly proportional to concentration, so rate against concentration is a straight line through the origin.",
+        "Graph 4 is the straight line from the origin; Graph 1 is a curve (second order) and Graph 2 slopes downwards."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-26.jpg",
         "papers/chemistry/img/11-Kinetics-A2-27.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q23.jpg"
       ]
     },
     {
@@ -1320,12 +1543,20 @@
         "table"
       ],
       "question": "Deduce the rate equation for the reaction of bromate(V) ions with bromide ions in dilute acid, justifying the answer from the data, given the reaction is first order in bromate(V).",
-      "status": "pending",
-      "answer": "Needs the initial-rate table from the PDF to be checked; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "rate = k[BrO3-][Br-][H+]^2",
+      "steps": [
+        "Experiments 1 and 2: only [H+] doubles (0.30 -> 0.60) and the rate rises 4 times (3.36 x 10^-5 -> 1.34 x 10^-4), so the order in H+ is 2.",
+        "Experiments 1 and 3: [BrO3-] rises by 1.5 and [Br-] doubles, and the rate rises 3 times (3.36 x 10^-5 -> 1.01 x 10^-4). BrO3- is first order, giving 1.5, so [Br-] must account for the remaining 2: the order in Br- is 1.",
+        "Check with Experiment 4: BrO3- x1.5, H+ x2 (so x4) from Experiment 1 gives 6 x 3.36 x 10^-5 = 2.0 x 10^-4, which matches 2.01 x 10^-4.",
+        "So rate = k[BrO3-][Br-][H+]^2."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-28.jpg",
         "papers/chemistry/img/11-Kinetics-A2-29.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q25.jpg"
       ]
     },
     {
@@ -1341,12 +1572,19 @@
         "rate equation"
       ],
       "question": "Use the data from Experiment 4 and your rate equation from (a)(i) to calculate the rate constant, with units.",
-      "status": "pending",
-      "answer": "Needs the Experiment 4 data and the rate equation from (a)(i); not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "k = 1.49 x 10^-2 dm9 mol-3 s-1",
+      "steps": [
+        "k = rate / ([BrO3-][Br-][H+]^2) using Experiment 4.",
+        "k = 2.01 x 10^-4 / (0.15 x 0.25 x 0.60^2) = 2.01 x 10^-4 / 0.0135 = 1.49 x 10^-2.",
+        "Units = (mol dm-3 s-1) / (mol dm-3)^4 = dm9 mol-3 s-1."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-28.jpg",
         "papers/chemistry/img/11-Kinetics-A2-29.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q25.jpg"
       ]
     },
     {
@@ -1363,12 +1601,18 @@
         "bromate(V)"
       ],
       "question": "Give one reason why the rate equation shows that the reaction cannot proceed in one step.",
-      "status": "pending",
-      "answer": "Depends on the rate equation from (a)(i), which needs the PDF table to be checked",
-      "steps": [],
+      "status": "ready",
+      "answer": "The orders in the rate equation do not match the stoichiometric equation (1 BrO3-, 5 Br-, 6 H+), so it must happen in more than one step",
+      "steps": [
+        "A single step would give rate = k[BrO3-][Br-]^5[H+]^6; the experimental orders are 1, 1 and 2.",
+        "Also, a single step would need 12 particles to collide at the same time, which is extremely unlikely."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-28.jpg",
         "papers/chemistry/img/11-Kinetics-A2-29.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q25.jpg"
       ]
     },
     {
@@ -1411,12 +1655,18 @@
         "graph"
       ],
       "question": "Which graph is correct for this reaction? The graphs are not in the extracted text.",
-      "status": "pending",
-      "answer": "Graph options are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: rate against [NO]^2, a straight line through the origin",
+      "steps": [
+        "Rate = k[NO]^2[H2], so rate is proportional to [NO]^2 and a plot of rate against [NO]^2 is a straight line through the origin (graph D).",
+        "B is wrong because rate depends on [H2] (first order), not constant; A shows [H2] falling in a straight line (zero order); C shows [NO] increasing with time, but [NO] is a reactant and falls."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-29.jpg",
         "papers/chemistry/img/11-Kinetics-A2-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q26.jpg"
       ]
     },
     {
@@ -1460,12 +1710,19 @@
         "pair"
       ],
       "question": "Two equations for the reaction of nitrogen monoxide and oxygen are shown. Which pair of rate equations could be correct? The equation options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Options are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A",
+      "steps": [
+        "Rate equations are found by experiment and do not depend on how the balanced equation is written (equation 1 is simply twice equation 2).",
+        "So both equations must have the same rate equation, with only k different.",
+        "A gives rate = k[NO]^2[O2] for both; C and D put the product NO2 in the rate equation and B gives two different rate equations for the same reaction."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-31.jpg",
         "papers/chemistry/img/11-Kinetics-A2-32.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q27.jpg"
       ]
     },
     {
@@ -1509,12 +1766,19 @@
         "IO-"
       ],
       "question": "The decomposition of hydrogen peroxide is catalysed by iodide ions and the mechanism is shown in a diagram. What is the rate equation? Options: A rate = k[H2O2]^2[I-], B rate = k[H2O2][I-], C rate = k[H2O2]^2[I-][IO-], D rate = k[H2O2][IO-].",
-      "status": "pending",
-      "answer": "Needs the mechanism steps from the PDF to be checked; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: rate = k[H2O2]^2[I-]",
+      "steps": [
+        "Step 2 is the slow step, so rate = k2[H2O2][IO-].",
+        "IO- is an intermediate formed in the fast equilibrium step 1, so [IO-] is proportional to [H2O2][I-] (divided by [H2O], which is effectively constant).",
+        "Substituting, rate = k[H2O2]^2[I-]; an intermediate cannot appear in the final rate equation, which removes D."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-31.jpg",
         "papers/chemistry/img/11-Kinetics-A2-32.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q28.jpg"
       ]
     },
     {
@@ -1588,13 +1852,21 @@
         "results table"
       ],
       "question": "Using the student's results, deduce the rate equation for the reaction between hydrogen peroxide and iodide ions in acid.",
-      "status": "pending",
-      "answer": "Needs the results table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "rate = k[H2O2][I-]",
+      "steps": [
+        "Runs 2 and 3: [H2O2] constant, [I-] doubles (0.0400 -> 0.0797) and the rate doubles (0.00181 -> 0.00364), while [H+] changes only slightly, so the order in I- is 1.",
+        "Runs 1 and 2: [I-] doubles (0.0198 -> 0.0400) and [H2O2] halves but the rate is unchanged, so doubling the iodide cancels the halving of H2O2: the order in H2O2 is 1.",
+        "Run 4 against Run 2: [H2O2] x2, [I-] x2 and [H+] x2 gives rate x4 (0.00181 -> 0.00730), so doubling [H+] has no effect and the order in H+ is 0.",
+        "Rate = k[H2O2][I-]."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-32.jpg",
         "papers/chemistry/img/11-Kinetics-A2-33.jpg",
         "papers/chemistry/img/11-Kinetics-A2-34.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q30.jpg"
       ]
     },
     {
@@ -1611,13 +1883,20 @@
         "rate equation"
       ],
       "question": "Calculate the rate constant at 293 K using the results from Run 1, including units.",
-      "status": "pending",
-      "answer": "Needs the Run 1 data and the rate equation from (a)(ii); not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "k = 4.35 dm3 mol-1 s-1",
+      "steps": [
+        "k = rate / ([H2O2][I-]) using Run 1.",
+        "k = 0.00181 / (0.0210 x 0.0198) = 0.00181 / 4.158 x 10^-4 = 4.35.",
+        "Units = (mol dm-3 s-1) / (mol dm-3)^2 = dm3 mol-1 s-1."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-32.jpg",
         "papers/chemistry/img/11-Kinetics-A2-33.jpg",
         "papers/chemistry/img/11-Kinetics-A2-34.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q30.jpg"
       ]
     },
     {
@@ -1848,12 +2127,19 @@
         "rate equation"
       ],
       "question": "The first four steps of the mechanism are shown in a diagram not in the extracted text. Which is the rate-determining step? Options: A Step 1, B Step 2, C Step 3, D Step 4.",
-      "status": "pending",
-      "answer": "Mechanism steps are not in the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Step 3",
+      "steps": [
+        "The rate equation is rate = k[BrO3-][Br-][H+]^2: one BrO3-, one Br- and two H+ take part up to the rate-determining step.",
+        "Steps 1 and 2 (fast) convert BrO3- + 2H+ into BrO3H2+, and step 3 reacts BrO3H2+ with one Br-, which gives exactly this combination.",
+        "Step 4 would bring in a second Br- and so cannot be rate determining, so C."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-36.jpg",
         "papers/chemistry/img/11-Kinetics-A2-37.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q35.jpg"
       ]
     },
     {
@@ -1953,14 +2239,21 @@
         "justify"
       ],
       "question": "Using the table of results, deduce and justify the order of Reaction 1 with respect to hydrogen peroxide, hydrogen ions and iodide ions.",
-      "status": "pending",
-      "answer": "Needs the results table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "H2O2: first order; H+: zero order; I-: first order",
+      "steps": [
+        "H2O2: Mixtures 1 and 2: [H2O2] halves (5.4 x 10^-2 -> 2.7 x 10^-2), the rate also halves (5.13 x 10^-3 -> 2.56 x 10^-3 s-1), so first order.",
+        "I-: Mixtures 1 and 3: [I-] doubles (8.2 x 10^-3 -> 1.6 x 10^-2), the rate doubles (5.13 x 10^-3 -> 1.03 x 10^-2), so first order.",
+        "H+: Mixtures 1 and 4: [H+] rises 10 times (1.7 x 10^-5 -> 1.7 x 10^-4), the rate is virtually unchanged (5.13 x 10^-3 -> 4.90 x 10^-3), so zero order."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-38.jpg",
         "papers/chemistry/img/11-Kinetics-A2-39.jpg",
         "papers/chemistry/img/11-Kinetics-A2-40.jpg",
         "papers/chemistry/img/11-Kinetics-A2-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q37.jpg"
       ]
     },
     {
@@ -1976,14 +2269,20 @@
         "rate constant"
       ],
       "question": "Write the overall rate equation for Reaction 1 using the orders from (b)(i).",
-      "status": "pending",
-      "answer": "Depends on the orders from (b)(i), which need the PDF table",
-      "steps": [],
+      "status": "ready",
+      "answer": "rate = k[H2O2][I-]",
+      "steps": [
+        "First order in H2O2, first order in I-, zero order in H+ (so H+ is left out).",
+        "rate = k[H2O2][I-]."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-38.jpg",
         "papers/chemistry/img/11-Kinetics-A2-39.jpg",
         "papers/chemistry/img/11-Kinetics-A2-40.jpg",
         "papers/chemistry/img/11-Kinetics-A2-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q37.jpg"
       ]
     },
     {
@@ -2028,14 +2327,21 @@
         "mol dm-3 s-1"
       ],
       "question": "Using the iodine amount from (b)(iii), the stoichiometry of Reaction 1 and data from Mixture 1 (total volume 0.050 dm3), calculate the rate with respect to H2O2 in mol dm-3 s-1.",
-      "status": "pending",
-      "answer": "Needs the time for Mixture 1 from the PDF table; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "rate = 4.4 x 10^-6 mol dm-3 s-1",
+      "steps": [
+        "Amount of I2 formed in Reaction 1 in the time = 4.25 x 10^-5 mol; Reaction 1 gives 1 mol I2 per 1 mol H2O2, so 4.25 x 10^-5 mol H2O2 reacted.",
+        "Change in [H2O2] = 4.25 x 10^-5 / 0.050 = 8.5 x 10^-4 mol dm-3.",
+        "Time for Mixture 1 = 195 s, so rate = 8.5 x 10^-4 / 195 = 4.4 x 10^-6 mol dm-3 s-1 (4.36 x 10^-6 unrounded)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-38.jpg",
         "papers/chemistry/img/11-Kinetics-A2-39.jpg",
         "papers/chemistry/img/11-Kinetics-A2-40.jpg",
         "papers/chemistry/img/11-Kinetics-A2-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q37.jpg"
       ]
     },
     {
@@ -2052,14 +2358,21 @@
         "hydrogen peroxide"
       ],
       "question": "Calculate the rate constant of Reaction 1 using data from Mixture 1 and your answers to (b)(ii) and (b)(iv), with units.",
-      "status": "pending",
-      "answer": "Depends on (b)(ii) and (b)(iv), which need the PDF table",
-      "steps": [],
+      "status": "ready",
+      "answer": "k = 9.8 x 10^-3 dm3 mol-1 s-1",
+      "steps": [
+        "k = rate / ([H2O2][I-]) with Mixture 1 values: [H2O2] = 5.4 x 10^-2 and [I-] = 8.2 x 10^-3 mol dm-3.",
+        "k = 4.36 x 10^-6 / (5.4 x 10^-2 x 8.2 x 10^-3) = 4.36 x 10^-6 / 4.43 x 10^-4 = 9.8 x 10^-3.",
+        "Units = (mol dm-3 s-1) / (mol dm-3)^2 = dm3 mol-1 s-1."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-38.jpg",
         "papers/chemistry/img/11-Kinetics-A2-39.jpg",
         "papers/chemistry/img/11-Kinetics-A2-40.jpg",
         "papers/chemistry/img/11-Kinetics-A2-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q37.jpg"
       ]
     },
     {
@@ -2076,14 +2389,21 @@
         "clock reaction"
       ],
       "question": "Plot ln rate against 1/T, correcting for the thermometer misreading, and determine Ea in kJ mol-1 for Reaction 1.",
-      "status": "pending",
-      "answer": "Needs the temperature and rate data and the axes from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Ea = about +58 kJ mol-1 (accept 54-61 kJ mol-1), found after leaving out the misread point (T = 307 K)",
+      "steps": [
+        "Plot ln rate (y axis) against 1/T (x axis); the points at 1/T = 0.00300, 0.00310, 0.00325, 0.00343 and 0.00360 lie on a straight line, but the point (0.00326, -4.0) for 307 K is off the line (it should lie close to the 308 K point, but is much lower), so it is the misread one: leave it out of the best-fit line.",
+        "Gradient of the best-fit line = (-6.0 - (-1.8)) / (0.00360 - 0.00300) = -4.2 / 0.00060 = -7.0 x 10^3 K.",
+        "Ea = -gradient x R = 7.0 x 10^3 x 8.31 = 5.8 x 10^4 J mol-1, i.e. about +58 kJ mol-1 (a least-squares fit through the five points gives 57.5 kJ mol-1)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-38.jpg",
         "papers/chemistry/img/11-Kinetics-A2-39.jpg",
         "papers/chemistry/img/11-Kinetics-A2-40.jpg",
         "papers/chemistry/img/11-Kinetics-A2-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q37-2.jpg"
       ]
     },
     {
@@ -2099,14 +2419,21 @@
         "1/T"
       ],
       "question": "Use your graph to deduce the temperature the student who made the error should have read.",
-      "status": "pending",
-      "answer": "Needs the graph from (c)(i), which is not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "about 302 K (accept 300-304 K), so the student read 307 K in error",
+      "steps": [
+        "The anomalous point has ln rate = -4.0.",
+        "On the best-fit line, ln rate = -4.0 corresponds to 1/T = 3.32 x 10^-3 K-1.",
+        "T = 1 / 3.32 x 10^-3 = 302 K, so the thermometer should have read about 302 K rather than 307 K."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-38.jpg",
         "papers/chemistry/img/11-Kinetics-A2-39.jpg",
         "papers/chemistry/img/11-Kinetics-A2-40.jpg",
         "papers/chemistry/img/11-Kinetics-A2-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q37-2.jpg"
       ]
     },
     {
@@ -2123,13 +2450,20 @@
         "1000 K"
       ],
       "question": "Calculate the initial rate of reaction for CH3CHO decomposition at 1000 K from its concentration-time graph, showing working on the graph.",
-      "status": "pending",
-      "answer": "Needs the concentration-time graph from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "initial rate = 1.6 x 10^-4 mol dm-3 s-1 (accept 1.5-1.7 x 10^-4)",
+      "steps": [
+        "Draw a tangent to the curve at t = 0 (where [CH3CHO] = 0.60 mol dm-3) and find its gradient.",
+        "The tangent runs from (0, 0.60) to about (62 min, 0): gradient = -0.60 / 62 = -9.7 x 10^-3 mol dm-3 min-1.",
+        "Initial rate = 9.7 x 10^-3 / 60 = 1.6 x 10^-4 mol dm-3 s-1 (convert minutes to seconds)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-41.jpg",
         "papers/chemistry/img/11-Kinetics-A2-42.jpg",
         "papers/chemistry/img/11-Kinetics-A2-43.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q38.jpg"
       ]
     },
     {
@@ -2146,13 +2480,20 @@
         "decomposition"
       ],
       "question": "Deduce the rate equation at 1000 K by determining two half-lives, showing working on the graph.",
-      "status": "pending",
-      "answer": "Needs the concentration-time graph from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "rate = k[CH3CHO] (first order), because successive half-lives are constant at about 43 min",
+      "steps": [
+        "First half-life: 0.60 -> 0.30 mol dm-3 takes about 43 min (read at 0.30 on the curve).",
+        "Second half-life: 0.40 -> 0.20 mol dm-3 takes the curve from about 25 min to about 68 min, i.e. 43 min again (0.50 -> 0.25 also gives about 43 min).",
+        "Equal half-lives show the reaction is first order in CH3CHO: rate = k[CH3CHO]."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-41.jpg",
         "papers/chemistry/img/11-Kinetics-A2-42.jpg",
         "papers/chemistry/img/11-Kinetics-A2-43.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q38.jpg"
       ]
     },
     {
@@ -2169,13 +2510,20 @@
         "kJ mol-1"
       ],
       "question": "From the graph of ln k against 1/T for CH3CHO decomposition between 1000 K and 1700 K, determine Ea to three significant figures with units.",
-      "status": "pending",
-      "answer": "Needs the plotted graph from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Ea = +355 kJ mol-1 (3 s.f.; accept 345-365)",
+      "steps": [
+        "ln k = -(Ea/R)(1/T) + constant, so the gradient of the line = -Ea/R.",
+        "Read two far-apart points on the line, e.g. (0.000587, 9.4) and (0.00100, -8.3): gradient = (-8.3 - 9.4) / (0.00100 - 0.000587) = -17.7 / 0.000413 = -4.27 x 10^4 K.",
+        "Ea = 4.27 x 10^4 x 8.31 = 3.55 x 10^5 J mol-1 = +355 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-41.jpg",
         "papers/chemistry/img/11-Kinetics-A2-42.jpg",
         "papers/chemistry/img/11-Kinetics-A2-43.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q38-2.jpg"
       ]
     },
     {
@@ -2277,13 +2625,20 @@
         "plot"
       ],
       "question": "Plot a graph of reaction rate (reciprocal of time) against volume of hydrogen peroxide using the table.",
-      "status": "pending",
-      "answer": "Needs the results table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Graph of rate (y axis, 10^-2 s-1) against volume of H2O2 (x axis, cm3): a straight line through the origin",
+      "steps": [
+        "Axes: x = volume of H2O2 / cm3 (0 to 50), y = reaction rate / 10^-2 s-1 (0 to 5); use more than half the grid.",
+        "Plot (10, 0.9), (20, 1.8), (30, 2.5), (40, 3.7), (50, 4.6) (all x 10^-2 s-1).",
+        "Draw a ruled straight best-fit line through the origin passing close to all the points (the point at 30 cm3 lies slightly below the line)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-44.jpg",
         "papers/chemistry/img/11-Kinetics-A2-45.jpg",
         "papers/chemistry/img/11-Kinetics-A2-46.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q40.jpg"
       ]
     },
     {
@@ -2299,13 +2654,19 @@
         "justify"
       ],
       "question": "State and justify the order with respect to hydrogen peroxide from your graph of rate against volume.",
-      "status": "pending",
-      "answer": "Depends on the graph from (b)(ii), which needs the PDF table",
-      "steps": [],
+      "status": "ready",
+      "answer": "First order with respect to H2O2, because the graph is a straight line through the origin",
+      "steps": [
+        "Rate is directly proportional to the volume of H2O2, and the volume is proportional to its concentration (assuming the total volume is kept constant with water).",
+        "Doubling the volume doubles the rate (0.9 -> 1.8 x 10^-2 for 10 -> 20 cm3), so the order is 1."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-44.jpg",
         "papers/chemistry/img/11-Kinetics-A2-45.jpg",
         "papers/chemistry/img/11-Kinetics-A2-46.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q40.jpg"
       ]
     },
     {
@@ -2322,13 +2683,20 @@
         "two significant figures"
       ],
       "question": "Using the tangent shown on the graph of the Mg and sulfuric acid reaction at 80 C, calculate the rate at 15 seconds to two significant figures with units.",
-      "status": "pending",
-      "answer": "Needs the graph and tangent from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "rate = 1.8 cm3 s-1",
+      "steps": [
+        "Rate = gradient of the tangent at t = 15 s.",
+        "The tangent passes through about (0, 15) and (33, 74): gradient = (74 - 15) / (33 - 0) = 59 / 33 = 1.8.",
+        "Units: cm3 s-1 (volume of hydrogen per second)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-44.jpg",
         "papers/chemistry/img/11-Kinetics-A2-45.jpg",
         "papers/chemistry/img/11-Kinetics-A2-46.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q40-2.jpg"
       ]
     },
     {
@@ -2345,13 +2713,20 @@
         "continuous monitoring"
       ],
       "question": "The temperature is changed to 75 C. Draw on the graph the expected line if this were the only change, and justify similarities and differences.",
-      "status": "pending",
-      "answer": "Requires drawing on the graph from the PDF; cannot be checked from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A curve starting at the origin, less steep than the 80 C curve and reaching the same final volume (70 cm3) later",
+      "steps": [
+        "Same start point (0, 0) and same final volume of about 70 cm3, because the amounts of reagents are unchanged.",
+        "The curve is less steep at the start and lies below the 80 C curve, so it levels off at 70 cm3 later (after more than 60 s).",
+        "Justification: at lower temperature fewer particles have energy >= Ea, so fewer collisions are successful per second and the rate (gradient) is lower; the amount of product depends on the limiting reagent, not on the temperature."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-44.jpg",
         "papers/chemistry/img/11-Kinetics-A2-45.jpg",
         "papers/chemistry/img/11-Kinetics-A2-46.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q40-2.jpg"
       ]
     },
     {
@@ -2367,12 +2742,19 @@
         "minutes"
       ],
       "question": "A graph of the concentration of Q during decomposition is shown. What is the half-life? Options: A 93 min, B 132 min, C 146 min, D 291 min.",
-      "status": "pending",
-      "answer": "Needs the concentration-time graph from the PDF to be checked; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 132 minutes",
+      "steps": [
+        "The initial concentration is 9.0 x 10^-3 mol dm-3, so one half-life is reached when [Q] = 4.5 x 10^-3.",
+        "On the curve, 4.5 x 10^-3 is reached at about 132 min.",
+        "Check: 4.5 -> 2.25 x 10^-3 takes a similar time (about 130 min), so the half-life is constant."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-46.jpg",
         "papers/chemistry/img/11-Kinetics-A2-47.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q41.jpg"
       ]
     },
     {
@@ -2523,13 +2905,20 @@
         "hydrogen peroxide decomposition"
       ],
       "question": "Plot a graph of the volume of potassium manganate(VII) solution against time using the table of results.",
-      "status": "pending",
-      "answer": "Needs the results table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Graph of volume of KMnO4 (y axis, 0 to 35 cm3) against time (x axis, 0 to 30 min): a smooth downward curve that gets less steep",
+      "steps": [
+        "Axes: x = time / min (0 to 30), y = volume of manganate(VII) / cm3 (0 to 35), using more than half of the grid in each direction.",
+        "Plot (0, 32.5), (5, 24.8), (10, 18.9), (15, 13.9), (20, 10.5), (25, 8.1), (30, 6.5).",
+        "Join with one smooth curve (an exponential decay shape, steepest at the start)."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-49.jpg",
         "papers/chemistry/img/11-Kinetics-A2-50.jpg",
         "papers/chemistry/img/11-Kinetics-A2-51.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q45.jpg"
       ]
     },
     {
@@ -2546,13 +2935,21 @@
         "working on graph"
       ],
       "question": "Use your graph to show the reaction is first order with respect to hydrogen peroxide, showing working on the graph.",
-      "status": "pending",
-      "answer": "Needs the graph from (a)(iii), which depends on the PDF table",
-      "steps": [],
+      "status": "ready",
+      "answer": "Constant half-life of about 12 min (accept 11.5-13 min) shows first order",
+      "steps": [
+        "Volume of manganate(VII) is proportional to [H2O2] in the sample, so a halving of volume is a halving of concentration.",
+        "From 32.5 cm3 to 16.25 cm3 takes about 12.5 min (t = 0 to about 12.5 min) on the curve; show the construction lines on the graph.",
+        "From 24.8 to 12.4 cm3 (t = 5 to about 17.5 min) is also about 12 min, and 18.9 to 9.45 cm3 (t = 10 to about 22 min) is about 12 min.",
+        "Successive half-lives are constant, so the reaction is first order with respect to hydrogen peroxide."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-49.jpg",
         "papers/chemistry/img/11-Kinetics-A2-50.jpg",
         "papers/chemistry/img/11-Kinetics-A2-51.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q45.jpg"
       ]
     },
     {
@@ -2569,13 +2966,19 @@
         "hydrogen peroxide"
       ],
       "question": "Two possible mechanisms are proposed by students. Explain whether or not they are consistent with the reaction being first order. The mechanism diagrams are not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the two proposed mechanisms from the PDF to be checked; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Mechanism 2 is consistent with first order; Mechanism 1 is not",
+      "steps": [
+        "Mechanism 1: the slow step involves two H2O2 molecules (2H2O2 -> [H4O4]), so rate = k[H2O2]^2, which is second order, so it does not fit the experiment.",
+        "Mechanism 2: the slow step is H2O2 -> 2OH, involving one H2O2 molecule, so rate = k[H2O2], first order, which agrees with the experimental result."
+      ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-49.jpg",
         "papers/chemistry/img/11-Kinetics-A2-50.jpg",
         "papers/chemistry/img/11-Kinetics-A2-51.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/11-Kinetics-A2-Q45-2.jpg"
       ]
     }
   ]

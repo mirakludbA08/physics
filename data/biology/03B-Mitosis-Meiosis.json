@@ -18,13 +18,20 @@
         "genotype"
       ],
       "question": "From the labelled rabbit sperm diagram (options AW, BX, CY, DZ), state which structure contains the genetic information used to make acrosomal enzymes.",
-      "status": "pending",
-      "answer": "Missing: the labelled sperm diagram (AW to DZ) is not in the text, so the letter cannot be matched to the nucleus.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Y (the nucleus)",
+      "steps": [
+        "Acrosomal enzymes are proteins, so the genetic information for them is the gene for each enzyme, which is DNA.",
+        "In a sperm cell the DNA is in the nucleus, the large rounded head region labelled Y.",
+        "W is the acrosome, which stores the enzymes but does not contain their genes, and Z is the midpiece with mitochondria, so neither is correct."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-01.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-02.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q1.jpg"
       ]
     },
     {
@@ -129,13 +136,23 @@
         "interaction"
       ],
       "question": "Discuss how genes and the environment interact to produce the fur colour of three types of rabbit, using the table and the information that one enzyme is inactive at core body temperature.",
-      "status": "pending",
-      "answer": "Missing: the table describing the three rabbit types is not in the text, so the fur colour comparison cannot be made.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Fur colour depends on the alleles for an enzyme that makes pigment, and for Himalayan rabbits also on temperature: the enzyme works only in cooler body parts.",
+      "steps": [
+        "A gene codes for an enzyme that controls production of pigment in the fur; the allele combination (genotype) decides which version of the enzyme is made.",
+        "Black rabbits (CC, Cc^ch or Cc^a) have at least one C allele coding for a fully working enzyme, so pigment is made all over; C is dominant.",
+        "Albino rabbits (c^a c^a) have no working enzyme, so no pigment is made anywhere and the fur is white; the environment has no effect.",
+        "Himalayan rabbits (c^h c^h or c^h c^a) make an enzyme whose shape changes (it is denatured) at the warm core body temperature, so it is inactive over most of the body and the fur is white.",
+        "In the cooler extremities (ears, nose, paws, tail) the enzyme is active, so pigment is made and these parts are black.",
+        "So the phenotype of a Himalayan rabbit comes from the interaction of its genotype with temperature; c^h is dominant to c^a because c^h c^a rabbits are Himalayan."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-01.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-02.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q1-2.jpg"
       ]
     },
     {
@@ -152,13 +169,19 @@
         "metres"
       ],
       "question": "From four options (A 1.6 x 10^-2 m, B 1.6 x 10^2 m, C 1.6 x 10^-3 m, D 1.6 x 10^3 m), state the diameter of the blue poison dart frog egg cell.",
-      "status": "pending",
-      "answer": "Missing: the table of egg cell sizes is not in the text, so the frog egg diameter cannot be checked against the options.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 1.6 x 10^3 um (1600 um)",
+      "steps": [
+        "The table gives the diameter of the blue poison dart frog egg as 1600 um.",
+        "In standard form 1600 = 1.6 x 10^3, so the answer is option D."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-03.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-04.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-05.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q2.jpg"
       ]
     },
     {
@@ -175,13 +198,21 @@
         "two significant figures"
       ],
       "question": "Calculate how many times larger the volume of the blue poison dart frog egg is than a human egg of volume 1.8 x 10^6 m^3, to two significant figures.",
-      "status": "pending",
-      "answer": "Missing: the frog egg diameter from the table and the sphere volume formula are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 1.2 x 10^3 times larger (1200)",
+      "steps": [
+        "Frog egg diameter = 1600 um, so radius = 800 um.",
+        "Volume = 4/3 x pi x 800^3 = 2.14 x 10^9 um^3.",
+        "Ratio = 2.14 x 10^9 / 1.8 x 10^6 = 1191.",
+        "To two significant figures, the frog egg is 1.2 x 10^3 (1200) times larger."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-03.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-04.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-05.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q2.jpg"
       ]
     },
     {
@@ -240,6 +271,9 @@
         "papers/biology/img/03B-Mitosis-Meiosis-05.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-06.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-07.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q3.jpg"
       ]
     },
     {
@@ -256,13 +290,20 @@
         "fertilisation"
       ],
       "question": "Name structure A, shown in the diagram of the three structures formed after fertilisation, which can be used as a source of pluripotent stem cells.",
-      "status": "pending",
-      "answer": "Missing: the diagram of the three structures is not in the text, so structure A cannot be identified with certainty.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Blastocyst",
+      "steps": [
+        "Structure A is a hollow ball of cells with an inner cell mass and an outer layer of trophoblast cells; this is a blastocyst.",
+        "It forms from the morula after more cell division and specialisation.",
+        "The inner cell mass contains the pluripotent embryonic stem cells."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-05.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-06.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-07.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q3.jpg"
       ]
     },
     {
@@ -310,13 +351,22 @@
         "telophase"
       ],
       "question": "From the lettered options showing the correct order of mitosis for the plant cell diagrams, select the correct sequence.",
-      "status": "pending",
-      "answer": "Missing: the diagrams of plant cells in different stages and the lettered sequence options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: C, D, B, E, A",
+      "steps": [
+        "C shows a rounded nucleus with chromatin just beginning to condense (early prophase); D shows condensed chromosomes with no nuclear envelope (late prophase).",
+        "B shows the chromosomes spread across the middle of the cell (metaphase); E shows chromatids pulled to opposite poles (anaphase).",
+        "A shows two cells, each with chromosomes at the pole and a new cell wall (telophase and cytokinesis).",
+        "The order C, D, B, E, A matches row C."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-07.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-08.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-09.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q4.jpg",
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q4-2.jpg"
       ]
     },
     {
@@ -334,13 +384,21 @@
         "changes"
       ],
       "question": "Explain the changes in DNA content of a cell during one cell cycle, as shown by the graph.",
-      "status": "pending",
-      "answer": "Missing: the graph of DNA content during the cell cycle is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "DNA content stays at 2 a.u., doubles to 4 a.u. in S phase, stays at 4 a.u., then halves to 2 a.u. when the cell divides.",
+      "steps": [
+        "From 0 to about 6 hours the DNA content is constant at 2 a.u. (G1 of interphase, before replication).",
+        "From about 6 to 10 hours it rises steadily from 2 to 4 a.u., because DNA is replicated in S phase (semi-conservative replication).",
+        "From 10 to 15 hours it stays at 4 a.u. (G2, then prophase to anaphase), as each chromosome now has two sister chromatids and the cell has not yet divided.",
+        "At about 15 hours it falls sharply to 2 a.u., because the sister chromatids are separated into two daughter nuclei and the cell divides (end of mitosis and cytokinesis), so each daughter has 2 a.u. and the content then stays at 2."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-07.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-08.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-09.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q4-3.jpg"
       ]
     },
     {
@@ -357,13 +415,21 @@
         "haploid"
       ],
       "question": "Complete the DNA content graph to show how it would change if the cell had undergone meiosis to form gametes.",
-      "status": "pending",
-      "answer": "Missing: the graph to be completed is not in the text; the expected pattern is DNA halved after meiosis I and halved again after meiosis II.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Line rises from 2 to 4 a.u. (about 6 to 10 hours), stays at 4, falls to 2 a.u. after meiosis I, then falls to 1 a.u. after meiosis II and stays at 1.",
+      "steps": [
+        "Continue the given line at 2 a.u., then draw the same rise from 2 to 4 a.u. over S phase (about 6 to 10 hours), because DNA is replicated before meiosis.",
+        "Keep the line at 4 a.u. during prophase I and metaphase I, then draw a sharp vertical drop to 2 a.u. at the end of meiosis I, when homologous chromosomes separate into two cells.",
+        "Keep the line at 2 a.u. briefly, then draw a second sharp vertical drop to 1 a.u. at the end of meiosis II, when sister chromatids separate into four cells.",
+        "Finish with a horizontal line at 1 a.u., half the original value, because each gamete is haploid."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-07.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-08.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-09.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q4-4.jpg"
       ]
     },
     {
@@ -408,14 +474,14 @@
         "cm3",
         "mouse egg"
       ],
-      "question": "Lipid droplets in mouse egg cells have a mean radius of 88 um. Which option gives the mean volume in cm^3? Options: A 2.85 x 10^-6, B 2.85 x 10^-3, C 2.85 x 10^3, D 2.85 x 10^6.",
+      "question": "Lipid droplets in mouse egg cells have a mean radius of 88 um. Which option gives the mean volume of a lipid droplet in mm^3? Options: A 2.85 x 10^-6, B 2.85 x 10^-3, C 2.85 x 10^3, D 2.85 x 10^6.",
       "status": "ready",
-      "answer": "A (2.85 x 10^-6 cm^3).",
+      "answer": "B: 2.85 x 10^-3 mm^3",
       "steps": [
-        "Convert the radius: 88 um = 88 x 10^-4 cm = 8.8 x 10^-3 cm, since 1 um = 10^-4 cm.",
-        "Use V = (4/3) x pi x r^3 = 4.19 x (8.8 x 10^-3)^3.",
-        "(8.8 x 10^-3)^3 = 6.81 x 10^-7 cm^3, and 4.19 x 6.81 x 10^-7 = 2.85 x 10^-6 cm^3.",
-        "This matches option A; the units in the text are read as cm^3 for this value."
+        "Convert the radius to mm: 88 um = 88 x 10^-3 mm = 0.088 mm.",
+        "V = (4/3) x pi x r^3 = 4.19 x (0.088)^3.",
+        "(0.088)^3 = 6.81 x 10^-4 mm^3, and 4.19 x 6.81 x 10^-4 = 2.85 x 10^-3 mm^3, which is option B.",
+        "Option A (2.85 x 10^-6) is the same volume in cm^3, not mm^3."
       ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-09.jpg",
@@ -438,13 +504,20 @@
         "circle"
       ],
       "question": "On the timeline diagram of structures formed after fertilisation in a mouse, draw a circle around the mouse morula and label it.",
-      "status": "pending",
-      "answer": "Missing: the timeline diagram is not in the text, so the morula cannot be located.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Circle the third picture in the mouse row (at Day 2, the ball of cells) and label it morula.",
+      "steps": [
+        "The mouse row shows, from left, a zygote, a two-cell embryo, a solid ball of cells and a hollow ball with an inner cell mass.",
+        "The morula is the solid ball of many cells with no cavity, the third picture, at Day 2.",
+        "The fourth picture (Day 3) has a fluid-filled cavity and an inner cell mass, so it is a blastocyst, not a morula."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-09.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-10.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-11.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q5.jpg"
       ]
     },
     {
@@ -535,6 +608,9 @@
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-12.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-13.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q6.jpg"
       ]
     },
     {
@@ -608,12 +684,19 @@
         "nuclear envelope"
       ],
       "question": "Name a substance synthesised by the organelle labelled A in the student's diagram of part of a eukaryotic cell.",
-      "status": "pending",
-      "answer": "Missing: the student's diagram with organelle A is not in the text, so the organelle cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Glycoprotein (the Golgi apparatus also makes lysosomes, secretory vesicles and, in plants, cell wall polysaccharides)",
+      "steps": [
+        "Organelle A is a stack of flattened membrane sacs next to the rough ER, which is the Golgi apparatus.",
+        "The Golgi modifies proteins that arrive from the rough ER, for example by adding carbohydrate to make glycoproteins.",
+        "Other acceptable substances are lysosomal enzymes (to form lysosomes), polysaccharides such as cell wall material in plants, and secretory enzymes."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-14.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-15.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q7.jpg"
       ]
     },
     {
@@ -642,6 +725,9 @@
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-14.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-15.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q7.jpg"
       ]
     },
     {
@@ -717,14 +803,23 @@
         "comment"
       ],
       "question": "Comment on the results of an investigation comparing the speed of individual sperm with bundles of sperm in liquids of different resistance.",
-      "status": "pending",
-      "answer": "Missing: the graph of sperm speed in liquids of different resistance is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Sperm bundles swim faster than individual sperm at every resistance except 0.5 a.u.; bundle speed stays about 19 to 21 um s^-1, but individual sperm slow down as resistance rises.",
+      "steps": [
+        "Individual sperm: speed rises from about 14 um s^-1 at 0 a.u. to about 20 at 0.5, then falls to about 14.5 at 1.5 and about 9.5 um s^-1 at 4.0 a.u.",
+        "Sperm bundles: speed stays high and fairly constant (about 18.5 to 21.5 um s^-1) whatever the resistance.",
+        "Bundles are faster at 0, 1.5 and 4.0 a.u. (the error bars do not overlap), but at 0.5 a.u. the error bars overlap, so there is probably no real difference.",
+        "The advantage of bundling grows as resistance rises: at 4.0 a.u. bundles are about 11 um s^-1 faster, more than twice the speed of single sperm.",
+        "This suggests that moving together lets the sperm cope with a thicker liquid, such as the female tract, so a bundle is more likely to reach the egg."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-15.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-16.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-17.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-18.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q8.jpg"
       ]
     },
     {
@@ -742,14 +837,21 @@
         "mouse egg"
       ],
       "question": "Plot the result that, at the highest sperm concentration with damaged zona pellucida, the percentage polyspermy was 52%.",
-      "status": "pending",
-      "answer": "Missing: the graph axes and existing points are not in the text, so the point cannot be plotted here.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Draw a bar for damaged zona pellucida at the highest concentration (200 x 10^3 cm^-3), shaded dark grey like the key, with its top at 52% on the y-axis, next to the 100 bar.",
+      "steps": [
+        "Use the key: the highest sperm concentration (200 x 10^3 cm^-3) is shaded dark grey.",
+        "In the damaged zona pellucida group draw a third bar to the right of the 100 bar, the same width as the others.",
+        "Make the top of the bar level with 52% (between 50 and 60 on the axis) and shade it dark grey."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-15.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-16.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-17.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-18.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q8-2.jpg"
       ]
     },
     {
@@ -767,14 +869,22 @@
         "fertilisation"
       ],
       "question": "Explain the results of the investigation into damaged zona pellucida and sperm concentration on percentage polyspermy in mouse egg cells.",
-      "status": "pending",
-      "answer": "Missing: the graph values for percentage polyspermy at each condition are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A damaged zona pellucida lets more than one sperm enter, so polyspermy is higher, and it rises with sperm concentration.",
+      "steps": [
+        "With an intact zona pellucida polyspermy is low (about 2 to 3% at the lowest concentration, 17 to 18% at the two higher ones) because the zona pellucida (and cortical reaction) blocks extra sperm.",
+        "With a damaged zona pellucida polyspermy is much higher at the higher concentrations (about 33% at 100 and 52% at 200 x 10^3 cm^-3, against 17 and 18% for intact), because the zona no longer stops extra sperm entering.",
+        "Higher sperm concentration means more sperm reach each egg, so polyspermy increases with concentration; with a damaged zona pellucida it keeps rising, but with an intact one it levels off.",
+        "At the lowest concentration there is no difference between intact and damaged (about 2.5%), because so few sperm are present that two rarely reach the same egg."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-15.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-16.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-17.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-18.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q8-2.jpg"
       ]
     },
     {
@@ -792,14 +902,21 @@
         "labelled diagram"
       ],
       "question": "From the sperm cell diagram (options AW, BX, CY, DZ), state the part of the sperm where the organelle shown in the electron micrograph is found.",
-      "status": "pending",
-      "answer": "Missing: the micrograph and the labelled sperm diagram are not in the text, so the organelle and its location cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Y (the midpiece)",
+      "steps": [
+        "The electron micrograph shows an organelle with folded inner membranes (cristae): a mitochondrion.",
+        "In a sperm cell the mitochondria are packed in the midpiece, behind the head, where they supply ATP for the tail.",
+        "Y points to the midpiece, so the answer is C."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-19.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-20.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-21.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q9.jpg"
       ]
     },
     {
@@ -846,14 +963,20 @@
         "calculation"
       ],
       "question": "The investigation used 2500 egg cells per sample. Calculate the number of egg cells fertilised by sperm with 2.5 a.u. acrosin activity.",
-      "status": "pending",
-      "answer": "Missing: the graph value of percentage fertilisation at 2.5 a.u. is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "800 egg cells",
+      "steps": [
+        "From the graph, about 32% of egg cells were fertilised at 2.5 a.u. acrosin activity.",
+        "Number fertilised = 32 / 100 x 2500 = 800."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-19.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-20.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-21.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q9-2.jpg"
       ]
     },
     {
@@ -884,6 +1007,9 @@
         "papers/biology/img/03B-Mitosis-Meiosis-20.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-21.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q9-2.jpg"
       ]
     },
     {
@@ -913,6 +1039,9 @@
         "papers/biology/img/03B-Mitosis-Meiosis-20.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-21.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q9-3.jpg"
       ]
     },
     {
@@ -943,6 +1072,9 @@
         "papers/biology/img/03B-Mitosis-Meiosis-20.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-21.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q9-3.jpg"
       ]
     },
     {
@@ -1015,12 +1147,20 @@
         "function"
       ],
       "question": "Complete the table to show the correct statement for each structure found in gametes, showing how gametes are specialised for their functions.",
-      "status": "pending",
-      "answer": "Missing: the table of gamete structures and statements is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Flagellum: A; mitochondria: C; nucleus: D; zona pellucida: B",
+      "steps": [
+        "The flagellum of a sperm moves, so it propels the male gamete towards the female gamete (A).",
+        "Mitochondria carry out aerobic respiration, so they produce ATP (C).",
+        "The nucleus contains the DNA, which is linear in eukaryotic cells (D).",
+        "The zona pellucida is the layer around the egg that the cortical granule enzymes modify to stop more sperm entering (B)."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-22.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q10.jpg"
       ]
     },
     {
@@ -1037,13 +1177,20 @@
         "sections"
       ],
       "question": "From the graph of DNA content in one cell during one cycle (options AJ, BK, CL, DM), state the part where DNA is replicated.",
-      "status": "pending",
-      "answer": "Missing: the DNA content graph with sections J to M is not in the text; replication occurs in interphase (S phase), where DNA content doubles.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: K",
+      "steps": [
+        "DNA is replicated in S phase of interphase.",
+        "On the graph the DNA content rises steadily from 2 to 4 a.u. in section K, so K is where replication occurs.",
+        "J is before replication, L is the replicated DNA (G2 and early mitosis) and M is when the cell divides."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-23.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-24.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-25.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q11.jpg"
       ]
     },
     {
@@ -1060,13 +1207,20 @@
         "mitosis"
       ],
       "question": "From the graph (options AJ, BL, CM, DN), state the part where condensation of chromosomes would be completed.",
-      "status": "pending",
-      "answer": "Missing: the DNA content graph with sections J to N is not in the text, so the matching letter cannot be chosen.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: L",
+      "steps": [
+        "Chromosomes condense in prophase, and condensation is complete by metaphase, before the chromatids are separated.",
+        "On the graph the DNA content is 4 a.u. in section L, after replication and before the cell divides, so this covers G2, prophase and metaphase.",
+        "Section M is the sharp fall as chromatids separate and the cell divides, and J and N are interphase (2 a.u.)."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-23.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-24.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-25.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q11.jpg"
       ]
     },
     {
@@ -1182,6 +1336,9 @@
         "papers/biology/img/03B-Mitosis-Meiosis-23.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-24.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-25.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q11-2.jpg"
       ]
     },
     {
@@ -1211,6 +1368,9 @@
         "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q12.jpg"
       ]
     },
     {
@@ -1228,13 +1388,20 @@
         "haploid"
       ],
       "question": "Label the part of the liverwort life cycle diagram where meiosis would have occurred.",
-      "status": "pending",
-      "answer": "Missing: the labelled life cycle diagram is not in the text, so the position of meiosis cannot be labelled.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Write 'meiosis' on the arrow from the diploid form (64) to the spores (32).",
+      "steps": [
+        "Meiosis halves the chromosome number from diploid to haploid.",
+        "In the life cycle the chromosome number falls from 64 (diploid form) to 32 in the spores.",
+        "So label the arrow between the diploid form and the spores as meiosis."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q12.jpg"
       ]
     },
     {
@@ -1251,13 +1418,19 @@
         "diagram"
       ],
       "question": "From the diagram of nuclei in an ovule and a pollen tube (options AP, BQ, CS, DT), state which letter labels an ovule.",
-      "status": "pending",
-      "answer": "Missing: the labelled diagram of the ovule and pollen tube is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: P",
+      "steps": [
+        "An ovule is the structure that contains the embryo sac, egg cell and nuclei, inside the ovary; P labels this.",
+        "Q is an anther, S the polar nuclei and T the egg cell, so the answer is A."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q12-2.jpg"
       ]
     },
     {
@@ -1274,13 +1447,19 @@
         "diagram"
       ],
       "question": "From the same diagram (options AP, BS, CT, DU), state which letter labels an egg cell (female gamete).",
-      "status": "pending",
-      "answer": "Missing: the labelled diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: T",
+      "steps": [
+        "The egg cell (female gamete) lies in the embryo sac at the micropyle end, with the synergids beside it.",
+        "T points to this cell at the bottom of the embryo sac, so the answer is C."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q12-2.jpg"
       ]
     },
     {
@@ -1296,13 +1475,20 @@
         "flowering plant"
       ],
       "question": "From the same diagram (options AR, BS, CT, DU), state which letter labels a male nucleus.",
-      "status": "pending",
-      "answer": "Missing: the labelled diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: U",
+      "steps": [
+        "The male nuclei are carried in the pollen tube, which grows through the style to the micropyle.",
+        "U points to the dark nuclei inside the pollen tube at the micropyle, so the answer is D.",
+        "R is a pollen grain, not a nucleus in the tube."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q12-2.jpg"
       ]
     },
     {
@@ -1318,13 +1504,20 @@
         "endosperm"
       ],
       "question": "From the same diagram (options AR, BS, CT, DU), state which letter labels a polar nucleus.",
-      "status": "pending",
-      "answer": "Missing: the labelled diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: S",
+      "steps": [
+        "Polar nuclei are the two nuclei in the middle of the embryo sac.",
+        "S points to these two central nuclei, so the answer is B.",
+        "One male nucleus fuses with them to form the triploid endosperm nucleus."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q12-2.jpg"
       ]
     },
     {
@@ -1353,6 +1546,9 @@
         "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q12-2.jpg"
       ]
     },
     {
@@ -1370,13 +1566,20 @@
         "diagram"
       ],
       "question": "From the cell diagram at the start of metaphase I (options A centriole, B lysosome, C nucleolus, D ribosome), state which is organelle T.",
-      "status": "pending",
-      "answer": "Missing: the diagram at metaphase I with organelle T is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: centriole",
+      "steps": [
+        "Organelle T is at the pole of the cell where the spindle fibres meet.",
+        "Centrioles lie at the poles and organise the spindle fibres (microtubules).",
+        "A lysosome, nucleolus or ribosome does not form the spindle, so the answer is A."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-28.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-29.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-30.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q13.jpg"
       ]
     },
     {
@@ -1406,6 +1609,9 @@
         "papers/biology/img/03B-Mitosis-Meiosis-28.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-29.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-30.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q13.jpg"
       ]
     },
     {
@@ -1422,13 +1628,22 @@
         "chromosomes"
       ],
       "question": "Complete the student's drawings to show the four haploid cells produced by meiosis from the cell at metaphase I.",
-      "status": "pending",
-      "answer": "Missing: the student's partly drawn cells are not in the text, so the drawing cannot be checked.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Four cells, each with one chromosome made of a single chromatid (like the drawn one): two cells with the dark chromosome and two with the light one.",
+      "steps": [
+        "The cell at metaphase I has one homologous pair, each chromosome having two chromatids, so each haploid cell ends with one chromosome.",
+        "Meiosis II separates the sister chromatids, so each final cell contains a single chromatid (a single-stranded chromosome with a centromere), as in the first circle.",
+        "Draw one single chromatid in each of the other three circles.",
+        "Shade two cells like the dark chromosome and two like the light one, since the two homologues go into different cells (small pieces of the other shade may show crossing over)."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-28.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-29.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-30.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q13.jpg",
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q13-2.jpg"
       ]
     },
     {
@@ -1572,15 +1787,24 @@
         "prophase I"
       ],
       "question": "Complete the diagram of one pair of homologous chromosomes to show them after crossing over has occurred.",
-      "status": "pending",
-      "answer": "Missing: the chromosome diagram to be completed is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Swap the ends of the two inner (non-sister) chromatids, so that each of these chromatids is part shaded and part unshaded; the outer chromatids stay unchanged.",
+      "steps": [
+        "Crossing over happens between non-sister chromatids of the homologous chromosomes, at the place shown by the arrows.",
+        "On the left chromosome shade the top of the inner chromatid white, and on the right chromosome shade the matching top of the inner chromatid grey (the ends are exchanged).",
+        "The other two chromatids (the outer ones) stay completely grey on the left and completely white on the right.",
+        "Each exchanged chromatid is then a mixture of grey and white, showing new combinations of alleles."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-33.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-34.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-35.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-36.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-37.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q15.jpg",
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q15-2.jpg"
       ]
     },
     {
@@ -1599,15 +1823,22 @@
         "S"
       ],
       "question": "From the photograph of cells undergoing mitosis (options AP, BQ, CR, DS), state which cell is in prophase.",
-      "status": "pending",
-      "answer": "Missing: the photograph with cells P to S is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Q",
+      "steps": [
+        "Prophase shows condensed chromosomes as a tangle of threads, spread through the cell before they line up.",
+        "Q shows such a tangle in a rounded cell, so Q is in prophase.",
+        "P is metaphase (chromosomes in a band across the middle), R is anaphase (two sets of chromosomes separating) and S is telophase (two separate groups of chromosomes)."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-33.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-34.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-35.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-36.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-37.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q15-3.jpg"
       ]
     },
     {
@@ -1625,15 +1856,21 @@
         "diagram"
       ],
       "question": "In embryo cells interphase lasts an average of nine hours. Using the diagram of relative proportions of the cell cycle, calculate how long cytokinesis would take.",
-      "status": "pending",
-      "answer": "Missing: the diagram of relative proportions of the cell cycle is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.5 hours (30 minutes)",
+      "steps": [
+        "Interphase takes 270 degrees of the circle, which is 9 hours, so 1 degree = 9 / 270 = 0.033 hours.",
+        "Cytokinesis takes 15 degrees = 15 x 0.033 = 0.5 hours."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-33.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-34.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-35.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-36.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-37.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q15-4.jpg"
       ]
     },
     {
@@ -1712,15 +1949,23 @@
         "cancer treatment"
       ],
       "question": "Evaluate the effectiveness of resveratrol, SRT1720 and vincristine in killing cancer cells, using the graph of the investigation.",
-      "status": "pending",
-      "answer": "Missing: the graph of drug effectiveness for Ewing sarcoma is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "SRT1720 with vincristine is the most effective (about 84% killed); vincristine alone kills about 51%, but resveratrol with vincristine (about 32%) is worse than vincristine alone.",
+      "steps": [
+        "Used alone, vincristine is much the most effective drug (about 51% of cancer cells killed), while resveratrol (about 17%) and SRT1720 (about 9%) kill few.",
+        "Adding SRT1720 to vincristine raises the kill from about 51% to about 84%; the error bars do not overlap, so the increase is probably real and this is the best treatment.",
+        "Adding resveratrol to vincristine lowers the kill from about 51% to about 32%, so it makes vincristine less effective.",
+        "The error bar for vincristine alone is large (about 46 to 57%), so that result is less precise; the data do not show effects on healthy cells or side effects, or cover other cancers, so more tests are needed."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-33.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-34.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-35.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-36.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-37.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q15-5.jpg"
       ]
     },
     {
@@ -1737,13 +1982,20 @@
         "nucleus"
       ],
       "question": "From the yeast micrographs (options AJ, BK, CL, DM), state which structure identifies yeast as a eukaryote.",
-      "status": "pending",
-      "answer": "Missing: the labelled yeast micrographs are not in the text, so the letter cannot be matched to the structure.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: J",
+      "steps": [
+        "A eukaryotic cell has membrane-bound organelles such as mitochondria, endoplasmic reticulum or Golgi apparatus, which prokaryotes lack.",
+        "J points to a membrane-bound organelle in the cytoplasm, so it identifies yeast as eukaryotic.",
+        "K and M are the outer wall or membrane layers, which prokaryotes also have, and L is cytoplasm."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-37.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-38.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-39.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q16.jpg"
       ]
     },
     {
@@ -1772,6 +2024,9 @@
         "papers/biology/img/03B-Mitosis-Meiosis-37.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-38.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-39.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q16.jpg"
       ]
     },
     {
@@ -1801,6 +2056,9 @@
         "papers/biology/img/03B-Mitosis-Meiosis-37.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-38.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-39.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q16.jpg"
       ]
     },
     {
@@ -1877,14 +2135,22 @@
         "deduce"
       ],
       "question": "Deduce the effect of age and sex on the number of cases of a cancer, from the graph of cases in a human population.",
-      "status": "pending",
-      "answer": "Missing: the graph of cancer cases by age and sex is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Cases rise with age in both sexes, and males have more cases than females in every age group from 40, the gap widening with age.",
+      "steps": [
+        "Age: there are almost no cases below 40, then the number of cases per 100 000 rises with each older age group.",
+        "Males: increase continuously, from about 25 at 40 to 49 years to about 660 at 80+.",
+        "Females: increase to about 190 at 70 to 79 years, then fall slightly to about 155 at 80+.",
+        "Sex: males have more cases than females in every age group from 40 onwards, for example about 370 v 140 at 60 to 69 and about 660 v 155 at 80+, so the difference grows with age."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-39.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-40.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-41.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-42.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q17.jpg"
       ]
     },
     {
@@ -1902,14 +2168,21 @@
         "graph"
       ],
       "question": "A city has 2 million people, 3% of whom are males over 80. Calculate how many of these males would have this cancer, using the graph.",
-      "status": "pending",
-      "answer": "Missing: the graph value giving the number of cases for males over 80 is not in the text; the male population is 60 000 (2 000 000 x 3%).",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 400 males (396)",
+      "steps": [
+        "Number of males over 80 = 3% of 2 000 000 = 60 000.",
+        "From the graph, males aged 80+ have about 660 cases per 100 000 people.",
+        "Cases = 60 000 / 100 000 x 660 = 396, so about 400 (accept 390 to 400)."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-39.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-40.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-41.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-42.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q17.jpg"
       ]
     },
     {
@@ -2016,14 +2289,22 @@
         "prophase"
       ],
       "question": "Explain how preventing the condensation of chromosomes would affect the survival of a patient with this cancer, using the graph of mitotic index against percentage survival.",
-      "status": "pending",
-      "answer": "Missing: the graph of mitotic index against percentage survival is not in the text, so the trend cannot be read.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Preventing chromosome condensation would stop mitosis, lowering the mitotic index and so increasing survival (for example about 65% v 42% at 250 weeks).",
+      "steps": [
+        "Chromosomes must condense in prophase so that they can be separated by the spindle; if they cannot condense, mitosis cannot be completed and the cancer cells cannot divide.",
+        "The tumour would grow more slowly and fewer cells would be in mitosis, so the mitotic index would fall.",
+        "The graph shows that patients with a low mitotic index have higher survival than those with a high one (about 65% v 42% at 250 weeks, and about 88% v 62% at 100 weeks).",
+        "So the treatment should increase the percentage survival of patients."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-39.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-40.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-41.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-42.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q17-2.jpg"
       ]
     },
     {
@@ -2070,14 +2351,23 @@
         "row"
       ],
       "question": "Which row shows the correct sequence of the photographed stages in the cell cycle?",
-      "status": "pending",
-      "answer": "Missing: the photographs and the table of sequence options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: V, Z, X, Y, W",
+      "steps": [
+        "V is interphase: a round nucleus with a nucleolus and no visible chromosomes.",
+        "Z is prophase (chromosomes condensing, nuclear envelope breaking down), X is metaphase (chromosomes in the middle of the cell) and Y is anaphase (chromatids pulled to opposite poles).",
+        "W is telophase, with two nuclei forming at the poles.",
+        "The sequence V, Z, X, Y, W is row C."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-42.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-43.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-44.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-45.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q18.jpg",
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q18-2.jpg"
       ]
     },
     {
@@ -2094,14 +2384,21 @@
         "image size"
       ],
       "question": "Calculate the magnification of photograph W using the scale bar.",
-      "status": "pending",
-      "answer": "Missing: the scale bar and photograph W are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About x 750 (accept about 700 to 800)",
+      "steps": [
+        "The scale bar represents 24 um; measured on the paper (printed at A4 size) it is about 18 mm long.",
+        "Convert to micrometres: 18 mm = 18 000 um.",
+        "Magnification = image length / actual length = 18 000 / 24 = 750, so about x 750."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-42.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-43.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-44.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-45.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q18.jpg"
       ]
     },
     {
@@ -2354,13 +2651,20 @@
         "vesicles"
       ],
       "question": "From the electron micrograph of an organelle (options A formation of lysosomes, B formation of microtubules, C formation of ribosomal RNA, D formation of vesicles), state the correct function.",
-      "status": "pending",
-      "answer": "Missing: the two electron micrograph views of the organelle are not in the text, so its identity and function cannot be determined.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: formation of microtubules",
+      "steps": [
+        "The two views show a short cylinder with parallel ridges, and a ring made of nine triplets of dots (microtubules).",
+        "This is a centriole, which has a 9 + 0 triplet arrangement of microtubules.",
+        "Centrioles organise the formation of microtubules (spindle fibres), so the answer is B."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-47.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-48.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q20.jpg"
       ]
     },
     {
@@ -2377,13 +2681,19 @@
         "difference"
       ],
       "question": "Suggest why the two views of the organelle in the electron micrographs look different.",
-      "status": "pending",
-      "answer": "Missing: the two electron micrograph views are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The two views are sections cut at different angles: one lengthways (side view) and one across (end view).",
+      "steps": [
+        "A centriole is a three-dimensional cylinder, and the electron microscope shows a thin slice of it.",
+        "A section cut along its length shows the cylinder with parallel microtubule lines, while a section cut across it shows a ring of nine triplets."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-47.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-48.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q20.jpg"
       ]
     },
     {
@@ -2401,13 +2711,21 @@
         "plant cell"
       ],
       "question": "Draw the cell shown in telophase so that it shows metaphase of mitosis.",
-      "status": "pending",
-      "answer": "Missing: the telophase diagram to be redrawn is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Draw one large cell with no nuclear envelope, a spindle between two centrioles at the poles, and four X-shaped chromosomes (two long, two short) lined up across the middle (equator).",
+      "steps": [
+        "Draw a single undivided cell (an oval or circle, without the narrow waist), because cytokinesis has not started.",
+        "Draw the four chromosomes each as two sister chromatids joined at a centromere (X shape), with two long and two short, and shade them like those in the telophase cell.",
+        "Place the centromeres in a line across the middle of the cell, with no nuclear envelope.",
+        "Draw spindle fibres from the centrioles at the two poles to the centromeres."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-47.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-48.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q20-2.jpg"
       ]
     },
     {
@@ -2454,13 +2772,20 @@
         "diagram"
       ],
       "question": "Using the diagram of relative proportions of the cell cycle, and given that cytokinesis takes 20 minutes, calculate how long interphase takes in hours.",
-      "status": "pending",
-      "answer": "Missing: the diagram of relative proportions of time in each stage is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "6 hours",
+      "steps": [
+        "Cytokinesis is 15 degrees of the circle and takes 20 minutes, so 1 degree = 20 / 15 = 1.33 minutes.",
+        "Interphase is 270 degrees = 270 x 1.33 = 360 minutes.",
+        "360 minutes = 6 hours."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-47.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-48.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q20-3.jpg"
       ]
     },
     {
@@ -2505,14 +2830,20 @@
         "drawing"
       ],
       "question": "Complete the labelled sperm cell diagram by drawing and labelling a flagellum and an acrosome.",
-      "status": "pending",
-      "answer": "Missing: the partly labelled sperm diagram is not in the text, so the drawing cannot be checked.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Draw a long thin tail (flagellum) continuing from the left end of the midpiece, and a cap (acrosome) over the front tip of the head on the right; label both.",
+      "steps": [
+        "The midpiece is on the left and the head is on the right, so draw the flagellum as a long, thin tail extending to the left from the end of the midpiece, and label it flagellum.",
+        "Draw the acrosome as a small cap over the front tip of the head (the right end), and label it acrosome."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-49.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-50.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-51.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-52.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q21.jpg"
       ]
     },
     {
@@ -2543,6 +2874,9 @@
         "papers/biology/img/03B-Mitosis-Meiosis-50.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-51.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-52.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q21.jpg"
       ]
     },
     {
@@ -2560,14 +2894,21 @@
         "relationship"
       ],
       "question": "Give two conclusions that can be drawn from the graph of midpiece length against swimming speed of mouse sperm cells.",
-      "status": "pending",
-      "answer": "Missing: the graph of midpiece length against swimming speed is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Males that mate with more than one female have faster sperm than those that mate with one female; there is a weak positive correlation between midpiece length and swimming speed.",
+      "steps": [
+        "Sperm from males that mate with more than one female swim faster on average (about 6.8 um s^-1, crosses) than those from males that mate with only one female (about 5.6 um s^-1, dots).",
+        "In both groups there is a weak positive correlation: longer midpiece goes with faster swimming speed, probably because there are more mitochondria making ATP, but the points are widely scattered.",
+        "The midpiece lengths of the two groups overlap (about 21.3 to 22.6 um), so midpiece length alone does not explain the difference in speed."
+      ],
       "images": [
         "papers/biology/img/03B-Mitosis-Meiosis-49.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-50.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-51.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-52.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q21-2.jpg"
       ]
     },
     {
@@ -2598,6 +2939,9 @@
         "papers/biology/img/03B-Mitosis-Meiosis-50.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-51.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-52.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q21-2.jpg"
       ]
     }
   ]

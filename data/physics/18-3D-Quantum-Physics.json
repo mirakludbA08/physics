@@ -79,12 +79,20 @@
         "Planck"
       ],
       "question": "Using the hydrogen energy level diagram, determine the transition that releases a photon of frequency 7.48e13 Hz.",
-      "status": "pending",
-      "answer": "Pending: hydrogen energy level diagram is missing from the text (the photon energy works out to about 0.31 eV).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Transition from -0.54 eV to -0.85 eV.",
+      "steps": [
+        "Photon energy E = hf = 6.63 x 10^-34 x 7.48 x 10^13 = 4.96 x 10^-20 J.",
+        "In eV: 4.96 x 10^-20 / 1.60 x 10^-19 = 0.31 eV.",
+        "Look for two levels 0.31 eV apart: -0.54 - (-0.85) = 0.31 eV.",
+        "A photon is released when the electron falls, so the transition is from -0.54 eV down to -0.85 eV."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-02.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q3.jpg"
       ]
     },
     {
@@ -157,10 +165,14 @@
         "output power",
         "calculation"
       ],
-      "question": "Which expression calculates the maximum efficiency of a solar panel of area 1.54 m^2, incident intensity 1050 W m^-2 and maximum output 250 W?",
-      "status": "pending",
-      "answer": "Pending: answer options (A to D) are missing from the text.",
-      "steps": [],
+      "question": "A solar panel has a surface area of 1.54 m^2. The intensity of radiation incident on the Earth's surface is 1050 W m^-2. The manufacturer states that the maximum output power of the solar panel is 250 W. Which could be used to calculate the maximum efficiency of the solar panel? A (250 x 1.54) / 1050; B 1050 / (250 x 1.54); C (1050 x 1.54) / 250; D 250 / (1050 x 1.54).",
+      "status": "ready",
+      "answer": "D: 250 / (1050 x 1.54) = 0.155 (15.5 %).",
+      "steps": [
+        "Efficiency = useful power output / total power input.",
+        "Power input = intensity x area = 1050 x 1.54 W.",
+        "So efficiency = 250 / (1050 x 1.54), about 0.155. The other options invert the ratio or multiply the output by the area."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-04.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
@@ -299,13 +311,19 @@
         "ultraviolet",
         "metal surface"
       ],
-      "question": "Which pair of graphs shows how photoelectron emission rate N and maximum KE Ek vary with intensity I of UV light on a metal?",
-      "status": "pending",
-      "answer": "Pending: the graph options are missing from the text.",
-      "steps": [],
+      "question": "Ultraviolet light is incident on a metal surface and photoelectrons are released. The number of photoelectrons released per second is N and the maximum kinetic energy of the released electrons is E_k. Which pair of graphs shows how N and E_k vary with the intensity I of the incident light? A N constant, E_k increases linearly with I; B N increases linearly with I (through the origin), E_k constant; C N and E_k both increase linearly with I; D N and E_k both constant.",
+      "status": "ready",
+      "answer": "B: N is proportional to I and E_k is constant.",
+      "steps": [
+        "Higher intensity means more photons arriving per second. Each photon releases at most one electron, so N is proportional to I (a straight line through the origin).",
+        "The maximum kinetic energy E_k = hf - phi depends on the photon frequency and the work function only, not on the number of photons, so it stays constant as I changes."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-06.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-07.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q8.jpg"
       ]
     },
     {
@@ -322,13 +340,20 @@
         "electron",
         "wave particle duality"
       ],
-      "question": "Determine whether the student's statement about the speed of the car is mathematically correct, given electron speed 1.5e7 m/s and car mass 900 kg.",
-      "status": "pending",
-      "answer": "Pending: the student's statement is missing from the text, so it cannot be checked.",
-      "steps": [],
+      "question": "A student writes: \"If every particle has a de Broglie wavelength, it should be possible for a moving car to have the same de Broglie wavelength as a fast moving electron, although the car would be moving very slowly.\" Determine whether the student's statement about the speed of the car is mathematically correct. Speed of electron = 1.5 x 10^7 m s^-1; mass of car = 900 kg.",
+      "status": "ready",
+      "answer": "The statement is correct: the car would need a speed of about 1.5 x 10^-26 m s^-1, which is extremely slow.",
+      "steps": [
+        "De Broglie wavelength lambda = h / (m v), so equal wavelengths need equal momentum: m_car v_car = m_e v_e.",
+        "v_car = m_e v_e / m_car = (9.11 x 10^-31 x 1.5 x 10^7) / 900.",
+        "v_car = 1.5 x 10^-26 m s^-1, an extremely small speed (effectively stationary), so the student is right."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-07.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q9.jpg"
       ]
     },
     {
@@ -399,13 +424,20 @@
         "photon energy",
         "table"
       ],
-      "question": "Light of frequency 6.32e15 Hz gives photoelectrons with maximum KE 3.60e-18 J. Determine which of four metals (work function table) is illuminated.",
-      "status": "pending",
-      "answer": "Pending: the work function table is missing from the text. Calculated work function is 5.90e-19 J (3.69 eV).",
-      "steps": [],
+      "question": "The work functions of four metals are: potassium 3.62 x 10^-19 J, magnesium 5.89 x 10^-19 J, tungsten 7.18 x 10^-19 J, iron 7.41 x 10^-19 J. When light with a frequency of 6.32 x 10^15 Hz is incident on a metal, photoelectrons are released with a maximum kinetic energy of 3.60 x 10^-18 J. Determine which of the four metals the light is incident on.",
+      "status": "ready",
+      "answer": "Magnesium.",
+      "steps": [
+        "Photon energy = hf = 6.63 x 10^-34 x 6.32 x 10^15 = 4.19 x 10^-18 J.",
+        "phi = hf - E_k(max) = 4.19 x 10^-18 - 3.60 x 10^-18 = 5.90 x 10^-19 J.",
+        "This matches the work function of magnesium (5.89 x 10^-19 J)."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-08.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-09.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q10.jpg"
       ]
     },
     {
@@ -423,12 +455,20 @@
         "classical wave"
       ],
       "question": "UV intensity 38.0 mW m^-2 is absorbed over 8.10e-20 m^2 by a potassium atom. Calculate the time for the atom to absorb enough energy to release an electron.",
-      "status": "pending",
-      "answer": "Pending: the work function of potassium is in the missing table. Use t = phi / (I x A), where I x A = 3.08e-21 W.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Time taken = 1.2 x 10^2 s (about 118 s).",
+      "steps": [
+        "The work function of potassium (from the table) is 3.62 x 10^-19 J.",
+        "Intensity = 38.0 mW m^-2 = 3.80 x 10^-2 W m^-2. Power absorbed by the atom = I x A = 3.80 x 10^-2 x 8.10 x 10^-20 = 3.08 x 10^-21 W.",
+        "t = energy / power = 3.62 x 10^-19 / 3.08 x 10^-21 = 118 s.",
+        "The wave model predicts a delay of about two minutes, whereas emission is observed to be instant."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-08.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-09.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q10.jpg"
       ]
     },
     {
@@ -527,12 +567,20 @@
         "sketch"
       ],
       "question": "Sketch a graph of intensity against position along line AB across the circular diffraction pattern.",
-      "status": "pending",
-      "answer": "Pending: the diffraction pattern close-up and line AB are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A symmetrical graph with a tall central maximum at the middle of AB and weaker outer maxima that decrease in height away from the centre, with zero intensity between them.",
+      "steps": [
+        "The centre of AB is the position of greatest intensity: draw one tall peak there.",
+        "On each side the intensity falls to about zero (dark ring) and then rises to a much smaller secondary maximum.",
+        "Each further maximum is lower than the one before it, so the peak heights decrease outwards.",
+        "The graph is symmetrical about the centre, and the central peak is about twice as wide as the secondary peaks."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-10.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q12.jpg"
       ]
     },
     {
@@ -866,13 +914,21 @@
         "125 s",
         "energy use"
       ],
-      "question": "Assess whether one kettle boil (1200 W for 125 s) uses less than 1% of the total energy shown on the smart meter display.",
-      "status": "pending",
-      "answer": "Pending: the smart meter display value is missing. Kettle energy = 1200 x 125 = 1.5e5 J = 0.0417 kWh.",
-      "steps": [],
+      "question": "The display of the smart meter in one household shows the total electrical energy used in one day: 6.85 kWh. 1 kW h is a unit of energy equivalent to 1 kW of power used for 1 hour. The kettle in this house has a power of 1200 W. The kettle takes 125 seconds to heat the water to boiling, then switches off. A student suggests that boiling the kettle once uses less than 1% of the total energy shown on the smart meter display. Assess the student's suggestion.",
+      "status": "ready",
+      "answer": "The suggestion is correct: one boil uses about 0.61 % of the 6.85 kWh.",
+      "steps": [
+        "Energy used by the kettle = P t = 1200 W x 125 s = 1.5 x 10^5 J (0.0417 kWh).",
+        "Total energy on the display = 6.85 kWh = 6.85 x 3.6 x 10^6 J = 2.47 x 10^7 J.",
+        "Fraction = 1.5 x 10^5 / 2.47 x 10^7 = 0.0061 = 0.61 %.",
+        "0.61 % is less than 1 %, so the student is correct."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-16.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-17.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q17.jpg"
       ]
     },
     {
@@ -948,10 +1004,14 @@
         "light sensor",
         "inverse square"
       ],
-      "question": "A bulb of efficiency 12% is 2.0 m above a sensor reading 0.14 W m^-2. Which expression gives the bulb's power?",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the text.",
-      "steps": [],
+      "question": "A light bulb with an efficiency of 12% is positioned 2.0 m above a light sensor. The intensity of light at the light sensor is 0.14 W m^-2. Which could be used to calculate the power of the light bulb? A (0.14) x (0.12) x (4 pi) x (2.0)^2; B (0.14) x (4 pi) x (2.0)^2 / 0.12; C (0.14) x (0.12) x (pi) x (2.0)^2; D (0.14) x (pi) x (2.0)^2 / 0.12.",
+      "status": "ready",
+      "answer": "B: P = (0.14 x 4 pi x 2.0^2) / 0.12 = 59 W.",
+      "steps": [
+        "The light spreads out over a sphere of radius 2.0 m, so the light power emitted P_light = I x 4 pi r^2 = 0.14 x 4 pi x 2.0^2 = 7.0 W.",
+        "Only 12 % of the electrical power is emitted as light, so P_bulb = P_light / 0.12.",
+        "P_bulb = 0.14 x 4 pi x 2.0^2 / 0.12 = 59 W."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-18.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-19.jpg"
@@ -1028,12 +1088,19 @@
         "diagram"
       ],
       "question": "Which wavefront diagram (A to D, gaps of different sizes) shows diffracted wavefronts that are not semicircular?",
-      "status": "pending",
-      "answer": "Pending: the wavefront diagrams A to D are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: the gap is much wider than the wavelength, so the diffracted wavefronts are not semicircular.",
+      "steps": [
+        "Diffracted wavefronts are semicircular only when the gap is about the size of the wavelength or smaller.",
+        "In A the gap is about equal to the wavelength, and in C it is narrower than the wavelength, so both spread out in semicircles. In D the gap is only about 1.5 wavelengths.",
+        "In B the wavefronts are close together (short wavelength) and the gap is about four wavelengths wide, so most of the wavefront passes straight through with only slight bending at the edges."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-19.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-20.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q21.jpg"
       ]
     },
     {
@@ -1305,10 +1372,13 @@
         "options",
         "momentum"
       ],
-      "question": "A moving electron has de Broglie wavelength 656 nm. Which expression could be used to find its speed?",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the text.",
-      "steps": [],
+      "question": "A moving electron has a de Broglie wavelength of 656 nm. Which could be used to determine the speed of the electron? A 6.63 x 10^-34 / ((656 x 10^-9)(9.11 x 10^-31)); B (656 x 10^-9)(9.11 x 10^-31) / 6.63 x 10^-34; C (656 x 10^-9)(6.63 x 10^-34) / 9.11 x 10^-31; D 9.11 x 10^-31 / ((656 x 10^-9)(6.63 x 10^-34)).",
+      "status": "ready",
+      "answer": "A: v = h / (m lambda) = 6.63 x 10^-34 / ((656 x 10^-9)(9.11 x 10^-31)).",
+      "steps": [
+        "de Broglie: lambda = h / (m v), so v = h / (m lambda).",
+        "Substituting h = 6.63 x 10^-34 J s, m = 9.11 x 10^-31 kg and lambda = 656 x 10^-9 m gives option A (about 1.1 x 10^3 m s^-1)."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-24.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-25.jpg"
@@ -1359,13 +1429,21 @@
         "shift"
       ],
       "question": "Explain what change the student made to the microphone position between Photograph 2 and Photograph 3.",
-      "status": "pending",
-      "answer": "Pending: Photographs 2 and 3 (oscilloscope traces) are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The microphone was moved along the line by a whole number of wavelengths (for example one wavelength) towards or away from the loudspeaker, since the traces are in antiphase again.",
+      "steps": [
+        "In Photograph 2 the peaks of one trace are directly above the troughs of the other: the traces are in antiphase (phase difference 180 deg).",
+        "In Photograph 3 the traces are again in antiphase (each peak is over a trough of the other trace), so the phase difference is unchanged.",
+        "The phase difference only repeats when the path from loudspeaker to microphone changes by a whole number of wavelengths (moving by half a wavelength would turn antiphase into in phase).",
+        "So the microphone was moved a distance of one wavelength (or n wavelengths) along the line, which is how the wavelength can be measured."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-25.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-26.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-27.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q28.jpg"
       ]
     },
     {
@@ -1411,12 +1489,21 @@
         "student statements"
       ],
       "question": "Explain the conclusions that can be drawn from the student's statements about photoelectric emission from copper and zinc with sources A (2.0 eV) and B (4.4 eV).",
-      "status": "pending",
-      "answer": "Pending: the student's statements are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Photon energy must exceed the work function for electrons to be released, so there is a threshold: 2.0 eV is below both work functions; 4.4 eV is above the work function of zinc but below that of copper; intensity changes the rate of emission, not whether emission occurs. This supports the photon (particle) model of light.",
+      "steps": [
+        "Source A (2.0 eV): no electrons from either metal, however intense, so 2.0 eV is less than the work function of both copper and zinc. A photon gives all its energy to one electron, so raising the intensity (more photons) cannot help.",
+        "Source B (4.4 eV) releases electrons from zinc but not copper: so phi(zinc) is less than 4.4 eV and phi(copper) is greater than 4.4 eV. Different metals have different work functions.",
+        "Putting these together: 2.0 eV < phi(zinc) < 4.4 eV < phi(copper) (zinc is 4.30 eV).",
+        "Increasing the intensity of B on zinc means more photons per second, so more electrons per second are released (rate proportional to intensity).",
+        "Conclusion: emission depends on photon energy (frequency) exceeding the work function, not on intensity. This cannot be explained by the wave model, where energy would build up, but fits light as photons with energy hf."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-27.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-28.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q29.jpg"
       ]
     },
     {
@@ -1433,12 +1520,19 @@
         "smallest energy difference"
       ],
       "question": "Which of four electron transitions (A to D) emits a photon with the longest wavelength?",
-      "status": "pending",
-      "answer": "Pending: the transition diagram and options are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A.",
+      "steps": [
+        "A photon is emitted only when an electron drops to a lower level, so only the downward arrows A and B are emissions (C and D are upward: absorption).",
+        "Photon energy = hc / lambda, so the longest wavelength comes from the smallest energy gap.",
+        "A is the smaller drop (top level to the middle level), while B is a larger drop to the ground state, so A has the least energy and the longest wavelength."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-28.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-29.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q30.jpg"
       ]
     },
     {
@@ -1455,12 +1549,19 @@
         "particle behaviour"
       ],
       "question": "Explain how the pattern produced when electrons pass through a thin metal foil is evidence for wave rather than particle behaviour.",
-      "status": "pending",
-      "answer": "Pending: the pattern image is missing from the text (expected: concentric rings from diffraction, as in Q55).",
-      "steps": [],
+      "status": "ready",
+      "answer": "The pattern is a set of concentric bright and dark rings, which is a diffraction pattern; diffraction and interference occur only for waves, so the electrons are behaving as waves.",
+      "steps": [
+        "The screen shows concentric rings of alternating bright and dark regions, a diffraction pattern.",
+        "The electrons are diffracted by the regularly spaced atoms in the foil (spacing similar to their de Broglie wavelength), and the diffracted waves interfere: constructively at the bright rings, destructively at the dark rings.",
+        "Particles would pass straight through, or scatter randomly, giving a central spot or a diffuse patch rather than a pattern of maxima and minima. Diffraction and interference are wave properties, so this is evidence of wave behaviour."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-29.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q31.jpg"
       ]
     },
     {
@@ -1478,12 +1579,20 @@
         "bright dot"
       ],
       "question": "A grating of 450 lines/mm produces the next bright dot at X. Determine the laser wavelength from the diagram.",
-      "status": "pending",
-      "answer": "Pending: the diagram giving the position of X and screen distance is missing. Grating spacing d = 1/450 mm = 2.22e-6 m.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Wavelength = 6.3 x 10^-7 m (630 nm).",
+      "steps": [
+        "Line spacing d = 1 / (450 x 10^3 lines per m) = 2.22 x 10^-6 m.",
+        "X is the first order maximum (n = 1): tan theta = 0.500 / 1.690, so theta = 16.5 deg.",
+        "lambda = d sin theta / n = 2.22 x 10^-6 x sin 16.5 deg = 2.22 x 10^-6 x 0.2837.",
+        "lambda = 6.30 x 10^-7 m = 630 nm."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-30.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-31.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q32.jpg"
       ]
     },
     {
@@ -1584,14 +1693,24 @@
         "zinc",
         "wavelength bands"
       ],
-      "question": "Electrons released from zinc have minimum de Broglie wavelength 1.50e-9 m; zinc work function 4.30 eV. Deduce whether the UV is UVA, UVB or UVC (band table missing).",
-      "status": "pending",
-      "answer": "Pending: the UV band wavelength table is missing. Calculated photon wavelength is about 250 nm (max KE 0.67 eV, photon energy 4.97 eV).",
-      "steps": [],
+      "question": "Ultraviolet light is incident on a zinc plate. The UV section is split into UVC (200-280 nm), UVB (280-320 nm) and UVA (320-400 nm). The minimum de Broglie wavelength of the released electrons is 1.50 x 10^-9 m. Deduce whether the ultraviolet light incident on the zinc plate is UVA, UVB or UVC. Work function of zinc = 4.30 eV.",
+      "status": "ready",
+      "answer": "UVC (the wavelength is about 250 nm).",
+      "steps": [
+        "The shortest de Broglie wavelength belongs to the electrons with the greatest momentum, i.e. the maximum kinetic energy.",
+        "p = h / lambda = 6.63 x 10^-34 / 1.50 x 10^-9 = 4.42 x 10^-25 kg m s^-1.",
+        "E_k(max) = p^2 / 2m = (4.42 x 10^-25)^2 / (2 x 9.11 x 10^-31) = 1.07 x 10^-19 J = 0.67 eV.",
+        "Photon energy = phi + E_k(max) = 4.30 + 0.67 = 4.97 eV = 7.95 x 10^-19 J.",
+        "lambda = hc / E = 6.63 x 10^-34 x 3.00 x 10^8 / 7.95 x 10^-19 = 2.50 x 10^-7 m = 250 nm.",
+        "250 nm lies in the range 200-280 nm, so the light is UVC."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-31.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-32.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-33.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q33.jpg"
       ]
     },
     {
@@ -1608,14 +1727,22 @@
         "gradient",
         "intercept"
       ],
-      "question": "Describe two ways the student's graph of KE max against frequency for zinc is inconsistent with known zinc values (work function 4.30 eV).",
-      "status": "pending",
-      "answer": "Pending: the graph is missing from the text.",
-      "steps": [],
+      "question": "A student used a zinc plate and UV light of different frequencies. The graph of maximum kinetic energy (eV) against frequency (x 10^14 Hz) is a straight line through (7.5, 0), (9.0, 2), (10.5, 4), (12.0, 6), (13.5, 8) and (15.0, 10). Einstein's photoelectric equation hf = phi + (1/2)mv^2 applies. Describe two ways that the graph is not consistent with the values known for a zinc plate. Your answer should include calculations. Work function of zinc = 4.30 eV.",
+      "status": "ready",
+      "answer": "(1) The threshold frequency is 7.5 x 10^14 Hz on the graph (phi = 3.1 eV) but should be 1.04 x 10^15 Hz for phi = 4.30 eV. (2) The gradient is 1.33 x 10^-14 eV s (2.1 x 10^-33 J s), more than three times the Planck constant (4.14 x 10^-15 eV s).",
+      "steps": [
+        "The gradient of a graph of E_k against f should equal h = 6.63 x 10^-34 J s = 4.14 x 10^-15 eV s, i.e. 0.414 eV per 10^14 Hz.",
+        "The graph's gradient is 10 eV / (15.0 - 7.5) x 10^14 Hz = 1.33 x 10^-14 eV s = 2.1 x 10^-33 J s, about 3.2 times too big.",
+        "The intercept on the frequency axis is the threshold frequency f0 = phi / h. With phi = 4.30 eV it should be 4.30 / 4.14 x 10^-15 = 1.04 x 10^15 Hz (10.4 x 10^14 Hz).",
+        "The graph has f0 = 7.5 x 10^14 Hz, which corresponds to phi = h f0 = 4.14 x 10^-15 x 7.5 x 10^14 = 3.1 eV, not 4.30 eV. (Also, at 15.0 x 10^14 Hz E_k should be 6.2 - 4.3 = 1.9 eV, not 10 eV.)"
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-31.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-32.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-33.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q33-2.jpg"
       ]
     },
     {
@@ -1691,13 +1818,22 @@
         "wavelength table"
       ],
       "question": "Deduce the colour of visible light absorbed when an electron is excited from -3.40 eV to -1.50 eV in hydrogen (colour wavelength table missing).",
-      "status": "pending",
-      "answer": "Pending: the colour wavelength table is missing. Energy 1.90 eV gives wavelength about 654 nm.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Red light (wavelength about 654 nm).",
+      "steps": [
+        "The energy absorbed = -1.50 - (-3.40) = 1.90 eV = 1.90 x 1.60 x 10^-19 = 3.04 x 10^-19 J.",
+        "The photon energy equals the energy gap, so lambda = hc / E = 6.63 x 10^-34 x 3.00 x 10^8 / 3.04 x 10^-19.",
+        "lambda = 6.54 x 10^-7 m = 654 nm.",
+        "654 nm lies in the range 620-750 nm, so the light is red."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-34.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-35.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-36.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q36.jpg",
+        "papers/physics/fig/18-3D-Quantum-Physics-Q36-2.jpg"
       ]
     },
     {
@@ -1772,10 +1908,14 @@
         "expression",
         "power of the Sun"
       ],
-      "question": "Sun-Mercury distance 4.60e10 m, intensity 1.45e4 W m^-2. Which expression gives the Sun's power?",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the text. Expected form: P = 4 pi r^2 I.",
-      "steps": [],
+      "question": "When the distance between the Sun and the planet Mercury is 4.60 x 10^10 m, the intensity of solar radiation at the surface of Mercury is 1.45 x 10^4 W m^-2. Which expression gives the power of the Sun? A (1.45 x 10^4)(pi)(4.60 x 10^10)^2; B (1.45 x 10^4)(4 pi)(4.60 x 10^10)^2; C (1.45 x 10^4) / ((pi)(4.60 x 10^10)^2); D (1.45 x 10^4) / ((4 pi)(4.60 x 10^10)^2).",
+      "status": "ready",
+      "answer": "B: P = I x 4 pi r^2 = (1.45 x 10^4)(4 pi)(4.60 x 10^10)^2 (about 3.9 x 10^26 W).",
+      "steps": [
+        "Intensity = power / area, so P = I x A.",
+        "The Sun radiates equally in all directions, so at distance r the power is spread over a sphere of area 4 pi r^2.",
+        "P = (1.45 x 10^4)(4 pi)(4.60 x 10^10)^2, which is option B."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-36.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-37.jpg"
@@ -1796,12 +1936,19 @@
         "options"
       ],
       "question": "Which could NOT have caused the electron transition shown in the hydrogen diagram (A: absorb 13.6 eV photon; B: absorb 10.2 eV photon; C: 13.6 eV electron collision; D: 10.2 eV electron collision)?",
-      "status": "pending",
-      "answer": "Pending: the energy level diagram showing the transition is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: the atom absorbing a photon with an energy of 13.6 eV.",
+      "steps": [
+        "The transition is from -13.6 eV to -3.4 eV, which needs 13.6 - 3.4 = 10.2 eV.",
+        "An atom can only absorb a photon whose energy exactly matches an energy gap, so a 10.2 eV photon (B) can do it, but a 13.6 eV photon (A) does not match this gap and cannot cause it.",
+        "An electron colliding with the atom can transfer part of its kinetic energy, so electrons of 10.2 eV (D) or 13.6 eV (C) could both excite the atom (the 13.6 eV electron keeps the extra 3.4 eV)."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-36.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-37.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q38.jpg"
       ]
     },
     {
@@ -1817,10 +1964,13 @@
         "momentum",
         "options"
       ],
-      "question": "The de Broglie wavelength of a moving electron is 5.47e-10 m. Which expression gives its speed?",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the text. Expected: v = h / (m lambda), which gives 1.33e6 m s-1.",
-      "steps": [],
+      "question": "The de Broglie wavelength for a moving electron is 5.47 x 10^-10 m. Which expression gives the speed of the electron in m s^-1? A 6.63 x 10^-34 / ((9.11 x 10^-31)(5.47 x 10^-10)); B 6.63 x 10^-34 / ((1.60 x 10^-19)(5.47 x 10^-10)); C (9.11 x 10^-31)(5.47 x 10^-10) / 6.63 x 10^-34; D (1.60 x 10^-19)(5.47 x 10^-10) / 6.63 x 10^-34.",
+      "status": "ready",
+      "answer": "A: v = h / (m lambda) = 6.63 x 10^-34 / ((9.11 x 10^-31)(5.47 x 10^-10)) = 1.33 x 10^6 m s^-1.",
+      "steps": [
+        "lambda = h / (m v), so v = h / (m lambda).",
+        "The mass needed is the electron mass 9.11 x 10^-31 kg (not the charge 1.60 x 10^-19 C), which gives option A."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-37.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-38.jpg"
@@ -1867,13 +2017,21 @@
         "threshold",
         "identify source"
       ],
-      "question": "Electrons from magnesium (work function 3.68 eV) have speed 5.70e5 m/s. Deduce which of sources A, B, C (frequency table missing) was used.",
-      "status": "pending",
-      "answer": "Pending: the source frequency table is missing. Calculated photon energy is 4.61 eV (about 1.11e15 Hz).",
-      "steps": [],
+      "question": "The frequencies of three sources of light are: A 1.11 x 10^15 Hz, B 1.23 x 10^15 Hz, C 1.34 x 10^15 Hz. Light from one of the sources was incident on a magnesium plate and electrons were released with a maximum speed of 5.70 x 10^5 m s^-1. Deduce which of the three sources was used. Work function of magnesium = 3.68 eV.",
+      "status": "ready",
+      "answer": "Source A.",
+      "steps": [
+        "E_k(max) = (1/2) m v^2 = 0.5 x 9.11 x 10^-31 x (5.70 x 10^5)^2 = 1.48 x 10^-19 J = 0.925 eV.",
+        "Photon energy = phi + E_k = 3.68 + 0.925 = 4.61 eV = 4.61 x 1.60 x 10^-19 = 7.37 x 10^-19 J.",
+        "f = E / h = 7.37 x 10^-19 / 6.63 x 10^-34 = 1.11 x 10^15 Hz.",
+        "This matches source A."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-38.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-39.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q40.jpg"
       ]
     },
     {
@@ -2083,12 +2241,19 @@
         "expression",
         "options"
       ],
-      "question": "Which expression equals the lowest frequency of light possible from a transition between the hydrogen levels shown?",
-      "status": "pending",
-      "answer": "Pending: the energy level diagram and options are missing from the text.",
-      "steps": [],
+      "question": "The diagram shows some of the energy levels for a hydrogen atom: 0, -1.36 x 10^-19 J, -2.42 x 10^-19 J and -5.42 x 10^-19 J. Which expression is equal to the lowest frequency of light possible from a transition between these energy levels? A 5.42 x 10^-19 / 6.63 x 10^-34; B 1.36 x 10^-19 / 6.63 x 10^-34; C (2.42 x 10^-19 + 1.36 x 10^-19) / 6.63 x 10^-34; D (2.42 x 10^-19 - 1.36 x 10^-19) / 6.63 x 10^-34.",
+      "status": "ready",
+      "answer": "D: (2.42 x 10^-19 - 1.36 x 10^-19) / 6.63 x 10^-34.",
+      "steps": [
+        "f = Delta E / h, so the lowest frequency comes from the smallest energy gap.",
+        "The gaps (in 10^-19 J) are: 0 to -1.36 = 1.36; -1.36 to -2.42 = 1.06; -2.42 to -5.42 = 3.00 (larger gaps are bigger still).",
+        "The smallest gap is between -1.36 and -2.42: 2.42 - 1.36 = 1.06 x 10^-19 J, giving f = 1.6 x 10^14 Hz. This is option D."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-42.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q44.jpg"
       ]
     },
     {
@@ -2132,13 +2297,21 @@
         "maximum KE",
         "identify metal"
       ],
-      "question": "UV of wavelength 310 nm released electrons with KE max 0.351 eV. Deduce which metal (work function table missing) was most likely used.",
-      "status": "pending",
-      "answer": "Pending: the work function table is missing. Photon energy is 4.01 eV, so the work function is 3.66 eV.",
-      "steps": [],
+      "question": "The table shows work functions (x 10^-19 J): magnesium 5.89, aluminium 6.53, zinc 6.88, iron 7.20. The ultraviolet light used had a wavelength of 310 nm and released electrons with a maximum kinetic energy of 0.351 eV. Deduce which of the metals was most likely to have been used as the metal plate.",
+      "status": "ready",
+      "answer": "Magnesium.",
+      "steps": [
+        "Photon energy = hc / lambda = 6.63 x 10^-34 x 3.00 x 10^8 / 310 x 10^-9 = 6.42 x 10^-19 J (4.01 eV).",
+        "E_k(max) = 0.351 eV = 0.351 x 1.60 x 10^-19 = 5.6 x 10^-20 J.",
+        "phi = photon energy - E_k = 6.42 x 10^-19 - 0.56 x 10^-19 = 5.86 x 10^-19 J (3.66 eV).",
+        "This matches magnesium (5.89 x 10^-19 J). The other metals all have work functions above the photon energy of 6.42 x 10^-19 J, so they would not emit at all."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-43.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-44.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q45.jpg"
       ]
     },
     {
@@ -2468,10 +2641,13 @@
         "momentum",
         "options"
       ],
-      "question": "An electron has de Broglie wavelength 1.55e-9 m. Which expression gives its speed in m/s?",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the text. Expected: v = h / (m lambda), giving about 4.7e5 m s-1.",
-      "steps": [],
+      "question": "An electron has a de Broglie wavelength of 1.55 x 10^-9 m. Which gives the speed, in m s^-1, of this electron? A 9.11 x 10^-31 / (6.63 x 10^-34 x 1.55 x 10^-9); B (1.55 x 10^-9 x 9.11 x 10^-31) / 6.63 x 10^-34; C (6.63 x 10^-34 x 1.55 x 10^-9) / 9.11 x 10^-31; D 6.63 x 10^-34 / (1.55 x 10^-9 x 9.11 x 10^-31).",
+      "status": "ready",
+      "answer": "D: v = h / (m lambda) = 6.63 x 10^-34 / (1.55 x 10^-9 x 9.11 x 10^-31) = 4.7 x 10^5 m s^-1.",
+      "steps": [
+        "lambda = h / (m v), so v = h / (m lambda).",
+        "v = 6.63 x 10^-34 / (9.11 x 10^-31 x 1.55 x 10^-9) = 4.7 x 10^5 m s^-1, which is option D."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-48.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-49.jpg"
@@ -2519,10 +2695,13 @@
         "orbit",
         "expression"
       ],
-      "question": "Earth is 1.49e11 m from the Sun and Jupiter 7.78e11 m. Jupiter's sunlight intensity is IJ. Which expression gives the intensity at Earth?",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the text. Expected: I_E = I_J x (7.78e11 / 1.49e11)^2.",
-      "steps": [],
+      "question": "Earth and Jupiter orbit the Sun. The distance from Earth to the Sun is 1.49 x 10^11 m. The distance from Jupiter to the Sun is 7.78 x 10^11 m. The intensity of sunlight at Jupiter is I_J. Which can be used to calculate the intensity of the sunlight at Earth? A I_J x (7.78 x 10^11)^2 / (1.49 x 10^11)^2; B I_J x 4 pi x (7.78 x 10^11)^2 / (1.49 x 10^11)^2; C I_J x 7.78 x 10^11 / 1.49 x 10^11; D I_J x 4 pi x 7.78 x 10^11 / 1.49 x 10^11.",
+      "status": "ready",
+      "answer": "A: I_E = I_J x (7.78 x 10^11)^2 / (1.49 x 10^11)^2.",
+      "steps": [
+        "Intensity = P / (4 pi r^2), so intensity is inversely proportional to the square of the distance from the Sun.",
+        "I_E / I_J = (r_J / r_E)^2, so I_E = I_J x (7.78 x 10^11 / 1.49 x 10^11)^2 (about 27 times I_J). The factor 4 pi cancels, so B and D are wrong; the square is needed, so C is wrong."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-49.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-50.jpg"
@@ -2912,13 +3091,19 @@
         "expression",
         "emitted photon"
       ],
-      "question": "An electron drops from E2 to E1 emitting a photon of wavelength lambda. Which expression gives E2?",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the text. Expected: E2 = E1 + hc / lambda.",
-      "steps": [],
+      "question": "In an atom, an electron drops from energy level E2 to energy level E1. A photon of wavelength lambda is emitted. Which expression gives the energy E2? A hc/lambda - E1; B hc/lambda + E1; C h lambda/c - E1; D h lambda/c + E1.",
+      "status": "ready",
+      "answer": "B: E2 = hc / lambda + E1.",
+      "steps": [
+        "The photon energy equals the energy lost by the electron: hc / lambda = E2 - E1.",
+        "Rearranging gives E2 = hc / lambda + E1. The photon energy is hc/lambda (not h lambda/c), which rules out C and D."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-56.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-57.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q58.jpg"
       ]
     },
     {
@@ -2988,10 +3173,13 @@
         "momentum",
         "options"
       ],
-      "question": "An electron has de Broglie wavelength 3.5e-10 m. Which expression gives its velocity in m/s?",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the text. Expected: v = h / (m lambda), giving about 2.08e6 m s-1.",
-      "steps": [],
+      "question": "An electron has a de Broglie wavelength of 3.5 x 10^-10 m. Which expression gives the velocity of the electron in m s^-1? A 6.63 x 10^-34 / (9.11 x 10^-31 x 3.5 x 10^-10); B 6.63 x 10^-34 / 3.5 x 10^-10; C (9.11 x 10^-31 x 3.5 x 10^-10) / 6.63 x 10^-34; D 3.5 x 10^-10 / 6.63 x 10^-34.",
+      "status": "ready",
+      "answer": "A: v = h / (m lambda) = 6.63 x 10^-34 / (9.11 x 10^-31 x 3.5 x 10^-10) = 2.1 x 10^6 m s^-1.",
+      "steps": [
+        "lambda = h / (m v), so v = h / (m lambda).",
+        "Option B leaves out the electron mass (it would give momentum, not velocity), and C and D are inverted. So A is correct."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-58.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-59.jpg"
@@ -3011,13 +3199,20 @@
         "options",
         "h"
       ],
-      "question": "Which statement shows how the gradient of the graph of 1/lambda against KE gives Planck's constant h? (graph and options missing)",
-      "status": "pending",
-      "answer": "Pending: the graph and option list are missing from the text.",
-      "steps": [],
+      "question": "Light of wavelength lambda travelling at speed c is incident on a metal surface. Photoelectrons are emitted with a maximum kinetic energy (1/2)mv^2(max). The graph shows 1/lambda (y-axis) against (1/2)mv^2(max) (x-axis), a straight line. Which shows how the gradient can be used to determine the Planck constant h? A h = 1/gradient; B h = 1/(c x gradient); C h = c/gradient; D h = gradient.",
+      "status": "ready",
+      "answer": "B: h = 1 / (c x gradient).",
+      "steps": [
+        "hf = phi + (1/2)mv^2, and f = c / lambda, so hc / lambda = phi + (1/2)mv^2.",
+        "Rearranging: 1/lambda = (1/hc) x (1/2)mv^2 + phi/(hc).",
+        "On a graph of 1/lambda against (1/2)mv^2, the gradient = 1/(hc), so h = 1 / (c x gradient)."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-58.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-59.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q62.jpg"
       ]
     },
     {
@@ -3176,14 +3371,22 @@
         "85.0 kohm",
         "power supply"
       ],
-      "question": "Four 85.0 kohm resistors in a circuit with a switch: supply p.d. 1960 V when open, and 108 V across resistor A when closed. Calculate the internal resistance of the supply.",
-      "status": "pending",
-      "answer": "Pending: the circuit diagram showing how the resistors and switch are connected is missing from the text.",
-      "steps": [],
+      "question": "The circuit has four resistors A, B, C and D in series (each 85.0 kohm) connected across a power supply through a switch. When the switch is open, the p.d. across the power supply is 1960 V. When the switch is closed, the p.d. across resistor A is 108 V. Calculate the internal resistance of the power supply.",
+      "status": "ready",
+      "answer": "Internal resistance = 1.2 x 10^6 ohm (1.20 M ohm).",
+      "steps": [
+        "The e.m.f. is the open-circuit p.d. = 1960 V.",
+        "The current in the series circuit I = V_A / R_A = 108 / 85 000 = 1.27 x 10^-3 A.",
+        "The p.d. across all four resistors (the terminal p.d.) = 4 x 108 = 432 V, so the lost volts = 1960 - 432 = 1528 V.",
+        "r = lost volts / I = 1528 / 1.27 x 10^-3 = 1.2 x 10^6 ohm."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-60.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-61.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-62.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q64.jpg"
       ]
     },
     {
@@ -3200,13 +3403,20 @@
         "particle Y",
         "table"
       ],
-      "question": "Particle X (mass m, velocity v) has de Broglie wavelength lambda; particle Y has wavelength 0.25 lambda. Which table row could give Y's mass and velocity?",
-      "status": "pending",
-      "answer": "Pending: the table of mass and velocity options is missing from the text.",
-      "steps": [],
+      "question": "Particle X of mass m is moving with velocity v and has a de Broglie wavelength lambda. Particle Y has a de Broglie wavelength 0.25 lambda. Which row could give the mass and velocity of particle Y? A 0.25m, v; B 0.5m, 8v; C m, 2v; D 2m, 4v.",
+      "status": "ready",
+      "answer": "B: mass 0.5m and velocity 8v.",
+      "steps": [
+        "lambda = h / (m v), so a wavelength 0.25 times as big needs a momentum 4 times as big: m_Y v_Y = 4 m v.",
+        "B: 0.5m x 8v = 4 m v, which works.",
+        "A gives 0.25 mv, C gives 2 mv and D gives 8 mv, none of which equal 4 mv."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-62.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-63.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q65.jpg"
       ]
     },
     {
@@ -3223,10 +3433,13 @@
         "options",
         "loud sound"
       ],
-      "question": "A student a distance d from a wall hears an echo after time t. Which expression gives the speed of sound?",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the text. Expected: v = 2d / t.",
-      "steps": [],
+      "question": "A student stands a distance d from a wall. She makes a loud sound and hears the echo of the sound from the wall after a time t. Which expression gives the speed of the sound wave? A 2d/t; B d/t; C d/(2t); D 2t/d.",
+      "status": "ready",
+      "answer": "A: v = 2d / t.",
+      "steps": [
+        "The sound travels to the wall and back, a total distance of 2d, in time t.",
+        "speed = distance / time = 2d / t."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-62.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-63.jpg"
@@ -3306,14 +3519,22 @@
         "photocell",
         "kinetic energy"
       ],
-      "question": "With the battery reversed, UV of wavelength 250 nm is incident on the photocell (work function 6.9e-19 J). Deduce whether there is a current.",
-      "status": "pending",
-      "answer": "Pending: the battery's e.m.f. is not given in the text. Max KE is 1.06e-19 J, so the stopping p.d. is 0.66 V; a current needs the battery p.d. to be below 0.66 V.",
-      "steps": [],
+      "question": "The scientist reversed the connections to the 1.5 V battery so that the electrode is at a lower potential than the plate (negligible internal resistance). When photoelectrons have enough kinetic energy to overcome the potential difference across the photocell, there is a current. Ultraviolet light of wavelength 250 nm is incident on the photocell. Work function of the metal plate = 6.9 x 10^-19 J. Deduce whether there is a current in the circuit.",
+      "status": "ready",
+      "answer": "No current: the maximum kinetic energy (1.06 x 10^-19 J, 0.66 eV) is less than the 1.5 eV needed to overcome the 1.5 V p.d.",
+      "steps": [
+        "Photon energy = hc / lambda = 6.63 x 10^-34 x 3.00 x 10^8 / 250 x 10^-9 = 7.96 x 10^-19 J.",
+        "Maximum kinetic energy of the photoelectrons = 7.96 x 10^-19 - 6.9 x 10^-19 = 1.06 x 10^-19 J (0.66 eV).",
+        "With the battery reversed, the electrons are repelled by the electrode. To reach it each needs kinetic energy of at least eV = 1.60 x 10^-19 x 1.5 = 2.40 x 10^-19 J.",
+        "1.06 x 10^-19 J is less than 2.40 x 10^-19 J (equivalent to a stopping p.d. of 0.66 V against 1.5 V), so no electrons cross the gap and there is no current."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-63.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-64.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-65.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q67.jpg"
       ]
     },
     {
@@ -3357,13 +3578,20 @@
         "emission",
         "number of frequencies"
       ],
-      "question": "Photons transfer 8.74e-19 J to electrons in the ground state of mercury atoms. How many different frequencies of light could be emitted? (energy level diagram missing)",
-      "status": "pending",
-      "answer": "Pending: the mercury energy level diagram and options are missing from the text. Photon energy transferred = 5.46 eV.",
-      "steps": [],
+      "question": "The diagram shows the energy needed for an electron in the ground state of a mercury atom to move to different energy levels: 4.91 eV, 5.46 eV, 6.70 eV and 7.73 eV above the ground state. Photons transfer 8.74 x 10^-19 J to electrons in the ground state of mercury atoms. Which gives the number of different frequencies of light that could be emitted? A 1; B 3; C 6; D 10.",
+      "status": "ready",
+      "answer": "B: 3 different frequencies.",
+      "steps": [
+        "The energy transferred in eV = 8.74 x 10^-19 / 1.60 x 10^-19 = 5.46 eV, so electrons are excited to the 5.46 eV level only.",
+        "From the 5.46 eV level an electron can fall to 4.91 eV, or to the ground state; an electron at 4.91 eV can then fall to the ground state.",
+        "The possible transitions are 5.46 to 4.91, 5.46 to 0 and 4.91 to 0: three different photon energies, so three frequencies."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-66.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-67.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q69.jpg"
       ]
     },
     {
@@ -3408,12 +3636,20 @@
         "200 microseconds"
       ],
       "question": "Determine whether the transducer can detect ultrasound reflected from a crack 4.0 cm away in concrete at 23 C, pulse duration 200 us (speed-temperature graph missing).",
-      "status": "pending",
-      "answer": "Pending: the speed of ultrasound against temperature graph is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "No: the echo returns after about 19 microseconds while the 200 microsecond pulse is still being emitted, so the pulses overlap and the crack cannot be detected.",
+      "steps": [
+        "The graph is a straight line from 4000 m s^-1 at 0 deg C to 4200 m s^-1 at 40 deg C, a gradient of 5 m s^-1 per deg C, so at 23 deg C v = 4000 + 5 x 23 = 4115 m s^-1.",
+        "The pulse travels to the crack and back: distance = 2 x 4.0 cm = 0.080 m.",
+        "Time for the echo = 0.080 / 4115 = 1.9 x 10^-5 s = 19 microseconds.",
+        "The pulse lasts 200 microseconds, so the reflected pulse arrives back while the transducer is still sending: the pulses overlap and the reflection cannot be detected."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-67.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-68.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q71.jpg"
       ]
     },
     {
@@ -3574,14 +3810,21 @@
         "130 J",
         "screen area"
       ],
-      "question": "Show that the total energy of UV incident on the glass screen in 25 s is about 130 J, given intensity 50 mW cm^-2 (screen dimensions in diagram).",
-      "status": "pending",
-      "answer": "Pending: the screen dimensions are in the missing diagram. The implied area is about 104 cm^2 (0.0104 m^2).",
-      "steps": [],
+      "question": "A technician replaces the screen on a mobile phone. The equipment and screen dimensions (7.15 cm wide, 14.7 cm long) are shown. The intensity of the UV light received on the screen is 50 mW cm^-2. The glue takes 25 s to harden. Show that the total energy incident on the glass screen during this time is about 130 J.",
+      "status": "ready",
+      "answer": "E = 131 J, which is about 130 J.",
+      "steps": [
+        "Area of the screen = 7.15 cm x 14.7 cm = 105 cm^2.",
+        "Power received = intensity x area = 50 mW cm^-2 x 105 cm^2 = 5260 mW = 5.26 W.",
+        "Energy = power x time = 5.26 W x 25 s = 131 J, about 130 J."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-70.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-71.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-72.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q73.jpg"
       ]
     },
     {
@@ -3685,10 +3928,13 @@
         "photoelectrons per second",
         "statements"
       ],
-      "question": "Which statement about photoelectric emission from a metal is correct? (Options A and B given; options C and D missing from the text.)",
-      "status": "pending",
-      "answer": "Pending: options C and D are missing from the text. Option B is wrong as written, because the number emitted per second depends on intensity, not work function.",
-      "steps": [],
+      "question": "When monochromatic light is incident on the surface of a metal, photoelectrons are emitted. Which statement is correct? A The maximum kinetic energy of the photoelectrons depends on the intensity of the incident light. B The number of photoelectrons emitted per second depends on the frequency of the incident light. C The maximum kinetic energy of the photoelectrons depends on the frequency of the incident light. D The number of photoelectrons emitted per second depends on the work function of the metal.",
+      "status": "ready",
+      "answer": "C: the maximum kinetic energy depends on the frequency of the incident light.",
+      "steps": [
+        "Each photon gives all its energy hf to one electron, so E_k(max) = hf - phi depends on the frequency (and the work function), which makes C correct.",
+        "Intensity only changes the number of photons per second, so A is wrong, and the number of electrons per second depends on the intensity (not on the frequency or the work function), so B and D are wrong."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-72.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-73.jpg"
@@ -3709,12 +3955,19 @@
         "largest energy"
       ],
       "question": "Which transition (arrows A to D on the hydrogen energy level diagram) would emit a photon with the shortest wavelength?",
-      "status": "pending",
-      "answer": "Pending: the energy level diagram with arrows A to D is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A.",
+      "steps": [
+        "A photon is emitted when an electron falls to a lower level, so only A and D (downward arrows) are emissions; B and C are upward (absorption).",
+        "Photon wavelength lambda = hc / Delta E, so the shortest wavelength comes from the largest energy drop.",
+        "A is a drop of 13.6 eV (0 to -13.6) but D is only 3.39 eV (0 to -3.39), so A emits the photon with the shortest wavelength."
+      ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-72.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-73.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/18-3D-Quantum-Physics-Q75.jpg"
       ]
     }
   ]

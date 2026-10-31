@@ -18,13 +18,21 @@
         "table"
       ],
       "question": "Which row of the table shows the colour of each of the three seaweeds?",
-      "status": "pending",
-      "answer": "Pending: the table of seaweed colours is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: U. fasciata green, S. linifolium brown, C. officinalis red.",
+      "steps": [
+        "U. fasciata has by far the most chlorophyll a and b, so chlorophyll hides other pigments and it is green.",
+        "C. officinalis has almost no chlorophyll b and relatively more carotenoids, which fits a red seaweed.",
+        "S. linifolium has less chlorophyll but its carotenoids give it a brown colour.",
+        "Row A is the only row with green, brown and red in this order."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-01.jpg",
         "papers/biology/img/05A-Photosynthesis-02.jpg",
         "papers/biology/img/05A-Photosynthesis-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q1.jpg"
       ]
     },
     {
@@ -99,13 +107,23 @@
         "table of compounds"
       ],
       "question": "Comment on the statement that these seaweeds are a healthy, environmentally friendly and economic food source, using the table and your own knowledge.",
-      "status": "pending",
-      "answer": "Pending: the table of compounds in the two seaweeds is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Partly supported: the table shows useful protein, carbohydrate and antioxidants with little lipid, and seaweeds need no land or fertiliser, but data are only for two seaweeds and give no information on cost, toxins or vitamins.",
+      "steps": [
+        "Healthy: lipid is low (2.96% and 2.16% of dry mass), protein is 9.56% and 14.89%, and carbohydrate is 23.70% and 25.03%.",
+        "Healthy: carotenoids, phenols and flavonoids are antioxidants that protect cells from free radicals; S. linifolium has more carotenoids (3.00 v 2.00) while U. fasciata has more phenols and flavonoids.",
+        "Environmentally friendly: seaweeds photosynthesise using sunlight and sea water, so need no farmland, fresh water or fertiliser, and they take up carbon dioxide.",
+        "Economic: they grow quickly and can be harvested cheaply, so should cost less than animal protein.",
+        "Limits: only two of the three seaweeds are in the table, antioxidant values are in arbitrary units, and there is no data on vitamins, minerals, heavy metals, digestibility or cost; wild harvesting could damage ecosystems.",
+        "Conclusion: the statement is supported in part but the evidence is incomplete."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-01.jpg",
         "papers/biology/img/05A-Photosynthesis-02.jpg",
         "papers/biology/img/05A-Photosynthesis-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q1-2.jpg"
       ]
     },
     {
@@ -123,14 +141,21 @@
         "kj"
       ],
       "question": "Using the photosynthesis equation and the bond energy table, calculate the energy released by photolysis to make one glucose molecule.",
-      "status": "pending",
-      "answer": "Pending: the bond energy table is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "2772 kJ",
+      "steps": [
+        "In photolysis one O-H bond is broken in each water molecule.",
+        "The equation has 6 H2O for each glucose, so 6 O-H bonds are broken.",
+        "Energy = 6 x 462 kJ = 2772 kJ."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-03.jpg",
         "papers/biology/img/05A-Photosynthesis-04.jpg",
         "papers/biology/img/05A-Photosynthesis-05.jpg",
         "papers/biology/img/05A-Photosynthesis-06.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q2.jpg"
       ]
     },
     {
@@ -177,14 +202,22 @@
         "calculation"
       ],
       "question": "State what other information is needed in the bond energy table for the energy of 9164 kJ to be calculated.",
-      "status": "pending",
-      "answer": "Pending: the bond energy table is not in the text, so the missing data cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The bond energies of C-C, C-H and C-O (single) bonds are needed.",
+      "steps": [
+        "Glucose contains C-C, C-H, C-O and O-H bonds (5 C-C, 7 C-H, 7 C-O and 5 O-H).",
+        "The table only gives C=O, O-H and O=O, so only the O-H energy can be used.",
+        "Energies for C-C, C-H and C-O must be added so that each bond count can be multiplied to give 9164 kJ."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-03.jpg",
         "papers/biology/img/05A-Photosynthesis-04.jpg",
         "papers/biology/img/05A-Photosynthesis-05.jpg",
         "papers/biology/img/05A-Photosynthesis-06.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q2.jpg",
+        "papers/biology/fig/05A-Photosynthesis-Q2-2.jpg"
       ]
     },
     {
@@ -228,14 +261,20 @@
         "protein"
       ],
       "question": "Which row of the table describes how two amino acids join together?",
-      "status": "pending",
-      "answer": "Pending: the table of joining reactions is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: carbon and nitrogen, condensation.",
+      "steps": [
+        "Two amino acids join by a peptide bond between the carboxyl carbon of one and the amino nitrogen of the other.",
+        "Water is released when the bond forms, so it is a condensation reaction, not hydrolysis."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-03.jpg",
         "papers/biology/img/05A-Photosynthesis-04.jpg",
         "papers/biology/img/05A-Photosynthesis-05.jpg",
         "papers/biology/img/05A-Photosynthesis-06.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q2-3.jpg"
       ]
     },
     {
@@ -280,13 +319,19 @@
         "table"
       ],
       "question": "Which row of the table shows where the light-dependent and light-independent reactions take place?",
-      "status": "pending",
-      "answer": "Pending: the table of locations is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: thylakoid membranes (light-dependent), stroma (light-independent).",
+      "steps": [
+        "The light-dependent reactions need photosystems and the electron transport chain, which are in the thylakoid membranes.",
+        "The Calvin cycle (light-independent) uses enzymes such as rubisco in the stroma."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-06.jpg",
         "papers/biology/img/05A-Photosynthesis-07.jpg",
         "papers/biology/img/05A-Photosynthesis-08.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q3.jpg"
       ]
     },
     {
@@ -304,13 +349,21 @@
         "ribosome"
       ],
       "question": "Draw three labelled features on the chloroplast outline, other than the stroma and thylakoid membranes.",
-      "status": "pending",
-      "answer": "Pending: this is a drawing task on a diagram that is not in the text (suitable labels include grana, envelope, starch grain, DNA and ribosomes).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Any three correctly drawn and labelled: granum (stack of thylakoid discs), starch grain, DNA (loop), ribosomes, lipid droplet.",
+      "steps": [
+        "Draw a stack of flattened discs inside the oval and label it granum (thylakoids joined by lamellae).",
+        "Draw a small oval or round grain in the stroma and label it starch grain.",
+        "Draw a small loop or thread and label it chloroplast DNA, or draw small dots and label them 70S ribosomes, or a small droplet labelled lipid droplet.",
+        "The label 'membrane' is already given, and stroma and thylakoid membranes are excluded, so these cannot score."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-06.jpg",
         "papers/biology/img/05A-Photosynthesis-07.jpg",
         "papers/biology/img/05A-Photosynthesis-08.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q3-2.jpg"
       ]
     },
     {
@@ -407,13 +460,21 @@
         "calculation"
       ],
       "question": "What is the Rf value for chloroplast pigment J on the chromatogram? Options: A 0.625, B 0.800, C 0.830, D 1.714.",
-      "status": "pending",
-      "answer": "Pending: the distances travelled on the chromatogram are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 0.800",
+      "steps": [
+        "Rf = distance moved by the pigment / distance moved by the solvent front, both measured from the origin.",
+        "Solvent front: 3.5 + 2.5 + 1.5 = 7.5 cm from the origin.",
+        "Pigment J: 3.5 + 2.5 = 6.0 cm from the origin.",
+        "Rf = 6.0 / 7.5 = 0.800."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-06.jpg",
         "papers/biology/img/05A-Photosynthesis-07.jpg",
         "papers/biology/img/05A-Photosynthesis-08.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q3-3.jpg"
       ]
     },
     {
@@ -459,13 +520,21 @@
         "labels"
       ],
       "question": "Complete the diagram of cyclic photophosphorylation by writing the correct words on the dotted lines labelled D, E, F, G and H.",
-      "status": "pending",
-      "answer": "Pending: the labelled cyclic photophosphorylation diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: chlorophyll (photosystem I); E: energy; F and G: ADP and Pi (inorganic phosphate), either order; H: ATP.",
+      "steps": [
+        "D is the pigment/photosystem that absorbs light and loses excited electrons, so it is chlorophyll (photosystem I).",
+        "Electrons passing along the carriers release energy, so E is energy.",
+        "This energy joins ADP and inorganic phosphate (F and G, either way round).",
+        "The product H is ATP, made by phosphorylation."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-08.jpg",
         "papers/biology/img/05A-Photosynthesis-09.jpg",
         "papers/biology/img/05A-Photosynthesis-10.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q4.jpg"
       ]
     },
     {
@@ -596,14 +665,24 @@
         "graphs"
       ],
       "question": "Discuss the effectiveness of the two solvents, propanone and DMSO, in extracting pigments for identifying these seaweed species, using the graphs.",
-      "status": "pending",
-      "answer": "Pending: the graphs of pigment concentrations for the two solvents are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Propanone is generally more effective, extracting more total chlorophyll in all four species, and separates the species better, but DMSO extracts more chlorophyll a in Q and slightly more chlorophyll b in R and S, so neither is best for every pigment.",
+      "steps": [
+        "Total chlorophyll: propanone extracted more than DMSO in every species (P 40 v 7, Q 32 v 25, R 5 v 3, S 16 v 8 ug cm^-3), so it is generally the more effective solvent.",
+        "Propanone gives clearly different totals for P, Q, S and R (40, 32, 16, 5), so species can be told apart; DMSO gives similar totals for P, R and S (7, 3, 8), so it distinguishes them poorly.",
+        "Exceptions: DMSO gave more chlorophyll a in Q (about 17 v 12) and more chlorophyll b in R (about 2 v 0.4) and S (3 v 2.5), so effectiveness depends on the pigment and the species.",
+        "The chlorophyll a : b ratio, used for identification, changes with the solvent (e.g. Q about 0.6 with propanone but about 2.4 with DMSO), so results from different solvents cannot be compared.",
+        "Limitations: only chlorophylls a and b are measured, there are no repeats or error bars, and identification would need other pigments, structure or DNA evidence.",
+        "Conclusion: propanone is more effective overall, but the method alone is not a reliable way to identify species."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-10.jpg",
         "papers/biology/img/05A-Photosynthesis-11.jpg",
         "papers/biology/img/05A-Photosynthesis-12.jpg",
         "papers/biology/img/05A-Photosynthesis-13.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q5.jpg"
       ]
     },
     {
@@ -633,6 +712,9 @@
         "papers/biology/img/05A-Photosynthesis-11.jpg",
         "papers/biology/img/05A-Photosynthesis-12.jpg",
         "papers/biology/img/05A-Photosynthesis-13.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q5.jpg"
       ]
     },
     {
@@ -690,6 +772,9 @@
         "papers/biology/img/05A-Photosynthesis-13.jpg",
         "papers/biology/img/05A-Photosynthesis-14.jpg",
         "papers/biology/img/05A-Photosynthesis-15.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q6.jpg"
       ]
     },
     {
@@ -735,13 +820,20 @@
         "calvin cycle"
       ],
       "question": "Which row of the table shows the products of the light-dependent reactions that are used in the light-independent reactions?",
-      "status": "pending",
-      "answer": "Pending: the table of products is not in the text (the answer should be ATP and reduced NADP).",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: ATP from non-cyclic photophosphorylation and reduced NADP.",
+      "steps": [
+        "The light-independent reactions use ATP and reduced NADP made in the light-dependent reactions.",
+        "Reduced NADP is made only in non-cyclic photophosphorylation (cyclic makes ATP only), so oxidised NADP rows are wrong and cyclic with reduced NADP is not possible.",
+        "Row D (non-cyclic, reduced) is correct."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-13.jpg",
         "papers/biology/img/05A-Photosynthesis-14.jpg",
         "papers/biology/img/05A-Photosynthesis-15.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q6-2.jpg"
       ]
     },
     {
@@ -787,13 +879,20 @@
         "table"
       ],
       "question": "Which row of the table shows the inorganic ions needed to synthesise new biological molecules from simple sugars?",
-      "status": "pending",
-      "answer": "Pending: the table of inorganic ions is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Protein: nitrates; RNA: both nitrates and phosphates; triglyceride: neither nitrates nor phosphates.",
+      "steps": [
+        "Proteins contain nitrogen in amino groups, which comes from nitrate ions, and have no phosphate.",
+        "RNA has nitrogen in its bases (from nitrate) and phosphate in the sugar-phosphate backbone, so needs both.",
+        "Triglycerides contain only carbon, hydrogen and oxygen, so need neither."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-13.jpg",
         "papers/biology/img/05A-Photosynthesis-14.jpg",
         "papers/biology/img/05A-Photosynthesis-15.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q6-3.jpg"
       ]
     },
     {
@@ -810,13 +909,22 @@
         "wavelength"
       ],
       "question": "Draw the action spectrum for this plant on the axes below, using the absorption spectra of the two pigments.",
-      "status": "pending",
-      "answer": "Pending: this is a drawing task on axes and absorption graphs that are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A curve with a blue peak (about 430-460 nm), a low region in the green-yellow (about 500-600 nm), a second smaller peak in the red (about 640-660 nm), and falling to near zero beyond about 680 nm.",
+      "steps": [
+        "Axes are rate of photosynthesis (y) against wavelength 400-700 nm (x).",
+        "The action spectrum follows the combined absorption of chlorophyll a and b: a high peak in the blue at about 430-460 nm.",
+        "The rate is lowest in the green-yellow region (about 500-600 nm), because little light is absorbed there, but it is above zero.",
+        "There is a second peak in the red at about 640-660 nm, lower than the blue peak, then the rate falls steeply towards 700 nm."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-15.jpg",
         "papers/biology/img/05A-Photosynthesis-16.jpg",
         "papers/biology/img/05A-Photosynthesis-17.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q7.jpg",
+        "papers/biology/fig/05A-Photosynthesis-Q7-2.jpg"
       ]
     },
     {
@@ -833,13 +941,20 @@
         "graph"
       ],
       "question": "Calculate how many times greater the percentage of light absorbed by chlorophyll b is than that absorbed by chlorophyll a, at their maximum absorptions.",
-      "status": "pending",
-      "answer": "Pending: the maximum absorption values are read from the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1.2 times",
+      "steps": [
+        "Maximum for chlorophyll b = about 85% (at about 458 nm).",
+        "Maximum for chlorophyll a = about 69% (at about 430 nm).",
+        "85 / 69 = 1.23, so chlorophyll b absorbs about 1.2 times as much."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-15.jpg",
         "papers/biology/img/05A-Photosynthesis-16.jpg",
         "papers/biology/img/05A-Photosynthesis-17.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q7.jpg"
       ]
     },
     {
@@ -866,6 +981,9 @@
         "papers/biology/img/05A-Photosynthesis-15.jpg",
         "papers/biology/img/05A-Photosynthesis-16.jpg",
         "papers/biology/img/05A-Photosynthesis-17.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q7.jpg"
       ]
     },
     {
@@ -882,13 +1000,20 @@
         "bonds"
       ],
       "question": "Which row of the table describes the bonds that form between amino acids in a protein?",
-      "status": "pending",
-      "answer": "Pending: the table of bonds is not in the text (the answer is peptide bonds formed by condensation).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: peptide bond between the amino group and the carboxyl group.",
+      "steps": [
+        "Amino acids are joined by peptide bonds, formed by condensation.",
+        "The bond forms between the carboxyl group of one amino acid and the amino group of the next, not the R group.",
+        "Phosphodiester bonds join nucleotides, so C and D are wrong."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-15.jpg",
         "papers/biology/img/05A-Photosynthesis-16.jpg",
         "papers/biology/img/05A-Photosynthesis-17.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q7-3.jpg"
       ]
     },
     {
@@ -933,13 +1058,20 @@
         "chloroplast"
       ],
       "question": "Which row of the table is correct for the light-dependent and light-independent reactions?",
-      "status": "pending",
-      "answer": "Pending: the table of locations is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: ADP is phosphorylated, requiring energy, in the light-dependent reactions; ATP is hydrolysed, releasing energy, in the light-independent reactions.",
+      "steps": [
+        "In the light-dependent reactions ADP + Pi is joined to make ATP, which needs energy from light.",
+        "In the light-independent reactions ATP is hydrolysed to ADP + Pi, releasing the energy that drives the Calvin cycle.",
+        "Only row B has both parts correct."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-17.jpg",
         "papers/biology/img/05A-Photosynthesis-18.jpg",
         "papers/biology/img/05A-Photosynthesis-19.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q8.jpg"
       ]
     },
     {
@@ -957,13 +1089,21 @@
         "ribosomes"
       ],
       "question": "Complete the diagram of part of a chloroplast to show three other labelled structures.",
-      "status": "pending",
-      "answer": "Pending: the partly labelled chloroplast diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Any three labelled correctly: inner membrane, starch grain, DNA (loop), ribosomes, lipid droplet, lamella (intergranal).",
+      "steps": [
+        "Draw a second line just inside the outer membrane and label it inner membrane.",
+        "Draw a small round grain in the stroma and label it starch grain.",
+        "Draw a small ring or thread and label it chloroplast DNA, or small dots labelled ribosomes, or a small droplet labelled lipid droplet.",
+        "Each label line must touch the structure it names."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-17.jpg",
         "papers/biology/img/05A-Photosynthesis-18.jpg",
         "papers/biology/img/05A-Photosynthesis-19.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q8-2.jpg"
       ]
     },
     {
@@ -1009,15 +1149,21 @@
         "location"
       ],
       "question": "Where in the chloroplast is RUBISCO active? Options refer to the table labels A P, B Q, C R, D S.",
-      "status": "pending",
-      "answer": "Pending: the table linking the letters P, Q, R and S to chloroplast structures is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Q (the stroma).",
+      "steps": [
+        "RuBisCO fixes carbon dioxide in the Calvin cycle, the light-independent reactions.",
+        "Structure Q is the site of the light-independent reactions and is colourless, so it is the stroma."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-19.jpg",
         "papers/biology/img/05A-Photosynthesis-20.jpg",
         "papers/biology/img/05A-Photosynthesis-21.jpg",
         "papers/biology/img/05A-Photosynthesis-22.jpg",
         "papers/biology/img/05A-Photosynthesis-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q9.jpg"
       ]
     },
     {
@@ -1034,15 +1180,21 @@
         "stored product"
       ],
       "question": "What is stored in structure S? Options: A GALP, B lipid, C starch, D sucrose.",
-      "status": "pending",
-      "answer": "Pending: the table identifying structure S is not in the text (the answer is likely C starch).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: starch.",
+      "steps": [
+        "S is the storage granule, 1 to 35 um in size, so it is a starch grain.",
+        "GALP and sucrose are not stored in chloroplast granules, and lipid is stored as small droplets."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-19.jpg",
         "papers/biology/img/05A-Photosynthesis-20.jpg",
         "papers/biology/img/05A-Photosynthesis-21.jpg",
         "papers/biology/img/05A-Photosynthesis-22.jpg",
         "papers/biology/img/05A-Photosynthesis-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q9.jpg"
       ]
     },
     {
@@ -1059,15 +1211,21 @@
         "location"
       ],
       "question": "Where is GP (glycerate 3-phosphate) formed? Options refer to the table labels A P, B Q, C R, D S.",
-      "status": "pending",
-      "answer": "Pending: the table linking the letters to chloroplast structures is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Q (the stroma).",
+      "steps": [
+        "GP (glycerate 3-phosphate) is the first product when RuBP combines with carbon dioxide, catalysed by RuBisCO.",
+        "This happens in the Calvin cycle in the stroma, which is Q."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-19.jpg",
         "papers/biology/img/05A-Photosynthesis-20.jpg",
         "papers/biology/img/05A-Photosynthesis-21.jpg",
         "papers/biology/img/05A-Photosynthesis-22.jpg",
         "papers/biology/img/05A-Photosynthesis-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q9.jpg"
       ]
     },
     {
@@ -1083,15 +1241,23 @@
         "smallest to largest"
       ],
       "question": "Which is the correct order of size, smallest to largest, for the structures P, R and S? Options: A PRS, B PSR, C RSP, D SRP.",
-      "status": "pending",
-      "answer": "Pending: the table of structure sizes is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: P R S.",
+      "steps": [
+        "P is a ribosome of about 20 nm = 0.02 um.",
+        "R is a thylakoid space, largest 4.35 x 10^-4 mm = 0.435 um (435 nm).",
+        "S is a starch grain of 1 to 35 um.",
+        "Smallest to largest: P (0.02 um), R (0.435 um), S (1 to 35 um)."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-19.jpg",
         "papers/biology/img/05A-Photosynthesis-20.jpg",
         "papers/biology/img/05A-Photosynthesis-21.jpg",
         "papers/biology/img/05A-Photosynthesis-22.jpg",
         "papers/biology/img/05A-Photosynthesis-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q9.jpg"
       ]
     },
     {
@@ -1137,15 +1303,23 @@
         "graph"
       ],
       "question": "Compare and contrast the rate of photosynthesis of Spartina and Leucopoa at different temperatures, using the graph.",
-      "status": "pending",
-      "answer": "Pending: the graph of photosynthesis rates for the two species is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both rise to an optimum then fall, but Spartina has a much higher maximum (about 40 a.u. at about 35 C) than Leucopoa (about 16 a.u. at about 20-25 C), and Leucopoa is faster only below about 15 C.",
+      "steps": [
+        "Similarity: both species show an increase in rate to a maximum then a decrease, as enzymes become less effective above the optimum.",
+        "Spartina rises steeply from about 10 a.u. at 10 C to about 40 a.u. at 35 C, whereas Leucopoa rises only slightly, from about 13 to about 16.5 a.u.",
+        "The optimum is higher for Spartina (about 35 C) than for Leucopoa (about 20-25 C).",
+        "Below about 15 C Leucopoa has the higher rate; above that Spartina is higher, and at 40 C it is about 36 a.u. against 9 a.u."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-19.jpg",
         "papers/biology/img/05A-Photosynthesis-20.jpg",
         "papers/biology/img/05A-Photosynthesis-21.jpg",
         "papers/biology/img/05A-Photosynthesis-22.jpg",
         "papers/biology/img/05A-Photosynthesis-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q9-2.jpg"
       ]
     },
     {
@@ -1161,15 +1335,22 @@
         "calculation"
       ],
       "question": "Describe how a Q10 value for the rate of photosynthesis can be calculated using the graph.",
-      "status": "pending",
-      "answer": "Pending: the graph is needed to give the specific rates at the two temperatures.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Q10 = rate at (T + 10) C divided by rate at T C, read from the graph; e.g. Spartina 20 to 30 C: 37 / 21 = 1.8.",
+      "steps": [
+        "Choose two temperatures 10 C apart on the rising part of the curve for one species, e.g. 20 C and 30 C.",
+        "Read the rate of photosynthesis at each from the graph (Spartina about 21 a.u. at 20 C and about 37 a.u. at 30 C).",
+        "Divide the rate at the higher temperature by the rate at the lower: 37 / 21 = about 1.8."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-19.jpg",
         "papers/biology/img/05A-Photosynthesis-20.jpg",
         "papers/biology/img/05A-Photosynthesis-21.jpg",
         "papers/biology/img/05A-Photosynthesis-22.jpg",
         "papers/biology/img/05A-Photosynthesis-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q9-2.jpg"
       ]
     },
     {
@@ -1187,15 +1368,23 @@
         "photosynthesis"
       ],
       "question": "Explain in which of the two North American regions Spartina is most likely to grow, using both graphs.",
-      "status": "pending",
-      "answer": "Pending: the graphs of maximum temperatures and photosynthesis rates are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Wheatland: Spartina needs high temperatures (optimum about 35 C) and Wheatland is warmer, with maximum temperatures of 27-31 C from June to August.",
+      "steps": [
+        "Spartina has its highest rate of photosynthesis (about 40 a.u.) at about 35 C and a low rate (about 10 a.u.) at 10-15 C.",
+        "Wheatland has maximum temperatures above 20 C from May to September, reaching about 31 C in July, close to the optimum for Spartina.",
+        "Pole Mountain never exceeds about 24 C and is below 15 C for most of the year, where Spartina photosynthesises slowly, so it would grow poorly there."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-19.jpg",
         "papers/biology/img/05A-Photosynthesis-20.jpg",
         "papers/biology/img/05A-Photosynthesis-21.jpg",
         "papers/biology/img/05A-Photosynthesis-22.jpg",
         "papers/biology/img/05A-Photosynthesis-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q9-2.jpg",
+        "papers/biology/fig/05A-Photosynthesis-Q9-3.jpg"
       ]
     },
     {
@@ -1238,12 +1427,20 @@
         "graph"
       ],
       "question": "Explain why the student concluded that magnesium ions are taken up by active transport, using the graph of uptake in the presence and absence of oxygen.",
-      "status": "pending",
-      "answer": "Pending: the graph of magnesium uptake with and without oxygen is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Uptake is greater with oxygen (270 a.u. at 100 min) and levels off without oxygen (about 120 a.u. from 60 min), so uptake depends on aerobic respiration making ATP, which is active transport.",
+      "steps": [
+        "With oxygen, uptake keeps rising to about 270 a.u. at 100 min, but without oxygen it levels off at about 120 a.u. after about 60 min.",
+        "Oxygen is needed for aerobic respiration, which makes most of the cell's ATP, so removing oxygen reduces the ATP supply.",
+        "Uptake that depends on ATP from respiration is active transport, which uses ATP to drive carrier proteins.",
+        "Some uptake still occurs without oxygen, probably by diffusion and the use of ATP from anaerobic respiration, but it is much lower."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-23.jpg",
         "papers/biology/img/05A-Photosynthesis-24.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q10.jpg"
       ]
     },
     {
@@ -1260,14 +1457,20 @@
         "diagram"
       ],
       "question": "Which labelled structure in the photosynthetic bacterium contains the genes coding for the enzymes of photosynthesis? Options: A P, B Q, C R, D T.",
-      "status": "pending",
-      "answer": "Pending: the labelled bacterium diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: R (the circular DNA).",
+      "steps": [
+        "Genes are made of DNA; in a bacterium this is a single circular chromosome in the cytoplasm.",
+        "R points to the looped DNA, so R contains the genes for the photosynthetic enzymes."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-24.jpg",
         "papers/biology/img/05A-Photosynthesis-25.jpg",
         "papers/biology/img/05A-Photosynthesis-26.jpg",
         "papers/biology/img/05A-Photosynthesis-27.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q11.jpg"
       ]
     },
     {
@@ -1284,14 +1487,20 @@
         "photosynthesis"
       ],
       "question": "Where do the light-dependent reactions take place in the photosynthetic bacterium? Options: A Q, B S, C T, D U.",
-      "status": "pending",
-      "answer": "Pending: the labelled bacterium diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: T (the cell surface membrane and its infoldings).",
+      "steps": [
+        "Bacteria have no chloroplasts, so the pigments and electron carriers of the light-dependent reactions are in the cell surface membrane.",
+        "T points to this membrane (with its infoldings), which is the site of the light-dependent reactions."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-24.jpg",
         "papers/biology/img/05A-Photosynthesis-25.jpg",
         "papers/biology/img/05A-Photosynthesis-26.jpg",
         "papers/biology/img/05A-Photosynthesis-27.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q11.jpg"
       ]
     },
     {
@@ -1308,14 +1517,20 @@
         "photosynthesis"
       ],
       "question": "Where do the light-independent reactions take place in the photosynthetic bacterium? Options: A Q, B S, C T, D U.",
-      "status": "pending",
-      "answer": "Pending: the labelled bacterium diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: S (the cytoplasm).",
+      "steps": [
+        "The light-independent reactions use soluble enzymes such as RuBisCO.",
+        "These are in the cytoplasm, which S labels, as there is no chloroplast stroma."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-24.jpg",
         "papers/biology/img/05A-Photosynthesis-25.jpg",
         "papers/biology/img/05A-Photosynthesis-26.jpg",
         "papers/biology/img/05A-Photosynthesis-27.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q11.jpg"
       ]
     },
     {
@@ -1332,14 +1547,21 @@
         "wavelength"
       ],
       "question": "Describe two conclusions about the differences in absorption spectra of the plant and the bacterium.",
-      "status": "pending",
-      "answer": "Pending: the two absorption spectrum graphs are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The bacterium absorbs strongly in the near infrared (peaks at about 800 nm and 880 nm) where the plant absorbs almost nothing, and it absorbs very little in the red (about 0.15 a.u. at 650-700 nm) where the plant has a high peak (0.58 a.u. at about 690 nm).",
+      "steps": [
+        "Conclusion 1: the bacterium absorbs wavelengths above 750 nm (peaks about 0.72 at 800 nm and 0.85 at 880 nm), but the plant absorbs almost none above 760 nm.",
+        "Conclusion 2: the plant has a large red absorption peak (about 0.58 at 690 nm) but the bacterium has its lowest absorbance there (about 0.15), so it uses different pigments from the plant.",
+        "Other points: the plant has two main peaks (blue at about 440 nm, 0.64, and red), the bacterium has several peaks (370 nm, 480 nm, 580 nm, 800 nm, 880 nm) and a wider range of absorption."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-24.jpg",
         "papers/biology/img/05A-Photosynthesis-25.jpg",
         "papers/biology/img/05A-Photosynthesis-26.jpg",
         "papers/biology/img/05A-Photosynthesis-27.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q11-2.jpg"
       ]
     },
     {
@@ -1386,12 +1608,18 @@
         "water splitting"
       ],
       "question": "Which is the site of photolysis in the chloroplast diagram? Options: A P, B R, C T, D V.",
-      "status": "pending",
-      "answer": "Pending: the labelled chloroplast diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: T (the thylakoid membrane).",
+      "steps": [
+        "Photolysis (splitting of water) is carried out by photosystem II.",
+        "Photosystem II is in the thylakoid membranes, which T labels."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-28.jpg",
         "papers/biology/img/05A-Photosynthesis-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q12.jpg"
       ]
     },
     {
@@ -1408,12 +1636,18 @@
         "location"
       ],
       "question": "Which structure in the chloroplast diagram contains a gene coding for RUBISCO? Options: A P, B Q, C S, D V.",
-      "status": "pending",
-      "answer": "Pending: the labelled chloroplast diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: V (the chloroplast DNA).",
+      "steps": [
+        "A gene is a length of DNA.",
+        "The loop of DNA in the stroma, labelled V, contains genes such as the one for the large subunit of RuBisCO."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-28.jpg",
         "papers/biology/img/05A-Photosynthesis-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q12.jpg"
       ]
     },
     {
@@ -1430,12 +1664,18 @@
         "atp"
       ],
       "question": "Where do hydrogen ions accumulate for use in photosynthesis? Options: A Q, B R, C S, D V.",
-      "status": "pending",
-      "answer": "Pending: the labelled chloroplast diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: S (the thylakoid space).",
+      "steps": [
+        "Protons are pumped into the thylakoid space, which is inside the thylakoid stack.",
+        "They accumulate there to form the proton gradient that drives ATP synthase; S points to this thylakoid."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-28.jpg",
         "papers/biology/img/05A-Photosynthesis-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q12.jpg"
       ]
     },
     {
@@ -1452,12 +1692,19 @@
         "chloroplast"
       ],
       "question": "How many of the structures labelled P, T, U and W are made of phospholipids? Options: A 1, B 2, C 3, D 4.",
-      "status": "pending",
-      "answer": "Pending: the labelled diagram is not in the text, so the membranes cannot be counted.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 3",
+      "steps": [
+        "Phospholipids make up membranes.",
+        "T (thylakoid membrane), U (inner membrane) and W (outer membrane) are membranes, so 3.",
+        "P is a ribosome, made of RNA and protein, not phospholipid."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-28.jpg",
         "papers/biology/img/05A-Photosynthesis-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q12.jpg"
       ]
     },
     {
@@ -1500,9 +1747,13 @@
         "metres"
       ],
       "question": "A cell is 0.0085 cm long. Using the ratio of cell length to chloroplast length (garbled in the text), calculate the chloroplast length in metres to 2 significant figures.",
-      "status": "pending",
-      "answer": "Pending: the ratio is garbled in the text. If it is 17 : 1 (cell to chloroplast), the answer is 5.0 x 10^-6 m, but this must be checked against the original.",
-      "steps": [],
+      "status": "ready",
+      "answer": "7.3 um (7.3 x 10^-6 m)",
+      "steps": [
+        "Convert the cell length to micrometres: 0.0085 cm = 0.085 mm = 85 um.",
+        "The ratio cell : chloroplast is 11.7 : 1, so chloroplast = 85 / 11.7.",
+        "85 / 11.7 = 7.265 = 7.3 um to 2 significant figures."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-28.jpg",
         "papers/biology/img/05A-Photosynthesis-29.jpg"
@@ -1550,12 +1801,20 @@
         "gradient"
       ],
       "question": "Calculate the rate of decrease of net carbon fixation at 12 00 hours, including units.",
-      "status": "pending",
-      "answer": "Pending: the net carbon fixation graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 2 a.u. hour^-1 (a decrease of about 2 arbitrary units per hour; accept about 1.5 to 2.5).",
+      "steps": [
+        "Draw a tangent to the curve at 12 00 hours, where net carbon fixation is about 20.5 a.u. and falling.",
+        "Choose two points on the tangent, e.g. about 22.5 a.u. at 11 00 hours and about 18.5 a.u. at 13 00 hours.",
+        "Gradient = (18.5 - 22.5) / (13 - 11) = -2 a.u. hour^-1.",
+        "So the rate of decrease is about 2 a.u. per hour."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-30.jpg",
         "papers/biology/img/05A-Photosynthesis-31.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q13.jpg"
       ]
     },
     {
@@ -1584,6 +1843,9 @@
       "images": [
         "papers/biology/img/05A-Photosynthesis-30.jpg",
         "papers/biology/img/05A-Photosynthesis-31.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q13.jpg"
       ]
     },
     {
@@ -1611,6 +1873,9 @@
       "images": [
         "papers/biology/img/05A-Photosynthesis-30.jpg",
         "papers/biology/img/05A-Photosynthesis-31.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q13.jpg"
       ]
     },
     {
@@ -1746,14 +2011,22 @@
         "plant growth"
       ],
       "question": "Explain the results of the investigation into the effect of ECM and AM mycorrhizal fungi on plant biomass at low and high nitrate concentrations, using the graph.",
-      "status": "pending",
-      "answer": "Pending: the graph of biomass change for ECM and AM fungi is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "ECM fungi raise biomass at both nitrate levels (+20% and +33%), whereas AM fungi give a loss at low nitrate (-3%) but a gain at high nitrate (+20%); the fungi supply nitrate that the plant needs to make proteins and chlorophyll.",
+      "steps": [
+        "The fungal hyphae increase the surface area for absorbing nitrate ions, which are supplied to the plant; nitrate gives nitrogen for amino acids, proteins (such as enzymes and RuBisCO) and chlorophyll, so photosynthesis and growth increase.",
+        "At high nitrate more nitrate is available and both fungi increase biomass (AM +20%, ECM +33%).",
+        "At low nitrate AM fungi give a 3% loss, because the plant gives the fungus sugars but gets too little nitrate in return, whereas ECM fungi still give +20%, so ECM fungi are more effective at supplying nitrate.",
+        "There is no control without fungi, so the result is only a comparison between the two fungal types."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-31.jpg",
         "papers/biology/img/05A-Photosynthesis-32.jpg",
         "papers/biology/img/05A-Photosynthesis-33.jpg",
         "papers/biology/img/05A-Photosynthesis-34.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q14.jpg"
       ]
     },
     {
@@ -1829,14 +2102,22 @@
         "amber light"
       ],
       "question": "Explain the results shown in the graphs for the mean rate of photosynthesis and mean leaf biomass of thale cress under blue, amber and red light.",
-      "status": "pending",
-      "answer": "Pending: the graphs of rate of photosynthesis and leaf biomass are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Red and blue light raise both the rate (3.7 and 3.3 a.u. against 2.55) and leaf biomass (0.123 and 0.125 g against 0.093 g) because chlorophyll absorbs them strongly; amber light is poorly absorbed, so rate (2.3 a.u.) and biomass (0.045 g) are lowest.",
+      "steps": [
+        "Chlorophyll absorbs blue and red wavelengths strongly, so more light energy is used in the light-dependent reactions, giving more ATP and reduced NADP and a higher rate of photosynthesis (red +45%, blue +29% compared with the control).",
+        "A higher rate means more glucose is made and used to build biomass, so leaf biomass is higher under red (0.123 g) and blue (0.125 g) than in the control (0.093 g).",
+        "Amber light (about 590 nm) is absorbed least by the pigments, so the rate falls slightly (2.3 against 2.55 a.u.).",
+        "Biomass in amber light is about half that of the control (0.045 against 0.093 g), because little carbon is fixed while respiration continues to use up sugars."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-35.jpg",
         "papers/biology/img/05A-Photosynthesis-36.jpg",
         "papers/biology/img/05A-Photosynthesis-37.jpg",
         "papers/biology/img/05A-Photosynthesis-38.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q15.jpg"
       ]
     },
     {
@@ -1854,14 +2135,22 @@
         "thale cress"
       ],
       "question": "Describe three conclusions from the table of pigment content of the leaves under the different wavelengths.",
-      "status": "pending",
-      "answer": "Pending: the table of pigment content is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Chlorophyll a is highest in red light (441) and blue light (412) and lowest in amber light (315); chlorophyll b changes little; anthocyanins are almost unchanged by wavelength.",
+      "steps": [
+        "Chlorophyll a content is higher in blue (412) and red (441) than in control light (382) and lower in amber (315).",
+        "Chlorophyll b is the same in blue as in control (148) and lower in red (133) and amber (125), so the chlorophyll a : b ratio is highest in red light (3.32 against 2.58 for control).",
+        "Anthocyanin content is very similar under all lights (71 to 79 ug per g), so the wavelength has little effect on it.",
+        "Amber light gives the lowest mass of every pigment."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-35.jpg",
         "papers/biology/img/05A-Photosynthesis-36.jpg",
         "papers/biology/img/05A-Photosynthesis-37.jpg",
         "papers/biology/img/05A-Photosynthesis-38.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q15-2.jpg"
       ]
     },
     {
@@ -1908,14 +2197,21 @@
         "stroma"
       ],
       "question": "Which row of the table shows where the light-dependent and light-independent reactions take place?",
-      "status": "pending",
-      "answer": "Pending: the table of locations is not in the text (the answer should be thylakoid membranes for LDR and stroma for LIR).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: thylakoid membranes (T) for the light-dependent reactions and stroma (R) for the light-independent reactions.",
+      "steps": [
+        "The light-dependent reactions need chlorophyll and the electron transport chain, which are in the thylakoid membranes (T).",
+        "The light-independent reactions take place in the stroma (R), which holds the RuBisCO and other Calvin cycle enzymes."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-39.jpg",
         "papers/biology/img/05A-Photosynthesis-40.jpg",
         "papers/biology/img/05A-Photosynthesis-41.jpg",
         "papers/biology/img/05A-Photosynthesis-42.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q16.jpg",
+        "papers/biology/fig/05A-Photosynthesis-Q16-2.jpg"
       ]
     },
     {
@@ -1932,14 +2228,20 @@
         "gradient"
       ],
       "question": "Where do hydrogen ions (protons) accumulate in the chloroplast diagram? Options: A Q, B R, C S, D W.",
-      "status": "pending",
-      "answer": "Pending: the labelled chloroplast diagram is not in the text (protons accumulate in the thylakoid space).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: S (the thylakoid).",
+      "steps": [
+        "Protons are pumped across the thylakoid membrane into the thylakoid space, where they accumulate.",
+        "S labels the thylakoid (lamella), not the starch grain (Q), stroma (R) or outer membrane (W)."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-39.jpg",
         "papers/biology/img/05A-Photosynthesis-40.jpg",
         "papers/biology/img/05A-Photosynthesis-41.jpg",
         "papers/biology/img/05A-Photosynthesis-42.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q16.jpg"
       ]
     },
     {
@@ -1956,14 +2258,21 @@
         "calculation"
       ],
       "question": "The diagram is 16 000 times larger than an actual chloroplast. Calculate the surface area of the actual chloroplast using surface area = 4 pi r^2, given as a whole number in m^2.",
-      "status": "pending",
-      "answer": "Pending: the radius of the chloroplast in the diagram is not given in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 104 um^2 for a measured radius of 4.6 cm on the printed diagram (the value depends on the radius measured).",
+      "steps": [
+        "Measure the radius of the chloroplast in the diagram with a ruler; the outer circle is about 9.2 cm across on an A4 page, so r = about 4.6 cm.",
+        "Actual radius = 4.6 cm / 16 000 = 2.875 x 10^-4 cm = 2.875 um (1 cm = 10 000 um).",
+        "Surface area = 4 x pi x r^2 = 4 x pi x 2.875^2 = 103.9 = 104 um^2."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-39.jpg",
         "papers/biology/img/05A-Photosynthesis-40.jpg",
         "papers/biology/img/05A-Photosynthesis-41.jpg",
         "papers/biology/img/05A-Photosynthesis-42.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q16.jpg"
       ]
     },
     {
@@ -2039,14 +2348,22 @@
         "calculation"
       ],
       "question": "Show how the ratio of ATP used to reduced NADP used (1.5 : 1) for one glucose molecule can be calculated from the diagram.",
-      "status": "pending",
-      "answer": "Pending: the diagram of the light-independent reactions showing the ATP and reduced NADP counts is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "ATP used = 6 + 3 = 9 and reduced NADP used = 6, so 9 : 6 = 1.5 : 1.",
+      "steps": [
+        "The diagram shows 6 ATP converted to 6 ADP when 6 GP are changed to 6 GALP.",
+        "A further 3 ATP are used (3 ATP to 3 ADP) to regenerate 3 RuBP, so the total ATP used is 6 + 3 = 9.",
+        "Reduced NADP used is 6 (6 reduced NADP to 6 NADP).",
+        "Ratio ATP : reduced NADP = 9 : 6 = 1.5 : 1."
+      ],
       "images": [
         "papers/biology/img/05A-Photosynthesis-39.jpg",
         "papers/biology/img/05A-Photosynthesis-40.jpg",
         "papers/biology/img/05A-Photosynthesis-41.jpg",
         "papers/biology/img/05A-Photosynthesis-42.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q16-3.jpg"
       ]
     },
     {

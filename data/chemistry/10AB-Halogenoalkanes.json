@@ -187,15 +187,24 @@
         "reaction 3"
       ],
       "question": "Complete the table about the reactions of 1-bromopropane shown in the scheme.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme and table from the PDF; they are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Reaction 1: KOH, water (aqueous), nucleophilic substitution. Reaction 2: ammonia, ethanol, nucleophilic substitution. Reaction 3: potassium cyanide (KCN), ethanol (given), nucleophilic substitution. Reaction 4: potassium hydroxide, ethanol, elimination (type given).",
+      "steps": [
+        "Reaction 1 makes C3H7OH: hydrolysis with aqueous KOH, so the solvent is water and the type is nucleophilic substitution (OH- replaces Br).",
+        "Reaction 2 makes C3H7NH2: ammonia (in excess, as a concentrated solution in ethanol, heated under pressure); NH3 replaces Br, so nucleophilic substitution.",
+        "Reaction 3 makes C3H7CN: the reagent is potassium (or sodium) cyanide, KCN, dissolved in the given ethanol; CN- replaces Br, so nucleophilic substitution.",
+        "Reaction 4 makes C3H6 (propene): the type is given as elimination, so the reagent is potassium hydroxide and the solvent is ethanol (hot, ethanolic KOH)."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-03.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-04.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-05.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q3.jpg",
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q3-2.jpg"
       ]
     },
     {
@@ -210,15 +219,21 @@
         "1-bromopropane"
       ],
       "question": "Give the IUPAC name of the product of Reaction 3 from 1-bromopropane.",
-      "status": "pending",
-      "answer": "Needs the Reaction 3 scheme from the PDF to identify the product",
-      "steps": [],
+      "status": "ready",
+      "answer": "Butanenitrile",
+      "steps": [
+        "Reaction 3 is 1-bromopropane + CN- -> CH3CH2CH2CN + Br-, which adds one carbon to the chain.",
+        "The longest chain including the nitrile carbon has 4 carbons, so the product is butanenitrile (no locant is needed because the CN carbon is C1)."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-03.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-04.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-05.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q3.jpg"
       ]
     },
     {
@@ -234,15 +249,24 @@
         "1-bromopropane"
       ],
       "question": "Complete the mechanism for Reaction 2 of 1-bromopropane, showing the formation of intermediate F and of the product.",
-      "status": "pending",
-      "answer": "Needs the Reaction 2 reagent and the partly drawn mechanism from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Step 1: the lone pair on NH3 attacks the C(delta+) and the C-Br bond breaks, giving intermediate F, CH3CH2CH2NH3+, and Br-. Step 2: a second NH3 removes H+ from the N, giving CH3CH2CH2NH2 and NH4+ (as NH4Br).",
+      "steps": [
+        "Mark the dipole on C-Br: C delta+ and Br delta-.",
+        "Curly arrow from the lone pair on the N of NH3 to the delta+ carbon, and a curly arrow from the C-Br bond to the Br atom, forming intermediate F and Br-.",
+        "In the second step a curly arrow goes from the lone pair of a second NH3 molecule to an H on the N+ of F, and a second curly arrow goes from that N-H bond to the N atom.",
+        "Products: propylamine, CH3CH2CH2NH2, and the ammonium ion NH4+ (with Br- as the counter ion)."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-03.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-04.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-05.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q3.jpg",
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q3-3.jpg"
       ]
     },
     {
@@ -261,15 +285,24 @@
         "structure"
       ],
       "question": "Explain the relative rates of hydrolysis of a series of halogenoalkanes (time for a silver halide precipitate to appear in aqueous silver nitrate and ethanol at 50 C), considering the reaction, the structures and the bond strengths.",
-      "status": "pending",
-      "answer": "Needs the results table from the PDF to state the order of the halogenoalkanes",
-      "steps": [],
+      "status": "ready",
+      "answer": "The silver halide forms when water hydrolyses the halogenoalkane and the released halide ion meets Ag+. Rate order: 2-iodobutane > 2-bromo-2-methylbutane > 2-bromobutane > 1-bromobutane > 2-chlorobutane. The weaker the C-X bond, the faster the reaction; with the same halogen, tertiary > secondary > primary.",
+      "steps": [
+        "Reaction: water (in aqueous ethanol) acts as a nucleophile and replaces the halogen (nucleophilic substitution/hydrolysis); the halide ion released forms a precipitate with Ag+ (AgI yellow, AgBr cream, AgCl white). A shorter time to the precipitate means a faster reaction.",
+        "Bond strength: among the secondary compounds the times are 2-iodobutane < 1 s, 2-bromobutane 29 s, 2-chlorobutane 75 s. The C-I bond is the weakest and C-Cl the strongest, so C-I breaks most easily and C-Cl least easily.",
+        "Structure: with bromine as the halogen, the tertiary 2-bromo-2-methylbutane (13 s) is faster than the secondary 2-bromobutane (29 s), which is faster than the primary 1-bromobutane (41 s).",
+        "Reason: the tertiary carbon forms the most stable carbocation because three alkyl groups push electrons towards it, so the C-Br bond breaks more readily (SN1); a primary carbon gives a much less stable carbocation.",
+        "Conclusion: bond strength (C-I < C-Br < C-Cl) is the dominant factor, and structure (tertiary > secondary > primary) is the second factor."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-03.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-04.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-05.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q3-4.jpg"
       ]
     },
     {
@@ -284,12 +317,19 @@
         "halogenoalkane"
       ],
       "question": "Which is the structure of 2-bromo-3-chloro-2-methylbutane? (Options shown as structures.)",
-      "status": "pending",
-      "answer": "Needs the structural options from the PDF; they are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A",
+      "steps": [
+        "2-bromo-3-chloro-2-methylbutane has a four-carbon (butane) chain, with Br and a methyl group both on C2 and a Cl on C3.",
+        "A shows C2 with Br, a CH3 branch and the chain CH3, and C3 with Cl, H and CH3, which matches.",
+        "B has the halogens swapped (3-bromo-2-chloro-2-methylbutane), C has an extra methyl on C3 (2-bromo-3-chloro-2,3-dimethylbutane), and D has both halogens on the same carbon."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q4.jpg"
       ]
     },
     {
@@ -306,12 +346,18 @@
         "organic"
       ],
       "question": "How should the reaction shown be classified? A addition, B oxidation, C polymerisation, D substitution.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme shown in the PDF; it is not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: addition",
+      "steps": [
+        "The reactant is propene (a C=C double bond) and the product is propane, which has no double bond.",
+        "Hydrogen adds across the C=C bond, which is an addition reaction (it is also a reduction, but that is not among the options)."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q5.jpg"
       ]
     },
     {
@@ -328,12 +374,18 @@
         "organic"
       ],
       "question": "How should the second reaction shown be classified? A addition, B oxidation, C reduction, D substitution.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme shown in the PDF; it is not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: oxidation",
+      "steps": [
+        "The reactant is propan-2-ol, a secondary alcohol, and the product is propanone, a ketone with a C=O group.",
+        "Converting a secondary alcohol to a ketone removes two hydrogen atoms (it needs an oxidising agent such as acidified dichromate), so it is oxidation."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q5-2.jpg"
       ]
     },
     {
@@ -402,12 +454,19 @@
         "one carbon"
       ],
       "question": "Which structure represents a primary halogenoalkane?",
-      "status": "pending",
-      "answer": "Needs the structural options from the PDF; they are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C",
+      "steps": [
+        "A primary halogenoalkane has the halogen on a carbon that is bonded to only one other carbon.",
+        "In C the Cl is on a CH2 group at the end of the chain, bonded to a single carbon, so it is primary.",
+        "A and D have the Cl on a carbon bonded to two other carbons (secondary), and B has the Cl on a carbon bonded to three other carbons (tertiary)."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-08.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q7.jpg"
       ]
     },
     {
@@ -508,13 +567,21 @@
         "trend"
       ],
       "question": "Explain the trend in boiling temperatures of the halogenoalkanes shown, comparing the intermolecular forces involved.",
-      "status": "pending",
-      "answer": "Needs the boiling temperature table from the PDF to state the trend",
-      "steps": [],
+      "status": "ready",
+      "answer": "Boiling temperature rises from 1-chloropropane (47 C) to 1-bromopropane (71 C) to 1-iodopropane (103 C) because the London forces get stronger as the molecules get larger.",
+      "steps": [
+        "All three molecules have London forces and permanent dipole-dipole forces between them.",
+        "Going from Cl to Br to I, the molecules have more electrons, so a larger, more polarisable electron cloud and stronger London forces.",
+        "More energy is needed to overcome these stronger intermolecular forces, so the boiling temperature increases.",
+        "The C-X bond is less polar down the group, so permanent dipole-dipole forces are not the cause of the trend; the London forces dominate."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-09.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-10.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q8.jpg"
       ]
     },
     {
@@ -558,12 +625,19 @@
         "naming"
       ],
       "question": "What is the skeletal formula of 2-chloro-4,4-dimethylhexane? (Options shown as structures.)",
-      "status": "pending",
-      "answer": "Needs the skeletal-formula options from the PDF; they are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B",
+      "steps": [
+        "Build the skeleton: a six-carbon chain (hexane) with Cl on C2 and two methyl groups on C4.",
+        "B shows a six-carbon chain with Cl on the second carbon from one end and a carbon carrying two methyl branches two bonds further along (C4).",
+        "A is 5-chloro-2,2-dimethylhexane, C is 2-chloro-3,3-dimethylhexane and D is a ring compound."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-11.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q9.jpg"
       ]
     },
     {
@@ -607,12 +681,19 @@
         "reaction mechanism"
       ],
       "question": "Part of a reaction mechanism is shown with arrows 1 to 4. Which curly arrow is not correct? A arrow 1, B arrow 2, C arrow 3, D arrow 4.",
-      "status": "pending",
-      "answer": "Needs the mechanism diagram from the PDF to identify the incorrect arrow",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: arrow 3",
+      "steps": [
+        "Arrow 1 (from the C-Br bond to Br) and arrow 2 (from the lone pair on NH3 to the delta+ carbon) are correct.",
+        "Arrow 4, from the lone pair on a second NH3 to the H on the N+, is correct because it shows a base removing H+.",
+        "Arrow 3 is drawn from the N atom towards the N-H bond. A curly arrow must start at the electron pair (the N-H bond) and end at the atom receiving it (N), so it is drawn the wrong way round."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-13.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q11.jpg"
       ]
     },
     {
@@ -682,12 +763,18 @@
         "first step"
       ],
       "question": "A student drew the first step of the mechanism for ammonia reacting with 1-chlorobutane. Identify two omissions in the student's mechanism.",
-      "status": "pending",
-      "answer": "Needs the student's mechanism diagram from the PDF to identify the two omissions",
-      "steps": [],
+      "status": "ready",
+      "answer": "The NH3 has no lone pair drawn on the nitrogen, and the C-Cl bond has no delta+ marked on the carbon.",
+      "steps": [
+        "The curly arrow for the attack must start from a lone pair on N, but the student drew none on the ammonia.",
+        "The C-Cl bond is shown with delta- on Cl but no delta+ on the carbon being attacked, so the dipole is incomplete."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-14.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q13.jpg"
       ]
     },
     {
@@ -716,6 +803,9 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-14.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q13-2.jpg"
       ]
     },
     {
@@ -953,14 +1043,22 @@
         "calorimeter"
       ],
       "question": "Use the temperature-time graph for the neutralisation of 25.0 cm3 of 0.80 mol dm-3 NaOH with 0.80 mol dm-3 HCl to determine the maximum temperature change, T, showing working on the graph.",
-      "status": "pending",
-      "answer": "Needs the temperature-time graph from the PDF to extrapolate the maximum temperature",
-      "steps": [],
+      "status": "ready",
+      "answer": "Delta T = 4.4 C (accept 4.3 to 4.5)",
+      "steps": [
+        "The solutions were mixed at 120 s, so the temperature rise is measured at 120 s, not at the highest point reached.",
+        "Draw a straight line of best fit through the cooling points (150 s to 330 s) and extrapolate it back to 120 s, where it reads about 26.8 C.",
+        "The temperature before mixing is steady at 22.4 C.",
+        "Delta T = 26.8 - 22.4 = 4.4 C."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q19.jpg"
       ]
     },
     {
@@ -978,14 +1076,22 @@
         "kJ mol-1"
       ],
       "question": "Using the maximum temperature change from (b)(i), calculate the enthalpy change of neutralisation (sign and units). Assume no energy heats the container, specific heat capacity of the solution is 4.2 J g-1 C-1, and densities are 1.0 g cm-3.",
-      "status": "pending",
-      "answer": "Depends on the temperature change read from the PDF graph in Q19(b)(i)",
-      "steps": [],
+      "status": "ready",
+      "answer": "-46 kJ mol-1",
+      "steps": [
+        "Total volume of solution = 25.0 + 25.0 = 50.0 cm3, so the mass is 50.0 g (density 1.0 g cm-3).",
+        "Heat released q = m c delta T = 50.0 x 4.2 x 4.4 = 924 J.",
+        "Moles of water formed = 0.80 x 25.0 / 1000 = 0.0200 mol (NaOH and HCl react 1:1 in equal amounts).",
+        "Delta H = -924 / 0.0200 = -46 200 J mol-1 = -46 kJ mol-1 (negative because the temperature rises)."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q19.jpg"
       ]
     },
     {
@@ -1116,12 +1222,19 @@
         "carbon bonded to three carbons"
       ],
       "question": "The structures of three bromoalkanes P, Q and R are shown. Which may be classified as tertiary? A P only, B Q only, C R only, D Q and R only.",
-      "status": "pending",
-      "answer": "Needs the structures of P, Q and R from the PDF; they are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: R only",
+      "steps": [
+        "In a tertiary bromoalkane the carbon bonded to Br is attached to three other carbon atoms.",
+        "R has the C-Br carbon bonded to three other carbons, so it is tertiary.",
+        "P has the C-Br carbon bonded to two carbons (secondary) and Q has Br on a CH2 group bonded to one carbon (primary)."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q20.jpg"
       ]
     },
     {
@@ -1138,13 +1251,19 @@
         "amine"
       ],
       "question": "Identify, by name or formula, the reagent used in Step X in the synthesis of propylamine, CH3CH2CH2NH2 (three routes shown).",
-      "status": "pending",
-      "answer": "Needs the synthesis route scheme from the PDF; it is not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Hydrogen chloride, HCl",
+      "steps": [
+        "Step X converts CH2=CH2 into CH3CH2Cl, so H and Cl add across the C=C double bond.",
+        "This is electrophilic addition of HCl (as the gas or in a non-aqueous solvent)."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-21.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg"
       ]
     },
     {
@@ -1160,13 +1279,19 @@
         "structure"
       ],
       "question": "Give the structure of organic compound W in the synthesis of propylamine.",
-      "status": "pending",
-      "answer": "Needs the synthesis route scheme from the PDF; it is not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "CH3CH2CN (propanenitrile)",
+      "steps": [
+        "KCN substitutes the Cl of CH3CH2Cl with CN, so W is CH3CH2CN.",
+        "Hydrogenation then reduces the C-N triple bond to CH2NH2, giving CH3CH2CH2NH2, which matches the scheme."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-21.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg"
       ]
     },
     {
@@ -1224,6 +1349,9 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-21.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg"
       ]
     },
     {
@@ -1253,6 +1381,9 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-21.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg"
       ]
     },
     {
@@ -1280,6 +1411,9 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-21.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg"
       ]
     },
     {
@@ -1886,11 +2020,18 @@
         "nomenclature"
       ],
       "question": "Give the systematic name for the molecule shown. Options: A E-1-bromo-2-methylbut-2-ene, B E-2-methyl-1-bromobut-1-ene, C E-1-bromo-3-methylpent-2-ene, D E-1-bromo-2-methylbut-1-ene.",
-      "status": "pending",
-      "answer": "Needs the molecule drawing from the PDF to check the chain and double bond position",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: E-1-bromo-2-methylbut-1-ene",
+      "steps": [
+        "The longest chain containing the C=C has four carbons (but-1-ene), with the double bond between C1 and C2 and Br on C1.",
+        "There is a methyl group on C2, so the name is 1-bromo-2-methylbut-1-ene.",
+        "At C1 the higher priority group is Br (over H), and at C2 it is the ethyl group (over methyl). In the drawing Br and the ethyl group are on opposite sides of the C=C, so it is E."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q26.jpg"
       ]
     },
     {
@@ -1936,14 +2077,22 @@
         "S8"
       ],
       "question": "Calculate the mean bond enthalpy, in kJ mol-1, for a single S-F bond, from the S8 structure and bond enthalpy data shown.",
-      "status": "pending",
-      "answer": "Needs the bond enthalpy data table from the PDF; the values are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "322 kJ mol-1",
+      "steps": [
+        "S8 is a ring with 8 S-S bonds, and 8 SF6 molecules contain 8 x 6 = 48 S-F bonds.",
+        "Bonds broken: 8 x 268 (S-S) + 24 x 151 (F-F) = 2144 + 3624 = 5768 kJ.",
+        "Delta H = bonds broken - bonds formed, so -9672 = 5768 - 48x.",
+        "48x = 5768 + 9672 = 15 440, so x = 321.7, which is 322 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-31.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q28.jpg"
       ]
     },
     {
@@ -2108,14 +2257,21 @@
         "bromo compound"
       ],
       "question": "Calculate the percentage by mass of bromine in the fire retardant whose structure is shown.",
-      "status": "pending",
-      "answer": "Needs the fire retardant structure from the PDF to count bromine atoms and the molar mass",
-      "steps": [],
+      "status": "ready",
+      "answer": "74.7%",
+      "steps": [
+        "The ring has 12 carbons: 6 CHBr groups and 6 CH2 groups, so the formula is C12H18Br6.",
+        "Mr = 12 x 12.0 + 18 x 1.0 + 6 x 79.9 = 144.0 + 18.0 + 479.4 = 641.4.",
+        "Percentage Br = 479.4 / 641.4 x 100 = 74.7% (3 significant figures)."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-31.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q28-2.jpg"
       ]
     },
     {
@@ -2161,12 +2317,18 @@
         "diagram"
       ],
       "question": "Name compound A, one of two halogenoalkanes shown in the PDF.",
-      "status": "pending",
-      "answer": "Needs the structure of A from the PDF diagram",
-      "steps": [],
+      "status": "ready",
+      "answer": "2-iodo-2-methylpropane",
+      "steps": [
+        "A has a central carbon bonded to I and to three CH3 groups.",
+        "The longest chain is three carbons (propane) with a methyl group and an iodine both on C2, so it is 2-iodo-2-methylpropane (a tertiary iodoalkane)."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q29.jpg"
       ]
     },
     {
@@ -2181,12 +2343,18 @@
         "draw"
       ],
       "question": "Draw the skeletal formula of compound B, one of two halogenoalkanes shown in the PDF.",
-      "status": "pending",
-      "answer": "Needs the structure of B from the PDF diagram",
-      "steps": [],
+      "status": "ready",
+      "answer": "A zigzag chain of four carbon atoms with a Cl atom attached to a terminal carbon (1-chlorobutane)",
+      "steps": [
+        "B is H-C-C-C-C-Cl with all other bonds to H, so it is CH3CH2CH2CH2Cl.",
+        "Skeletal formula: a zigzag of four carbon vertices/ends (three C-C bonds), with Cl drawn on the end carbon and no C or H labels."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q29.jpg"
       ]
     },
     {
@@ -2204,12 +2372,18 @@
         "halogenoalkane B"
       ],
       "question": "Describe what you would observe when separate samples of A and B are warmed with silver nitrate dissolved in aqueous ethanol.",
-      "status": "pending",
-      "answer": "Needs the structures of A and B from the PDF to predict the colour and speed of the precipitate",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: a yellow precipitate forms quickly (almost immediately). B: a white precipitate forms slowly.",
+      "steps": [
+        "A is a tertiary iodoalkane, so I- is released rapidly and forms yellow AgI.",
+        "B is a primary chloroalkane, so Cl- is released slowly and forms white AgCl, which takes much longer to appear."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q29.jpg"
       ]
     },
     {
@@ -2226,12 +2400,18 @@
         "structure"
       ],
       "question": "Give two reasons why A reacts more quickly than B when warmed with silver nitrate dissolved in aqueous ethanol.",
-      "status": "pending",
-      "answer": "Needs the structures of A and B from the PDF to give the two specific reasons",
-      "steps": [],
+      "status": "ready",
+      "answer": "The C-I bond in A is weaker than the C-Cl bond in B, and A is tertiary so it forms a more stable carbocation than the primary B.",
+      "steps": [
+        "Bond strength: the C-I bond has a lower bond enthalpy than the C-Cl bond, so it breaks more easily.",
+        "Structure: a tertiary halogenoalkane forms a more stable carbocation (three electron-donating alkyl groups), so it hydrolyses faster than a primary one."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q29.jpg"
       ]
     },
     {
@@ -2248,12 +2428,19 @@
         "name"
       ],
       "question": "Write an equation for the reaction of B with an alcoholic solution of potassium cyanide and name the organic product.",
-      "status": "pending",
-      "answer": "Needs the structure of B from the PDF to write the equation and name the nitrile",
-      "steps": [],
+      "status": "ready",
+      "answer": "CH3CH2CH2CH2Cl + KCN -> CH3CH2CH2CH2CN + KCl; the product is pentanenitrile",
+      "steps": [
+        "The cyanide ion substitutes the chlorine, so the product is CH3CH2CH2CH2CN.",
+        "Ionic form: CH3CH2CH2CH2Cl + CN- -> CH3CH2CH2CH2CN + Cl-.",
+        "Name: the chain has 5 carbons including the nitrile carbon, so pentanenitrile."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q29.jpg"
       ]
     },
     {
@@ -2323,12 +2510,19 @@
         "SN2"
       ],
       "question": "Which mechanism shows the correct movement of electrons in the reaction of chloroethane with aqueous potassium hydroxide? (Options shown as diagrams.)",
-      "status": "pending",
-      "answer": "Needs the mechanism option diagrams from the PDF; they are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C",
+      "steps": [
+        "Hydroxide acts as a nucleophile, so the arrow starts from the lone pair on :OH- and goes to the delta+ carbon that carries the Cl.",
+        "A second arrow goes from the C-Cl bond to the Cl atom, which leaves as Cl-.",
+        "C shows both arrows correctly. A and D show OH- attacking a hydrogen (the base/elimination pattern), and in B the OH- arrow points at the carbon that is not bonded to Cl."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-36.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q30.jpg"
       ]
     },
     {
@@ -2506,13 +2700,19 @@
         "structure"
       ],
       "question": "Name compound X, a halogenoalkane shown in the PDF.",
-      "status": "pending",
-      "answer": "Needs the structure of compound X from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "2-chloro-3-methylbutane",
+      "steps": [
+        "X has a four-carbon chain with Cl on C2 and a methyl group on C3.",
+        "Numbered so that the Cl gets the lower number, Cl is at position 2 and the methyl at position 3, so it is 2-chloro-3-methylbutane."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q33.jpg"
       ]
     },
     {
@@ -2556,13 +2756,20 @@
         "compound X"
       ],
       "question": "Draw the structures of the two isomers formed when compound X reacts with hot, concentrated ethanolic KOH.",
-      "status": "pending",
-      "answer": "Needs the structure of X from the PDF to draw the two alkene isomers",
-      "steps": [],
+      "status": "ready",
+      "answer": "Isomer 1: 3-methylbut-1-ene, CH2=CH-CH(CH3)2. Isomer 2: 2-methylbut-2-ene, (CH3)2C=CH-CH3.",
+      "steps": [
+        "Elimination removes HCl: Cl leaves from C2 and an H is removed from a neighbouring carbon.",
+        "H lost from C1 (the CH3 next to the C-Cl carbon) gives CH2=CH-CH(CH3)2, 3-methylbut-1-ene.",
+        "H lost from C3 (the CH carbon with the two methyl groups) gives (CH3)2C=CH-CH3, 2-methylbut-2-ene."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q33.jpg"
       ]
     },
     {
@@ -2580,13 +2787,21 @@
         "lone pair"
       ],
       "question": "Complete the reaction mechanism for compound X reacting with cold, dilute aqueous potassium hydroxide, with curly arrows, lone pairs and dipoles.",
-      "status": "pending",
-      "answer": "Needs the structure of compound X and the partly drawn mechanism from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "SN2 nucleophilic substitution: the lone pair on OH- attacks the C(delta+) and the C-Cl bond breaks, giving 3-methylbutan-2-ol and Cl-.",
+      "steps": [
+        "Mark the dipole on the C-Cl bond: C delta+ and Cl delta-.",
+        "Curly arrow from the lone pair on :OH- to the delta+ carbon.",
+        "Curly arrow from the C-Cl bond to Cl, so Cl- leaves.",
+        "Product: (CH3)2CHCH(OH)CH3, 3-methylbutan-2-ol."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q33-2.jpg"
       ]
     },
     {
@@ -2604,13 +2819,20 @@
         "bond strength"
       ],
       "question": "Compound Y also reacts with cold, dilute aqueous KOH. Explain how the rate of reaction will compare with that of compound X.",
-      "status": "pending",
-      "answer": "Needs the structures of X and Y from the PDF to compare their rates",
-      "steps": [],
+      "status": "ready",
+      "answer": "Y reacts faster than X because the C-I bond is weaker than the C-Cl bond.",
+      "steps": [
+        "X and Y have the same carbon skeleton and both are secondary, so only the halogen differs.",
+        "The C-I bond has a lower bond enthalpy than the C-Cl bond (I- is a better leaving group), so it is broken more easily and Y hydrolyses faster."
+      ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q33.jpg",
+        "papers/chemistry/fig/10AB-Halogenoalkanes-Q33-3.jpg"
       ]
     },
     {

@@ -78,12 +78,19 @@
         "hydrolysis"
       ],
       "question": "Which row of the table describes reaction 1 and reaction 2 in the PET breakdown diagram?",
-      "status": "pending",
-      "answer": "Needs the PET breakdown diagram and the table of rows (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: reaction 1 is hydrolysis and reaction 2 is hydrolysis.",
+      "steps": [
+        "In reaction 1 the long PET polymer is split into MET monomers, so ester bonds are broken by adding water.",
+        "In reaction 2 MET is split into ethylene glycol and terephthalic acid; the remaining ester bond is again broken by adding water.",
+        "Breaking a bond by adding water is hydrolysis, so both reactions are hydrolysis (row D). Condensation would join molecules and release water."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-01.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-02.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q1b.jpg"
       ]
     },
     {
@@ -555,9 +562,14 @@
         "decomposition"
       ],
       "question": "Calculate the rate at which the relative mass of green tea decreases in teabags buried at 15 deg C at day 30.",
-      "status": "pending",
-      "answer": "Needs the graph values of relative mass of green tea at 15 deg C (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 0.007 per day (relative mass decreasing by about 0.007 day^-1; accept 0.005 to 0.009).",
+      "steps": [
+        "Rate at day 30 is the gradient of the curve at that point, so draw a tangent to the green tea at 15 deg C curve at 30 days.",
+        "The curve passes through 0.50 at day 30; the tangent falls from about 0.60 at day 20 to about 0.46 at day 40.",
+        "Gradient = change in relative mass / change in time = (0.46 - 0.60) / (40 - 20) = -0.14/20 = -0.007 per day.",
+        "So relative mass decreases at about 0.007 day^-1 (no units for relative mass, per day)."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-09.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-10.jpg",
@@ -565,6 +577,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-12.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-13.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-14.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q5a.jpg"
       ]
     },
     {
@@ -583,9 +598,15 @@
         "graph"
       ],
       "question": "Explain the difference in the decrease in relative mass of green tea teabags buried at 15 deg C and 25 deg C, using the graph.",
-      "status": "pending",
-      "answer": "Needs the graph of relative mass against time for 15 deg C and 25 deg C (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Green tea decomposes faster and further at 25 deg C (to 0.30 by about 30 days) than at 15 deg C (0.50 at 30 days, levelling near 0.40), because warmer soil gives faster decomposer enzyme activity and respiration.",
+      "steps": [
+        "At 25 deg C relative mass falls much more steeply: about 0.35 by day 15 and 0.30 by day 30, compared with about 0.50 at day 30 at 15 deg C.",
+        "The 25 deg C curve then stays level at 0.30, whereas 15 deg C continues to fall slowly to about 0.41 at day 70 and about 0.40 later, so more tea has been lost (70% against 60%).",
+        "Higher temperature gives enzymes and substrate more kinetic energy, so more frequent collisions and more enzyme-substrate complexes; decomposers (bacteria and fungi) digest the tea faster.",
+        "Decomposers are also more active, grow and respire faster at 25 deg C, using up the organic matter more quickly.",
+        "Both curves level off because the remaining material (e.g. lignin-like compounds) is resistant to decomposition."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-09.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-10.jpg",
@@ -593,6 +614,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-12.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-13.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-14.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q5a.jpg"
       ]
     },
     {
@@ -626,6 +650,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-12.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-13.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-14.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q5a.jpg"
       ]
     },
     {
@@ -658,6 +685,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-12.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-13.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-14.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q5b.jpg"
       ]
     },
     {
@@ -675,9 +705,15 @@
         "graph"
       ],
       "question": "Explain which ecosystems should be conserved to have the greatest impact on climate change, using the graph.",
-      "status": "pending",
-      "answer": "Needs the graph of decomposition rate against stabilisation factor S for each ecosystem (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Conserve the loamy desert in China (highest S, about 0.55, with the lowest decomposition rate, about 0.004), then sandy desert in China and birch forest in Austria (S about 0.3).",
+      "steps": [
+        "A higher S means more carbon is stored in the ecosystem, so the ecosystems with the highest S keep the most carbon out of the atmosphere.",
+        "Loamy desert in China (6) has the highest S, about 0.55, and the lowest decomposition rate, about 0.004 a.u., so carbon is released slowly and stored for longest.",
+        "Sandy desert in China (5) and birch forest in Austria (3) come next, with S about 0.3; their error bars overlap with each other.",
+        "Forest in Panama (1) has the lowest S, about 0.05, and the highest decomposition rate, about 0.039 a.u., so it stores little carbon and releases CO2 quickly.",
+        "Conserving high-S ecosystems prevents the stored carbon being released as CO2, reducing the greenhouse effect."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-09.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-10.jpg",
@@ -685,6 +721,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-12.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-13.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-14.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q5b.jpg"
       ]
     },
     {
@@ -703,13 +742,21 @@
         "starch"
       ],
       "question": "For each carbohydrate in the table, put one cross to show whether it is produced in plants or animals.",
-      "status": "pending",
-      "answer": "Needs the table of carbohydrates and tick boxes (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Amylose: plants but not animals; Glucose: both plants and animals; Glycogen: animals but not plants; Starch: plants but not animals.",
+      "steps": [
+        "Starch (amylose and amylopectin) is the storage carbohydrate of plants, so amylose and starch are made in plants but not animals.",
+        "Glycogen is the storage carbohydrate of animals (stored in liver and muscle), so it is made in animals but not plants.",
+        "Glucose is made by plants in photosynthesis and in animals by breakdown of glycogen and by gluconeogenesis, so it is produced by both.",
+        "One cross in each row, in the correct column, scores each mark (4 rows)."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-14.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-15.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-16.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q6.jpg"
       ]
     },
     {
@@ -739,6 +786,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-14.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-15.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-16.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q6-2.jpg"
       ]
     },
     {
@@ -757,13 +807,21 @@
         "carbon cycle"
       ],
       "question": "Calculate the increase in mass of carbon in plants from exchange with the atmosphere in one year, in kg.",
-      "status": "pending",
-      "answer": "Needs the carbon-cycle diagram values for plant and atmosphere exchange (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "6.1 x 10^13 kg",
+      "steps": [
+        "From the diagram, plants take in 120 Pg of carbon per year from the atmosphere and return 59 Pg per year to it.",
+        "Net increase in carbon in plants = 120 - 59 = 61 Pg per year.",
+        "1 Pg = 10^15 g, so 61 Pg = 61 x 10^15 g = 6.1 x 10^16 g.",
+        "Convert grams to kilograms by dividing by 1000: 6.1 x 10^16 g = 6.1 x 10^13 kg."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-14.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-15.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-16.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q6-2.jpg"
       ]
     },
     {
@@ -898,14 +956,21 @@
         "10.62 C"
       ],
       "question": "Calculate the mean growth rate of these larvae from 25 to 120 hours, including units.",
-      "status": "pending",
-      "answer": "Needs the mean larval lengths at 25 h and 120 h from the graph (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.12 mm per hour (mm h^-1)",
+      "steps": [
+        "Read the graph: mean length is about 2.5 mm at 25 hours and about 13.9 mm at 120 hours.",
+        "Growth rate = change in length / change in time = (13.9 - 2.5) / (120 - 25) = 11.4 / 95.",
+        "= 0.12 mm per hour (accept about 0.11 to 0.13 mm h^-1); the unit is mm h^-1."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-16.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-17.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-18.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-19.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q7.jpg"
       ]
     },
     {
@@ -924,14 +989,22 @@
         "limitations"
       ],
       "question": "Comment on the suitability of using this larval growth data to estimate time of death, using the graph.",
-      "status": "pending",
-      "answer": "Needs the graph of mean larval length against time (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Partly suitable: mean length rises steadily with time, so it can give an estimate of larval age, but large error bars, a flat start, one temperature and unknown egg-laying time make it only approximate.",
+      "steps": [
+        "Suitable: length increases fairly steadily from about 2 mm at 13 hours to about 14 mm at 120 hours, so a measured length can be matched to an age of the larvae.",
+        "Limited precision: error bars are large at some times (about 5 to 7 mm at 50 hours, about 7.8 to 10.4 mm at 75 hours) and neighbouring bars overlap, so the age could be out by many hours.",
+        "Between about 13 and 25 hours the length hardly changes (about 2 to 2.5 mm), so ages in that range cannot be told apart.",
+        "Data were collected at one temperature (10.62 deg C); at the scene the temperature differs and growth rate changes, and the larval age is measured from hatching, not from death, so the time of death must be corrected for egg-laying."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-16.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-17.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-18.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-19.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q7.jpg"
       ]
     },
     {
@@ -963,6 +1036,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-17.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-18.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-19.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q7.jpg"
       ]
     },
     {
@@ -1131,13 +1207,22 @@
         "scavengers"
       ],
       "question": "Explain the results of the two scavenging studies, using the table of feeding times and the graph of carcass consumption time.",
-      "status": "pending",
-      "answer": "Needs the table of feeding times and the graph of carcass consumption time for the two regions (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Where the cancer was common there were fewer devils, so devils fed for much less of the time (0.26 against 0.76), other scavengers fed more, and carcasses took longer to be eaten (about 25 days against about 20 days).",
+      "steps": [
+        "Healthy region: Tasmanian devils spent 0.76 of the feeding time and the other scavengers only 0.13 (raven), 0.06 (quoll) and 0.05 (cat); cancer region: devils 0.26, raven 0.38, quoll 0.20, cat 0.16.",
+        "Devils are the main scavenger and drive other scavengers away; in the cancer region devil numbers have fallen, so devils feed less and there is less competition and aggression, so the other three species feed for more of the time.",
+        "The graph shows carcasses disappear faster where devils are healthy: only 0.25 of the carcass is left at 7.5 days compared with about 0.58 where cancer was common, and nothing is left by 20 days compared with about 25 days.",
+        "So the other scavengers cannot replace the devils: they eat carcasses less quickly and less completely, so carcass removal is slower.",
+        "Carcasses left longer give more time for decomposers and flies, and a greater chance that disease spreads; nutrient recycling is slower."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-21.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-22.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q9.jpg"
       ]
     },
     {
@@ -1168,6 +1253,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-21.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-22.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q9.jpg"
       ]
     },
     {
@@ -1246,13 +1334,20 @@
         "calculation"
       ],
       "question": "Calculate the total length of time, in hours to 2 decimal places, that this PCR process would take.",
-      "status": "pending",
-      "answer": "Needs the step times and number of cycles shown in the PCR diagram (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "1.38 hours",
+      "steps": [
+        "One cycle = 30 s + 30 s + 1 min = 2 min, and there are 35 cycles: 35 x 2 = 70 min.",
+        "Add the start and end steps: 2.5 min + 70 min + 10 min = 82.5 min.",
+        "Convert to hours: 82.5 / 60 = 1.375 hours = 1.38 hours (2 d.p.)."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-24.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-25.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-26.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q10.jpg"
       ]
     },
     {
@@ -1283,6 +1378,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-24.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-25.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-26.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q10.jpg"
       ]
     },
     {
@@ -1344,6 +1442,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-28.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-29.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-30.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q11.jpg"
       ]
     },
     {
@@ -1361,9 +1462,13 @@
         "equation"
       ],
       "question": "What is the relationship between NPP, GPP and respiration (R)? Options: A NPP = GPP + R; B, C and D are printed with the same corrupted text.",
-      "status": "pending",
-      "answer": "Options B, C and D are corrupted in the text so the correct letter cannot be confirmed; the relationship is NPP = GPP - R.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: NPP = GPP - R",
+      "steps": [
+        "Gross primary productivity is the total energy fixed in photosynthesis; some of it is used by the plant in respiration (R).",
+        "Net primary productivity is what is left for growth and for the next trophic level, so NPP = GPP - R (option B).",
+        "Adding, multiplying or dividing by R does not describe energy lost, so A, C and D are wrong."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-26.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-27.jpg",
@@ -1387,15 +1492,22 @@
         "food chain"
       ],
       "question": "Calculate the ratio of the energy contents of trophic levels 1 : 2 : 3 shown in the table.",
-      "status": "pending",
-      "answer": "Needs the energy content values for the three trophic levels from the table (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "98.3 : 9.6 : 1 (trophic level 1 : 2 : 3)",
+      "steps": [
+        "Energy contents from the table: level 1 (tree) 90 480, level 2 (gerenuk) 8 825, level 3 (lion) 920 kJ m^-2 year^-1.",
+        "Divide each value by the smallest, 920: 90 480 / 920 = 98.3; 8 825 / 920 = 9.6; 920 / 920 = 1.",
+        "Ratio level 1 : level 2 : level 3 = 98.3 : 9.6 : 1 (about 100 : 10 : 1)."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-26.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-27.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-28.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-29.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-30.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q11.jpg"
       ]
     },
     {
@@ -1427,6 +1539,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-28.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-29.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-30.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q11.jpg"
       ]
     },
     {
@@ -1477,15 +1592,24 @@
         "common ancestor"
       ],
       "question": "Deduce how the gerenuk evolved to occupy a different niche from the springbok, using the table and photographs.",
-      "status": "pending",
-      "answer": "Needs the table of gerenuk and springbok data and the photographs (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Natural selection acting on variation in a common ancestor favoured gerenuk that fed on leaves higher in trees (longer legs and neck, taller), which reduced competition with springbok for grass and gave a different niche.",
+      "steps": [
+        "The gerenuk and springbok share a common ancestor, so differences arose through mutation producing variation in alleles, followed by natural selection.",
+        "Competition for short grass (the springbok diet) was a selection pressure; gerenuk that could reach leaves of trees up to 2 m above the ground had more food, survived and reproduced, passing on the alleles.",
+        "The photographs show the gerenuk standing upright on its hind legs with a long neck and long legs; the table shows it is taller (80 to 105 cm compared with 69 to 87 cm), adaptations for browsing.",
+        "The gerenuk also gets its water from the water content of its food, whereas the springbok drinks when water is available, so the gerenuk can live in drier areas away from water.",
+        "So the two species differ in diet, feeding height and water use, which reduces interspecific competition and lets them coexist in different niches, and over many generations the populations became reproductively isolated species."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-26.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-27.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-28.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-29.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-30.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q11-2.jpg"
       ]
     },
     {
@@ -1714,14 +1838,22 @@
         "A2"
       ],
       "question": "Describe the conclusions that can be made about albumin compared with the other four plasma proteins, using the electrophoresis diagram.",
-      "status": "pending",
-      "answer": "Needs the electrophoresis banding diagram for albumin, A1, A2, B and G (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Albumin moved furthest from the origin and has the thickest band, so it is the smallest (or most negatively charged) of the five proteins and the most abundant in plasma.",
+      "steps": [
+        "Proteins at pH 7.4 carry negative charge, so they move through the gel towards the positive end; the further a band is from the origin, the faster it moved.",
+        "Albumin is the furthest from the origin, so it moved fastest: it has the smallest size (lower molecular mass) and/or the greatest negative charge compared with A1, A2, B and G.",
+        "G is nearest the origin, so it moved slowest and is probably the largest or least charged of the five.",
+        "The albumin band is much larger and thicker than the other four, so albumin is present in the greatest amount (highest concentration) in blood plasma."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-32.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-33.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-34.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-35.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q13.jpg"
       ]
     },
     {
@@ -1892,14 +2024,23 @@
         "effects"
       ],
       "question": "Discuss the possible effects of increasing the number of whales on climate change, using the relationship diagram and the data in the question.",
-      "status": "pending",
-      "answer": "Needs the relationship diagram linking whales, other organisms and carbon or nitrogen (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "More whales would probably reduce atmospheric CO2: whale faeces and diving bring nutrients to the surface so phytoplankton photosynthesise more, and dead whales sink and store carbon on the sea floor, but there are uncertainties.",
+      "steps": [
+        "Whale faeces release nitrogen-containing nutrients (a Right whale releases about 16.8 kg of nitrogen per year) and diving brings nutrients up, so nitrate rises and phytoplankton grow faster.",
+        "More phytoplankton photosynthesise, taking CO2 from the water and atmosphere into biomass (carbon fixed in sugars), which passes to zooplankton, fish and other animals.",
+        "Dead whales sink to the bottom where there is less oxygen, so decomposition is slow and the carbon in their bodies is locked up for a long time instead of returning to the atmosphere.",
+        "Data: whale numbers fell by 74% (5 million to 1.3 million); restoring them could remove 1.7 x 10^9 US tons of CO2 per year, which is about 1.54 x 10^12 kg, reducing the greenhouse effect and global warming.",
+        "Limitations: the figure is a model-based prediction; whales, plankton and fish also respire and release CO2; the removal is small compared with human emissions, so reducing fossil fuel use is still needed."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-35.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-36.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-37.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-38.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q14.jpg"
       ]
     },
     {
@@ -1931,6 +2072,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-40.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-41.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-42.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q15.jpg"
       ]
     },
     {
@@ -1962,6 +2106,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-40.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-41.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-42.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q15.jpg"
       ]
     },
     {
@@ -2012,15 +2159,25 @@
         "post mortem"
       ],
       "question": "Comment on the usefulness of these blood chemicals for determining the time of death of rats and pigs, using the graphs.",
-      "status": "pending",
-      "answer": "Needs the graphs of blood chemical levels against time for rats and pigs (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Each chemical is useful only over part of the time range, and rats and pigs show different patterns, so the chemicals work best used together; pH is the most consistent and ammonia in pigs the most useful after 24 hours.",
+      "steps": [
+        "pH of blood falls steadily in both species, from about 7.3 at death to about 5.1 at 96 hours, with small error bars, so it can indicate time of death throughout, but values at 72 and 96 hours are almost the same.",
+        "Lactate rises quickly then levels off in both species: about 1.4 (rat) and 0.5 (pig) at 0 hours to about 9 to 10 by 9 hours, so it only helps estimate death within the first few hours.",
+        "Ammonia in pigs rises continuously (about 1.9 at 24 hours to about 12.7 at 96 hours), so it is useful for later times, but in rats it rises to about 2 then falls to about 0.1 by 48 hours, so one value matches two different times.",
+        "Hypoxanthine in rats rises to about 10.6 at 32 hours then falls, and in pigs it stays low until 9 hours then rises, so patterns differ between species and the same level can mean two different times.",
+        "Error bars are large for rats (e.g. hypoxanthine and lactate) and the sample is small (five rats, two pigs), so estimates would be imprecise; combining several chemicals gives a better estimate."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-38.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-39.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-40.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-41.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-42.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q15-2.jpg",
+        "papers/biology/fig/06C-Decomposition-Forensics-Q15-3.jpg"
       ]
     },
     {
@@ -2053,6 +2210,10 @@
         "papers/biology/img/06C-Decomposition-Forensics-40.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-41.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-42.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q15-2.jpg",
+        "papers/biology/fig/06C-Decomposition-Forensics-Q15-3.jpg"
       ]
     },
     {
@@ -2184,9 +2345,13 @@
         "sea turtles"
       ],
       "question": "Calculate the mean rate of global plastic production from 2000 to 2015, to 3 significant figures.",
-      "status": "pending",
-      "answer": "Needs the plastic production values for 2000 and 2015 from the graph (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "11.3 million tonnes per year (accept about 11 to 12)",
+      "steps": [
+        "Read the graph: production is about 210 million tonnes in 2000 and about 380 million tonnes in 2015.",
+        "Mean rate = change in production / time = (380 - 210) / (2015 - 2000) = 170 / 15.",
+        "= 11.3 million tonnes per year (3 s.f.)."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-44.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-45.jpg",
@@ -2194,6 +2359,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-47.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q17.jpg"
       ]
     },
     {
@@ -2210,9 +2378,13 @@
         "million tonnes"
       ],
       "question": "Estimate the global plastic production in 2023, using your value from part (i).",
-      "status": "pending",
-      "answer": "Depends on the 2015 production value and the mean rate from part (i), which are not in text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 470 million tonnes",
+      "steps": [
+        "Time from 2015 to 2023 is 8 years.",
+        "Extra production = 8 x 11.3 = about 90 million tonnes.",
+        "Estimated 2023 production = 380 + 90 = about 470 million tonnes."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-44.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-45.jpg",
@@ -2220,6 +2392,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-47.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q17.jpg"
       ]
     },
     {
@@ -2237,9 +2412,13 @@
         "recycling"
       ],
       "question": "Suggest why this value may be an underestimate, using the graph.",
-      "status": "pending",
-      "answer": "Needs the graph of plastic production values (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "The graph is getting steeper, so the recent rate is higher than the 2000 to 2015 mean of 11.3 million tonnes per year, and a constant-rate estimate would be too low.",
+      "steps": [
+        "Production is not rising at a constant rate: the curve gets steeper over time (production is accelerating).",
+        "From 2010 to 2015 the rise is about (380 - 312) / 5 = 13.6 million tonnes per year, which is more than the mean of 11.3 million tonnes per year.",
+        "If the rate continues to rise, production by 2023 would be higher than 470 million tonnes, so the estimate is an underestimate."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-44.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-45.jpg",
@@ -2247,6 +2426,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-47.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q17.jpg"
       ]
     },
     {
@@ -2264,9 +2446,13 @@
         "trend"
       ],
       "question": "Describe how the probability of death due to plastic increases with the number of pieces of plastic in the gut.",
-      "status": "pending",
-      "answer": "Needs the modelled probability-of-death graph (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Positive S-shaped relationship: probability of death rises slowly at first, then sharply over a middle range, then levels off at a high value.",
+      "steps": [
+        "With very few pieces of plastic in the gut, the probability of death is low and increases only slightly.",
+        "Over an intermediate number of pieces the curve becomes very steep, so each extra piece greatly increases the probability of death.",
+        "At large numbers of pieces the curve flattens: the probability is high and increases only slowly (levels off)."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-44.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-45.jpg",
@@ -2274,6 +2460,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-47.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q17-2.jpg"
       ]
     },
     {
@@ -2307,6 +2496,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-47.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q17-2.jpg"
       ]
     },
     {
@@ -2325,9 +2517,16 @@
         "table"
       ],
       "question": "Discuss the advantages of packaging made from modified banana stalks, using the graphs, the table and your own knowledge.",
-      "status": "pending",
-      "answer": "Needs the decomposition graphs and the comparison table for the two packaging materials (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Banana-stalk packaging protects mangoes better than plastic against disease (about 50% diseased against 100%) and it decomposes within weeks, so it reduces plastic pollution, although mass loss is slightly higher than with plastic.",
+      "steps": [
+        "Disease: about 50% of mangoes in modified banana packaging are diseased, compared with about 90% with no packaging and 100% with plastic.",
+        "Mass loss: banana packaging gives about 4% loss, much less than about 11% with no packaging, though slightly more than plastic at about 2.5%, so it still preserves the fruit.",
+        "Decomposition: after 4 weeks the plastic looks unchanged, but the banana packaging has mostly broken down; the cellulose is digested by cellulase enzymes from microorganisms, whereas plastic is not broken down.",
+        "Environment: biodegradable packaging does not accumulate in oceans and landfill or harm animals such as turtles that eat plastic, and the products are recycled to the soil.",
+        "Banana stalks are a renewable waste product that would otherwise be thrown away, and plastic comes from non-renewable fossil fuels.",
+        "Balanced view: slightly greater mass loss than plastic, and the study should be repeated with larger samples."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-44.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-45.jpg",
@@ -2335,6 +2534,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-47.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q17-3.jpg"
       ]
     },
     {
@@ -2352,14 +2554,21 @@
         "bond types"
       ],
       "question": "Which row of the table identifies the bonds Q and R in the DNA diagram?",
-      "status": "pending",
-      "answer": "Needs the DNA diagram with labels Q and R and the table of bond types (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: bond Q is hydrogen and bond R is covalent.",
+      "steps": [
+        "Bond Q joins the two complementary bases across the double helix (dashed lines), so it is a hydrogen bond.",
+        "Bond R joins the base to the deoxyribose sugar within one nucleotide, so it is a covalent bond.",
+        "Phosphodiester bonds join the sugar and phosphate in the backbone, so options C and D are wrong."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-49.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-50.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-51.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-52.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q18.jpg"
       ]
     },
     {
@@ -2379,14 +2588,21 @@
         "T"
       ],
       "question": "Which is a negatively charged part of a DNA molecule? Options: A P, B R, C S, D T.",
-      "status": "pending",
-      "answer": "Needs the DNA diagram to see which labelled part (P, R, S or T) is the phosphate group (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: S",
+      "steps": [
+        "The negative charge on DNA comes from the phosphate groups (the circles in the diagram), which lose H+ in solution.",
+        "S points to a phosphate group in the sugar-phosphate backbone.",
+        "P points to a deoxyribose sugar, and R and T point to bonds or bases, which are not charged."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-49.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-50.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-51.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-52.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q18.jpg"
       ]
     },
     {
@@ -2675,14 +2891,21 @@
         "calculation"
       ],
       "question": "Calculate the net primary productivity (NPP) as a percentage of the gross primary productivity (GPP) in this food chain.",
-      "status": "pending",
-      "answer": "Needs the GPP and NPP values from the energy-flow diagram (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "42.6%",
+      "steps": [
+        "GPP is the energy entering trophic level 1: 83 240 kJ.",
+        "NPP is the energy available to the next trophic level: 35 452 kJ (GPP minus respiration).",
+        "NPP as % of GPP = 35 452 / 83 240 x 100 = 42.6%."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-54.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-55.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-56.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-57.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q20.jpg"
       ]
     },
     {
@@ -2700,14 +2923,22 @@
         "food chain"
       ],
       "question": "Complete the right-hand side of the energy-flow diagram by adding arrows and the missing information in the box.",
-      "status": "pending",
-      "answer": "Needs the energy-flow diagram to complete the arrows and box (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Add arrows from each trophic level to the right-hand box, and label the box 'respiration' with 56 792 kJ.",
+      "steps": [
+        "The right-hand box is for energy lost due to respiration, so write 'respiration' on the dotted line.",
+        "Draw an arrow from each shaded 'energy entering' box (trophic levels 1, 2, 3 and 4) to the right to join the vertical arrow that points up into the box, because organisms at every level lose energy as heat in respiration.",
+        "Total energy lost due to respiration = energy in - energy lost to decomposition = 83 240 - 26 448 = 56 792 kJ.",
+        "Check by trophic level: 47 788 + 7 560 + 1 264 + 60 = 56 672 kJ from the printed values (the diagram numbers differ by 120 kJ); accept about 56 700 kJ."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-54.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-55.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-56.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-57.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q20.jpg"
       ]
     },
     {
@@ -2757,14 +2988,22 @@
         "graph"
       ],
       "question": "Explain what the graph of trophic level number for China and India from 1960 to 2010 indicates about the diet of this population.",
-      "status": "pending",
-      "answer": "Needs the graph of trophic level number against year for China and India (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "The TLN rose from about 2.05 to about 2.20, so the population's diet contained gradually more meat and animal products, while still being mostly plant-based.",
+      "steps": [
+        "The TLN is above 1 throughout, so the population eats both plants and animals (omnivorous).",
+        "It was almost flat from 1960 to about 1980 at about 2.05 to 2.07, then increased steadily to about 2.20 by 2010, an increase of about 0.15.",
+        "A higher TLN means the average diet is taken from a higher trophic level, so people ate proportionally more meat and animal products over time.",
+        "The values are low on a scale of 1 to 5, so plant food still makes up most of the diet."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-54.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-55.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-56.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-57.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q20-2.jpg"
       ]
     },
     {
@@ -2825,6 +3064,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-58.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-59.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-60.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q21.jpg"
       ]
     },
     {
@@ -2842,14 +3084,21 @@
         "band numbers"
       ],
       "question": "Which band on the gel contains the heaviest DNA fragments? Options: A 1, B 3, C 6, D 9.",
-      "status": "pending",
-      "answer": "Needs the Diagram 2 gel showing where bands 1, 3, 6 and 9 sit (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: band 1",
+      "steps": [
+        "DNA fragments move through the gel in the direction of the arrow, from the top towards the bottom.",
+        "Larger (heavier) fragments move more slowly, so they travel the shortest distance and stay nearest the top.",
+        "Band 1 is nearest the top of the gel, so it contains the heaviest fragments."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-57.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-58.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-59.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-60.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q21.jpg"
       ]
     },
     {
@@ -2867,14 +3116,24 @@
         "diagram"
       ],
       "question": "Explain the banding pattern of the three-parent embryo, using Diagram 1 and Diagram 2.",
-      "status": "pending",
-      "answer": "Needs Diagram 1 (how the embryo is made) and Diagram 2 (gel bands 1 to 12) (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Bands 1, 2, 5, 9 and 11 match the mother's bands and bands 4, 6, 7, 8 and 10 match the father's, while bands 3 and 12 match neither and come from the donor's mitochondrial DNA.",
+      "steps": [
+        "Diagram 1: the embryo's nucleus has chromosomes from the mother (her nucleus) and the father (sperm), so half of its nuclear DNA comes from each and it should share bands with both.",
+        "Bands 1, 2, 5, 9 and 11 are at the same positions as bands in the mother's gel, so these fragments came from her.",
+        "Bands 4, 6, 7, 8 and 10 line up with bands in the father's gel, so these fragments came from him.",
+        "Bands 3 and 12 do not match either parent: they must come from the donor egg cell, which kept its cytoplasm and mitochondria (with their mitochondrial DNA) after its nucleus was discarded.",
+        "The two mother bands between embryo bands 6 and 8 do not appear in the embryo, consistent with her (faulty) mitochondrial DNA not being passed on, because only her nucleus was transferred.",
+        "Bands are at the same position when the DNA fragments are the same size, since gel electrophoresis separates fragments by size."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-57.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-58.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-59.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-60.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q21.jpg"
       ]
     },
     {
@@ -3158,14 +3417,21 @@
         "lignin"
       ],
       "question": "Which row of the table describes the structure of cellulose?",
-      "status": "pending",
-      "answer": "Needs the table of structures (rows) to identify the cellulose row (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: beta (b) glucose with 1-4 glycosidic bonds.",
+      "steps": [
+        "Cellulose is made of beta-glucose monomers, where alternate molecules are inverted so the chain is straight.",
+        "The monomers are joined by 1-4 glycosidic bonds, forming long unbranched chains that make hydrogen bonds with neighbours to form microfibrils.",
+        "Alpha-glucose is found in starch and glycogen, and 1-6 bonds are the branch points in those molecules."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-65.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q24.jpg"
       ]
     },
     {
@@ -3228,6 +3494,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q24-2.jpg"
       ]
     },
     {
@@ -3246,14 +3515,21 @@
         "significant figures"
       ],
       "question": "Calculate the rate of decrease in percentage dry mass between 30 and 120 days for the sugar maple leaves, to 2 significant figures.",
-      "status": "pending",
-      "answer": "Needs the sugar maple percentage dry mass values at 30 and 120 days from the graph (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.62 % per day (accept 0.60 to 0.63)",
+      "steps": [
+        "Read the sugar maple graph: about 63% of dry mass remains at 30 days and about 8% at 120 days.",
+        "Decrease in percentage dry mass = 63 - 8 = 55 percentage points over 120 - 30 = 90 days.",
+        "Rate = 55 / 90 = 0.61 to 0.62, so about 0.62 % per day (2 s.f.)."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-65.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q24-2.jpg"
       ]
     },
     {
@@ -3271,14 +3547,20 @@
         "comparison"
       ],
       "question": "Describe two conclusions about the decomposition of sugar maple leaves compared with white oak leaves.",
-      "status": "pending",
-      "answer": "Needs the graph of percentage dry mass for sugar maple and white oak (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Sugar maple leaves decompose faster and further than white oak (about 8% of dry mass left after 120 days against about 60%), and most of the loss happens late, between 60 and 90 days.",
+      "steps": [
+        "By 120 days only about 8% of the sugar maple dry mass remains, but about 60% of white oak remains, so sugar maple decomposes more quickly and completely.",
+        "Sugar maple fell to about 63% within 30 days, then rose slightly to about 67% at 60 days, before dropping sharply to about 14% at 90 days; white oak decreased slowly and steadily from 100% to about 70% by 30 days and then stayed at about 70% to 90% before falling to about 60%."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-65.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q24-2.jpg"
       ]
     },
     {
@@ -3297,14 +3579,20 @@
         "calculation"
       ],
       "question": "Calculate how many times greater the biomass of bacteria on sugar maple leaves is after 30 days compared with 0 days.",
-      "status": "pending",
-      "answer": "Needs the bacterial biomass values at 0 and 30 days from the graph (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 4 times (0.33 / 0.08 = 4.1)",
+      "steps": [
+        "Read the sugar maple (solid line) graph: biomass of bacteria is about 0.08 a.u. at 0 days and about 0.33 a.u. at 30 days.",
+        "Number of times greater = 0.33 / 0.08 = 4.1, so about 4 times (accept 4 to 5)."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-65.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q24-3.jpg"
       ]
     },
     {
@@ -3336,6 +3624,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q24-3.jpg"
       ]
     },
     {
@@ -3367,6 +3658,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q24-3.jpg"
       ]
     },
     {
@@ -3474,14 +3768,21 @@
         "row"
       ],
       "question": "Which row of the table shows how more clothing and a higher ambient temperature would affect the estimated time of death?",
-      "status": "pending",
-      "answer": "Needs the table of rows showing the effects of clothing and ambient temperature (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: increase for more clothing, increase for higher ambient temperature.",
+      "steps": [
+        "More clothing insulates the body, so it loses heat more slowly.",
+        "A higher ambient temperature reduces the temperature gradient between the body and its surroundings, so the body also loses heat more slowly.",
+        "Slower cooling means the body takes longer to fall to a given temperature, so the estimated time since death is greater (increases) in both cases."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-68.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-69.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-70.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-71.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q25.jpg"
       ]
     },
     {
@@ -3512,6 +3813,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-69.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-70.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-71.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q25-2.jpg"
       ]
     },
     {
@@ -3529,14 +3833,22 @@
         "ATP"
       ],
       "question": "Explain why using the extent of muscle contraction by itself may give an incorrect time of death, using the graph.",
-      "status": "pending",
-      "answer": "Needs the graph of extent of muscle contraction against time after death (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Contraction rises, stays at a maximum and then falls, so the same extent of contraction occurs at two different times, and zero contraction can mean less than about 3 hours or more than about 36 hours.",
+      "steps": [
+        "The graph is a curve with a peak: contraction increases from about 3 hours to a maximum at about 12 to 24 hours, then decreases to zero by about 36 hours.",
+        "Any value below the maximum occurs twice (for example about 8 hours and about 32 hours), so one measurement of muscle contraction cannot tell which time is correct.",
+        "During the plateau between about 12 and 24 hours the extent stays the same, so the time of death cannot be separated within a 12-hour range.",
+        "Before about 3 hours and after about 36 hours there is no contraction, so the extent gives no information in those periods; rigor also varies with temperature and the individual."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-68.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-69.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-70.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-71.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q25-3.jpg"
       ]
     },
     {
@@ -3612,14 +3924,22 @@
         "past plants"
       ],
       "question": "Explain why the abundance of the pollen types changes over time, as shown in the diagram of pollen in the New Mexico site.",
-      "status": "pending",
-      "answer": "Needs the pollen diagram showing the abundance of each pollen type over time (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Tree pollen falls over time while pollen from cereal crops (from about 3500 years ago) and beans (from about 2900 years ago) increases, because people cleared forest to grow food crops.",
+      "steps": [
+        "About 4000 years ago tree pollen is most abundant and there is no pollen from cereal crops or beans, so the area was mostly forest.",
+        "Cereal crop pollen first appears about 3500 years ago and increases to 2200 years ago, and bean pollen appears about 2900 years ago and then increases, so farming started and spread.",
+        "Tree pollen decreases over the same time because trees were cut down (deforestation) to make space for growing crops and probably for building and fuel.",
+        "As the human population grew, more land was used for cereals and beans to provide food for people and their animals."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-72.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-73.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-74.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-75.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q27.jpg"
       ]
     },
     {
@@ -3637,14 +3957,20 @@
         "range"
       ],
       "question": "Which is the difference between the maximum and minimum temperatures in May? Options: A 5 deg C, B 8 deg C, C 10 deg C, D 16 deg C.",
-      "status": "pending",
-      "answer": "Needs the graph of maximum and minimum mean temperatures for May (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 8 deg C",
+      "steps": [
+        "In May the maximum temperature bar reaches about 16 deg C and the minimum temperature bar reaches about 8 deg C.",
+        "Difference = 16 - 8 = 8 deg C."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-72.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-73.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-74.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-75.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q27-2.jpg"
       ]
     },
     {
@@ -3678,6 +4004,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-73.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-74.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-75.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q27-2.jpg"
       ]
     },
     {
@@ -3724,13 +4053,20 @@
         "mammal"
       ],
       "question": "Using the cooling curve and the formula given, calculate the body temperature of a mammal that had been dead for 15 hours, to 1 decimal place.",
-      "status": "pending",
-      "answer": "Needs the cooling curve graph and the temperature formula shown with it (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "26.1 deg C",
+      "steps": [
+        "Read the graph at 15 hours: the body temperature is about 79 deg F.",
+        "Convert with the formula: temperature in deg C = 5 x (79 - 32) / 9 = 5 x 47 / 9.",
+        "= 235 / 9 = 26.1 deg C (1 d.p.)."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-75.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-76.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-77.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q28.jpg"
       ]
     },
     {
@@ -3760,6 +4096,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-75.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-76.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-77.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q28.jpg"
       ]
     },
     {
@@ -3777,13 +4116,21 @@
         "graph"
       ],
       "question": "Write the equation for the cooling curve shown in the graph, in the format y = mx + c.",
-      "status": "pending",
-      "answer": "Needs the cooling curve graph values to find the gradient m and intercept c (not in text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "y = -1.3x + 98.6 (y = body temperature in deg F, x = time after death in hours)",
+      "steps": [
+        "The plotted points lie on a straight line, so use y = mx + c with y as body temperature in deg F and x as time in hours.",
+        "Intercept c: the line meets the y-axis at about 98.6 deg F (the temperature at death, x = 0).",
+        "Gradient m = change in y / change in x = (65.5 - 98.6) / (25 - 0) = about -1.3 deg F per hour (negative as the body is cooling).",
+        "Equation: y = -1.3x + 98.6; check at 15 hours: -1.3 x 15 + 98.6 = 79.1 deg F, which agrees with the graph."
+      ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-75.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-76.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-77.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q28.jpg"
       ]
     }
   ]

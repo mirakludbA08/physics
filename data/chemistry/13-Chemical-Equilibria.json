@@ -17,15 +17,22 @@
         "equilibrium",
         "part (a)(i) missing"
       ],
-      "question": "Part (a)(i) of the Haber process question (worth 2 marks) is not present in the extracted text.",
-      "status": "pending",
-      "answer": "The text for part (a)(i) is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "question": "Calculate the standard entropy change of the system, delta S(system), for N2(g) + 3H2(g) <=> 2NH3(g) at 298 K, including a sign and units. Standard molar entropies S / J K-1 mol-1: N2 = 191.6, H2 = 130.6, NH3 = 192.3.",
+      "status": "ready",
+      "answer": "delta S(system) = -198.8 J K-1 mol-1",
+      "steps": [
+        "delta S(system) = sum of S(products) - sum of S(reactants).",
+        "Products: 2 x 192.3 = 384.6 J K-1 mol-1. Reactants: 191.6 + 3 x 130.6 = 583.4 J K-1 mol-1.",
+        "delta S(system) = 384.6 - 583.4 = -198.8 J K-1 mol-1 (negative: 4 mol of gas become 2 mol of gas)."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-01.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-02.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-03.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q1.jpg"
       ]
     },
     {
@@ -272,12 +279,19 @@
         "titration"
       ],
       "question": "In which flask(s) was the equilibrium approached from the right-hand side of the ester equation? The flask contents are in a table not in the extracted text. Options: A flask 1 only, B flask 4 only, C flasks 1 and 4 only, D flasks 2 and 3 only.",
-      "status": "pending",
-      "answer": "The flask contents are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: flasks 1 and 4 only",
+      "steps": [
+        "Approaching equilibrium from the right-hand side means starting with the products (ester and water) and no ethanoic acid or ethanol.",
+        "Flask 1 contains ester and water; flask 4 contains ester and the water in the 2.0 cm3 of aqueous HCl, with no acid or alcohol added.",
+        "Flasks 2 and 3 contain ethanoic acid (and ethanol), the left-hand side, so they approach from the left."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-04.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q3.jpg"
       ]
     },
     {
@@ -320,12 +334,18 @@
         "K inverse"
       ],
       "question": "The equilibrium decomposition of hydrogen iodide can be written in two ways. What is the expression linking the two equilibrium constants? The options are not in the extracted text.",
-      "status": "pending",
-      "answer": "The two equations and options are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: Kc = (Kc')^2",
+      "steps": [
+        "Kc' = [H2]^1/2 [I2]^1/2 / [HI] for the equation HI <=> 1/2 H2 + 1/2 I2.",
+        "The first equation 2HI <=> H2 + I2 is twice the second, so its constant is the square: Kc = [H2][I2] / [HI]^2 = (Kc')^2."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-05.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q4.jpg"
       ]
     },
     {
@@ -340,15 +360,21 @@
         "concentrations"
       ],
       "question": "A homogeneous equilibrium is shown. What is the Kc expression? The equilibrium equation and options are not in the extracted text.",
-      "status": "pending",
-      "answer": "The equation and options are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Kc = [Y]^2[Z] / ([W][X])",
+      "steps": [
+        "Kc = [products]^coefficients / [reactants]^coefficients, with the coefficient of Y (2) as a power, not a multiplier.",
+        "For W + X <=> 2Y + Z: Kc = [Y]^2 [Z] / ([W][X])."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-06.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-07.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-08.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-09.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q5.jpg"
       ]
     },
     {
@@ -366,15 +392,22 @@
         "298 K"
       ],
       "question": "Silicon tetrachloride is made from silicon carbide and hydrogen chloride with a nickel(II) chloride catalyst. Using the standard molar entropies in the table (not in the extracted text), calculate Stotal at 298 K with sign and units.",
-      "status": "pending",
-      "answer": "The standard molar entropy table and equation are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "delta S(total) = +1.78 x 10^3 J K-1 mol-1",
+      "steps": [
+        "delta S(system) = [239.7 + 186.2] - [16.5 + 4(186.8)] = 425.9 - 763.7 = -337.8 J K-1 mol-1.",
+        "delta S(surroundings) = -delta H / T = -(-631 300 J mol-1) / 298 K = +2118 J K-1 mol-1.",
+        "delta S(total) = -337.8 + 2118 = +1781, which is +1.78 x 10^3 J K-1 mol-1 to 3 s.f. (the temperature is given to 3 s.f.)."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-06.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-07.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-08.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-09.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q6.jpg"
       ]
     },
     {
@@ -391,15 +424,22 @@
         "justify"
       ],
       "question": "In industry the reaction is carried out at 700 C. By considering entropy and other relevant factors, justify this temperature.",
-      "status": "pending",
-      "answer": "Needs the enthalpy data from the PDF to decide the entropy/enthalpy balance; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "At 700 C the reaction is still thermodynamically feasible (delta S(total) > 0), and the rate is high enough because the activation energy is large",
+      "steps": [
+        "Entropy: delta S(total) = delta S(system) - delta H/T is already hugely positive at 298 K; at 973 K it is still positive: -337.8 + 631 300/973 = +311 J K-1 mol-1, so the reaction remains feasible (K stays large) even though delta S(surroundings) gets smaller on heating this exothermic reaction.",
+        "Kinetics: the reaction between solid SiC and HCl has a high activation energy (strong covalent bonds must break), so it is too slow at room temperature; a high temperature gives many more particles with energy above Ea and faster collisions.",
+        "700 C is therefore a compromise: fast enough for industry while delta S(total) is still positive (higher temperatures would waste energy and reduce the equilibrium constant)."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-06.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-07.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-08.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-09.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q6.jpg"
       ]
     },
     {
@@ -415,15 +455,22 @@
         "silicon tetrachloride"
       ],
       "question": "Use your answer from (a)(i) to calculate the equilibrium constant at 298 K.",
-      "status": "pending",
-      "answer": "Depends on the Stotal from (a)(i), which needs the PDF table",
-      "steps": [],
+      "status": "ready",
+      "answer": "K = about 1 x 10^93 (units atm-3 for Kp)",
+      "steps": [
+        "delta S(total) = R ln K, so ln K = 1780.7 / 8.31 = 214.3.",
+        "K = e^214.3 = about 1 x 10^93 (1.1 x 10^93).",
+        "K is vastly greater than 1: the equilibrium lies completely to the right at 298 K."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-06.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-07.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-08.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-09.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q6.jpg"
       ]
     },
     {
@@ -440,15 +487,23 @@
         "energy changes"
       ],
       "question": "Complete the Born-Haber cycle for calcium iodide by adding letters for the energy changes, the species on the blank lines and arrowheads for each energy change. The diagram is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the cycle diagram from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Left side from the bottom: A and D (x2) given, then B (first IE) in the box on the next arrow up; the long left arrow (up) is C (second IE); top right arrow (down) is E (x2, electron affinity of iodine); the long right arrow (down) is F (lattice energy). Blank lines: Ca+(g) + e- + 2I(g), top: Ca2+(g) + 2e- + 2I(g), right: Ca2+(g) + 2I-(g)",
+      "steps": [
+        "Levels (bottom to top): CaI2(s); Ca(s) + I2(g); Ca(g) + I2(g); Ca(g) + 2I(g); Ca+(g) + e- + 2I(g); Ca2+(g) + 2e- + 2I(g); the right-hand level is Ca2+(g) + 2I-(g).",
+        "Boxes: B (first ionisation energy of Ca) between Ca(g) + 2I(g) and Ca+(g) + e- + 2I(g); C (second ionisation energy) on the long left arrow up to Ca2+(g) + 2e- + 2I(g); E (electron affinity of iodine, two atoms) on the top right arrow down to Ca2+(g) + 2I-(g); F (lattice energy) on the long right arrow down to CaI2(s).",
+        "Arrowheads: upwards for A, D (x2), B and C (endothermic steps) and downwards for E, F and the enthalpy change of formation (exothermic)."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-06.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-07.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-08.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-09.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q6-2.jpg",
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q6-3.jpg"
       ]
     },
     {
@@ -463,15 +518,22 @@
         "calculation"
       ],
       "question": "Use the data for the Born-Haber cycle to calculate the enthalpy change of formation of calcium iodide.",
-      "status": "pending",
-      "answer": "Needs the data table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "delta Hf(CaI2) = -538 kJ mol-1",
+      "steps": [
+        "delta Hf = A + 2D + B + C + 2E + F (two iodine atoms are atomised and two are ionised).",
+        "= 178.2 + 2(106.8) + 590 + 1145 + 2(-295.4) + (-2074).",
+        "= 178.2 + 213.6 + 590 + 1145 - 590.8 - 2074 = -538.0 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-06.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-07.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-08.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-09.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q6-2.jpg"
       ]
     },
     {
@@ -655,6 +717,9 @@
         "papers/chemistry/img/13-Chemical-Equilibria-11.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-12.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-13.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q7.jpg"
       ]
     },
     {
@@ -757,14 +822,23 @@
         "sketch"
       ],
       "question": "Draw a sketch of entropy against temperature for water to show the entropy changes as temperature increases, including the state changes. No scale is required on the vertical axis. The sketch must be drawn in the PDF.",
-      "status": "pending",
-      "answer": "Needs a sketch drawn on the PDF; a sketch cannot be checked from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A line rising from 0 K, with a small vertical jump at 273 K (melting) and a much larger vertical jump at 373 K (boiling), flat-ish gradual rises in between",
+      "steps": [
+        "Entropy of solid ice starts at (or near) zero at 0 K and rises gradually as temperature increases.",
+        "At 273 K (melting point) there is a vertical step up: ice -> liquid water, an increase in disorder.",
+        "The entropy of liquid water rises gradually from 273 K to 373 K (curve with decreasing gradient).",
+        "At 373 K (boiling point) there is a much larger vertical step up (liquid -> gas), then entropy of steam rises gradually to 500 K.",
+        "Label each portion (solid, liquid, gas); the two vertical steps are at 273 K and 373 K, with the boiling step bigger than the melting step."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-10.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-11.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-12.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-13.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q7-2.jpg"
       ]
     },
     {
@@ -1161,14 +1235,20 @@
         "H2 I2 HI"
       ],
       "question": "Complete the table of Kc data at five temperatures for H2 + I2 <=> 2HI, by adding the values of 1/T and ln Kc. The table is not in the extracted text.",
-      "status": "pending",
-      "answer": "The table values are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "1/T at 523 K = 0.00191 K-1; ln Kc at 577 K = 4.60",
+      "steps": [
+        "1/523 = 1.912 x 10^-3 = 0.00191 K-1 (3 s.f., like the others).",
+        "ln 99.2 = 4.60 (2 d.p., like the others)."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-17.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-19.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q14.jpg"
       ]
     },
     {
@@ -1184,14 +1264,21 @@
         "H2 I2 HI"
       ],
       "question": "Plot a graph of ln Kc against 1/T with a line of best fit, using the data in the table.",
-      "status": "pending",
-      "answer": "Needs the data from the PDF table and graph; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Straight line of best fit with a positive gradient through the five points (1/T on the x axis, ln Kc on the y axis)",
+      "steps": [
+        "Axes: x = 1/T / K-1 (from about 0.00135 to 0.00195) and y = ln Kc (4.1 to 4.9), scaled to fill over half the grid in each direction.",
+        "Plot (0.00191, 4.80), (0.00173, 4.60), (0.00161, 4.46), (0.00149, 4.33) and (0.00139, 4.20).",
+        "Draw a single straight line through the points (they lie almost exactly on a line); the gradient is positive because ln Kc increases as 1/T increases."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-17.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-19.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q14.jpg"
       ]
     },
     {
@@ -1206,9 +1293,13 @@
         "H2 I2 HI"
       ],
       "question": "Determine the gradient of your ln Kc against 1/T graph, showing working on the graph.",
-      "status": "pending",
-      "answer": "Depends on the graph from (c)(ii), which needs the PDF data",
-      "steps": [],
+      "status": "ready",
+      "answer": "gradient = +1.15 x 10^3 K (accept 1.1 to 1.2 x 10^3 K)",
+      "steps": [
+        "Choose two points far apart on the best-fit line, e.g. (0.00139, 4.20) and (0.00191, 4.80), and draw the triangle on the graph.",
+        "gradient = (4.80 - 4.20) / (0.00191 - 0.00139) = 0.60 / 0.00052 = +1.15 x 10^3.",
+        "Units are K (ln Kc has no units and 1/T is in K-1)."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-17.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
@@ -1230,9 +1321,13 @@
         "ln K"
       ],
       "question": "Using the gradient from (c)(iii), calculate the enthalpy change deltaH in J mol-1 for the reaction.",
-      "status": "pending",
-      "answer": "Depends on the gradient from (c)(iii), which needs the PDF graph",
-      "steps": [],
+      "status": "ready",
+      "answer": "delta H = -9.6 x 10^3 J mol-1",
+      "steps": [
+        "gradient = -delta H / R, so delta H = -gradient x R.",
+        "delta H = -(1.15 x 10^3) x 8.31 = -9.56 x 10^3 J mol-1.",
+        "delta H = about -9.6 x 10^3 J mol-1 (negative: the reaction is exothermic, consistent with Kc falling as T rises)."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-17.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
@@ -1254,14 +1349,21 @@
         "units J mol-1"
       ],
       "question": "Using deltaG = -RT ln Kc and the Kc value at 620 K from the table, calculate deltaG at 620 K, including units.",
-      "status": "pending",
-      "answer": "Needs the Kc value at 620 K from the PDF table; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "delta G = -2.30 x 10^4 J mol-1 (-23.0 kJ mol-1)",
+      "steps": [
+        "At 620 K, Kc = 86.5 and ln Kc = 4.46.",
+        "delta G = -RT ln Kc = -8.31 x 620 x 4.46.",
+        "= -2.30 x 10^4 J mol-1 (-22 980 J mol-1)."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-17.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-19.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q14.jpg"
       ]
     },
     {
@@ -1277,9 +1379,13 @@
         "deltaG"
       ],
       "question": "Using your answers to (c)(iv) and (c)(v), calculate the entropy change of the system at 620 K.",
-      "status": "pending",
-      "answer": "Depends on (c)(iv) and (c)(v), which need the PDF data",
-      "steps": [],
+      "status": "ready",
+      "answer": "delta S(system) = +21.6 J K-1 mol-1 (about +22)",
+      "steps": [
+        "Rearrange delta G = delta H - T delta S(system): delta S(system) = (delta H - delta G) / T.",
+        "= (-9560 - (-22 980)) / 620 = 13 420 / 620.",
+        "= +21.6 J K-1 mol-1."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-17.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
@@ -1301,9 +1407,13 @@
         "independent of temperature"
       ],
       "question": "Explain, in terms of the total entropy change, why the reaction H2 + I2 <=> 2HI is feasible at any temperature, assuming deltaH and deltaSsystem are independent of temperature.",
-      "status": "pending",
-      "answer": "Depends on the signs of deltaH and deltaSsystem from (c), which need the PDF data",
-      "steps": [],
+      "status": "ready",
+      "answer": "delta H is negative and delta S(system) is positive, so delta S(total) is positive at every temperature",
+      "steps": [
+        "delta S(total) = delta S(system) + delta S(surroundings), with delta S(surroundings) = -delta H / T.",
+        "The reaction is exothermic (delta H = -9.6 kJ mol-1), so delta S(surroundings) = +9560/T is positive at any T; delta S(system) = +21.6 J K-1 mol-1 is also positive.",
+        "Both terms are positive, so delta S(total) > 0 at all temperatures, i.e. the reaction is always feasible."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-17.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
@@ -1323,12 +1433,18 @@
         "partial pressures"
       ],
       "question": "What are the units of Kp for the equilibrium shown? Options: A atm-1, B atm, C atm-2, D atm2. The equilibrium equation is not in the extracted text.",
-      "status": "pending",
-      "answer": "The equilibrium equation is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: atm-2",
+      "steps": [
+        "Kp = p(NH3)^2 / (p(N2) x p(H2)^3).",
+        "Units = atm^2 / (atm x atm^3) = atm^2 / atm^4 = atm-2."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-20.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q15.jpg"
       ]
     },
     {
@@ -1345,13 +1461,19 @@
         "equilibrium type"
       ],
       "question": "The reaction shown occurs at 360 C and 1 atm. What is the type of equilibrium and how is Kc affected by an increase in temperature? The equation and options are not in the extracted text.",
-      "status": "pending",
-      "answer": "The equation and options are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: homogeneous; Kc decreases",
+      "steps": [
+        "All species (CO, H2O, CO2, H2) are gases, so the equilibrium is homogeneous.",
+        "The forward reaction is exothermic (delta H = -41.2 kJ mol-1), so raising the temperature moves the position of equilibrium to the left and Kc decreases."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-21.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-22.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q16.jpg"
       ]
     },
     {
@@ -1367,13 +1489,19 @@
         "experiments 1 to 5"
       ],
       "question": "Draw a best-fit line on the graph of the data for experiments 1-5 for the reaction between nitrogen monoxide and oxygen. The graph is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the graph from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A smooth curve, concave upwards (getting steeper), passing through the origin and the five points; not a straight line",
+      "steps": [
+        "Draw one smooth curve through (0.010, 0.040), (0.020, 0.160), (0.030, 0.360), (0.040, 0.641) and (0.050, 1.001), starting from (0, 0).",
+        "Rate = 400 x [NO]^2 for these points, so the best-fit line is a parabola-like curve."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-21.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-22.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q17-2.jpg"
       ]
     },
     {
@@ -1389,13 +1517,19 @@
         "order of reaction"
       ],
       "question": "State how the graph shows that the reaction is not first order with respect to nitrogen monoxide.",
-      "status": "pending",
-      "answer": "Needs the graph from the PDF to confirm the shape; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "The graph is a curve, not a straight line through the origin, so rate is not directly proportional to [NO]",
+      "steps": [
+        "A first order reaction would give a straight line through the origin (rate proportional to concentration).",
+        "The curve gets steeper: doubling [NO] from 0.010 to 0.020 mol dm-3 multiplies the rate by 4, which shows second order."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-21.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-22.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q17-2.jpg"
       ]
     },
     {
@@ -1410,13 +1544,19 @@
         "experiments 1 to 6"
       ],
       "question": "Deduce the orders of reaction with respect to NO and O2 using experiments 1-6. The data table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the data table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Order with respect to NO = 2; order with respect to O2 = 1",
+      "steps": [
+        "NO: Experiments 1 and 2 (constant [O2] = 0.050): [NO] doubles from 0.010 to 0.020 and the rate rises 4 times (0.040 -> 0.160), so order = 2 (Experiment 3 also fits: x3 gives x9).",
+        "O2: Experiments 2 and 6 (constant [NO] = 0.020): [O2] halves from 0.050 to 0.025 and the rate halves (0.160 -> 0.080), so order = 1."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-21.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-22.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q17.jpg"
       ]
     },
     {
@@ -1431,13 +1571,18 @@
         "orders"
       ],
       "question": "Write the rate equation for the reaction using your answer to (a)(iii).",
-      "status": "pending",
-      "answer": "Depends on the orders from (a)(iii), which need the PDF table",
-      "steps": [],
+      "status": "ready",
+      "answer": "rate = k[NO]^2[O2]",
+      "steps": [
+        "Second order in NO and first order in O2: rate = k[NO]^2[O2]."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-21.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-22.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q17.jpg"
       ]
     },
     {
@@ -1453,13 +1598,20 @@
         "nitrogen monoxide"
       ],
       "question": "Calculate the rate constant using the data from experiment 1 and your rate equation, including units.",
-      "status": "pending",
-      "answer": "Needs the experiment 1 data and rate equation from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "k = 8.0 x 10^3 dm6 mol-2 s-1",
+      "steps": [
+        "k = rate / ([NO]^2[O2]) using Experiment 1.",
+        "k = 0.040 / (0.010^2 x 0.050) = 0.040 / 5.0 x 10^-6 = 8.0 x 10^3.",
+        "Units = (mol dm-3 s-1) / (mol dm-3)^3 = dm6 mol-2 s-1."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-21.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-22.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q17.jpg"
       ]
     },
     {
@@ -1503,12 +1655,19 @@
         "solid iron oxide"
       ],
       "question": "What is the equilibrium constant expression for the reaction between iron and steam? The equation is not in the extracted text.",
-      "status": "pending",
-      "answer": "The equation is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Kc = [H2]^4 / [H2O]^4",
+      "steps": [
+        "The equation is 3Fe(s) + 4H2O(g) <=> Fe3O4(s) + 4H2(g).",
+        "Solids (Fe and Fe3O4) are left out of the equilibrium expression, so Kc = [H2]^4 / [H2O]^4."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-23.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-24.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q18.jpg",
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q18-2.jpg"
       ]
     },
     {
@@ -1524,12 +1683,19 @@
         "iron steam"
       ],
       "question": "What is the effect on the equilibrium constant if small pieces of iron are replaced by iron powder and if the temperature is increased? The equation is not in the extracted text.",
-      "status": "pending",
-      "answer": "Depends on the sign of deltaH for the equation shown in the PDF; the equation is missing from the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Kc unchanged with iron powder; Kc decreases when the temperature is increased",
+      "steps": [
+        "Kc depends only on temperature, so changing the surface area (iron powder) does not change Kc.",
+        "The forward reaction is exothermic (delta H = -151.2 kJ mol-1), so increasing the temperature shifts the equilibrium to the left and Kc decreases."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-23.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-24.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q18.jpg",
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q18-3.jpg"
       ]
     },
     {
@@ -1546,14 +1712,21 @@
         "thermodynamic data table"
       ],
       "question": "Calculate the entropy change of the system for the cracking of butane, C4H10(g) -> C2H6(g) + C2H4(g), with sign and units. The data table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the thermodynamic data table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "delta S(system) = +138.9 J K-1 mol-1",
+      "steps": [
+        "delta S(system) = S(C2H6) + S(C2H4) - S(C4H10).",
+        "= 229.5 + 219.5 - 310.1.",
+        "= +138.9 J K-1 mol-1 (positive: 1 mol of gas gives 2 mol of gas)."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-24.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-25.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-26.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q19.jpg"
       ]
     },
     {
@@ -1570,14 +1743,21 @@
         "C2H4"
       ],
       "question": "Calculate the enthalpy change of reaction for the cracking of butane, with sign and units. The data table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the thermodynamic data table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "delta H = +94.0 kJ mol-1",
+      "steps": [
+        "delta H = sum of delta Hf(products) - sum of delta Hf(reactants).",
+        "= [(-84.7) + (+52.2)] - (-126.5).",
+        "= -32.5 + 126.5 = +94.0 kJ mol-1 (endothermic)."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-24.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-25.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-26.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q19.jpg"
       ]
     },
     {
@@ -1593,9 +1773,13 @@
         "sign and units"
       ],
       "question": "Using your answer to (a)(ii), calculate the entropy change of the surroundings at 298 K for the cracking of butane, with sign and units.",
-      "status": "pending",
-      "answer": "Depends on the enthalpy change from (a)(ii), which needs the PDF data",
-      "steps": [],
+      "status": "ready",
+      "answer": "delta S(surroundings) = -315 J K-1 mol-1",
+      "steps": [
+        "delta S(surroundings) = -delta H / T.",
+        "= -94 000 J mol-1 / 298 K (convert kJ to J).",
+        "= -315 J K-1 mol-1 (-315.4)."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-24.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-25.jpg",
@@ -1615,9 +1799,13 @@
         "system and surroundings"
       ],
       "question": "Calculate the total entropy change at 298 K for the cracking of butane, using your answers to (a)(i) and (a)(iii), with sign and units.",
-      "status": "pending",
-      "answer": "Depends on (a)(i) and (a)(iii), which need the PDF data",
-      "steps": [],
+      "status": "ready",
+      "answer": "delta S(total) = -176.5 J K-1 mol-1 (about -177)",
+      "steps": [
+        "delta S(total) = delta S(system) + delta S(surroundings).",
+        "= +138.9 + (-315.4) = -176.5 J K-1 mol-1.",
+        "Negative, so the cracking is not feasible at 298 K."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-24.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-25.jpg",
@@ -1638,9 +1826,13 @@
         "deltaS"
       ],
       "question": "Calculate the temperature at which the cracking of butane becomes feasible.",
-      "status": "pending",
-      "answer": "Depends on the enthalpy and entropy values from (a)(i) and (a)(ii), which need the PDF data",
-      "steps": [],
+      "status": "ready",
+      "answer": "T = 677 K (about 404 C)",
+      "steps": [
+        "The reaction becomes feasible when delta S(total) = delta S(system) - delta H/T reaches 0.",
+        "T = delta H / delta S(system) = 94 000 J mol-1 / 138.9 J K-1 mol-1.",
+        "T = 677 K (676.7 K); above this temperature delta S(total) is positive."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-24.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-25.jpg",
@@ -1720,13 +1912,20 @@
         "thermodynamics"
       ],
       "question": "Calculate the entropy change for the reaction N2O4(g) <=> 2NO2(g), using the table of data, with sign and units. The table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the thermodynamic data table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "delta S = +175.8 J K-1 mol-1",
+      "steps": [
+        "delta S = 2 x S(NO2) - S(N2O4).",
+        "= 2(240.0) - 304.2.",
+        "= +175.8 J K-1 mol-1."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-29.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q20.jpg"
       ]
     },
     {
@@ -1743,13 +1942,19 @@
         "298 K"
       ],
       "question": "Calculate the enthalpy change of formation of N2O4(g) at 298 K, using the table and the enthalpy change of the reaction. The table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the thermodynamic data table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "delta Hf(N2O4) = +9.2 kJ mol-1",
+      "steps": [
+        "delta H(reaction) = 2 delta Hf(NO2) - delta Hf(N2O4), so +57.2 = 2(+33.2) - delta Hf(N2O4).",
+        "delta Hf(N2O4) = 66.4 - 57.2 = +9.2 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-29.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q20.jpg"
       ]
     },
     {
@@ -1765,9 +1970,12 @@
         "significant figures"
       ],
       "question": "Calculate the entropy change of the surroundings for the N2O4 reaction at 298 K, to an appropriate number of significant figures, with sign and units.",
-      "status": "pending",
-      "answer": "Depends on the enthalpy change from (b), which needs the PDF data",
-      "steps": [],
+      "status": "ready",
+      "answer": "delta S(surroundings) = -192 J K-1 mol-1",
+      "steps": [
+        "delta S(surroundings) = -delta H / T = -(+57 200 J mol-1) / 298 K.",
+        "= -192 J K-1 mol-1 (-191.9; 3 s.f. as the temperature is given to 3 s.f.)."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
@@ -1786,9 +1994,13 @@
         "system and surroundings"
       ],
       "question": "Use your answers to (a) and (c) to calculate the total entropy change for the N2O4 reaction at 298 K.",
-      "status": "pending",
-      "answer": "Depends on (a) and (c), which need the PDF data",
-      "steps": [],
+      "status": "ready",
+      "answer": "delta S(total) = -16.1 J K-1 mol-1",
+      "steps": [
+        "delta S(total) = delta S(system) + delta S(surroundings).",
+        "= +175.8 + (-191.9) = -16.1 J K-1 mol-1.",
+        "Slightly negative at 298 K, so the dissociation is not feasible at this temperature (K < 1)."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
@@ -1808,9 +2020,13 @@
         "deltaS system"
       ],
       "question": "Calculate the temperature at which the total entropy change is zero for the N2O4 equilibrium.",
-      "status": "pending",
-      "answer": "Depends on the data from (a) and (b), which need the PDF table",
-      "steps": [],
+      "status": "ready",
+      "answer": "T = 325 K",
+      "steps": [
+        "delta S(total) = 0 when delta S(system) = delta H / T.",
+        "T = delta H / delta S(system) = 57 200 J mol-1 / 175.8 J K-1 mol-1.",
+        "T = 325 K (325.4 K); above this temperature delta S(total) is positive and dissociation is feasible."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
@@ -1941,12 +2157,18 @@
         "I2 CHCl3"
       ],
       "question": "Iodine is shared between water and trichloromethane. What is the expression for the equilibrium constant Kc? The equation for the equilibrium is not in the extracted text.",
-      "status": "pending",
-      "answer": "The equation is missing from the extracted text; the expected form is Kc = [I2 in CHCl3] / [I2 in water], check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Kc = [I2(aq)] / [I2(trichloromethane)]",
+      "steps": [
+        "For I2(trichloromethane) <=> I2(aq), the product (the aqueous iodine) goes on top and the reactant (the iodine in trichloromethane) on the bottom.",
+        "Concentrations are shown with square brackets, so option D is correct (options B and C use round brackets or no brackets, and A is upside down)."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-30.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q21.jpg"
       ]
     },
     {
@@ -2013,12 +2235,18 @@
         "solids excluded"
       ],
       "question": "Which is the correct expression for the equilibrium constant Kc for the decomposition of calcium carbonate to calcium oxide and carbon dioxide? The options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Options are missing from the extracted text; the expected answer is Kc = [CO2], check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: Kc = [CO2]",
+      "steps": [
+        "CaCO3(s) <=> CaO(s) + CO2(g): solids are not included in the equilibrium expression.",
+        "So Kc = [CO2]."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-30.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q22.jpg"
       ]
     },
     {
@@ -2136,12 +2364,18 @@
         "partial pressures"
       ],
       "question": "What are the units of Kp for the reaction shown? Options: A atm, B atm-1, C atm4, D atm-4. The equation is not in the extracted text.",
-      "status": "pending",
-      "answer": "The equation is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: atm",
+      "steps": [
+        "The equation is A(g) + 2B(g) <=> 3C(s) + 4D(g), and the solid C is left out: Kp = p(D)^4 / (p(A) x p(B)^2).",
+        "Units = atm^4 / (atm x atm^2) = atm^4 / atm^3 = atm."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-32.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-33.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q24.jpg"
       ]
     },
     {
@@ -2182,12 +2416,18 @@
         "solids excluded"
       ],
       "question": "What is the expression for the equilibrium constant Kp for the thermal decomposition of magnesium nitrate? The equation and options are not in the extracted text.",
-      "status": "pending",
-      "answer": "The equation and options are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: Kp = p(NO2)^2 x p(O2)^1/2",
+      "steps": [
+        "The equation is Mg(NO3)2(s) <=> MgO(s) + 2NO2(g) + 1/2 O2(g).",
+        "Only gases appear in Kp, so Kp = p(NO2)^2 x p(O2)^1/2 (the solids are omitted)."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-33.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-34.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q26.jpg"
       ]
     },
     {
@@ -2257,12 +2497,18 @@
         "equilibrium constant"
       ],
       "question": "Which is the expression for the equilibrium constant Kp for 2SO2(g) + O2(g) <=> 2SO3(g), deltaH = -196 kJ mol-1? The option list is not in the extracted text.",
-      "status": "pending",
-      "answer": "Options are missing from the extracted text; the expected expression is Kp = p(SO3)^2 / (p(SO2)^2 x p(O2)), check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Kp = p(SO3)^2 / (p(SO2)^2 x p(O2))",
+      "steps": [
+        "Products over reactants, each partial pressure raised to its coefficient: p(SO3)^2 / (p(SO2)^2 p(O2)).",
+        "A has a multiplier instead of a power, B uses concentrations in square brackets, and D is inverted."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-34.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-35.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q28.jpg"
       ]
     },
     {
@@ -2329,12 +2575,18 @@
         "4.0 x 10^24"
       ],
       "question": "The value of Kp at 25 C using Equation 1 is 4.0 x 10^24 atm-1. What is the numerical value of Kp at 25 C using Equation 2? The two equations are shown in a diagram not in the extracted text. Options: A 2.0 x 10^12, B 2.0 x 10^22, C 2.0 x 10^24, D 4.0 x 10^24.",
-      "status": "pending",
-      "answer": "The two equations are in a diagram not in the extracted text; the expected answer (square root of Kp1 if Equation 2 is half of Equation 1) needs checking against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 2.0 x 10^12 atm-1/2",
+      "steps": [
+        "Equation 2 (SO2 + 1/2 O2 <=> SO3) is half of Equation 1 (2SO2 + O2 <=> 2SO3).",
+        "Halving the equation takes the square root of the equilibrium constant: Kp2 = (Kp1)^1/2 = (4.0 x 10^24)^1/2 = 2.0 x 10^12."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-35.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-36.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q29.jpg"
       ]
     },
     {
@@ -2458,9 +2710,13 @@
         "2NOCl 2NO Cl2"
       ],
       "question": "A sealed equilibrium mixture of NOCl, Cl2 and NO is compressed. Explain what would be seen when the pressure is increased (NOCl is yellow, Cl2 is yellow-green and NO is colourless).",
-      "status": "pending",
-      "answer": "Needs the mark scheme check on the overall colour change, since the yellow NOCl and yellow-green Cl2 effects partly offset; not fully confirmed from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "The mixture darkens straight away (more concentrated), then slowly becomes more yellow and less yellow-green as the equilibrium shifts to the left",
+      "steps": [
+        "Increasing pressure compresses the gas, so all concentrations rise at once and the colour looks darker (more intense).",
+        "2NOCl <=> 2NO + Cl2 has 2 mol of gas on the left and 3 mol on the right, so the equilibrium shifts to the side with fewer moles, to the left (towards NOCl).",
+        "Cl2 (yellow-green) is used up and NOCl (yellow) forms, so the mixture becomes less green / more yellow, and the colour fades a little from its initial dark shade."
+      ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-37.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-38.jpg",
@@ -2520,6 +2776,9 @@
         "papers/chemistry/img/13-Chemical-Equilibria-37.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-38.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-39.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/13-Chemical-Equilibria-Q31.jpg"
       ]
     },
     {

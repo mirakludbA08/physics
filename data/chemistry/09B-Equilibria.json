@@ -19,12 +19,19 @@
         "small amount"
       ],
       "question": "A large amount of P is added to a small amount of Q, and P reacts reversibly to form Q. Which graph shows how the concentrations of P and Q change as equilibrium is reached?",
-      "status": "pending",
-      "answer": "Needs the four concentration-time graph options from the PDF; they are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A",
+      "steps": [
+        "P converts to Q, so the concentration of P falls while Q rises from its small starting value.",
+        "The reaction is reversible, so both curves level off at constant, non-zero concentrations once the forward and reverse rates are equal (dynamic equilibrium).",
+        "B is wrong because Q cannot decrease while P is being converted into it; C is wrong because Q keeps rising with no plateau; D shows nothing changing, so equilibrium would already have been reached."
+      ],
       "images": [
         "papers/chemistry/img/09B-Equilibria-01.jpg",
         "papers/chemistry/img/09B-Equilibria-02.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q1.jpg"
       ]
     },
     {
@@ -41,12 +48,20 @@
         "constant pressure"
       ],
       "question": "For the reversible reaction of phosphorus(V) chloride, state the effect of increasing the temperature at constant pressure on the rate of reaction and the equilibrium yield of PCl5.",
-      "status": "pending",
-      "answer": "Needs the reversible equation and its enthalpy change from the PDF; the equation is not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: rate increases, yield of PCl5 decreases",
+      "steps": [
+        "A higher temperature gives particles more kinetic energy, so more collisions exceed the activation energy and the rate increases.",
+        "The forward reaction is exothermic (delta H = -88 kJ mol-1), so raising the temperature moves the equilibrium in the endothermic (backward) direction.",
+        "The equilibrium yield of PCl5 therefore decreases."
+      ],
       "images": [
         "papers/chemistry/img/09B-Equilibria-02.jpg",
         "papers/chemistry/img/09B-Equilibria-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q2.jpg",
+        "papers/chemistry/fig/09B-Equilibria-Q2-2.jpg"
       ]
     },
     {
@@ -63,12 +78,20 @@
         "constant temperature"
       ],
       "question": "For the reversible reaction of phosphorus(V) chloride, state the effect of increasing the pressure at constant temperature on the rate of reaction and the equilibrium yield of PCl5.",
-      "status": "pending",
-      "answer": "Needs the reversible equation from the PDF to count gas moles on each side; the equation is not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: rate increases, yield of PCl5 increases",
+      "steps": [
+        "Higher pressure squeezes the gas particles closer together, so collisions are more frequent and the rate increases.",
+        "PCl3(g) + Cl2(g) <=> PCl5(g) has 2 mol of gas on the left and 1 mol on the right.",
+        "Increasing the pressure moves the equilibrium to the side with fewer gas moles (the right), so the yield of PCl5 increases."
+      ],
       "images": [
         "papers/chemistry/img/09B-Equilibria-02.jpg",
         "papers/chemistry/img/09B-Equilibria-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q2.jpg",
+        "papers/chemistry/fig/09B-Equilibria-Q2-3.jpg"
       ]
     },
     {
@@ -84,11 +107,18 @@
         "gas moles"
       ],
       "question": "Which equilibrium shifts to the right-hand side when the pressure decreases at constant temperature?",
-      "status": "pending",
-      "answer": "Needs the answer options (equilibria) from the PDF; they are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 2NOCl(g) <=> 2NO(g) + Cl2(g)",
+      "steps": [
+        "Lowering the pressure favours the side with more moles of gas.",
+        "D has 2 mol of gas on the left and 3 mol on the right, so the equilibrium shifts right.",
+        "A (4 to 2), C (4 to 1) shift left and B has 2 mol on each side, so it is unaffected."
+      ],
       "images": [
         "papers/chemistry/img/09B-Equilibria-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q3.jpg"
       ]
     },
     {
@@ -168,14 +198,23 @@
         "energy diagram"
       ],
       "question": "Complete a reaction profile showing both the catalysed and uncatalysed reactions for Step 2, labelling the activation energy and enthalpy change.",
-      "status": "pending",
-      "answer": "Drawing task; the diagram must be checked against the PDF and cannot be verified from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Reaction profile with reactants (2SO2 + O2) above products (2SO3), a high peak for the uncatalysed route, a lower peak for the catalysed route, activation energy labelled and delta H = -196 kJ mol-1 labelled",
+      "steps": [
+        "Label the axes Energy (vertical) and Progress of reaction (horizontal); draw the reactants 2SO2(g) + O2(g) at a higher energy level than the products 2SO3(g) because the reaction is exothermic.",
+        "Draw the uncatalysed curve rising from the reactants to a high peak and then falling to the products.",
+        "Draw the catalysed curve with a lower peak (or two lower peaks) between the same start and end levels, since V2O5 provides an alternative route with lower activation energy.",
+        "Mark the activation energy Ea as an arrow from the reactants' level up to the top of the uncatalysed peak (the catalysed Ea is the shorter arrow to the lower peak).",
+        "Mark delta H = -196 kJ mol-1 as a downward arrow from the reactants' level to the products' level; it is the same with and without the catalyst."
+      ],
       "images": [
         "papers/chemistry/img/09B-Equilibria-04.jpg",
         "papers/chemistry/img/09B-Equilibria-05.jpg",
         "papers/chemistry/img/09B-Equilibria-06.jpg",
         "papers/chemistry/img/09B-Equilibria-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q4.jpg"
       ]
     },
     {
@@ -492,14 +531,21 @@
         "working"
       ],
       "question": "Using the enthalpy changes for the conversion of four gaseous compounds into their atoms, calculate the bond enthalpy of the C-C bond in kJ mol-1, showing working.",
-      "status": "pending",
-      "answer": "Needs the table of enthalpy changes for the four compounds from the PDF; the values are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "347 kJ mol-1",
+      "steps": [
+        "C2H5OH(g) -> 2C + 6H + O minus CH3OH(g) -> C + 4H + O leaves the extra C-C bond and 2 extra C-H bonds: 3322 - 2105 = 1217 kJ mol-1.",
+        "From CH4, 4 C-H = 1740, so one C-H = 1740 / 4 = 435 kJ mol-1.",
+        "C-C = 1217 - 2 x 435 = 347 kJ mol-1 (the water value is not needed)."
+      ],
       "images": [
         "papers/chemistry/img/09B-Equilibria-07.jpg",
         "papers/chemistry/img/09B-Equilibria-08.jpg",
         "papers/chemistry/img/09B-Equilibria-09.jpg",
         "papers/chemistry/img/09B-Equilibria-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q5c.jpg"
       ]
     },
     {
@@ -548,12 +594,19 @@
         "exothermic"
       ],
       "question": "H2(g) + I2(g) <=> 2HI(g) is set up at 300 C and then cooled, and the colour darkens. Which statement is correct?",
-      "status": "pending",
-      "answer": "Needs the answer options from the PDF; they are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: left, endothermic",
+      "steps": [
+        "Iodine is the coloured (dark purple) species and HI is colourless, so a darker colour on cooling means more I2 has formed.",
+        "More I2 means the equilibrium has moved to the left when the system is cooled.",
+        "Cooling shifts the equilibrium in the exothermic direction, so the reverse (left-moving) reaction is exothermic and the forward reaction is endothermic."
+      ],
       "images": [
         "papers/chemistry/img/09B-Equilibria-10.jpg",
         "papers/chemistry/img/09B-Equilibria-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q6.jpg"
       ]
     },
     {
@@ -1209,12 +1262,19 @@
         "bond enthalpies"
       ],
       "question": "Using the table of bond enthalpies shown, what is the bond enthalpy of the C-H bond in kJ mol-1? A 198, B 313, C 416, D 532.",
-      "status": "pending",
-      "answer": "Needs the bond enthalpy table from the PDF; the values are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 416",
+      "steps": [
+        "delta H = bonds broken - bonds formed for CH4 + H2O -> CO + 3H2: bonds broken are 4 C-H and 2 O-H; bonds formed are 1 C=O (1077) and 3 H-H.",
+        "206 = (4x + 2 x 464) - (1077 + 3 x 436) = 4x + 928 - 2385.",
+        "4x = 206 + 2385 - 928 = 1663, so x = 415.75, which is about 416 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/09B-Equilibria-17.jpg",
         "papers/chemistry/img/09B-Equilibria-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q14c.jpg"
       ]
     },
     {
@@ -1287,14 +1347,23 @@
         "water of crystallisation"
       ],
       "question": "Determine the value of n in the hydrated magnesium carbonate MgCO3.nH2O, using its reaction with hydrochloric acid (MgCO3.nH2O + 2HCl -> MgCl2 + CO2 + (n+1)H2O).",
-      "status": "pending",
-      "answer": "Needs the mass, acid volume and concentration data from the PDF; they are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "n = 3",
+      "steps": [
+        "n(NaOH) in 25.0 cm3 = 0.0960 x 27.15 / 1000 = 2.606 x 10^-3 mol; HCl and NaOH react 1:1, so excess HCl in 250 cm3 = 10 x 2.606 x 10^-3 = 0.02606 mol.",
+        "HCl that reacted with the carbonate = 0.0600 - 0.02606 = 0.03394 mol.",
+        "MgCO3.nH2O reacts 1:2 with HCl, so moles of hydrated salt = 0.03394 / 2 = 0.01697 mol.",
+        "Molar mass = 2.35 / 0.01697 = 138.5 g mol-1.",
+        "Mr of MgCO3 = 24.3 + 12.0 + 3 x 16.0 = 84.3, so 18n = 138.5 - 84.3 = 54.2, giving n = 54.2 / 18.0 = 3.0, so n = 3."
+      ],
       "images": [
         "papers/chemistry/img/09B-Equilibria-19.jpg",
         "papers/chemistry/img/09B-Equilibria-20.jpg",
         "papers/chemistry/img/09B-Equilibria-21.jpg",
         "papers/chemistry/img/09B-Equilibria-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q16.jpg"
       ]
     },
     {
@@ -1342,14 +1411,22 @@
         "kJ mol-1"
       ],
       "question": "Use a completed Hess cycle, the answer to (b)(i) and the enthalpy change of Reaction 2 (MgCO3 + 2HCl) to calculate the enthalpy change of decomposition of MgCO3, to an appropriate number of significant figures.",
-      "status": "pending",
-      "answer": "Check the printed rH2 value (+3.58 kJ mol-1) against the PDF before marking ready; using it, delta rH(decomposition) = 3.58 - (-108) = +112 kJ mol-1",
-      "steps": [],
+      "status": "ready",
+      "answer": "+112 kJ mol-1",
+      "steps": [
+        "Complete the cycle by adding 2HCl(aq) to both top species; the bottom of the cycle is MgCl2(aq) + H2O(l) + CO2(g).",
+        "The left-hand arrow is Reaction 2 (MgCO3 + 2HCl), delta rH2 = +3.58 kJ mol-1; the right-hand arrow is Reaction 1 (MgO + 2HCl, with CO2 as a spectator), delta rH1 = -108.1 kJ mol-1.",
+        "By Hess's law, delta rH + delta rH1 = delta rH2, so delta rH = +3.58 - (-108.1) = +111.7 kJ mol-1.",
+        "Give +112 kJ mol-1 (3 significant figures, matching the data)."
+      ],
       "images": [
         "papers/chemistry/img/09B-Equilibria-19.jpg",
         "papers/chemistry/img/09B-Equilibria-20.jpg",
         "papers/chemistry/img/09B-Equilibria-21.jpg",
         "papers/chemistry/img/09B-Equilibria-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q16-2.jpg"
       ]
     },
     {

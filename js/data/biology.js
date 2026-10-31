@@ -13915,12 +13915,12 @@ window.BANK.biology = {
      ],
      "question": "Calculate the reaction rate (V) at a substrate concentration of 4 a.u. using the given formula.",
      "status": "ready",
-     "answer": "33 a.u. (33.3)",
+     "answer": "about 34 a.u. (33.3 if K is taken as 2; accept 33-34)",
      "steps": [
       "Vmax is the plateau of the graph: 50 a.u.",
-      "K is the concentration at half Vmax (25 a.u.), read from the curve as about 2 a.u.",
-      "V = (Vmax x S) / (K + S) = (50 x 4) / (2 + 4).",
-      "= 200 / 6 = 33.3, so about 33 a.u."
+      "K is the substrate concentration at half Vmax (25 a.u.): reading the curve gives about 1.9, so roughly 2 a.u.",
+      "V = (Vmax x S) / (K + S) = (50 x 4) / (1.9 + 4).",
+      "= 200 / 5.9 = 33.9, so about 34 a.u. (K = 2 gives 33.3)."
      ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-18.jpg",
@@ -14224,14 +14224,21 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Calculate the rate of decrease in clotting time at two days after stopping warfarin, using a tangent.",
-     "status": "pending",
-     "answer": "Missing: the clotting time graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "4 s per day (rate of decrease of clotting time; accept 3.5-4.5)",
+     "steps": [
+      "Draw a tangent to the curve at day 2, where the clotting time is 21 s.",
+      "The tangent passes through about (0 days, 29 s) and (4 days, 13 s).",
+      "Gradient = change in time / change in days = (13 - 29) / (4 - 0) = -4 s per day.",
+      "So the clotting time is decreasing at about 4 s per day at day 2."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-26.jpg",
       "papers/biology/img/02B-Proteins-DNA-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q11.jpg"
+     ]
     },
     {
      "id": "2B-Q12a",
@@ -14250,15 +14257,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Complete the table by filling the empty boxes with monomer names, elements or bond types.",
-     "status": "pending",
-     "answer": "Missing: the table is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Polysaccharide monomer: carbon, hydrogen, oxygen. Nucleic acid: monomer nucleotide, bond phosphodiester. Protein monomer (amino acid): carbon, hydrogen, oxygen, nitrogen (sometimes sulfur).",
+     "steps": [
+      "Monosaccharides contain only carbon, hydrogen and oxygen.",
+      "The monomer of a nucleic acid is a (mono)nucleotide.",
+      "Nucleotides are joined by phosphodiester bonds (between the phosphate of one and the sugar of the next).",
+      "Amino acids contain carbon, hydrogen, oxygen and nitrogen, and some also contain sulfur."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-27.jpg",
       "papers/biology/img/02B-Proteins-DNA-28.jpg",
       "papers/biology/img/02B-Proteins-DNA-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q12.jpg"
+     ]
     },
     {
      "id": "2B-Q12b",
@@ -14307,15 +14321,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which diagram shows a mononucleotide?",
-     "status": "pending",
-     "answer": "Missing: the diagram options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "A mononucleotide is one phosphate, one pentose sugar and one base.",
+      "The base is joined to carbon 1 of the sugar and the phosphate to the CH2 (carbon 5) on carbon 4, and carbons 1 and 4 lie either side of the ring oxygen, so the two attachments are on non-adjacent corners of the pentagon.",
+      "B shows the phosphate and base on the two sides of the pentagon with one corner between them.",
+      "In A, C and D the phosphate and base are joined to neighbouring corners, so they are wrong."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-29.jpg",
       "papers/biology/img/02B-Proteins-DNA-30.jpg",
       "papers/biology/img/02B-Proteins-DNA-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q13.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q13-2.jpg"
+     ]
     },
     {
      "id": "2B-Q13a(ii)",
@@ -14333,15 +14355,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which diagram shows two components joined by a phosphodiester bond?",
-     "status": "pending",
-     "answer": "Missing: the diagram options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "A phosphodiester bond is the covalent bond between a phosphate group and a sugar.",
+      "It joins one nucleotide to the next in the sugar-phosphate backbone.",
+      "B shows a pentagon (sugar) joined to a circle (phosphate).",
+      "A is sugar to base, C is phosphate to phosphate and D is base to phosphate, so none of these is correct."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-29.jpg",
       "papers/biology/img/02B-Proteins-DNA-30.jpg",
       "papers/biology/img/02B-Proteins-DNA-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q13.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q13-3.jpg"
+     ]
     },
     {
      "id": "2B-Q13a(iii)",
@@ -14360,15 +14390,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which diagram shows complementary base pairing?",
-     "status": "pending",
-     "answer": "Missing: the diagram options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "Complementary base pairs are a purine paired with a pyrimidine: here a large rectangle with a small square.",
+      "The bases are held together by hydrogen bonds, shown as dashed lines.",
+      "C shows a square and a rectangle joined by dashed lines.",
+      "A and B use solid lines (covalent bonds) and D joins two rectangles, so they are wrong."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-29.jpg",
       "papers/biology/img/02B-Proteins-DNA-30.jpg",
       "papers/biology/img/02B-Proteins-DNA-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q13.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q13-4.jpg"
+     ]
     },
     {
      "id": "2B-Q13b(i)",
@@ -14387,15 +14425,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "For each statement about the new complementary DNA strand and the mRNA strand, tick the correct box.",
-     "status": "pending",
-     "answer": "Missing: the base sequence diagram and statement table are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Guanines the same as template: neither strand. Thymines equal to adenines in template: only the new complementary DNA strand. No adenine present: neither strand.",
+     "steps": [
+      "Template: A T T G G C G A G A A C has 4 A, 2 T, 4 G and 2 C.",
+      "New DNA strand: T A A C C G C T C T T G. It has 2 G (not 4), 4 T (equal to the template's 4 A) and contains adenine.",
+      "mRNA: U A A C C G C U C U U G. It has 2 G, no thymine (uracil replaces it) and does contain adenine.",
+      "So: statement 1 is neither strand, statement 2 is only the new DNA strand, statement 3 is neither strand."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-29.jpg",
       "papers/biology/img/02B-Proteins-DNA-30.jpg",
       "papers/biology/img/02B-Proteins-DNA-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q13-5.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q13-6.jpg"
+     ]
     },
     {
      "id": "2B-Q13b(ii)",
@@ -14537,15 +14583,21 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Complete the diagram showing the base sequence on the other RNA strand.",
-     "status": "pending",
-     "answer": "Missing: the base sequence diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "G  U  C  U  U  U  C (left to right, bottom row)",
+     "steps": [
+      "The two RNA strands are complementary, with A pairing with U and G pairing with C.",
+      "Top strand C A G A A A G, so the bottom strand is G U C U U U C.",
+      "RNA has uracil, not thymine, so every A on the top strand pairs with U."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-32.jpg",
       "papers/biology/img/02B-Proteins-DNA-33.jpg",
       "papers/biology/img/02B-Proteins-DNA-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q14.jpg"
+     ]
     },
     {
      "id": "2B-Q14b(ii)",
@@ -14713,7 +14765,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-36.jpg",
       "papers/biology/img/02B-Proteins-DNA-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q15-2.jpg"
+     ]
     },
     {
      "id": "2B-Q15b(ii)",
@@ -14730,16 +14784,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Explain the effects of pH on the activity of free and immobilised lactase, using the table.",
-     "status": "pending",
-     "answer": "Missing: the table of pH and activity values is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both enzymes work best at pH 5 and lose activity either side of it, but immobilised lactase keeps more activity at extreme pH.",
+     "steps": [
+      "Both enzymes have their highest activity at pH 5 (free 94 a.u., immobilised 98 a.u.) and the activity falls either side of the optimum.",
+      "Away from the optimum, extra H+ or OH- ions break ionic and hydrogen bonds, changing the tertiary structure and the shape of the active site, so fewer enzyme-substrate complexes form.",
+      "At pH 2 both are 0 because the enzyme is denatured.",
+      "Immobilised lactase is more active than free lactase at pH 3 (38 against 0) and at pH 6 to 8 (e.g. 76 against 63 at pH 6), because the bead protects the enzyme from the surrounding pH so it is less denatured."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-34.jpg",
       "papers/biology/img/02B-Proteins-DNA-35.jpg",
       "papers/biology/img/02B-Proteins-DNA-36.jpg",
       "papers/biology/img/02B-Proteins-DNA-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q15.jpg"
+     ]
     },
     {
      "id": "2B-Q15b(iii)",
@@ -14976,7 +15037,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-42.jpg",
       "papers/biology/img/02B-Proteins-DNA-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q17.jpg"
+     ]
     },
     {
      "id": "2B-Q17b(i)",
@@ -15067,9 +15130,14 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Complete the diagram showing the results of the Meselson and Stahl experiment.",
-     "status": "pending",
-     "answer": "Missing: the flow chart and band diagram are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Stage 2: one full-width band on the middle dotted line. Stage 3: two bands, one on the top line and one on the middle line, each half width.",
+     "steps": [
+      "Heavy (15N) DNA sits on the bottom line, hybrid DNA in the middle and light (14N) DNA on the top line.",
+      "After stage 2 all DNA molecules are hybrid (one old heavy strand, one new light strand): a single full-width band on the middle line.",
+      "After stage 3 half the molecules are hybrid and half are all light, so there are two bands, each half the width of the stage 1 band.",
+      "The light band is on the top dotted line and the hybrid band on the middle dotted line."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-39.jpg",
       "papers/biology/img/02B-Proteins-DNA-40.jpg",
@@ -15077,7 +15145,10 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-42.jpg",
       "papers/biology/img/02B-Proteins-DNA-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q17-2.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q17-3.jpg"
+     ]
     },
     {
      "id": "2B-Q17c(ii)",
@@ -15096,9 +15167,14 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Complete the diagram showing band positions if the conservative theory were correct.",
-     "status": "pending",
-     "answer": "Missing: the conservative theory diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Stage 2: two bands, a half-width heavy band on the bottom line and a half-width light band on the top line.",
+     "steps": [
+      "In the conservative theory the original double helix stays intact and a completely new molecule is made.",
+      "After one generation in 14N there is one all-heavy molecule (the original) and one all-light molecule (new).",
+      "The heavy molecule gives a band at the bottom dotted line (as in stage 1) and the light one a band at the top dotted line.",
+      "There is no band in the middle line, and each band is half the width of the stage 1 band."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-39.jpg",
       "papers/biology/img/02B-Proteins-DNA-40.jpg",
@@ -15106,7 +15182,10 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-42.jpg",
       "papers/biology/img/02B-Proteins-DNA-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q17-4.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q17-5.jpg"
+     ]
     },
     {
      "id": "2B-Q17c(iii)",
@@ -15125,9 +15204,14 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Complete the diagram showing band positions if the dispersive theory were correct.",
-     "status": "pending",
-     "answer": "Missing: the dispersive theory diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Stage 2: one full-width band on the middle dotted line.",
+     "steps": [
+      "In the dispersive theory each new molecule is a mixture of old heavy and new light segments.",
+      "So after stage 2 both molecules have the same intermediate density.",
+      "They form a single band at the middle dotted line, with the full width of the stage 1 band.",
+      "No bands appear on the top or bottom lines."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-39.jpg",
       "papers/biology/img/02B-Proteins-DNA-40.jpg",
@@ -15135,7 +15219,10 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-42.jpg",
       "papers/biology/img/02B-Proteins-DNA-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q17-6.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q17-7.jpg"
+     ]
     },
     {
      "id": "2B-Q18a",
@@ -15220,15 +15307,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Calculate the effect on the rate of reaction of each degree increase between 46 C and 50 C (2 s.f.).",
-     "status": "pending",
-     "answer": "Missing: the rate values are read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "-8.5 a.u. per degree C (the rate falls; accept 8.5 to 8.8)",
+     "steps": [
+      "Read the rate at 46 C from the graph: about 54 a.u.",
+      "Read the rate at 50 C: 20 a.u.",
+      "Change in rate = 20 - 54 = -34 a.u. over 4 C (50 - 46).",
+      "Change per degree = -34 / 4 = -8.5 a.u. per C (2 significant figures), a decrease."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-43.jpg",
       "papers/biology/img/02B-Proteins-DNA-44.jpg",
       "papers/biology/img/02B-Proteins-DNA-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q18.jpg"
+     ]
     },
     {
      "id": "2B-Q18c(ii)",
@@ -15259,7 +15353,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-44.jpg",
       "papers/biology/img/02B-Proteins-DNA-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q18.jpg"
+     ]
     },
     {
      "id": "2B-Q19a(i)",
@@ -15276,16 +15372,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Draw a diagram of a phospholipid using the information in the table.",
-     "status": "pending",
-     "answer": "Missing: the table of phospholipid components is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Glycerol (hatched rectangle) with one phosphate (circle) and two fatty acids (open rectangles) each joined to it by a bond line.",
+     "steps": [
+      "Draw the hatched glycerol rectangle upright.",
+      "Join one phosphate circle to one end of the glycerol with a line (bond).",
+      "Join two fatty acid rectangles to the other two positions on the glycerol, each with a line.",
+      "The two fatty acids run parallel, side by side, away from the glycerol."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-45.jpg",
       "papers/biology/img/02B-Proteins-DNA-46.jpg",
       "papers/biology/img/02B-Proteins-DNA-47.jpg",
       "papers/biology/img/02B-Proteins-DNA-48.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q19.jpg"
+     ]
     },
     {
      "id": "2B-Q19a(ii)",
@@ -15304,16 +15407,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which diagram shows an ester bond?",
-     "status": "pending",
-     "answer": "Missing: the diagram options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "An ester bond is C-O-C=O, formed between a carboxyl group and a hydroxyl group.",
+      "It joins a fatty acid to glycerol in a phospholipid.",
+      "C shows the carbon, an oxygen link, then a carbon with a double bond to oxygen.",
+      "A is a peptide bond (N-C=O), B has no linking oxygen and D has an N-O link, so they are wrong."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-45.jpg",
       "papers/biology/img/02B-Proteins-DNA-46.jpg",
       "papers/biology/img/02B-Proteins-DNA-47.jpg",
       "papers/biology/img/02B-Proteins-DNA-48.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q19-2.jpg"
+     ]
     },
     {
      "id": "2B-Q19b(i)",
@@ -15365,16 +15475,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which row of the table describes an unsaturated fatty acid compared with a saturated fatty acid with the same number of carbons?",
-     "status": "pending",
-     "answer": "Missing: the table rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: has double bonds between two carbons; fewer hydrogens than the saturated fatty acid",
+     "steps": [
+      "An unsaturated fatty acid has one or more C=C double bonds.",
+      "Each double bond means two fewer hydrogens are attached to the carbon chain.",
+      "So with the same number of carbons it has fewer hydrogens than the saturated acid.",
+      "C is correct."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-45.jpg",
       "papers/biology/img/02B-Proteins-DNA-46.jpg",
       "papers/biology/img/02B-Proteins-DNA-47.jpg",
       "papers/biology/img/02B-Proteins-DNA-48.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q19-3.jpg"
+     ]
     },
     {
      "id": "2B-Q19b(iii)",
@@ -15561,15 +15678,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which arrow on the energy graph shows the energy required to start the reaction?",
-     "status": "pending",
-     "answer": "Missing: the energy graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "Activation energy is the energy needed to start the reaction, from the energy of the reactants up to the peak.",
+      "Arrow Q goes from the reactant level up to the top of the energy hill.",
+      "P is the energy of the reactants above the base line, and R and S are measured from the product level or axis.",
+      "So Q is correct."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-48.jpg",
       "papers/biology/img/02B-Proteins-DNA-49.jpg",
       "papers/biology/img/02B-Proteins-DNA-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q20.jpg"
+     ]
     },
     {
      "id": "2B-Q20c",
@@ -15588,15 +15712,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Explain why E1 cannot convert AB into AC or AC into D, using the diagram.",
-     "status": "pending",
-     "answer": "Missing: the reaction pathway diagram with enzymes E1, E2 and E3 is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Enzymes are specific: E1's active site fits only A and B, so it cannot bind AB or AC.",
+     "steps": [
+      "Each enzyme has an active site with a specific shape complementary to one substrate.",
+      "The substrates of E1 are A and B. AB and AC have different shapes from A and B, so they do not fit E1's active site.",
+      "So no enzyme-substrate complex forms, and E1 cannot catalyse AB to AC or AC to D.",
+      "Separate enzymes, E2 and E3, are needed for those steps."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-48.jpg",
       "papers/biology/img/02B-Proteins-DNA-49.jpg",
       "papers/biology/img/02B-Proteins-DNA-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q20-2.jpg"
+     ]
     },
     {
      "id": "2B-Q20d",
@@ -15614,15 +15745,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Describe two conclusions from the table of rates at different pH and temperature combinations.",
-     "status": "pending",
-     "answer": "Missing: the table of rates is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1. pectinase works best at pH 4 and 30 C (35 a.u.). 2. At pH 2 or at 60 C there is no activity at all.",
+     "steps": [
+      "The highest rate is 35 a.u. at pH 4 and 30 C, so this is the best of the combinations tested.",
+      "At pH 2 the rate is 0 at all temperatures, and at 60 C it is 0 at all pHs, so extreme pH and high temperature denature the enzyme.",
+      "At 30 C the rate is much higher at pH 4 (35) than at pH 8 (10), so pH 4 is closer to the optimum.",
+      "At 5 C the rate is low (5 a.u.) at both pH 4 and pH 8, so low temperature slows the reaction."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-48.jpg",
       "papers/biology/img/02B-Proteins-DNA-49.jpg",
       "papers/biology/img/02B-Proteins-DNA-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q20-3.jpg"
+     ]
     },
     {
      "id": "2B-Q21a",
@@ -15641,15 +15779,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Calculate the minimum mass of protein a 70 kg person should eat in one week to reach a synthesis rate of 150 mg per kg.",
-     "status": "pending",
-     "answer": "Missing: the graph relating protein intake to synthesis rate is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "686 g",
+     "steps": [
+      "From the graph a rate of 150 is first reached at a diet of 1.4 g of protein per kg per day (0.9 gives only 130).",
+      "Per day for a 70 kg person: 1.4 x 70 = 98 g.",
+      "Per week: 98 x 7 = 686 g.",
+      "The minimum mass of protein is 686 g."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-50.jpg",
       "papers/biology/img/02B-Proteins-DNA-51.jpg",
       "papers/biology/img/02B-Proteins-DNA-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q21.jpg"
+     ]
     },
     {
      "id": "2B-Q21b(i)",
@@ -15732,16 +15877,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Describe the evidence for and against a relationship between blood cholesterol and heart disease.",
-     "status": "pending",
-     "answer": "Missing: the graph of cholesterol and heart disease results is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "For: the curve for people who developed heart disease is shifted to higher cholesterol levels. Against: the curves overlap greatly and have the same maximum.",
+     "steps": [
+      "For: the dashed curve (developed heart disease) peaks at a higher blood cholesterol level, and a bigger percentage of this group have higher cholesterol (to the right of the peak).",
+      "For: a bigger percentage of the group who did not develop heart disease have lower cholesterol (left of the peak).",
+      "Against: the two curves overlap for most of their length, with similar shapes and the same peak height.",
+      "Against: many people with high cholesterol did not develop heart disease, and some with low cholesterol did."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-52.jpg",
       "papers/biology/img/02B-Proteins-DNA-53.jpg",
       "papers/biology/img/02B-Proteins-DNA-54.jpg",
       "papers/biology/img/02B-Proteins-DNA-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q22-2.jpg"
+     ]
     },
     {
      "id": "2B-Q22b",
@@ -15758,16 +15910,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Describe the evidence in the HDL and LDL graph that supports the three conclusions.",
-     "status": "pending",
-     "answer": "Missing: the HDL and LDL graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Incidence of CVD rises with LDL, falls with HDL, and is highest at low HDL with high LDL.",
+     "steps": [
+      "LDL: at every HDL level, the bars get taller as LDL increases (e.g. at HDL below 40, from about 2 a.u. at LDL below 100 to over 6 a.u. at LDL 160 or more).",
+      "HDL: at every LDL level, the bars get shorter as HDL increases (e.g. at LDL 160 or more, from the tallest bar at HDL below 40 to a much shorter bar at HDL 60 or more).",
+      "Ratio: the highest incidence is at low HDL and high LDL (lowest ratio of HDL to LDL), and the lowest incidence (less than 1 a.u.) is at high HDL and low LDL (highest ratio)."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-52.jpg",
       "papers/biology/img/02B-Proteins-DNA-53.jpg",
       "papers/biology/img/02B-Proteins-DNA-54.jpg",
       "papers/biology/img/02B-Proteins-DNA-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q22.jpg"
+     ]
     },
     {
      "id": "2B-Q22c(i)",
@@ -15800,7 +15958,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-54.jpg",
       "papers/biology/img/02B-Proteins-DNA-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q22-3.jpg"
+     ]
     },
     {
      "id": "2B-Q22c(ii)",
@@ -15832,7 +15992,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-54.jpg",
       "papers/biology/img/02B-Proteins-DNA-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q22-3.jpg"
+     ]
     },
     {
      "id": "2B-Q22c(iii)",
@@ -15918,14 +16080,21 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Draw one DNA mononucleotide using shapes selected from the table.",
-     "status": "pending",
-     "answer": "Missing: the table of component shapes is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Pentagon D joined by a line to a circle (phosphate) and by a line to the thymine box T.",
+     "steps": [
+      "A DNA mononucleotide has one phosphate, one deoxyribose and one base.",
+      "Use the pentagon marked D (deoxyribose), not R (ribose, found in RNA).",
+      "Use the box marked T for the base, not U (uracil, found in RNA).",
+      "Draw a bond line from the deoxyribose to the phosphate circle and another bond line from the deoxyribose to the T box."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-55.jpg",
       "papers/biology/img/02B-Proteins-DNA-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q23.jpg"
+     ]
     },
     {
      "id": "2B-Q24a(i)",
@@ -15944,16 +16113,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which arrow shows the activation energy for this reaction?",
-     "status": "pending",
-     "answer": "Missing: the energy graph and option arrows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Q",
+     "steps": [
+      "Activation energy is the energy needed to start the reaction.",
+      "It is measured from the energy of the reactants up to the top of the peak.",
+      "Arrow Q spans this gap; P is the difference between the reactants and the base line (energy released), and R and S are measured from the product level.",
+      "So Q is correct."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-56.jpg",
       "papers/biology/img/02B-Proteins-DNA-57.jpg",
       "papers/biology/img/02B-Proteins-DNA-58.jpg",
       "papers/biology/img/02B-Proteins-DNA-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q24.jpg"
+     ]
     },
     {
      "id": "2B-Q24a(ii)",
@@ -15975,16 +16151,24 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which row of the table shows the molecule present at time Y and time Z on this graph?",
-     "status": "pending",
-     "answer": "Missing: the table and graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: time Y reactant, monophenol; time Z product, o-diphenol",
+     "steps": [
+      "The equation shows that monophenol is converted to o-diphenol.",
+      "At the start (time Y) the reactant, monophenol, is present.",
+      "At the end (time Z) the product, o-diphenol, is present.",
+      "So the row is reactant/monophenol and product/o-diphenol (C)."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-56.jpg",
       "papers/biology/img/02B-Proteins-DNA-57.jpg",
       "papers/biology/img/02B-Proteins-DNA-58.jpg",
       "papers/biology/img/02B-Proteins-DNA-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q24.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q24-2.jpg"
+     ]
     },
     {
      "id": "2B-Q24a(iii)",
@@ -16003,16 +16187,24 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which row shows how the lengths of arrows P and Q would change when polyphenol oxidase is present?",
-     "status": "pending",
-     "answer": "Missing: the table of options and graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: P no change, Q decrease",
+     "steps": [
+      "The enzyme lowers the activation energy, so arrow Q gets shorter.",
+      "The enzyme does not change the energy of the reactants or products.",
+      "So the energy difference between reactants and products, arrow P, does not change.",
+      "So the row is no change for P and decrease for Q (C)."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-56.jpg",
       "papers/biology/img/02B-Proteins-DNA-57.jpg",
       "papers/biology/img/02B-Proteins-DNA-58.jpg",
       "papers/biology/img/02B-Proteins-DNA-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q24.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q24-3.jpg"
+     ]
     },
     {
      "id": "2B-Q24b(i)",
@@ -16031,16 +16223,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Calculate the rate of reaction at 3 minutes by drawing a tangent.",
-     "status": "pending",
-     "answer": "Missing: the monophenol concentration graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "about 9.4 mmol dm^-3 min^-1 (accept 9-10)",
+     "steps": [
+      "At 3 minutes the monophenol concentration is about 25 mmol dm^-3.",
+      "Draw a tangent to the curve at 3 minutes; it passes through about (0 min, 53 mmol dm^-3) and (5.6 min, 0).",
+      "Gradient = (0 - 53) / (5.6 - 0) = -9.5 mmol dm^-3 min^-1.",
+      "The rate of reaction at 3 minutes is therefore about 9.4 mmol dm^-3 min^-1."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-56.jpg",
       "papers/biology/img/02B-Proteins-DNA-57.jpg",
       "papers/biology/img/02B-Proteins-DNA-58.jpg",
       "papers/biology/img/02B-Proteins-DNA-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q24-4.jpg"
+     ]
     },
     {
      "id": "2B-Q24b(ii)",
@@ -16074,7 +16273,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-58.jpg",
       "papers/biology/img/02B-Proteins-DNA-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q24-4.jpg"
+     ]
     },
     {
      "id": "2B-Q25a(i)",
@@ -16093,14 +16294,20 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Complete the diagram showing the base sequence of the mRNA made from the template strand.",
-     "status": "pending",
-     "answer": "Missing: the template strand base diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "U  A  C  G  G  C  A  A (left to right)",
+     "steps": [
+      "mRNA is made complementary to the template strand: A pairs with U, T with A, G with C and C with G.",
+      "Template A T G C C G T T gives U A C G G C A A.",
+      "RNA has uracil in place of thymine, so there is no T in the mRNA."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-59.jpg",
       "papers/biology/img/02B-Proteins-DNA-60.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q25.jpg"
+     ]
     },
     {
      "id": "2B-Q25a(ii)",
@@ -16190,7 +16397,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-59.jpg",
       "papers/biology/img/02B-Proteins-DNA-60.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q25-2.jpg"
+     ]
     },
     {
      "id": "2B-Q26a",
@@ -16241,15 +16450,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Calculate the rate of reaction at 30 minutes by drawing a tangent.",
-     "status": "pending",
-     "answer": "Missing: the elastin protease graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "about 2.5 nmol dm^-3 min^-1 (accept 2.2-2.8)",
+     "steps": [
+      "At 30 minutes the concentration of breakdown product is about 163 nmol dm^-3.",
+      "Draw a tangent to the curve at 30 minutes; it passes through about (10 min, 113) and (50 min, 213).",
+      "Gradient = (213 - 113) / (50 - 10) = 100 / 40.",
+      "Rate of reaction at 30 minutes = about 2.5 nmol dm^-3 min^-1."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-60.jpg",
       "papers/biology/img/02B-Proteins-DNA-61.jpg",
       "papers/biology/img/02B-Proteins-DNA-62.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q26.jpg"
+     ]
     },
     {
      "id": "2B-Q26b(ii)",
@@ -16464,16 +16680,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Comment on the results comparing the effect of variegin and drug H on clot mass in stents.",
-     "status": "pending",
-     "answer": "Missing: the graph of clot masses is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Clots in stents with variegin are much smaller than with drug H, but there are few results and one overlaps.",
+     "steps": [
+      "Variegin clots are about 11-22 mg, much less than most drug H clots (43-70 mg), so variegin looks more effective at preventing clots in stents.",
+      "The mean clot mass for variegin (about 15 mg) is far lower than for drug H (about 47 mg).",
+      "One drug H result (about 18 mg) is within the variegin range, and drug H results are very variable.",
+      "There are only 4-5 stents per treatment, so more repeats and a statistical test are needed to be confident."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-62.jpg",
       "papers/biology/img/02B-Proteins-DNA-63.jpg",
       "papers/biology/img/02B-Proteins-DNA-64.jpg",
       "papers/biology/img/02B-Proteins-DNA-65.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q27.jpg"
+     ]
     },
     {
      "id": "2B-Q28a(i)",
@@ -16502,7 +16725,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-65.jpg",
       "papers/biology/img/02B-Proteins-DNA-66.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q28.jpg"
+     ]
     },
     {
      "id": "2B-Q28a(ii)",
@@ -16519,14 +16744,21 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Draw a circle around the base in uridine monophosphate.",
-     "status": "pending",
-     "answer": "Missing: the UMP structure diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Circle the six-membered ring at the top of the molecule (the uracil base), not the sugar or phosphate.",
+     "steps": [
+      "Uridine monophosphate has a phosphate group, a ribose sugar and a base.",
+      "The base is the nitrogen-containing ring with two C=O groups and an NH, attached to the sugar through its N.",
+      "Draw the circle round this whole ring (with its =O and HN), and stop at the bond to the sugar.",
+      "Do not include the five-membered sugar ring or the phosphate group."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-65.jpg",
       "papers/biology/img/02B-Proteins-DNA-66.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q28.jpg"
+     ]
     },
     {
      "id": "2B-Q28a(iii)",
@@ -16556,7 +16788,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-65.jpg",
       "papers/biology/img/02B-Proteins-DNA-66.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q28.jpg"
+     ]
     },
     {
      "id": "2B-Q28b(i)",
@@ -16588,7 +16822,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-65.jpg",
       "papers/biology/img/02B-Proteins-DNA-66.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q28.jpg"
+     ]
     },
     {
      "id": "2B-Q28b(ii)",
@@ -16619,7 +16855,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-65.jpg",
       "papers/biology/img/02B-Proteins-DNA-66.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q28.jpg"
+     ]
     },
     {
      "id": "2B-Q29a",
@@ -16825,15 +17063,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Complete the diagram showing how two glucose molecules join by a glycosidic bond to form two products.",
-     "status": "pending",
-     "answer": "Missing: the glucose diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Maltose (two glucose rings joined by a C1-O-C4 glycosidic bond) and a water molecule.",
+     "steps": [
+      "Glucose molecules join in a condensation reaction.",
+      "The OH on carbon 1 of the first glucose (right-hand carbon) joins with the H of the OH on carbon 4 of the second glucose (left-hand carbon).",
+      "Draw the two rings with a single oxygen between C1 of the first and C4 of the second: this is the 1-4 glycosidic bond, making a disaccharide (maltose).",
+      "The OH and H removed form the second product, a molecule of water (H2O)."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-69.jpg",
       "papers/biology/img/02B-Proteins-DNA-70.jpg",
       "papers/biology/img/02B-Proteins-DNA-71.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q31.jpg"
+     ]
     },
     {
      "id": "2B-Q31b(i)",
@@ -16851,15 +17096,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Draw one disaccharide and two different oligosaccharides produced by amylase digesting the amylopectin shown.",
-     "status": "pending",
-     "answer": "Missing: the amylopectin diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Disaccharide: the two open circles between the grey circles on the top row. Oligosaccharides: the three open circles at the left end of the top row, and the five-circle chain made of the first grey circle and the four circles below it.",
+     "steps": [
+      "Amylase cuts only 1-4 bonds, so the bonds from a grey circle to the circle below it (1-6 bonds) stay intact.",
+      "Cut between the third open circle and the first grey circle, between the first grey circle and the next open circle, and between the last open circle and the second grey circle.",
+      "This gives a disaccharide (the two open circles joined to each other), a trisaccharide (three open circles joined) and a pentasaccharide (the first grey circle plus the four circles joined below it, in a line).",
+      "Each product has at least two circles, because only disaccharides and oligosaccharides are made (no single glucose)."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-69.jpg",
       "papers/biology/img/02B-Proteins-DNA-70.jpg",
       "papers/biology/img/02B-Proteins-DNA-71.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q31-2.jpg"
+     ]
     },
     {
      "id": "2B-Q31b(ii)",
@@ -16889,7 +17141,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-70.jpg",
       "papers/biology/img/02B-Proteins-DNA-71.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q31-2.jpg"
+     ]
     },
     {
      "id": "2B-Q31c(i)",
@@ -17002,15 +17256,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Complete the diagram to show a hydrogen bond between two water molecules.",
-     "status": "pending",
-     "answer": "Missing: the three-water-molecule diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw a dashed line from a hydrogen atom (delta +) of one water molecule to the oxygen atom (delta -) of a neighbouring molecule.",
+     "steps": [
+      "A hydrogen bond forms between the slightly positive hydrogen of one water molecule and the slightly negative oxygen of another.",
+      "For example, join the upper H of the middle molecule to the O of the right-hand molecule with a dashed line.",
+      "Mark delta + on the hydrogen atoms and delta - on the oxygen atoms.",
+      "The line must go from an H to an O of a different molecule, not within one molecule."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-71.jpg",
       "papers/biology/img/02B-Proteins-DNA-72.jpg",
       "papers/biology/img/02B-Proteins-DNA-73.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q32.jpg"
+     ]
     },
     {
      "id": "2B-Q32b",
@@ -17028,15 +17289,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Complete the diagram showing two water molecules around a sodium ion.",
-     "status": "pending",
-     "answer": "Missing: the sodium ion diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Two water molecules touching the Na+ ion with their oxygen atoms pointing towards it and their hydrogens pointing away.",
+     "steps": [
+      "Water is polar: oxygen is slightly negative (delta -) and hydrogen is slightly positive (delta +).",
+      "The positive Na+ ion attracts the delta - oxygen atoms.",
+      "Draw two water molecules next to the ion with their O atoms nearest to the Na+ and the H atoms pointing outwards.",
+      "Label the oxygens delta - (and hydrogens delta +)."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-71.jpg",
       "papers/biology/img/02B-Proteins-DNA-72.jpg",
       "papers/biology/img/02B-Proteins-DNA-73.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q32-2.jpg"
+     ]
     },
     {
      "id": "2B-Q32c",
@@ -17053,15 +17321,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Describe the effects of temperature on the solubility of chemicals A, B, C and D.",
-     "status": "pending",
-     "answer": "Missing: the solubility graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: solubility rises steadily with temperature. B: rises sharply to about 33 C, then falls slightly. C: almost unchanged. D: falls as temperature rises.",
+     "steps": [
+      "Chemical A: solubility increases steadily (roughly linearly), from about 7 g per 100 g at 0 C to about 85 g at 80 C.",
+      "Chemical B: increases rapidly from about 4 g to a peak of about 50 g at about 33 C, then decreases slowly to about 43 g at 80 C.",
+      "Chemical C: little effect; solubility stays about 36-38 g per 100 g over the whole range.",
+      "Chemical D: solubility decreases as temperature increases, from about 17 g at 0 C to about 1 g at 80 C (the fall is steepest at low temperatures)."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-71.jpg",
       "papers/biology/img/02B-Proteins-DNA-72.jpg",
       "papers/biology/img/02B-Proteins-DNA-73.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q32-3.jpg"
+     ]
     },
     {
      "id": "2B-Q33a",
@@ -17141,9 +17416,14 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Calculate the diameter of a lipid nanoparticle with a volume of 0.108 (units as given), using pi = 3.0.",
-     "status": "pending",
-     "answer": "Missing: the exponent in the volume is lost in extraction (0.108 m3 would not be a 'very small' particle).",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.6 um",
+     "steps": [
+      "V = (4/3) x pi x r^3, with pi = 3.0, so V = 4 r^3.",
+      "0.108 = 4 r^3, so r^3 = 0.108 / 4 = 0.027.",
+      "r = cube root of 0.027 = 0.3 um.",
+      "Diameter = 2 x r = 0.6 um."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-73.jpg",
       "papers/biology/img/02B-Proteins-DNA-74.jpg",
@@ -17212,7 +17492,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-74.jpg",
       "papers/biology/img/02B-Proteins-DNA-75.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q33.jpg"
+     ]
     },
     {
      "id": "2B-Q34a",
@@ -17231,9 +17513,14 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Explain why eating soybeans may reduce the risk of heart disease.",
-     "status": "pending",
-     "answer": "Soybean compounds lower cholesterol and LDL in the blood, which reduces atherosclerosis and the risk of heart disease.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Less LDL and cholesterol means less atheroma in the artery walls, so arteries stay wider and clots are less likely, lowering the risk of heart disease.",
+     "steps": [
+      "LDLs carry cholesterol to tissues and deposit it in artery walls, so lower LDL and cholesterol means less cholesterol is deposited.",
+      "So less atheroma (plaque) forms, which means less damage to the endothelium and less narrowing of the coronary arteries.",
+      "Blood flow to the heart muscle stays high and the risk of blood clots (thrombosis) is lower.",
+      "This reduces the risk of coronary heart disease and heart attacks."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-76.jpg",
       "papers/biology/img/02B-Proteins-DNA-77.jpg",
@@ -17339,7 +17626,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-78.jpg",
       "papers/biology/img/02B-Proteins-DNA-79.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q34-2.jpg"
+     ]
     },
     {
      "id": "2B-Q34c(iii)",
@@ -17373,7 +17662,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-78.jpg",
       "papers/biology/img/02B-Proteins-DNA-79.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q34-2.jpg"
+     ]
     },
     {
      "id": "2B-Q34d",
@@ -17391,16 +17682,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Explain why eating soybeans may reduce blood cholesterol, using the graph of HMGCR activity.",
-     "status": "pending",
-     "answer": "Missing: the graph of HMGCR activity and cholesterol synthesis is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Soybean peptides inhibit HMGCR, so less cholesterol is synthesised by liver cells and blood cholesterol falls.",
+     "steps": [
+      "As the concentration of soybean peptides rises, the inhibition of HMGCR rises from about 5% to nearly 100%.",
+      "Over the same range, the synthesis of cholesterol falls from 100% to about 5%.",
+      "HMGCR is an enzyme in cholesterol synthesis, so inhibiting it lowers cholesterol production, so less enters the blood.",
+      "Therefore eating soybeans (which provide the peptides) may reduce blood cholesterol."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-76.jpg",
       "papers/biology/img/02B-Proteins-DNA-77.jpg",
       "papers/biology/img/02B-Proteins-DNA-78.jpg",
       "papers/biology/img/02B-Proteins-DNA-79.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q34.jpg"
+     ]
     },
     {
      "id": "2B-Q35a",
@@ -17607,16 +17905,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Describe two conclusions from the graph of blood cholesterol and coronary heart disease death rate.",
-     "status": "pending",
-     "answer": "Missing: the graph of cholesterol and CHD death rate is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "In every region the CHD death rate rises as blood cholesterol rises, and at the same cholesterol level the death rate is higher in Northern Europe and the US than in the Mediterranean and Japan.",
+     "steps": [
+      "For Northern Europe the death rate rises from about 14% at 5.0 mmol dm^-3 to about 29% at 8.3; for the United States from about 10% at 4.9 to about 25% at 7.8, so there is a positive correlation.",
+      "Mediterranean and Japan stay low (below about 7%) even at 5.5 or more mmol dm^-3, where the US and Northern Europe have 12-14% or more.",
+      "So blood cholesterol is not the only factor, because the death rate differs between regions with the same cholesterol level (other factors such as diet and lifestyle).",
+      "Northern Europe has the highest death rate at each cholesterol level."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-82.jpg",
       "papers/biology/img/02B-Proteins-DNA-83.jpg",
       "papers/biology/img/02B-Proteins-DNA-84.jpg",
       "papers/biology/img/02B-Proteins-DNA-85.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q37.jpg"
+     ]
     },
     {
      "id": "2B-Q37b(i)",
@@ -17861,15 +18166,25 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Complete the graphs showing the concentrations and densities of DNA at stages 1, 2 and 3 of the flowchart.",
-     "status": "pending",
-     "answer": "Missing: the flowchart and the graph axes are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Stage 1: one peak at 7.74. Stage 2: one peak at 7.67. Stage 3: two peaks at 7.60 and 7.67, each half the height of the stage 1 peak.",
+     "steps": [
+      "Stage 1: all DNA is heavy (15N) with density 7.74, so one peak at 7.74 of the same height as the reference peak.",
+      "Stage 2: all DNA is hybrid (one heavy and one light strand), with density halfway between 7.74 and 7.60, which is 7.67: one peak at 7.67 of the same height.",
+      "Stage 3: half the DNA is hybrid (7.67) and half is light only (7.60): two peaks, one at 7.60 and one at 7.67.",
+      "Each stage 3 peak is half the height of the stage 1 peak, as each holds half the molecules; there is no peak at 7.74 after stage 1."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-85.jpg",
       "papers/biology/img/02B-Proteins-DNA-86.jpg",
       "papers/biology/img/02B-Proteins-DNA-87.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q38.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q38-2.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q38-3.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q38-4.jpg"
+     ]
     },
     {
      "id": "2B-Q39a",
@@ -17965,7 +18280,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-89.jpg",
       "papers/biology/img/02B-Proteins-DNA-90.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q39.jpg"
+     ]
     },
     {
      "id": "2B-Q39c(ii)",
@@ -17999,7 +18316,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-89.jpg",
       "papers/biology/img/02B-Proteins-DNA-90.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q39.jpg"
+     ]
     },
     {
      "id": "2B-Q40a",
@@ -18233,7 +18552,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-93.jpg",
       "papers/biology/img/02B-Proteins-DNA-94.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q40.jpg"
+     ]
     }
    ]
   },
@@ -23442,15 +23763,21 @@ window.BANK.biology = {
       "genotype"
      ],
      "question": "From the labelled rabbit sperm diagram (options AW, BX, CY, DZ), state which structure contains the genetic information used to make acrosomal enzymes.",
-     "status": "pending",
-     "answer": "Missing: the labelled sperm diagram (AW to DZ) is not in the text, so the letter cannot be matched to the nucleus.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Y (the nucleus)",
+     "steps": [
+      "Acrosomal enzymes are proteins, so the genetic information for them is the gene for each enzyme, which is DNA.",
+      "In a sperm cell the DNA is in the nucleus, the large rounded head region labelled Y.",
+      "W is the acrosome, which stores the enzymes but does not contain their genes, and Z is the midpiece with mitochondria, so neither is correct."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-01.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-02.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q1.jpg"
+     ]
     },
     {
      "id": "3B-Q1b",
@@ -23557,15 +23884,24 @@ window.BANK.biology = {
       "interaction"
      ],
      "question": "Discuss how genes and the environment interact to produce the fur colour of three types of rabbit, using the table and the information that one enzyme is inactive at core body temperature.",
-     "status": "pending",
-     "answer": "Missing: the table describing the three rabbit types is not in the text, so the fur colour comparison cannot be made.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Fur colour depends on the alleles for an enzyme that makes pigment, and for Himalayan rabbits also on temperature: the enzyme works only in cooler body parts.",
+     "steps": [
+      "A gene codes for an enzyme that controls production of pigment in the fur; the allele combination (genotype) decides which version of the enzyme is made.",
+      "Black rabbits (CC, Cc^ch or Cc^a) have at least one C allele coding for a fully working enzyme, so pigment is made all over; C is dominant.",
+      "Albino rabbits (c^a c^a) have no working enzyme, so no pigment is made anywhere and the fur is white; the environment has no effect.",
+      "Himalayan rabbits (c^h c^h or c^h c^a) make an enzyme whose shape changes (it is denatured) at the warm core body temperature, so it is inactive over most of the body and the fur is white.",
+      "In the cooler extremities (ears, nose, paws, tail) the enzyme is active, so pigment is made and these parts are black.",
+      "So the phenotype of a Himalayan rabbit comes from the interaction of its genotype with temperature; c^h is dominant to c^a because c^h c^a rabbits are Himalayan."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-01.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-02.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q1-2.jpg"
+     ]
     },
     {
      "id": "3B-Q2a(i)",
@@ -23581,15 +23917,20 @@ window.BANK.biology = {
       "metres"
      ],
      "question": "From four options (A 1.6 x 10^-2 m, B 1.6 x 10^2 m, C 1.6 x 10^-3 m, D 1.6 x 10^3 m), state the diameter of the blue poison dart frog egg cell.",
-     "status": "pending",
-     "answer": "Missing: the table of egg cell sizes is not in the text, so the frog egg diameter cannot be checked against the options.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 1.6 x 10^3 um (1600 um)",
+     "steps": [
+      "The table gives the diameter of the blue poison dart frog egg as 1600 um.",
+      "In standard form 1600 = 1.6 x 10^3, so the answer is option D."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-03.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-04.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q2.jpg"
+     ]
     },
     {
      "id": "3B-Q2a(ii)",
@@ -23605,15 +23946,22 @@ window.BANK.biology = {
       "two significant figures"
      ],
      "question": "Calculate how many times larger the volume of the blue poison dart frog egg is than a human egg of volume 1.8 x 10^6 m^3, to two significant figures.",
-     "status": "pending",
-     "answer": "Missing: the frog egg diameter from the table and the sphere volume formula are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 1.2 x 10^3 times larger (1200)",
+     "steps": [
+      "Frog egg diameter = 1600 um, so radius = 800 um.",
+      "Volume = 4/3 x pi x 800^3 = 2.14 x 10^9 um^3.",
+      "Ratio = 2.14 x 10^9 / 1.8 x 10^6 = 1191.",
+      "To two significant figures, the frog egg is 1.2 x 10^3 (1200) times larger."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-03.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-04.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q2.jpg"
+     ]
     },
     {
      "id": "3B-Q2b",
@@ -23673,7 +24021,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-06.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q3.jpg"
+     ]
     },
     {
      "id": "3B-Q3b(i)",
@@ -23689,15 +24039,21 @@ window.BANK.biology = {
       "fertilisation"
      ],
      "question": "Name structure A, shown in the diagram of the three structures formed after fertilisation, which can be used as a source of pluripotent stem cells.",
-     "status": "pending",
-     "answer": "Missing: the diagram of the three structures is not in the text, so structure A cannot be identified with certainty.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Blastocyst",
+     "steps": [
+      "Structure A is a hollow ball of cells with an inner cell mass and an outer layer of trophoblast cells; this is a blastocyst.",
+      "It forms from the morula after more cell division and specialisation.",
+      "The inner cell mass contains the pluripotent embryonic stem cells."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-05.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-06.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q3.jpg"
+     ]
     },
     {
      "id": "3B-Q3b(ii)",
@@ -23745,15 +24101,23 @@ window.BANK.biology = {
       "telophase"
      ],
      "question": "From the lettered options showing the correct order of mitosis for the plant cell diagrams, select the correct sequence.",
-     "status": "pending",
-     "answer": "Missing: the diagrams of plant cells in different stages and the lettered sequence options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: C, D, B, E, A",
+     "steps": [
+      "C shows a rounded nucleus with chromatin just beginning to condense (early prophase); D shows condensed chromosomes with no nuclear envelope (late prophase).",
+      "B shows the chromosomes spread across the middle of the cell (metaphase); E shows chromatids pulled to opposite poles (anaphase).",
+      "A shows two cells, each with chromosomes at the pole and a new cell wall (telophase and cytokinesis).",
+      "The order C, D, B, E, A matches row C."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-07.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-08.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q4.jpg",
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q4-2.jpg"
+     ]
     },
     {
      "id": "3B-Q4b(i)",
@@ -23770,15 +24134,22 @@ window.BANK.biology = {
       "changes"
      ],
      "question": "Explain the changes in DNA content of a cell during one cell cycle, as shown by the graph.",
-     "status": "pending",
-     "answer": "Missing: the graph of DNA content during the cell cycle is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "DNA content stays at 2 a.u., doubles to 4 a.u. in S phase, stays at 4 a.u., then halves to 2 a.u. when the cell divides.",
+     "steps": [
+      "From 0 to about 6 hours the DNA content is constant at 2 a.u. (G1 of interphase, before replication).",
+      "From about 6 to 10 hours it rises steadily from 2 to 4 a.u., because DNA is replicated in S phase (semi-conservative replication).",
+      "From 10 to 15 hours it stays at 4 a.u. (G2, then prophase to anaphase), as each chromosome now has two sister chromatids and the cell has not yet divided.",
+      "At about 15 hours it falls sharply to 2 a.u., because the sister chromatids are separated into two daughter nuclei and the cell divides (end of mitosis and cytokinesis), so each daughter has 2 a.u. and the content then stays at 2."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-07.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-08.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q4-3.jpg"
+     ]
     },
     {
      "id": "3B-Q4b(ii)",
@@ -23794,15 +24165,22 @@ window.BANK.biology = {
       "haploid"
      ],
      "question": "Complete the DNA content graph to show how it would change if the cell had undergone meiosis to form gametes.",
-     "status": "pending",
-     "answer": "Missing: the graph to be completed is not in the text; the expected pattern is DNA halved after meiosis I and halved again after meiosis II.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Line rises from 2 to 4 a.u. (about 6 to 10 hours), stays at 4, falls to 2 a.u. after meiosis I, then falls to 1 a.u. after meiosis II and stays at 1.",
+     "steps": [
+      "Continue the given line at 2 a.u., then draw the same rise from 2 to 4 a.u. over S phase (about 6 to 10 hours), because DNA is replicated before meiosis.",
+      "Keep the line at 4 a.u. during prophase I and metaphase I, then draw a sharp vertical drop to 2 a.u. at the end of meiosis I, when homologous chromosomes separate into two cells.",
+      "Keep the line at 2 a.u. briefly, then draw a second sharp vertical drop to 1 a.u. at the end of meiosis II, when sister chromatids separate into four cells.",
+      "Finish with a horizontal line at 1 a.u., half the original value, because each gamete is haploid."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-07.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-08.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q4-4.jpg"
+     ]
     },
     {
      "id": "3B-Q5a",
@@ -23847,14 +24225,14 @@ window.BANK.biology = {
       "cm3",
       "mouse egg"
      ],
-     "question": "Lipid droplets in mouse egg cells have a mean radius of 88 um. Which option gives the mean volume in cm^3? Options: A 2.85 x 10^-6, B 2.85 x 10^-3, C 2.85 x 10^3, D 2.85 x 10^6.",
+     "question": "Lipid droplets in mouse egg cells have a mean radius of 88 um. Which option gives the mean volume of a lipid droplet in mm^3? Options: A 2.85 x 10^-6, B 2.85 x 10^-3, C 2.85 x 10^3, D 2.85 x 10^6.",
      "status": "ready",
-     "answer": "A (2.85 x 10^-6 cm^3).",
+     "answer": "B: 2.85 x 10^-3 mm^3",
      "steps": [
-      "Convert the radius: 88 um = 88 x 10^-4 cm = 8.8 x 10^-3 cm, since 1 um = 10^-4 cm.",
-      "Use V = (4/3) x pi x r^3 = 4.19 x (8.8 x 10^-3)^3.",
-      "(8.8 x 10^-3)^3 = 6.81 x 10^-7 cm^3, and 4.19 x 6.81 x 10^-7 = 2.85 x 10^-6 cm^3.",
-      "This matches option A; the units in the text are read as cm^3 for this value."
+      "Convert the radius to mm: 88 um = 88 x 10^-3 mm = 0.088 mm.",
+      "V = (4/3) x pi x r^3 = 4.19 x (0.088)^3.",
+      "(0.088)^3 = 6.81 x 10^-4 mm^3, and 4.19 x 6.81 x 10^-4 = 2.85 x 10^-3 mm^3, which is option B.",
+      "Option A (2.85 x 10^-6) is the same volume in cm^3, not mm^3."
      ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-09.jpg",
@@ -23878,15 +24256,21 @@ window.BANK.biology = {
       "circle"
      ],
      "question": "On the timeline diagram of structures formed after fertilisation in a mouse, draw a circle around the mouse morula and label it.",
-     "status": "pending",
-     "answer": "Missing: the timeline diagram is not in the text, so the morula cannot be located.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Circle the third picture in the mouse row (at Day 2, the ball of cells) and label it morula.",
+     "steps": [
+      "The mouse row shows, from left, a zygote, a two-cell embryo, a solid ball of cells and a hollow ball with an inner cell mass.",
+      "The morula is the solid ball of many cells with no cavity, the third picture, at Day 2.",
+      "The fourth picture (Day 3) has a fluid-filled cavity and an inner cell mass, so it is a blastocyst, not a morula."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-09.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-10.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q5.jpg"
+     ]
     },
     {
      "id": "3B-Q5b(iii)",
@@ -23979,7 +24363,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-12.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q6.jpg"
+     ]
     },
     {
      "id": "3B-Q6b",
@@ -24054,14 +24440,20 @@ window.BANK.biology = {
       "nuclear envelope"
      ],
      "question": "Name a substance synthesised by the organelle labelled A in the student's diagram of part of a eukaryotic cell.",
-     "status": "pending",
-     "answer": "Missing: the student's diagram with organelle A is not in the text, so the organelle cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Glycoprotein (the Golgi apparatus also makes lysosomes, secretory vesicles and, in plants, cell wall polysaccharides)",
+     "steps": [
+      "Organelle A is a stack of flattened membrane sacs next to the rough ER, which is the Golgi apparatus.",
+      "The Golgi modifies proteins that arrive from the rough ER, for example by adding carbohydrate to make glycoproteins.",
+      "Other acceptable substances are lysosomal enzymes (to form lysosomes), polysaccharides such as cell wall material in plants, and secretory enzymes."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-14.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q7.jpg"
+     ]
     },
     {
      "id": "3B-Q7a(iii)",
@@ -24090,7 +24482,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-14.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q7.jpg"
+     ]
     },
     {
      "id": "3B-Q7b",
@@ -24167,16 +24561,24 @@ window.BANK.biology = {
       "comment"
      ],
      "question": "Comment on the results of an investigation comparing the speed of individual sperm with bundles of sperm in liquids of different resistance.",
-     "status": "pending",
-     "answer": "Missing: the graph of sperm speed in liquids of different resistance is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Sperm bundles swim faster than individual sperm at every resistance except 0.5 a.u.; bundle speed stays about 19 to 21 um s^-1, but individual sperm slow down as resistance rises.",
+     "steps": [
+      "Individual sperm: speed rises from about 14 um s^-1 at 0 a.u. to about 20 at 0.5, then falls to about 14.5 at 1.5 and about 9.5 um s^-1 at 4.0 a.u.",
+      "Sperm bundles: speed stays high and fairly constant (about 18.5 to 21.5 um s^-1) whatever the resistance.",
+      "Bundles are faster at 0, 1.5 and 4.0 a.u. (the error bars do not overlap), but at 0.5 a.u. the error bars overlap, so there is probably no real difference.",
+      "The advantage of bundling grows as resistance rises: at 4.0 a.u. bundles are about 11 um s^-1 faster, more than twice the speed of single sperm.",
+      "This suggests that moving together lets the sperm cope with a thicker liquid, such as the female tract, so a bundle is more likely to reach the egg."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-15.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-16.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-17.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q8.jpg"
+     ]
     },
     {
      "id": "3B-Q8c(i)",
@@ -24193,16 +24595,22 @@ window.BANK.biology = {
       "mouse egg"
      ],
      "question": "Plot the result that, at the highest sperm concentration with damaged zona pellucida, the percentage polyspermy was 52%.",
-     "status": "pending",
-     "answer": "Missing: the graph axes and existing points are not in the text, so the point cannot be plotted here.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw a bar for damaged zona pellucida at the highest concentration (200 x 10^3 cm^-3), shaded dark grey like the key, with its top at 52% on the y-axis, next to the 100 bar.",
+     "steps": [
+      "Use the key: the highest sperm concentration (200 x 10^3 cm^-3) is shaded dark grey.",
+      "In the damaged zona pellucida group draw a third bar to the right of the 100 bar, the same width as the others.",
+      "Make the top of the bar level with 52% (between 50 and 60 on the axis) and shade it dark grey."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-15.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-16.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-17.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q8-2.jpg"
+     ]
     },
     {
      "id": "3B-Q8c(ii)",
@@ -24219,16 +24627,23 @@ window.BANK.biology = {
       "fertilisation"
      ],
      "question": "Explain the results of the investigation into damaged zona pellucida and sperm concentration on percentage polyspermy in mouse egg cells.",
-     "status": "pending",
-     "answer": "Missing: the graph values for percentage polyspermy at each condition are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A damaged zona pellucida lets more than one sperm enter, so polyspermy is higher, and it rises with sperm concentration.",
+     "steps": [
+      "With an intact zona pellucida polyspermy is low (about 2 to 3% at the lowest concentration, 17 to 18% at the two higher ones) because the zona pellucida (and cortical reaction) blocks extra sperm.",
+      "With a damaged zona pellucida polyspermy is much higher at the higher concentrations (about 33% at 100 and 52% at 200 x 10^3 cm^-3, against 17 and 18% for intact), because the zona no longer stops extra sperm entering.",
+      "Higher sperm concentration means more sperm reach each egg, so polyspermy increases with concentration; with a damaged zona pellucida it keeps rising, but with an intact one it levels off.",
+      "At the lowest concentration there is no difference between intact and damaged (about 2.5%), because so few sperm are present that two rarely reach the same egg."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-15.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-16.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-17.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q8-2.jpg"
+     ]
     },
     {
      "id": "3B-Q9a",
@@ -24245,16 +24660,22 @@ window.BANK.biology = {
       "labelled diagram"
      ],
      "question": "From the sperm cell diagram (options AW, BX, CY, DZ), state the part of the sperm where the organelle shown in the electron micrograph is found.",
-     "status": "pending",
-     "answer": "Missing: the micrograph and the labelled sperm diagram are not in the text, so the organelle and its location cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Y (the midpiece)",
+     "steps": [
+      "The electron micrograph shows an organelle with folded inner membranes (cristae): a mitochondrion.",
+      "In a sperm cell the mitochondria are packed in the midpiece, behind the head, where they supply ATP for the tail.",
+      "Y points to the midpiece, so the answer is C."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-19.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-20.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-21.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q9.jpg"
+     ]
     },
     {
      "id": "3B-Q9b(i)",
@@ -24301,16 +24722,21 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "The investigation used 2500 egg cells per sample. Calculate the number of egg cells fertilised by sperm with 2.5 a.u. acrosin activity.",
-     "status": "pending",
-     "answer": "Missing: the graph value of percentage fertilisation at 2.5 a.u. is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "800 egg cells",
+     "steps": [
+      "From the graph, about 32% of egg cells were fertilised at 2.5 a.u. acrosin activity.",
+      "Number fertilised = 32 / 100 x 2500 = 800."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-19.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-20.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-21.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q9-2.jpg"
+     ]
     },
     {
      "id": "3B-Q9b(iii)",
@@ -24341,7 +24767,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-21.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q9-2.jpg"
+     ]
     },
     {
      "id": "3B-Q9c(i)",
@@ -24371,7 +24799,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-21.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q9-3.jpg"
+     ]
     },
     {
      "id": "3B-Q9c(ii)",
@@ -24402,7 +24832,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-21.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q9-3.jpg"
+     ]
     },
     {
      "id": "3B-Q10a",
@@ -24476,14 +24908,21 @@ window.BANK.biology = {
       "function"
      ],
      "question": "Complete the table to show the correct statement for each structure found in gametes, showing how gametes are specialised for their functions.",
-     "status": "pending",
-     "answer": "Missing: the table of gamete structures and statements is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Flagellum: A; mitochondria: C; nucleus: D; zona pellucida: B",
+     "steps": [
+      "The flagellum of a sperm moves, so it propels the male gamete towards the female gamete (A).",
+      "Mitochondria carry out aerobic respiration, so they produce ATP (C).",
+      "The nucleus contains the DNA, which is linear in eukaryotic cells (D).",
+      "The zona pellucida is the layer around the egg that the cortical granule enzymes modify to stop more sperm entering (B)."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-22.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q10.jpg"
+     ]
     },
     {
      "id": "3B-Q11a(i)",
@@ -24499,15 +24938,21 @@ window.BANK.biology = {
       "sections"
      ],
      "question": "From the graph of DNA content in one cell during one cycle (options AJ, BK, CL, DM), state the part where DNA is replicated.",
-     "status": "pending",
-     "answer": "Missing: the DNA content graph with sections J to M is not in the text; replication occurs in interphase (S phase), where DNA content doubles.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: K",
+     "steps": [
+      "DNA is replicated in S phase of interphase.",
+      "On the graph the DNA content rises steadily from 2 to 4 a.u. in section K, so K is where replication occurs.",
+      "J is before replication, L is the replicated DNA (G2 and early mitosis) and M is when the cell divides."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-23.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-24.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q11.jpg"
+     ]
     },
     {
      "id": "3B-Q11a(ii)",
@@ -24523,15 +24968,21 @@ window.BANK.biology = {
       "mitosis"
      ],
      "question": "From the graph (options AJ, BL, CM, DN), state the part where condensation of chromosomes would be completed.",
-     "status": "pending",
-     "answer": "Missing: the DNA content graph with sections J to N is not in the text, so the matching letter cannot be chosen.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: L",
+     "steps": [
+      "Chromosomes condense in prophase, and condensation is complete by metaphase, before the chromatids are separated.",
+      "On the graph the DNA content is 4 a.u. in section L, after replication and before the cell divides, so this covers G2, prophase and metaphase.",
+      "Section M is the sharp fall as chromatids separate and the cell divides, and J and N are interphase (2 a.u.)."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-23.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-24.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q11.jpg"
+     ]
     },
     {
      "id": "3B-Q11b(i)",
@@ -24650,7 +25101,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-24.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q11-2.jpg"
+     ]
     },
     {
      "id": "3B-Q12a(i)",
@@ -24680,7 +25133,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q12.jpg"
+     ]
     },
     {
      "id": "3B-Q12a(ii)",
@@ -24697,15 +25152,21 @@ window.BANK.biology = {
       "haploid"
      ],
      "question": "Label the part of the liverwort life cycle diagram where meiosis would have occurred.",
-     "status": "pending",
-     "answer": "Missing: the labelled life cycle diagram is not in the text, so the position of meiosis cannot be labelled.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Write 'meiosis' on the arrow from the diploid form (64) to the spores (32).",
+     "steps": [
+      "Meiosis halves the chromosome number from diploid to haploid.",
+      "In the life cycle the chromosome number falls from 64 (diploid form) to 32 in the spores.",
+      "So label the arrow between the diploid form and the spores as meiosis."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q12.jpg"
+     ]
     },
     {
      "id": "3B-Q12b(i)",
@@ -24721,15 +25182,20 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "From the diagram of nuclei in an ovule and a pollen tube (options AP, BQ, CS, DT), state which letter labels an ovule.",
-     "status": "pending",
-     "answer": "Missing: the labelled diagram of the ovule and pollen tube is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: P",
+     "steps": [
+      "An ovule is the structure that contains the embryo sac, egg cell and nuclei, inside the ovary; P labels this.",
+      "Q is an anther, S the polar nuclei and T the egg cell, so the answer is A."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q12-2.jpg"
+     ]
     },
     {
      "id": "3B-Q12b(ii)",
@@ -24745,15 +25211,20 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "From the same diagram (options AP, BS, CT, DU), state which letter labels an egg cell (female gamete).",
-     "status": "pending",
-     "answer": "Missing: the labelled diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: T",
+     "steps": [
+      "The egg cell (female gamete) lies in the embryo sac at the micropyle end, with the synergids beside it.",
+      "T points to this cell at the bottom of the embryo sac, so the answer is C."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q12-2.jpg"
+     ]
     },
     {
      "id": "3B-Q12b(iii)",
@@ -24768,15 +25239,21 @@ window.BANK.biology = {
       "flowering plant"
      ],
      "question": "From the same diagram (options AR, BS, CT, DU), state which letter labels a male nucleus.",
-     "status": "pending",
-     "answer": "Missing: the labelled diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: U",
+     "steps": [
+      "The male nuclei are carried in the pollen tube, which grows through the style to the micropyle.",
+      "U points to the dark nuclei inside the pollen tube at the micropyle, so the answer is D.",
+      "R is a pollen grain, not a nucleus in the tube."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q12-2.jpg"
+     ]
     },
     {
      "id": "3B-Q12b(iv)",
@@ -24791,15 +25268,21 @@ window.BANK.biology = {
       "endosperm"
      ],
      "question": "From the same diagram (options AR, BS, CT, DU), state which letter labels a polar nucleus.",
-     "status": "pending",
-     "answer": "Missing: the labelled diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: S",
+     "steps": [
+      "Polar nuclei are the two nuclei in the middle of the embryo sac.",
+      "S points to these two central nuclei, so the answer is B.",
+      "One male nucleus fuses with them to form the triploid endosperm nucleus."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q12-2.jpg"
+     ]
     },
     {
      "id": "3B-Q12b(v)",
@@ -24828,7 +25311,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q12-2.jpg"
+     ]
     },
     {
      "id": "3B-Q13a",
@@ -24845,15 +25330,21 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "From the cell diagram at the start of metaphase I (options A centriole, B lysosome, C nucleolus, D ribosome), state which is organelle T.",
-     "status": "pending",
-     "answer": "Missing: the diagram at metaphase I with organelle T is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: centriole",
+     "steps": [
+      "Organelle T is at the pole of the cell where the spindle fibres meet.",
+      "Centrioles lie at the poles and organise the spindle fibres (microtubules).",
+      "A lysosome, nucleolus or ribosome does not form the spindle, so the answer is A."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-29.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q13.jpg"
+     ]
     },
     {
      "id": "3B-Q13b",
@@ -24883,7 +25374,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-29.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q13.jpg"
+     ]
     },
     {
      "id": "3B-Q13c",
@@ -24899,15 +25392,23 @@ window.BANK.biology = {
       "chromosomes"
      ],
      "question": "Complete the student's drawings to show the four haploid cells produced by meiosis from the cell at metaphase I.",
-     "status": "pending",
-     "answer": "Missing: the student's partly drawn cells are not in the text, so the drawing cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Four cells, each with one chromosome made of a single chromatid (like the drawn one): two cells with the dark chromosome and two with the light one.",
+     "steps": [
+      "The cell at metaphase I has one homologous pair, each chromosome having two chromatids, so each haploid cell ends with one chromosome.",
+      "Meiosis II separates the sister chromatids, so each final cell contains a single chromatid (a single-stranded chromosome with a centromere), as in the first circle.",
+      "Draw one single chromatid in each of the other three circles.",
+      "Shade two cells like the dark chromosome and two like the light one, since the two homologues go into different cells (small pieces of the other shade may show crossing over)."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-29.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q13.jpg",
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q13-2.jpg"
+     ]
     },
     {
      "id": "3B-Q14a(i)",
@@ -25054,9 +25555,14 @@ window.BANK.biology = {
       "prophase I"
      ],
      "question": "Complete the diagram of one pair of homologous chromosomes to show them after crossing over has occurred.",
-     "status": "pending",
-     "answer": "Missing: the chromosome diagram to be completed is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Swap the ends of the two inner (non-sister) chromatids, so that each of these chromatids is part shaded and part unshaded; the outer chromatids stay unchanged.",
+     "steps": [
+      "Crossing over happens between non-sister chromatids of the homologous chromosomes, at the place shown by the arrows.",
+      "On the left chromosome shade the top of the inner chromatid white, and on the right chromosome shade the matching top of the inner chromatid grey (the ends are exchanged).",
+      "The other two chromatids (the outer ones) stay completely grey on the left and completely white on the right.",
+      "Each exchanged chromatid is then a mixture of grey and white, showing new combinations of alleles."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-33.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-34.jpg",
@@ -25064,7 +25570,10 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-36.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q15.jpg",
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q15-2.jpg"
+     ]
     },
     {
      "id": "3B-Q15b(i)",
@@ -25082,9 +25591,13 @@ window.BANK.biology = {
       "S"
      ],
      "question": "From the photograph of cells undergoing mitosis (options AP, BQ, CR, DS), state which cell is in prophase.",
-     "status": "pending",
-     "answer": "Missing: the photograph with cells P to S is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Q",
+     "steps": [
+      "Prophase shows condensed chromosomes as a tangle of threads, spread through the cell before they line up.",
+      "Q shows such a tangle in a rounded cell, so Q is in prophase.",
+      "P is metaphase (chromosomes in a band across the middle), R is anaphase (two sets of chromosomes separating) and S is telophase (two separate groups of chromosomes)."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-33.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-34.jpg",
@@ -25092,7 +25605,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-36.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q15-3.jpg"
+     ]
     },
     {
      "id": "3B-Q15b(ii)",
@@ -25109,9 +25624,12 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "In embryo cells interphase lasts an average of nine hours. Using the diagram of relative proportions of the cell cycle, calculate how long cytokinesis would take.",
-     "status": "pending",
-     "answer": "Missing: the diagram of relative proportions of the cell cycle is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.5 hours (30 minutes)",
+     "steps": [
+      "Interphase takes 270 degrees of the circle, which is 9 hours, so 1 degree = 9 / 270 = 0.033 hours.",
+      "Cytokinesis takes 15 degrees = 15 x 0.033 = 0.5 hours."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-33.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-34.jpg",
@@ -25119,7 +25637,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-36.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q15-4.jpg"
+     ]
     },
     {
      "id": "3B-Q15b(iii)",
@@ -25199,9 +25719,14 @@ window.BANK.biology = {
       "cancer treatment"
      ],
      "question": "Evaluate the effectiveness of resveratrol, SRT1720 and vincristine in killing cancer cells, using the graph of the investigation.",
-     "status": "pending",
-     "answer": "Missing: the graph of drug effectiveness for Ewing sarcoma is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "SRT1720 with vincristine is the most effective (about 84% killed); vincristine alone kills about 51%, but resveratrol with vincristine (about 32%) is worse than vincristine alone.",
+     "steps": [
+      "Used alone, vincristine is much the most effective drug (about 51% of cancer cells killed), while resveratrol (about 17%) and SRT1720 (about 9%) kill few.",
+      "Adding SRT1720 to vincristine raises the kill from about 51% to about 84%; the error bars do not overlap, so the increase is probably real and this is the best treatment.",
+      "Adding resveratrol to vincristine lowers the kill from about 51% to about 32%, so it makes vincristine less effective.",
+      "The error bar for vincristine alone is large (about 46 to 57%), so that result is less precise; the data do not show effects on healthy cells or side effects, or cover other cancers, so more tests are needed."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-33.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-34.jpg",
@@ -25209,7 +25734,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-36.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q15-5.jpg"
+     ]
     },
     {
      "id": "3B-Q16a",
@@ -25225,15 +25752,21 @@ window.BANK.biology = {
       "nucleus"
      ],
      "question": "From the yeast micrographs (options AJ, BK, CL, DM), state which structure identifies yeast as a eukaryote.",
-     "status": "pending",
-     "answer": "Missing: the labelled yeast micrographs are not in the text, so the letter cannot be matched to the structure.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: J",
+     "steps": [
+      "A eukaryotic cell has membrane-bound organelles such as mitochondria, endoplasmic reticulum or Golgi apparatus, which prokaryotes lack.",
+      "J points to a membrane-bound organelle in the cytoplasm, so it identifies yeast as eukaryotic.",
+      "K and M are the outer wall or membrane layers, which prokaryotes also have, and L is cytoplasm."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-37.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-38.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q16.jpg"
+     ]
     },
     {
      "id": "3B-Q16b",
@@ -25262,7 +25795,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-38.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q16.jpg"
+     ]
     },
     {
      "id": "3B-Q16c",
@@ -25292,7 +25827,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-38.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q16.jpg"
+     ]
     },
     {
      "id": "3B-Q16d(i)",
@@ -25370,16 +25907,23 @@ window.BANK.biology = {
       "deduce"
      ],
      "question": "Deduce the effect of age and sex on the number of cases of a cancer, from the graph of cases in a human population.",
-     "status": "pending",
-     "answer": "Missing: the graph of cancer cases by age and sex is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Cases rise with age in both sexes, and males have more cases than females in every age group from 40, the gap widening with age.",
+     "steps": [
+      "Age: there are almost no cases below 40, then the number of cases per 100 000 rises with each older age group.",
+      "Males: increase continuously, from about 25 at 40 to 49 years to about 660 at 80+.",
+      "Females: increase to about 190 at 70 to 79 years, then fall slightly to about 155 at 80+.",
+      "Sex: males have more cases than females in every age group from 40 onwards, for example about 370 v 140 at 60 to 69 and about 660 v 155 at 80+, so the difference grows with age."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-39.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-40.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-41.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q17.jpg"
+     ]
     },
     {
      "id": "3B-Q17a(ii)",
@@ -25396,16 +25940,22 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "A city has 2 million people, 3% of whom are males over 80. Calculate how many of these males would have this cancer, using the graph.",
-     "status": "pending",
-     "answer": "Missing: the graph value giving the number of cases for males over 80 is not in the text; the male population is 60 000 (2 000 000 x 3%).",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 400 males (396)",
+     "steps": [
+      "Number of males over 80 = 3% of 2 000 000 = 60 000.",
+      "From the graph, males aged 80+ have about 660 cases per 100 000 people.",
+      "Cases = 60 000 / 100 000 x 660 = 396, so about 400 (accept 390 to 400)."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-39.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-40.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-41.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q17.jpg"
+     ]
     },
     {
      "id": "3B-Q17b(i)",
@@ -25514,16 +26064,23 @@ window.BANK.biology = {
       "prophase"
      ],
      "question": "Explain how preventing the condensation of chromosomes would affect the survival of a patient with this cancer, using the graph of mitotic index against percentage survival.",
-     "status": "pending",
-     "answer": "Missing: the graph of mitotic index against percentage survival is not in the text, so the trend cannot be read.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Preventing chromosome condensation would stop mitosis, lowering the mitotic index and so increasing survival (for example about 65% v 42% at 250 weeks).",
+     "steps": [
+      "Chromosomes must condense in prophase so that they can be separated by the spindle; if they cannot condense, mitosis cannot be completed and the cancer cells cannot divide.",
+      "The tumour would grow more slowly and fewer cells would be in mitosis, so the mitotic index would fall.",
+      "The graph shows that patients with a low mitotic index have higher survival than those with a high one (about 65% v 42% at 250 weeks, and about 88% v 62% at 100 weeks).",
+      "So the treatment should increase the percentage survival of patients."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-39.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-40.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-41.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q17-2.jpg"
+     ]
     },
     {
      "id": "3B-Q18a(i)",
@@ -25570,16 +26127,24 @@ window.BANK.biology = {
       "row"
      ],
      "question": "Which row shows the correct sequence of the photographed stages in the cell cycle?",
-     "status": "pending",
-     "answer": "Missing: the photographs and the table of sequence options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: V, Z, X, Y, W",
+     "steps": [
+      "V is interphase: a round nucleus with a nucleolus and no visible chromosomes.",
+      "Z is prophase (chromosomes condensing, nuclear envelope breaking down), X is metaphase (chromosomes in the middle of the cell) and Y is anaphase (chromatids pulled to opposite poles).",
+      "W is telophase, with two nuclei forming at the poles.",
+      "The sequence V, Z, X, Y, W is row C."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-42.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-43.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-44.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q18.jpg",
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q18-2.jpg"
+     ]
     },
     {
      "id": "3B-Q18a(iii)",
@@ -25595,16 +26160,22 @@ window.BANK.biology = {
       "image size"
      ],
      "question": "Calculate the magnification of photograph W using the scale bar.",
-     "status": "pending",
-     "answer": "Missing: the scale bar and photograph W are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About x 750 (accept about 700 to 800)",
+     "steps": [
+      "The scale bar represents 24 um; measured on the paper (printed at A4 size) it is about 18 mm long.",
+      "Convert to micrometres: 18 mm = 18 000 um.",
+      "Magnification = image length / actual length = 18 000 / 24 = 750, so about x 750."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-42.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-43.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-44.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q18.jpg"
+     ]
     },
     {
      "id": "3B-Q18b",
@@ -25864,15 +26435,21 @@ window.BANK.biology = {
       "vesicles"
      ],
      "question": "From the electron micrograph of an organelle (options A formation of lysosomes, B formation of microtubules, C formation of ribosomal RNA, D formation of vesicles), state the correct function.",
-     "status": "pending",
-     "answer": "Missing: the two electron micrograph views of the organelle are not in the text, so its identity and function cannot be determined.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: formation of microtubules",
+     "steps": [
+      "The two views show a short cylinder with parallel ridges, and a ring made of nine triplets of dots (microtubules).",
+      "This is a centriole, which has a 9 + 0 triplet arrangement of microtubules.",
+      "Centrioles organise the formation of microtubules (spindle fibres), so the answer is B."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-47.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-48.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q20.jpg"
+     ]
     },
     {
      "id": "3B-Q20a(ii)",
@@ -25888,15 +26465,20 @@ window.BANK.biology = {
       "difference"
      ],
      "question": "Suggest why the two views of the organelle in the electron micrographs look different.",
-     "status": "pending",
-     "answer": "Missing: the two electron micrograph views are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The two views are sections cut at different angles: one lengthways (side view) and one across (end view).",
+     "steps": [
+      "A centriole is a three-dimensional cylinder, and the electron microscope shows a thin slice of it.",
+      "A section cut along its length shows the cylinder with parallel microtubule lines, while a section cut across it shows a ring of nine triplets."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-47.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-48.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q20.jpg"
+     ]
     },
     {
      "id": "3B-Q20b(i)",
@@ -25913,15 +26495,22 @@ window.BANK.biology = {
       "plant cell"
      ],
      "question": "Draw the cell shown in telophase so that it shows metaphase of mitosis.",
-     "status": "pending",
-     "answer": "Missing: the telophase diagram to be redrawn is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw one large cell with no nuclear envelope, a spindle between two centrioles at the poles, and four X-shaped chromosomes (two long, two short) lined up across the middle (equator).",
+     "steps": [
+      "Draw a single undivided cell (an oval or circle, without the narrow waist), because cytokinesis has not started.",
+      "Draw the four chromosomes each as two sister chromatids joined at a centromere (X shape), with two long and two short, and shade them like those in the telophase cell.",
+      "Place the centromeres in a line across the middle of the cell, with no nuclear envelope.",
+      "Draw spindle fibres from the centrioles at the two poles to the centromeres."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-47.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-48.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q20-2.jpg"
+     ]
     },
     {
      "id": "3B-Q20b(ii)",
@@ -25968,15 +26557,21 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Using the diagram of relative proportions of the cell cycle, and given that cytokinesis takes 20 minutes, calculate how long interphase takes in hours.",
-     "status": "pending",
-     "answer": "Missing: the diagram of relative proportions of time in each stage is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "6 hours",
+     "steps": [
+      "Cytokinesis is 15 degrees of the circle and takes 20 minutes, so 1 degree = 20 / 15 = 1.33 minutes.",
+      "Interphase is 270 degrees = 270 x 1.33 = 360 minutes.",
+      "360 minutes = 6 hours."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-47.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-48.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q20-3.jpg"
+     ]
     },
     {
      "id": "3B-Q20d",
@@ -26021,16 +26616,21 @@ window.BANK.biology = {
       "drawing"
      ],
      "question": "Complete the labelled sperm cell diagram by drawing and labelling a flagellum and an acrosome.",
-     "status": "pending",
-     "answer": "Missing: the partly labelled sperm diagram is not in the text, so the drawing cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw a long thin tail (flagellum) continuing from the left end of the midpiece, and a cap (acrosome) over the front tip of the head on the right; label both.",
+     "steps": [
+      "The midpiece is on the left and the head is on the right, so draw the flagellum as a long, thin tail extending to the left from the end of the midpiece, and label it flagellum.",
+      "Draw the acrosome as a small cap over the front tip of the head (the right end), and label it acrosome."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-49.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-50.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-51.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q21.jpg"
+     ]
     },
     {
      "id": "3B-Q21a(ii)",
@@ -26061,7 +26661,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-51.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q21.jpg"
+     ]
     },
     {
      "id": "3B-Q21b(i)",
@@ -26078,16 +26680,22 @@ window.BANK.biology = {
       "relationship"
      ],
      "question": "Give two conclusions that can be drawn from the graph of midpiece length against swimming speed of mouse sperm cells.",
-     "status": "pending",
-     "answer": "Missing: the graph of midpiece length against swimming speed is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Males that mate with more than one female have faster sperm than those that mate with one female; there is a weak positive correlation between midpiece length and swimming speed.",
+     "steps": [
+      "Sperm from males that mate with more than one female swim faster on average (about 6.8 um s^-1, crosses) than those from males that mate with only one female (about 5.6 um s^-1, dots).",
+      "In both groups there is a weak positive correlation: longer midpiece goes with faster swimming speed, probably because there are more mitochondria making ATP, but the points are widely scattered.",
+      "The midpiece lengths of the two groups overlap (about 21.3 to 22.6 um), so midpiece length alone does not explain the difference in speed."
+     ],
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-49.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-50.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-51.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q21-2.jpg"
+     ]
     },
     {
      "id": "3B-Q21b(ii)",
@@ -26118,7 +26726,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-51.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q21-2.jpg"
+     ]
     }
    ]
   },
@@ -26145,15 +26755,21 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which organelle, described by a student using an electron microscope, was seen (A centriole, B Golgi, C rough ER, D smooth ER)?",
-     "status": "pending",
-     "answer": "Missing: the description of the organelle seen is cut off in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Golgi apparatus",
+     "steps": [
+      "The description \"several curved membrane-bound sacs of decreasing size\" matches the flattened cisternae of the Golgi apparatus, which modifies and packages proteins in pancreatic cells.",
+      "A centriole is a ring of microtubules with no membrane, so A is wrong.",
+      "Rough ER is a network of flattened sacs studded with ribosomes, and smooth ER is a tubular network with no ribosomes; neither is described as a stack of curved sacs of decreasing size, so C and D are wrong."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-01.jpg",
       "papers/biology/img/03C-Development-Organisms-02.jpg",
       "papers/biology/img/03C-Development-Organisms-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q1a.jpg"
+     ]
     },
     {
      "id": "3C-Q1a(ii)",
@@ -26271,15 +26887,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Explain the results of the fluorescence investigation in pancreas cells.",
-     "status": "pending",
-     "answer": "Missing: the results table (percentage green fluorescence inside and outside the cells) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The green-labelled amino acids were taken up and built into proteins, which were then secreted: fluorescence fell inside from 100% to 38% and rose outside from 0% to 62% in 60 min.",
+     "steps": [
+      "At 0 min all the marker (100%) is inside because the labelled amino acids have just been taken up by the pancreas cells.",
+      "The labelled amino acids are used to make polypeptides on ribosomes (rough ER), so the green label becomes part of the proteins.",
+      "The proteins pass in vesicles to the Golgi (modified, e.g. glycoproteins), then in secretory vesicles to the cell surface membrane and leave by exocytosis.",
+      "After 60 min fluorescence outside has risen by 62% and inside fallen by 62%, so labelled enzymes and glycoproteins have been secreted from the cells.",
+      "38% is still inside because some protein is still being made or moved through the ER and Golgi, or is retained for use in the cell."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-01.jpg",
       "papers/biology/img/03C-Development-Organisms-02.jpg",
       "papers/biology/img/03C-Development-Organisms-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q1c.jpg"
+     ]
     },
     {
      "id": "3C-Q2a(i)",
@@ -26378,7 +27002,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-05.jpg",
       "papers/biology/img/03C-Development-Organisms-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q2b.jpg"
+     ]
     },
     {
      "id": "3C-Q2c",
@@ -26414,7 +27040,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-05.jpg",
       "papers/biology/img/03C-Development-Organisms-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q2c.jpg"
+     ]
     },
     {
      "id": "3C-Q2d",
@@ -26433,16 +27061,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Comment on the changes in the activity of genes T and U as a mouse zygote develops into a blastocyst.",
-     "status": "pending",
-     "answer": "Missing: the graphs of gene activity for genes T and U are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Gene T falls to near zero by the blastocyst stage, while gene U stays steady then rises sharply from the morula to the blastocyst.",
+     "steps": [
+      "Gene T: activity is high and fairly constant (a slight rise) from zygote to about the 4-cell stage, then falls from the 8-cell stage, dropping steeply through the morula to a very low level at the blastocyst.",
+      "Gene U: activity stays low and almost constant from zygote to the 8-cell stage, then increases slowly at the morula and rapidly at the blastocyst, to well above its early level.",
+      "So the genes are switched on and off at different stages: T is turned down as development proceeds and U is turned up.",
+      "This is differential gene expression, which allows cells to differentiate into different cell types (e.g. trophoblast and inner cell mass)."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-03.jpg",
       "papers/biology/img/03C-Development-Organisms-04.jpg",
       "papers/biology/img/03C-Development-Organisms-05.jpg",
       "papers/biology/img/03C-Development-Organisms-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q2d.jpg"
+     ]
     },
     {
      "id": "3C-Q3a(i)",
@@ -26495,16 +27130,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which graph represents the distribution of mass of these beans?",
-     "status": "pending",
-     "answer": "Missing: the graph options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: a bell-shaped (normal) distribution histogram",
+     "steps": [
+      "Bean mass shows continuous variation, because it is polygenic and also affected by the environment.",
+      "Continuous variation gives a normal distribution: most beans have a mean mass and few are very light or very heavy, so graph B (symmetrical, peak in the middle).",
+      "A is a steady decrease and D is a growth (sigmoid) curve; neither is a frequency distribution of mass.",
+      "C has two peaks at the extremes, which would show discontinuous (two-group) variation, not polygenic inheritance."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-06.jpg",
       "papers/biology/img/03C-Development-Organisms-07.jpg",
       "papers/biology/img/03C-Development-Organisms-08.jpg",
       "papers/biology/img/03C-Development-Organisms-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q3a.jpg"
+     ]
     },
     {
      "id": "3C-Q3b(i)",
@@ -26591,16 +27233,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which labelled structure in the beta cell electron micrograph produces ribosomes (A P, B Q, C R, D S)?",
-     "status": "pending",
-     "answer": "Missing: the labelled micrograph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: R (the nucleolus)",
+     "steps": [
+      "Ribosomes are made (ribosomal RNA is transcribed and assembled with proteins) in the nucleolus.",
+      "R points to the dense dark region inside the nucleus, which is the nucleolus.",
+      "Q is the stacked rough ER, P is cytoplasm with ER, and S is the nuclear envelope or chromatin region; none of these makes ribosomes."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-09.jpg",
       "papers/biology/img/03C-Development-Organisms-10.jpg",
       "papers/biology/img/03C-Development-Organisms-11.jpg",
       "papers/biology/img/03C-Development-Organisms-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q4a.jpg"
+     ]
     },
     {
      "id": "3C-Q4a(ii)",
@@ -26619,16 +27267,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Suggest why the structures labelled T and U look different in the photograph, although they are the same type of organelle.",
-     "status": "pending",
-     "answer": "Missing: the micrograph showing T and U is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "They are mitochondria cut in different planes: one in longitudinal section and the other in cross section.",
+     "steps": [
+      "T and U are both mitochondria, which are three-dimensional sausage-shaped organelles.",
+      "The electron microscope image is a thin 2D slice, so the appearance depends on the angle of the cut.",
+      "A section cut along the length (U) looks long with cristae visible, while one cut across (T) looks circular or oval."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-09.jpg",
       "papers/biology/img/03C-Development-Organisms-10.jpg",
       "papers/biology/img/03C-Development-Organisms-11.jpg",
       "papers/biology/img/03C-Development-Organisms-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q4a.jpg"
+     ]
     },
     {
      "id": "3C-Q4a(iii)",
@@ -26645,16 +27299,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Calculate the magnification of the image, given structure U measures 52 mm and is 3.0 (units garbled) long.",
-     "status": "pending",
-     "answer": "Missing: the unit of the actual length is garbled (\"3.0 m\"); it is likely micrometres, which would give about x17 000.",
-     "steps": [],
+     "status": "ready",
+     "answer": "x17 000 (17 333)",
+     "steps": [
+      "Magnification = image size / actual size.",
+      "Convert to the same units: 52 mm = 52 000 um.",
+      "Magnification = 52 000 / 3.0 = 17 333, so about x17 000 (x1.7 x 10^4)."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-09.jpg",
       "papers/biology/img/03C-Development-Organisms-10.jpg",
       "papers/biology/img/03C-Development-Organisms-11.jpg",
       "papers/biology/img/03C-Development-Organisms-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q4a.jpg"
+     ]
     },
     {
      "id": "3C-Q4b",
@@ -26755,7 +27415,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-13.jpg",
       "papers/biology/img/03C-Development-Organisms-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q5.jpg"
+     ]
     },
     {
      "id": "3C-Q5a(ii)",
@@ -26784,7 +27446,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-13.jpg",
       "papers/biology/img/03C-Development-Organisms-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q5.jpg"
+     ]
     },
     {
      "id": "3C-Q5b(i)",
@@ -26833,15 +27497,21 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "How many of the listed allele combinations (AbE, ABe, abE, abe) could result from one crossover of the chromosomes shown?",
-     "status": "pending",
-     "answer": "Missing: the chromosome diagram showing the parental chromosomes is needed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: two (AbE and abe)",
+     "steps": [
+      "The chromosomes carry A b e and a b E, so there is no B allele anywhere and ABe is impossible.",
+      "A crossover between A and b or between b and e swaps the end sections of two chromatids, making the new combinations AbE and abe.",
+      "abE is just the unchanged parental chromosome, so it is not a result of crossing over; two combinations (AbE and abe) are produced."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-12.jpg",
       "papers/biology/img/03C-Development-Organisms-13.jpg",
       "papers/biology/img/03C-Development-Organisms-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q5.jpg"
+     ]
     },
     {
      "id": "3C-Q5b(iii)",
@@ -26873,7 +27543,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-13.jpg",
       "papers/biology/img/03C-Development-Organisms-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q5.jpg"
+     ]
     },
     {
      "id": "3C-Q6a",
@@ -26994,9 +27666,13 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Calculate the value of the term shown, using the table of chicken ages and egg masses.",
-     "status": "pending",
-     "answer": "Missing: the term symbol and the table are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "159.5",
+     "steps": [
+      "Fill in the missing rows: age 39 has rank 2 and mass rank 1, so D = 1 and D^2 = 1.",
+      "Age 60 has rank 9 and mass rank 2, so D = 7 and D^2 = 49.",
+      "Sum of D^2 = 49 + 1 + 6.25 + 25 + 1 + 1 + 2.25 + 25 + 49 = 159.5."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-14.jpg",
       "papers/biology/img/03C-Development-Organisms-15.jpg",
@@ -27004,7 +27680,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-17.jpg",
       "papers/biology/img/03C-Development-Organisms-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q6c.jpg"
+     ]
     },
     {
      "id": "3C-Q6c(ii)",
@@ -27023,9 +27701,13 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Calculate the correlation coefficient rs for the data using the formula.",
-     "status": "pending",
-     "answer": "Missing: the formula and table of data are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "rs = -0.33 (-0.329)",
+     "steps": [
+      "Use rs = 1 - 6 x (sum D^2) / (n(n^2 - 1)) with n = 9 pairs and sum D^2 = 159.5.",
+      "n(n^2 - 1) = 9 x 80 = 720 and 6 x 159.5 = 957.",
+      "rs = 1 - 957/720 = 1 - 1.329 = -0.329, i.e. about -0.33 (a weak negative correlation)."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-14.jpg",
       "papers/biology/img/03C-Development-Organisms-15.jpg",
@@ -27033,7 +27715,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-17.jpg",
       "papers/biology/img/03C-Development-Organisms-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q6c.jpg"
+     ]
     },
     {
      "id": "3C-Q6c(iii)",
@@ -27053,9 +27737,13 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Explain whether the null hypothesis should be accepted or rejected, given rs = 0.38 and the critical values table.",
-     "status": "pending",
-     "answer": "Missing: the critical values table is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Accept the null hypothesis: 0.38 is below the critical value (0.683 for 9 pairs), so there is no significant correlation.",
+     "steps": [
+      "Compare the calculated rs (0.38) with the critical value for the number of pairs (0.683 for 9 pairs; 0.738 for 8 and 0.648 for 10).",
+      "If the calculated value is greater than the critical value the null hypothesis is rejected; here 0.38 is smaller than every value in the table.",
+      "So the correlation is not significant at the 95% level; any link between chicken age and egg mass could be due to chance, and the null hypothesis is accepted."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-14.jpg",
       "papers/biology/img/03C-Development-Organisms-15.jpg",
@@ -27063,7 +27751,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-17.jpg",
       "papers/biology/img/03C-Development-Organisms-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q6c-2.jpg"
+     ]
     },
     {
      "id": "3C-Q7a",
@@ -27119,16 +27809,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Deduce how histone modification can be passed onto embryos, using the two experiments shown.",
-     "status": "pending",
-     "answer": "Missing: the diagram of the two experiments is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "It is passed on through the maternal chromosomes in the egg, and enzyme M in the zygote is needed to keep the modification as cells divide.",
+     "steps": [
+      "In both experiments the sperm has no histone modification and the maternal chromosomes in the egg do, so the modification is passed to the embryo through the egg (maternal chromosomes), not the sperm.",
+      "Experiment 1: enzyme M is present in the egg and zygote, and after several cell divisions all maternal chromosomes still have the modification.",
+      "Experiment 2: enzyme M is absent from the egg and zygote, and the modification is reduced at every division until no chromosomes are modified.",
+      "So enzyme M must be present in the zygote and later cells to copy or maintain the modification on newly replicated histones; without it the modification is diluted at each cell division and lost."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-18.jpg",
       "papers/biology/img/03C-Development-Organisms-19.jpg",
       "papers/biology/img/03C-Development-Organisms-20.jpg",
       "papers/biology/img/03C-Development-Organisms-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q7b.jpg"
+     ]
     },
     {
      "id": "3C-Q8a",
@@ -27225,7 +27922,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-25.jpg",
       "papers/biology/img/03C-Development-Organisms-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q9a.jpg"
+     ]
     },
     {
      "id": "3C-Q9a(ii)",
@@ -27241,16 +27940,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which part of the sperm cell contains enzymes released to break down the zona pellucida (A W, B X, C Y, D Z)?",
-     "status": "pending",
-     "answer": "Missing: the labelled sperm diagram is not in the text (the answer is the acrosome).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: W (the acrosome)",
+     "steps": [
+      "The acrosome is a vesicle at the tip of the sperm head that contains digestive (hydrolytic) enzymes, released by exocytosis to digest the zona pellucida around the egg.",
+      "W labels the cap at the front of the head, the acrosome.",
+      "X is the nucleus (DNA), Y is the mid-piece full of mitochondria, and Z is the tail (flagellum), so B, C and D are wrong."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-23.jpg",
       "papers/biology/img/03C-Development-Organisms-24.jpg",
       "papers/biology/img/03C-Development-Organisms-25.jpg",
       "papers/biology/img/03C-Development-Organisms-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q9a.jpg"
+     ]
     },
     {
      "id": "3C-Q9b",
@@ -27284,7 +27989,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-25.jpg",
       "papers/biology/img/03C-Development-Organisms-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q9a.jpg"
+     ]
     },
     {
      "id": "3C-Q9c(i)",
@@ -27508,16 +28215,25 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Evaluate the effectiveness of paclitaxel, using the cell cycle table and the tumour growth graph.",
-     "status": "pending",
-     "answer": "Missing: the cell cycle table and the tumour growth graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Paclitaxel appears effective: it increases the time cells spend in mitosis and cuts tumour growth to 0.42 g (about 66% less than placebo, about 53% less than drug X), but the evidence has limits.",
+     "steps": [
+      "Table: as paclitaxel concentration rises from 0 to 10 000 nmol dm^-3, duration of mitosis rises from 1 h to 24 h and the mitotic index from 2% to 59%, so cells are held in mitosis and divide less; this fits it preventing spindle fibres shortening.",
+      "The effect is dose-dependent but levels off at high doses (21 to 24 h and 48% to 59% when concentration is raised ten-fold from 1000 to 10 000), so very high doses add little.",
+      "Graph: mean tumour mass increase is about 1.2 g with placebo, 0.9 g with drug X and 0.4 g with paclitaxel, about 66% less than placebo and 53% less than drug X.",
+      "The error bar for paclitaxel does not overlap those of placebo or drug X (top about 0.5 g against bottom about 0.7 g), so the difference is probably significant; drug X and placebo bars slightly overlap, so drug X may not be effective.",
+      "Limitations: the table is for human lung tumour cells but the graph is for mouse breast tumours; only one dose was tested in mice, for 21 days; sample size is not given; tumours still grew (not shrunk); mitotic index does not show cell death; side effects on healthy dividing cells (e.g. bone marrow, hair follicles) are not shown."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-27.jpg",
       "papers/biology/img/03C-Development-Organisms-28.jpg",
       "papers/biology/img/03C-Development-Organisms-29.jpg",
       "papers/biology/img/03C-Development-Organisms-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q10d.jpg",
+      "papers/biology/fig/03C-Development-Organisms-Q10d-2.jpg"
+     ]
     },
     {
      "id": "3C-Q11a",
@@ -27565,15 +28281,20 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Complete the table by writing a suitable heading for the right-hand column.",
-     "status": "pending",
-     "answer": "Missing: the table is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Genotype",
+     "steps": [
+      "The right-hand column shows pairs of alleles (CC, c^ch c^ch, c^h c^h, cc) for each rabbit, which is its genotype.",
+      "The middle column is the phenotype (coat colour), so the heading for the right-hand column is genotype."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-30.jpg",
       "papers/biology/img/03C-Development-Organisms-31.jpg",
       "papers/biology/img/03C-Development-Organisms-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q11b.jpg"
+     ]
     },
     {
      "id": "3C-Q11b(ii)",
@@ -27590,15 +28311,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which row of the table gives the correct number of genes and alleles for coat colour in rabbits?",
-     "status": "pending",
-     "answer": "Missing: the table rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 1 gene, 4 alleles",
+     "steps": [
+      "Coat colour is controlled by one gene (one locus), which has multiple alleles.",
+      "The table shows four different alleles of this gene: C, c^ch, c^h and c.",
+      "So there is 1 gene and 4 alleles: row B."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-30.jpg",
       "papers/biology/img/03C-Development-Organisms-31.jpg",
       "papers/biology/img/03C-Development-Organisms-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q11b.jpg",
+      "papers/biology/fig/03C-Development-Organisms-Q11b-2.jpg"
+     ]
     },
     {
      "id": "3C-Q11c(i)",
@@ -27618,15 +28346,21 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which row of the table names the types of graph to show sex and height variation in elephants?",
-     "status": "pending",
-     "answer": "Missing: the table rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: sex = bar chart, height = histogram",
+     "steps": [
+      "Sex is a discrete, categoric variable (male or female), so a bar chart with gaps between the bars is used.",
+      "Height is a continuous variable, so frequencies in height classes are plotted as a histogram with touching bars.",
+      "So the row is bar chart for sex and histogram for height: B."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-30.jpg",
       "papers/biology/img/03C-Development-Organisms-31.jpg",
       "papers/biology/img/03C-Development-Organisms-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q11c.jpg"
+     ]
     },
     {
      "id": "3C-Q11c(ii)",
@@ -27690,7 +28424,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-34.jpg",
       "papers/biology/img/03C-Development-Organisms-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q12a.jpg"
+     ]
     },
     {
      "id": "3C-Q12a(ii)",
@@ -27720,7 +28456,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-34.jpg",
       "papers/biology/img/03C-Development-Organisms-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q12a.jpg"
+     ]
     },
     {
      "id": "3C-Q12a(iii)",
@@ -27788,7 +28526,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-34.jpg",
       "papers/biology/img/03C-Development-Organisms-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q12b.jpg"
+     ]
     },
     {
      "id": "3C-Q13a",
@@ -27825,7 +28565,10 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-37.jpg",
       "papers/biology/img/03C-Development-Organisms-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q13a.jpg",
+      "papers/biology/fig/03C-Development-Organisms-Q13a-2.jpg"
+     ]
     },
     {
      "id": "3C-Q13b",
@@ -27844,9 +28587,14 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Suggest two reasons why an individual with the genotype AaBbCc may have a darker or lighter skin colour than predicted.",
-     "status": "pending",
-     "answer": "Missing: the question text is garbled in extraction and cannot be read reliably.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Environmental factors (e.g. more exposure to sunlight/UV, which stimulates melanin production) and epigenetic modification (e.g. less DNA methylation, so more expression of the melanin genes).",
+     "steps": [
+      "Genotype is only one influence on phenotype, so identical genotypes (AaBbCc) can give different skin colours.",
+      "Environmental reason: more exposure to UV light or sunlight causes melanocytes to make more melanin, giving darker skin.",
+      "Epigenetic reason: changes such as DNA demethylation or histone acetylation near the genes for melanin production increase their transcription, so more pigment is made without any change to the DNA sequence.",
+      "Other acceptable ideas: other genes also affect skin colour, or hormone levels differ."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-35.jpg",
       "papers/biology/img/03C-Development-Organisms-36.jpg",
@@ -27884,7 +28632,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-40.jpg",
       "papers/biology/img/03C-Development-Organisms-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q14a.jpg"
+     ]
     },
     {
      "id": "3C-Q14a(ii)",
@@ -27915,7 +28665,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-40.jpg",
       "papers/biology/img/03C-Development-Organisms-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q14a.jpg"
+     ]
     },
     {
      "id": "3C-Q14b",
@@ -27968,16 +28720,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Calculate how many OVCAR8 cells out of 2000 were in interphase.",
-     "status": "pending",
-     "answer": "Missing: the mitotic index value for OVCAR8 is read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1900 cells",
+     "steps": [
+      "Read the mitotic index for OVCAR8 from the bar chart: 5%.",
+      "Number in mitosis = 5/100 x 2000 = 100 cells.",
+      "Cells not in mitosis are in interphase: 2000 - 100 = 1900 cells (95%)."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-38.jpg",
       "papers/biology/img/03C-Development-Organisms-39.jpg",
       "papers/biology/img/03C-Development-Organisms-40.jpg",
       "papers/biology/img/03C-Development-Organisms-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q14c.jpg"
+     ]
     },
     {
      "id": "3C-Q14c(ii)",
@@ -27997,16 +28755,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which cancer cell culture has the highest proportion of cells undergoing nuclear division (A HOC8, B OVCAR5, C OVCAR8, D SKOV3)?",
-     "status": "pending",
-     "answer": "Missing: the graph of mitotic index is needed to compare the cultures.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: HOC8",
+     "steps": [
+      "Mitotic index is the proportion of cells undergoing mitosis (nuclear division).",
+      "From the graph: OVCAR5 about 8.4%, OVCAR8 5%, HOC8 about 15% and SKOV3 about 9%.",
+      "HOC8 has the tallest bar, so it has the highest proportion of cells dividing."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-38.jpg",
       "papers/biology/img/03C-Development-Organisms-39.jpg",
       "papers/biology/img/03C-Development-Organisms-40.jpg",
       "papers/biology/img/03C-Development-Organisms-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q14c.jpg"
+     ]
     },
     {
      "id": "3C-Q14c(iii)",
@@ -28057,15 +28821,21 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Calculate the magnification of the pollen grain photograph to two significant figures.",
-     "status": "pending",
-     "answer": "Missing: the scale bar or image and actual sizes are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "x1500 (about 1465 before rounding)",
+     "steps": [
+      "Magnification = length of scale bar in the image / actual length it represents.",
+      "The 20 um scale bar measures about 29 mm on the printed A4 page (about 104 px at 745 px per 210 mm); a ruler measurement of 29 mm to 30 mm is expected.",
+      "Convert: 29.3 mm = 29 300 um, so magnification = 29 300 / 20 = about 1465, which is x1500 to 2 significant figures."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-41.jpg",
       "papers/biology/img/03C-Development-Organisms-42.jpg",
       "papers/biology/img/03C-Development-Organisms-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q15a.jpg"
+     ]
     },
     {
      "id": "3C-Q15b",
@@ -28098,7 +28868,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-42.jpg",
       "papers/biology/img/03C-Development-Organisms-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q15b.jpg"
+     ]
     },
     {
      "id": "3C-Q15c(i)",
@@ -28342,16 +29114,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which stage of mitosis is shown in the blastocyst cell photograph (A cytokinesis, B metaphase, C prophase, D telophase)?",
-     "status": "pending",
-     "answer": "Missing: the photograph is needed to identify the stage.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: metaphase",
+     "steps": [
+      "The photograph shows a spindle with the chromosomes lined up in a compact band across the middle of the cell (the equator).",
+      "In prophase the chromosomes are condensing and not yet aligned, and the nuclear envelope breaks down; in telophase two separate groups of chromosomes lie at opposite poles; in cytokinesis the cell membrane pinches in.",
+      "Chromosomes aligned at the equator on spindle fibres means metaphase."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-44.jpg",
       "papers/biology/img/03C-Development-Organisms-45.jpg",
       "papers/biology/img/03C-Development-Organisms-46.jpg",
       "papers/biology/img/03C-Development-Organisms-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q17b.jpg"
+     ]
     },
     {
      "id": "3C-Q17b(ii)",
@@ -28469,16 +29247,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Give two conclusions for the investigation of sperm speed in February and March.",
-     "status": "pending",
-     "answer": "Missing: the graph of sperm speed over time is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Sperm speed decreased with time after release into water in both months; sperm were faster in March than in February at every time.",
+     "steps": [
+      "Conclusion 1: mean speed falls as time after release increases in both months, e.g. in February from about 195 um s^-1 at 10 s to about 55 um s^-1 at 40 s (March about 230 to 80).",
+      "Conclusion 2: at each time (10, 20, 30 and 40 s) the March sperm swim faster than the February sperm, e.g. about 230 against 195 um s^-1 at 10 s.",
+      "The sperm probably slow down as their energy (ATP) is used up or the cells age after release."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-44.jpg",
       "papers/biology/img/03C-Development-Organisms-45.jpg",
       "papers/biology/img/03C-Development-Organisms-46.jpg",
       "papers/biology/img/03C-Development-Organisms-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q17c.jpg"
+     ]
     },
     {
      "id": "3C-Q18a",
@@ -28507,7 +29291,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-48.jpg",
       "papers/biology/img/03C-Development-Organisms-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q18.jpg"
+     ]
     },
     {
      "id": "3C-Q18b",
@@ -28538,7 +29324,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-48.jpg",
       "papers/biology/img/03C-Development-Organisms-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q18.jpg"
+     ]
     },
     {
      "id": "3C-Q18c",
@@ -28571,7 +29359,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-48.jpg",
       "papers/biology/img/03C-Development-Organisms-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q18.jpg"
+     ]
     },
     {
      "id": "3C-Q19a",
@@ -28657,16 +29447,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Describe the changes in the percentages of polypeptides in red blood cells before and after birth, using the graph.",
-     "status": "pending",
-     "answer": "Missing: the graph of polypeptide percentages is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Alpha stays constant at about 50%; gamma stays high (about 47%) then falls to almost 0% by 6 months after birth; beta rises slowly then rapidly around birth to about 48% by 6 months after birth.",
+     "steps": [
+      "Alpha: rises from about 8% at 8 months before birth to about 50% by about 6.5 months before birth and then stays constant at about 50% for the rest of the period.",
+      "Gamma: rises to about 47% by 6 months before birth and stays at that level until about 3 months before birth, then falls to about 40% at birth, about 18% at 2 months after birth, and almost 0% by 6 months after birth.",
+      "Beta: starts at about 1.5% at 7 months before birth, rising slowly to about 4% by 3 months before birth and about 12% at birth, then rising rapidly to about 35% at 2 months after birth and about 48% at 6 months after birth.",
+      "Gamma and beta curves cross at about 25% roughly 1.5 months after birth: fetal haemoglobin (alpha + gamma) is replaced by adult haemoglobin (alpha + beta)."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-49.jpg",
       "papers/biology/img/03C-Development-Organisms-50.jpg",
       "papers/biology/img/03C-Development-Organisms-51.jpg",
       "papers/biology/img/03C-Development-Organisms-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q19c.jpg"
+     ]
     },
     {
      "id": "3C-Q19c(ii)",
@@ -28701,7 +29498,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-51.jpg",
       "papers/biology/img/03C-Development-Organisms-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q19c.jpg"
+     ]
     },
     {
      "id": "3C-Q20a(i)",
@@ -28767,7 +29566,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-54.jpg",
       "papers/biology/img/03C-Development-Organisms-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q20a.jpg"
+     ]
     },
     {
      "id": "3C-Q20b",
@@ -28838,7 +29639,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-54.jpg",
       "papers/biology/img/03C-Development-Organisms-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q20c.jpg"
+     ]
     },
     {
      "id": "3C-Q21a",
@@ -29093,7 +29896,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-59.jpg",
       "papers/biology/img/03C-Development-Organisms-60.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q22b.jpg"
+     ]
     },
     {
      "id": "3C-Q22b(ii)",
@@ -29111,16 +29916,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which row of the table is correct for the morula and blastocyst formed from the zygote?",
-     "status": "pending",
-     "answer": "Missing: the table rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: zygote is totipotent; cells in the blastocyst inner mass are pluripotent",
+     "steps": [
+      "A zygote can form every cell type, including the extra-embryonic tissues such as the trophoblast, so it is totipotent.",
+      "Inner cell mass cells of the blastocyst can form most body cell types but not extra-embryonic tissue, so they are pluripotent.",
+      "This matches row C (totipotent, then pluripotent)."
+     ],
      "images": [
       "papers/biology/img/03C-Development-Organisms-57.jpg",
       "papers/biology/img/03C-Development-Organisms-58.jpg",
       "papers/biology/img/03C-Development-Organisms-59.jpg",
       "papers/biology/img/03C-Development-Organisms-60.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q22b-2.jpg"
+     ]
     },
     {
      "id": "3C-Q22c",
@@ -29316,7 +30127,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-61.jpg",
       "papers/biology/img/03C-Development-Organisms-62.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q23b.jpg"
+     ]
     },
     {
      "id": "3C-Q23c",
@@ -29578,15 +30391,21 @@ window.BANK.biology = {
       "label"
      ],
      "question": "Identify which labelled letter (W, X, Y or Z) shows a xylem vessel in a light micrograph of a stem section.",
-     "status": "pending",
-     "answer": "Pending: the labelled photograph of the stem section (letters W-Z) is not in the text, so the letter cannot be determined.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Z",
+     "steps": [
+      "Xylem vessels are large, wide, empty cells with thick lignified walls, seen in cross-section as big round or oval holes.",
+      "Z points to the group of large thick-walled circular lumens in the vascular bundle, so it is a xylem vessel.",
+      "W and X point to small thin-walled cortex or epidermis cells, and Y points to small cells in the phloem and cambium region, so these are not xylem vessels."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-003.jpg",
       "papers/biology/img/04A-Plant-Structure-004.jpg",
       "papers/biology/img/04A-Plant-Structure-005.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q3a.jpg"
+     ]
     },
     {
      "id": "4A-Q3a(ii)",
@@ -29602,15 +30421,21 @@ window.BANK.biology = {
       "label"
      ],
      "question": "Identify which labelled letter (U, V, W or Z) shows a sclerenchyma fibre in the stem micrograph.",
-     "status": "pending",
-     "answer": "Pending: the labelled photograph (letters U-Z) is not in the text, so the letter cannot be determined.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: V",
+     "steps": [
+      "Sclerenchyma fibres are long, narrow, dead cells with very thick lignified walls, giving small dark rounded profiles in cross-section.",
+      "V points to the dense dark cap of small, thick-walled cells next to the vascular tissue, which is the sclerenchyma fibre tissue.",
+      "U is a large thin-walled parenchyma cell, and W points to thin-walled outer cortex cells."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-003.jpg",
       "papers/biology/img/04A-Plant-Structure-004.jpg",
       "papers/biology/img/04A-Plant-Structure-005.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q3a.jpg"
+     ]
     },
     {
      "id": "4A-Q3b(i)",
@@ -29626,15 +30451,21 @@ window.BANK.biology = {
       "mineral ions"
      ],
      "question": "Plot a calcium ion concentration of 0.45 mmol dm-3 on the given graph of inorganic ion concentrations.",
-     "status": "pending",
-     "answer": "Pending: the graph of ion concentrations is not in the text, so the plotted point cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw a bar for calcium ions (same width as the magnesium bar) up to 0.45 mmol dm^-3.",
+     "steps": [
+      "Use the y axis scale: 0.4 and 0.5 are 5 small squares apart, so 0.45 is exactly halfway between them.",
+      "Above the Calcium ions label, draw a bar (or a clearly marked point) from the x axis up to the level 0.45 mmol dm^-3.",
+      "The bar should be taller than nitrate (about 0.01) and slightly lower than magnesium (about 0.55)."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-003.jpg",
       "papers/biology/img/04A-Plant-Structure-004.jpg",
       "papers/biology/img/04A-Plant-Structure-005.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q3b.jpg"
+     ]
     },
     {
      "id": "4A-Q3b(ii)",
@@ -29652,15 +30483,21 @@ window.BANK.biology = {
       "calcium"
      ],
      "question": "Explain the importance to the plant of each of the three inorganic ions shown on the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph that names the three ions is not in the text, so the ions cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Calcium: calcium pectate in the middle lamella and cell wall strength; magnesium: needed to make chlorophyll; nitrate: source of nitrogen for amino acids, proteins and nucleotides.",
+     "steps": [
+      "Calcium ions are needed to make calcium pectate, which holds cell walls together in the middle lamella; they also help the cell membrane work and act as signals.",
+      "Magnesium ions are a component of chlorophyll, so they are needed for photosynthesis (and as enzyme cofactors).",
+      "Nitrate ions supply nitrogen to make amino acids and proteins (including enzymes), nucleotides (DNA/RNA), chlorophyll and ATP."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-003.jpg",
       "papers/biology/img/04A-Plant-Structure-004.jpg",
       "papers/biology/img/04A-Plant-Structure-005.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q3b.jpg"
+     ]
     },
     {
      "id": "4A-Q4a(i)",
@@ -29774,9 +30611,14 @@ window.BANK.biology = {
       "biofuel"
      ],
      "question": "Using the table of global bioethanol production and a constant mean rate of increase, estimate global bioethanol production in 2020.",
-     "status": "pending",
-     "answer": "Pending: the table of global bioethanol production is not in the text, so the calculation cannot be done.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 140 000 x 10^6 dm^3 (1.4 x 10^5 x 10^6 dm^3, i.e. 1.4 x 10^11 dm^3)",
+     "steps": [
+      "Increase from 2000 to 2011 = 84 600 - 17 000 = 67 600 (x 10^6 dm^3).",
+      "Mean rate of increase = 67 600 / 11 years = 6145 (x 10^6 dm^3) per year.",
+      "2020 is 9 years after 2011, so increase = 9 x 6145 = 55 309.",
+      "Production in 2020 = 84 600 + 55 309 = 139 909, about 140 000 x 10^6 dm^3."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-005.jpg",
       "papers/biology/img/04A-Plant-Structure-006.jpg",
@@ -29784,7 +30626,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-008.jpg",
       "papers/biology/img/04A-Plant-Structure-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q4c.jpg"
+     ]
     },
     {
      "id": "4A-Q4c(ii)",
@@ -29803,9 +30647,15 @@ window.BANK.biology = {
       "disadvantages"
      ],
      "question": "Explain the advantages and disadvantages of using these crop plants as a sustainable resource for biofuels, using the CO2 graph and the water, fertiliser and pesticide table.",
-     "status": "pending",
-     "answer": "Pending: the CO2 production graph and the water/fertiliser/pesticide table are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Advantages: renewable, low CO2 per MJ (especially hemp at about 12 g/MJ), and hemp needs the least water, fertiliser and pesticide. Disadvantages: all still release CO2 (up to about 49 g/MJ for soybean) and several crops need high water, fertiliser or pesticide.",
+     "steps": [
+      "Advantage: crop plants are renewable and take up CO2 in photosynthesis as they grow, so biofuels are a sustainable alternative to finite fossil fuels.",
+      "CO2 graph: hemp bioethanol releases only about 12 g per MJ, far less than sugar beet (about 40), rapeseed (about 37) and soybean (about 49), so hemp is the best choice.",
+      "Hemp also needs medium to low water and only low fertiliser and pesticide, so it has the lowest environmental cost; this reduces eutrophication and harm to wildlife.",
+      "Disadvantages: every crop still produces CO2 when burned; soybean and rapeseed need a high level of water and medium pesticide; sugar beet needs a high level of fertiliser (eutrophication) and medium pesticide.",
+      "Also, growing fuel crops can take land from food crops or natural habitat, so the biofuel is only sustainable if inputs and land use are low."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-005.jpg",
       "papers/biology/img/04A-Plant-Structure-006.jpg",
@@ -29813,7 +30663,10 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-008.jpg",
       "papers/biology/img/04A-Plant-Structure-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q4c-2.jpg",
+      "papers/biology/fig/04A-Plant-Structure-Q4c-3.jpg"
+     ]
     },
     {
      "id": "4A-Q5a",
@@ -29890,15 +30743,22 @@ window.BANK.biology = {
       "testing"
      ],
      "question": "Complete a diagram to show how a Venus fly trap extract could be tested in the initial stages of a drug trial.",
-     "status": "pending",
-     "answer": "Pending: the partly completed diagram is not in the text, so the required labels cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Pre-clinical: tested on cultured cells and animals; Phase 2: tested on a small group of volunteer patients with the disease; the empty box is a review of the safety results before testing continues.",
+     "steps": [
+      "Pre-clinical stage, \"Tested on\": cultured cells (in vitro) and live animals, to check for toxicity, safe dose and possible effect before any human is given the extract.",
+      "Phase 1 (given): healthy volunteers, to check safety and side effects.",
+      "Phase 2: tested on a small number (about 100 to 300) of volunteer patients who have the disease (HIV or cancer) to see if it works and to find the best dose.",
+      "The unlabelled box has no printed heading on the page, so I treat it as the review of Phase 1 safety data and approval to continue, before Phase 2."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-009.jpg",
       "papers/biology/img/04A-Plant-Structure-010.jpg",
       "papers/biology/img/04A-Plant-Structure-011.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q5c.jpg"
+     ]
     },
     {
      "id": "4A-Q6a(i)",
@@ -29971,15 +30831,21 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "The diameter of the Valonia cell is given as 25 (unit garbled in text). Calculate the magnification of the diagram.",
-     "status": "pending",
-     "answer": "Pending: the unit of the 25 diameter is garbled in the text, and the image size must be measured from the diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About x1900 (diagram diameter about 47 mm)",
+     "steps": [
+      "Magnification = size of image / actual size.",
+      "On the A4 page the drawing of the cell measures about 47 mm across (about 168 px at 745 px per 210 mm); measure with a ruler to check 46 mm to 48 mm.",
+      "Actual diameter = 25 um, so magnification = 47 000 um / 25 um = 1880, about x1900."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-011.jpg",
       "papers/biology/img/04A-Plant-Structure-012.jpg",
       "papers/biology/img/04A-Plant-Structure-013.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q6b.jpg"
+     ]
     },
     {
      "id": "4A-Q6b(ii)",
@@ -30008,7 +30874,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-012.jpg",
       "papers/biology/img/04A-Plant-Structure-013.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q6b.jpg"
+     ]
     },
     {
      "id": "4A-Q6b(iii)",
@@ -30037,7 +30905,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-012.jpg",
       "papers/biology/img/04A-Plant-Structure-013.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q6b.jpg"
+     ]
     },
     {
      "id": "4A-Q6c(i)",
@@ -30053,15 +30923,20 @@ window.BANK.biology = {
       "identify"
      ],
      "question": "Name the structure labelled X in the electron micrograph of two adjoining plant cells.",
-     "status": "pending",
-     "answer": "Pending: the electron micrograph with the label X is not in the text, so the structure cannot be named.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Plasmodesma (plasmodesmata)",
+     "steps": [
+      "X points to a narrow channel passing through the cell wall between the two adjoining plant cells.",
+      "A channel through the wall that links the cytoplasm of neighbouring plant cells is a plasmodesma (plural plasmodesmata)."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-011.jpg",
       "papers/biology/img/04A-Plant-Structure-012.jpg",
       "papers/biology/img/04A-Plant-Structure-013.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q6c.jpg"
+     ]
     },
     {
      "id": "4A-Q6c(ii)",
@@ -30077,15 +30952,21 @@ window.BANK.biology = {
       "ultrastructure"
      ],
      "question": "Explain the function of the structure labelled X in the electron micrograph of adjoining plant cells.",
-     "status": "pending",
-     "answer": "Pending: the labelled structure X is shown only in the electron micrograph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "It forms a cytoplasmic link between adjacent plant cells so that water, ions and small molecules can move between cells.",
+     "steps": [
+      "Plasmodesmata are channels lined by the cell surface membrane that pass through the cell walls and contain strands of cytoplasm (and ER).",
+      "They allow substances such as water, mineral ions, sugars and signalling molecules to move directly from cell to cell without crossing a wall (the symplast pathway).",
+      "This lets plant cells communicate and coordinate their activities."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-011.jpg",
       "papers/biology/img/04A-Plant-Structure-012.jpg",
       "papers/biology/img/04A-Plant-Structure-013.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q6c.jpg"
+     ]
     },
     {
      "id": "4A-Q7a",
@@ -30193,9 +31074,13 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Label the transverse section diagram of a stem to show the position of the xylem and the phloem.",
-     "status": "pending",
-     "answer": "Pending: the stem transverse section diagram to be labelled is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Label the inner half of each vascular bundle (nearer the centre) as xylem and the outer half (nearer the edge) as phloem.",
+     "steps": [
+      "The stem section shows a ring of vascular bundles, each divided into two parts by a line.",
+      "In a stem, xylem lies on the inside of each bundle (towards the centre or pith), so label the inner half of a bundle with a label line as xylem.",
+      "Phloem lies on the outside of the bundle (towards the epidermis and cortex), so label the outer half of the bundle as phloem."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-015.jpg",
       "papers/biology/img/04A-Plant-Structure-016.jpg",
@@ -30204,7 +31089,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-019.jpg",
       "papers/biology/img/04A-Plant-Structure-020.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q8a.jpg"
+     ]
     },
     {
      "id": "4A-Q8a(ii)",
@@ -30256,9 +31143,13 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the percentage decrease in mean fibre diameter from plants in row 2 compared with row 1, using the table of means.",
-     "status": "pending",
-     "answer": "Pending: the table of mean fibre diameters and standard deviations is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "19.8% (about 20%)",
+     "steps": [
+      "Row 1 mean diameter = 26.95 um and row 2 = 21.62 um.",
+      "Decrease = 26.95 - 21.62 = 5.33 um.",
+      "Percentage decrease = 5.33 / 26.95 x 100 = 19.8%."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-015.jpg",
       "papers/biology/img/04A-Plant-Structure-016.jpg",
@@ -30267,7 +31158,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-019.jpg",
       "papers/biology/img/04A-Plant-Structure-020.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q8b.jpg"
+     ]
     },
     {
      "id": "4A-Q8b(ii)",
@@ -30285,9 +31178,14 @@ window.BANK.biology = {
       "results"
      ],
      "question": "Comment on the results of the water stress investigation, using the table of fibre measurements.",
-     "status": "pending",
-     "answer": "Pending: the table of means and standard deviations of fibre measurements is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Water stress reduced the length, diameter and wall thickness of the fibres, and earlier or longer stress (row 2) had a larger effect than stress after flowering (row 3).",
+     "steps": [
+      "Row 1 (watered throughout) has the longest, widest and thickest-walled fibres: 0.91 mm, 26.95 um and 3.44 um.",
+      "Row 2 (water stress from 1 month) has the smallest values: length down by about 30% (0.64 mm), diameter down about 20% (21.62 um) and wall thickness down about 17% (2.85 um); the SDs do not overlap row 1.",
+      "Row 3 (stress only after flowering) is closer to the control: length down about 11% (0.81 mm), diameter only about 2% lower (26.48 um, SDs overlap so probably no real difference) and wall thickness about 6% lower.",
+      "So water stress mainly shortens and thins the fibres, and the longer the plant is stressed the greater the effect, so fibres for paper are lower quality; the SDs are small so the results are fairly reliable, although the sample size is not given."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-015.jpg",
       "papers/biology/img/04A-Plant-Structure-016.jpg",
@@ -30296,7 +31194,10 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-019.jpg",
       "papers/biology/img/04A-Plant-Structure-020.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q8b.jpg",
+      "papers/biology/fig/04A-Plant-Structure-Q8b-2.jpg"
+     ]
     },
     {
      "id": "4A-Q8c",
@@ -30312,9 +31213,13 @@ window.BANK.biology = {
       "options"
      ],
      "question": "Which of the given diagrams shows part of a cellulose molecule?",
-     "status": "pending",
-     "answer": "Pending: the lettered structural diagrams to choose from are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "Cellulose is a polymer of beta-glucose joined by 1,4 glycosidic bonds, with every other glucose unit inverted (rotated 180 degrees), and it is unbranched.",
+      "Diagram B shows unbranched chains with alternate glucose units inverted (CH2OH alternately above and below), so it is cellulose.",
+      "A has all glucose units the same way round (alpha-glucose chain such as amylose), C is a branched alpha-glucose structure (amylopectin or glycogen), and D has a branch, so it is not cellulose."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-015.jpg",
       "papers/biology/img/04A-Plant-Structure-016.jpg",
@@ -30323,7 +31228,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-019.jpg",
       "papers/biology/img/04A-Plant-Structure-020.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q8c.jpg"
+     ]
     },
     {
      "id": "4A-Q8d",
@@ -30463,14 +31370,21 @@ window.BANK.biology = {
       "arrangement"
      ],
      "question": "Explain how the structure of cellulose and the arrangement of microfibrils increase the strength of a plant cell wall, using the electron micrograph.",
-     "status": "pending",
-     "answer": "Pending: the electron micrograph showing the arrangement of microfibrils is required by the question and is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Cellulose chains are long, straight and held together by many hydrogen bonds in microfibrils, and the microfibrils lie in parallel layers running in different directions, so the wall resists stretching and tearing in all directions.",
+     "steps": [
+      "Cellulose is made of beta-glucose units joined by 1,4 bonds, with alternate units inverted, so the chains are long, straight and unbranched.",
+      "Many hydrogen bonds form between neighbouring cellulose chains, holding them together as strong microfibrils with high tensile strength.",
+      "In the photograph the microfibrils lie side by side in parallel bundles within each layer, and different layers run at different angles to each other (criss-cross).",
+      "This arrangement strengthens the wall against forces from many directions, so the wall can resist the pressure of the cell contents."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-020.jpg",
       "papers/biology/img/04A-Plant-Structure-021.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q9b.jpg"
+     ]
     },
     {
      "id": "4A-Q10a",
@@ -30488,9 +31402,14 @@ window.BANK.biology = {
       "cellulose"
      ],
      "question": "Compare and contrast the structure of the student's labelled fungal cell drawing with a plant cell.",
-     "status": "pending",
-     "answer": "Pending: the student's labelled drawing of the fungal cell is not in the text, so the comparison cannot be checked against it.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both have a cell wall, nucleus, vacuole, mitochondria and 80S ribosomes; the fungal wall is made of chitin (plant: cellulose), the fungal cell has no chloroplasts, and it stores glycogen (plant: starch).",
+     "steps": [
+      "Similarities: both are eukaryotic cells with a cell wall, a nucleus, a large permanent vacuole, mitochondria and 80S ribosomes.",
+      "Difference 1: the fungal cell wall is made of chitin, whereas the plant cell wall is made of cellulose.",
+      "Difference 2: the fungal cell has no chloroplasts (it cannot photosynthesise) while a plant cell usually does.",
+      "Difference 3: the fungal cell stores carbohydrate as glycogen granules, whereas a plant cell stores starch in amyloplasts."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-021.jpg",
       "papers/biology/img/04A-Plant-Structure-022.jpg",
@@ -30498,7 +31417,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-024.jpg",
       "papers/biology/img/04A-Plant-Structure-025.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q10a.jpg"
+     ]
     },
     {
      "id": "4A-Q10b(i)",
@@ -30550,9 +31471,15 @@ window.BANK.biology = {
       "advantages"
      ],
      "question": "Discuss the advantages and disadvantages of increased tannin and flavonoid synthesis caused by the fungus for the fungus and for the infected plant, using the graph and table.",
-     "status": "pending",
-     "answer": "Pending: the graph of tannin concentration against herbivore damage and the flavonoid antimicrobial table are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Advantages: tannins reduce herbivore damage and flavonoids inhibit bacteria, protecting the plant and so the fungus living in it. Disadvantages: making them uses energy and resources that would otherwise go into plant growth, and benefits are limited.",
+     "steps": [
+      "Tannins: the graph shows leaf damage by herbivores falls in a straight line as tannin concentration rises, so more tannin means less of the plant is eaten.",
+      "Flavonoids: the inhibition zone for Pseudomonas aeruginosa increases from 7.0 mm at 500 ug cm^-3 to 8.0 mm at 666 and 9.0 mm at 1000, so higher flavonoid levels give more protection against this plant pathogen.",
+      "Advantage for the plant: less grazing and less bacterial disease, so it is more likely to survive and reproduce; advantage for the fungus: its host survives longer and keeps supplying it with nutrients.",
+      "Disadvantage for the plant: energy and raw materials are used for tannin and flavonoid synthesis, and the fungus absorbs nutrients and reduces starch and sucrose synthesis, so growth is reduced.",
+      "Disadvantage for the fungus: a slow-growing, weakened host gives it fewer nutrients; also the flavonoid effect is modest (a 2 mm increase in zone for doubled concentration) and may not protect against other microbes or herbivores."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-021.jpg",
       "papers/biology/img/04A-Plant-Structure-022.jpg",
@@ -30560,7 +31487,10 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-024.jpg",
       "papers/biology/img/04A-Plant-Structure-025.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q10b.jpg",
+      "papers/biology/fig/04A-Plant-Structure-Q10b-2.jpg"
+     ]
     },
     {
      "id": "4A-Q10b(iii)",
@@ -30610,14 +31540,20 @@ window.BANK.biology = {
       "beta"
      ],
      "question": "Identify the molecule shown in the diagram. A alpha-glucose, B beta-glucose, C starch, D sucrose.",
-     "status": "pending",
-     "answer": "Pending: the diagram of the molecule is not in the text, so the option cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: beta-glucose",
+     "steps": [
+      "The molecule is a six-carbon ring (glucose) with a CH2OH group on carbon 5 above the ring.",
+      "On carbon 1 (right-hand carbon next to the oxygen) the OH group is above the ring and H is below.",
+      "OH above the ring on carbon 1 means beta-glucose (in alpha-glucose it is below), so B; starch and sucrose are not single monosaccharides."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-025.jpg",
       "papers/biology/img/04A-Plant-Structure-026.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q11a.jpg"
+     ]
     },
     {
      "id": "4A-Q11a(ii)",
@@ -30744,15 +31680,21 @@ window.BANK.biology = {
       "seeds"
      ],
      "question": "Describe the effect of length of time in storage on the germination of the stored seeds, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of germination against storage time is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Germination stays at its maximum for a period, then falls steeply, and finally levels off at a very low percentage; so longer storage reduces the percentage of seeds that germinate.",
+     "steps": [
+      "At the start of storage the percentage of seeds that germinate stays high and constant (a plateau) for an initial time.",
+      "After this the percentage falls rapidly, so the longer the seeds are stored, the fewer germinate.",
+      "The curve then flattens at a very low percentage near zero for the longest times."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-026.jpg",
       "papers/biology/img/04A-Plant-Structure-027.jpg",
       "papers/biology/img/04A-Plant-Structure-028.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q12a.jpg"
+     ]
     },
     {
      "id": "4A-Q12a(ii)",
@@ -31011,15 +31953,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Calculate the percentage decrease in mean ulcer area in rats treated with omeprazole compared with control rats with ulcers.",
-     "status": "pending",
-     "answer": "Pending: the table of treatments and mean ulcer areas is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "88%",
+     "steps": [
+      "Control rats with ulcer have a mean ulcer area of 802.71 mm^2, and rats treated with omeprazole have 95.71 mm^2.",
+      "Decrease = 802.71 - 95.71 = 707.00 mm^2.",
+      "Percentage decrease = 707 / 802.71 x 100 = 88.1%, which is 88% to two significant figures."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-030.jpg",
       "papers/biology/img/04A-Plant-Structure-031.jpg",
       "papers/biology/img/04A-Plant-Structure-032.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q14b.jpg"
+     ]
     },
     {
      "id": "4A-Q14b(ii)",
@@ -31037,15 +31985,23 @@ window.BANK.biology = {
       "explain"
      ],
      "question": "Explain the results of the investigation comparing the Cibotium barometz hair extract and omeprazole in treating ulcers in rats.",
-     "status": "pending",
-     "answer": "Pending: the table of mucus mass and ulcer area results is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The ulcer area is smaller when more mucus is present; omeprazole and the Cibotium hair extract both increased mucus and cut the ulcer area, with omeprazole giving the smallest ulcers at a far lower dose.",
+     "steps": [
+      "Control rats without ulcers have 2.28 g of mucus and no ulcer, but rats with ulcers have only 0.75 g of mucus and a large ulcer (802.71 mm^2): less mucus lets bacteria such as H. pylori reach and damage the stomach lining.",
+      "Omeprazole (20 mg kg^-1) raises mucus to 1.92 g (84% of normal) and cuts ulcer area by 88% to 95.71 mm^2.",
+      "The extract (antimicrobial, so it kills bacteria) reduces ulcer area by about 75% at 125 mg kg^-1 (202.80 mm^2) and 78% at 500 mg kg^-1 (172.80 mm^2), while mucus is 1.87 g and 2.17 g (95% of normal at the higher dose).",
+      "So the extract is effective but less than omeprazole in reducing ulcer area, and the 4-fold higher dose adds only a small extra benefit, although it restores more mucus.",
+      "The extract is used at a much higher dose (125 to 500 compared with 20 mg kg^-1) so omeprazole is more potent per mg; limitations: rats not humans, no repeats or SDs given, and the results are only from one study."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-030.jpg",
       "papers/biology/img/04A-Plant-Structure-031.jpg",
       "papers/biology/img/04A-Plant-Structure-032.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q14b.jpg"
+     ]
     },
     {
      "id": "4A-Q15a(i)",
@@ -31181,16 +32137,22 @@ window.BANK.biology = {
       "one decimal place"
      ],
      "question": "Calculate the magnification of the Anopheles mosquito in the photograph, to one decimal place.",
-     "status": "pending",
-     "answer": "Pending: the measured image length and the actual length of the mosquito are not given in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "x10.5",
+     "steps": [
+      "Magnification = length of scale bar in the image / actual length it represents.",
+      "The scale bar measures about 46 mm on the printed page (about 164 px at 745 px per 210 mm); check with a ruler.",
+      "Magnification = 46 mm / 4.4 mm = 10.45, so about x10.5 to one decimal place (x10.4 or x10.5 is accepted for a ruler reading of 46 mm)."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-034.jpg",
       "papers/biology/img/04A-Plant-Structure-035.jpg",
       "papers/biology/img/04A-Plant-Structure-036.jpg",
       "papers/biology/img/04A-Plant-Structure-037.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q16a.jpg"
+     ]
     },
     {
      "id": "4A-Q16b",
@@ -31281,7 +32243,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-036.jpg",
       "papers/biology/img/04A-Plant-Structure-037.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q16c.jpg"
+     ]
     },
     {
      "id": "4A-Q16d",
@@ -31299,16 +32263,24 @@ window.BANK.biology = {
       "treatments"
      ],
      "question": "Evaluate the three treatments used to kill mosquitoes in the hut investigation, using the table of adult offspring numbers and your own knowledge.",
-     "status": "pending",
-     "answer": "Pending: the table of adult mosquito numbers per hut is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The GE fungus is the most effective: it cuts adult mosquitoes from 1396 (control) to 13 in the second generation; the normal fungus halves numbers; the insecticide has almost no effect.",
+     "steps": [
+      "Insecticide: 919 against 921 in generation 1 (0.2% fewer) and 1353 against 1396 in generation 2 (3% fewer), so it is ineffective because Anopheles has developed resistance to it.",
+      "Normal fungus: 436 and 455, which is 53% and 67% fewer than the control, so it reduces the population and prevents it from increasing, but it does not eliminate it.",
+      "GE fungus: 399 in generation 1 (57% fewer) and only 13 in generation 2 (99% fewer than 1396), so it is by far the most effective because the spider toxin kills the infected mosquitoes before they can breed.",
+      "Limitations: only one hut (500 pairs) per treatment, only two generations, no repeats, so reliability and long-term effects are unknown.",
+      "Own knowledge: the GE fungus is a biological control with no chemical residue and resistance is less likely, but there are risks of the fungus or its toxin gene spreading to non-target insects such as bees, ecological effects, public and ethical concerns about releasing GE organisms, and mosquitoes may still evolve resistance."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-034.jpg",
       "papers/biology/img/04A-Plant-Structure-035.jpg",
       "papers/biology/img/04A-Plant-Structure-036.jpg",
       "papers/biology/img/04A-Plant-Structure-037.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q16d.jpg"
+     ]
     },
     {
      "id": "4A-Q17a(i)",
@@ -31337,7 +32309,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-040.jpg",
       "papers/biology/img/04A-Plant-Structure-041.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q17a.jpg"
+     ]
     },
     {
      "id": "4A-Q17a(ii)",
@@ -31385,16 +32359,22 @@ window.BANK.biology = {
       "crop mass"
      ],
      "question": "Which is the percentage of the world cassava crop grown in Africa? A 33%, B 34%, C 66%, D 67%.",
-     "status": "pending",
-     "answer": "Pending: the graph showing African and world cassava mass is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 67%",
+     "steps": [
+      "Read the cassava bars: African production is about 160 million tonnes per year and world production is about 240 million tonnes per year.",
+      "Percentage grown in Africa = 160 / 240 x 100 = 66.7%.",
+      "This rounds to 67%, so D."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-038.jpg",
       "papers/biology/img/04A-Plant-Structure-039.jpg",
       "papers/biology/img/04A-Plant-Structure-040.jpg",
       "papers/biology/img/04A-Plant-Structure-041.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q17b.jpg"
+     ]
     },
     {
      "id": "4A-Q17b(ii)",
@@ -31410,16 +32390,22 @@ window.BANK.biology = {
       "nearest whole number"
      ],
      "question": "World maize production is predicted to increase by 2.3% the following year. Calculate the predicted world maize production, to the nearest whole number, using the graph value.",
-     "status": "pending",
-     "answer": "Pending: the world maize production value (million tonnes) is read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1074 million tonnes",
+     "steps": [
+      "Read the world maize bar from the graph: about 1050 million tonnes per year.",
+      "Increase of 2.3% = 1050 x 0.023 = 24.15 million tonnes.",
+      "New production = 1050 + 24.15 = 1074.15, which is 1074 million tonnes to the nearest whole number (1050 x 1.023)."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-038.jpg",
       "papers/biology/img/04A-Plant-Structure-039.jpg",
       "papers/biology/img/04A-Plant-Structure-040.jpg",
       "papers/biology/img/04A-Plant-Structure-041.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q17b.jpg"
+     ]
     },
     {
      "id": "4A-Q17c",
@@ -31437,16 +32423,25 @@ window.BANK.biology = {
       "disadvantages"
      ],
      "question": "Discuss the advantages and disadvantages of growing three crop plants (including cassava varieties) for human food, using the dry mass graph and table.",
-     "status": "pending",
-     "answer": "Pending: the graph of dry mass of cassava varieties and the table of three crop plants are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Cassava needs less water and fewer nutrients and gives a high-carbohydrate food, but bitter cassava is toxic and all cassava has little protein; maize has far more protein and few toxins but needs more water and nutrients and has less carbohydrate.",
+     "steps": [
+      "Advantages of cassava: low to medium water need and low soil nutrient need, so it grows in poor soil and dry areas; carbohydrate is about 95 g per 100 g dry matter against 77 for maize, so it is a rich energy source.",
+      "Bitter cassava gives the greater yield (mean dry mass about 0.23 kg per plant against about 0.16 kg for sweet cassava, 44% more) and its bitter chemicals protect it from being eaten by animals.",
+      "Disadvantages of cassava: bitter chemicals (100 to 500 mg kg^-1 in bitter, 10 to 50 in sweet, only 1 to 2 in maize) release hydrogen cyanide that stops respiration, so bitter cassava must be processed before eating.",
+      "Cassava is very low in protein (about 1.8 g per 100 g against 8.75 g for maize), so a cassava-based diet could cause protein deficiency.",
+      "Maize: the best protein source and almost free of toxins, but it needs medium to high water and nutrients (irrigation and fertiliser) and has the lowest carbohydrate content; sweet cassava is safer than bitter but yields less."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-038.jpg",
       "papers/biology/img/04A-Plant-Structure-039.jpg",
       "papers/biology/img/04A-Plant-Structure-040.jpg",
       "papers/biology/img/04A-Plant-Structure-041.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q17c.jpg",
+      "papers/biology/fig/04A-Plant-Structure-Q17c-2.jpg"
+     ]
     },
     {
      "id": "4A-Q18a(i)",
@@ -31462,16 +32457,22 @@ window.BANK.biology = {
       "identify"
      ],
      "question": "Which labelled structure (W, X, Y or Z) in the stem micrograph is sclerenchyma?",
-     "status": "pending",
-     "answer": "Pending: the labelled stem micrograph (W-Z) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: W",
+     "steps": [
+      "Sclerenchyma has small, thick, lignified walls, forming a compact cap of dark-walled cells at the outer edge of the vascular bundle.",
+      "W points to this group of small thick-walled cells, so W is sclerenchyma.",
+      "X is phloem, Y is xylem (large vessels), Z is pith or parenchyma, and V is parenchyma of the cortex."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-041.jpg",
       "papers/biology/img/04A-Plant-Structure-042.jpg",
       "papers/biology/img/04A-Plant-Structure-043.jpg",
       "papers/biology/img/04A-Plant-Structure-044.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q18a.jpg"
+     ]
     },
     {
      "id": "4A-Q18a(ii)",
@@ -31487,16 +32488,22 @@ window.BANK.biology = {
       "identify"
      ],
      "question": "Which labelled structure (W, X, Y or Z) in the stem micrograph transports substances both up and down the stem?",
-     "status": "pending",
-     "answer": "Pending: the labelled stem micrograph (W-Z) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: X",
+     "steps": [
+      "Phloem carries sugars (assimilates) both up and down the stem, from sources to sinks.",
+      "X points to the phloem tissue between the sclerenchyma cap and the pale cambium band.",
+      "Xylem (Y) only carries water and minerals upwards."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-041.jpg",
       "papers/biology/img/04A-Plant-Structure-042.jpg",
       "papers/biology/img/04A-Plant-Structure-043.jpg",
       "papers/biology/img/04A-Plant-Structure-044.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q18a.jpg"
+     ]
     },
     {
      "id": "4A-Q18a(iii)",
@@ -31513,16 +32520,21 @@ window.BANK.biology = {
       "transport"
      ],
      "question": "Which labelled structure (V, W, X or Y) in the stem micrograph transports calcium ions from the stem to the leaves?",
-     "status": "pending",
-     "answer": "Pending: the labelled stem micrograph (V-Y) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Y",
+     "steps": [
+      "Calcium ions are mineral ions carried upwards in solution in the xylem.",
+      "Y points to the large, thick-walled xylem vessels."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-041.jpg",
       "papers/biology/img/04A-Plant-Structure-042.jpg",
       "papers/biology/img/04A-Plant-Structure-043.jpg",
       "papers/biology/img/04A-Plant-Structure-044.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q18a.jpg"
+     ]
     },
     {
      "id": "4A-Q18a(iv)",
@@ -31552,7 +32564,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-043.jpg",
       "papers/biology/img/04A-Plant-Structure-044.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q18a.jpg"
+     ]
     },
     {
      "id": "4A-Q18b(i)",
@@ -31598,16 +32612,23 @@ window.BANK.biology = {
       "results"
      ],
      "question": "Comment on the results of the investigation into different magnesium ion concentrations in nutrient solutions, using the table.",
-     "status": "pending",
-     "answer": "Pending: the table of results for different magnesium concentrations is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Increasing magnesium concentration increased the dry mass of roots and shoots, with a smaller gain at the highest concentration.",
+     "steps": [
+      "Total dry mass rises from 17.94 g at 0.01 mmol dm^-3 to 38.78 g at 0.10 (116% more) and 53.14 g at 0.40 (a further 37% more), so more magnesium gives more growth.",
+      "Roots (2.38 to 5.42 to 7.08 g) and shoots (15.56 to 33.36 to 46.06 g) both increase, and shoots are always about 6.5 times heavier than roots.",
+      "The gain is smaller for the final 4-fold increase (+14.4 g) than for the first 10-fold increase (+20.8 g), so the effect levels off as magnesium stops being limiting.",
+      "The standard deviations are small and the ranges do not overlap (for example 38.78 +/- 1.63 against 53.14 +/- 0.50), so the differences are probably significant; this is because magnesium is needed for chlorophyll, so photosynthesis and growth are limited at low concentration."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-041.jpg",
       "papers/biology/img/04A-Plant-Structure-042.jpg",
       "papers/biology/img/04A-Plant-Structure-043.jpg",
       "papers/biology/img/04A-Plant-Structure-044.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q18b.jpg"
+     ]
     },
     {
      "id": "4A-Q19a(i)",
@@ -31655,16 +32676,22 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the difference in surface area between round and long pollen grains, giving the answer in standard form with units.",
-     "status": "pending",
-     "answer": "Pending: the table of surface area and volume for round and long pollen grains is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "9.0 x 10^-1 um^2 (0.90 um^2)",
+     "steps": [
+      "Surface area of the long pollen grain = surface area to volume ratio x volume = 0.160 x 25.8 = 4.128 um^2.",
+      "Surface area of the round grain = 5.03 um^2 (given).",
+      "Difference = 5.03 - 4.128 = 0.902 um^2, which is 9.0 x 10^-1 um^2 in standard form to two significant figures."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-044.jpg",
       "papers/biology/img/04A-Plant-Structure-045.jpg",
       "papers/biology/img/04A-Plant-Structure-046.jpg",
       "papers/biology/img/04A-Plant-Structure-047.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q19a.jpg"
+     ]
     },
     {
      "id": "4A-Q19b",
@@ -31714,16 +32741,23 @@ window.BANK.biology = {
       "inheritance"
      ],
      "question": "Comment on the role of meiosis in the inheritance of flower colour, pollen grain length and pea pod shape, which are on the chromosomes shown in the diagram.",
-     "status": "pending",
-     "answer": "Pending: the diagram showing the arrangement of the three genes on the chromosomes is not in the text, so linkage cannot be determined.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The flower colour and pollen length genes are linked on chromosome 1 and tend to be inherited together unless crossing over separates them; the pod shape gene on chromosome 4 assorts independently of them.",
+     "steps": [
+      "Meiosis halves the chromosome number, so each gamete gets one chromosome of each homologous pair, with one allele of each gene.",
+      "Flower colour and pollen grain length genes are on the same chromosome (chromosome 1) and close together, so they are linked: their alleles are usually inherited together as a block.",
+      "Crossing over between non-sister chromatids in prophase I can break this linkage and give new allele combinations, but only a small number of gametes are recombinant because the genes are close.",
+      "The pod shape gene is on a different chromosome (chromosome 4), so independent assortment of the homologous pairs in metaphase I means its alleles are inherited independently of the other two genes, giving more variation in the gametes."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-044.jpg",
       "papers/biology/img/04A-Plant-Structure-045.jpg",
       "papers/biology/img/04A-Plant-Structure-046.jpg",
       "papers/biology/img/04A-Plant-Structure-047.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q19c.jpg"
+     ]
     },
     {
      "id": "4A-Q20a",
@@ -31784,7 +32818,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-048.jpg",
       "papers/biology/img/04A-Plant-Structure-049.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q20b.jpg"
+     ]
     },
     {
      "id": "4A-Q20c(i)",
@@ -31800,15 +32836,21 @@ window.BANK.biology = {
       "leaf"
      ],
      "question": "Label one permanent vacuole on the electron micrograph of leaf mesophyll cells.",
-     "status": "pending",
-     "answer": "Pending: the electron micrograph of mesophyll cells is not in the text, so a vacuole cannot be labelled.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw a label line to one of the large clear (white) sacs in the middle of a cell, bounded by a membrane, and write \"permanent vacuole\".",
+     "steps": [
+      "A permanent vacuole is a large, fluid-filled sac in the cell, bounded by the tonoplast, which appears as a big pale/empty area.",
+      "In the micrograph the cells contain several very large white spaces occupying most of each cell; label any one of them, with the line ending inside the white area.",
+      "Do not label the small dark oval chloroplasts around the edge of the cell or the small vesicles."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-047.jpg",
       "papers/biology/img/04A-Plant-Structure-048.jpg",
       "papers/biology/img/04A-Plant-Structure-049.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q20c.jpg"
+     ]
     },
     {
      "id": "4A-Q20c(ii)",
@@ -31854,14 +32896,20 @@ window.BANK.biology = {
       "bacteria"
      ],
      "question": "Draw and label a capsule and two pili on the student's diagram of a prokaryotic cell.",
-     "status": "pending",
-     "answer": "Pending: the student's diagram of the prokaryotic cell to be drawn on is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw a thick layer (capsule) outside and around the whole cell wall, labelled capsule, and two short thin hair-like pili projecting from the cell surface, labelled pili.",
+     "steps": [
+      "Capsule: draw a second outline outside the cell wall, running all the way round the cell (a slime layer), and label it \"capsule\".",
+      "Pili: draw two short, thin, straight projections (much shorter than the flagellum) coming from the cell surface through the capsule, and label them \"pilus\" or \"pili\".",
+      "The drawing should have the capsule as the outermost layer, the lines should touch the structure, and the labels should have label lines."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-049.jpg",
       "papers/biology/img/04A-Plant-Structure-050.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q21a.jpg"
+     ]
     },
     {
      "id": "4A-Q21b",
@@ -31878,14 +32926,21 @@ window.BANK.biology = {
       "comment"
      ],
      "question": "Comment on the results of the investigation into the effect of sodium chloride concentration on the growth rate of two bacteria, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of growth rate against sodium chloride concentration is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both bacteria grow best at low sodium chloride concentration and their growth rate decreases as it rises; B. thermosphacta grows faster and tolerates much higher concentrations than L. piscium.",
+     "steps": [
+      "Both species show a decrease in growth rate as sodium chloride concentration increases; the high salt lowers the water potential outside the cells so water leaves the cells by osmosis and enzymes work less well.",
+      "L. piscium has a growth rate of about 50 to 58 arbitrary units at 0 to 8 g dm^-3, then falls steeply and growth stops at about 22 g dm^-3.",
+      "B. thermosphacta has a growth rate of about 100 up to about 20 g dm^-3, then falls gradually (about 38 at 50 g dm^-3) and growth stops at about 65 to 70 g dm^-3.",
+      "So B. thermosphacta has a higher growth rate than L. piscium at every concentration (for example about 88 against about 19 at 20 g dm^-3) and tolerates about three times the salt concentration, so salt would be a less effective preservative against it."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-049.jpg",
       "papers/biology/img/04A-Plant-Structure-050.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q21b.jpg"
+     ]
     },
     {
      "id": "4A-Q22a",
@@ -32116,7 +33171,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-054.jpg",
       "papers/biology/img/04A-Plant-Structure-055.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q24a.jpg"
+     ]
     },
     {
      "id": "4A-Q24b(i)",
@@ -32133,15 +33190,21 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Which is the percentage increase in mean fruit firmness between control cherries and cherries treated three times with the higher calcium chloride concentration? A 3.72%, B 3.97%, C 6.20%, D 14.39%.",
-     "status": "pending",
-     "answer": "Pending: the table of mean fruit firmness values is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 14.39%",
+     "steps": [
+      "Control firmness = 4.03 N cm^-2; three treatments with 3800 mg dm^-3 gave 4.61 N cm^-2.",
+      "Increase = 4.61 - 4.03 = 0.58 N cm^-2.",
+      "Percentage increase = 0.58 / 4.03 x 100 = 14.39%, which is D (A, B and C are the percentages for other cells of the table)."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-053.jpg",
       "papers/biology/img/04A-Plant-Structure-054.jpg",
       "papers/biology/img/04A-Plant-Structure-055.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q24b.jpg"
+     ]
     },
     {
      "id": "4A-Q24b(ii)",
@@ -32157,15 +33220,20 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Give one conclusion for the investigation into calcium chloride treatment and cherry fruit firmness.",
-     "status": "pending",
-     "answer": "Pending: the table of mean firmness results is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Calcium chloride treatment increases the firmness of cherries, and the increase is greater with the higher concentration and with more treatments.",
+     "steps": [
+      "All treated fruits were firmer than the control (4.03), and firmness rose with each extra treatment.",
+      "At each number of treatments the 3800 mg dm^-3 solution gave firmer fruit than the 950 mg dm^-3 solution (e.g. 4.61 against 4.19 after three treatments)."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-053.jpg",
       "papers/biology/img/04A-Plant-Structure-054.jpg",
       "papers/biology/img/04A-Plant-Structure-055.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q24b.jpg"
+     ]
     },
     {
      "id": "4A-Q24b(iii)",
@@ -32182,15 +33250,21 @@ window.BANK.biology = {
       "explain"
      ],
      "question": "Explain the effect of calcium ion concentration on the firmness of cherry fruits, using the table of results.",
-     "status": "pending",
-     "answer": "Pending: the effect must be read from the table of firmness results, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Calcium ions form calcium pectate in the middle lamella, which holds cell walls together; more calcium gives more calcium pectate, so the cell walls and fruit are firmer.",
+     "steps": [
+      "Calcium ions are needed to make calcium pectate, which cements neighbouring cell walls together in the middle lamella and strengthens the cell wall, so cells are held together more firmly.",
+      "The higher concentration (3800 mg dm^-3) gives a larger increase than 950 mg dm^-3 (14.4% against 4.0% after three treatments), and more treatments give more increase, so more calcium ions mean more calcium pectate and firmer fruit.",
+      "Firmer fruit resists damage and has a longer shelf life."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-053.jpg",
       "papers/biology/img/04A-Plant-Structure-054.jpg",
       "papers/biology/img/04A-Plant-Structure-055.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q24b.jpg"
+     ]
     },
     {
      "id": "4A-Q25a",
@@ -32296,15 +33370,22 @@ window.BANK.biology = {
       "treatment"
      ],
      "question": "Explain the purpose of the gel used in the wound healing treatments applied to the rats.",
-     "status": "pending",
-     "answer": "Pending: the table of treatments for the four groups is not in the text, so the role of the gel in each group cannot be determined.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The gel is a carrier that holds the extract on the wound; group 1 (gel with no extract) is the control that shows any effect of the gel itself, so that differences are due to the extract.",
+     "steps": [
+      "The gel acts as a vehicle for applying the extract to the wound and keeping it in contact with the skin, so the extract is applied in the same way each time.",
+      "All four groups have gel, so the gel is a controlled variable and only the extract (or current treatment) differs.",
+      "Group 1 (gel + no extract) is a control: it shows the healing time with no extract (21.67 days) so that the effect of the extract can be seen, and shows that the gel itself does not speed up healing.",
+      "The gel may also keep the wound moist and covered."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-056.jpg",
       "papers/biology/img/04A-Plant-Structure-057.jpg",
       "papers/biology/img/04A-Plant-Structure-058.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q25c.jpg"
+     ]
     },
     {
      "id": "4A-Q25c(ii)",
@@ -32321,15 +33402,23 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Comment on the results of the wound healing investigation into corpse lily extract using four groups of rats.",
-     "status": "pending",
-     "answer": "Pending: the table of treatments and healing times is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The extract shortens healing time (about 27% with 5% and 32% with 10%) but it is less effective than the current wound treatment (43% shorter).",
+     "steps": [
+      "Group 1 (gel only) healed in 21.67 days; the 5% extract took 15.83 days (27% less) and the 10% extract 14.67 days (32% less), so the extract speeds up healing.",
+      "The higher extract concentration healed slightly faster (about 1.2 days faster), so the effect increases with concentration but only a little.",
+      "The current treatment gave the shortest time, 12.33 days (43% less than the control) and 2.3 days faster than the 10% extract, so the extract is not better than current treatment.",
+      "The standard deviations are small (0.31 to 0.56) and the mean plus or minus SD ranges do not overlap between groups, so the differences are probably significant.",
+      "Limitations: only six rats per group and only two concentrations were tested, and rats are not humans; higher concentrations might work better."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-056.jpg",
       "papers/biology/img/04A-Plant-Structure-057.jpg",
       "papers/biology/img/04A-Plant-Structure-058.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q25c.jpg"
+     ]
     },
     {
      "id": "4A-Q26a(i)",
@@ -32528,16 +33617,23 @@ window.BANK.biology = {
       "comment"
      ],
      "question": "Comment on the results of the investigation into bacterial survival on pine, spruce and plastic chopping boards, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of surviving bacteria on each board is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Bacterial numbers fall with time on all boards, but pine has the fewest survivors at every time and plastic the most.",
+     "steps": [
+      "On all three materials the number of surviving bacteria decreases between 1 h, 4 h and 24 h.",
+      "Pine: about 240 at 1 h, 57 at 4 h and only about 5 at 24 h (about 98% fewer), the lowest at every time.",
+      "Spruce: about 400, 300 and 107, a fall of about 73%; plastic: about 400 at 1 h and still about 400 at 4 h, then about 115 at 24 h, so plastic has the highest survival at 4 h and 24 h.",
+      "So pine is the best at killing bacteria and plastic the worst, with spruce between (similar to plastic at 24 h)."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-060.jpg",
       "papers/biology/img/04A-Plant-Structure-061.jpg",
       "papers/biology/img/04A-Plant-Structure-062.jpg",
       "papers/biology/img/04A-Plant-Structure-063.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q27b.jpg"
+     ]
     },
     {
      "id": "4A-Q27b(ii)",
@@ -32553,16 +33649,21 @@ window.BANK.biology = {
       "difference"
      ],
      "question": "Suggest one reason for the difference in bacterial survival on the pine chopping board and on the plastic chopping board.",
-     "status": "pending",
-     "answer": "Pending: the size of the difference in the graph is needed to judge the reason; the graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Pine wood contains antimicrobial chemicals (such as resins) that kill bacteria, but plastic does not.",
+     "steps": [
+      "Pine wood contains natural antibacterial substances (resin, terpenes, phenolic compounds) that kill or inhibit bacteria, whereas plastic has no such chemicals.",
+      "Alternatively, the porous wood absorbs water so the surface dries out, while the smooth, non-porous plastic stays moist and lets bacteria survive."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-060.jpg",
       "papers/biology/img/04A-Plant-Structure-061.jpg",
       "papers/biology/img/04A-Plant-Structure-062.jpg",
       "papers/biology/img/04A-Plant-Structure-063.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q27b.jpg"
+     ]
     },
     {
      "id": "4A-Q28a",
@@ -32579,15 +33680,23 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Comment on the antimicrobial properties of the Heliconia extract, using the table of zone of inhibition diameters.",
-     "status": "pending",
-     "answer": "Pending: the table of zone of inhibition diameters is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The extract has an antimicrobial effect on all three bacteria, and a higher concentration gives a bigger zone of inhibition.",
+     "steps": [
+      "The control disc (0 ug cm^-3) gives no zone of inhibition (0.0 mm), so the clear zones are due to the extract and not the disc.",
+      "The extract inhibits the growth of all three types of bacteria: at 25 ug cm^-3 the zones are about 7 mm to 8 mm, and at 50 ug cm^-3 they are 12.9 mm to 14.0 mm, so doubling the concentration almost doubles the diameter of the zone.",
+      "The effect is similar on all three (bacteria A slightly the most sensitive with 14.0 mm at 50), so the extract is broad-spectrum.",
+      "This suggests the extract could be used as a source of antibiotics, but a zone of inhibition does not show whether it kills bacteria or just stops their growth."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-063.jpg",
       "papers/biology/img/04A-Plant-Structure-064.jpg",
       "papers/biology/img/04A-Plant-Structure-065.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q28a.jpg",
+      "papers/biology/fig/04A-Plant-Structure-Q28a-2.jpg"
+     ]
     },
     {
      "id": "4A-Q28b(i)",
@@ -32604,15 +33713,22 @@ window.BANK.biology = {
       "volunteers"
      ],
      "question": "Evaluate the results comparing the duration of headaches in volunteers treated with new drug A and standard drug B, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of headache duration for drug A and drug B is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Drug A reduces headache duration as dose increases (6.9 to 2.9), and it is at least as effective as drug B, but the differences between A and B are not significant.",
+     "steps": [
+      "Drug A: mean duration of headaches falls from about 6.9 with no drug to 5.3 at 50 mg kg^-1, 4.9 at 100, 3.7 at 200 and 2.9 at 400 mg kg^-1 (a 58% reduction), with a larger fall at low doses and a smaller fall at high doses.",
+      "Drug A at 200 mg kg^-1 (3.7) and 400 mg kg^-1 (2.9) is slightly lower than drug B (4.2 and 3.1), so drug A is a little more effective.",
+      "But the error bars of A and B overlap at both concentrations, so there is probably no significant difference between the drugs.",
+      "Limitations: drug B was tested only at two concentrations; the number of volunteers and any placebo are not stated; headache duration is in arbitrary units; side effects were not recorded. More trials are needed."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-063.jpg",
       "papers/biology/img/04A-Plant-Structure-064.jpg",
       "papers/biology/img/04A-Plant-Structure-065.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q28b.jpg"
+     ]
     },
     {
      "id": "4A-Q28b(ii)",
@@ -32692,16 +33808,25 @@ window.BANK.biology = {
       "explain"
      ],
      "question": "Explain the changes in growth rate of bacteria B with temperature and in percentage survival of bacteria C and mutated bacteria C after desiccation, using the two graphs.",
-     "status": "pending",
-     "answer": "Pending: Graph 1 (growth rate against temperature) and Graph 2 (percentage survival after desiccation) are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Growth rate of each bacterium rises to an optimum temperature and falls sharply above it; bacteria A is adapted to cold (peak about 10 degrees C) and B to heat (peak about 94 degrees C); bacteria C survives drying but the mutated bacteria C does not.",
+     "steps": [
+      "Bacteria A grows from about -5 degrees C to 20 degrees C with an optimum of about 10 degrees C, while bacteria B grows from about 65 degrees C to 105 degrees C with an optimum of about 94 degrees C.",
+      "Growth rate rises with temperature as the kinetic energy of enzymes and substrates increases (more enzyme-substrate complexes), up to the optimum; above it the enzymes denature (hydrogen bonds break, active site changes) so growth falls to zero.",
+      "A has cold-adapted enzymes that work at low temperatures, and B has heat-stable enzymes with more strong bonds (e.g. disulfide bonds) that do not denature at high temperatures.",
+      "Graph 2: bacteria C keeps a high survival, falling only from 100% to about 58% over 15 days (the error bars overlap at later times), so it can tolerate desiccation.",
+      "Mutated bacteria C falls from 100% to about 25% after 1 day, 8% after 3 days and 0% from 9 days on, so the mutation changed a gene needed for desiccation tolerance (e.g. a protective protein or substance), and shows the gene is needed for survival without water."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-065.jpg",
       "papers/biology/img/04A-Plant-Structure-066.jpg",
       "papers/biology/img/04A-Plant-Structure-067.jpg",
       "papers/biology/img/04A-Plant-Structure-068.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q29b.jpg",
+      "papers/biology/fig/04A-Plant-Structure-Q29b-2.jpg"
+     ]
     },
     {
      "id": "4A-Q30a",
@@ -32718,15 +33843,22 @@ window.BANK.biology = {
       "adjacent cells"
      ],
      "question": "Give three differences between a cell wall with secondary thickening and one without, using the two diagrams.",
-     "status": "pending",
-     "answer": "Pending: Diagram 1 and Diagram 2 showing the cell walls are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "With secondary thickening the wall has an extra layer, is thicker, and has a smaller lumen (cell space).",
+     "steps": [
+      "Difference 1: the wall with secondary thickening has an extra (inner) layer of secondary thickening in addition to the primary wall and middle lamella (diagram 2), whereas there is none in diagram 1.",
+      "Difference 2: the wall with secondary thickening is much thicker overall than the wall without it (diagram 1 has a thin wall).",
+      "Difference 3: the cell lumen (inner space) is smaller or narrower in the cell with secondary thickening because the new layer is added on the inside of the primary wall.",
+      "Own knowledge: the secondary layer is made of cellulose with lignin, so it is stronger and waterproof."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-068.jpg",
       "papers/biology/img/04A-Plant-Structure-069.jpg",
       "papers/biology/img/04A-Plant-Structure-070.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q30a.jpg"
+     ]
     },
     {
      "id": "4A-Q30b(i)",
@@ -32812,7 +33944,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-069.jpg",
       "papers/biology/img/04A-Plant-Structure-070.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q30c.jpg"
+     ]
     },
     {
      "id": "4A-Q31a(i)",
@@ -32829,16 +33963,22 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Which labelled structure (W, X, Y or Z) in the cross-section would be stained a different colour after one hour?",
-     "status": "pending",
-     "answer": "Pending: the labelled cross-section drawing (W-Z) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Z",
+     "steps": [
+      "The stain is carried up the stem in the xylem, so the part that changes colour is the xylem.",
+      "In each vascular bundle the xylem lies on the inner side (towards the centre of the stem) and the phloem on the outer side; Z points to the inner part of the bundle, which is the xylem.",
+      "W and X point to structures at the edge (such as the epidermis or collenchyma ribs) and Y points to the outer part of the bundle (phloem)."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-070.jpg",
       "papers/biology/img/04A-Plant-Structure-071.jpg",
       "papers/biology/img/04A-Plant-Structure-072.jpg",
       "papers/biology/img/04A-Plant-Structure-073.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q31a.jpg"
+     ]
     },
     {
      "id": "4A-Q31a(ii)",
@@ -32869,7 +34009,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-072.jpg",
       "papers/biology/img/04A-Plant-Structure-073.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q31a.jpg"
+     ]
     },
     {
      "id": "4A-Q31b(i)",
@@ -32914,16 +34056,22 @@ window.BANK.biology = {
       "options"
      ],
      "question": "How many of the given diagrams show the structure of part of a starch molecule? A none, B one, C two, D three.",
-     "status": "pending",
-     "answer": "Pending: the diagrams showing molecular structures are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: two",
+     "steps": [
+      "Starch is a polymer of alpha-glucose, made of unbranched amylose (alpha-1,4 bonds) and branched amylopectin (alpha-1,4 with alpha-1,6 branches).",
+      "The first diagram (all glucose units the same way round) is amylose and the third diagram (a branched chain) is amylopectin, so both are starch.",
+      "The second diagram has alternate glucose units inverted (beta-glucose), which is cellulose and not starch, so two diagrams show starch."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-070.jpg",
       "papers/biology/img/04A-Plant-Structure-071.jpg",
       "papers/biology/img/04A-Plant-Structure-072.jpg",
       "papers/biology/img/04A-Plant-Structure-073.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q31b.jpg"
+     ]
     },
     {
      "id": "4A-Q31b(iii)",
@@ -32998,15 +34146,22 @@ window.BANK.biology = {
       "stem photograph"
      ],
      "question": "Label the photograph of a transverse section of a stem to show the phloem, sclerenchyma fibres and xylem vessels.",
-     "status": "pending",
-     "answer": "Pending: the photograph to be labelled is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Sclerenchyma fibres: the dark cap of small thick-walled cells at the top of the vascular bundle; phloem: the region of small thin-walled cells just below it; xylem vessels: the group of large thick-walled cells at the lower right.",
+     "steps": [
+      "Label the dense, dark ring or cap of small cells with very thick walls at the outer (upper) edge of the bundle as sclerenchyma fibres.",
+      "Label the area of small, thinner-walled cells (with sieve tubes and companion cells) between the sclerenchyma and the large vessels as phloem.",
+      "Label one of the large, round, thick-walled empty cells in the lower right cluster as a xylem vessel.",
+      "Each label needs a line that ends on the correct tissue (xylem inside, phloem outside it, sclerenchyma outermost)."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-073.jpg",
       "papers/biology/img/04A-Plant-Structure-074.jpg",
       "papers/biology/img/04A-Plant-Structure-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q32a.jpg"
+     ]
     },
     {
      "id": "4A-Q32a(ii)",
@@ -33175,9 +34330,16 @@ window.BANK.biology = {
       "graphs"
      ],
      "question": "Discuss the benefits of adding crushed eggshells to the soil around vine plants, using the graphs of leaf area, shoot length and chlorophyll content.",
-     "status": "pending",
-     "answer": "Pending: the three graphs of leaf area, shoot length and chlorophyll content are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Adding crushed eggshells (a source of calcium ions) increased leaf area, shoot length and chlorophyll content, with the largest effects after about 3 to 4 weeks.",
+     "steps": [
+      "Leaf area: with eggshells it reaches about 2800 cm^2 at 52 days compared with about 1200 cm^2 without (more than twice, +133%), and the error bars separate from day 31 onwards, so the difference is probably significant.",
+      "Shoot length: by day 52 plants with eggshells are about 202 cm long against about 80 cm without (+150%); the lines are about the same until day 24 and then diverge.",
+      "Chlorophyll content: higher with eggshells at all times after day 10, about 37 a.u. against 29 a.u. at day 52 (+26%), so the leaves can absorb more light for photosynthesis.",
+      "Explanation: calcium ions form calcium pectate in the middle lamella and help cell wall formation, so cell growth and division are better; a larger leaf area and more chlorophyll mean more photosynthesis and more growth, which could give more fruit.",
+      "Eggshells are also a waste product, which is cheap and sustainable, and the calcium carbonate may reduce soil acidity.",
+      "Limitations: there is no benefit in the first 3 weeks; the study was on one type of vine for 52 days and fruit yield was not measured."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-075.jpg",
       "papers/biology/img/04A-Plant-Structure-076.jpg",
@@ -33185,7 +34347,11 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-078.jpg",
       "papers/biology/img/04A-Plant-Structure-079.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q33b.jpg",
+      "papers/biology/fig/04A-Plant-Structure-Q33b-2.jpg",
+      "papers/biology/fig/04A-Plant-Structure-Q33b-3.jpg"
+     ]
     },
     {
      "id": "4A-Q34a(i)",
@@ -33203,16 +34369,22 @@ window.BANK.biology = {
       "crafts and lorenz"
      ],
      "question": "Suggest how the mean increase in dry mass of a pumpkin could be estimated in Step 1 of the investigation.",
-     "status": "pending",
-     "answer": "Pending: the flow chart describing Step 1 of the Crafts and Lorenz method is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Dry a sample of pumpkins at the start and another sample of the same age after 792 hours in an oven until their mass is constant, then subtract the mean dry mass.",
+     "steps": [
+      "A pumpkin cannot be dried and then grown on, so use a large sample of similar pumpkins: collect some at the start and another group after 792 hours of growth.",
+      "Cut up each pumpkin and dry it in an oven at a fixed temperature (about 80 degrees C), weighing it repeatedly until the mass is constant, so all water has gone.",
+      "Calculate the mean dry mass of each group; the mean increase in dry mass = mean at 792 h minus mean at the start."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-079.jpg",
       "papers/biology/img/04A-Plant-Structure-080.jpg",
       "papers/biology/img/04A-Plant-Structure-081.jpg",
       "papers/biology/img/04A-Plant-Structure-082.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q34a.jpg"
+     ]
     },
     {
      "id": "4A-Q34a(ii)",
@@ -33258,16 +34430,22 @@ window.BANK.biology = {
       "letter"
      ],
      "question": "Which letter (P, Q, R or S) on the light micrograph of a stalk cross-section points to the phloem?",
-     "status": "pending",
-     "answer": "Pending: the labelled micrograph of the stalk cross-section is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: R",
+     "steps": [
+      "Phloem has small thin-walled cells containing sieve tubes and companion cells and lies on the outer side of the large xylem vessels in the vascular bundle.",
+      "P points to a large, empty thick-walled xylem vessel, and Q points to a large parenchyma cell outside the bundle.",
+      "R points to the dense area of small cells at the outer edge of the bundle, which is the phloem; S points to the supporting tissue beside the vessels."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-079.jpg",
       "papers/biology/img/04A-Plant-Structure-080.jpg",
       "papers/biology/img/04A-Plant-Structure-081.jpg",
       "papers/biology/img/04A-Plant-Structure-082.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q34b.jpg"
+     ]
     },
     {
      "id": "4A-Q34b(ii)",
@@ -33428,14 +34606,21 @@ window.BANK.biology = {
       "comment"
      ],
      "question": "Comment on the results of the investigation into packaging material and the number of S. aureus colonies on fish, using the table of means and standard deviations.",
-     "status": "pending",
-     "answer": "Pending: the table of mean decreases in S. aureus colonies for each packaging type is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Pine wood packaging gave by far the biggest decrease in S. aureus (7.14 colonies cm^-2); poplar wood had a small effect and HDPE and polystyrene had almost none.",
+     "steps": [
+      "Pine wood reduced S. aureus by 7.14 +/- 0.28 colonies cm^-2, about 9 times the decrease with poplar wood (0.79) and about 90 times that with polystyrene (0.08).",
+      "HDPE had no effect (0.00 +/- 0.02) and polystyrene almost none (0.08 +/- 0.02), so oil-based plastic packaging does not kill the bacteria.",
+      "The pine SD is small and its range (6.86 to 7.42) does not overlap with the others, so the difference is significant; poplar has a large SD (0.44), so its effect is less certain.",
+      "Wood is more antibacterial than plastic, probably because it contains antimicrobial chemicals such as resins, so plant-based (pine) packaging is better for keeping fish safe and is also more sustainable."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-082.jpg",
       "papers/biology/img/04A-Plant-Structure-083.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q35b.jpg"
+     ]
     },
     {
      "id": "4A-Q36a(i)",
@@ -33545,9 +34730,13 @@ window.BANK.biology = {
       "mm"
      ],
      "question": "Calculate the standard deviation of the inhibition zone diameters for flucloxacillin, using the student's table and formula, in mm.",
-     "status": "pending",
-     "answer": "Pending: the student's table of zone diameters and calculations is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1.8 mm (1.80)",
+     "steps": [
+      "Fill in the table: for 7.5, x - mean = 7.5 - 9.0 = -1.5 and (x - mean)^2 = 2.25.",
+      "Sum of (x - mean)^2 = 4.0 + 2.25 + 0.25 = 6.5.",
+      "s = square root of (6.5 / (n - 1)) = square root of (6.5 / 2) = square root of 3.25 = 1.80 mm."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-084.jpg",
       "papers/biology/img/04A-Plant-Structure-085.jpg",
@@ -33555,7 +34744,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-087.jpg",
       "papers/biology/img/04A-Plant-Structure-088.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q36b.jpg"
+     ]
     },
     {
      "id": "4A-Q36b(ii)",
@@ -33602,9 +34793,12 @@ window.BANK.biology = {
       "2444"
      ],
      "question": "Which percentage of the initial group of 2444 patients were placed in group B? A 8.3%, B 8.5%, C 49.5%, D 50.5%.",
-     "status": "pending",
-     "answer": "Pending: the selection diagram with the group sizes is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 8.3%",
+     "steps": [
+      "Group B contained 203 patients out of the initial group of 2444 patients.",
+      "Percentage = 203 / 2444 x 100 = 8.3%."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-084.jpg",
       "papers/biology/img/04A-Plant-Structure-085.jpg",
@@ -33612,7 +34806,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-087.jpg",
       "papers/biology/img/04A-Plant-Structure-088.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q36c.jpg"
+     ]
     },
     {
      "id": "4A-Q36c(ii)",
@@ -33645,7 +34841,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-087.jpg",
       "papers/biology/img/04A-Plant-Structure-088.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q36c.jpg"
+     ]
     },
     {
      "id": "4A-Q36c(iii)",
@@ -33663,9 +34861,14 @@ window.BANK.biology = {
       "results"
      ],
      "question": "Comment on the results of the trial comparing the mean difference in leg circumference at 5 and 10 days after treatment with flucloxacillin alone and with clindamycin added.",
-     "status": "pending",
-     "answer": "Pending: the table of mean differences in circumference at 5 and 10 days is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The swelling difference fell between 5 and 10 days in both groups, and group B (smaller swelling at both times) improved more; if B received the added clindamycin, the combination appears better, but only slightly and without statistics.",
+     "steps": [
+      "Both groups improved: the mean difference in circumference fell from 2.18 to 1.77 cm in group A (a fall of 19%) and from 2.04 to 1.42 cm in group B (a fall of 30%).",
+      "Group B had less swelling than group A at both times: 0.14 cm less after 5 days (6% less) and 0.35 cm less after 10 days (20% less).",
+      "The difference between groups is therefore greater at 10 days, so the added drug (taking group B as the flucloxacillin plus clindamycin group) appears to speed up the reduction of swelling, although the page does not state which group had which treatment.",
+      "Limitations: no standard deviations or significance test are given so we cannot tell if the difference is real, the difference at 5 days is very small, and the patients were all male, so the result may not apply to females."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-084.jpg",
       "papers/biology/img/04A-Plant-Structure-085.jpg",
@@ -33673,7 +34876,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-087.jpg",
       "papers/biology/img/04A-Plant-Structure-088.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q36c-2.jpg"
+     ]
     },
     {
      "id": "4A-Q37a(i)",
@@ -33690,16 +34895,21 @@ window.BANK.biology = {
       "pore"
      ],
      "question": "Name the structure labelled X in the diagram of guard cells from wheat plants.",
-     "status": "pending",
-     "answer": "Pending: the diagram of guard cells with label X is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Vacuole",
+     "steps": [
+      "X points to the large clear elongated sac inside the guard cell (the pale area without chloroplasts), which is the vacuole.",
+      "Under water stress the vacuole loses water, and the guard cell becomes flaccid so the pore closes."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-088.jpg",
       "papers/biology/img/04A-Plant-Structure-089.jpg",
       "papers/biology/img/04A-Plant-Structure-090.jpg",
       "papers/biology/img/04A-Plant-Structure-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q37a.jpg"
+     ]
     },
     {
      "id": "4A-Q37a(ii)",
@@ -33728,7 +34938,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-090.jpg",
       "papers/biology/img/04A-Plant-Structure-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q37a.jpg"
+     ]
     },
     {
      "id": "4A-Q37b",
@@ -33744,16 +34956,22 @@ window.BANK.biology = {
       "magnesium"
      ],
      "question": "Which is the percentage change in chlorophyll content when wheat has water stress? A +46.9%, B -46.9%, C -88.2%, D +88.2%.",
-     "status": "pending",
-     "answer": "Pending: the graph of chlorophyll content with and without water stress is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: -46.9%",
+     "steps": [
+      "Chlorophyll content without water stress is 3.2 mg dm^-3 and with water stress is 1.7 mg dm^-3.",
+      "Change = 1.7 - 3.2 = -1.5 mg dm^-3.",
+      "Percentage change = -1.5 / 3.2 x 100 = -46.9% (a decrease), so B."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-088.jpg",
       "papers/biology/img/04A-Plant-Structure-089.jpg",
       "papers/biology/img/04A-Plant-Structure-090.jpg",
       "papers/biology/img/04A-Plant-Structure-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q37b.jpg"
+     ]
     },
     {
      "id": "4A-Q37c",
@@ -33771,16 +34989,26 @@ window.BANK.biology = {
       "graphs"
      ],
      "question": "Deduce how water stress could affect the growth of wheat plants, using the three graphs and your own knowledge.",
-     "status": "pending",
-     "answer": "Pending: graphs A, B and C of water stress effects are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Water stress greatly reduces growth: it cuts survival from 100% to about 20%, cellulose content from about 25% to about 20%, root length from about 8.9 cm to about 4 cm and chlorophyll by 47%.",
+     "steps": [
+      "Graph A: survival falls from 100% to about 20% with water stress, so most plants die and yield is lost.",
+      "Closed pores (guard cells lose water and become flaccid) mean less carbon dioxide enters the leaf, and chlorophyll falls by 47% (less magnesium absorbed), so less light is absorbed, so photosynthesis and the supply of sugars for growth fall.",
+      "Graph B: cellulose content falls by about 21% (about 25% to about 20% dry mass), the error bars do not overlap, so the cell walls are weaker and less new cell wall can be made for growth.",
+      "Graph C: roots are about 55% shorter (about 8.9 cm to about 4 cm, small error bars), so there is less surface area to absorb water and ions, which makes water stress worse.",
+      "Own knowledge: water is also needed for turgor to expand cells, as a reactant in photosynthesis and to transport minerals in the xylem, so shortage reduces cell elongation and growth, and leads to wilting."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-088.jpg",
       "papers/biology/img/04A-Plant-Structure-089.jpg",
       "papers/biology/img/04A-Plant-Structure-090.jpg",
       "papers/biology/img/04A-Plant-Structure-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q37c.jpg",
+      "papers/biology/fig/04A-Plant-Structure-Q37c-2.jpg",
+      "papers/biology/fig/04A-Plant-Structure-Q37c-3.jpg"
+     ]
     },
     {
      "id": "4A-Q38a(i)",
@@ -33796,15 +35024,21 @@ window.BANK.biology = {
       "incomplete cell"
      ],
      "question": "Label the tonoplast on the incomplete plant cell diagram drawn by the student.",
-     "status": "pending",
-     "answer": "Pending: the student's incomplete plant cell diagram is not in the text, so the label cannot be placed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Label line to the membrane that surrounds the large central vacuole (the boundary of the grey T-shaped sac inside the cell wall), labelled tonoplast.",
+     "steps": [
+      "The tonoplast is the single membrane that surrounds the permanent vacuole.",
+      "The large grey T-shaped sac in the middle of the cell is the vacuole, so draw a label line that ends on its outline (the thin boundary line of the grey sac) and write \"tonoplast\".",
+      "The line should not end in the middle of the vacuole (that is the cell sap) or on the thick outer cell wall."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-091.jpg",
       "papers/biology/img/04A-Plant-Structure-092.jpg",
       "papers/biology/img/04A-Plant-Structure-093.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q38a.jpg"
+     ]
     },
     {
      "id": "4A-Q38a(ii)",
@@ -33820,15 +35054,21 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Draw and label a nucleolus in the plant cell on the student's diagram.",
-     "status": "pending",
-     "answer": "Pending: the student's diagram to draw on is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw a small dark circle inside the nucleus (the small oval at the top of the cell) and label it nucleolus.",
+     "steps": [
+      "The nucleolus is a dense, round body inside the nucleus where ribosomal RNA is made.",
+      "The nucleus is the small oval near the top of the cell, so draw a small, darker filled circle inside the oval, well inside the nuclear envelope.",
+      "Label it \"nucleolus\" with a label line that ends on the circle."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-091.jpg",
       "papers/biology/img/04A-Plant-Structure-092.jpg",
       "papers/biology/img/04A-Plant-Structure-093.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q38a.jpg"
+     ]
     },
     {
      "id": "4A-Q38b",
@@ -33846,15 +35086,21 @@ window.BANK.biology = {
       "mitochondria"
      ],
      "question": "Complete the table to show which structures would be present or absent in plant leaf cells.",
-     "status": "pending",
-     "answer": "Pending: the table of structures to be marked present or absent is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Amyloplast: x; chloroplast: tick; Golgi apparatus: tick; plasmodesmata: tick.",
+     "steps": [
+      "Plant leaf cells contain chloroplasts, which carry out photosynthesis, so chloroplast is present.",
+      "Amyloplasts are the starch-storing plastids of non-photosynthetic storage tissue (roots, tubers, seeds), so they are absent from leaf cells (leaf starch is stored in the chloroplasts).",
+      "Golgi apparatus is present in all eukaryotic cells, and plasmodesmata link neighbouring plant cells through their walls, so both are present."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-091.jpg",
       "papers/biology/img/04A-Plant-Structure-092.jpg",
       "papers/biology/img/04A-Plant-Structure-093.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q38b.jpg"
+     ]
     },
     {
      "id": "4A-Q38c",
@@ -33871,15 +35117,21 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the actual width (X-Y) of the lysosome in the electron micrograph, in micrometres, to two decimal places.",
-     "status": "pending",
-     "answer": "Pending: the scale bar and the measured width X-Y on the micrograph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.14 um",
+     "steps": [
+      "Measure X-Y on the image: about 35 mm on the printed page (125 px at 745 px per 210 mm); a ruler should give 34 mm to 36 mm.",
+      "Actual size = image size / magnification = 35 mm / 250 000 = 1.4 x 10^-4 mm.",
+      "Convert to micrometres: 1.4 x 10^-4 mm x 1000 = 0.14 um."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-091.jpg",
       "papers/biology/img/04A-Plant-Structure-092.jpg",
       "papers/biology/img/04A-Plant-Structure-093.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q38c.jpg"
+     ]
     },
     {
      "id": "4A-Q39a(i)",
@@ -33896,9 +35148,13 @@ window.BANK.biology = {
       "units"
      ],
      "question": "The pollen tube growth rate is given as 0.2 m s-1 (prefix garbled in text). How long would it take to grow 15 mm? A 75 seconds, B 125 minutes, C 1 250 minutes, D 7 500 seconds.",
-     "status": "pending",
-     "answer": "Pending: the prefix of the growth rate is unclear in the text (0.2 mm/s gives 75 s, option A; 0.2 um/s gives 1 250 min, option C); confirm against the original paper.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 1 250 minutes",
+     "steps": [
+      "Convert 15 mm to micrometres: 15 mm = 15 000 um.",
+      "Time = distance / rate = 15 000 um / 0.2 um s^-1 = 75 000 s.",
+      "Convert to minutes: 75 000 / 60 = 1 250 minutes, so C."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-093.jpg",
       "papers/biology/img/04A-Plant-Structure-094.jpg",
@@ -33934,7 +35190,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-095.jpg",
       "papers/biology/img/04A-Plant-Structure-096.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q39a.jpg"
+     ]
     },
     {
      "id": "4A-Q39b",
@@ -34017,15 +35275,22 @@ window.BANK.biology = {
       "ultrastructure"
      ],
      "question": "Complete the table to show in which types of cells the listed structures are present or absent.",
-     "status": "pending",
-     "answer": "Pending: the table of structures and cell types is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Amyloplast: animal x, plant tick, prokaryotic x; circular DNA: animal x, plant x, prokaryotic tick; mitochondria: animal tick, plant tick, prokaryotic x; nucleolus: animal tick, plant tick, prokaryotic x.",
+     "steps": [
+      "Amyloplasts store starch and are found only in plant cells (they are plastids).",
+      "Circular DNA is the main chromosome of prokaryotes (plus plasmids); the nuclear DNA of animal and plant cells is linear (though the small DNA inside their mitochondria and chloroplasts is circular).",
+      "Mitochondria are present in animal and plant (eukaryotic) cells but prokaryotes have none, so tick, tick, x.",
+      "The nucleolus is inside the nucleus of eukaryotic cells, so it is present in animal and plant cells but absent from prokaryotes, which have no nucleus."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-096.jpg",
       "papers/biology/img/04A-Plant-Structure-097.jpg",
       "papers/biology/img/04A-Plant-Structure-098.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q40a.jpg"
+     ]
     },
     {
      "id": "4A-Q40b",
@@ -34102,15 +35367,23 @@ window.BANK.biology = {
       "egg cells"
      ],
      "question": "Evaluate the proposal to inject recently obtained sperm into egg cells with a zona pellucida thicker than 18 micrometres during IVF, using the table of zona pellucida thicknesses.",
-     "status": "pending",
-     "answer": "Pending: the table of mean zona pellucida thickness for fertilised and unfertilised eggs is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The proposal has some support: unfertilised eggs have a thicker zona pellucida (18.9 against 16.6 um), but the large standard deviations show a big overlap, so thickness alone is a weak guide and injection brings risks and costs.",
+     "steps": [
+      "For: the mean zona pellucida thickness is greater in unfertilised eggs (18.9 +/- 4.0 um) than in fertilised eggs (16.6 +/- 3.2 um), so a thick zona pellucida (more than 18 um) may stop sperm penetrating it, and injecting sperm directly into the egg bypasses this barrier.",
+      "Against: the standard deviations are large and the ranges overlap (13.4 to 19.8 against 14.9 to 22.9 um), so the difference may not be significant and many fertilised eggs also have a zona above 18 um; the sample size is not given.",
+      "The sperm should be injected soon after collection because a longer time between ejaculation and reaching the egg may reduce fertilisation (sperm age, motility and viability fall), which supports using recently obtained sperm.",
+      "Disadvantages of injection: the egg can be damaged, it is invasive and expensive, it bypasses natural selection of the sperm (and may pass on male infertility), and ethical views vary.",
+      "Overall: it may help for eggs with a thick zona, but more data (success rates, larger samples, a significance test) are needed before using the 18 um cut-off."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-096.jpg",
       "papers/biology/img/04A-Plant-Structure-097.jpg",
       "papers/biology/img/04A-Plant-Structure-098.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q40c.jpg"
+     ]
     },
     {
      "id": "4A-Q41a",
@@ -34126,16 +35399,22 @@ window.BANK.biology = {
       "scale"
      ],
      "question": "Estimate the height of the sunflower shown in the diagram, giving units.",
-     "status": "pending",
-     "answer": "Pending: the diagram of the sunflower with scale information is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "2.6 m",
+     "steps": [
+      "Scale from the person: the 1.6 m person is about 211 units tall on the diagram.",
+      "The sunflower is about 344 units tall (measure both arrows with a ruler).",
+      "Height = 344 / 211 x 1.6 m = 2.6 m (ruler measurements should give a ratio of about 1.6)."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-098.jpg",
       "papers/biology/img/04A-Plant-Structure-099.jpg",
       "papers/biology/img/04A-Plant-Structure-100.jpg",
       "papers/biology/img/04A-Plant-Structure-101.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q41a.jpg"
+     ]
     },
     {
      "id": "4A-Q41b(i)",
@@ -34152,16 +35431,21 @@ window.BANK.biology = {
       "phloem"
      ],
      "question": "Name the tissue that would contain structure X shown in the photograph of a structure in a sunflower plant.",
-     "status": "pending",
-     "answer": "Pending: the photograph of structure X is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Phloem",
+     "steps": [
+      "Structure X is a plate with many large pores across the end wall of a tube, which is a sieve plate.",
+      "Sieve plates are found between sieve tube elements in the phloem, so the tissue is phloem."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-098.jpg",
       "papers/biology/img/04A-Plant-Structure-099.jpg",
       "papers/biology/img/04A-Plant-Structure-100.jpg",
       "papers/biology/img/04A-Plant-Structure-101.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q41b.jpg"
+     ]
     },
     {
      "id": "4A-Q41b(ii)",
@@ -34177,16 +35461,22 @@ window.BANK.biology = {
       "sunflower"
      ],
      "question": "Describe how two structures in the tissue named in part (b)(i) enable it to carry out its function.",
-     "status": "pending",
-     "answer": "Pending: depends on the tissue identified from structure X in the photograph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Sieve plates (pores let sucrose solution flow from one sieve tube element to the next) and companion cells (mitochondria supply ATP for loading sucrose).",
+     "steps": [
+      "Structure 1, sieve plate: the pores in the end walls allow the phloem sap with dissolved sugars (assimilates) to pass from one sieve tube element to the next.",
+      "Structure 2, companion cell: connected to the sieve tube element by plasmodesmata, it has many mitochondria and makes ATP for active loading of sucrose into the sieve tube (it also supplies the proteins that the sieve tube needs).",
+      "Other acceptable structures: sieve tube elements have little cytoplasm, no nucleus and few organelles, which leaves space and lowers resistance to flow."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-098.jpg",
       "papers/biology/img/04A-Plant-Structure-099.jpg",
       "papers/biology/img/04A-Plant-Structure-100.jpg",
       "papers/biology/img/04A-Plant-Structure-101.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q41b.jpg"
+     ]
     },
     {
      "id": "4A-Q41c(i)",
@@ -42755,15 +44045,22 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Which row of the table shows the colour of each of the three seaweeds?",
-     "status": "pending",
-     "answer": "Pending: the table of seaweed colours is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: U. fasciata green, S. linifolium brown, C. officinalis red.",
+     "steps": [
+      "U. fasciata has by far the most chlorophyll a and b, so chlorophyll hides other pigments and it is green.",
+      "C. officinalis has almost no chlorophyll b and relatively more carotenoids, which fits a red seaweed.",
+      "S. linifolium has less chlorophyll but its carotenoids give it a brown colour.",
+      "Row A is the only row with green, brown and red in this order."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-01.jpg",
       "papers/biology/img/05A-Photosynthesis-02.jpg",
       "papers/biology/img/05A-Photosynthesis-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q1.jpg"
+     ]
     },
     {
      "id": "5A-Q1a(ii)",
@@ -42839,15 +44136,24 @@ window.BANK.biology = {
       "table of compounds"
      ],
      "question": "Comment on the statement that these seaweeds are a healthy, environmentally friendly and economic food source, using the table and your own knowledge.",
-     "status": "pending",
-     "answer": "Pending: the table of compounds in the two seaweeds is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Partly supported: the table shows useful protein, carbohydrate and antioxidants with little lipid, and seaweeds need no land or fertiliser, but data are only for two seaweeds and give no information on cost, toxins or vitamins.",
+     "steps": [
+      "Healthy: lipid is low (2.96% and 2.16% of dry mass), protein is 9.56% and 14.89%, and carbohydrate is 23.70% and 25.03%.",
+      "Healthy: carotenoids, phenols and flavonoids are antioxidants that protect cells from free radicals; S. linifolium has more carotenoids (3.00 v 2.00) while U. fasciata has more phenols and flavonoids.",
+      "Environmentally friendly: seaweeds photosynthesise using sunlight and sea water, so need no farmland, fresh water or fertiliser, and they take up carbon dioxide.",
+      "Economic: they grow quickly and can be harvested cheaply, so should cost less than animal protein.",
+      "Limits: only two of the three seaweeds are in the table, antioxidant values are in arbitrary units, and there is no data on vitamins, minerals, heavy metals, digestibility or cost; wild harvesting could damage ecosystems.",
+      "Conclusion: the statement is supported in part but the evidence is incomplete."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-01.jpg",
       "papers/biology/img/05A-Photosynthesis-02.jpg",
       "papers/biology/img/05A-Photosynthesis-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q1-2.jpg"
+     ]
     },
     {
      "id": "5A-Q2a(i)",
@@ -42864,16 +44170,22 @@ window.BANK.biology = {
       "kj"
      ],
      "question": "Using the photosynthesis equation and the bond energy table, calculate the energy released by photolysis to make one glucose molecule.",
-     "status": "pending",
-     "answer": "Pending: the bond energy table is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "2772 kJ",
+     "steps": [
+      "In photolysis one O-H bond is broken in each water molecule.",
+      "The equation has 6 H2O for each glucose, so 6 O-H bonds are broken.",
+      "Energy = 6 x 462 kJ = 2772 kJ."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-03.jpg",
       "papers/biology/img/05A-Photosynthesis-04.jpg",
       "papers/biology/img/05A-Photosynthesis-05.jpg",
       "papers/biology/img/05A-Photosynthesis-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q2.jpg"
+     ]
     },
     {
      "id": "5A-Q2a(ii)",
@@ -42920,16 +44232,23 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "State what other information is needed in the bond energy table for the energy of 9164 kJ to be calculated.",
-     "status": "pending",
-     "answer": "Pending: the bond energy table is not in the text, so the missing data cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The bond energies of C-C, C-H and C-O (single) bonds are needed.",
+     "steps": [
+      "Glucose contains C-C, C-H, C-O and O-H bonds (5 C-C, 7 C-H, 7 C-O and 5 O-H).",
+      "The table only gives C=O, O-H and O=O, so only the O-H energy can be used.",
+      "Energies for C-C, C-H and C-O must be added so that each bond count can be multiplied to give 9164 kJ."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-03.jpg",
       "papers/biology/img/05A-Photosynthesis-04.jpg",
       "papers/biology/img/05A-Photosynthesis-05.jpg",
       "papers/biology/img/05A-Photosynthesis-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q2.jpg",
+      "papers/biology/fig/05A-Photosynthesis-Q2-2.jpg"
+     ]
     },
     {
      "id": "5A-Q2b(ii)",
@@ -42973,16 +44292,21 @@ window.BANK.biology = {
       "protein"
      ],
      "question": "Which row of the table describes how two amino acids join together?",
-     "status": "pending",
-     "answer": "Pending: the table of joining reactions is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: carbon and nitrogen, condensation.",
+     "steps": [
+      "Two amino acids join by a peptide bond between the carboxyl carbon of one and the amino nitrogen of the other.",
+      "Water is released when the bond forms, so it is a condensation reaction, not hydrolysis."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-03.jpg",
       "papers/biology/img/05A-Photosynthesis-04.jpg",
       "papers/biology/img/05A-Photosynthesis-05.jpg",
       "papers/biology/img/05A-Photosynthesis-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q2-3.jpg"
+     ]
     },
     {
      "id": "5A-Q2c(ii)",
@@ -43027,15 +44351,20 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Which row of the table shows where the light-dependent and light-independent reactions take place?",
-     "status": "pending",
-     "answer": "Pending: the table of locations is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: thylakoid membranes (light-dependent), stroma (light-independent).",
+     "steps": [
+      "The light-dependent reactions need photosystems and the electron transport chain, which are in the thylakoid membranes.",
+      "The Calvin cycle (light-independent) uses enzymes such as rubisco in the stroma."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-06.jpg",
       "papers/biology/img/05A-Photosynthesis-07.jpg",
       "papers/biology/img/05A-Photosynthesis-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q3.jpg"
+     ]
     },
     {
      "id": "5A-Q3b",
@@ -43052,15 +44381,22 @@ window.BANK.biology = {
       "ribosome"
      ],
      "question": "Draw three labelled features on the chloroplast outline, other than the stroma and thylakoid membranes.",
-     "status": "pending",
-     "answer": "Pending: this is a drawing task on a diagram that is not in the text (suitable labels include grana, envelope, starch grain, DNA and ribosomes).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Any three correctly drawn and labelled: granum (stack of thylakoid discs), starch grain, DNA (loop), ribosomes, lipid droplet.",
+     "steps": [
+      "Draw a stack of flattened discs inside the oval and label it granum (thylakoids joined by lamellae).",
+      "Draw a small oval or round grain in the stroma and label it starch grain.",
+      "Draw a small loop or thread and label it chloroplast DNA, or draw small dots and label them 70S ribosomes, or a small droplet labelled lipid droplet.",
+      "The label 'membrane' is already given, and stroma and thylakoid membranes are excluded, so these cannot score."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-06.jpg",
       "papers/biology/img/05A-Photosynthesis-07.jpg",
       "papers/biology/img/05A-Photosynthesis-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q3-2.jpg"
+     ]
     },
     {
      "id": "5A-Q3c",
@@ -43159,15 +44495,22 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "What is the Rf value for chloroplast pigment J on the chromatogram? Options: A 0.625, B 0.800, C 0.830, D 1.714.",
-     "status": "pending",
-     "answer": "Pending: the distances travelled on the chromatogram are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 0.800",
+     "steps": [
+      "Rf = distance moved by the pigment / distance moved by the solvent front, both measured from the origin.",
+      "Solvent front: 3.5 + 2.5 + 1.5 = 7.5 cm from the origin.",
+      "Pigment J: 3.5 + 2.5 = 6.0 cm from the origin.",
+      "Rf = 6.0 / 7.5 = 0.800."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-06.jpg",
       "papers/biology/img/05A-Photosynthesis-07.jpg",
       "papers/biology/img/05A-Photosynthesis-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q3-3.jpg"
+     ]
     },
     {
      "id": "5A-Q4a",
@@ -43213,15 +44556,22 @@ window.BANK.biology = {
       "labels"
      ],
      "question": "Complete the diagram of cyclic photophosphorylation by writing the correct words on the dotted lines labelled D, E, F, G and H.",
-     "status": "pending",
-     "answer": "Pending: the labelled cyclic photophosphorylation diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: chlorophyll (photosystem I); E: energy; F and G: ADP and Pi (inorganic phosphate), either order; H: ATP.",
+     "steps": [
+      "D is the pigment/photosystem that absorbs light and loses excited electrons, so it is chlorophyll (photosystem I).",
+      "Electrons passing along the carriers release energy, so E is energy.",
+      "This energy joins ADP and inorganic phosphate (F and G, either way round).",
+      "The product H is ATP, made by phosphorylation."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-08.jpg",
       "papers/biology/img/05A-Photosynthesis-09.jpg",
       "papers/biology/img/05A-Photosynthesis-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q4.jpg"
+     ]
     },
     {
      "id": "5A-Q4b(ii)",
@@ -43355,16 +44705,25 @@ window.BANK.biology = {
       "graphs"
      ],
      "question": "Discuss the effectiveness of the two solvents, propanone and DMSO, in extracting pigments for identifying these seaweed species, using the graphs.",
-     "status": "pending",
-     "answer": "Pending: the graphs of pigment concentrations for the two solvents are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Propanone is generally more effective, extracting more total chlorophyll in all four species, and separates the species better, but DMSO extracts more chlorophyll a in Q and slightly more chlorophyll b in R and S, so neither is best for every pigment.",
+     "steps": [
+      "Total chlorophyll: propanone extracted more than DMSO in every species (P 40 v 7, Q 32 v 25, R 5 v 3, S 16 v 8 ug cm^-3), so it is generally the more effective solvent.",
+      "Propanone gives clearly different totals for P, Q, S and R (40, 32, 16, 5), so species can be told apart; DMSO gives similar totals for P, R and S (7, 3, 8), so it distinguishes them poorly.",
+      "Exceptions: DMSO gave more chlorophyll a in Q (about 17 v 12) and more chlorophyll b in R (about 2 v 0.4) and S (3 v 2.5), so effectiveness depends on the pigment and the species.",
+      "The chlorophyll a : b ratio, used for identification, changes with the solvent (e.g. Q about 0.6 with propanone but about 2.4 with DMSO), so results from different solvents cannot be compared.",
+      "Limitations: only chlorophylls a and b are measured, there are no repeats or error bars, and identification would need other pigments, structure or DNA evidence.",
+      "Conclusion: propanone is more effective overall, but the method alone is not a reliable way to identify species."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-10.jpg",
       "papers/biology/img/05A-Photosynthesis-11.jpg",
       "papers/biology/img/05A-Photosynthesis-12.jpg",
       "papers/biology/img/05A-Photosynthesis-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q5.jpg"
+     ]
     },
     {
      "id": "5A-Q5c(ii)",
@@ -43394,7 +44753,9 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-12.jpg",
       "papers/biology/img/05A-Photosynthesis-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q5.jpg"
+     ]
     },
     {
      "id": "5A-Q6a(i)",
@@ -43453,7 +44814,9 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-14.jpg",
       "papers/biology/img/05A-Photosynthesis-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q6.jpg"
+     ]
     },
     {
      "id": "5A-Q6a(iii)",
@@ -43499,15 +44862,21 @@ window.BANK.biology = {
       "calvin cycle"
      ],
      "question": "Which row of the table shows the products of the light-dependent reactions that are used in the light-independent reactions?",
-     "status": "pending",
-     "answer": "Pending: the table of products is not in the text (the answer should be ATP and reduced NADP).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: ATP from non-cyclic photophosphorylation and reduced NADP.",
+     "steps": [
+      "The light-independent reactions use ATP and reduced NADP made in the light-dependent reactions.",
+      "Reduced NADP is made only in non-cyclic photophosphorylation (cyclic makes ATP only), so oxidised NADP rows are wrong and cyclic with reduced NADP is not possible.",
+      "Row D (non-cyclic, reduced) is correct."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-13.jpg",
       "papers/biology/img/05A-Photosynthesis-14.jpg",
       "papers/biology/img/05A-Photosynthesis-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q6-2.jpg"
+     ]
     },
     {
      "id": "5A-Q6b(ii)",
@@ -43553,15 +44922,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Which row of the table shows the inorganic ions needed to synthesise new biological molecules from simple sugars?",
-     "status": "pending",
-     "answer": "Pending: the table of inorganic ions is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Protein: nitrates; RNA: both nitrates and phosphates; triglyceride: neither nitrates nor phosphates.",
+     "steps": [
+      "Proteins contain nitrogen in amino groups, which comes from nitrate ions, and have no phosphate.",
+      "RNA has nitrogen in its bases (from nitrate) and phosphate in the sugar-phosphate backbone, so needs both.",
+      "Triglycerides contain only carbon, hydrogen and oxygen, so need neither."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-13.jpg",
       "papers/biology/img/05A-Photosynthesis-14.jpg",
       "papers/biology/img/05A-Photosynthesis-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q6-3.jpg"
+     ]
     },
     {
      "id": "5A-Q7a(i)",
@@ -43577,15 +44952,23 @@ window.BANK.biology = {
       "wavelength"
      ],
      "question": "Draw the action spectrum for this plant on the axes below, using the absorption spectra of the two pigments.",
-     "status": "pending",
-     "answer": "Pending: this is a drawing task on axes and absorption graphs that are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A curve with a blue peak (about 430-460 nm), a low region in the green-yellow (about 500-600 nm), a second smaller peak in the red (about 640-660 nm), and falling to near zero beyond about 680 nm.",
+     "steps": [
+      "Axes are rate of photosynthesis (y) against wavelength 400-700 nm (x).",
+      "The action spectrum follows the combined absorption of chlorophyll a and b: a high peak in the blue at about 430-460 nm.",
+      "The rate is lowest in the green-yellow region (about 500-600 nm), because little light is absorbed there, but it is above zero.",
+      "There is a second peak in the red at about 640-660 nm, lower than the blue peak, then the rate falls steeply towards 700 nm."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-15.jpg",
       "papers/biology/img/05A-Photosynthesis-16.jpg",
       "papers/biology/img/05A-Photosynthesis-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q7.jpg",
+      "papers/biology/fig/05A-Photosynthesis-Q7-2.jpg"
+     ]
     },
     {
      "id": "5A-Q7a(ii)",
@@ -43601,15 +44984,21 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Calculate how many times greater the percentage of light absorbed by chlorophyll b is than that absorbed by chlorophyll a, at their maximum absorptions.",
-     "status": "pending",
-     "answer": "Pending: the maximum absorption values are read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1.2 times",
+     "steps": [
+      "Maximum for chlorophyll b = about 85% (at about 458 nm).",
+      "Maximum for chlorophyll a = about 69% (at about 430 nm).",
+      "85 / 69 = 1.23, so chlorophyll b absorbs about 1.2 times as much."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-15.jpg",
       "papers/biology/img/05A-Photosynthesis-16.jpg",
       "papers/biology/img/05A-Photosynthesis-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q7.jpg"
+     ]
     },
     {
      "id": "5A-Q7a(iii)",
@@ -43636,7 +45025,9 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-16.jpg",
       "papers/biology/img/05A-Photosynthesis-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q7.jpg"
+     ]
     },
     {
      "id": "5A-Q7b(i)",
@@ -43652,15 +45043,21 @@ window.BANK.biology = {
       "bonds"
      ],
      "question": "Which row of the table describes the bonds that form between amino acids in a protein?",
-     "status": "pending",
-     "answer": "Pending: the table of bonds is not in the text (the answer is peptide bonds formed by condensation).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: peptide bond between the amino group and the carboxyl group.",
+     "steps": [
+      "Amino acids are joined by peptide bonds, formed by condensation.",
+      "The bond forms between the carboxyl group of one amino acid and the amino group of the next, not the R group.",
+      "Phosphodiester bonds join nucleotides, so C and D are wrong."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-15.jpg",
       "papers/biology/img/05A-Photosynthesis-16.jpg",
       "papers/biology/img/05A-Photosynthesis-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q7-3.jpg"
+     ]
     },
     {
      "id": "5A-Q7b(ii)",
@@ -43705,15 +45102,21 @@ window.BANK.biology = {
       "chloroplast"
      ],
      "question": "Which row of the table is correct for the light-dependent and light-independent reactions?",
-     "status": "pending",
-     "answer": "Pending: the table of locations is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: ADP is phosphorylated, requiring energy, in the light-dependent reactions; ATP is hydrolysed, releasing energy, in the light-independent reactions.",
+     "steps": [
+      "In the light-dependent reactions ADP + Pi is joined to make ATP, which needs energy from light.",
+      "In the light-independent reactions ATP is hydrolysed to ADP + Pi, releasing the energy that drives the Calvin cycle.",
+      "Only row B has both parts correct."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-17.jpg",
       "papers/biology/img/05A-Photosynthesis-18.jpg",
       "papers/biology/img/05A-Photosynthesis-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q8.jpg"
+     ]
     },
     {
      "id": "5A-Q8b(i)",
@@ -43730,15 +45133,22 @@ window.BANK.biology = {
       "ribosomes"
      ],
      "question": "Complete the diagram of part of a chloroplast to show three other labelled structures.",
-     "status": "pending",
-     "answer": "Pending: the partly labelled chloroplast diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Any three labelled correctly: inner membrane, starch grain, DNA (loop), ribosomes, lipid droplet, lamella (intergranal).",
+     "steps": [
+      "Draw a second line just inside the outer membrane and label it inner membrane.",
+      "Draw a small round grain in the stroma and label it starch grain.",
+      "Draw a small ring or thread and label it chloroplast DNA, or small dots labelled ribosomes, or a small droplet labelled lipid droplet.",
+      "Each label line must touch the structure it names."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-17.jpg",
       "papers/biology/img/05A-Photosynthesis-18.jpg",
       "papers/biology/img/05A-Photosynthesis-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q8-2.jpg"
+     ]
     },
     {
      "id": "5A-Q8b(ii)",
@@ -43784,9 +45194,12 @@ window.BANK.biology = {
       "location"
      ],
      "question": "Where in the chloroplast is RUBISCO active? Options refer to the table labels A P, B Q, C R, D S.",
-     "status": "pending",
-     "answer": "Pending: the table linking the letters P, Q, R and S to chloroplast structures is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Q (the stroma).",
+     "steps": [
+      "RuBisCO fixes carbon dioxide in the Calvin cycle, the light-independent reactions.",
+      "Structure Q is the site of the light-independent reactions and is colourless, so it is the stroma."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-19.jpg",
       "papers/biology/img/05A-Photosynthesis-20.jpg",
@@ -43794,7 +45207,9 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-22.jpg",
       "papers/biology/img/05A-Photosynthesis-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q9.jpg"
+     ]
     },
     {
      "id": "5A-Q9a(ii)",
@@ -43810,9 +45225,12 @@ window.BANK.biology = {
       "stored product"
      ],
      "question": "What is stored in structure S? Options: A GALP, B lipid, C starch, D sucrose.",
-     "status": "pending",
-     "answer": "Pending: the table identifying structure S is not in the text (the answer is likely C starch).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: starch.",
+     "steps": [
+      "S is the storage granule, 1 to 35 um in size, so it is a starch grain.",
+      "GALP and sucrose are not stored in chloroplast granules, and lipid is stored as small droplets."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-19.jpg",
       "papers/biology/img/05A-Photosynthesis-20.jpg",
@@ -43820,7 +45238,9 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-22.jpg",
       "papers/biology/img/05A-Photosynthesis-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q9.jpg"
+     ]
     },
     {
      "id": "5A-Q9a(iii)",
@@ -43836,9 +45256,12 @@ window.BANK.biology = {
       "location"
      ],
      "question": "Where is GP (glycerate 3-phosphate) formed? Options refer to the table labels A P, B Q, C R, D S.",
-     "status": "pending",
-     "answer": "Pending: the table linking the letters to chloroplast structures is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Q (the stroma).",
+     "steps": [
+      "GP (glycerate 3-phosphate) is the first product when RuBP combines with carbon dioxide, catalysed by RuBisCO.",
+      "This happens in the Calvin cycle in the stroma, which is Q."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-19.jpg",
       "papers/biology/img/05A-Photosynthesis-20.jpg",
@@ -43846,7 +45269,9 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-22.jpg",
       "papers/biology/img/05A-Photosynthesis-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q9.jpg"
+     ]
     },
     {
      "id": "5A-Q9a(iv)",
@@ -43861,9 +45286,14 @@ window.BANK.biology = {
       "smallest to largest"
      ],
      "question": "Which is the correct order of size, smallest to largest, for the structures P, R and S? Options: A PRS, B PSR, C RSP, D SRP.",
-     "status": "pending",
-     "answer": "Pending: the table of structure sizes is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: P R S.",
+     "steps": [
+      "P is a ribosome of about 20 nm = 0.02 um.",
+      "R is a thylakoid space, largest 4.35 x 10^-4 mm = 0.435 um (435 nm).",
+      "S is a starch grain of 1 to 35 um.",
+      "Smallest to largest: P (0.02 um), R (0.435 um), S (1 to 35 um)."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-19.jpg",
       "papers/biology/img/05A-Photosynthesis-20.jpg",
@@ -43871,7 +45301,9 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-22.jpg",
       "papers/biology/img/05A-Photosynthesis-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q9.jpg"
+     ]
     },
     {
      "id": "5A-Q9b(i)",
@@ -43917,9 +45349,14 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Compare and contrast the rate of photosynthesis of Spartina and Leucopoa at different temperatures, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of photosynthesis rates for the two species is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both rise to an optimum then fall, but Spartina has a much higher maximum (about 40 a.u. at about 35 C) than Leucopoa (about 16 a.u. at about 20-25 C), and Leucopoa is faster only below about 15 C.",
+     "steps": [
+      "Similarity: both species show an increase in rate to a maximum then a decrease, as enzymes become less effective above the optimum.",
+      "Spartina rises steeply from about 10 a.u. at 10 C to about 40 a.u. at 35 C, whereas Leucopoa rises only slightly, from about 13 to about 16.5 a.u.",
+      "The optimum is higher for Spartina (about 35 C) than for Leucopoa (about 20-25 C).",
+      "Below about 15 C Leucopoa has the higher rate; above that Spartina is higher, and at 40 C it is about 36 a.u. against 9 a.u."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-19.jpg",
       "papers/biology/img/05A-Photosynthesis-20.jpg",
@@ -43927,7 +45364,9 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-22.jpg",
       "papers/biology/img/05A-Photosynthesis-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q9-2.jpg"
+     ]
     },
     {
      "id": "5A-Q9b(iii)",
@@ -43942,9 +45381,13 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Describe how a Q10 value for the rate of photosynthesis can be calculated using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph is needed to give the specific rates at the two temperatures.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Q10 = rate at (T + 10) C divided by rate at T C, read from the graph; e.g. Spartina 20 to 30 C: 37 / 21 = 1.8.",
+     "steps": [
+      "Choose two temperatures 10 C apart on the rising part of the curve for one species, e.g. 20 C and 30 C.",
+      "Read the rate of photosynthesis at each from the graph (Spartina about 21 a.u. at 20 C and about 37 a.u. at 30 C).",
+      "Divide the rate at the higher temperature by the rate at the lower: 37 / 21 = about 1.8."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-19.jpg",
       "papers/biology/img/05A-Photosynthesis-20.jpg",
@@ -43952,7 +45395,9 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-22.jpg",
       "papers/biology/img/05A-Photosynthesis-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q9-2.jpg"
+     ]
     },
     {
      "id": "5A-Q9b(iv)",
@@ -43969,9 +45414,13 @@ window.BANK.biology = {
       "photosynthesis"
      ],
      "question": "Explain in which of the two North American regions Spartina is most likely to grow, using both graphs.",
-     "status": "pending",
-     "answer": "Pending: the graphs of maximum temperatures and photosynthesis rates are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Wheatland: Spartina needs high temperatures (optimum about 35 C) and Wheatland is warmer, with maximum temperatures of 27-31 C from June to August.",
+     "steps": [
+      "Spartina has its highest rate of photosynthesis (about 40 a.u.) at about 35 C and a low rate (about 10 a.u.) at 10-15 C.",
+      "Wheatland has maximum temperatures above 20 C from May to September, reaching about 31 C in July, close to the optimum for Spartina.",
+      "Pole Mountain never exceeds about 24 C and is below 15 C for most of the year, where Spartina photosynthesises slowly, so it would grow poorly there."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-19.jpg",
       "papers/biology/img/05A-Photosynthesis-20.jpg",
@@ -43979,7 +45428,10 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-22.jpg",
       "papers/biology/img/05A-Photosynthesis-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q9-2.jpg",
+      "papers/biology/fig/05A-Photosynthesis-Q9-3.jpg"
+     ]
     },
     {
      "id": "5A-Q10a",
@@ -44022,14 +45474,21 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Explain why the student concluded that magnesium ions are taken up by active transport, using the graph of uptake in the presence and absence of oxygen.",
-     "status": "pending",
-     "answer": "Pending: the graph of magnesium uptake with and without oxygen is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Uptake is greater with oxygen (270 a.u. at 100 min) and levels off without oxygen (about 120 a.u. from 60 min), so uptake depends on aerobic respiration making ATP, which is active transport.",
+     "steps": [
+      "With oxygen, uptake keeps rising to about 270 a.u. at 100 min, but without oxygen it levels off at about 120 a.u. after about 60 min.",
+      "Oxygen is needed for aerobic respiration, which makes most of the cell's ATP, so removing oxygen reduces the ATP supply.",
+      "Uptake that depends on ATP from respiration is active transport, which uses ATP to drive carrier proteins.",
+      "Some uptake still occurs without oxygen, probably by diffusion and the use of ATP from anaerobic respiration, but it is much lower."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-23.jpg",
       "papers/biology/img/05A-Photosynthesis-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q10.jpg"
+     ]
     },
     {
      "id": "5A-Q11a(i)",
@@ -44045,16 +45504,21 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Which labelled structure in the photosynthetic bacterium contains the genes coding for the enzymes of photosynthesis? Options: A P, B Q, C R, D T.",
-     "status": "pending",
-     "answer": "Pending: the labelled bacterium diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: R (the circular DNA).",
+     "steps": [
+      "Genes are made of DNA; in a bacterium this is a single circular chromosome in the cytoplasm.",
+      "R points to the looped DNA, so R contains the genes for the photosynthetic enzymes."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-24.jpg",
       "papers/biology/img/05A-Photosynthesis-25.jpg",
       "papers/biology/img/05A-Photosynthesis-26.jpg",
       "papers/biology/img/05A-Photosynthesis-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q11.jpg"
+     ]
     },
     {
      "id": "5A-Q11a(ii)",
@@ -44070,16 +45534,21 @@ window.BANK.biology = {
       "photosynthesis"
      ],
      "question": "Where do the light-dependent reactions take place in the photosynthetic bacterium? Options: A Q, B S, C T, D U.",
-     "status": "pending",
-     "answer": "Pending: the labelled bacterium diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: T (the cell surface membrane and its infoldings).",
+     "steps": [
+      "Bacteria have no chloroplasts, so the pigments and electron carriers of the light-dependent reactions are in the cell surface membrane.",
+      "T points to this membrane (with its infoldings), which is the site of the light-dependent reactions."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-24.jpg",
       "papers/biology/img/05A-Photosynthesis-25.jpg",
       "papers/biology/img/05A-Photosynthesis-26.jpg",
       "papers/biology/img/05A-Photosynthesis-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q11.jpg"
+     ]
     },
     {
      "id": "5A-Q11a(iii)",
@@ -44095,16 +45564,21 @@ window.BANK.biology = {
       "photosynthesis"
      ],
      "question": "Where do the light-independent reactions take place in the photosynthetic bacterium? Options: A Q, B S, C T, D U.",
-     "status": "pending",
-     "answer": "Pending: the labelled bacterium diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: S (the cytoplasm).",
+     "steps": [
+      "The light-independent reactions use soluble enzymes such as RuBisCO.",
+      "These are in the cytoplasm, which S labels, as there is no chloroplast stroma."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-24.jpg",
       "papers/biology/img/05A-Photosynthesis-25.jpg",
       "papers/biology/img/05A-Photosynthesis-26.jpg",
       "papers/biology/img/05A-Photosynthesis-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q11.jpg"
+     ]
     },
     {
      "id": "5A-Q11b",
@@ -44120,16 +45594,22 @@ window.BANK.biology = {
       "wavelength"
      ],
      "question": "Describe two conclusions about the differences in absorption spectra of the plant and the bacterium.",
-     "status": "pending",
-     "answer": "Pending: the two absorption spectrum graphs are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The bacterium absorbs strongly in the near infrared (peaks at about 800 nm and 880 nm) where the plant absorbs almost nothing, and it absorbs very little in the red (about 0.15 a.u. at 650-700 nm) where the plant has a high peak (0.58 a.u. at about 690 nm).",
+     "steps": [
+      "Conclusion 1: the bacterium absorbs wavelengths above 750 nm (peaks about 0.72 at 800 nm and 0.85 at 880 nm), but the plant absorbs almost none above 760 nm.",
+      "Conclusion 2: the plant has a large red absorption peak (about 0.58 at 690 nm) but the bacterium has its lowest absorbance there (about 0.15), so it uses different pigments from the plant.",
+      "Other points: the plant has two main peaks (blue at about 440 nm, 0.64, and red), the bacterium has several peaks (370 nm, 480 nm, 580 nm, 800 nm, 880 nm) and a wider range of absorption."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-24.jpg",
       "papers/biology/img/05A-Photosynthesis-25.jpg",
       "papers/biology/img/05A-Photosynthesis-26.jpg",
       "papers/biology/img/05A-Photosynthesis-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q11-2.jpg"
+     ]
     },
     {
      "id": "5A-Q11c",
@@ -44176,14 +45656,19 @@ window.BANK.biology = {
       "water splitting"
      ],
      "question": "Which is the site of photolysis in the chloroplast diagram? Options: A P, B R, C T, D V.",
-     "status": "pending",
-     "answer": "Pending: the labelled chloroplast diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: T (the thylakoid membrane).",
+     "steps": [
+      "Photolysis (splitting of water) is carried out by photosystem II.",
+      "Photosystem II is in the thylakoid membranes, which T labels."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-28.jpg",
       "papers/biology/img/05A-Photosynthesis-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q12.jpg"
+     ]
     },
     {
      "id": "5A-Q12b",
@@ -44199,14 +45684,19 @@ window.BANK.biology = {
       "location"
      ],
      "question": "Which structure in the chloroplast diagram contains a gene coding for RUBISCO? Options: A P, B Q, C S, D V.",
-     "status": "pending",
-     "answer": "Pending: the labelled chloroplast diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: V (the chloroplast DNA).",
+     "steps": [
+      "A gene is a length of DNA.",
+      "The loop of DNA in the stroma, labelled V, contains genes such as the one for the large subunit of RuBisCO."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-28.jpg",
       "papers/biology/img/05A-Photosynthesis-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q12.jpg"
+     ]
     },
     {
      "id": "5A-Q12c",
@@ -44222,14 +45712,19 @@ window.BANK.biology = {
       "atp"
      ],
      "question": "Where do hydrogen ions accumulate for use in photosynthesis? Options: A Q, B R, C S, D V.",
-     "status": "pending",
-     "answer": "Pending: the labelled chloroplast diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: S (the thylakoid space).",
+     "steps": [
+      "Protons are pumped into the thylakoid space, which is inside the thylakoid stack.",
+      "They accumulate there to form the proton gradient that drives ATP synthase; S points to this thylakoid."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-28.jpg",
       "papers/biology/img/05A-Photosynthesis-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q12.jpg"
+     ]
     },
     {
      "id": "5A-Q12d(i)",
@@ -44245,14 +45740,20 @@ window.BANK.biology = {
       "chloroplast"
      ],
      "question": "How many of the structures labelled P, T, U and W are made of phospholipids? Options: A 1, B 2, C 3, D 4.",
-     "status": "pending",
-     "answer": "Pending: the labelled diagram is not in the text, so the membranes cannot be counted.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 3",
+     "steps": [
+      "Phospholipids make up membranes.",
+      "T (thylakoid membrane), U (inner membrane) and W (outer membrane) are membranes, so 3.",
+      "P is a ribosome, made of RNA and protein, not phospholipid."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-28.jpg",
       "papers/biology/img/05A-Photosynthesis-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q12.jpg"
+     ]
     },
     {
      "id": "5A-Q12d(ii)",
@@ -44295,9 +45796,13 @@ window.BANK.biology = {
       "metres"
      ],
      "question": "A cell is 0.0085 cm long. Using the ratio of cell length to chloroplast length (garbled in the text), calculate the chloroplast length in metres to 2 significant figures.",
-     "status": "pending",
-     "answer": "Pending: the ratio is garbled in the text. If it is 17 : 1 (cell to chloroplast), the answer is 5.0 x 10^-6 m, but this must be checked against the original.",
-     "steps": [],
+     "status": "ready",
+     "answer": "7.3 um (7.3 x 10^-6 m)",
+     "steps": [
+      "Convert the cell length to micrometres: 0.0085 cm = 0.085 mm = 85 um.",
+      "The ratio cell : chloroplast is 11.7 : 1, so chloroplast = 85 / 11.7.",
+      "85 / 11.7 = 7.265 = 7.3 um to 2 significant figures."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-28.jpg",
       "papers/biology/img/05A-Photosynthesis-29.jpg"
@@ -44347,14 +45852,21 @@ window.BANK.biology = {
       "gradient"
      ],
      "question": "Calculate the rate of decrease of net carbon fixation at 12 00 hours, including units.",
-     "status": "pending",
-     "answer": "Pending: the net carbon fixation graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 2 a.u. hour^-1 (a decrease of about 2 arbitrary units per hour; accept about 1.5 to 2.5).",
+     "steps": [
+      "Draw a tangent to the curve at 12 00 hours, where net carbon fixation is about 20.5 a.u. and falling.",
+      "Choose two points on the tangent, e.g. about 22.5 a.u. at 11 00 hours and about 18.5 a.u. at 13 00 hours.",
+      "Gradient = (18.5 - 22.5) / (13 - 11) = -2 a.u. hour^-1.",
+      "So the rate of decrease is about 2 a.u. per hour."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-30.jpg",
       "papers/biology/img/05A-Photosynthesis-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q13.jpg"
+     ]
     },
     {
      "id": "5A-Q13b(ii)",
@@ -44383,7 +45895,9 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-30.jpg",
       "papers/biology/img/05A-Photosynthesis-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q13.jpg"
+     ]
     },
     {
      "id": "5A-Q13b(iii)",
@@ -44411,7 +45925,9 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-30.jpg",
       "papers/biology/img/05A-Photosynthesis-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q13.jpg"
+     ]
     },
     {
      "id": "5A-Q14a",
@@ -44550,16 +46066,23 @@ window.BANK.biology = {
       "plant growth"
      ],
      "question": "Explain the results of the investigation into the effect of ECM and AM mycorrhizal fungi on plant biomass at low and high nitrate concentrations, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of biomass change for ECM and AM fungi is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "ECM fungi raise biomass at both nitrate levels (+20% and +33%), whereas AM fungi give a loss at low nitrate (-3%) but a gain at high nitrate (+20%); the fungi supply nitrate that the plant needs to make proteins and chlorophyll.",
+     "steps": [
+      "The fungal hyphae increase the surface area for absorbing nitrate ions, which are supplied to the plant; nitrate gives nitrogen for amino acids, proteins (such as enzymes and RuBisCO) and chlorophyll, so photosynthesis and growth increase.",
+      "At high nitrate more nitrate is available and both fungi increase biomass (AM +20%, ECM +33%).",
+      "At low nitrate AM fungi give a 3% loss, because the plant gives the fungus sugars but gets too little nitrate in return, whereas ECM fungi still give +20%, so ECM fungi are more effective at supplying nitrate.",
+      "There is no control without fungi, so the result is only a comparison between the two fungal types."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-31.jpg",
       "papers/biology/img/05A-Photosynthesis-32.jpg",
       "papers/biology/img/05A-Photosynthesis-33.jpg",
       "papers/biology/img/05A-Photosynthesis-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q14.jpg"
+     ]
     },
     {
      "id": "5A-Q15a",
@@ -44636,16 +46159,23 @@ window.BANK.biology = {
       "amber light"
      ],
      "question": "Explain the results shown in the graphs for the mean rate of photosynthesis and mean leaf biomass of thale cress under blue, amber and red light.",
-     "status": "pending",
-     "answer": "Pending: the graphs of rate of photosynthesis and leaf biomass are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Red and blue light raise both the rate (3.7 and 3.3 a.u. against 2.55) and leaf biomass (0.123 and 0.125 g against 0.093 g) because chlorophyll absorbs them strongly; amber light is poorly absorbed, so rate (2.3 a.u.) and biomass (0.045 g) are lowest.",
+     "steps": [
+      "Chlorophyll absorbs blue and red wavelengths strongly, so more light energy is used in the light-dependent reactions, giving more ATP and reduced NADP and a higher rate of photosynthesis (red +45%, blue +29% compared with the control).",
+      "A higher rate means more glucose is made and used to build biomass, so leaf biomass is higher under red (0.123 g) and blue (0.125 g) than in the control (0.093 g).",
+      "Amber light (about 590 nm) is absorbed least by the pigments, so the rate falls slightly (2.3 against 2.55 a.u.).",
+      "Biomass in amber light is about half that of the control (0.045 against 0.093 g), because little carbon is fixed while respiration continues to use up sugars."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-35.jpg",
       "papers/biology/img/05A-Photosynthesis-36.jpg",
       "papers/biology/img/05A-Photosynthesis-37.jpg",
       "papers/biology/img/05A-Photosynthesis-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q15.jpg"
+     ]
     },
     {
      "id": "5A-Q15b(iii)",
@@ -44662,16 +46192,23 @@ window.BANK.biology = {
       "thale cress"
      ],
      "question": "Describe three conclusions from the table of pigment content of the leaves under the different wavelengths.",
-     "status": "pending",
-     "answer": "Pending: the table of pigment content is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Chlorophyll a is highest in red light (441) and blue light (412) and lowest in amber light (315); chlorophyll b changes little; anthocyanins are almost unchanged by wavelength.",
+     "steps": [
+      "Chlorophyll a content is higher in blue (412) and red (441) than in control light (382) and lower in amber (315).",
+      "Chlorophyll b is the same in blue as in control (148) and lower in red (133) and amber (125), so the chlorophyll a : b ratio is highest in red light (3.32 against 2.58 for control).",
+      "Anthocyanin content is very similar under all lights (71 to 79 ug per g), so the wavelength has little effect on it.",
+      "Amber light gives the lowest mass of every pigment."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-35.jpg",
       "papers/biology/img/05A-Photosynthesis-36.jpg",
       "papers/biology/img/05A-Photosynthesis-37.jpg",
       "papers/biology/img/05A-Photosynthesis-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q15-2.jpg"
+     ]
     },
     {
      "id": "5A-Q15b(iv)",
@@ -44718,16 +46255,22 @@ window.BANK.biology = {
       "stroma"
      ],
      "question": "Which row of the table shows where the light-dependent and light-independent reactions take place?",
-     "status": "pending",
-     "answer": "Pending: the table of locations is not in the text (the answer should be thylakoid membranes for LDR and stroma for LIR).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: thylakoid membranes (T) for the light-dependent reactions and stroma (R) for the light-independent reactions.",
+     "steps": [
+      "The light-dependent reactions need chlorophyll and the electron transport chain, which are in the thylakoid membranes (T).",
+      "The light-independent reactions take place in the stroma (R), which holds the RuBisCO and other Calvin cycle enzymes."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-39.jpg",
       "papers/biology/img/05A-Photosynthesis-40.jpg",
       "papers/biology/img/05A-Photosynthesis-41.jpg",
       "papers/biology/img/05A-Photosynthesis-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q16.jpg",
+      "papers/biology/fig/05A-Photosynthesis-Q16-2.jpg"
+     ]
     },
     {
      "id": "5A-Q16a(ii)",
@@ -44743,16 +46286,21 @@ window.BANK.biology = {
       "gradient"
      ],
      "question": "Where do hydrogen ions (protons) accumulate in the chloroplast diagram? Options: A Q, B R, C S, D W.",
-     "status": "pending",
-     "answer": "Pending: the labelled chloroplast diagram is not in the text (protons accumulate in the thylakoid space).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: S (the thylakoid).",
+     "steps": [
+      "Protons are pumped across the thylakoid membrane into the thylakoid space, where they accumulate.",
+      "S labels the thylakoid (lamella), not the starch grain (Q), stroma (R) or outer membrane (W)."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-39.jpg",
       "papers/biology/img/05A-Photosynthesis-40.jpg",
       "papers/biology/img/05A-Photosynthesis-41.jpg",
       "papers/biology/img/05A-Photosynthesis-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q16.jpg"
+     ]
     },
     {
      "id": "5A-Q16a(iii)",
@@ -44768,16 +46316,22 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "The diagram is 16 000 times larger than an actual chloroplast. Calculate the surface area of the actual chloroplast using surface area = 4 pi r^2, given as a whole number in m^2.",
-     "status": "pending",
-     "answer": "Pending: the radius of the chloroplast in the diagram is not given in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 104 um^2 for a measured radius of 4.6 cm on the printed diagram (the value depends on the radius measured).",
+     "steps": [
+      "Measure the radius of the chloroplast in the diagram with a ruler; the outer circle is about 9.2 cm across on an A4 page, so r = about 4.6 cm.",
+      "Actual radius = 4.6 cm / 16 000 = 2.875 x 10^-4 cm = 2.875 um (1 cm = 10 000 um).",
+      "Surface area = 4 x pi x r^2 = 4 x pi x 2.875^2 = 103.9 = 104 um^2."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-39.jpg",
       "papers/biology/img/05A-Photosynthesis-40.jpg",
       "papers/biology/img/05A-Photosynthesis-41.jpg",
       "papers/biology/img/05A-Photosynthesis-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q16.jpg"
+     ]
     },
     {
      "id": "5A-Q16a(iv)",
@@ -44854,16 +46408,23 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Show how the ratio of ATP used to reduced NADP used (1.5 : 1) for one glucose molecule can be calculated from the diagram.",
-     "status": "pending",
-     "answer": "Pending: the diagram of the light-independent reactions showing the ATP and reduced NADP counts is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "ATP used = 6 + 3 = 9 and reduced NADP used = 6, so 9 : 6 = 1.5 : 1.",
+     "steps": [
+      "The diagram shows 6 ATP converted to 6 ADP when 6 GP are changed to 6 GALP.",
+      "A further 3 ATP are used (3 ATP to 3 ADP) to regenerate 3 RuBP, so the total ATP used is 6 + 3 = 9.",
+      "Reduced NADP used is 6 (6 reduced NADP to 6 NADP).",
+      "Ratio ATP : reduced NADP = 9 : 6 = 1.5 : 1."
+     ],
      "images": [
       "papers/biology/img/05A-Photosynthesis-39.jpg",
       "papers/biology/img/05A-Photosynthesis-40.jpg",
       "papers/biology/img/05A-Photosynthesis-41.jpg",
       "papers/biology/img/05A-Photosynthesis-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q16-3.jpg"
+     ]
     },
     {
      "id": "5A-Q16b(iii)",
@@ -45060,14 +46621,20 @@ window.BANK.biology = {
       "forest"
      ],
      "question": "Complete the productivity diagram by writing the word or words for box A and box B.",
-     "status": "pending",
-     "answer": "Missing: the diagram with boxes A and B is not in the text, so the words cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Box A: gross primary productivity (GPP); Box B: respiration (energy lost by the plants as heat).",
+     "steps": [
+      "Photosynthesis feeds into box A, the total energy fixed by the plants, which is gross primary productivity.",
+      "Part of this energy is used by the plants in respiration and lost as heat (box B).",
+      "The remainder is stored as new biomass: NPP = GPP - respiration."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-001.jpg",
       "papers/biology/img/05BC-Ecology-Climate-002.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q1.jpg"
+     ]
     },
     {
      "id": "5BC-Q1b(i)",
@@ -45172,16 +46739,23 @@ window.BANK.biology = {
       "zonation"
      ],
      "question": "Explain how the distribution and abundance of Chthamalus and Balanus on the rock show that they occupy different niches.",
-     "status": "pending",
-     "answer": "Missing: the diagram showing the distribution of the two barnacle types on the rock is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Chthamalus lives high on the shore and Balanus lower down, with little overlap, so they use different parts of the habitat and are different niches; Balanus is more abundant overall.",
+     "steps": [
+      "Chthamalus (small oval barnacles) is found only on the upper shore, near the highest level the seawater reaches.",
+      "Balanus (larger rounded barnacles) is found on the middle and lower shore, down to the lowest water level, and is the more abundant species.",
+      "They overlap only in a small zone, so each lives in a different part of the habitat and tolerates different conditions, e.g. Chthamalus can survive longer out of water and drying, Balanus is limited by drying out higher up.",
+      "Different niches reduce competition between the two species."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-002.jpg",
       "papers/biology/img/05BC-Ecology-Climate-003.jpg",
       "papers/biology/img/05BC-Ecology-Climate-004.jpg",
       "papers/biology/img/05BC-Ecology-Climate-005.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q2.jpg"
+     ]
     },
     {
      "id": "5BC-Q2b(i)",
@@ -45198,16 +46772,23 @@ window.BANK.biology = {
       "sample size"
      ],
      "question": "Comment on the reliability of the conclusions from the study of the surfaces on which larvae settled (graph).",
-     "status": "pending",
-     "answer": "Missing: the graph of larval settlement on each surface type is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The conclusions are only partly reliable: rock with barnacles clearly has the most settled larvae, but stones and bare rock overlap, and there is no information on sample size, what the error bars show, or a statistical test.",
+     "steps": [
+      "Means: rock with barnacles about 49, bare rock about 29, stones about 20 larvae per unit area.",
+      "The error bars for rock with barnacles (about 43 to 55) do not overlap with those of the other two surfaces, so the difference is probably real.",
+      "The error bars of stones (about 16 to 24) and bare rock (about 24 to 34) just touch, so it cannot be concluded that bare rock attracts more larvae than stones.",
+      "It is not stated what the error bars show (SD or range), how many replicates were used, or whether a statistical test (e.g. t-test) was done, and the data come from one study only."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-002.jpg",
       "papers/biology/img/05BC-Ecology-Climate-003.jpg",
       "papers/biology/img/05BC-Ecology-Climate-004.jpg",
       "papers/biology/img/05BC-Ecology-Climate-005.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q2-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q2b(ii)",
@@ -45240,7 +46821,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-004.jpg",
       "papers/biology/img/05BC-Ecology-Climate-005.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q2-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q3a(i)",
@@ -45257,16 +46840,23 @@ window.BANK.biology = {
       "factor"
      ],
      "question": "Which row of the table shows the type of factor that affected the plant species in two of these habitats?",
-     "status": "pending",
-     "answer": "Missing: the table with the rows of factor types is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: biotic factor for both.",
+     "steps": [
+      "Cutting the field regularly is the action of a living organism (human activity), so it is a biotic factor.",
+      "Competition with trees for water is competition between living organisms, so it is also a biotic factor.",
+      "Only row D has biotic for both."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-005.jpg",
       "papers/biology/img/05BC-Ecology-Climate-006.jpg",
       "papers/biology/img/05BC-Ecology-Climate-007.jpg",
       "papers/biology/img/05BC-Ecology-Climate-008.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q3.jpg",
+      "papers/biology/fig/05BC-Ecology-Climate-Q3-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q3a(ii)",
@@ -45283,16 +46873,22 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "What is the percentage increase in the number of moss species between regularly cut fields and uncut fields? Options A 23.3, B 70.0, C 233.3, D 333.3.",
-     "status": "pending",
-     "answer": "Missing: the moss species numbers are read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 233.3",
+     "steps": [
+      "Moss in the regularly cut fields = 0.3 species; in uncut fields = 1.0.",
+      "Increase = 1.0 - 0.3 = 0.7.",
+      "Percentage increase = 0.7 / 0.3 x 100 = 233.3%."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-005.jpg",
       "papers/biology/img/05BC-Ecology-Climate-006.jpg",
       "papers/biology/img/05BC-Ecology-Climate-007.jpg",
       "papers/biology/img/05BC-Ecology-Climate-008.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q3.jpg"
+     ]
     },
     {
      "id": "5BC-Q3a(iii)",
@@ -45323,7 +46919,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-007.jpg",
       "papers/biology/img/05BC-Ecology-Climate-008.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q3.jpg"
+     ]
     },
     {
      "id": "5BC-Q3b(i)",
@@ -45340,16 +46938,21 @@ window.BANK.biology = {
       "frequency"
      ],
      "question": "Which option describes what P represents on the genome size graph? A maximum on a bar chart, B maximum on a histogram, C mode on a bar chart, D mode on a histogram.",
-     "status": "pending",
-     "answer": "Missing: the genome size graph showing P is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: the mode genome size on a histogram.",
+     "steps": [
+      "P is the tallest bar, so it is the most frequent genome size, the mode.",
+      "The bars touch and the x-axis is a continuous variable (increase in genome size), so this is a histogram, not a bar chart."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-005.jpg",
       "papers/biology/img/05BC-Ecology-Climate-006.jpg",
       "papers/biology/img/05BC-Ecology-Climate-007.jpg",
       "papers/biology/img/05BC-Ecology-Climate-008.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q3-3.jpg"
+     ]
     },
     {
      "id": "5BC-Q3b(ii)",
@@ -45366,16 +46969,22 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Calculate the frequency of the genome size missing from the graph for class 2 mosses.",
-     "status": "pending",
-     "answer": "Missing: the frequencies shown on the class 2 moss graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "2",
+     "steps": [
+      "Class 1 mosses: 1 + 4 + 9 + 7 = 21 species.",
+      "So class 2 has 30 - 21 = 9 species.",
+      "Class 2 bars shown: 1 + 4 + 2 = 7, so the missing frequency is 9 - 7 = 2."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-005.jpg",
       "papers/biology/img/05BC-Ecology-Climate-006.jpg",
       "papers/biology/img/05BC-Ecology-Climate-007.jpg",
       "papers/biology/img/05BC-Ecology-Climate-008.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q3-3.jpg"
+     ]
     },
     {
      "id": "5BC-Q3b(iii)",
@@ -45423,16 +47032,21 @@ window.BANK.biology = {
       "polyploidy"
      ],
      "question": "Give the evidence from the graphs that supports the suggestion that the chromosomes in class 2 mosses are found in pairs.",
-     "status": "pending",
-     "answer": "Missing: the evidence is shown in the genome size graphs, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The mean genome size of class 2 mosses (0.920 a.u.) is about twice that of class 1 mosses (0.449 a.u.), so the chromosome number (and DNA) is about doubled, as expected if they are in pairs.",
+     "steps": [
+      "The ratio of class 1 to class 2 genome size is about 0.49 : 1, so class 2 is about 2 times larger.",
+      "A doubled amount of DNA fits with class 2 having two sets of chromosomes, which are found in pairs."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-005.jpg",
       "papers/biology/img/05BC-Ecology-Climate-006.jpg",
       "papers/biology/img/05BC-Ecology-Climate-007.jpg",
       "papers/biology/img/05BC-Ecology-Climate-008.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q3-3.jpg"
+     ]
     },
     {
      "id": "5BC-Q4a",
@@ -45449,15 +47063,22 @@ window.BANK.biology = {
       "arctic"
      ],
      "question": "Which row of the table describes the types of adaptation of polar bears?",
-     "status": "pending",
-     "answer": "Missing: the table of adaptation rows is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: thick fur coat is anatomical, hunting by sitting on ice is behavioural, and producing metabolic water is physiological.",
+     "steps": [
+      "A thick fur coat is a physical structure, so it is an anatomical adaptation.",
+      "Sitting on the ice to wait for seals is something the bear does, so it is behavioural.",
+      "Producing metabolic water is a metabolic process, so it is physiological.",
+      "Only row D has all three in the correct columns."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-008.jpg",
       "papers/biology/img/05BC-Ecology-Climate-009.jpg",
       "papers/biology/img/05BC-Ecology-Climate-010.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q4.jpg"
+     ]
     },
     {
      "id": "5BC-Q4b",
@@ -45628,9 +47249,15 @@ window.BANK.biology = {
       "effectiveness"
      ],
      "question": "Determine the effectiveness of painting stripes on cattle in reducing biting flies, using the graph and both tables.",
-     "status": "pending",
-     "answer": "Missing: the graph and both tables of fly-repelling behaviour data are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Painting black and white stripes is effective, cutting biting flies by about half, but painting black stripes only is not.",
+     "steps": [
+      "Mean flies on body and legs: unpainted about 128, black and white stripes about 58 (about 55% fewer), black stripes about 111 (about 13% fewer).",
+      "The error bars of black and white stripes (about 45 to 68) do not overlap those of unpainted (about 114 to 144), so the reduction is probably significant, but black stripes (about 95 to 132) overlap unpainted, so there is probably no real difference.",
+      "Table 1 totals: 1971 flies on unpainted cattle, 941 on black and white (52% fewer) and 1707 on black stripes (13% fewer); black and white stripes cut flies on the body by 65% (231 v 662) but on the legs by only 46% (710 v 1309).",
+      "Table 2: cattle with black and white stripes flicked tails less (42 v 54) and stamped less (10 v 16), so they were less troubled by flies, whereas black-striped cattle behaved like unpainted cattle (55 and 16); skin twitching was slightly higher in black and white (8 v 5).",
+      "So the white stripes (contrast) seem to be needed; limitations are that only black cattle were used, the numbers of cattle and the length of the trial are not stated, and legs still had many flies."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-010.jpg",
       "papers/biology/img/05BC-Ecology-Climate-011.jpg",
@@ -45638,7 +47265,10 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-013.jpg",
       "papers/biology/img/05BC-Ecology-Climate-014.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q5.jpg",
+      "papers/biology/fig/05BC-Ecology-Climate-Q5-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q6a",
@@ -45864,15 +47494,21 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Land occupies 149 million km2 of Earth's surface; 71% is habitable and some is used for food production. Calculate the area used for food production, in standard form.",
-     "status": "pending",
-     "answer": "Missing: the fraction of habitable land used for food production is not in the text. Habitable land is 1.06 x 10^8 km2 (149 million x 0.71).",
-     "steps": [],
+     "status": "ready",
+     "answer": "5.3 x 10^7 km^2",
+     "steps": [
+      "Habitable land = 71% of 149 million km^2 = 149 x 0.71 = 105.8 million km^2.",
+      "The pie chart shows 50% of habitable land is used for food production.",
+      "Area = 105.8 x 0.50 = 52.9 million km^2 = 5.3 x 10^7 km^2 (5.29 x 10^7)."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-016.jpg",
       "papers/biology/img/05BC-Ecology-Climate-017.jpg",
       "papers/biology/img/05BC-Ecology-Climate-018.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q7.jpg"
+     ]
     },
     {
      "id": "5BC-Q7b(iii)",
@@ -45889,15 +47525,21 @@ window.BANK.biology = {
       "impact"
      ],
      "question": "Estimate the effect of food production on the ratio of biodiversity of mammals.",
-     "status": "pending",
-     "answer": "Missing: the diagram showing the impact of food production on the mammal biodiversity ratio is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 94 : 6 (about 16 : 1), related to food production : not related.",
+     "steps": [
+      "The pie chart for biodiversity of mammals is divided into a large dark sector (related to food production) and a small pale sector (not related).",
+      "The pale sector is about 21 degrees, which is about 6% of 360 degrees.",
+      "So about 94% is related and 6% is not, a ratio of about 94 : 6, or about 16 : 1."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-016.jpg",
       "papers/biology/img/05BC-Ecology-Climate-017.jpg",
       "papers/biology/img/05BC-Ecology-Climate-018.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q7.jpg"
+     ]
     },
     {
      "id": "5BC-Q7c",
@@ -45914,15 +47556,23 @@ window.BANK.biology = {
       "area per kilogram"
      ],
      "question": "Explain how food production could be made more sustainable, using the diagram of land area used per kilogram of food products and own knowledge.",
-     "status": "pending",
-     "answer": "Missing: the diagram of land area used per kilogram for each food product is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Food production could be made more sustainable by eating less beef and lamb and more plant foods, chicken, fish and eggs, which need far less land, together with other measures such as better yields and less waste.",
+     "steps": [
+      "Beef (326 m^2) and lamb/mutton (370 m^2) need over 25 times more land per kg than chicken (12 m^2) and about 100 times more than most crops such as wheat (4), rice (3) and potatoes (1), so reducing meat from ruminants cuts land use.",
+      "Using less land leaves more habitat, reducing deforestation and loss of biodiversity, and keeps forests that store carbon; ruminants also release methane, so fewer cattle and sheep reduce greenhouse gases.",
+      "Eating at a lower trophic level is more efficient because only about 10% of energy passes to the next trophic level, so plant crops feed more people per hectare.",
+      "Sustainable farming methods: crop rotation or legumes to reduce fertiliser, integrated pest management, higher yielding or GM crop varieties, less food waste, and renewable energy.",
+      "Evaluation: some animal products supply protein and vitamins, so a balance with plant proteins such as soybeans is needed, and fish farming should not pollute water."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-016.jpg",
       "papers/biology/img/05BC-Ecology-Climate-017.jpg",
       "papers/biology/img/05BC-Ecology-Climate-018.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q7-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q8a(i)",
@@ -45954,7 +47604,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-022.jpg",
       "papers/biology/img/05BC-Ecology-Climate-023.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q8.jpg"
+     ]
     },
     {
      "id": "5BC-Q8a(ii)",
@@ -45971,9 +47623,13 @@ window.BANK.biology = {
       "population"
      ],
      "question": "Calculate the percentage decrease in the number of moose from 1994 to 2016, using the graph.",
-     "status": "pending",
-     "answer": "Missing: the moose numbers in 1994 and 2016 are read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 55% decrease.",
+     "steps": [
+      "Number of moose in 1994 = about 7.6 x 10^3; in 2016 = about 3.4 x 10^3.",
+      "Decrease = 7.6 - 3.4 = 4.2 (x 10^3).",
+      "Percentage decrease = 4.2 / 7.6 x 100 = 55%."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-019.jpg",
       "papers/biology/img/05BC-Ecology-Climate-020.jpg",
@@ -45981,7 +47637,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-022.jpg",
       "papers/biology/img/05BC-Ecology-Climate-023.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q8.jpg"
+     ]
     },
     {
      "id": "5BC-Q8a(iii)",
@@ -45998,9 +47656,14 @@ window.BANK.biology = {
       "relationship"
      ],
      "question": "Sketch a graph to show the relationship suggested between global warming and the decrease in the number of moose from 1994 to 2016.",
-     "status": "pending",
-     "answer": "Missing: a drawn sketch cannot be given in text; expected is a graph with temperature rising and moose numbers falling, with labelled axes.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A graph with a downward-sloping line: moose numbers fall as global temperature rises (a negative correlation).",
+     "steps": [
+      "Label the x-axis with global (mean) temperature or year, rising to the right, and the y-axis with number of moose.",
+      "Draw a line or curve that starts high on the left and slopes down to the right, showing moose numbers decreasing as temperature rises.",
+      "If time is used on the x-axis, show two lines on the same axes: temperature rising and moose number falling.",
+      "Add units (degrees C and number of moose x 10^3)."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-019.jpg",
       "papers/biology/img/05BC-Ecology-Climate-020.jpg",
@@ -46008,7 +47671,10 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-022.jpg",
       "papers/biology/img/05BC-Ecology-Climate-023.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q8.jpg",
+      "papers/biology/fig/05BC-Ecology-Climate-Q8-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q8b(i)",
@@ -46025,9 +47691,13 @@ window.BANK.biology = {
       "parasites"
      ],
      "question": "Calculate the percentage of moose that have 50 000 or more ticks on their bodies, using the frequency table.",
-     "status": "pending",
-     "answer": "Missing: the frequency distribution table of tick numbers is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "19%",
+     "steps": [
+      "Total moose = 32 + 46 + 41 + 32 + 22 + 15 + 9 + 4 + 4 + 3 + 6 = 214.",
+      "Moose with 50 000 or more ticks = 15 + 9 + 4 + 4 + 3 + 6 = 41.",
+      "Percentage = 41 / 214 x 100 = 19.2% = 19%."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-019.jpg",
       "papers/biology/img/05BC-Ecology-Climate-020.jpg",
@@ -46035,7 +47705,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-022.jpg",
       "papers/biology/img/05BC-Ecology-Climate-023.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q8-3.jpg"
+     ]
     },
     {
      "id": "5BC-Q8b(ii)",
@@ -46052,9 +47724,16 @@ window.BANK.biology = {
       "decline"
      ],
      "question": "Explain how global warming might affect the life cycle of ticks and result in the decline of moose, using all the information including the tick life-cycle diagram.",
-     "status": "pending",
-     "answer": "Missing: the tick life-cycle diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Warmer winters mean less snow, so more tick larvae and engorged females survive; more ticks per moose cause blood loss and fur loss, so moose are weakened and die.",
+     "steps": [
+      "Global warming gives shorter, milder winters with less snow cover, so more larvae can climb vegetation and attach to moose in autumn (they cannot if covered in snow).",
+      "In early spring more engorged females drop onto ground without snow, so fewer die and more survive to lay eggs in June, so the tick population increases.",
+      "Warmer temperatures may lengthen the active season and speed up development, so more ticks feed on each moose; the table shows about 19% of moose already carry 50 000 or more ticks.",
+      "Each tick removes 200 to 600 times its body mass in blood, so heavily infested moose lose much blood, become anaemic and weak.",
+      "Irritation makes moose scratch on trees and lose large clumps of fur, so they lose insulation, lose heat in winter and use more energy.",
+      "Weakened moose are less likely to survive or breed (calf survival falls), so the number of moose declines, as in the graph (from 7.6 to 3.4 x 10^3)."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-019.jpg",
       "papers/biology/img/05BC-Ecology-Climate-020.jpg",
@@ -46062,7 +47741,10 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-022.jpg",
       "papers/biology/img/05BC-Ecology-Climate-023.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q8-3.jpg",
+      "papers/biology/fig/05BC-Ecology-Climate-Q8-4.jpg"
+     ]
     },
     {
      "id": "5BC-Q9a(i)",
@@ -46140,16 +47822,22 @@ window.BANK.biology = {
       "before and after"
      ],
      "question": "Determine the effect of the volcanic eruption on environmental temperature, using the graph.",
-     "status": "pending",
-     "answer": "Missing: the graph of temperature before and after the eruption is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The eruption caused a temporary fall in temperature of about 0.3 C, lowest (about -0.28 C) about 1 year after the eruption, returning to near 0 by about 3 years.",
+     "steps": [
+      "Before the eruption the temperature change varies between about -0.1 and +0.1 C.",
+      "After the eruption (time 0) it falls to a minimum of about -0.28 C at about 1 year, about 0.3 to 0.4 C lower than before.",
+      "It then rises again and is back to about 0 C by about 3 years, so the cooling effect lasts only a few years."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-023.jpg",
       "papers/biology/img/05BC-Ecology-Climate-024.jpg",
       "papers/biology/img/05BC-Ecology-Climate-025.jpg",
       "papers/biology/img/05BC-Ecology-Climate-026.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q9.jpg"
+     ]
     },
     {
      "id": "5BC-Q9b(ii)",
@@ -46166,16 +47854,23 @@ window.BANK.biology = {
       "atmosphere"
      ],
      "question": "Explain the results shown in the graph, given that sulfur dioxide and ash particles reduce the light passing through the atmosphere.",
-     "status": "pending",
-     "answer": "Missing: the graph results (the temperature change) are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Ash and sulfur dioxide (sulfate aerosols) reflect and scatter sunlight, so less light and heat reach the Earth's surface and the temperature falls; as the particles settle out within a few years, temperature recovers.",
+     "steps": [
+      "The ash and sulfur dioxide spread through the atmosphere and reflect or scatter sunlight.",
+      "Less solar radiation reaches the Earth's surface, so less heat is absorbed and the environmental temperature falls (minimum about -0.28 C at about 1 year).",
+      "Less light also reduces photosynthesis, so less carbon dioxide is removed from the air.",
+      "Over about 3 years the particles fall out or are washed out of the atmosphere, so more light reaches the surface and temperature returns to normal."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-023.jpg",
       "papers/biology/img/05BC-Ecology-Climate-024.jpg",
       "papers/biology/img/05BC-Ecology-Climate-025.jpg",
       "papers/biology/img/05BC-Ecology-Climate-026.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q9.jpg"
+     ]
     },
     {
      "id": "5BC-Q9b(iii)",
@@ -46223,16 +47918,22 @@ window.BANK.biology = {
       "discussion"
      ],
      "question": "Discuss the possible effects of volcanic eruptions on climate change, using the CO2 graph for 1958 to 2004 and the eruptions in 1963, 1980, 1982 and 1991.",
-     "status": "pending",
-     "answer": "Missing: the graph of CO2 levels from 1958 to 2004 is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Eruptions cause short cooling but do not change the rise in CO2: the CO2 graph shows no obvious change at 1963, 1980, 1982 or 1991, and the steady rise is due to human activity, so eruptions have little long-term effect on climate change.",
+     "steps": [
+      "The CO2 level rises steadily from about 315 to about 387 a.u. between 1958 and 2004, with no clear dip or rise at the eruption years (1963, 1980, 1982, 1991).",
+      "One eruption releases only 5 x 10^7 tons of CO2, whereas human activity releases 3.5 x 10^10 tons a year (700 times more), so volcanoes add little to the CO2 rise.",
+      "Eruptions can cool the climate by about 0.3 C for about 3 years, but this effect is short-lived and does not offset long-term warming caused by the increase in CO2 from human activities."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-023.jpg",
       "papers/biology/img/05BC-Ecology-Climate-024.jpg",
       "papers/biology/img/05BC-Ecology-Climate-025.jpg",
       "papers/biology/img/05BC-Ecology-Climate-026.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q9-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q10a(i)",
@@ -46248,14 +47949,15 @@ window.BANK.biology = {
       "statements",
       "glucose monomer"
      ],
-     "question": "How many of the four statements describe glycogen? 1 monomer is glucose; 2 made from two different polymers; 3 has 1,4 and 1,6 glycosidic bonds; 4 is insoluble. Options A 1, B 2, C 3, D 4.",
+     "question": "How many of the four statements describe glycogen? 1 The monomer is beta glucose; 2 It is made from two different types of polymer; 3 There are 1,4 and 1,6 glycosidic bonds; 4 It is insoluble. Options A 1, B 2, C 3, D 4.",
      "status": "ready",
-     "answer": "C: 3 (statements 1, 3 and 4).",
+     "answer": "B: 2 (statements 3 and 4).",
      "steps": [
-      "Statement 1 is true: glycogen is made of glucose monomers.",
-      "Statement 2 is false: glycogen is a single type of polymer of glucose.",
+      "Statement 1 is false: the monomer of glycogen is alpha glucose, not beta glucose.",
+      "Statement 2 is false: glycogen is a single polymer of alpha glucose.",
       "Statement 3 is true: 1,4 bonds form the chains and 1,6 bonds form the branches.",
-      "Statement 4 is true: glycogen is insoluble, so it stores glucose without changing water potential much. Total correct = 3."
+      "Statement 4 is true: glycogen is insoluble, so it stores glucose without changing water potential.",
+      "Two statements are correct, so the answer is B."
      ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-026.jpg",
@@ -46281,9 +47983,14 @@ window.BANK.biology = {
       "hydrolysis"
      ],
      "question": "Explain the changes in the concentrations of glycogen and glucose, using the graph.",
-     "status": "pending",
-     "answer": "Missing: the graph of glycogen and plasma glucose concentrations over 48 hours is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Liver glycogen falls from about 3500 to about 2300 umol g^-1 over 48 h while plasma glucose rises from about 5 to about 200 umol cm^-3, because glycogen is broken down to glucose that enters the plasma.",
+     "steps": [
+      "Glycogen in the liver falls, e.g. from about 3500 umol g^-1 at 0 h to about 2500 at 30 h and about 2300 at 48 h.",
+      "At the same time plasma glucose rises from about 5 to about 150 umol cm^-3 at 30 h and about 200 at 48 h.",
+      "The glycogen is hydrolysed (glycogenolysis) to glucose, which is released from the liver into the plasma.",
+      "The glucose raises the solute concentration of the blood, which lowers its freezing point and protects against freezing at -16 C."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-026.jpg",
       "papers/biology/img/05BC-Ecology-Climate-027.jpg",
@@ -46291,7 +47998,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-029.jpg",
       "papers/biology/img/05BC-Ecology-Climate-030.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q10.jpg"
+     ]
     },
     {
      "id": "5BC-Q10b(i)",
@@ -46308,9 +48017,13 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the percentage difference in the mean concentration of urea in plasma of Alaska wood frogs compared with Ohio wood frogs, using the table.",
-     "status": "pending",
-     "answer": "Missing: the mean urea concentration values in the table are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "279%",
+     "steps": [
+      "Difference = 106 - 28 = 78 umol cm^-3.",
+      "Percentage difference compared with Ohio = 78 / 28 x 100 = 278.6%.",
+      "Alaska frogs have about 279% more urea (about 3.8 times as much)."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-026.jpg",
       "papers/biology/img/05BC-Ecology-Climate-027.jpg",
@@ -46318,7 +48031,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-029.jpg",
       "papers/biology/img/05BC-Ecology-Climate-030.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q10-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q10b(ii)",
@@ -46335,9 +48050,13 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Explain why the data for the Alaska wood frogs are more reliable than the data for the Ohio wood frogs, using the standard deviations in the table.",
-     "status": "pending",
-     "answer": "Missing: the standard deviation values for the two groups are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The Alaska data are more reliable because their standard deviation is a smaller proportion of the mean (10 / 106 = 9.4%) than for Ohio (5 / 28 = 17.9%), so the values are less spread out.",
+     "steps": [
+      "Standard deviation shows the spread of the data around the mean; a smaller spread relative to the mean means more reliable data.",
+      "Alaska: 10 / 106 x 100 = 9.4% of the mean.",
+      "Ohio: 5 / 28 x 100 = 17.9% of the mean, almost twice as variable, so the Ohio data are less reliable even though its absolute SD is lower."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-026.jpg",
       "papers/biology/img/05BC-Ecology-Climate-027.jpg",
@@ -46345,7 +48064,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-029.jpg",
       "papers/biology/img/05BC-Ecology-Climate-030.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q10-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q10b(iii)",
@@ -46459,16 +48180,22 @@ window.BANK.biology = {
       "diagram a"
      ],
      "question": "Calculate the percentage of biomass in organisms belonging to the domain Eukarya, using diagram A.",
-     "status": "pending",
-     "answer": "Missing: the biomass values for each domain in Voronoi diagram A are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "86%",
+     "steps": [
+      "Eukarya in diagram A: plants 450 + fungi 12 + protists 4 + animals 2 = 468 Gt C.",
+      "Total biomass = 7 (archaea) + 0.2 (viruses) + 70 (bacteria) + 468 = 545.2 Gt C.",
+      "Percentage = 468 / 545.2 x 100 = 85.8% = 86%."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-030.jpg",
       "papers/biology/img/05BC-Ecology-Climate-031.jpg",
       "papers/biology/img/05BC-Ecology-Climate-032.jpg",
       "papers/biology/img/05BC-Ecology-Climate-033.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q11.jpg"
+     ]
     },
     {
      "id": "5BC-Q11b(ii)",
@@ -46499,7 +48226,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-032.jpg",
       "papers/biology/img/05BC-Ecology-Climate-033.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q11.jpg"
+     ]
     },
     {
      "id": "5BC-Q11b(iii)",
@@ -46530,7 +48259,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-032.jpg",
       "papers/biology/img/05BC-Ecology-Climate-033.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q11.jpg"
+     ]
     },
     {
      "id": "5BC-Q11c",
@@ -46547,16 +48278,23 @@ window.BANK.biology = {
       "environment"
      ],
      "question": "Explain the distribution of biomass in marine, deep underground and land environments, using the Voronoi diagram and the graph.",
-     "status": "pending",
-     "answer": "Missing: the Voronoi diagram for the three environments and the graph of proportions are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Land holds most biomass (470 Gt C) because plants, which are 450 Gt C and all on land, dominate; deep underground biomass (70 Gt C) is almost all bacteria and archaea; marine biomass is only 6 Gt C and mostly animals and protists.",
+     "steps": [
+      "Land has the most biomass (470 Gt C, about 86% of all biomass) because plants, the producers, make up 100% of plant biomass (450 Gt C) there, with plenty of light, water and carbon dioxide for photosynthesis, and fungi are about 97% on land.",
+      "Marine biomass is only 6 Gt C even though oceans are large, because the producers there are tiny phytoplankton with a short life and fast turnover, so little biomass exists at any one time; animals (about 76%) and protists (about 56%) are mostly marine consumers.",
+      "Deep underground biomass is 70 Gt C and about 88% of bacteria and archaea are found there; there is no light so no photosynthesis, so these prokaryotes use chemical energy or organic matter (chemosynthesis or decomposition) and live slowly in small numbers.",
+      "No plants are found underground or in deep water because they need light, and bacteria and archaea are found in all three environments."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-030.jpg",
       "papers/biology/img/05BC-Ecology-Climate-031.jpg",
       "papers/biology/img/05BC-Ecology-Climate-032.jpg",
       "papers/biology/img/05BC-Ecology-Climate-033.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q11-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q12a",
@@ -46666,16 +48404,22 @@ window.BANK.biology = {
       "carbon dioxide"
      ],
      "question": "Which row of the table shows the reactions that combine hydrogen with carbon dioxide and release oxygen into the atmosphere?",
-     "status": "pending",
-     "answer": "Missing: the table rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: hydrogen is combined with carbon dioxide in the light-independent reactions, and oxygen is released in the light-dependent reactions.",
+     "steps": [
+      "Oxygen comes from photolysis of water, which occurs in the light-dependent reactions.",
+      "Hydrogen (as reduced NADP) is combined with carbon dioxide in the Calvin cycle, the light-independent reactions.",
+      "Only row C has both correct."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-033.jpg",
       "papers/biology/img/05BC-Ecology-Climate-034.jpg",
       "papers/biology/img/05BC-Ecology-Climate-035.jpg",
       "papers/biology/img/05BC-Ecology-Climate-036.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q12.jpg"
+     ]
     },
     {
      "id": "5BC-Q12c",
@@ -46692,16 +48436,25 @@ window.BANK.biology = {
       "human needs"
      ],
      "question": "Discuss the considerations for deciding whether large-scale seaweed production is suitable in Europe, using the two diagrams and own knowledge.",
-     "status": "pending",
-     "answer": "Missing: the two diagrams (suspended cultivation and the factors in managing conflict) are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Large-scale seaweed farming could be suitable if the benefits (carbon absorption, food and raw materials, jobs, habitat) outweigh the costs (shading, noise, labour, transport and processing) after careful environmental assessment.",
+     "steps": [
+      "Benefits: seaweed absorbs carbon dioxide by photosynthesis, which reduces atmospheric CO2; it needs no fresh water, fertiliser or farmland and gives food, feed and fuel; the suspended rows act as an artificial habitat that shelters fish and invertebrates and can increase biodiversity.",
+      "Labour: it provides jobs and income, but labour is costly in Europe and harvesting needs people, so it may be less economic than in Asia.",
+      "Absorption of light: dense rows shade the water below, reducing photosynthesis by phytoplankton and sea grasses and affecting the food chain.",
+      "Noise from boats and machinery can disturb marine animals such as fish and whales, and lines can entangle animals; the seaweed may also remove nutrients or spread disease.",
+      "Transport and processing need energy and facilities, which add costs and carbon emissions, so sites should be near ports and processing plants.",
+      "Conclusion: weigh human needs (food, jobs, carbon capture) against conservation by carrying out environmental impact assessments, small trials, monitoring and licensing before expanding."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-033.jpg",
       "papers/biology/img/05BC-Ecology-Climate-034.jpg",
       "papers/biology/img/05BC-Ecology-Climate-035.jpg",
       "papers/biology/img/05BC-Ecology-Climate-036.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q12-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q13a(i)",
@@ -46718,9 +48471,13 @@ window.BANK.biology = {
       "sand dunes"
      ],
      "question": "What is the difference in hydrogen ion concentration between a fore dune and a grey dune? Options: A 2 times more, B 2 times fewer, C 100 times more, D 100 times fewer.",
-     "status": "pending",
-     "answer": "Missing: the pH values of the fore dune and grey dune are in the table, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: a fore dune has 100 times fewer hydrogen ions than a grey dune.",
+     "steps": [
+      "pH of fore dune = 8.5; pH of grey dune = 6.5, a difference of 2 pH units.",
+      "Hydrogen ion concentration = 10^-pH, so fore dune is 10^-8.5 and grey dune is 10^-6.5.",
+      "The ratio is 10^-8.5 / 10^-6.5 = 10^-2 = 1/100, so the fore dune has 100 times fewer."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-036.jpg",
       "papers/biology/img/05BC-Ecology-Climate-037.jpg",
@@ -46728,7 +48485,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-039.jpg",
       "papers/biology/img/05BC-Ecology-Climate-040.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q13.jpg"
+     ]
     },
     {
      "id": "5BC-Q13a(ii)",
@@ -46745,9 +48504,13 @@ window.BANK.biology = {
       "sand dunes"
      ],
      "question": "Calculate the percentage increase in the number of plant species on the grey dune compared with the fore dune.",
-     "status": "pending",
-     "answer": "Missing: the species numbers for each dune are in the table, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "650%",
+     "steps": [
+      "Species on the grey dune = 15; on the fore dune = 2.",
+      "Increase = 15 - 2 = 13.",
+      "Percentage increase = 13 / 2 x 100 = 650%."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-036.jpg",
       "papers/biology/img/05BC-Ecology-Climate-037.jpg",
@@ -46755,7 +48518,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-039.jpg",
       "papers/biology/img/05BC-Ecology-Climate-040.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q13.jpg"
+     ]
     },
     {
      "id": "5BC-Q13a(iii)",
@@ -46772,9 +48537,16 @@ window.BANK.biology = {
       "explanation"
      ],
      "question": "Explain the changes in the sand dunes with distance from the sea, using the table.",
-     "status": "pending",
-     "answer": "Missing: the sand dune table with pH and species data is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The dunes show primary succession: pioneer plants on the fore dune add organic matter, which deepens and enriches the soil and lowers its pH, so conditions become less harsh and more plant species can grow with distance from the sea.",
+     "steps": [
+      "Close to the sea (fore dune) conditions are harsh: soil depth <0.5 cm, <1.0% organic matter, pH 8.5, over 97% bare ground, and only 2 species (pioneers such as sea rocket and saltwort that tolerate salt, wind and low nutrients).",
+      "The pioneers die and decompose, so organic matter increases (to 5.0% on the grey dune) and soil depth increases (8.0 cm); this holds more water and mineral ions.",
+      "Marram grass and other plants stabilise the sand, so bare ground falls from over 97% to 10% as plant cover increases.",
+      "Decomposition releases organic acids and carbonates are leached, so the pH falls from 8.5 to 6.5.",
+      "The improved soil and shelter allow more species to survive, so the number of species rises from 2 to 15 (650% increase), and these species outcompete the pioneers, giving a change in species at each stage towards a climax community of meadow plants.",
+      "Dunes further from the sea are older, so there has been more time for succession."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-036.jpg",
       "papers/biology/img/05BC-Ecology-Climate-037.jpg",
@@ -46782,7 +48554,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-039.jpg",
       "papers/biology/img/05BC-Ecology-Climate-040.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q13.jpg"
+     ]
     },
     {
      "id": "5BC-Q13b(i)",
@@ -46799,9 +48573,14 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Describe the conclusions that can be drawn from the graph of mean NPP above and below ground for fixed, semi-fixed and shifting dunes.",
-     "status": "pending",
-     "answer": "Missing: the graph of mean NPP values for the three dune types is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "NPP is highest on fixed dunes and lowest on shifting dunes, and above-ground NPP is about 3 times the below-ground NPP in each type.",
+     "steps": [
+      "Fixed dunes have the highest NPP: about 220 g m^-2 yr^-1 above ground and 70 below ground, then semi-fixed (about 125 and 45), then shifting (about 10 and 3).",
+      "NPP falls as the dunes become less stable, so stable, vegetated dunes support much more plant growth (about 22 times the above-ground NPP of shifting dunes).",
+      "In each type of dune, NPP is greater above ground than below ground (by about 3 times).",
+      "The error bars do not overlap between dune types, so the differences are likely to be real."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-036.jpg",
       "papers/biology/img/05BC-Ecology-Climate-037.jpg",
@@ -46809,7 +48588,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-039.jpg",
       "papers/biology/img/05BC-Ecology-Climate-040.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q13-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q13b(ii)",
@@ -46842,7 +48623,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-039.jpg",
       "papers/biology/img/05BC-Ecology-Climate-040.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q13-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q14a(i)",
@@ -46872,7 +48655,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-041.jpg",
       "papers/biology/img/05BC-Ecology-Climate-042.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q14.jpg"
+     ]
     },
     {
      "id": "5BC-Q14a(ii)",
@@ -46902,7 +48687,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-041.jpg",
       "papers/biology/img/05BC-Ecology-Climate-042.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q14.jpg"
+     ]
     },
     {
      "id": "5BC-Q14a(iii)",
@@ -46933,7 +48720,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-041.jpg",
       "papers/biology/img/05BC-Ecology-Climate-042.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q14.jpg"
+     ]
     },
     {
      "id": "5BC-Q14a(iv)",
@@ -46964,7 +48753,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-041.jpg",
       "papers/biology/img/05BC-Ecology-Climate-042.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q14.jpg"
+     ]
     },
     {
      "id": "5BC-Q14b",
@@ -46980,15 +48771,21 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Calculate the efficiency of energy transfer between trophic level one and trophic level two, using the diagram.",
-     "status": "pending",
-     "answer": "Missing: the energy values for each trophic level in the diagram are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "8.4%",
+     "steps": [
+      "Trophic level one has 534 223 kJ and trophic level two has 44 988 kJ.",
+      "Efficiency = energy in level 2 / energy in level 1 x 100.",
+      "= 44 988 / 534 223 x 100 = 8.4%."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-040.jpg",
       "papers/biology/img/05BC-Ecology-Climate-041.jpg",
       "papers/biology/img/05BC-Ecology-Climate-042.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q14.jpg"
+     ]
     },
     {
      "id": "5BC-Q15a(i)",
@@ -47004,15 +48801,22 @@ window.BANK.biology = {
       "c officinalis"
      ],
      "question": "Which row of the table shows the colour of each of these seaweeds?",
-     "status": "pending",
-     "answer": "Missing: the table rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: U. fasciata green, S. linifolium brown, C. officinalis red.",
+     "steps": [
+      "U. fasciata has by far the most chlorophyll a and b, so chlorophyll dominates and it is green.",
+      "C. officinalis has almost no chlorophyll b and relatively more carotenoids, which fits a red seaweed.",
+      "S. linifolium has less chlorophyll and its carotenoids give it a brown colour.",
+      "Row A is the only row with green, brown and red in this order."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-042.jpg",
       "papers/biology/img/05BC-Ecology-Climate-043.jpg",
       "papers/biology/img/05BC-Ecology-Climate-044.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q15.jpg"
+     ]
     },
     {
      "id": "5BC-Q15a(ii)",
@@ -47089,15 +48893,24 @@ window.BANK.biology = {
       "compounds"
      ],
      "question": "Comment on the statement that these seaweeds are a healthy, environmentally-friendly and economic food source, using the table and own knowledge.",
-     "status": "pending",
-     "answer": "Missing: the table of compounds found in two of the seaweeds is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Partly supported: the table shows useful protein, carbohydrate and antioxidants with little lipid, and seaweeds need no land or fertiliser, but data are only for two seaweeds and give no information on cost, toxins or vitamins.",
+     "steps": [
+      "Healthy: lipid is low (2.96% and 2.16% of dry mass), protein is 9.56% and 14.89%, and carbohydrate is 23.70% and 25.03%.",
+      "Healthy: carotenoids, phenols and flavonoids are antioxidants that protect cells from free radicals; S. linifolium has more carotenoids (3.00 v 2.00) while U. fasciata has more phenols and flavonoids.",
+      "Environmentally friendly: seaweeds photosynthesise using sunlight and sea water, so need no farmland, fresh water or fertiliser, and they take up carbon dioxide.",
+      "Economic: they grow quickly and can be harvested cheaply, so should cost less than animal protein.",
+      "Limits: only two of the three seaweeds are in the table, antioxidant values are in arbitrary units, and there is no data on vitamins, minerals, heavy metals, digestibility or cost; wild harvesting could damage ecosystems.",
+      "Conclusion: the statement is supported in part but the evidence is incomplete."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-042.jpg",
       "papers/biology/img/05BC-Ecology-Climate-043.jpg",
       "papers/biology/img/05BC-Ecology-Climate-044.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q15-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q16a",
@@ -47114,9 +48927,13 @@ window.BANK.biology = {
       "walnut"
      ],
      "question": "The smallest walnut has a volume of about 50 cm3. Calculate the approximate volume of the largest hazelnut using the formula given (pi = 3, l = length, w = width).",
-     "status": "pending",
-     "answer": "Missing: the formula symbols and the hazelnut dimensions in the table are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "22.5 cm^3",
+     "steps": [
+      "With pi = 3, volume = 4/3 x 3 x l x w^2 = 4 x l x w^2.",
+      "The largest hazelnut is 2.5 cm long and 1.5 cm wide.",
+      "Volume = 4 x 2.5 x 1.5^2 = 4 x 2.5 x 2.25 = 22.5 cm^3."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-044.jpg",
       "papers/biology/img/05BC-Ecology-Climate-045.jpg",
@@ -47124,7 +48941,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-047.jpg",
       "papers/biology/img/05BC-Ecology-Climate-048.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q16.jpg"
+     ]
     },
     {
      "id": "5BC-Q16b(i)",
@@ -47175,9 +48994,14 @@ window.BANK.biology = {
       "ground squirrels"
      ],
      "question": "Predict the results of this investigation, giving reasons and using the information in the table.",
-     "status": "pending",
-     "answer": "Missing: the table of nut information (such as size and energy content) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Hazelnuts and walnuts will be eaten more than acorns, because they contain more energy per 100 g (2788 and 2822 kJ against 1619 kJ); hazelnuts may be chosen most because they are smaller and easier to carry in the pouches.",
+     "steps": [
+      "Squirrels need to store as much energy as possible, so they should choose the nuts with the most energy: walnut 2822 and hazelnut 2788 kJ per 100 g, which are almost equal and about 1.7 times the energy of acorns (1619).",
+      "Acorns are predicted to be eaten least, as their energy content is much lower.",
+      "Walnuts are large (3.0 to 5.0 cm long, about 50 cm^3 or more) with a hard shell, so they take more effort to open and carry, which may make hazelnuts (1.5 to 2.5 cm) the first choice.",
+      "The result should be measured as the mass of each nut eaten, repeated with several squirrels."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-044.jpg",
       "papers/biology/img/05BC-Ecology-Climate-045.jpg",
@@ -47185,7 +49009,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-047.jpg",
       "papers/biology/img/05BC-Ecology-Climate-048.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q16.jpg"
+     ]
     },
     {
      "id": "5BC-Q16c",
@@ -47279,7 +49105,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-050.jpg",
       "papers/biology/img/05BC-Ecology-Climate-051.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q17.jpg"
+     ]
     },
     {
      "id": "5BC-Q17b(i)",
@@ -47295,16 +49123,21 @@ window.BANK.biology = {
       "core samples"
      ],
      "question": "Which row of the table shows the newest and oldest rings in this tree?",
-     "status": "pending",
-     "answer": "Missing: the table rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: newest ring P, oldest ring S.",
+     "steps": [
+      "Growth rings are added to the outside of the trunk each year, so the newest ring is at the bark; P is at the left-hand side of the trunk, at the outside.",
+      "The oldest ring is at the centre of the trunk, which is S."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-048.jpg",
       "papers/biology/img/05BC-Ecology-Climate-049.jpg",
       "papers/biology/img/05BC-Ecology-Climate-050.jpg",
       "papers/biology/img/05BC-Ecology-Climate-051.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q17-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q17b(ii)",
@@ -47335,7 +49168,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-050.jpg",
       "papers/biology/img/05BC-Ecology-Climate-051.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q17-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q17b(iii)",
@@ -47445,16 +49280,22 @@ window.BANK.biology = {
       "table"
      ],
      "question": "For each molecule in the table, mark which inorganic ion provides an atom found in the molecule.",
-     "status": "pending",
-     "answer": "Missing: the table of molecules and ion options is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Cellulose: neither nitrate nor phosphate; nucleic acid: both nitrate and phosphate; triglyceride: neither nitrate nor phosphate.",
+     "steps": [
+      "Cellulose is a polymer of glucose, containing only carbon, hydrogen and oxygen, so it needs neither ion.",
+      "Nucleic acids contain nitrogen in their bases (from nitrate) and phosphorus in the sugar-phosphate backbone (from phosphate), so need both.",
+      "Triglycerides contain only carbon, hydrogen and oxygen, so neither ion."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-051.jpg",
       "papers/biology/img/05BC-Ecology-Climate-052.jpg",
       "papers/biology/img/05BC-Ecology-Climate-053.jpg",
       "papers/biology/img/05BC-Ecology-Climate-054.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q18.jpg"
+     ]
     },
     {
      "id": "5BC-Q18d",
@@ -47472,16 +49313,24 @@ window.BANK.biology = {
       "rainfall"
      ],
      "question": "Discuss how the abiotic factors shown in the graphs could affect the proportion of biomass stored in the roots of plants in forests, shrublands and grasslands.",
-     "status": "pending",
-     "answer": "Missing: the graphs showing the importance of abiotic factors are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Temperature is the most important factor in forests and shrublands, and soil moisture in grasslands; water, temperature, soil nutrients and soil depth change how much carbon is allocated to roots, so the proportion differs between ecosystems.",
+     "steps": [
+      "Yearly mean temperature has the highest relative importance in forests (1.0) and shrublands (1.0) and is high in grasslands (about 0.84); it affects enzyme activity, photosynthesis, respiration and decomposition, so it affects how much carbon plants make and how much they store in roots.",
+      "Soil moisture is most important in grasslands (1.0) and high in forests (about 0.9) but lower in shrublands (about 0.48); where water is short plants invest more biomass in roots to reach water, so roots hold a higher proportion of biomass.",
+      "The carbon : nitrogen ratio in soil is of medium importance in all three (about 0.44 to 0.52); a high ratio means little nitrate is available, so plants make more roots (and associated fungi) to absorb it.",
+      "Depth of soil is the least important in all three (0.40 in forests, 0.24 in shrublands, 0.20 in grasslands), but it matters most in forests because deeper soil allows larger root systems; tree density (about 0.36 to 0.60, a biotic factor) increases competition for water and nutrients, so more root biomass.",
+      "Evaluation: the graphs show importance not the direction of the effect, they do not give biomass values, and the factors interact."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-051.jpg",
       "papers/biology/img/05BC-Ecology-Climate-052.jpg",
       "papers/biology/img/05BC-Ecology-Climate-053.jpg",
       "papers/biology/img/05BC-Ecology-Climate-054.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q18-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q19a(i)",
@@ -47498,16 +49347,21 @@ window.BANK.biology = {
       "enzyme"
      ],
      "question": "Where in the chloroplast is RuBisCO active? Options: A P, B Q, C R, D S.",
-     "status": "pending",
-     "answer": "Missing: the table of chloroplast structures P, Q, R and S is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Q (the stroma).",
+     "steps": [
+      "RuBisCO fixes carbon dioxide in the Calvin cycle, the light-independent reactions.",
+      "Structure Q is the site of the light-independent reactions and is colourless, so it is the stroma."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-054.jpg",
       "papers/biology/img/05BC-Ecology-Climate-055.jpg",
       "papers/biology/img/05BC-Ecology-Climate-056.jpg",
       "papers/biology/img/05BC-Ecology-Climate-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q19.jpg"
+     ]
     },
     {
      "id": "5BC-Q19a(ii)",
@@ -47524,16 +49378,21 @@ window.BANK.biology = {
       "sucrose"
      ],
      "question": "What is stored in structure S? A GALP, B lipid, C starch, D sucrose.",
-     "status": "pending",
-     "answer": "Missing: the table describing structure S is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: starch.",
+     "steps": [
+      "S is the storage granule, 1 to 35 um in size, so it is a starch grain.",
+      "GALP and sucrose are not stored in chloroplast granules, and lipid is stored as small droplets."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-054.jpg",
       "papers/biology/img/05BC-Ecology-Climate-055.jpg",
       "papers/biology/img/05BC-Ecology-Climate-056.jpg",
       "papers/biology/img/05BC-Ecology-Climate-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q19.jpg"
+     ]
     },
     {
      "id": "5BC-Q19a(iii)",
@@ -47550,16 +49409,21 @@ window.BANK.biology = {
       "options"
      ],
      "question": "Where is GP (glycerate 3-phosphate) formed? Options: A P, B Q, C R, D S.",
-     "status": "pending",
-     "answer": "Missing: the table of chloroplast structures is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Q (the stroma).",
+     "steps": [
+      "GP (glycerate 3-phosphate) is the first product when RuBP combines with carbon dioxide, catalysed by RuBisCO.",
+      "This happens in the Calvin cycle in the stroma, which is Q."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-054.jpg",
       "papers/biology/img/05BC-Ecology-Climate-055.jpg",
       "papers/biology/img/05BC-Ecology-Climate-056.jpg",
       "papers/biology/img/05BC-Ecology-Climate-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q19.jpg"
+     ]
     },
     {
      "id": "5BC-Q19a(iv)",
@@ -47576,16 +49440,23 @@ window.BANK.biology = {
       "comparison"
      ],
      "question": "Which is the correct order of size, smallest to largest, for the structures P, R and S? A PRS, B PSR, C RSP, D SRP.",
-     "status": "pending",
-     "answer": "Missing: the sizes of P, R and S are in the table, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: P R S.",
+     "steps": [
+      "P is a ribosome of about 20 nm = 0.02 um.",
+      "R is a thylakoid space, largest 4.35 x 10^-4 mm = 0.435 um (435 nm).",
+      "S is a starch grain of 1 to 35 um.",
+      "Smallest to largest: P (0.02 um), R (0.435 um), S (1 to 35 um)."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-054.jpg",
       "papers/biology/img/05BC-Ecology-Climate-055.jpg",
       "papers/biology/img/05BC-Ecology-Climate-056.jpg",
       "papers/biology/img/05BC-Ecology-Climate-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q19.jpg"
+     ]
     },
     {
      "id": "5BC-Q19b(i)",
@@ -47633,16 +49504,23 @@ window.BANK.biology = {
       "c3 c4"
      ],
      "question": "Compare and contrast the rate of photosynthesis of these two plant species at different temperatures.",
-     "status": "pending",
-     "answer": "Missing: the graph of rate of photosynthesis against temperature for the two species is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both rise to an optimum then fall, but Spartina has a much higher maximum (about 40 a.u. at about 35 C) than Leucopoa (about 16 a.u. at about 20-25 C), and Leucopoa is faster only below about 15 C.",
+     "steps": [
+      "Similarity: both species show an increase in rate to a maximum then a decrease, as enzymes become less effective above the optimum.",
+      "Spartina rises steeply from about 10 a.u. at 10 C to about 40 a.u. at 35 C, whereas Leucopoa rises only slightly, from about 13 to about 16.5 a.u.",
+      "The optimum is higher for Spartina (about 35 C) than for Leucopoa (about 20-25 C).",
+      "Below about 15 C Leucopoa has the higher rate; above that Spartina is higher, and at 40 C it is about 36 a.u. against 9 a.u."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-054.jpg",
       "papers/biology/img/05BC-Ecology-Climate-055.jpg",
       "papers/biology/img/05BC-Ecology-Climate-056.jpg",
       "papers/biology/img/05BC-Ecology-Climate-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q19-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q19b(iii)",
@@ -47672,7 +49550,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-056.jpg",
       "papers/biology/img/05BC-Ecology-Climate-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q19-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q19b(iv)",
@@ -47689,16 +49569,23 @@ window.BANK.biology = {
       "graphs"
      ],
      "question": "Explain in which of the two regions, Wheatland or Pole Mountain, Spartina is most likely to grow, using both graphs.",
-     "status": "pending",
-     "answer": "Missing: the graph of monthly maximum temperatures for Wheatland and Pole Mountain, and the photosynthesis graph, are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Wheatland: Spartina needs high temperatures (optimum about 35 C) and Wheatland is warmer, with maximum temperatures of 27-31 C from June to August.",
+     "steps": [
+      "Spartina has its highest rate of photosynthesis (about 40 a.u.) at about 35 C and a low rate (about 10 a.u.) at 10-15 C.",
+      "Wheatland has maximum temperatures above 20 C from May to September, reaching about 31 C in July, close to the optimum for Spartina.",
+      "Pole Mountain never exceeds about 24 C and is below 15 C for most of the year, where Spartina photosynthesises slowly, so it would grow poorly there."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-054.jpg",
       "papers/biology/img/05BC-Ecology-Climate-055.jpg",
       "papers/biology/img/05BC-Ecology-Climate-056.jpg",
       "papers/biology/img/05BC-Ecology-Climate-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q19-2.jpg",
+      "papers/biology/fig/05BC-Ecology-Climate-Q19-3.jpg"
+     ]
     },
     {
      "id": "5BC-Q20a(i)",
@@ -59111,14 +60998,20 @@ window.BANK.biology = {
       "hydrolysis"
      ],
      "question": "Which row of the table describes reaction 1 and reaction 2 in the PET breakdown diagram?",
-     "status": "pending",
-     "answer": "Needs the PET breakdown diagram and the table of rows (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: reaction 1 is hydrolysis and reaction 2 is hydrolysis.",
+     "steps": [
+      "In reaction 1 the long PET polymer is split into MET monomers, so ester bonds are broken by adding water.",
+      "In reaction 2 MET is split into ethylene glycol and terephthalic acid; the remaining ester bond is again broken by adding water.",
+      "Breaking a bond by adding water is hydrolysis, so both reactions are hydrolysis (row D). Condensation would join molecules and release water."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-01.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q1b.jpg"
+     ]
     },
     {
      "id": "6C-Q2a(i)",
@@ -59604,9 +61497,14 @@ window.BANK.biology = {
       "decomposition"
      ],
      "question": "Calculate the rate at which the relative mass of green tea decreases in teabags buried at 15 deg C at day 30.",
-     "status": "pending",
-     "answer": "Needs the graph values of relative mass of green tea at 15 deg C (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 0.007 per day (relative mass decreasing by about 0.007 day^-1; accept 0.005 to 0.009).",
+     "steps": [
+      "Rate at day 30 is the gradient of the curve at that point, so draw a tangent to the green tea at 15 deg C curve at 30 days.",
+      "The curve passes through 0.50 at day 30; the tangent falls from about 0.60 at day 20 to about 0.46 at day 40.",
+      "Gradient = change in relative mass / change in time = (0.46 - 0.60) / (40 - 20) = -0.14/20 = -0.007 per day.",
+      "So relative mass decreases at about 0.007 day^-1 (no units for relative mass, per day)."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-09.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-10.jpg",
@@ -59615,7 +61513,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-13.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q5a.jpg"
+     ]
     },
     {
      "id": "6C-Q5a(iii)",
@@ -59633,9 +61533,15 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Explain the difference in the decrease in relative mass of green tea teabags buried at 15 deg C and 25 deg C, using the graph.",
-     "status": "pending",
-     "answer": "Needs the graph of relative mass against time for 15 deg C and 25 deg C (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Green tea decomposes faster and further at 25 deg C (to 0.30 by about 30 days) than at 15 deg C (0.50 at 30 days, levelling near 0.40), because warmer soil gives faster decomposer enzyme activity and respiration.",
+     "steps": [
+      "At 25 deg C relative mass falls much more steeply: about 0.35 by day 15 and 0.30 by day 30, compared with about 0.50 at day 30 at 15 deg C.",
+      "The 25 deg C curve then stays level at 0.30, whereas 15 deg C continues to fall slowly to about 0.41 at day 70 and about 0.40 later, so more tea has been lost (70% against 60%).",
+      "Higher temperature gives enzymes and substrate more kinetic energy, so more frequent collisions and more enzyme-substrate complexes; decomposers (bacteria and fungi) digest the tea faster.",
+      "Decomposers are also more active, grow and respire faster at 25 deg C, using up the organic matter more quickly.",
+      "Both curves level off because the remaining material (e.g. lignin-like compounds) is resistant to decomposition."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-09.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-10.jpg",
@@ -59644,7 +61550,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-13.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q5a.jpg"
+     ]
     },
     {
      "id": "6C-Q5a(iv)",
@@ -59678,7 +61586,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-13.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q5a.jpg"
+     ]
     },
     {
      "id": "6C-Q5b(i)",
@@ -59711,7 +61621,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-13.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q5b.jpg"
+     ]
     },
     {
      "id": "6C-Q5b(ii)",
@@ -59728,9 +61640,15 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Explain which ecosystems should be conserved to have the greatest impact on climate change, using the graph.",
-     "status": "pending",
-     "answer": "Needs the graph of decomposition rate against stabilisation factor S for each ecosystem (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Conserve the loamy desert in China (highest S, about 0.55, with the lowest decomposition rate, about 0.004), then sandy desert in China and birch forest in Austria (S about 0.3).",
+     "steps": [
+      "A higher S means more carbon is stored in the ecosystem, so the ecosystems with the highest S keep the most carbon out of the atmosphere.",
+      "Loamy desert in China (6) has the highest S, about 0.55, and the lowest decomposition rate, about 0.004 a.u., so carbon is released slowly and stored for longest.",
+      "Sandy desert in China (5) and birch forest in Austria (3) come next, with S about 0.3; their error bars overlap with each other.",
+      "Forest in Panama (1) has the lowest S, about 0.05, and the highest decomposition rate, about 0.039 a.u., so it stores little carbon and releases CO2 quickly.",
+      "Conserving high-S ecosystems prevents the stored carbon being released as CO2, reducing the greenhouse effect."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-09.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-10.jpg",
@@ -59739,7 +61657,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-13.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q5b.jpg"
+     ]
     },
     {
      "id": "6C-Q6a",
@@ -59757,15 +61677,22 @@ window.BANK.biology = {
       "starch"
      ],
      "question": "For each carbohydrate in the table, put one cross to show whether it is produced in plants or animals.",
-     "status": "pending",
-     "answer": "Needs the table of carbohydrates and tick boxes (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Amylose: plants but not animals; Glucose: both plants and animals; Glycogen: animals but not plants; Starch: plants but not animals.",
+     "steps": [
+      "Starch (amylose and amylopectin) is the storage carbohydrate of plants, so amylose and starch are made in plants but not animals.",
+      "Glycogen is the storage carbohydrate of animals (stored in liver and muscle), so it is made in animals but not plants.",
+      "Glucose is made by plants in photosynthesis and in animals by breakdown of glycogen and by gluconeogenesis, so it is produced by both.",
+      "One cross in each row, in the correct column, scores each mark (4 rows)."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-15.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q6.jpg"
+     ]
     },
     {
      "id": "6C-Q6b(i)",
@@ -59795,7 +61722,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-15.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q6-2.jpg"
+     ]
     },
     {
      "id": "6C-Q6b(ii)",
@@ -59813,15 +61742,22 @@ window.BANK.biology = {
       "carbon cycle"
      ],
      "question": "Calculate the increase in mass of carbon in plants from exchange with the atmosphere in one year, in kg.",
-     "status": "pending",
-     "answer": "Needs the carbon-cycle diagram values for plant and atmosphere exchange (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "6.1 x 10^13 kg",
+     "steps": [
+      "From the diagram, plants take in 120 Pg of carbon per year from the atmosphere and return 59 Pg per year to it.",
+      "Net increase in carbon in plants = 120 - 59 = 61 Pg per year.",
+      "1 Pg = 10^15 g, so 61 Pg = 61 x 10^15 g = 6.1 x 10^16 g.",
+      "Convert grams to kilograms by dividing by 1000: 6.1 x 10^16 g = 6.1 x 10^13 kg."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-15.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q6-2.jpg"
+     ]
     },
     {
      "id": "6C-Q6b(iii)",
@@ -59959,16 +61895,22 @@ window.BANK.biology = {
       "10.62 C"
      ],
      "question": "Calculate the mean growth rate of these larvae from 25 to 120 hours, including units.",
-     "status": "pending",
-     "answer": "Needs the mean larval lengths at 25 h and 120 h from the graph (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.12 mm per hour (mm h^-1)",
+     "steps": [
+      "Read the graph: mean length is about 2.5 mm at 25 hours and about 13.9 mm at 120 hours.",
+      "Growth rate = change in length / change in time = (13.9 - 2.5) / (120 - 25) = 11.4 / 95.",
+      "= 0.12 mm per hour (accept about 0.11 to 0.13 mm h^-1); the unit is mm h^-1."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-16.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-17.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-18.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q7.jpg"
+     ]
     },
     {
      "id": "6C-Q7b(ii)",
@@ -59986,16 +61928,23 @@ window.BANK.biology = {
       "limitations"
      ],
      "question": "Comment on the suitability of using this larval growth data to estimate time of death, using the graph.",
-     "status": "pending",
-     "answer": "Needs the graph of mean larval length against time (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Partly suitable: mean length rises steadily with time, so it can give an estimate of larval age, but large error bars, a flat start, one temperature and unknown egg-laying time make it only approximate.",
+     "steps": [
+      "Suitable: length increases fairly steadily from about 2 mm at 13 hours to about 14 mm at 120 hours, so a measured length can be matched to an age of the larvae.",
+      "Limited precision: error bars are large at some times (about 5 to 7 mm at 50 hours, about 7.8 to 10.4 mm at 75 hours) and neighbouring bars overlap, so the age could be out by many hours.",
+      "Between about 13 and 25 hours the length hardly changes (about 2 to 2.5 mm), so ages in that range cannot be told apart.",
+      "Data were collected at one temperature (10.62 deg C); at the scene the temperature differs and growth rate changes, and the larval age is measured from hatching, not from death, so the time of death must be corrected for egg-laying."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-16.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-17.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-18.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q7.jpg"
+     ]
     },
     {
      "id": "6C-Q7b(iii)",
@@ -60027,7 +61976,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-18.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q7.jpg"
+     ]
     },
     {
      "id": "6C-Q7c",
@@ -60200,15 +62151,23 @@ window.BANK.biology = {
       "scavengers"
      ],
      "question": "Explain the results of the two scavenging studies, using the table of feeding times and the graph of carcass consumption time.",
-     "status": "pending",
-     "answer": "Needs the table of feeding times and the graph of carcass consumption time for the two regions (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Where the cancer was common there were fewer devils, so devils fed for much less of the time (0.26 against 0.76), other scavengers fed more, and carcasses took longer to be eaten (about 25 days against about 20 days).",
+     "steps": [
+      "Healthy region: Tasmanian devils spent 0.76 of the feeding time and the other scavengers only 0.13 (raven), 0.06 (quoll) and 0.05 (cat); cancer region: devils 0.26, raven 0.38, quoll 0.20, cat 0.16.",
+      "Devils are the main scavenger and drive other scavengers away; in the cancer region devil numbers have fallen, so devils feed less and there is less competition and aggression, so the other three species feed for more of the time.",
+      "The graph shows carcasses disappear faster where devils are healthy: only 0.25 of the carcass is left at 7.5 days compared with about 0.58 where cancer was common, and nothing is left by 20 days compared with about 25 days.",
+      "So the other scavengers cannot replace the devils: they eat carcasses less quickly and less completely, so carcass removal is slower.",
+      "Carcasses left longer give more time for decomposers and flies, and a greater chance that disease spreads; nutrient recycling is slower."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-21.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-22.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q9.jpg"
+     ]
     },
     {
      "id": "6C-Q9b(ii)",
@@ -60239,7 +62198,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-22.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q9.jpg"
+     ]
     },
     {
      "id": "6C-Q10a",
@@ -60319,15 +62280,21 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the total length of time, in hours to 2 decimal places, that this PCR process would take.",
-     "status": "pending",
-     "answer": "Needs the step times and number of cycles shown in the PCR diagram (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "1.38 hours",
+     "steps": [
+      "One cycle = 30 s + 30 s + 1 min = 2 min, and there are 35 cycles: 35 x 2 = 70 min.",
+      "Add the start and end steps: 2.5 min + 70 min + 10 min = 82.5 min.",
+      "Convert to hours: 82.5 / 60 = 1.375 hours = 1.38 hours (2 d.p.)."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-24.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-25.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q10.jpg"
+     ]
     },
     {
      "id": "6C-Q10b(iii)",
@@ -60358,7 +62325,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-25.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q10.jpg"
+     ]
     },
     {
      "id": "6C-Q10c",
@@ -60421,7 +62390,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-29.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q11.jpg"
+     ]
     },
     {
      "id": "6C-Q11a(ii)",
@@ -60438,9 +62409,13 @@ window.BANK.biology = {
       "equation"
      ],
      "question": "What is the relationship between NPP, GPP and respiration (R)? Options: A NPP = GPP + R; B, C and D are printed with the same corrupted text.",
-     "status": "pending",
-     "answer": "Options B, C and D are corrupted in the text so the correct letter cannot be confirmed; the relationship is NPP = GPP - R.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: NPP = GPP - R",
+     "steps": [
+      "Gross primary productivity is the total energy fixed in photosynthesis; some of it is used by the plant in respiration (R).",
+      "Net primary productivity is what is left for growth and for the next trophic level, so NPP = GPP - R (option B).",
+      "Adding, multiplying or dividing by R does not describe energy lost, so A, C and D are wrong."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-26.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-27.jpg",
@@ -60465,9 +62440,13 @@ window.BANK.biology = {
       "food chain"
      ],
      "question": "Calculate the ratio of the energy contents of trophic levels 1 : 2 : 3 shown in the table.",
-     "status": "pending",
-     "answer": "Needs the energy content values for the three trophic levels from the table (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "98.3 : 9.6 : 1 (trophic level 1 : 2 : 3)",
+     "steps": [
+      "Energy contents from the table: level 1 (tree) 90 480, level 2 (gerenuk) 8 825, level 3 (lion) 920 kJ m^-2 year^-1.",
+      "Divide each value by the smallest, 920: 90 480 / 920 = 98.3; 8 825 / 920 = 9.6; 920 / 920 = 1.",
+      "Ratio level 1 : level 2 : level 3 = 98.3 : 9.6 : 1 (about 100 : 10 : 1)."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-26.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-27.jpg",
@@ -60475,7 +62454,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-29.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q11.jpg"
+     ]
     },
     {
      "id": "6C-Q11a(iv)",
@@ -60507,7 +62488,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-29.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q11.jpg"
+     ]
     },
     {
      "id": "6C-Q11a(v)",
@@ -60558,9 +62541,15 @@ window.BANK.biology = {
       "common ancestor"
      ],
      "question": "Deduce how the gerenuk evolved to occupy a different niche from the springbok, using the table and photographs.",
-     "status": "pending",
-     "answer": "Needs the table of gerenuk and springbok data and the photographs (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Natural selection acting on variation in a common ancestor favoured gerenuk that fed on leaves higher in trees (longer legs and neck, taller), which reduced competition with springbok for grass and gave a different niche.",
+     "steps": [
+      "The gerenuk and springbok share a common ancestor, so differences arose through mutation producing variation in alleles, followed by natural selection.",
+      "Competition for short grass (the springbok diet) was a selection pressure; gerenuk that could reach leaves of trees up to 2 m above the ground had more food, survived and reproduced, passing on the alleles.",
+      "The photographs show the gerenuk standing upright on its hind legs with a long neck and long legs; the table shows it is taller (80 to 105 cm compared with 69 to 87 cm), adaptations for browsing.",
+      "The gerenuk also gets its water from the water content of its food, whereas the springbok drinks when water is available, so the gerenuk can live in drier areas away from water.",
+      "So the two species differ in diet, feeding height and water use, which reduces interspecific competition and lets them coexist in different niches, and over many generations the populations became reproductively isolated species."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-26.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-27.jpg",
@@ -60568,7 +62557,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-29.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q11-2.jpg"
+     ]
     },
     {
      "id": "6C-Q12a(i)",
@@ -60803,16 +62794,23 @@ window.BANK.biology = {
       "A2"
      ],
      "question": "Describe the conclusions that can be made about albumin compared with the other four plasma proteins, using the electrophoresis diagram.",
-     "status": "pending",
-     "answer": "Needs the electrophoresis banding diagram for albumin, A1, A2, B and G (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Albumin moved furthest from the origin and has the thickest band, so it is the smallest (or most negatively charged) of the five proteins and the most abundant in plasma.",
+     "steps": [
+      "Proteins at pH 7.4 carry negative charge, so they move through the gel towards the positive end; the further a band is from the origin, the faster it moved.",
+      "Albumin is the furthest from the origin, so it moved fastest: it has the smallest size (lower molecular mass) and/or the greatest negative charge compared with A1, A2, B and G.",
+      "G is nearest the origin, so it moved slowest and is probably the largest or least charged of the five.",
+      "The albumin band is much larger and thicker than the other four, so albumin is present in the greatest amount (highest concentration) in blood plasma."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-32.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-33.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-34.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q13.jpg"
+     ]
     },
     {
      "id": "6C-Q13c",
@@ -60987,16 +62985,24 @@ window.BANK.biology = {
       "effects"
      ],
      "question": "Discuss the possible effects of increasing the number of whales on climate change, using the relationship diagram and the data in the question.",
-     "status": "pending",
-     "answer": "Needs the relationship diagram linking whales, other organisms and carbon or nitrogen (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "More whales would probably reduce atmospheric CO2: whale faeces and diving bring nutrients to the surface so phytoplankton photosynthesise more, and dead whales sink and store carbon on the sea floor, but there are uncertainties.",
+     "steps": [
+      "Whale faeces release nitrogen-containing nutrients (a Right whale releases about 16.8 kg of nitrogen per year) and diving brings nutrients up, so nitrate rises and phytoplankton grow faster.",
+      "More phytoplankton photosynthesise, taking CO2 from the water and atmosphere into biomass (carbon fixed in sugars), which passes to zooplankton, fish and other animals.",
+      "Dead whales sink to the bottom where there is less oxygen, so decomposition is slow and the carbon in their bodies is locked up for a long time instead of returning to the atmosphere.",
+      "Data: whale numbers fell by 74% (5 million to 1.3 million); restoring them could remove 1.7 x 10^9 US tons of CO2 per year, which is about 1.54 x 10^12 kg, reducing the greenhouse effect and global warming.",
+      "Limitations: the figure is a model-based prediction; whales, plankton and fish also respire and release CO2; the removal is small compared with human emissions, so reducing fossil fuel use is still needed."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-35.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-36.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-37.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q14.jpg"
+     ]
     },
     {
      "id": "6C-Q15a(i)",
@@ -61028,7 +63034,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-41.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q15.jpg"
+     ]
     },
     {
      "id": "6C-Q15a(ii)",
@@ -61060,7 +63068,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-41.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q15.jpg"
+     ]
     },
     {
      "id": "6C-Q15b(i)",
@@ -61111,9 +63121,15 @@ window.BANK.biology = {
       "post mortem"
      ],
      "question": "Comment on the usefulness of these blood chemicals for determining the time of death of rats and pigs, using the graphs.",
-     "status": "pending",
-     "answer": "Needs the graphs of blood chemical levels against time for rats and pigs (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Each chemical is useful only over part of the time range, and rats and pigs show different patterns, so the chemicals work best used together; pH is the most consistent and ammonia in pigs the most useful after 24 hours.",
+     "steps": [
+      "pH of blood falls steadily in both species, from about 7.3 at death to about 5.1 at 96 hours, with small error bars, so it can indicate time of death throughout, but values at 72 and 96 hours are almost the same.",
+      "Lactate rises quickly then levels off in both species: about 1.4 (rat) and 0.5 (pig) at 0 hours to about 9 to 10 by 9 hours, so it only helps estimate death within the first few hours.",
+      "Ammonia in pigs rises continuously (about 1.9 at 24 hours to about 12.7 at 96 hours), so it is useful for later times, but in rats it rises to about 2 then falls to about 0.1 by 48 hours, so one value matches two different times.",
+      "Hypoxanthine in rats rises to about 10.6 at 32 hours then falls, and in pigs it stays low until 9 hours then rises, so patterns differ between species and the same level can mean two different times.",
+      "Error bars are large for rats (e.g. hypoxanthine and lactate) and the sample is small (five rats, two pigs), so estimates would be imprecise; combining several chemicals gives a better estimate."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-38.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-39.jpg",
@@ -61121,7 +63137,10 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-41.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q15-2.jpg",
+      "papers/biology/fig/06C-Decomposition-Forensics-Q15-3.jpg"
+     ]
     },
     {
      "id": "6C-Q15b(iii)",
@@ -61154,7 +63173,10 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-41.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q15-2.jpg",
+      "papers/biology/fig/06C-Decomposition-Forensics-Q15-3.jpg"
+     ]
     },
     {
      "id": "6C-Q16a(i)",
@@ -61289,9 +63311,13 @@ window.BANK.biology = {
       "sea turtles"
      ],
      "question": "Calculate the mean rate of global plastic production from 2000 to 2015, to 3 significant figures.",
-     "status": "pending",
-     "answer": "Needs the plastic production values for 2000 and 2015 from the graph (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "11.3 million tonnes per year (accept about 11 to 12)",
+     "steps": [
+      "Read the graph: production is about 210 million tonnes in 2000 and about 380 million tonnes in 2015.",
+      "Mean rate = change in production / time = (380 - 210) / (2015 - 2000) = 170 / 15.",
+      "= 11.3 million tonnes per year (3 s.f.)."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-44.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-45.jpg",
@@ -61300,7 +63326,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q17.jpg"
+     ]
     },
     {
      "id": "6C-Q17a(ii)",
@@ -61316,9 +63344,13 @@ window.BANK.biology = {
       "million tonnes"
      ],
      "question": "Estimate the global plastic production in 2023, using your value from part (i).",
-     "status": "pending",
-     "answer": "Depends on the 2015 production value and the mean rate from part (i), which are not in text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 470 million tonnes",
+     "steps": [
+      "Time from 2015 to 2023 is 8 years.",
+      "Extra production = 8 x 11.3 = about 90 million tonnes.",
+      "Estimated 2023 production = 380 + 90 = about 470 million tonnes."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-44.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-45.jpg",
@@ -61327,7 +63359,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q17.jpg"
+     ]
     },
     {
      "id": "6C-Q17a(iii)",
@@ -61344,9 +63378,13 @@ window.BANK.biology = {
       "recycling"
      ],
      "question": "Suggest why this value may be an underestimate, using the graph.",
-     "status": "pending",
-     "answer": "Needs the graph of plastic production values (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "The graph is getting steeper, so the recent rate is higher than the 2000 to 2015 mean of 11.3 million tonnes per year, and a constant-rate estimate would be too low.",
+     "steps": [
+      "Production is not rising at a constant rate: the curve gets steeper over time (production is accelerating).",
+      "From 2010 to 2015 the rise is about (380 - 312) / 5 = 13.6 million tonnes per year, which is more than the mean of 11.3 million tonnes per year.",
+      "If the rate continues to rise, production by 2023 would be higher than 470 million tonnes, so the estimate is an underestimate."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-44.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-45.jpg",
@@ -61355,7 +63393,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q17.jpg"
+     ]
     },
     {
      "id": "6C-Q17b(i)",
@@ -61372,9 +63412,13 @@ window.BANK.biology = {
       "trend"
      ],
      "question": "Describe how the probability of death due to plastic increases with the number of pieces of plastic in the gut.",
-     "status": "pending",
-     "answer": "Needs the modelled probability-of-death graph (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Positive S-shaped relationship: probability of death rises slowly at first, then sharply over a middle range, then levels off at a high value.",
+     "steps": [
+      "With very few pieces of plastic in the gut, the probability of death is low and increases only slightly.",
+      "Over an intermediate number of pieces the curve becomes very steep, so each extra piece greatly increases the probability of death.",
+      "At large numbers of pieces the curve flattens: the probability is high and increases only slowly (levels off)."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-44.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-45.jpg",
@@ -61383,7 +63427,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q17-2.jpg"
+     ]
     },
     {
      "id": "6C-Q17b(ii)",
@@ -61417,7 +63463,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q17-2.jpg"
+     ]
     },
     {
      "id": "6C-Q17c",
@@ -61435,9 +63483,16 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Discuss the advantages of packaging made from modified banana stalks, using the graphs, the table and your own knowledge.",
-     "status": "pending",
-     "answer": "Needs the decomposition graphs and the comparison table for the two packaging materials (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Banana-stalk packaging protects mangoes better than plastic against disease (about 50% diseased against 100%) and it decomposes within weeks, so it reduces plastic pollution, although mass loss is slightly higher than with plastic.",
+     "steps": [
+      "Disease: about 50% of mangoes in modified banana packaging are diseased, compared with about 90% with no packaging and 100% with plastic.",
+      "Mass loss: banana packaging gives about 4% loss, much less than about 11% with no packaging, though slightly more than plastic at about 2.5%, so it still preserves the fruit.",
+      "Decomposition: after 4 weeks the plastic looks unchanged, but the banana packaging has mostly broken down; the cellulose is digested by cellulase enzymes from microorganisms, whereas plastic is not broken down.",
+      "Environment: biodegradable packaging does not accumulate in oceans and landfill or harm animals such as turtles that eat plastic, and the products are recycled to the soil.",
+      "Banana stalks are a renewable waste product that would otherwise be thrown away, and plastic comes from non-renewable fossil fuels.",
+      "Balanced view: slightly greater mass loss than plastic, and the study should be repeated with larger samples."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-44.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-45.jpg",
@@ -61446,7 +63501,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q17-3.jpg"
+     ]
     },
     {
      "id": "6C-Q18a(i)",
@@ -61463,16 +63520,22 @@ window.BANK.biology = {
       "bond types"
      ],
      "question": "Which row of the table identifies the bonds Q and R in the DNA diagram?",
-     "status": "pending",
-     "answer": "Needs the DNA diagram with labels Q and R and the table of bond types (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: bond Q is hydrogen and bond R is covalent.",
+     "steps": [
+      "Bond Q joins the two complementary bases across the double helix (dashed lines), so it is a hydrogen bond.",
+      "Bond R joins the base to the deoxyribose sugar within one nucleotide, so it is a covalent bond.",
+      "Phosphodiester bonds join the sugar and phosphate in the backbone, so options C and D are wrong."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-49.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-50.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-51.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q18.jpg"
+     ]
     },
     {
      "id": "6C-Q18a(ii)",
@@ -61491,16 +63554,22 @@ window.BANK.biology = {
       "T"
      ],
      "question": "Which is a negatively charged part of a DNA molecule? Options: A P, B R, C S, D T.",
-     "status": "pending",
-     "answer": "Needs the DNA diagram to see which labelled part (P, R, S or T) is the phosphate group (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: S",
+     "steps": [
+      "The negative charge on DNA comes from the phosphate groups (the circles in the diagram), which lose H+ in solution.",
+      "S points to a phosphate group in the sugar-phosphate backbone.",
+      "P points to a deoxyribose sugar, and R and T point to bonds or bases, which are not charged."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-49.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-50.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-51.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q18.jpg"
+     ]
     },
     {
      "id": "6C-Q18b(i)",
@@ -61797,16 +63866,22 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the net primary productivity (NPP) as a percentage of the gross primary productivity (GPP) in this food chain.",
-     "status": "pending",
-     "answer": "Needs the GPP and NPP values from the energy-flow diagram (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "42.6%",
+     "steps": [
+      "GPP is the energy entering trophic level 1: 83 240 kJ.",
+      "NPP is the energy available to the next trophic level: 35 452 kJ (GPP minus respiration).",
+      "NPP as % of GPP = 35 452 / 83 240 x 100 = 42.6%."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-54.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-55.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-56.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-57.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q20.jpg"
+     ]
     },
     {
      "id": "6C-Q20a(ii)",
@@ -61823,16 +63898,23 @@ window.BANK.biology = {
       "food chain"
      ],
      "question": "Complete the right-hand side of the energy-flow diagram by adding arrows and the missing information in the box.",
-     "status": "pending",
-     "answer": "Needs the energy-flow diagram to complete the arrows and box (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Add arrows from each trophic level to the right-hand box, and label the box 'respiration' with 56 792 kJ.",
+     "steps": [
+      "The right-hand box is for energy lost due to respiration, so write 'respiration' on the dotted line.",
+      "Draw an arrow from each shaded 'energy entering' box (trophic levels 1, 2, 3 and 4) to the right to join the vertical arrow that points up into the box, because organisms at every level lose energy as heat in respiration.",
+      "Total energy lost due to respiration = energy in - energy lost to decomposition = 83 240 - 26 448 = 56 792 kJ.",
+      "Check by trophic level: 47 788 + 7 560 + 1 264 + 60 = 56 672 kJ from the printed values (the diagram numbers differ by 120 kJ); accept about 56 700 kJ."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-54.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-55.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-56.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-57.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q20.jpg"
+     ]
     },
     {
      "id": "6C-Q20a(iii)",
@@ -61882,16 +63964,23 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Explain what the graph of trophic level number for China and India from 1960 to 2010 indicates about the diet of this population.",
-     "status": "pending",
-     "answer": "Needs the graph of trophic level number against year for China and India (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "The TLN rose from about 2.05 to about 2.20, so the population's diet contained gradually more meat and animal products, while still being mostly plant-based.",
+     "steps": [
+      "The TLN is above 1 throughout, so the population eats both plants and animals (omnivorous).",
+      "It was almost flat from 1960 to about 1980 at about 2.05 to 2.07, then increased steadily to about 2.20 by 2010, an increase of about 0.15.",
+      "A higher TLN means the average diet is taken from a higher trophic level, so people ate proportionally more meat and animal products over time.",
+      "The values are low on a scale of 1 to 5, so plant food still makes up most of the diet."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-54.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-55.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-56.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-57.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q20-2.jpg"
+     ]
     },
     {
      "id": "6C-Q21a",
@@ -61953,7 +64042,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-59.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-60.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q21.jpg"
+     ]
     },
     {
      "id": "6C-Q21b(ii)",
@@ -61970,16 +64061,22 @@ window.BANK.biology = {
       "band numbers"
      ],
      "question": "Which band on the gel contains the heaviest DNA fragments? Options: A 1, B 3, C 6, D 9.",
-     "status": "pending",
-     "answer": "Needs the Diagram 2 gel showing where bands 1, 3, 6 and 9 sit (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: band 1",
+     "steps": [
+      "DNA fragments move through the gel in the direction of the arrow, from the top towards the bottom.",
+      "Larger (heavier) fragments move more slowly, so they travel the shortest distance and stay nearest the top.",
+      "Band 1 is nearest the top of the gel, so it contains the heaviest fragments."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-57.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-58.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-59.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-60.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q21.jpg"
+     ]
     },
     {
      "id": "6C-Q21b(iii)",
@@ -61996,16 +64093,25 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Explain the banding pattern of the three-parent embryo, using Diagram 1 and Diagram 2.",
-     "status": "pending",
-     "answer": "Needs Diagram 1 (how the embryo is made) and Diagram 2 (gel bands 1 to 12) (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Bands 1, 2, 5, 9 and 11 match the mother's bands and bands 4, 6, 7, 8 and 10 match the father's, while bands 3 and 12 match neither and come from the donor's mitochondrial DNA.",
+     "steps": [
+      "Diagram 1: the embryo's nucleus has chromosomes from the mother (her nucleus) and the father (sperm), so half of its nuclear DNA comes from each and it should share bands with both.",
+      "Bands 1, 2, 5, 9 and 11 are at the same positions as bands in the mother's gel, so these fragments came from her.",
+      "Bands 4, 6, 7, 8 and 10 line up with bands in the father's gel, so these fragments came from him.",
+      "Bands 3 and 12 do not match either parent: they must come from the donor egg cell, which kept its cytoplasm and mitochondria (with their mitochondrial DNA) after its nucleus was discarded.",
+      "The two mother bands between embryo bands 6 and 8 do not appear in the embryo, consistent with her (faulty) mitochondrial DNA not being passed on, because only her nucleus was transferred.",
+      "Bands are at the same position when the DNA fragments are the same size, since gel electrophoresis separates fragments by size."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-57.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-58.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-59.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-60.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q21.jpg"
+     ]
     },
     {
      "id": "6C-Q22a",
@@ -62297,16 +64403,22 @@ window.BANK.biology = {
       "lignin"
      ],
      "question": "Which row of the table describes the structure of cellulose?",
-     "status": "pending",
-     "answer": "Needs the table of structures (rows) to identify the cellulose row (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: beta (b) glucose with 1-4 glycosidic bonds.",
+     "steps": [
+      "Cellulose is made of beta-glucose monomers, where alternate molecules are inverted so the chain is straight.",
+      "The monomers are joined by 1-4 glycosidic bonds, forming long unbranched chains that make hydrogen bonds with neighbours to form microfibrils.",
+      "Alpha-glucose is found in starch and glycogen, and 1-6 bonds are the branch points in those molecules."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-65.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q24.jpg"
+     ]
     },
     {
      "id": "6C-Q24a(ii)",
@@ -62370,7 +64482,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q24-2.jpg"
+     ]
     },
     {
      "id": "6C-Q24b(ii)",
@@ -62388,16 +64502,22 @@ window.BANK.biology = {
       "significant figures"
      ],
      "question": "Calculate the rate of decrease in percentage dry mass between 30 and 120 days for the sugar maple leaves, to 2 significant figures.",
-     "status": "pending",
-     "answer": "Needs the sugar maple percentage dry mass values at 30 and 120 days from the graph (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.62 % per day (accept 0.60 to 0.63)",
+     "steps": [
+      "Read the sugar maple graph: about 63% of dry mass remains at 30 days and about 8% at 120 days.",
+      "Decrease in percentage dry mass = 63 - 8 = 55 percentage points over 120 - 30 = 90 days.",
+      "Rate = 55 / 90 = 0.61 to 0.62, so about 0.62 % per day (2 s.f.)."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-65.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q24-2.jpg"
+     ]
     },
     {
      "id": "6C-Q24b(iii)",
@@ -62414,16 +64534,21 @@ window.BANK.biology = {
       "comparison"
      ],
      "question": "Describe two conclusions about the decomposition of sugar maple leaves compared with white oak leaves.",
-     "status": "pending",
-     "answer": "Needs the graph of percentage dry mass for sugar maple and white oak (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Sugar maple leaves decompose faster and further than white oak (about 8% of dry mass left after 120 days against about 60%), and most of the loss happens late, between 60 and 90 days.",
+     "steps": [
+      "By 120 days only about 8% of the sugar maple dry mass remains, but about 60% of white oak remains, so sugar maple decomposes more quickly and completely.",
+      "Sugar maple fell to about 63% within 30 days, then rose slightly to about 67% at 60 days, before dropping sharply to about 14% at 90 days; white oak decreased slowly and steadily from 100% to about 70% by 30 days and then stayed at about 70% to 90% before falling to about 60%."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-65.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q24-2.jpg"
+     ]
     },
     {
      "id": "6C-Q24c(i)",
@@ -62441,16 +64566,21 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate how many times greater the biomass of bacteria on sugar maple leaves is after 30 days compared with 0 days.",
-     "status": "pending",
-     "answer": "Needs the bacterial biomass values at 0 and 30 days from the graph (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 4 times (0.33 / 0.08 = 4.1)",
+     "steps": [
+      "Read the sugar maple (solid line) graph: biomass of bacteria is about 0.08 a.u. at 0 days and about 0.33 a.u. at 30 days.",
+      "Number of times greater = 0.33 / 0.08 = 4.1, so about 4 times (accept 4 to 5)."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-65.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q24-3.jpg"
+     ]
     },
     {
      "id": "6C-Q24c(ii)",
@@ -62482,7 +64612,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q24-3.jpg"
+     ]
     },
     {
      "id": "6C-Q24c(iii)",
@@ -62514,7 +64646,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q24-3.jpg"
+     ]
     },
     {
      "id": "6C-Q25a(i)",
@@ -62624,16 +64758,22 @@ window.BANK.biology = {
       "row"
      ],
      "question": "Which row of the table shows how more clothing and a higher ambient temperature would affect the estimated time of death?",
-     "status": "pending",
-     "answer": "Needs the table of rows showing the effects of clothing and ambient temperature (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: increase for more clothing, increase for higher ambient temperature.",
+     "steps": [
+      "More clothing insulates the body, so it loses heat more slowly.",
+      "A higher ambient temperature reduces the temperature gradient between the body and its surroundings, so the body also loses heat more slowly.",
+      "Slower cooling means the body takes longer to fall to a given temperature, so the estimated time since death is greater (increases) in both cases."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-69.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-70.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-71.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q25.jpg"
+     ]
     },
     {
      "id": "6C-Q25c(i)",
@@ -62664,7 +64804,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-70.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-71.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q25-2.jpg"
+     ]
     },
     {
      "id": "6C-Q25c(ii)",
@@ -62681,16 +64823,23 @@ window.BANK.biology = {
       "ATP"
      ],
      "question": "Explain why using the extent of muscle contraction by itself may give an incorrect time of death, using the graph.",
-     "status": "pending",
-     "answer": "Needs the graph of extent of muscle contraction against time after death (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Contraction rises, stays at a maximum and then falls, so the same extent of contraction occurs at two different times, and zero contraction can mean less than about 3 hours or more than about 36 hours.",
+     "steps": [
+      "The graph is a curve with a peak: contraction increases from about 3 hours to a maximum at about 12 to 24 hours, then decreases to zero by about 36 hours.",
+      "Any value below the maximum occurs twice (for example about 8 hours and about 32 hours), so one measurement of muscle contraction cannot tell which time is correct.",
+      "During the plateau between about 12 and 24 hours the extent stays the same, so the time of death cannot be separated within a 12-hour range.",
+      "Before about 3 hours and after about 36 hours there is no contraction, so the extent gives no information in those periods; rigor also varies with temperature and the individual."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-69.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-70.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-71.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q25-3.jpg"
+     ]
     },
     {
      "id": "6C-Q26a",
@@ -62767,16 +64916,23 @@ window.BANK.biology = {
       "past plants"
      ],
      "question": "Explain why the abundance of the pollen types changes over time, as shown in the diagram of pollen in the New Mexico site.",
-     "status": "pending",
-     "answer": "Needs the pollen diagram showing the abundance of each pollen type over time (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Tree pollen falls over time while pollen from cereal crops (from about 3500 years ago) and beans (from about 2900 years ago) increases, because people cleared forest to grow food crops.",
+     "steps": [
+      "About 4000 years ago tree pollen is most abundant and there is no pollen from cereal crops or beans, so the area was mostly forest.",
+      "Cereal crop pollen first appears about 3500 years ago and increases to 2200 years ago, and bean pollen appears about 2900 years ago and then increases, so farming started and spread.",
+      "Tree pollen decreases over the same time because trees were cut down (deforestation) to make space for growing crops and probably for building and fuel.",
+      "As the human population grew, more land was used for cereals and beans to provide food for people and their animals."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-72.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-73.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-74.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-75.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q27.jpg"
+     ]
     },
     {
      "id": "6C-Q27b(i)",
@@ -62793,16 +64949,21 @@ window.BANK.biology = {
       "range"
      ],
      "question": "Which is the difference between the maximum and minimum temperatures in May? Options: A 5 deg C, B 8 deg C, C 10 deg C, D 16 deg C.",
-     "status": "pending",
-     "answer": "Needs the graph of maximum and minimum mean temperatures for May (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 8 deg C",
+     "steps": [
+      "In May the maximum temperature bar reaches about 16 deg C and the minimum temperature bar reaches about 8 deg C.",
+      "Difference = 16 - 8 = 8 deg C."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-72.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-73.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-74.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-75.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q27-2.jpg"
+     ]
     },
     {
      "id": "6C-Q27b(ii)",
@@ -62836,7 +64997,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-74.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-75.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q27-2.jpg"
+     ]
     },
     {
      "id": "6C-Q28a",
@@ -62883,15 +65046,21 @@ window.BANK.biology = {
       "mammal"
      ],
      "question": "Using the cooling curve and the formula given, calculate the body temperature of a mammal that had been dead for 15 hours, to 1 decimal place.",
-     "status": "pending",
-     "answer": "Needs the cooling curve graph and the temperature formula shown with it (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "26.1 deg C",
+     "steps": [
+      "Read the graph at 15 hours: the body temperature is about 79 deg F.",
+      "Convert with the formula: temperature in deg C = 5 x (79 - 32) / 9 = 5 x 47 / 9.",
+      "= 235 / 9 = 26.1 deg C (1 d.p.)."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-75.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-76.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-77.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q28.jpg"
+     ]
     },
     {
      "id": "6C-Q28b(ii)",
@@ -62921,7 +65090,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-76.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-77.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q28.jpg"
+     ]
     },
     {
      "id": "6C-Q28b(iii)",
@@ -62938,15 +65109,22 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Write the equation for the cooling curve shown in the graph, in the format y = mx + c.",
-     "status": "pending",
-     "answer": "Needs the cooling curve graph values to find the gradient m and intercept c (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "y = -1.3x + 98.6 (y = body temperature in deg F, x = time after death in hours)",
+     "steps": [
+      "The plotted points lie on a straight line, so use y = mx + c with y as body temperature in deg F and x as time in hours.",
+      "Intercept c: the line meets the y-axis at about 98.6 deg F (the temperature at death, x = 0).",
+      "Gradient m = change in y / change in x = (65.5 - 98.6) / (25 - 0) = about -1.3 deg F per hour (negative as the body is cooling).",
+      "Equation: y = -1.3x + 98.6; check at 15 hours: -1.3 x 15 + 98.6 = 79.1 deg F, which agrees with the graph."
+     ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-75.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-76.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-77.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q28.jpg"
+     ]
     }
    ]
   },
@@ -63121,15 +65299,21 @@ window.BANK.biology = {
       "significant figures"
      ],
      "question": "The muscle strength before moderate training was 12.5 a.u. Calculate the muscle strength after 12 weeks of moderate training, to 3 significant figures.",
-     "status": "pending",
-     "answer": "Needs the graph value of muscle strength after 12 weeks of moderate training (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "15.9 a.u.",
+     "steps": [
+      "Read the left-hand graph: the percentage increase in strength after moderate training is about 27.5%.",
+      "Increase in strength = 12.5 x 27.5 / 100 = 3.44 a.u.",
+      "Strength after 12 weeks = 12.5 + 3.44 = 15.9 a.u. (3 s.f.); equivalent to 12.5 x 1.275 = 15.9."
+     ],
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-02.jpg",
       "papers/biology/img/07A-Cellular-Respiration-03.jpg",
       "papers/biology/img/07A-Cellular-Respiration-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07A-Cellular-Respiration-Q2.jpg"
+     ]
     },
     {
      "id": "7A-Q2b(i)",
@@ -63160,7 +65344,9 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-03.jpg",
       "papers/biology/img/07A-Cellular-Respiration-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07A-Cellular-Respiration-Q2.jpg"
+     ]
     },
     {
      "id": "7A-Q2b(ii)",
@@ -63177,15 +65363,22 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Comment on the effect of exercise on this muscle, using the information in the graphs and the table.",
-     "status": "pending",
-     "answer": "Needs the strength and cross-sectional area graphs and the fibre-type table (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Training increases strength and muscle size, more with moderate than low training, and changes fibre type: fast twitch fibres fall (6% to 1%) and intermediate fibres rise (50% to 55%), while slow twitch stays at 44%.",
+     "steps": [
+      "Strength increased by about 22% after low training and about 27.5% after moderate training, so more training gave a greater increase.",
+      "The cross-sectional area rose by about 2.1 cm^2 with low training and by 3 cm^2 or more with moderate training; the extra strength is linked to larger muscle (more myofibrils in the fibres).",
+      "Fibre types changed: fast twitch fell from 6% to 2% (low) and 1% (moderate), and intermediate rose from 50% to 54% and 55%, so fast fibres became intermediate fibres; slow twitch stayed at 44%.",
+      "Limitation: only one muscle or a small sample is shown, so the effect may not be general."
+     ],
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-02.jpg",
       "papers/biology/img/07A-Cellular-Respiration-03.jpg",
       "papers/biology/img/07A-Cellular-Respiration-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07A-Cellular-Respiration-Q2.jpg"
+     ]
     },
     {
      "id": "7A-Q3a",
@@ -63202,15 +65395,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Complete the table to show one other product of each stage of aerobic respiration that also produces ATP.",
-     "status": "pending",
-     "answer": "Needs the table of respiration stages and product boxes (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Glycolysis: pyruvate (or reduced NAD); Krebs cycle: carbon dioxide (or reduced NAD or reduced FAD); oxidative phosphorylation: water.",
+     "steps": [
+      "Glycolysis splits glucose into two pyruvate molecules and also gives reduced NAD; either pyruvate or reduced NAD is accepted.",
+      "The Krebs cycle gives CO2 (decarboxylation), as well as reduced NAD and reduced FAD.",
+      "In oxidative phosphorylation oxygen accepts electrons and H+ at the end of the electron transport chain, forming water (and oxidised NAD and FAD)."
+     ],
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-04.jpg",
       "papers/biology/img/07A-Cellular-Respiration-05.jpg",
       "papers/biology/img/07A-Cellular-Respiration-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07A-Cellular-Respiration-Q3.jpg"
+     ]
     },
     {
      "id": "7A-Q3b",
@@ -63227,15 +65426,21 @@ window.BANK.biology = {
       "stoichiometry"
      ],
      "question": "Complete the incomplete equation for the aerobic respiration of a substrate by inserting the numbers that balance it.",
-     "status": "pending",
-     "answer": "Needs the incomplete equation with dotted lines (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C57H104O6 + 80 O2 -> 57 CO2 + 52 H2O",
+     "steps": [
+      "Carbon: 57 C on the left, so 57 CO2 on the right.",
+      "Hydrogen: 104 H on the left gives 52 H2O, which matches the equation.",
+      "Oxygen on the right = (57 x 2) + 52 = 166 atoms; the substrate supplies 6, so O2 must supply 160 atoms, so 80 O2."
+     ],
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-04.jpg",
       "papers/biology/img/07A-Cellular-Respiration-05.jpg",
       "papers/biology/img/07A-Cellular-Respiration-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07A-Cellular-Respiration-Q3-2.jpg"
+     ]
     },
     {
      "id": "7A-Q3c(i)",
@@ -63373,16 +65578,22 @@ window.BANK.biology = {
       "stages"
      ],
      "question": "Which row of the table shows the location of each of the three stages of aerobic respiration with enzyme-catalysed reactions?",
-     "status": "pending",
-     "answer": "Needs the table of locations (rows) for each stage (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: glycolysis in the cytoplasm, link reaction and Krebs cycle in the mitochondrial matrix.",
+     "steps": [
+      "Glycolysis occurs in the cytoplasm, because the enzymes for splitting glucose are free in the cell cytosol.",
+      "The link reaction and Krebs cycle occur in the mitochondrial matrix, which contains the enzymes for them.",
+      "Only row B has cytoplasm, matrix, matrix."
+     ],
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-06.jpg",
       "papers/biology/img/07A-Cellular-Respiration-07.jpg",
       "papers/biology/img/07A-Cellular-Respiration-08.jpg",
       "papers/biology/img/07A-Cellular-Respiration-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07A-Cellular-Respiration-Q4.jpg"
+     ]
     },
     {
      "id": "7A-Q4a(ii)",
@@ -63431,16 +65642,21 @@ window.BANK.biology = {
       "expected changes"
      ],
      "question": "Hydramethylnon inhibits the electron transport chain. Which row of the table shows the expected changes caused by hydramethylnon?",
-     "status": "pending",
-     "answer": "Needs the table of rows showing expected changes (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: oxygen consumption decreases and lactate production increases.",
+     "steps": [
+      "If the electron transport chain is inhibited, oxygen is not used as the final electron acceptor, so oxygen consumption decreases.",
+      "Less ATP is made by oxidative phosphorylation, so cells make ATP from glycolysis alone (anaerobic respiration), which makes lactate, so lactate production increases."
+     ],
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-06.jpg",
       "papers/biology/img/07A-Cellular-Respiration-07.jpg",
       "papers/biology/img/07A-Cellular-Respiration-08.jpg",
       "papers/biology/img/07A-Cellular-Respiration-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07A-Cellular-Respiration-Q4-2.jpg"
+     ]
     },
     {
      "id": "7A-Q4b",
@@ -63457,16 +65673,23 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate how many times greater the metabolic rate of the field mouse is than that of the southern elephant seal, using the oxygen consumption and body mass data.",
-     "status": "pending",
-     "answer": "Needs the table of oxygen consumption and body mass for the two animals (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 549 times (5.49 x 10^2)",
+     "steps": [
+      "Metabolic rate = oxygen consumption / body mass, in cm^3 g^-1 h^-1.",
+      "Southern elephant seal: 1.82 x 10^4 / 5.00 x 10^6 = 3.64 x 10^-3 cm^3 g^-1 h^-1.",
+      "Field mouse: 20.00 / 10.00 = 2.00 cm^3 g^-1 h^-1.",
+      "Ratio = 2.00 / 3.64 x 10^-3 = 549 (about 550), so the mouse's metabolic rate is about 549 times greater."
+     ],
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-06.jpg",
       "papers/biology/img/07A-Cellular-Respiration-07.jpg",
       "papers/biology/img/07A-Cellular-Respiration-08.jpg",
       "papers/biology/img/07A-Cellular-Respiration-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07A-Cellular-Respiration-Q4-3.jpg"
+     ]
     },
     {
      "id": "7A-Q4c",
@@ -63483,16 +65706,25 @@ window.BANK.biology = {
       "saltwater"
      ],
      "question": "Discuss the roles of aerobic and anaerobic respiration in the active crocodiles, using the lactate production graph and your own knowledge.",
-     "status": "pending",
-     "answer": "Needs the graph of lactate production rate for individual crocodiles (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Active crocodiles use both: aerobic respiration gives most ATP for sustained activity, while anaerobic respiration (lactate production) gives fast extra ATP, used most by small crocodiles and much less per gram by large ones.",
+     "steps": [
+      "Lactate is only produced by anaerobic respiration, so every active crocodile in the graph is making some ATP anaerobically, giving ATP rapidly in bursts of activity (for example to catch prey or escape) when oxygen supply to muscles cannot keep up.",
+      "The graph shows that the lactate production rate depends on body mass: about 5 to 10 micromol min^-1 g^-1 in crocodiles of 0.3 to 20 kg, falling to about 1 micromol min^-1 g^-1 at about 200 kg, so smaller crocodiles rely more on anaerobic respiration per gram.",
+      "Small crocodiles have a higher metabolic rate per gram (larger surface area to volume ratio), so their oxygen supply is less able to meet demand and they use anaerobic respiration more; large crocodiles rely more on aerobic respiration.",
+      "Aerobic respiration (link reaction, Krebs cycle, oxidative phosphorylation in mitochondria) gives about 32 to 38 ATP per glucose and no lactate, so it supports longer activity and is used to recover after exercise.",
+      "Anaerobic respiration (glycolysis only) gives only 2 ATP per glucose and lactate lowers pH in muscle, causing fatigue, so it can only be used for a short time; lactate is later removed by aerobic respiration (oxygen debt).",
+      "Each point is one crocodile, so there is considerable scatter (for example about 3 to 10 at 0.3 kg), and the trend line is only a general guide."
+     ],
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-06.jpg",
       "papers/biology/img/07A-Cellular-Respiration-07.jpg",
       "papers/biology/img/07A-Cellular-Respiration-08.jpg",
       "papers/biology/img/07A-Cellular-Respiration-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07A-Cellular-Respiration-Q4-4.jpg"
+     ]
     },
     {
      "id": "7A-Q5a",
@@ -63509,15 +65741,21 @@ window.BANK.biology = {
       "measurement"
      ],
      "question": "The mitochondrion is 2000 nm long. Calculate its width between X and Y in the micrograph.",
-     "status": "pending",
-     "answer": "Needs the micrograph to measure X to Y against the mitochondrion length (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 640 nm (accept 600 to 680 nm)",
+     "steps": [
+      "Measure the length of the mitochondrion on the micrograph along its long axis: about 79 mm on the printed page.",
+      "Measure the distance X to Y in the same units: about 25 mm.",
+      "Scale: 79 mm on the picture = 2000 nm, so width = (25 / 79) x 2000 = about 640 nm."
+     ],
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-09.jpg",
       "papers/biology/img/07A-Cellular-Respiration-10.jpg",
       "papers/biology/img/07A-Cellular-Respiration-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07A-Cellular-Respiration-Q5.jpg"
+     ]
     },
     {
      "id": "7A-Q5b",
@@ -64234,14 +66472,20 @@ window.BANK.biology = {
       "glucose"
      ],
      "question": "Which is the correct order of the stages of respiration required for the complete oxidation of glucose? The options are not in the text.",
-     "status": "pending",
-     "answer": "Needs the list of options for the order of stages (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: glycolysis, link reaction, Krebs cycle.",
+     "steps": [
+      "Glucose is first split into pyruvate by glycolysis in the cytoplasm.",
+      "Pyruvate then enters the mitochondrion for the link reaction, which makes acetyl CoA.",
+      "Acetyl CoA is then oxidised in the Krebs cycle, so the order is glycolysis, link reaction, Krebs cycle (row B)."
+     ],
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-20.jpg",
       "papers/biology/img/07A-Cellular-Respiration-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07A-Cellular-Respiration-Q10.jpg"
+     ]
     },
     {
      "id": "7A-Q10b",
@@ -64406,15 +66650,21 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "The actual length of the mitochondrion between X and Y is 2.7 m (as stated). Calculate the magnification, in standard form.",
-     "status": "pending",
-     "answer": "Needs the length of the mitochondrion between X and Y measured on the photograph (not in text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 1.6 x 10^4 (accept 1.5 to 1.7 x 10^4)",
+     "steps": [
+      "Measure the length of the mitochondrion between the lines X and Y on the photograph: about 44 mm.",
+      "Convert the actual length to the same unit: 2.7 micrometres = 2.7 x 10^-3 mm.",
+      "Magnification = image size / actual size = 44 / 2.7 x 10^-3 = about 16 000 = 1.6 x 10^4."
+     ],
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-21.jpg",
       "papers/biology/img/07A-Cellular-Respiration-22.jpg",
       "papers/biology/img/07A-Cellular-Respiration-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07A-Cellular-Respiration-Q11.jpg"
+     ]
     },
     {
      "id": "7A-Q11b",

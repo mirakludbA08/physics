@@ -19,12 +19,19 @@
         "forest"
       ],
       "question": "Complete the productivity diagram by writing the word or words for box A and box B.",
-      "status": "pending",
-      "answer": "Missing: the diagram with boxes A and B is not in the text, so the words cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Box A: gross primary productivity (GPP); Box B: respiration (energy lost by the plants as heat).",
+      "steps": [
+        "Photosynthesis feeds into box A, the total energy fixed by the plants, which is gross primary productivity.",
+        "Part of this energy is used by the plants in respiration and lost as heat (box B).",
+        "The remainder is stored as new biomass: NPP = GPP - respiration."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-001.jpg",
         "papers/biology/img/05BC-Ecology-Climate-002.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q1.jpg"
       ]
     },
     {
@@ -127,14 +134,22 @@
         "zonation"
       ],
       "question": "Explain how the distribution and abundance of Chthamalus and Balanus on the rock show that they occupy different niches.",
-      "status": "pending",
-      "answer": "Missing: the diagram showing the distribution of the two barnacle types on the rock is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Chthamalus lives high on the shore and Balanus lower down, with little overlap, so they use different parts of the habitat and are different niches; Balanus is more abundant overall.",
+      "steps": [
+        "Chthamalus (small oval barnacles) is found only on the upper shore, near the highest level the seawater reaches.",
+        "Balanus (larger rounded barnacles) is found on the middle and lower shore, down to the lowest water level, and is the more abundant species.",
+        "They overlap only in a small zone, so each lives in a different part of the habitat and tolerates different conditions, e.g. Chthamalus can survive longer out of water and drying, Balanus is limited by drying out higher up.",
+        "Different niches reduce competition between the two species."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-002.jpg",
         "papers/biology/img/05BC-Ecology-Climate-003.jpg",
         "papers/biology/img/05BC-Ecology-Climate-004.jpg",
         "papers/biology/img/05BC-Ecology-Climate-005.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q2.jpg"
       ]
     },
     {
@@ -152,14 +167,22 @@
         "sample size"
       ],
       "question": "Comment on the reliability of the conclusions from the study of the surfaces on which larvae settled (graph).",
-      "status": "pending",
-      "answer": "Missing: the graph of larval settlement on each surface type is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The conclusions are only partly reliable: rock with barnacles clearly has the most settled larvae, but stones and bare rock overlap, and there is no information on sample size, what the error bars show, or a statistical test.",
+      "steps": [
+        "Means: rock with barnacles about 49, bare rock about 29, stones about 20 larvae per unit area.",
+        "The error bars for rock with barnacles (about 43 to 55) do not overlap with those of the other two surfaces, so the difference is probably real.",
+        "The error bars of stones (about 16 to 24) and bare rock (about 24 to 34) just touch, so it cannot be concluded that bare rock attracts more larvae than stones.",
+        "It is not stated what the error bars show (SD or range), how many replicates were used, or whether a statistical test (e.g. t-test) was done, and the data come from one study only."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-002.jpg",
         "papers/biology/img/05BC-Ecology-Climate-003.jpg",
         "papers/biology/img/05BC-Ecology-Climate-004.jpg",
         "papers/biology/img/05BC-Ecology-Climate-005.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q2-2.jpg"
       ]
     },
     {
@@ -192,6 +215,9 @@
         "papers/biology/img/05BC-Ecology-Climate-003.jpg",
         "papers/biology/img/05BC-Ecology-Climate-004.jpg",
         "papers/biology/img/05BC-Ecology-Climate-005.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q2-2.jpg"
       ]
     },
     {
@@ -209,14 +235,22 @@
         "factor"
       ],
       "question": "Which row of the table shows the type of factor that affected the plant species in two of these habitats?",
-      "status": "pending",
-      "answer": "Missing: the table with the rows of factor types is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: biotic factor for both.",
+      "steps": [
+        "Cutting the field regularly is the action of a living organism (human activity), so it is a biotic factor.",
+        "Competition with trees for water is competition between living organisms, so it is also a biotic factor.",
+        "Only row D has biotic for both."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-005.jpg",
         "papers/biology/img/05BC-Ecology-Climate-006.jpg",
         "papers/biology/img/05BC-Ecology-Climate-007.jpg",
         "papers/biology/img/05BC-Ecology-Climate-008.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q3.jpg",
+        "papers/biology/fig/05BC-Ecology-Climate-Q3-2.jpg"
       ]
     },
     {
@@ -234,14 +268,21 @@
         "calculation"
       ],
       "question": "What is the percentage increase in the number of moss species between regularly cut fields and uncut fields? Options A 23.3, B 70.0, C 233.3, D 333.3.",
-      "status": "pending",
-      "answer": "Missing: the moss species numbers are read from the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 233.3",
+      "steps": [
+        "Moss in the regularly cut fields = 0.3 species; in uncut fields = 1.0.",
+        "Increase = 1.0 - 0.3 = 0.7.",
+        "Percentage increase = 0.7 / 0.3 x 100 = 233.3%."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-005.jpg",
         "papers/biology/img/05BC-Ecology-Climate-006.jpg",
         "papers/biology/img/05BC-Ecology-Climate-007.jpg",
         "papers/biology/img/05BC-Ecology-Climate-008.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q3.jpg"
       ]
     },
     {
@@ -272,6 +313,9 @@
         "papers/biology/img/05BC-Ecology-Climate-006.jpg",
         "papers/biology/img/05BC-Ecology-Climate-007.jpg",
         "papers/biology/img/05BC-Ecology-Climate-008.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q3.jpg"
       ]
     },
     {
@@ -289,14 +333,20 @@
         "frequency"
       ],
       "question": "Which option describes what P represents on the genome size graph? A maximum on a bar chart, B maximum on a histogram, C mode on a bar chart, D mode on a histogram.",
-      "status": "pending",
-      "answer": "Missing: the genome size graph showing P is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: the mode genome size on a histogram.",
+      "steps": [
+        "P is the tallest bar, so it is the most frequent genome size, the mode.",
+        "The bars touch and the x-axis is a continuous variable (increase in genome size), so this is a histogram, not a bar chart."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-005.jpg",
         "papers/biology/img/05BC-Ecology-Climate-006.jpg",
         "papers/biology/img/05BC-Ecology-Climate-007.jpg",
         "papers/biology/img/05BC-Ecology-Climate-008.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q3-3.jpg"
       ]
     },
     {
@@ -314,14 +364,21 @@
         "graph"
       ],
       "question": "Calculate the frequency of the genome size missing from the graph for class 2 mosses.",
-      "status": "pending",
-      "answer": "Missing: the frequencies shown on the class 2 moss graph are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "2",
+      "steps": [
+        "Class 1 mosses: 1 + 4 + 9 + 7 = 21 species.",
+        "So class 2 has 30 - 21 = 9 species.",
+        "Class 2 bars shown: 1 + 4 + 2 = 7, so the missing frequency is 9 - 7 = 2."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-005.jpg",
         "papers/biology/img/05BC-Ecology-Climate-006.jpg",
         "papers/biology/img/05BC-Ecology-Climate-007.jpg",
         "papers/biology/img/05BC-Ecology-Climate-008.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q3-3.jpg"
       ]
     },
     {
@@ -369,14 +426,20 @@
         "polyploidy"
       ],
       "question": "Give the evidence from the graphs that supports the suggestion that the chromosomes in class 2 mosses are found in pairs.",
-      "status": "pending",
-      "answer": "Missing: the evidence is shown in the genome size graphs, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The mean genome size of class 2 mosses (0.920 a.u.) is about twice that of class 1 mosses (0.449 a.u.), so the chromosome number (and DNA) is about doubled, as expected if they are in pairs.",
+      "steps": [
+        "The ratio of class 1 to class 2 genome size is about 0.49 : 1, so class 2 is about 2 times larger.",
+        "A doubled amount of DNA fits with class 2 having two sets of chromosomes, which are found in pairs."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-005.jpg",
         "papers/biology/img/05BC-Ecology-Climate-006.jpg",
         "papers/biology/img/05BC-Ecology-Climate-007.jpg",
         "papers/biology/img/05BC-Ecology-Climate-008.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q3-3.jpg"
       ]
     },
     {
@@ -394,13 +457,21 @@
         "arctic"
       ],
       "question": "Which row of the table describes the types of adaptation of polar bears?",
-      "status": "pending",
-      "answer": "Missing: the table of adaptation rows is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: thick fur coat is anatomical, hunting by sitting on ice is behavioural, and producing metabolic water is physiological.",
+      "steps": [
+        "A thick fur coat is a physical structure, so it is an anatomical adaptation.",
+        "Sitting on the ice to wait for seals is something the bear does, so it is behavioural.",
+        "Producing metabolic water is a metabolic process, so it is physiological.",
+        "Only row D has all three in the correct columns."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-008.jpg",
         "papers/biology/img/05BC-Ecology-Climate-009.jpg",
         "papers/biology/img/05BC-Ecology-Climate-010.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q4.jpg"
       ]
     },
     {
@@ -567,15 +638,25 @@
         "effectiveness"
       ],
       "question": "Determine the effectiveness of painting stripes on cattle in reducing biting flies, using the graph and both tables.",
-      "status": "pending",
-      "answer": "Missing: the graph and both tables of fly-repelling behaviour data are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Painting black and white stripes is effective, cutting biting flies by about half, but painting black stripes only is not.",
+      "steps": [
+        "Mean flies on body and legs: unpainted about 128, black and white stripes about 58 (about 55% fewer), black stripes about 111 (about 13% fewer).",
+        "The error bars of black and white stripes (about 45 to 68) do not overlap those of unpainted (about 114 to 144), so the reduction is probably significant, but black stripes (about 95 to 132) overlap unpainted, so there is probably no real difference.",
+        "Table 1 totals: 1971 flies on unpainted cattle, 941 on black and white (52% fewer) and 1707 on black stripes (13% fewer); black and white stripes cut flies on the body by 65% (231 v 662) but on the legs by only 46% (710 v 1309).",
+        "Table 2: cattle with black and white stripes flicked tails less (42 v 54) and stamped less (10 v 16), so they were less troubled by flies, whereas black-striped cattle behaved like unpainted cattle (55 and 16); skin twitching was slightly higher in black and white (8 v 5).",
+        "So the white stripes (contrast) seem to be needed; limitations are that only black cattle were used, the numbers of cattle and the length of the trial are not stated, and legs still had many flies."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-010.jpg",
         "papers/biology/img/05BC-Ecology-Climate-011.jpg",
         "papers/biology/img/05BC-Ecology-Climate-012.jpg",
         "papers/biology/img/05BC-Ecology-Climate-013.jpg",
         "papers/biology/img/05BC-Ecology-Climate-014.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q5.jpg",
+        "papers/biology/fig/05BC-Ecology-Climate-Q5-2.jpg"
       ]
     },
     {
@@ -795,13 +876,20 @@
         "calculation"
       ],
       "question": "Land occupies 149 million km2 of Earth's surface; 71% is habitable and some is used for food production. Calculate the area used for food production, in standard form.",
-      "status": "pending",
-      "answer": "Missing: the fraction of habitable land used for food production is not in the text. Habitable land is 1.06 x 10^8 km2 (149 million x 0.71).",
-      "steps": [],
+      "status": "ready",
+      "answer": "5.3 x 10^7 km^2",
+      "steps": [
+        "Habitable land = 71% of 149 million km^2 = 149 x 0.71 = 105.8 million km^2.",
+        "The pie chart shows 50% of habitable land is used for food production.",
+        "Area = 105.8 x 0.50 = 52.9 million km^2 = 5.3 x 10^7 km^2 (5.29 x 10^7)."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-016.jpg",
         "papers/biology/img/05BC-Ecology-Climate-017.jpg",
         "papers/biology/img/05BC-Ecology-Climate-018.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q7.jpg"
       ]
     },
     {
@@ -819,13 +907,20 @@
         "impact"
       ],
       "question": "Estimate the effect of food production on the ratio of biodiversity of mammals.",
-      "status": "pending",
-      "answer": "Missing: the diagram showing the impact of food production on the mammal biodiversity ratio is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 94 : 6 (about 16 : 1), related to food production : not related.",
+      "steps": [
+        "The pie chart for biodiversity of mammals is divided into a large dark sector (related to food production) and a small pale sector (not related).",
+        "The pale sector is about 21 degrees, which is about 6% of 360 degrees.",
+        "So about 94% is related and 6% is not, a ratio of about 94 : 6, or about 16 : 1."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-016.jpg",
         "papers/biology/img/05BC-Ecology-Climate-017.jpg",
         "papers/biology/img/05BC-Ecology-Climate-018.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q7.jpg"
       ]
     },
     {
@@ -843,13 +938,22 @@
         "area per kilogram"
       ],
       "question": "Explain how food production could be made more sustainable, using the diagram of land area used per kilogram of food products and own knowledge.",
-      "status": "pending",
-      "answer": "Missing: the diagram of land area used per kilogram for each food product is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Food production could be made more sustainable by eating less beef and lamb and more plant foods, chicken, fish and eggs, which need far less land, together with other measures such as better yields and less waste.",
+      "steps": [
+        "Beef (326 m^2) and lamb/mutton (370 m^2) need over 25 times more land per kg than chicken (12 m^2) and about 100 times more than most crops such as wheat (4), rice (3) and potatoes (1), so reducing meat from ruminants cuts land use.",
+        "Using less land leaves more habitat, reducing deforestation and loss of biodiversity, and keeps forests that store carbon; ruminants also release methane, so fewer cattle and sheep reduce greenhouse gases.",
+        "Eating at a lower trophic level is more efficient because only about 10% of energy passes to the next trophic level, so plant crops feed more people per hectare.",
+        "Sustainable farming methods: crop rotation or legumes to reduce fertiliser, integrated pest management, higher yielding or GM crop varieties, less food waste, and renewable energy.",
+        "Evaluation: some animal products supply protein and vitamins, so a balance with plant proteins such as soybeans is needed, and fish farming should not pollute water."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-016.jpg",
         "papers/biology/img/05BC-Ecology-Climate-017.jpg",
         "papers/biology/img/05BC-Ecology-Climate-018.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q7-2.jpg"
       ]
     },
     {
@@ -881,6 +985,9 @@
         "papers/biology/img/05BC-Ecology-Climate-021.jpg",
         "papers/biology/img/05BC-Ecology-Climate-022.jpg",
         "papers/biology/img/05BC-Ecology-Climate-023.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q8.jpg"
       ]
     },
     {
@@ -898,15 +1005,22 @@
         "population"
       ],
       "question": "Calculate the percentage decrease in the number of moose from 1994 to 2016, using the graph.",
-      "status": "pending",
-      "answer": "Missing: the moose numbers in 1994 and 2016 are read from the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 55% decrease.",
+      "steps": [
+        "Number of moose in 1994 = about 7.6 x 10^3; in 2016 = about 3.4 x 10^3.",
+        "Decrease = 7.6 - 3.4 = 4.2 (x 10^3).",
+        "Percentage decrease = 4.2 / 7.6 x 100 = 55%."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-019.jpg",
         "papers/biology/img/05BC-Ecology-Climate-020.jpg",
         "papers/biology/img/05BC-Ecology-Climate-021.jpg",
         "papers/biology/img/05BC-Ecology-Climate-022.jpg",
         "papers/biology/img/05BC-Ecology-Climate-023.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q8.jpg"
       ]
     },
     {
@@ -924,15 +1038,24 @@
         "relationship"
       ],
       "question": "Sketch a graph to show the relationship suggested between global warming and the decrease in the number of moose from 1994 to 2016.",
-      "status": "pending",
-      "answer": "Missing: a drawn sketch cannot be given in text; expected is a graph with temperature rising and moose numbers falling, with labelled axes.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A graph with a downward-sloping line: moose numbers fall as global temperature rises (a negative correlation).",
+      "steps": [
+        "Label the x-axis with global (mean) temperature or year, rising to the right, and the y-axis with number of moose.",
+        "Draw a line or curve that starts high on the left and slopes down to the right, showing moose numbers decreasing as temperature rises.",
+        "If time is used on the x-axis, show two lines on the same axes: temperature rising and moose number falling.",
+        "Add units (degrees C and number of moose x 10^3)."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-019.jpg",
         "papers/biology/img/05BC-Ecology-Climate-020.jpg",
         "papers/biology/img/05BC-Ecology-Climate-021.jpg",
         "papers/biology/img/05BC-Ecology-Climate-022.jpg",
         "papers/biology/img/05BC-Ecology-Climate-023.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q8.jpg",
+        "papers/biology/fig/05BC-Ecology-Climate-Q8-2.jpg"
       ]
     },
     {
@@ -950,15 +1073,22 @@
         "parasites"
       ],
       "question": "Calculate the percentage of moose that have 50 000 or more ticks on their bodies, using the frequency table.",
-      "status": "pending",
-      "answer": "Missing: the frequency distribution table of tick numbers is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "19%",
+      "steps": [
+        "Total moose = 32 + 46 + 41 + 32 + 22 + 15 + 9 + 4 + 4 + 3 + 6 = 214.",
+        "Moose with 50 000 or more ticks = 15 + 9 + 4 + 4 + 3 + 6 = 41.",
+        "Percentage = 41 / 214 x 100 = 19.2% = 19%."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-019.jpg",
         "papers/biology/img/05BC-Ecology-Climate-020.jpg",
         "papers/biology/img/05BC-Ecology-Climate-021.jpg",
         "papers/biology/img/05BC-Ecology-Climate-022.jpg",
         "papers/biology/img/05BC-Ecology-Climate-023.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q8-3.jpg"
       ]
     },
     {
@@ -976,15 +1106,26 @@
         "decline"
       ],
       "question": "Explain how global warming might affect the life cycle of ticks and result in the decline of moose, using all the information including the tick life-cycle diagram.",
-      "status": "pending",
-      "answer": "Missing: the tick life-cycle diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Warmer winters mean less snow, so more tick larvae and engorged females survive; more ticks per moose cause blood loss and fur loss, so moose are weakened and die.",
+      "steps": [
+        "Global warming gives shorter, milder winters with less snow cover, so more larvae can climb vegetation and attach to moose in autumn (they cannot if covered in snow).",
+        "In early spring more engorged females drop onto ground without snow, so fewer die and more survive to lay eggs in June, so the tick population increases.",
+        "Warmer temperatures may lengthen the active season and speed up development, so more ticks feed on each moose; the table shows about 19% of moose already carry 50 000 or more ticks.",
+        "Each tick removes 200 to 600 times its body mass in blood, so heavily infested moose lose much blood, become anaemic and weak.",
+        "Irritation makes moose scratch on trees and lose large clumps of fur, so they lose insulation, lose heat in winter and use more energy.",
+        "Weakened moose are less likely to survive or breed (calf survival falls), so the number of moose declines, as in the graph (from 7.6 to 3.4 x 10^3)."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-019.jpg",
         "papers/biology/img/05BC-Ecology-Climate-020.jpg",
         "papers/biology/img/05BC-Ecology-Climate-021.jpg",
         "papers/biology/img/05BC-Ecology-Climate-022.jpg",
         "papers/biology/img/05BC-Ecology-Climate-023.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q8-3.jpg",
+        "papers/biology/fig/05BC-Ecology-Climate-Q8-4.jpg"
       ]
     },
     {
@@ -1061,14 +1202,21 @@
         "before and after"
       ],
       "question": "Determine the effect of the volcanic eruption on environmental temperature, using the graph.",
-      "status": "pending",
-      "answer": "Missing: the graph of temperature before and after the eruption is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The eruption caused a temporary fall in temperature of about 0.3 C, lowest (about -0.28 C) about 1 year after the eruption, returning to near 0 by about 3 years.",
+      "steps": [
+        "Before the eruption the temperature change varies between about -0.1 and +0.1 C.",
+        "After the eruption (time 0) it falls to a minimum of about -0.28 C at about 1 year, about 0.3 to 0.4 C lower than before.",
+        "It then rises again and is back to about 0 C by about 3 years, so the cooling effect lasts only a few years."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-023.jpg",
         "papers/biology/img/05BC-Ecology-Climate-024.jpg",
         "papers/biology/img/05BC-Ecology-Climate-025.jpg",
         "papers/biology/img/05BC-Ecology-Climate-026.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q9.jpg"
       ]
     },
     {
@@ -1086,14 +1234,22 @@
         "atmosphere"
       ],
       "question": "Explain the results shown in the graph, given that sulfur dioxide and ash particles reduce the light passing through the atmosphere.",
-      "status": "pending",
-      "answer": "Missing: the graph results (the temperature change) are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Ash and sulfur dioxide (sulfate aerosols) reflect and scatter sunlight, so less light and heat reach the Earth's surface and the temperature falls; as the particles settle out within a few years, temperature recovers.",
+      "steps": [
+        "The ash and sulfur dioxide spread through the atmosphere and reflect or scatter sunlight.",
+        "Less solar radiation reaches the Earth's surface, so less heat is absorbed and the environmental temperature falls (minimum about -0.28 C at about 1 year).",
+        "Less light also reduces photosynthesis, so less carbon dioxide is removed from the air.",
+        "Over about 3 years the particles fall out or are washed out of the atmosphere, so more light reaches the surface and temperature returns to normal."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-023.jpg",
         "papers/biology/img/05BC-Ecology-Climate-024.jpg",
         "papers/biology/img/05BC-Ecology-Climate-025.jpg",
         "papers/biology/img/05BC-Ecology-Climate-026.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q9.jpg"
       ]
     },
     {
@@ -1141,14 +1297,21 @@
         "discussion"
       ],
       "question": "Discuss the possible effects of volcanic eruptions on climate change, using the CO2 graph for 1958 to 2004 and the eruptions in 1963, 1980, 1982 and 1991.",
-      "status": "pending",
-      "answer": "Missing: the graph of CO2 levels from 1958 to 2004 is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Eruptions cause short cooling but do not change the rise in CO2: the CO2 graph shows no obvious change at 1963, 1980, 1982 or 1991, and the steady rise is due to human activity, so eruptions have little long-term effect on climate change.",
+      "steps": [
+        "The CO2 level rises steadily from about 315 to about 387 a.u. between 1958 and 2004, with no clear dip or rise at the eruption years (1963, 1980, 1982, 1991).",
+        "One eruption releases only 5 x 10^7 tons of CO2, whereas human activity releases 3.5 x 10^10 tons a year (700 times more), so volcanoes add little to the CO2 rise.",
+        "Eruptions can cool the climate by about 0.3 C for about 3 years, but this effect is short-lived and does not offset long-term warming caused by the increase in CO2 from human activities."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-023.jpg",
         "papers/biology/img/05BC-Ecology-Climate-024.jpg",
         "papers/biology/img/05BC-Ecology-Climate-025.jpg",
         "papers/biology/img/05BC-Ecology-Climate-026.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q9-2.jpg"
       ]
     },
     {
@@ -1165,14 +1328,15 @@
         "statements",
         "glucose monomer"
       ],
-      "question": "How many of the four statements describe glycogen? 1 monomer is glucose; 2 made from two different polymers; 3 has 1,4 and 1,6 glycosidic bonds; 4 is insoluble. Options A 1, B 2, C 3, D 4.",
+      "question": "How many of the four statements describe glycogen? 1 The monomer is beta glucose; 2 It is made from two different types of polymer; 3 There are 1,4 and 1,6 glycosidic bonds; 4 It is insoluble. Options A 1, B 2, C 3, D 4.",
       "status": "ready",
-      "answer": "C: 3 (statements 1, 3 and 4).",
+      "answer": "B: 2 (statements 3 and 4).",
       "steps": [
-        "Statement 1 is true: glycogen is made of glucose monomers.",
-        "Statement 2 is false: glycogen is a single type of polymer of glucose.",
+        "Statement 1 is false: the monomer of glycogen is alpha glucose, not beta glucose.",
+        "Statement 2 is false: glycogen is a single polymer of alpha glucose.",
         "Statement 3 is true: 1,4 bonds form the chains and 1,6 bonds form the branches.",
-        "Statement 4 is true: glycogen is insoluble, so it stores glucose without changing water potential much. Total correct = 3."
+        "Statement 4 is true: glycogen is insoluble, so it stores glucose without changing water potential.",
+        "Two statements are correct, so the answer is B."
       ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-026.jpg",
@@ -1197,15 +1361,23 @@
         "hydrolysis"
       ],
       "question": "Explain the changes in the concentrations of glycogen and glucose, using the graph.",
-      "status": "pending",
-      "answer": "Missing: the graph of glycogen and plasma glucose concentrations over 48 hours is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Liver glycogen falls from about 3500 to about 2300 umol g^-1 over 48 h while plasma glucose rises from about 5 to about 200 umol cm^-3, because glycogen is broken down to glucose that enters the plasma.",
+      "steps": [
+        "Glycogen in the liver falls, e.g. from about 3500 umol g^-1 at 0 h to about 2500 at 30 h and about 2300 at 48 h.",
+        "At the same time plasma glucose rises from about 5 to about 150 umol cm^-3 at 30 h and about 200 at 48 h.",
+        "The glycogen is hydrolysed (glycogenolysis) to glucose, which is released from the liver into the plasma.",
+        "The glucose raises the solute concentration of the blood, which lowers its freezing point and protects against freezing at -16 C."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-026.jpg",
         "papers/biology/img/05BC-Ecology-Climate-027.jpg",
         "papers/biology/img/05BC-Ecology-Climate-028.jpg",
         "papers/biology/img/05BC-Ecology-Climate-029.jpg",
         "papers/biology/img/05BC-Ecology-Climate-030.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q10.jpg"
       ]
     },
     {
@@ -1223,15 +1395,22 @@
         "calculation"
       ],
       "question": "Calculate the percentage difference in the mean concentration of urea in plasma of Alaska wood frogs compared with Ohio wood frogs, using the table.",
-      "status": "pending",
-      "answer": "Missing: the mean urea concentration values in the table are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "279%",
+      "steps": [
+        "Difference = 106 - 28 = 78 umol cm^-3.",
+        "Percentage difference compared with Ohio = 78 / 28 x 100 = 278.6%.",
+        "Alaska frogs have about 279% more urea (about 3.8 times as much)."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-026.jpg",
         "papers/biology/img/05BC-Ecology-Climate-027.jpg",
         "papers/biology/img/05BC-Ecology-Climate-028.jpg",
         "papers/biology/img/05BC-Ecology-Climate-029.jpg",
         "papers/biology/img/05BC-Ecology-Climate-030.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q10-2.jpg"
       ]
     },
     {
@@ -1249,15 +1428,22 @@
         "table"
       ],
       "question": "Explain why the data for the Alaska wood frogs are more reliable than the data for the Ohio wood frogs, using the standard deviations in the table.",
-      "status": "pending",
-      "answer": "Missing: the standard deviation values for the two groups are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The Alaska data are more reliable because their standard deviation is a smaller proportion of the mean (10 / 106 = 9.4%) than for Ohio (5 / 28 = 17.9%), so the values are less spread out.",
+      "steps": [
+        "Standard deviation shows the spread of the data around the mean; a smaller spread relative to the mean means more reliable data.",
+        "Alaska: 10 / 106 x 100 = 9.4% of the mean.",
+        "Ohio: 5 / 28 x 100 = 17.9% of the mean, almost twice as variable, so the Ohio data are less reliable even though its absolute SD is lower."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-026.jpg",
         "papers/biology/img/05BC-Ecology-Climate-027.jpg",
         "papers/biology/img/05BC-Ecology-Climate-028.jpg",
         "papers/biology/img/05BC-Ecology-Climate-029.jpg",
         "papers/biology/img/05BC-Ecology-Climate-030.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q10-2.jpg"
       ]
     },
     {
@@ -1369,14 +1555,21 @@
         "diagram a"
       ],
       "question": "Calculate the percentage of biomass in organisms belonging to the domain Eukarya, using diagram A.",
-      "status": "pending",
-      "answer": "Missing: the biomass values for each domain in Voronoi diagram A are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "86%",
+      "steps": [
+        "Eukarya in diagram A: plants 450 + fungi 12 + protists 4 + animals 2 = 468 Gt C.",
+        "Total biomass = 7 (archaea) + 0.2 (viruses) + 70 (bacteria) + 468 = 545.2 Gt C.",
+        "Percentage = 468 / 545.2 x 100 = 85.8% = 86%."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-030.jpg",
         "papers/biology/img/05BC-Ecology-Climate-031.jpg",
         "papers/biology/img/05BC-Ecology-Climate-032.jpg",
         "papers/biology/img/05BC-Ecology-Climate-033.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q11.jpg"
       ]
     },
     {
@@ -1407,6 +1600,9 @@
         "papers/biology/img/05BC-Ecology-Climate-031.jpg",
         "papers/biology/img/05BC-Ecology-Climate-032.jpg",
         "papers/biology/img/05BC-Ecology-Climate-033.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q11.jpg"
       ]
     },
     {
@@ -1437,6 +1633,9 @@
         "papers/biology/img/05BC-Ecology-Climate-031.jpg",
         "papers/biology/img/05BC-Ecology-Climate-032.jpg",
         "papers/biology/img/05BC-Ecology-Climate-033.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q11.jpg"
       ]
     },
     {
@@ -1454,14 +1653,22 @@
         "environment"
       ],
       "question": "Explain the distribution of biomass in marine, deep underground and land environments, using the Voronoi diagram and the graph.",
-      "status": "pending",
-      "answer": "Missing: the Voronoi diagram for the three environments and the graph of proportions are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Land holds most biomass (470 Gt C) because plants, which are 450 Gt C and all on land, dominate; deep underground biomass (70 Gt C) is almost all bacteria and archaea; marine biomass is only 6 Gt C and mostly animals and protists.",
+      "steps": [
+        "Land has the most biomass (470 Gt C, about 86% of all biomass) because plants, the producers, make up 100% of plant biomass (450 Gt C) there, with plenty of light, water and carbon dioxide for photosynthesis, and fungi are about 97% on land.",
+        "Marine biomass is only 6 Gt C even though oceans are large, because the producers there are tiny phytoplankton with a short life and fast turnover, so little biomass exists at any one time; animals (about 76%) and protists (about 56%) are mostly marine consumers.",
+        "Deep underground biomass is 70 Gt C and about 88% of bacteria and archaea are found there; there is no light so no photosynthesis, so these prokaryotes use chemical energy or organic matter (chemosynthesis or decomposition) and live slowly in small numbers.",
+        "No plants are found underground or in deep water because they need light, and bacteria and archaea are found in all three environments."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-030.jpg",
         "papers/biology/img/05BC-Ecology-Climate-031.jpg",
         "papers/biology/img/05BC-Ecology-Climate-032.jpg",
         "papers/biology/img/05BC-Ecology-Climate-033.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q11-2.jpg"
       ]
     },
     {
@@ -1569,14 +1776,21 @@
         "carbon dioxide"
       ],
       "question": "Which row of the table shows the reactions that combine hydrogen with carbon dioxide and release oxygen into the atmosphere?",
-      "status": "pending",
-      "answer": "Missing: the table rows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: hydrogen is combined with carbon dioxide in the light-independent reactions, and oxygen is released in the light-dependent reactions.",
+      "steps": [
+        "Oxygen comes from photolysis of water, which occurs in the light-dependent reactions.",
+        "Hydrogen (as reduced NADP) is combined with carbon dioxide in the Calvin cycle, the light-independent reactions.",
+        "Only row C has both correct."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-033.jpg",
         "papers/biology/img/05BC-Ecology-Climate-034.jpg",
         "papers/biology/img/05BC-Ecology-Climate-035.jpg",
         "papers/biology/img/05BC-Ecology-Climate-036.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q12.jpg"
       ]
     },
     {
@@ -1594,14 +1808,24 @@
         "human needs"
       ],
       "question": "Discuss the considerations for deciding whether large-scale seaweed production is suitable in Europe, using the two diagrams and own knowledge.",
-      "status": "pending",
-      "answer": "Missing: the two diagrams (suspended cultivation and the factors in managing conflict) are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Large-scale seaweed farming could be suitable if the benefits (carbon absorption, food and raw materials, jobs, habitat) outweigh the costs (shading, noise, labour, transport and processing) after careful environmental assessment.",
+      "steps": [
+        "Benefits: seaweed absorbs carbon dioxide by photosynthesis, which reduces atmospheric CO2; it needs no fresh water, fertiliser or farmland and gives food, feed and fuel; the suspended rows act as an artificial habitat that shelters fish and invertebrates and can increase biodiversity.",
+        "Labour: it provides jobs and income, but labour is costly in Europe and harvesting needs people, so it may be less economic than in Asia.",
+        "Absorption of light: dense rows shade the water below, reducing photosynthesis by phytoplankton and sea grasses and affecting the food chain.",
+        "Noise from boats and machinery can disturb marine animals such as fish and whales, and lines can entangle animals; the seaweed may also remove nutrients or spread disease.",
+        "Transport and processing need energy and facilities, which add costs and carbon emissions, so sites should be near ports and processing plants.",
+        "Conclusion: weigh human needs (food, jobs, carbon capture) against conservation by carrying out environmental impact assessments, small trials, monitoring and licensing before expanding."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-033.jpg",
         "papers/biology/img/05BC-Ecology-Climate-034.jpg",
         "papers/biology/img/05BC-Ecology-Climate-035.jpg",
         "papers/biology/img/05BC-Ecology-Climate-036.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q12-2.jpg"
       ]
     },
     {
@@ -1619,15 +1843,22 @@
         "sand dunes"
       ],
       "question": "What is the difference in hydrogen ion concentration between a fore dune and a grey dune? Options: A 2 times more, B 2 times fewer, C 100 times more, D 100 times fewer.",
-      "status": "pending",
-      "answer": "Missing: the pH values of the fore dune and grey dune are in the table, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: a fore dune has 100 times fewer hydrogen ions than a grey dune.",
+      "steps": [
+        "pH of fore dune = 8.5; pH of grey dune = 6.5, a difference of 2 pH units.",
+        "Hydrogen ion concentration = 10^-pH, so fore dune is 10^-8.5 and grey dune is 10^-6.5.",
+        "The ratio is 10^-8.5 / 10^-6.5 = 10^-2 = 1/100, so the fore dune has 100 times fewer."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-036.jpg",
         "papers/biology/img/05BC-Ecology-Climate-037.jpg",
         "papers/biology/img/05BC-Ecology-Climate-038.jpg",
         "papers/biology/img/05BC-Ecology-Climate-039.jpg",
         "papers/biology/img/05BC-Ecology-Climate-040.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q13.jpg"
       ]
     },
     {
@@ -1645,15 +1876,22 @@
         "sand dunes"
       ],
       "question": "Calculate the percentage increase in the number of plant species on the grey dune compared with the fore dune.",
-      "status": "pending",
-      "answer": "Missing: the species numbers for each dune are in the table, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "650%",
+      "steps": [
+        "Species on the grey dune = 15; on the fore dune = 2.",
+        "Increase = 15 - 2 = 13.",
+        "Percentage increase = 13 / 2 x 100 = 650%."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-036.jpg",
         "papers/biology/img/05BC-Ecology-Climate-037.jpg",
         "papers/biology/img/05BC-Ecology-Climate-038.jpg",
         "papers/biology/img/05BC-Ecology-Climate-039.jpg",
         "papers/biology/img/05BC-Ecology-Climate-040.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q13.jpg"
       ]
     },
     {
@@ -1671,15 +1909,25 @@
         "explanation"
       ],
       "question": "Explain the changes in the sand dunes with distance from the sea, using the table.",
-      "status": "pending",
-      "answer": "Missing: the sand dune table with pH and species data is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The dunes show primary succession: pioneer plants on the fore dune add organic matter, which deepens and enriches the soil and lowers its pH, so conditions become less harsh and more plant species can grow with distance from the sea.",
+      "steps": [
+        "Close to the sea (fore dune) conditions are harsh: soil depth <0.5 cm, <1.0% organic matter, pH 8.5, over 97% bare ground, and only 2 species (pioneers such as sea rocket and saltwort that tolerate salt, wind and low nutrients).",
+        "The pioneers die and decompose, so organic matter increases (to 5.0% on the grey dune) and soil depth increases (8.0 cm); this holds more water and mineral ions.",
+        "Marram grass and other plants stabilise the sand, so bare ground falls from over 97% to 10% as plant cover increases.",
+        "Decomposition releases organic acids and carbonates are leached, so the pH falls from 8.5 to 6.5.",
+        "The improved soil and shelter allow more species to survive, so the number of species rises from 2 to 15 (650% increase), and these species outcompete the pioneers, giving a change in species at each stage towards a climax community of meadow plants.",
+        "Dunes further from the sea are older, so there has been more time for succession."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-036.jpg",
         "papers/biology/img/05BC-Ecology-Climate-037.jpg",
         "papers/biology/img/05BC-Ecology-Climate-038.jpg",
         "papers/biology/img/05BC-Ecology-Climate-039.jpg",
         "papers/biology/img/05BC-Ecology-Climate-040.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q13.jpg"
       ]
     },
     {
@@ -1697,15 +1945,23 @@
         "graph"
       ],
       "question": "Describe the conclusions that can be drawn from the graph of mean NPP above and below ground for fixed, semi-fixed and shifting dunes.",
-      "status": "pending",
-      "answer": "Missing: the graph of mean NPP values for the three dune types is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "NPP is highest on fixed dunes and lowest on shifting dunes, and above-ground NPP is about 3 times the below-ground NPP in each type.",
+      "steps": [
+        "Fixed dunes have the highest NPP: about 220 g m^-2 yr^-1 above ground and 70 below ground, then semi-fixed (about 125 and 45), then shifting (about 10 and 3).",
+        "NPP falls as the dunes become less stable, so stable, vegetated dunes support much more plant growth (about 22 times the above-ground NPP of shifting dunes).",
+        "In each type of dune, NPP is greater above ground than below ground (by about 3 times).",
+        "The error bars do not overlap between dune types, so the differences are likely to be real."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-036.jpg",
         "papers/biology/img/05BC-Ecology-Climate-037.jpg",
         "papers/biology/img/05BC-Ecology-Climate-038.jpg",
         "papers/biology/img/05BC-Ecology-Climate-039.jpg",
         "papers/biology/img/05BC-Ecology-Climate-040.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q13-2.jpg"
       ]
     },
     {
@@ -1738,6 +1994,9 @@
         "papers/biology/img/05BC-Ecology-Climate-038.jpg",
         "papers/biology/img/05BC-Ecology-Climate-039.jpg",
         "papers/biology/img/05BC-Ecology-Climate-040.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q13-2.jpg"
       ]
     },
     {
@@ -1767,6 +2026,9 @@
         "papers/biology/img/05BC-Ecology-Climate-040.jpg",
         "papers/biology/img/05BC-Ecology-Climate-041.jpg",
         "papers/biology/img/05BC-Ecology-Climate-042.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q14.jpg"
       ]
     },
     {
@@ -1796,6 +2058,9 @@
         "papers/biology/img/05BC-Ecology-Climate-040.jpg",
         "papers/biology/img/05BC-Ecology-Climate-041.jpg",
         "papers/biology/img/05BC-Ecology-Climate-042.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q14.jpg"
       ]
     },
     {
@@ -1826,6 +2091,9 @@
         "papers/biology/img/05BC-Ecology-Climate-040.jpg",
         "papers/biology/img/05BC-Ecology-Climate-041.jpg",
         "papers/biology/img/05BC-Ecology-Climate-042.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q14.jpg"
       ]
     },
     {
@@ -1856,6 +2124,9 @@
         "papers/biology/img/05BC-Ecology-Climate-040.jpg",
         "papers/biology/img/05BC-Ecology-Climate-041.jpg",
         "papers/biology/img/05BC-Ecology-Climate-042.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q14.jpg"
       ]
     },
     {
@@ -1872,13 +2143,20 @@
         "diagram"
       ],
       "question": "Calculate the efficiency of energy transfer between trophic level one and trophic level two, using the diagram.",
-      "status": "pending",
-      "answer": "Missing: the energy values for each trophic level in the diagram are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "8.4%",
+      "steps": [
+        "Trophic level one has 534 223 kJ and trophic level two has 44 988 kJ.",
+        "Efficiency = energy in level 2 / energy in level 1 x 100.",
+        "= 44 988 / 534 223 x 100 = 8.4%."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-040.jpg",
         "papers/biology/img/05BC-Ecology-Climate-041.jpg",
         "papers/biology/img/05BC-Ecology-Climate-042.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q14.jpg"
       ]
     },
     {
@@ -1895,13 +2173,21 @@
         "c officinalis"
       ],
       "question": "Which row of the table shows the colour of each of these seaweeds?",
-      "status": "pending",
-      "answer": "Missing: the table rows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: U. fasciata green, S. linifolium brown, C. officinalis red.",
+      "steps": [
+        "U. fasciata has by far the most chlorophyll a and b, so chlorophyll dominates and it is green.",
+        "C. officinalis has almost no chlorophyll b and relatively more carotenoids, which fits a red seaweed.",
+        "S. linifolium has less chlorophyll and its carotenoids give it a brown colour.",
+        "Row A is the only row with green, brown and red in this order."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-042.jpg",
         "papers/biology/img/05BC-Ecology-Climate-043.jpg",
         "papers/biology/img/05BC-Ecology-Climate-044.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q15.jpg"
       ]
     },
     {
@@ -1977,13 +2263,23 @@
         "compounds"
       ],
       "question": "Comment on the statement that these seaweeds are a healthy, environmentally-friendly and economic food source, using the table and own knowledge.",
-      "status": "pending",
-      "answer": "Missing: the table of compounds found in two of the seaweeds is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Partly supported: the table shows useful protein, carbohydrate and antioxidants with little lipid, and seaweeds need no land or fertiliser, but data are only for two seaweeds and give no information on cost, toxins or vitamins.",
+      "steps": [
+        "Healthy: lipid is low (2.96% and 2.16% of dry mass), protein is 9.56% and 14.89%, and carbohydrate is 23.70% and 25.03%.",
+        "Healthy: carotenoids, phenols and flavonoids are antioxidants that protect cells from free radicals; S. linifolium has more carotenoids (3.00 v 2.00) while U. fasciata has more phenols and flavonoids.",
+        "Environmentally friendly: seaweeds photosynthesise using sunlight and sea water, so need no farmland, fresh water or fertiliser, and they take up carbon dioxide.",
+        "Economic: they grow quickly and can be harvested cheaply, so should cost less than animal protein.",
+        "Limits: only two of the three seaweeds are in the table, antioxidant values are in arbitrary units, and there is no data on vitamins, minerals, heavy metals, digestibility or cost; wild harvesting could damage ecosystems.",
+        "Conclusion: the statement is supported in part but the evidence is incomplete."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-042.jpg",
         "papers/biology/img/05BC-Ecology-Climate-043.jpg",
         "papers/biology/img/05BC-Ecology-Climate-044.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q15-2.jpg"
       ]
     },
     {
@@ -2001,15 +2297,22 @@
         "walnut"
       ],
       "question": "The smallest walnut has a volume of about 50 cm3. Calculate the approximate volume of the largest hazelnut using the formula given (pi = 3, l = length, w = width).",
-      "status": "pending",
-      "answer": "Missing: the formula symbols and the hazelnut dimensions in the table are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "22.5 cm^3",
+      "steps": [
+        "With pi = 3, volume = 4/3 x 3 x l x w^2 = 4 x l x w^2.",
+        "The largest hazelnut is 2.5 cm long and 1.5 cm wide.",
+        "Volume = 4 x 2.5 x 1.5^2 = 4 x 2.5 x 2.25 = 22.5 cm^3."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-044.jpg",
         "papers/biology/img/05BC-Ecology-Climate-045.jpg",
         "papers/biology/img/05BC-Ecology-Climate-046.jpg",
         "papers/biology/img/05BC-Ecology-Climate-047.jpg",
         "papers/biology/img/05BC-Ecology-Climate-048.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q16.jpg"
       ]
     },
     {
@@ -2060,15 +2363,23 @@
         "ground squirrels"
       ],
       "question": "Predict the results of this investigation, giving reasons and using the information in the table.",
-      "status": "pending",
-      "answer": "Missing: the table of nut information (such as size and energy content) is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Hazelnuts and walnuts will be eaten more than acorns, because they contain more energy per 100 g (2788 and 2822 kJ against 1619 kJ); hazelnuts may be chosen most because they are smaller and easier to carry in the pouches.",
+      "steps": [
+        "Squirrels need to store as much energy as possible, so they should choose the nuts with the most energy: walnut 2822 and hazelnut 2788 kJ per 100 g, which are almost equal and about 1.7 times the energy of acorns (1619).",
+        "Acorns are predicted to be eaten least, as their energy content is much lower.",
+        "Walnuts are large (3.0 to 5.0 cm long, about 50 cm^3 or more) with a hard shell, so they take more effort to open and carry, which may make hazelnuts (1.5 to 2.5 cm) the first choice.",
+        "The result should be measured as the mass of each nut eaten, repeated with several squirrels."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-044.jpg",
         "papers/biology/img/05BC-Ecology-Climate-045.jpg",
         "papers/biology/img/05BC-Ecology-Climate-046.jpg",
         "papers/biology/img/05BC-Ecology-Climate-047.jpg",
         "papers/biology/img/05BC-Ecology-Climate-048.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q16.jpg"
       ]
     },
     {
@@ -2160,6 +2471,9 @@
         "papers/biology/img/05BC-Ecology-Climate-049.jpg",
         "papers/biology/img/05BC-Ecology-Climate-050.jpg",
         "papers/biology/img/05BC-Ecology-Climate-051.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q17.jpg"
       ]
     },
     {
@@ -2176,14 +2490,20 @@
         "core samples"
       ],
       "question": "Which row of the table shows the newest and oldest rings in this tree?",
-      "status": "pending",
-      "answer": "Missing: the table rows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: newest ring P, oldest ring S.",
+      "steps": [
+        "Growth rings are added to the outside of the trunk each year, so the newest ring is at the bark; P is at the left-hand side of the trunk, at the outside.",
+        "The oldest ring is at the centre of the trunk, which is S."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-048.jpg",
         "papers/biology/img/05BC-Ecology-Climate-049.jpg",
         "papers/biology/img/05BC-Ecology-Climate-050.jpg",
         "papers/biology/img/05BC-Ecology-Climate-051.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q17-2.jpg"
       ]
     },
     {
@@ -2214,6 +2534,9 @@
         "papers/biology/img/05BC-Ecology-Climate-049.jpg",
         "papers/biology/img/05BC-Ecology-Climate-050.jpg",
         "papers/biology/img/05BC-Ecology-Climate-051.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q17-2.jpg"
       ]
     },
     {
@@ -2321,14 +2644,21 @@
         "table"
       ],
       "question": "For each molecule in the table, mark which inorganic ion provides an atom found in the molecule.",
-      "status": "pending",
-      "answer": "Missing: the table of molecules and ion options is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Cellulose: neither nitrate nor phosphate; nucleic acid: both nitrate and phosphate; triglyceride: neither nitrate nor phosphate.",
+      "steps": [
+        "Cellulose is a polymer of glucose, containing only carbon, hydrogen and oxygen, so it needs neither ion.",
+        "Nucleic acids contain nitrogen in their bases (from nitrate) and phosphorus in the sugar-phosphate backbone (from phosphate), so need both.",
+        "Triglycerides contain only carbon, hydrogen and oxygen, so neither ion."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-051.jpg",
         "papers/biology/img/05BC-Ecology-Climate-052.jpg",
         "papers/biology/img/05BC-Ecology-Climate-053.jpg",
         "papers/biology/img/05BC-Ecology-Climate-054.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q18.jpg"
       ]
     },
     {
@@ -2347,14 +2677,23 @@
         "rainfall"
       ],
       "question": "Discuss how the abiotic factors shown in the graphs could affect the proportion of biomass stored in the roots of plants in forests, shrublands and grasslands.",
-      "status": "pending",
-      "answer": "Missing: the graphs showing the importance of abiotic factors are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Temperature is the most important factor in forests and shrublands, and soil moisture in grasslands; water, temperature, soil nutrients and soil depth change how much carbon is allocated to roots, so the proportion differs between ecosystems.",
+      "steps": [
+        "Yearly mean temperature has the highest relative importance in forests (1.0) and shrublands (1.0) and is high in grasslands (about 0.84); it affects enzyme activity, photosynthesis, respiration and decomposition, so it affects how much carbon plants make and how much they store in roots.",
+        "Soil moisture is most important in grasslands (1.0) and high in forests (about 0.9) but lower in shrublands (about 0.48); where water is short plants invest more biomass in roots to reach water, so roots hold a higher proportion of biomass.",
+        "The carbon : nitrogen ratio in soil is of medium importance in all three (about 0.44 to 0.52); a high ratio means little nitrate is available, so plants make more roots (and associated fungi) to absorb it.",
+        "Depth of soil is the least important in all three (0.40 in forests, 0.24 in shrublands, 0.20 in grasslands), but it matters most in forests because deeper soil allows larger root systems; tree density (about 0.36 to 0.60, a biotic factor) increases competition for water and nutrients, so more root biomass.",
+        "Evaluation: the graphs show importance not the direction of the effect, they do not give biomass values, and the factors interact."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-051.jpg",
         "papers/biology/img/05BC-Ecology-Climate-052.jpg",
         "papers/biology/img/05BC-Ecology-Climate-053.jpg",
         "papers/biology/img/05BC-Ecology-Climate-054.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q18-2.jpg"
       ]
     },
     {
@@ -2372,14 +2711,20 @@
         "enzyme"
       ],
       "question": "Where in the chloroplast is RuBisCO active? Options: A P, B Q, C R, D S.",
-      "status": "pending",
-      "answer": "Missing: the table of chloroplast structures P, Q, R and S is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Q (the stroma).",
+      "steps": [
+        "RuBisCO fixes carbon dioxide in the Calvin cycle, the light-independent reactions.",
+        "Structure Q is the site of the light-independent reactions and is colourless, so it is the stroma."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-054.jpg",
         "papers/biology/img/05BC-Ecology-Climate-055.jpg",
         "papers/biology/img/05BC-Ecology-Climate-056.jpg",
         "papers/biology/img/05BC-Ecology-Climate-057.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q19.jpg"
       ]
     },
     {
@@ -2397,14 +2742,20 @@
         "sucrose"
       ],
       "question": "What is stored in structure S? A GALP, B lipid, C starch, D sucrose.",
-      "status": "pending",
-      "answer": "Missing: the table describing structure S is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: starch.",
+      "steps": [
+        "S is the storage granule, 1 to 35 um in size, so it is a starch grain.",
+        "GALP and sucrose are not stored in chloroplast granules, and lipid is stored as small droplets."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-054.jpg",
         "papers/biology/img/05BC-Ecology-Climate-055.jpg",
         "papers/biology/img/05BC-Ecology-Climate-056.jpg",
         "papers/biology/img/05BC-Ecology-Climate-057.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q19.jpg"
       ]
     },
     {
@@ -2422,14 +2773,20 @@
         "options"
       ],
       "question": "Where is GP (glycerate 3-phosphate) formed? Options: A P, B Q, C R, D S.",
-      "status": "pending",
-      "answer": "Missing: the table of chloroplast structures is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Q (the stroma).",
+      "steps": [
+        "GP (glycerate 3-phosphate) is the first product when RuBP combines with carbon dioxide, catalysed by RuBisCO.",
+        "This happens in the Calvin cycle in the stroma, which is Q."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-054.jpg",
         "papers/biology/img/05BC-Ecology-Climate-055.jpg",
         "papers/biology/img/05BC-Ecology-Climate-056.jpg",
         "papers/biology/img/05BC-Ecology-Climate-057.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q19.jpg"
       ]
     },
     {
@@ -2447,14 +2804,22 @@
         "comparison"
       ],
       "question": "Which is the correct order of size, smallest to largest, for the structures P, R and S? A PRS, B PSR, C RSP, D SRP.",
-      "status": "pending",
-      "answer": "Missing: the sizes of P, R and S are in the table, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: P R S.",
+      "steps": [
+        "P is a ribosome of about 20 nm = 0.02 um.",
+        "R is a thylakoid space, largest 4.35 x 10^-4 mm = 0.435 um (435 nm).",
+        "S is a starch grain of 1 to 35 um.",
+        "Smallest to largest: P (0.02 um), R (0.435 um), S (1 to 35 um)."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-054.jpg",
         "papers/biology/img/05BC-Ecology-Climate-055.jpg",
         "papers/biology/img/05BC-Ecology-Climate-056.jpg",
         "papers/biology/img/05BC-Ecology-Climate-057.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q19.jpg"
       ]
     },
     {
@@ -2502,14 +2867,22 @@
         "c3 c4"
       ],
       "question": "Compare and contrast the rate of photosynthesis of these two plant species at different temperatures.",
-      "status": "pending",
-      "answer": "Missing: the graph of rate of photosynthesis against temperature for the two species is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both rise to an optimum then fall, but Spartina has a much higher maximum (about 40 a.u. at about 35 C) than Leucopoa (about 16 a.u. at about 20-25 C), and Leucopoa is faster only below about 15 C.",
+      "steps": [
+        "Similarity: both species show an increase in rate to a maximum then a decrease, as enzymes become less effective above the optimum.",
+        "Spartina rises steeply from about 10 a.u. at 10 C to about 40 a.u. at 35 C, whereas Leucopoa rises only slightly, from about 13 to about 16.5 a.u.",
+        "The optimum is higher for Spartina (about 35 C) than for Leucopoa (about 20-25 C).",
+        "Below about 15 C Leucopoa has the higher rate; above that Spartina is higher, and at 40 C it is about 36 a.u. against 9 a.u."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-054.jpg",
         "papers/biology/img/05BC-Ecology-Climate-055.jpg",
         "papers/biology/img/05BC-Ecology-Climate-056.jpg",
         "papers/biology/img/05BC-Ecology-Climate-057.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q19-2.jpg"
       ]
     },
     {
@@ -2539,6 +2912,9 @@
         "papers/biology/img/05BC-Ecology-Climate-055.jpg",
         "papers/biology/img/05BC-Ecology-Climate-056.jpg",
         "papers/biology/img/05BC-Ecology-Climate-057.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q19-2.jpg"
       ]
     },
     {
@@ -2556,14 +2932,22 @@
         "graphs"
       ],
       "question": "Explain in which of the two regions, Wheatland or Pole Mountain, Spartina is most likely to grow, using both graphs.",
-      "status": "pending",
-      "answer": "Missing: the graph of monthly maximum temperatures for Wheatland and Pole Mountain, and the photosynthesis graph, are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Wheatland: Spartina needs high temperatures (optimum about 35 C) and Wheatland is warmer, with maximum temperatures of 27-31 C from June to August.",
+      "steps": [
+        "Spartina has its highest rate of photosynthesis (about 40 a.u.) at about 35 C and a low rate (about 10 a.u.) at 10-15 C.",
+        "Wheatland has maximum temperatures above 20 C from May to September, reaching about 31 C in July, close to the optimum for Spartina.",
+        "Pole Mountain never exceeds about 24 C and is below 15 C for most of the year, where Spartina photosynthesises slowly, so it would grow poorly there."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-054.jpg",
         "papers/biology/img/05BC-Ecology-Climate-055.jpg",
         "papers/biology/img/05BC-Ecology-Climate-056.jpg",
         "papers/biology/img/05BC-Ecology-Climate-057.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q19-2.jpg",
+        "papers/biology/fig/05BC-Ecology-Climate-Q19-3.jpg"
       ]
     },
     {

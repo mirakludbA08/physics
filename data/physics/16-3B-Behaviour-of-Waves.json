@@ -32,6 +32,9 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-01.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-02.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q1.jpg"
       ]
     },
     {
@@ -50,13 +53,22 @@
         "160 Hz"
       ],
       "question": "Loudspeakers at 3.00 m from line XY (160 Hz) give a minimum 84 cm from O. Determine the speed of sound.",
-      "status": "pending",
-      "answer": "Pending: needs the separation of the two loudspeakers, which is shown only on the missing diagram.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Speed of sound = 3.4 x 10^2 m s^-1 (about 340 m s^-1).",
+      "steps": [
+        "The loudspeakers are 5.00 m apart and 3.00 m from XY, with O on the line midway between them, so each is 2.50 m from the axis through O.",
+        "The first minimum is 0.84 m from O, so the distances from the point to the speakers are s1 = sqrt(3.00^2 + (2.50 - 0.84)^2) = 3.43 m and s2 = sqrt(3.00^2 + (2.50 + 0.84)^2) = 4.49 m.",
+        "Path difference = 4.49 - 3.43 = 1.06 m.",
+        "The first minimum (antiphase, destructive) has path difference = lambda / 2, so lambda = 2 x 1.06 = 2.12 m.",
+        "v = f x lambda = 160 Hz x 2.12 m = 339 m s^-1, about 3.4 x 10^2 m s^-1."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-01.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-02.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q1.jpg"
       ]
     },
     {
@@ -133,13 +145,21 @@
         "displacement distance",
         "points X Y Z"
       ],
-      "question": "Displacement-distance graph of a stationary wave at two instants. Which statement is not correct (points X, Y, Z)?",
-      "status": "pending",
-      "answer": "Pending: the displacement-distance diagram of the stationary wave and the statement options are missing from the text.",
-      "steps": [],
+      "question": "The diagram shows how the displacement varies with distance along a stationary wave at two instants of time (X is on the first loop; Y and Z are on the second loop, Z at the antinode). Which statement is not correct? A Points X and Z are in antiphase with each other. B Points Y and Z have the same amplitude of vibration. C Points Y and Z have the same frequency of vibration. D Point Z is an antinode.",
+      "status": "ready",
+      "answer": "B: Y and Z do not have the same amplitude, so this statement is not correct.",
+      "steps": [
+        "In a stationary wave the amplitude depends on position: it is zero at a node and a maximum at an antinode.",
+        "Z is at the peak of the loop (an antinode), but Y is part-way between the node and the antinode, so its amplitude is smaller than Z's. B is false.",
+        "A is true: X and Z are on adjacent loops, which vibrate in antiphase.",
+        "C is true: every point on a stationary wave vibrates at the same frequency. D is true: Z is at maximum amplitude."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-03.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q2.jpg"
       ]
     },
     {
@@ -186,10 +206,14 @@
         "coherent",
         "1.5 rad"
       ],
-      "question": "Two coherent waves have a phase difference of 1.5 rad at point P. Which path difference could produce this?",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the text.",
-      "steps": [],
+      "question": "Two waves from the same source travel along different paths and then meet at a point P. The phase difference between the waves at P is 1.5 pi radians. Which is a possible path difference? A 3 lambda/2; B 7 lambda/4; C 3 lambda; D 7 lambda/2.",
+      "status": "ready",
+      "answer": "B: 7 lambda / 4.",
+      "steps": [
+        "Phase difference = 2 pi x (path difference / lambda), so path difference = (1.5 pi / 2 pi) lambda = 3 lambda / 4, or 3 lambda / 4 plus any whole number of wavelengths.",
+        "B: 7 lambda / 4 = 3 lambda / 4 + lambda, which gives a phase difference of 3.5 pi, equivalent to 1.5 pi.",
+        "A gives 3 pi, C gives 6 pi and D gives 7 pi, none equivalent to 1.5 pi."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-04.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-05.jpg",
@@ -271,13 +295,21 @@
         "concentric rings"
       ],
       "question": "Sketch a graph of intensity along line AB across the circular-gap diffraction pattern.",
-      "status": "pending",
-      "answer": "Pending: the pattern along line AB is shown only in the missing diagram; expected a tall central maximum with weaker, decreasing outer maxima.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A symmetrical graph with a tall central maximum in the middle of AB and weaker, equally spaced outer maxima whose heights decrease away from the centre, with zero intensity between them.",
+      "steps": [
+        "Label the centre of AB as the point of greatest intensity: a tall peak well above all the others.",
+        "On each side the intensity drops to about zero (dark ring) and then rises to a much smaller secondary maximum.",
+        "Each further secondary maximum is lower than the one before, so the peaks decrease in height outwards.",
+        "The pattern is symmetrical about the centre, and the central peak is the widest (about twice the width of the outer peaks)."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-04.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-05.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q6.jpg"
       ]
     },
     {
@@ -296,13 +328,20 @@
         "1.70 m"
       ],
       "question": "A string of length L = 1.70 m vibrates in the stationary wave pattern shown. Determine the wavelength.",
-      "status": "pending",
-      "answer": "Pending: the number of loops in the stationary wave is shown only in the missing diagram.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Wavelength = 0.85 m.",
+      "steps": [
+        "The pattern between P and Q has 4 loops, and each loop is half a wavelength.",
+        "So L = 4 x (lambda / 2) = 2 lambda.",
+        "lambda = L / 2 = 1.70 m / 2 = 0.85 m."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-06.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-07.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q7.jpg"
       ]
     },
     {
@@ -380,10 +419,14 @@
         "single source",
         "options"
       ],
-      "question": "Two waves of wavelength lambda from one source diverge and meet again. Which path or phase difference gives constructive interference?",
-      "status": "pending",
-      "answer": "Pending: the option expressions use symbols missing from the text.",
-      "steps": [],
+      "question": "Two waves, of wavelength lambda, from a single source diverge and then meet again. Which situation would cause constructive interference? A a path difference of lambda/2; B a path difference of lambda; C a phase difference of pi/2; D a phase difference of pi.",
+      "status": "ready",
+      "answer": "B: a path difference of lambda.",
+      "steps": [
+        "Constructive interference needs the waves in phase: a path difference of a whole number of wavelengths (phase difference 0, 2 pi, 4 pi ...).",
+        "B: a path difference of lambda is a phase difference of 2 pi, so the waves reinforce.",
+        "A (lambda/2) gives a phase difference of pi, and D (pi) is antiphase, so these give destructive interference. C (pi/2) gives partial reinforcement only."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
       ]
@@ -403,10 +446,14 @@
         "34 deg",
         "270 deg"
       ],
-      "question": "Two waves from the same source arrive with a path difference equal to a multiple of the wavelength (symbol missing). Which phase difference (34, 68, 135 or 270 deg) results?",
-      "status": "pending",
-      "answer": "Pending: the path difference expression is missing from the text (phase difference = 360 deg x path difference / wavelength).",
-      "steps": [],
+      "question": "Two waves from the same source arrive at a point with a path difference of 3 lambda/8, where lambda is the wavelength. Which is the phase difference? A 34 deg; B 68 deg; C 135 deg; D 270 deg.",
+      "status": "ready",
+      "answer": "C: 135 deg.",
+      "steps": [
+        "Phase difference = 360 deg x (path difference / lambda).",
+        "Phase difference = 360 deg x 3/8 = 135 deg.",
+        "This matches option C."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
       ]
@@ -425,13 +472,21 @@
         "calculation",
         "sin theta"
       ],
-      "question": "A grating has 300 lines per mm. The first order maximum position is shown. Which calculation gives the wavelength?",
-      "status": "pending",
-      "answer": "Pending: the calculation options and the diagram of the first-order angle are missing from the text.",
-      "steps": [],
+      "question": "A diffraction grating has 300 lines per mm. Laser light directed at it gives a first order maximum on a screen 2.00 m from the grating and 0.40 m from the central maximum (see diagram). Which calculation gives the wavelength, in mm? A 300 sin(theta), theta = sin^-1(0.40/2.00); B 300 sin(theta), theta = tan^-1(0.40/2.00); C sin(theta)/300, theta = sin^-1(0.40/2.00); D sin(theta)/300, theta = tan^-1(0.40/2.00).",
+      "status": "ready",
+      "answer": "D: wavelength = sin(theta) / 300 mm, where theta = tan^-1(0.40 / 2.00).",
+      "steps": [
+        "The line spacing is d = 1/300 mm, so lambda = d sin theta = sin theta / 300 (in mm). This rules out A and B.",
+        "The 2.00 m is the perpendicular distance from the grating to the screen and 0.40 m is the sideways distance, so tan theta = 0.40/2.00.",
+        "The ray itself is longer than 2.00 m, so sin theta is not 0.40/2.00, which rules out C.",
+        "Check: theta = 11.3 deg, so lambda = sin 11.3 deg / 300 = 6.5 x 10^-4 mm = 650 nm, a sensible visible wavelength."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-09.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-10.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q10.jpg"
       ]
     },
     {
@@ -506,12 +561,20 @@
         "wavefront diagrams"
       ],
       "question": "Wavefronts approach gaps of different sizes. In which diagram are the diffracted wavefronts not semicircular?",
-      "status": "pending",
-      "answer": "Pending: the four wavefront diagrams (A to D) are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: the gap is much wider than the wavelength, so the diffracted wavefronts are not semicircular.",
+      "steps": [
+        "Diffracted wavefronts are semicircular only when the gap is about the size of the wavelength or smaller.",
+        "In A the wavefront spacing is about equal to the gap width, and C has a gap narrower than the wavelength, so both spread out in semicircles.",
+        "In D the gap is only about 1.5 wavelengths, so the spreading is still pronounced.",
+        "In B the wavefronts are close together (small wavelength) and the gap is about 4 wavelengths wide, so most of the wavefront passes straight through and little diffraction occurs except at the edges."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-10.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q13.jpg"
       ]
     },
     {
@@ -529,12 +592,19 @@
         "expression",
         "vibrator"
       ],
-      "question": "String between vibrator and pulley (length L), hanging masses M, whole string mass m. Which expression gives the wave speed on the string?",
-      "status": "pending",
-      "answer": "Pending: the answer options and the string-length diagram are missing from the text (expected v = sqrt(Mg / (m / total length))).",
-      "steps": [],
+      "question": "The speed of waves on a vibrating string is investigated using the apparatus shown. Length of string between vibrator and pulley = L; length of string between pulley and hanging masses = L/3; mass of whole string = m; mass of hanging masses = M. Which expression represents the speed of the waves on the string? A sqrt(4MgL/(3m)); B sqrt(2MgL/(3m)); C sqrt(MgL/m); D sqrt(MgL/(3m)).",
+      "status": "ready",
+      "answer": "A: v = sqrt(4MgL / (3m)).",
+      "steps": [
+        "Tension in the string T = Mg (weight of the hanging masses).",
+        "The whole string has length L + L/3 = 4L/3 and mass m, so mass per unit length mu = m / (4L/3) = 3m / (4L).",
+        "v = sqrt(T / mu) = sqrt(Mg x 4L / (3m)) = sqrt(4MgL / (3m))."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q14.jpg"
       ]
     },
     {
@@ -553,12 +623,20 @@
         "water waves"
       ],
       "question": "Two in-phase sources S1 and S2 in a ripple tank. Explain the type of superposition at positions A and B on the diagram of crests.",
-      "status": "pending",
-      "answer": "Pending: positions A and B are marked only on the missing ripple-tank diagram.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: constructive superposition (waves arrive in phase). B: destructive superposition (waves arrive in antiphase).",
+      "steps": [
+        "S1 and S2 are in phase and emit waves of the same wavelength, so the waves are coherent and superpose at every point.",
+        "A is about 3.5 wavelengths from S1 and 4.5 wavelengths from S2: path difference of about one wavelength, so the waves arrive in phase (here both are at a trough). Displacements add, giving constructive interference and a large amplitude.",
+        "B lies on a crest line from S2 (about 5 wavelengths away) but is about 3.5 wavelengths from S1, where there is a trough: path difference of about 1.5 wavelengths, so the waves arrive in antiphase.",
+        "At B a crest meets a trough, so the displacements cancel: destructive interference and a very small amplitude."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-12.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q15.jpg"
       ]
     },
     {
@@ -576,13 +654,20 @@
         "microwave oven",
         "table"
       ],
-      "question": "Two microwave rays meet at point L in a microwave oven. Which row of the table shows the possible interference at L?",
-      "status": "pending",
-      "answer": "Pending: the table of rows is missing from the text.",
-      "steps": [],
+      "question": "A microwave oven has a source that emits microwaves in all directions into the oven. The diagram shows the paths of two microwave rays that meet at point L. The interference between the waves following these two paths could cause heating effects at L depending on the wavelength. Which row is possible at L? A maximum heating, wavelength 24 cm; B maximum heating, wavelength 18 cm; C no heating, wavelength 24 cm; D no heating, wavelength 18 cm.",
+      "status": "ready",
+      "answer": "C: no heating with a wavelength of 24 cm.",
+      "steps": [
+        "Path 1 = 22 + 8 = 30 cm and path 2 = 15 + 27 = 42 cm, so the path difference is 12 cm.",
+        "For a wavelength of 24 cm, 12 cm = lambda / 2, so the waves arrive in antiphase and cancel: no heating.",
+        "For a wavelength of 18 cm, 12 cm = 2/3 lambda, which is neither a whole number of wavelengths nor an odd number of half wavelengths, so neither maximum heating nor zero heating occurs. Only row C is possible."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-14.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-15.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q16.jpg"
       ]
     },
     {
@@ -600,13 +685,20 @@
         "air particles",
         "position V"
       ],
-      "question": "The displacement of air particles in a sound wave is shown at an instant, with a compression at V. At which other position is there a compression (W, X, Y or Z)?",
-      "status": "pending",
-      "answer": "Pending: the displacement-position diagram of the sound wave is missing from the text.",
-      "steps": [],
+      "question": "A sound wave travels through air. The diagram represents the displacement of air particles along the wave at an instant in time (V at the start, W the maximum, X the zero crossing, Y the minimum, Z the end of one cycle). There is a compression at position V. At which position is there also a compression? A W; B X; C Y; D Z.",
+      "status": "ready",
+      "answer": "D: Z.",
+      "steps": [
+        "Compressions and rarefactions occur at the points of zero displacement, where neighbouring particles are displaced towards or away from each other.",
+        "V and Z both have zero displacement and the same gradient, and they are one whole wavelength apart, so they are in the same state: both compressions.",
+        "X also has zero displacement but the opposite gradient, so it is a rarefaction. W and Y are at maximum displacement, where the air density is normal."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-14.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-15.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q17.jpg"
       ]
     },
     {
@@ -652,13 +744,21 @@
         "antinodes",
         "points W X Y Z"
       ],
-      "question": "Displacement-distance graph of a stationary wave at two instants (points W, X, Y, Z). Which statement is correct?",
-      "status": "pending",
-      "answer": "Pending: the displacement-distance diagram with points W, X, Y and Z is missing from the text.",
-      "steps": [],
+      "question": "The diagram shows how the displacement varies with distance along a stationary wave at two instants of time (W and X are on the first loop, either side of its peak; Y and Z are on the second loop). Which statement is correct? A Points W and X are in antiphase. B Points W and Y are in phase. C Points X and Y are in phase. D Points X and Z are in antiphase.",
+      "status": "ready",
+      "answer": "D: points X and Z are in antiphase.",
+      "steps": [
+        "In a stationary wave, all points between two adjacent nodes vibrate in phase, and points in adjacent loops vibrate in antiphase.",
+        "W and X are on the same loop, so they are in phase (A is wrong).",
+        "Y and Z are on the next loop, so they are in antiphase with W and X (B and C are wrong).",
+        "X is on loop 1 and Z is on loop 2, so they are in antiphase (D is correct)."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-15.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q19.jpg"
       ]
     },
     {
@@ -676,13 +776,21 @@
         "laser"
       ],
       "question": "A grating has 450 lines per mm. The first bright dot X is at a measured position on the screen. Determine the wavelength of the laser light.",
-      "status": "pending",
-      "answer": "Pending: the position of X and the screen distance are shown only in the missing diagram.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Wavelength = 6.3 x 10^-7 m (630 nm).",
+      "steps": [
+        "Line spacing d = 1 / (450 x 10^3 lines per m) = 2.22 x 10^-6 m.",
+        "X is the first order maximum (n = 1): tan theta = 0.500 / 1.690, so theta = 16.5 deg.",
+        "lambda = d sin theta / n = 2.22 x 10^-6 x sin 16.5 deg = 2.22 x 10^-6 x 0.2837.",
+        "lambda = 6.30 x 10^-7 m = 630 nm."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-16.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-17.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q20.jpg"
       ]
     },
     {
@@ -790,12 +898,21 @@
         "graph"
       ],
       "question": "Using the graph of d against 1/f and mass per unit length 4.5 x 10^-4 kg m-1, determine the total mass of the hanging masses.",
-      "status": "pending",
-      "answer": "Pending: the gradient of the d against 1/f graph is needed and is shown only on the missing graph.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Total mass of hanging masses = 0.20 kg.",
+      "steps": [
+        "d is half a wavelength, so lambda = 2d and v = f lambda = 2fd, giving d = (v / 2)(1/f). The gradient of the d against 1/f graph is v / 2.",
+        "Gradient of the best-fit line = 2.4 m / 0.072 s = 33 m s^-1 (point (0.072, 2.4) lies on the line).",
+        "v = 2 x 33 = 67 m s^-1.",
+        "v = sqrt(T / mu), so T = mu v^2 = 4.5 x 10^-4 x 67^2 = 2.0 N.",
+        "The tension equals the weight of the hanging masses, so M = T / g = 2.0 / 9.81 = 0.20 kg."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-19.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q21.jpg"
       ]
     },
     {
@@ -813,12 +930,20 @@
         "straight line"
       ],
       "question": "The string is replaced by one with twice the mass per unit length, other quantities unchanged. Add a line to the graph of d against 1/f for the new string.",
-      "status": "pending",
-      "answer": "Pending: the original graph is missing from the text; expected a line through the origin with a gradient smaller by a factor of 1 / sqrt(2).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A straight line through the origin with a gradient about 24 m s^-1, lower than the original 33 m s^-1 line (about 0.71 times as steep).",
+      "steps": [
+        "With the same tension and twice the mass per unit length, v = sqrt(T / mu) falls by a factor of sqrt(2).",
+        "The gradient v / 2 falls from about 33 to 33 / sqrt(2) = 23.5 m s^-1.",
+        "The new line is still straight and passes through the origin, but is below the original line.",
+        "For example it passes through d = 1.4 m at 1/f = 0.060 s and d = 1.9 m at 1/f = 0.080 s."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-19.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q21.jpg"
       ]
     },
     {
@@ -836,13 +961,21 @@
         "14 deg"
       ],
       "question": "Laser light is incident on a grating at 90 deg, with angle theta1 = 14.0 deg shown on the diagram. Calculate angle theta2.",
-      "status": "pending",
-      "answer": "Pending: the diagram showing which angle theta2 is measured from is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "theta2 = 28.9 deg.",
+      "steps": [
+        "theta1 is the angle of the n = 1 maximum and theta2 (measured from the central line) is the angle of the n = 2 maximum.",
+        "d sin theta1 = lambda and d sin theta2 = 2 lambda, so sin theta2 = 2 sin theta1.",
+        "sin theta2 = 2 x sin 14.0 deg = 2 x 0.2419 = 0.4838.",
+        "theta2 = sin^-1(0.4838) = 28.9 deg."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-19.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-20.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-21.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q22.jpg"
       ]
     },
     {
@@ -1011,13 +1144,20 @@
         "laser",
         "expression"
       ],
-      "question": "Laser, grating (300 lines per mm) and screen; O is the central maximum and X the first order. Which expression gives the wavelength?",
-      "status": "pending",
-      "answer": "Pending: the expression options and the diagram are missing from the text.",
-      "steps": [],
+      "question": "A laser, diffraction grating and screen are set up as shown. The position of the central maximum is O and the position of the first order maximum is X. The diffraction grating has 300 lines per mm. Which expression gives the wavelength of the laser light? A 300000 x (0.378/2.000); B 300000 x (0.378/2.035); C (1/300000) x (0.378/2.000); D (1/300000) x (0.378/2.035).",
+      "status": "ready",
+      "answer": "D: wavelength = (1/300000) x (0.378 / 2.035) = 6.19 x 10^-7 m.",
+      "steps": [
+        "The grating spacing is d = 1/300000 m (300 lines per mm = 300000 lines per m), so lambda = d sin theta with n = 1. This rules out A and B.",
+        "sin theta = opposite / hypotenuse. The sideways distance OX = 0.378 m is the opposite side and the slant distance from grating to X = 2.035 m is the hypotenuse.",
+        "So sin theta = 0.378 / 2.035 (not 0.378 / 2.000, which is tan theta), and lambda = (1/300000)(0.378/2.035) = 6.19 x 10^-7 m."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-22.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-23.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q24.jpg"
       ]
     },
     {
@@ -1034,10 +1174,13 @@
         "two waves",
         "same source"
       ],
-      "question": "Two waves of wavelength lambda from the same source meet with path difference lambda. What is the phase difference in radians?",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the text (expected 2 pi rad for a path difference of one wavelength).",
-      "steps": [],
+      "question": "Two waves of wavelength lambda are produced by the same source. They travel different distances and meet, where the path difference is lambda/8. Which is the phase difference in radians? A pi/2; B pi/4; C pi/8; D pi/16.",
+      "status": "ready",
+      "answer": "B: pi / 4 radians.",
+      "steps": [
+        "Phase difference = 2 pi x (path difference / lambda).",
+        "= 2 pi x (1/8) = pi / 4 rad."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-23.jpg"
       ]
@@ -1085,13 +1228,20 @@
         "nodes",
         "phase"
       ],
-      "question": "Standing wave pattern on a string with sections VW, WX and XY. Which sections are in phase with each other?",
-      "status": "pending",
-      "answer": "Pending: the standing wave diagram labelling V, W, X and Y is missing from the text.",
-      "steps": [],
+      "question": "This question refers to the standing wave pattern on a string as shown (loops VW, WX and XY). Which sections of the string would be in phase with each other? A VW and WX; B WX and XY; C VW and XY; D no sections are in phase.",
+      "status": "ready",
+      "answer": "C: VW and XY.",
+      "steps": [
+        "In a standing wave, all points within one loop (between adjacent nodes) vibrate in phase.",
+        "Adjacent loops are in antiphase, so VW and WX are in antiphase, and so are WX and XY.",
+        "VW and XY are two loops apart (one wavelength), so they are in phase."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-24.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-25.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q27.jpg"
       ]
     },
     {
@@ -1194,10 +1344,14 @@
         "d",
         "n = d sin theta"
       ],
-      "question": "The grating equation n = d sin theta is given. Which quantity has no units? Options are A n, B (symbol missing), C d, D (symbol missing).",
-      "status": "pending",
-      "answer": "Pending: options B and D are missing their symbols in the text, so the correct letter cannot be confirmed (A, n, is dimensionless; C, d, has units of metres).",
-      "steps": [],
+      "question": "The formula for a diffraction grating in the list of equations is n lambda = d sin theta. Which of the following quantities does not have units? A n; B lambda; C d; D theta.",
+      "status": "ready",
+      "answer": "A: n.",
+      "steps": [
+        "n is the order of the maximum, a pure number with no units.",
+        "lambda and d are lengths, measured in metres.",
+        "theta is an angle, measured in degrees (or radians), so it does have a unit. Only sin theta is unitless."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-27.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-28.jpg"
@@ -1245,10 +1399,14 @@
         "twice the length",
         "options"
       ],
-      "question": "A string under tension T carries a wave. A second string has the same mass but twice the length and the same wave speed. What is its tension?",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the text; derived result is T/2 (half the original tension).",
-      "steps": [],
+      "question": "A string is placed under tension T. A wave travels along the string. A second string has the same mass but twice the length. A wave travels along it with the same velocity. Which is the tension in the second string? A 4T; B 2T; C T/2; D T/4.",
+      "status": "ready",
+      "answer": "C: T / 2.",
+      "steps": [
+        "v = sqrt(T / mu), so T = mu v^2.",
+        "Mass per unit length mu = mass / length, so doubling the length at the same mass halves mu.",
+        "The speed v is the same, so the tension is also halved: T2 = (mu/2) v^2 = T / 2."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-27.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-28.jpg"
@@ -1326,10 +1484,14 @@
         "point X",
         "radians"
       ],
-      "question": "Two waves of wavelength 12 cm leave a source in phase and have path difference 18 cm at X. What is the phase difference at X? (Option list missing.)",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the text; derived phase difference is 3 pi rad (540 deg).",
-      "steps": [],
+      "question": "Two waves of wavelength 12 cm leave a source in phase. They travel along different paths to a point X. The path difference at X is 18 cm. Which is the phase difference between the two waves at X? A 0 radians; B pi/2 radians; C pi radians; D 3 pi/2 radians.",
+      "status": "ready",
+      "answer": "C: pi radians.",
+      "steps": [
+        "Phase difference = 2 pi x (path difference / lambda) = 2 pi x 18/12 = 3 pi rad.",
+        "A phase difference of 3 pi is equivalent to pi once a whole cycle (2 pi) is subtracted, so the waves are in antiphase at X.",
+        "Of the options, only C (pi radians) matches."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-29.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-30.jpg"
@@ -1411,12 +1573,15 @@
       ],
       "question": "A standing wave on a cable fixed at both ends, with two points X and Y marked on the diagram. Answer the part about X and Y.",
       "status": "pending",
-      "answer": "Pending: the question wording for part (b) and the diagram showing points X and Y are not fully in the text.",
+      "answer": "Part (b) has no instruction on the page (only the diagram and the statement that X and Y are two points on the cable), so what to answer cannot be determined.",
       "steps": [],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-30.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-31.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-32.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q37.jpg"
       ]
     },
     {
@@ -1553,14 +1718,22 @@
         "panpipes"
       ],
       "question": "Oscilloscope trace of a pipe sound with time base 1 division = 1.5 ms. Calculate the frequency.",
-      "status": "pending",
-      "answer": "Pending: the oscilloscope trace (number of divisions per cycle) is in the missing photograph.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Frequency = 4.1 x 10^2 Hz (about 410 Hz).",
+      "steps": [
+        "Measure over many cycles to be accurate: the trace shows 6 complete cycles between the first and the last peak.",
+        "6 cycles take about 9.8 divisions, so the period is T = 9.8 / 6 = 1.63 divisions.",
+        "T = 1.63 x 1.5 ms = 2.45 ms.",
+        "f = 1 / T = 1 / (2.45 x 10^-3 s) = 408 Hz, about 410 Hz."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-33.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-34.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-35.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q39.jpg"
       ]
     },
     {
@@ -1579,14 +1752,22 @@
         "wave 1 wave 2"
       ],
       "question": "Wave 1 and wave 2 in the same pipe (open top, closed bottom) are shown with nodes and antinodes. Explain how the frequency of wave 1 compares with wave 2.",
-      "status": "pending",
-      "answer": "Pending: the node and antinode diagrams for wave 1 and wave 2 are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The frequency of wave 2 is three times the frequency of wave 1 (wave 1 has one third the frequency of wave 2).",
+      "steps": [
+        "Both waves have a node at the closed bottom and an antinode at the open top, in the same pipe of length L, and sound travels at the same speed v in both.",
+        "Wave 1: node to the next antinode is lambda / 4, so L = lambda1 / 4 and lambda1 = 4L.",
+        "Wave 2: node, antinode, node, antinode is three quarter-wavelengths, so L = 3 lambda2 / 4 and lambda2 = 4L / 3.",
+        "v = f lambda with the same v, so f is inversely proportional to lambda: f2 / f1 = lambda1 / lambda2 = 3."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-33.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-34.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-35.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q39-2.jpg"
       ]
     },
     {
@@ -1605,14 +1786,21 @@
         "plotted"
       ],
       "question": "The student plotted frequency and wavelength of sound from different pipes. Determine a value for the speed of sound from the graph.",
-      "status": "pending",
-      "answer": "Pending: the graph values are missing from the text; speed equals the gradient of frequency against 1 / wavelength.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Speed of sound = about 3.3 x 10^2 m s^-1 (the gradient of the graph).",
+      "steps": [
+        "v = f lambda, so lambda = v x (1/f): the gradient of wavelength against 1/frequency is the speed of sound.",
+        "Draw a best-fit line and read two well-separated points, for example (0.00105 Hz^-1, 0.335 m) and (0.00150 Hz^-1, 0.485 m).",
+        "Gradient = (0.485 - 0.335) / (0.00150 - 0.00105) = 0.150 / 0.00045 = 3.3 x 10^2 m s^-1."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-33.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-34.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-35.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q39-3.jpg"
       ]
     },
     {
@@ -1644,6 +1832,9 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-34.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-35.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q39-4.jpg"
       ]
     },
     {
@@ -1789,6 +1980,9 @@
       ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q41.jpg"
       ]
     },
     {
@@ -1806,11 +2000,19 @@
         "calculation"
       ],
       "question": "The grating has line spacing 1.62 x 10^-6 m. Calculate the wavelength of the violet light.",
-      "status": "pending",
-      "answer": "Pending: the diffraction angle of the violet light is needed and is shown only on the missing diagram.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Wavelength of the violet light = 3.9 x 10^-7 m (392 nm).",
+      "steps": [
+        "The diagram shows the first-order spectrum, with the violet edge at theta = 14 deg to the central line.",
+        "n lambda = d sin theta with n = 1.",
+        "lambda = 1.62 x 10^-6 m x sin 14 deg = 1.62 x 10^-6 x 0.2419.",
+        "lambda = 3.92 x 10^-7 m, about 390 nm, a violet wavelength."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q41.jpg"
       ]
     },
     {
@@ -1857,12 +2059,22 @@
         "path difference"
       ],
       "question": "Waves arrive parallel to the harbour wall through two gaps, with varying wavelength. Explain why the boat at A always oscillates strongly and the boat at B oscillates strongly or very weakly depending on wavelength.",
-      "status": "pending",
-      "answer": "Pending: positions A and B relative to the two gaps are shown only on the missing harbour diagram.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A is on the axis midway between the two gaps, so the waves from the gaps always arrive in phase and A is always a maximum. B is off-axis, so the path difference depends on the wavelength: whole number of wavelengths gives a large amplitude and an odd number of half wavelengths gives a very small amplitude.",
+      "steps": [
+        "The gaps are comparable to the wavelength, so the waves diffract and spread into the harbour. The two gaps are in the same wavefront, so they act as coherent sources in phase, and the waves from them overlap and superpose.",
+        "A lies on the line of symmetry midway between the gaps, so the path lengths from the two gaps are equal.",
+        "The path difference at A is zero for every wavelength, so the waves always arrive in phase: constructive interference and always a large amplitude.",
+        "B is closer to one gap than the other, so there is a fixed non-zero path difference, but its value in wavelengths changes as the wavelength changes.",
+        "When the path difference at B is a whole number of wavelengths, the waves are in phase: constructive interference and a large amplitude.",
+        "When the path difference at B is an odd number of half wavelengths, the waves are in antiphase: destructive interference and almost no oscillation."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-39.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-40.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q42.jpg"
       ]
     },
     {
@@ -1879,10 +2091,13 @@
         "diameter",
         "expression"
       ],
-      "question": "String of length l, tension T, speed v. A string of length 2l, same diameter and material, has tension 2T. Which expression gives the wave speed on it? (Options missing.)",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the text; derived speed is sqrt(2) v.",
-      "steps": [],
+      "question": "There is tension T in a string of length l. When the string is displaced and then released, waves move on the string with speed v. A string of length 2l has the same diameter and is made from the same material. The tension in this string is 2T. Which expression gives the speed of waves on the string of length 2l? A v/sqrt(2); B v/2; C sqrt(2) v; D 2v.",
+      "status": "ready",
+      "answer": "C: sqrt(2) v.",
+      "steps": [
+        "v = sqrt(T / mu). The mass per unit length mu = density x cross-sectional area, which is the same for both strings (same material and diameter), whatever their lengths.",
+        "The new tension is 2T with the same mu, so v_new = sqrt(2T / mu) = sqrt(2) x sqrt(T / mu) = sqrt(2) v."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-41.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-42.jpg",
@@ -1945,6 +2160,9 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-41.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-42.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-43.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q44.jpg"
       ]
     },
     {
@@ -1962,13 +2180,22 @@
         "harp string"
       ],
       "question": "String produces 196 Hz with wavelength 0.72 m under tension 41 N. Deduce which new string (A, B, C or D, of given masses for 1.5 m) should replace it, cut to the same length.",
-      "status": "pending",
-      "answer": "Pending: the mass table for strings A to D is missing from the text. Required mass per unit length is about 2.06 x 10^-3 kg m-1, but the cut length is not stated in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "String B.",
+      "steps": [
+        "Wave speed v = f lambda = 196 Hz x 0.72 m = 141 m s^-1.",
+        "v = sqrt(T / mu), so mu = T / v^2 = 41 / 141^2 = 2.06 x 10^-3 kg m^-1.",
+        "The new string has the same tension and must give the same wave speed, so it needs the same mass per unit length. This does not depend on how much is cut off.",
+        "mu for each string = mass / 1.5 m: A 1.0 x 10^-3, B 2.07 x 10^-3, C 2.93 x 10^-3, D 4.2 x 10^-3 kg m^-1.",
+        "String B (3.1 g in 1.5 m) matches the required 2.06 x 10^-3 kg m^-1."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-41.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-42.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-43.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q44-2.jpg"
       ]
     },
     {
@@ -2216,13 +2443,20 @@
         "radians",
         "in phase"
       ],
-      "question": "Two waves of wavelength 2 m from source X start in phase and meet at Y after travelling different distances. What is the phase difference in radians? (Diagram and options missing.)",
-      "status": "pending",
-      "answer": "Pending: the path difference at Y is shown only on the missing diagram, and the answer options are missing.",
-      "steps": [],
+      "question": "Two waves, of wavelength 2 m, are produced by a source at point X. Both waves are initially in phase. The waves travel different distances and meet at point Y: the upper route is 4 m + 4 m and the lower route is 3 m + 6 m. Which is the phase difference, in radians, between the two waves at point Y? A 0; B pi/4; C pi/2; D pi.",
+      "status": "ready",
+      "answer": "D: pi radians.",
+      "steps": [
+        "Upper route = 4 + 4 = 8 m. Lower route = 3 + 6 = 9 m.",
+        "Path difference = 1 m = lambda / 2 (lambda = 2 m).",
+        "Phase difference = 2 pi x (1/2) = pi rad: the waves arrive in antiphase."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-46.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-47.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q48.jpg"
       ]
     },
     {
@@ -2267,13 +2501,22 @@
         "displacement",
         "moving towards each other"
       ],
-      "question": "Two waves of equal speed and wavelength move towards each other on a string. Which diagram shows the string after both waves have moved half a wavelength?",
-      "status": "pending",
-      "answer": "Pending: the answer options are diagrams that are not in the text.",
-      "steps": [],
+      "question": "Two waves on a string move towards each other at the same speed and with the same wavelength. The diagram shows the string when the waves are half a wavelength apart (each wave is a crest followed by a trough, with the troughs leading). Which of the diagrams A to D shows the string when both waves have moved a distance of half a wavelength?",
+      "status": "ready",
+      "answer": "B: a crest, then a deep trough (twice as deep), then a crest.",
+      "steps": [
+        "Each wave is one wavelength long (a crest and a trough), and the two leading troughs face each other.",
+        "The gap between the waves is half a wavelength. When each wave moves half a wavelength, the two waves overlap over half a wavelength: the leading trough of each wave.",
+        "Where they overlap, the two troughs add (principle of superposition) to give one trough with twice the depth.",
+        "On either side the remaining crests of each wave are unaffected, so the shape is crest, double-depth trough, crest, which is B."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-48.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-49.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q50.jpg",
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q50-2.jpg"
       ]
     },
     {
@@ -2290,13 +2533,19 @@
         "stationary wave diagram"
       ],
       "question": "Label each node N and each antinode A on the standing wave shown.",
-      "status": "pending",
-      "answer": "Pending: the standing wave diagram is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "N at each end of the string (two nodes) and A at the middle of the loop (one antinode).",
+      "steps": [
+        "The string is fixed (or cannot move) at both ends, so there are nodes (N) at both ends.",
+        "The single loop shows the fundamental mode, so the point of maximum amplitude in the middle is the only antinode (A)."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-49.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-50.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-51.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q51.jpg"
       ]
     },
     {
@@ -2375,13 +2624,21 @@
         "string"
       ],
       "question": "Using the student's graph of f squared against T with l = 0.85 m, determine the mass per unit length mu of the string.",
-      "status": "pending",
-      "answer": "Pending: the gradient read from the graph is needed and the graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "mu = 6.5 x 10^-4 kg m^-1.",
+      "steps": [
+        "The graph is a straight line through the origin, so the gradient is f^2 / T = 1 / (4 l^2 mu).",
+        "Using the best-fit line, for example the point (5.0 N, 2650 Hz^2): gradient = 2650 / 5.0 = 5.3 x 10^2 Hz^2 N^-1.",
+        "mu = 1 / (4 l^2 x gradient) = 1 / (4 x 0.85^2 x 530).",
+        "mu = 6.5 x 10^-4 kg m^-1."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-49.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-50.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-51.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q51-2.jpg"
       ]
     },
     {
@@ -2398,13 +2655,21 @@
         "phase",
         "energy"
       ],
-      "question": "A wave of amplitude A on a string with points P and Q. Which row of the table is correct for the stationary wave?",
-      "status": "pending",
-      "answer": "Pending: the table rows and the wave diagram are missing from the text.",
-      "steps": [],
+      "question": "The diagram shows a wave of amplitude A on a string. P and Q are two points on the string (either side of the crest). The wave on the string is a stationary wave. Which row is correct? Phase difference between P and Q / amplitude of oscillation of P and Q: A 0 deg, equal to A; B 0 deg, less than A; C 90 deg, equal to A; D 90 deg, less than A.",
+      "status": "ready",
+      "answer": "B: phase difference 0 deg, amplitude less than A.",
+      "steps": [
+        "P and Q are on the same loop, between the same pair of nodes, so they vibrate in phase: phase difference 0 deg (not 90 deg).",
+        "In a stationary wave the amplitude varies with position. Only the antinode at the crest has amplitude A.",
+        "P and Q are away from the antinode, so each has amplitude less than A."
+      ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-51.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-52.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q52.jpg",
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q52-2.jpg"
       ]
     }
   ]

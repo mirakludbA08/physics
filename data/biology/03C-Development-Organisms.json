@@ -21,13 +21,20 @@
         "ial biology"
       ],
       "question": "Which organelle, described by a student using an electron microscope, was seen (A centriole, B Golgi, C rough ER, D smooth ER)?",
-      "status": "pending",
-      "answer": "Missing: the description of the organelle seen is cut off in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Golgi apparatus",
+      "steps": [
+        "The description \"several curved membrane-bound sacs of decreasing size\" matches the flattened cisternae of the Golgi apparatus, which modifies and packages proteins in pancreatic cells.",
+        "A centriole is a ring of microtubules with no membrane, so A is wrong.",
+        "Rough ER is a network of flattened sacs studded with ribosomes, and smooth ER is a tubular network with no ribosomes; neither is described as a stack of curved sacs of decreasing size, so C and D are wrong."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-01.jpg",
         "papers/biology/img/03C-Development-Organisms-02.jpg",
         "papers/biology/img/03C-Development-Organisms-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q1a.jpg"
       ]
     },
     {
@@ -143,13 +150,22 @@
         "ial biology"
       ],
       "question": "Explain the results of the fluorescence investigation in pancreas cells.",
-      "status": "pending",
-      "answer": "Missing: the results table (percentage green fluorescence inside and outside the cells) is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The green-labelled amino acids were taken up and built into proteins, which were then secreted: fluorescence fell inside from 100% to 38% and rose outside from 0% to 62% in 60 min.",
+      "steps": [
+        "At 0 min all the marker (100%) is inside because the labelled amino acids have just been taken up by the pancreas cells.",
+        "The labelled amino acids are used to make polypeptides on ribosomes (rough ER), so the green label becomes part of the proteins.",
+        "The proteins pass in vesicles to the Golgi (modified, e.g. glycoproteins), then in secretory vesicles to the cell surface membrane and leave by exocytosis.",
+        "After 60 min fluorescence outside has risen by 62% and inside fallen by 62%, so labelled enzymes and glycoproteins have been secreted from the cells.",
+        "38% is still inside because some protein is still being made or moved through the ER and Golgi, or is retained for use in the cell."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-01.jpg",
         "papers/biology/img/03C-Development-Organisms-02.jpg",
         "papers/biology/img/03C-Development-Organisms-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q1c.jpg"
       ]
     },
     {
@@ -246,6 +262,9 @@
         "papers/biology/img/03C-Development-Organisms-04.jpg",
         "papers/biology/img/03C-Development-Organisms-05.jpg",
         "papers/biology/img/03C-Development-Organisms-06.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q2b.jpg"
       ]
     },
     {
@@ -281,6 +300,9 @@
         "papers/biology/img/03C-Development-Organisms-04.jpg",
         "papers/biology/img/03C-Development-Organisms-05.jpg",
         "papers/biology/img/03C-Development-Organisms-06.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q2c.jpg"
       ]
     },
     {
@@ -300,14 +322,22 @@
         "ial biology"
       ],
       "question": "Comment on the changes in the activity of genes T and U as a mouse zygote develops into a blastocyst.",
-      "status": "pending",
-      "answer": "Missing: the graphs of gene activity for genes T and U are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Gene T falls to near zero by the blastocyst stage, while gene U stays steady then rises sharply from the morula to the blastocyst.",
+      "steps": [
+        "Gene T: activity is high and fairly constant (a slight rise) from zygote to about the 4-cell stage, then falls from the 8-cell stage, dropping steeply through the morula to a very low level at the blastocyst.",
+        "Gene U: activity stays low and almost constant from zygote to the 8-cell stage, then increases slowly at the morula and rapidly at the blastocyst, to well above its early level.",
+        "So the genes are switched on and off at different stages: T is turned down as development proceeds and U is turned up.",
+        "This is differential gene expression, which allows cells to differentiate into different cell types (e.g. trophoblast and inner cell mass)."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-03.jpg",
         "papers/biology/img/03C-Development-Organisms-04.jpg",
         "papers/biology/img/03C-Development-Organisms-05.jpg",
         "papers/biology/img/03C-Development-Organisms-06.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q2d.jpg"
       ]
     },
     {
@@ -360,14 +390,22 @@
         "ial biology"
       ],
       "question": "Which graph represents the distribution of mass of these beans?",
-      "status": "pending",
-      "answer": "Missing: the graph options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: a bell-shaped (normal) distribution histogram",
+      "steps": [
+        "Bean mass shows continuous variation, because it is polygenic and also affected by the environment.",
+        "Continuous variation gives a normal distribution: most beans have a mean mass and few are very light or very heavy, so graph B (symmetrical, peak in the middle).",
+        "A is a steady decrease and D is a growth (sigmoid) curve; neither is a frequency distribution of mass.",
+        "C has two peaks at the extremes, which would show discontinuous (two-group) variation, not polygenic inheritance."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-06.jpg",
         "papers/biology/img/03C-Development-Organisms-07.jpg",
         "papers/biology/img/03C-Development-Organisms-08.jpg",
         "papers/biology/img/03C-Development-Organisms-09.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q3a.jpg"
       ]
     },
     {
@@ -453,14 +491,21 @@
         "ial biology"
       ],
       "question": "Which labelled structure in the beta cell electron micrograph produces ribosomes (A P, B Q, C R, D S)?",
-      "status": "pending",
-      "answer": "Missing: the labelled micrograph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: R (the nucleolus)",
+      "steps": [
+        "Ribosomes are made (ribosomal RNA is transcribed and assembled with proteins) in the nucleolus.",
+        "R points to the dense dark region inside the nucleus, which is the nucleolus.",
+        "Q is the stacked rough ER, P is cytoplasm with ER, and S is the nuclear envelope or chromatin region; none of these makes ribosomes."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-09.jpg",
         "papers/biology/img/03C-Development-Organisms-10.jpg",
         "papers/biology/img/03C-Development-Organisms-11.jpg",
         "papers/biology/img/03C-Development-Organisms-12.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q4a.jpg"
       ]
     },
     {
@@ -480,14 +525,21 @@
         "ial biology"
       ],
       "question": "Suggest why the structures labelled T and U look different in the photograph, although they are the same type of organelle.",
-      "status": "pending",
-      "answer": "Missing: the micrograph showing T and U is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "They are mitochondria cut in different planes: one in longitudinal section and the other in cross section.",
+      "steps": [
+        "T and U are both mitochondria, which are three-dimensional sausage-shaped organelles.",
+        "The electron microscope image is a thin 2D slice, so the appearance depends on the angle of the cut.",
+        "A section cut along the length (U) looks long with cristae visible, while one cut across (T) looks circular or oval."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-09.jpg",
         "papers/biology/img/03C-Development-Organisms-10.jpg",
         "papers/biology/img/03C-Development-Organisms-11.jpg",
         "papers/biology/img/03C-Development-Organisms-12.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q4a.jpg"
       ]
     },
     {
@@ -505,14 +557,21 @@
         "ial biology"
       ],
       "question": "Calculate the magnification of the image, given structure U measures 52 mm and is 3.0 (units garbled) long.",
-      "status": "pending",
-      "answer": "Missing: the unit of the actual length is garbled (\"3.0 m\"); it is likely micrometres, which would give about x17 000.",
-      "steps": [],
+      "status": "ready",
+      "answer": "x17 000 (17 333)",
+      "steps": [
+        "Magnification = image size / actual size.",
+        "Convert to the same units: 52 mm = 52 000 um.",
+        "Magnification = 52 000 / 3.0 = 17 333, so about x17 000 (x1.7 x 10^4)."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-09.jpg",
         "papers/biology/img/03C-Development-Organisms-10.jpg",
         "papers/biology/img/03C-Development-Organisms-11.jpg",
         "papers/biology/img/03C-Development-Organisms-12.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q4a.jpg"
       ]
     },
     {
@@ -611,6 +670,9 @@
         "papers/biology/img/03C-Development-Organisms-12.jpg",
         "papers/biology/img/03C-Development-Organisms-13.jpg",
         "papers/biology/img/03C-Development-Organisms-14.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q5.jpg"
       ]
     },
     {
@@ -639,6 +701,9 @@
         "papers/biology/img/03C-Development-Organisms-12.jpg",
         "papers/biology/img/03C-Development-Organisms-13.jpg",
         "papers/biology/img/03C-Development-Organisms-14.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q5.jpg"
       ]
     },
     {
@@ -687,13 +752,20 @@
         "ial biology"
       ],
       "question": "How many of the listed allele combinations (AbE, ABe, abE, abe) could result from one crossover of the chromosomes shown?",
-      "status": "pending",
-      "answer": "Missing: the chromosome diagram showing the parental chromosomes is needed.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: two (AbE and abe)",
+      "steps": [
+        "The chromosomes carry A b e and a b E, so there is no B allele anywhere and ABe is impossible.",
+        "A crossover between A and b or between b and e swaps the end sections of two chromatids, making the new combinations AbE and abe.",
+        "abE is just the unchanged parental chromosome, so it is not a result of crossing over; two combinations (AbE and abe) are produced."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-12.jpg",
         "papers/biology/img/03C-Development-Organisms-13.jpg",
         "papers/biology/img/03C-Development-Organisms-14.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q5.jpg"
       ]
     },
     {
@@ -725,6 +797,9 @@
         "papers/biology/img/03C-Development-Organisms-12.jpg",
         "papers/biology/img/03C-Development-Organisms-13.jpg",
         "papers/biology/img/03C-Development-Organisms-14.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q5.jpg"
       ]
     },
     {
@@ -843,15 +918,22 @@
         "ial biology"
       ],
       "question": "Calculate the value of the term shown, using the table of chicken ages and egg masses.",
-      "status": "pending",
-      "answer": "Missing: the term symbol and the table are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "159.5",
+      "steps": [
+        "Fill in the missing rows: age 39 has rank 2 and mass rank 1, so D = 1 and D^2 = 1.",
+        "Age 60 has rank 9 and mass rank 2, so D = 7 and D^2 = 49.",
+        "Sum of D^2 = 49 + 1 + 6.25 + 25 + 1 + 1 + 2.25 + 25 + 49 = 159.5."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-14.jpg",
         "papers/biology/img/03C-Development-Organisms-15.jpg",
         "papers/biology/img/03C-Development-Organisms-16.jpg",
         "papers/biology/img/03C-Development-Organisms-17.jpg",
         "papers/biology/img/03C-Development-Organisms-18.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q6c.jpg"
       ]
     },
     {
@@ -871,15 +953,22 @@
         "ial biology"
       ],
       "question": "Calculate the correlation coefficient rs for the data using the formula.",
-      "status": "pending",
-      "answer": "Missing: the formula and table of data are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "rs = -0.33 (-0.329)",
+      "steps": [
+        "Use rs = 1 - 6 x (sum D^2) / (n(n^2 - 1)) with n = 9 pairs and sum D^2 = 159.5.",
+        "n(n^2 - 1) = 9 x 80 = 720 and 6 x 159.5 = 957.",
+        "rs = 1 - 957/720 = 1 - 1.329 = -0.329, i.e. about -0.33 (a weak negative correlation)."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-14.jpg",
         "papers/biology/img/03C-Development-Organisms-15.jpg",
         "papers/biology/img/03C-Development-Organisms-16.jpg",
         "papers/biology/img/03C-Development-Organisms-17.jpg",
         "papers/biology/img/03C-Development-Organisms-18.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q6c.jpg"
       ]
     },
     {
@@ -900,15 +989,22 @@
         "ial biology"
       ],
       "question": "Explain whether the null hypothesis should be accepted or rejected, given rs = 0.38 and the critical values table.",
-      "status": "pending",
-      "answer": "Missing: the critical values table is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Accept the null hypothesis: 0.38 is below the critical value (0.683 for 9 pairs), so there is no significant correlation.",
+      "steps": [
+        "Compare the calculated rs (0.38) with the critical value for the number of pairs (0.683 for 9 pairs; 0.738 for 8 and 0.648 for 10).",
+        "If the calculated value is greater than the critical value the null hypothesis is rejected; here 0.38 is smaller than every value in the table.",
+        "So the correlation is not significant at the 95% level; any link between chicken age and egg mass could be due to chance, and the null hypothesis is accepted."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-14.jpg",
         "papers/biology/img/03C-Development-Organisms-15.jpg",
         "papers/biology/img/03C-Development-Organisms-16.jpg",
         "papers/biology/img/03C-Development-Organisms-17.jpg",
         "papers/biology/img/03C-Development-Organisms-18.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q6c-2.jpg"
       ]
     },
     {
@@ -964,14 +1060,22 @@
         "ial biology"
       ],
       "question": "Deduce how histone modification can be passed onto embryos, using the two experiments shown.",
-      "status": "pending",
-      "answer": "Missing: the diagram of the two experiments is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "It is passed on through the maternal chromosomes in the egg, and enzyme M in the zygote is needed to keep the modification as cells divide.",
+      "steps": [
+        "In both experiments the sperm has no histone modification and the maternal chromosomes in the egg do, so the modification is passed to the embryo through the egg (maternal chromosomes), not the sperm.",
+        "Experiment 1: enzyme M is present in the egg and zygote, and after several cell divisions all maternal chromosomes still have the modification.",
+        "Experiment 2: enzyme M is absent from the egg and zygote, and the modification is reduced at every division until no chromosomes are modified.",
+        "So enzyme M must be present in the zygote and later cells to copy or maintain the modification on newly replicated histones; without it the modification is diluted at each cell division and lost."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-18.jpg",
         "papers/biology/img/03C-Development-Organisms-19.jpg",
         "papers/biology/img/03C-Development-Organisms-20.jpg",
         "papers/biology/img/03C-Development-Organisms-21.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q7b.jpg"
       ]
     },
     {
@@ -1066,6 +1170,9 @@
         "papers/biology/img/03C-Development-Organisms-24.jpg",
         "papers/biology/img/03C-Development-Organisms-25.jpg",
         "papers/biology/img/03C-Development-Organisms-26.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q9a.jpg"
       ]
     },
     {
@@ -1082,14 +1189,21 @@
         "ial biology"
       ],
       "question": "Which part of the sperm cell contains enzymes released to break down the zona pellucida (A W, B X, C Y, D Z)?",
-      "status": "pending",
-      "answer": "Missing: the labelled sperm diagram is not in the text (the answer is the acrosome).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: W (the acrosome)",
+      "steps": [
+        "The acrosome is a vesicle at the tip of the sperm head that contains digestive (hydrolytic) enzymes, released by exocytosis to digest the zona pellucida around the egg.",
+        "W labels the cap at the front of the head, the acrosome.",
+        "X is the nucleus (DNA), Y is the mid-piece full of mitochondria, and Z is the tail (flagellum), so B, C and D are wrong."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-23.jpg",
         "papers/biology/img/03C-Development-Organisms-24.jpg",
         "papers/biology/img/03C-Development-Organisms-25.jpg",
         "papers/biology/img/03C-Development-Organisms-26.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q9a.jpg"
       ]
     },
     {
@@ -1123,6 +1237,9 @@
         "papers/biology/img/03C-Development-Organisms-24.jpg",
         "papers/biology/img/03C-Development-Organisms-25.jpg",
         "papers/biology/img/03C-Development-Organisms-26.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q9a.jpg"
       ]
     },
     {
@@ -1341,14 +1458,24 @@
         "ial biology"
       ],
       "question": "Evaluate the effectiveness of paclitaxel, using the cell cycle table and the tumour growth graph.",
-      "status": "pending",
-      "answer": "Missing: the cell cycle table and the tumour growth graph are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Paclitaxel appears effective: it increases the time cells spend in mitosis and cuts tumour growth to 0.42 g (about 66% less than placebo, about 53% less than drug X), but the evidence has limits.",
+      "steps": [
+        "Table: as paclitaxel concentration rises from 0 to 10 000 nmol dm^-3, duration of mitosis rises from 1 h to 24 h and the mitotic index from 2% to 59%, so cells are held in mitosis and divide less; this fits it preventing spindle fibres shortening.",
+        "The effect is dose-dependent but levels off at high doses (21 to 24 h and 48% to 59% when concentration is raised ten-fold from 1000 to 10 000), so very high doses add little.",
+        "Graph: mean tumour mass increase is about 1.2 g with placebo, 0.9 g with drug X and 0.4 g with paclitaxel, about 66% less than placebo and 53% less than drug X.",
+        "The error bar for paclitaxel does not overlap those of placebo or drug X (top about 0.5 g against bottom about 0.7 g), so the difference is probably significant; drug X and placebo bars slightly overlap, so drug X may not be effective.",
+        "Limitations: the table is for human lung tumour cells but the graph is for mouse breast tumours; only one dose was tested in mice, for 21 days; sample size is not given; tumours still grew (not shrunk); mitotic index does not show cell death; side effects on healthy dividing cells (e.g. bone marrow, hair follicles) are not shown."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-27.jpg",
         "papers/biology/img/03C-Development-Organisms-28.jpg",
         "papers/biology/img/03C-Development-Organisms-29.jpg",
         "papers/biology/img/03C-Development-Organisms-30.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q10d.jpg",
+        "papers/biology/fig/03C-Development-Organisms-Q10d-2.jpg"
       ]
     },
     {
@@ -1396,13 +1523,19 @@
         "ial biology"
       ],
       "question": "Complete the table by writing a suitable heading for the right-hand column.",
-      "status": "pending",
-      "answer": "Missing: the table is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Genotype",
+      "steps": [
+        "The right-hand column shows pairs of alleles (CC, c^ch c^ch, c^h c^h, cc) for each rabbit, which is its genotype.",
+        "The middle column is the phenotype (coat colour), so the heading for the right-hand column is genotype."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-30.jpg",
         "papers/biology/img/03C-Development-Organisms-31.jpg",
         "papers/biology/img/03C-Development-Organisms-32.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q11b.jpg"
       ]
     },
     {
@@ -1420,13 +1553,21 @@
         "ial biology"
       ],
       "question": "Which row of the table gives the correct number of genes and alleles for coat colour in rabbits?",
-      "status": "pending",
-      "answer": "Missing: the table rows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 1 gene, 4 alleles",
+      "steps": [
+        "Coat colour is controlled by one gene (one locus), which has multiple alleles.",
+        "The table shows four different alleles of this gene: C, c^ch, c^h and c.",
+        "So there is 1 gene and 4 alleles: row B."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-30.jpg",
         "papers/biology/img/03C-Development-Organisms-31.jpg",
         "papers/biology/img/03C-Development-Organisms-32.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q11b.jpg",
+        "papers/biology/fig/03C-Development-Organisms-Q11b-2.jpg"
       ]
     },
     {
@@ -1447,13 +1588,20 @@
         "ial biology"
       ],
       "question": "Which row of the table names the types of graph to show sex and height variation in elephants?",
-      "status": "pending",
-      "answer": "Missing: the table rows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: sex = bar chart, height = histogram",
+      "steps": [
+        "Sex is a discrete, categoric variable (male or female), so a bar chart with gaps between the bars is used.",
+        "Height is a continuous variable, so frequencies in height classes are plotted as a histogram with touching bars.",
+        "So the row is bar chart for sex and histogram for height: B."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-30.jpg",
         "papers/biology/img/03C-Development-Organisms-31.jpg",
         "papers/biology/img/03C-Development-Organisms-32.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q11c.jpg"
       ]
     },
     {
@@ -1516,6 +1664,9 @@
         "papers/biology/img/03C-Development-Organisms-33.jpg",
         "papers/biology/img/03C-Development-Organisms-34.jpg",
         "papers/biology/img/03C-Development-Organisms-35.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q12a.jpg"
       ]
     },
     {
@@ -1545,6 +1696,9 @@
         "papers/biology/img/03C-Development-Organisms-33.jpg",
         "papers/biology/img/03C-Development-Organisms-34.jpg",
         "papers/biology/img/03C-Development-Organisms-35.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q12a.jpg"
       ]
     },
     {
@@ -1611,6 +1765,9 @@
         "papers/biology/img/03C-Development-Organisms-33.jpg",
         "papers/biology/img/03C-Development-Organisms-34.jpg",
         "papers/biology/img/03C-Development-Organisms-35.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q12b.jpg"
       ]
     },
     {
@@ -1647,6 +1804,10 @@
         "papers/biology/img/03C-Development-Organisms-36.jpg",
         "papers/biology/img/03C-Development-Organisms-37.jpg",
         "papers/biology/img/03C-Development-Organisms-38.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q13a.jpg",
+        "papers/biology/fig/03C-Development-Organisms-Q13a-2.jpg"
       ]
     },
     {
@@ -1666,9 +1827,14 @@
         "ial biology"
       ],
       "question": "Suggest two reasons why an individual with the genotype AaBbCc may have a darker or lighter skin colour than predicted.",
-      "status": "pending",
-      "answer": "Missing: the question text is garbled in extraction and cannot be read reliably.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Environmental factors (e.g. more exposure to sunlight/UV, which stimulates melanin production) and epigenetic modification (e.g. less DNA methylation, so more expression of the melanin genes).",
+      "steps": [
+        "Genotype is only one influence on phenotype, so identical genotypes (AaBbCc) can give different skin colours.",
+        "Environmental reason: more exposure to UV light or sunlight causes melanocytes to make more melanin, giving darker skin.",
+        "Epigenetic reason: changes such as DNA demethylation or histone acetylation near the genes for melanin production increase their transcription, so more pigment is made without any change to the DNA sequence.",
+        "Other acceptable ideas: other genes also affect skin colour, or hormone levels differ."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-35.jpg",
         "papers/biology/img/03C-Development-Organisms-36.jpg",
@@ -1704,6 +1870,9 @@
         "papers/biology/img/03C-Development-Organisms-39.jpg",
         "papers/biology/img/03C-Development-Organisms-40.jpg",
         "papers/biology/img/03C-Development-Organisms-41.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q14a.jpg"
       ]
     },
     {
@@ -1734,6 +1903,9 @@
         "papers/biology/img/03C-Development-Organisms-39.jpg",
         "papers/biology/img/03C-Development-Organisms-40.jpg",
         "papers/biology/img/03C-Development-Organisms-41.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q14a.jpg"
       ]
     },
     {
@@ -1786,14 +1958,21 @@
         "ial biology"
       ],
       "question": "Calculate how many OVCAR8 cells out of 2000 were in interphase.",
-      "status": "pending",
-      "answer": "Missing: the mitotic index value for OVCAR8 is read from the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1900 cells",
+      "steps": [
+        "Read the mitotic index for OVCAR8 from the bar chart: 5%.",
+        "Number in mitosis = 5/100 x 2000 = 100 cells.",
+        "Cells not in mitosis are in interphase: 2000 - 100 = 1900 cells (95%)."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-38.jpg",
         "papers/biology/img/03C-Development-Organisms-39.jpg",
         "papers/biology/img/03C-Development-Organisms-40.jpg",
         "papers/biology/img/03C-Development-Organisms-41.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q14c.jpg"
       ]
     },
     {
@@ -1814,14 +1993,21 @@
         "ial biology"
       ],
       "question": "Which cancer cell culture has the highest proportion of cells undergoing nuclear division (A HOC8, B OVCAR5, C OVCAR8, D SKOV3)?",
-      "status": "pending",
-      "answer": "Missing: the graph of mitotic index is needed to compare the cultures.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: HOC8",
+      "steps": [
+        "Mitotic index is the proportion of cells undergoing mitosis (nuclear division).",
+        "From the graph: OVCAR5 about 8.4%, OVCAR8 5%, HOC8 about 15% and SKOV3 about 9%.",
+        "HOC8 has the tallest bar, so it has the highest proportion of cells dividing."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-38.jpg",
         "papers/biology/img/03C-Development-Organisms-39.jpg",
         "papers/biology/img/03C-Development-Organisms-40.jpg",
         "papers/biology/img/03C-Development-Organisms-41.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q14c.jpg"
       ]
     },
     {
@@ -1872,13 +2058,20 @@
         "ial biology"
       ],
       "question": "Calculate the magnification of the pollen grain photograph to two significant figures.",
-      "status": "pending",
-      "answer": "Missing: the scale bar or image and actual sizes are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "x1500 (about 1465 before rounding)",
+      "steps": [
+        "Magnification = length of scale bar in the image / actual length it represents.",
+        "The 20 um scale bar measures about 29 mm on the printed A4 page (about 104 px at 745 px per 210 mm); a ruler measurement of 29 mm to 30 mm is expected.",
+        "Convert: 29.3 mm = 29 300 um, so magnification = 29 300 / 20 = about 1465, which is x1500 to 2 significant figures."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-41.jpg",
         "papers/biology/img/03C-Development-Organisms-42.jpg",
         "papers/biology/img/03C-Development-Organisms-43.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q15a.jpg"
       ]
     },
     {
@@ -1911,6 +2104,9 @@
         "papers/biology/img/03C-Development-Organisms-41.jpg",
         "papers/biology/img/03C-Development-Organisms-42.jpg",
         "papers/biology/img/03C-Development-Organisms-43.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q15b.jpg"
       ]
     },
     {
@@ -2148,14 +2344,21 @@
         "ial biology"
       ],
       "question": "Which stage of mitosis is shown in the blastocyst cell photograph (A cytokinesis, B metaphase, C prophase, D telophase)?",
-      "status": "pending",
-      "answer": "Missing: the photograph is needed to identify the stage.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: metaphase",
+      "steps": [
+        "The photograph shows a spindle with the chromosomes lined up in a compact band across the middle of the cell (the equator).",
+        "In prophase the chromosomes are condensing and not yet aligned, and the nuclear envelope breaks down; in telophase two separate groups of chromosomes lie at opposite poles; in cytokinesis the cell membrane pinches in.",
+        "Chromosomes aligned at the equator on spindle fibres means metaphase."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-44.jpg",
         "papers/biology/img/03C-Development-Organisms-45.jpg",
         "papers/biology/img/03C-Development-Organisms-46.jpg",
         "papers/biology/img/03C-Development-Organisms-47.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q17b.jpg"
       ]
     },
     {
@@ -2271,14 +2474,21 @@
         "ial biology"
       ],
       "question": "Give two conclusions for the investigation of sperm speed in February and March.",
-      "status": "pending",
-      "answer": "Missing: the graph of sperm speed over time is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Sperm speed decreased with time after release into water in both months; sperm were faster in March than in February at every time.",
+      "steps": [
+        "Conclusion 1: mean speed falls as time after release increases in both months, e.g. in February from about 195 um s^-1 at 10 s to about 55 um s^-1 at 40 s (March about 230 to 80).",
+        "Conclusion 2: at each time (10, 20, 30 and 40 s) the March sperm swim faster than the February sperm, e.g. about 230 against 195 um s^-1 at 10 s.",
+        "The sperm probably slow down as their energy (ATP) is used up or the cells age after release."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-44.jpg",
         "papers/biology/img/03C-Development-Organisms-45.jpg",
         "papers/biology/img/03C-Development-Organisms-46.jpg",
         "papers/biology/img/03C-Development-Organisms-47.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q17c.jpg"
       ]
     },
     {
@@ -2307,6 +2517,9 @@
       "images": [
         "papers/biology/img/03C-Development-Organisms-48.jpg",
         "papers/biology/img/03C-Development-Organisms-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q18.jpg"
       ]
     },
     {
@@ -2337,6 +2550,9 @@
       "images": [
         "papers/biology/img/03C-Development-Organisms-48.jpg",
         "papers/biology/img/03C-Development-Organisms-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q18.jpg"
       ]
     },
     {
@@ -2369,6 +2585,9 @@
       "images": [
         "papers/biology/img/03C-Development-Organisms-48.jpg",
         "papers/biology/img/03C-Development-Organisms-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q18.jpg"
       ]
     },
     {
@@ -2453,14 +2672,22 @@
         "ial biology"
       ],
       "question": "Describe the changes in the percentages of polypeptides in red blood cells before and after birth, using the graph.",
-      "status": "pending",
-      "answer": "Missing: the graph of polypeptide percentages is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Alpha stays constant at about 50%; gamma stays high (about 47%) then falls to almost 0% by 6 months after birth; beta rises slowly then rapidly around birth to about 48% by 6 months after birth.",
+      "steps": [
+        "Alpha: rises from about 8% at 8 months before birth to about 50% by about 6.5 months before birth and then stays constant at about 50% for the rest of the period.",
+        "Gamma: rises to about 47% by 6 months before birth and stays at that level until about 3 months before birth, then falls to about 40% at birth, about 18% at 2 months after birth, and almost 0% by 6 months after birth.",
+        "Beta: starts at about 1.5% at 7 months before birth, rising slowly to about 4% by 3 months before birth and about 12% at birth, then rising rapidly to about 35% at 2 months after birth and about 48% at 6 months after birth.",
+        "Gamma and beta curves cross at about 25% roughly 1.5 months after birth: fetal haemoglobin (alpha + gamma) is replaced by adult haemoglobin (alpha + beta)."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-49.jpg",
         "papers/biology/img/03C-Development-Organisms-50.jpg",
         "papers/biology/img/03C-Development-Organisms-51.jpg",
         "papers/biology/img/03C-Development-Organisms-52.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q19c.jpg"
       ]
     },
     {
@@ -2495,6 +2722,9 @@
         "papers/biology/img/03C-Development-Organisms-50.jpg",
         "papers/biology/img/03C-Development-Organisms-51.jpg",
         "papers/biology/img/03C-Development-Organisms-52.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q19c.jpg"
       ]
     },
     {
@@ -2559,6 +2789,9 @@
         "papers/biology/img/03C-Development-Organisms-53.jpg",
         "papers/biology/img/03C-Development-Organisms-54.jpg",
         "papers/biology/img/03C-Development-Organisms-55.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q20a.jpg"
       ]
     },
     {
@@ -2628,6 +2861,9 @@
         "papers/biology/img/03C-Development-Organisms-53.jpg",
         "papers/biology/img/03C-Development-Organisms-54.jpg",
         "papers/biology/img/03C-Development-Organisms-55.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q20c.jpg"
       ]
     },
     {
@@ -2875,6 +3111,9 @@
         "papers/biology/img/03C-Development-Organisms-58.jpg",
         "papers/biology/img/03C-Development-Organisms-59.jpg",
         "papers/biology/img/03C-Development-Organisms-60.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q22b.jpg"
       ]
     },
     {
@@ -2893,14 +3132,21 @@
         "ial biology"
       ],
       "question": "Which row of the table is correct for the morula and blastocyst formed from the zygote?",
-      "status": "pending",
-      "answer": "Missing: the table rows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: zygote is totipotent; cells in the blastocyst inner mass are pluripotent",
+      "steps": [
+        "A zygote can form every cell type, including the extra-embryonic tissues such as the trophoblast, so it is totipotent.",
+        "Inner cell mass cells of the blastocyst can form most body cell types but not extra-embryonic tissue, so they are pluripotent.",
+        "This matches row C (totipotent, then pluripotent)."
+      ],
       "images": [
         "papers/biology/img/03C-Development-Organisms-57.jpg",
         "papers/biology/img/03C-Development-Organisms-58.jpg",
         "papers/biology/img/03C-Development-Organisms-59.jpg",
         "papers/biology/img/03C-Development-Organisms-60.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q22b-2.jpg"
       ]
     },
     {
@@ -3091,6 +3337,9 @@
         "papers/biology/img/03C-Development-Organisms-60.jpg",
         "papers/biology/img/03C-Development-Organisms-61.jpg",
         "papers/biology/img/03C-Development-Organisms-62.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q23b.jpg"
       ]
     },
     {

@@ -18,11 +18,18 @@
         "graph"
       ],
       "question": "Choose the current-potential difference graph for a negative temperature coefficient thermistor.",
-      "status": "pending",
-      "answer": "The graph options are missing from the text, so the correct graph cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C",
+      "steps": [
+        "For a negative temperature coefficient (NTC) thermistor, a larger current heats it, which frees more conduction electrons, so its resistance falls as V increases.",
+        "Falling resistance means I rises faster than V: the I-V graph curves upward with an increasing gradient, which is graph C.",
+        "A is a straight line (ohmic resistor), B flattens (filament lamp, resistance rising), D shows current falling as V rises, which no listed component does."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-01.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q1.jpg"
       ]
     },
     {
@@ -40,12 +47,20 @@
         "resistivity table"
       ],
       "question": "A wire of length 0.20 m, resistance (value given, unit lost in text) and diameter 0.36 mm is used to find its resistivity. Use a table of resistivities to determine the metal.",
-      "status": "pending",
-      "answer": "The table of resistivity values is missing from the text, so the metal cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Aluminium (rho = 2.5 x 10^-8 ohm m, closest to 2.7 x 10^-8 ohm m)",
+      "steps": [
+        "Convert the resistance: R = 50 m ohm = 0.050 ohm. Area A = pi d^2 / 4 = pi x (0.36 x 10^-3)^2 / 4 = 1.02 x 10^-7 m^2.",
+        "Use R = rho L / A, so rho = R A / L = 0.050 x 1.02 x 10^-7 / 0.20.",
+        "rho = 2.5 x 10^-8 ohm m.",
+        "This is closest to the tabulated value for aluminium (2.7 x 10^-8 ohm m), so the wire is aluminium (tungsten is 5.6 x 10^-8, iron 1.0 x 10^-7)."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-02.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q2.jpg"
       ]
     },
     {
@@ -116,13 +131,20 @@
         "wire Q"
       ],
       "question": "Wires P and Q are in series. P has density n and diameter d, with drift velocity v. Q has density 2n and diameter 2d. Find the drift velocity in Q.",
-      "status": "pending",
-      "answer": "The answer options A-D are missing from the text. Working gives v_Q = v / 8, since the current is equal, n doubles and area is x4.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: v/8",
+      "steps": [
+        "The wires are in series, so the current I is the same in P and Q.",
+        "Use I = n q v A. Q has diameter 2d, so its area A_Q = 4 A_P. Its carrier density is n_Q = 2 n.",
+        "Same I gives n_P A_P v = n_Q A_Q v_Q, so v_Q = n A v / (2n x 4A) = v / 8."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-03.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-04.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-05.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q4.jpg"
       ]
     },
     {
@@ -307,11 +329,18 @@
         "resistance"
       ],
       "question": "Which row of a table contains two components whose resistance decreases as the applied potential difference increases?",
-      "status": "pending",
-      "answer": "The table of components is missing from the text, so the correct row cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: negative temperature coefficient thermistor and diode",
+      "steps": [
+        "An NTC thermistor heats as the pd and current rise, freeing more conduction electrons, so its resistance falls.",
+        "A diode conducts better as the forward pd rises above its threshold, so V/I falls.",
+        "An ohmic conductor has constant resistance and a filament lamp has resistance that increases as it heats, so rows A, B and D are wrong."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q8.jpg"
       ]
     },
     {
@@ -354,12 +383,19 @@
         "component identification"
       ],
       "question": "Identify the electrical component with the current-potential difference graph shown (A diode, B filament lamp, C resistor, D thermistor).",
-      "status": "pending",
-      "answer": "The I-V graph is missing from the text, so the component cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: thermistor",
+      "steps": [
+        "The curve passes through the origin and is symmetrical for positive and negative pd, so the component conducts both ways (not a diode).",
+        "The gradient increases as the pd increases, so the resistance V/I decreases. A filament lamp would flatten and a resistor would be a straight line.",
+        "Falling resistance with increasing pd and current is the behaviour of an NTC thermistor."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-07.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q10.jpg"
       ]
     },
     {
@@ -376,12 +412,20 @@
         "points X Y Z"
       ],
       "question": "For an ideal diode graph with points X, Y and Z labelled, state at which point(s) the resistance is infinite.",
-      "status": "pending",
-      "answer": "The diode graph with labelled points X, Y and Z is missing from the text, so the answer cannot be read off.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: X and Y",
+      "steps": [
+        "Resistance R = V / I is infinite where there is a non-zero pd but zero current.",
+        "Point X is on the reverse-bias part of the graph, which lies on the pd axis (I = 0).",
+        "Point Y is at a small forward pd below the threshold, where the curve is still on the axis with I = 0.",
+        "Point Z is on the steep forward part where the current is large, so its resistance is finite. Hence X and Y only."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-07.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q11.jpg"
       ]
     },
     {
@@ -539,11 +583,18 @@
         "number density"
       ],
       "question": "A copper wire has area 5.0 x 10^-7 m^2 and current 0.93 A, with 8.4 x 10^28 conduction electrons per m^3. Which value gives the drift velocity in m s^-1?",
-      "status": "pending",
-      "answer": "The answer options A-D are missing from the text. The calculated value is about 1.4 x 10^-4 m s^-1 (v = I / nAe).",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: v = 0.93 / [(8.4 x 10^28)(1.6 x 10^-19)(5.0 x 10^-7)]",
+      "steps": [
+        "Use I = n A v e, so v = I / (n A e).",
+        "Substitute I = 0.93 A, n = 8.4 x 10^28 m^-3, A = 5.0 x 10^-7 m^2 and e = 1.6 x 10^-19 C. The charge e must be in the denominator, which only option D has.",
+        "The value is about 1.4 x 10^-4 m s^-1."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q14.jpg"
       ]
     },
     {
@@ -561,11 +612,18 @@
         "length"
       ],
       "question": "A metal cube of side x has current I through opposite faces and pd V across them. Which expression gives the resistivity?",
-      "status": "pending",
-      "answer": "The answer options are missing from the text. Working gives rho = V x / I (R = V / I, A = x^2, L = x).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: V x / I",
+      "steps": [
+        "Resistance R = V / I.",
+        "Current flows between opposite faces, so the length is L = x and the area is A = x^2.",
+        "rho = R A / L = (V / I)(x^2) / x = V x / I."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q15.jpg"
       ]
     },
     {
@@ -609,12 +667,18 @@
         "table"
       ],
       "question": "The temperature of a thermistor increases. Which row of the table gives the effect on the number of conduction electrons and the amplitude of lattice vibrations?",
-      "status": "pending",
-      "answer": "The table of rows is missing from the text, so the correct row cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: number of conduction electrons increases; amplitude of lattice vibrations increases",
+      "steps": [
+        "Raising the temperature of a (NTC) thermistor gives electrons enough energy to leave their atoms, so the number of conduction electrons increases.",
+        "The lattice ions gain thermal energy, so their vibration amplitude increases as well, which means that row A is correct."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-12.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q17.jpg"
       ]
     },
     {
@@ -632,12 +696,21 @@
         "explanation"
       ],
       "question": "Explain the shape of the I-V graphs for a filament bulb and for a negative temperature coefficient thermistor, referring to the movement of conduction electrons.",
-      "status": "pending",
-      "answer": "The two graphs are not present in the text, and the answer depends on their shapes.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Filament bulb: resistance rises because ions vibrate more. NTC thermistor: resistance falls because many more electrons are freed.",
+      "steps": [
+        "Filament bulb: as V and I rise, the filament heats up, so the lattice ions vibrate with larger amplitude.",
+        "The conduction electrons collide with the ions more often, which lowers their drift velocity, and the number of conduction electrons in the metal stays about the same.",
+        "So the resistance V/I increases and the graph flattens as the pd rises (gradient decreases).",
+        "Thermistor: as V and I rise, the thermistor heats up and more electrons are released from their atoms, so the number of conduction electrons increases a lot.",
+        "Lattice vibrations also increase, but this effect is smaller than the increase in carriers, so the resistance falls and the graph gets steeper (I = nAvq with n increasing)."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-12.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q18.jpg"
       ]
     },
     {
@@ -654,12 +727,19 @@
         "amperes"
       ],
       "question": "3.1 x 10^19 electrons pass a point in 30 s. Which gives the magnitude of the current in amperes?",
-      "status": "pending",
-      "answer": "The answer options are missing from the text. Working gives I = 3.1 x 10^19 x 1.60 x 10^-19 / 30 = 0.17 A (0.165 A).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: (3.1 x 10^19 x 1.6 x 10^-19) / 30",
+      "steps": [
+        "Current is charge per unit time: I = Q / t.",
+        "The charge is Q = N e = 3.1 x 10^19 x 1.6 x 10^-19 C.",
+        "I = (3.1 x 10^19 x 1.6 x 10^-19) / 30, which is about 0.17 A, option A."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-14.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-15.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q19.jpg"
       ]
     },
     {
@@ -687,6 +767,9 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-14.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-15.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q20.jpg"
       ]
     },
     {
@@ -704,12 +787,21 @@
         "copper wires"
       ],
       "question": "Complete the table of ratios for wires W and Z, where W has twice the diameter of Z and the wires are in series with I = nqvA.",
-      "status": "pending",
-      "answer": "The table layout is missing from the text. Expected ratios: current 1, charge carrier density 1, area 4, drift velocity 1/4 (W to Z).",
-      "steps": [],
+      "status": "ready",
+      "answer": "I_W / I_Z = 1 (series, same current); v_W / v_Z = 1/4 (area of W is 4 times that of Z)",
+      "steps": [
+        "I_W / I_Z = 1. The wires are in series, so the same current passes through both.",
+        "The wires are the same material, so n_W / n_Z = 1 (given). Diameter of W is 2 times that of Z, so A_W / A_Z = 2^2 = 4.",
+        "From I = n q v A with I, n and q the same, v is inversely proportional to A, so v_W / v_Z = A_Z / A_W = 1/4.",
+        "Reason for the last row: the same current has to pass through 4 times the area, so the carriers in W drift more slowly."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-14.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-15.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q20.jpg",
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q20-2.jpg"
       ]
     },
     {
@@ -808,12 +900,19 @@
         "component"
       ],
       "question": "Which component gives the current-potential difference graph shown (A diode, B filament bulb, C ohmic conductor, D thermistor)?",
-      "status": "pending",
-      "answer": "The I-V graph is missing from the text, so the component cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: thermistor",
+      "steps": [
+        "The graph passes through the origin and is symmetrical, so the component conducts in both directions.",
+        "The gradient (I/V) increases as the pd increases, so the resistance falls with heating.",
+        "This is an NTC thermistor; a filament lamp would show a decreasing gradient and a diode would not conduct for negative pd."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-16.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-17.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q24.jpg"
       ]
     },
     {
@@ -830,12 +929,19 @@
         "graph"
       ],
       "question": "The graph shows potential difference V against current I for an electrical component. Which component is it (A diode, B filament lamp, C ohmic conductor, D thermistor)?",
-      "status": "pending",
-      "answer": "The V-I graph is missing from the text, so the component cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: filament lamp",
+      "steps": [
+        "On a V against I graph, the resistance at any point is V / I (the gradient of the line from the origin).",
+        "The curve gets steeper as I increases, so V / I increases and the resistance rises with current.",
+        "A filament lamp heats up, so more lattice vibration raises its resistance. A resistor would be a straight line, a thermistor would curve the other way, and a diode is not symmetric."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-17.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q25.jpg"
       ]
     },
     {
@@ -880,13 +986,20 @@
         "tungsten"
       ],
       "question": "Sketch a graph of current against potential difference for a filament bulb.",
-      "status": "pending",
-      "answer": "Requires a drawn sketch graph, which cannot be given as a one-line answer. Expected: a curve whose gradient decreases as the pd increases.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A curve through the origin with the gradient decreasing as |V| increases, and mirrored (rotated 180 degrees) in the negative quadrant.",
+      "steps": [
+        "For positive V: draw a smooth curve starting at the origin that rises steeply at first, then flattens, because resistance increases as the filament heats up.",
+        "For negative V: the graph is the same shape reflected through the origin, with I negative, so the curve is symmetric about the origin.",
+        "Do not draw a straight line, and do not let the curve cross the V axis again or turn downwards."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-18.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-19.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-20.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q27.jpg"
       ]
     },
     {
@@ -931,13 +1044,21 @@
         "temperature"
       ],
       "question": "With 140 V across the filament and 0.44 A flowing, deduce the filament temperature using a table of resistivity values for tungsten at different temperatures.",
-      "status": "pending",
-      "answer": "The resistivity table is missing from the text. Calculated value: R = 140 / 0.44 = 318 ohm and rho = R A / L = 9.1 x 10^-7 ohm m, to match with the table.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 2700 degrees C",
+      "steps": [
+        "R = V / I = 140 V / 0.44 A = 318 ohm.",
+        "Area A = pi (0.023 x 10^-3 m)^2 = 1.66 x 10^-9 m^2, and length L = 0.580 m.",
+        "rho = R A / L = 318 x 1.66 x 10^-9 / 0.580 = 9.1 x 10^-7 ohm m.",
+        "The table gives 9.04 x 10^-7 ohm m at 2700 degrees C, so the filament temperature is about 2700 degrees C."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-18.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-19.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-20.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q27-2.jpg"
       ]
     },
     {
@@ -1036,12 +1157,20 @@
         "component"
       ],
       "question": "The graphs show I against V for three components. Which component is not represented (A diode, B filament bulb, C NTC thermistor, D ohmic conductor)?",
-      "status": "pending",
-      "answer": "The three I-V graphs are missing from the text, so the missing component cannot be determined.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: negative temperature coefficient thermistor",
+      "steps": [
+        "Left graph: a straight line through the origin is an ohmic conductor (D).",
+        "Middle graph: symmetric, with the gradient decreasing as |V| increases, is a filament bulb (B).",
+        "Right graph: no current for negative pd and a sharp rise above a threshold is a diode (A).",
+        "The NTC thermistor (steeper as V increases) is not shown, so the answer is C."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-21.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-22.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q29.jpg"
       ]
     },
     {
@@ -1058,12 +1187,18 @@
         "1.25 A"
       ],
       "question": "The current at a point is 1.25 A. Which expression gives the number of electrons passing the point in 45 seconds?",
-      "status": "pending",
-      "answer": "The answer options are missing from the text. Working gives N = I t / e = (1.25 x 45) / (1.60 x 10^-19).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: (1.25 x 45) / (1.60 x 10^-19)",
+      "steps": [
+        "Charge passing in 45 s: Q = I t = 1.25 A x 45 s.",
+        "Number of electrons N = Q / e = (1.25 x 45) / (1.60 x 10^-19), about 3.5 x 10^20 electrons, which is option A."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-21.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-22.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q30.jpg"
       ]
     },
     {
@@ -1161,12 +1296,18 @@
         "component"
       ],
       "question": "The graph shows I against V for an electrical component. Which component is it (A diode, B filament lamp, C ohmic conductor, D thermistor)?",
-      "status": "pending",
-      "answer": "The I-V graph is missing from the text, so the component cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: diode",
+      "steps": [
+        "The current is zero for all negative pd and for small positive pd, then rises sharply above a threshold.",
+        "The component conducts in only one direction, which is the behaviour of a diode."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-23.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q34.jpg"
       ]
     },
     {
@@ -1237,12 +1378,19 @@
         "forward bias"
       ],
       "question": "For the I-V graph of a diode, which statement is correct? A it does not conduct in reverse; B reverse resistance is infinite; C resistance decreases above 0.7 V; D it does not conduct below 0.7 V.",
-      "status": "pending",
-      "answer": "The diode I-V graph is missing from the text, so the statements cannot be checked against it.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: the resistance of this diode decreases when the p.d. is above 0.7 V",
+      "steps": [
+        "Above 0.7 V the current rises steeply, so V / I falls and the resistance decreases, so C is correct.",
+        "In the reverse direction there is a very small non-zero current (the curve is just below the axis), so A and B are false (resistance is large but not infinite).",
+        "Below 0.7 V the curve still shows a small current, so D is false."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-24.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-25.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q37.jpg"
       ]
     },
     {
@@ -1271,6 +1419,9 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-25.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q38.jpg"
       ]
     },
     {
@@ -1287,12 +1438,21 @@
         "table of crosses"
       ],
       "question": "Wires W and Z are now connected in series. Complete the table by placing a cross for each quantity.",
-      "status": "pending",
-      "answer": "The table of boxes is missing from the text. Expected: current is the same in W and Z; drift velocity in Z is one quarter of that in W.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Current: same value for W and Z. Resistance, pd and drift velocity: larger in W.",
+      "steps": [
+        "Series circuit: the same current passes through both wires, so put the cross in \"Same value\" for current.",
+        "Z has twice the diameter, so A_Z = 4 A_W. For equal lengths of the same material R = rho L / A, so the resistance of W is 4 times that of Z (larger in W).",
+        "V = I R with the same I, so the pd across W is larger.",
+        "From v = I / (n q A), W has the smaller area, so the drift velocity in W is 4 times that in Z (larger in W)."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-25.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q38-2.jpg",
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q38-3.jpg"
       ]
     },
     {
@@ -1309,13 +1469,22 @@
         "conclusions"
       ],
       "question": "Using the pattern produced on the fluorescent screen by an electron beam passing through graphite, state conclusions about the electrons and the structure of graphite.",
-      "status": "pending",
-      "answer": "The screen pattern is an image that is missing from the text. Expected conclusions: electrons show wave behaviour (diffraction) and graphite has a regular crystal lattice.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Electrons behave as waves (they diffract and interfere), and graphite has a regular structure with atom spacings similar to the electron wavelength.",
+      "steps": [
+        "The screen shows a pattern of concentric rings, which is a diffraction pattern.",
+        "Diffraction is a wave property, so electrons can show wave-like behaviour (wave-particle duality).",
+        "Diffraction only happens when the wavelength is similar to the gap size, so the spacing between the atoms in graphite is of the order of the electron wavelength (about 10^-10 m).",
+        "A regular pattern of rings shows the carbon atoms are arranged in a regular lattice (crystalline, with many crystals in random orientations)."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-26.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-27.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-28.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q39.jpg",
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q39-2.jpg"
       ]
     },
     {
@@ -1400,6 +1569,9 @@
         "papers/physics/img/19-4A-Electrical-Quantities-26.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-27.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-28.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q39-2.jpg"
       ]
     },
     {
@@ -1442,12 +1614,18 @@
         "component"
       ],
       "question": "The graph shows I against V for an electrical component. Which is it (A diode, B filament lamp, C resistor at constant temperature, D thermistor)?",
-      "status": "pending",
-      "answer": "The I-V graph is missing from the text, so the component cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: resistor at constant temperature",
+      "steps": [
+        "The graph is a straight line through the origin, so I is directly proportional to V.",
+        "Constant gradient means constant resistance, which is an ohmic resistor at constant temperature."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-29.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q41.jpg"
       ]
     },
     {
@@ -1464,12 +1642,20 @@
         "charge passing point"
       ],
       "question": "A lamp is connected to a cell with negligible internal resistance. The charge passing point P in 30 s is 0.4 C. Which gives the energy transferred by the cell?",
-      "status": "pending",
-      "answer": "The circuit diagram and option list are missing from the text, and the cell e.m.f. is not given. Working needs E = Q x emf.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 1.5 x 0.4 (= 0.60 J)",
+      "steps": [
+        "The cell has negligible internal resistance, so the pd across it is its e.m.f., 1.5 V.",
+        "Energy transferred W = Q V = 0.4 C x 1.5 V = 0.60 J, option B.",
+        "The time of 30 s is not needed because the charge is already given."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-29.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q42.jpg",
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q42-2.jpg"
       ]
     },
     {
@@ -1501,6 +1687,10 @@
         "papers/physics/img/19-4A-Electrical-Quantities-30.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-31.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-32.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q43.jpg",
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q43-2.jpg"
       ]
     },
     {
@@ -1737,12 +1927,18 @@
         "conduction electrons"
       ],
       "question": "A current in a wire makes its temperature increase. Which row of the table describes the changes to the wire?",
-      "status": "pending",
-      "answer": "The table of rows is missing from the text, so the correct row cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: amplitude of lattice vibrations increases; resistance increases",
+      "steps": [
+        "A rising temperature means the lattice ions vibrate with greater amplitude.",
+        "The conduction electrons then collide with the ions more often, so the resistance of the metal wire increases, which is row D."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-34.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-35.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q47.jpg"
       ]
     },
     {
@@ -1759,12 +1955,18 @@
         "resistance"
       ],
       "question": "The temperature of a thermistor and of a metal wire are both increased. Which row of the table gives the changes in their resistances?",
-      "status": "pending",
-      "answer": "The table of rows is missing from the text, so the correct row cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: thermistor resistance decreases; metal wire resistance increases",
+      "steps": [
+        "In an NTC thermistor more conduction electrons are freed as the temperature rises, so its resistance falls.",
+        "In a metal wire the number of conduction electrons stays about the same but the lattice vibrates more, so the resistance rises, which is row B."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-34.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-35.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q48.jpg"
       ]
     },
     {
@@ -1792,6 +1994,9 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-35.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-36.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q49.jpg"
       ]
     },
     {
@@ -1820,6 +2025,9 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-35.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-36.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q49.jpg"
       ]
     },
     {
@@ -1836,12 +2044,18 @@
         "LDR"
       ],
       "question": "The light intensity on an LDR increases, changing the number of conduction electrons and the resistance. Which row of the table describes these changes?",
-      "status": "pending",
-      "answer": "The table of rows is missing from the text, so the correct row cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: number of conduction electrons increases; resistance of the LDR decreases",
+      "steps": [
+        "Photons of light give electrons in the LDR enough energy to be released, so the number of conduction electrons increases.",
+        "More charge carriers per unit volume means R falls (I = nAvq), so the resistance decreases, row C."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-36.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-37.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q50.jpg"
       ]
     },
     {
@@ -1912,13 +2126,21 @@
         "conduction electrons"
       ],
       "question": "A circuit includes a thermistor. Which explains the change in the ammeter reading as the thermistor temperature decreases?",
-      "status": "pending",
-      "answer": "The circuit diagram and the option list are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: the number of conduction electrons decreases so the ammeter reading decreases",
+      "steps": [
+        "The thermistor is a negative temperature coefficient type (its resistance falls as it warms up).",
+        "A lower temperature means fewer electrons are released, so the number of conduction electrons decreases.",
+        "Fewer charge carriers raises the resistance, so for the same cell the current falls and the ammeter reading decreases, option A."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-38.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-39.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-40.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q53.jpg",
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q53-2.jpg"
       ]
     },
     {
@@ -2129,14 +2351,20 @@
         "wire"
       ],
       "question": "There is a current I in a wire and the charge on an electron is e. Which gives the number of electrons passing a point in time t?",
-      "status": "pending",
-      "answer": "The answer options are missing from the text. Working gives N = I t / e.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: I t / e",
+      "steps": [
+        "Charge passing in time t is Q = I t.",
+        "Each electron carries charge e, so the number of electrons is N = Q / e = I t / e."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-42.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-43.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-44.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-45.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q59.jpg"
       ]
     },
     {
@@ -2166,6 +2394,9 @@
         "papers/physics/img/19-4A-Electrical-Quantities-43.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-44.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-45.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q60.jpg"
       ]
     },
     {
@@ -2197,6 +2428,9 @@
         "papers/physics/img/19-4A-Electrical-Quantities-43.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-44.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-45.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q60-2.jpg"
       ]
     },
     {
@@ -2214,14 +2448,22 @@
         "current"
       ],
       "question": "With the battery connections reversed, UV of wavelength 250 nm (work function 6.9 x 10^-19 J) is incident on the photocell. Deduce whether there is a current.",
-      "status": "pending",
-      "answer": "The battery e.m.f. is not given in the text. Photon energy 7.96 x 10^-19 J gives Ek(max) = 1.06 x 10^-19 J (0.66 eV), which must be compared with the battery pd to decide.",
-      "steps": [],
+      "status": "ready",
+      "answer": "No current: the maximum kinetic energy of 1.1 x 10^-19 J is less than the 2.4 x 10^-19 J needed to cross 1.5 V.",
+      "steps": [
+        "Photon energy E = h c / lambda = (6.63 x 10^-34 x 3.00 x 10^8) / (250 x 10^-9) = 7.96 x 10^-19 J.",
+        "Maximum kinetic energy of photoelectrons: E_k = E - work function = 7.96 x 10^-19 - 6.9 x 10^-19 = 1.06 x 10^-19 J (0.66 eV).",
+        "With the battery reversed, an electron must overcome 1.5 V, which needs at least e V = 1.60 x 10^-19 x 1.5 = 2.4 x 10^-19 J.",
+        "Since 1.06 x 10^-19 J < 2.4 x 10^-19 J, no electrons reach the electrode, so there is no current."
+      ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-42.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-43.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-44.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-45.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q60-3.jpg"
       ]
     }
   ]

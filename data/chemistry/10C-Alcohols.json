@@ -20,13 +20,20 @@
         "tertiary"
       ],
       "question": "Complete the table for the four isomers of C4H9OH that are alcohols.",
-      "status": "pending",
-      "answer": "Needs the table columns and headings from the PDF; they are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Row 2: 2-methylpropan-1-ol, primary. Row 3: butan-2-ol, secondary. Row 4: 2-methylpropan-2-ol drawn as a carbon bonded to OH and three CH3 groups, classified tertiary.",
+      "steps": [
+        "Row 2 has the OH on a CH2 at the end of a branched chain (CH3)2CHCH2OH: 2-methylpropan-1-ol; the carbon bonded to OH has only one other carbon, so it is primary.",
+        "Row 3 has the OH on the second carbon of a four-carbon chain, CH3CH(OH)CH2CH3: butan-2-ol; that carbon is bonded to two other carbons, so it is secondary.",
+        "Row 4 needs the skeletal formula of 2-methylpropan-2-ol, (CH3)3COH: a central carbon with three methyl branches and one OH; the carbon bonded to OH has three other carbons, so it is tertiary."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-01.jpg",
         "papers/chemistry/img/10C-Alcohols-02.jpg",
         "papers/chemistry/img/10C-Alcohols-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q1.jpg"
       ]
     },
     {
@@ -56,6 +63,9 @@
         "papers/chemistry/img/10C-Alcohols-01.jpg",
         "papers/chemistry/img/10C-Alcohols-02.jpg",
         "papers/chemistry/img/10C-Alcohols-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q1.jpg"
       ]
     },
     {
@@ -84,6 +94,9 @@
         "papers/chemistry/img/10C-Alcohols-01.jpg",
         "papers/chemistry/img/10C-Alcohols-02.jpg",
         "papers/chemistry/img/10C-Alcohols-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q1-5.jpg"
       ]
     },
     {
@@ -112,6 +125,9 @@
         "papers/chemistry/img/10C-Alcohols-01.jpg",
         "papers/chemistry/img/10C-Alcohols-02.jpg",
         "papers/chemistry/img/10C-Alcohols-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q1-2.jpg"
       ]
     },
     {
@@ -128,13 +144,22 @@
         "bonds formed"
       ],
       "question": "Calculate the enthalpy change of combustion of butan-1-ol using the combustion equation and the mean bond enthalpies in the table.",
-      "status": "pending",
-      "answer": "Needs the mean bond enthalpy table from the PDF; the values are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "-2512 kJ mol-1",
+      "steps": [
+        "Equation: C4H9OH + 6O2 -> 4CO2 + 5H2O.",
+        "Bonds broken: butan-1-ol has 3 C-C, 9 C-H, 1 C-O and 1 O-H, so 3 x 347 + 9 x 413 + 358 + 464 = 1041 + 3717 + 358 + 464 = 5580 kJ; plus 6 O=O = 6 x 498 = 2988 kJ; total 8568 kJ.",
+        "Bonds made: 4 CO2 has 8 C=O = 8 x 805 = 6440 kJ; 5 H2O has 10 O-H = 10 x 464 = 4640 kJ; total 11 080 kJ.",
+        "Delta cH = bonds broken - bonds made = 8568 - 11 080 = -2512 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-01.jpg",
         "papers/chemistry/img/10C-Alcohols-02.jpg",
         "papers/chemistry/img/10C-Alcohols-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q1-2.jpg",
+        "papers/chemistry/fig/10C-Alcohols-Q1-3.jpg"
       ]
     },
     {
@@ -180,13 +205,20 @@
         "calculation"
       ],
       "question": "The combustion of bioethanol releases 23 MJ dm-3 and petrol releases 32 MJ dm-3. Calculate the energy released in MJ dm-3 for the combustion of biobutanol.",
-      "status": "pending",
-      "answer": "Needs the data (density or enthalpy values for biobutanol) from the PDF; the calculation cannot be done from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "29 MJ dm-3 (29.2)",
+      "steps": [
+        "Mr of C4H9OH = 4 x 12.0 + 10 x 1.0 + 16.0 = 74.0.",
+        "Mass in 1 dm3 = 1000 cm3 x 0.810 g cm-3 = 810 g, so moles = 810 / 74.0 = 10.95 mol.",
+        "Energy = 10.95 mol x 2670 kJ mol-1 = 29 200 kJ = 29.2 MJ dm-3, which is closer to petrol (32) than bioethanol (23) is."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-01.jpg",
         "papers/chemistry/img/10C-Alcohols-02.jpg",
         "papers/chemistry/img/10C-Alcohols-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q1-4.jpg"
       ]
     },
     {
@@ -375,10 +407,14 @@
         "secondary alcohol",
         "tertiary alcohol"
       ],
-      "question": "A chloroalkane is heated with dilute aqueous sodium hydroxide, and the organic product is warmed with acidified dichromate(VI), giving a colour change. The chloroalkane could be: A 1-chlorobutane, B 2-chloro-2-methylpropane, C 1-chloro-2-methylpropane, D 2-chlorobutane.",
-      "status": "pending",
-      "answer": "A, C and D all give alcohols that oxidise (primary or secondary); the PDF/mark scheme is needed to confirm which single letter is intended",
-      "steps": [],
+      "question": "A chloroalkane is heated with dilute aqueous sodium hydroxide and the pure organic product is obtained. When the organic product is warmed with acidified potassium dichromate(VI) solution, there is no change in colour. The chloroalkane could be: A 1-chlorobutane, B 2-chloro-2-methylpropane, C 1-chloro-2-methylpropane, D 2-chlorobutane.",
+      "status": "ready",
+      "answer": "B: 2-chloro-2-methylpropane",
+      "steps": [
+        "Heating with dilute aqueous sodium hydroxide hydrolyses the chloroalkane to an alcohol.",
+        "No colour change with acidified potassium dichromate(VI) means the alcohol cannot be oxidised, so it must be tertiary.",
+        "2-chloro-2-methylpropane gives 2-methylpropan-2-ol, a tertiary alcohol. A, C (primary alcohols) and D (secondary alcohol) would turn the orange mixture green."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-05.jpg",
         "papers/chemistry/img/10C-Alcohols-06.jpg",
@@ -550,14 +586,22 @@
         "moles"
       ],
       "question": "Using the titration equation CH3CH2COOH + NaOH -> CH3CH2COONa + H2O, calculate the mass of propanoic acid extracted from 50 g of animal feed, to an appropriate number of significant figures.",
-      "status": "pending",
-      "answer": "Needs the titration results table (concordant titres) from the PDF; they are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.109 g",
+      "steps": [
+        "Titre: run 1 is not concordant, so use runs 2 and 3: mean = (22.10 + 22.20) / 2 = 22.15 cm3.",
+        "Moles NaOH = 0.00668 x 22.15 / 1000 = 1.480 x 10^-4 mol in the 25.0 cm3 portion, which equals the moles of propanoic acid (1:1).",
+        "The 25.0 cm3 was taken from 250.0 cm3, so moles of acid in the whole sample = 1.480 x 10^-4 x 10 = 1.480 x 10^-3 mol.",
+        "Mr of CH3CH2COOH = 74.0, so mass = 1.480 x 10^-3 x 74.0 = 0.109 g (3 significant figures, as in the concentration)."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-05.jpg",
         "papers/chemistry/img/10C-Alcohols-06.jpg",
         "papers/chemistry/img/10C-Alcohols-07.jpg",
         "papers/chemistry/img/10C-Alcohols-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q4.jpg"
       ]
     },
     {
@@ -574,14 +618,21 @@
         "check"
       ],
       "question": "Use your answer to (d)(iii) to decide whether the propanoic acid in the sample lies within the permitted range of 1000-3000 mg kg-1 for animal feed.",
-      "status": "pending",
-      "answer": "Depends on the result of Q4(d)(iii), which needs the titration data from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Yes, it is within the range: about 2190 mg kg-1 (permitted 1000-3000 mg kg-1)",
+      "steps": [
+        "Mass of propanoic acid = 0.109 g = 109 mg, from 50 g = 0.050 kg of feed.",
+        "Concentration = 109 mg / 0.050 kg = 2190 mg kg-1 (about 2.2 x 10^3).",
+        "This lies between 1000 and 3000 mg kg-1, so the feed is within the permitted range."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-05.jpg",
         "papers/chemistry/img/10C-Alcohols-06.jpg",
         "papers/chemistry/img/10C-Alcohols-07.jpg",
         "papers/chemistry/img/10C-Alcohols-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q4.jpg"
       ]
     },
     {
@@ -626,12 +677,18 @@
         "alkene alcohol"
       ],
       "question": "What is the name of compound L? A Z-oct-3-en-3-ol, B E-oct-3-en-3-ol, C Z-oct-5-en-3-ol, D E-oct-5-en-3-ol.",
-      "status": "pending",
-      "answer": "Needs the structure of compound L from the PDF; it is not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: E-oct-5-en-3-ol",
+      "steps": [
+        "The longest chain has 8 carbons with OH on C3 and the C=C between C5 and C6, so it is oct-5-en-3-ol (numbering from the end nearer the OH).",
+        "On the double bond the two chain carbons (C4 and C7) lie on opposite sides in the zigzag drawing, so it is the E (trans) isomer."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-08.jpg",
         "papers/chemistry/img/10C-Alcohols-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q5.jpg"
       ]
     },
     {
@@ -648,12 +705,19 @@
         "alcohol conversion"
       ],
       "question": "Compound L can be converted into compound M. Which reagent should be used? A Cl2(g), B HCl(g), C PCl5(s), D KCl(aq).",
-      "status": "pending",
-      "answer": "Needs the structures of L and M from the PDF to confirm the reagent",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: Cl2(g)",
+      "steps": [
+        "M has the same carbon chain as L with the OH kept and a Cl added on each of the two carbons of the former C=C double bond (C5 and C6).",
+        "Chlorine adds across the C=C (electrophilic addition), so the reagent is Cl2(g)."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-08.jpg",
         "papers/chemistry/img/10C-Alcohols-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q5.jpg",
+        "papers/chemistry/fig/10C-Alcohols-Q5-2.jpg"
       ]
     },
     {
@@ -670,12 +734,19 @@
         "reagent choice"
       ],
       "question": "Compound L can also be converted into compound N. Which reagent should be used? A Cl2(g), B HCl(g), C PCl5(s), D KCl(aq).",
-      "status": "pending",
-      "answer": "Needs the structures of L and N from the PDF; none of the listed reagents is an obvious alkene-forming reagent without the structures",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: PCl5(s)",
+      "steps": [
+        "N has the OH of L replaced by Cl, with the C=C unchanged.",
+        "Phosphorus(V) chloride converts an alcohol into a chloroalkane (giving POCl3 and HCl as by-products), and it does not react with the C=C."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-08.jpg",
         "papers/chemistry/img/10C-Alcohols-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q5.jpg",
+        "papers/chemistry/fig/10C-Alcohols-Q5-3.jpg"
       ]
     },
     {
@@ -745,13 +816,19 @@
         "1-bromopropane"
       ],
       "question": "Give the molecular formula of product B in the reaction scheme of 1-bromopropane.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme from the PDF to identify product B",
-      "steps": [],
+      "status": "ready",
+      "answer": "C4H7N",
+      "steps": [
+        "Potassium cyanide substitutes Br by CN, so product B is CH3CH2CH2CN (butanenitrile).",
+        "Counting atoms: C4, H7 and N1, so the molecular formula is C4H7N."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-09.jpg",
         "papers/chemistry/img/10C-Alcohols-10.jpg",
         "papers/chemistry/img/10C-Alcohols-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q6.jpg"
       ]
     },
     {
@@ -767,13 +844,20 @@
         "reaction scheme"
       ],
       "question": "Name the type and mechanism of the reaction taking place in reaction C of the 1-bromopropane scheme.",
-      "status": "pending",
-      "answer": "Needs the reagents for reaction C from the PDF scheme",
-      "steps": [],
+      "status": "ready",
+      "answer": "Nucleophilic substitution, SN2 (aqueous hydroxide ions replace Br)",
+      "steps": [
+        "Reaction C converts 1-bromopropane into propan-1-ol, so Br is replaced by OH (aqueous NaOH or KOH, heated).",
+        "OH- is a nucleophile that attacks the delta+ carbon, so it is nucleophilic substitution.",
+        "1-bromopropane is a primary halogenoalkane, so the mechanism is SN2 (one step, bond breaking and making together)."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-09.jpg",
         "papers/chemistry/img/10C-Alcohols-10.jpg",
         "papers/chemistry/img/10C-Alcohols-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q6.jpg"
       ]
     },
     {
@@ -819,12 +903,18 @@
         "structure"
       ],
       "question": "Give the systematic name of compound A in the synthesis of DMAA.",
-      "status": "pending",
-      "answer": "Needs the structure of compound A from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "4-methylhexan-2-ol",
+      "steps": [
+        "Compound A has a six-carbon chain with the OH on C2 and a methyl group on C4.",
+        "Numbered from the end that gives the OH the lowest number, the name is 4-methylhexan-2-ol."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-11.jpg",
         "papers/chemistry/img/10C-Alcohols-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q7.jpg"
       ]
     },
     {
@@ -840,12 +930,18 @@
         "alcohol"
       ],
       "question": "Identify, by name or formula, a suitable reagent for Step 1 in the synthesis of DMAA.",
-      "status": "pending",
-      "answer": "Needs the Step 1 scheme from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Phosphorus(V) chloride, PCl5",
+      "steps": [
+        "Step 1 replaces the OH of the alcohol with Cl.",
+        "PCl5 does this at room temperature (it could also be SOCl2 or concentrated HCl with a catalyst, but PCl5 is the standard test-tube reagent)."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-11.jpg",
         "papers/chemistry/img/10C-Alcohols-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q7.jpg"
       ]
     },
     {
@@ -862,12 +958,20 @@
         "lone pairs"
       ],
       "question": "Give the mechanism for the reaction in Step 2 of the DMAA synthesis, including curly arrows, dipoles and lone pairs.",
-      "status": "pending",
-      "answer": "Needs the Step 2 reactants from the PDF scheme to draw the mechanism",
-      "steps": [],
+      "status": "ready",
+      "answer": "SN2: the lone pair on NH3 attacks the C(delta+) of the C-Cl bond, Cl leaves as Cl-, and a second NH3 removes H+ to give the amine DMAA and NH4+",
+      "steps": [
+        "Mark the dipole on the C-Cl bond of the chloroalkane: C delta+ and Cl delta-.",
+        "Curly arrow from the lone pair on the N of NH3 to the delta+ carbon, and a curly arrow from the C-Cl bond to the Cl atom.",
+        "This gives the intermediate R-NH3+ (with N+ bearing three H atoms) and Cl-.",
+        "A second NH3 molecule uses its lone pair to remove an H+ from the N+ (arrow from the lone pair to H and from the N-H bond to N), giving the amine R-NH2 and NH4+."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-11.jpg",
         "papers/chemistry/img/10C-Alcohols-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q7.jpg"
       ]
     },
     {
@@ -896,6 +1000,9 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-11.jpg",
         "papers/chemistry/img/10C-Alcohols-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q7-2.jpg"
       ]
     },
     {
@@ -924,6 +1031,10 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-11.jpg",
         "papers/chemistry/img/10C-Alcohols-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q7-2.jpg",
+        "papers/chemistry/fig/10C-Alcohols-Q7-3.jpg"
       ]
     },
     {
@@ -1507,13 +1618,19 @@
         "table"
       ],
       "question": "Give the classification of each halogenoalkane shown in the table as primary, secondary or tertiary.",
-      "status": "pending",
-      "answer": "Needs the table of halogenoalkane structures from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Bromocyclohexane: secondary. 1-bromo-2-methylpropane: primary.",
+      "steps": [
+        "In bromocyclohexane the carbon bonded to Br is attached to two other carbon atoms in the ring, so it is secondary.",
+        "In 1-bromo-2-methylpropane the carbon bonded to Br (a CH2 group) is attached to only one other carbon, so it is primary."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-19.jpg",
         "papers/chemistry/img/10C-Alcohols-20.jpg",
         "papers/chemistry/img/10C-Alcohols-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q16.jpg"
       ]
     },
     {
@@ -1532,13 +1649,20 @@
         "prediction"
       ],
       "question": "Samples of 1-iodobutane and 2-chloro-2-methylpropane were hydrolysed using aqueous silver nitrate in ethanol. Explain whether or not it is possible to predict the relative rate of hydrolysis of these two compounds.",
-      "status": "pending",
-      "answer": "Needs the mark scheme or PDF check: the C-I bond is weaker, but the tertiary chloride reacts by SN1, so the prediction is not straightforward",
-      "steps": [],
+      "status": "ready",
+      "answer": "It is not possible to predict, because the weaker C-I bond and the tertiary structure favour different compounds, so the order has to be found by experiment.",
+      "steps": [
+        "1-iodobutane has a weak C-I bond, so its bond breaks easily and I- is a good leaving group, which would make it fast.",
+        "2-chloro-2-methylpropane has the stronger C-Cl bond, but it is a tertiary halogenoalkane that forms a stable carbocation, which would also make it fast.",
+        "Because the two factors (bond strength and structure) work in opposite directions in the two compounds, the relative rate cannot be predicted from theory alone; the times to form the precipitate would have to be measured."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-19.jpg",
         "papers/chemistry/img/10C-Alcohols-20.jpg",
         "papers/chemistry/img/10C-Alcohols-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q16.jpg"
       ]
     },
     {
@@ -1597,6 +1721,9 @@
         "papers/chemistry/img/10C-Alcohols-19.jpg",
         "papers/chemistry/img/10C-Alcohols-20.jpg",
         "papers/chemistry/img/10C-Alcohols-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q16-2.jpg"
       ]
     },
     {
@@ -1817,15 +1944,21 @@
         "scheme"
       ],
       "question": "For Reaction 1 in the 2-methylpropene scheme, give the name or formula of a suitable reagent and the conditions.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme from the PDF to identify Reaction 1",
-      "steps": [],
+      "status": "ready",
+      "answer": "Reagent: aqueous sodium (or potassium) hydroxide. Conditions: heat under reflux.",
+      "steps": [
+        "Reaction 1 converts the chloroalkane (1-chloro-2-methylpropane) back into the alcohol, so Cl is replaced by OH.",
+        "Aqueous NaOH or KOH, heated under reflux, does this by nucleophilic substitution."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-21.jpg",
         "papers/chemistry/img/10C-Alcohols-22.jpg",
         "papers/chemistry/img/10C-Alcohols-23.jpg",
         "papers/chemistry/img/10C-Alcohols-24.jpg",
         "papers/chemistry/img/10C-Alcohols-25.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q18.jpg"
       ]
     },
     {
@@ -1841,15 +1974,21 @@
         "scheme"
       ],
       "question": "For Reaction 2 in the 2-methylpropene scheme, give a suitable reagent and the type of reaction.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme from the PDF to identify Reaction 2",
-      "steps": [],
+      "status": "ready",
+      "answer": "Reagent: concentrated phosphoric(V) acid (H3PO4) (or concentrated sulfuric acid). Type of reaction: elimination (dehydration).",
+      "steps": [
+        "Reaction 2 converts the alcohol, 2-methylpropan-1-ol, into 2-methylpropene by removing H2O.",
+        "The reagent is concentrated H3PO4 (or concentrated H2SO4) and the reaction is elimination (dehydration)."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-21.jpg",
         "papers/chemistry/img/10C-Alcohols-22.jpg",
         "papers/chemistry/img/10C-Alcohols-23.jpg",
         "papers/chemistry/img/10C-Alcohols-24.jpg",
         "papers/chemistry/img/10C-Alcohols-25.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q18.jpg"
       ]
     },
     {
@@ -1865,15 +2004,21 @@
         "scheme"
       ],
       "question": "For Reaction 3 in the 2-methylpropene scheme, give a suitable reagent and write the equation.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme from the PDF to identify Reaction 3",
-      "steps": [],
+      "status": "ready",
+      "answer": "Reagent: phosphorus(V) chloride, PCl5. Equation: (CH3)2CHCH2OH + PCl5 -> (CH3)2CHCH2Cl + POCl3 + HCl",
+      "steps": [
+        "Reaction 3 converts the alcohol into the chloroalkane, so the OH is replaced by Cl.",
+        "PCl5 is the reagent; it gives the chloroalkane, phosphorus oxychloride and hydrogen chloride."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-21.jpg",
         "papers/chemistry/img/10C-Alcohols-22.jpg",
         "papers/chemistry/img/10C-Alcohols-23.jpg",
         "papers/chemistry/img/10C-Alcohols-24.jpg",
         "papers/chemistry/img/10C-Alcohols-25.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q18.jpg"
       ]
     },
     {
@@ -1890,15 +2035,22 @@
         "scheme"
       ],
       "question": "For Reaction 4 (using KOH), give the conditions and the role of the hydroxide ions.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme from the PDF to identify the substrate for Reaction 4",
-      "steps": [],
+      "status": "ready",
+      "answer": "Conditions: KOH dissolved in ethanol, heated (under reflux). Role of hydroxide ions: a base.",
+      "steps": [
+        "Reaction 4 converts the chloroalkane into 2-methylpropene, an elimination reaction.",
+        "Ethanolic KOH, heated, gives elimination rather than substitution.",
+        "The hydroxide ion acts as a base: it removes an H+ from the carbon next to the C-Cl carbon."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-21.jpg",
         "papers/chemistry/img/10C-Alcohols-22.jpg",
         "papers/chemistry/img/10C-Alcohols-23.jpg",
         "papers/chemistry/img/10C-Alcohols-24.jpg",
         "papers/chemistry/img/10C-Alcohols-25.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q18.jpg"
       ]
     },
     {
@@ -1946,9 +2098,13 @@
         "alcohols P Q R S"
       ],
       "question": "Which alcohols (P, Q, R, S shown) will produce a carboxylic acid when heated under reflux with acidified potassium dichromate(VI)? Options: A P only, B P and Q only, C P, Q and R only, D P, Q, R and S.",
-      "status": "pending",
-      "answer": "Needs the structures of alcohols P, Q, R and S from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: P and Q only",
+      "steps": [
+        "Heating under reflux with excess acidified dichromate(VI) oxidises primary alcohols through the aldehyde to a carboxylic acid.",
+        "P (butan-1-ol) and Q (2-methylpropan-1-ol) have the OH on a CH2 group at the end of the chain, so they are primary.",
+        "R (butan-2-ol) is secondary and gives a ketone, and S (2-methylpropan-2-ol) is tertiary and is not oxidised."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-25.jpg",
         "papers/chemistry/img/10C-Alcohols-26.jpg",
@@ -1956,6 +2112,9 @@
         "papers/chemistry/img/10C-Alcohols-28.jpg",
         "papers/chemistry/img/10C-Alcohols-29.jpg",
         "papers/chemistry/img/10C-Alcohols-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q19.jpg"
       ]
     },
     {
@@ -2187,9 +2346,14 @@
         "ammonia"
       ],
       "question": "Complete the energy profile for the catalysed (Ecat = +70 kJ mol-1) and uncatalysed (Ea = +290 kJ mol-1) reactions of N2 with H2, labelling the activation energies and the enthalpy change, matching the scale shown.",
-      "status": "pending",
-      "answer": "Drawing task; the scale and enthalpy data (Data) are needed from the PDF to check the diagram",
-      "steps": [],
+      "status": "ready",
+      "answer": "Draw the reactants at the level shown, the products 2NH3 lower, an uncatalysed curve with its peak 290 kJ mol-1 above the reactants, and a catalysed curve with its peak only 70 kJ mol-1 above the reactants. Label Ea = +290, Ecat = +70 and delta H = -92 kJ mol-1.",
+      "steps": [
+        "On the grid, one large square is about 50 kJ mol-1: the 2NH3 level is 92 kJ mol-1 below the N2 + 3H2 level (about 1.8 large squares).",
+        "Uncatalysed route: a curve from the reactants rising to a peak 290 kJ mol-1 (about 5.8 large squares) above the reactants' level and then falling to the 2NH3 level; label the arrow from the reactants to the peak as Ea = +290 kJ mol-1.",
+        "Catalysed route: a second, lower curve (it may have two small peaks) with its highest point 70 kJ mol-1 (about 1.4 large squares) above the reactants' level; label that arrow Ecat = +70 kJ mol-1.",
+        "Draw a downward arrow from the reactants' level to the products' level labelled delta H = -92 kJ mol-1; it is the same for both routes."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-25.jpg",
         "papers/chemistry/img/10C-Alcohols-26.jpg",
@@ -2197,6 +2361,9 @@
         "papers/chemistry/img/10C-Alcohols-28.jpg",
         "papers/chemistry/img/10C-Alcohols-29.jpg",
         "papers/chemistry/img/10C-Alcohols-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q20.jpg"
       ]
     },
     {
@@ -2336,9 +2503,13 @@
         "complete the cycle"
       ],
       "question": "Complete the enthalpy cycle for the reaction of NH3(g) with HNO3(aq) to form NH4NO3(aq).",
-      "status": "pending",
-      "answer": "Needs the enthalpy cycle diagram and data from the PDF; they are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Middle-left box: NH3(g) + HNO3(l). Upper right box: +25.6 kJ mol-1. Lower right box: -365.6 kJ mol-1.",
+      "steps": [
+        "The bottom left arrow (-220.2 kJ mol-1) goes from the elements to NH3(g) + HNO3(l) (-46.1 + -174.1 = -220.2), so that is the empty box.",
+        "The arrow up from NH4NO3(s) to NH4NO3(aq) is the enthalpy of solution of NH4NO3, +25.6 kJ mol-1.",
+        "The arrow from the elements to NH4NO3(s) is the enthalpy of formation of NH4NO3(s), -365.6 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-25.jpg",
         "papers/chemistry/img/10C-Alcohols-26.jpg",
@@ -2346,6 +2517,10 @@
         "papers/chemistry/img/10C-Alcohols-28.jpg",
         "papers/chemistry/img/10C-Alcohols-29.jpg",
         "papers/chemistry/img/10C-Alcohols-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q20-2.jpg",
+        "papers/chemistry/fig/10C-Alcohols-Q20-3.jpg"
       ]
     },
     {
@@ -2362,9 +2537,13 @@
         "calculation"
       ],
       "question": "Calculate the enthalpy change, rH, in kJ mol-1, for the reaction of NH3(g) with HNO3(aq) using the data in the PDF.",
-      "status": "pending",
-      "answer": "Needs the data table from the PDF; values are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "-87.2 kJ mol-1",
+      "steps": [
+        "Going round the cycle: delta rH = (formation of NH4NO3(s) + solution of NH4NO3) - (formation of NH3(g) and HNO3(l) + solution of HNO3).",
+        "Route via the elements: -220.2 + (-32.6) + delta rH = -365.6 + 25.6.",
+        "-252.8 + delta rH = -340.0, so delta rH = -87.2 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-25.jpg",
         "papers/chemistry/img/10C-Alcohols-26.jpg",
@@ -2372,6 +2551,10 @@
         "papers/chemistry/img/10C-Alcohols-28.jpg",
         "papers/chemistry/img/10C-Alcohols-29.jpg",
         "papers/chemistry/img/10C-Alcohols-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q20-2.jpg",
+        "papers/chemistry/fig/10C-Alcohols-Q20-3.jpg"
       ]
     },
     {
@@ -2475,7 +2658,7 @@
       ],
       "question": "Give the IUPAC name of primary alcohol A (C6H14O) shown in the PDF.",
       "status": "pending",
-      "answer": "Needs the structure of alcohol A from the PDF",
+      "answer": "Cannot be answered: the structure of alcohol A is not printed on the page (the space is blank in the source PDF).",
       "steps": [],
       "images": [
         "papers/chemistry/img/10C-Alcohols-31.jpg",
@@ -2500,7 +2683,7 @@
       ],
       "question": "Explain why alcohol B has a higher boiling temperature than alcohol A (both primary C6H14O alcohols).",
       "status": "pending",
-      "answer": "Needs the structures of A and B from the PDF to explain the difference in London forces",
+      "answer": "Cannot be answered: the structures of alcohols A and B are not printed on the page (the space is blank in the source PDF).",
       "steps": [],
       "images": [
         "papers/chemistry/img/10C-Alcohols-31.jpg",
@@ -2554,14 +2737,21 @@
         "structure"
       ],
       "question": "Give the structure of the organic product of each of Reactions 1, 2 and 3 shown for the C6H14O alcohols.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme from the PDF to identify the reagents and products",
-      "steps": [],
+      "status": "ready",
+      "answer": "Reaction 1: 2,3-dimethylbutanoic acid, (CH3)2CHCH(CH3)COOH. Reaction 2: 4-methylpentan-2-one, (CH3)2CHCH2COCH3. Reaction 3: 3-(iodomethyl)pentane (1-iodo-2-ethylbutane), CH3CH2CH(CH2I)CH2CH3.",
+      "steps": [
+        "Reaction 1: the primary alcohol 2,3-dimethylbutan-1-ol is heated under reflux with acidified dichromate, so it is oxidised fully to the carboxylic acid 2,3-dimethylbutanoic acid.",
+        "Reaction 2: the alcohol 4-methylpentan-2-ol is secondary, so it is oxidised to the ketone 4-methylpentan-2-one (the C=O is on C2).",
+        "Reaction 3: red phosphorus and iodine (which form PI3) replace the OH of 2-ethylbutan-1-ol with I, giving 1-iodo-2-ethylbutane."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-31.jpg",
         "papers/chemistry/img/10C-Alcohols-32.jpg",
         "papers/chemistry/img/10C-Alcohols-33.jpg",
         "papers/chemistry/img/10C-Alcohols-34.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q22.jpg"
       ]
     },
     {
@@ -2579,13 +2769,19 @@
         "SN2"
       ],
       "question": "Name the type and mechanism of the reactions summarised in the halogenoalkane scheme (all of the same type and mechanism).",
-      "status": "pending",
-      "answer": "Needs the reaction scheme from the PDF to decide between SN1 and SN2 and confirm the reaction type",
-      "steps": [],
+      "status": "ready",
+      "answer": "Nucleophilic substitution by the SN1 mechanism",
+      "steps": [
+        "In each reaction the Br of the halogenoalkane is replaced by a nucleophile (NH3, OH-, CN-), so it is nucleophilic substitution.",
+        "The halogenoalkane, (CH3)3CBr, is tertiary, so it reacts by SN1 via a carbocation intermediate."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-34.jpg",
         "papers/chemistry/img/10C-Alcohols-35.jpg",
         "papers/chemistry/img/10C-Alcohols-36.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
       ]
     },
     {
@@ -2600,13 +2796,19 @@
         "halogenoalkane scheme"
       ],
       "question": "Give the IUPAC name and the structure of compound M in the halogenoalkane scheme.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme from the PDF to identify compound M",
-      "steps": [],
+      "status": "ready",
+      "answer": "2,2-dimethylpropanenitrile, (CH3)3C-CN",
+      "steps": [
+        "KCN in ethanol substitutes Br by CN.",
+        "The product is (CH3)3C-C=N: a nitrile with a three-carbon chain (propane) with two methyl groups on C2 and the CN carbon as the extra carbon, so 2,2-dimethylpropanenitrile."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-34.jpg",
         "papers/chemistry/img/10C-Alcohols-35.jpg",
         "papers/chemistry/img/10C-Alcohols-36.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
       ]
     },
     {
@@ -2622,13 +2824,19 @@
         "scheme"
       ],
       "question": "State the reagent and conditions required for Reaction 1 in the halogenoalkane scheme.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme from the PDF to identify Reaction 1",
-      "steps": [],
+      "status": "ready",
+      "answer": "Reagent: excess concentrated ammonia (in ethanol). Conditions: heat in a sealed tube under pressure.",
+      "steps": [
+        "Reaction 1 replaces Br by NH2, so the reagent is ammonia.",
+        "Excess concentrated ammonia dissolved in ethanol is used, and the mixture is heated in a sealed tube because ammonia is a gas and would escape from an open flask."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-34.jpg",
         "papers/chemistry/img/10C-Alcohols-35.jpg",
         "papers/chemistry/img/10C-Alcohols-36.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
       ]
     },
     {
@@ -2645,13 +2853,20 @@
         "intermediate J"
       ],
       "question": "Complete the incomplete mechanism for Reaction 2 by adding curly arrows, and relevant dipoles and lone pairs.",
-      "status": "pending",
-      "answer": "Needs the incomplete mechanism diagram from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Step 1: curly arrow from the C-Br bond to Br (with dipoles C delta+ and Br delta-), forming the carbocation (CH3)3C+ and Br-. Step 2: curly arrow from a lone pair on OH- to the C+, forming (CH3)3COH.",
+      "steps": [
+        "Mark the dipole on the C-Br bond: C delta+ and Br delta-.",
+        "First step: a curly arrow from the middle of the C-Br bond to the Br atom, giving the carbocation (CH3)3C+ (intermediate J) and :Br-.",
+        "Second step: draw a lone pair on the oxygen of :OH- and a curly arrow from it to the positive carbon of J, giving (CH3)3C-OH."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-34.jpg",
         "papers/chemistry/img/10C-Alcohols-35.jpg",
         "papers/chemistry/img/10C-Alcohols-36.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
       ]
     },
     {
@@ -2667,13 +2882,19 @@
         "mechanism"
       ],
       "question": "Describe how intermediate J is formed in the first step of Reaction 2, naming the process that occurs.",
-      "status": "pending",
-      "answer": "Needs the Reaction 2 mechanism from the PDF to identify J and the process",
-      "steps": [],
+      "status": "ready",
+      "answer": "The C-Br bond breaks by heterolytic fission: both electrons of the bond go to the Br atom, forming Br- and the carbocation (CH3)3C+ (intermediate J).",
+      "steps": [
+        "In the first step the C-Br bond is broken unevenly (heterolytic fission), because Br is more electronegative.",
+        "Both bonding electrons go to Br, which leaves as Br-, and the carbon is left with a positive charge as the tertiary carbocation J."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-34.jpg",
         "papers/chemistry/img/10C-Alcohols-35.jpg",
         "papers/chemistry/img/10C-Alcohols-36.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
       ]
     },
     {
@@ -2689,13 +2910,19 @@
         "justify"
       ],
       "question": "State the shape of intermediate J and justify your answer.",
-      "status": "pending",
-      "answer": "Depends on identifying intermediate J from the PDF mechanism",
-      "steps": [],
+      "status": "ready",
+      "answer": "Trigonal planar, because the positive carbon of J has three bonding pairs and no lone pair, so they repel equally to give bond angles of 120 degrees.",
+      "steps": [
+        "Intermediate J is the carbocation (CH3)3C+, with the positive carbon bonded to three CH3 groups.",
+        "Three bonding pairs and no lone pair around the central carbon repel equally and are as far apart as possible, so J is trigonal planar with 120 degrees between the bonds."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-34.jpg",
         "papers/chemistry/img/10C-Alcohols-35.jpg",
         "papers/chemistry/img/10C-Alcohols-36.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
       ]
     },
     {
@@ -2711,13 +2938,19 @@
         "structures"
       ],
       "question": "The product of Reaction 2 is shown. Draw the structures of the three isomers of this compound that are also alcohols.",
-      "status": "pending",
-      "answer": "Needs the product of Reaction 2 from the PDF to draw its isomeric alcohols",
-      "steps": [],
+      "status": "ready",
+      "answer": "Butan-1-ol, CH3CH2CH2CH2OH; butan-2-ol, CH3CH2CH(OH)CH3; 2-methylpropan-1-ol, (CH3)2CHCH2OH",
+      "steps": [
+        "The product (CH3)3COH is 2-methylpropan-2-ol, C4H10O, a tertiary alcohol.",
+        "The other alcohol isomers with the same formula are: butan-1-ol (OH on the end carbon of a straight chain), butan-2-ol (OH on C2 of a straight chain) and 2-methylpropan-1-ol (OH on the CH2 end of the branched chain)."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-34.jpg",
         "papers/chemistry/img/10C-Alcohols-35.jpg",
         "papers/chemistry/img/10C-Alcohols-36.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
       ]
     },
     {
@@ -2918,12 +3151,19 @@
         "correct"
       ],
       "question": "A student suggested a mechanism for the reaction of 1-bromo-2-methylpropane with aqueous alkali. Identify and correct the three mistakes in the mechanism shown.",
-      "status": "pending",
-      "answer": "Needs the student's mechanism diagram from the PDF to identify the three mistakes",
-      "steps": [],
+      "status": "ready",
+      "answer": "Three mistakes: the dipoles are the wrong way round (C should be delta+ and Br delta-); the curly arrow for OH- is drawn from the carbon to OH- instead of from OH- to the carbon; and the OH- has no lone pair drawn for the arrow to start from.",
+      "steps": [
+        "The C-Br bond is shown as C delta- and Br delta+, but bromine is more electronegative, so it should be C delta+ and Br delta-.",
+        "The curly arrow for the nucleophile goes in the wrong direction (from the C atom towards OH-); it must start from a lone pair on the oxygen of :OH- and point to the delta+ carbon bonded to Br.",
+        "The OH- is drawn without its lone pair; it should be :OH- with the arrow starting on the lone pair."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-37.jpg",
         "papers/chemistry/img/10C-Alcohols-38.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q26.jpg"
       ]
     },
     {
@@ -2966,12 +3206,19 @@
         "aldehyde"
       ],
       "question": "Which of the compounds shown could be oxidised to a carboxylic acid with potassium dichromate(VI) and dilute sulfuric acid?",
-      "status": "pending",
-      "answer": "Needs the compound structures (options) from the PDF; they are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "D",
+      "steps": [
+        "Only a primary alcohol is oxidised to a carboxylic acid on reflux with acidified dichromate(VI).",
+        "D, CH3C(CH3)2CH2OH, has the OH on a CH2 group at the end of the chain (primary), so it gives 2,2-dimethylpropanoic acid.",
+        "A and C are secondary alcohols (they give ketones) and B is tertiary (not oxidised)."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-38.jpg",
         "papers/chemistry/img/10C-Alcohols-39.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q27.jpg"
       ]
     },
     {
@@ -3014,12 +3261,19 @@
         "structure"
       ],
       "question": "What is the name of the alcohol shown? A 4-ethyl-4-methylbutan-3-ol, B 4-methylhexan-3-ol, C 3-methylhexan-3-ol, D 2-ethylpentan-3-ol.",
-      "status": "pending",
-      "answer": "Needs the structure shown in the PDF; the option names alone are not enough to decide",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 4-methylhexan-3-ol",
+      "steps": [
+        "The longest chain containing the carbon with OH has six carbons (hexane).",
+        "Numbering from the end that gives the OH the lowest number puts the OH on C3 and the methyl group on C4.",
+        "The name is 4-methylhexan-3-ol."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-40.jpg",
         "papers/chemistry/img/10C-Alcohols-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q29.jpg"
       ]
     },
     {
@@ -3036,12 +3290,19 @@
         "products"
       ],
       "question": "Which is a correct equation for the incomplete combustion of butan-1-ol? (Options shown in the PDF.)",
-      "status": "pending",
-      "answer": "Needs the answer options from the PDF; they are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: CH3CH2CH2CH2OH + 4O2 -> 4CO + 5H2O",
+      "steps": [
+        "Incomplete combustion gives carbon monoxide rather than carbon dioxide, so A and B (which give CO2) are not correct.",
+        "C4H9OH + xO2 -> 4CO + 5H2O needs 4 + 5 = 9 oxygen atoms on the right; 1 comes from the alcohol, so 8 must come from O2, which is 4 O2.",
+        "Only C is balanced (D has 4.5 O2 and would not balance)."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-40.jpg",
         "papers/chemistry/img/10C-Alcohols-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q30.jpg"
       ]
     },
     {
@@ -3142,14 +3403,21 @@
         "calculation"
       ],
       "question": "Calculate the enthalpy change per mole of methanol produced from methane, using the bond enthalpies shown.",
-      "status": "pending",
-      "answer": "Needs the bond enthalpy data and equation from the PDF; they are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "-138 kJ mol-1",
+      "steps": [
+        "2CH4 + O2 -> 2CH3OH: bonds broken are 8 C-H (8 x 413 = 3304) and 1 O=O (498), total 3802 kJ.",
+        "Bonds made are 6 C-H (6 x 413 = 2478), 2 C-O (2 x 336 = 672) and 2 O-H (2 x 464 = 928), total 4078 kJ.",
+        "Delta H = 3802 - 4078 = -276 kJ for 2 mol of methanol, so per mole of methanol = -276 / 2 = -138 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-41.jpg",
         "papers/chemistry/img/10C-Alcohols-42.jpg",
         "papers/chemistry/img/10C-Alcohols-43.jpg",
         "papers/chemistry/img/10C-Alcohols-44.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q34.jpg"
       ]
     },
     {
@@ -3177,6 +3445,9 @@
         "papers/chemistry/img/10C-Alcohols-42.jpg",
         "papers/chemistry/img/10C-Alcohols-43.jpg",
         "papers/chemistry/img/10C-Alcohols-44.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q34-2.jpg"
       ]
     },
     {
@@ -3206,6 +3477,10 @@
         "papers/chemistry/img/10C-Alcohols-42.jpg",
         "papers/chemistry/img/10C-Alcohols-43.jpg",
         "papers/chemistry/img/10C-Alcohols-44.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/10C-Alcohols-Q34.jpg",
+        "papers/chemistry/fig/10C-Alcohols-Q34-2.jpg"
       ]
     },
     {

@@ -39650,14 +39650,20 @@ window.BANK.chemistry = {
       "small amount"
      ],
      "question": "A large amount of P is added to a small amount of Q, and P reacts reversibly to form Q. Which graph shows how the concentrations of P and Q change as equilibrium is reached?",
-     "status": "pending",
-     "answer": "Needs the four concentration-time graph options from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "P converts to Q, so the concentration of P falls while Q rises from its small starting value.",
+      "The reaction is reversible, so both curves level off at constant, non-zero concentrations once the forward and reverse rates are equal (dynamic equilibrium).",
+      "B is wrong because Q cannot decrease while P is being converted into it; C is wrong because Q keeps rising with no plateau; D shows nothing changing, so equilibrium would already have been reached."
+     ],
      "images": [
       "papers/chemistry/img/09B-Equilibria-01.jpg",
       "papers/chemistry/img/09B-Equilibria-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q1.jpg"
+     ]
     },
     {
      "id": "Q2a",
@@ -39673,14 +39679,21 @@ window.BANK.chemistry = {
       "constant pressure"
      ],
      "question": "For the reversible reaction of phosphorus(V) chloride, state the effect of increasing the temperature at constant pressure on the rate of reaction and the equilibrium yield of PCl5.",
-     "status": "pending",
-     "answer": "Needs the reversible equation and its enthalpy change from the PDF; the equation is not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: rate increases, yield of PCl5 decreases",
+     "steps": [
+      "A higher temperature gives particles more kinetic energy, so more collisions exceed the activation energy and the rate increases.",
+      "The forward reaction is exothermic (delta H = -88 kJ mol-1), so raising the temperature moves the equilibrium in the endothermic (backward) direction.",
+      "The equilibrium yield of PCl5 therefore decreases."
+     ],
      "images": [
       "papers/chemistry/img/09B-Equilibria-02.jpg",
       "papers/chemistry/img/09B-Equilibria-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q2.jpg",
+      "papers/chemistry/fig/09B-Equilibria-Q2-2.jpg"
+     ]
     },
     {
      "id": "Q2b",
@@ -39696,14 +39709,21 @@ window.BANK.chemistry = {
       "constant temperature"
      ],
      "question": "For the reversible reaction of phosphorus(V) chloride, state the effect of increasing the pressure at constant temperature on the rate of reaction and the equilibrium yield of PCl5.",
-     "status": "pending",
-     "answer": "Needs the reversible equation from the PDF to count gas moles on each side; the equation is not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: rate increases, yield of PCl5 increases",
+     "steps": [
+      "Higher pressure squeezes the gas particles closer together, so collisions are more frequent and the rate increases.",
+      "PCl3(g) + Cl2(g) <=> PCl5(g) has 2 mol of gas on the left and 1 mol on the right.",
+      "Increasing the pressure moves the equilibrium to the side with fewer gas moles (the right), so the yield of PCl5 increases."
+     ],
      "images": [
       "papers/chemistry/img/09B-Equilibria-02.jpg",
       "papers/chemistry/img/09B-Equilibria-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q2.jpg",
+      "papers/chemistry/fig/09B-Equilibria-Q2-3.jpg"
+     ]
     },
     {
      "id": "Q3",
@@ -39718,13 +39738,19 @@ window.BANK.chemistry = {
       "gas moles"
      ],
      "question": "Which equilibrium shifts to the right-hand side when the pressure decreases at constant temperature?",
-     "status": "pending",
-     "answer": "Needs the answer options (equilibria) from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 2NOCl(g) <=> 2NO(g) + Cl2(g)",
+     "steps": [
+      "Lowering the pressure favours the side with more moles of gas.",
+      "D has 2 mol of gas on the left and 3 mol on the right, so the equilibrium shifts right.",
+      "A (4 to 2), C (4 to 1) shift left and B has 2 mol on each side, so it is unaffected."
+     ],
      "images": [
       "papers/chemistry/img/09B-Equilibria-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q3.jpg"
+     ]
     },
     {
      "id": "Q4a(i)",
@@ -39805,16 +39831,24 @@ window.BANK.chemistry = {
       "energy diagram"
      ],
      "question": "Complete a reaction profile showing both the catalysed and uncatalysed reactions for Step 2, labelling the activation energy and enthalpy change.",
-     "status": "pending",
-     "answer": "Drawing task; the diagram must be checked against the PDF and cannot be verified from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Reaction profile with reactants (2SO2 + O2) above products (2SO3), a high peak for the uncatalysed route, a lower peak for the catalysed route, activation energy labelled and delta H = -196 kJ mol-1 labelled",
+     "steps": [
+      "Label the axes Energy (vertical) and Progress of reaction (horizontal); draw the reactants 2SO2(g) + O2(g) at a higher energy level than the products 2SO3(g) because the reaction is exothermic.",
+      "Draw the uncatalysed curve rising from the reactants to a high peak and then falling to the products.",
+      "Draw the catalysed curve with a lower peak (or two lower peaks) between the same start and end levels, since V2O5 provides an alternative route with lower activation energy.",
+      "Mark the activation energy Ea as an arrow from the reactants' level up to the top of the uncatalysed peak (the catalysed Ea is the shorter arrow to the lower peak).",
+      "Mark delta H = -196 kJ mol-1 as a downward arrow from the reactants' level to the products' level; it is the same with and without the catalyst."
+     ],
      "images": [
       "papers/chemistry/img/09B-Equilibria-04.jpg",
       "papers/chemistry/img/09B-Equilibria-05.jpg",
       "papers/chemistry/img/09B-Equilibria-06.jpg",
       "papers/chemistry/img/09B-Equilibria-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q4.jpg"
+     ]
     },
     {
      "id": "Q4a(iv)",
@@ -40140,16 +40174,22 @@ window.BANK.chemistry = {
       "working"
      ],
      "question": "Using the enthalpy changes for the conversion of four gaseous compounds into their atoms, calculate the bond enthalpy of the C-C bond in kJ mol-1, showing working.",
-     "status": "pending",
-     "answer": "Needs the table of enthalpy changes for the four compounds from the PDF; the values are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "347 kJ mol-1",
+     "steps": [
+      "C2H5OH(g) -> 2C + 6H + O minus CH3OH(g) -> C + 4H + O leaves the extra C-C bond and 2 extra C-H bonds: 3322 - 2105 = 1217 kJ mol-1.",
+      "From CH4, 4 C-H = 1740, so one C-H = 1740 / 4 = 435 kJ mol-1.",
+      "C-C = 1217 - 2 x 435 = 347 kJ mol-1 (the water value is not needed)."
+     ],
      "images": [
       "papers/chemistry/img/09B-Equilibria-07.jpg",
       "papers/chemistry/img/09B-Equilibria-08.jpg",
       "papers/chemistry/img/09B-Equilibria-09.jpg",
       "papers/chemistry/img/09B-Equilibria-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q5c.jpg"
+     ]
     },
     {
      "id": "Q5d",
@@ -40198,14 +40238,20 @@ window.BANK.chemistry = {
       "exothermic"
      ],
      "question": "H2(g) + I2(g) <=> 2HI(g) is set up at 300 C and then cooled, and the colour darkens. Which statement is correct?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: left, endothermic",
+     "steps": [
+      "Iodine is the coloured (dark purple) species and HI is colourless, so a darker colour on cooling means more I2 has formed.",
+      "More I2 means the equilibrium has moved to the left when the system is cooled.",
+      "Cooling shifts the equilibrium in the exothermic direction, so the reverse (left-moving) reaction is exothermic and the forward reaction is endothermic."
+     ],
      "images": [
       "papers/chemistry/img/09B-Equilibria-10.jpg",
       "papers/chemistry/img/09B-Equilibria-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q6.jpg"
+     ]
     },
     {
      "id": "Q7",
@@ -40883,14 +40929,20 @@ window.BANK.chemistry = {
       "bond enthalpies"
      ],
      "question": "Using the table of bond enthalpies shown, what is the bond enthalpy of the C-H bond in kJ mol-1? A 198, B 313, C 416, D 532.",
-     "status": "pending",
-     "answer": "Needs the bond enthalpy table from the PDF; the values are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 416",
+     "steps": [
+      "delta H = bonds broken - bonds formed for CH4 + H2O -> CO + 3H2: bonds broken are 4 C-H and 2 O-H; bonds formed are 1 C=O (1077) and 3 H-H.",
+      "206 = (4x + 2 x 464) - (1077 + 3 x 436) = 4x + 928 - 2385.",
+      "4x = 206 + 2385 - 928 = 1663, so x = 415.75, which is about 416 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/09B-Equilibria-17.jpg",
       "papers/chemistry/img/09B-Equilibria-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q14c.jpg"
+     ]
     },
     {
      "id": "Q15a",
@@ -40964,16 +41016,24 @@ window.BANK.chemistry = {
       "water of crystallisation"
      ],
      "question": "Determine the value of n in the hydrated magnesium carbonate MgCO3.nH2O, using its reaction with hydrochloric acid (MgCO3.nH2O + 2HCl -> MgCl2 + CO2 + (n+1)H2O).",
-     "status": "pending",
-     "answer": "Needs the mass, acid volume and concentration data from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "n = 3",
+     "steps": [
+      "n(NaOH) in 25.0 cm3 = 0.0960 x 27.15 / 1000 = 2.606 x 10^-3 mol; HCl and NaOH react 1:1, so excess HCl in 250 cm3 = 10 x 2.606 x 10^-3 = 0.02606 mol.",
+      "HCl that reacted with the carbonate = 0.0600 - 0.02606 = 0.03394 mol.",
+      "MgCO3.nH2O reacts 1:2 with HCl, so moles of hydrated salt = 0.03394 / 2 = 0.01697 mol.",
+      "Molar mass = 2.35 / 0.01697 = 138.5 g mol-1.",
+      "Mr of MgCO3 = 24.3 + 12.0 + 3 x 16.0 = 84.3, so 18n = 138.5 - 84.3 = 54.2, giving n = 54.2 / 18.0 = 3.0, so n = 3."
+     ],
      "images": [
       "papers/chemistry/img/09B-Equilibria-19.jpg",
       "papers/chemistry/img/09B-Equilibria-20.jpg",
       "papers/chemistry/img/09B-Equilibria-21.jpg",
       "papers/chemistry/img/09B-Equilibria-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q16.jpg"
+     ]
     },
     {
      "id": "Q16b(i)",
@@ -41021,16 +41081,23 @@ window.BANK.chemistry = {
       "kJ mol-1"
      ],
      "question": "Use a completed Hess cycle, the answer to (b)(i) and the enthalpy change of Reaction 2 (MgCO3 + 2HCl) to calculate the enthalpy change of decomposition of MgCO3, to an appropriate number of significant figures.",
-     "status": "pending",
-     "answer": "Check the printed rH2 value (+3.58 kJ mol-1) against the PDF before marking ready; using it, delta rH(decomposition) = 3.58 - (-108) = +112 kJ mol-1",
-     "steps": [],
+     "status": "ready",
+     "answer": "+112 kJ mol-1",
+     "steps": [
+      "Complete the cycle by adding 2HCl(aq) to both top species; the bottom of the cycle is MgCl2(aq) + H2O(l) + CO2(g).",
+      "The left-hand arrow is Reaction 2 (MgCO3 + 2HCl), delta rH2 = +3.58 kJ mol-1; the right-hand arrow is Reaction 1 (MgO + 2HCl, with CO2 as a spectator), delta rH1 = -108.1 kJ mol-1.",
+      "By Hess's law, delta rH + delta rH1 = delta rH2, so delta rH = +3.58 - (-108.1) = +111.7 kJ mol-1.",
+      "Give +112 kJ mol-1 (3 significant figures, matching the data)."
+     ],
      "images": [
       "papers/chemistry/img/09B-Equilibria-19.jpg",
       "papers/chemistry/img/09B-Equilibria-20.jpg",
       "papers/chemistry/img/09B-Equilibria-21.jpg",
       "papers/chemistry/img/09B-Equilibria-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q16-2.jpg"
+     ]
     },
     {
      "id": "Q16b(iii)",
@@ -41325,9 +41392,14 @@ window.BANK.chemistry = {
       "reaction 3"
      ],
      "question": "Complete the table about the reactions of 1-bromopropane shown in the scheme.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme and table from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Reaction 1: KOH, water (aqueous), nucleophilic substitution. Reaction 2: ammonia, ethanol, nucleophilic substitution. Reaction 3: potassium cyanide (KCN), ethanol (given), nucleophilic substitution. Reaction 4: potassium hydroxide, ethanol, elimination (type given).",
+     "steps": [
+      "Reaction 1 makes C3H7OH: hydrolysis with aqueous KOH, so the solvent is water and the type is nucleophilic substitution (OH- replaces Br).",
+      "Reaction 2 makes C3H7NH2: ammonia (in excess, as a concentrated solution in ethanol, heated under pressure); NH3 replaces Br, so nucleophilic substitution.",
+      "Reaction 3 makes C3H7CN: the reagent is potassium (or sodium) cyanide, KCN, dissolved in the given ethanol; CN- replaces Br, so nucleophilic substitution.",
+      "Reaction 4 makes C3H6 (propene): the type is given as elimination, so the reagent is potassium hydroxide and the solvent is ethanol (hot, ethanolic KOH)."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-03.jpg",
@@ -41335,7 +41407,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-05.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q3.jpg",
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q3-2.jpg"
+     ]
     },
     {
      "id": "Q3b",
@@ -41349,9 +41424,12 @@ window.BANK.chemistry = {
       "1-bromopropane"
      ],
      "question": "Give the IUPAC name of the product of Reaction 3 from 1-bromopropane.",
-     "status": "pending",
-     "answer": "Needs the Reaction 3 scheme from the PDF to identify the product",
-     "steps": [],
+     "status": "ready",
+     "answer": "Butanenitrile",
+     "steps": [
+      "Reaction 3 is 1-bromopropane + CN- -> CH3CH2CH2CN + Br-, which adds one carbon to the chain.",
+      "The longest chain including the nitrile carbon has 4 carbons, so the product is butanenitrile (no locant is needed because the CN carbon is C1)."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-03.jpg",
@@ -41359,7 +41437,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-05.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q3.jpg"
+     ]
     },
     {
      "id": "Q3c",
@@ -41374,9 +41454,14 @@ window.BANK.chemistry = {
       "1-bromopropane"
      ],
      "question": "Complete the mechanism for Reaction 2 of 1-bromopropane, showing the formation of intermediate F and of the product.",
-     "status": "pending",
-     "answer": "Needs the Reaction 2 reagent and the partly drawn mechanism from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Step 1: the lone pair on NH3 attacks the C(delta+) and the C-Br bond breaks, giving intermediate F, CH3CH2CH2NH3+, and Br-. Step 2: a second NH3 removes H+ from the N, giving CH3CH2CH2NH2 and NH4+ (as NH4Br).",
+     "steps": [
+      "Mark the dipole on C-Br: C delta+ and Br delta-.",
+      "Curly arrow from the lone pair on the N of NH3 to the delta+ carbon, and a curly arrow from the C-Br bond to the Br atom, forming intermediate F and Br-.",
+      "In the second step a curly arrow goes from the lone pair of a second NH3 molecule to an H on the N+ of F, and a second curly arrow goes from that N-H bond to the N atom.",
+      "Products: propylamine, CH3CH2CH2NH2, and the ammonium ion NH4+ (with Br- as the counter ion)."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-03.jpg",
@@ -41384,7 +41469,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-05.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q3.jpg",
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q3-3.jpg"
+     ]
     },
     {
      "id": "Q3d",
@@ -41402,9 +41490,15 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "Explain the relative rates of hydrolysis of a series of halogenoalkanes (time for a silver halide precipitate to appear in aqueous silver nitrate and ethanol at 50 C), considering the reaction, the structures and the bond strengths.",
-     "status": "pending",
-     "answer": "Needs the results table from the PDF to state the order of the halogenoalkanes",
-     "steps": [],
+     "status": "ready",
+     "answer": "The silver halide forms when water hydrolyses the halogenoalkane and the released halide ion meets Ag+. Rate order: 2-iodobutane > 2-bromo-2-methylbutane > 2-bromobutane > 1-bromobutane > 2-chlorobutane. The weaker the C-X bond, the faster the reaction; with the same halogen, tertiary > secondary > primary.",
+     "steps": [
+      "Reaction: water (in aqueous ethanol) acts as a nucleophile and replaces the halogen (nucleophilic substitution/hydrolysis); the halide ion released forms a precipitate with Ag+ (AgI yellow, AgBr cream, AgCl white). A shorter time to the precipitate means a faster reaction.",
+      "Bond strength: among the secondary compounds the times are 2-iodobutane < 1 s, 2-bromobutane 29 s, 2-chlorobutane 75 s. The C-I bond is the weakest and C-Cl the strongest, so C-I breaks most easily and C-Cl least easily.",
+      "Structure: with bromine as the halogen, the tertiary 2-bromo-2-methylbutane (13 s) is faster than the secondary 2-bromobutane (29 s), which is faster than the primary 1-bromobutane (41 s).",
+      "Reason: the tertiary carbon forms the most stable carbocation because three alkyl groups push electrons towards it, so the C-Br bond breaks more readily (SN1); a primary carbon gives a much less stable carbocation.",
+      "Conclusion: bond strength (C-I < C-Br < C-Cl) is the dominant factor, and structure (tertiary > secondary > primary) is the second factor."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-03.jpg",
@@ -41412,7 +41506,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-05.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q3-4.jpg"
+     ]
     },
     {
      "id": "Q4",
@@ -41426,14 +41522,20 @@ window.BANK.chemistry = {
       "halogenoalkane"
      ],
      "question": "Which is the structure of 2-bromo-3-chloro-2-methylbutane? (Options shown as structures.)",
-     "status": "pending",
-     "answer": "Needs the structural options from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "2-bromo-3-chloro-2-methylbutane has a four-carbon (butane) chain, with Br and a methyl group both on C2 and a Cl on C3.",
+      "A shows C2 with Br, a CH3 branch and the chain CH3, and C3 with Cl, H and CH3, which matches.",
+      "B has the halogens swapped (3-bromo-2-chloro-2-methylbutane), C has an extra methyl on C3 (2-bromo-3-chloro-2,3-dimethylbutane), and D has both halogens on the same carbon."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q4.jpg"
+     ]
     },
     {
      "id": "Q5a",
@@ -41449,14 +41551,19 @@ window.BANK.chemistry = {
       "organic"
      ],
      "question": "How should the reaction shown be classified? A addition, B oxidation, C polymerisation, D substitution.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme shown in the PDF; it is not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: addition",
+     "steps": [
+      "The reactant is propene (a C=C double bond) and the product is propane, which has no double bond.",
+      "Hydrogen adds across the C=C bond, which is an addition reaction (it is also a reduction, but that is not among the options)."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q5.jpg"
+     ]
     },
     {
      "id": "Q5b",
@@ -41472,14 +41579,19 @@ window.BANK.chemistry = {
       "organic"
      ],
      "question": "How should the second reaction shown be classified? A addition, B oxidation, C reduction, D substitution.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme shown in the PDF; it is not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: oxidation",
+     "steps": [
+      "The reactant is propan-2-ol, a secondary alcohol, and the product is propanone, a ketone with a C=O group.",
+      "Converting a secondary alcohol to a ketone removes two hydrogen atoms (it needs an oxidising agent such as acidified dichromate), so it is oxidation."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q5-2.jpg"
+     ]
     },
     {
      "id": "Q6a",
@@ -41549,14 +41661,20 @@ window.BANK.chemistry = {
       "one carbon"
      ],
      "question": "Which structure represents a primary halogenoalkane?",
-     "status": "pending",
-     "answer": "Needs the structural options from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "A primary halogenoalkane has the halogen on a carbon that is bonded to only one other carbon.",
+      "In C the Cl is on a CH2 group at the end of the chain, bonded to a single carbon, so it is primary.",
+      "A and D have the Cl on a carbon bonded to two other carbons (secondary), and B has the Cl on a carbon bonded to three other carbons (tertiary)."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-08.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q7.jpg"
+     ]
     },
     {
      "id": "Q8a(i)",
@@ -41659,15 +41777,22 @@ window.BANK.chemistry = {
       "trend"
      ],
      "question": "Explain the trend in boiling temperatures of the halogenoalkanes shown, comparing the intermolecular forces involved.",
-     "status": "pending",
-     "answer": "Needs the boiling temperature table from the PDF to state the trend",
-     "steps": [],
+     "status": "ready",
+     "answer": "Boiling temperature rises from 1-chloropropane (47 C) to 1-bromopropane (71 C) to 1-iodopropane (103 C) because the London forces get stronger as the molecules get larger.",
+     "steps": [
+      "All three molecules have London forces and permanent dipole-dipole forces between them.",
+      "Going from Cl to Br to I, the molecules have more electrons, so a larger, more polarisable electron cloud and stronger London forces.",
+      "More energy is needed to overcome these stronger intermolecular forces, so the boiling temperature increases.",
+      "The C-X bond is less polar down the group, so permanent dipole-dipole forces are not the cause of the trend; the London forces dominate."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-09.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-10.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q8.jpg"
+     ]
     },
     {
      "id": "Q8d",
@@ -41711,14 +41836,20 @@ window.BANK.chemistry = {
       "naming"
      ],
      "question": "What is the skeletal formula of 2-chloro-4,4-dimethylhexane? (Options shown as structures.)",
-     "status": "pending",
-     "answer": "Needs the skeletal-formula options from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "Build the skeleton: a six-carbon chain (hexane) with Cl on C2 and two methyl groups on C4.",
+      "B shows a six-carbon chain with Cl on the second carbon from one end and a carbon carrying two methyl branches two bonds further along (C4).",
+      "A is 5-chloro-2,2-dimethylhexane, C is 2-chloro-3,3-dimethylhexane and D is a ring compound."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-11.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q9.jpg"
+     ]
     },
     {
      "id": "Q10",
@@ -41762,14 +41893,20 @@ window.BANK.chemistry = {
       "reaction mechanism"
      ],
      "question": "Part of a reaction mechanism is shown with arrows 1 to 4. Which curly arrow is not correct? A arrow 1, B arrow 2, C arrow 3, D arrow 4.",
-     "status": "pending",
-     "answer": "Needs the mechanism diagram from the PDF to identify the incorrect arrow",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: arrow 3",
+     "steps": [
+      "Arrow 1 (from the C-Br bond to Br) and arrow 2 (from the lone pair on NH3 to the delta+ carbon) are correct.",
+      "Arrow 4, from the lone pair on a second NH3 to the H on the N+, is correct because it shows a base removing H+.",
+      "Arrow 3 is drawn from the N atom towards the N-H bond. A curly arrow must start at the electron pair (the N-H bond) and end at the atom receiving it (N), so it is drawn the wrong way round."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-13.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q11.jpg"
+     ]
     },
     {
      "id": "Q12",
@@ -41840,14 +41977,19 @@ window.BANK.chemistry = {
       "first step"
      ],
      "question": "A student drew the first step of the mechanism for ammonia reacting with 1-chlorobutane. Identify two omissions in the student's mechanism.",
-     "status": "pending",
-     "answer": "Needs the student's mechanism diagram from the PDF to identify the two omissions",
-     "steps": [],
+     "status": "ready",
+     "answer": "The NH3 has no lone pair drawn on the nitrogen, and the C-Cl bond has no delta+ marked on the carbon.",
+     "steps": [
+      "The curly arrow for the attack must start from a lone pair on N, but the student drew none on the ammonia.",
+      "The C-Cl bond is shown with delta- on Cl but no delta+ on the carbon being attacked, so the dipole is incomplete."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-14.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q13.jpg"
+     ]
     },
     {
      "id": "Q13b(ii)",
@@ -41876,7 +42018,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-14.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q13-2.jpg"
+     ]
     },
     {
      "id": "Q13c",
@@ -42121,16 +42265,23 @@ window.BANK.chemistry = {
       "calorimeter"
      ],
      "question": "Use the temperature-time graph for the neutralisation of 25.0 cm3 of 0.80 mol dm-3 NaOH with 0.80 mol dm-3 HCl to determine the maximum temperature change, T, showing working on the graph.",
-     "status": "pending",
-     "answer": "Needs the temperature-time graph from the PDF to extrapolate the maximum temperature",
-     "steps": [],
+     "status": "ready",
+     "answer": "Delta T = 4.4 C (accept 4.3 to 4.5)",
+     "steps": [
+      "The solutions were mixed at 120 s, so the temperature rise is measured at 120 s, not at the highest point reached.",
+      "Draw a straight line of best fit through the cooling points (150 s to 330 s) and extrapolate it back to 120 s, where it reads about 26.8 C.",
+      "The temperature before mixing is steady at 22.4 C.",
+      "Delta T = 26.8 - 22.4 = 4.4 C."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q19.jpg"
+     ]
     },
     {
      "id": "Q19b(ii)",
@@ -42147,16 +42298,23 @@ window.BANK.chemistry = {
       "kJ mol-1"
      ],
      "question": "Using the maximum temperature change from (b)(i), calculate the enthalpy change of neutralisation (sign and units). Assume no energy heats the container, specific heat capacity of the solution is 4.2 J g-1 C-1, and densities are 1.0 g cm-3.",
-     "status": "pending",
-     "answer": "Depends on the temperature change read from the PDF graph in Q19(b)(i)",
-     "steps": [],
+     "status": "ready",
+     "answer": "-46 kJ mol-1",
+     "steps": [
+      "Total volume of solution = 25.0 + 25.0 = 50.0 cm3, so the mass is 50.0 g (density 1.0 g cm-3).",
+      "Heat released q = m c delta T = 50.0 x 4.2 x 4.4 = 924 J.",
+      "Moles of water formed = 0.80 x 25.0 / 1000 = 0.0200 mol (NaOH and HCl react 1:1 in equal amounts).",
+      "Delta H = -924 / 0.0200 = -46 200 J mol-1 = -46 kJ mol-1 (negative because the temperature rises)."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q19.jpg"
+     ]
     },
     {
      "id": "Q19b(iii)",
@@ -42290,14 +42448,20 @@ window.BANK.chemistry = {
       "carbon bonded to three carbons"
      ],
      "question": "The structures of three bromoalkanes P, Q and R are shown. Which may be classified as tertiary? A P only, B Q only, C R only, D Q and R only.",
-     "status": "pending",
-     "answer": "Needs the structures of P, Q and R from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: R only",
+     "steps": [
+      "In a tertiary bromoalkane the carbon bonded to Br is attached to three other carbon atoms.",
+      "R has the C-Br carbon bonded to three other carbons, so it is tertiary.",
+      "P has the C-Br carbon bonded to two carbons (secondary) and Q has Br on a CH2 group bonded to one carbon (primary)."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q20.jpg"
+     ]
     },
     {
      "id": "Q21a",
@@ -42313,15 +42477,20 @@ window.BANK.chemistry = {
       "amine"
      ],
      "question": "Identify, by name or formula, the reagent used in Step X in the synthesis of propylamine, CH3CH2CH2NH2 (three routes shown).",
-     "status": "pending",
-     "answer": "Needs the synthesis route scheme from the PDF; it is not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Hydrogen chloride, HCl",
+     "steps": [
+      "Step X converts CH2=CH2 into CH3CH2Cl, so H and Cl add across the C=C double bond.",
+      "This is electrophilic addition of HCl (as the gas or in a non-aqueous solvent)."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-21.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg"
+     ]
     },
     {
      "id": "Q21b",
@@ -42336,15 +42505,20 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "Give the structure of organic compound W in the synthesis of propylamine.",
-     "status": "pending",
-     "answer": "Needs the synthesis route scheme from the PDF; it is not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "CH3CH2CN (propanenitrile)",
+     "steps": [
+      "KCN substitutes the Cl of CH3CH2Cl with CN, so W is CH3CH2CN.",
+      "Hydrogenation then reduces the C-N triple bond to CH2NH2, giving CH3CH2CH2NH2, which matches the scheme."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-21.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg"
+     ]
     },
     {
      "id": "Q21c(i)",
@@ -42403,7 +42577,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg"
+     ]
     },
     {
      "id": "Q21d(i)",
@@ -42433,7 +42609,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg"
+     ]
     },
     {
      "id": "Q21d(ii)",
@@ -42461,7 +42639,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg"
+     ]
     },
     {
      "id": "Q22a",
@@ -43087,13 +43267,19 @@ window.BANK.chemistry = {
       "nomenclature"
      ],
      "question": "Give the systematic name for the molecule shown. Options: A E-1-bromo-2-methylbut-2-ene, B E-2-methyl-1-bromobut-1-ene, C E-1-bromo-3-methylpent-2-ene, D E-1-bromo-2-methylbut-1-ene.",
-     "status": "pending",
-     "answer": "Needs the molecule drawing from the PDF to check the chain and double bond position",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: E-1-bromo-2-methylbut-1-ene",
+     "steps": [
+      "The longest chain containing the C=C has four carbons (but-1-ene), with the double bond between C1 and C2 and Br on C1.",
+      "There is a methyl group on C2, so the name is 1-bromo-2-methylbut-1-ene.",
+      "At C1 the higher priority group is Br (over H), and at C2 it is the ethyl group (over methyl). In the drawing Br and the ethyl group are on opposite sides of the C=C, so it is E."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q26.jpg"
+     ]
     },
     {
      "id": "Q27",
@@ -43139,16 +43325,23 @@ window.BANK.chemistry = {
       "S8"
      ],
      "question": "Calculate the mean bond enthalpy, in kJ mol-1, for a single S-F bond, from the S8 structure and bond enthalpy data shown.",
-     "status": "pending",
-     "answer": "Needs the bond enthalpy data table from the PDF; the values are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "322 kJ mol-1",
+     "steps": [
+      "S8 is a ring with 8 S-S bonds, and 8 SF6 molecules contain 8 x 6 = 48 S-F bonds.",
+      "Bonds broken: 8 x 268 (S-S) + 24 x 151 (F-F) = 2144 + 3624 = 5768 kJ.",
+      "Delta H = bonds broken - bonds formed, so -9672 = 5768 - 48x.",
+      "48x = 5768 + 9672 = 15 440, so x = 321.7, which is 322 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-31.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q28.jpg"
+     ]
     },
     {
      "id": "Q28a(ii)",
@@ -43317,16 +43510,22 @@ window.BANK.chemistry = {
       "bromo compound"
      ],
      "question": "Calculate the percentage by mass of bromine in the fire retardant whose structure is shown.",
-     "status": "pending",
-     "answer": "Needs the fire retardant structure from the PDF to count bromine atoms and the molar mass",
-     "steps": [],
+     "status": "ready",
+     "answer": "74.7%",
+     "steps": [
+      "The ring has 12 carbons: 6 CHBr groups and 6 CH2 groups, so the formula is C12H18Br6.",
+      "Mr = 12 x 12.0 + 18 x 1.0 + 6 x 79.9 = 144.0 + 18.0 + 479.4 = 641.4.",
+      "Percentage Br = 479.4 / 641.4 x 100 = 74.7% (3 significant figures)."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-31.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q28-2.jpg"
+     ]
     },
     {
      "id": "Q28d",
@@ -43372,14 +43571,19 @@ window.BANK.chemistry = {
       "diagram"
      ],
      "question": "Name compound A, one of two halogenoalkanes shown in the PDF.",
-     "status": "pending",
-     "answer": "Needs the structure of A from the PDF diagram",
-     "steps": [],
+     "status": "ready",
+     "answer": "2-iodo-2-methylpropane",
+     "steps": [
+      "A has a central carbon bonded to I and to three CH3 groups.",
+      "The longest chain is three carbons (propane) with a methyl group and an iodine both on C2, so it is 2-iodo-2-methylpropane (a tertiary iodoalkane)."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q29.jpg"
+     ]
     },
     {
      "id": "Q29a(ii)",
@@ -43393,14 +43597,19 @@ window.BANK.chemistry = {
       "draw"
      ],
      "question": "Draw the skeletal formula of compound B, one of two halogenoalkanes shown in the PDF.",
-     "status": "pending",
-     "answer": "Needs the structure of B from the PDF diagram",
-     "steps": [],
+     "status": "ready",
+     "answer": "A zigzag chain of four carbon atoms with a Cl atom attached to a terminal carbon (1-chlorobutane)",
+     "steps": [
+      "B is H-C-C-C-C-Cl with all other bonds to H, so it is CH3CH2CH2CH2Cl.",
+      "Skeletal formula: a zigzag of four carbon vertices/ends (three C-C bonds), with Cl drawn on the end carbon and no C or H labels."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q29.jpg"
+     ]
     },
     {
      "id": "Q29b(i)",
@@ -43417,14 +43626,19 @@ window.BANK.chemistry = {
       "halogenoalkane B"
      ],
      "question": "Describe what you would observe when separate samples of A and B are warmed with silver nitrate dissolved in aqueous ethanol.",
-     "status": "pending",
-     "answer": "Needs the structures of A and B from the PDF to predict the colour and speed of the precipitate",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: a yellow precipitate forms quickly (almost immediately). B: a white precipitate forms slowly.",
+     "steps": [
+      "A is a tertiary iodoalkane, so I- is released rapidly and forms yellow AgI.",
+      "B is a primary chloroalkane, so Cl- is released slowly and forms white AgCl, which takes much longer to appear."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q29.jpg"
+     ]
     },
     {
      "id": "Q29b(ii)",
@@ -43440,14 +43654,19 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "Give two reasons why A reacts more quickly than B when warmed with silver nitrate dissolved in aqueous ethanol.",
-     "status": "pending",
-     "answer": "Needs the structures of A and B from the PDF to give the two specific reasons",
-     "steps": [],
+     "status": "ready",
+     "answer": "The C-I bond in A is weaker than the C-Cl bond in B, and A is tertiary so it forms a more stable carbocation than the primary B.",
+     "steps": [
+      "Bond strength: the C-I bond has a lower bond enthalpy than the C-Cl bond, so it breaks more easily.",
+      "Structure: a tertiary halogenoalkane forms a more stable carbocation (three electron-donating alkyl groups), so it hydrolyses faster than a primary one."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q29.jpg"
+     ]
     },
     {
      "id": "Q29c(i)",
@@ -43463,14 +43682,20 @@ window.BANK.chemistry = {
       "name"
      ],
      "question": "Write an equation for the reaction of B with an alcoholic solution of potassium cyanide and name the organic product.",
-     "status": "pending",
-     "answer": "Needs the structure of B from the PDF to write the equation and name the nitrile",
-     "steps": [],
+     "status": "ready",
+     "answer": "CH3CH2CH2CH2Cl + KCN -> CH3CH2CH2CH2CN + KCl; the product is pentanenitrile",
+     "steps": [
+      "The cyanide ion substitutes the chlorine, so the product is CH3CH2CH2CH2CN.",
+      "Ionic form: CH3CH2CH2CH2Cl + CN- -> CH3CH2CH2CH2CN + Cl-.",
+      "Name: the chain has 5 carbons including the nitrile carbon, so pentanenitrile."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q29.jpg"
+     ]
     },
     {
      "id": "Q29c(ii)",
@@ -43541,14 +43766,20 @@ window.BANK.chemistry = {
       "SN2"
      ],
      "question": "Which mechanism shows the correct movement of electrons in the reaction of chloroethane with aqueous potassium hydroxide? (Options shown as diagrams.)",
-     "status": "pending",
-     "answer": "Needs the mechanism option diagrams from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "Hydroxide acts as a nucleophile, so the arrow starts from the lone pair on :OH- and goes to the delta+ carbon that carries the Cl.",
+      "A second arrow goes from the C-Cl bond to the Cl atom, which leaves as Cl-.",
+      "C shows both arrows correctly. A and D show OH- attacking a hydrogen (the base/elimination pattern), and in B the OH- arrow points at the carbon that is not bonded to Cl."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q30.jpg"
+     ]
     },
     {
      "id": "Q31a(i)",
@@ -43731,15 +43962,20 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "Name compound X, a halogenoalkane shown in the PDF.",
-     "status": "pending",
-     "answer": "Needs the structure of compound X from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "2-chloro-3-methylbutane",
+     "steps": [
+      "X has a four-carbon chain with Cl on C2 and a methyl group on C3.",
+      "Numbered so that the Cl gets the lower number, Cl is at position 2 and the methyl at position 3, so it is 2-chloro-3-methylbutane."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q33.jpg"
+     ]
     },
     {
      "id": "Q33b(i)",
@@ -43783,15 +44019,21 @@ window.BANK.chemistry = {
       "compound X"
      ],
      "question": "Draw the structures of the two isomers formed when compound X reacts with hot, concentrated ethanolic KOH.",
-     "status": "pending",
-     "answer": "Needs the structure of X from the PDF to draw the two alkene isomers",
-     "steps": [],
+     "status": "ready",
+     "answer": "Isomer 1: 3-methylbut-1-ene, CH2=CH-CH(CH3)2. Isomer 2: 2-methylbut-2-ene, (CH3)2C=CH-CH3.",
+     "steps": [
+      "Elimination removes HCl: Cl leaves from C2 and an H is removed from a neighbouring carbon.",
+      "H lost from C1 (the CH3 next to the C-Cl carbon) gives CH2=CH-CH(CH3)2, 3-methylbut-1-ene.",
+      "H lost from C3 (the CH carbon with the two methyl groups) gives (CH3)2C=CH-CH3, 2-methylbut-2-ene."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q33.jpg"
+     ]
     },
     {
      "id": "Q33c(i)",
@@ -43808,15 +44050,22 @@ window.BANK.chemistry = {
       "lone pair"
      ],
      "question": "Complete the reaction mechanism for compound X reacting with cold, dilute aqueous potassium hydroxide, with curly arrows, lone pairs and dipoles.",
-     "status": "pending",
-     "answer": "Needs the structure of compound X and the partly drawn mechanism from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "SN2 nucleophilic substitution: the lone pair on OH- attacks the C(delta+) and the C-Cl bond breaks, giving 3-methylbutan-2-ol and Cl-.",
+     "steps": [
+      "Mark the dipole on the C-Cl bond: C delta+ and Cl delta-.",
+      "Curly arrow from the lone pair on :OH- to the delta+ carbon.",
+      "Curly arrow from the C-Cl bond to Cl, so Cl- leaves.",
+      "Product: (CH3)2CHCH(OH)CH3, 3-methylbutan-2-ol."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q33-2.jpg"
+     ]
     },
     {
      "id": "Q33c(ii)",
@@ -43833,15 +44082,21 @@ window.BANK.chemistry = {
       "bond strength"
      ],
      "question": "Compound Y also reacts with cold, dilute aqueous KOH. Explain how the rate of reaction will compare with that of compound X.",
-     "status": "pending",
-     "answer": "Needs the structures of X and Y from the PDF to compare their rates",
-     "steps": [],
+     "status": "ready",
+     "answer": "Y reacts faster than X because the C-I bond is weaker than the C-Cl bond.",
+     "steps": [
+      "X and Y have the same carbon skeleton and both are secondary, so only the halogen differs.",
+      "The C-I bond has a lower bond enthalpy than the C-Cl bond (I- is a better leaving group), so it is broken more easily and Y hydrolyses faster."
+     ],
      "images": [
       "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q33.jpg",
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q33-3.jpg"
+     ]
     },
     {
      "id": "Q33d",
@@ -44165,15 +44420,21 @@ window.BANK.chemistry = {
       "tertiary"
      ],
      "question": "Complete the table for the four isomers of C4H9OH that are alcohols.",
-     "status": "pending",
-     "answer": "Needs the table columns and headings from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Row 2: 2-methylpropan-1-ol, primary. Row 3: butan-2-ol, secondary. Row 4: 2-methylpropan-2-ol drawn as a carbon bonded to OH and three CH3 groups, classified tertiary.",
+     "steps": [
+      "Row 2 has the OH on a CH2 at the end of a branched chain (CH3)2CHCH2OH: 2-methylpropan-1-ol; the carbon bonded to OH has only one other carbon, so it is primary.",
+      "Row 3 has the OH on the second carbon of a four-carbon chain, CH3CH(OH)CH2CH3: butan-2-ol; that carbon is bonded to two other carbons, so it is secondary.",
+      "Row 4 needs the skeletal formula of 2-methylpropan-2-ol, (CH3)3COH: a central carbon with three methyl branches and one OH; the carbon bonded to OH has three other carbons, so it is tertiary."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-01.jpg",
       "papers/chemistry/img/10C-Alcohols-02.jpg",
       "papers/chemistry/img/10C-Alcohols-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q1.jpg"
+     ]
     },
     {
      "id": "Q1a(ii)",
@@ -44203,7 +44464,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-02.jpg",
       "papers/chemistry/img/10C-Alcohols-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q1.jpg"
+     ]
     },
     {
      "id": "Q1a(iii)",
@@ -44232,7 +44495,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-02.jpg",
       "papers/chemistry/img/10C-Alcohols-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q1-5.jpg"
+     ]
     },
     {
      "id": "Q1b(i)",
@@ -44261,7 +44526,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-02.jpg",
       "papers/chemistry/img/10C-Alcohols-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q1-2.jpg"
+     ]
     },
     {
      "id": "Q1b(ii)",
@@ -44277,15 +44544,23 @@ window.BANK.chemistry = {
       "bonds formed"
      ],
      "question": "Calculate the enthalpy change of combustion of butan-1-ol using the combustion equation and the mean bond enthalpies in the table.",
-     "status": "pending",
-     "answer": "Needs the mean bond enthalpy table from the PDF; the values are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "-2512 kJ mol-1",
+     "steps": [
+      "Equation: C4H9OH + 6O2 -> 4CO2 + 5H2O.",
+      "Bonds broken: butan-1-ol has 3 C-C, 9 C-H, 1 C-O and 1 O-H, so 3 x 347 + 9 x 413 + 358 + 464 = 1041 + 3717 + 358 + 464 = 5580 kJ; plus 6 O=O = 6 x 498 = 2988 kJ; total 8568 kJ.",
+      "Bonds made: 4 CO2 has 8 C=O = 8 x 805 = 6440 kJ; 5 H2O has 10 O-H = 10 x 464 = 4640 kJ; total 11 080 kJ.",
+      "Delta cH = bonds broken - bonds made = 8568 - 11 080 = -2512 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-01.jpg",
       "papers/chemistry/img/10C-Alcohols-02.jpg",
       "papers/chemistry/img/10C-Alcohols-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q1-2.jpg",
+      "papers/chemistry/fig/10C-Alcohols-Q1-3.jpg"
+     ]
     },
     {
      "id": "Q1b(iii)",
@@ -44331,15 +44606,21 @@ window.BANK.chemistry = {
       "calculation"
      ],
      "question": "The combustion of bioethanol releases 23 MJ dm-3 and petrol releases 32 MJ dm-3. Calculate the energy released in MJ dm-3 for the combustion of biobutanol.",
-     "status": "pending",
-     "answer": "Needs the data (density or enthalpy values for biobutanol) from the PDF; the calculation cannot be done from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "29 MJ dm-3 (29.2)",
+     "steps": [
+      "Mr of C4H9OH = 4 x 12.0 + 10 x 1.0 + 16.0 = 74.0.",
+      "Mass in 1 dm3 = 1000 cm3 x 0.810 g cm-3 = 810 g, so moles = 810 / 74.0 = 10.95 mol.",
+      "Energy = 10.95 mol x 2670 kJ mol-1 = 29 200 kJ = 29.2 MJ dm-3, which is closer to petrol (32) than bioethanol (23) is."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-01.jpg",
       "papers/chemistry/img/10C-Alcohols-02.jpg",
       "papers/chemistry/img/10C-Alcohols-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q1-4.jpg"
+     ]
     },
     {
      "id": "Q1c(ii)",
@@ -44533,10 +44814,14 @@ window.BANK.chemistry = {
       "secondary alcohol",
       "tertiary alcohol"
      ],
-     "question": "A chloroalkane is heated with dilute aqueous sodium hydroxide, and the organic product is warmed with acidified dichromate(VI), giving a colour change. The chloroalkane could be: A 1-chlorobutane, B 2-chloro-2-methylpropane, C 1-chloro-2-methylpropane, D 2-chlorobutane.",
-     "status": "pending",
-     "answer": "A, C and D all give alcohols that oxidise (primary or secondary); the PDF/mark scheme is needed to confirm which single letter is intended",
-     "steps": [],
+     "question": "A chloroalkane is heated with dilute aqueous sodium hydroxide and the pure organic product is obtained. When the organic product is warmed with acidified potassium dichromate(VI) solution, there is no change in colour. The chloroalkane could be: A 1-chlorobutane, B 2-chloro-2-methylpropane, C 1-chloro-2-methylpropane, D 2-chlorobutane.",
+     "status": "ready",
+     "answer": "B: 2-chloro-2-methylpropane",
+     "steps": [
+      "Heating with dilute aqueous sodium hydroxide hydrolyses the chloroalkane to an alcohol.",
+      "No colour change with acidified potassium dichromate(VI) means the alcohol cannot be oxidised, so it must be tertiary.",
+      "2-chloro-2-methylpropane gives 2-methylpropan-2-ol, a tertiary alcohol. A, C (primary alcohols) and D (secondary alcohol) would turn the orange mixture green."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-05.jpg",
       "papers/chemistry/img/10C-Alcohols-06.jpg",
@@ -44714,16 +44999,23 @@ window.BANK.chemistry = {
       "moles"
      ],
      "question": "Using the titration equation CH3CH2COOH + NaOH -> CH3CH2COONa + H2O, calculate the mass of propanoic acid extracted from 50 g of animal feed, to an appropriate number of significant figures.",
-     "status": "pending",
-     "answer": "Needs the titration results table (concordant titres) from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.109 g",
+     "steps": [
+      "Titre: run 1 is not concordant, so use runs 2 and 3: mean = (22.10 + 22.20) / 2 = 22.15 cm3.",
+      "Moles NaOH = 0.00668 x 22.15 / 1000 = 1.480 x 10^-4 mol in the 25.0 cm3 portion, which equals the moles of propanoic acid (1:1).",
+      "The 25.0 cm3 was taken from 250.0 cm3, so moles of acid in the whole sample = 1.480 x 10^-4 x 10 = 1.480 x 10^-3 mol.",
+      "Mr of CH3CH2COOH = 74.0, so mass = 1.480 x 10^-3 x 74.0 = 0.109 g (3 significant figures, as in the concentration)."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-05.jpg",
       "papers/chemistry/img/10C-Alcohols-06.jpg",
       "papers/chemistry/img/10C-Alcohols-07.jpg",
       "papers/chemistry/img/10C-Alcohols-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q4.jpg"
+     ]
     },
     {
      "id": "Q4d(iv)",
@@ -44739,16 +45031,22 @@ window.BANK.chemistry = {
       "check"
      ],
      "question": "Use your answer to (d)(iii) to decide whether the propanoic acid in the sample lies within the permitted range of 1000-3000 mg kg-1 for animal feed.",
-     "status": "pending",
-     "answer": "Depends on the result of Q4(d)(iii), which needs the titration data from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes, it is within the range: about 2190 mg kg-1 (permitted 1000-3000 mg kg-1)",
+     "steps": [
+      "Mass of propanoic acid = 0.109 g = 109 mg, from 50 g = 0.050 kg of feed.",
+      "Concentration = 109 mg / 0.050 kg = 2190 mg kg-1 (about 2.2 x 10^3).",
+      "This lies between 1000 and 3000 mg kg-1, so the feed is within the permitted range."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-05.jpg",
       "papers/chemistry/img/10C-Alcohols-06.jpg",
       "papers/chemistry/img/10C-Alcohols-07.jpg",
       "papers/chemistry/img/10C-Alcohols-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q4.jpg"
+     ]
     },
     {
      "id": "Q4d(v)",
@@ -44793,14 +45091,19 @@ window.BANK.chemistry = {
       "alkene alcohol"
      ],
      "question": "What is the name of compound L? A Z-oct-3-en-3-ol, B E-oct-3-en-3-ol, C Z-oct-5-en-3-ol, D E-oct-5-en-3-ol.",
-     "status": "pending",
-     "answer": "Needs the structure of compound L from the PDF; it is not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: E-oct-5-en-3-ol",
+     "steps": [
+      "The longest chain has 8 carbons with OH on C3 and the C=C between C5 and C6, so it is oct-5-en-3-ol (numbering from the end nearer the OH).",
+      "On the double bond the two chain carbons (C4 and C7) lie on opposite sides in the zigzag drawing, so it is the E (trans) isomer."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-08.jpg",
       "papers/chemistry/img/10C-Alcohols-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q5.jpg"
+     ]
     },
     {
      "id": "Q5b",
@@ -44816,14 +45119,20 @@ window.BANK.chemistry = {
       "alcohol conversion"
      ],
      "question": "Compound L can be converted into compound M. Which reagent should be used? A Cl2(g), B HCl(g), C PCl5(s), D KCl(aq).",
-     "status": "pending",
-     "answer": "Needs the structures of L and M from the PDF to confirm the reagent",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: Cl2(g)",
+     "steps": [
+      "M has the same carbon chain as L with the OH kept and a Cl added on each of the two carbons of the former C=C double bond (C5 and C6).",
+      "Chlorine adds across the C=C (electrophilic addition), so the reagent is Cl2(g)."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-08.jpg",
       "papers/chemistry/img/10C-Alcohols-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q5.jpg",
+      "papers/chemistry/fig/10C-Alcohols-Q5-2.jpg"
+     ]
     },
     {
      "id": "Q5c",
@@ -44839,14 +45148,20 @@ window.BANK.chemistry = {
       "reagent choice"
      ],
      "question": "Compound L can also be converted into compound N. Which reagent should be used? A Cl2(g), B HCl(g), C PCl5(s), D KCl(aq).",
-     "status": "pending",
-     "answer": "Needs the structures of L and N from the PDF; none of the listed reagents is an obvious alkene-forming reagent without the structures",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: PCl5(s)",
+     "steps": [
+      "N has the OH of L replaced by Cl, with the C=C unchanged.",
+      "Phosphorus(V) chloride converts an alcohol into a chloroalkane (giving POCl3 and HCl as by-products), and it does not react with the C=C."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-08.jpg",
       "papers/chemistry/img/10C-Alcohols-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q5.jpg",
+      "papers/chemistry/fig/10C-Alcohols-Q5-3.jpg"
+     ]
     },
     {
      "id": "Q6a",
@@ -44917,15 +45232,20 @@ window.BANK.chemistry = {
       "1-bromopropane"
      ],
      "question": "Give the molecular formula of product B in the reaction scheme of 1-bromopropane.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme from the PDF to identify product B",
-     "steps": [],
+     "status": "ready",
+     "answer": "C4H7N",
+     "steps": [
+      "Potassium cyanide substitutes Br by CN, so product B is CH3CH2CH2CN (butanenitrile).",
+      "Counting atoms: C4, H7 and N1, so the molecular formula is C4H7N."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-09.jpg",
       "papers/chemistry/img/10C-Alcohols-10.jpg",
       "papers/chemistry/img/10C-Alcohols-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q6.jpg"
+     ]
     },
     {
      "id": "Q6b(iii)",
@@ -44940,15 +45260,21 @@ window.BANK.chemistry = {
       "reaction scheme"
      ],
      "question": "Name the type and mechanism of the reaction taking place in reaction C of the 1-bromopropane scheme.",
-     "status": "pending",
-     "answer": "Needs the reagents for reaction C from the PDF scheme",
-     "steps": [],
+     "status": "ready",
+     "answer": "Nucleophilic substitution, SN2 (aqueous hydroxide ions replace Br)",
+     "steps": [
+      "Reaction C converts 1-bromopropane into propan-1-ol, so Br is replaced by OH (aqueous NaOH or KOH, heated).",
+      "OH- is a nucleophile that attacks the delta+ carbon, so it is nucleophilic substitution.",
+      "1-bromopropane is a primary halogenoalkane, so the mechanism is SN2 (one step, bond breaking and making together)."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-09.jpg",
       "papers/chemistry/img/10C-Alcohols-10.jpg",
       "papers/chemistry/img/10C-Alcohols-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q6.jpg"
+     ]
     },
     {
      "id": "Q6b(iv)",
@@ -44994,14 +45320,19 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "Give the systematic name of compound A in the synthesis of DMAA.",
-     "status": "pending",
-     "answer": "Needs the structure of compound A from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "4-methylhexan-2-ol",
+     "steps": [
+      "Compound A has a six-carbon chain with the OH on C2 and a methyl group on C4.",
+      "Numbered from the end that gives the OH the lowest number, the name is 4-methylhexan-2-ol."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-11.jpg",
       "papers/chemistry/img/10C-Alcohols-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q7.jpg"
+     ]
     },
     {
      "id": "Q7a(ii)",
@@ -45016,14 +45347,19 @@ window.BANK.chemistry = {
       "alcohol"
      ],
      "question": "Identify, by name or formula, a suitable reagent for Step 1 in the synthesis of DMAA.",
-     "status": "pending",
-     "answer": "Needs the Step 1 scheme from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Phosphorus(V) chloride, PCl5",
+     "steps": [
+      "Step 1 replaces the OH of the alcohol with Cl.",
+      "PCl5 does this at room temperature (it could also be SOCl2 or concentrated HCl with a catalyst, but PCl5 is the standard test-tube reagent)."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-11.jpg",
       "papers/chemistry/img/10C-Alcohols-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q7.jpg"
+     ]
     },
     {
      "id": "Q7a(iii)",
@@ -45039,14 +45375,21 @@ window.BANK.chemistry = {
       "lone pairs"
      ],
      "question": "Give the mechanism for the reaction in Step 2 of the DMAA synthesis, including curly arrows, dipoles and lone pairs.",
-     "status": "pending",
-     "answer": "Needs the Step 2 reactants from the PDF scheme to draw the mechanism",
-     "steps": [],
+     "status": "ready",
+     "answer": "SN2: the lone pair on NH3 attacks the C(delta+) of the C-Cl bond, Cl leaves as Cl-, and a second NH3 removes H+ to give the amine DMAA and NH4+",
+     "steps": [
+      "Mark the dipole on the C-Cl bond of the chloroalkane: C delta+ and Cl delta-.",
+      "Curly arrow from the lone pair on the N of NH3 to the delta+ carbon, and a curly arrow from the C-Cl bond to the Cl atom.",
+      "This gives the intermediate R-NH3+ (with N+ bearing three H atoms) and Cl-.",
+      "A second NH3 molecule uses its lone pair to remove an H+ from the N+ (arrow from the lone pair to H and from the N-H bond to N), giving the amine R-NH2 and NH4+."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-11.jpg",
       "papers/chemistry/img/10C-Alcohols-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q7.jpg"
+     ]
     },
     {
      "id": "Q7b(i)",
@@ -45075,7 +45418,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-11.jpg",
       "papers/chemistry/img/10C-Alcohols-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q7-2.jpg"
+     ]
     },
     {
      "id": "Q7b(ii)",
@@ -45104,7 +45449,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-11.jpg",
       "papers/chemistry/img/10C-Alcohols-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q7-2.jpg",
+      "papers/chemistry/fig/10C-Alcohols-Q7-3.jpg"
+     ]
     },
     {
      "id": "Q8a",
@@ -45707,15 +46055,20 @@ window.BANK.chemistry = {
       "table"
      ],
      "question": "Give the classification of each halogenoalkane shown in the table as primary, secondary or tertiary.",
-     "status": "pending",
-     "answer": "Needs the table of halogenoalkane structures from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Bromocyclohexane: secondary. 1-bromo-2-methylpropane: primary.",
+     "steps": [
+      "In bromocyclohexane the carbon bonded to Br is attached to two other carbon atoms in the ring, so it is secondary.",
+      "In 1-bromo-2-methylpropane the carbon bonded to Br (a CH2 group) is attached to only one other carbon, so it is primary."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-19.jpg",
       "papers/chemistry/img/10C-Alcohols-20.jpg",
       "papers/chemistry/img/10C-Alcohols-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q16.jpg"
+     ]
     },
     {
      "id": "Q16b",
@@ -45733,15 +46086,21 @@ window.BANK.chemistry = {
       "prediction"
      ],
      "question": "Samples of 1-iodobutane and 2-chloro-2-methylpropane were hydrolysed using aqueous silver nitrate in ethanol. Explain whether or not it is possible to predict the relative rate of hydrolysis of these two compounds.",
-     "status": "pending",
-     "answer": "Needs the mark scheme or PDF check: the C-I bond is weaker, but the tertiary chloride reacts by SN1, so the prediction is not straightforward",
-     "steps": [],
+     "status": "ready",
+     "answer": "It is not possible to predict, because the weaker C-I bond and the tertiary structure favour different compounds, so the order has to be found by experiment.",
+     "steps": [
+      "1-iodobutane has a weak C-I bond, so its bond breaks easily and I- is a good leaving group, which would make it fast.",
+      "2-chloro-2-methylpropane has the stronger C-Cl bond, but it is a tertiary halogenoalkane that forms a stable carbocation, which would also make it fast.",
+      "Because the two factors (bond strength and structure) work in opposite directions in the two compounds, the relative rate cannot be predicted from theory alone; the times to form the precipitate would have to be measured."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-19.jpg",
       "papers/chemistry/img/10C-Alcohols-20.jpg",
       "papers/chemistry/img/10C-Alcohols-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q16.jpg"
+     ]
     },
     {
      "id": "Q16c(i)",
@@ -45801,7 +46160,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-20.jpg",
       "papers/chemistry/img/10C-Alcohols-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q16-2.jpg"
+     ]
     },
     {
      "id": "Q16d",
@@ -46028,9 +46389,12 @@ window.BANK.chemistry = {
       "scheme"
      ],
      "question": "For Reaction 1 in the 2-methylpropene scheme, give the name or formula of a suitable reagent and the conditions.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme from the PDF to identify Reaction 1",
-     "steps": [],
+     "status": "ready",
+     "answer": "Reagent: aqueous sodium (or potassium) hydroxide. Conditions: heat under reflux.",
+     "steps": [
+      "Reaction 1 converts the chloroalkane (1-chloro-2-methylpropane) back into the alcohol, so Cl is replaced by OH.",
+      "Aqueous NaOH or KOH, heated under reflux, does this by nucleophilic substitution."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-21.jpg",
       "papers/chemistry/img/10C-Alcohols-22.jpg",
@@ -46038,7 +46402,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-24.jpg",
       "papers/chemistry/img/10C-Alcohols-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q18.jpg"
+     ]
     },
     {
      "id": "Q18d(ii)",
@@ -46053,9 +46419,12 @@ window.BANK.chemistry = {
       "scheme"
      ],
      "question": "For Reaction 2 in the 2-methylpropene scheme, give a suitable reagent and the type of reaction.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme from the PDF to identify Reaction 2",
-     "steps": [],
+     "status": "ready",
+     "answer": "Reagent: concentrated phosphoric(V) acid (H3PO4) (or concentrated sulfuric acid). Type of reaction: elimination (dehydration).",
+     "steps": [
+      "Reaction 2 converts the alcohol, 2-methylpropan-1-ol, into 2-methylpropene by removing H2O.",
+      "The reagent is concentrated H3PO4 (or concentrated H2SO4) and the reaction is elimination (dehydration)."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-21.jpg",
       "papers/chemistry/img/10C-Alcohols-22.jpg",
@@ -46063,7 +46432,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-24.jpg",
       "papers/chemistry/img/10C-Alcohols-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q18.jpg"
+     ]
     },
     {
      "id": "Q18d(iii)",
@@ -46078,9 +46449,12 @@ window.BANK.chemistry = {
       "scheme"
      ],
      "question": "For Reaction 3 in the 2-methylpropene scheme, give a suitable reagent and write the equation.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme from the PDF to identify Reaction 3",
-     "steps": [],
+     "status": "ready",
+     "answer": "Reagent: phosphorus(V) chloride, PCl5. Equation: (CH3)2CHCH2OH + PCl5 -> (CH3)2CHCH2Cl + POCl3 + HCl",
+     "steps": [
+      "Reaction 3 converts the alcohol into the chloroalkane, so the OH is replaced by Cl.",
+      "PCl5 is the reagent; it gives the chloroalkane, phosphorus oxychloride and hydrogen chloride."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-21.jpg",
       "papers/chemistry/img/10C-Alcohols-22.jpg",
@@ -46088,7 +46462,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-24.jpg",
       "papers/chemistry/img/10C-Alcohols-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q18.jpg"
+     ]
     },
     {
      "id": "Q18d(iv)",
@@ -46104,9 +46480,13 @@ window.BANK.chemistry = {
       "scheme"
      ],
      "question": "For Reaction 4 (using KOH), give the conditions and the role of the hydroxide ions.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme from the PDF to identify the substrate for Reaction 4",
-     "steps": [],
+     "status": "ready",
+     "answer": "Conditions: KOH dissolved in ethanol, heated (under reflux). Role of hydroxide ions: a base.",
+     "steps": [
+      "Reaction 4 converts the chloroalkane into 2-methylpropene, an elimination reaction.",
+      "Ethanolic KOH, heated, gives elimination rather than substitution.",
+      "The hydroxide ion acts as a base: it removes an H+ from the carbon next to the C-Cl carbon."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-21.jpg",
       "papers/chemistry/img/10C-Alcohols-22.jpg",
@@ -46114,7 +46494,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-24.jpg",
       "papers/chemistry/img/10C-Alcohols-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q18.jpg"
+     ]
     },
     {
      "id": "Q18e",
@@ -46162,9 +46544,13 @@ window.BANK.chemistry = {
       "alcohols P Q R S"
      ],
      "question": "Which alcohols (P, Q, R, S shown) will produce a carboxylic acid when heated under reflux with acidified potassium dichromate(VI)? Options: A P only, B P and Q only, C P, Q and R only, D P, Q, R and S.",
-     "status": "pending",
-     "answer": "Needs the structures of alcohols P, Q, R and S from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: P and Q only",
+     "steps": [
+      "Heating under reflux with excess acidified dichromate(VI) oxidises primary alcohols through the aldehyde to a carboxylic acid.",
+      "P (butan-1-ol) and Q (2-methylpropan-1-ol) have the OH on a CH2 group at the end of the chain, so they are primary.",
+      "R (butan-2-ol) is secondary and gives a ketone, and S (2-methylpropan-2-ol) is tertiary and is not oxidised."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-25.jpg",
       "papers/chemistry/img/10C-Alcohols-26.jpg",
@@ -46173,7 +46559,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-29.jpg",
       "papers/chemistry/img/10C-Alcohols-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q19.jpg"
+     ]
     },
     {
      "id": "Q20a(i)",
@@ -46411,9 +46799,14 @@ window.BANK.chemistry = {
       "ammonia"
      ],
      "question": "Complete the energy profile for the catalysed (Ecat = +70 kJ mol-1) and uncatalysed (Ea = +290 kJ mol-1) reactions of N2 with H2, labelling the activation energies and the enthalpy change, matching the scale shown.",
-     "status": "pending",
-     "answer": "Drawing task; the scale and enthalpy data (Data) are needed from the PDF to check the diagram",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw the reactants at the level shown, the products 2NH3 lower, an uncatalysed curve with its peak 290 kJ mol-1 above the reactants, and a catalysed curve with its peak only 70 kJ mol-1 above the reactants. Label Ea = +290, Ecat = +70 and delta H = -92 kJ mol-1.",
+     "steps": [
+      "On the grid, one large square is about 50 kJ mol-1: the 2NH3 level is 92 kJ mol-1 below the N2 + 3H2 level (about 1.8 large squares).",
+      "Uncatalysed route: a curve from the reactants rising to a peak 290 kJ mol-1 (about 5.8 large squares) above the reactants' level and then falling to the 2NH3 level; label the arrow from the reactants to the peak as Ea = +290 kJ mol-1.",
+      "Catalysed route: a second, lower curve (it may have two small peaks) with its highest point 70 kJ mol-1 (about 1.4 large squares) above the reactants' level; label that arrow Ecat = +70 kJ mol-1.",
+      "Draw a downward arrow from the reactants' level to the products' level labelled delta H = -92 kJ mol-1; it is the same for both routes."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-25.jpg",
       "papers/chemistry/img/10C-Alcohols-26.jpg",
@@ -46422,7 +46815,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-29.jpg",
       "papers/chemistry/img/10C-Alcohols-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q20.jpg"
+     ]
     },
     {
      "id": "Q20d(ii)",
@@ -46565,9 +46960,13 @@ window.BANK.chemistry = {
       "complete the cycle"
      ],
      "question": "Complete the enthalpy cycle for the reaction of NH3(g) with HNO3(aq) to form NH4NO3(aq).",
-     "status": "pending",
-     "answer": "Needs the enthalpy cycle diagram and data from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Middle-left box: NH3(g) + HNO3(l). Upper right box: +25.6 kJ mol-1. Lower right box: -365.6 kJ mol-1.",
+     "steps": [
+      "The bottom left arrow (-220.2 kJ mol-1) goes from the elements to NH3(g) + HNO3(l) (-46.1 + -174.1 = -220.2), so that is the empty box.",
+      "The arrow up from NH4NO3(s) to NH4NO3(aq) is the enthalpy of solution of NH4NO3, +25.6 kJ mol-1.",
+      "The arrow from the elements to NH4NO3(s) is the enthalpy of formation of NH4NO3(s), -365.6 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-25.jpg",
       "papers/chemistry/img/10C-Alcohols-26.jpg",
@@ -46576,7 +46975,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-29.jpg",
       "papers/chemistry/img/10C-Alcohols-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q20-2.jpg",
+      "papers/chemistry/fig/10C-Alcohols-Q20-3.jpg"
+     ]
     },
     {
      "id": "Q20g(ii)",
@@ -46592,9 +46994,13 @@ window.BANK.chemistry = {
       "calculation"
      ],
      "question": "Calculate the enthalpy change, rH, in kJ mol-1, for the reaction of NH3(g) with HNO3(aq) using the data in the PDF.",
-     "status": "pending",
-     "answer": "Needs the data table from the PDF; values are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "-87.2 kJ mol-1",
+     "steps": [
+      "Going round the cycle: delta rH = (formation of NH4NO3(s) + solution of NH4NO3) - (formation of NH3(g) and HNO3(l) + solution of HNO3).",
+      "Route via the elements: -220.2 + (-32.6) + delta rH = -365.6 + 25.6.",
+      "-252.8 + delta rH = -340.0, so delta rH = -87.2 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-25.jpg",
       "papers/chemistry/img/10C-Alcohols-26.jpg",
@@ -46603,7 +47009,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-29.jpg",
       "papers/chemistry/img/10C-Alcohols-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q20-2.jpg",
+      "papers/chemistry/fig/10C-Alcohols-Q20-3.jpg"
+     ]
     },
     {
      "id": "Q20h",
@@ -46709,7 +47118,7 @@ window.BANK.chemistry = {
      ],
      "question": "Give the IUPAC name of primary alcohol A (C6H14O) shown in the PDF.",
      "status": "pending",
-     "answer": "Needs the structure of alcohol A from the PDF",
+     "answer": "Cannot be answered: the structure of alcohol A is not printed on the page (the space is blank in the source PDF).",
      "steps": [],
      "images": [
       "papers/chemistry/img/10C-Alcohols-31.jpg",
@@ -46735,7 +47144,7 @@ window.BANK.chemistry = {
      ],
      "question": "Explain why alcohol B has a higher boiling temperature than alcohol A (both primary C6H14O alcohols).",
      "status": "pending",
-     "answer": "Needs the structures of A and B from the PDF to explain the difference in London forces",
+     "answer": "Cannot be answered: the structures of alcohols A and B are not printed on the page (the space is blank in the source PDF).",
      "steps": [],
      "images": [
       "papers/chemistry/img/10C-Alcohols-31.jpg",
@@ -46791,16 +47200,22 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "Give the structure of the organic product of each of Reactions 1, 2 and 3 shown for the C6H14O alcohols.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme from the PDF to identify the reagents and products",
-     "steps": [],
+     "status": "ready",
+     "answer": "Reaction 1: 2,3-dimethylbutanoic acid, (CH3)2CHCH(CH3)COOH. Reaction 2: 4-methylpentan-2-one, (CH3)2CHCH2COCH3. Reaction 3: 3-(iodomethyl)pentane (1-iodo-2-ethylbutane), CH3CH2CH(CH2I)CH2CH3.",
+     "steps": [
+      "Reaction 1: the primary alcohol 2,3-dimethylbutan-1-ol is heated under reflux with acidified dichromate, so it is oxidised fully to the carboxylic acid 2,3-dimethylbutanoic acid.",
+      "Reaction 2: the alcohol 4-methylpentan-2-ol is secondary, so it is oxidised to the ketone 4-methylpentan-2-one (the C=O is on C2).",
+      "Reaction 3: red phosphorus and iodine (which form PI3) replace the OH of 2-ethylbutan-1-ol with I, giving 1-iodo-2-ethylbutane."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-31.jpg",
       "papers/chemistry/img/10C-Alcohols-32.jpg",
       "papers/chemistry/img/10C-Alcohols-33.jpg",
       "papers/chemistry/img/10C-Alcohols-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q22.jpg"
+     ]
     },
     {
      "id": "Q23a",
@@ -46817,15 +47232,20 @@ window.BANK.chemistry = {
       "SN2"
      ],
      "question": "Name the type and mechanism of the reactions summarised in the halogenoalkane scheme (all of the same type and mechanism).",
-     "status": "pending",
-     "answer": "Needs the reaction scheme from the PDF to decide between SN1 and SN2 and confirm the reaction type",
-     "steps": [],
+     "status": "ready",
+     "answer": "Nucleophilic substitution by the SN1 mechanism",
+     "steps": [
+      "In each reaction the Br of the halogenoalkane is replaced by a nucleophile (NH3, OH-, CN-), so it is nucleophilic substitution.",
+      "The halogenoalkane, (CH3)3CBr, is tertiary, so it reacts by SN1 via a carbocation intermediate."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-34.jpg",
       "papers/chemistry/img/10C-Alcohols-35.jpg",
       "papers/chemistry/img/10C-Alcohols-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
+     ]
     },
     {
      "id": "Q23b",
@@ -46839,15 +47259,20 @@ window.BANK.chemistry = {
       "halogenoalkane scheme"
      ],
      "question": "Give the IUPAC name and the structure of compound M in the halogenoalkane scheme.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme from the PDF to identify compound M",
-     "steps": [],
+     "status": "ready",
+     "answer": "2,2-dimethylpropanenitrile, (CH3)3C-CN",
+     "steps": [
+      "KCN in ethanol substitutes Br by CN.",
+      "The product is (CH3)3C-C=N: a nitrile with a three-carbon chain (propane) with two methyl groups on C2 and the CN carbon as the extra carbon, so 2,2-dimethylpropanenitrile."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-34.jpg",
       "papers/chemistry/img/10C-Alcohols-35.jpg",
       "papers/chemistry/img/10C-Alcohols-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
+     ]
     },
     {
      "id": "Q23c",
@@ -46862,15 +47287,20 @@ window.BANK.chemistry = {
       "scheme"
      ],
      "question": "State the reagent and conditions required for Reaction 1 in the halogenoalkane scheme.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme from the PDF to identify Reaction 1",
-     "steps": [],
+     "status": "ready",
+     "answer": "Reagent: excess concentrated ammonia (in ethanol). Conditions: heat in a sealed tube under pressure.",
+     "steps": [
+      "Reaction 1 replaces Br by NH2, so the reagent is ammonia.",
+      "Excess concentrated ammonia dissolved in ethanol is used, and the mixture is heated in a sealed tube because ammonia is a gas and would escape from an open flask."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-34.jpg",
       "papers/chemistry/img/10C-Alcohols-35.jpg",
       "papers/chemistry/img/10C-Alcohols-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
+     ]
     },
     {
      "id": "Q23d(i)",
@@ -46886,15 +47316,21 @@ window.BANK.chemistry = {
       "intermediate J"
      ],
      "question": "Complete the incomplete mechanism for Reaction 2 by adding curly arrows, and relevant dipoles and lone pairs.",
-     "status": "pending",
-     "answer": "Needs the incomplete mechanism diagram from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Step 1: curly arrow from the C-Br bond to Br (with dipoles C delta+ and Br delta-), forming the carbocation (CH3)3C+ and Br-. Step 2: curly arrow from a lone pair on OH- to the C+, forming (CH3)3COH.",
+     "steps": [
+      "Mark the dipole on the C-Br bond: C delta+ and Br delta-.",
+      "First step: a curly arrow from the middle of the C-Br bond to the Br atom, giving the carbocation (CH3)3C+ (intermediate J) and :Br-.",
+      "Second step: draw a lone pair on the oxygen of :OH- and a curly arrow from it to the positive carbon of J, giving (CH3)3C-OH."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-34.jpg",
       "papers/chemistry/img/10C-Alcohols-35.jpg",
       "papers/chemistry/img/10C-Alcohols-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
+     ]
     },
     {
      "id": "Q23d(ii)",
@@ -46909,15 +47345,20 @@ window.BANK.chemistry = {
       "mechanism"
      ],
      "question": "Describe how intermediate J is formed in the first step of Reaction 2, naming the process that occurs.",
-     "status": "pending",
-     "answer": "Needs the Reaction 2 mechanism from the PDF to identify J and the process",
-     "steps": [],
+     "status": "ready",
+     "answer": "The C-Br bond breaks by heterolytic fission: both electrons of the bond go to the Br atom, forming Br- and the carbocation (CH3)3C+ (intermediate J).",
+     "steps": [
+      "In the first step the C-Br bond is broken unevenly (heterolytic fission), because Br is more electronegative.",
+      "Both bonding electrons go to Br, which leaves as Br-, and the carbon is left with a positive charge as the tertiary carbocation J."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-34.jpg",
       "papers/chemistry/img/10C-Alcohols-35.jpg",
       "papers/chemistry/img/10C-Alcohols-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
+     ]
     },
     {
      "id": "Q23d(iii)",
@@ -46932,15 +47373,20 @@ window.BANK.chemistry = {
       "justify"
      ],
      "question": "State the shape of intermediate J and justify your answer.",
-     "status": "pending",
-     "answer": "Depends on identifying intermediate J from the PDF mechanism",
-     "steps": [],
+     "status": "ready",
+     "answer": "Trigonal planar, because the positive carbon of J has three bonding pairs and no lone pair, so they repel equally to give bond angles of 120 degrees.",
+     "steps": [
+      "Intermediate J is the carbocation (CH3)3C+, with the positive carbon bonded to three CH3 groups.",
+      "Three bonding pairs and no lone pair around the central carbon repel equally and are as far apart as possible, so J is trigonal planar with 120 degrees between the bonds."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-34.jpg",
       "papers/chemistry/img/10C-Alcohols-35.jpg",
       "papers/chemistry/img/10C-Alcohols-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
+     ]
     },
     {
      "id": "Q23d(iv)",
@@ -46955,15 +47401,20 @@ window.BANK.chemistry = {
       "structures"
      ],
      "question": "The product of Reaction 2 is shown. Draw the structures of the three isomers of this compound that are also alcohols.",
-     "status": "pending",
-     "answer": "Needs the product of Reaction 2 from the PDF to draw its isomeric alcohols",
-     "steps": [],
+     "status": "ready",
+     "answer": "Butan-1-ol, CH3CH2CH2CH2OH; butan-2-ol, CH3CH2CH(OH)CH3; 2-methylpropan-1-ol, (CH3)2CHCH2OH",
+     "steps": [
+      "The product (CH3)3COH is 2-methylpropan-2-ol, C4H10O, a tertiary alcohol.",
+      "The other alcohol isomers with the same formula are: butan-1-ol (OH on the end carbon of a straight chain), butan-2-ol (OH on C2 of a straight chain) and 2-methylpropan-1-ol (OH on the CH2 end of the branched chain)."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-34.jpg",
       "papers/chemistry/img/10C-Alcohols-35.jpg",
       "papers/chemistry/img/10C-Alcohols-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
+     ]
     },
     {
      "id": "Q23e(i)",
@@ -47170,14 +47621,20 @@ window.BANK.chemistry = {
       "correct"
      ],
      "question": "A student suggested a mechanism for the reaction of 1-bromo-2-methylpropane with aqueous alkali. Identify and correct the three mistakes in the mechanism shown.",
-     "status": "pending",
-     "answer": "Needs the student's mechanism diagram from the PDF to identify the three mistakes",
-     "steps": [],
+     "status": "ready",
+     "answer": "Three mistakes: the dipoles are the wrong way round (C should be delta+ and Br delta-); the curly arrow for OH- is drawn from the carbon to OH- instead of from OH- to the carbon; and the OH- has no lone pair drawn for the arrow to start from.",
+     "steps": [
+      "The C-Br bond is shown as C delta- and Br delta+, but bromine is more electronegative, so it should be C delta+ and Br delta-.",
+      "The curly arrow for the nucleophile goes in the wrong direction (from the C atom towards OH-); it must start from a lone pair on the oxygen of :OH- and point to the delta+ carbon bonded to Br.",
+      "The OH- is drawn without its lone pair; it should be :OH- with the arrow starting on the lone pair."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-37.jpg",
       "papers/chemistry/img/10C-Alcohols-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q26.jpg"
+     ]
     },
     {
      "id": "Q26c",
@@ -47220,14 +47677,20 @@ window.BANK.chemistry = {
       "aldehyde"
      ],
      "question": "Which of the compounds shown could be oxidised to a carboxylic acid with potassium dichromate(VI) and dilute sulfuric acid?",
-     "status": "pending",
-     "answer": "Needs the compound structures (options) from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "D",
+     "steps": [
+      "Only a primary alcohol is oxidised to a carboxylic acid on reflux with acidified dichromate(VI).",
+      "D, CH3C(CH3)2CH2OH, has the OH on a CH2 group at the end of the chain (primary), so it gives 2,2-dimethylpropanoic acid.",
+      "A and C are secondary alcohols (they give ketones) and B is tertiary (not oxidised)."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-38.jpg",
       "papers/chemistry/img/10C-Alcohols-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q27.jpg"
+     ]
     },
     {
      "id": "Q28",
@@ -47270,14 +47733,20 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "What is the name of the alcohol shown? A 4-ethyl-4-methylbutan-3-ol, B 4-methylhexan-3-ol, C 3-methylhexan-3-ol, D 2-ethylpentan-3-ol.",
-     "status": "pending",
-     "answer": "Needs the structure shown in the PDF; the option names alone are not enough to decide",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 4-methylhexan-3-ol",
+     "steps": [
+      "The longest chain containing the carbon with OH has six carbons (hexane).",
+      "Numbering from the end that gives the OH the lowest number puts the OH on C3 and the methyl group on C4.",
+      "The name is 4-methylhexan-3-ol."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-40.jpg",
       "papers/chemistry/img/10C-Alcohols-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q29.jpg"
+     ]
     },
     {
      "id": "Q30",
@@ -47293,14 +47762,20 @@ window.BANK.chemistry = {
       "products"
      ],
      "question": "Which is a correct equation for the incomplete combustion of butan-1-ol? (Options shown in the PDF.)",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: CH3CH2CH2CH2OH + 4O2 -> 4CO + 5H2O",
+     "steps": [
+      "Incomplete combustion gives carbon monoxide rather than carbon dioxide, so A and B (which give CO2) are not correct.",
+      "C4H9OH + xO2 -> 4CO + 5H2O needs 4 + 5 = 9 oxygen atoms on the right; 1 comes from the alcohol, so 8 must come from O2, which is 4 O2.",
+      "Only C is balanced (D has 4.5 O2 and would not balance)."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-40.jpg",
       "papers/chemistry/img/10C-Alcohols-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q30.jpg"
+     ]
     },
     {
      "id": "Q31",
@@ -47403,16 +47878,22 @@ window.BANK.chemistry = {
       "calculation"
      ],
      "question": "Calculate the enthalpy change per mole of methanol produced from methane, using the bond enthalpies shown.",
-     "status": "pending",
-     "answer": "Needs the bond enthalpy data and equation from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "-138 kJ mol-1",
+     "steps": [
+      "2CH4 + O2 -> 2CH3OH: bonds broken are 8 C-H (8 x 413 = 3304) and 1 O=O (498), total 3802 kJ.",
+      "Bonds made are 6 C-H (6 x 413 = 2478), 2 C-O (2 x 336 = 672) and 2 O-H (2 x 464 = 928), total 4078 kJ.",
+      "Delta H = 3802 - 4078 = -276 kJ for 2 mol of methanol, so per mole of methanol = -276 / 2 = -138 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/10C-Alcohols-41.jpg",
       "papers/chemistry/img/10C-Alcohols-42.jpg",
       "papers/chemistry/img/10C-Alcohols-43.jpg",
       "papers/chemistry/img/10C-Alcohols-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q34.jpg"
+     ]
     },
     {
      "id": "Q34b",
@@ -47440,7 +47921,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-43.jpg",
       "papers/chemistry/img/10C-Alcohols-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q34-2.jpg"
+     ]
     },
     {
      "id": "Q34c",
@@ -47470,7 +47953,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-43.jpg",
       "papers/chemistry/img/10C-Alcohols-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q34.jpg",
+      "papers/chemistry/fig/10C-Alcohols-Q34-2.jpg"
+     ]
     },
     {
      "id": "Q34d(i)",
@@ -47677,14 +48163,20 @@ window.BANK.chemistry = {
       "kinetics graph"
      ],
      "question": "A reactant Q forms two products. Which of four graphs shows the reaction is first order with respect to Q? (Options A-D are graphs 1-4.)",
-     "status": "pending",
-     "answer": "Needs the four graphs from the PDF to be checked; they are not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Graph 3",
+     "steps": [
+      "First order in Q means rate is directly proportional to [Q], so a plot of rate against [Q] is a straight line through the origin.",
+      "Graph 3 (rate against [Q], straight line from the origin) shows this.",
+      "Graph 2 (rate constant whatever [Q]) is zero order; Graph 1 (straight-line fall of [Q]) is also zero order; Graph 4 shows [Q] not changing at all."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-01.jpg",
       "papers/chemistry/img/11-Kinetics-A2-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q2.jpg"
+     ]
     },
     {
      "id": "Ch11-Q3",
@@ -47699,14 +48191,20 @@ window.BANK.chemistry = {
       "concentration time graph"
      ],
      "question": "Cisplatin is hydrolysed in a first order overall reaction. Using a graph of concentration against time, which half-life is correct? Options: A 430 min, B 460 min, C 590 min, D 600 min.",
-     "status": "pending",
-     "answer": "Needs the concentration-time graph from the PDF to be checked; it is not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 460 min",
+     "steps": [
+      "Initial concentration = 20 x 10^-3 mol dm-3, so the concentration must fall to 10 x 10^-3 mol dm-3 after one half-life.",
+      "On the curve, 10 x 10^-3 is reached at about 460 min (11.0 at 400 min, 9.4 at 500 min).",
+      "Check with a second half-life: 10 -> 5 x 10^-3 occurs between about 460 and 920 min, again about 460 min, so the half-lives are constant (first order)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-02.jpg",
       "papers/chemistry/img/11-Kinetics-A2-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q3.jpg"
+     ]
     },
     {
      "id": "Ch11-Q4",
@@ -47721,13 +48219,19 @@ window.BANK.chemistry = {
       "table"
      ],
      "question": "The rate of reaction between Y and Z was investigated and the results tabulated. What are the orders with respect to Y and Z?",
-     "status": "pending",
-     "answer": "Needs the results table from the PDF to be checked; the table is missing from the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: order 0 with respect to Y and order 2 with respect to Z",
+     "steps": [
+      "Experiments 1 and 2: [Z] doubles (0.24 -> 0.48) with [Y] constant and the rate rises by 3.20 x 10^-2 / 8.00 x 10^-3 = 4, so 2^n = 4 and the order in Z is 2.",
+      "Experiments 2 and 3: [Y] halves (0.64 -> 0.32) with [Z] constant and the rate is unchanged, so the order in Y is 0.",
+      "Orders are Y = 0 and Z = 2, option B."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q4.jpg"
+     ]
     },
     {
      "id": "Ch11-Q5(a)",
@@ -47833,15 +48337,21 @@ window.BANK.chemistry = {
       "Arrhenius"
      ],
      "question": "Complete a table of values for ln k and 1/T for the rate constant of the cyclopropane to propene reaction at five temperatures.",
-     "status": "pending",
-     "answer": "Needs the table values from the PDF; the table is missing from the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "1/T at 840 K = 1.19 x 10^-3 K-1; ln k at 791 K = -6.40",
+     "steps": [
+      "1/840 = 1.19 x 10^-3 K-1 (3 s.f., matching the other entries).",
+      "ln(1.66 x 10^-3) = -6.40 (2 d.p., matching the other entries).",
+      "The completed (1/T, ln k) values are (1.39 x 10^-3, -10.60), (1.34 x 10^-3, -9.00), (1.26 x 10^-3, -6.40), (1.19 x 10^-3, -4.00) and (1.12 x 10^-3, -1.80)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-05.jpg",
       "papers/chemistry/img/11-Kinetics-A2-06.jpg",
       "papers/chemistry/img/11-Kinetics-A2-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q6.jpg"
+     ]
     },
     {
      "id": "Ch11-Q6(a)(ii)",
@@ -47856,15 +48366,21 @@ window.BANK.chemistry = {
       "best fit line"
      ],
      "question": "Plot a graph of ln k against 1/T for the five data points from part (a)(i).",
-     "status": "pending",
-     "answer": "Graph plotting needs the data points from the PDF table; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A straight line of best fit with negative gradient through the five points (1/T on the x axis, ln k on the y axis)",
+     "steps": [
+      "Label the axes: x = 1/T / K-1 (e.g. 1.10 to 1.40 x 10^-3) and y = ln k (from about -12 to 0), with a scale that uses more than half of the grid in each direction.",
+      "Plot the five points accurately: (1.39 x 10^-3, -10.60), (1.34 x 10^-3, -9.00), (1.26 x 10^-3, -6.40), (1.19 x 10^-3, -4.00), (1.12 x 10^-3, -1.80).",
+      "Draw one straight best-fit line through the points (they lie almost exactly on a line) sloping down from left to right, using a ruler."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-05.jpg",
       "papers/chemistry/img/11-Kinetics-A2-06.jpg",
       "papers/chemistry/img/11-Kinetics-A2-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q6.jpg"
+     ]
     },
     {
      "id": "Ch11-Q6(a)(iii)",
@@ -47881,15 +48397,21 @@ window.BANK.chemistry = {
       "cyclopropane"
      ],
      "question": "From the graph of ln k against 1/T, determine the activation energy Ea in kJ mol-1, including the value and units of the gradient.",
-     "status": "pending",
-     "answer": "Needs the plotted graph and gradient from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "gradient about -3.3 x 10^4 K; Ea = +2.7 x 10^2 kJ mol-1 (about 270 kJ mol-1)",
+     "steps": [
+      "From ln k = -(Ea/R)(1/T) + constant, the gradient of the line is -Ea/R.",
+      "Take two widely spaced points on the line, e.g. (1.39 x 10^-3, -10.60) and (1.12 x 10^-3, -1.80): gradient = (-1.80 - (-10.60)) / (1.12 x 10^-3 - 1.39 x 10^-3) = 8.80 / (-2.7 x 10^-4) = -3.3 x 10^4 K (units K).",
+      "Ea = -gradient x R = 3.3 x 10^4 x 8.31 = 2.7 x 10^5 J mol-1 = +2.7 x 10^2 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-05.jpg",
       "papers/chemistry/img/11-Kinetics-A2-06.jpg",
       "papers/chemistry/img/11-Kinetics-A2-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q6.jpg"
+     ]
     },
     {
      "id": "Ch11-Q6(b)",
@@ -47904,15 +48426,21 @@ window.BANK.chemistry = {
       "cyclopropane"
      ],
      "question": "The activation energy for many reactions is around +50 kJ mol-1. Comment on the value of Ea found in (a)(iii).",
-     "status": "pending",
-     "answer": "Depends on the Ea value found in (a)(iii) from the PDF graph; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Ea (about +270 kJ mol-1) is far higher than the typical +50 kJ mol-1, so very few collisions are successful except at high temperature",
+     "steps": [
+      "The value is about five times the typical +50 kJ mol-1, so the reaction has an unusually high activation energy.",
+      "A high Ea means that only a very small fraction of molecules have energy >= Ea at normal temperatures, so the reaction is very slow unless the temperature is high (the data were measured at 719-889 K).",
+      "This is consistent with the ring isomerisation needing a strained C-C bond to be broken (covalent bond fission) before the product forms."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-05.jpg",
       "papers/chemistry/img/11-Kinetics-A2-06.jpg",
       "papers/chemistry/img/11-Kinetics-A2-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q6.jpg"
+     ]
     },
     {
      "id": "Ch11-Q6(c)",
@@ -47959,14 +48487,20 @@ window.BANK.chemistry = {
       "diagram"
      ],
      "question": "Which of four diagrams shows the mechanism for the second order reaction between 1-bromoethane and aqueous potassium hydroxide?",
-     "status": "pending",
-     "answer": "Needs the four mechanism diagrams from the PDF to be checked; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Diagram 3",
+     "steps": [
+      "A second order reaction (rate = k[C2H5Br][OH-]) is SN2: one concerted step in which OH- and the halogenoalkane both take part in the rate-determining step.",
+      "Diagram 3 shows the OH- lone pair attacking the delta+ carbon (curly arrow from the lone pair to carbon) while the C-Br bond breaks, with a single transition state containing both Br and OH partially bonded.",
+      "Diagrams 1 and 2 show a carbocation intermediate (SN1, first order); Diagram 4 has the curly arrow drawn the wrong way (from carbon to OH-)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-07.jpg",
       "papers/chemistry/img/11-Kinetics-A2-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q7.jpg"
+     ]
     },
     {
      "id": "Ch11-Q8(a)",
@@ -47982,14 +48516,20 @@ window.BANK.chemistry = {
       "rate equation"
      ],
      "question": "For the formation of iodopropanone (propanone with iodine in acid), which statement is true? Options: A units of k are dm3 mol-1 s-1, B first order overall, C units of rate are dm3 mol-1 s-1, D doubling both concentrations quadruples the rate. The rate equation itself is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the rate equation shown in the PDF to be checked; it is missing from the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: the units of k are dm3 mol-1 s-1",
+     "steps": [
+      "The rate equation shown on the paper is rate = k[CH3COCH3][H+], second order overall (first order in propanone and in H+).",
+      "Units of k = (mol dm-3 s-1) / (mol dm-3)^2 = dm3 mol-1 s-1, so A is true.",
+      "B is false (second order overall); C is false (rate has units mol dm-3 s-1); D is false because iodine is zero order, so doubling [propanone] and [I2] only doubles the rate."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-08.jpg",
       "papers/chemistry/img/11-Kinetics-A2-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q8.jpg"
+     ]
     },
     {
      "id": "Ch11-Q8(b)",
@@ -48017,7 +48557,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/11-Kinetics-A2-08.jpg",
       "papers/chemistry/img/11-Kinetics-A2-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q8.jpg"
+     ]
     },
     {
      "id": "Ch11-Q9",
@@ -48061,9 +48603,13 @@ window.BANK.chemistry = {
       "gas constant R"
      ],
      "question": "A graph of ln k against 1/T is plotted for a reaction. Which expression gives the activation energy Ea? Options A and C contain a minus sign and B and D a plus sign; the minus signs are garbled in the extracted text.",
-     "status": "pending",
-     "answer": "Options are garbled in the extracted text (minus signs unreadable); check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: - gradient x R",
+     "steps": [
+      "ln k = -(Ea/R) x (1/T) + constant has the form y = mx + c with y = ln k and x = 1/T.",
+      "So the gradient m = -Ea/R and Ea = -gradient x R (the gradient is negative, so Ea is positive).",
+      "Option C."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-10.jpg",
       "papers/chemistry/img/11-Kinetics-A2-11.jpg",
@@ -48086,9 +48632,13 @@ window.BANK.chemistry = {
       "333 K"
      ],
      "question": "Plot a graph of concentration of benzenediazonium chloride against time for the 333 K experiment.",
-     "status": "pending",
-     "answer": "Needs the data table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Concentration (y axis, 0 to 0.5 mol dm-3) against time (x axis, 0 to 400 s): a smooth falling curve through the seven points, starting at 0.500 at t = 0 and flattening out towards 0.050 at 400 s",
+     "steps": [
+      "Axes: x = time / s (0 to 400), y = [C6H5N2Cl] / mol dm-3 (0 to 0.50), scales using more than half the grid.",
+      "Plot (0, 0.500), (40, 0.410), (100, 0.285), (200, 0.165), (280, 0.100), (350, 0.070), (400, 0.050).",
+      "Draw one smooth curve (not dot-to-dot) that is steep at first and gets less steep as time increases (an exponential decay)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-10.jpg",
       "papers/chemistry/img/11-Kinetics-A2-11.jpg",
@@ -48096,7 +48646,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/11-Kinetics-A2-13.jpg",
       "papers/chemistry/img/11-Kinetics-A2-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q11.jpg"
+     ]
     },
     {
      "id": "Ch11-Q11(a)(ii)",
@@ -48111,9 +48663,13 @@ window.BANK.chemistry = {
       "graph working"
      ],
      "question": "Determine the half-life, t1/2, from the concentration-time graph, showing working on the graph.",
-     "status": "pending",
-     "answer": "Needs the graph from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "t1/2 = about 125 s (accept 120-130 s)",
+     "steps": [
+      "Initial concentration = 0.500 mol dm-3, so half of this is 0.250 mol dm-3.",
+      "Draw a horizontal line from 0.250 on the y axis to the curve and a vertical line down to the time axis; this reads about 125 s.",
+      "Check: from 0.250 to 0.125 mol dm-3 takes about 125 s as well (at t = 250 s), so the half-lives are constant, consistent with first order."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-10.jpg",
       "papers/chemistry/img/11-Kinetics-A2-11.jpg",
@@ -48121,7 +48677,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/11-Kinetics-A2-13.jpg",
       "papers/chemistry/img/11-Kinetics-A2-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q11.jpg"
+     ]
     },
     {
      "id": "Ch11-Q11(a)(iii)",
@@ -48137,9 +48695,13 @@ window.BANK.chemistry = {
       "benzenediazonium chloride"
      ],
      "question": "Calculate the rate constant k at 333 K using ln 2 = k t1/2. Include units.",
-     "status": "pending",
-     "answer": "Needs the half-life from part (a)(ii), which depends on the PDF graph",
-     "steps": [],
+     "status": "ready",
+     "answer": "k = 5.5 x 10^-3 s-1",
+     "steps": [
+      "ln 2 = k x t1/2, so k = ln 2 / t1/2.",
+      "k = 0.693 / 125 s = 5.5 x 10^-3.",
+      "Units: s-1 (first order rate constant)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-10.jpg",
       "papers/chemistry/img/11-Kinetics-A2-11.jpg",
@@ -48147,7 +48709,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/11-Kinetics-A2-13.jpg",
       "papers/chemistry/img/11-Kinetics-A2-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q11.jpg"
+     ]
     },
     {
      "id": "Ch11-Q11(b)(i)",
@@ -48163,9 +48727,13 @@ window.BANK.chemistry = {
       "data point"
      ],
      "question": "Use the rate constant from (a)(iii) to obtain a data point (1/T, ln k) for 333 K.",
-     "status": "pending",
-     "answer": "Depends on the rate constant from (a)(iii), which depends on the PDF graph",
-     "steps": [],
+     "status": "ready",
+     "answer": "1/T = 3.00 x 10^-3 K-1 and ln k = -5.2",
+     "steps": [
+      "1/T = 1/333 K = 3.00 x 10^-3 K-1 (0.00300).",
+      "ln k = ln(5.5 x 10^-3) = -5.2 (-5.20).",
+      "So the point to plot is (0.00300, -5.2)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-10.jpg",
       "papers/chemistry/img/11-Kinetics-A2-11.jpg",
@@ -48173,7 +48741,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/11-Kinetics-A2-13.jpg",
       "papers/chemistry/img/11-Kinetics-A2-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q11-2.jpg"
+     ]
     },
     {
      "id": "Ch11-Q11(b)(ii)",
@@ -48187,9 +48757,13 @@ window.BANK.chemistry = {
       "1/T"
      ],
      "question": "Plot the data point from (b)(i) on the Arrhenius graph.",
-     "status": "pending",
-     "answer": "Needs the graph axes and data from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A point plotted at x = 0.00300, y = -5.2, on the left of the existing points and above the first one, lying on the same straight trend",
+     "steps": [
+      "On the 1/T axis, 0.00300 is at the 0.0030 gridline, which is 0.0001 left of the 0.0031 gridline.",
+      "On the ln k axis, -5.2 lies between the -4 and -6 gridlines, 0.8 above the -6 line.",
+      "The new point lies on the line through the other five points (the line slopes down from left to right)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-10.jpg",
       "papers/chemistry/img/11-Kinetics-A2-11.jpg",
@@ -48197,7 +48771,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/11-Kinetics-A2-13.jpg",
       "papers/chemistry/img/11-Kinetics-A2-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q11-2.jpg"
+     ]
     },
     {
      "id": "Ch11-Q11(b)(iii)",
@@ -48213,9 +48789,14 @@ window.BANK.chemistry = {
       "ln k against 1/T"
      ],
      "question": "Determine the gradient of the Arrhenius graph by drawing a best-fit line, including sign and units.",
-     "status": "pending",
-     "answer": "Needs the plotted graph from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "gradient = about -1.36 x 10^4 K (accept -1.3 to -1.45 x 10^4 K)",
+     "steps": [
+      "Draw a straight best-fit line through the six points (the five given plus the plotted point at 0.00300, -5.2).",
+      "Choose two points on the line that are far apart, e.g. (0.00300, -5.2) and (0.00347, -11.6).",
+      "Gradient = (-11.6 - (-5.2)) / (0.00347 - 0.00300) = -6.4 / 0.00047 = -1.36 x 10^4.",
+      "The gradient is negative and its units are K (ln k has no units, 1/T is in K-1)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-10.jpg",
       "papers/chemistry/img/11-Kinetics-A2-11.jpg",
@@ -48223,7 +48804,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/11-Kinetics-A2-13.jpg",
       "papers/chemistry/img/11-Kinetics-A2-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q11-2.jpg"
+     ]
     },
     {
      "id": "Ch11-Q11(b)(iv)",
@@ -48239,9 +48822,13 @@ window.BANK.chemistry = {
       "kJ mol-1"
      ],
      "question": "Use the gradient from (b)(iii) to calculate the activation energy for decomposition of benzenediazonium chloride, with sign and units.",
-     "status": "pending",
-     "answer": "Depends on the gradient from (b)(iii), which needs the PDF graph",
-     "steps": [],
+     "status": "ready",
+     "answer": "Ea = +1.13 x 10^2 kJ mol-1 (about +113 kJ mol-1)",
+     "steps": [
+      "Gradient = -Ea/R, so Ea = -gradient x R.",
+      "Ea = 1.36 x 10^4 x 8.31 = 1.13 x 10^5 J mol-1.",
+      "Ea = +113 kJ mol-1 (positive; allow +108 to +120 for the graph reading)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-10.jpg",
       "papers/chemistry/img/11-Kinetics-A2-11.jpg",
@@ -48249,7 +48836,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/11-Kinetics-A2-13.jpg",
       "papers/chemistry/img/11-Kinetics-A2-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q11-2.jpg"
+     ]
     },
     {
      "id": "Ch11-Q12",
@@ -48265,14 +48854,20 @@ window.BANK.chemistry = {
       "tertiary"
      ],
      "question": "2-bromo-2-methylbutane is hydrolysed with NaOH(aq). Which suggestion about the mechanism is correct? The four options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Options A-D are missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: SN1, two steps",
+     "steps": [
+      "2-bromo-2-methylbutane is a tertiary halogenoalkane, which hydrolyses by SN1.",
+      "Step 1 (slow): the C-Br bond breaks heterolytically to give a tertiary carbocation and Br-; step 2 (fast): OH- attacks the carbocation.",
+      "So the mechanism is SN1 with two steps (option D); SN2 would involve a crowded transition state at a tertiary carbon."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-14.jpg",
       "papers/chemistry/img/11-Kinetics-A2-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q12.jpg"
+     ]
     },
     {
      "id": "Ch11-Q13",
@@ -48320,14 +48915,20 @@ window.BANK.chemistry = {
       "enol"
      ],
      "question": "The reaction CH3COCH3 + I2 -> CH3COCH2I + HI has rate = k[CH3COCH3][H+]. Which is a possible mechanism? Mechanism options are in diagrams not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the mechanism options from the PDF to be checked; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "The rate equation rate = k[CH3COCH3][H+] has no I2, so I2 must react after the rate-determining step.",
+      "In mechanism A, the fast equilibrium CH3COCH3 + H+ <=> protonated propanone makes the concentration of protonated propanone proportional to [CH3COCH3][H+]; the slow step then loses H+ from it, so rate = k[CH3COCH3][H+].",
+      "In B the slow step involves I2, which would put [I2] in the rate equation; C and D have I2 or I- in slow steps, so they do not fit."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-15.jpg",
       "papers/chemistry/img/11-Kinetics-A2-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q14.jpg"
+     ]
     },
     {
      "id": "Ch11-Q15",
@@ -48371,15 +48972,21 @@ window.BANK.chemistry = {
       "excess acid"
      ],
      "question": "Using the data for five initial bromate(V) concentrations, plot a suitable graph to show the reaction is first order with respect to bromate(V) ions.",
-     "status": "pending",
-     "answer": "Needs the data table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Graph of initial rate (y axis) against [BrO3-] (x axis): a straight line through the origin",
+     "steps": [
+      "Axes: x = initial [BrO3-] / mol dm-3 (0 to 0.150) and y = initial rate / mol dm-3 s-1 (0 to about 2.2 x 10^-6), using over half the grid in each direction.",
+      "Plot (0.030, 4.17 x 10^-7), (0.060, 8.34 x 10^-7), (0.090, 1.25 x 10^-6), (0.120, 1.67 x 10^-6), (0.150, 2.09 x 10^-6).",
+      "Draw a ruled best-fit straight line through the points and extend it to the origin (gradient about 1.39 x 10^-5 s-1)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-17.jpg",
       "papers/chemistry/img/11-Kinetics-A2-18.jpg",
       "papers/chemistry/img/11-Kinetics-A2-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q16.jpg"
+     ]
     },
     {
      "id": "Ch11-Q16(a)(ii)",
@@ -48407,7 +49014,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/11-Kinetics-A2-18.jpg",
       "papers/chemistry/img/11-Kinetics-A2-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q16.jpg"
+     ]
     },
     {
      "id": "Ch11-Q16(b)(i)",
@@ -48423,15 +49032,21 @@ window.BANK.chemistry = {
       "table"
      ],
      "question": "Using the second experiment's initial rate data and the first order result from (a), deduce the orders with respect to Br- and H+.",
-     "status": "pending",
-     "answer": "Needs the table of initial rates from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Br-: first order; H+: second order",
+     "steps": [
+      "Runs 1 and 3: [Br-] triples (0.21 -> 0.63) with the others constant and the rate triples (4.56 x 10^-5 / 1.52 x 10^-5 = 3.0), so the order in Br- is 1.",
+      "Runs 1 and 2: [BrO3-] rises 5 times (0.062 -> 0.31), which on its own (first order) would multiply the rate by 5, while [H+] is halved (0.40 -> 0.20).",
+      "Observed rate ratio = 1.90 x 10^-5 / 1.52 x 10^-5 = 1.25 = 5 x (1/2)^n, so (1/2)^n = 1/4 and the order in H+ is 2."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-17.jpg",
       "papers/chemistry/img/11-Kinetics-A2-18.jpg",
       "papers/chemistry/img/11-Kinetics-A2-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q16-2.jpg"
+     ]
     },
     {
      "id": "Ch11-Q16(b)(ii)",
@@ -48446,15 +49061,20 @@ window.BANK.chemistry = {
       "overall rate"
      ],
      "question": "Write the rate equation for the reaction using the orders from (b)(i).",
-     "status": "pending",
-     "answer": "Depends on the orders from (b)(i), which need the PDF table",
-     "steps": [],
+     "status": "ready",
+     "answer": "rate = k[BrO3-][Br-][H+]^2",
+     "steps": [
+      "Orders from (a) and (b)(i): first order in BrO3-, first order in Br-, second order in H+.",
+      "Write them as powers of the concentrations: rate = k[BrO3-][Br-][H+]^2."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-17.jpg",
       "papers/chemistry/img/11-Kinetics-A2-18.jpg",
       "papers/chemistry/img/11-Kinetics-A2-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q16-2.jpg"
+     ]
     },
     {
      "id": "Ch11-Q16(b)(iii)",
@@ -48471,15 +49091,21 @@ window.BANK.chemistry = {
       "hydrogen ions"
      ],
      "question": "Use the Run 1 data and your rate equation from (b)(ii) to calculate k, including units.",
-     "status": "pending",
-     "answer": "Needs the Run 1 data and orders from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "k = 7.3 x 10^-3 dm9 mol-3 s-1",
+     "steps": [
+      "Rearrange: k = rate / ([BrO3-][Br-][H+]^2).",
+      "Run 1: k = 1.52 x 10^-5 / (0.062 x 0.21 x 0.40^2) = 1.52 x 10^-5 / 2.08 x 10^-3 = 7.3 x 10^-3.",
+      "Units = (mol dm-3 s-1) / (mol dm-3)^4 = dm9 mol-3 s-1."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-17.jpg",
       "papers/chemistry/img/11-Kinetics-A2-18.jpg",
       "papers/chemistry/img/11-Kinetics-A2-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q16-2.jpg"
+     ]
     },
     {
      "id": "Ch11-Q16(c)",
@@ -48525,14 +49151,20 @@ window.BANK.chemistry = {
       "2NO + 2H2"
      ],
      "question": "For 2NO + 2H2 -> N2 + 2H2O, which statement about the mechanism is correct? The steps are shown in a diagram not in the extracted text; options A-D are: step 3 is rate determining with overall order 2 / step 3 with order 4 / step 2 with order 2 / step 2 with order 3.",
-     "status": "pending",
-     "answer": "Needs the mechanism steps from the PDF to be checked; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: step 2 is the rate-determining step and the overall order is 3",
+     "steps": [
+      "The slow step (step 2) is rate-determining: rate = k[N2O2][H2].",
+      "N2O2 comes from the fast equilibrium step 1 (2NO <=> N2O2), so [N2O2] is proportional to [NO]^2.",
+      "Rate = k[NO]^2[H2], which is order 2 + 1 = 3 overall, so D."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-19.jpg",
       "papers/chemistry/img/11-Kinetics-A2-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q17.jpg"
+     ]
     },
     {
      "id": "Ch11-Q18(a)",
@@ -48599,14 +49231,20 @@ window.BANK.chemistry = {
       "ammonia decomposition"
      ],
      "question": "Which of the graphs represents a zero order reaction? The graph options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Graph options are missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: rate against [NH3], a horizontal line",
+     "steps": [
+      "Zero order means the rate does not depend on [NH3]: rate = k.",
+      "The graph of rate against [NH3] is therefore a horizontal straight line (graph A).",
+      "B (straight line through the origin) is first order; C is an exponential fall in [NH3] (first order); D shows [NH3] not changing with time, so no reaction occurs."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-20.jpg",
       "papers/chemistry/img/11-Kinetics-A2-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q18.jpg"
+     ]
     },
     {
      "id": "Ch11-Q19",
@@ -48676,15 +49314,21 @@ window.BANK.chemistry = {
       "graph working"
      ],
      "question": "From the concentration-time graph at 573 K, determine values for t1/2 and state whether the data confirm first order behaviour. Show working on the graph.",
-     "status": "pending",
-     "answer": "Needs the concentration-time graph from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "t1/2 = about 130 min (accept 125-135 min); the half-life is constant, so the data confirm first order",
+     "steps": [
+      "Initial concentration = 9.0 x 10^-3 mol dm-3. Half = 4.5 x 10^-3: read across to the curve and down to the time axis, about 130 min.",
+      "A second half-life: from 4.5 x 10^-3 to 2.25 x 10^-3 takes the curve from about 130 min to about 262 min, i.e. about 130 min again (or 7.0 -> 3.5 x 10^-3 takes similar time).",
+      "Constant successive half-lives show that the reaction is first order."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-22.jpg",
       "papers/chemistry/img/11-Kinetics-A2-23.jpg",
       "papers/chemistry/img/11-Kinetics-A2-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q20.jpg"
+     ]
     },
     {
      "id": "Ch11-Q20(b)(ii)",
@@ -48700,9 +49344,13 @@ window.BANK.chemistry = {
       "573 K"
      ],
      "question": "Calculate the rate constant k in s-1 for decomposition of azomethane at 573 K, using the half-life from (b)(i) and k = ln 2 / t1/2.",
-     "status": "pending",
-     "answer": "Depends on the half-life from (b)(i), which needs the PDF graph",
-     "steps": [],
+     "status": "ready",
+     "answer": "k = 8.9 x 10^-5 s-1 (using t1/2 = 130 min)",
+     "steps": [
+      "Convert the half-life to seconds: 130 min x 60 = 7800 s.",
+      "k = ln 2 / t1/2 = 0.693 / 7800 = 8.9 x 10^-5 s-1.",
+      "Allow 8.6 x 10^-5 to 9.2 x 10^-5 s-1 for half-lives of 126-134 min."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-22.jpg",
       "papers/chemistry/img/11-Kinetics-A2-23.jpg",
@@ -48840,14 +49488,19 @@ window.BANK.chemistry = {
       "298 K"
      ],
      "question": "From the experimental data for hydrolysis of 2-bromobutane, deduce and justify the order with respect to 2-bromobutane and hydroxide ions.",
-     "status": "pending",
-     "answer": "Needs the data table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "first order with respect to 2-bromobutane; zero order with respect to OH-",
+     "steps": [
+      "Experiments 1 and 2: [2-bromobutane] doubles (0.100 -> 0.200) with [OH-] constant and the rate doubles (1.01 -> 2.02 x 10^-3), so it is first order in 2-bromobutane.",
+      "Experiments 1 and 3: [OH-] doubles (0.100 -> 0.200) with [2-bromobutane] constant and the rate is unchanged (1.01 x 10^-3), so it is zero order in OH-."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-25.jpg",
       "papers/chemistry/img/11-Kinetics-A2-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q22.jpg"
+     ]
     },
     {
      "id": "Ch11-Q22(a)(ii)",
@@ -48861,14 +49514,18 @@ window.BANK.chemistry = {
       "order"
      ],
      "question": "Write the rate equation using your orders from (a)(i).",
-     "status": "pending",
-     "answer": "Depends on the orders from (a)(i), which need the PDF table",
-     "steps": [],
+     "status": "ready",
+     "answer": "rate = k[CH3CH2CHBrCH3]",
+     "steps": [
+      "Only 2-bromobutane appears in the rate equation (first order); OH- is zero order so it is left out."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-25.jpg",
       "papers/chemistry/img/11-Kinetics-A2-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q22.jpg"
+     ]
     },
     {
      "id": "Ch11-Q22(a)(iii)",
@@ -48883,14 +49540,20 @@ window.BANK.chemistry = {
       "units"
      ],
      "question": "Calculate the rate constant for Experiment 1, including units.",
-     "status": "pending",
-     "answer": "Needs the Experiment 1 data from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "k = 1.01 x 10^-2 s-1",
+     "steps": [
+      "k = rate / [CH3CH2CHBrCH3] using Experiment 1.",
+      "k = 1.01 x 10^-3 / 0.100 = 1.01 x 10^-2.",
+      "Units = (mol dm-3 s-1) / (mol dm-3) = s-1."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-25.jpg",
       "papers/chemistry/img/11-Kinetics-A2-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q22.jpg"
+     ]
     },
     {
      "id": "Ch11-Q22(b)",
@@ -48907,9 +49570,13 @@ window.BANK.chemistry = {
       "SN2"
      ],
      "question": "Draw the mechanism for hydrolysis of 2-bromobutane that is consistent with your rate equation, including curly arrows, dipoles and lone pairs.",
-     "status": "pending",
-     "answer": "Requires a drawn mechanism, which cannot be checked from the text; check against the PDF's order from (a)(i)",
-     "steps": [],
+     "status": "ready",
+     "answer": "SN1 two-step mechanism: slow heterolytic fission of C-Br to a carbocation, then fast attack of OH- on the carbocation",
+     "steps": [
+      "Rate depends on [halogenoalkane] only, so the slow step involves only the halogenoalkane: SN1.",
+      "Step 1 (slow): show the dipole C(delta+)-Br(delta-) in CH3CH2CHBrCH3; curly arrow from the middle of the C-Br bond to Br; products CH3CH2CH(+)CH3 (the carbocation) and Br-.",
+      "Step 2 (fast): OH- with a lone pair on oxygen (and its negative charge); curly arrow from the lone pair of OH- to the C+ of the carbocation, giving CH3CH2CH(OH)CH3 (butan-2-ol)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-25.jpg",
       "papers/chemistry/img/11-Kinetics-A2-26.jpg"
@@ -48928,14 +49595,19 @@ window.BANK.chemistry = {
       "four graphs"
      ],
      "question": "Which of four graphs shows rate plotted against concentration for a zero order reaction? Graphs 1-4 are in a figure not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the four graphs from the PDF to be checked; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Graph 3",
+     "steps": [
+      "Zero order: the rate does not change when the concentration changes, so rate against concentration is a horizontal straight line.",
+      "Graph 3 is the horizontal line."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-26.jpg",
       "papers/chemistry/img/11-Kinetics-A2-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q23.jpg"
+     ]
     },
     {
      "id": "Ch11-Q23(b)",
@@ -48949,14 +49621,19 @@ window.BANK.chemistry = {
       "graph"
      ],
      "question": "Which of four graphs shows rate plotted against concentration for a first order reaction? Graphs 1-4 are in a figure not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the four graphs from the PDF to be checked; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Graph 4",
+     "steps": [
+      "First order: rate is directly proportional to concentration, so rate against concentration is a straight line through the origin.",
+      "Graph 4 is the straight line from the origin; Graph 1 is a curve (second order) and Graph 2 slopes downwards."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-26.jpg",
       "papers/chemistry/img/11-Kinetics-A2-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q23.jpg"
+     ]
     },
     {
      "id": "Ch11-Q24",
@@ -49002,14 +49679,21 @@ window.BANK.chemistry = {
       "table"
      ],
      "question": "Deduce the rate equation for the reaction of bromate(V) ions with bromide ions in dilute acid, justifying the answer from the data, given the reaction is first order in bromate(V).",
-     "status": "pending",
-     "answer": "Needs the initial-rate table from the PDF to be checked; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "rate = k[BrO3-][Br-][H+]^2",
+     "steps": [
+      "Experiments 1 and 2: only [H+] doubles (0.30 -> 0.60) and the rate rises 4 times (3.36 x 10^-5 -> 1.34 x 10^-4), so the order in H+ is 2.",
+      "Experiments 1 and 3: [BrO3-] rises by 1.5 and [Br-] doubles, and the rate rises 3 times (3.36 x 10^-5 -> 1.01 x 10^-4). BrO3- is first order, giving 1.5, so [Br-] must account for the remaining 2: the order in Br- is 1.",
+      "Check with Experiment 4: BrO3- x1.5, H+ x2 (so x4) from Experiment 1 gives 6 x 3.36 x 10^-5 = 2.0 x 10^-4, which matches 2.01 x 10^-4.",
+      "So rate = k[BrO3-][Br-][H+]^2."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-28.jpg",
       "papers/chemistry/img/11-Kinetics-A2-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q25.jpg"
+     ]
     },
     {
      "id": "Ch11-Q25(a)(ii)",
@@ -49024,14 +49708,20 @@ window.BANK.chemistry = {
       "rate equation"
      ],
      "question": "Use the data from Experiment 4 and your rate equation from (a)(i) to calculate the rate constant, with units.",
-     "status": "pending",
-     "answer": "Needs the Experiment 4 data and the rate equation from (a)(i); not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "k = 1.49 x 10^-2 dm9 mol-3 s-1",
+     "steps": [
+      "k = rate / ([BrO3-][Br-][H+]^2) using Experiment 4.",
+      "k = 2.01 x 10^-4 / (0.15 x 0.25 x 0.60^2) = 2.01 x 10^-4 / 0.0135 = 1.49 x 10^-2.",
+      "Units = (mol dm-3 s-1) / (mol dm-3)^4 = dm9 mol-3 s-1."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-28.jpg",
       "papers/chemistry/img/11-Kinetics-A2-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q25.jpg"
+     ]
     },
     {
      "id": "Ch11-Q25(b)",
@@ -49047,14 +49737,19 @@ window.BANK.chemistry = {
       "bromate(V)"
      ],
      "question": "Give one reason why the rate equation shows that the reaction cannot proceed in one step.",
-     "status": "pending",
-     "answer": "Depends on the rate equation from (a)(i), which needs the PDF table to be checked",
-     "steps": [],
+     "status": "ready",
+     "answer": "The orders in the rate equation do not match the stoichiometric equation (1 BrO3-, 5 Br-, 6 H+), so it must happen in more than one step",
+     "steps": [
+      "A single step would give rate = k[BrO3-][Br-]^5[H+]^6; the experimental orders are 1, 1 and 2.",
+      "Also, a single step would need 12 particles to collide at the same time, which is extremely unlikely."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-28.jpg",
       "papers/chemistry/img/11-Kinetics-A2-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q25.jpg"
+     ]
     },
     {
      "id": "Ch11-Q26(a)",
@@ -49097,14 +49792,19 @@ window.BANK.chemistry = {
       "graph"
      ],
      "question": "Which graph is correct for this reaction? The graphs are not in the extracted text.",
-     "status": "pending",
-     "answer": "Graph options are missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: rate against [NO]^2, a straight line through the origin",
+     "steps": [
+      "Rate = k[NO]^2[H2], so rate is proportional to [NO]^2 and a plot of rate against [NO]^2 is a straight line through the origin (graph D).",
+      "B is wrong because rate depends on [H2] (first order), not constant; A shows [H2] falling in a straight line (zero order); C shows [NO] increasing with time, but [NO] is a reactant and falls."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-29.jpg",
       "papers/chemistry/img/11-Kinetics-A2-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q26.jpg"
+     ]
     },
     {
      "id": "Ch11-Q26(c)",
@@ -49148,14 +49848,20 @@ window.BANK.chemistry = {
       "pair"
      ],
      "question": "Two equations for the reaction of nitrogen monoxide and oxygen are shown. Which pair of rate equations could be correct? The equation options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Options are missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "Rate equations are found by experiment and do not depend on how the balanced equation is written (equation 1 is simply twice equation 2).",
+      "So both equations must have the same rate equation, with only k different.",
+      "A gives rate = k[NO]^2[O2] for both; C and D put the product NO2 in the rate equation and B gives two different rate equations for the same reaction."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-31.jpg",
       "papers/chemistry/img/11-Kinetics-A2-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q27.jpg"
+     ]
     },
     {
      "id": "Ch11-Q27(b)",
@@ -49199,14 +49905,20 @@ window.BANK.chemistry = {
       "IO-"
      ],
      "question": "The decomposition of hydrogen peroxide is catalysed by iodide ions and the mechanism is shown in a diagram. What is the rate equation? Options: A rate = k[H2O2]^2[I-], B rate = k[H2O2][I-], C rate = k[H2O2]^2[I-][IO-], D rate = k[H2O2][IO-].",
-     "status": "pending",
-     "answer": "Needs the mechanism steps from the PDF to be checked; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: rate = k[H2O2]^2[I-]",
+     "steps": [
+      "Step 2 is the slow step, so rate = k2[H2O2][IO-].",
+      "IO- is an intermediate formed in the fast equilibrium step 1, so [IO-] is proportional to [H2O2][I-] (divided by [H2O], which is effectively constant).",
+      "Substituting, rate = k[H2O2]^2[I-]; an intermediate cannot appear in the final rate equation, which removes D."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-31.jpg",
       "papers/chemistry/img/11-Kinetics-A2-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q28.jpg"
+     ]
     },
     {
      "id": "Ch11-Q29",
@@ -49281,15 +49993,22 @@ window.BANK.chemistry = {
       "results table"
      ],
      "question": "Using the student's results, deduce the rate equation for the reaction between hydrogen peroxide and iodide ions in acid.",
-     "status": "pending",
-     "answer": "Needs the results table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "rate = k[H2O2][I-]",
+     "steps": [
+      "Runs 2 and 3: [H2O2] constant, [I-] doubles (0.0400 -> 0.0797) and the rate doubles (0.00181 -> 0.00364), while [H+] changes only slightly, so the order in I- is 1.",
+      "Runs 1 and 2: [I-] doubles (0.0198 -> 0.0400) and [H2O2] halves but the rate is unchanged, so doubling the iodide cancels the halving of H2O2: the order in H2O2 is 1.",
+      "Run 4 against Run 2: [H2O2] x2, [I-] x2 and [H+] x2 gives rate x4 (0.00181 -> 0.00730), so doubling [H+] has no effect and the order in H+ is 0.",
+      "Rate = k[H2O2][I-]."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-32.jpg",
       "papers/chemistry/img/11-Kinetics-A2-33.jpg",
       "papers/chemistry/img/11-Kinetics-A2-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q30.jpg"
+     ]
     },
     {
      "id": "Ch11-Q30(a)(iii)",
@@ -49305,15 +50024,21 @@ window.BANK.chemistry = {
       "rate equation"
      ],
      "question": "Calculate the rate constant at 293 K using the results from Run 1, including units.",
-     "status": "pending",
-     "answer": "Needs the Run 1 data and the rate equation from (a)(ii); not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "k = 4.35 dm3 mol-1 s-1",
+     "steps": [
+      "k = rate / ([H2O2][I-]) using Run 1.",
+      "k = 0.00181 / (0.0210 x 0.0198) = 0.00181 / 4.158 x 10^-4 = 4.35.",
+      "Units = (mol dm-3 s-1) / (mol dm-3)^2 = dm3 mol-1 s-1."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-32.jpg",
       "papers/chemistry/img/11-Kinetics-A2-33.jpg",
       "papers/chemistry/img/11-Kinetics-A2-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q30.jpg"
+     ]
     },
     {
      "id": "Ch11-Q30(b)",
@@ -49551,14 +50276,20 @@ window.BANK.chemistry = {
       "rate equation"
      ],
      "question": "The first four steps of the mechanism are shown in a diagram not in the extracted text. Which is the rate-determining step? Options: A Step 1, B Step 2, C Step 3, D Step 4.",
-     "status": "pending",
-     "answer": "Mechanism steps are not in the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Step 3",
+     "steps": [
+      "The rate equation is rate = k[BrO3-][Br-][H+]^2: one BrO3-, one Br- and two H+ take part up to the rate-determining step.",
+      "Steps 1 and 2 (fast) convert BrO3- + 2H+ into BrO3H2+, and step 3 reacts BrO3H2+ with one Br-, which gives exactly this combination.",
+      "Step 4 would bring in a second Br- and so cannot be rate determining, so C."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-36.jpg",
       "papers/chemistry/img/11-Kinetics-A2-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q35.jpg"
+     ]
     },
     {
      "id": "Ch11-Q36",
@@ -49660,16 +50391,22 @@ window.BANK.chemistry = {
       "justify"
      ],
      "question": "Using the table of results, deduce and justify the order of Reaction 1 with respect to hydrogen peroxide, hydrogen ions and iodide ions.",
-     "status": "pending",
-     "answer": "Needs the results table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "H2O2: first order; H+: zero order; I-: first order",
+     "steps": [
+      "H2O2: Mixtures 1 and 2: [H2O2] halves (5.4 x 10^-2 -> 2.7 x 10^-2), the rate also halves (5.13 x 10^-3 -> 2.56 x 10^-3 s-1), so first order.",
+      "I-: Mixtures 1 and 3: [I-] doubles (8.2 x 10^-3 -> 1.6 x 10^-2), the rate doubles (5.13 x 10^-3 -> 1.03 x 10^-2), so first order.",
+      "H+: Mixtures 1 and 4: [H+] rises 10 times (1.7 x 10^-5 -> 1.7 x 10^-4), the rate is virtually unchanged (5.13 x 10^-3 -> 4.90 x 10^-3), so zero order."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-38.jpg",
       "papers/chemistry/img/11-Kinetics-A2-39.jpg",
       "papers/chemistry/img/11-Kinetics-A2-40.jpg",
       "papers/chemistry/img/11-Kinetics-A2-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q37.jpg"
+     ]
     },
     {
      "id": "Ch11-Q37(b)(ii)",
@@ -49684,16 +50421,21 @@ window.BANK.chemistry = {
       "rate constant"
      ],
      "question": "Write the overall rate equation for Reaction 1 using the orders from (b)(i).",
-     "status": "pending",
-     "answer": "Depends on the orders from (b)(i), which need the PDF table",
-     "steps": [],
+     "status": "ready",
+     "answer": "rate = k[H2O2][I-]",
+     "steps": [
+      "First order in H2O2, first order in I-, zero order in H+ (so H+ is left out).",
+      "rate = k[H2O2][I-]."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-38.jpg",
       "papers/chemistry/img/11-Kinetics-A2-39.jpg",
       "papers/chemistry/img/11-Kinetics-A2-40.jpg",
       "papers/chemistry/img/11-Kinetics-A2-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q37.jpg"
+     ]
     },
     {
      "id": "Ch11-Q37(b)(iii)",
@@ -49738,16 +50480,22 @@ window.BANK.chemistry = {
       "mol dm-3 s-1"
      ],
      "question": "Using the iodine amount from (b)(iii), the stoichiometry of Reaction 1 and data from Mixture 1 (total volume 0.050 dm3), calculate the rate with respect to H2O2 in mol dm-3 s-1.",
-     "status": "pending",
-     "answer": "Needs the time for Mixture 1 from the PDF table; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "rate = 4.4 x 10^-6 mol dm-3 s-1",
+     "steps": [
+      "Amount of I2 formed in Reaction 1 in the time = 4.25 x 10^-5 mol; Reaction 1 gives 1 mol I2 per 1 mol H2O2, so 4.25 x 10^-5 mol H2O2 reacted.",
+      "Change in [H2O2] = 4.25 x 10^-5 / 0.050 = 8.5 x 10^-4 mol dm-3.",
+      "Time for Mixture 1 = 195 s, so rate = 8.5 x 10^-4 / 195 = 4.4 x 10^-6 mol dm-3 s-1 (4.36 x 10^-6 unrounded)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-38.jpg",
       "papers/chemistry/img/11-Kinetics-A2-39.jpg",
       "papers/chemistry/img/11-Kinetics-A2-40.jpg",
       "papers/chemistry/img/11-Kinetics-A2-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q37.jpg"
+     ]
     },
     {
      "id": "Ch11-Q37(b)(v)",
@@ -49763,16 +50511,22 @@ window.BANK.chemistry = {
       "hydrogen peroxide"
      ],
      "question": "Calculate the rate constant of Reaction 1 using data from Mixture 1 and your answers to (b)(ii) and (b)(iv), with units.",
-     "status": "pending",
-     "answer": "Depends on (b)(ii) and (b)(iv), which need the PDF table",
-     "steps": [],
+     "status": "ready",
+     "answer": "k = 9.8 x 10^-3 dm3 mol-1 s-1",
+     "steps": [
+      "k = rate / ([H2O2][I-]) with Mixture 1 values: [H2O2] = 5.4 x 10^-2 and [I-] = 8.2 x 10^-3 mol dm-3.",
+      "k = 4.36 x 10^-6 / (5.4 x 10^-2 x 8.2 x 10^-3) = 4.36 x 10^-6 / 4.43 x 10^-4 = 9.8 x 10^-3.",
+      "Units = (mol dm-3 s-1) / (mol dm-3)^2 = dm3 mol-1 s-1."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-38.jpg",
       "papers/chemistry/img/11-Kinetics-A2-39.jpg",
       "papers/chemistry/img/11-Kinetics-A2-40.jpg",
       "papers/chemistry/img/11-Kinetics-A2-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q37.jpg"
+     ]
     },
     {
      "id": "Ch11-Q37(c)(i)",
@@ -49788,16 +50542,22 @@ window.BANK.chemistry = {
       "clock reaction"
      ],
      "question": "Plot ln rate against 1/T, correcting for the thermometer misreading, and determine Ea in kJ mol-1 for Reaction 1.",
-     "status": "pending",
-     "answer": "Needs the temperature and rate data and the axes from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Ea = about +58 kJ mol-1 (accept 54-61 kJ mol-1), found after leaving out the misread point (T = 307 K)",
+     "steps": [
+      "Plot ln rate (y axis) against 1/T (x axis); the points at 1/T = 0.00300, 0.00310, 0.00325, 0.00343 and 0.00360 lie on a straight line, but the point (0.00326, -4.0) for 307 K is off the line (it should lie close to the 308 K point, but is much lower), so it is the misread one: leave it out of the best-fit line.",
+      "Gradient of the best-fit line = (-6.0 - (-1.8)) / (0.00360 - 0.00300) = -4.2 / 0.00060 = -7.0 x 10^3 K.",
+      "Ea = -gradient x R = 7.0 x 10^3 x 8.31 = 5.8 x 10^4 J mol-1, i.e. about +58 kJ mol-1 (a least-squares fit through the five points gives 57.5 kJ mol-1)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-38.jpg",
       "papers/chemistry/img/11-Kinetics-A2-39.jpg",
       "papers/chemistry/img/11-Kinetics-A2-40.jpg",
       "papers/chemistry/img/11-Kinetics-A2-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q37-2.jpg"
+     ]
     },
     {
      "id": "Ch11-Q37(c)(ii)",
@@ -49812,16 +50572,22 @@ window.BANK.chemistry = {
       "1/T"
      ],
      "question": "Use your graph to deduce the temperature the student who made the error should have read.",
-     "status": "pending",
-     "answer": "Needs the graph from (c)(i), which is not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "about 302 K (accept 300-304 K), so the student read 307 K in error",
+     "steps": [
+      "The anomalous point has ln rate = -4.0.",
+      "On the best-fit line, ln rate = -4.0 corresponds to 1/T = 3.32 x 10^-3 K-1.",
+      "T = 1 / 3.32 x 10^-3 = 302 K, so the thermometer should have read about 302 K rather than 307 K."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-38.jpg",
       "papers/chemistry/img/11-Kinetics-A2-39.jpg",
       "papers/chemistry/img/11-Kinetics-A2-40.jpg",
       "papers/chemistry/img/11-Kinetics-A2-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q37-2.jpg"
+     ]
     },
     {
      "id": "Ch11-Q38(a)(i)",
@@ -49837,15 +50603,21 @@ window.BANK.chemistry = {
       "1000 K"
      ],
      "question": "Calculate the initial rate of reaction for CH3CHO decomposition at 1000 K from its concentration-time graph, showing working on the graph.",
-     "status": "pending",
-     "answer": "Needs the concentration-time graph from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "initial rate = 1.6 x 10^-4 mol dm-3 s-1 (accept 1.5-1.7 x 10^-4)",
+     "steps": [
+      "Draw a tangent to the curve at t = 0 (where [CH3CHO] = 0.60 mol dm-3) and find its gradient.",
+      "The tangent runs from (0, 0.60) to about (62 min, 0): gradient = -0.60 / 62 = -9.7 x 10^-3 mol dm-3 min-1.",
+      "Initial rate = 9.7 x 10^-3 / 60 = 1.6 x 10^-4 mol dm-3 s-1 (convert minutes to seconds)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-41.jpg",
       "papers/chemistry/img/11-Kinetics-A2-42.jpg",
       "papers/chemistry/img/11-Kinetics-A2-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q38.jpg"
+     ]
     },
     {
      "id": "Ch11-Q38(a)(ii)",
@@ -49861,15 +50633,21 @@ window.BANK.chemistry = {
       "decomposition"
      ],
      "question": "Deduce the rate equation at 1000 K by determining two half-lives, showing working on the graph.",
-     "status": "pending",
-     "answer": "Needs the concentration-time graph from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "rate = k[CH3CHO] (first order), because successive half-lives are constant at about 43 min",
+     "steps": [
+      "First half-life: 0.60 -> 0.30 mol dm-3 takes about 43 min (read at 0.30 on the curve).",
+      "Second half-life: 0.40 -> 0.20 mol dm-3 takes the curve from about 25 min to about 68 min, i.e. 43 min again (0.50 -> 0.25 also gives about 43 min).",
+      "Equal half-lives show the reaction is first order in CH3CHO: rate = k[CH3CHO]."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-41.jpg",
       "papers/chemistry/img/11-Kinetics-A2-42.jpg",
       "papers/chemistry/img/11-Kinetics-A2-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q38.jpg"
+     ]
     },
     {
      "id": "Ch11-Q38(b)",
@@ -49885,15 +50663,21 @@ window.BANK.chemistry = {
       "kJ mol-1"
      ],
      "question": "From the graph of ln k against 1/T for CH3CHO decomposition between 1000 K and 1700 K, determine Ea to three significant figures with units.",
-     "status": "pending",
-     "answer": "Needs the plotted graph from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Ea = +355 kJ mol-1 (3 s.f.; accept 345-365)",
+     "steps": [
+      "ln k = -(Ea/R)(1/T) + constant, so the gradient of the line = -Ea/R.",
+      "Read two far-apart points on the line, e.g. (0.000587, 9.4) and (0.00100, -8.3): gradient = (-8.3 - 9.4) / (0.00100 - 0.000587) = -17.7 / 0.000413 = -4.27 x 10^4 K.",
+      "Ea = 4.27 x 10^4 x 8.31 = 3.55 x 10^5 J mol-1 = +355 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-41.jpg",
       "papers/chemistry/img/11-Kinetics-A2-42.jpg",
       "papers/chemistry/img/11-Kinetics-A2-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q38-2.jpg"
+     ]
     },
     {
      "id": "Ch11-Q39",
@@ -49997,15 +50781,21 @@ window.BANK.chemistry = {
       "plot"
      ],
      "question": "Plot a graph of reaction rate (reciprocal of time) against volume of hydrogen peroxide using the table.",
-     "status": "pending",
-     "answer": "Needs the results table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Graph of rate (y axis, 10^-2 s-1) against volume of H2O2 (x axis, cm3): a straight line through the origin",
+     "steps": [
+      "Axes: x = volume of H2O2 / cm3 (0 to 50), y = reaction rate / 10^-2 s-1 (0 to 5); use more than half the grid.",
+      "Plot (10, 0.9), (20, 1.8), (30, 2.5), (40, 3.7), (50, 4.6) (all x 10^-2 s-1).",
+      "Draw a ruled straight best-fit line through the origin passing close to all the points (the point at 30 cm3 lies slightly below the line)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-44.jpg",
       "papers/chemistry/img/11-Kinetics-A2-45.jpg",
       "papers/chemistry/img/11-Kinetics-A2-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q40.jpg"
+     ]
     },
     {
      "id": "Ch11-Q40(b)(iii)",
@@ -50020,15 +50810,20 @@ window.BANK.chemistry = {
       "justify"
      ],
      "question": "State and justify the order with respect to hydrogen peroxide from your graph of rate against volume.",
-     "status": "pending",
-     "answer": "Depends on the graph from (b)(ii), which needs the PDF table",
-     "steps": [],
+     "status": "ready",
+     "answer": "First order with respect to H2O2, because the graph is a straight line through the origin",
+     "steps": [
+      "Rate is directly proportional to the volume of H2O2, and the volume is proportional to its concentration (assuming the total volume is kept constant with water).",
+      "Doubling the volume doubles the rate (0.9 -> 1.8 x 10^-2 for 10 -> 20 cm3), so the order is 1."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-44.jpg",
       "papers/chemistry/img/11-Kinetics-A2-45.jpg",
       "papers/chemistry/img/11-Kinetics-A2-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q40.jpg"
+     ]
     },
     {
      "id": "Ch11-Q40(c)(i)",
@@ -50044,15 +50839,21 @@ window.BANK.chemistry = {
       "two significant figures"
      ],
      "question": "Using the tangent shown on the graph of the Mg and sulfuric acid reaction at 80 C, calculate the rate at 15 seconds to two significant figures with units.",
-     "status": "pending",
-     "answer": "Needs the graph and tangent from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "rate = 1.8 cm3 s-1",
+     "steps": [
+      "Rate = gradient of the tangent at t = 15 s.",
+      "The tangent passes through about (0, 15) and (33, 74): gradient = (74 - 15) / (33 - 0) = 59 / 33 = 1.8.",
+      "Units: cm3 s-1 (volume of hydrogen per second)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-44.jpg",
       "papers/chemistry/img/11-Kinetics-A2-45.jpg",
       "papers/chemistry/img/11-Kinetics-A2-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q40-2.jpg"
+     ]
     },
     {
      "id": "Ch11-Q40(c)(ii)",
@@ -50068,15 +50869,21 @@ window.BANK.chemistry = {
       "continuous monitoring"
      ],
      "question": "The temperature is changed to 75 C. Draw on the graph the expected line if this were the only change, and justify similarities and differences.",
-     "status": "pending",
-     "answer": "Requires drawing on the graph from the PDF; cannot be checked from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A curve starting at the origin, less steep than the 80 C curve and reaching the same final volume (70 cm3) later",
+     "steps": [
+      "Same start point (0, 0) and same final volume of about 70 cm3, because the amounts of reagents are unchanged.",
+      "The curve is less steep at the start and lies below the 80 C curve, so it levels off at 70 cm3 later (after more than 60 s).",
+      "Justification: at lower temperature fewer particles have energy >= Ea, so fewer collisions are successful per second and the rate (gradient) is lower; the amount of product depends on the limiting reagent, not on the temperature."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-44.jpg",
       "papers/chemistry/img/11-Kinetics-A2-45.jpg",
       "papers/chemistry/img/11-Kinetics-A2-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q40-2.jpg"
+     ]
     },
     {
      "id": "Ch11-Q41",
@@ -50091,14 +50898,20 @@ window.BANK.chemistry = {
       "minutes"
      ],
      "question": "A graph of the concentration of Q during decomposition is shown. What is the half-life? Options: A 93 min, B 132 min, C 146 min, D 291 min.",
-     "status": "pending",
-     "answer": "Needs the concentration-time graph from the PDF to be checked; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 132 minutes",
+     "steps": [
+      "The initial concentration is 9.0 x 10^-3 mol dm-3, so one half-life is reached when [Q] = 4.5 x 10^-3.",
+      "On the curve, 4.5 x 10^-3 is reached at about 132 min.",
+      "Check: 4.5 -> 2.25 x 10^-3 takes a similar time (about 130 min), so the half-life is constant."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-46.jpg",
       "papers/chemistry/img/11-Kinetics-A2-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q41.jpg"
+     ]
     },
     {
      "id": "Ch11-Q42",
@@ -50253,15 +51066,21 @@ window.BANK.chemistry = {
       "hydrogen peroxide decomposition"
      ],
      "question": "Plot a graph of the volume of potassium manganate(VII) solution against time using the table of results.",
-     "status": "pending",
-     "answer": "Needs the results table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Graph of volume of KMnO4 (y axis, 0 to 35 cm3) against time (x axis, 0 to 30 min): a smooth downward curve that gets less steep",
+     "steps": [
+      "Axes: x = time / min (0 to 30), y = volume of manganate(VII) / cm3 (0 to 35), using more than half of the grid in each direction.",
+      "Plot (0, 32.5), (5, 24.8), (10, 18.9), (15, 13.9), (20, 10.5), (25, 8.1), (30, 6.5).",
+      "Join with one smooth curve (an exponential decay shape, steepest at the start)."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-49.jpg",
       "papers/chemistry/img/11-Kinetics-A2-50.jpg",
       "papers/chemistry/img/11-Kinetics-A2-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q45.jpg"
+     ]
     },
     {
      "id": "Ch11-Q45(a)(iv)",
@@ -50277,15 +51096,22 @@ window.BANK.chemistry = {
       "working on graph"
      ],
      "question": "Use your graph to show the reaction is first order with respect to hydrogen peroxide, showing working on the graph.",
-     "status": "pending",
-     "answer": "Needs the graph from (a)(iii), which depends on the PDF table",
-     "steps": [],
+     "status": "ready",
+     "answer": "Constant half-life of about 12 min (accept 11.5-13 min) shows first order",
+     "steps": [
+      "Volume of manganate(VII) is proportional to [H2O2] in the sample, so a halving of volume is a halving of concentration.",
+      "From 32.5 cm3 to 16.25 cm3 takes about 12.5 min (t = 0 to about 12.5 min) on the curve; show the construction lines on the graph.",
+      "From 24.8 to 12.4 cm3 (t = 5 to about 17.5 min) is also about 12 min, and 18.9 to 9.45 cm3 (t = 10 to about 22 min) is about 12 min.",
+      "Successive half-lives are constant, so the reaction is first order with respect to hydrogen peroxide."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-49.jpg",
       "papers/chemistry/img/11-Kinetics-A2-50.jpg",
       "papers/chemistry/img/11-Kinetics-A2-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q45.jpg"
+     ]
     },
     {
      "id": "Ch11-Q45(b)",
@@ -50301,15 +51127,20 @@ window.BANK.chemistry = {
       "hydrogen peroxide"
      ],
      "question": "Two possible mechanisms are proposed by students. Explain whether or not they are consistent with the reaction being first order. The mechanism diagrams are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the two proposed mechanisms from the PDF to be checked; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Mechanism 2 is consistent with first order; Mechanism 1 is not",
+     "steps": [
+      "Mechanism 1: the slow step involves two H2O2 molecules (2H2O2 -> [H4O4]), so rate = k[H2O2]^2, which is second order, so it does not fit the experiment.",
+      "Mechanism 2: the slow step is H2O2 -> 2OH, involving one H2O2 molecule, so rate = k[H2O2], first order, which agrees with the experimental result."
+     ],
      "images": [
       "papers/chemistry/img/11-Kinetics-A2-49.jpg",
       "papers/chemistry/img/11-Kinetics-A2-50.jpg",
       "papers/chemistry/img/11-Kinetics-A2-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q45-2.jpg"
+     ]
     }
    ]
   },
@@ -50362,13 +51193,19 @@ window.BANK.chemistry = {
       "true statement"
      ],
      "question": "The equation for an exothermic reaction is shown, and the question asks which of the options is true. The equation and options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Equation and options are missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: delta S surroundings is positive",
+     "steps": [
+      "The reaction is exothermic, so delta H is negative (A is false).",
+      "Heat released to the surroundings gives delta S surroundings = -delta H / T, which is positive (B is true).",
+      "A gas (H2) is produced from solid and aqueous reactants, so delta S system is positive (C is false), and the total entropy change is positive for a feasible reaction (D is false)."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-01.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q2.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q3(a)",
@@ -50384,16 +51221,22 @@ window.BANK.chemistry = {
       "surroundings"
      ],
      "question": "Potassium bromate(V) decomposes to potassium bromide and oxygen. Using the standard molar entropies in the table, calculate the total entropy change, Stotal, at 298 K.",
-     "status": "pending",
-     "answer": "Needs the standard entropy table and the enthalpy change from the PDF; the table is missing from the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "+734 J K-1 mol-1",
+     "steps": [
+      "Delta S system = (2 x 95.9 + 3 x 205.0) - (2 x 149.2) = 191.8 + 615.0 - 298.4 = +508.4 J K-1 mol-1.",
+      "Delta S surroundings = -delta H / T = -(-67 200 J mol-1) / 298 K = +225.5 J K-1 mol-1 (convert kJ to J).",
+      "Delta S total = 508.4 + 225.5 = +733.9, which is +734 J K-1 mol-1 (3 s.f.); it is positive, so the decomposition is feasible."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-02.jpg",
       "papers/chemistry/img/12A-Entropy-03.jpg",
       "papers/chemistry/img/12A-Entropy-04.jpg",
       "papers/chemistry/img/12A-Entropy-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q3.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q3(b)(i)",
@@ -50409,16 +51252,23 @@ window.BANK.chemistry = {
       "acidic solution"
      ],
      "question": "Using the graph of Br- concentration against time (bromate(V) and H+ in large excess), determine the order with respect to bromide ions, showing working on the graph.",
-     "status": "pending",
-     "answer": "Needs the concentration-time graph from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "First order with respect to bromide ions",
+     "steps": [
+      "The curve is an exponential decay, so a constant half-life shows a first-order reaction.",
+      "Draw lines on the graph: [Br-] falls from 0.10 to 0.05 mol dm-3 in about 200 s, then from 0.05 to 0.025 in a further 200 s (at about 400 s), and from 0.025 to 0.0125 in another 200 s (at about 600 s).",
+      "The half-life is constant (about 200 s), so the order with respect to Br- is 1."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-02.jpg",
       "papers/chemistry/img/12A-Entropy-03.jpg",
       "papers/chemistry/img/12A-Entropy-04.jpg",
       "papers/chemistry/img/12A-Entropy-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q3-2.jpg",
+      "papers/chemistry/fig/12A-Entropy-Q3-3.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q3(b)(ii)",
@@ -50434,16 +51284,23 @@ window.BANK.chemistry = {
       "bromide excess"
      ],
      "question": "In Experiment 2, the initial concentrations of bromate(V) and H+ are changed while Br- is in large excess. Determine the order with respect to bromate(V) and H+, explaining your working.",
-     "status": "pending",
-     "answer": "Needs the initial-rate data from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "BrO3- is first order and H+ is second order",
+     "steps": [
+      "Runs 1 and 2: [BrO3-] doubles from 0.1 to 0.2 with [H+] constant, and the rate doubles (3.6 x 10^-3 to 7.2 x 10^-3), so the reaction is first order in BrO3-.",
+      "Run 3 compared with run 1: [BrO3-] is x3 and [H+] is x2, and the rate rises by 4.3 x 10^-2 / 3.6 x 10^-3 = 12 = 3 x 4.",
+      "The factor of 3 comes from BrO3-, so the remaining factor of 4 comes from doubling [H+], meaning the order with respect to H+ is 2."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-02.jpg",
       "papers/chemistry/img/12A-Entropy-03.jpg",
       "papers/chemistry/img/12A-Entropy-04.jpg",
       "papers/chemistry/img/12A-Entropy-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q3-2.jpg",
+      "papers/chemistry/fig/12A-Entropy-Q3-4.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q3(b)(iii)",
@@ -50458,16 +51315,21 @@ window.BANK.chemistry = {
       "hydrogen ions"
      ],
      "question": "Give the overall rate equation for the reaction and include the units of the rate constant.",
-     "status": "pending",
-     "answer": "Depends on the orders from (b)(i) and (b)(ii), which need the PDF data",
-     "steps": [],
+     "status": "ready",
+     "answer": "Rate = k[Br-][BrO3-][H+]^2; units of k: dm9 mol-3 s-1",
+     "steps": [
+      "Orders: Br- first order, BrO3- first order, H+ second order, so rate = k[Br-][BrO3-][H+]^2 (overall order 4).",
+      "k = rate / ([Br-][BrO3-][H+]^2), so the units are (mol dm-3 s-1) / (mol dm-3)^4 = dm9 mol-3 s-1."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-02.jpg",
       "papers/chemistry/img/12A-Entropy-03.jpg",
       "papers/chemistry/img/12A-Entropy-04.jpg",
       "papers/chemistry/img/12A-Entropy-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q3-2.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q3(c)",
@@ -50484,16 +51346,23 @@ window.BANK.chemistry = {
       "R = 8.31"
      ],
      "question": "The rate constant for the reaction between a bromoalkane and cyanide ions is measured at five temperatures. Plot ln k against 1/T and use it to determine the activation energy, including the sign and units of the gradient. R = 8.31 J mol-1 K-1.",
-     "status": "pending",
-     "answer": "Needs the five data points from the PDF table; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Gradient is about -1.3 x 10^4 K, so Ea = +110 kJ mol-1 (about 1.1 x 10^2)",
+     "steps": [
+      "Plot ln k (y-axis) against 1/T (x-axis) using the five points (3.33 x 10^-3, -10.20), (3.23 x 10^-3, -8.92), (3.13 x 10^-3, -7.51), (3.03 x 10^-3, -6.21) and (2.93 x 10^-3, -4.93); label both axes and draw a straight line of best fit. The points lie on a line with a negative slope.",
+      "Gradient = change in ln k / change in 1/T = (-4.93 - (-10.20)) / (2.93 x 10^-3 - 3.33 x 10^-3) = 5.27 / (-4.0 x 10^-4) = -1.3 x 10^4 K (negative, in K).",
+      "From ln k = -Ea/R x 1/T + constant, the gradient = -Ea/R.",
+      "Ea = -gradient x R = 1.3 x 10^4 K x 8.31 J mol-1 K-1 = 1.1 x 10^5 J mol-1 = +110 kJ mol-1 (positive; give 2 s.f. as the line is read from a graph)."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-02.jpg",
       "papers/chemistry/img/12A-Entropy-03.jpg",
       "papers/chemistry/img/12A-Entropy-04.jpg",
       "papers/chemistry/img/12A-Entropy-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q3-5.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q4",
@@ -50509,14 +51378,20 @@ window.BANK.chemistry = {
       "reactions P Q R S"
      ],
      "question": "The entropy changes of the surroundings and of the system are given for four reactions P, Q, R and S. Which are thermodynamically feasible? Options: A P only, B P and Q only, C R only, D R and S only.",
-     "status": "pending",
-     "answer": "The table of entropy values for P, Q, R and S is missing from the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: reactions P and Q only",
+     "steps": [
+      "A reaction is feasible if delta S total = delta S surroundings + delta S system is positive.",
+      "P: +245 + 34 = +279 (feasible). Q: +350 - 276 = +74 (feasible).",
+      "R: -482 + 65 = -417 and S: -563 - 128 = -691 are both negative, so not feasible."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-05.jpg",
       "papers/chemistry/img/12A-Entropy-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q4.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q5",
@@ -50533,13 +51408,18 @@ window.BANK.chemistry = {
       "cement"
      ],
      "question": "For CaCO3(s) -> CaO(s) + CO2(g), deltaH = +178 kJ mol-1, what are the signs of deltaS system and deltaS surroundings? The option list is not in the extracted text.",
-     "status": "pending",
-     "answer": "Options are missing from the extracted text; expected answer is system positive and surroundings negative, check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: delta S system positive and delta S surroundings negative",
+     "steps": [
+      "The reaction makes a gas (CO2) from solids, so the disorder increases and delta S system is positive.",
+      "The reaction is endothermic (delta H = +178 kJ mol-1), so delta S surroundings = -delta H / T is negative."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q5.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q6",
@@ -50723,13 +51603,18 @@ window.BANK.chemistry = {
       "standard molar entropy"
      ],
      "question": "Which sequence shows the elements in order of increasing standard entropy? The four options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Options are missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Os(s) < Hg(l) < He(g) < O2(g)",
+     "steps": [
+      "Entropy increases from solid to liquid to gas, so Os(s) is lowest, then Hg(l), then the two gases.",
+      "Of the two gases, O2 is a diatomic molecule with more ways of storing energy and a higher standard entropy (205 J K-1 mol-1) than monatomic He (126 J K-1 mol-1), so He < O2."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q12.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q13",
@@ -50774,14 +51659,20 @@ window.BANK.chemistry = {
       "tap opened"
      ],
      "question": "Flask P contains argon and flask Q is a vacuum; the tap is opened and the argon fills both flasks. How do the entropy and energy of the system change? The option list is not in the extracted text.",
-     "status": "pending",
-     "answer": "Options are missing from the extracted text; expected answer is entropy increases and energy stays the same, check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: entropy increases and energy is unchanged",
+     "steps": [
+      "The argon spreads into twice the volume, so there are more ways of arranging the atoms and the entropy of the system increases.",
+      "Argon is treated as an ideal gas with no intermolecular forces and no work is done against a vacuum, so the total energy of the gas stays the same."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-10.jpg",
       "papers/chemistry/img/12A-Entropy-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q14.jpg",
+      "papers/chemistry/fig/12A-Entropy-Q14-2.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q15",
@@ -50796,14 +51687,20 @@ window.BANK.chemistry = {
       "entropy of substance"
      ],
      "question": "Which graph shows the entropy of a substance as it changes state from solid to liquid to gas? The four graphs are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the four graphs from the PDF to be checked; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Graph 4",
+     "steps": [
+      "Entropy rises gradually as the temperature rises within each state, so the lines must slope upwards (Graphs 1 and 2 show flat lines, which is wrong).",
+      "There is a sudden jump in entropy at each change of state, and the jump at boiling (liquid to gas) is much larger than at melting (solid to liquid), because a gas is far more disordered.",
+      "Graph 3 has the larger jump at the first change of state, so only Graph 4 shows both features correctly."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-11.jpg",
       "papers/chemistry/img/12A-Entropy-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q15.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q16(a)(i)",
@@ -50819,15 +51716,21 @@ window.BANK.chemistry = {
       "2N2O"
      ],
      "question": "Nitrous oxide, N2O, decomposes to nitrogen and oxygen. Using the standard molecular entropy data (table not in the extracted text), calculate the standard entropy change of the system, with sign and units.",
-     "status": "pending",
-     "answer": "Needs the standard entropy table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "+74.5 J K-1 mol-1",
+     "steps": [
+      "Delta S system = sum S(products) - sum S(reactants) = [S(N2) + 1/2 S(O2)] - S(N2O).",
+      "= (192 + 0.5 x 205) - 220 = 192 + 102.5 - 220.",
+      "= +74.5 J K-1 mol-1 (positive because 1.5 mol of gas forms from 1 mol)."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-12.jpg",
       "papers/chemistry/img/12A-Entropy-13.jpg",
       "papers/chemistry/img/12A-Entropy-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q16.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q16(a)(ii)",
@@ -50872,15 +51775,21 @@ window.BANK.chemistry = {
       "sign and units"
      ],
      "question": "Calculate the total entropy change of the reaction at 2048 K, with sign and units, using your answers to (a)(i) and (a)(ii).",
-     "status": "pending",
-     "answer": "Depends on the system entropy change from (a)(i), which needs the PDF table",
-     "steps": [],
+     "status": "ready",
+     "answer": "+114.5 J K-1 mol-1",
+     "steps": [
+      "Delta S total = delta S system + delta S surroundings.",
+      "= +74.5 + 40.0 (from (a)(ii)) = +114.5 J K-1 mol-1.",
+      "The value is positive, so the decomposition is thermodynamically feasible."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-12.jpg",
       "papers/chemistry/img/12A-Entropy-13.jpg",
       "papers/chemistry/img/12A-Entropy-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q16.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q16(b)",
@@ -50896,15 +51805,22 @@ window.BANK.chemistry = {
       "Arrhenius"
      ],
      "question": "From the rate graph for the decomposition of nitrous oxide, calculate the activation energy in kJ mol-1, including the value of the gradient.",
-     "status": "pending",
-     "answer": "Needs the graph from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Gradient about -2.9 x 10^4 K, so Ea about +2.4 x 10^2 kJ mol-1 (240 kJ mol-1)",
+     "steps": [
+      "Draw a large right-angled triangle on the line: for example from (0.00646, -189.1) to (0.00672, -196.6).",
+      "Gradient = change in ln k / change in 1/T = (-196.6 - (-189.1)) / (0.00672 - 0.00646) = -7.5 / 0.00026 = about -2.9 x 10^4 K.",
+      "Gradient = -Ea / R, so Ea = -(-2.9 x 10^4) x 8.31 = 2.4 x 10^5 J mol-1.",
+      "Ea = about +240 kJ mol-1 (accept a range for graph reading, about 230 to 250)."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-12.jpg",
       "papers/chemistry/img/12A-Entropy-13.jpg",
       "papers/chemistry/img/12A-Entropy-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q16-2.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q16(c)",
@@ -50920,15 +51836,21 @@ window.BANK.chemistry = {
       "2048 K"
      ],
      "question": "Explain whether or not this reaction occurs at 2048 K, considering the values calculated in (a) and (b).",
-     "status": "pending",
-     "answer": "Depends on the values from (a)(iii) and (b), which need the PDF data",
-     "steps": [],
+     "status": "ready",
+     "answer": "The reaction does occur at 2048 K: delta S total is positive (+114.5 J K-1 mol-1) so it is thermodynamically feasible, and at this very high temperature enough molecules exceed the large activation energy (about 240 kJ mol-1) for the rate to be significant.",
+     "steps": [
+      "Feasibility: delta S total from (a)(iii) is positive (+114.5 J K-1 mol-1), so the decomposition is thermodynamically feasible.",
+      "Kinetics: the activation energy is high (about 240 kJ mol-1), but the temperature is very high (2048 K), so a large fraction of molecules have energy greater than Ea and the rate is fast enough.",
+      "Both conditions are met, so the reaction occurs."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-12.jpg",
       "papers/chemistry/img/12A-Entropy-13.jpg",
       "papers/chemistry/img/12A-Entropy-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q16-2.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q17(a)",
@@ -50973,14 +51895,21 @@ window.BANK.chemistry = {
       "kJ mol-1"
      ],
      "question": "Using the table of rate constants at two temperatures, calculate Ea by a non-graphical method, giving the answer in kJ mol-1 with a sign and an appropriate number of significant figures.",
-     "status": "pending",
-     "answer": "Needs the table of rate constants and temperatures from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "+56.0 kJ mol-1",
+     "steps": [
+      "Convert to kelvin: T1 = 22.0 + 273 = 295 K and T2 = 47.0 + 273 = 320 K.",
+      "Write ln k at each temperature: ln k1 = -Ea/(R x 295) + c and ln k2 = -Ea/(R x 320) + c; subtract: ln(k2/k1) = (Ea/R)(1/T1 - 1/T2).",
+      "ln(2.92 x 10^-3 / 4.90 x 10^-4) = 1.785, and 1/295 - 1/320 = 2.648 x 10^-4 K-1.",
+      "Ea = 8.31 x 1.785 / 2.648 x 10^-4 = 5.60 x 10^4 J mol-1 = +56.0 kJ mol-1 (3 s.f., positive)."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-14.jpg",
       "papers/chemistry/img/12A-Entropy-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q17.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q17(c)(i)",
@@ -51080,15 +52009,21 @@ window.BANK.chemistry = {
       "allotropes"
      ],
      "question": "Rhombic and monoclinic sulfur are interchangeable solid forms. The value of deltaStotal is given for the forward reaction. What can be concluded? The direction of the forward reaction is shown in a diagram not in the extracted text.",
-     "status": "pending",
-     "answer": "The forward reaction direction is in a diagram not in the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: monoclinic sulfur could change into rhombic sulfur but nothing can be deduced about the rate",
+     "steps": [
+      "Delta S total for the forward reaction (rhombic to monoclinic) is negative, so that direction is not feasible.",
+      "The reverse reaction (monoclinic to rhombic) therefore has a positive delta S total, so it is feasible.",
+      "Thermodynamics says nothing about the rate (the activation energy could be high), so nothing can be said about how quickly it happens."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-16.jpg",
       "papers/chemistry/img/12A-Entropy-17.jpg",
       "papers/chemistry/img/12A-Entropy-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q19.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q20(a)(i)",
@@ -51105,15 +52040,21 @@ window.BANK.chemistry = {
       "table"
      ],
      "question": "For SiO2(s) + 4Mg(s) -> Mg2Si(s) + 2MgO(s), complete the table indicating the type of bonding in the reactants and products.",
-     "status": "pending",
-     "answer": "The table is missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "SiO2: giant covalent (macromolecular); Mg: metallic; Mg2Si: covalent (given); MgO: ionic",
+     "steps": [
+      "SiO2 is a giant lattice of covalently bonded Si and O atoms.",
+      "Mg is a metal, so it has metallic bonding.",
+      "MgO is a compound of a metal and a non-metal, so it is ionic (Mg2+ and O2-)."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-16.jpg",
       "papers/chemistry/img/12A-Entropy-17.jpg",
       "papers/chemistry/img/12A-Entropy-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q20.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q20(a)(ii)",
@@ -51303,15 +52244,22 @@ window.BANK.chemistry = {
       "J K-1 mol-1"
      ],
      "question": "Calculate the entropy change of the system, in J K-1 mol-1, for SiH4(g) + 2O2(g) -> SiO2(s) + 2H2O(l), using the entropy data shown.",
-     "status": "pending",
-     "answer": "Needs the entropy data table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "-432.9 J K-1 mol-1",
+     "steps": [
+      "Reaction 2: SiH4(g) + 2O2(g) -> SiO2(s) + 2H2O(l).",
+      "Sum S(products) = 41.8 + 2 x 69.9 = 181.6 J K-1 mol-1.",
+      "Sum S(reactants) = 204.5 + 2 x 205.0 = 614.5 J K-1 mol-1.",
+      "Delta S system = 181.6 - 614.5 = -432.9 J K-1 mol-1 (negative because 3 mol of gas become liquid and solid)."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-16.jpg",
       "papers/chemistry/img/12A-Entropy-17.jpg",
       "papers/chemistry/img/12A-Entropy-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q20-2.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q20(c)(ii)",
@@ -51355,14 +52303,21 @@ window.BANK.chemistry = {
       "system"
      ],
      "question": "The equations for three reactions involving hydrogen (J, K, L) are shown in a diagram not in the extracted text. What is the order of increasing standard entropy change of the system? Options: A J, K, L; B K, L, J; C K, J, L; D L, K, J.",
-     "status": "pending",
-     "answer": "The three equations are in a diagram not in the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: K, J, L",
+     "steps": [
+      "Count the change in moles of gas: J goes from 4 mol of gas to 2 mol of gas (decrease of 2 mol of gas).",
+      "K goes from 3 mol of gas to 0 mol of gas (a liquid forms), the largest decrease in disorder, so it has the most negative delta S.",
+      "L goes from 1 mol of gas (plus a solid) to 2 mol of gas, so the entropy increases and delta S is positive.",
+      "Increasing order of delta S system: K (most negative), then J, then L."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-18.jpg",
       "papers/chemistry/img/12A-Entropy-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q21.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q22",
@@ -51378,14 +52333,19 @@ window.BANK.chemistry = {
       "signs"
      ],
      "question": "What are the signs of the entropy changes at 373 K when water vapour condenses? The option list is not in the extracted text.",
-     "status": "pending",
-     "answer": "Options are missing from the extracted text; expected answer is system negative and surroundings positive, check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: delta S system negative, delta S surroundings positive",
+     "steps": [
+      "Gas condensing to liquid becomes more ordered, so delta S system is negative.",
+      "Condensation releases heat (it is exothermic) to the surroundings, so delta S surroundings = -delta H / T is positive."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-19.jpg",
       "papers/chemistry/img/12A-Entropy-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q22.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q23",
@@ -51402,14 +52362,21 @@ window.BANK.chemistry = {
       "J K-1 mol-1"
      ],
      "question": "Methane reacts with steam to form carbon dioxide and hydrogen. Using the standard molar entropies in the table (not in the extracted text), find the entropy change for the reaction. Options: A -174, B -30, C +30, D +174.",
-     "status": "pending",
-     "answer": "The standard molar entropy table is missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: +174 J K-1 mol-1",
+     "steps": [
+      "Delta S = sum S(products) - sum S(reactants).",
+      "Products: 214 + 4 x 131 = 214 + 524 = 738 J K-1 mol-1.",
+      "Reactants: 186 + 2 x 189 = 186 + 378 = 564 J K-1 mol-1.",
+      "Delta S = 738 - 564 = +174 J K-1 mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-19.jpg",
       "papers/chemistry/img/12A-Entropy-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q23.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q24",
@@ -51424,14 +52391,21 @@ window.BANK.chemistry = {
       "reactions W X Y Z"
      ],
      "question": "Some thermodynamic information is given for four reactions W, X, Y and Z at 298 K. Which are feasible? Options: A X only, B W and X only, C Y only, D W and Z only.",
-     "status": "pending",
-     "answer": "The thermodynamic data table for W, X, Y and Z is missing from the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: W and X only",
+     "steps": [
+      "A reaction is feasible when delta S total > 0, which means T delta S system > delta H (delta G = delta H - T delta S system < 0).",
+      "W: delta H is negative and more negative than T delta S system, so delta H < T delta S system: feasible.",
+      "X: delta H negative and T delta S system positive: always feasible.",
+      "Y: T delta S system is positive but smaller than delta H, so T delta S system < delta H: not feasible. Z: delta H positive and T delta S system negative: never feasible."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-20.jpg",
       "papers/chemistry/img/12A-Entropy-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q24.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q25",
@@ -51447,14 +52421,20 @@ window.BANK.chemistry = {
       "pair of values"
      ],
      "question": "Which pair of values will always give a thermodynamically feasible reaction? The option list is not in the extracted text.",
-     "status": "pending",
-     "answer": "Options are missing from the extracted text; the expected pair is deltaH negative and deltaS positive, check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: entropy change of the system positive and enthalpy change negative",
+     "steps": [
+      "A reaction is feasible when delta S total = delta S system - delta H / T is positive.",
+      "If delta S system is positive and delta H is negative, both terms are positive, so delta S total is positive at every temperature.",
+      "The other combinations give a negative term that can outweigh the other at some temperatures."
+     ],
      "images": [
       "papers/chemistry/img/12A-Entropy-20.jpg",
       "papers/chemistry/img/12A-Entropy-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12A-Entropy-Q25.jpg"
+     ]
     },
     {
      "id": "Ch12A-Q26",
@@ -51533,15 +52513,23 @@ window.BANK.chemistry = {
       "enthalpy cycle"
      ],
      "question": "Complete the Born-Haber cycle for CaCl2 by writing the formulae, with state symbols and relevant electrons, on the horizontal lines. The cycle diagram is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the Born-Haber cycle diagram from the PDF to be checked; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Levels from the bottom up: Ca(s) + Cl2(g); Ca(g) + Cl2(g); Ca(g) + 2Cl(g); Ca+(g) + e- + 2Cl(g); Ca2+(g) + 2e- + 2Cl(g); then (right side) Ca2+(g) + 2Cl-(g)",
+     "steps": [
+      "DH2 (atomisation of Ca): the line above Ca(s) + Cl2(g) is Ca(g) + Cl2(g).",
+      "DH3 (atomisation of chlorine, 2 x +121.7): the next line is Ca(g) + 2Cl(g).",
+      "DH4 (first ionisation energy of Ca): the next line is Ca+(g) + e- + 2Cl(g).",
+      "DH5 (second ionisation energy of Ca): the top line is Ca2+(g) + 2e- + 2Cl(g).",
+      "DH6 is 2 x the electron affinity of Cl (down to Ca2+(g) + 2Cl-(g)); DH7 is the lattice energy; DH1 is the enthalpy change of formation."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-01.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-02.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q1-2.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q1(a)(ii)",
@@ -51557,15 +52545,22 @@ window.BANK.chemistry = {
       "CaCl2"
      ],
      "question": "Using the cycle and the table of values, calculate the second ionisation energy of calcium, including sign and units. The table values are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the energy values table and cycle from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "second ionisation energy of calcium = +1148 kJ mol-1",
+     "steps": [
+      "Hess's law: DH1 = DH2 + DH3 + DH4 + DH5 + DH6 + DH7.",
+      "-795.8 = (+178.2) + 2(+121.7) + (+590.0) + IE2 + 2(-348.8) + (-2258).",
+      "The known terms add to 178.2 + 243.4 + 590.0 - 697.6 - 2258 = -1944.0, so IE2 = -795.8 + 1944.0 = +1148.2 kJ mol-1 (about +1148 kJ mol-1, positive because it is endothermic)."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-01.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-02.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q1.jpg",
+      "papers/chemistry/fig/12B-Lattice-Energy-Q1-2.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q1(b)",
@@ -51623,7 +52618,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/12B-Lattice-Energy-02.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q1-4.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q1(d)",
@@ -51639,15 +52636,21 @@ window.BANK.chemistry = {
       "experimental lattice energy"
      ],
      "question": "Calculate the enthalpy change of solution of CaCl2 using the experimental lattice energy of -2258 kJ mol-1. The hydration enthalpies needed are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the hydration enthalpies of Ca2+ and Cl- from the PDF table; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "enthalpy change of solution of CaCl2 = -120 kJ mol-1",
+     "steps": [
+      "DsolH = -(lattice energy) + DhydH(Ca2+) + 2 x DhydH(Cl-).",
+      "= +2258 + (-1650) + 2(-364).",
+      "= 2258 - 1650 - 728 = -120 kJ mol-1 (exothermic)."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-01.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-02.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q1-3.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q2",
@@ -51663,14 +52666,19 @@ window.BANK.chemistry = {
       "solution"
      ],
      "question": "In a Born-Haber cycle for LiCl, what does the labelled energy change X represent? Options: A sum of hydration enthalpies of gaseous ions, B enthalpy change of formation of LiCl, C enthalpy change of solution of LiCl, D lattice energy of LiCl. The diagram is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the LiCl cycle diagram from the PDF to identify X; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: the sum of the enthalpy changes of hydration of the gaseous ions",
+     "steps": [
+      "X is the arrow from Li+(g) + Cl-(g) to Li+(aq) + Cl-(aq): the gaseous ions are dissolved in water.",
+      "This is DhydH(Li+) + DhydH(Cl-); the other arrows are the lattice energy (gaseous ions to LiCl(s)) and the enthalpy change of solution (LiCl(s) to aqueous ions)."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-03.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q2.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q3(a)",
@@ -51685,14 +52693,19 @@ window.BANK.chemistry = {
       "cycle letters w x y"
      ],
      "question": "For the Born-Haber cycle for MgCl2 (energy changes labelled w, x, y, etc.), which expression gives the electron affinity of chlorine? Options: A y, B y/2, C (w + y), D (w + y)/2. The diagram is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the labelled cycle diagram from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: y/2",
+     "steps": [
+      "y is the step Mg2+(g) + 2e- + 2Cl(g) -> Mg2+(g) + 2Cl-(g), which adds one electron to each of two Cl atoms.",
+      "The electron affinity of chlorine is for one mole of atoms, so it equals y/2."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-04.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q3.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q3(b)",
@@ -51707,14 +52720,19 @@ window.BANK.chemistry = {
       "labelled cycle"
      ],
      "question": "Which expression gives the lattice energy of magnesium chloride from the labelled cycle? Options: A LE = u - (v + w + x + y), B LE = v + w + x + y - u, C LE = y - u - (v + w + x), D LE = v + w + x - y + u.",
-     "status": "pending",
-     "answer": "Needs the labelled cycle diagram from the PDF to be checked; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: LE = u - (v + w + x + y)",
+     "steps": [
+      "By Hess's law the route round the cycle gives u = v + w + x + y + LE (all signed values).",
+      "Rearranging: LE = u - (v + w + x + y)."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-04.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q3.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q3(c)",
@@ -51729,14 +52747,19 @@ window.BANK.chemistry = {
       "energy change x"
      ],
      "question": "Which energy change in the MgCl2 cycle does x represent? Options: A first ionisation energy of Mg, B second ionisation energy of Mg, C sum of first and second ionisation energies of Mg, D sum of the enthalpy change of atomisation and the first and second ionisation energies of Mg. The diagram is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the labelled cycle diagram from the PDF to identify x; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: the sum of the first and second ionisation energies of magnesium",
+     "steps": [
+      "x is the step Mg(g) -> Mg2+(g) + 2e-.",
+      "That removes two electrons from the gaseous atom: IE1 + IE2 of magnesium."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-04.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q3.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q4",
@@ -51751,14 +52774,20 @@ window.BANK.chemistry = {
       "gaseous atoms"
      ],
      "question": "Which equation represents the standard enthalpy change of atomisation of bromine? The four options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Equation options are missing from the extracted text; the correct form is 1/2 Br2(g) -> Br(g), check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 1/2 Br2(l) -> Br(g)",
+     "steps": [
+      "Enthalpy change of atomisation is for the formation of one mole of gaseous atoms from the element in its standard state.",
+      "Bromine is a liquid under standard conditions, so the equation is 1/2 Br2(l) -> Br(g).",
+      "B makes two moles of atoms; C and D start from Br2(g), which is not the standard state."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-06.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q4.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q5",
@@ -51889,14 +52918,22 @@ window.BANK.chemistry = {
       "polarisation"
      ],
      "question": "Using the theoretical and experimental (Born-Haber) lattice energies of NaCl and MgI2 in the table, compare and contrast the type and strength of bonding in the two compounds, giving reasons. The table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the lattice energy table from the PDF to check the comparison; the data are not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "NaCl is almost purely ionic (theoretical and experimental values agree); MgI2 has a lot of covalent character (experimental much more exothermic), although both are ionic lattices",
+     "steps": [
+      "NaCl: theoretical -770 and experimental -780 kJ mol-1 differ by only about 1%, so the ionic model (point charges, perfect spheres) fits and the bonding is almost completely ionic.",
+      "MgI2: theoretical -1944 and experimental -2327 kJ mol-1 differ by about 20%, so it has significant covalent character.",
+      "Reason: Mg2+ is small and 2+ (high charge density), so it polarises the large, easily polarised I- ion, drawing some electron density between the nuclei; this extra covalent bonding makes the real lattice energy more exothermic than the theoretical value.",
+      "Na+ is larger with only 1+ charge and Cl- is smaller and less polarisable, so there is little polarisation.",
+      "Strength: MgI2 has the larger (more exothermic) lattice energy in both columns because of the 2+ ion charge, so its bonding is stronger overall, despite the larger anion."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-07.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q8.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q9(a)",
@@ -51941,14 +52978,20 @@ window.BANK.chemistry = {
       "-242"
      ],
      "question": "Using the simplified Born-Haber cycle for LiI, calculate the electron affinity of iodine. Options: A -298, B -242, C +242, D +298 kJ mol-1. The cycle values are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the cycle values from the PDF diagram; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: -298 kJ mol-1",
+     "steps": [
+      "Enthalpy change of formation of LiI (the diagonal arrow) = -270 = sum of the steps round the cycle.",
+      "-270 = (+160) + (+107) + (+520) + EA + (-759).",
+      "The known terms add to +28, so EA = -270 - 28 = -298 kJ mol-1 (exothermic)."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-08.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q9.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q10",
@@ -51965,14 +53008,20 @@ window.BANK.chemistry = {
       "-3106"
      ],
      "question": "Using a table of energy changes, calculate the enthalpy change of hydration of Ca2+(g). Options: A -1410, B -1650, C -2014, D -3106 kJ mol-1. The table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the energy changes table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: -1650 kJ mol-1",
+     "steps": [
+      "DsolH = -(lattice energy) + DhydH(Ca2+) + 2 x DhydH(Cl-).",
+      "-120 = +2258 + DhydH(Ca2+) + 2(-364).",
+      "DhydH(Ca2+) = -120 - 2258 + 728 = -1650 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-09.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q10.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q11",
@@ -52016,9 +53065,13 @@ window.BANK.chemistry = {
       "P Q R S"
      ],
      "question": "Which compound would show the largest percentage difference between experimental and theoretical lattice energies? The ionic radii and charges are in a table not in the extracted text. Options: A PR, B PS, C QR, D QS.",
-     "status": "pending",
-     "answer": "Needs the ionic radii and charge table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: PS",
+     "steps": [
+      "The difference between experimental and theoretical lattice energies increases with the amount of covalent character, which depends on how strongly the anion is polarised.",
+      "Polarisation is greatest for a small cation (high charge density) with a large, easily polarised anion; P+ is the smallest cation (0.076 nm) and S- is the largest anion (0.220 nm).",
+      "So PS shows the largest percentage difference."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
@@ -52026,7 +53079,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q12.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q13(a)(i)",
@@ -52042,9 +53097,13 @@ window.BANK.chemistry = {
       "data table"
      ],
      "question": "Calculate the standard enthalpy change of the reduction of iron(III) oxide by carbon, Fe2O3(s) + 3C(s) -> 2Fe(s) + 3CO(g), using the data given.",
-     "status": "pending",
-     "answer": "Needs the data table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "+492.7 kJ mol-1",
+     "steps": [
+      "DrH = sum of DfH(products) - sum of DfH(reactants).",
+      "= [2(0) + 3(-110.5)] - [(-824.2) + 3(0)].",
+      "= -331.5 + 824.2 = +492.7 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
@@ -52052,7 +53111,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q13.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q13(a)(ii)",
@@ -52067,9 +53128,13 @@ window.BANK.chemistry = {
       "data table"
      ],
      "question": "Calculate the entropy change of the system for the reduction of iron(III) oxide by carbon using the given data.",
-     "status": "pending",
-     "answer": "Needs the standard entropy data from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "DS(system) = +542.9 J K-1 mol-1",
+     "steps": [
+      "DS(system) = sum of S(products) - sum of S(reactants).",
+      "= [2(27.3) + 3(197.6)] - [87.4 + 3(5.7)].",
+      "= (54.6 + 592.8) - (87.4 + 17.1) = 647.4 - 104.5 = +542.9 J K-1 mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
@@ -52077,7 +53142,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q13.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q13(a)(iii)",
@@ -52093,9 +53160,13 @@ window.BANK.chemistry = {
       "carbon"
      ],
      "question": "Using your answers from (a)(i) and (a)(ii), calculate the temperature at which the reduction of iron(III) oxide by carbon becomes feasible.",
-     "status": "pending",
-     "answer": "Depends on the answers to (a)(i) and (a)(ii), which need the PDF data",
-     "steps": [],
+     "status": "ready",
+     "answer": "T = about 908 K (about 635 C)",
+     "steps": [
+      "The reaction becomes feasible when DS(total) = DS(system) - DH/T is no longer negative (limit: DS(total) = 0).",
+      "So T = DH / DS(system) = 492 700 J mol-1 / 542.9 J K-1 mol-1 (convert kJ to J).",
+      "T = 908 K (907.5 K, or about 635 C)."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
@@ -52180,9 +53251,13 @@ window.BANK.chemistry = {
       "boxes"
      ],
      "question": "Complete the Born-Haber cycle for iron(II) oxide by putting letters in the boxes to label the energy changes. The diagram is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the cycle diagram from the PDF to be labelled; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Bottom-left box: D; then going up the left side: A (atomisation of Fe), B (first IE of Fe), C (given), H (atomisation of oxygen); right side: E (first EA of O), F (second EA of O), G (lattice energy, long arrow down to FeO(s))",
+     "steps": [
+      "D is the enthalpy change of formation: the arrow from Fe(s) + 1/2 O2(g) down to FeO(s).",
+      "Left-hand arrows going up: A (Fe(s) -> Fe(g)), B (Fe(g) -> Fe+(g)), C (given: Fe+ -> Fe2+), H (1/2 O2(g) -> O(g)).",
+      "Right side: E for Fe2+(g) + O(g) -> Fe2+(g) + O-(g) (first electron affinity), F for O-(g) -> O2-(g) (second electron affinity), and G for the long arrow Fe2+(g) + O2-(g) -> FeO(s) (lattice energy)."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
@@ -52190,7 +53265,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q13-2.jpg",
+      "papers/chemistry/fig/12B-Lattice-Energy-Q13-3.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q13(c)(ii)",
@@ -52205,9 +53283,13 @@ window.BANK.chemistry = {
       "value C"
      ],
      "question": "Calculate the value for the second ionisation energy of iron, C, from the Born-Haber cycle for FeO. The data are in a table not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the data and labelled cycle from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "second ionisation energy of iron, C = +1567 kJ mol-1",
+     "steps": [
+      "Hess's law: D = A + B + C + H + E + F + G.",
+      "-272 = 416 + 759 + C + 249 + (-141) + 798 + (-3920).",
+      "The known terms add to -1839, so C = -272 + 1839 = +1567 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
@@ -52215,7 +53297,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q13-2.jpg",
+      "papers/chemistry/fig/12B-Lattice-Energy-Q13-3.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q13(c)(iii)",
@@ -52262,14 +53347,19 @@ window.BANK.chemistry = {
       "not true statement"
      ],
      "question": "For the Born-Haber cycle of SrI2 (values in kJ mol-1, not to scale), which statement is not true? Options: A lattice energy is exothermic, B first electron affinity of iodine is -295, C second ionisation energy of strontium is +1614, D standard enthalpy change of atomisation of strontium is +164. The cycle diagram is not in the extracted text.",
-     "status": "pending",
-     "answer": "The cycle diagram values must be checked against the PDF to identify which statement does not match; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: the second ionisation energy of strontium is +1614 kJ mol-1 (this is not true)",
+     "steps": [
+      "The +1614 kJ mol-1 arrow goes from Sr(g) + 2I(g) to Sr2+(g) + 2I(g) + 2e-: two electrons are removed, so +1614 is the sum of the first and second ionisation energies, not the second alone.",
+      "A is true (-1963 is exothermic); B is true (-590 / 2 = -295); D is true (+164 on the Sr(s) -> Sr(g) arrow)."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-14.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q14.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q14(b)",
@@ -52284,14 +53374,20 @@ window.BANK.chemistry = {
       "kJ mol-1"
      ],
      "question": "Using the Born-Haber cycle for SrI2, calculate the standard enthalpy change of atomisation of iodine. Options: A +542, B +271, C +214, D +107 kJ mol-1.",
-     "status": "pending",
-     "answer": "Needs the SrI2 cycle values from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: +107 kJ mol-1",
+     "steps": [
+      "Formation of SrI2: -561 = (+164) + DatH(I2 -> 2I) + (+1614) + (-590) + (-1963).",
+      "The known terms add to -775, so I2(s) -> 2I(g) = -561 + 775 = +214 kJ mol-1.",
+      "Atomisation of iodine is defined per mole of atoms, 1/2 I2(s) -> I(g), so it is 214 / 2 = +107 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-14.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q14.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q14(c)",
@@ -52306,14 +53402,20 @@ window.BANK.chemistry = {
       "kJ mol-1"
      ],
      "question": "Which is most likely to be the theoretical lattice energy of strontium iodide, calculated assuming only ionic bonding? Options: A -561, B -1937, C -1963, D -1989 kJ mol-1.",
-     "status": "pending",
-     "answer": "Needs the Born-Haber comparison values from the PDF; the choice cannot be fully checked from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: -1937 kJ mol-1",
+     "steps": [
+      "The Born-Haber (experimental) lattice energy is -1963 kJ mol-1, and SrI2 has some covalent character (large polarisable I-).",
+      "Covalent character makes the experimental value more exothermic than the purely ionic theoretical value, so the theoretical value must be less exothermic than -1963.",
+      "Only -1937 fits (-1989 is more exothermic and -561 is far too small)."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-14.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q14.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q15(a)",
@@ -52328,15 +53430,20 @@ window.BANK.chemistry = {
       "value"
      ],
      "question": "State the value of the standard enthalpy change of atomisation of calcium from the Born-Haber cycle for calcium chloride. The cycle is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the cycle diagram from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "+178 kJ mol-1",
+     "steps": [
+      "The arrow Ca(s) + Cl2(g) -> Ca(g) + Cl2(g) is the atomisation of calcium.",
+      "Its value on the cycle is +178 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-15.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-16.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q15.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q15(b)",
@@ -52351,15 +53458,21 @@ window.BANK.chemistry = {
       "CaCl2"
      ],
      "question": "Calculate the enthalpy change of formation of calcium chloride from the Born-Haber cycle. The values are in the diagram, not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the cycle values from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "DfH(CaCl2) = -799 kJ mol-1",
+     "steps": [
+      "DfH = sum of all steps in the cycle: atomisation Ca + IE1 + IE2 + 2 x atomisation Cl + 2 x EA + lattice energy.",
+      "= (+178) + (+590) + (+1145) + 2(+122) + 2(-349) + (-2258).",
+      "= 178 + 590 + 1145 + 244 - 698 - 2258 = -799 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-15.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-16.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q15.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q15(c)",
@@ -52390,7 +53503,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/12B-Lattice-Energy-16.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q15-2.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q15(d)(i)",
@@ -52406,15 +53521,22 @@ window.BANK.chemistry = {
       "hydration"
      ],
      "question": "Complete the energy cycle for dissolving calcium chloride in water, including the labelled arrows. The cycle diagram is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the energy cycle diagram from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Empty box: Ca2+(g) + 2Cl-(g), joined by an arrow labelled lattice energy to CaCl2(s) and an arrow labelled sum of hydration enthalpies to Ca2+(aq) + 2Cl-(aq)",
+     "steps": [
+      "Write Ca2+(g) + 2Cl-(g) in the empty box under the cycle.",
+      "Draw the arrow from this box to CaCl2(s), labelled lattice energy (LE = -2258 kJ mol-1).",
+      "Draw the arrow from the box to Ca2+(aq) + 2Cl-(aq), labelled DhydH(Ca2+) + 2 DhydH(Cl-) (sum of the hydration enthalpies).",
+      "The existing arrow CaCl2(s) -> Ca2+(aq) + 2Cl-(aq) is DsolH."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-15.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-16.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q15-3.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q15(d)(ii)",
@@ -52430,15 +53552,22 @@ window.BANK.chemistry = {
       "calculation"
      ],
      "question": "Calculate the enthalpy change of solution of calcium chloride using the completed energy cycle in (d)(i).",
-     "status": "pending",
-     "answer": "Needs the completed cycle and the data from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "DsolH(CaCl2) = -77 kJ mol-1",
+     "steps": [
+      "From the cycle: DsolH = -LE + DhydH(Ca2+) + 2 DhydH(Cl-).",
+      "= +2258 + (-1579) + 2(-378).",
+      "= 2258 - 1579 - 756 = -77 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-15.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-16.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q15-3.jpg",
+      "papers/chemistry/fig/12B-Lattice-Energy-Q15-4.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q16",
@@ -52454,14 +53583,19 @@ window.BANK.chemistry = {
       "cause of covalency"
      ],
      "question": "An ionic compound has some covalent bonding. What causes the covalency, and how does the lattice energy from a Born-Haber cycle differ from the theoretical electrostatic value? The option list is not in the extracted text.",
-     "status": "pending",
-     "answer": "Options are missing from the extracted text; the expected answer is polarisation of the anion, with the Born-Haber value more exothermic, check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: anion polarised by cation; Born-Haber lattice energy more exothermic than the theoretical value",
+     "steps": [
+      "Covalent character arises when the cation (small, highly charged) distorts, i.e. polarises, the electron cloud of the large anion.",
+      "This sharing of electron density adds extra bonding that the purely ionic model leaves out, so the experimental (Born-Haber) lattice energy is more exothermic than the theoretical value."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-17.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q16.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q17(a)",
@@ -52477,14 +53611,19 @@ window.BANK.chemistry = {
       "atomisation"
      ],
      "question": "Which energy change in the Born-Haber cycle for sodium oxide does y represent? Options: A first electron affinity of oxygen, B second electron affinity of oxygen, C sum of the first and second electron affinities of oxygen, D sum of the enthalpy change of atomisation of oxygen and the first and second electron affinities of oxygen. The diagram is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the labelled sodium oxide cycle from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: the sum of the first and second electron affinities of oxygen",
+     "steps": [
+      "y goes from 2Na+(g) + 2e- + O(g) to 2Na+(g) + O2-(g): the oxygen atom gains two electrons.",
+      "That is EA1 (O -> O-) plus EA2 (O- -> O2-)."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-18.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q17.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q17(b)",
@@ -52499,14 +53638,19 @@ window.BANK.chemistry = {
       "labelled cycle"
      ],
      "question": "Which expression gives the enthalpy change of formation of sodium oxide? Options: A v + w + x - y - z, B v + w + x + y - z, C v + w + x - y + z, D v + w + x + y + z.",
-     "status": "pending",
-     "answer": "Needs the labelled sodium oxide cycle from the PDF to be checked; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: DfH = v + w + x + y + z",
+     "steps": [
+      "u is the enthalpy change of formation of Na2O, and the longer route round the cycle is v + w + x + y + z.",
+      "By Hess's law, u = v + w + x + y + z, with each value used with its own sign."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-18.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q17.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q18(a)(i)",
@@ -52522,16 +53666,21 @@ window.BANK.chemistry = {
       "labels"
      ],
      "question": "Identify the missing details represented by the letters R and W in the Born-Haber cycle for barium oxide. The cycle diagram is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the BaO cycle diagram from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "R = O2-(g); W = first electron affinity of oxygen (O(g) + e- -> O-(g))",
+     "steps": [
+      "R: the top level is reached from Ba2+(g) + O-(g) by the second electron affinity of O-, so R is O2-(g).",
+      "W: the arrow from Ba2+(g) + O(g) down to Ba2+(g) + O-(g) is the gain of one electron by an oxygen atom, i.e. the first electron affinity of oxygen."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-19.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-20.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-21.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q18.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q18(a)(ii)",
@@ -52547,16 +53696,23 @@ window.BANK.chemistry = {
       "enthalpy change"
      ],
      "question": "Use the data given to calculate a value for quantity Z in the Born-Haber cycle for barium oxide, including sign and units. The data are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the data table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "DZ = DfH(BaO) = -499.9 kJ mol-1",
+     "steps": [
+      "Z is the enthalpy change of formation: DZ = atomisation Ba + atomisation O + IE1 + IE2 + DW + EA2 + LE.",
+      "= 180.0 + 249.2 + 503.0 + 965.0 + (-141.1) + 798.0 + (-3054.0).",
+      "= -499.9 kJ mol-1 (about -500 kJ mol-1, exothermic)."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-19.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-20.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-21.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q18.jpg",
+      "papers/chemistry/fig/12B-Lattice-Energy-Q18-2.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q18(a)(iii)",
@@ -52587,7 +53743,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/12B-Lattice-Energy-21.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q18-3.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q18(b)(i)",
@@ -52603,16 +53761,23 @@ window.BANK.chemistry = {
       "lattice energy"
      ],
      "question": "Using a fully labelled Hess cycle and the hydration enthalpy of OH- (-460 kJ mol-1), calculate the enthalpy change of solution of Ba(OH)2. The table data are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the table of Group 2 ion and hydroxide data from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "DsolH(Ba(OH)2) = -50 kJ mol-1",
+     "steps": [
+      "Hess cycle: Ba(OH)2(s) -> Ba2+(g) + 2OH-(g) (-LE, +2230 kJ mol-1), then Ba2+(g) + 2OH-(g) -> Ba2+(aq) + 2OH-(aq) (sum of the hydration enthalpies); the direct route is DsolH.",
+      "DsolH = -LE + DhydH(Ba2+) + 2 DhydH(OH-).",
+      "= +2230 + (-1360) + 2(-460).",
+      "= 2230 - 1360 - 920 = -50 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-19.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-20.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-21.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q18-4.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q18(b)(ii)",
@@ -52642,7 +53807,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/12B-Lattice-Energy-21.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q18-4.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q19(a)",
@@ -52658,14 +53825,19 @@ window.BANK.chemistry = {
       "entropy of surroundings"
      ],
      "question": "For the enthalpy cycle of lead(II) nitrate, which statement is true? Options: A enthalpy change of formation is -2151 kJ mol-1, B enthalpy change of solution is exothermic, C hydration of Pb2+ is more exothermic than that of NO3-, D entropy change of surroundings for dissolving is positive. The cycle values are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the enthalpy cycle values from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: the enthalpy change of hydration of a lead(II) ion is more exothermic than that of a nitrate ion",
+     "steps": [
+      "Pb2+ hydration is -1485 kJ mol-1, whereas each nitrate ion has only about -314 kJ mol-1 (see part (b)), so C is true.",
+      "A is false: -2151 kJ mol-1 is the lattice energy, not the enthalpy change of formation; B is false: DsolH = +38 is endothermic; D is false: an endothermic dissolving process gives a negative entropy change of the surroundings (DS = -DH/T)."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-22.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q19.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q19(b)",
@@ -52681,14 +53853,20 @@ window.BANK.chemistry = {
       "-314"
      ],
      "question": "Using the enthalpy cycle for lead(II) nitrate, calculate the enthalpy change of hydration of a nitrate ion. Options: A -3598, B -1799, C -628, D -314 kJ mol-1.",
-     "status": "pending",
-     "answer": "Needs the enthalpy cycle values from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: -314 kJ mol-1",
+     "steps": [
+      "DsolH = -LE + DhydH(Pb2+) + 2 DhydH(NO3-).",
+      "+38 = +2151 + (-1485) + 2x, so 2x = 38 - 2151 + 1485 = -628.",
+      "DhydH(NO3-) = -628 / 2 = -314 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-22.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q19.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q20(a)(i)",
@@ -52704,16 +53882,22 @@ window.BANK.chemistry = {
       "standard entropy data"
      ],
      "question": "Calculate the standard entropy change of the system for BaCO3(s) -> BaO(s) + CO2(g). The standard entropy data are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the standard entropy data from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "DS(system) = +171.9 J K-1 mol-1",
+     "steps": [
+      "DS(system) = S(BaO) + S(CO2) - S(BaCO3).",
+      "= 70.4 + 213.6 - 112.1.",
+      "= +171.9 J K-1 mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q20.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q20(a)(ii)",
@@ -52729,16 +53913,22 @@ window.BANK.chemistry = {
       "Gibbs energy zero"
      ],
      "question": "The lowest temperature at which barium carbonate decomposes is 712 C. Using this and your answer to (a)(i), calculate the standard enthalpy change of the reaction, with an appropriate number of significant figures.",
-     "status": "pending",
-     "answer": "Depends on the entropy change from (a)(i), which needs the PDF data",
-     "steps": [],
+     "status": "ready",
+     "answer": "DH = +169 kJ mol-1",
+     "steps": [
+      "At the lowest temperature of decomposition DS(total) = 0, so DS(system) = DH/T and DH = T x DS(system).",
+      "T = 712 + 273 = 985 K, so DH = 985 x 171.9 = 169 300 J mol-1.",
+      "Convert and round to 3 s.f. (the temperature is given to 3 s.f.): DH = +169 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q20.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q20(b)",
@@ -52785,16 +53975,21 @@ window.BANK.chemistry = {
       "formulae"
      ],
      "question": "Complete the Hess cycle for the enthalpy change of solution of anhydrous MgCl2 by adding formulae with state symbols to the empty boxes. The cycle diagram is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the Hess cycle diagram from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Left box: Mg2+(g) + 2Cl-(g); right box: MgCl2(s)",
+     "steps": [
+      "The arrow labelled lattice energy points from the left box to the right box, and lattice energy is the formation of the solid from gaseous ions: Mg2+(g) + 2Cl-(g) -> MgCl2(s).",
+      "The left box is also the start of the hydration arrow (gaseous ions to aqueous ions); the right box MgCl2(s) is the start of the solution arrow."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q20-2.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q20(c)(ii)",
@@ -52809,16 +54004,22 @@ window.BANK.chemistry = {
       "-155 kJ mol-1"
      ],
      "question": "Calculate the standard enthalpy change of hydration of chloride ions, using the Hess cycle in (c)(i) and your answer to (b). If (b) was not obtained, use -155 kJ mol-1.",
-     "status": "pending",
-     "answer": "Needs the Hess cycle from (c)(i) and the hydration enthalpy of Mg2+ from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "DhydH(Cl-) = about -367 kJ mol-1 (using DsolH = -127 kJ mol-1 from part (b))",
+     "steps": [
+      "Hess's law: DhydH(Mg2+) + 2 DhydH(Cl-) = lattice energy + DsolH.",
+      "-1920 + 2x = -2526 + (-127), so 2x = -2653 + 1920 = -733.",
+      "DhydH(Cl-) = -733 / 2 = -367 kJ mol-1 (-368 if -130 kJ mol-1 is used for DsolH; with the substitute value -155 it would be -381)."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q20-2.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q20(d)(i)",
@@ -52956,15 +54157,24 @@ window.BANK.chemistry = {
       "empty boxes"
      ],
      "question": "Complete the Born-Haber cycle for MgCl2 by adding labels for the four energy changes and writing formulae in the two empty boxes. The table and cycle are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the cycle diagram and table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Labels: B (first IE of Mg), C (second IE of Mg), D (atomisation of chlorine), E (lattice energy); empty boxes: Mg(g) + Cl2(g) (lower) and Mg+(g) + Cl2(g) + e- (upper)",
+     "steps": [
+      "Box above Mg(s) + Cl2(g) (after the arrow A): Mg(g) + Cl2(g).",
+      "The arrow from Mg(g) + Cl2(g) to the next box is the first ionisation energy: label B; the next box is Mg+(g) + Cl2(g) + e-.",
+      "The arrow to Mg2+(g) + Cl2(g) + 2e- is the second ionisation energy: label C.",
+      "The top-left arrow Cl2(g) -> 2Cl(g) is the atomisation of chlorine: label D (a value of 2 x 122 is used for two Cl atoms).",
+      "The long right-hand arrow Mg2+(g) + 2Cl-(g) -> MgCl2(s) is the lattice energy: label E."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-26.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-27.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q21.jpg",
+      "papers/chemistry/fig/12B-Lattice-Energy-Q21-2.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q21(a)(ii)",
@@ -52979,15 +54189,22 @@ window.BANK.chemistry = {
       "completed cycle"
      ],
      "question": "Calculate the electron affinity of chlorine, in kJ mol-1, using the data in the table and the completed Born-Haber cycle for MgCl2.",
-     "status": "pending",
-     "answer": "Needs the energy values from the PDF table; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "electron affinity of chlorine = -348 kJ mol-1",
+     "steps": [
+      "F = A + B + C + 2D + 2 x EA(Cl) + E (two Cl atoms are atomised and two are ionised).",
+      "-641 = 148 + 738 + 1451 + 2(122) + 2 EA - 2526; the known terms add to +55.",
+      "2 EA = -641 - 55 = -696, so EA = -348 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-26.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-27.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q21.jpg",
+      "papers/chemistry/fig/12B-Lattice-Energy-Q21-2.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q21(a)(iii)",
@@ -53032,15 +54249,22 @@ window.BANK.chemistry = {
       "Hess"
      ],
      "question": "Calculate the standard molar enthalpy change of solution of MgCl2 using the data shown and the lattice energy LE[MgCl2] from the table.",
-     "status": "pending",
-     "answer": "Needs the hydration data and table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "DsolH(MgCl2) = -122 kJ mol-1",
+     "steps": [
+      "DsolH = -LE + DhydH(Mg2+) + 2 DhydH(Cl-).",
+      "= +2526 + (-1920) + 2(-364).",
+      "= 2526 - 1920 - 728 = -122 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-26.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-27.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q21.jpg",
+      "papers/chemistry/fig/12B-Lattice-Energy-Q21-3.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q21(b)",
@@ -53057,15 +54281,23 @@ window.BANK.chemistry = {
       "six values"
      ],
      "question": "Discuss the reasons for the differences between the experimental and theoretical lattice energies of three crystal lattices, in terms of their structure and bonding. The six values are in a table not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the six lattice energy values from the PDF table to discuss each compound; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "The theoretical value assumes 100% ionic bonding (perfect spherical ions); the experimental value includes real covalent character, which increases as the cation polarises the anion more. NaF is nearly ideal, MgF2 slightly less so, and MgCl2 differs most",
+     "steps": [
+      "Theoretical values assume a purely ionic lattice of perfectly spherical ions held by electrostatic attraction; Born-Haber (experimental) values reflect the real bonding, including any covalent character.",
+      "NaF: -918 against -912 kJ mol-1. Na+ is large for a 1+ ion (low charge density) and F- is small and hard to polarise, so the bonding is almost completely ionic and the two values nearly agree.",
+      "MgF2: -2957 against -2913 kJ mol-1. Mg2+ is small and 2+, so it has high charge density and polarises F- slightly; a small amount of covalent character makes the experimental value a little more exothermic. Lattice energies are much larger than for NaF because of the 2+ charge.",
+      "MgCl2: -2526 against -2326 kJ mol-1. Cl- is bigger and more polarisable than F-, so Mg2+ distorts it considerably; the larger covalent contribution gives the biggest difference (experimental more exothermic).",
+      "Overall: the more the cation polarises the anion (high charge density cation, large anion), the more the experimental value exceeds the theoretical one."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-26.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-27.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q21-4.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q22",
@@ -53082,14 +54314,20 @@ window.BANK.chemistry = {
       "Li2O"
      ],
      "question": "Which compound has the greatest degree of covalency within its ionic bonds? Options: A NaI, B AgBr, C Rb2S, D Li2O. The lattice energy data table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the lattice energy data from the PDF to confirm; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: AgBr",
+     "steps": [
+      "The greater the difference between the experimental and theoretical lattice energies, the greater the covalent character.",
+      "Percentage differences: NaI 18/687 = 2.6%; AgBr 75/816 = 9.2%; Rb2S 40/1904 = 2.1%; Li2O 15/2799 = 0.5%.",
+      "AgBr has by far the largest difference, so it has the most covalency."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-28.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q22.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q23",
@@ -53103,14 +54341,19 @@ window.BANK.chemistry = {
       "gaseous atoms"
      ],
      "question": "Which equation represents the standard enthalpy change of atomisation of iodine? The options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Equation options are missing from the extracted text; the correct form is 1/2 I2(g) -> I(g), check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 1/2 I2(s) -> I(g)",
+     "steps": [
+      "Atomisation forms one mole of gaseous atoms from the element in its standard state.",
+      "Iodine is a solid at standard conditions, so the equation is 1/2 I2(s) -> I(g); B and D are wrong state, C makes two moles of atoms."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-29.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q23.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q24",
@@ -53125,14 +54368,19 @@ window.BANK.chemistry = {
       "O2-"
      ],
      "question": "Which equation represents the second electron affinity of oxygen? The options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Equation options are missing from the extracted text; the correct form is O-(g) + e- -> O2-(g), check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: O-(g) + e- -> O2-(g)",
+     "steps": [
+      "The second electron affinity is the gain of a second electron by a gaseous O- ion, forming O2-.",
+      "B adds two electrons to O (that is the sum of both electron affinities); C and D are ionisation energies."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-29.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q24.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q25(a)",
@@ -53203,14 +54451,20 @@ window.BANK.chemistry = {
       "effervescent"
      ],
      "question": "For the reaction at 25 C, the standard entropy change of the surroundings is given in a value not shown in the extracted text. Calculate the enthalpy change of the reaction, including sign and units.",
-     "status": "pending",
-     "answer": "Needs the value of the entropy change of the surroundings from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "DH = +70.0 kJ mol-1",
+     "steps": [
+      "DS(surroundings) = -DH / T, so DH = -T x DS(surroundings).",
+      "T = 25 + 273 = 298 K, DS(surroundings) = -234.9 J K-1 mol-1, so DH = -298 x (-234.9) = +70 000 J mol-1.",
+      "DH = +70.0 kJ mol-1 (endothermic, which is why the surroundings' entropy falls)."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-30.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q25.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q25(d)",
@@ -53226,9 +54480,14 @@ window.BANK.chemistry = {
       "+18.6 kJ mol-1"
      ],
      "question": "Sketch an enthalpy level diagram showing the relationship between the enthalpy change of solution (+18.6 kJ mol-1 for NaHCO3), lattice energy and enthalpies of hydration, fully labelled.",
-     "status": "pending",
-     "answer": "A labelled diagram must be drawn and checked against the PDF; it cannot be verified from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Three levels: Na+(g) + HCO3-(g) at the top, Na+(aq) + HCO3-(aq) in the middle and NaHCO3(s) at the bottom; the aqueous ions are +18.6 kJ mol-1 above NaHCO3(s)",
+     "steps": [
+      "Top level: Na+(g) + HCO3-(g). Bottom level: NaHCO3(s). Middle level: Na+(aq) + HCO3-(aq), 18.6 kJ above the solid.",
+      "Draw an arrow down from the top level to the bottom level, labelled lattice energy (exothermic, the longest arrow).",
+      "Draw an arrow down from the top level to the middle level, labelled sum of enthalpy changes of hydration (exothermic, a bit shorter than the lattice energy arrow).",
+      "Draw an arrow up from NaHCO3(s) to the middle level, labelled DsolH = +18.6 kJ mol-1 (endothermic, because |lattice energy| is larger than |sum of hydration enthalpies| by 18.6 kJ mol-1)."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-30.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-31.jpg"
@@ -53277,15 +54536,21 @@ window.BANK.chemistry = {
       "CuSO4.5H2O"
      ],
      "question": "Using the data in the table, calculate the standard enthalpy change for CuSO4.5H2O(s) -> CuSO4(s) + 5H2O(l).",
-     "status": "pending",
-     "answer": "Needs the data table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "DH = +79.2 kJ mol-1",
+     "steps": [
+      "DH = sum of DfH(products) - sum of DfH(reactants).",
+      "= [-771.4 + 5(-285.8)] - (-2279.6).",
+      "= -771.4 - 1429.0 + 2279.6 = +79.2 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q27.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q27(a)(ii)",
@@ -53300,15 +54565,21 @@ window.BANK.chemistry = {
       "data table"
      ],
      "question": "Using the data in the table, calculate the standard molar entropy change for CuSO4.5H2O(s) -> CuSO4(s) + 5H2O(l).",
-     "status": "pending",
-     "answer": "Needs the data table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "DS(system) = +158.1 J K-1 mol-1",
+     "steps": [
+      "DS = sum of S(products) - sum of S(reactants).",
+      "= [109.0 + 5(69.9)] - 300.4.",
+      "= 109.0 + 349.5 - 300.4 = +158.1 J K-1 mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q27.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q27(a)(iii)",
@@ -53324,15 +54595,21 @@ window.BANK.chemistry = {
       "decomposition"
      ],
      "question": "Using your answers to (a)(i) and (a)(ii), calculate the lowest temperature at which hydrated copper(II) sulfate will decompose.",
-     "status": "pending",
-     "answer": "Depends on the answers to (a)(i) and (a)(ii), which need the PDF table",
-     "steps": [],
+     "status": "ready",
+     "answer": "T = 501 K (about 228 C)",
+     "steps": [
+      "The reaction starts to be feasible when DS(total) = DS(system) - DH/T = 0, so T = DH / DS(system).",
+      "T = 79 200 J mol-1 / 158.1 J K-1 mol-1 (convert kJ to J).",
+      "T = 501 K (500.9 K), about 228 C."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q27.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q27(b)",
@@ -53404,15 +54681,20 @@ window.BANK.chemistry = {
       "hydration"
      ],
      "question": "Complete the Hess cycle for the enthalpy change of solution of CuCl2 by filling in the empty boxes. The cycle diagram is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the Hess cycle diagram from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Top box: Cu2+(g) + 2Cl-(g); left box: CuCl2(s)",
+     "steps": [
+      "The lattice energy arrow goes from the gaseous ions to the solid, so the top box is Cu2+(g) + 2Cl-(g) and the left box is CuCl2(s).",
+      "The right-hand arrow from the top box to Cu2+(aq) + 2Cl-(aq) is the sum of the hydration enthalpies; the bottom arrow CuCl2(s) -> aqueous ions is DsolH."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q27-2.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q27(c)(iii)",
@@ -53455,15 +54737,21 @@ window.BANK.chemistry = {
       "calculation"
      ],
      "question": "The lattice energy of CuCl2 is -2811 kJ mol-1. Using this value, the data in the table and your expression in (c)(iii), calculate the enthalpy change of solution.",
-     "status": "pending",
-     "answer": "Needs the hydration enthalpies from the PDF table; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "DsolH(CuCl2) = -45 kJ mol-1",
+     "steps": [
+      "DsolH = -LE + DhydH(Cu2+) + 2 DhydH(Cl-).",
+      "= +2811 + (-2100) + 2(-378).",
+      "= 2811 - 2100 - 756 = -45 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
       "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/12B-Lattice-Energy-Q27-3.jpg"
+     ]
     },
     {
      "id": "Ch12B-Q27(c)(v)",
@@ -53515,17 +54803,23 @@ window.BANK.chemistry = {
       "equilibrium",
       "part (a)(i) missing"
      ],
-     "question": "Part (a)(i) of the Haber process question (worth 2 marks) is not present in the extracted text.",
-     "status": "pending",
-     "answer": "The text for part (a)(i) is missing from the extracted text; check against the PDF",
-     "steps": [],
+     "question": "Calculate the standard entropy change of the system, delta S(system), for N2(g) + 3H2(g) <=> 2NH3(g) at 298 K, including a sign and units. Standard molar entropies S / J K-1 mol-1: N2 = 191.6, H2 = 130.6, NH3 = 192.3.",
+     "status": "ready",
+     "answer": "delta S(system) = -198.8 J K-1 mol-1",
+     "steps": [
+      "delta S(system) = sum of S(products) - sum of S(reactants).",
+      "Products: 2 x 192.3 = 384.6 J K-1 mol-1. Reactants: 191.6 + 3 x 130.6 = 583.4 J K-1 mol-1.",
+      "delta S(system) = 384.6 - 583.4 = -198.8 J K-1 mol-1 (negative: 4 mol of gas become 2 mol of gas)."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-01.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-02.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-03.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q1.jpg"
+     ]
     },
     {
      "id": "Ch13-Q1(a)(ii)",
@@ -53779,14 +55073,20 @@ window.BANK.chemistry = {
       "titration"
      ],
      "question": "In which flask(s) was the equilibrium approached from the right-hand side of the ester equation? The flask contents are in a table not in the extracted text. Options: A flask 1 only, B flask 4 only, C flasks 1 and 4 only, D flasks 2 and 3 only.",
-     "status": "pending",
-     "answer": "The flask contents are missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: flasks 1 and 4 only",
+     "steps": [
+      "Approaching equilibrium from the right-hand side means starting with the products (ester and water) and no ethanoic acid or ethanol.",
+      "Flask 1 contains ester and water; flask 4 contains ester and the water in the 2.0 cm3 of aqueous HCl, with no acid or alcohol added.",
+      "Flasks 2 and 3 contain ethanoic acid (and ethanol), the left-hand side, so they approach from the left."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-04.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q3.jpg"
+     ]
     },
     {
      "id": "Ch13-Q3(b)",
@@ -53829,14 +55129,19 @@ window.BANK.chemistry = {
       "K inverse"
      ],
      "question": "The equilibrium decomposition of hydrogen iodide can be written in two ways. What is the expression linking the two equilibrium constants? The options are not in the extracted text.",
-     "status": "pending",
-     "answer": "The two equations and options are missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: Kc = (Kc')^2",
+     "steps": [
+      "Kc' = [H2]^1/2 [I2]^1/2 / [HI] for the equation HI <=> 1/2 H2 + 1/2 I2.",
+      "The first equation 2HI <=> H2 + I2 is twice the second, so its constant is the square: Kc = [H2][I2] / [HI]^2 = (Kc')^2."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-05.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q4.jpg"
+     ]
     },
     {
      "id": "Ch13-Q5",
@@ -53850,9 +55155,12 @@ window.BANK.chemistry = {
       "concentrations"
      ],
      "question": "A homogeneous equilibrium is shown. What is the Kc expression? The equilibrium equation and options are not in the extracted text.",
-     "status": "pending",
-     "answer": "The equation and options are missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Kc = [Y]^2[Z] / ([W][X])",
+     "steps": [
+      "Kc = [products]^coefficients / [reactants]^coefficients, with the coefficient of Y (2) as a power, not a multiplier.",
+      "For W + X <=> 2Y + Z: Kc = [Y]^2 [Z] / ([W][X])."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-06.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-07.jpg",
@@ -53860,7 +55168,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/13-Chemical-Equilibria-09.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q5.jpg"
+     ]
     },
     {
      "id": "Ch13-Q6(a)(i)",
@@ -53877,9 +55187,13 @@ window.BANK.chemistry = {
       "298 K"
      ],
      "question": "Silicon tetrachloride is made from silicon carbide and hydrogen chloride with a nickel(II) chloride catalyst. Using the standard molar entropies in the table (not in the extracted text), calculate Stotal at 298 K with sign and units.",
-     "status": "pending",
-     "answer": "The standard molar entropy table and equation are missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "delta S(total) = +1.78 x 10^3 J K-1 mol-1",
+     "steps": [
+      "delta S(system) = [239.7 + 186.2] - [16.5 + 4(186.8)] = 425.9 - 763.7 = -337.8 J K-1 mol-1.",
+      "delta S(surroundings) = -delta H / T = -(-631 300 J mol-1) / 298 K = +2118 J K-1 mol-1.",
+      "delta S(total) = -337.8 + 2118 = +1781, which is +1.78 x 10^3 J K-1 mol-1 to 3 s.f. (the temperature is given to 3 s.f.)."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-06.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-07.jpg",
@@ -53887,7 +55201,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/13-Chemical-Equilibria-09.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q6.jpg"
+     ]
     },
     {
      "id": "Ch13-Q6(a)(ii)",
@@ -53903,9 +55219,13 @@ window.BANK.chemistry = {
       "justify"
      ],
      "question": "In industry the reaction is carried out at 700 C. By considering entropy and other relevant factors, justify this temperature.",
-     "status": "pending",
-     "answer": "Needs the enthalpy data from the PDF to decide the entropy/enthalpy balance; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "At 700 C the reaction is still thermodynamically feasible (delta S(total) > 0), and the rate is high enough because the activation energy is large",
+     "steps": [
+      "Entropy: delta S(total) = delta S(system) - delta H/T is already hugely positive at 298 K; at 973 K it is still positive: -337.8 + 631 300/973 = +311 J K-1 mol-1, so the reaction remains feasible (K stays large) even though delta S(surroundings) gets smaller on heating this exothermic reaction.",
+      "Kinetics: the reaction between solid SiC and HCl has a high activation energy (strong covalent bonds must break), so it is too slow at room temperature; a high temperature gives many more particles with energy above Ea and faster collisions.",
+      "700 C is therefore a compromise: fast enough for industry while delta S(total) is still positive (higher temperatures would waste energy and reduce the equilibrium constant)."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-06.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-07.jpg",
@@ -53913,7 +55233,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/13-Chemical-Equilibria-09.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q6.jpg"
+     ]
     },
     {
      "id": "Ch13-Q6(a)(iii)",
@@ -53928,9 +55250,13 @@ window.BANK.chemistry = {
       "silicon tetrachloride"
      ],
      "question": "Use your answer from (a)(i) to calculate the equilibrium constant at 298 K.",
-     "status": "pending",
-     "answer": "Depends on the Stotal from (a)(i), which needs the PDF table",
-     "steps": [],
+     "status": "ready",
+     "answer": "K = about 1 x 10^93 (units atm-3 for Kp)",
+     "steps": [
+      "delta S(total) = R ln K, so ln K = 1780.7 / 8.31 = 214.3.",
+      "K = e^214.3 = about 1 x 10^93 (1.1 x 10^93).",
+      "K is vastly greater than 1: the equilibrium lies completely to the right at 298 K."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-06.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-07.jpg",
@@ -53938,7 +55264,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/13-Chemical-Equilibria-09.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q6.jpg"
+     ]
     },
     {
      "id": "Ch13-Q6(b)(i)",
@@ -53954,9 +55282,13 @@ window.BANK.chemistry = {
       "energy changes"
      ],
      "question": "Complete the Born-Haber cycle for calcium iodide by adding letters for the energy changes, the species on the blank lines and arrowheads for each energy change. The diagram is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the cycle diagram from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Left side from the bottom: A and D (x2) given, then B (first IE) in the box on the next arrow up; the long left arrow (up) is C (second IE); top right arrow (down) is E (x2, electron affinity of iodine); the long right arrow (down) is F (lattice energy). Blank lines: Ca+(g) + e- + 2I(g), top: Ca2+(g) + 2e- + 2I(g), right: Ca2+(g) + 2I-(g)",
+     "steps": [
+      "Levels (bottom to top): CaI2(s); Ca(s) + I2(g); Ca(g) + I2(g); Ca(g) + 2I(g); Ca+(g) + e- + 2I(g); Ca2+(g) + 2e- + 2I(g); the right-hand level is Ca2+(g) + 2I-(g).",
+      "Boxes: B (first ionisation energy of Ca) between Ca(g) + 2I(g) and Ca+(g) + e- + 2I(g); C (second ionisation energy) on the long left arrow up to Ca2+(g) + 2e- + 2I(g); E (electron affinity of iodine, two atoms) on the top right arrow down to Ca2+(g) + 2I-(g); F (lattice energy) on the long right arrow down to CaI2(s).",
+      "Arrowheads: upwards for A, D (x2), B and C (endothermic steps) and downwards for E, F and the enthalpy change of formation (exothermic)."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-06.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-07.jpg",
@@ -53964,7 +55296,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/13-Chemical-Equilibria-09.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q6-2.jpg",
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q6-3.jpg"
+     ]
     },
     {
      "id": "Ch13-Q6(b)(ii)",
@@ -53978,9 +55313,13 @@ window.BANK.chemistry = {
       "calculation"
      ],
      "question": "Use the data for the Born-Haber cycle to calculate the enthalpy change of formation of calcium iodide.",
-     "status": "pending",
-     "answer": "Needs the data table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "delta Hf(CaI2) = -538 kJ mol-1",
+     "steps": [
+      "delta Hf = A + 2D + B + C + 2E + F (two iodine atoms are atomised and two are ionised).",
+      "= 178.2 + 2(106.8) + 590 + 1145 + 2(-295.4) + (-2074).",
+      "= 178.2 + 213.6 + 590 + 1145 - 590.8 - 2074 = -538.0 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-06.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-07.jpg",
@@ -53988,7 +55327,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/13-Chemical-Equilibria-09.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q6-2.jpg"
+     ]
     },
     {
      "id": "Ch13-Q6(b)(iii)",
@@ -54177,7 +55518,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/13-Chemical-Equilibria-12.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q7.jpg"
+     ]
     },
     {
      "id": "Ch13-Q7(b)(ii)",
@@ -54282,16 +55625,24 @@ window.BANK.chemistry = {
       "sketch"
      ],
      "question": "Draw a sketch of entropy against temperature for water to show the entropy changes as temperature increases, including the state changes. No scale is required on the vertical axis. The sketch must be drawn in the PDF.",
-     "status": "pending",
-     "answer": "Needs a sketch drawn on the PDF; a sketch cannot be checked from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A line rising from 0 K, with a small vertical jump at 273 K (melting) and a much larger vertical jump at 373 K (boiling), flat-ish gradual rises in between",
+     "steps": [
+      "Entropy of solid ice starts at (or near) zero at 0 K and rises gradually as temperature increases.",
+      "At 273 K (melting point) there is a vertical step up: ice -> liquid water, an increase in disorder.",
+      "The entropy of liquid water rises gradually from 273 K to 373 K (curve with decreasing gradient).",
+      "At 373 K (boiling point) there is a much larger vertical step up (liquid -> gas), then entropy of steam rises gradually to 500 K.",
+      "Label each portion (solid, liquid, gas); the two vertical steps are at 273 K and 373 K, with the boiling step bigger than the melting step."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-10.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-11.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-12.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q7-2.jpg"
+     ]
     },
     {
      "id": "Ch13-Q8",
@@ -54701,16 +56052,21 @@ window.BANK.chemistry = {
       "H2 I2 HI"
      ],
      "question": "Complete the table of Kc data at five temperatures for H2 + I2 <=> 2HI, by adding the values of 1/T and ln Kc. The table is not in the extracted text.",
-     "status": "pending",
-     "answer": "The table values are missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "1/T at 523 K = 0.00191 K-1; ln Kc at 577 K = 4.60",
+     "steps": [
+      "1/523 = 1.912 x 10^-3 = 0.00191 K-1 (3 s.f., like the others).",
+      "ln 99.2 = 4.60 (2 d.p., like the others)."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-17.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-19.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q14.jpg"
+     ]
     },
     {
      "id": "Ch13-Q14(c)(ii)",
@@ -54725,16 +56081,22 @@ window.BANK.chemistry = {
       "H2 I2 HI"
      ],
      "question": "Plot a graph of ln Kc against 1/T with a line of best fit, using the data in the table.",
-     "status": "pending",
-     "answer": "Needs the data from the PDF table and graph; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Straight line of best fit with a positive gradient through the five points (1/T on the x axis, ln Kc on the y axis)",
+     "steps": [
+      "Axes: x = 1/T / K-1 (from about 0.00135 to 0.00195) and y = ln Kc (4.1 to 4.9), scaled to fill over half the grid in each direction.",
+      "Plot (0.00191, 4.80), (0.00173, 4.60), (0.00161, 4.46), (0.00149, 4.33) and (0.00139, 4.20).",
+      "Draw a single straight line through the points (they lie almost exactly on a line); the gradient is positive because ln Kc increases as 1/T increases."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-17.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-19.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q14.jpg"
+     ]
     },
     {
      "id": "Ch13-Q14(c)(iii)",
@@ -54748,9 +56110,13 @@ window.BANK.chemistry = {
       "H2 I2 HI"
      ],
      "question": "Determine the gradient of your ln Kc against 1/T graph, showing working on the graph.",
-     "status": "pending",
-     "answer": "Depends on the graph from (c)(ii), which needs the PDF data",
-     "steps": [],
+     "status": "ready",
+     "answer": "gradient = +1.15 x 10^3 K (accept 1.1 to 1.2 x 10^3 K)",
+     "steps": [
+      "Choose two points far apart on the best-fit line, e.g. (0.00139, 4.20) and (0.00191, 4.80), and draw the triangle on the graph.",
+      "gradient = (4.80 - 4.20) / (0.00191 - 0.00139) = 0.60 / 0.00052 = +1.15 x 10^3.",
+      "Units are K (ln Kc has no units and 1/T is in K-1)."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-17.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
@@ -54773,9 +56139,13 @@ window.BANK.chemistry = {
       "ln K"
      ],
      "question": "Using the gradient from (c)(iii), calculate the enthalpy change deltaH in J mol-1 for the reaction.",
-     "status": "pending",
-     "answer": "Depends on the gradient from (c)(iii), which needs the PDF graph",
-     "steps": [],
+     "status": "ready",
+     "answer": "delta H = -9.6 x 10^3 J mol-1",
+     "steps": [
+      "gradient = -delta H / R, so delta H = -gradient x R.",
+      "delta H = -(1.15 x 10^3) x 8.31 = -9.56 x 10^3 J mol-1.",
+      "delta H = about -9.6 x 10^3 J mol-1 (negative: the reaction is exothermic, consistent with Kc falling as T rises)."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-17.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
@@ -54798,16 +56168,22 @@ window.BANK.chemistry = {
       "units J mol-1"
      ],
      "question": "Using deltaG = -RT ln Kc and the Kc value at 620 K from the table, calculate deltaG at 620 K, including units.",
-     "status": "pending",
-     "answer": "Needs the Kc value at 620 K from the PDF table; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "delta G = -2.30 x 10^4 J mol-1 (-23.0 kJ mol-1)",
+     "steps": [
+      "At 620 K, Kc = 86.5 and ln Kc = 4.46.",
+      "delta G = -RT ln Kc = -8.31 x 620 x 4.46.",
+      "= -2.30 x 10^4 J mol-1 (-22 980 J mol-1)."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-17.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-19.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q14.jpg"
+     ]
     },
     {
      "id": "Ch13-Q14(c)(vi)",
@@ -54822,9 +56198,13 @@ window.BANK.chemistry = {
       "deltaG"
      ],
      "question": "Using your answers to (c)(iv) and (c)(v), calculate the entropy change of the system at 620 K.",
-     "status": "pending",
-     "answer": "Depends on (c)(iv) and (c)(v), which need the PDF data",
-     "steps": [],
+     "status": "ready",
+     "answer": "delta S(system) = +21.6 J K-1 mol-1 (about +22)",
+     "steps": [
+      "Rearrange delta G = delta H - T delta S(system): delta S(system) = (delta H - delta G) / T.",
+      "= (-9560 - (-22 980)) / 620 = 13 420 / 620.",
+      "= +21.6 J K-1 mol-1."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-17.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
@@ -54847,9 +56227,13 @@ window.BANK.chemistry = {
       "independent of temperature"
      ],
      "question": "Explain, in terms of the total entropy change, why the reaction H2 + I2 <=> 2HI is feasible at any temperature, assuming deltaH and deltaSsystem are independent of temperature.",
-     "status": "pending",
-     "answer": "Depends on the signs of deltaH and deltaSsystem from (c), which need the PDF data",
-     "steps": [],
+     "status": "ready",
+     "answer": "delta H is negative and delta S(system) is positive, so delta S(total) is positive at every temperature",
+     "steps": [
+      "delta S(total) = delta S(system) + delta S(surroundings), with delta S(surroundings) = -delta H / T.",
+      "The reaction is exothermic (delta H = -9.6 kJ mol-1), so delta S(surroundings) = +9560/T is positive at any T; delta S(system) = +21.6 J K-1 mol-1 is also positive.",
+      "Both terms are positive, so delta S(total) > 0 at all temperatures, i.e. the reaction is always feasible."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-17.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
@@ -54870,14 +56254,19 @@ window.BANK.chemistry = {
       "partial pressures"
      ],
      "question": "What are the units of Kp for the equilibrium shown? Options: A atm-1, B atm, C atm-2, D atm2. The equilibrium equation is not in the extracted text.",
-     "status": "pending",
-     "answer": "The equilibrium equation is missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: atm-2",
+     "steps": [
+      "Kp = p(NH3)^2 / (p(N2) x p(H2)^3).",
+      "Units = atm^2 / (atm x atm^3) = atm^2 / atm^4 = atm-2."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-20.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q15.jpg"
+     ]
     },
     {
      "id": "Ch13-Q16",
@@ -54893,15 +56282,20 @@ window.BANK.chemistry = {
       "equilibrium type"
      ],
      "question": "The reaction shown occurs at 360 C and 1 atm. What is the type of equilibrium and how is Kc affected by an increase in temperature? The equation and options are not in the extracted text.",
-     "status": "pending",
-     "answer": "The equation and options are missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: homogeneous; Kc decreases",
+     "steps": [
+      "All species (CO, H2O, CO2, H2) are gases, so the equilibrium is homogeneous.",
+      "The forward reaction is exothermic (delta H = -41.2 kJ mol-1), so raising the temperature moves the position of equilibrium to the left and Kc decreases."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-21.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-22.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q16.jpg"
+     ]
     },
     {
      "id": "Ch13-Q17(a)(i)",
@@ -54916,15 +56310,20 @@ window.BANK.chemistry = {
       "experiments 1 to 5"
      ],
      "question": "Draw a best-fit line on the graph of the data for experiments 1-5 for the reaction between nitrogen monoxide and oxygen. The graph is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the graph from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A smooth curve, concave upwards (getting steeper), passing through the origin and the five points; not a straight line",
+     "steps": [
+      "Draw one smooth curve through (0.010, 0.040), (0.020, 0.160), (0.030, 0.360), (0.040, 0.641) and (0.050, 1.001), starting from (0, 0).",
+      "Rate = 400 x [NO]^2 for these points, so the best-fit line is a parabola-like curve."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-21.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-22.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q17-2.jpg"
+     ]
     },
     {
      "id": "Ch13-Q17(a)(ii)",
@@ -54939,15 +56338,20 @@ window.BANK.chemistry = {
       "order of reaction"
      ],
      "question": "State how the graph shows that the reaction is not first order with respect to nitrogen monoxide.",
-     "status": "pending",
-     "answer": "Needs the graph from the PDF to confirm the shape; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "The graph is a curve, not a straight line through the origin, so rate is not directly proportional to [NO]",
+     "steps": [
+      "A first order reaction would give a straight line through the origin (rate proportional to concentration).",
+      "The curve gets steeper: doubling [NO] from 0.010 to 0.020 mol dm-3 multiplies the rate by 4, which shows second order."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-21.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-22.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q17-2.jpg"
+     ]
     },
     {
      "id": "Ch13-Q17(a)(iii)",
@@ -54961,15 +56365,20 @@ window.BANK.chemistry = {
       "experiments 1 to 6"
      ],
      "question": "Deduce the orders of reaction with respect to NO and O2 using experiments 1-6. The data table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the data table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Order with respect to NO = 2; order with respect to O2 = 1",
+     "steps": [
+      "NO: Experiments 1 and 2 (constant [O2] = 0.050): [NO] doubles from 0.010 to 0.020 and the rate rises 4 times (0.040 -> 0.160), so order = 2 (Experiment 3 also fits: x3 gives x9).",
+      "O2: Experiments 2 and 6 (constant [NO] = 0.020): [O2] halves from 0.050 to 0.025 and the rate halves (0.160 -> 0.080), so order = 1."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-21.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-22.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q17.jpg"
+     ]
     },
     {
      "id": "Ch13-Q17(a)(iv)",
@@ -54983,15 +56392,19 @@ window.BANK.chemistry = {
       "orders"
      ],
      "question": "Write the rate equation for the reaction using your answer to (a)(iii).",
-     "status": "pending",
-     "answer": "Depends on the orders from (a)(iii), which need the PDF table",
-     "steps": [],
+     "status": "ready",
+     "answer": "rate = k[NO]^2[O2]",
+     "steps": [
+      "Second order in NO and first order in O2: rate = k[NO]^2[O2]."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-21.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-22.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q17.jpg"
+     ]
     },
     {
      "id": "Ch13-Q17(a)(v)",
@@ -55006,15 +56419,21 @@ window.BANK.chemistry = {
       "nitrogen monoxide"
      ],
      "question": "Calculate the rate constant using the data from experiment 1 and your rate equation, including units.",
-     "status": "pending",
-     "answer": "Needs the experiment 1 data and rate equation from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "k = 8.0 x 10^3 dm6 mol-2 s-1",
+     "steps": [
+      "k = rate / ([NO]^2[O2]) using Experiment 1.",
+      "k = 0.040 / (0.010^2 x 0.050) = 0.040 / 5.0 x 10^-6 = 8.0 x 10^3.",
+      "Units = (mol dm-3 s-1) / (mol dm-3)^3 = dm6 mol-2 s-1."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-21.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-22.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q17.jpg"
+     ]
     },
     {
      "id": "Ch13-Q17(b)",
@@ -55058,14 +56477,20 @@ window.BANK.chemistry = {
       "solid iron oxide"
      ],
      "question": "What is the equilibrium constant expression for the reaction between iron and steam? The equation is not in the extracted text.",
-     "status": "pending",
-     "answer": "The equation is missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Kc = [H2]^4 / [H2O]^4",
+     "steps": [
+      "The equation is 3Fe(s) + 4H2O(g) <=> Fe3O4(s) + 4H2(g).",
+      "Solids (Fe and Fe3O4) are left out of the equilibrium expression, so Kc = [H2]^4 / [H2O]^4."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-23.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q18.jpg",
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q18-2.jpg"
+     ]
     },
     {
      "id": "Ch13-Q18(b)",
@@ -55080,14 +56505,20 @@ window.BANK.chemistry = {
       "iron steam"
      ],
      "question": "What is the effect on the equilibrium constant if small pieces of iron are replaced by iron powder and if the temperature is increased? The equation is not in the extracted text.",
-     "status": "pending",
-     "answer": "Depends on the sign of deltaH for the equation shown in the PDF; the equation is missing from the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Kc unchanged with iron powder; Kc decreases when the temperature is increased",
+     "steps": [
+      "Kc depends only on temperature, so changing the surface area (iron powder) does not change Kc.",
+      "The forward reaction is exothermic (delta H = -151.2 kJ mol-1), so increasing the temperature shifts the equilibrium to the left and Kc decreases."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-23.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q18.jpg",
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q18-3.jpg"
+     ]
     },
     {
      "id": "Ch13-Q19(a)(i)",
@@ -55103,16 +56534,22 @@ window.BANK.chemistry = {
       "thermodynamic data table"
      ],
      "question": "Calculate the entropy change of the system for the cracking of butane, C4H10(g) -> C2H6(g) + C2H4(g), with sign and units. The data table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the thermodynamic data table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "delta S(system) = +138.9 J K-1 mol-1",
+     "steps": [
+      "delta S(system) = S(C2H6) + S(C2H4) - S(C4H10).",
+      "= 229.5 + 219.5 - 310.1.",
+      "= +138.9 J K-1 mol-1 (positive: 1 mol of gas gives 2 mol of gas)."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-24.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-25.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-26.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q19.jpg"
+     ]
     },
     {
      "id": "Ch13-Q19(a)(ii)",
@@ -55128,16 +56565,22 @@ window.BANK.chemistry = {
       "C2H4"
      ],
      "question": "Calculate the enthalpy change of reaction for the cracking of butane, with sign and units. The data table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the thermodynamic data table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "delta H = +94.0 kJ mol-1",
+     "steps": [
+      "delta H = sum of delta Hf(products) - sum of delta Hf(reactants).",
+      "= [(-84.7) + (+52.2)] - (-126.5).",
+      "= -32.5 + 126.5 = +94.0 kJ mol-1 (endothermic)."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-24.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-25.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-26.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q19.jpg"
+     ]
     },
     {
      "id": "Ch13-Q19(a)(iii)",
@@ -55152,9 +56595,13 @@ window.BANK.chemistry = {
       "sign and units"
      ],
      "question": "Using your answer to (a)(ii), calculate the entropy change of the surroundings at 298 K for the cracking of butane, with sign and units.",
-     "status": "pending",
-     "answer": "Depends on the enthalpy change from (a)(ii), which needs the PDF data",
-     "steps": [],
+     "status": "ready",
+     "answer": "delta S(surroundings) = -315 J K-1 mol-1",
+     "steps": [
+      "delta S(surroundings) = -delta H / T.",
+      "= -94 000 J mol-1 / 298 K (convert kJ to J).",
+      "= -315 J K-1 mol-1 (-315.4)."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-24.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-25.jpg",
@@ -55175,9 +56622,13 @@ window.BANK.chemistry = {
       "system and surroundings"
      ],
      "question": "Calculate the total entropy change at 298 K for the cracking of butane, using your answers to (a)(i) and (a)(iii), with sign and units.",
-     "status": "pending",
-     "answer": "Depends on (a)(i) and (a)(iii), which need the PDF data",
-     "steps": [],
+     "status": "ready",
+     "answer": "delta S(total) = -176.5 J K-1 mol-1 (about -177)",
+     "steps": [
+      "delta S(total) = delta S(system) + delta S(surroundings).",
+      "= +138.9 + (-315.4) = -176.5 J K-1 mol-1.",
+      "Negative, so the cracking is not feasible at 298 K."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-24.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-25.jpg",
@@ -55199,9 +56650,13 @@ window.BANK.chemistry = {
       "deltaS"
      ],
      "question": "Calculate the temperature at which the cracking of butane becomes feasible.",
-     "status": "pending",
-     "answer": "Depends on the enthalpy and entropy values from (a)(i) and (a)(ii), which need the PDF data",
-     "steps": [],
+     "status": "ready",
+     "answer": "T = 677 K (about 404 C)",
+     "steps": [
+      "The reaction becomes feasible when delta S(total) = delta S(system) - delta H/T reaches 0.",
+      "T = delta H / delta S(system) = 94 000 J mol-1 / 138.9 J K-1 mol-1.",
+      "T = 677 K (676.7 K); above this temperature delta S(total) is positive."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-24.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-25.jpg",
@@ -55284,15 +56739,21 @@ window.BANK.chemistry = {
       "thermodynamics"
      ],
      "question": "Calculate the entropy change for the reaction N2O4(g) <=> 2NO2(g), using the table of data, with sign and units. The table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the thermodynamic data table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "delta S = +175.8 J K-1 mol-1",
+     "steps": [
+      "delta S = 2 x S(NO2) - S(N2O4).",
+      "= 2(240.0) - 304.2.",
+      "= +175.8 J K-1 mol-1."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q20.jpg"
+     ]
     },
     {
      "id": "Ch13-Q20(b)",
@@ -55308,15 +56769,20 @@ window.BANK.chemistry = {
       "298 K"
      ],
      "question": "Calculate the enthalpy change of formation of N2O4(g) at 298 K, using the table and the enthalpy change of the reaction. The table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the thermodynamic data table from the PDF; not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "delta Hf(N2O4) = +9.2 kJ mol-1",
+     "steps": [
+      "delta H(reaction) = 2 delta Hf(NO2) - delta Hf(N2O4), so +57.2 = 2(+33.2) - delta Hf(N2O4).",
+      "delta Hf(N2O4) = 66.4 - 57.2 = +9.2 kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q20.jpg"
+     ]
     },
     {
      "id": "Ch13-Q20(c)",
@@ -55331,9 +56797,12 @@ window.BANK.chemistry = {
       "significant figures"
      ],
      "question": "Calculate the entropy change of the surroundings for the N2O4 reaction at 298 K, to an appropriate number of significant figures, with sign and units.",
-     "status": "pending",
-     "answer": "Depends on the enthalpy change from (b), which needs the PDF data",
-     "steps": [],
+     "status": "ready",
+     "answer": "delta S(surroundings) = -192 J K-1 mol-1",
+     "steps": [
+      "delta S(surroundings) = -delta H / T = -(+57 200 J mol-1) / 298 K.",
+      "= -192 J K-1 mol-1 (-191.9; 3 s.f. as the temperature is given to 3 s.f.)."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
@@ -55353,9 +56822,13 @@ window.BANK.chemistry = {
       "system and surroundings"
      ],
      "question": "Use your answers to (a) and (c) to calculate the total entropy change for the N2O4 reaction at 298 K.",
-     "status": "pending",
-     "answer": "Depends on (a) and (c), which need the PDF data",
-     "steps": [],
+     "status": "ready",
+     "answer": "delta S(total) = -16.1 J K-1 mol-1",
+     "steps": [
+      "delta S(total) = delta S(system) + delta S(surroundings).",
+      "= +175.8 + (-191.9) = -16.1 J K-1 mol-1.",
+      "Slightly negative at 298 K, so the dissociation is not feasible at this temperature (K < 1)."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
@@ -55376,9 +56849,13 @@ window.BANK.chemistry = {
       "deltaS system"
      ],
      "question": "Calculate the temperature at which the total entropy change is zero for the N2O4 equilibrium.",
-     "status": "pending",
-     "answer": "Depends on the data from (a) and (b), which need the PDF table",
-     "steps": [],
+     "status": "ready",
+     "answer": "T = 325 K",
+     "steps": [
+      "delta S(total) = 0 when delta S(system) = delta H / T.",
+      "T = delta H / delta S(system) = 57 200 J mol-1 / 175.8 J K-1 mol-1.",
+      "T = 325 K (325.4 K); above this temperature delta S(total) is positive and dissociation is feasible."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
@@ -55514,14 +56991,19 @@ window.BANK.chemistry = {
       "I2 CHCl3"
      ],
      "question": "Iodine is shared between water and trichloromethane. What is the expression for the equilibrium constant Kc? The equation for the equilibrium is not in the extracted text.",
-     "status": "pending",
-     "answer": "The equation is missing from the extracted text; the expected form is Kc = [I2 in CHCl3] / [I2 in water], check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Kc = [I2(aq)] / [I2(trichloromethane)]",
+     "steps": [
+      "For I2(trichloromethane) <=> I2(aq), the product (the aqueous iodine) goes on top and the reactant (the iodine in trichloromethane) on the bottom.",
+      "Concentrations are shown with square brackets, so option D is correct (options B and C use round brackets or no brackets, and A is upside down)."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-30.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q21.jpg"
+     ]
     },
     {
      "id": "Ch13-Q21(b)",
@@ -55589,14 +57071,19 @@ window.BANK.chemistry = {
       "solids excluded"
      ],
      "question": "Which is the correct expression for the equilibrium constant Kc for the decomposition of calcium carbonate to calcium oxide and carbon dioxide? The options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Options are missing from the extracted text; the expected answer is Kc = [CO2], check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: Kc = [CO2]",
+     "steps": [
+      "CaCO3(s) <=> CaO(s) + CO2(g): solids are not included in the equilibrium expression.",
+      "So Kc = [CO2]."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-30.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q22.jpg"
+     ]
     },
     {
      "id": "Ch13-Q23(a)",
@@ -55717,14 +57204,19 @@ window.BANK.chemistry = {
       "partial pressures"
      ],
      "question": "What are the units of Kp for the reaction shown? Options: A atm, B atm-1, C atm4, D atm-4. The equation is not in the extracted text.",
-     "status": "pending",
-     "answer": "The equation is missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: atm",
+     "steps": [
+      "The equation is A(g) + 2B(g) <=> 3C(s) + 4D(g), and the solid C is left out: Kp = p(D)^4 / (p(A) x p(B)^2).",
+      "Units = atm^4 / (atm x atm^2) = atm^4 / atm^3 = atm."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-32.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q24.jpg"
+     ]
     },
     {
      "id": "Ch13-Q25",
@@ -55765,14 +57257,19 @@ window.BANK.chemistry = {
       "solids excluded"
      ],
      "question": "What is the expression for the equilibrium constant Kp for the thermal decomposition of magnesium nitrate? The equation and options are not in the extracted text.",
-     "status": "pending",
-     "answer": "The equation and options are missing from the extracted text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: Kp = p(NO2)^2 x p(O2)^1/2",
+     "steps": [
+      "The equation is Mg(NO3)2(s) <=> MgO(s) + 2NO2(g) + 1/2 O2(g).",
+      "Only gases appear in Kp, so Kp = p(NO2)^2 x p(O2)^1/2 (the solids are omitted)."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-33.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q26.jpg"
+     ]
     },
     {
      "id": "Ch13-Q27(a)",
@@ -55843,14 +57340,19 @@ window.BANK.chemistry = {
       "equilibrium constant"
      ],
      "question": "Which is the expression for the equilibrium constant Kp for 2SO2(g) + O2(g) <=> 2SO3(g), deltaH = -196 kJ mol-1? The option list is not in the extracted text.",
-     "status": "pending",
-     "answer": "Options are missing from the extracted text; the expected expression is Kp = p(SO3)^2 / (p(SO2)^2 x p(O2)), check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Kp = p(SO3)^2 / (p(SO2)^2 x p(O2))",
+     "steps": [
+      "Products over reactants, each partial pressure raised to its coefficient: p(SO3)^2 / (p(SO2)^2 p(O2)).",
+      "A has a multiplier instead of a power, B uses concentrations in square brackets, and D is inverted."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-34.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q28.jpg"
+     ]
     },
     {
      "id": "Ch13-Q28(b)",
@@ -55918,14 +57420,19 @@ window.BANK.chemistry = {
       "4.0 x 10^24"
      ],
      "question": "The value of Kp at 25 C using Equation 1 is 4.0 x 10^24 atm-1. What is the numerical value of Kp at 25 C using Equation 2? The two equations are shown in a diagram not in the extracted text. Options: A 2.0 x 10^12, B 2.0 x 10^22, C 2.0 x 10^24, D 4.0 x 10^24.",
-     "status": "pending",
-     "answer": "The two equations are in a diagram not in the extracted text; the expected answer (square root of Kp1 if Equation 2 is half of Equation 1) needs checking against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 2.0 x 10^12 atm-1/2",
+     "steps": [
+      "Equation 2 (SO2 + 1/2 O2 <=> SO3) is half of Equation 1 (2SO2 + O2 <=> 2SO3).",
+      "Halving the equation takes the square root of the equilibrium constant: Kp2 = (Kp1)^1/2 = (4.0 x 10^24)^1/2 = 2.0 x 10^12."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-35.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q29.jpg"
+     ]
     },
     {
      "id": "Ch13-Q29(b)",
@@ -56052,9 +57559,13 @@ window.BANK.chemistry = {
       "2NOCl 2NO Cl2"
      ],
      "question": "A sealed equilibrium mixture of NOCl, Cl2 and NO is compressed. Explain what would be seen when the pressure is increased (NOCl is yellow, Cl2 is yellow-green and NO is colourless).",
-     "status": "pending",
-     "answer": "Needs the mark scheme check on the overall colour change, since the yellow NOCl and yellow-green Cl2 effects partly offset; not fully confirmed from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "The mixture darkens straight away (more concentrated), then slowly becomes more yellow and less yellow-green as the equilibrium shifts to the left",
+     "steps": [
+      "Increasing pressure compresses the gas, so all concentrations rise at once and the colour looks darker (more intense).",
+      "2NOCl <=> 2NO + Cl2 has 2 mol of gas on the left and 3 mol on the right, so the equilibrium shifts to the side with fewer moles, to the left (towards NOCl).",
+      "Cl2 (yellow-green) is used up and NOCl (yellow) forms, so the mixture becomes less green / more yellow, and the colour fades a little from its initial dark shade."
+     ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-37.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-38.jpg",
@@ -56117,7 +57628,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/13-Chemical-Equilibria-38.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/13-Chemical-Equilibria-Q31.jpg"
+     ]
     },
     {
      "id": "Ch13-Q31(b)(iii)",

@@ -18,13 +18,22 @@
         "enthalpy cycle"
       ],
       "question": "Complete the Born-Haber cycle for CaCl2 by writing the formulae, with state symbols and relevant electrons, on the horizontal lines. The cycle diagram is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the Born-Haber cycle diagram from the PDF to be checked; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Levels from the bottom up: Ca(s) + Cl2(g); Ca(g) + Cl2(g); Ca(g) + 2Cl(g); Ca+(g) + e- + 2Cl(g); Ca2+(g) + 2e- + 2Cl(g); then (right side) Ca2+(g) + 2Cl-(g)",
+      "steps": [
+        "DH2 (atomisation of Ca): the line above Ca(s) + Cl2(g) is Ca(g) + Cl2(g).",
+        "DH3 (atomisation of chlorine, 2 x +121.7): the next line is Ca(g) + 2Cl(g).",
+        "DH4 (first ionisation energy of Ca): the next line is Ca+(g) + e- + 2Cl(g).",
+        "DH5 (second ionisation energy of Ca): the top line is Ca2+(g) + 2e- + 2Cl(g).",
+        "DH6 is 2 x the electron affinity of Cl (down to Ca2+(g) + 2Cl-(g)); DH7 is the lattice energy; DH1 is the enthalpy change of formation."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-01.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-02.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q1-2.jpg"
       ]
     },
     {
@@ -41,13 +50,21 @@
         "CaCl2"
       ],
       "question": "Using the cycle and the table of values, calculate the second ionisation energy of calcium, including sign and units. The table values are not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the energy values table and cycle from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "second ionisation energy of calcium = +1148 kJ mol-1",
+      "steps": [
+        "Hess's law: DH1 = DH2 + DH3 + DH4 + DH5 + DH6 + DH7.",
+        "-795.8 = (+178.2) + 2(+121.7) + (+590.0) + IE2 + 2(-348.8) + (-2258).",
+        "The known terms add to 178.2 + 243.4 + 590.0 - 697.6 - 2258 = -1944.0, so IE2 = -795.8 + 1944.0 = +1148.2 kJ mol-1 (about +1148 kJ mol-1, positive because it is endothermic)."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-01.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-02.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q1.jpg",
+        "papers/chemistry/fig/12B-Lattice-Energy-Q1-2.jpg"
       ]
     },
     {
@@ -104,6 +121,9 @@
         "papers/chemistry/img/12B-Lattice-Energy-01.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-02.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q1-4.jpg"
       ]
     },
     {
@@ -120,13 +140,20 @@
         "experimental lattice energy"
       ],
       "question": "Calculate the enthalpy change of solution of CaCl2 using the experimental lattice energy of -2258 kJ mol-1. The hydration enthalpies needed are not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the hydration enthalpies of Ca2+ and Cl- from the PDF table; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "enthalpy change of solution of CaCl2 = -120 kJ mol-1",
+      "steps": [
+        "DsolH = -(lattice energy) + DhydH(Ca2+) + 2 x DhydH(Cl-).",
+        "= +2258 + (-1650) + 2(-364).",
+        "= 2258 - 1650 - 728 = -120 kJ mol-1 (exothermic)."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-01.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-02.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q1-3.jpg"
       ]
     },
     {
@@ -143,12 +170,18 @@
         "solution"
       ],
       "question": "In a Born-Haber cycle for LiCl, what does the labelled energy change X represent? Options: A sum of hydration enthalpies of gaseous ions, B enthalpy change of formation of LiCl, C enthalpy change of solution of LiCl, D lattice energy of LiCl. The diagram is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the LiCl cycle diagram from the PDF to identify X; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: the sum of the enthalpy changes of hydration of the gaseous ions",
+      "steps": [
+        "X is the arrow from Li+(g) + Cl-(g) to Li+(aq) + Cl-(aq): the gaseous ions are dissolved in water.",
+        "This is DhydH(Li+) + DhydH(Cl-); the other arrows are the lattice energy (gaseous ions to LiCl(s)) and the enthalpy change of solution (LiCl(s) to aqueous ions)."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-03.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q2.jpg"
       ]
     },
     {
@@ -164,12 +197,18 @@
         "cycle letters w x y"
       ],
       "question": "For the Born-Haber cycle for MgCl2 (energy changes labelled w, x, y, etc.), which expression gives the electron affinity of chlorine? Options: A y, B y/2, C (w + y), D (w + y)/2. The diagram is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the labelled cycle diagram from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: y/2",
+      "steps": [
+        "y is the step Mg2+(g) + 2e- + 2Cl(g) -> Mg2+(g) + 2Cl-(g), which adds one electron to each of two Cl atoms.",
+        "The electron affinity of chlorine is for one mole of atoms, so it equals y/2."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-04.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q3.jpg"
       ]
     },
     {
@@ -185,12 +224,18 @@
         "labelled cycle"
       ],
       "question": "Which expression gives the lattice energy of magnesium chloride from the labelled cycle? Options: A LE = u - (v + w + x + y), B LE = v + w + x + y - u, C LE = y - u - (v + w + x), D LE = v + w + x - y + u.",
-      "status": "pending",
-      "answer": "Needs the labelled cycle diagram from the PDF to be checked; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: LE = u - (v + w + x + y)",
+      "steps": [
+        "By Hess's law the route round the cycle gives u = v + w + x + y + LE (all signed values).",
+        "Rearranging: LE = u - (v + w + x + y)."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-04.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q3.jpg"
       ]
     },
     {
@@ -206,12 +251,18 @@
         "energy change x"
       ],
       "question": "Which energy change in the MgCl2 cycle does x represent? Options: A first ionisation energy of Mg, B second ionisation energy of Mg, C sum of first and second ionisation energies of Mg, D sum of the enthalpy change of atomisation and the first and second ionisation energies of Mg. The diagram is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the labelled cycle diagram from the PDF to identify x; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: the sum of the first and second ionisation energies of magnesium",
+      "steps": [
+        "x is the step Mg(g) -> Mg2+(g) + 2e-.",
+        "That removes two electrons from the gaseous atom: IE1 + IE2 of magnesium."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-04.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q3.jpg"
       ]
     },
     {
@@ -227,12 +278,19 @@
         "gaseous atoms"
       ],
       "question": "Which equation represents the standard enthalpy change of atomisation of bromine? The four options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Equation options are missing from the extracted text; the correct form is 1/2 Br2(g) -> Br(g), check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 1/2 Br2(l) -> Br(g)",
+      "steps": [
+        "Enthalpy change of atomisation is for the formation of one mole of gaseous atoms from the element in its standard state.",
+        "Bromine is a liquid under standard conditions, so the equation is 1/2 Br2(l) -> Br(g).",
+        "B makes two moles of atoms; C and D start from Br2(g), which is not the standard state."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-06.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q4.jpg"
       ]
     },
     {
@@ -360,12 +418,21 @@
         "polarisation"
       ],
       "question": "Using the theoretical and experimental (Born-Haber) lattice energies of NaCl and MgI2 in the table, compare and contrast the type and strength of bonding in the two compounds, giving reasons. The table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the lattice energy table from the PDF to check the comparison; the data are not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "NaCl is almost purely ionic (theoretical and experimental values agree); MgI2 has a lot of covalent character (experimental much more exothermic), although both are ionic lattices",
+      "steps": [
+        "NaCl: theoretical -770 and experimental -780 kJ mol-1 differ by only about 1%, so the ionic model (point charges, perfect spheres) fits and the bonding is almost completely ionic.",
+        "MgI2: theoretical -1944 and experimental -2327 kJ mol-1 differ by about 20%, so it has significant covalent character.",
+        "Reason: Mg2+ is small and 2+ (high charge density), so it polarises the large, easily polarised I- ion, drawing some electron density between the nuclei; this extra covalent bonding makes the real lattice energy more exothermic than the theoretical value.",
+        "Na+ is larger with only 1+ charge and Cl- is smaller and less polarisable, so there is little polarisation.",
+        "Strength: MgI2 has the larger (more exothermic) lattice energy in both columns because of the 2+ ion charge, so its bonding is stronger overall, despite the larger anion."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-07.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q8.jpg"
       ]
     },
     {
@@ -410,12 +477,19 @@
         "-242"
       ],
       "question": "Using the simplified Born-Haber cycle for LiI, calculate the electron affinity of iodine. Options: A -298, B -242, C +242, D +298 kJ mol-1. The cycle values are not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the cycle values from the PDF diagram; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: -298 kJ mol-1",
+      "steps": [
+        "Enthalpy change of formation of LiI (the diagonal arrow) = -270 = sum of the steps round the cycle.",
+        "-270 = (+160) + (+107) + (+520) + EA + (-759).",
+        "The known terms add to +28, so EA = -270 - 28 = -298 kJ mol-1 (exothermic)."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-08.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q9.jpg"
       ]
     },
     {
@@ -433,12 +507,19 @@
         "-3106"
       ],
       "question": "Using a table of energy changes, calculate the enthalpy change of hydration of Ca2+(g). Options: A -1410, B -1650, C -2014, D -3106 kJ mol-1. The table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the energy changes table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: -1650 kJ mol-1",
+      "steps": [
+        "DsolH = -(lattice energy) + DhydH(Ca2+) + 2 x DhydH(Cl-).",
+        "-120 = +2258 + DhydH(Ca2+) + 2(-364).",
+        "DhydH(Ca2+) = -120 - 2258 + 728 = -1650 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-09.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q10.jpg"
       ]
     },
     {
@@ -482,15 +563,22 @@
         "P Q R S"
       ],
       "question": "Which compound would show the largest percentage difference between experimental and theoretical lattice energies? The ionic radii and charges are in a table not in the extracted text. Options: A PR, B PS, C QR, D QS.",
-      "status": "pending",
-      "answer": "Needs the ionic radii and charge table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: PS",
+      "steps": [
+        "The difference between experimental and theoretical lattice energies increases with the amount of covalent character, which depends on how strongly the anion is polarised.",
+        "Polarisation is greatest for a small cation (high charge density) with a large, easily polarised anion; P+ is the smallest cation (0.076 nm) and S- is the largest anion (0.220 nm).",
+        "So PS shows the largest percentage difference."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-12.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q12.jpg"
       ]
     },
     {
@@ -507,15 +595,22 @@
         "data table"
       ],
       "question": "Calculate the standard enthalpy change of the reduction of iron(III) oxide by carbon, Fe2O3(s) + 3C(s) -> 2Fe(s) + 3CO(g), using the data given.",
-      "status": "pending",
-      "answer": "Needs the data table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "+492.7 kJ mol-1",
+      "steps": [
+        "DrH = sum of DfH(products) - sum of DfH(reactants).",
+        "= [2(0) + 3(-110.5)] - [(-824.2) + 3(0)].",
+        "= -331.5 + 824.2 = +492.7 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-12.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q13.jpg"
       ]
     },
     {
@@ -531,15 +626,22 @@
         "data table"
       ],
       "question": "Calculate the entropy change of the system for the reduction of iron(III) oxide by carbon using the given data.",
-      "status": "pending",
-      "answer": "Needs the standard entropy data from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "DS(system) = +542.9 J K-1 mol-1",
+      "steps": [
+        "DS(system) = sum of S(products) - sum of S(reactants).",
+        "= [2(27.3) + 3(197.6)] - [87.4 + 3(5.7)].",
+        "= (54.6 + 592.8) - (87.4 + 17.1) = 647.4 - 104.5 = +542.9 J K-1 mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-12.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q13.jpg"
       ]
     },
     {
@@ -556,9 +658,13 @@
         "carbon"
       ],
       "question": "Using your answers from (a)(i) and (a)(ii), calculate the temperature at which the reduction of iron(III) oxide by carbon becomes feasible.",
-      "status": "pending",
-      "answer": "Depends on the answers to (a)(i) and (a)(ii), which need the PDF data",
-      "steps": [],
+      "status": "ready",
+      "answer": "T = about 908 K (about 635 C)",
+      "steps": [
+        "The reaction becomes feasible when DS(total) = DS(system) - DH/T is no longer negative (limit: DS(total) = 0).",
+        "So T = DH / DS(system) = 492 700 J mol-1 / 542.9 J K-1 mol-1 (convert kJ to J).",
+        "T = 908 K (907.5 K, or about 635 C)."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
@@ -640,15 +746,23 @@
         "boxes"
       ],
       "question": "Complete the Born-Haber cycle for iron(II) oxide by putting letters in the boxes to label the energy changes. The diagram is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the cycle diagram from the PDF to be labelled; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Bottom-left box: D; then going up the left side: A (atomisation of Fe), B (first IE of Fe), C (given), H (atomisation of oxygen); right side: E (first EA of O), F (second EA of O), G (lattice energy, long arrow down to FeO(s))",
+      "steps": [
+        "D is the enthalpy change of formation: the arrow from Fe(s) + 1/2 O2(g) down to FeO(s).",
+        "Left-hand arrows going up: A (Fe(s) -> Fe(g)), B (Fe(g) -> Fe+(g)), C (given: Fe+ -> Fe2+), H (1/2 O2(g) -> O(g)).",
+        "Right side: E for Fe2+(g) + O(g) -> Fe2+(g) + O-(g) (first electron affinity), F for O-(g) -> O2-(g) (second electron affinity), and G for the long arrow Fe2+(g) + O2-(g) -> FeO(s) (lattice energy)."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-12.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q13-2.jpg",
+        "papers/chemistry/fig/12B-Lattice-Energy-Q13-3.jpg"
       ]
     },
     {
@@ -664,15 +778,23 @@
         "value C"
       ],
       "question": "Calculate the value for the second ionisation energy of iron, C, from the Born-Haber cycle for FeO. The data are in a table not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the data and labelled cycle from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "second ionisation energy of iron, C = +1567 kJ mol-1",
+      "steps": [
+        "Hess's law: D = A + B + C + H + E + F + G.",
+        "-272 = 416 + 759 + C + 249 + (-141) + 798 + (-3920).",
+        "The known terms add to -1839, so C = -272 + 1839 = +1567 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-12.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q13-2.jpg",
+        "papers/chemistry/fig/12B-Lattice-Energy-Q13-3.jpg"
       ]
     },
     {
@@ -719,12 +841,18 @@
         "not true statement"
       ],
       "question": "For the Born-Haber cycle of SrI2 (values in kJ mol-1, not to scale), which statement is not true? Options: A lattice energy is exothermic, B first electron affinity of iodine is -295, C second ionisation energy of strontium is +1614, D standard enthalpy change of atomisation of strontium is +164. The cycle diagram is not in the extracted text.",
-      "status": "pending",
-      "answer": "The cycle diagram values must be checked against the PDF to identify which statement does not match; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: the second ionisation energy of strontium is +1614 kJ mol-1 (this is not true)",
+      "steps": [
+        "The +1614 kJ mol-1 arrow goes from Sr(g) + 2I(g) to Sr2+(g) + 2I(g) + 2e-: two electrons are removed, so +1614 is the sum of the first and second ionisation energies, not the second alone.",
+        "A is true (-1963 is exothermic); B is true (-590 / 2 = -295); D is true (+164 on the Sr(s) -> Sr(g) arrow)."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-14.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q14.jpg"
       ]
     },
     {
@@ -740,12 +868,19 @@
         "kJ mol-1"
       ],
       "question": "Using the Born-Haber cycle for SrI2, calculate the standard enthalpy change of atomisation of iodine. Options: A +542, B +271, C +214, D +107 kJ mol-1.",
-      "status": "pending",
-      "answer": "Needs the SrI2 cycle values from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: +107 kJ mol-1",
+      "steps": [
+        "Formation of SrI2: -561 = (+164) + DatH(I2 -> 2I) + (+1614) + (-590) + (-1963).",
+        "The known terms add to -775, so I2(s) -> 2I(g) = -561 + 775 = +214 kJ mol-1.",
+        "Atomisation of iodine is defined per mole of atoms, 1/2 I2(s) -> I(g), so it is 214 / 2 = +107 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-14.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q14.jpg"
       ]
     },
     {
@@ -761,12 +896,19 @@
         "kJ mol-1"
       ],
       "question": "Which is most likely to be the theoretical lattice energy of strontium iodide, calculated assuming only ionic bonding? Options: A -561, B -1937, C -1963, D -1989 kJ mol-1.",
-      "status": "pending",
-      "answer": "Needs the Born-Haber comparison values from the PDF; the choice cannot be fully checked from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: -1937 kJ mol-1",
+      "steps": [
+        "The Born-Haber (experimental) lattice energy is -1963 kJ mol-1, and SrI2 has some covalent character (large polarisable I-).",
+        "Covalent character makes the experimental value more exothermic than the purely ionic theoretical value, so the theoretical value must be less exothermic than -1963.",
+        "Only -1937 fits (-1989 is more exothermic and -561 is far too small)."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-14.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q14.jpg"
       ]
     },
     {
@@ -782,13 +924,19 @@
         "value"
       ],
       "question": "State the value of the standard enthalpy change of atomisation of calcium from the Born-Haber cycle for calcium chloride. The cycle is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the cycle diagram from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "+178 kJ mol-1",
+      "steps": [
+        "The arrow Ca(s) + Cl2(g) -> Ca(g) + Cl2(g) is the atomisation of calcium.",
+        "Its value on the cycle is +178 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-15.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-16.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q15.jpg"
       ]
     },
     {
@@ -804,13 +952,20 @@
         "CaCl2"
       ],
       "question": "Calculate the enthalpy change of formation of calcium chloride from the Born-Haber cycle. The values are in the diagram, not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the cycle values from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "DfH(CaCl2) = -799 kJ mol-1",
+      "steps": [
+        "DfH = sum of all steps in the cycle: atomisation Ca + IE1 + IE2 + 2 x atomisation Cl + 2 x EA + lattice energy.",
+        "= (+178) + (+590) + (+1145) + 2(+122) + 2(-349) + (-2258).",
+        "= 178 + 590 + 1145 + 244 - 698 - 2258 = -799 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-15.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-16.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q15.jpg"
       ]
     },
     {
@@ -841,6 +996,9 @@
         "papers/chemistry/img/12B-Lattice-Energy-15.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-16.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q15-2.jpg"
       ]
     },
     {
@@ -857,13 +1015,21 @@
         "hydration"
       ],
       "question": "Complete the energy cycle for dissolving calcium chloride in water, including the labelled arrows. The cycle diagram is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the energy cycle diagram from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Empty box: Ca2+(g) + 2Cl-(g), joined by an arrow labelled lattice energy to CaCl2(s) and an arrow labelled sum of hydration enthalpies to Ca2+(aq) + 2Cl-(aq)",
+      "steps": [
+        "Write Ca2+(g) + 2Cl-(g) in the empty box under the cycle.",
+        "Draw the arrow from this box to CaCl2(s), labelled lattice energy (LE = -2258 kJ mol-1).",
+        "Draw the arrow from the box to Ca2+(aq) + 2Cl-(aq), labelled DhydH(Ca2+) + 2 DhydH(Cl-) (sum of the hydration enthalpies).",
+        "The existing arrow CaCl2(s) -> Ca2+(aq) + 2Cl-(aq) is DsolH."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-15.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-16.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q15-3.jpg"
       ]
     },
     {
@@ -880,13 +1046,21 @@
         "calculation"
       ],
       "question": "Calculate the enthalpy change of solution of calcium chloride using the completed energy cycle in (d)(i).",
-      "status": "pending",
-      "answer": "Needs the completed cycle and the data from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "DsolH(CaCl2) = -77 kJ mol-1",
+      "steps": [
+        "From the cycle: DsolH = -LE + DhydH(Ca2+) + 2 DhydH(Cl-).",
+        "= +2258 + (-1579) + 2(-378).",
+        "= 2258 - 1579 - 756 = -77 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-15.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-16.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q15-3.jpg",
+        "papers/chemistry/fig/12B-Lattice-Energy-Q15-4.jpg"
       ]
     },
     {
@@ -903,12 +1077,18 @@
         "cause of covalency"
       ],
       "question": "An ionic compound has some covalent bonding. What causes the covalency, and how does the lattice energy from a Born-Haber cycle differ from the theoretical electrostatic value? The option list is not in the extracted text.",
-      "status": "pending",
-      "answer": "Options are missing from the extracted text; the expected answer is polarisation of the anion, with the Born-Haber value more exothermic, check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: anion polarised by cation; Born-Haber lattice energy more exothermic than the theoretical value",
+      "steps": [
+        "Covalent character arises when the cation (small, highly charged) distorts, i.e. polarises, the electron cloud of the large anion.",
+        "This sharing of electron density adds extra bonding that the purely ionic model leaves out, so the experimental (Born-Haber) lattice energy is more exothermic than the theoretical value."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-17.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q16.jpg"
       ]
     },
     {
@@ -925,12 +1105,18 @@
         "atomisation"
       ],
       "question": "Which energy change in the Born-Haber cycle for sodium oxide does y represent? Options: A first electron affinity of oxygen, B second electron affinity of oxygen, C sum of the first and second electron affinities of oxygen, D sum of the enthalpy change of atomisation of oxygen and the first and second electron affinities of oxygen. The diagram is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the labelled sodium oxide cycle from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: the sum of the first and second electron affinities of oxygen",
+      "steps": [
+        "y goes from 2Na+(g) + 2e- + O(g) to 2Na+(g) + O2-(g): the oxygen atom gains two electrons.",
+        "That is EA1 (O -> O-) plus EA2 (O- -> O2-)."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-18.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-19.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q17.jpg"
       ]
     },
     {
@@ -946,12 +1132,18 @@
         "labelled cycle"
       ],
       "question": "Which expression gives the enthalpy change of formation of sodium oxide? Options: A v + w + x - y - z, B v + w + x + y - z, C v + w + x - y + z, D v + w + x + y + z.",
-      "status": "pending",
-      "answer": "Needs the labelled sodium oxide cycle from the PDF to be checked; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: DfH = v + w + x + y + z",
+      "steps": [
+        "u is the enthalpy change of formation of Na2O, and the longer route round the cycle is v + w + x + y + z.",
+        "By Hess's law, u = v + w + x + y + z, with each value used with its own sign."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-18.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-19.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q17.jpg"
       ]
     },
     {
@@ -968,14 +1160,20 @@
         "labels"
       ],
       "question": "Identify the missing details represented by the letters R and W in the Born-Haber cycle for barium oxide. The cycle diagram is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the BaO cycle diagram from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "R = O2-(g); W = first electron affinity of oxygen (O(g) + e- -> O-(g))",
+      "steps": [
+        "R: the top level is reached from Ba2+(g) + O-(g) by the second electron affinity of O-, so R is O2-(g).",
+        "W: the arrow from Ba2+(g) + O(g) down to Ba2+(g) + O-(g) is the gain of one electron by an oxygen atom, i.e. the first electron affinity of oxygen."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-19.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-20.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-21.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q18.jpg"
       ]
     },
     {
@@ -992,14 +1190,22 @@
         "enthalpy change"
       ],
       "question": "Use the data given to calculate a value for quantity Z in the Born-Haber cycle for barium oxide, including sign and units. The data are not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the data table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "DZ = DfH(BaO) = -499.9 kJ mol-1",
+      "steps": [
+        "Z is the enthalpy change of formation: DZ = atomisation Ba + atomisation O + IE1 + IE2 + DW + EA2 + LE.",
+        "= 180.0 + 249.2 + 503.0 + 965.0 + (-141.1) + 798.0 + (-3054.0).",
+        "= -499.9 kJ mol-1 (about -500 kJ mol-1, exothermic)."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-19.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-20.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-21.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q18.jpg",
+        "papers/chemistry/fig/12B-Lattice-Energy-Q18-2.jpg"
       ]
     },
     {
@@ -1030,6 +1236,9 @@
         "papers/chemistry/img/12B-Lattice-Energy-20.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-21.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q18-3.jpg"
       ]
     },
     {
@@ -1046,14 +1255,22 @@
         "lattice energy"
       ],
       "question": "Using a fully labelled Hess cycle and the hydration enthalpy of OH- (-460 kJ mol-1), calculate the enthalpy change of solution of Ba(OH)2. The table data are not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the table of Group 2 ion and hydroxide data from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "DsolH(Ba(OH)2) = -50 kJ mol-1",
+      "steps": [
+        "Hess cycle: Ba(OH)2(s) -> Ba2+(g) + 2OH-(g) (-LE, +2230 kJ mol-1), then Ba2+(g) + 2OH-(g) -> Ba2+(aq) + 2OH-(aq) (sum of the hydration enthalpies); the direct route is DsolH.",
+        "DsolH = -LE + DhydH(Ba2+) + 2 DhydH(OH-).",
+        "= +2230 + (-1360) + 2(-460).",
+        "= 2230 - 1360 - 920 = -50 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-19.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-20.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-21.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q18-4.jpg"
       ]
     },
     {
@@ -1083,6 +1300,9 @@
         "papers/chemistry/img/12B-Lattice-Energy-20.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-21.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q18-4.jpg"
       ]
     },
     {
@@ -1099,12 +1319,18 @@
         "entropy of surroundings"
       ],
       "question": "For the enthalpy cycle of lead(II) nitrate, which statement is true? Options: A enthalpy change of formation is -2151 kJ mol-1, B enthalpy change of solution is exothermic, C hydration of Pb2+ is more exothermic than that of NO3-, D entropy change of surroundings for dissolving is positive. The cycle values are not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the enthalpy cycle values from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: the enthalpy change of hydration of a lead(II) ion is more exothermic than that of a nitrate ion",
+      "steps": [
+        "Pb2+ hydration is -1485 kJ mol-1, whereas each nitrate ion has only about -314 kJ mol-1 (see part (b)), so C is true.",
+        "A is false: -2151 kJ mol-1 is the lattice energy, not the enthalpy change of formation; B is false: DsolH = +38 is endothermic; D is false: an endothermic dissolving process gives a negative entropy change of the surroundings (DS = -DH/T)."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-22.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q19.jpg"
       ]
     },
     {
@@ -1121,12 +1347,19 @@
         "-314"
       ],
       "question": "Using the enthalpy cycle for lead(II) nitrate, calculate the enthalpy change of hydration of a nitrate ion. Options: A -3598, B -1799, C -628, D -314 kJ mol-1.",
-      "status": "pending",
-      "answer": "Needs the enthalpy cycle values from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: -314 kJ mol-1",
+      "steps": [
+        "DsolH = -LE + DhydH(Pb2+) + 2 DhydH(NO3-).",
+        "+38 = +2151 + (-1485) + 2x, so 2x = 38 - 2151 + 1485 = -628.",
+        "DhydH(NO3-) = -628 / 2 = -314 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-22.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q19.jpg"
       ]
     },
     {
@@ -1143,14 +1376,21 @@
         "standard entropy data"
       ],
       "question": "Calculate the standard entropy change of the system for BaCO3(s) -> BaO(s) + CO2(g). The standard entropy data are not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the standard entropy data from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "DS(system) = +171.9 J K-1 mol-1",
+      "steps": [
+        "DS(system) = S(BaO) + S(CO2) - S(BaCO3).",
+        "= 70.4 + 213.6 - 112.1.",
+        "= +171.9 J K-1 mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q20.jpg"
       ]
     },
     {
@@ -1167,14 +1407,21 @@
         "Gibbs energy zero"
       ],
       "question": "The lowest temperature at which barium carbonate decomposes is 712 C. Using this and your answer to (a)(i), calculate the standard enthalpy change of the reaction, with an appropriate number of significant figures.",
-      "status": "pending",
-      "answer": "Depends on the entropy change from (a)(i), which needs the PDF data",
-      "steps": [],
+      "status": "ready",
+      "answer": "DH = +169 kJ mol-1",
+      "steps": [
+        "At the lowest temperature of decomposition DS(total) = 0, so DS(system) = DH/T and DH = T x DS(system).",
+        "T = 712 + 273 = 985 K, so DH = 985 x 171.9 = 169 300 J mol-1.",
+        "Convert and round to 3 s.f. (the temperature is given to 3 s.f.): DH = +169 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q20.jpg"
       ]
     },
     {
@@ -1221,14 +1468,20 @@
         "formulae"
       ],
       "question": "Complete the Hess cycle for the enthalpy change of solution of anhydrous MgCl2 by adding formulae with state symbols to the empty boxes. The cycle diagram is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the Hess cycle diagram from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Left box: Mg2+(g) + 2Cl-(g); right box: MgCl2(s)",
+      "steps": [
+        "The arrow labelled lattice energy points from the left box to the right box, and lattice energy is the formation of the solid from gaseous ions: Mg2+(g) + 2Cl-(g) -> MgCl2(s).",
+        "The left box is also the start of the hydration arrow (gaseous ions to aqueous ions); the right box MgCl2(s) is the start of the solution arrow."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q20-2.jpg"
       ]
     },
     {
@@ -1244,14 +1497,21 @@
         "-155 kJ mol-1"
       ],
       "question": "Calculate the standard enthalpy change of hydration of chloride ions, using the Hess cycle in (c)(i) and your answer to (b). If (b) was not obtained, use -155 kJ mol-1.",
-      "status": "pending",
-      "answer": "Needs the Hess cycle from (c)(i) and the hydration enthalpy of Mg2+ from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "DhydH(Cl-) = about -367 kJ mol-1 (using DsolH = -127 kJ mol-1 from part (b))",
+      "steps": [
+        "Hess's law: DhydH(Mg2+) + 2 DhydH(Cl-) = lattice energy + DsolH.",
+        "-1920 + 2x = -2526 + (-127), so 2x = -2653 + 1920 = -733.",
+        "DhydH(Cl-) = -733 / 2 = -367 kJ mol-1 (-368 if -130 kJ mol-1 is used for DsolH; with the substitute value -155 it would be -381)."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q20-2.jpg"
       ]
     },
     {
@@ -1386,13 +1646,23 @@
         "empty boxes"
       ],
       "question": "Complete the Born-Haber cycle for MgCl2 by adding labels for the four energy changes and writing formulae in the two empty boxes. The table and cycle are not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the cycle diagram and table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Labels: B (first IE of Mg), C (second IE of Mg), D (atomisation of chlorine), E (lattice energy); empty boxes: Mg(g) + Cl2(g) (lower) and Mg+(g) + Cl2(g) + e- (upper)",
+      "steps": [
+        "Box above Mg(s) + Cl2(g) (after the arrow A): Mg(g) + Cl2(g).",
+        "The arrow from Mg(g) + Cl2(g) to the next box is the first ionisation energy: label B; the next box is Mg+(g) + Cl2(g) + e-.",
+        "The arrow to Mg2+(g) + Cl2(g) + 2e- is the second ionisation energy: label C.",
+        "The top-left arrow Cl2(g) -> 2Cl(g) is the atomisation of chlorine: label D (a value of 2 x 122 is used for two Cl atoms).",
+        "The long right-hand arrow Mg2+(g) + 2Cl-(g) -> MgCl2(s) is the lattice energy: label E."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-26.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-27.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-28.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q21.jpg",
+        "papers/chemistry/fig/12B-Lattice-Energy-Q21-2.jpg"
       ]
     },
     {
@@ -1408,13 +1678,21 @@
         "completed cycle"
       ],
       "question": "Calculate the electron affinity of chlorine, in kJ mol-1, using the data in the table and the completed Born-Haber cycle for MgCl2.",
-      "status": "pending",
-      "answer": "Needs the energy values from the PDF table; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "electron affinity of chlorine = -348 kJ mol-1",
+      "steps": [
+        "F = A + B + C + 2D + 2 x EA(Cl) + E (two Cl atoms are atomised and two are ionised).",
+        "-641 = 148 + 738 + 1451 + 2(122) + 2 EA - 2526; the known terms add to +55.",
+        "2 EA = -641 - 55 = -696, so EA = -348 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-26.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-27.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-28.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q21.jpg",
+        "papers/chemistry/fig/12B-Lattice-Energy-Q21-2.jpg"
       ]
     },
     {
@@ -1459,13 +1737,21 @@
         "Hess"
       ],
       "question": "Calculate the standard molar enthalpy change of solution of MgCl2 using the data shown and the lattice energy LE[MgCl2] from the table.",
-      "status": "pending",
-      "answer": "Needs the hydration data and table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "DsolH(MgCl2) = -122 kJ mol-1",
+      "steps": [
+        "DsolH = -LE + DhydH(Mg2+) + 2 DhydH(Cl-).",
+        "= +2526 + (-1920) + 2(-364).",
+        "= 2526 - 1920 - 728 = -122 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-26.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-27.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-28.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q21.jpg",
+        "papers/chemistry/fig/12B-Lattice-Energy-Q21-3.jpg"
       ]
     },
     {
@@ -1483,13 +1769,22 @@
         "six values"
       ],
       "question": "Discuss the reasons for the differences between the experimental and theoretical lattice energies of three crystal lattices, in terms of their structure and bonding. The six values are in a table not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the six lattice energy values from the PDF table to discuss each compound; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "The theoretical value assumes 100% ionic bonding (perfect spherical ions); the experimental value includes real covalent character, which increases as the cation polarises the anion more. NaF is nearly ideal, MgF2 slightly less so, and MgCl2 differs most",
+      "steps": [
+        "Theoretical values assume a purely ionic lattice of perfectly spherical ions held by electrostatic attraction; Born-Haber (experimental) values reflect the real bonding, including any covalent character.",
+        "NaF: -918 against -912 kJ mol-1. Na+ is large for a 1+ ion (low charge density) and F- is small and hard to polarise, so the bonding is almost completely ionic and the two values nearly agree.",
+        "MgF2: -2957 against -2913 kJ mol-1. Mg2+ is small and 2+, so it has high charge density and polarises F- slightly; a small amount of covalent character makes the experimental value a little more exothermic. Lattice energies are much larger than for NaF because of the 2+ charge.",
+        "MgCl2: -2526 against -2326 kJ mol-1. Cl- is bigger and more polarisable than F-, so Mg2+ distorts it considerably; the larger covalent contribution gives the biggest difference (experimental more exothermic).",
+        "Overall: the more the cation polarises the anion (high charge density cation, large anion), the more the experimental value exceeds the theoretical one."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-26.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-27.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-28.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q21-4.jpg"
       ]
     },
     {
@@ -1507,12 +1802,19 @@
         "Li2O"
       ],
       "question": "Which compound has the greatest degree of covalency within its ionic bonds? Options: A NaI, B AgBr, C Rb2S, D Li2O. The lattice energy data table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the lattice energy data from the PDF to confirm; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: AgBr",
+      "steps": [
+        "The greater the difference between the experimental and theoretical lattice energies, the greater the covalent character.",
+        "Percentage differences: NaI 18/687 = 2.6%; AgBr 75/816 = 9.2%; Rb2S 40/1904 = 2.1%; Li2O 15/2799 = 0.5%.",
+        "AgBr has by far the largest difference, so it has the most covalency."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-28.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-29.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q22.jpg"
       ]
     },
     {
@@ -1527,12 +1829,18 @@
         "gaseous atoms"
       ],
       "question": "Which equation represents the standard enthalpy change of atomisation of iodine? The options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Equation options are missing from the extracted text; the correct form is 1/2 I2(g) -> I(g), check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 1/2 I2(s) -> I(g)",
+      "steps": [
+        "Atomisation forms one mole of gaseous atoms from the element in its standard state.",
+        "Iodine is a solid at standard conditions, so the equation is 1/2 I2(s) -> I(g); B and D are wrong state, C makes two moles of atoms."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-29.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q23.jpg"
       ]
     },
     {
@@ -1548,12 +1856,18 @@
         "O2-"
       ],
       "question": "Which equation represents the second electron affinity of oxygen? The options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Equation options are missing from the extracted text; the correct form is O-(g) + e- -> O2-(g), check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: O-(g) + e- -> O2-(g)",
+      "steps": [
+        "The second electron affinity is the gain of a second electron by a gaseous O- ion, forming O2-.",
+        "B adds two electrons to O (that is the sum of both electron affinities); C and D are ionisation energies."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-29.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q24.jpg"
       ]
     },
     {
@@ -1623,12 +1937,19 @@
         "effervescent"
       ],
       "question": "For the reaction at 25 C, the standard entropy change of the surroundings is given in a value not shown in the extracted text. Calculate the enthalpy change of the reaction, including sign and units.",
-      "status": "pending",
-      "answer": "Needs the value of the entropy change of the surroundings from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "DH = +70.0 kJ mol-1",
+      "steps": [
+        "DS(surroundings) = -DH / T, so DH = -T x DS(surroundings).",
+        "T = 25 + 273 = 298 K, DS(surroundings) = -234.9 J K-1 mol-1, so DH = -298 x (-234.9) = +70 000 J mol-1.",
+        "DH = +70.0 kJ mol-1 (endothermic, which is why the surroundings' entropy falls)."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-30.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q25.jpg"
       ]
     },
     {
@@ -1645,9 +1966,14 @@
         "+18.6 kJ mol-1"
       ],
       "question": "Sketch an enthalpy level diagram showing the relationship between the enthalpy change of solution (+18.6 kJ mol-1 for NaHCO3), lattice energy and enthalpies of hydration, fully labelled.",
-      "status": "pending",
-      "answer": "A labelled diagram must be drawn and checked against the PDF; it cannot be verified from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Three levels: Na+(g) + HCO3-(g) at the top, Na+(aq) + HCO3-(aq) in the middle and NaHCO3(s) at the bottom; the aqueous ions are +18.6 kJ mol-1 above NaHCO3(s)",
+      "steps": [
+        "Top level: Na+(g) + HCO3-(g). Bottom level: NaHCO3(s). Middle level: Na+(aq) + HCO3-(aq), 18.6 kJ above the solid.",
+        "Draw an arrow down from the top level to the bottom level, labelled lattice energy (exothermic, the longest arrow).",
+        "Draw an arrow down from the top level to the middle level, labelled sum of enthalpy changes of hydration (exothermic, a bit shorter than the lattice energy arrow).",
+        "Draw an arrow up from NaHCO3(s) to the middle level, labelled DsolH = +18.6 kJ mol-1 (endothermic, because |lattice energy| is larger than |sum of hydration enthalpies| by 18.6 kJ mol-1)."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-30.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-31.jpg"
@@ -1694,13 +2020,20 @@
         "CuSO4.5H2O"
       ],
       "question": "Using the data in the table, calculate the standard enthalpy change for CuSO4.5H2O(s) -> CuSO4(s) + 5H2O(l).",
-      "status": "pending",
-      "answer": "Needs the data table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "DH = +79.2 kJ mol-1",
+      "steps": [
+        "DH = sum of DfH(products) - sum of DfH(reactants).",
+        "= [-771.4 + 5(-285.8)] - (-2279.6).",
+        "= -771.4 - 1429.0 + 2279.6 = +79.2 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q27.jpg"
       ]
     },
     {
@@ -1716,13 +2049,20 @@
         "data table"
       ],
       "question": "Using the data in the table, calculate the standard molar entropy change for CuSO4.5H2O(s) -> CuSO4(s) + 5H2O(l).",
-      "status": "pending",
-      "answer": "Needs the data table from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "DS(system) = +158.1 J K-1 mol-1",
+      "steps": [
+        "DS = sum of S(products) - sum of S(reactants).",
+        "= [109.0 + 5(69.9)] - 300.4.",
+        "= 109.0 + 349.5 - 300.4 = +158.1 J K-1 mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q27.jpg"
       ]
     },
     {
@@ -1739,13 +2079,20 @@
         "decomposition"
       ],
       "question": "Using your answers to (a)(i) and (a)(ii), calculate the lowest temperature at which hydrated copper(II) sulfate will decompose.",
-      "status": "pending",
-      "answer": "Depends on the answers to (a)(i) and (a)(ii), which need the PDF table",
-      "steps": [],
+      "status": "ready",
+      "answer": "T = 501 K (about 228 C)",
+      "steps": [
+        "The reaction starts to be feasible when DS(total) = DS(system) - DH/T = 0, so T = DH / DS(system).",
+        "T = 79 200 J mol-1 / 158.1 J K-1 mol-1 (convert kJ to J).",
+        "T = 501 K (500.9 K), about 228 C."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q27.jpg"
       ]
     },
     {
@@ -1816,13 +2163,19 @@
         "hydration"
       ],
       "question": "Complete the Hess cycle for the enthalpy change of solution of CuCl2 by filling in the empty boxes. The cycle diagram is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the Hess cycle diagram from the PDF; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Top box: Cu2+(g) + 2Cl-(g); left box: CuCl2(s)",
+      "steps": [
+        "The lattice energy arrow goes from the gaseous ions to the solid, so the top box is Cu2+(g) + 2Cl-(g) and the left box is CuCl2(s).",
+        "The right-hand arrow from the top box to Cu2+(aq) + 2Cl-(aq) is the sum of the hydration enthalpies; the bottom arrow CuCl2(s) -> aqueous ions is DsolH."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q27-2.jpg"
       ]
     },
     {
@@ -1865,13 +2218,20 @@
         "calculation"
       ],
       "question": "The lattice energy of CuCl2 is -2811 kJ mol-1. Using this value, the data in the table and your expression in (c)(iii), calculate the enthalpy change of solution.",
-      "status": "pending",
-      "answer": "Needs the hydration enthalpies from the PDF table; not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "DsolH(CuCl2) = -45 kJ mol-1",
+      "steps": [
+        "DsolH = -LE + DhydH(Cu2+) + 2 DhydH(Cl-).",
+        "= +2811 + (-2100) + 2(-378).",
+        "= 2811 - 2100 - 756 = -45 kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q27-3.jpg"
       ]
     },
     {
