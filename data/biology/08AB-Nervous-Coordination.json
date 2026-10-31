@@ -1258,12 +1258,18 @@
         "-70 mV"
       ],
       "question": "From the oscilloscope trace, which is the resting potential of the axon? A -70 mV, B -78 mV, C 38 mV, D 108 mV (1 mark).",
-      "status": "pending",
-      "answer": "Pending: the oscilloscope trace is not in the text, so the resting potential cannot be read from it.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: -70 mV",
+      "steps": [
+        "The resting potential is the steady potential difference before the stimulus, and the trace before the spike sits at about -70 mV.",
+        "-78 mV is the undershoot after the spike and 38 mV is the peak, so only A is the resting potential."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q10.jpg"
       ]
     },
     {
@@ -1280,12 +1286,18 @@
         "open channels"
       ],
       "question": "Which voltage-gated ion channels are open at point Y on the action potential trace? (1 mark)",
-      "status": "pending",
-      "answer": "Pending: point Y on the trace is not in the text, so the open channels cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: voltage-gated potassium channels only",
+      "steps": [
+        "Y is on the falling part of the trace, which is repolarisation.",
+        "Voltage-gated sodium channels have closed (inactivated) by then, while voltage-gated potassium channels are open so K+ flows out, so only C is correct."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q10.jpg"
       ]
     },
     {
@@ -1302,12 +1314,18 @@
         "graph"
       ],
       "question": "What is the state of polarisation of the membrane at point Z on the trace? A depolarised, B hyperpolarised, C hypopolarised, D unpolarised (1 mark).",
-      "status": "pending",
-      "answer": "Pending: point Z on the trace is not in the text, so the polarisation state cannot be read.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: hyperpolarised",
+      "steps": [
+        "At Z the potential is slightly below the resting value of -70 mV (about -72 to -78 mV).",
+        "This overshoot happens because the K+ channels are slow to close, so the membrane is hyperpolarised before returning to resting."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q10.jpg"
       ]
     },
     {
@@ -1469,13 +1487,20 @@
         "comment"
       ],
       "question": "Comment on the graphs showing the effect of the LRRK2 mutation on dendrites of dopamine neurones made from stem cells of three groups (3 marks).",
-      "status": "pending",
-      "answer": "Pending: the graphs of dendrite results for the three groups are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Neurones from people with Parkinson's disease have fewer and shorter dendrites than controls, and LRRK2 neurones are similar to the unknown-cause group.",
+      "steps": [
+        "Number of dendrites: about 6.0 per neurone in the control, against about 3.5 in both Parkinson's groups, and the error bars do not overlap the control.",
+        "Length: about 45 um in the control, against about 25 um (unknown cause) and 30 um (LRRK2), with no overlap between control and disease error bars.",
+        "LRRK2 and unknown-cause groups are similar in number and the error bars overlap on length, so the LRRK2 mutation does not seem to make dendrites any smaller than other causes; fewer, shorter dendrites mean fewer synapses and so reduced signalling."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-023.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-024.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-025.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q11.jpg"
       ]
     },
     {
@@ -1493,13 +1518,20 @@
         "table"
       ],
       "question": "Complete the table with the name and function of each of three labelled brain regions (2 marks).",
-      "status": "pending",
-      "answer": "Pending: the labelled brain diagram and the table are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "P (medulla oblongata): controls heart rate and breathing rate; Q: hypothalamus, regulates body temperature and water balance and controls the pituitary gland; R: cerebellum.",
+      "steps": [
+        "P is the medulla oblongata, which controls involuntary activities such as heart rate, breathing rate and ventilation.",
+        "Q lies just above the pituitary in the centre of the brain, the hypothalamus, which regulates body temperature, osmoregulation and hormone release from the pituitary.",
+        "R is the cerebellum, already given as balance and coordinating movement."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-025.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-026.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-027.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q12.jpg"
       ]
     },
     {
@@ -1813,13 +1845,20 @@
         "table"
       ],
       "question": "Complete the table by filling in the names of each labelled part of the relay neurone diagram (2 marks).",
-      "status": "pending",
-      "answer": "Pending: the labelled relay neurone diagram and table are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "L: dendron (or dendrite); M: dendrites; N: axon; O: synaptic knobs (axon terminals)",
+      "steps": [
+        "L and M are the branching processes that carry impulses towards the cell body: L points to a stalk at the point where it splits into fine branches (dendron/dendrite) and M groups the dendrites.",
+        "N is the long axon leaving the cell body, which carries the impulse away.",
+        "O are the swellings at the ends of the axon branches, the synaptic knobs (terminals) where neurotransmitter is released."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q14.jpg"
       ]
     },
     {
@@ -1866,13 +1905,19 @@
         "magnification"
       ],
       "question": "State the type of microscope used to produce the photograph of a nerve with an outer layer of connective tissue (1 mark).",
-      "status": "pending",
-      "answer": "Pending: the photograph is not in the text, and the magnification and scale needed to decide the microscope type cannot be checked.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Scanning electron microscope (SEM)",
+      "steps": [
+        "The image shows the three-dimensional surface of the nerve with great depth of field and a magnification of x3300.",
+        "That is typical of a scanning electron microscope, not a light microscope or a transmission electron microscope, which gives a flat 2D section."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q14-2.jpg"
       ]
     },
     {
@@ -1890,13 +1935,20 @@
         "photograph"
       ],
       "question": "Calculate the thickness of the connective tissue layer between points X and Y on the photograph, in micrometres (2 marks).",
-      "status": "pending",
-      "answer": "Pending: the photograph with points X and Y and its scale are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 3.7 um (accept about 3.5 to 4.0 um)",
+      "steps": [
+        "Measure the line X to Y on the photograph: about 12.3 mm.",
+        "Real size = image size / magnification = 12.3 mm / 3300 = 0.00373 mm.",
+        "Convert to micrometres: 0.00373 mm x 1000 = 3.7 um."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q14-2.jpg"
       ]
     },
     {
@@ -2003,14 +2055,25 @@
         "light"
       ],
       "question": "Discuss how the results of the phototropism experiments (shown in the drawing of a coleoptile) support the role of a plant growth substance in the phototropic response (6 marks).",
-      "status": "pending",
-      "answer": "Pending: the drawings of the coleoptile experiments and their results are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The results show the tip perceives light and makes a chemical that diffuses down the shoot and causes unequal growth, so bending towards light is controlled by a growth substance (auxin).",
+      "steps": [
+        "Expt 1: the intact coleoptile bends towards light, but with the tip removed or covered by a black cap there is no bending, so the tip detects the light and is needed for the response.",
+        "Expt 2a: a plastic sheet that blocks the whole width below the tip stops the response, but one blocking only the lit side still allows bending, so a substance moves down from the tip on the shaded side.",
+        "Expt 2b: a gel layer, which lets chemicals diffuse through, does not stop bending, so the signal is a diffusible chemical rather than an electrical impulse.",
+        "Expt 3: a tip placed on one side of a cut stump in the dark makes it bend away from that side, so the tip produces a substance without light that stimulates cell elongation under it.",
+        "Together: auxin (IAA) is made in the tip and, with one-sided light, moves to the shaded side, so cells there elongate more and the shoot bends towards light.",
+        "These experiments show a chemical is involved but do not identify it, and the drawings show no replicates."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-032.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-033.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-034.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-035.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q15.jpg",
+        "papers/biology/fig/08AB-Nervous-Coordination-Q15-2.jpg"
       ]
     },
     {
@@ -2027,12 +2090,19 @@
         "diagram"
       ],
       "question": "Label the diagram of a section through the human brain to show the pituitary gland, medulla oblongata and cerebral hemisphere (3 marks).",
-      "status": "pending",
-      "answer": "Pending: the brain section diagram is not in the text, so the labels cannot be placed.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Pituitary gland: the small rounded structure at the base of the brain, hanging below the centre front of the stalk; medulla oblongata: the lower part of the brain stem, narrowing as it joins the spinal cord; cerebral hemisphere: the large folded outer part of the brain.",
+      "steps": [
+        "Draw a label line to the small oval gland attached under the centre of the brain, in front of the brainstem: pituitary gland.",
+        "Draw a label line to the lowest part of the brainstem, just above where it narrows into the spinal cord: medulla oblongata.",
+        "Draw a label line to the large wrinkled upper and outer region (not the cerebellum): cerebral hemisphere (cerebrum)."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-035.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-036.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q16.jpg"
       ]
     },
     {
@@ -2050,12 +2120,19 @@
         "complete"
       ],
       "question": "Complete the table to show the parts of the brain and their functions (2 marks).",
-      "status": "pending",
-      "answer": "Pending: the table to complete is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Cerebellum: balance and coordination of movement; medulla oblongata: control of heart rate; cerebral hemisphere: conscious thought, learning, memory and voluntary movement.",
+      "steps": [
+        "Cerebellum: coordinates muscle movement, balance and posture.",
+        "Row 2 (control of heart rate): the part of the brain is the medulla oblongata.",
+        "Cerebral hemisphere (cerebrum): conscious thought, learning and memory, vision and hearing interpretation, and voluntary control of movement."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-035.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-036.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q16-2.jpg"
       ]
     },
     {
@@ -2163,9 +2240,13 @@
         "electrocardiogram"
       ],
       "question": "Explain how an electrocardiogram could be used to show that a person has postural orthostatic tachycardia syndrome (POTS) (Box 1) (2 marks).",
-      "status": "pending",
-      "answer": "Pending: Box 1 of the source article, which gives the diagnostic criteria for POTS, is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "An ECG records the heart rate: in POTS the ECG taken on standing shows a much shorter interval between beats (a sustained rise of at least about 30 beats per minute) than when lying down.",
+      "steps": [
+        "Record an ECG while the patient lies flat, then again after standing, and measure the time between successive R waves (QRS complexes) to calculate heart rate.",
+        "In POTS the heart rate rises sharply and stays raised on standing (tachycardia, typically 30 bpm or more above the resting rate), with a normal rhythm and no other ECG abnormality.",
+        "Blood pressure does not fall to explain it, so the rate change is the diagnostic sign (the exact criteria are those given in Box 1)."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-036.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
@@ -2278,9 +2359,13 @@
         "gut"
       ],
       "question": "Explain how the interaction of microbial and other factors could result in gastrointestinal inflammation such as IBD (Box 2) (3 marks).",
-      "status": "pending",
-      "answer": "Pending: Box 2 of the source article, which describes the factors involved in IBD, is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Genetic susceptibility and environmental factors such as diet or antibiotics change the gut microbiota and damage the gut barrier, so microbes and their products trigger an excessive, persistent immune response that causes inflammation.",
+      "steps": [
+        "Factors such as genes, diet, antibiotics and stress disrupt the normal balance of gut microbes (dysbiosis) and weaken the epithelial barrier.",
+        "Bacteria and their products cross the damaged lining and are detected by immune cells, which release inflammatory cytokines and recruit more immune cells.",
+        "If the immune response is not switched off (and enteric neurone signalling also alters), the inflammation becomes chronic and causes tissue damage, as in IBD."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-036.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
@@ -2415,15 +2500,21 @@
         "action"
       ],
       "question": "Which row of the table shows the action of the two forms of phytochrome, Pr (P660) and Pfr (P730)? (1 mark)",
-      "status": "pending",
-      "answer": "Pending: the table of rows is not in the text, so the correct row cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: Pfr absorbs far-red light and Pfr breaks down in the dark",
+      "steps": [
+        "Pfr (P730) is the form that absorbs far-red light, which converts it to Pr.",
+        "Pfr is the unstable form and breaks down or reverts in the dark, while Pr is stable, so A is correct."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-040.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-041.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-042.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-043.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-044.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q19.jpg"
       ]
     },
     {
@@ -2441,15 +2532,22 @@
         "light"
       ],
       "question": "Explain the role of auxins in the phototropic response of a shoot, using the diagram of auxin molecules (3 marks).",
-      "status": "pending",
-      "answer": "Pending: the diagram of auxin molecules producing the phototropic response is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Light from one side makes auxin move to the shaded side, where it stimulates greater cell elongation, so the shoot bends towards the light.",
+      "steps": [
+        "With light from directly above (first shoot) auxin is evenly spread on both sides, so both sides elongate equally and the shoot grows straight.",
+        "With light from one side (second shoot) more auxin molecules are on the shaded side than on the lit side.",
+        "The higher auxin concentration on the shaded side makes cells there elongate faster (by loosening the cell walls), so the shoot bends towards the light, as in the third shoot (positive phototropism)."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-040.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-041.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-042.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-043.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-044.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q19-2.jpg"
       ]
     },
     {
@@ -2498,15 +2596,23 @@
         "graphs"
       ],
       "question": "Comment on the effect of IAA and the synthetic auxin NAA on the growth of Chlorella, using the graphs of different concentrations (4 marks).",
-      "status": "pending",
-      "answer": "Pending: the graphs of Chlorella growth at different auxin concentrations are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both IAA and NAA increased Chlorella growth compared with the control; IAA was most effective at 0.1 umol dm^-3 and the effect fell at higher concentrations, whereas NAA was most effective at 1 umol dm^-3, and IAA had the larger effect.",
+      "steps": [
+        "IAA: all concentrations gave more cells than the control (21 x 10^6 cm^-3 at 72 h), with 0.1 umol dm^-3 the highest (about 33.5), then 1 (28.8) and 10 umol dm^-3 (24.2): the lower the concentration, the greater the growth.",
+        "NAA: all concentrations also rose above the control, but by less: 1 umol dm^-3 was best (about 25.8 at 72 h), 10 gave 23.0 and 0.1 gave 22.0, barely above the control (21.4).",
+        "Growth increased with time under all treatments; the best IAA treatment (about +12 x 10^6 over control at 72 h) is much more effective than the best NAA (about +4 x 10^6).",
+        "The natural auxin IAA is therefore more effective than the synthetic NAA, and the best concentration is different for each; only three time points and no repeats are shown."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-040.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-041.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-042.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-043.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-044.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q19-3.jpg"
       ]
     },
     {
@@ -2554,14 +2660,20 @@
         "response"
       ],
       "question": "Which row of the table is correct about a beluga whale responding to a stimulus using a spinal reflex arc? (1 mark)",
-      "status": "pending",
-      "answer": "Pending: the table of rows is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: relay neurone in the grey matter of the spinal cord; cell body of the sensory neurone in the middle of the axon",
+      "steps": [
+        "Relay neurones lie within the grey matter of the spinal cord, where cell bodies are found, while white matter contains myelinated axons.",
+        "The cell body of a sensory neurone is in the dorsal root ganglion, off to the side in the middle of the axon (not at its end), so only B is correct."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-044.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-045.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-046.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-047.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q20.jpg"
       ]
     },
     {
@@ -2579,14 +2691,21 @@
         "comment"
       ],
       "question": "Comment on the changes in heart rate of the whale when diving, using the graph of heart rate against dive duration (3 marks).",
-      "status": "pending",
-      "answer": "Pending: the graph of heart rate for different dive durations is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "During a dive the heart rate falls to low values (about 2 to 9 bpm), and it falls further the longer the dive, but after surfacing it rises to a maximum (about 28 to 35 bpm) that is higher after longer dives.",
+      "steps": [
+        "During a dive the maximum rate falls from about 9 bpm to about 6.5 bpm, and the minimum falls from about 6.5 bpm to about 2 bpm as dive duration goes from 0 to 16 minutes, so heart rate is much lower than at the surface (bradycardia).",
+        "This reduces oxygen use and conserves the oxygen stores, so longer dives need a lower rate.",
+        "The maximum rate at the surface rises from about 28 to about 35 bpm as the dive lengthens, to restore oxygen and remove CO2 and lactate, so the effort needed is greater after a longer dive."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-044.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-045.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-046.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-047.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q20-2.jpg"
       ]
     },
     {
@@ -2750,13 +2869,19 @@
         "concentration"
       ],
       "question": "Comment on the effect of the gibberellin on the growth of cereal plants, using the table of mean internode lengths (2 marks).",
-      "status": "pending",
-      "answer": "Pending: the table of mean lengths of IN1, IN2 and IN3 at each gibberellin concentration is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The gibberellin increases internode length above 10 ppm, most in the first internode (36 to 56 cm) and little in the second and third.",
+      "steps": [
+        "At 0 and 10 ppm there is no effect on any internode (36, 19 and 14 cm).",
+        "Above 10 ppm the first internode lengthens with concentration: 36, 41, 52 and 56 cm at 0, 100, 1000 and 2500 ppm, a rise of about 56 %, whereas the second rises by only 3 cm (19 to 22) and the third by 1 cm (14 to 15)."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q21.jpg"
       ]
     },
     {
@@ -2833,14 +2958,20 @@
         "points 1 and 2"
       ],
       "question": "Explain why the membrane potential changes between points 1 and 2 on the diagram of an action potential in a motor neurone (2 marks).",
-      "status": "pending",
-      "answer": "Pending: the diagram of the membrane potential with points 1 and 2 is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A stimulus depolarises the membrane to threshold (-55 mV), so voltage-gated sodium channels open and Na+ floods into the axon, making the inside positive (+30 mV).",
+      "steps": [
+        "The stimulus raises the membrane potential from the resting -70 mV to the threshold of -55 mV, which opens voltage-gated Na+ channels.",
+        "Na+ ions then diffuse into the axon down their electrochemical gradient, and the entry of more Na+ opens further channels (positive feedback), so the potential rises quickly from -70 mV to about +30 mV (depolarisation)."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-049.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-050.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q22.jpg"
       ]
     },
     {
@@ -2858,14 +2989,21 @@
         "y = mx + c"
       ],
       "question": "Calculate the percentage difference in the gradient of the myelinated and non-myelinated neurones; the non-myelinated gradient is 0.5 (3 marks).",
-      "status": "pending",
-      "answer": "Pending: the gradient for the myelinated neurone must be read from the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1100 %",
+      "steps": [
+        "The myelinated line passes through the origin and (20, 120), so its gradient m = 120 / 20 = 6.0 m s^-1 per um.",
+        "Non-myelinated gradient is 0.5 (given).",
+        "Percentage difference = (6.0 - 0.5) / 0.5 x 100 = 1100 %, taking the non-myelinated value as the reference (the myelinated gradient is 12 times as steep)."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-049.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-050.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q22-2.jpg"
       ]
     },
     {
@@ -2896,6 +3034,9 @@
         "papers/biology/img/08AB-Nervous-Coordination-050.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q22-2.jpg"
       ]
     },
     {
@@ -2971,12 +3112,19 @@
         "significant figures"
       ],
       "question": "Calculate the actual width of lesion B between points X and Y on the MRI scan, to 2 significant figures (2 marks).",
-      "status": "pending",
-      "answer": "Pending: the MRI scan with its scale bar and points X and Y is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 0.90 cm",
+      "steps": [
+        "There is no scale bar, so use lesion A as the scale: S to T measures about 54 mm on the page and is 1.97 cm in life.",
+        "X to Y measures about 25 mm on the page, so the ratio is 24.7 / 54.2 = 0.456.",
+        "Actual width = 1.97 x 0.456 = 0.90 cm (2 s.f.)."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-052.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-053.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q23.jpg"
       ]
     },
     {
@@ -3050,15 +3198,21 @@
         "row"
       ],
       "question": "Which row in the table shows the effect of an increase in adrenaline in a mammal? (1 mark)",
-      "status": "pending",
-      "answer": "Pending: the table of rows is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: breathing rate increases and heart rate increases",
+      "steps": [
+        "Adrenaline prepares the body for fight or flight, so it increases both heart rate and breathing rate.",
+        "Only row C has both as increases."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-053.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-054.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-055.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-056.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-057.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q24.jpg"
       ]
     },
     {
@@ -3076,15 +3230,22 @@
         "chemicals"
       ],
       "question": "Deduce the effect of the combination of nicotine and adrenaline on the mean heart rate of Daphnia, using the table of results (3 marks).",
-      "status": "pending",
-      "answer": "Pending: the table of mean heart rates for the nicotine and adrenaline concentrations is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Nicotine lowers the heart rate, and high-concentration adrenaline partly cancels this effect, but low adrenaline has almost no effect on the nicotine-treated hearts.",
+      "steps": [
+        "Nicotine alone lowers the heart rate below the 146 bpm control at every concentration, and the higher the nicotine, the lower the rate (106 bpm at 0.001 down to 84 bpm at 1000 mmol dm^-3).",
+        "With the low adrenaline (0.001 mmol dm^-3) the rates are within about 3 bpm of those with nicotine alone (e.g. 105 against 103 at 0.1), so it hardly changes the nicotine effect.",
+        "With high adrenaline (0.1 mmol dm^-3) the rate is higher than with nicotine alone at every concentration (e.g. 104 against 84 at 1000, 151 against 106 at 0.001), so adrenaline acts against nicotine, and with the least nicotine the rate (151) is above the control."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-053.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-054.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-055.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-056.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-057.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q24-2.jpg"
       ]
     },
     {
@@ -3133,15 +3294,25 @@
         "daylength"
       ],
       "question": "Discuss how phytochromes and gibberellins affect flowering in plants, using the flashes of red and far-red light investigation and the graph of gibberellin concentration (6 marks).",
-      "status": "pending",
-      "answer": "Pending: the diagram of the long-day and short-day plant results and the graph of gibberellin concentration against flowering are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Phytochrome changes with red/far-red light, so night length controls flowering: short-day plants flower only with a long uninterrupted night and long-day plants with a short or interrupted night; gibberellins, made when phytochrome signals are right, promote flowering up to an optimum concentration.",
+      "steps": [
+        "Short-day plants flower when the dark period is above the critical night length (about 12 h), but not when the night is interrupted by red light; far-red straight after the red flash cancels it, so the last flash decides the result (red, then far-red, then red = no flowering).",
+        "Long-day plants do the opposite: they flower when the night is short or interrupted by red light and not when far-red is last.",
+        "Red light changes phytochrome Pr to active Pfr and far-red changes it back; in a long night Pfr falls (it breaks down in the dark), so the Pfr to Pr ratio signals night length and controls whether flowering genes are switched on.",
+        "Gibberellins are produced in response and switch on flowering genes (by breaking down DELLA repressors).",
+        "In the graph, the mean number of flowers rises from 1.0 at 0.3 umol dm^-3 to a maximum of 3.8 at about 1.5 umol dm^-3, then falls to 3.0 and 1.6 at 3.0 and 4.4, so there is an optimum concentration and high concentrations reduce flowering."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-053.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-054.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-055.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-056.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-057.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q24-3.jpg",
+        "papers/biology/fig/08AB-Nervous-Coordination-Q24-4.jpg"
       ]
     },
     {
@@ -3276,12 +3447,18 @@
         "calculation"
       ],
       "question": "Calculate the percentage increase in mean pupil diameter when a person moves from bright light into darkness, using the table of mean pupil diameters (1 mark).",
-      "status": "pending",
-      "answer": "Pending: the table of mean pupil diameters at each light intensity is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "91.3 %",
+      "steps": [
+        "Increase in diameter = 6.41 - 3.35 = 3.06 mm.",
+        "Percentage increase = 3.06 / 3.35 x 100 = 91.3 %."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-059.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-060.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q26.jpg"
       ]
     },
     {
@@ -3413,13 +3590,20 @@
         "table"
       ],
       "question": "Complete the table to show one function for each labelled part of the section through the human brain (3 marks).",
-      "status": "pending",
-      "answer": "Pending: the diagram of the brain section with labels and the table are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Cerebellum: coordinates movement and balance; cerebral hemisphere: conscious thought, memory, learning and voluntary movement; hypothalamus: regulates body temperature and water balance and controls the pituitary gland.",
+      "steps": [
+        "Cerebellum: balance, posture and coordination of voluntary movement.",
+        "Cerebral hemisphere (cerebrum): conscious thought, learning, memory and the origin of voluntary actions.",
+        "Hypothalamus: homeostasis such as temperature and water potential (osmoregulation), and control of hormone release from the pituitary gland."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-060.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-061.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-062.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q27.jpg"
       ]
     },
     {
@@ -3465,12 +3649,18 @@
         "table"
       ],
       "question": "Which row describes the events that occur during repolarisation of a neurone? (1 mark) (table of rows not in text)",
-      "status": "pending",
-      "answer": "Pending: the table of rows is not in the text, so the correct row cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: sodium ion channels closed, membrane potential decreasing",
+      "steps": [
+        "During repolarisation the voltage-gated sodium channels have closed and voltage-gated potassium channels are open, so K+ leaves the axon.",
+        "The potential falls from about +30 mV back towards -70 mV, so it is decreasing; this is row A."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-062.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-063.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q28.jpg"
       ]
     },
     {
@@ -3572,14 +3762,21 @@
         "paragraphs 3 to 7"
       ],
       "question": "Use ticks and crosses to complete the table comparing types of connective tissue in the human body, from paragraphs 3 to 7 (2 marks).",
-      "status": "pending",
-      "answer": "Pending: the comparison table of connective tissue types is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Fascia: contains collagen (tick), rich in nerves (tick), surrounds muscle (tick); ligaments: contains collagen (tick), rich in nerves (cross), surrounds muscle (cross).",
+      "steps": [
+        "Both are fibrous connective tissues rich in collagen.",
+        "Fascia is a sheet of connective tissue wrapped round muscles and well supplied with nerve endings (pain receptors), as in the diffuse-pain paragraphs.",
+        "Ligaments join bone to bone, do not surround muscle and are poorly supplied with nerves, so the last two columns are crosses (the source text is not on the page, so this uses general knowledge)."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-063.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q29.jpg"
       ]
     },
     {

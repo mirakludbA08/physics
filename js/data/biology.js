@@ -39724,6 +39724,7 @@ window.BANK.biology = {
      ],
      "figures": [
       "papers/biology/fig/04BC-Classification-Biodiversity-Q27b.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q27b-3.jpg",
       "papers/biology/fig/04BC-Classification-Biodiversity-Q27b-2.jpg"
      ]
     },
@@ -40196,7 +40197,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-079.jpg"
      ],
      "figures": [
-      "papers/biology/fig/04BC-Classification-Biodiversity-Q30b.jpg"
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q30b.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q30b-2.jpg"
      ]
     },
     {
@@ -40258,7 +40260,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-079.jpg"
      ],
      "figures": [
-      "papers/biology/fig/04BC-Classification-Biodiversity-Q30b.jpg"
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q30b.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q30b-2.jpg"
      ]
     },
     {
@@ -54374,7 +54377,7 @@ window.BANK.biology = {
      "answer": "B: tetracycline using method 2.",
      "steps": [
       "Rf = distance moved by the spot from the origin / distance moved by the solvent front from the origin.",
-      "On the chromatogram the spot is about 151 mm from the origin and the solvent front is about 205 mm from the origin.",
+      "On the chromatogram the spot is about 151 units (measured on the page) from the origin and the solvent front is about 205 units from the origin.",
       "Rf = 151 / 205 = 0.74, which is closest to 0.75, the Rf of tetracycline using method 2."
      ],
      "images": [
@@ -54661,11 +54664,11 @@ window.BANK.biology = {
      ],
      "question": "Put one cross in each row to show whether genes are found in each structure of bacteria and fungi.",
      "status": "ready",
-     "answer": "Mitochondria: fungi only; nuclei: fungi only; 70S ribosomes: neither (they contain rRNA and protein, not genes).",
+     "answer": "Mitochondria: fungi only; nuclei: fungi only; 70S ribosomes: neither (ribosomes are made of rRNA and protein and do not contain genes).",
      "steps": [
       "Mitochondria contain their own DNA (genes) and are found only in eukaryotes, so only in the fungi: fungi only.",
       "The nucleus contains the chromosomes (genes) and is found only in eukaryotes, so only in the fungi: fungi only.",
-      "70S ribosomes are made of rRNA and protein and do not contain genes (the genes for rRNA are in the DNA), so as written the answer is neither; if the question meant which organisms have 70S ribosomes, it would be both, because bacteria have 70S ribosomes and fungal mitochondria also have them."
+      "70S ribosomes are made of rRNA and protein, and genes (DNA) are not part of a ribosome, so neither group has genes in this structure."
      ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
@@ -54693,13 +54696,9 @@ window.BANK.biology = {
       "escherichia"
      ],
      "question": "Which sequence shows the succession of bacteria during development of a giant panda (options A to D)?",
-     "status": "ready",
-     "answer": "C: Escherichia and Shigella, then Streptococcus, then Clostridium (the order in which each group peaks, from cubs to adults).",
-     "steps": [
-      "The graph has three groups of bars: one highest in cubs and falling with age, one highest in young animals, and one rising to be highest in adults, which gives the order of succession.",
-      "Escherichia and Shigella are early colonisers of the gut and are most abundant in cubs.",
-      "Clostridium (anaerobic bacteria that digest cellulose) increases as the panda starts eating bamboo, so is most abundant in adults, with Streptococcus in between; the group names are not shown on the page, so this order is based on this biology, giving option C."
-     ],
+     "status": "pending",
+     "answer": "The graph does not name the four bacterial groups (Clostridium, Streptococcus, Escherichia/Shigella) beside the three bar groups, so the sequence cannot be read from the page.",
+     "steps": [],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
@@ -55631,8 +55630,8 @@ window.BANK.biology = {
      "answer": "D: x 500 000",
      "steps": [
       "Magnification = image size / actual size.",
-      "The diameter of the drawing (envelope) is about 5.4 cm on the page, which is 5.4 x 10^7 nm.",
-      "Magnification = 5.4 x 10^7 / 120 = 4.5 x 10^5, about x 500 000."
+      "The diameter of the drawing (envelope) is about 5.7 cm on the page, which is 5.7 x 10^7 nm.",
+      "Magnification = 5.7 x 10^7 / 120 = 4.8 x 10^5, about x 500 000."
      ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
@@ -59956,15 +59955,21 @@ window.BANK.biology = {
       "clean areas"
      ],
      "question": "Describe two conclusions about the different methods of washing hands, from the diagrams of microorganisms on the skin.",
-     "status": "pending",
-     "answer": "The diagrams of microorganisms after each washing method are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Washing with soap removes more microorganisms than washing without soap, and the longer the washing time the fewer microorganisms remain (almost none after thirty seconds with soap).",
+     "steps": [
+      "Conclusion 1: washing with soap is more effective than without soap, as six seconds without soap (hand 3) leaves large patches of microorganisms, but six seconds with soap (hand 4) leaves only small areas.",
+      "Conclusion 2: the longer the hands are washed with soap, the fewer microorganisms remain, with a few patches after fifteen seconds (hand 5) and almost none after thirty seconds (hand 6).",
+      "Also, 'rinse and shake' (hand 2) removes very few microorganisms, as most of the hand is still covered."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-092.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-093.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-094.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q42.jpg"
+     ]
     },
     {
      "id": "6AB-Q42b(ii)",
@@ -59982,15 +59987,21 @@ window.BANK.biology = {
       "effects"
      ],
      "question": "Explain the differences in the effects that the methods of washing hands have on skin flora.",
-     "status": "pending",
-     "answer": "The diagrams showing differences between washing methods are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Soap breaks down the grease and oils on the skin that hold microbes, and the rubbing and water wash them away, and longer washing gives more time and rubbing, so more microorganisms (including skin flora) are removed.",
+     "steps": [
+      "Soap is a detergent: it lifts grease and dirt from the skin and its surfactant action breaks down the cell membranes of some bacteria, so microbes are removed and killed.",
+      "Rubbing (friction) while washing dislodges microorganisms from the skin and from between the fingers, and water then rinses them away; rinsing and shaking with no rubbing removes few.",
+      "A longer wash gives more time for rubbing and soap action to reach all areas, so fewer skin flora remain; however, the skin flora is not removed completely, as deeper layers and gland openings contain microbes that soon replace those removed."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-092.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-093.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-094.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q42.jpg"
+     ]
     },
     {
      "id": "6AB-Q43a",
@@ -60100,15 +60111,21 @@ window.BANK.biology = {
       "comment"
      ],
      "question": "Comment on the relationship between the number of people who have TB and the percentage of people who have HIV, using the graph.",
-     "status": "pending",
-     "answer": "The scatter graph of TB cases against HIV percentage is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "There is a positive correlation: countries with a higher percentage of the population with HIV have more TB cases, but the relationship is weak at low percentages, with a lot of scatter.",
+     "steps": [
+      "As the percentage of the population with HIV increases, the number of people with TB per 100 000 increases, so there is a positive correlation.",
+      "Below about 6% HIV, TB ranges widely from near 0 to about 810 per 100 000 (an anomaly at about 3% HIV with about 810), so the relationship is weak there, whereas above 15% HIV all countries have more than about 340 cases and reach up to about 950.",
+      "Correlation does not prove that HIV causes the increase in TB, as other factors (poverty, crowding, healthcare) may differ between countries."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-094.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q43.jpg"
+     ]
     },
     {
      "id": "6AB-Q43c(ii)",
@@ -60139,7 +60156,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q43.jpg"
+     ]
     },
     {
      "id": "6AB-Q44a",
@@ -60219,15 +60238,21 @@ window.BANK.biology = {
       "survival"
      ],
      "question": "Describe the conclusions that can be made about the effects of heavy metal ions on the survival of Vibrio, using the graph.",
-     "status": "pending",
-     "answer": "The graph of Vibrio survival against heavy metal concentration is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Survival falls as the concentration of heavy metal rises for all three ions, and copper is the most toxic (survival falls from 100 ug per cm^3 and is zero at 800), then nickel (zero at 1600), and chromium is the least toxic (about half survive even at 3200).",
+     "steps": [
+      "At low concentrations (6.25 to 100 ug per cm^3) all (about 120) samples have surviving Vibrio, so none of the metals is toxic at low concentrations.",
+      "Copper ions are the most toxic: survival starts to fall at 100 ug per cm^3 (about 92 at 200, about 16 at 400) and no sample survives at 800.",
+      "Nickel ions are less toxic: survival stays at about 116 to 120 to 400 ug per cm^3 and falls to about 18 at 800 and 0 at 1600; chromium ions are the least toxic: about 116 samples survive up to 1600 and about 56 survive at 3200 ug per cm^3."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q44.jpg"
+     ]
     },
     {
      "id": "6AB-Q44c(i)",
@@ -60337,15 +60362,21 @@ window.BANK.biology = {
       "data"
      ],
      "question": "What is the proportion of children under five in hospital who are under 6 months old?",
-     "status": "pending",
-     "answer": "The hospital data graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 5/11.",
+     "steps": [
+      "Read the bar for children under five in hospital: the total height is 3.3 million.",
+      "The hatched part (children under 6 months old) starts at 1.8 million and goes up to 3.3 million, which is 1.5 million.",
+      "Proportion = 1.5 / 3.3 = 5 / 11."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-099.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q45.jpg"
+     ]
     },
     {
      "id": "6AB-Q45a(ii)",
@@ -60376,7 +60407,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q45.jpg"
+     ]
     },
     {
      "id": "6AB-Q45b",
@@ -60523,16 +60556,22 @@ window.BANK.biology = {
       "ribosomes"
      ],
      "question": "Put one cross in each row of the table to show whether these statements are true for the types of microorganisms shown.",
-     "status": "pending",
-     "answer": "The table of statements and tick boxes is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Contain both DNA and RNA: both S. cerevisiae and S. aureus; membranes around the cytoplasm and around the nucleus: S. cerevisiae only.",
+     "steps": [
+      "All living cells, both the yeast (a eukaryote) and the bacterium (a prokaryote), contain DNA as their genetic material and RNA for protein synthesis.",
+      "Yeast is a eukaryote with a nucleus surrounded by a nuclear envelope, as well as a cell surface membrane around the cytoplasm.",
+      "S. aureus is a prokaryote with no nucleus, so it has a membrane around the cytoplasm only."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-101.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q46.jpg"
+     ]
     },
     {
      "id": "6AB-Q46b(i)",
@@ -60550,16 +60589,22 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Explain how to calculate the concentration of yeast cells per cm3 from the haemocytometer diagram, given the sample volume of 0.00625 (units as printed).",
-     "status": "pending",
-     "answer": "The number of cells counted in the diagram is not in the text, so the final concentration cannot be calculated.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 2.6 x 10^6 cells per cm^3 (16 cells counted, or 2.9 x 10^6 if all 18 are counted).",
+     "steps": [
+      "Count the cells in the whole grid of 16 squares, counting cells touching the top and left lines of each square but not those touching the bottom and right lines of the whole grid, to avoid counting twice: this gives 16 cells (18 if all are counted).",
+      "Convert the sample volume to cm^3: 0.00625 ul = 0.00625 x 10^-6 dm^3 = 6.25 x 10^-9 dm^3, and 1 dm^3 = 1000 cm^3, so the volume is 6.25 x 10^-6 cm^3.",
+      "Concentration = number of cells / volume = 16 / 6.25 x 10^-6 = 2.56 x 10^6 = 2.6 x 10^6 cells per cm^3 (and if the culture was diluted before counting, multiply by the dilution factor)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-101.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q46-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q46b(ii)",
@@ -61024,7 +61069,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q49.jpg"
+     ]
     },
     {
      "id": "6AB-Q49e(i)",
@@ -61042,16 +61089,21 @@ window.BANK.biology = {
       "decrease"
      ],
      "question": "Describe two conclusions about the effects of three antibiotics on the species richness of gut flora, from the graph.",
-     "status": "pending",
-     "answer": "The graph of species richness for the three antibiotics is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "All three antibiotics reduce the species richness of the gut flora with time (from about 52-53 to 43, 39.5 and 29), antibiotic C causes the greatest decrease and A the least.",
+     "steps": [
+      "Conclusion 1: species richness falls steadily with time for all three antibiotics, from about 52 to 53 at the start to between about 29 and 43 after 6 days, so every antibiotic harms gut flora.",
+      "Conclusion 2: the effects are similar for the first 3 days (about 46 to 47 for all three), after which antibiotic C reduces richness fastest (a fall of about 24 or 45% in 6 days), antibiotic B is intermediate (about 13 or 25%) and antibiotic A least (about 9 or 17%)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-107.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q49-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q49e(ii)",
@@ -61083,7 +61135,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q49-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q50a",
@@ -61101,9 +61155,12 @@ window.BANK.biology = {
       "population pyramid"
      ],
      "question": "Describe two conclusions about the distribution of cholera cases by age group and sex, from the diagram.",
-     "status": "pending",
-     "answer": "The diagram of cholera cases by age and sex is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Most cases are in the 21 to 30 age group, and more males than females are infected in nearly every age group (about 900 males and 600 females aged 21-30).",
+     "steps": [
+      "Conclusion 1: the number of cases is greatest in the 21 to 30 age group (about 900 males and about 600 females) and falls steadily in older age groups to almost no cases above 80; the youngest groups (0 to 10) have about 250 to 300 of each sex.",
+      "Conclusion 2: there are more cases in males than females in most age groups, especially between 11 and 50 (for example 700 v 470 in 11 to 20, and 430 v 190 in 41 to 50), but numbers are similar in 0 to 10 year olds and more females than males at 71 to 80."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-110.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-111.jpg",
@@ -61112,7 +61169,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q50.jpg"
+     ]
     },
     {
      "id": "6AB-Q50b(i)",
@@ -61146,7 +61205,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q50-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q50b(ii)",
@@ -61163,9 +61224,12 @@ window.BANK.biology = {
       "trial"
      ],
      "question": "State why the scientists concluded that a dose of 6 g of rice powder vaccine was needed to stimulate an immune response.",
-     "status": "pending",
-     "answer": "Depends on the antibody concentration graph for each dose, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Only with the 6 g dose did the antibody level rise significantly above the placebo (the error bars do not overlap from week 6 and it reached about 10 times at 8 weeks), whereas 1 g and 3 g did not.",
+     "steps": [
+      "With 1 g and 3 g the antibody level increased by only about 2 to 3 times at most, and the error bars overlap with those of the placebo at all times, so the difference could be due to chance.",
+      "With 6 g the antibody level increased steadily to about 11 times the starting level at 8 weeks, and the error bars of the vaccine and the placebo do not overlap at 6 and 8 weeks."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-110.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-111.jpg",
@@ -61174,7 +61238,10 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q50-2.jpg",
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q50-3.jpg"
+     ]
     },
     {
      "id": "6AB-Q50b(iii)",
@@ -61226,9 +61293,13 @@ window.BANK.biology = {
       "vaccine response"
      ],
      "question": "Compare and contrast the gut flora of non-responders and responders to the vaccine, using the charts.",
-     "status": "pending",
-     "answer": "The charts of gut flora proportions for responders and non-responders are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Non-responders have a much higher proportion of type A (about 54% against 32%) and a smaller proportion of types B, C and D (about 8%, 8% and 4% against 14%, 13% and 12%), and similar 'others' (about 25% and 29%).",
+     "steps": [
+      "Contrast: type A is the largest group in both, but in non-responders it is more than half of the bacteria (about 54%) compared with about 32% in responders.",
+      "Contrast: types B (about 8% against 14%), C (about 8% against 13%) and D (about 4% against 12%) are all smaller in non-responders than in responders, so responders have a more even mix of types.",
+      "Similarity: the other bacteria make up a similar proportion in both groups (about 25% in non-responders and about 29% in responders), and the same five categories of bacteria are present."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-110.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-111.jpg",
@@ -61237,7 +61308,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q50-4.jpg"
+     ]
     },
     {
      "id": "6AB-Q50b(v)",
@@ -61271,7 +61344,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q50-4.jpg"
+     ]
     },
     {
      "id": "6AB-Q51a",
@@ -61353,16 +61428,22 @@ window.BANK.biology = {
       "degrees"
      ],
      "question": "Predict the change in mean global temperature in 2050 from the graph of 1975 to 2023.",
-     "status": "pending",
-     "answer": "The temperature trend graph is not in the text, so the prediction cannot be read.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 1.3 C (accept about 1.2 to 1.5 C).",
+     "steps": [
+      "Draw a line of best fit through the data from 1975 to 2021, which rises from about 0 C in 1975 to about 0.8 C in 2021, a gradient of about 0.016 C per year.",
+      "Extend the line to 2050 (29 years more): 0.8 + 29 x 0.016 = about 1.3 C.",
+      "The change in the mean global temperature in 2050 is therefore predicted to be about 1.3 C above the 1975 value, if the present trend continues."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-115.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q51.jpg"
+     ]
     },
     {
      "id": "6AB-Q51d(i)",
@@ -61444,16 +61525,22 @@ window.BANK.biology = {
       "growth curve"
      ],
      "question": "Explain how the graph of turbidity for the two methanotrophs can be used to compare their growth rates.",
-     "status": "pending",
-     "answer": "The growth curves for methanotrophs A and B are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Compare the gradient (rate of increase in turbidity) of each curve: methanotroph B has a much steeper gradient (about 0.018 a.u. per day) than methanotroph A (about 0.003 a.u. per day), so B grows about 6 times faster.",
+     "steps": [
+      "Turbidity increases as the number of cells increases, so the steeper the line is, the faster the growth rate (more cells made per unit time).",
+      "Methanotroph B rises from about 0.04 to about 0.28 a.u. in 13 days (about 0.018 a.u. per day), whereas methanotroph A rises only from about 0.03 to about 0.07 a.u. (about 0.003 a.u. per day).",
+      "So B grows about 6 times as fast at 500 a.u. of methane; alternatively compare the time taken to reach the same turbidity (B reaches 0.1 a.u. in about 4 days; A has not reached it by 14 days)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-115.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q51-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q51e(ii)",
@@ -61485,7 +61572,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q51-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q51e(iii)",
@@ -61517,7 +61606,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q51-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q52a",
@@ -61710,7 +61801,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q53.jpg"
+     ]
     },
     {
      "id": "6AB-Q53b(ii)",
@@ -61742,7 +61835,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q53.jpg"
+     ]
     },
     {
      "id": "6AB-Q53b(iii)",
@@ -61760,16 +61855,22 @@ window.BANK.biology = {
       "accuracy"
      ],
      "question": "Discuss the extent to which the results shown in the graph could be useful to farmers in identifying infected plants.",
-     "status": "pending",
-     "answer": "Depends on the size of the differences shown in the reflectance graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "To a limited extent: infected leaves reflect about 3 percentage points more light at every wavelength, so the spectrum could identify infection as early as 2 days, but the difference is small and a farmer would need a spectrometer, and other stresses might give the same result.",
+     "steps": [
+      "Useful: the infected leaves reflect more light at all wavelengths (about 10 against 7% at 400 nm, 18 against 15% at 550 nm and 44 against 41% at 750 to 900 nm), and this is after only two days of infection, so it could allow early detection and so quick removal of infected plants.",
+      "Limited: the difference is small (about 3 percentage points, or about 7%) and cannot be seen with the naked eye, so farmers would need an instrument to measure reflection at particular wavelengths, which is expensive.",
+      "Limited: there are no error bars, the number of plants is not given, and plants infected by other pathogens, or with a lack of minerals or water, may also change the reflection, so the results alone may not show that the plants have RYMV."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-120.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q53.jpg"
+     ]
     },
     {
      "id": "6AB-Q53c",
@@ -61879,15 +61980,20 @@ window.BANK.biology = {
       "before after"
      ],
      "question": "State one conclusion about the effect of the control on the variety of bacteria in the gut flora.",
-     "status": "pending",
-     "answer": "The before and after diagrams of bacterial proportions for the control group are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The control did not change the variety of bacteria: the same three types (A, C and E) were present before and after, although the proportions changed.",
+     "steps": [
+      "Before the control there are three types of bacteria in the gut flora (A, C and E).",
+      "After the control the same three types are still present (A, C and E), so the variety is unchanged; only the proportions have changed (A increases and C decreases)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q54.jpg"
+     ]
     },
     {
      "id": "6AB-Q54c(ii)",
@@ -61904,15 +62010,21 @@ window.BANK.biology = {
       "gut flora"
      ],
      "question": "Estimate the decrease in the proportion of bacteria type C in the group given the antibiotic.",
-     "status": "pending",
-     "answer": "The proportions of type C shown in the diagram are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 55 percentage points (from about 67% to about 12%).",
+     "steps": [
+      "Before the antibiotic type C makes up about 240 of the 360 degrees, which is about 67% of the gut flora.",
+      "After the antibiotic type C is about 40 degrees, which is about 11 to 12%.",
+      "Decrease = 67 - 12 = about 55 percentage points (accept 50 to 60)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q54.jpg"
+     ]
     },
     {
      "id": "6AB-Q54c(iii)",
@@ -61943,7 +62055,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q54.jpg"
+     ]
     },
     {
      "id": "6AB-Q55a",
@@ -62003,7 +62117,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-125.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-126.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q55.jpg"
+     ]
     },
     {
      "id": "6AB-Q55b(ii)",
@@ -62021,14 +62137,20 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Suggest how the scientists could make this single antibody, using the information in the diagram.",
-     "status": "pending",
-     "answer": "Depends on the diagrams of the two antibodies and their binding sites, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Make a monoclonal antibody against each antigen, then split each antibody and join one half of each (one binding site for the cancer cell antigen and one for the T killer cell antigen) together with a covalent bond.",
+     "steps": [
+      "Produce a monoclonal antibody to the cancer cell antigen and a second monoclonal antibody to the T killer cell antigen, from hybridoma cells (B cells fused with myeloma cells) made after injecting each antigen into an animal.",
+      "Separate each antibody into halves, each with one binding site, using a reagent that breaks the bonds between the two heavy chains.",
+      "Join one half of the first antibody to one half of the second antibody with a covalent (disulfide) bond, as shown in the diagram, to make an antibody with two different binding sites (or make a gene containing the DNA for both binding sites and express it in cells)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-125.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-126.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q55.jpg"
+     ]
     },
     {
      "id": "6AB-Q55b(iii)",
@@ -62058,7 +62180,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-125.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-126.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q55.jpg"
+     ]
     },
     {
      "id": "6AB-Q56a(i)",
@@ -62141,9 +62265,13 @@ window.BANK.biology = {
       "pigment"
      ],
      "question": "Which is the Rf value for beta-carotene in the chromatogram (options A to D: 0.75, 0.87, 1.16, 1.33)?",
-     "status": "pending",
-     "answer": "The chromatogram with the spot and solvent front distances is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 0.87",
+     "steps": [
+      "Rf = distance moved by the spot from the origin / distance moved by the solvent front from the origin.",
+      "Distance for beta-carotene = 183 mm (origin to spot) and distance for the solvent front = 212 mm.",
+      "Rf = 183 / 212 = 0.86, so closest to 0.87 (an Rf value is always less than 1, so C and D are impossible)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-126.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-127.jpg",
@@ -62151,7 +62279,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q56.jpg"
+     ]
     },
     {
      "id": "6AB-Q56b(ii)",
@@ -62184,7 +62314,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q56.jpg"
+     ]
     },
     {
      "id": "6AB-Q56c",
@@ -62202,9 +62334,13 @@ window.BANK.biology = {
       "culture conditions"
      ],
      "question": "Describe three conclusions from the graphs of the effects of pH and temperature on beta-carotene production by C. parietis.",
-     "status": "pending",
-     "answer": "The graphs of pH and temperature effects are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Number of bacteria and concentration of pigment both have an optimum at pH 8 and fall at lower and higher pH; both increase with temperature from 10 to about 30 to 35 C and then level off; and pigment production follows the number of bacteria.",
+     "steps": [
+      "Conclusion 1: the optimum pH for both the number of bacteria and the pigment concentration is pH 8, and both fall at a lower or higher pH, with pigment concentration falling more steeply than the number of bacteria above pH 8.",
+      "Conclusion 2: the number of bacteria and the concentration of pigment both increase as temperature rises from 10 C to about 30 to 35 C, and both level off at 35 to 40 C (pigment is highest at 30 to 40 C).",
+      "Conclusion 3: in both graphs the concentration of pigment changes in the same way as the number of bacteria, so beta-carotene production is related to the number of bacteria present (more bacteria give more pigment)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-126.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-127.jpg",
@@ -62212,7 +62348,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q56-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q56d",
@@ -62230,9 +62368,13 @@ window.BANK.biology = {
       "explain"
      ],
      "question": "Explain the changes in the mass of beta-carotene produced by this culture, using the graph of beta-carotene mass and bacterial numbers.",
-     "status": "pending",
-     "answer": "The graph of beta-carotene mass and bacterial numbers is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Beta-carotene is not produced for the first 20 hours (lag phase), rises as the bacteria multiply and keeps rising to a peak at about 70 hours, then falls to 100 hours as the bacteria die and the pigment is broken down.",
+     "steps": [
+      "0 to 20 hours: no beta-carotene is produced, because the bacteria are not dividing yet (lag phase), so the number of bacteria is unchanged.",
+      "20 to 56 hours: the log10 number of bacteria increases rapidly (exponential phase) and the mass of beta-carotene rises, since more bacteria are making it; it continues to rise to about 70 hours, after the number has levelled off (about 56 to 80 hours, stationary phase), as the bacteria still make beta-carotene as a secondary metabolite.",
+      "70 to 100 hours: the mass of beta-carotene falls after the peak, because the bacteria are dying (the number falls from 80 hours) as the nutrients run out and toxic waste builds up, so no more is made and it is broken down."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-126.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-127.jpg",
@@ -62240,7 +62382,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q56-3.jpg"
+     ]
     }
    ]
   },
@@ -75207,14 +75351,19 @@ window.BANK.biology = {
       "-70 mV"
      ],
      "question": "From the oscilloscope trace, which is the resting potential of the axon? A -70 mV, B -78 mV, C 38 mV, D 108 mV (1 mark).",
-     "status": "pending",
-     "answer": "Pending: the oscilloscope trace is not in the text, so the resting potential cannot be read from it.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: -70 mV",
+     "steps": [
+      "The resting potential is the steady potential difference before the stimulus, and the trace before the spike sits at about -70 mV.",
+      "-78 mV is the undershoot after the spike and 38 mV is the peak, so only A is the resting potential."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q10.jpg"
+     ]
     },
     {
      "id": "8AB-Q10a(ii)",
@@ -75230,14 +75379,19 @@ window.BANK.biology = {
       "open channels"
      ],
      "question": "Which voltage-gated ion channels are open at point Y on the action potential trace? (1 mark)",
-     "status": "pending",
-     "answer": "Pending: point Y on the trace is not in the text, so the open channels cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: voltage-gated potassium channels only",
+     "steps": [
+      "Y is on the falling part of the trace, which is repolarisation.",
+      "Voltage-gated sodium channels have closed (inactivated) by then, while voltage-gated potassium channels are open so K+ flows out, so only C is correct."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q10.jpg"
+     ]
     },
     {
      "id": "8AB-Q10a(iii)",
@@ -75253,14 +75407,19 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "What is the state of polarisation of the membrane at point Z on the trace? A depolarised, B hyperpolarised, C hypopolarised, D unpolarised (1 mark).",
-     "status": "pending",
-     "answer": "Pending: point Z on the trace is not in the text, so the polarisation state cannot be read.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: hyperpolarised",
+     "steps": [
+      "At Z the potential is slightly below the resting value of -70 mV (about -72 to -78 mV).",
+      "This overshoot happens because the K+ channels are slow to close, so the membrane is hyperpolarised before returning to resting."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q10.jpg"
+     ]
     },
     {
      "id": "8AB-Q10a(iv)",
@@ -75426,15 +75585,21 @@ window.BANK.biology = {
       "comment"
      ],
      "question": "Comment on the graphs showing the effect of the LRRK2 mutation on dendrites of dopamine neurones made from stem cells of three groups (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the graphs of dendrite results for the three groups are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Neurones from people with Parkinson's disease have fewer and shorter dendrites than controls, and LRRK2 neurones are similar to the unknown-cause group.",
+     "steps": [
+      "Number of dendrites: about 6.0 per neurone in the control, against about 3.5 in both Parkinson's groups, and the error bars do not overlap the control.",
+      "Length: about 45 um in the control, against about 25 um (unknown cause) and 30 um (LRRK2), with no overlap between control and disease error bars.",
+      "LRRK2 and unknown-cause groups are similar in number and the error bars overlap on length, so the LRRK2 mutation does not seem to make dendrites any smaller than other causes; fewer, shorter dendrites mean fewer synapses and so reduced signalling."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-023.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-024.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-025.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q11.jpg"
+     ]
     },
     {
      "id": "8AB-Q12a",
@@ -75451,15 +75616,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Complete the table with the name and function of each of three labelled brain regions (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the labelled brain diagram and the table are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "P (medulla oblongata): controls heart rate and breathing rate; Q: hypothalamus, regulates body temperature and water balance and controls the pituitary gland; R: cerebellum.",
+     "steps": [
+      "P is the medulla oblongata, which controls involuntary activities such as heart rate, breathing rate and ventilation.",
+      "Q lies just above the pituitary in the centre of the brain, the hypothalamus, which regulates body temperature, osmoregulation and hormone release from the pituitary.",
+      "R is the cerebellum, already given as balance and coordinating movement."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-025.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-026.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-027.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q12.jpg"
+     ]
     },
     {
      "id": "8AB-Q12b(i)",
@@ -75782,15 +75953,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Complete the table by filling in the names of each labelled part of the relay neurone diagram (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the labelled relay neurone diagram and table are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "L: dendron (or dendrite); M: dendrites; N: axon; O: synaptic knobs (axon terminals)",
+     "steps": [
+      "L and M are the branching processes that carry impulses towards the cell body: L points to a stalk at the point where it splits into fine branches (dendron/dendrite) and M groups the dendrites.",
+      "N is the long axon leaving the cell body, which carries the impulse away.",
+      "O are the swellings at the ends of the axon branches, the synaptic knobs (terminals) where neurotransmitter is released."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q14.jpg"
+     ]
     },
     {
      "id": "8AB-Q14a(ii)",
@@ -75837,15 +76014,20 @@ window.BANK.biology = {
       "magnification"
      ],
      "question": "State the type of microscope used to produce the photograph of a nerve with an outer layer of connective tissue (1 mark).",
-     "status": "pending",
-     "answer": "Pending: the photograph is not in the text, and the magnification and scale needed to decide the microscope type cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Scanning electron microscope (SEM)",
+     "steps": [
+      "The image shows the three-dimensional surface of the nerve with great depth of field and a magnification of x3300.",
+      "That is typical of a scanning electron microscope, not a light microscope or a transmission electron microscope, which gives a flat 2D section."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q14-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q14b(ii)",
@@ -75862,15 +76044,21 @@ window.BANK.biology = {
       "photograph"
      ],
      "question": "Calculate the thickness of the connective tissue layer between points X and Y on the photograph, in micrometres (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the photograph with points X and Y and its scale are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 3.7 um (accept about 3.5 to 4.0 um)",
+     "steps": [
+      "Measure the line X to Y on the photograph: about 12.3 mm.",
+      "Real size = image size / magnification = 12.3 mm / 3300 = 0.00373 mm.",
+      "Convert to micrometres: 0.00373 mm x 1000 = 3.7 um."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q14-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q14b(iii)",
@@ -75979,16 +76167,26 @@ window.BANK.biology = {
       "light"
      ],
      "question": "Discuss how the results of the phototropism experiments (shown in the drawing of a coleoptile) support the role of a plant growth substance in the phototropic response (6 marks).",
-     "status": "pending",
-     "answer": "Pending: the drawings of the coleoptile experiments and their results are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The results show the tip perceives light and makes a chemical that diffuses down the shoot and causes unequal growth, so bending towards light is controlled by a growth substance (auxin).",
+     "steps": [
+      "Expt 1: the intact coleoptile bends towards light, but with the tip removed or covered by a black cap there is no bending, so the tip detects the light and is needed for the response.",
+      "Expt 2a: a plastic sheet that blocks the whole width below the tip stops the response, but one blocking only the lit side still allows bending, so a substance moves down from the tip on the shaded side.",
+      "Expt 2b: a gel layer, which lets chemicals diffuse through, does not stop bending, so the signal is a diffusible chemical rather than an electrical impulse.",
+      "Expt 3: a tip placed on one side of a cut stump in the dark makes it bend away from that side, so the tip produces a substance without light that stimulates cell elongation under it.",
+      "Together: auxin (IAA) is made in the tip and, with one-sided light, moves to the shaded side, so cells there elongate more and the shoot bends towards light.",
+      "These experiments show a chemical is involved but do not identify it, and the drawings show no replicates."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-032.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-033.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-034.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-035.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q15.jpg",
+      "papers/biology/fig/08AB-Nervous-Coordination-Q15-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q16a",
@@ -76004,14 +76202,20 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Label the diagram of a section through the human brain to show the pituitary gland, medulla oblongata and cerebral hemisphere (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the brain section diagram is not in the text, so the labels cannot be placed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Pituitary gland: the small rounded structure at the base of the brain, hanging below the centre front of the stalk; medulla oblongata: the lower part of the brain stem, narrowing as it joins the spinal cord; cerebral hemisphere: the large folded outer part of the brain.",
+     "steps": [
+      "Draw a label line to the small oval gland attached under the centre of the brain, in front of the brainstem: pituitary gland.",
+      "Draw a label line to the lowest part of the brainstem, just above where it narrows into the spinal cord: medulla oblongata.",
+      "Draw a label line to the large wrinkled upper and outer region (not the cerebellum): cerebral hemisphere (cerebrum)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-035.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-036.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q16.jpg"
+     ]
     },
     {
      "id": "8AB-Q16b",
@@ -76028,14 +76232,20 @@ window.BANK.biology = {
       "complete"
      ],
      "question": "Complete the table to show the parts of the brain and their functions (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the table to complete is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Cerebellum: balance and coordination of movement; medulla oblongata: control of heart rate; cerebral hemisphere: conscious thought, learning, memory and voluntary movement.",
+     "steps": [
+      "Cerebellum: coordinates muscle movement, balance and posture.",
+      "Row 2 (control of heart rate): the part of the brain is the medulla oblongata.",
+      "Cerebral hemisphere (cerebrum): conscious thought, learning and memory, vision and hearing interpretation, and voluntary control of movement."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-035.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-036.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q16-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q17a",
@@ -76145,9 +76355,13 @@ window.BANK.biology = {
       "electrocardiogram"
      ],
      "question": "Explain how an electrocardiogram could be used to show that a person has postural orthostatic tachycardia syndrome (POTS) (Box 1) (2 marks).",
-     "status": "pending",
-     "answer": "Pending: Box 1 of the source article, which gives the diagnostic criteria for POTS, is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "An ECG records the heart rate: in POTS the ECG taken on standing shows a much shorter interval between beats (a sustained rise of at least about 30 beats per minute) than when lying down.",
+     "steps": [
+      "Record an ECG while the patient lies flat, then again after standing, and measure the time between successive R waves (QRS complexes) to calculate heart rate.",
+      "In POTS the heart rate rises sharply and stays raised on standing (tachycardia, typically 30 bpm or more above the resting rate), with a normal rhythm and no other ECG abnormality.",
+      "Blood pressure does not fall to explain it, so the rate change is the diagnostic sign (the exact criteria are those given in Box 1)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-036.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
@@ -76264,9 +76478,13 @@ window.BANK.biology = {
       "gut"
      ],
      "question": "Explain how the interaction of microbial and other factors could result in gastrointestinal inflammation such as IBD (Box 2) (3 marks).",
-     "status": "pending",
-     "answer": "Pending: Box 2 of the source article, which describes the factors involved in IBD, is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Genetic susceptibility and environmental factors such as diet or antibiotics change the gut microbiota and damage the gut barrier, so microbes and their products trigger an excessive, persistent immune response that causes inflammation.",
+     "steps": [
+      "Factors such as genes, diet, antibiotics and stress disrupt the normal balance of gut microbes (dysbiosis) and weaken the epithelial barrier.",
+      "Bacteria and their products cross the damaged lining and are detected by immune cells, which release inflammatory cytokines and recruit more immune cells.",
+      "If the immune response is not switched off (and enteric neurone signalling also alters), the inflammation becomes chronic and causes tissue damage, as in IBD."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-036.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
@@ -76406,9 +76624,12 @@ window.BANK.biology = {
       "action"
      ],
      "question": "Which row of the table shows the action of the two forms of phytochrome, Pr (P660) and Pfr (P730)? (1 mark)",
-     "status": "pending",
-     "answer": "Pending: the table of rows is not in the text, so the correct row cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: Pfr absorbs far-red light and Pfr breaks down in the dark",
+     "steps": [
+      "Pfr (P730) is the form that absorbs far-red light, which converts it to Pr.",
+      "Pfr is the unstable form and breaks down or reverts in the dark, while Pr is stable, so A is correct."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-040.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-041.jpg",
@@ -76416,7 +76637,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-043.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-044.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q19.jpg"
+     ]
     },
     {
      "id": "8AB-Q19b",
@@ -76433,9 +76656,13 @@ window.BANK.biology = {
       "light"
      ],
      "question": "Explain the role of auxins in the phototropic response of a shoot, using the diagram of auxin molecules (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the diagram of auxin molecules producing the phototropic response is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Light from one side makes auxin move to the shaded side, where it stimulates greater cell elongation, so the shoot bends towards the light.",
+     "steps": [
+      "With light from directly above (first shoot) auxin is evenly spread on both sides, so both sides elongate equally and the shoot grows straight.",
+      "With light from one side (second shoot) more auxin molecules are on the shaded side than on the lit side.",
+      "The higher auxin concentration on the shaded side makes cells there elongate faster (by loosening the cell walls), so the shoot bends towards the light, as in the third shoot (positive phototropism)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-040.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-041.jpg",
@@ -76443,7 +76670,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-043.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-044.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q19-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q19c",
@@ -76492,9 +76721,14 @@ window.BANK.biology = {
       "graphs"
      ],
      "question": "Comment on the effect of IAA and the synthetic auxin NAA on the growth of Chlorella, using the graphs of different concentrations (4 marks).",
-     "status": "pending",
-     "answer": "Pending: the graphs of Chlorella growth at different auxin concentrations are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both IAA and NAA increased Chlorella growth compared with the control; IAA was most effective at 0.1 umol dm^-3 and the effect fell at higher concentrations, whereas NAA was most effective at 1 umol dm^-3, and IAA had the larger effect.",
+     "steps": [
+      "IAA: all concentrations gave more cells than the control (21 x 10^6 cm^-3 at 72 h), with 0.1 umol dm^-3 the highest (about 33.5), then 1 (28.8) and 10 umol dm^-3 (24.2): the lower the concentration, the greater the growth.",
+      "NAA: all concentrations also rose above the control, but by less: 1 umol dm^-3 was best (about 25.8 at 72 h), 10 gave 23.0 and 0.1 gave 22.0, barely above the control (21.4).",
+      "Growth increased with time under all treatments; the best IAA treatment (about +12 x 10^6 over control at 72 h) is much more effective than the best NAA (about +4 x 10^6).",
+      "The natural auxin IAA is therefore more effective than the synthetic NAA, and the best concentration is different for each; only three time points and no repeats are shown."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-040.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-041.jpg",
@@ -76502,7 +76736,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-043.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-044.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q19-3.jpg"
+     ]
     },
     {
      "id": "8AB-Q20a(i)",
@@ -76550,16 +76786,21 @@ window.BANK.biology = {
       "response"
      ],
      "question": "Which row of the table is correct about a beluga whale responding to a stimulus using a spinal reflex arc? (1 mark)",
-     "status": "pending",
-     "answer": "Pending: the table of rows is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: relay neurone in the grey matter of the spinal cord; cell body of the sensory neurone in the middle of the axon",
+     "steps": [
+      "Relay neurones lie within the grey matter of the spinal cord, where cell bodies are found, while white matter contains myelinated axons.",
+      "The cell body of a sensory neurone is in the dorsal root ganglion, off to the side in the middle of the axon (not at its end), so only B is correct."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-044.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-045.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-046.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-047.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q20.jpg"
+     ]
     },
     {
      "id": "8AB-Q20b(i)",
@@ -76576,16 +76817,22 @@ window.BANK.biology = {
       "comment"
      ],
      "question": "Comment on the changes in heart rate of the whale when diving, using the graph of heart rate against dive duration (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the graph of heart rate for different dive durations is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "During a dive the heart rate falls to low values (about 2 to 9 bpm), and it falls further the longer the dive, but after surfacing it rises to a maximum (about 28 to 35 bpm) that is higher after longer dives.",
+     "steps": [
+      "During a dive the maximum rate falls from about 9 bpm to about 6.5 bpm, and the minimum falls from about 6.5 bpm to about 2 bpm as dive duration goes from 0 to 16 minutes, so heart rate is much lower than at the surface (bradycardia).",
+      "This reduces oxygen use and conserves the oxygen stores, so longer dives need a lower rate.",
+      "The maximum rate at the surface rises from about 28 to about 35 bpm as the dive lengthens, to restore oxygen and remove CO2 and lactate, so the effort needed is greater after a longer dive."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-044.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-045.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-046.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-047.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q20-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q20b(ii)",
@@ -76753,15 +77000,20 @@ window.BANK.biology = {
       "concentration"
      ],
      "question": "Comment on the effect of the gibberellin on the growth of cereal plants, using the table of mean internode lengths (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the table of mean lengths of IN1, IN2 and IN3 at each gibberellin concentration is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The gibberellin increases internode length above 10 ppm, most in the first internode (36 to 56 cm) and little in the second and third.",
+     "steps": [
+      "At 0 and 10 ppm there is no effect on any internode (36, 19 and 14 cm).",
+      "Above 10 ppm the first internode lengthens with concentration: 36, 41, 52 and 56 cm at 0, 100, 1000 and 2500 ppm, a rise of about 56 %, whereas the second rises by only 3 cm (19 to 22) and the third by 1 cm (14 to 15)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q21.jpg"
+     ]
     },
     {
      "id": "8AB-Q21b(ii)",
@@ -76839,16 +77091,21 @@ window.BANK.biology = {
       "points 1 and 2"
      ],
      "question": "Explain why the membrane potential changes between points 1 and 2 on the diagram of an action potential in a motor neurone (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the diagram of the membrane potential with points 1 and 2 is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A stimulus depolarises the membrane to threshold (-55 mV), so voltage-gated sodium channels open and Na+ floods into the axon, making the inside positive (+30 mV).",
+     "steps": [
+      "The stimulus raises the membrane potential from the resting -70 mV to the threshold of -55 mV, which opens voltage-gated Na+ channels.",
+      "Na+ ions then diffuse into the axon down their electrochemical gradient, and the entry of more Na+ opens further channels (positive feedback), so the potential rises quickly from -70 mV to about +30 mV (depolarisation)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-049.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-050.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q22.jpg"
+     ]
     },
     {
      "id": "8AB-Q22c(i)",
@@ -76865,16 +77122,22 @@ window.BANK.biology = {
       "y = mx + c"
      ],
      "question": "Calculate the percentage difference in the gradient of the myelinated and non-myelinated neurones; the non-myelinated gradient is 0.5 (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the gradient for the myelinated neurone must be read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1100 %",
+     "steps": [
+      "The myelinated line passes through the origin and (20, 120), so its gradient m = 120 / 20 = 6.0 m s^-1 per um.",
+      "Non-myelinated gradient is 0.5 (given).",
+      "Percentage difference = (6.0 - 0.5) / 0.5 x 100 = 1100 %, taking the non-myelinated value as the reference (the myelinated gradient is 12 times as steep)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-049.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-050.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q22-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q22c(ii)",
@@ -76905,7 +77168,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q22-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q22d",
@@ -76982,14 +77247,20 @@ window.BANK.biology = {
       "significant figures"
      ],
      "question": "Calculate the actual width of lesion B between points X and Y on the MRI scan, to 2 significant figures (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the MRI scan with its scale bar and points X and Y is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 0.90 cm",
+     "steps": [
+      "There is no scale bar, so use lesion A as the scale: S to T measures about 54 mm on the page and is 1.97 cm in life.",
+      "X to Y measures about 25 mm on the page, so the ratio is 24.7 / 54.2 = 0.456.",
+      "Actual width = 1.97 x 0.456 = 0.90 cm (2 s.f.)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-052.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-053.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q23.jpg"
+     ]
     },
     {
      "id": "8AB-Q23b",
@@ -77064,9 +77335,12 @@ window.BANK.biology = {
       "row"
      ],
      "question": "Which row in the table shows the effect of an increase in adrenaline in a mammal? (1 mark)",
-     "status": "pending",
-     "answer": "Pending: the table of rows is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: breathing rate increases and heart rate increases",
+     "steps": [
+      "Adrenaline prepares the body for fight or flight, so it increases both heart rate and breathing rate.",
+      "Only row C has both as increases."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-053.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-054.jpg",
@@ -77074,7 +77348,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-056.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q24.jpg"
+     ]
     },
     {
      "id": "8AB-Q24a(ii)",
@@ -77091,9 +77367,13 @@ window.BANK.biology = {
       "chemicals"
      ],
      "question": "Deduce the effect of the combination of nicotine and adrenaline on the mean heart rate of Daphnia, using the table of results (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the table of mean heart rates for the nicotine and adrenaline concentrations is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Nicotine lowers the heart rate, and high-concentration adrenaline partly cancels this effect, but low adrenaline has almost no effect on the nicotine-treated hearts.",
+     "steps": [
+      "Nicotine alone lowers the heart rate below the 146 bpm control at every concentration, and the higher the nicotine, the lower the rate (106 bpm at 0.001 down to 84 bpm at 1000 mmol dm^-3).",
+      "With the low adrenaline (0.001 mmol dm^-3) the rates are within about 3 bpm of those with nicotine alone (e.g. 105 against 103 at 0.1), so it hardly changes the nicotine effect.",
+      "With high adrenaline (0.1 mmol dm^-3) the rate is higher than with nicotine alone at every concentration (e.g. 104 against 84 at 1000, 151 against 106 at 0.001), so adrenaline acts against nicotine, and with the least nicotine the rate (151) is above the control."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-053.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-054.jpg",
@@ -77101,7 +77381,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-056.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q24-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q24b",
@@ -77150,9 +77432,15 @@ window.BANK.biology = {
       "daylength"
      ],
      "question": "Discuss how phytochromes and gibberellins affect flowering in plants, using the flashes of red and far-red light investigation and the graph of gibberellin concentration (6 marks).",
-     "status": "pending",
-     "answer": "Pending: the diagram of the long-day and short-day plant results and the graph of gibberellin concentration against flowering are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Phytochrome changes with red/far-red light, so night length controls flowering: short-day plants flower only with a long uninterrupted night and long-day plants with a short or interrupted night; gibberellins, made when phytochrome signals are right, promote flowering up to an optimum concentration.",
+     "steps": [
+      "Short-day plants flower when the dark period is above the critical night length (about 12 h), but not when the night is interrupted by red light; far-red straight after the red flash cancels it, so the last flash decides the result (red, then far-red, then red = no flowering).",
+      "Long-day plants do the opposite: they flower when the night is short or interrupted by red light and not when far-red is last.",
+      "Red light changes phytochrome Pr to active Pfr and far-red changes it back; in a long night Pfr falls (it breaks down in the dark), so the Pfr to Pr ratio signals night length and controls whether flowering genes are switched on.",
+      "Gibberellins are produced in response and switch on flowering genes (by breaking down DELLA repressors).",
+      "In the graph, the mean number of flowers rises from 1.0 at 0.3 umol dm^-3 to a maximum of 3.8 at about 1.5 umol dm^-3, then falls to 3.0 and 1.6 at 3.0 and 4.4, so there is an optimum concentration and high concentrations reduce flowering."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-053.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-054.jpg",
@@ -77160,7 +77448,10 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-056.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q24-3.jpg",
+      "papers/biology/fig/08AB-Nervous-Coordination-Q24-4.jpg"
+     ]
     },
     {
      "id": "8AB-Q25a",
@@ -77298,14 +77589,19 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the percentage increase in mean pupil diameter when a person moves from bright light into darkness, using the table of mean pupil diameters (1 mark).",
-     "status": "pending",
-     "answer": "Pending: the table of mean pupil diameters at each light intensity is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "91.3 %",
+     "steps": [
+      "Increase in diameter = 6.41 - 3.35 = 3.06 mm.",
+      "Percentage increase = 3.06 / 3.35 x 100 = 91.3 %."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-059.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-060.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q26.jpg"
+     ]
     },
     {
      "id": "8AB-Q26b(i)",
@@ -77440,15 +77736,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Complete the table to show one function for each labelled part of the section through the human brain (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the diagram of the brain section with labels and the table are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Cerebellum: coordinates movement and balance; cerebral hemisphere: conscious thought, memory, learning and voluntary movement; hypothalamus: regulates body temperature and water balance and controls the pituitary gland.",
+     "steps": [
+      "Cerebellum: balance, posture and coordination of voluntary movement.",
+      "Cerebral hemisphere (cerebrum): conscious thought, learning, memory and the origin of voluntary actions.",
+      "Hypothalamus: homeostasis such as temperature and water potential (osmoregulation), and control of hormone release from the pituitary gland."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-060.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-061.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-062.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q27.jpg"
+     ]
     },
     {
      "id": "8AB-Q28a(i)",
@@ -77494,14 +77796,19 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Which row describes the events that occur during repolarisation of a neurone? (1 mark) (table of rows not in text)",
-     "status": "pending",
-     "answer": "Pending: the table of rows is not in the text, so the correct row cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: sodium ion channels closed, membrane potential decreasing",
+     "steps": [
+      "During repolarisation the voltage-gated sodium channels have closed and voltage-gated potassium channels are open, so K+ leaves the axon.",
+      "The potential falls from about +30 mV back towards -70 mV, so it is decreasing; this is row A."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-062.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-063.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q28.jpg"
+     ]
     },
     {
      "id": "8AB-Q28b",
@@ -77605,16 +77912,22 @@ window.BANK.biology = {
       "paragraphs 3 to 7"
      ],
      "question": "Use ticks and crosses to complete the table comparing types of connective tissue in the human body, from paragraphs 3 to 7 (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the comparison table of connective tissue types is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Fascia: contains collagen (tick), rich in nerves (tick), surrounds muscle (tick); ligaments: contains collagen (tick), rich in nerves (cross), surrounds muscle (cross).",
+     "steps": [
+      "Both are fibrous connective tissues rich in collagen.",
+      "Fascia is a sheet of connective tissue wrapped round muscles and well supplied with nerve endings (pain receptors), as in the diffuse-pain paragraphs.",
+      "Ligaments join bone to bone, do not surround muscle and are poorly supplied with nerves, so the last two columns are crosses (the source text is not on the page, so this uses general knowledge)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-063.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q29.jpg"
+     ]
     },
     {
      "id": "8AB-Q29c",

@@ -1080,7 +1080,7 @@
       "answer": "B: tetracycline using method 2.",
       "steps": [
         "Rf = distance moved by the spot from the origin / distance moved by the solvent front from the origin.",
-        "On the chromatogram the spot is about 151 mm from the origin and the solvent front is about 205 mm from the origin.",
+        "On the chromatogram the spot is about 151 units (measured on the page) from the origin and the solvent front is about 205 units from the origin.",
         "Rf = 151 / 205 = 0.74, which is closest to 0.75, the Rf of tetracycline using method 2."
       ],
       "images": [
@@ -1360,11 +1360,11 @@
       ],
       "question": "Put one cross in each row to show whether genes are found in each structure of bacteria and fungi.",
       "status": "ready",
-      "answer": "Mitochondria: fungi only; nuclei: fungi only; 70S ribosomes: neither (they contain rRNA and protein, not genes).",
+      "answer": "Mitochondria: fungi only; nuclei: fungi only; 70S ribosomes: neither (ribosomes are made of rRNA and protein and do not contain genes).",
       "steps": [
         "Mitochondria contain their own DNA (genes) and are found only in eukaryotes, so only in the fungi: fungi only.",
         "The nucleus contains the chromosomes (genes) and is found only in eukaryotes, so only in the fungi: fungi only.",
-        "70S ribosomes are made of rRNA and protein and do not contain genes (the genes for rRNA are in the DNA), so as written the answer is neither; if the question meant which organisms have 70S ribosomes, it would be both, because bacteria have 70S ribosomes and fungal mitochondria also have them."
+        "70S ribosomes are made of rRNA and protein, and genes (DNA) are not part of a ribosome, so neither group has genes in this structure."
       ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
@@ -1392,13 +1392,9 @@
         "escherichia"
       ],
       "question": "Which sequence shows the succession of bacteria during development of a giant panda (options A to D)?",
-      "status": "ready",
-      "answer": "C: Escherichia and Shigella, then Streptococcus, then Clostridium (the order in which each group peaks, from cubs to adults).",
-      "steps": [
-        "The graph has three groups of bars: one highest in cubs and falling with age, one highest in young animals, and one rising to be highest in adults, which gives the order of succession.",
-        "Escherichia and Shigella are early colonisers of the gut and are most abundant in cubs.",
-        "Clostridium (anaerobic bacteria that digest cellulose) increases as the panda starts eating bamboo, so is most abundant in adults, with Streptococcus in between; the group names are not shown on the page, so this order is based on this biology, giving option C."
-      ],
+      "status": "pending",
+      "answer": "The graph does not name the four bacterial groups (Clostridium, Streptococcus, Escherichia/Shigella) beside the three bar groups, so the sequence cannot be read from the page.",
+      "steps": [],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
@@ -2311,8 +2307,8 @@
       "answer": "D: x 500 000",
       "steps": [
         "Magnification = image size / actual size.",
-        "The diameter of the drawing (envelope) is about 5.4 cm on the page, which is 5.4 x 10^7 nm.",
-        "Magnification = 5.4 x 10^7 / 120 = 4.5 x 10^5, about x 500 000."
+        "The diameter of the drawing (envelope) is about 5.7 cm on the page, which is 5.7 x 10^7 nm.",
+        "Magnification = 5.7 x 10^7 / 120 = 4.8 x 10^5, about x 500 000."
       ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
@@ -6559,13 +6555,20 @@
         "clean areas"
       ],
       "question": "Describe two conclusions about the different methods of washing hands, from the diagrams of microorganisms on the skin.",
-      "status": "pending",
-      "answer": "The diagrams of microorganisms after each washing method are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Washing with soap removes more microorganisms than washing without soap, and the longer the washing time the fewer microorganisms remain (almost none after thirty seconds with soap).",
+      "steps": [
+        "Conclusion 1: washing with soap is more effective than without soap, as six seconds without soap (hand 3) leaves large patches of microorganisms, but six seconds with soap (hand 4) leaves only small areas.",
+        "Conclusion 2: the longer the hands are washed with soap, the fewer microorganisms remain, with a few patches after fifteen seconds (hand 5) and almost none after thirty seconds (hand 6).",
+        "Also, 'rinse and shake' (hand 2) removes very few microorganisms, as most of the hand is still covered."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-092.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-093.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-094.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q42.jpg"
       ]
     },
     {
@@ -6584,13 +6587,20 @@
         "effects"
       ],
       "question": "Explain the differences in the effects that the methods of washing hands have on skin flora.",
-      "status": "pending",
-      "answer": "The diagrams showing differences between washing methods are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Soap breaks down the grease and oils on the skin that hold microbes, and the rubbing and water wash them away, and longer washing gives more time and rubbing, so more microorganisms (including skin flora) are removed.",
+      "steps": [
+        "Soap is a detergent: it lifts grease and dirt from the skin and its surfactant action breaks down the cell membranes of some bacteria, so microbes are removed and killed.",
+        "Rubbing (friction) while washing dislodges microorganisms from the skin and from between the fingers, and water then rinses them away; rinsing and shaking with no rubbing removes few.",
+        "A longer wash gives more time for rubbing and soap action to reach all areas, so fewer skin flora remain; however, the skin flora is not removed completely, as deeper layers and gland openings contain microbes that soon replace those removed."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-092.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-093.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-094.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q42.jpg"
       ]
     },
     {
@@ -6698,13 +6708,20 @@
         "comment"
       ],
       "question": "Comment on the relationship between the number of people who have TB and the percentage of people who have HIV, using the graph.",
-      "status": "pending",
-      "answer": "The scatter graph of TB cases against HIV percentage is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "There is a positive correlation: countries with a higher percentage of the population with HIV have more TB cases, but the relationship is weak at low percentages, with a lot of scatter.",
+      "steps": [
+        "As the percentage of the population with HIV increases, the number of people with TB per 100 000 increases, so there is a positive correlation.",
+        "Below about 6% HIV, TB ranges widely from near 0 to about 810 per 100 000 (an anomaly at about 3% HIV with about 810), so the relationship is weak there, whereas above 15% HIV all countries have more than about 340 cases and reach up to about 950.",
+        "Correlation does not prove that HIV causes the increase in TB, as other factors (poverty, crowding, healthcare) may differ between countries."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-094.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q43.jpg"
       ]
     },
     {
@@ -6735,6 +6752,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-094.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q43.jpg"
       ]
     },
     {
@@ -6813,13 +6833,20 @@
         "survival"
       ],
       "question": "Describe the conclusions that can be made about the effects of heavy metal ions on the survival of Vibrio, using the graph.",
-      "status": "pending",
-      "answer": "The graph of Vibrio survival against heavy metal concentration is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Survival falls as the concentration of heavy metal rises for all three ions, and copper is the most toxic (survival falls from 100 ug per cm^3 and is zero at 800), then nickel (zero at 1600), and chromium is the least toxic (about half survive even at 3200).",
+      "steps": [
+        "At low concentrations (6.25 to 100 ug per cm^3) all (about 120) samples have surviving Vibrio, so none of the metals is toxic at low concentrations.",
+        "Copper ions are the most toxic: survival starts to fall at 100 ug per cm^3 (about 92 at 200, about 16 at 400) and no sample survives at 800.",
+        "Nickel ions are less toxic: survival stays at about 116 to 120 to 400 ug per cm^3 and falls to about 18 at 800 and 0 at 1600; chromium ions are the least toxic: about 116 samples survive up to 1600 and about 56 survive at 3200 ug per cm^3."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q44.jpg"
       ]
     },
     {
@@ -6927,13 +6954,20 @@
         "data"
       ],
       "question": "What is the proportion of children under five in hospital who are under 6 months old?",
-      "status": "pending",
-      "answer": "The hospital data graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 5/11.",
+      "steps": [
+        "Read the bar for children under five in hospital: the total height is 3.3 million.",
+        "The hatched part (children under 6 months old) starts at 1.8 million and goes up to 3.3 million, which is 1.5 million.",
+        "Proportion = 1.5 / 3.3 = 5 / 11."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-099.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q45.jpg"
       ]
     },
     {
@@ -6964,6 +6998,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-099.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q45.jpg"
       ]
     },
     {
@@ -7107,14 +7144,21 @@
         "ribosomes"
       ],
       "question": "Put one cross in each row of the table to show whether these statements are true for the types of microorganisms shown.",
-      "status": "pending",
-      "answer": "The table of statements and tick boxes is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Contain both DNA and RNA: both S. cerevisiae and S. aureus; membranes around the cytoplasm and around the nucleus: S. cerevisiae only.",
+      "steps": [
+        "All living cells, both the yeast (a eukaryote) and the bacterium (a prokaryote), contain DNA as their genetic material and RNA for protein synthesis.",
+        "Yeast is a eukaryote with a nucleus surrounded by a nuclear envelope, as well as a cell surface membrane around the cytoplasm.",
+        "S. aureus is a prokaryote with no nucleus, so it has a membrane around the cytoplasm only."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-101.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q46.jpg"
       ]
     },
     {
@@ -7133,14 +7177,21 @@
         "diagram"
       ],
       "question": "Explain how to calculate the concentration of yeast cells per cm3 from the haemocytometer diagram, given the sample volume of 0.00625 (units as printed).",
-      "status": "pending",
-      "answer": "The number of cells counted in the diagram is not in the text, so the final concentration cannot be calculated.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 2.6 x 10^6 cells per cm^3 (16 cells counted, or 2.9 x 10^6 if all 18 are counted).",
+      "steps": [
+        "Count the cells in the whole grid of 16 squares, counting cells touching the top and left lines of each square but not those touching the bottom and right lines of the whole grid, to avoid counting twice: this gives 16 cells (18 if all are counted).",
+        "Convert the sample volume to cm^3: 0.00625 ul = 0.00625 x 10^-6 dm^3 = 6.25 x 10^-9 dm^3, and 1 dm^3 = 1000 cm^3, so the volume is 6.25 x 10^-6 cm^3.",
+        "Concentration = number of cells / volume = 16 / 6.25 x 10^-6 = 2.56 x 10^6 = 2.6 x 10^6 cells per cm^3 (and if the culture was diluted before counting, multiply by the dilution factor)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-101.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q46-2.jpg"
       ]
     },
     {
@@ -7591,6 +7642,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q49.jpg"
       ]
     },
     {
@@ -7609,14 +7663,20 @@
         "decrease"
       ],
       "question": "Describe two conclusions about the effects of three antibiotics on the species richness of gut flora, from the graph.",
-      "status": "pending",
-      "answer": "The graph of species richness for the three antibiotics is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "All three antibiotics reduce the species richness of the gut flora with time (from about 52-53 to 43, 39.5 and 29), antibiotic C causes the greatest decrease and A the least.",
+      "steps": [
+        "Conclusion 1: species richness falls steadily with time for all three antibiotics, from about 52 to 53 at the start to between about 29 and 43 after 6 days, so every antibiotic harms gut flora.",
+        "Conclusion 2: the effects are similar for the first 3 days (about 46 to 47 for all three), after which antibiotic C reduces richness fastest (a fall of about 24 or 45% in 6 days), antibiotic B is intermediate (about 13 or 25%) and antibiotic A least (about 9 or 17%)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-107.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q49-2.jpg"
       ]
     },
     {
@@ -7648,6 +7708,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q49-2.jpg"
       ]
     },
     {
@@ -7666,9 +7729,12 @@
         "population pyramid"
       ],
       "question": "Describe two conclusions about the distribution of cholera cases by age group and sex, from the diagram.",
-      "status": "pending",
-      "answer": "The diagram of cholera cases by age and sex is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Most cases are in the 21 to 30 age group, and more males than females are infected in nearly every age group (about 900 males and 600 females aged 21-30).",
+      "steps": [
+        "Conclusion 1: the number of cases is greatest in the 21 to 30 age group (about 900 males and about 600 females) and falls steadily in older age groups to almost no cases above 80; the youngest groups (0 to 10) have about 250 to 300 of each sex.",
+        "Conclusion 2: there are more cases in males than females in most age groups, especially between 11 and 50 (for example 700 v 470 in 11 to 20, and 430 v 190 in 41 to 50), but numbers are similar in 0 to 10 year olds and more females than males at 71 to 80."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-110.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-111.jpg",
@@ -7676,6 +7742,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q50.jpg"
       ]
     },
     {
@@ -7709,6 +7778,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q50-2.jpg"
       ]
     },
     {
@@ -7726,9 +7798,12 @@
         "trial"
       ],
       "question": "State why the scientists concluded that a dose of 6 g of rice powder vaccine was needed to stimulate an immune response.",
-      "status": "pending",
-      "answer": "Depends on the antibody concentration graph for each dose, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Only with the 6 g dose did the antibody level rise significantly above the placebo (the error bars do not overlap from week 6 and it reached about 10 times at 8 weeks), whereas 1 g and 3 g did not.",
+      "steps": [
+        "With 1 g and 3 g the antibody level increased by only about 2 to 3 times at most, and the error bars overlap with those of the placebo at all times, so the difference could be due to chance.",
+        "With 6 g the antibody level increased steadily to about 11 times the starting level at 8 weeks, and the error bars of the vaccine and the placebo do not overlap at 6 and 8 weeks."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-110.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-111.jpg",
@@ -7736,6 +7811,10 @@
         "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q50-2.jpg",
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q50-3.jpg"
       ]
     },
     {
@@ -7787,9 +7866,13 @@
         "vaccine response"
       ],
       "question": "Compare and contrast the gut flora of non-responders and responders to the vaccine, using the charts.",
-      "status": "pending",
-      "answer": "The charts of gut flora proportions for responders and non-responders are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Non-responders have a much higher proportion of type A (about 54% against 32%) and a smaller proportion of types B, C and D (about 8%, 8% and 4% against 14%, 13% and 12%), and similar 'others' (about 25% and 29%).",
+      "steps": [
+        "Contrast: type A is the largest group in both, but in non-responders it is more than half of the bacteria (about 54%) compared with about 32% in responders.",
+        "Contrast: types B (about 8% against 14%), C (about 8% against 13%) and D (about 4% against 12%) are all smaller in non-responders than in responders, so responders have a more even mix of types.",
+        "Similarity: the other bacteria make up a similar proportion in both groups (about 25% in non-responders and about 29% in responders), and the same five categories of bacteria are present."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-110.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-111.jpg",
@@ -7797,6 +7880,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q50-4.jpg"
       ]
     },
     {
@@ -7830,6 +7916,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q50-4.jpg"
       ]
     },
     {
@@ -7910,14 +7999,21 @@
         "degrees"
       ],
       "question": "Predict the change in mean global temperature in 2050 from the graph of 1975 to 2023.",
-      "status": "pending",
-      "answer": "The temperature trend graph is not in the text, so the prediction cannot be read.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 1.3 C (accept about 1.2 to 1.5 C).",
+      "steps": [
+        "Draw a line of best fit through the data from 1975 to 2021, which rises from about 0 C in 1975 to about 0.8 C in 2021, a gradient of about 0.016 C per year.",
+        "Extend the line to 2050 (29 years more): 0.8 + 29 x 0.016 = about 1.3 C.",
+        "The change in the mean global temperature in 2050 is therefore predicted to be about 1.3 C above the 1975 value, if the present trend continues."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-115.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q51.jpg"
       ]
     },
     {
@@ -7998,14 +8094,21 @@
         "growth curve"
       ],
       "question": "Explain how the graph of turbidity for the two methanotrophs can be used to compare their growth rates.",
-      "status": "pending",
-      "answer": "The growth curves for methanotrophs A and B are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Compare the gradient (rate of increase in turbidity) of each curve: methanotroph B has a much steeper gradient (about 0.018 a.u. per day) than methanotroph A (about 0.003 a.u. per day), so B grows about 6 times faster.",
+      "steps": [
+        "Turbidity increases as the number of cells increases, so the steeper the line is, the faster the growth rate (more cells made per unit time).",
+        "Methanotroph B rises from about 0.04 to about 0.28 a.u. in 13 days (about 0.018 a.u. per day), whereas methanotroph A rises only from about 0.03 to about 0.07 a.u. (about 0.003 a.u. per day).",
+        "So B grows about 6 times as fast at 500 a.u. of methane; alternatively compare the time taken to reach the same turbidity (B reaches 0.1 a.u. in about 4 days; A has not reached it by 14 days)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-115.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q51-2.jpg"
       ]
     },
     {
@@ -8037,6 +8140,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q51-2.jpg"
       ]
     },
     {
@@ -8068,6 +8174,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q51-2.jpg"
       ]
     },
     {
@@ -8255,6 +8364,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q53.jpg"
       ]
     },
     {
@@ -8286,6 +8398,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q53.jpg"
       ]
     },
     {
@@ -8304,14 +8419,21 @@
         "accuracy"
       ],
       "question": "Discuss the extent to which the results shown in the graph could be useful to farmers in identifying infected plants.",
-      "status": "pending",
-      "answer": "Depends on the size of the differences shown in the reflectance graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "To a limited extent: infected leaves reflect about 3 percentage points more light at every wavelength, so the spectrum could identify infection as early as 2 days, but the difference is small and a farmer would need a spectrometer, and other stresses might give the same result.",
+      "steps": [
+        "Useful: the infected leaves reflect more light at all wavelengths (about 10 against 7% at 400 nm, 18 against 15% at 550 nm and 44 against 41% at 750 to 900 nm), and this is after only two days of infection, so it could allow early detection and so quick removal of infected plants.",
+        "Limited: the difference is small (about 3 percentage points, or about 7%) and cannot be seen with the naked eye, so farmers would need an instrument to measure reflection at particular wavelengths, which is expensive.",
+        "Limited: there are no error bars, the number of plants is not given, and plants infected by other pathogens, or with a lack of minerals or water, may also change the reflection, so the results alone may not show that the plants have RYMV."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-120.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q53.jpg"
       ]
     },
     {
@@ -8419,13 +8541,19 @@
         "before after"
       ],
       "question": "State one conclusion about the effect of the control on the variety of bacteria in the gut flora.",
-      "status": "pending",
-      "answer": "The before and after diagrams of bacterial proportions for the control group are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The control did not change the variety of bacteria: the same three types (A, C and E) were present before and after, although the proportions changed.",
+      "steps": [
+        "Before the control there are three types of bacteria in the gut flora (A, C and E).",
+        "After the control the same three types are still present (A, C and E), so the variety is unchanged; only the proportions have changed (A increases and C decreases)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q54.jpg"
       ]
     },
     {
@@ -8443,13 +8571,20 @@
         "gut flora"
       ],
       "question": "Estimate the decrease in the proportion of bacteria type C in the group given the antibiotic.",
-      "status": "pending",
-      "answer": "The proportions of type C shown in the diagram are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 55 percentage points (from about 67% to about 12%).",
+      "steps": [
+        "Before the antibiotic type C makes up about 240 of the 360 degrees, which is about 67% of the gut flora.",
+        "After the antibiotic type C is about 40 degrees, which is about 11 to 12%.",
+        "Decrease = 67 - 12 = about 55 percentage points (accept 50 to 60)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q54.jpg"
       ]
     },
     {
@@ -8480,6 +8615,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q54.jpg"
       ]
     },
     {
@@ -8538,6 +8676,9 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-125.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-126.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q55.jpg"
       ]
     },
     {
@@ -8556,12 +8697,19 @@
         "diagram"
       ],
       "question": "Suggest how the scientists could make this single antibody, using the information in the diagram.",
-      "status": "pending",
-      "answer": "Depends on the diagrams of the two antibodies and their binding sites, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Make a monoclonal antibody against each antigen, then split each antibody and join one half of each (one binding site for the cancer cell antigen and one for the T killer cell antigen) together with a covalent bond.",
+      "steps": [
+        "Produce a monoclonal antibody to the cancer cell antigen and a second monoclonal antibody to the T killer cell antigen, from hybridoma cells (B cells fused with myeloma cells) made after injecting each antigen into an animal.",
+        "Separate each antibody into halves, each with one binding site, using a reagent that breaks the bonds between the two heavy chains.",
+        "Join one half of the first antibody to one half of the second antibody with a covalent (disulfide) bond, as shown in the diagram, to make an antibody with two different binding sites (or make a gene containing the DNA for both binding sites and express it in cells)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-125.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-126.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q55.jpg"
       ]
     },
     {
@@ -8591,6 +8739,9 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-125.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-126.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q55.jpg"
       ]
     },
     {
@@ -8672,15 +8823,22 @@
         "pigment"
       ],
       "question": "Which is the Rf value for beta-carotene in the chromatogram (options A to D: 0.75, 0.87, 1.16, 1.33)?",
-      "status": "pending",
-      "answer": "The chromatogram with the spot and solvent front distances is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 0.87",
+      "steps": [
+        "Rf = distance moved by the spot from the origin / distance moved by the solvent front from the origin.",
+        "Distance for beta-carotene = 183 mm (origin to spot) and distance for the solvent front = 212 mm.",
+        "Rf = 183 / 212 = 0.86, so closest to 0.87 (an Rf value is always less than 1, so C and D are impossible)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-126.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-127.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q56.jpg"
       ]
     },
     {
@@ -8713,6 +8871,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q56.jpg"
       ]
     },
     {
@@ -8731,15 +8892,22 @@
         "culture conditions"
       ],
       "question": "Describe three conclusions from the graphs of the effects of pH and temperature on beta-carotene production by C. parietis.",
-      "status": "pending",
-      "answer": "The graphs of pH and temperature effects are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Number of bacteria and concentration of pigment both have an optimum at pH 8 and fall at lower and higher pH; both increase with temperature from 10 to about 30 to 35 C and then level off; and pigment production follows the number of bacteria.",
+      "steps": [
+        "Conclusion 1: the optimum pH for both the number of bacteria and the pigment concentration is pH 8, and both fall at a lower or higher pH, with pigment concentration falling more steeply than the number of bacteria above pH 8.",
+        "Conclusion 2: the number of bacteria and the concentration of pigment both increase as temperature rises from 10 C to about 30 to 35 C, and both level off at 35 to 40 C (pigment is highest at 30 to 40 C).",
+        "Conclusion 3: in both graphs the concentration of pigment changes in the same way as the number of bacteria, so beta-carotene production is related to the number of bacteria present (more bacteria give more pigment)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-126.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-127.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q56-2.jpg"
       ]
     },
     {
@@ -8758,15 +8926,22 @@
         "explain"
       ],
       "question": "Explain the changes in the mass of beta-carotene produced by this culture, using the graph of beta-carotene mass and bacterial numbers.",
-      "status": "pending",
-      "answer": "The graph of beta-carotene mass and bacterial numbers is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Beta-carotene is not produced for the first 20 hours (lag phase), rises as the bacteria multiply and keeps rising to a peak at about 70 hours, then falls to 100 hours as the bacteria die and the pigment is broken down.",
+      "steps": [
+        "0 to 20 hours: no beta-carotene is produced, because the bacteria are not dividing yet (lag phase), so the number of bacteria is unchanged.",
+        "20 to 56 hours: the log10 number of bacteria increases rapidly (exponential phase) and the mass of beta-carotene rises, since more bacteria are making it; it continues to rise to about 70 hours, after the number has levelled off (about 56 to 80 hours, stationary phase), as the bacteria still make beta-carotene as a secondary metabolite.",
+        "70 to 100 hours: the mass of beta-carotene falls after the peak, because the bacteria are dying (the number falls from 80 hours) as the nutrients run out and toxic waste builds up, so no more is made and it is broken down."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-126.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-127.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q56-3.jpg"
       ]
     }
   ]
