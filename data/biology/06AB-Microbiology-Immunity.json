@@ -535,6 +535,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q4-3.jpg"
       ]
     },
     {
@@ -5077,6 +5080,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-071.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q32.jpg"
       ]
     },
     {
@@ -5108,6 +5114,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-071.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q32.jpg"
       ]
     },
     {
@@ -5138,6 +5147,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-071.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q32.jpg"
       ]
     },
     {
@@ -5169,6 +5181,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-071.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q32.jpg"
       ]
     },
     {
@@ -5200,6 +5215,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-071.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q32.jpg"
       ]
     },
     {
@@ -5232,7 +5250,8 @@
         "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
       ],
       "figures": [
-        "papers/biology/fig/06AB-Microbiology-Immunity-Q33-2.jpg"
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q33-2.jpg",
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q33-3.jpg"
       ]
     },
     {
@@ -5487,6 +5506,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q34.jpg"
       ]
     },
     {
@@ -5519,6 +5541,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q34-2.jpg"
       ]
     },
     {
@@ -5870,6 +5895,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-082.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-083.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-084.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q37.jpg"
       ]
     },
     {
@@ -6266,6 +6294,10 @@
         "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q40.jpg",
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q40-2.jpg"
       ]
     },
     {
@@ -6296,6 +6328,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q40.jpg"
       ]
     },
     {
@@ -6617,6 +6652,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-092.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-093.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-094.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q42-2.jpg"
       ]
     },
     {
@@ -8111,7 +8149,7 @@
         "two significant figures",
         "calculation"
       ],
-      "question": "Calculate the ratio of the WP of nitrous oxide to the WP of methane, to two significant figures.",
+      "question": "Over a 100-year timescale, one tonne of methane would generate 28 times the warming potential (WP) of one tonne of carbon dioxide, and one tonne of nitrous oxide would generate 265 times the WP of one tonne of carbon dioxide. Calculate the ratio of the WP of nitrous oxide to the WP of methane. Give your answer to two significant figures.",
       "status": "ready",
       "answer": "9.5 : 1.",
       "steps": [
@@ -8142,7 +8180,7 @@
         "strategy",
         "priorities"
       ],
-      "question": "Discuss the implications of the lifetimes and warming potentials of CO2, methane and nitrous oxide for tackling climate change.",
+      "question": "Carbon dioxide can last in the atmosphere for thousands of years, methane for about 12 years and nitrous oxide for about 121 years. Over 100 years, methane has 28 times and nitrous oxide 265 times the warming potential (WP) of carbon dioxide. Discuss the implications of the lifetimes and warming potentials of these three gases when scientists are deciding how to tackle climate change.",
       "status": "ready",
       "answer": "CO2 persists for thousands of years so cutting emissions is essential; methane and nitrous oxide have high WP, so reducing them gives fast benefits for their shorter or long lifetimes.",
       "steps": [
@@ -8727,6 +8765,9 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-125.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-126.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q55-2.jpg"
       ]
     },
     {
@@ -8854,6 +8895,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q56-4.jpg"
       ]
     },
     {
@@ -8886,6 +8930,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q56-4.jpg"
       ]
     },
     {

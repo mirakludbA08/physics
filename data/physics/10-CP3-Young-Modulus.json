@@ -209,6 +209,9 @@
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-04.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-05.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/10-CP3-Young-Modulus-Q3.jpg"
       ]
     },
     {
@@ -629,6 +632,9 @@
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-12.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/10-CP3-Young-Modulus-Q8.jpg"
       ]
     },
     {
@@ -717,6 +723,9 @@
         "papers/physics/img/10-CP3-Young-Modulus-14.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-15.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/10-CP3-Young-Modulus-Q9b.jpg"
       ]
     },
     {
@@ -747,6 +756,9 @@
         "papers/physics/img/10-CP3-Young-Modulus-14.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-15.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/10-CP3-Young-Modulus-Q9b.jpg"
       ]
     },
     {
@@ -808,6 +820,9 @@
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-16.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-17.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/10-CP3-Young-Modulus-Q10.jpg"
       ]
     }
   ]

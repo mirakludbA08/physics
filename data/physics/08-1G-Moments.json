@@ -34,6 +34,9 @@
       "images": [
         "papers/physics/img/08-1G-Moments-01.jpg",
         "papers/physics/img/08-1G-Moments-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q1.jpg"
       ]
     },
     {
@@ -64,6 +67,9 @@
       "images": [
         "papers/physics/img/08-1G-Moments-01.jpg",
         "papers/physics/img/08-1G-Moments-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q1.jpg"
       ]
     },
     {
@@ -346,6 +352,10 @@
         "papers/physics/img/08-1G-Moments-07.jpg",
         "papers/physics/img/08-1G-Moments-08.jpg",
         "papers/physics/img/08-1G-Moments-09.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q6.jpg",
+        "papers/physics/fig/08-1G-Moments-Q6-2.jpg"
       ]
     },
     {
@@ -377,6 +387,9 @@
         "papers/physics/img/08-1G-Moments-07.jpg",
         "papers/physics/img/08-1G-Moments-08.jpg",
         "papers/physics/img/08-1G-Moments-09.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q6-3.jpg"
       ]
     },
     {
@@ -408,6 +421,9 @@
         "papers/physics/img/08-1G-Moments-07.jpg",
         "papers/physics/img/08-1G-Moments-08.jpg",
         "papers/physics/img/08-1G-Moments-09.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q6-3.jpg"
       ]
     },
     {
@@ -890,6 +906,9 @@
       "images": [
         "papers/physics/img/08-1G-Moments-18.jpg",
         "papers/physics/img/08-1G-Moments-19.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q13-2.jpg"
       ]
     },
     {
@@ -919,6 +938,10 @@
       "images": [
         "papers/physics/img/08-1G-Moments-18.jpg",
         "papers/physics/img/08-1G-Moments-19.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q13.jpg",
+        "papers/physics/fig/08-1G-Moments-Q13-2.jpg"
       ]
     },
     {
@@ -947,6 +970,9 @@
       "images": [
         "papers/physics/img/08-1G-Moments-18.jpg",
         "papers/physics/img/08-1G-Moments-19.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q13b.jpg"
       ]
     },
     {
@@ -975,6 +1001,9 @@
       "images": [
         "papers/physics/img/08-1G-Moments-18.jpg",
         "papers/physics/img/08-1G-Moments-19.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q13b.jpg"
       ]
     },
     {
@@ -1415,6 +1444,9 @@
         "papers/physics/img/08-1G-Moments-27.jpg",
         "papers/physics/img/08-1G-Moments-28.jpg",
         "papers/physics/img/08-1G-Moments-29.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q20.jpg"
       ]
     },
     {
@@ -1443,6 +1475,9 @@
       "images": [
         "papers/physics/img/08-1G-Moments-29.jpg",
         "papers/physics/img/08-1G-Moments-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q21.jpg"
       ]
     },
     {
@@ -1470,6 +1505,9 @@
       "images": [
         "papers/physics/img/08-1G-Moments-29.jpg",
         "papers/physics/img/08-1G-Moments-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q21-2.jpg"
       ]
     },
     {

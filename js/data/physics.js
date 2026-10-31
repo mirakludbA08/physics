@@ -10466,7 +10466,9 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-01.jpg",
       "papers/physics/img/08-1G-Moments-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q1.jpg"
+     ]
     },
     {
      "id": "1G-Q1b",
@@ -10497,7 +10499,9 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-01.jpg",
       "papers/physics/img/08-1G-Moments-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q1.jpg"
+     ]
     },
     {
      "id": "1G-Q2",
@@ -10783,7 +10787,10 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-08.jpg",
       "papers/physics/img/08-1G-Moments-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q6.jpg",
+      "papers/physics/fig/08-1G-Moments-Q6-2.jpg"
+     ]
     },
     {
      "id": "1G-Q6c(ii)",
@@ -10815,7 +10822,9 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-08.jpg",
       "papers/physics/img/08-1G-Moments-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q6-3.jpg"
+     ]
     },
     {
      "id": "1G-Q6c(iii)",
@@ -10847,7 +10856,9 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-08.jpg",
       "papers/physics/img/08-1G-Moments-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q6-3.jpg"
+     ]
     },
     {
      "id": "1G-Q7a",
@@ -11335,7 +11346,9 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-18.jpg",
       "papers/physics/img/08-1G-Moments-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q13-2.jpg"
+     ]
     },
     {
      "id": "1G-Q13a(ii)",
@@ -11365,7 +11378,10 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-18.jpg",
       "papers/physics/img/08-1G-Moments-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q13.jpg",
+      "papers/physics/fig/08-1G-Moments-Q13-2.jpg"
+     ]
     },
     {
      "id": "1G-Q13b(i)",
@@ -11394,7 +11410,9 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-18.jpg",
       "papers/physics/img/08-1G-Moments-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q13b.jpg"
+     ]
     },
     {
      "id": "1G-Q13b(ii)",
@@ -11423,7 +11441,9 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-18.jpg",
       "papers/physics/img/08-1G-Moments-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q13b.jpg"
+     ]
     },
     {
      "id": "1G-Q14",
@@ -11867,7 +11887,9 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-28.jpg",
       "papers/physics/img/08-1G-Moments-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q20.jpg"
+     ]
     },
     {
      "id": "1G-Q21a",
@@ -11896,7 +11918,9 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-29.jpg",
       "papers/physics/img/08-1G-Moments-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q21.jpg"
+     ]
     },
     {
      "id": "1G-Q21b",
@@ -11924,7 +11948,9 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-29.jpg",
       "papers/physics/img/08-1G-Moments-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q21-2.jpg"
+     ]
     },
     {
      "id": "1G-Q22a",
@@ -12145,7 +12171,9 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-01.jpg",
       "papers/physics/img/09-CP2-Viscosity-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q1.jpg"
+     ]
     },
     {
      "id": "CP2-Q1aii",
@@ -12174,7 +12202,9 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-01.jpg",
       "papers/physics/img/09-CP2-Viscosity-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q1.jpg"
+     ]
     },
     {
      "id": "CP2-Q1bi",
@@ -12862,7 +12892,9 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-11.jpg",
       "papers/physics/img/09-CP2-Viscosity-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q9.jpg"
+     ]
     },
     {
      "id": "CP2-Q10a",
@@ -12975,7 +13007,9 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-13.jpg",
       "papers/physics/img/09-CP2-Viscosity-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q11.jpg"
+     ]
     },
     {
      "id": "CP2-Q11b",
@@ -13003,7 +13037,9 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-13.jpg",
       "papers/physics/img/09-CP2-Viscosity-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q11.jpg"
+     ]
     },
     {
      "id": "CP2-Q11c",
@@ -13249,7 +13285,9 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-04.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/10-CP3-Young-Modulus-Q3.jpg"
+     ]
     },
     {
      "id": "CP3-Q4",
@@ -13677,7 +13715,9 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-12.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/10-CP3-Young-Modulus-Q8.jpg"
+     ]
     },
     {
      "id": "CP3-Q8b",
@@ -13768,7 +13808,9 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-15.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/10-CP3-Young-Modulus-Q9b.jpg"
+     ]
     },
     {
      "id": "CP3-Q9b(ii)",
@@ -13799,7 +13841,9 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-15.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/10-CP3-Young-Modulus-Q9b.jpg"
+     ]
     },
     {
      "id": "CP3-Q9c",
@@ -13861,7 +13905,9 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-16.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/10-CP3-Young-Modulus-Q10.jpg"
+     ]
     }
    ]
   },
@@ -14191,7 +14237,9 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-03.jpg",
       "papers/physics/img/11-2A-Stokes-Law-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q3.jpg"
+     ]
     },
     {
      "id": "2A-Q4",
@@ -16314,7 +16362,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-02.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q2.jpg"
+     ]
     },
     {
      "id": "2B-Q2a(ii)",
@@ -16344,7 +16394,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-02.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q2.jpg"
+     ]
     },
     {
      "id": "2B-Q2b",
@@ -16375,7 +16427,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-02.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q2-2.jpg"
+     ]
     },
     {
      "id": "2B-Q3a(i)",
@@ -16874,7 +16928,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-11.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q8.jpg"
+     ]
     },
     {
      "id": "2B-Q9a",
@@ -16903,7 +16959,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-13.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q9.jpg"
+     ]
     },
     {
      "id": "2B-Q9b(i)",
@@ -16932,7 +16990,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-13.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q9.jpg"
+     ]
     },
     {
      "id": "2B-Q9b(ii)",
@@ -16962,7 +17022,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-13.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q9.jpg"
+     ]
     },
     {
      "id": "2B-Q10a(i)",
@@ -16993,7 +17055,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-15.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q10-2.jpg"
+     ]
     },
     {
      "id": "2B-Q10a(ii)",
@@ -17024,7 +17088,10 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-15.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q10.jpg",
+      "papers/physics/fig/12-2B-Density-Upthrust-Q10-2.jpg"
+     ]
     },
     {
      "id": "2B-Q10b(i)",
@@ -17054,7 +17121,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-15.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q10b.jpg"
+     ]
     },
     {
      "id": "2B-Q10b(ii)",
@@ -17083,7 +17152,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-15.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q10b.jpg"
+     ]
     },
     {
      "id": "2B-Q11",
@@ -17299,7 +17370,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-20.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q14.jpg"
+     ]
     },
     {
      "id": "2B-Q14b",
@@ -17327,7 +17400,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-20.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q14.jpg"
+     ]
     },
     {
      "id": "2B-Q15",
@@ -17358,7 +17433,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-21.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q15.jpg"
+     ]
     },
     {
      "id": "2B-Q16a",
@@ -17519,7 +17596,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-25.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q18.jpg"
+     ]
     },
     {
      "id": "2B-Q18b",
@@ -17699,7 +17778,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-29.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q21.jpg"
+     ]
     },
     {
      "id": "2B-Q21c",
@@ -17733,7 +17814,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-29.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q21.jpg"
+     ]
     }
    ]
   },
@@ -17831,7 +17914,9 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-03.jpg",
       "papers/physics/img/13-2C-Hookes-Law-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/13-2C-Hookes-Law-Q2b.jpg"
+     ]
     },
     {
      "id": "2C-Q2b(ii)",
@@ -17860,7 +17945,9 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-03.jpg",
       "papers/physics/img/13-2C-Hookes-Law-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/13-2C-Hookes-Law-Q2b.jpg"
+     ]
     },
     {
      "id": "2C-Q2c",
@@ -18035,7 +18122,9 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-06.jpg",
       "papers/physics/img/13-2C-Hookes-Law-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/13-2C-Hookes-Law-Q7.jpg"
+     ]
     },
     {
      "id": "2C-Q7b",
@@ -18067,7 +18156,9 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-06.jpg",
       "papers/physics/img/13-2C-Hookes-Law-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/13-2C-Hookes-Law-Q7.jpg"
+     ]
     },
     {
      "id": "2C-Q8",
@@ -18100,7 +18191,9 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-08.jpg",
       "papers/physics/img/13-2C-Hookes-Law-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/13-2C-Hookes-Law-Q8.jpg"
+     ]
     },
     {
      "id": "2C-Q9a",
@@ -18131,7 +18224,9 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-09.jpg",
       "papers/physics/img/13-2C-Hookes-Law-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/13-2C-Hookes-Law-Q9.jpg"
+     ]
     },
     {
      "id": "2C-Q9b",
@@ -18245,7 +18340,9 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-12.jpg",
       "papers/physics/img/13-2C-Hookes-Law-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/13-2C-Hookes-Law-Q12.jpg"
+     ]
     },
     {
      "id": "2C-Q12b",
@@ -19336,7 +19433,9 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-18.jpg",
       "papers/physics/img/14-2D-Stress-Strain-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q15.jpg"
+     ]
     },
     {
      "id": "2D-Q15b(ii)",
@@ -19363,7 +19462,9 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-18.jpg",
       "papers/physics/img/14-2D-Stress-Strain-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q15.jpg"
+     ]
     },
     {
      "id": "2D-Q15b(iii)",
@@ -19716,7 +19817,9 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-24.jpg",
       "papers/physics/img/14-2D-Stress-Strain-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q18.jpg"
+     ]
     },
     {
      "id": "2D-Q18b(iii)",
@@ -19774,7 +19877,9 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-24.jpg",
       "papers/physics/img/14-2D-Stress-Strain-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q18.jpg"
+     ]
     },
     {
      "id": "2D-Q19",
@@ -19924,7 +20029,9 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-28.jpg",
       "papers/physics/img/14-2D-Stress-Strain-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q23.jpg"
+     ]
     },
     {
      "id": "2D-Q24",
@@ -20253,7 +20360,9 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-37.jpg",
       "papers/physics/img/14-2D-Stress-Strain-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q32.jpg"
+     ]
     },
     {
      "id": "2D-Q32b",
@@ -20979,7 +21088,9 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-48.jpg",
       "papers/physics/img/14-2D-Stress-Strain-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q44.jpg"
+     ]
     },
     {
      "id": "2D-Q45",
@@ -21005,7 +21116,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q45.jpg"
+     ]
     },
     {
      "id": "2D-Q46",
@@ -39646,7 +39759,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-02.jpg",
       "papers/physics/img/22-5B-Circular-Motion-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q1-2.jpg"
+     ]
     },
     {
      "id": "5B-Q1b(i)",
@@ -40032,7 +40147,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-07.jpg",
       "papers/physics/img/22-5B-Circular-Motion-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q5.jpg"
+     ]
     },
     {
      "id": "5B-Q6",
@@ -40126,7 +40243,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-11.jpg",
       "papers/physics/img/22-5B-Circular-Motion-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q8.jpg"
+     ]
     },
     {
      "id": "5B-Q8b(i)",
@@ -40158,7 +40277,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-11.jpg",
       "papers/physics/img/22-5B-Circular-Motion-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q8-2.jpg"
+     ]
     },
     {
      "id": "5B-Q8b(ii)",
@@ -40192,7 +40313,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-11.jpg",
       "papers/physics/img/22-5B-Circular-Motion-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q8-2.jpg"
+     ]
     },
     {
      "id": "5B-Q9a",
@@ -40221,7 +40344,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-12.jpg",
       "papers/physics/img/22-5B-Circular-Motion-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q9.jpg"
+     ]
     },
     {
      "id": "5B-Q9b",
@@ -40343,7 +40468,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-14.jpg",
       "papers/physics/img/22-5B-Circular-Motion-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q10.jpg"
+     ]
     },
     {
      "id": "5B-Q10a(iii)",
@@ -40372,7 +40499,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-14.jpg",
       "papers/physics/img/22-5B-Circular-Motion-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q10.jpg"
+     ]
     },
     {
      "id": "5B-Q10b",
@@ -40436,7 +40565,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-17.jpg",
       "papers/physics/img/22-5B-Circular-Motion-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q11-3.jpg"
+     ]
     },
     {
      "id": "5B-Q11b(i)",
@@ -40505,7 +40636,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-17.jpg",
       "papers/physics/img/22-5B-Circular-Motion-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q11.jpg"
+     ]
     },
     {
      "id": "5B-Q12",
@@ -40565,7 +40698,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-20.jpg",
       "papers/physics/img/22-5B-Circular-Motion-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q13.jpg"
+     ]
     },
     {
      "id": "5B-Q13a(ii)",
@@ -40595,7 +40730,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-20.jpg",
       "papers/physics/img/22-5B-Circular-Motion-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q13.jpg"
+     ]
     },
     {
      "id": "5B-Q13b",
@@ -40625,7 +40762,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-20.jpg",
       "papers/physics/img/22-5B-Circular-Motion-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q13-2.jpg"
+     ]
     },
     {
      "id": "5B-Q14",
@@ -40686,7 +40825,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-23.jpg",
       "papers/physics/img/22-5B-Circular-Motion-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q15.jpg"
+     ]
     },
     {
      "id": "5B-Q16a(i)",
@@ -40875,7 +41016,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-26.jpg",
       "papers/physics/img/22-5B-Circular-Motion-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q19.jpg"
+     ]
     },
     {
      "id": "5B-Q19b",
@@ -40907,7 +41050,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-26.jpg",
       "papers/physics/img/22-5B-Circular-Motion-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q19-2.jpg"
+     ]
     },
     {
      "id": "5B-Q20a",
@@ -40938,7 +41083,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-28.jpg",
       "papers/physics/img/22-5B-Circular-Motion-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q20.jpg"
+     ]
     },
     {
      "id": "5B-Q20b(i)",
@@ -40997,7 +41144,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-28.jpg",
       "papers/physics/img/22-5B-Circular-Motion-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q20-2.jpg"
+     ]
     },
     {
      "id": "5B-Q21a(i)",
@@ -41115,7 +41264,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-29.jpg",
       "papers/physics/img/22-5B-Circular-Motion-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q21.jpg"
+     ]
     },
     {
      "id": "5B-Q21b(iii)",
@@ -41203,7 +41354,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-32.jpg",
       "papers/physics/img/22-5B-Circular-Motion-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q23-2.jpg"
+     ]
     },
     {
      "id": "5B-Q23a(ii)",
@@ -41233,7 +41386,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-32.jpg",
       "papers/physics/img/22-5B-Circular-Motion-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q23-2.jpg"
+     ]
     },
     {
      "id": "5B-Q23b(i)",
@@ -41484,7 +41639,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-36.jpg",
       "papers/physics/img/22-5B-Circular-Motion-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q25.jpg"
+     ]
     },
     {
      "id": "5B-Q25b(iii)",
@@ -41516,7 +41673,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-36.jpg",
       "papers/physics/img/22-5B-Circular-Motion-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q25.jpg"
+     ]
     }
    ]
   },
@@ -41644,7 +41803,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-02.jpg",
       "papers/physics/img/23-6A-Electric-Fields-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q4.jpg"
+     ]
     },
     {
      "id": "6A-Q5",
@@ -41852,7 +42013,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-06.jpg",
       "papers/physics/img/23-6A-Electric-Fields-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q9a.jpg"
+     ]
     },
     {
      "id": "6A-Q9b",
@@ -41881,7 +42044,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-06.jpg",
       "papers/physics/img/23-6A-Electric-Fields-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q9b.jpg"
+     ]
     },
     {
      "id": "6A-Q10a(i)",
@@ -41976,7 +42141,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-09.jpg",
       "papers/physics/img/23-6A-Electric-Fields-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q10a.jpg"
+     ]
     },
     {
      "id": "6A-Q10b",
@@ -42189,7 +42356,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-12.jpg",
       "papers/physics/img/23-6A-Electric-Fields-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q14.jpg"
+     ]
     },
     {
      "id": "6A-Q15",
@@ -42464,7 +42633,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-19.jpg",
       "papers/physics/img/23-6A-Electric-Fields-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q21b.jpg"
+     ]
     },
     {
      "id": "6A-Q21b(iii)",
@@ -42496,7 +42667,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-19.jpg",
       "papers/physics/img/23-6A-Electric-Fields-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q21b.jpg"
+     ]
     },
     {
      "id": "6A-Q21c",
@@ -42557,7 +42730,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-21.jpg",
       "papers/physics/img/23-6A-Electric-Fields-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q22a.jpg"
+     ]
     },
     {
      "id": "6A-Q22b(i)",
@@ -43059,7 +43234,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-29.jpg",
       "papers/physics/img/23-6A-Electric-Fields-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q29a.jpg"
+     ]
     },
     {
      "id": "6A-Q29a(ii)",
@@ -43087,7 +43264,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-29.jpg",
       "papers/physics/img/23-6A-Electric-Fields-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q29a.jpg"
+     ]
     },
     {
      "id": "6A-Q29a(iii)",
@@ -43120,7 +43299,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-29.jpg",
       "papers/physics/img/23-6A-Electric-Fields-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q29a.jpg"
+     ]
     },
     {
      "id": "6A-Q29b(i)",
@@ -43181,7 +43362,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-29.jpg",
       "papers/physics/img/23-6A-Electric-Fields-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q29b.jpg"
+     ]
     },
     {
      "id": "6A-Q30a",
@@ -43298,7 +43481,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-31.jpg",
       "papers/physics/img/23-6A-Electric-Fields-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q32.jpg"
+     ]
     },
     {
      "id": "6A-Q32b",
@@ -43325,7 +43510,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-31.jpg",
       "papers/physics/img/23-6A-Electric-Fields-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q32.jpg"
+     ]
     },
     {
      "id": "6A-Q33",
@@ -43511,7 +43698,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-37.jpg",
       "papers/physics/img/23-6A-Electric-Fields-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q36b-2.jpg"
+     ]
     },
     {
      "id": "6A-Q36b(ii)",
@@ -43541,7 +43730,9 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-37.jpg",
       "papers/physics/img/23-6A-Electric-Fields-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q36b-2.jpg"
+     ]
     },
     {
      "id": "6A-Q36b(iii)",
@@ -43639,7 +43830,10 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-37.jpg",
       "papers/physics/img/23-6A-Electric-Fields-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/23-6A-Electric-Fields-Q36c-2.jpg",
+      "papers/physics/fig/23-6A-Electric-Fields-Q36c.jpg"
+     ]
     }
    ]
   },
@@ -43738,7 +43932,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-01.jpg",
       "papers/physics/img/24-6B-Capacitors-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q1a.jpg"
+     ]
     },
     {
      "id": "6B-Q2",
@@ -44652,7 +44848,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-18.jpg",
       "papers/physics/img/24-6B-Capacitors-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q16.jpg"
+     ]
     },
     {
      "id": "6B-Q16b",
@@ -44682,7 +44880,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-18.jpg",
       "papers/physics/img/24-6B-Capacitors-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q16.jpg"
+     ]
     },
     {
      "id": "6B-Q16c",
@@ -44712,7 +44912,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-18.jpg",
       "papers/physics/img/24-6B-Capacitors-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q16-2.jpg"
+     ]
     },
     {
      "id": "6B-Q17a",
@@ -44868,7 +45070,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-23.jpg",
       "papers/physics/img/24-6B-Capacitors-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q19b.jpg"
+     ]
     },
     {
      "id": "6B-Q19b(ii)",
@@ -44900,7 +45104,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-23.jpg",
       "papers/physics/img/24-6B-Capacitors-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q19b.jpg"
+     ]
     },
     {
      "id": "6B-Q19b(iii)",
@@ -44931,7 +45137,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-23.jpg",
       "papers/physics/img/24-6B-Capacitors-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q19b.jpg"
+     ]
     },
     {
      "id": "6B-Q20a",
@@ -45206,7 +45414,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-29.jpg",
       "papers/physics/img/24-6B-Capacitors-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q23a.jpg"
+     ]
     },
     {
      "id": "6B-Q24",
@@ -45500,7 +45710,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-35.jpg",
       "papers/physics/img/24-6B-Capacitors-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q27.jpg"
+     ]
     },
     {
      "id": "6B-Q27c",
@@ -45559,7 +45771,9 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-35.jpg",
       "papers/physics/img/24-6B-Capacitors-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/24-6B-Capacitors-Q27.jpg"
+     ]
     },
     {
      "id": "6B-Q28",
@@ -45784,7 +45998,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-02.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q1a.jpg"
+     ]
     },
     {
      "id": "6C-Q1b(i)",
@@ -45945,7 +46161,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-05.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q3a.jpg"
+     ]
     },
     {
      "id": "6C-Q3b(i)",
@@ -45979,7 +46197,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-05.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q3b-2.jpg"
+     ]
     },
     {
      "id": "6C-Q3b(ii)",
@@ -46226,7 +46446,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-11.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q8.jpg"
+     ]
     },
     {
      "id": "6C-Q8b(i)",
@@ -46256,7 +46478,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-11.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q8.jpg"
+     ]
     },
     {
      "id": "6C-Q8b(ii)",
@@ -46287,7 +46511,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-11.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q8.jpg"
+     ]
     },
     {
      "id": "6C-Q9",
@@ -46379,7 +46605,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-14.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q11.jpg"
+     ]
     },
     {
      "id": "6C-Q12",
@@ -46410,7 +46638,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-15.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q12.jpg"
+     ]
     },
     {
      "id": "6C-Q13",
@@ -46530,7 +46760,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-18.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q16.jpg"
+     ]
     },
     {
      "id": "6C-Q16a(ii)",
@@ -46560,7 +46792,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-18.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q16.jpg"
+     ]
     },
     {
      "id": "6C-Q16b",
@@ -46593,7 +46827,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-18.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q16-2.jpg"
+     ]
     },
     {
      "id": "6C-Q17",
@@ -46682,7 +46918,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-22.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q19.jpg"
+     ]
     },
     {
      "id": "6C-Q19a(ii)",
@@ -46711,7 +46949,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-22.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q19.jpg"
+     ]
     },
     {
      "id": "6C-Q19b(i)",
@@ -46740,7 +46980,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-22.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q19.jpg"
+     ]
     },
     {
      "id": "6C-Q19b(ii)",
@@ -46770,7 +47012,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-22.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q19.jpg"
+     ]
     },
     {
      "id": "6C-Q19c(i)",
@@ -46831,7 +47075,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-22.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q19c.jpg"
+     ]
     },
     {
      "id": "6C-Q20a",
@@ -46928,7 +47174,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-25.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q20c.jpg"
+     ]
     },
     {
      "id": "6C-Q21a(i)",
@@ -47018,7 +47266,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-26.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q21.jpg"
+     ]
     },
     {
      "id": "6C-Q22",
@@ -47050,7 +47300,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-28.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q22.jpg"
+     ]
     },
     {
      "id": "6C-Q23",
@@ -47107,7 +47359,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-29.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q24.jpg"
+     ]
     },
     {
      "id": "6C-Q25",
@@ -47260,7 +47514,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-34.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q28.jpg"
+     ]
     },
     {
      "id": "6C-Q28b",
@@ -47291,7 +47547,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-34.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q28.jpg"
+     ]
     },
     {
      "id": "6C-Q28c",
@@ -47446,7 +47704,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-37.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q31.jpg"
+     ]
     },
     {
      "id": "6C-Q31b",
@@ -47505,7 +47765,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-38.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q32.jpg"
+     ]
     },
     {
      "id": "6C-Q33",
@@ -47534,7 +47796,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-39.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q33.jpg"
+     ]
     },
     {
      "id": "6C-Q34a",
@@ -47565,7 +47829,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-40.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q34.jpg"
+     ]
     },
     {
      "id": "6C-Q34b",
@@ -47593,7 +47859,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-40.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q34-2.jpg"
+     ]
     },
     {
      "id": "6C-Q35",
@@ -47835,7 +48103,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-46.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q40a.jpg"
+     ]
     },
     {
      "id": "6C-Q40b(ii)",
@@ -47898,7 +48168,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-48.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q41.jpg"
+     ]
     },
     {
      "id": "6C-Q41b",
@@ -47929,7 +48201,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-48.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q41.jpg"
+     ]
     },
     {
      "id": "6C-Q41c",
@@ -47959,7 +48233,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-48.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q41.jpg"
+     ]
     },
     {
      "id": "6C-Q42",
@@ -48019,7 +48295,10 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-51.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q43.jpg",
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q43-2.jpg"
+     ]
     },
     {
      "id": "6C-Q43b",
@@ -48049,7 +48328,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-51.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q43.jpg"
+     ]
     },
     {
      "id": "6C-Q44",
@@ -48108,7 +48389,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-52.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-53.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q45b.jpg"
+     ]
     },
     {
      "id": "6C-Q45b",
@@ -48167,7 +48450,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-54.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q46.jpg"
+     ]
     },
     {
      "id": "6C-Q46b(i)",
@@ -48197,7 +48482,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-54.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q46-2.jpg"
+     ]
     },
     {
      "id": "6C-Q46b(ii)",
@@ -48225,7 +48512,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-54.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q46-2.jpg"
+     ]
     },
     {
      "id": "6C-Q47",
@@ -48254,7 +48543,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-55.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q47.jpg"
+     ]
     }
    ]
   },
@@ -57920,7 +58211,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-04.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q5.jpg"
+     ]
     },
     {
      "id": "9-Q6",
@@ -57982,7 +58275,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q7-2.jpg"
+     ]
     },
     {
      "id": "9-Q7a(ii)",
@@ -58523,7 +58818,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-14.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q14-2.jpg"
+     ]
     },
     {
      "id": "9-Q14a(ii)",
@@ -58860,13 +59157,19 @@ window.BANK.physics = {
       "alpha decay"
      ],
      "question": "A polonium-210 nucleus decays to lead-206 by emitting an alpha particle. Using the masses in the table, show that the energy released is about 9e-13 J.",
-     "status": "pending",
-     "answer": "Pending: the table of particle masses is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Energy released = 8.7 x 10^-13 J, which is about 9 x 10^-13 J.",
+     "steps": [
+      "Mass after = lead + alpha = 3.41918e-25 + 0.0664437e-25 = 3.4856237e-25 kg.",
+      "Mass decrease = 3.48572e-25 - 3.4856237e-25 = 9.63 x 10^-30 kg.",
+      "Energy released = mc^2 = 9.63e-30 x (3.00e8)^2 = 8.7e-13 J, which is about 9e-13 J."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q20.jpg"
+     ]
     },
     {
      "id": "9-Q20a(ii)",
@@ -58884,13 +59187,20 @@ window.BANK.physics = {
       "polonium"
      ],
      "question": "98% of the decay energy is released as kinetic energy of the alpha particle. Calculate the velocity of the alpha particle immediately after the decay.",
-     "status": "pending",
-     "answer": "Pending: the mass of the alpha particle (given in the missing table) is needed for the velocity calculation.",
-     "steps": [],
+     "status": "ready",
+     "answer": "v = 1.6 x 10^7 m s^-1.",
+     "steps": [
+      "Kinetic energy of the alpha particle = 0.98 x 8.67e-13 = 8.5e-13 J.",
+      "Use KE = 1/2 m v^2 with m = 6.64437e-27 kg (from the table).",
+      "v = sqrt(2 x 8.5e-13 / 6.64437e-27) = sqrt(2.56e14) = 1.6e7 m s^-1.",
+      "This is about 5% of the speed of light, so using the non-relativistic formula is acceptable."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q20.jpg"
+     ]
     },
     {
      "id": "9-Q20b",
@@ -58949,7 +59259,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-21.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q21.jpg"
+     ]
     },
     {
      "id": "9-Q21b",
@@ -59068,7 +59380,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-22.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q22.jpg"
+     ]
     },
     {
      "id": "9-Q22b",
@@ -59145,14 +59459,23 @@ window.BANK.physics = {
       "estimate"
      ],
      "question": "Strontium-90 beta particles ionise about 250 nitrogen molecules per cm of air. 15.6 eV is needed to ionise a nitrogen molecule. Assess whether this estimate is consistent with the range of the most energetic beta particles (range-energy graph missing).",
-     "status": "pending",
-     "answer": "Pending: the beta energy distribution and range-energy graph are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes, it is consistent: ionising over the range of about 1.3 m takes about 0.51 MeV, close to the maximum beta energy of about 0.53 MeV.",
+     "steps": [
+      "The energy spectrum ends at about 0.53 MeV, so the most energetic beta particles have about 0.53 MeV.",
+      "On the range graph, 0.53 MeV in air corresponds to a range of about 1.3 m = 130 cm.",
+      "Energy used per cm = 250 x 15.6 eV = 3.9 x 10^3 eV.",
+      "Energy used over 130 cm = 3.9e3 x 130 = 5.1e5 eV = 0.51 MeV.",
+      "This is within about 5% of 0.53 MeV, so the estimate of 250 ionisations per cm is consistent with the range (the particle stops when all its energy has gone into ionisation)."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-23.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q23.jpg",
+      "papers/physics/fig/30-9-Nuclear-Decay-Q23-2.jpg"
+     ]
     },
     {
      "id": "9-Q24",
@@ -59272,7 +59595,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q26.jpg"
+     ]
     },
     {
      "id": "9-Q26b(ii)",
@@ -59385,14 +59710,20 @@ window.BANK.physics = {
       "options"
      ],
      "question": "Which row of the table gives the conditions required in the core of a star for fusion to be sustained?",
-     "status": "pending",
-     "answer": "Pending: the table of condition options is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: very high density and very high temperature.",
+     "steps": [
+      "Nuclei repel each other electrostatically, so they need very high kinetic energy to get close enough to fuse: a very high temperature (about 10^7 K).",
+      "A very high density is needed so that the nuclei collide often enough for the fusion rate to give enough energy to sustain the reaction.",
+      "Both conditions must be very high, so the row is D."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-27.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q27.jpg"
+     ]
     },
     {
      "id": "9-Q28",
@@ -59410,14 +59741,21 @@ window.BANK.physics = {
       "decay curve"
      ],
      "question": "Bismuth decays to form a stable isotope of thallium. Which graph shows how the number N of thallium atoms in a sample varies with time t? (Graphs A to D are missing from the text.)",
-     "status": "pending",
-     "answer": "Pending: graphs A to D are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D.",
+     "steps": [
+      "The thallium is the stable decay product, so there are no thallium atoms at t = 0 and N starts from zero.",
+      "N increases as bismuth decays, but the rate of increase falls as the number of bismuth atoms left falls, so the curve flattens (N = N0(1 - e^(-lambda t))).",
+      "It levels off at the original number of bismuth atoms, since stable thallium does not decay. This is graph D.",
+      "A and B show a falling number and C shows an ever-steeper rise, neither of which fits."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-27.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q28.jpg"
+     ]
     },
     {
      "id": "9-Q29",
@@ -59527,15 +59865,21 @@ window.BANK.physics = {
       "identify"
      ],
      "question": "Alpha particles bombard aluminium to produce a radioactive isotope of phosphorus. Identify particle X in the nuclear equation.",
-     "status": "pending",
-     "answer": "Pending: the nuclear equation with particle X is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "X is a neutron, 1 0 n.",
+     "steps": [
+      "Nucleon number: 27 + 4 = 31 = 30 + A(X), so A = 1.",
+      "Proton number: 13 + 2 = 15 = 15 + Z(X), so Z = 0.",
+      "A particle with nucleon number 1 and no charge is a neutron."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-29.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-30.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q32.jpg"
+     ]
     },
     {
      "id": "9-Q32a(ii)",
@@ -59553,15 +59897,22 @@ window.BANK.physics = {
       "nuclear masses"
      ],
      "question": "Calculate the energy released, in joules, in the nuclear reaction in part (a)(i).",
-     "status": "pending",
-     "answer": "Pending: the nuclear masses of the reactants and products are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Energy released = 8.0 x 10^-14 J (0.50 MeV).",
+     "steps": [
+      "Mass before = Al + alpha = 25.1333 + 3.7274 = 28.8607 GeV/c^2.",
+      "Mass after = P + X = 27.9206 + 0.9396 = 28.8602 GeV/c^2.",
+      "Mass decrease = 0.0005 GeV/c^2, so energy released = 0.0005 GeV = 5 x 10^5 eV.",
+      "In joules: 5e5 x 1.60e-19 = 8.0e-14 J."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-29.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-30.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q32-2.jpg"
+     ]
     },
     {
      "id": "9-Q32b",
@@ -59652,7 +60003,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-31.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q34.jpg"
+     ]
     },
     {
      "id": "9-Q34b",
@@ -59712,7 +60065,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-32.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q35.jpg"
+     ]
     },
     {
      "id": "9-Q35b",
@@ -59731,7 +60086,7 @@ window.BANK.physics = {
      ],
      "question": "Calculate the speed of the beta particle emitted in the rhenium-187 decay.",
      "status": "pending",
-     "answer": "Pending: the energy of the beta particle (or the decay energy data) needed for the speed calculation is not in the extracted text.",
+     "answer": "Pending: the page gives no kinetic energy, decay energy or other data for the beta particle (the part (b) label and its data are missing from the paper), so its speed cannot be calculated.",
      "steps": [],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-32.jpg",
@@ -59755,14 +60110,23 @@ window.BANK.physics = {
       "Rutherford"
      ],
      "question": "Alpha particles are fired at nitrogen atoms. Calculate the minimum energy, in MeV, required for the reaction to take place.",
-     "status": "pending",
-     "answer": "Pending: the nuclear masses needed for this calculation are not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Minimum energy = 1.2 MeV (1.16 MeV).",
+     "steps": [
+      "Mass before (He + N) = (6.64432 + 23.2451) x 10^-27 = 29.88942e-27 kg.",
+      "Mass after (O + H) = (28.2185 + 1.67299) x 10^-27 = 29.89149e-27 kg.",
+      "The products are heavier by 0.00207e-27 = 2.07e-30 kg, so energy must be supplied.",
+      "Energy = mc^2 = 2.07e-30 x (3.00e8)^2 = 1.86e-13 J.",
+      "In MeV: 1.86e-13 / 1.60e-13 = 1.16 MeV, about 1.2 MeV."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-32.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q36.jpg",
+      "papers/physics/fig/30-9-Nuclear-Decay-Q36-2.jpg"
+     ]
     },
     {
      "id": "9-Q36b",
@@ -59931,14 +60295,20 @@ window.BANK.physics = {
       "row"
      ],
      "question": "Fusion reactions are the primary energy source of stars. Which row of the table gives the conditions necessary for fusion in stars?",
-     "status": "pending",
-     "answer": "Pending: the table of conditions is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: high density and high temperature.",
+     "steps": [
+      "A very high temperature gives the nuclei enough kinetic energy to overcome their electrostatic repulsion and get close enough to fuse.",
+      "A high density means the nuclei are close together and collide often, giving a high enough fusion rate.",
+      "Both must be high, so the row is A."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-35.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q38.jpg"
+     ]
     },
     {
      "id": "9-Q39a",
@@ -59956,14 +60326,21 @@ window.BANK.physics = {
       "alpha"
      ],
      "question": "A thorium-230 nucleus decays to radium-226 by emitting an alpha particle. Using the table of particle masses, determine the energy released in J.",
-     "status": "pending",
-     "answer": "Pending: the table of masses for thorium-230, radium-226 and the alpha particle is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Energy released = 7.6 x 10^-13 J.",
+     "steps": [
+      "Mass before = 230.0331 u. Mass after = 226.0254 + 4.0026 = 230.0280 u.",
+      "Mass decrease = 230.0331 - 230.0280 = 0.0051 u.",
+      "In kg: 0.0051 x 1.66e-27 = 8.47e-30 kg.",
+      "Energy = mc^2 = 8.47e-30 x (3.00e8)^2 = 7.6e-13 J."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-35.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q39.jpg"
+     ]
     },
     {
      "id": "9-Q39b",
@@ -60097,14 +60474,21 @@ window.BANK.physics = {
       "MeV"
      ],
      "question": "Determine the energy in MeV released when a 2H nucleus fuses with a 3H nucleus to form 4He and a neutron, using the binding energy per nucleon graph.",
-     "status": "pending",
-     "answer": "Pending: the binding energy per nucleon graph (against proton number) is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 17 MeV (17.4 MeV) released.",
+     "steps": [
+      "Read from the graph: 2H has 1.1 MeV per nucleon, 3H has 2.8 MeV per nucleon and 4He has 7.0 MeV per nucleon. A free neutron has no binding energy.",
+      "Binding energy before = 2 x 1.1 + 3 x 2.8 = 2.2 + 8.4 = 10.6 MeV.",
+      "Binding energy after = 4 x 7.0 = 28.0 MeV.",
+      "Energy released = increase in binding energy = 28.0 - 10.6 = 17.4 MeV, about 17 MeV."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-37.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q41.jpg"
+     ]
     },
     {
      "id": "9-Q42",
@@ -60134,7 +60518,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-38.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q42.jpg"
+     ]
     },
     {
      "id": "9-Q43",
@@ -60182,14 +60568,20 @@ window.BANK.physics = {
       "radiation"
      ],
      "question": "Which row of the table gives the relative ionising power and penetration of gamma radiation?",
-     "status": "pending",
-     "answer": "Pending: the table of ionising power and penetration options is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: low ionising power and high penetration.",
+     "steps": [
+      "Gamma radiation is weakly ionising, because gamma photons are uncharged and interact rarely with atoms.",
+      "For the same reason it is highly penetrating and is only partly absorbed by thick lead.",
+      "So the row is B (low, high)."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-40.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q44.jpg"
+     ]
     },
     {
      "id": "9-Q45",
@@ -60218,7 +60610,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-40.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q45.jpg"
+     ]
     },
     {
      "id": "9-Q46",
@@ -60236,14 +60630,20 @@ window.BANK.physics = {
       "E = mc^2"
      ],
      "question": "When a nucleus of americium emits an alpha particle, 5.64 MeV is released. Which expression gives the decrease in mass in kg? (Options are missing from the extracted text.)",
-     "status": "pending",
-     "answer": "Pending: the answer expression options are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: (5.64 x 1.60 x 10^-13) / (3.0 x 10^8)^2.",
+     "steps": [
+      "Convert the energy to joules: 5.64 MeV = 5.64 x 1.60e-13 J (1 MeV = 1.60e-13 J).",
+      "Use E = (delta m) c^2, so delta m = E / c^2 = (5.64 x 1.60e-13) / (3.0e8)^2 kg.",
+      "This is expression A. B has the conversion factor the wrong way round, and C and D include 1.66e-27, which is the conversion between kg and u, not needed for an answer in kg."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-41.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q46.jpg"
+     ]
     },
     {
      "id": "9-Q47",
@@ -60368,7 +60768,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-44.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q50-4.jpg"
+     ]
     },
     {
      "id": "9-Q50b",
@@ -60386,16 +60788,26 @@ window.BANK.physics = {
       "identify source"
      ],
      "question": "The count rate after gamma radiation passes through lead thickness x is R = R0 e^(-mu x). A graph of ln R against x and a graph of mu against photon energy are given, with a table of sources. Deduce which source was used.",
-     "status": "pending",
-     "answer": "Pending: the graphs of ln R against x and of mu against photon energy, and the table of sources, are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The source was 133Xe (photon energy 80 keV).",
+     "steps": [
+      "From R = R0 e^(-mu x), ln R = ln R0 - mu x, so the gradient of ln R against x is -mu.",
+      "Using the graph as scaled: ln R falls from 540 at x = 0 to 60 at x = 8.0 cm, so the gradient = (60 - 540) / 8.0 = -60 cm^-1.",
+      "Hence mu = 60 cm^-1.",
+      "On the mu against photon energy graph, mu = 60 cm^-1 corresponds to a photon energy of about 70 to 75 keV.",
+      "This is closest to 133Xe (80 keV). 57Co (122 keV) would give mu of about 24 cm^-1 and 133Ba (360 keV) about 5 cm^-1, so the source is 133Xe."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-42.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-43.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-44.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q50.jpg",
+      "papers/physics/fig/30-9-Nuclear-Decay-Q50-2.jpg",
+      "papers/physics/fig/30-9-Nuclear-Decay-Q50-3.jpg"
+     ]
     },
     {
      "id": "9-Q51a",
@@ -60577,7 +60989,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-48.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q54-2.jpg"
+     ]
     },
     {
      "id": "9-Q54b",
@@ -60607,7 +61021,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-48.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q54-2.jpg"
+     ]
     },
     {
      "id": "9-Q54c",
@@ -60625,15 +61041,22 @@ window.BANK.physics = {
       "mu"
      ],
      "question": "The student's graph shows count rate R against absorber thickness x, with R = 60 e^(-mu x). Determine a value for the constant mu.",
-     "status": "pending",
-     "answer": "Pending: the student's graph of count rate against thickness is missing from the extracted text, so the value of mu cannot be read.",
-     "steps": [],
+     "status": "ready",
+     "answer": "mu = 0.34 cm^-1.",
+     "steps": [
+      "R = 60 e^(-mu x), so mu = ln(60 / R) / x.",
+      "Take a point on the curve well away from x = 0: at x = 5.0 cm, R = 11 s^-1.",
+      "mu = ln(60 / 11) / 5.0 = 1.70 / 5.0 = 0.34 cm^-1.",
+      "Check with another point: at x = 2.8 cm, R = 23 s^-1, giving mu = ln(60 / 23) / 2.8 = 0.34 cm^-1."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-47.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-48.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q54.jpg"
+     ]
     },
     {
      "id": "9-Q55a(i)",
@@ -60662,7 +61085,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q55.jpg"
+     ]
     },
     {
      "id": "9-Q55a(ii)",
@@ -60680,9 +61105,15 @@ window.BANK.physics = {
       "nuclear mass"
      ],
      "question": "The mass of a uranium-241 nucleus is 241.06033 u and the mass of a neutron is 1.68e-27 kg. Show that the binding energy of the nucleus is about 3e-10 J.",
-     "status": "pending",
-     "answer": "Pending: the mass of a proton is needed with the 92 protons but is not given in the extracted text (only the neutron mass is).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Binding energy = 3.4 x 10^-10 J, which is about 3 x 10^-10 J.",
+     "steps": [
+      "U-241 has 92 protons and 241 - 92 = 149 neutrons.",
+      "Mass of separate nucleons = 92 x 1.673e-27 + 149 x 1.68e-27 = 1.539e-25 + 2.503e-25 = 4.042e-25 kg (proton mass 1.673e-27 kg from the data sheet).",
+      "Mass of the nucleus = 241.06033 x 1.661e-27 = 4.004e-25 kg.",
+      "Mass defect = 4.042e-25 - 4.004e-25 = 3.8e-27 kg.",
+      "Binding energy = mc^2 = 3.8e-27 x (3.00e8)^2 = 3.4e-10 J, about 3e-10 J. (With a more precise neutron mass of 1.675e-27 kg the result is 2.8e-10 J, also about 3e-10 J.)"
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
@@ -60705,9 +61136,13 @@ window.BANK.physics = {
       "energy"
      ],
      "question": "Calculate the binding energy per nucleon of uranium-241 in MeV.",
-     "status": "pending",
-     "answer": "Pending: depends on the binding energy from part (a)(ii), which needs the proton mass that is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 8.9 MeV per nucleon, using the 3.4 x 10^-10 J found from the data given (7.8 MeV if 3 x 10^-10 J is used).",
+     "steps": [
+      "Binding energy per nucleon = total binding energy / number of nucleons = 3.4e-10 / 241 = 1.4e-12 J.",
+      "Convert to MeV: 1.4e-12 / 1.60e-13 = 8.9 MeV per nucleon.",
+      "The answer is sensitive to rounding of the neutron mass given in the question. Using 3e-10 J gives 7.8 MeV, and an accurate neutron mass (1.675e-27 kg) gives about 7.2 MeV, so a value of 7 to 9 MeV per nucleon is expected for this nucleus."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
@@ -60771,7 +61206,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-50.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q56.jpg"
+     ]
     },
     {
      "id": "9-Q56b(i)",
@@ -60879,15 +61316,22 @@ window.BANK.physics = {
       "values from graph"
      ],
      "question": "A nucleus of uranium-238 undergoes fission with one product being tin. Estimate the energy released using values from the binding energy per nucleon graph.",
-     "status": "pending",
-     "answer": "Pending: the binding energy per nucleon graph is missing from the extracted text, so the values for U-238 and tin cannot be read.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 240 MeV released (about 2.4 x 10^2 MeV).",
+     "steps": [
+      "From the graph, U-238 has a binding energy per nucleon of about 7.5 MeV and Sn-120 about 8.5 MeV.",
+      "The other product has about 238 - 120 = 118 nucleons (ignoring any neutrons released) and also lies near 8.5 MeV per nucleon.",
+      "Binding energy before = 238 x 7.5 = 1785 MeV. Binding energy after = 238 x 8.5 = 2023 MeV.",
+      "Energy released = 2023 - 1785 = about 240 MeV (equivalently 238 nucleons x 1 MeV gain per nucleon)."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-51.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q57.jpg"
+     ]
     },
     {
      "id": "9-Q57c(i)",
@@ -60917,7 +61361,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q57-2.jpg"
+     ]
     },
     {
      "id": "9-Q57c(ii)",
@@ -60996,14 +61442,23 @@ window.BANK.physics = {
       "ordering"
      ],
      "question": "The graph shows binding energy per nucleon against nucleon number, with isotopes P, Q and R marked. Which row of the table lists the isotopes from least stable to most stable? (The table options are missing.)",
-     "status": "pending",
-     "answer": "Pending: the table of isotope orderings and the graph with positions P, Q and R are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: P, R, Q (least stable to most stable).",
+     "steps": [
+      "Stability increases with binding energy per nucleon: the higher the value, the more tightly bound the nucleus.",
+      "Q is at the maximum of the curve, so it is the most stable.",
+      "R is on the falling part of the curve, so it is slightly lower than Q.",
+      "P is on the steep rising part, with the lowest binding energy per nucleon, so it is the least stable.",
+      "Order from least to most stable: P, R, Q, which is row B."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-53.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-54.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q58.jpg",
+      "papers/physics/fig/30-9-Nuclear-Decay-Q58-2.jpg"
+     ]
     },
     {
      "id": "9-Q59a(i)",
@@ -61034,7 +61489,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-55.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q59.jpg"
+     ]
     },
     {
      "id": "9-Q59a(ii)",
@@ -61064,7 +61521,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-55.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q59-2.jpg"
+     ]
     },
     {
      "id": "9-Q59a(iii)",
@@ -61112,9 +61571,15 @@ window.BANK.physics = {
       "calculation"
      ],
      "question": "Calculate the binding energy per nucleon, in MeV, for a nucleus of Pm-145. Mass of the nucleus 144.913 u, neutron mass 1.00867 u.",
-     "status": "pending",
-     "answer": "Pending: the mass of a proton (needed for the 61 protons) is not given in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 8.1 MeV per nucleon (8.09 MeV).",
+     "steps": [
+      "Pm-145 has 61 protons and 145 - 61 = 84 neutrons.",
+      "Mass of the separate nucleons = 61 x 1.00728 + 84 x 1.00867 = 146.172 u (proton mass 1.00728 u from the data sheet).",
+      "Mass defect = 146.172 - 144.913 = 1.259 u.",
+      "Binding energy = 1.259 x 931.5 = 1173 MeV.",
+      "Binding energy per nucleon = 1173 / 145 = 8.09 MeV."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-54.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-55.jpg",
@@ -61150,7 +61615,9 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-56.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-57.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q60.jpg"
+     ]
     },
     {
      "id": "9-Q61",
@@ -61197,14 +61664,20 @@ window.BANK.physics = {
       "54 counts"
      ],
      "question": "Background is 22 counts per minute. A detector at 25 cm from a gamma source records 54 counts per minute, then is moved to 50 cm. Which is the expected number of counts per minute? (Options are missing from the extracted text.)",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the extracted text. The expected value is 30 counts per minute (corrected 32 halved twice, plus 22 background).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: (54 - 22) / 4 + 22 = 30 counts per minute.",
+     "steps": [
+      "The count from the source alone at 25 cm is the measured rate minus the background: 54 - 22 = 32 counts per minute.",
+      "Gamma intensity follows an inverse square law, so doubling the distance (25 cm to 50 cm) divides the source count by 4: 32 / 4 = 8.",
+      "The detector still records the background, so add it back: 8 + 22 = 30 counts per minute, which is expression B."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-58.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q62.jpg"
+     ]
     },
     {
      "id": "9-Q63",
@@ -61222,14 +61695,20 @@ window.BANK.physics = {
       "change"
      ],
      "question": "Energy is released when low mass nuclei fuse and when high mass nuclei undergo fission. Which row of the table shows the change in binding energy per nucleon for fusion and fission?",
-     "status": "pending",
-     "answer": "Pending: the table of binding energy changes is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: binding energy per nucleon increases in both fusion and fission.",
+     "steps": [
+      "Energy is released only when the products are more tightly bound than the original nuclei, i.e. when the total binding energy increases.",
+      "In fusion, light nuclei move up the steep part of the curve towards iron, so the binding energy per nucleon increases.",
+      "In fission, a heavy nucleus splits into medium-mass nuclei, which lie closer to the peak at iron, so the binding energy per nucleon also increases."
+     ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-58.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/30-9-Nuclear-Decay-Q63.jpg"
+     ]
     }
    ]
   },
@@ -61487,7 +61966,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-05.jpg",
       "papers/physics/img/31-10-Oscillations-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q4-3.jpg"
+     ]
     },
     {
      "id": "10-Q4b",
@@ -61519,7 +62000,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-05.jpg",
       "papers/physics/img/31-10-Oscillations-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q4-3.jpg"
+     ]
     },
     {
      "id": "10-Q4c",
@@ -62155,7 +62638,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-13.jpg",
       "papers/physics/img/31-10-Oscillations-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q14-2.jpg"
+     ]
     },
     {
      "id": "10-Q14b(i)",
@@ -62186,7 +62671,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-13.jpg",
       "papers/physics/img/31-10-Oscillations-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q14-2.jpg"
+     ]
     },
     {
      "id": "10-Q14b(ii)",
@@ -62345,7 +62832,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-17.jpg",
       "papers/physics/img/31-10-Oscillations-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q18.jpg"
+     ]
     },
     {
      "id": "10-Q18b(i)",
@@ -62432,7 +62921,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-17.jpg",
       "papers/physics/img/31-10-Oscillations-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q18.jpg"
+     ]
     },
     {
      "id": "10-Q19a",
@@ -62461,7 +62952,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-18.jpg",
       "papers/physics/img/31-10-Oscillations-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q19.jpg"
+     ]
     },
     {
      "id": "10-Q19b(i)",
@@ -62491,7 +62984,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-18.jpg",
       "papers/physics/img/31-10-Oscillations-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q19.jpg"
+     ]
     },
     {
      "id": "10-Q19b(ii)",
@@ -62582,7 +63077,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-19.jpg",
       "papers/physics/img/31-10-Oscillations-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q20.jpg"
+     ]
     },
     {
      "id": "10-Q21a",
@@ -62600,15 +63097,21 @@ window.BANK.physics = {
       "7-day"
      ],
      "question": "The graph shows the water level in the Bay of Fundy over a 7-day period. Determine the period T of the water level, in hours.",
-     "status": "pending",
-     "answer": "Needs the water level against time graph from the PDF to read the period in hours (the answer is a time between successive high tides).",
-     "steps": [],
+     "status": "ready",
+     "answer": "T = 12.4 hours (about 12 to 13 hours)",
+     "steps": [
+      "Measure over many cycles to reduce the reading error: the first peak is at about 0.33 days and the 13th peak at about 6.54 days, which is 12 complete cycles.",
+      "Time for 12 cycles = 6.54 - 0.33 = 6.21 days, so T = 6.21 / 12 = 0.52 days.",
+      "T = 0.52 x 24 = 12.4 hours (consistent with the usual interval between successive high tides of about 12.4 h)."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-20.jpg",
       "papers/physics/img/31-10-Oscillations-21.jpg",
       "papers/physics/img/31-10-Oscillations-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q21.jpg"
+     ]
     },
     {
      "id": "10-Q21b",
@@ -62656,14 +63159,22 @@ window.BANK.physics = {
       "options"
      ],
      "question": "The graph shows velocity against time for a mass in SHM. Which of graphs A to D shows displacement from equilibrium against time over the same interval?",
-     "status": "pending",
-     "answer": "Needs the velocity-time graph and the option graphs A to D from the PDF (they are images, not in the text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "Velocity is the gradient of the displacement-time graph. At t = 0 the velocity is zero, so the displacement is at a maximum or minimum there.",
+      "Just after t = 0 the velocity is negative, so the displacement is decreasing: it starts at its positive maximum and falls (y = A cos omega t).",
+      "The velocity is zero again after half a period, where the displacement has its minimum, which matches A.",
+      "B starts at a minimum, and C and D start at zero, so none of them fits."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-22.jpg",
       "papers/physics/img/31-10-Oscillations-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q22.jpg",
+      "papers/physics/fig/31-10-Oscillations-Q22-2.jpg"
+     ]
     },
     {
      "id": "10-Q23",
@@ -62710,14 +63221,21 @@ window.BANK.physics = {
       "calculate"
      ],
      "question": "In the Pantheon in Paris a pendulum takes 8.25 s to swing from one extreme position to the other. Which expression gives its length? (Option list is not in the text.)",
-     "status": "pending",
-     "answer": "Option list not in the text. Expected: L = g T^2 / (4 pi^2) with T = 16.5 s, giving L = 67.6 m.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: (16.5)^2 x 9.81 / (4 pi^2) = 67.7 m",
+     "steps": [
+      "Swinging from one extreme position to the other is half an oscillation, so T = 2 x 8.25 s = 16.5 s.",
+      "T = 2 pi sqrt(L / g), so L = g T^2 / (4 pi^2).",
+      "L = (16.5)^2 x 9.81 / (4 pi^2) = 67.7 m, which is option D.",
+      "C uses 8.25 s (half the period), and A and B have the expression upside down."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-23.jpg",
       "papers/physics/img/31-10-Oscillations-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q24.jpg"
+     ]
     },
     {
      "id": "10-Q25",
@@ -62764,15 +63282,21 @@ window.BANK.physics = {
       "maximum amplitude"
      ],
      "question": "The suspension system of a car is forced into vertical oscillation. Which row of the table shows how the maximum amplitude A0 and its frequency f0 change as damping is reduced?",
-     "status": "pending",
-     "answer": "Needs the table of rows from the PDF (not in the text); expected: A0 increases and f0 stays about the same as damping is reduced.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: A0 increases and f0 increases",
+     "steps": [
+      "Less damping means less energy is dissipated per cycle, so the amplitude at resonance gets larger: A0 increases.",
+      "With heavy damping the amplitude peak occurs at a frequency below the natural frequency. As the damping is reduced the peak sharpens and moves towards the natural frequency, so f0 increases.",
+      "So both quantities increase, which is row D."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-24.jpg",
       "papers/physics/img/31-10-Oscillations-25.jpg",
       "papers/physics/img/31-10-Oscillations-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q26.jpg"
+     ]
     },
     {
      "id": "10-Q27a",
@@ -62802,7 +63326,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-25.jpg",
       "papers/physics/img/31-10-Oscillations-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q27-2.jpg"
+     ]
     },
     {
      "id": "10-Q27b(i)",
@@ -62819,15 +63345,24 @@ window.BANK.physics = {
       "sinusoid"
      ],
      "question": "The bracket has a highest to lowest distance of 8.0 cm and completes 270 oscillations per minute. Sketch a velocity-time graph for the bracket, including velocity and time values.",
-     "status": "pending",
-     "answer": "Needs the blank axes from the PDF. Expected: sine-shaped v-t curve with peak +/-1.13 m s-1 and period 0.22 s (f = 4.5 Hz, A = 4.0 cm).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A sinusoidal v-t graph with peaks at +1.1 m s^-1 and -1.1 m s^-1 (1.13 m s^-1) and a period of 0.22 s.",
+     "steps": [
+      "Frequency f = 270 / 60 = 4.5 Hz, so the period T = 1 / 4.5 = 0.22 s and omega = 2 pi f = 28.3 rad s^-1.",
+      "The distance from highest to lowest position is 8.0 cm, so the amplitude is A = 4.0 cm = 0.040 m.",
+      "The maximum velocity is v_max = omega A = 28.3 x 0.040 = 1.13 m s^-1.",
+      "Draw a smooth sine (or cosine) curve centred on v = 0 and label the peaks +1.13 and -1.13 m s^-1 on the velocity axis.",
+      "Scale the time axis so that one complete cycle takes 0.22 s (a quarter cycle is 0.056 s, so the zero crossings and peaks fall at multiples of 0.056 s: 0.056, 0.11, 0.17, 0.22 s).",
+      "Either starting phase is acceptable (starting at zero, or starting at a peak) provided the amplitude and the period are labelled."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-24.jpg",
       "papers/physics/img/31-10-Oscillations-25.jpg",
       "papers/physics/img/31-10-Oscillations-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q27.jpg"
+     ]
     },
     {
      "id": "10-Q27b(ii)",
@@ -62856,7 +63391,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-25.jpg",
       "papers/physics/img/31-10-Oscillations-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q27-2.jpg"
+     ]
     },
     {
      "id": "10-Q27b(iii)",
@@ -62887,7 +63424,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-25.jpg",
       "papers/physics/img/31-10-Oscillations-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q27-2.jpg"
+     ]
     },
     {
      "id": "10-Q28",
@@ -62903,14 +63442,22 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "A mass displaced 5 cm from equilibrium oscillates; its acceleration against displacement graph is given. Sketch a graph of displacement against time.",
-     "status": "pending",
-     "answer": "Needs the acceleration-displacement graph and the blank axes from the PDF. Expected: sinusoid with amplitude 5 cm.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A sinusoidal x-t graph of amplitude 5 cm and period about 5.0 s, e.g. a cosine curve starting at +5 cm.",
+     "steps": [
+      "The gradient of the a-x graph is -8 / 5 = -1.6 s^-2, so omega^2 = 1.6 s^-2 and omega = 1.26 rad s^-1 (the acceleration axis is in cm s^-2).",
+      "T = 2 pi / omega = 2 pi / 1.26 = 5.0 s.",
+      "The mass is displaced 5 cm and released, so it starts at rest at maximum displacement and the amplitude is 5 cm: x = 5 cos(1.26 t) cm.",
+      "Sketch a cosine curve: +5 cm at t = 0, zero at about 1.25 s, -5 cm at about 2.5 s, zero at about 3.7 s and back to +5 cm at 5.0 s. Label x = +5 and -5 cm on the axis and the time values on the t axis."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-26.jpg",
       "papers/physics/img/31-10-Oscillations-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q28.jpg",
+      "papers/physics/fig/31-10-Oscillations-Q28-2.jpg"
+     ]
     },
     {
      "id": "10-Q29",
@@ -62927,14 +63474,20 @@ window.BANK.physics = {
       "expression"
      ],
      "question": "A seconds pendulum has a period of 2 s. Which expression gives its length in metres? (Option list is not in the text.)",
-     "status": "pending",
-     "answer": "Option list not in the text. Expected: L = g / pi^2 = 0.99 m.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 9.81 / pi^2 = 0.99 m",
+     "steps": [
+      "T = 2 pi sqrt(L / g), so L = g T^2 / (4 pi^2).",
+      "With T = 2 s: L = 9.81 x 2^2 / (4 pi^2) = 9.81 x 4 / (4 pi^2) = 9.81 / pi^2 = 0.99 m.",
+      "This is option C. A and B are not in the right form, and D (9.81 / 4 pi^2) would be the length for T = 1 s."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-27.jpg",
       "papers/physics/img/31-10-Oscillations-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q29.jpg"
+     ]
     },
     {
      "id": "10-Q30a",
@@ -62951,14 +63504,20 @@ window.BANK.physics = {
       "simple harmonic"
      ],
      "question": "Add to the graph of elastic potential energy against displacement a line showing how the total energy of the mass-spring system varies with displacement.",
-     "status": "pending",
-     "answer": "Needs the EPE-displacement graph and its axes from the PDF; the total energy line is a horizontal, constant line.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A horizontal straight line at the total energy of about 19 mJ, from x = -2 cm to x = +2 cm, meeting the curve at both ends.",
+     "steps": [
+      "In SHM the total energy (elastic potential plus kinetic) is constant, so it is a horizontal line.",
+      "At the maximum displacement (the amplitude, 2.0 cm) the mass is momentarily at rest, so all the energy is elastic potential energy. The line is therefore at the height where the curve ends, about 19 mJ.",
+      "At any other displacement, the gap between the horizontal line and the curve is the kinetic energy."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-27.jpg",
       "papers/physics/img/31-10-Oscillations-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q30.jpg"
+     ]
     },
     {
      "id": "10-Q30b",
@@ -62976,14 +63535,21 @@ window.BANK.physics = {
       "total energy"
      ],
      "question": "Using the EPE-displacement graph for a 150 g mass on a vertical spring, determine the speed of the mass when its displacement is 1.0 cm.",
-     "status": "pending",
-     "answer": "Needs the EPE values read from the graph in the PDF; then 1/2 m v^2 = total energy - EPE at 1.0 cm.",
-     "steps": [],
+     "status": "ready",
+     "answer": "v = 0.44 m s^-1",
+     "steps": [
+      "The total energy equals the potential energy at the amplitude (2.0 cm), which is about 19 mJ.",
+      "At a displacement of 1.0 cm the graph gives an elastic potential energy of about 4.5 mJ.",
+      "Kinetic energy at 1.0 cm = 19 - 4.5 = 14.5 mJ = 1.45 x 10^-2 J.",
+      "1/2 m v^2 = 1.45 x 10^-2 J, so v = sqrt(2 x 1.45 x 10^-2 / 0.150) = 0.44 m s^-1."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-27.jpg",
       "papers/physics/img/31-10-Oscillations-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q30.jpg"
+     ]
     },
     {
      "id": "10-Q31a",
@@ -63013,7 +63579,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-29.jpg",
       "papers/physics/img/31-10-Oscillations-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q31.jpg"
+     ]
     },
     {
      "id": "10-Q31b",
@@ -63045,7 +63613,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-29.jpg",
       "papers/physics/img/31-10-Oscillations-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q31.jpg"
+     ]
     },
     {
      "id": "10-Q31c",
@@ -63150,13 +63720,20 @@ window.BANK.physics = {
       "phase"
      ],
      "question": "The graph shows velocity against time for a particle in SHM. Which graph shows displacement against time over the same interval?",
-     "status": "pending",
-     "answer": "Needs the velocity-time graph and the displacement option graphs from the PDF (images, not in the text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "Velocity is the gradient of the displacement-time graph. At t = 0 the velocity is zero, so the displacement is at a maximum or minimum.",
+      "Just after t = 0 the velocity is positive, so the displacement is increasing, which means it starts at its negative maximum (x = -A cos omega t).",
+      "Only B starts at a minimum and rises. A starts at zero and rises, C starts at zero and falls, and D starts at a positive maximum."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q34.jpg",
+      "papers/physics/fig/31-10-Oscillations-Q34-2.jpg"
+     ]
     },
     {
      "id": "10-Q35a",
@@ -63174,15 +63751,23 @@ window.BANK.physics = {
       "k"
      ],
      "question": "Using the student's timings for 30 oscillations of a mass on the springs labelled k = 21 N m-1, deduce whether the label is correct.",
-     "status": "pending",
-     "answer": "Needs the table of measured times for 30 oscillations from the PDF; then k = 4 pi^2 m / T^2 can be compared with 21 N m-1.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The label is correct: the calculated stiffness of each spring is 20.9 N m^-1, which is 21 N m^-1 to 2 significant figures.",
+     "steps": [
+      "Mean time for 30 oscillations = (13.65 + 13.70) / 2 = 13.675 s, so T = 13.675 / 30 = 0.456 s.",
+      "The two identical springs are side by side supporting the mass (in parallel), so the combined stiffness is 2k and T = 2 pi sqrt(m / 2k).",
+      "Combined stiffness = 4 pi^2 m / T^2 = 4 pi^2 x 0.22 / (0.456)^2 = 41.8 N m^-1.",
+      "Each spring: k = 41.8 / 2 = 20.9 N m^-1, which agrees with the label of 21 N m^-1."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-32.jpg",
       "papers/physics/img/31-10-Oscillations-33.jpg",
       "papers/physics/img/31-10-Oscillations-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q35.jpg",
+      "papers/physics/fig/31-10-Oscillations-Q35-2.jpg"
+     ]
     },
     {
      "id": "10-Q35bi",
@@ -63213,7 +63798,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-33.jpg",
       "papers/physics/img/31-10-Oscillations-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q35-3.jpg"
+     ]
     },
     {
      "id": "10-Q35bii",
@@ -63243,7 +63830,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-33.jpg",
       "papers/physics/img/31-10-Oscillations-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q35-3.jpg"
+     ]
     },
     {
      "id": "10-Q36a",
@@ -63272,7 +63861,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-34.jpg",
       "papers/physics/img/31-10-Oscillations-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q36.jpg"
+     ]
     },
     {
      "id": "10-Q36b",
@@ -63302,7 +63893,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-34.jpg",
       "papers/physics/img/31-10-Oscillations-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q36.jpg"
+     ]
     },
     {
      "id": "10-Q36c",
@@ -63348,14 +63941,19 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A simple pendulum's frequency is determined, then its length is doubled. By what factor is the frequency multiplied? (Option list is not in the text.)",
-     "status": "pending",
-     "answer": "Option list not in the text. Expected: frequency multiplied by 1/sqrt(2) = 0.71.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 1 / sqrt(2) = 0.71",
+     "steps": [
+      "For a simple pendulum f = (1 / 2 pi) sqrt(g / L), so f is proportional to 1 / sqrt(L).",
+      "If L is doubled, f is multiplied by 1 / sqrt(2) = 0.71, which is option A."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-36.jpg",
       "papers/physics/img/31-10-Oscillations-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q37.jpg"
+     ]
     },
     {
      "id": "10-Q38a",
@@ -63429,14 +64027,20 @@ window.BANK.physics = {
       "0.12 m"
      ],
      "question": "An object oscillates with SHM, period 0.65 s and amplitude 0.12 m. Which expression gives its maximum velocity? (Option list is not in the text.)",
-     "status": "pending",
-     "answer": "Option list not in the text. Expected: v_max = 2 pi A / T = 1.16 m s-1.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: (2 pi / 0.65) x 0.12 = 1.2 m s^-1",
+     "steps": [
+      "The maximum velocity is v_max = omega A with omega = 2 pi / T.",
+      "v_max = (2 pi / 0.65) x 0.12 = 9.67 x 0.12 = 1.2 m s^-1, which is option B.",
+      "A multiplies by T instead of dividing, and C and D are squared, which would give a maximum acceleration-type expression."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-37.jpg",
       "papers/physics/img/31-10-Oscillations-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q39.jpg"
+     ]
     },
     {
      "id": "10-Q40",
@@ -63452,14 +64056,22 @@ window.BANK.physics = {
       "particle"
      ],
      "question": "The graph shows acceleration against time for a particle in SHM. Which graph shows velocity against time over the same interval?",
-     "status": "pending",
-     "answer": "Needs the acceleration-time graph and the four option graphs from the PDF (images, not in the text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "Acceleration is the gradient of the velocity-time graph, so a = 0 at t = 0 means v is at a maximum or minimum there.",
+      "Just after t = 0 the acceleration is positive, so v is increasing: the velocity starts at its negative maximum and rises (v = -v_max cos omega t).",
+      "A quarter of a period later the acceleration is at its maximum, which is where the velocity graph crosses zero going up. Only B starts at a minimum and rises.",
+      "A starts at zero and rises, C starts at zero and falls, and D starts at a positive maximum."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-37.jpg",
       "papers/physics/img/31-10-Oscillations-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q40.jpg",
+      "papers/physics/fig/31-10-Oscillations-Q40-2.jpg"
+     ]
     },
     {
      "id": "10-Q41",
@@ -63476,13 +64088,19 @@ window.BANK.physics = {
       "graph shape"
      ],
      "question": "A simple pendulum in SHM has acceleration a and displacement x. Which of graphs A to D shows how a varies with x?",
-     "status": "pending",
-     "answer": "Needs the four option graphs A to D from the PDF; the correct graph is a straight line through the origin with negative gradient, but the letter is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D",
+     "steps": [
+      "In SHM the acceleration is proportional to the displacement and always acts towards the equilibrium position: a = -omega^2 x.",
+      "So the graph of a against x is a straight line through the origin with a negative gradient, which is graph D.",
+      "B has a positive gradient (acceleration away from equilibrium), and A and C show a constant acceleration."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q41.jpg"
+     ]
     },
     {
      "id": "10-Q42",
@@ -63588,14 +64206,19 @@ window.BANK.physics = {
       "new frequency"
      ],
      "question": "A mass hung on a spring oscillates with frequency f. The mass is doubled. What is the new frequency? (Option list is not in the text.)",
-     "status": "pending",
-     "answer": "Option list not in the text. Expected: new frequency f / sqrt(2) = 0.71 f.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: f / sqrt(2) = 0.71 f",
+     "steps": [
+      "For a mass on a spring f = (1 / 2 pi) sqrt(k / m), so f is proportional to 1 / sqrt(m).",
+      "If the mass is doubled, f is multiplied by 1 / sqrt(2), so the new frequency is f / sqrt(2) = 0.71 f, which is option B."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-40.jpg",
       "papers/physics/img/31-10-Oscillations-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q44.jpg"
+     ]
     },
     {
      "id": "10-Q45",
@@ -63641,13 +64264,19 @@ window.BANK.physics = {
       "cm"
      ],
      "question": "A mass in SHM has angular velocity 2 rad s-1 and maximum velocity 10 cm s-1. Which expression gives the amplitude in cm? (Option list is not in the text.)",
-     "status": "pending",
-     "answer": "Option list not in the text. Expected: A = v_max / omega = 5 cm.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: A = 10 / 2 = 5 cm",
+     "steps": [
+      "The maximum velocity is v_max = omega A, so A = v_max / omega.",
+      "A = 10 cm s^-1 / 2 rad s^-1 = 5 cm, which is option B.",
+      "A has the ratio the wrong way up, and C and D contain sin 2t, which would be an expression for a value at a particular time and not the amplitude."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q46.jpg"
+     ]
     },
     {
      "id": "10-Q47",
@@ -63692,14 +64321,22 @@ window.BANK.physics = {
       "gradient"
      ],
      "question": "The graph shows velocity against time for an object in SHM. Which of the four graphs shows acceleration against time for the same period?",
-     "status": "pending",
-     "answer": "Needs the velocity-time graph and the four option graphs A to D from the PDF (images, not in the text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "Acceleration is the gradient of the velocity-time graph.",
+      "The velocity graph starts at zero and rises, so at t = 0 its gradient is a positive maximum: the acceleration starts at its maximum value.",
+      "The velocity is at its peak a quarter of a period later, where its gradient is zero, so the acceleration crosses zero there and then goes negative (a = a_max cos omega t).",
+      "Only graph C starts at a maximum and falls through zero at a quarter of the period."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-42.jpg",
       "papers/physics/img/31-10-Oscillations-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q48.jpg",
+      "papers/physics/fig/31-10-Oscillations-Q48-2.jpg"
+     ]
     },
     {
      "id": "10-Q49",
@@ -63715,13 +64352,20 @@ window.BANK.physics = {
       "phase"
      ],
      "question": "The graph shows velocity against time for an object in SHM. Which of the four graphs shows displacement against time for the same period?",
-     "status": "pending",
-     "answer": "Needs the velocity-time graph and the four option graphs A to D from the PDF (images, not in the text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "Velocity is the gradient of the displacement-time graph. At t = 0 the velocity is zero, so the displacement is at a maximum or minimum.",
+      "Just after t = 0 the velocity is positive, so the displacement is increasing, which means it starts at its negative maximum (x = -A cos omega t).",
+      "The velocity is at its peak a quarter of a period later, where the displacement crosses zero going up. Only B starts at a minimum and rises."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q49.jpg",
+      "papers/physics/fig/31-10-Oscillations-Q49-2.jpg"
+     ]
     },
     {
      "id": "10-Q50",
@@ -63827,15 +64471,22 @@ window.BANK.physics = {
       "11300 kg m-3"
      ],
      "question": "Calculate the stiffness of the spring system for the lead box damper, given its dimensions, the density of lead 11 300 kg m-3 and the oscillation frequency 0.17 Hz.",
-     "status": "pending",
-     "answer": "The box dimensions in the extracted text are garbled; read them from the PDF. Then m = density x volume and k = 4 pi^2 f^2 m.",
-     "steps": [],
+     "status": "ready",
+     "answer": "k = 3.1 x 10^5 N m^-1",
+     "steps": [
+      "Volume of the box = 5.20 x 5.20 x 0.90 = 24.3 m^3.",
+      "Mass = density x volume = 11 300 x 24.3 = 2.75 x 10^5 kg.",
+      "The damper must oscillate at 0.17 Hz, so omega = 2 pi f = 2 pi x 0.17 = 1.07 rad s^-1.",
+      "From T = 2 pi sqrt(m / k): k = m omega^2 = 2.75 x 10^5 x (1.07)^2 = 3.1 x 10^5 N m^-1 (the stiffness of the whole spring system)."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-44.jpg",
       "papers/physics/img/31-10-Oscillations-45.jpg",
       "papers/physics/img/31-10-Oscillations-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q51.jpg"
+     ]
     },
     {
      "id": "10-Q51biii",
@@ -63865,7 +64516,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-45.jpg",
       "papers/physics/img/31-10-Oscillations-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q51.jpg"
+     ]
     },
     {
      "id": "10-Q51c",
@@ -63896,7 +64549,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-45.jpg",
       "papers/physics/img/31-10-Oscillations-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q51.jpg"
+     ]
     },
     {
      "id": "10-Q52",
@@ -63912,13 +64567,20 @@ window.BANK.physics = {
       "phase"
      ],
      "question": "The graph shows force against time for an object in SHM. Which of graphs A to D shows displacement against time over the same interval?",
-     "status": "pending",
-     "answer": "Needs the force-time graph and the four option graphs from the PDF (images, not in the text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D",
+     "steps": [
+      "The force on the object is F = -kx (equivalently F = ma with a = -omega^2 x), so the displacement graph is the force graph turned upside down.",
+      "The force graph starts at zero and rises first, so the displacement starts at zero and goes negative first.",
+      "Only D starts at zero and falls. A is the same as the force graph, B starts at a negative value and C starts at a positive maximum."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q52.jpg",
+      "papers/physics/fig/31-10-Oscillations-Q52-2.jpg"
+     ]
     },
     {
      "id": "10-Q53",
@@ -63934,13 +64596,21 @@ window.BANK.physics = {
       "phase"
      ],
      "question": "The graph shows force against time for an object in SHM. Which of the four graphs shows velocity against time?",
-     "status": "pending",
-     "answer": "Needs the force-time graph and the four option graphs from the PDF (images, not in the text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "The force is proportional to the acceleration (F = ma), and acceleration is the gradient of the velocity-time graph.",
+      "The force graph is zero at t = 0, so the velocity gradient is zero there and the velocity is at a maximum or minimum.",
+      "Just after t = 0 the force is positive, so the velocity is increasing: the velocity starts at its negative maximum and rises.",
+      "The force is at its maximum a quarter of a period later, where the velocity graph is steepest and crossing zero. Only B starts at a minimum and rises."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q53.jpg",
+      "papers/physics/fig/31-10-Oscillations-Q53-2.jpg"
+     ]
     },
     {
      "id": "10-Q54",
@@ -63957,13 +64627,21 @@ window.BANK.physics = {
       "student suggestion"
      ],
      "question": "Two pendulums of equal mass, one of length L and one of another length, are given the same initial amplitude. Evaluate the student's suggestion that the maximum kinetic energy of one is four times that of the other.",
-     "status": "pending",
-     "answer": "The second length and the definition of amplitude are not in the extracted text (the diagram or value is missing), so the factor of four cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The suggestion is not correct: the maximum kinetic energy of the L/2 pendulum is only about twice (not four times) that of the L pendulum.",
+     "steps": [
+      "The diagram shows both bobs pulled aside by the same horizontal distance A (same amplitude), and the masses are equal. For small swings E_k max = 1/2 m omega^2 A^2, with omega^2 = g / length.",
+      "For the pendulum of length L, omega^2 = g / L. For the pendulum of length L/2, omega^2 = 2g / L, which is twice as large.",
+      "m and A are the same, so E_k max is proportional to omega^2 and is doubled, not quadrupled.",
+      "Check with energy: for a small swing the bob rises by h = A^2 / (2 x length), so halving the length doubles h and doubles the maximum kinetic energy m g h.",
+      "A factor of four would be right only if omega were doubled. Halving the length multiplies omega by only sqrt(2), so v_max rises by sqrt(2) and E_k by (sqrt 2)^2 = 2."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-48.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q54.jpg"
+     ]
     },
     {
      "id": "10-Q55a",
@@ -63979,14 +64657,19 @@ window.BANK.physics = {
       "shows"
      ],
      "question": "The graph shows acceleration against displacement from equilibrium for an object. Explain how the graph shows that the object moves with simple harmonic motion.",
-     "status": "pending",
-     "answer": "Needs the a-x graph from the PDF; the answer is that the graph is a straight line through the origin with negative gradient, so a is proportional to -x.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The graph is a straight line through the origin with a negative gradient, so a is proportional to -x: the acceleration is proportional to the displacement and always directed towards equilibrium, which is the definition of SHM.",
+     "steps": [
+      "A straight line through the origin means a is directly proportional to x.",
+      "The negative gradient means the acceleration is always in the opposite direction to the displacement, that is towards the equilibrium position (a = -omega^2 x), which is the condition for SHM."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-49.jpg",
       "papers/physics/img/31-10-Oscillations-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q55.jpg"
+     ]
     },
     {
      "id": "10-Q55bi",
@@ -64003,14 +64686,22 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "For the object of mass 0.25 kg whose acceleration-displacement graph is shown, calculate its maximum kinetic energy.",
-     "status": "pending",
-     "answer": "Needs omega^2 (gradient) and amplitude read from the a-x graph in the PDF; then E_k max = 1/2 m omega^2 A^2.",
-     "steps": [],
+     "status": "ready",
+     "answer": "E_k max = 3.5 x 10^-3 J (3.5 mJ)",
+     "steps": [
+      "The gradient of the a-x graph is -omega^2: omega^2 = 0.70 / 0.040 = 17.5 s^-2, so omega = 4.18 rad s^-1.",
+      "The graph extends to x = +/-0.040 m, so the amplitude is A = 0.040 m.",
+      "v_max = omega A = 4.18 x 0.040 = 0.167 m s^-1.",
+      "E_k max = 1/2 m v_max^2 = 0.5 x 0.25 x (0.167)^2 = 3.5 x 10^-3 J.",
+      "Check: E_k max = 1/2 m omega^2 A^2 = 0.5 x 0.25 x 17.5 x (0.040)^2 = 3.5 x 10^-3 J."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-49.jpg",
       "papers/physics/img/31-10-Oscillations-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q55.jpg"
+     ]
     },
     {
      "id": "10-Q55bii",
@@ -64027,14 +64718,20 @@ window.BANK.physics = {
       "axes"
      ],
      "question": "Sketch a graph on the axes provided to show how the kinetic energy of the object varies with displacement x. No further calculations are needed.",
-     "status": "pending",
-     "answer": "Needs the blank axes from the PDF. Expected: inverted parabola, maximum at x = 0 and zero at x = +/- A.",
-     "steps": [],
+     "status": "ready",
+     "answer": "An inverted parabola (hill shape) symmetric about the vertical axis, with maximum kinetic energy of 3.5 mJ at x = 0 and falling to zero at x = +0.040 m and x = -0.040 m.",
+     "steps": [
+      "E_k = 1/2 m omega^2 (A^2 - x^2), which is a quadratic in x with a negative x^2 term, so the graph is an inverted parabola.",
+      "At x = 0 the kinetic energy is at its maximum (3.5 mJ from part (i)); at x = +/-A = +/-0.040 m it is zero.",
+      "The curve is symmetrical about the E_k axis, never goes negative, and meets the x axis at +/-0.040 m."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-49.jpg",
       "papers/physics/img/31-10-Oscillations-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q55-2.jpg"
+     ]
     },
     {
      "id": "10-Q56",
@@ -64065,7 +64762,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-51.jpg",
       "papers/physics/img/31-10-Oscillations-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q56.jpg"
+     ]
     },
     {
      "id": "10-Q57",
@@ -64124,7 +64823,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-52.jpg",
       "papers/physics/img/31-10-Oscillations-53.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q58.jpg"
+     ]
     },
     {
      "id": "10-Q59",
@@ -64185,7 +64886,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-53.jpg",
       "papers/physics/img/31-10-Oscillations-54.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q60.jpg"
+     ]
     },
     {
      "id": "10-Q61",
@@ -64229,14 +64932,21 @@ window.BANK.physics = {
       "phase"
      ],
      "question": "The graph shows displacement against time for an object in SHM. Which of the four graphs shows velocity against time for the same period?",
-     "status": "pending",
-     "answer": "Needs the displacement-time graph and the four option graphs from the PDF (images, not in the text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D",
+     "steps": [
+      "Velocity is the gradient of the displacement-time graph. The displacement graph starts at its negative maximum, where the gradient is zero, so the velocity starts at zero.",
+      "Just after t = 0 the displacement is increasing, so the velocity is positive: the velocity graph starts at zero and rises (v = A omega sin omega t).",
+      "Only graph D starts at zero and rises. A starts at a positive maximum, B starts at a negative value and C starts at zero but falls."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-55.jpg",
       "papers/physics/img/31-10-Oscillations-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q62.jpg",
+      "papers/physics/fig/31-10-Oscillations-Q62-2.jpg"
+     ]
     },
     {
      "id": "10-Q63",
@@ -64252,14 +64962,21 @@ window.BANK.physics = {
       "phase"
      ],
      "question": "The graph shows displacement against time for an object in SHM. Which of the four graphs shows acceleration against time?",
-     "status": "pending",
-     "answer": "Needs the displacement-time graph and the four option graphs from the PDF (images, not in the text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "In SHM a = -omega^2 x, so the acceleration graph is the displacement graph turned upside down (same period).",
+      "The displacement graph starts at its negative maximum, so the acceleration starts at its positive maximum and falls.",
+      "Only graph A starts at a positive maximum and falls. B starts at a negative value, C starts at zero going down and D starts at zero going up."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-56.jpg",
       "papers/physics/img/31-10-Oscillations-57.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q63.jpg",
+      "papers/physics/fig/31-10-Oscillations-Q63-2.jpg"
+     ]
     },
     {
      "id": "10-Q64a",
@@ -64289,7 +65006,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-58.jpg",
       "papers/physics/img/31-10-Oscillations-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q64-2.jpg"
+     ]
     },
     {
      "id": "10-Q64b",
@@ -64306,15 +65025,21 @@ window.BANK.physics = {
       "suspension"
      ],
      "question": "The graph shows how the vertical displacement of the car body varies with time. Determine the maximum velocity of the car body.",
-     "status": "pending",
-     "answer": "Needs the displacement-time graph from the PDF to read the amplitude and period; then v_max = 2 pi A / T.",
-     "steps": [],
+     "status": "ready",
+     "answer": "v_max = 0.47 m s^-1",
+     "steps": [
+      "From the graph the amplitude is A = 3.0 cm = 0.030 m.",
+      "The peaks are at 0.2 s, 0.6 s and 1.0 s, so the period is T = 0.40 s and omega = 2 pi / T = 2 pi / 0.40 = 15.7 rad s^-1.",
+      "v_max = omega A = 15.7 x 0.030 = 0.47 m s^-1."
+     ],
      "images": [
       "papers/physics/img/31-10-Oscillations-57.jpg",
       "papers/physics/img/31-10-Oscillations-58.jpg",
       "papers/physics/img/31-10-Oscillations-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q64.jpg"
+     ]
     },
     {
      "id": "10-Q64c",
@@ -64343,7 +65068,9 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-58.jpg",
       "papers/physics/img/31-10-Oscillations-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/31-10-Oscillations-Q64-2.jpg"
+     ]
     }
    ]
   },
@@ -64380,7 +65107,9 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-01.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q1.jpg"
+     ]
     },
     {
      "id": "11A-Q1b(i)",
@@ -64675,7 +65404,9 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-06.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q7.jpg"
+     ]
     },
     {
      "id": "11A-Q7a(ii)",
@@ -64705,7 +65436,9 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-06.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q7.jpg"
+     ]
     },
     {
      "id": "11A-Q7a(iii)",
@@ -64736,7 +65469,9 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-06.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q7.jpg"
+     ]
     },
     {
      "id": "11A-Q7b",
@@ -64766,7 +65501,9 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-06.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q7.jpg"
+     ]
     },
     {
      "id": "11A-Q8a(i)",
@@ -64795,7 +65532,9 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-07.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q8.jpg"
+     ]
     },
     {
      "id": "11A-Q8a(ii)",
@@ -64884,7 +65623,9 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-07.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q8.jpg"
+     ]
     },
     {
      "id": "11A-Q9",
@@ -65151,7 +65892,9 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-12.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q12.jpg"
+     ]
     },
     {
      "id": "11A-Q12b",
@@ -66033,7 +66776,9 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-26.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q30.jpg"
+     ]
     },
     {
      "id": "11A-Q30aii",
@@ -66064,7 +66809,9 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-26.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q30-2.jpg"
+     ]
     },
     {
      "id": "11A-Q30b",
@@ -66151,7 +66898,9 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-28.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q32.jpg"
+     ]
     },
     {
      "id": "11A-Q33",
@@ -66180,7 +66929,9 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-28.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q33.jpg"
+     ]
     },
     {
      "id": "11A-Q34",
@@ -66448,7 +67199,9 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-34.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q40.jpg"
+     ]
     },
     {
      "id": "11A-Q40b",
@@ -66476,7 +67229,9 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-34.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q40.jpg"
+     ]
     },
     {
      "id": "11A-Q40c",
@@ -66506,7 +67261,9 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-34.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q40.jpg"
+     ]
     }
    ]
   },
@@ -66771,7 +67528,7 @@ window.BANK.physics = {
      "steps": [
       "The Sun is a main sequence star, so its cross must lie on the diagonal band of dots, not on a stray point.",
       "The Sun's luminosity is 1 L_sun, so the cross is at the height of the \"1\" on the vertical axis.",
-      "Where the band crosses that level (about 60% of the way along from the hot, upper-left end) is the position of a Sun-like star."
+      "Where the band crosses that level (about two thirds of the way along from the hot, upper-left end) is the position of a Sun-like star."
      ],
      "images": [
       "papers/physics/img/33-11B-Space-03.jpg",
@@ -69148,15 +69905,22 @@ window.BANK.physics = {
       "astrophysics"
      ],
      "question": "Add the approximate positions of the Sun and Betelgeuse to the HR diagram of main sequence stars, marked with labelled crosses.",
-     "status": "pending",
-     "answer": "Pending: the HR diagram of main sequence stars is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Sun: cross labelled S at T about 5800 K (between 10 000 and 5000, nearer 5000) on L = 1 L_sun. Betelgeuse: cross labelled B at T about 3400 K (between 5000 and 2500) at L about 1 x 10^5 L_sun, near the top of the diagram.",
+     "steps": [
+      "Sun: L = 1 L_sun and T = 5800 K. On the logarithmic temperature scale, 5800 K lies between 10 000 K and 5000 K, close to the 5000 K mark, so the cross is on the main sequence level with \"1\".",
+      "Betelgeuse temperature: T = 2.898 x 10^-3 / 850 x 10^-9 = 3400 K, between the 5000 and 2500 marks (a little over half way from 5000 to 2500).",
+      "Betelgeuse luminosity: L / L_sun = 4.49 x 10^31 / 3.83 x 10^26 = 1.2 x 10^5, so just above 10^5 on the vertical axis (halfway between the 10^4 and 10^6 marks, near the top).",
+      "Betelgeuse is a red supergiant, so its cross is at the top right, far above the main-sequence stars plotted."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-40.jpg",
       "papers/physics/img/33-11B-Space-41.jpg",
       "papers/physics/img/33-11B-Space-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q46.jpg"
+     ]
     },
     {
      "id": "Q46aiii",
@@ -69232,14 +69996,20 @@ window.BANK.physics = {
       "astrophysics"
      ],
      "question": "Add a scale to the horizontal axis of the Hertzsprung-Russell diagram for the star cluster.",
-     "status": "pending",
-     "answer": "Pending: the HR diagram for the star cluster is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Temperature (K) scale decreasing from left to right and logarithmic, e.g. 40 000, 20 000, 10 000, 5000, 2500 at equal spacing.",
+     "steps": [
+      "Hot stars are at the left of an HR diagram, so the scale must decrease from left to right.",
+      "The scale is logarithmic: equally spaced ticks with values that halve each time, e.g. 40 000, 20 000, 10 000, 5000 and 2500 K.",
+      "The hottest main sequence stars here are at about 40 000 K (left end) and the coolest at about 2500 K (right end)."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-42.jpg",
       "papers/physics/img/33-11B-Space-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q47.jpg"
+     ]
     },
     {
      "id": "Q47b",
@@ -69255,14 +70025,20 @@ window.BANK.physics = {
       "main sequence turn-off"
      ],
      "question": "Explain how this HR diagram shows that the star cluster is not a young star cluster, referring to groups of stars and their positions.",
-     "status": "pending",
-     "answer": "Pending: the HR diagram for the star cluster is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The diagram contains red giants (cool, very luminous) and white dwarfs (hot, dim), which only exist after stars have left the main sequence, so the cluster must be old.",
+     "steps": [
+      "There is a group of stars at the upper right (cool but very luminous): red giants/supergiants, which are stars that have used up the hydrogen in their cores.",
+      "There is a group of stars at the bottom left (hot but very dim): white dwarfs, the end point of stars like the Sun.",
+      "These stars take billions of years to form, and in a young cluster nearly all stars would still lie on the main sequence, so the cluster is not young."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-42.jpg",
       "papers/physics/img/33-11B-Space-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q47.jpg"
+     ]
     },
     {
      "id": "Q47c",
@@ -69419,14 +70195,20 @@ window.BANK.physics = {
       "temperature"
      ],
      "question": "Show that the surface temperature of Ross-154 is about 3000 K from its graph of power against wavelength.",
-     "status": "pending",
-     "answer": "Pending: the power-wavelength graph for Ross-154 is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "T = 3.4 x 10^3 K, which is about 3000 K to 1 significant figure.",
+     "steps": [
+      "Read the peak of the curve: lambda_max = 850 nm = 8.5 x 10^-7 m.",
+      "Wien's law: lambda_max T = 2.898 x 10^-3 m K.",
+      "T = 2.898 x 10^-3 / 8.5 x 10^-7 = 3.4 x 10^3 K, about 3000 K (to 1 s.f.)."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-45.jpg",
       "papers/physics/img/33-11B-Space-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q52.jpg"
+     ]
     },
     {
      "id": "Q52aii",
@@ -69529,14 +70311,20 @@ window.BANK.physics = {
       "validity"
      ],
      "question": "Assess the validity of Hubble's expression v = H0 d based on the data shown in his graph.",
-     "status": "pending",
-     "answer": "Pending: Hubble's velocity-distance data graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Broadly valid but only roughly: the data show a clear trend of v increasing with d, consistent with a straight line through the origin, but with a large scatter.",
+     "steps": [
+      "v = H0 d predicts a straight line through the origin; the plotted best-fit line passes through (0, 0) and most points lie close to it, with v increasing as d increases.",
+      "However, several points are far from the line (about a factor of 2 above or below, at both small and large d), so the scatter is large and the proportionality is not tightly confirmed.",
+      "The data cover only a small range of distances and a few points, so the relationship is plausible but not proved; more data at greater distance would be needed."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-46.jpg",
       "papers/physics/img/33-11B-Space-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q53.jpg"
+     ]
     },
     {
      "id": "Q54",
@@ -69580,14 +70368,21 @@ window.BANK.physics = {
       "evolution"
      ],
      "question": "The HR diagram shows four areas P, Q, R and S. Which is a possible evolutionary path for stars initially in area P?",
-     "status": "pending",
-     "answer": "Pending: the HR diagram with areas P, Q, R and S, and the options, are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: P -> S -> Q",
+     "steps": [
+      "P is the hot, luminous end of the main sequence. When its core hydrogen is used up the star expands and cools into a red giant (supergiant), which is area S (cool, luminous).",
+      "After fusion ends, the outer layers are lost and the core is left as a white dwarf, which is hot but dim: area Q.",
+      "A is wrong (a white dwarf does not become a giant). C and D are wrong because R is a lower, cooler part of the main sequence, and a star does not move down the main sequence or return to it from the giant stage."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-48.jpg",
       "papers/physics/img/33-11B-Space-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q55.jpg",
+      "papers/physics/fig/33-11B-Space-Q55-2.jpg"
+     ]
     },
     {
      "id": "Q56",
@@ -69603,14 +70398,21 @@ window.BANK.physics = {
       "main sequence"
      ],
      "question": "Which of the HR diagrams W, X, Y or Z represents the cluster in its final stage of evolution?",
-     "status": "pending",
-     "answer": "Pending: the HR diagrams W, X, Y and Z and the answer options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Y, as there are white dwarf stars but no red giants in the cluster.",
+     "steps": [
+      "As a cluster ages, the most massive, luminous main sequence stars leave first, so the main sequence loses its upper part, then the stars become red giants, then white dwarfs.",
+      "In the final stage even the red giants have gone: only white dwarfs (hot, dim, bottom left) and the few cool, low-mass main sequence stars remain. That is diagram Y.",
+      "Z is a young cluster (full main sequence). X has a few red giants but no white dwarfs yet. W has both red giants and white dwarfs, so it is not yet at the final stage."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-48.jpg",
       "papers/physics/img/33-11B-Space-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q56.jpg",
+      "papers/physics/fig/33-11B-Space-Q56-2.jpg"
+     ]
     },
     {
      "id": "Q57",
@@ -69824,14 +70626,20 @@ window.BANK.physics = {
       "groups of stars"
      ],
      "question": "Describe a possible evolutionary path for stars originally in area P of the HR diagram, referring to the type of star at each stage.",
-     "status": "pending",
-     "answer": "Pending: the HR diagram with areas P, Q, R and S is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "P (main sequence star) -> S (red giant/supergiant) -> Q (white dwarf).",
+     "steps": [
+      "In P the star is a hot, luminous main sequence star, fusing hydrogen into helium in its core.",
+      "When the core hydrogen is used up, the star expands and cools to become a red giant (or supergiant) in area S: cool but very luminous.",
+      "Fusion then ends, the outer layers are ejected and the core remains as a white dwarf in area Q: hot but dim."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-52.jpg",
       "papers/physics/img/33-11B-Space-53.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q61.jpg"
+     ]
     },
     {
      "id": "Q62",
@@ -69877,15 +70685,22 @@ window.BANK.physics = {
       "mass energy equivalence"
      ],
      "question": "Show that when 4 protons form a helium nucleus the energy released is about 4.3 x 10^-12 J.",
-     "status": "pending",
-     "answer": "Pending: needs the atomic masses of hydrogen and helium-4, which are not given in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "E = 4.3 x 10^-12 J",
+     "steps": [
+      "Mass of 4 protons = 4 x 1.0078 u = 4.0312 u.",
+      "Mass lost = 4.0312 u - 4.0026 u = 0.0286 u = 0.0286 x 1.66 x 10^-27 kg = 4.75 x 10^-29 kg.",
+      "Energy released E = mc^2 = 4.75 x 10^-29 x (3.00 x 10^8)^2 = 4.27 x 10^-12 J.",
+      "This is about 4.3 x 10^-12 J."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-53.jpg",
       "papers/physics/img/33-11B-Space-54.jpg",
       "papers/physics/img/33-11B-Space-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q63.jpg"
+     ]
     },
     {
      "id": "Q63aii",
@@ -69902,15 +70717,23 @@ window.BANK.physics = {
       "fusion energy"
      ],
      "question": "Assess the claim that it would take 9 x 10^9 years for 10% of the hydrogen in the Sun to be fused into helium, considering the rate of helium production (mass of hydrogen 1.39 x 10^30 kg, L_sun = 3.83 x 10^26 W).",
-     "status": "pending",
-     "answer": "Pending: needs the proton or hydrogen mass to convert energy per reaction into mass fused, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Not accurate: the Sun would take about 7.4 x 10^9 years to fuse 10% of its hydrogen, so 9 x 10^9 years is about 20% too long.",
+     "steps": [
+      "Number of fusion reactions per second = L / E = 3.83 x 10^26 / 4.27 x 10^-12 = 9.0 x 10^37 s^-1.",
+      "Each reaction uses 4 protons: 4 x 1.0078 u = 6.69 x 10^-27 kg, so hydrogen fused per second = 9.0 x 10^37 x 6.69 x 10^-27 = 6.0 x 10^11 kg s^-1.",
+      "Mass to be fused = 10% of 1.39 x 10^30 kg = 1.39 x 10^29 kg.",
+      "Time = 1.39 x 10^29 / 6.0 x 10^11 = 2.3 x 10^17 s = 2.3 x 10^17 / 3.15 x 10^7 = 7.4 x 10^9 years.",
+      "The claim of 9 x 10^9 years is about 22% longer than the calculated 7.4 x 10^9 years, so it is roughly the right order but not accurate."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-53.jpg",
       "papers/physics/img/33-11B-Space-54.jpg",
       "papers/physics/img/33-11B-Space-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q63.jpg"
+     ]
     },
     {
      "id": "Q63b",
@@ -70012,14 +70835,21 @@ window.BANK.physics = {
       "wien displacement law"
      ],
      "question": "The graphs show radiation intensity against wavelength for star X and star Y. Which statement about their surface temperatures is correct?",
-     "status": "pending",
-     "answer": "Pending: the intensity-wavelength graphs for X and Y are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: T_X > T_Y because the peak intensity for star X is at the higher frequency.",
+     "steps": [
+      "On the graph star X peaks at a shorter wavelength than star Y, which means a higher frequency (f = c / lambda).",
+      "By Wien's law (lambda_max is proportional to 1/T) the star with the shorter peak wavelength has the higher surface temperature, so T_X > T_Y.",
+      "A and B conclude T_Y > T_X, which is wrong. C has the right conclusion but the wrong reason: the peak of X is at the higher frequency, not the lower."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-56.jpg",
       "papers/physics/img/33-11B-Space-57.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q66.jpg",
+      "papers/physics/fig/33-11B-Space-Q66-2.jpg"
+     ]
     },
     {
      "id": "Q67",
@@ -70035,14 +70865,20 @@ window.BANK.physics = {
       "table"
      ],
      "question": "Which row of the table gives the changes in density and surface temperature as a red giant evolves into a white dwarf?",
-     "status": "pending",
-     "answer": "Pending: the answer table is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: density increases and surface temperature increases.",
+     "steps": [
+      "A red giant is a huge, low-density star with a cool surface (about 3000 - 4000 K).",
+      "A white dwarf is the core left behind after the outer layers are lost: about Earth-sized but with a mass similar to the Sun, so its density is enormously greater.",
+      "A white dwarf is also very hot (above about 10 000 K) and so appears white/blue-white, so the surface temperature increases."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-56.jpg",
       "papers/physics/img/33-11B-Space-57.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q67.jpg"
+     ]
     },
     {
      "id": "Q68",
@@ -70058,14 +70894,19 @@ window.BANK.physics = {
       "stars p and q"
      ],
      "question": "The graph shows intensity against wavelength for stars P and Q. Which could be deduced? A: luminosity P > Q, B: mass P > Q, C: radius P > Q, D: temperature P > Q.",
-     "status": "pending",
-     "answer": "Pending: the intensity-wavelength graph for P and Q is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Temperature of P > Temperature of Q",
+     "steps": [
+      "The peak of P is at a shorter wavelength than the peak of Q, so by Wien's law P has the higher surface temperature.",
+      "The luminosity, mass and radius cannot be deduced: the graph gives the intensity received, which also depends on the distance of each star, and no distances or sizes are given."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-57.jpg",
       "papers/physics/img/33-11B-Space-58.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q68.jpg"
+     ]
     },
     {
      "id": "Q69a",
@@ -70081,14 +70922,20 @@ window.BANK.physics = {
       "derivation"
      ],
      "question": "Kepler's law relates the orbital time T of a planet to its average distance r from the Sun. Show that the expression given holds, where M is the solar mass.",
-     "status": "pending",
-     "answer": "Pending: the expression to be shown is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "T^2 = 4 pi^2 r^3 / (G M), obtained by equating gravitational force and centripetal force.",
+     "steps": [
+      "For a circular orbit the gravitational force provides the centripetal force: G M m / r^2 = m r omega^2.",
+      "The angular speed is omega = 2 pi / T, so G M m / r^2 = m r (2 pi / T)^2 = 4 pi^2 m r / T^2.",
+      "Cancel m and rearrange: T^2 = 4 pi^2 r^3 / (G M), where M is the mass of the Sun."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-57.jpg",
       "papers/physics/img/33-11B-Space-58.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q69.jpg"
+     ]
     },
     {
      "id": "Q69bi",
@@ -70133,9 +70980,14 @@ window.BANK.physics = {
       "galaxy"
      ],
      "question": "The observed orbital period of the star is 6.0 x 10^7 s, which does not agree with the calculated value. Deduce what this tells us about our galaxy.",
-     "status": "pending",
-     "answer": "Pending: the observed period as printed (6.0 x 10^7 s) looks inconsistent with the predicted 8 x 10^15 s; confirm the value in the original paper.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The observed period is much shorter than predicted, so the galaxy contains much more mass than the visible (luminous) matter suggests: there must be dark matter.",
+     "steps": [
+      "From T^2 = 4 pi^2 r^3 / (G M), at a fixed radius T is proportional to 1 / sqrt(M).",
+      "The observed period is shorter than the predicted 8 x 10^15 s, so the mass inside the star's orbit is larger than the 8.0 x 10^11 solar masses estimated from the luminosity: M = 4 pi^2 r^3 / (G T^2).",
+      "Note: the printed period 6.0 x 10^7 s would give an absurd M of about 3 x 10^58 kg; if it is a misprint for 6.0 x 10^15 s, M = 3.0 x 10^42 kg (about 1.5 x 10^12 solar masses), roughly twice the luminous estimate.",
+      "The extra mass does not emit light, so our galaxy must contain a large amount of dark matter, probably spread in a halo around it."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-57.jpg",
       "papers/physics/img/33-11B-Space-58.jpg"
@@ -70214,13 +71066,19 @@ window.BANK.physics = {
       "astrophysics"
      ],
      "question": "Epsilon Indi is a main sequence star. Which row of the table gives a possible surface temperature and luminosity?",
-     "status": "pending",
-     "answer": "Pending: the answer table is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 4700 K and 0.14 L_sun",
+     "steps": [
+      "Main sequence stars lie on the diagonal band of the HR diagram: lower temperature goes with lower luminosity.",
+      "B (4700 K, 0.14 L_sun) is a cooler, dimmer star than the Sun, which fits the lower right of the main sequence.",
+      "A (cool but 140 L_sun) and C (1400 L_sun) are far too luminous for their temperatures: giants. D (10 000 K but 0.014 L_sun) is hot but dim: a white dwarf."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q71.jpg"
+     ]
     },
     {
      "id": "Q72ai",
@@ -70248,7 +71106,9 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-60.jpg",
       "papers/physics/img/33-11B-Space-61.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q72.jpg"
+     ]
     },
     {
      "id": "Q72aii",
@@ -70265,14 +71125,20 @@ window.BANK.physics = {
       "arcturus"
      ],
      "question": "Determine the speed of Arcturus relative to the Sun from the spectra shown.",
-     "status": "pending",
-     "answer": "Pending: the wavelength shifts are read from the spectra diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "v = 5 x 10^4 m s^-1 (about 54 km s^-1), moving away from the Sun",
+     "steps": [
+      "Read the deep absorption line positions (small grid squares are 0.05 nm): Sun 883.83 nm, Arcturus 883.99 nm.",
+      "Shift = 883.99 - 883.83 = 0.16 nm towards longer wavelength: a redshift, so Arcturus is receding from the Sun.",
+      "v = c x (change in wavelength) / lambda = 3.00 x 10^8 x 0.16 / 883.8 = 5.4 x 10^4 m s^-1."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-60.jpg",
       "papers/physics/img/33-11B-Space-61.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q72.jpg"
+     ]
     },
     {
      "id": "Q72b",
@@ -70374,14 +71240,20 @@ window.BANK.physics = {
       "fate"
      ],
      "question": "Which row of the table correctly links a condition with the ultimate fate of the universe?",
-     "status": "pending",
-     "answer": "Pending: the answer table is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: density of the universe greater than the critical density, so the universe eventually contracts.",
+     "steps": [
+      "The fate of the universe depends on its average density compared with the critical density.",
+      "If the density is greater than the critical density, gravity is strong enough to halt the expansion, so the universe eventually contracts (a closed universe).",
+      "A is wrong: at the critical density the universe expands forever (at an ever-decreasing rate), it does not contract. C and D are wrong: the comparison is made with density, not mass, and a mass greater than the critical value would lead to contraction, not endless expansion."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-62.jpg",
       "papers/physics/img/33-11B-Space-63.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q74.jpg"
+     ]
     },
     {
      "id": "Q75ai",
@@ -70427,15 +71299,21 @@ window.BANK.physics = {
       "hr diagram"
      ],
      "question": "Label the position of the Sun on the incomplete HR diagram with a cross and an S.",
-     "status": "pending",
-     "answer": "Pending: the HR diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A cross labelled S on the L = 1 line (level with \"1\"), at T about 5800 K: between the 10 000 and 5000 marks, close to 5000.",
+     "steps": [
+      "The Sun has L = 1 L_sun, so the cross is level with the \"1\" on the vertical axis.",
+      "Its surface temperature is about 5800 - 6000 K, which on this scale is between 10 000 K and 5000 K, slightly nearer 5000 K (roughly three-quarters of the way along from 10 000 towards 5000).",
+      "Label the cross with the letter S."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-63.jpg",
       "papers/physics/img/33-11B-Space-64.jpg",
       "papers/physics/img/33-11B-Space-65.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q75.jpg"
+     ]
     },
     {
      "id": "Q75aiii",
@@ -70451,15 +71329,22 @@ window.BANK.physics = {
       "labels a b c"
      ],
      "question": "Add to the HR diagram to indicate the areas where main sequence stars (A), red giant stars (B) and white dwarf stars (C) are located.",
-     "status": "pending",
-     "answer": "Pending: the HR diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: a diagonal band from top left to bottom right through the Sun. B: upper right (cool, luminous). C: lower left (hot, dim).",
+     "steps": [
+      "A (main sequence): a diagonal band running from the top left (about 30 000 K, L about 10^5) down to the bottom right (about 3000 K, L about 10^-3), passing through the Sun at (about 5800 K, 1).",
+      "B (red giants): an area in the upper right, cooler than about 5000 K and much more luminous than the Sun (L about 10^2 - 10^4), above the main sequence.",
+      "C (white dwarfs): an area in the lower left, hot (about 10 000 - 30 000 K) but very dim (L about 10^-2 - 10^-4), below the main sequence.",
+      "Each area must be clearly separate and labelled with its letter."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-63.jpg",
       "papers/physics/img/33-11B-Space-64.jpg",
       "papers/physics/img/33-11B-Space-65.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q75.jpg"
+     ]
     },
     {
      "id": "Q75b",
@@ -70712,15 +71597,23 @@ window.BANK.physics = {
       "cepheid"
      ],
      "question": "Show that the mean luminosity of this Cepheid variable star is about 8 x 10^29 W from its graph of luminosity against time.",
-     "status": "pending",
-     "answer": "Pending: the luminosity-time graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Mean luminosity = 2000 L_sun = 7.7 x 10^29 W, about 8 x 10^29 W.",
+     "steps": [
+      "On the luminosity-time graph the peaks are at about 3.5, 8.5, 13.5 and 18.5 days, so the period of the Cepheid is 5.0 days.",
+      "On the period-mean luminosity graph (logarithmic axes) read the line at a period of 5.0 days: the mean luminosity is 2000 L_sun.",
+      "Mean luminosity = 2000 x 3.83 x 10^26 W = 7.7 x 10^29 W.",
+      "This is about 8 x 10^29 W."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-68.jpg",
       "papers/physics/img/33-11B-Space-69.jpg",
       "papers/physics/img/33-11B-Space-70.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q78.jpg",
+      "papers/physics/fig/33-11B-Space-Q78-2.jpg"
+     ]
     },
     {
      "id": "Q78bii",
@@ -70765,14 +71658,19 @@ window.BANK.physics = {
       "table"
      ],
      "question": "Which row of the table gives the change in diameter and the change in surface temperature when a main sequence star evolves into a red giant?",
-     "status": "pending",
-     "answer": "Pending: the answer table is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: the diameter increases and the surface temperature decreases.",
+     "steps": [
+      "When the core hydrogen runs out, the outer layers of the star expand enormously, so the diameter increases.",
+      "The expanded surface is much cooler (red), so the surface temperature decreases while the luminosity goes up."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-70.jpg",
       "papers/physics/img/33-11B-Space-71.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q79.jpg"
+     ]
     },
     {
      "id": "Q80",
@@ -71193,14 +72091,20 @@ window.BANK.physics = {
       "stars x and y"
      ],
      "question": "Stars X and Y have the same luminosity. The graph shows the intensity received at Earth from each against wavelength. Which statement can be deduced?",
-     "status": "pending",
-     "answer": "Pending: the intensity-wavelength graph and answer options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: Star X has a higher surface temperature and is closer than star Y.",
+     "steps": [
+      "The peak of X is at a shorter wavelength than the peak of Y, so by Wien's law X has the higher surface temperature.",
+      "The two stars have the same luminosity, and the intensity received is I = L / (4 pi d^2). X gives the larger intensity at Earth, so X must be closer."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-75.jpg",
       "papers/physics/img/33-11B-Space-76.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q86.jpg",
+      "papers/physics/fig/33-11B-Space-Q86-2.jpg"
+     ]
     },
     {
      "id": "Q87",
@@ -71216,14 +72120,19 @@ window.BANK.physics = {
       "74 km s-1 mpc-1"
      ],
      "question": "Which of the following gives the age of the universe in seconds, using H0 = 74 km s^-1 Mpc^-1 and 1 Mpc = 3.1 x 10^22 m?",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: (3.1 x 10^22) / (74 x 10^3) = 4.2 x 10^17 s",
+     "steps": [
+      "Convert to SI: H0 = 74 km s^-1 Mpc^-1 = 74 x 10^3 m s^-1 / 3.1 x 10^22 m = 74 x 10^3 / 3.1 x 10^22 s^-1.",
+      "The age of the universe is 1 / H0 = 3.1 x 10^22 / (74 x 10^3) s = 4.2 x 10^17 s (about 1.3 x 10^10 years)."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-76.jpg",
       "papers/physics/img/33-11B-Space-77.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q87.jpg"
+     ]
     },
     {
      "id": "Q88ai",
@@ -71239,14 +72148,20 @@ window.BANK.physics = {
       "a-level physics"
      ],
      "question": "Label the position of the Sun on the HR diagram with the letter S.",
-     "status": "pending",
-     "answer": "Pending: the HR diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A cross labelled S on the main sequence at L = 1 L_sun (level with \"1\"), at about 5800 K: just to the right of the 6000 K mark.",
+     "steps": [
+      "The Sun has L = 1 L_sun, so the cross is level with the \"1\" on the luminosity axis.",
+      "Its surface temperature is about 5800 K, which on this logarithmic scale is just to the right (cooler) of the 6000 K mark.",
+      "This position lies on the diagonal band of main sequence stars; label the cross with S."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-77.jpg",
       "papers/physics/img/33-11B-Space-78.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q88.jpg"
+     ]
     },
     {
      "id": "Q88aii",
@@ -71263,14 +72178,20 @@ window.BANK.physics = {
       "evolution"
      ],
      "question": "Draw on the diagram a possible path of the Sun as it evolves to a white dwarf star.",
-     "status": "pending",
-     "answer": "Pending: the HR diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Path starting at S, going up and to the right to the red giant region (about 4000 K, L about 10^2 - 10^3 L_sun), then to the left and down to the white dwarf region at the bottom left (about 10 000 K, L about 10^-2 - 10^-3 L_sun).",
+     "steps": [
+      "Start the line at the cross S on the main sequence.",
+      "Draw it up and to the right: the Sun becomes a red giant, more luminous (10^2 - 10^3 L_sun) and cooler (about 3500 - 5000 K), ending in the group of giants at the upper right.",
+      "Then draw it moving to the left (hotter) and then steeply down to the group of dim, hot stars at the lower left (white dwarf region, about 10 000 K and 10^-2 - 10^-3 L_sun), with an arrow showing the direction."
+     ],
      "images": [
       "papers/physics/img/33-11B-Space-77.jpg",
       "papers/physics/img/33-11B-Space-78.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q88.jpg"
+     ]
     },
     {
      "id": "Q88b",

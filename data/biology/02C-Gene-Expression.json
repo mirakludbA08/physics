@@ -61,6 +61,9 @@
         "papers/biology/img/02C-Gene-Expression-01.jpg",
         "papers/biology/img/02C-Gene-Expression-02.jpg",
         "papers/biology/img/02C-Gene-Expression-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q1.jpg"
       ]
     },
     {
@@ -1438,6 +1441,9 @@
         "papers/biology/img/02C-Gene-Expression-27.jpg",
         "papers/biology/img/02C-Gene-Expression-28.jpg",
         "papers/biology/img/02C-Gene-Expression-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q14-2.jpg"
       ]
     },
     {
@@ -1466,6 +1472,9 @@
         "papers/biology/img/02C-Gene-Expression-27.jpg",
         "papers/biology/img/02C-Gene-Expression-28.jpg",
         "papers/biology/img/02C-Gene-Expression-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q14-2.jpg"
       ]
     },
     {
@@ -1495,6 +1504,9 @@
         "papers/biology/img/02C-Gene-Expression-27.jpg",
         "papers/biology/img/02C-Gene-Expression-28.jpg",
         "papers/biology/img/02C-Gene-Expression-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q14-2.jpg"
       ]
     },
     {
@@ -1521,6 +1533,9 @@
         "papers/biology/img/02C-Gene-Expression-27.jpg",
         "papers/biology/img/02C-Gene-Expression-28.jpg",
         "papers/biology/img/02C-Gene-Expression-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q14.jpg"
       ]
     },
     {
@@ -1611,6 +1626,9 @@
         "papers/biology/img/02C-Gene-Expression-27.jpg",
         "papers/biology/img/02C-Gene-Expression-28.jpg",
         "papers/biology/img/02C-Gene-Expression-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q14.jpg"
       ]
     },
     {
@@ -1626,13 +1644,13 @@
         "water removed",
         "polymer"
       ],
-      "question": "Which statement about the formation of glycogen is correct? A glucose molecules join by a condensation reaction; B by hydrolysis; C by a condensation reaction; D by hydrolysis.",
+      "question": "Which is the correct statement about the formation of glycogen? Options: A alpha glucose molecules join together by a condensation reaction, B alpha glucose molecules join together by a hydrolysis reaction, C beta glucose molecules join together by a condensation reaction, D beta glucose molecules join together by a hydrolysis reaction.",
       "status": "ready",
-      "answer": "C (condensation: water is removed). Option A has the same wording, and B and D say hydrolysis, which is wrong.",
+      "answer": "A (alpha glucose molecules join together by condensation reactions, which remove water).",
       "steps": [
-        "Glycogen is built by joining glucose units together.",
-        "Joining monomers removes water, which is a condensation reaction.",
-        "Hydrolysis adds water and breaks polymers, so B and D are wrong."
+        "Glycogen is a polymer built from alpha glucose, not beta glucose, so C and D are wrong.",
+        "Joining monomers into a polymer removes water, which is a condensation reaction.",
+        "Hydrolysis adds water and breaks polymers down, so B is wrong and A is correct."
       ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-30.jpg",
@@ -1831,6 +1849,9 @@
         "papers/biology/img/02C-Gene-Expression-33.jpg",
         "papers/biology/img/02C-Gene-Expression-34.jpg",
         "papers/biology/img/02C-Gene-Expression-35.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q16-2.jpg"
       ]
     },
     {
@@ -2063,6 +2084,9 @@
         "papers/biology/img/02C-Gene-Expression-37.jpg",
         "papers/biology/img/02C-Gene-Expression-38.jpg",
         "papers/biology/img/02C-Gene-Expression-39.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q18.jpg"
       ]
     },
     {
@@ -3903,6 +3927,9 @@
         "papers/biology/img/02C-Gene-Expression-69.jpg",
         "papers/biology/img/02C-Gene-Expression-70.jpg",
         "papers/biology/img/02C-Gene-Expression-71.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q31.jpg"
       ]
     },
     {
@@ -3932,6 +3959,9 @@
         "papers/biology/img/02C-Gene-Expression-69.jpg",
         "papers/biology/img/02C-Gene-Expression-70.jpg",
         "papers/biology/img/02C-Gene-Expression-71.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q31.jpg"
       ]
     },
     {

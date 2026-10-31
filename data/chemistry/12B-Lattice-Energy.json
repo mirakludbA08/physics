@@ -1894,6 +1894,9 @@
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-30.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q25-2.jpg"
       ]
     },
     {
@@ -1921,6 +1924,9 @@
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-30.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q25-2.jpg"
       ]
     },
     {
@@ -1949,6 +1955,7 @@
         "papers/chemistry/img/12B-Lattice-Energy-31.jpg"
       ],
       "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q25-2.jpg",
         "papers/chemistry/fig/12B-Lattice-Energy-Q25.jpg"
       ]
     },
@@ -2203,6 +2210,9 @@
         "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
         "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12B-Lattice-Energy-Q27-2.jpg"
       ]
     },
     {

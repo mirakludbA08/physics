@@ -91,6 +91,9 @@
         "papers/chemistry/img/15D-Acid-Derivatives-01.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-02.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q2.jpg"
       ]
     },
     {
@@ -108,7 +111,7 @@
         "titration",
         "isoamyl acetate"
       ],
-      "question": "25.0 cm^3 of 0.980 mol dm^-3 NaOH was used to hydrolyse the ester; 6.06 x 10^-3 mol of NaOH reacted with the ester. Find the pH of the mixture at completion, assuming total volume 25.0 cm^3.",
+      "question": "25.0 cm^3 of 0.980 mol dm^-3 NaOH was used to hydrolyse the ester; 6.06 x 10^-3 mol of NaOH reacted with the ester. Find the pH of the mixture at completion, assuming total volume 25.0 cm^3. [Kw = 1.0 x 10^-14 mol2 dm-6]",
       "status": "ready",
       "answer": "pH = 13.9 (about 13.87)",
       "steps": [
@@ -122,6 +125,9 @@
         "papers/chemistry/img/15D-Acid-Derivatives-01.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-02.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q2.jpg"
       ]
     },
     {
@@ -153,6 +159,9 @@
         "papers/chemistry/img/15D-Acid-Derivatives-01.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-02.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q2.jpg"
       ]
     },
     {
@@ -182,6 +191,9 @@
         "papers/chemistry/img/15D-Acid-Derivatives-01.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-02.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q2.jpg"
       ]
     },
     {
@@ -199,16 +211,16 @@
         "neutralisation",
         "mixed solutions"
       ],
-      "question": "Find the pH of the buffer made by mixing 50.0 cm^3 of 0.150 mol dm^-3 ethanoic acid with 30.0 cm^3 of 0.142 mol dm^-3 NaOH.",
+      "question": "Find the pH of the buffer made by mixing 50.0 cm^3 of 0.150 mol dm^-3 ethanoic acid with 30.0 cm^3 of 0.142 mol dm^-3 NaOH. [Ka for ethanoic acid = 1.70 x 10^-5 mol dm-3]",
       "status": "ready",
-      "answer": "pH = 4.88 (Ka of ethanoic acid = 1.74 x 10^-5 mol dm^-3)",
+      "answer": "pH = 4.89 (Ka of ethanoic acid = 1.70 x 10^-5 mol dm^-3)",
       "steps": [
         "Moles CH3COOH = 0.150 x 0.0500 = 7.50 x 10^-3 mol",
         "Moles NaOH = 0.142 x 0.0300 = 4.26 x 10^-3 mol",
         "NaOH reacts completely: CH3COOH + NaOH -> CH3COONa + H2O",
         "Acid left = 7.50 - 4.26 = 3.24 x 10^-3 mol; salt CH3COONa formed = 4.26 x 10^-3 mol",
-        "pKa = -log(1.74 x 10^-5) = 4.76",
-        "pH = pKa + log(salt/acid) = 4.76 + log(4.26/3.24) = 4.76 + 0.12 = 4.88 (volumes cancel)"
+        "pKa = -log(1.70 x 10^-5) = 4.77",
+        "pH = pKa + log(salt/acid) = 4.77 + log(4.26/3.24) = 4.77 + 0.12 = 4.89 (volumes cancel)"
       ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-01.jpg",
@@ -642,6 +654,9 @@
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-10.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q13-2.jpg"
       ]
     },
     {
@@ -670,6 +685,9 @@
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-10.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q13-2.jpg"
       ]
     },
     {
@@ -1131,6 +1149,9 @@
         "papers/chemistry/img/15D-Acid-Derivatives-19.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-20.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q26.jpg"
       ]
     },
     {
@@ -1163,6 +1184,9 @@
         "papers/chemistry/img/15D-Acid-Derivatives-19.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-20.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q26.jpg"
       ]
     },
     {
@@ -1193,6 +1217,9 @@
         "papers/chemistry/img/15D-Acid-Derivatives-19.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-20.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q26.jpg"
       ]
     },
     {

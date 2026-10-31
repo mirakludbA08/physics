@@ -183,6 +183,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-03.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-04.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-05.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q2.jpg"
       ]
     },
     {
@@ -364,6 +367,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-05.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-06.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-07.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q3.jpg"
       ]
     },
     {
@@ -393,6 +399,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-07.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-08.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-09.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q4.jpg"
       ]
     },
     {
@@ -423,6 +432,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-07.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-08.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-09.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q4.jpg"
       ]
     },
     {
@@ -1461,7 +1473,7 @@
         "energy",
         "equation"
       ],
-      "question": "What is the relationship between NPP, GPP and respiration (R)? Options: A NPP = GPP + R; B, C and D are printed with the same corrupted text.",
+      "question": "What is the relationship between NPP, GPP and respiration (R)? A NPP = GPP + R, B NPP = GPP - R, C NPP = GPP x R, D NPP = GPP / R.",
       "status": "ready",
       "answer": "B: NPP = GPP - R",
       "steps": [
@@ -1574,6 +1586,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-28.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-29.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-30.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q11.jpg"
       ]
     },
     {
@@ -3165,6 +3180,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-61.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-62.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-63.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q22.jpg"
       ]
     },
     {
@@ -3255,6 +3273,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-61.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-62.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-63.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q22.jpg"
       ]
     },
     {
@@ -3286,6 +3307,9 @@
         "papers/biology/img/06C-Decomposition-Forensics-61.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-62.jpg",
         "papers/biology/img/06C-Decomposition-Forensics-63.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06C-Decomposition-Forensics-Q22.jpg"
       ]
     },
     {

@@ -18730,7 +18730,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-02.jpg",
       "papers/biology/img/02C-Gene-Expression-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q1.jpg"
+     ]
     },
     {
      "id": "2C-Q1b(ii)",
@@ -20130,7 +20132,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-28.jpg",
       "papers/biology/img/02C-Gene-Expression-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q14-2.jpg"
+     ]
     },
     {
      "id": "2C-Q14a(ii)",
@@ -20159,7 +20163,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-28.jpg",
       "papers/biology/img/02C-Gene-Expression-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q14-2.jpg"
+     ]
     },
     {
      "id": "2C-Q14b",
@@ -20189,7 +20195,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-28.jpg",
       "papers/biology/img/02C-Gene-Expression-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q14-2.jpg"
+     ]
     },
     {
      "id": "2C-Q14c(i)",
@@ -20216,7 +20224,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-28.jpg",
       "papers/biology/img/02C-Gene-Expression-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q14.jpg"
+     ]
     },
     {
      "id": "2C-Q14c(ii)",
@@ -20307,7 +20317,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-28.jpg",
       "papers/biology/img/02C-Gene-Expression-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q14.jpg"
+     ]
     },
     {
      "id": "2C-Q15a(i)",
@@ -20322,13 +20334,13 @@ window.BANK.biology = {
       "water removed",
       "polymer"
      ],
-     "question": "Which statement about the formation of glycogen is correct? A glucose molecules join by a condensation reaction; B by hydrolysis; C by a condensation reaction; D by hydrolysis.",
+     "question": "Which is the correct statement about the formation of glycogen? Options: A alpha glucose molecules join together by a condensation reaction, B alpha glucose molecules join together by a hydrolysis reaction, C beta glucose molecules join together by a condensation reaction, D beta glucose molecules join together by a hydrolysis reaction.",
      "status": "ready",
-     "answer": "C (condensation: water is removed). Option A has the same wording, and B and D say hydrolysis, which is wrong.",
+     "answer": "A (alpha glucose molecules join together by condensation reactions, which remove water).",
      "steps": [
-      "Glycogen is built by joining glucose units together.",
-      "Joining monomers removes water, which is a condensation reaction.",
-      "Hydrolysis adds water and breaks polymers, so B and D are wrong."
+      "Glycogen is a polymer built from alpha glucose, not beta glucose, so C and D are wrong.",
+      "Joining monomers into a polymer removes water, which is a condensation reaction.",
+      "Hydrolysis adds water and breaks polymers down, so B is wrong and A is correct."
      ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-30.jpg",
@@ -20535,7 +20547,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-34.jpg",
       "papers/biology/img/02C-Gene-Expression-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q16-2.jpg"
+     ]
     },
     {
      "id": "2C-Q16b(ii)",
@@ -20772,7 +20786,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-38.jpg",
       "papers/biology/img/02C-Gene-Expression-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q18.jpg"
+     ]
     },
     {
      "id": "2C-Q18a(iii)",
@@ -22643,7 +22659,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-70.jpg",
       "papers/biology/img/02C-Gene-Expression-71.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q31.jpg"
+     ]
     },
     {
      "id": "2C-Q31b(ii)",
@@ -22673,7 +22691,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-70.jpg",
       "papers/biology/img/02C-Gene-Expression-71.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q31.jpg"
+     ]
     },
     {
      "id": "2C-Q32a",
@@ -53981,7 +54001,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q4-3.jpg"
+     ]
     },
     {
      "id": "6AB-Q4b",
@@ -58586,7 +58608,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q32.jpg"
+     ]
     },
     {
      "id": "6AB-Q32a(ii)",
@@ -58618,7 +58642,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q32.jpg"
+     ]
     },
     {
      "id": "6AB-Q32b",
@@ -58649,7 +58675,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q32.jpg"
+     ]
     },
     {
      "id": "6AB-Q32c",
@@ -58681,7 +58709,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q32.jpg"
+     ]
     },
     {
      "id": "6AB-Q32d",
@@ -58713,7 +58743,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q32.jpg"
+     ]
     },
     {
      "id": "6AB-Q33a",
@@ -58745,7 +58777,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
      ],
      "figures": [
-      "papers/biology/fig/06AB-Microbiology-Immunity-Q33-2.jpg"
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q33-2.jpg",
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q33-3.jpg"
      ]
     },
     {
@@ -59004,7 +59037,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q34.jpg"
+     ]
     },
     {
      "id": "6AB-Q34c(ii)",
@@ -59037,7 +59072,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q34-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q34c(iii)",
@@ -59393,7 +59430,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-083.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-084.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q37.jpg"
+     ]
     },
     {
      "id": "6AB-Q37b(i)",
@@ -59798,7 +59837,10 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q40.jpg",
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q40-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q40b(ii)",
@@ -59829,7 +59871,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q40.jpg"
+     ]
     },
     {
      "id": "6AB-Q40b(iii)",
@@ -60155,7 +60199,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-093.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-094.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q42-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q42b(i)",
@@ -61678,7 +61724,7 @@ window.BANK.biology = {
       "two significant figures",
       "calculation"
      ],
-     "question": "Calculate the ratio of the WP of nitrous oxide to the WP of methane, to two significant figures.",
+     "question": "Over a 100-year timescale, one tonne of methane would generate 28 times the warming potential (WP) of one tonne of carbon dioxide, and one tonne of nitrous oxide would generate 265 times the WP of one tonne of carbon dioxide. Calculate the ratio of the WP of nitrous oxide to the WP of methane. Give your answer to two significant figures.",
      "status": "ready",
      "answer": "9.5 : 1.",
      "steps": [
@@ -61710,7 +61756,7 @@ window.BANK.biology = {
       "strategy",
       "priorities"
      ],
-     "question": "Discuss the implications of the lifetimes and warming potentials of CO2, methane and nitrous oxide for tackling climate change.",
+     "question": "Carbon dioxide can last in the atmosphere for thousands of years, methane for about 12 years and nitrous oxide for about 121 years. Over 100 years, methane has 28 times and nitrous oxide 265 times the warming potential (WP) of carbon dioxide. Discuss the implications of the lifetimes and warming potentials of these three gases when scientists are deciding how to tackle climate change.",
      "status": "ready",
      "answer": "CO2 persists for thousands of years so cutting emissions is essential; methane and nitrous oxide have high WP, so reducing them gives fast benefits for their shorter or long lifetimes.",
      "steps": [
@@ -62305,7 +62351,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-125.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-126.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q55-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q55b(i)",
@@ -62433,7 +62481,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q56-4.jpg"
+     ]
     },
     {
      "id": "6AB-Q56a(ii)",
@@ -62466,7 +62516,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q56-4.jpg"
+     ]
     },
     {
      "id": "6AB-Q56b(i)",
@@ -62796,7 +62848,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-04.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q2.jpg"
+     ]
     },
     {
      "id": "6C-Q2b(ii)",
@@ -62983,7 +63037,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-06.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q3.jpg"
+     ]
     },
     {
      "id": "6C-Q4a(i)",
@@ -63013,7 +63069,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-08.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q4.jpg"
+     ]
     },
     {
      "id": "6C-Q4a(ii)",
@@ -63044,7 +63102,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-08.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q4.jpg"
+     ]
     },
     {
      "id": "6C-Q4b(i)",
@@ -64098,7 +64158,7 @@ window.BANK.biology = {
       "energy",
       "equation"
      ],
-     "question": "What is the relationship between NPP, GPP and respiration (R)? Options: A NPP = GPP + R; B, C and D are printed with the same corrupted text.",
+     "question": "What is the relationship between NPP, GPP and respiration (R)? A NPP = GPP + R, B NPP = GPP - R, C NPP = GPP x R, D NPP = GPP / R.",
      "status": "ready",
      "answer": "B: NPP = GPP - R",
      "steps": [
@@ -64213,7 +64273,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-29.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q11.jpg"
+     ]
     },
     {
      "id": "6C-Q11b",
@@ -65833,7 +65895,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-62.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-63.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q22.jpg"
+     ]
     },
     {
      "id": "6C-Q22b(i)",
@@ -65926,7 +65990,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-62.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-63.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q22.jpg"
+     ]
     },
     {
      "id": "6C-Q22c(ii)",
@@ -65958,7 +66024,9 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-62.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-63.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06C-Decomposition-Forensics-Q22.jpg"
+     ]
     },
     {
      "id": "6C-Q23a(i)",
@@ -67804,7 +67872,9 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-15.jpg",
       "papers/biology/img/07A-Cellular-Respiration-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07A-Cellular-Respiration-Q8.jpg"
+     ]
     },
     {
      "id": "7A-Q8b(i)",
@@ -67834,7 +67904,10 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-15.jpg",
       "papers/biology/img/07A-Cellular-Respiration-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07A-Cellular-Respiration-Q8.jpg",
+      "papers/biology/fig/07A-Cellular-Respiration-Q8-2.jpg"
+     ]
     },
     {
      "id": "7A-Q8b(ii)",
@@ -67864,7 +67937,10 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-15.jpg",
       "papers/biology/img/07A-Cellular-Respiration-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07A-Cellular-Respiration-Q8.jpg",
+      "papers/biology/fig/07A-Cellular-Respiration-Q8-2.jpg"
+     ]
     },
     {
      "id": "7A-Q8b(iii)",
@@ -67895,7 +67971,9 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-15.jpg",
       "papers/biology/img/07A-Cellular-Respiration-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07A-Cellular-Respiration-Q8-2.jpg"
+     ]
     },
     {
      "id": "7A-Q9a",

@@ -327,6 +327,9 @@
       "images": [
         "papers/chemistry/img/12A-Entropy-07.jpg",
         "papers/chemistry/img/12A-Entropy-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q7.jpg"
       ]
     },
     {
@@ -354,6 +357,9 @@
       "images": [
         "papers/chemistry/img/12A-Entropy-07.jpg",
         "papers/chemistry/img/12A-Entropy-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q8.jpg"
       ]
     },
     {
@@ -722,6 +728,9 @@
       "images": [
         "papers/chemistry/img/12A-Entropy-14.jpg",
         "papers/chemistry/img/12A-Entropy-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q17-2.jpg"
       ]
     },
     {
@@ -752,7 +761,8 @@
         "papers/chemistry/img/12A-Entropy-15.jpg"
       ],
       "figures": [
-        "papers/chemistry/fig/12A-Entropy-Q17.jpg"
+        "papers/chemistry/fig/12A-Entropy-Q17.jpg",
+        "papers/chemistry/fig/12A-Entropy-Q17-4.jpg"
       ]
     },
     {
@@ -781,6 +791,9 @@
       "images": [
         "papers/chemistry/img/12A-Entropy-14.jpg",
         "papers/chemistry/img/12A-Entropy-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q17-3.jpg"
       ]
     },
     {
@@ -808,6 +821,9 @@
       "images": [
         "papers/chemistry/img/12A-Entropy-14.jpg",
         "papers/chemistry/img/12A-Entropy-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q17-3.jpg"
       ]
     },
     {
@@ -923,6 +939,9 @@
         "papers/chemistry/img/12A-Entropy-16.jpg",
         "papers/chemistry/img/12A-Entropy-17.jpg",
         "papers/chemistry/img/12A-Entropy-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q20-3.jpg"
       ]
     },
     {
@@ -950,6 +969,9 @@
         "papers/chemistry/img/12A-Entropy-16.jpg",
         "papers/chemistry/img/12A-Entropy-17.jpg",
         "papers/chemistry/img/12A-Entropy-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q20-3.jpg"
       ]
     },
     {
@@ -979,6 +1001,9 @@
         "papers/chemistry/img/12A-Entropy-16.jpg",
         "papers/chemistry/img/12A-Entropy-17.jpg",
         "papers/chemistry/img/12A-Entropy-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q20-3.jpg"
       ]
     },
     {
@@ -1007,6 +1032,9 @@
         "papers/chemistry/img/12A-Entropy-16.jpg",
         "papers/chemistry/img/12A-Entropy-17.jpg",
         "papers/chemistry/img/12A-Entropy-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q20-3.jpg"
       ]
     },
     {
@@ -1062,6 +1090,9 @@
         "papers/chemistry/img/12A-Entropy-16.jpg",
         "papers/chemistry/img/12A-Entropy-17.jpg",
         "papers/chemistry/img/12A-Entropy-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q20-4.jpg"
       ]
     },
     {
@@ -1122,6 +1153,9 @@
         "papers/chemistry/img/12A-Entropy-16.jpg",
         "papers/chemistry/img/12A-Entropy-17.jpg",
         "papers/chemistry/img/12A-Entropy-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/12A-Entropy-Q20-5.jpg"
       ]
     },
     {

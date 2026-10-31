@@ -31,6 +31,9 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-01.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-02.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q1.jpg"
       ]
     },
     {
@@ -48,13 +51,16 @@
         "pdf check",
         "electrode"
       ],
-      "question": "The question wording and answer options for this item are missing from the extraction; only the instruction text and a blank working space remain.",
+      "question": "Which row of the table (options A to D, shown in the figure) correctly matches the orbitals overlapping with the type of bond formed? The stem printed above the table is missing from the page.",
       "status": "pending",
       "answer": "The stem above the table (which orbital overlap or bond the question asks about) is missing from the page, so the correct row cannot be determined.",
       "steps": [],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-01.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-02.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q2.jpg"
       ]
     },
     {
@@ -1201,6 +1207,9 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-16.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q20.jpg"
       ]
     },
     {
@@ -1231,6 +1240,9 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-16.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q20.jpg"
       ]
     },
     {
@@ -1398,7 +1410,7 @@
       "steps": [
         "E(cell) is +1.23 V in both acid and alkali: alkaline +0.40 - (-0.83) = +1.23 V, acidic +1.23 - 0 = +1.23 V.",
         "The overall reaction 2H2 + O2 -> 2H2O is the same, so delta S(total) and Kc are also the same, which rules out A, B and D.",
-        "Only the kinetics differ, since in alkaline conditions oxygen reduction is easier and cheaper, more efficient catalysts can be used, so C."
+        "Only kinetic features can differ. In alkaline conditions oxygen reduction is easier, so cheaper, more efficient catalysts can be used (option C)."
       ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-18.jpg",
@@ -1525,6 +1537,9 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-20.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q26.jpg"
       ]
     },
     {
@@ -1570,7 +1585,7 @@
         "oxidation in air",
         "reaction deduction"
       ],
-      "question": "For 4V3+(aq) + O2(g) + 2H2O(l) -> 4VO2+(aq) + 4H+(aq), which statement can be deduced from this information alone? A the reaction will not occur under any conditions, B reactants are kinetically stable, C reactants are thermodynamically unstable with respect to products, D aqueous V3+ oxidises rapidly on standing in air.",
+      "question": "For the reaction shown, E(cell) = +0.89 V: 4V3+(aq) + O2(g) + 2H2O(l) -> 4VO2+(aq) + 4H+(aq). Which statement can be deduced from this information alone? A the reaction will not occur under any conditions, B the reactants are kinetically stable with respect to the products, C the reactants are thermodynamically unstable with respect to the products, D an aqueous solution of V3+ will oxidise rapidly on standing in air.",
       "status": "ready",
       "answer": "C the reactants are thermodynamically unstable with respect to the products",
       "steps": [
@@ -1642,6 +1657,9 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-22.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q29.jpg"
       ]
     },
     {
@@ -1671,6 +1689,9 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-22.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q29.jpg"
       ]
     },
     {
@@ -1701,6 +1722,9 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-22.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q29-2.jpg"
       ]
     },
     {
@@ -1898,7 +1922,7 @@
         "enthalpy",
         "ln RT"
       ],
-      "question": "A quantity (symbol missing in the extraction) is directly proportional to which pair? A delta rH and ln K, B delta rH and ln RT, C delta Stotal and ln K, D delta Stotal and ln RT.",
+      "question": "The standard cell potential, E(cell), is directly proportional to which pair of quantities? A delta rH and ln K, B delta rH and ln RT, C delta Stotal and ln K, D delta Stotal and ln RT.",
       "status": "ready",
       "answer": "C delta Stotal and ln K",
       "steps": [
@@ -2171,6 +2195,9 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-30.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q43-2.jpg"
       ]
     },
     {
@@ -2229,6 +2256,10 @@
         "papers/chemistry/img/16-Redox-Equilibria-31.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-32.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-33.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q44.jpg",
+        "papers/chemistry/fig/16-Redox-Equilibria-Q44-3.jpg"
       ]
     },
     {
@@ -2259,6 +2290,9 @@
         "papers/chemistry/img/16-Redox-Equilibria-31.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-32.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-33.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q44.jpg"
       ]
     },
     {
@@ -2289,6 +2323,9 @@
         "papers/chemistry/img/16-Redox-Equilibria-31.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-32.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-33.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q44-2.jpg"
       ]
     },
     {
@@ -2362,12 +2399,21 @@
         "effect"
       ],
       "question": "Using concentrated HCl instead of standard conditions causes significantly more chlorine to form from dichromate(VI). What is the effect on Ecell and on Ea? The answer options are not in the extraction.",
-      "status": "pending",
-      "answer": "Needs the answer options from the PDF; they are missing from the extraction",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: E(cell) more positive, Ea unchanged",
+      "steps": [
+        "Standard E(cell) = E(Cr2O7 2-/Cr3+) - E(Cl2/Cl-) = +1.33 - 1.36 = -0.03 V.",
+        "Concentrated HCl raises [Cl-] and [H+]. Higher [Cl-] shifts Cl2 + 2e- <=> 2Cl- to the left, making E(Cl2/Cl-) less positive.",
+        "Higher [H+] shifts Cr2O7 2- + 14H+ + 6e- <=> 2Cr3+ + 7H2O to the right, making E(Cr2O7 2-/Cr3+) more positive, so E(cell) becomes more positive.",
+        "Activation energy is a property of the reaction pathway, and changing a concentration does not change it, so Ea is unchanged."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-34.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-35.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q46.jpg",
+        "papers/chemistry/fig/16-Redox-Equilibria-Q46-2.jpg"
       ]
     },
     {
@@ -2386,12 +2432,19 @@
         "half-cells"
       ],
       "question": "Which is the diagram for the cell made from nickel and zinc half-cells that gives a positive cell potential? The options are not in the extraction (use the Data Booklet).",
-      "status": "pending",
-      "answer": "Needs the answer options from the PDF; they are missing from the extraction (expected: Zn|Zn2+ || Ni2+|Ni)",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: Zn(s) | Zn2+(aq) || Ni2+(aq) | Ni(s)",
+      "steps": [
+        "E(Zn2+/Zn) = -0.76 V is more negative than E(Ni2+/Ni) = -0.25 V, so zinc is the negative electrode (oxidation) on the left.",
+        "E(cell) = E(right) - E(left) = -0.25 - (-0.76) = +0.51 V, which is positive.",
+        "A is written solid | ion || ion | solid, in the correct order; C has the electrodes swapped (E(cell) = -0.51 V), and B and D have the phases in the wrong order."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-34.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-35.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q47.jpg"
       ]
     },
     {
@@ -2422,6 +2475,9 @@
       ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-35.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q48.jpg"
       ]
     },
     {
@@ -2440,12 +2496,22 @@
         "electrode system"
       ],
       "question": "Describe how you would determine the standard electrode potential of the electrode system shown in the PDF, including a labelled diagram if you wish.",
-      "status": "pending",
-      "answer": "Needs the electrode system shown in the PDF diagram to write the full method",
-      "steps": [],
+      "status": "ready",
+      "answer": "Connect the Co2+(1.00 mol dm-3)|Co half-cell to a standard hydrogen electrode with a salt bridge and a high-resistance voltmeter at 298 K; the voltmeter reading is E(Co2+/Co)",
+      "steps": [
+        "Half-cell 1: clean cobalt metal electrode in 1.00 mol dm-3 Co2+(aq), e.g. CoSO4 solution.",
+        "Half-cell 2 (the standard hydrogen electrode): platinum electrode coated with platinum black in 1.00 mol dm-3 H+(aq), e.g. HCl, with H2 gas at 100 kPa bubbled over it.",
+        "Join the two solutions with a salt bridge (filter paper soaked in KNO3(aq)), and join the electrodes with wires through a high-resistance voltmeter.",
+        "Keep the temperature at 298 K, with no current drawn (high-resistance voltmeter).",
+        "Read the voltmeter, which gives E(Co2+/Co), with the hydrogen electrode as the reference at 0 V; cobalt is the negative terminal, so the value is negative (about -0.28 V).",
+        "Diagram: two beakers, a voltmeter, a salt bridge, Co electrode in Co2+(aq), Pt electrode in H+(aq) with H2 inlet."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-36.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-37.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q49.jpg"
       ]
     },
     {
@@ -2475,6 +2541,9 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-36.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-37.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q49-2.jpg"
       ]
     },
     {
@@ -2491,12 +2560,19 @@
         "half-cell"
       ],
       "question": "Write the reduction half-equation for the electrochemical cell whose cell diagram is shown in the PDF (state symbols not required).",
-      "status": "pending",
-      "answer": "Needs the cell diagram from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "VO2^+ + 2H+ + e- -> VO^2+ + H2O",
+      "steps": [
+        "In a cell diagram the right-hand half-cell is the reduction.",
+        "The right-hand half-cell contains [VO2^+ + 2H+] (oxidised form) and [VO^2+ + H2O] (reduced form), with a Pt electrode.",
+        "Balanced: VO2^+ + 2H+ + e- -> VO^2+ + H2O (charge +2 on each side)."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-36.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-37.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q49-3.jpg"
       ]
     },
     {
@@ -2570,12 +2646,19 @@
         "X mol dm-3"
       ],
       "question": "The reduction half-cell in the DMFC has standard electrode potential shown in the PDF. Its potential changes to +1.20 V when the concentration changes, following an equation given in the PDF. Calculate X, the concentration in mol dm-3, in the non-standard half-cell.",
-      "status": "pending",
-      "answer": "Needs the Nernst equation and standard potential shown in the PDF; they are missing from the extraction",
-      "steps": [],
+      "status": "ready",
+      "answer": "X = 9.0 x 10^-4 mol dm-3",
+      "steps": [
+        "Substitute into E = E(standard) + 4.277 x 10^-3 ln X: 1.20 = 1.23 + 4.277 x 10^-3 ln X.",
+        "ln X = (1.20 - 1.23) / 4.277 x 10^-3 = -7.01.",
+        "X = e^-7.01 = 8.99 x 10^-4, which is 9.0 x 10^-4 mol dm-3 to 2 s.f."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-36.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-37.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q49-4.jpg"
       ]
     },
     {
@@ -2649,12 +2732,19 @@
         "order"
       ],
       "question": "Which sequence shows ions in order of increasing strength as a reducing agent? The sequences (options) are not in the extraction.",
-      "status": "pending",
-      "answer": "Needs the answer options from the PDF; they are missing from the extraction",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Fe2+ < V2+ < Cr2+",
+      "steps": [
+        "A stronger reducing agent is oxidised more easily, so its M3+/M2+ electrode potential is more negative.",
+        "Data Booklet: Fe3+/Fe2+ = +0.77 V, V3+/V2+ = -0.26 V, Cr3+/Cr2+ = -0.41 V.",
+        "Increasing reducing strength is therefore Fe2+ < V2+ < Cr2+."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-38.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-39.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q51.jpg"
       ]
     },
     {
@@ -2673,11 +2763,17 @@
         "titration"
       ],
       "question": "For 2KMnO4 + 10FeSO4 + 8H2SO4 -> K2SO4 + 2MnSO4 + 5Fe2(SO4)3 + 8H2O, which option shows the changes in oxidation states of iron and manganese? The options are not in the extraction.",
-      "status": "pending",
-      "answer": "Needs the answer options from the PDF (expected: Fe +2 to +3, Mn +7 to +2)",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: iron II -> III and manganese VII -> II",
+      "steps": [
+        "Fe2+ is oxidised to Fe3+, so iron goes from II to III.",
+        "MnO4- (Mn +7) is reduced to Mn2+ (+2), so manganese goes from VII to II."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-39.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q52.jpg"
       ]
     },
     {
@@ -2704,6 +2800,9 @@
       ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-39.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q52-2.jpg"
       ]
     },
     {
@@ -2751,13 +2850,21 @@
         "acidic solution"
       ],
       "question": "Write an equation for the reaction of H3MnO4 in acidic solution to give ions containing manganese(VI) and manganese(IV), using the Latimer diagram. State symbols not required.",
-      "status": "pending",
-      "answer": "Needs the Latimer diagram values from the PDF to confirm the products (likely MnO4 2- and MnO2)",
-      "steps": [],
+      "status": "ready",
+      "answer": "2H3MnO4 -> HMnO4- + MnO2 + 2H2O + H+",
+      "steps": [
+        "From the diagram: HMnO4- is manganese(VI), H3MnO4 is manganese(V), and MnO2 is manganese(IV).",
+        "H3MnO4 (+5) is oxidised to +6: H3MnO4 -> HMnO4- + 2H+ + e-.",
+        "H3MnO4 (+5) is reduced to +4: H3MnO4 + H+ + e- -> MnO2 + 2H2O.",
+        "Add and cancel e- and one H+: 2H3MnO4 -> HMnO4- + MnO2 + 2H2O + H+."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-40.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-41.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-42.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q53.jpg"
       ]
     },
     {
@@ -2775,13 +2882,21 @@
         "standard electrode potential"
       ],
       "question": "Deduce whether the disproportionation of H3MnO4 is thermodynamically feasible by calculating E(cell) for the reaction, using the Latimer diagram.",
-      "status": "pending",
-      "answer": "Needs the other standard electrode potential values from the Latimer diagram in the PDF; only +1.69 V is in the extraction",
-      "steps": [],
+      "status": "ready",
+      "answer": "E(cell) = +1.62 V, which is positive, so the disproportionation is thermodynamically feasible",
+      "steps": [
+        "Reduction: H3MnO4 -> MnO2 has E = +2.90 V from the diagram.",
+        "Oxidation: H3MnO4 -> HMnO4- is the reverse of HMnO4- -> H3MnO4, which has E = +1.28 V.",
+        "E(cell) = +2.90 - (+1.28) = +1.62 V.",
+        "E(cell) is positive, so the reaction is feasible."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-40.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-41.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-42.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q53.jpg"
       ]
     },
     {
@@ -2842,6 +2957,9 @@
         "papers/chemistry/img/16-Redox-Equilibria-40.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-41.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-42.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q53-2.jpg"
       ]
     },
     {
@@ -2975,12 +3093,20 @@
         "standard cell potential"
       ],
       "question": "The apparatus is used to measure E(cell) for 2Cr3+(aq) + Zn(s) -> 2Cr2+(aq) + Zn2+(aq). Which electrodes are used for this cell? The options are not in the extraction.",
-      "status": "pending",
-      "answer": "Needs the apparatus diagram and answer options from the PDF (expected: zinc and an inert platinum electrode)",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: zinc for electrode 1 and platinum for electrode 2",
+      "steps": [
+        "Electrode 1 is in Zn2+(aq), so it is zinc metal, the other member of the Zn2+/Zn system.",
+        "Electrode 2 is in a solution of Cr2+ and Cr3+ ions with no solid chromium, so an inert platinum electrode is needed.",
+        "Option D: zinc, platinum."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-43.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-44.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q56.jpg",
+        "papers/chemistry/fig/16-Redox-Equilibria-Q56-2.jpg"
       ]
     },
     {
@@ -2998,12 +3124,20 @@
         "Cr3+ ions"
       ],
       "question": "What mass of Cr2(SO4)3.18H2O must be dissolved in 1.00 dm3 of water to give the Cr3+ concentration needed for the measurement? The required concentration is not in the extraction.",
-      "status": "pending",
-      "answer": "Needs the required Cr3+ concentration from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 358 g",
+      "steps": [
+        "For standard conditions [Cr3+] = 1.00 mol dm-3, so 1.00 dm3 needs 1.00 mol Cr3+.",
+        "Each formula unit of Cr2(SO4)3.18H2O gives 2 Cr3+, so n = 1.00 / 2 = 0.500 mol.",
+        "Mass = 0.500 x 716.3 = 358 g."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-43.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-44.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q56.jpg",
+        "papers/chemistry/fig/16-Redox-Equilibria-Q56-3.jpg"
       ]
     },
     {
@@ -3033,6 +3167,9 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-43.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-44.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q56.jpg"
       ]
     },
     {
@@ -3051,12 +3188,20 @@
         "axes"
       ],
       "question": "Which graph shows the relationship between a quantity on the x-axis and delta Stotal on the y-axis for any electrochemical system? The graphs are not in the extraction.",
-      "status": "pending",
-      "answer": "Needs the graphs from the PDF; they are not in the extraction (expected: a straight line through the origin for delta Stotal against ln K)",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: a straight line through the origin with positive gradient",
+      "steps": [
+        "delta S(total) = nFE(cell)/T, where n, F and T are constants.",
+        "So delta S(total) is directly proportional to E(cell): a straight line through the origin with a positive gradient.",
+        "B has a negative gradient, C is a curve, and D is a line that does not pass through the origin, so A."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-45.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-46.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q57.jpg",
+        "papers/chemistry/fig/16-Redox-Equilibria-Q57-2.jpg"
       ]
     },
     {
@@ -3075,12 +3220,20 @@
         "E cell 1.53 V"
       ],
       "question": "Identify the substances needed in the salt bridge, the electrode and the solution of the right-hand half-cell for the standard cell, including concentrations. The cell diagram is not in the extraction.",
-      "status": "pending",
-      "answer": "Needs the cell diagram from the PDF to identify the salt bridge, electrode and solutions",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: potassium nitrate solution; B: platinum; C: solution containing Fe2+ and Fe3+ ions, each at 1.00 mol dm-3",
+      "steps": [
+        "A (salt bridge): a solution of an inert, soluble salt such as KNO3(aq) (about 1 mol dm-3 or saturated), whose ions do not react with the half-cell solutions.",
+        "B (electrode): platinum, an inert electrode, since Fe3+/Fe2+ has no solid metal.",
+        "C (solution): Fe2+ and Fe3+ ions, such as FeSO4 and Fe2(SO4)3 (or the nitrates).",
+        "Concentrations: [Fe2+] = 1.00 mol dm-3 and [Fe3+] = 1.00 mol dm-3 (and the Zn2+ half-cell is 1.00 mol dm-3 Zn2+), at 298 K."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-46.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-47.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q58.jpg"
       ]
     },
     {
@@ -3108,6 +3261,9 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-46.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-47.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q58.jpg"
       ]
     },
     {
@@ -3137,6 +3293,9 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-46.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-47.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q58.jpg"
       ]
     },
     {
@@ -3166,6 +3325,9 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-46.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-47.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q58.jpg"
       ]
     },
     {
@@ -3183,13 +3345,20 @@
         "half-cell"
       ],
       "question": "Which statement is correct about standard electrode potentials? The statements are not in the extraction.",
-      "status": "pending",
-      "answer": "Needs the statements and answer options from the PDF; they are missing from the extraction",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: E(cell) is proportional to ln K and delta S(total)",
+      "steps": [
+        "E(cell) = (RT/nF) ln K, so E(cell) is proportional to ln K.",
+        "delta S(total) = nFE(cell)/T, so E(cell) is directly proportional to delta S(total).",
+        "The other options use ln delta S(total), K, or delta S(surroundings), none of which is directly proportional to E(cell)."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-48.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-49.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-50.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q59.jpg"
       ]
     },
     {
@@ -3238,13 +3407,20 @@
         "diagram"
       ],
       "question": "State the name and purpose of part X in the electrochemical cell shown in the PDF.",
-      "status": "pending",
-      "answer": "Needs the cell diagram from the PDF to identify part X",
-      "steps": [],
+      "status": "ready",
+      "answer": "X is a salt bridge; it completes the circuit by letting ions flow between the half-cells without mixing the solutions",
+      "steps": [
+        "Name: salt bridge (e.g. filter paper soaked in KNO3(aq)).",
+        "Purpose: it allows ions to move between the two half-cells, completing the electrical circuit and keeping each solution electrically neutral.",
+        "It keeps the two solutions from mixing."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-48.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-49.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-50.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q61.jpg"
       ]
     },
     {
@@ -3262,13 +3438,20 @@
         "conventional representation"
       ],
       "question": "Draw a cell diagram for the electrochemical cell with the titanium ion electrode system shown in the PDF.",
-      "status": "pending",
-      "answer": "Needs the cell diagram from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Pt(s) | Ti2+(aq), Ti3+(aq) || Ag+(aq) | Ag(s)",
+      "steps": [
+        "Ti3+/Ti2+ (-0.37 V) is more negative than Ag+/Ag (+0.80 V), so it is the negative electrode and the oxidation (Ti2+ -> Ti3+) is on the left.",
+        "The left half-cell uses an inert Pt electrode, with Ti2+ and Ti3+ in the same solution separated by a comma.",
+        "The right half-cell is Ag+(aq) | Ag(s), with || for the salt bridge."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-48.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-49.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-50.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q61.jpg"
       ]
     },
     {
@@ -3286,13 +3469,21 @@
         "standard"
       ],
       "question": "The electrode system Ti3+(aq) + e- -> Ti2+(aq) is shown. Calculate the value using the Data Booklet (the quantity to calculate is missing from the extraction).",
-      "status": "pending",
-      "answer": "Needs the quantity to calculate and the cell details from the PDF; the Data Booklet value for Ti3+/Ti2+ is about -0.37 V",
-      "steps": [],
+      "status": "ready",
+      "answer": "E(cell) = +1.17 V",
+      "steps": [
+        "Data Booklet: Ag+ + e- <=> Ag has E = +0.80 V.",
+        "E(cell) = E(right) - E(left) = +0.80 - (-0.37).",
+        "E(cell) = +1.17 V."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-48.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-49.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-50.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q61.jpg",
+        "papers/chemistry/fig/16-Redox-Equilibria-Q61-2.jpg"
       ]
     },
     {
@@ -3311,13 +3502,21 @@
         "titanium"
       ],
       "question": "State the changes, if any, to the cell emf, the electrodes and the ion concentrations when current flows for several hours in the titanium cell shown in the PDF.",
-      "status": "pending",
-      "answer": "Needs the cell diagram and electrode details from the PDF to state the specific changes",
-      "steps": [],
+      "status": "ready",
+      "answer": "E(cell) falls (towards zero); Pt is unchanged and the Ag electrode gains mass; [Ti2+] and [Ag+] fall while [Ti3+] rises",
+      "steps": [
+        "The cell reaction is Ti2+ + Ag+ -> Ti3+ + Ag, as the electrons flow from Ti2+ at the Pt electrode to Ag+ at the silver electrode.",
+        "Cell emf: it decreases, eventually towards zero, as reactant concentrations fall and the product concentration rises.",
+        "Electrodes: the Pt electrode is inert and is unchanged, and the silver electrode increases in mass as Ag is deposited.",
+        "Concentrations: [Ti2+] decreases, [Ti3+] increases and [Ag+] decreases."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-48.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-49.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-50.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q61.jpg"
       ]
     },
     {
@@ -3376,6 +3575,9 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-50.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-51.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q62-2.jpg"
       ]
     },
     {
@@ -3421,12 +3623,19 @@
         "row"
       ],
       "question": "Which row of the table shows the correct changes in oxidation states in the reaction MnO4- + 8H+ + 5Fe2+ -> 5Fe3+ + Mn2+ + 4H2O? The table is not in the extraction.",
-      "status": "pending",
-      "answer": "Needs the table from the PDF; the expected change is Mn +7 to +2 and Fe +2 to +3",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: manganese VII -> II, iron II -> III",
+      "steps": [
+        "MnO4- has Mn +7 and is reduced to Mn2+ (+2).",
+        "Fe2+ is oxidised to Fe3+, so iron goes from II to III.",
+        "Option D shows these changes."
+      ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-50.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-51.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/16-Redox-Equilibria-Q62.jpg"
       ]
     },
     {

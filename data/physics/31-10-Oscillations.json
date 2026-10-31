@@ -246,6 +246,9 @@
         "papers/physics/img/31-10-Oscillations-04.jpg",
         "papers/physics/img/31-10-Oscillations-05.jpg",
         "papers/physics/img/31-10-Oscillations-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q4-3.jpg"
       ]
     },
     {
@@ -277,6 +280,9 @@
         "papers/physics/img/31-10-Oscillations-04.jpg",
         "papers/physics/img/31-10-Oscillations-05.jpg",
         "papers/physics/img/31-10-Oscillations-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q4-3.jpg"
       ]
     },
     {
@@ -899,6 +905,9 @@
         "papers/physics/img/31-10-Oscillations-12.jpg",
         "papers/physics/img/31-10-Oscillations-13.jpg",
         "papers/physics/img/31-10-Oscillations-14.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q14-2.jpg"
       ]
     },
     {
@@ -929,6 +938,9 @@
         "papers/physics/img/31-10-Oscillations-12.jpg",
         "papers/physics/img/31-10-Oscillations-13.jpg",
         "papers/physics/img/31-10-Oscillations-14.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q14-2.jpg"
       ]
     },
     {
@@ -1087,6 +1099,9 @@
         "papers/physics/img/31-10-Oscillations-16.jpg",
         "papers/physics/img/31-10-Oscillations-17.jpg",
         "papers/physics/img/31-10-Oscillations-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q18.jpg"
       ]
     },
     {
@@ -1171,6 +1186,9 @@
         "papers/physics/img/31-10-Oscillations-16.jpg",
         "papers/physics/img/31-10-Oscillations-17.jpg",
         "papers/physics/img/31-10-Oscillations-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q18.jpg"
       ]
     },
     {
@@ -1199,6 +1217,9 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-18.jpg",
         "papers/physics/img/31-10-Oscillations-19.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q19.jpg"
       ]
     },
     {
@@ -1228,6 +1249,9 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-18.jpg",
         "papers/physics/img/31-10-Oscillations-19.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q19.jpg"
       ]
     },
     {
@@ -1316,6 +1340,9 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-19.jpg",
         "papers/physics/img/31-10-Oscillations-20.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q20.jpg"
       ]
     },
     {
@@ -1334,13 +1361,20 @@
         "7-day"
       ],
       "question": "The graph shows the water level in the Bay of Fundy over a 7-day period. Determine the period T of the water level, in hours.",
-      "status": "pending",
-      "answer": "Needs the water level against time graph from the PDF to read the period in hours (the answer is a time between successive high tides).",
-      "steps": [],
+      "status": "ready",
+      "answer": "T = 12.4 hours (about 12 to 13 hours)",
+      "steps": [
+        "Measure over many cycles to reduce the reading error: the first peak is at about 0.33 days and the 13th peak at about 6.54 days, which is 12 complete cycles.",
+        "Time for 12 cycles = 6.54 - 0.33 = 6.21 days, so T = 6.21 / 12 = 0.52 days.",
+        "T = 0.52 x 24 = 12.4 hours (consistent with the usual interval between successive high tides of about 12.4 h)."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-20.jpg",
         "papers/physics/img/31-10-Oscillations-21.jpg",
         "papers/physics/img/31-10-Oscillations-22.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q21.jpg"
       ]
     },
     {
@@ -1388,12 +1422,21 @@
         "options"
       ],
       "question": "The graph shows velocity against time for a mass in SHM. Which of graphs A to D shows displacement from equilibrium against time over the same interval?",
-      "status": "pending",
-      "answer": "Needs the velocity-time graph and the option graphs A to D from the PDF (they are images, not in the text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A",
+      "steps": [
+        "Velocity is the gradient of the displacement-time graph. At t = 0 the velocity is zero, so the displacement is at a maximum or minimum there.",
+        "Just after t = 0 the velocity is negative, so the displacement is decreasing: it starts at its positive maximum and falls (y = A cos omega t).",
+        "The velocity is zero again after half a period, where the displacement has its minimum, which matches A.",
+        "B starts at a minimum, and C and D start at zero, so none of them fits."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-22.jpg",
         "papers/physics/img/31-10-Oscillations-23.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q22.jpg",
+        "papers/physics/fig/31-10-Oscillations-Q22-2.jpg"
       ]
     },
     {
@@ -1440,12 +1483,20 @@
         "calculate"
       ],
       "question": "In the Pantheon in Paris a pendulum takes 8.25 s to swing from one extreme position to the other. Which expression gives its length? (Option list is not in the text.)",
-      "status": "pending",
-      "answer": "Option list not in the text. Expected: L = g T^2 / (4 pi^2) with T = 16.5 s, giving L = 67.6 m.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: (16.5)^2 x 9.81 / (4 pi^2) = 67.7 m",
+      "steps": [
+        "Swinging from one extreme position to the other is half an oscillation, so T = 2 x 8.25 s = 16.5 s.",
+        "T = 2 pi sqrt(L / g), so L = g T^2 / (4 pi^2).",
+        "L = (16.5)^2 x 9.81 / (4 pi^2) = 67.7 m, which is option D.",
+        "C uses 8.25 s (half the period), and A and B have the expression upside down."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-23.jpg",
         "papers/physics/img/31-10-Oscillations-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q24.jpg"
       ]
     },
     {
@@ -1492,13 +1543,20 @@
         "maximum amplitude"
       ],
       "question": "The suspension system of a car is forced into vertical oscillation. Which row of the table shows how the maximum amplitude A0 and its frequency f0 change as damping is reduced?",
-      "status": "pending",
-      "answer": "Needs the table of rows from the PDF (not in the text); expected: A0 increases and f0 stays about the same as damping is reduced.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: A0 increases and f0 increases",
+      "steps": [
+        "Less damping means less energy is dissipated per cycle, so the amplitude at resonance gets larger: A0 increases.",
+        "With heavy damping the amplitude peak occurs at a frequency below the natural frequency. As the damping is reduced the peak sharpens and moves towards the natural frequency, so f0 increases.",
+        "So both quantities increase, which is row D."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-24.jpg",
         "papers/physics/img/31-10-Oscillations-25.jpg",
         "papers/physics/img/31-10-Oscillations-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q26.jpg"
       ]
     },
     {
@@ -1528,6 +1586,9 @@
         "papers/physics/img/31-10-Oscillations-24.jpg",
         "papers/physics/img/31-10-Oscillations-25.jpg",
         "papers/physics/img/31-10-Oscillations-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q27-2.jpg"
       ]
     },
     {
@@ -1545,13 +1606,23 @@
         "sinusoid"
       ],
       "question": "The bracket has a highest to lowest distance of 8.0 cm and completes 270 oscillations per minute. Sketch a velocity-time graph for the bracket, including velocity and time values.",
-      "status": "pending",
-      "answer": "Needs the blank axes from the PDF. Expected: sine-shaped v-t curve with peak +/-1.13 m s-1 and period 0.22 s (f = 4.5 Hz, A = 4.0 cm).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A sinusoidal v-t graph with peaks at +1.1 m s^-1 and -1.1 m s^-1 (1.13 m s^-1) and a period of 0.22 s.",
+      "steps": [
+        "Frequency f = 270 / 60 = 4.5 Hz, so the period T = 1 / 4.5 = 0.22 s and omega = 2 pi f = 28.3 rad s^-1.",
+        "The distance from highest to lowest position is 8.0 cm, so the amplitude is A = 4.0 cm = 0.040 m.",
+        "The maximum velocity is v_max = omega A = 28.3 x 0.040 = 1.13 m s^-1.",
+        "Draw a smooth sine (or cosine) curve centred on v = 0 and label the peaks +1.13 and -1.13 m s^-1 on the velocity axis.",
+        "Scale the time axis so that one complete cycle takes 0.22 s (a quarter cycle is 0.056 s, so the zero crossings and peaks fall at multiples of 0.056 s: 0.056, 0.11, 0.17, 0.22 s).",
+        "Either starting phase is acceptable (starting at zero, or starting at a peak) provided the amplitude and the period are labelled."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-24.jpg",
         "papers/physics/img/31-10-Oscillations-25.jpg",
         "papers/physics/img/31-10-Oscillations-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q27.jpg"
       ]
     },
     {
@@ -1580,6 +1651,9 @@
         "papers/physics/img/31-10-Oscillations-24.jpg",
         "papers/physics/img/31-10-Oscillations-25.jpg",
         "papers/physics/img/31-10-Oscillations-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q27-2.jpg"
       ]
     },
     {
@@ -1610,6 +1684,9 @@
         "papers/physics/img/31-10-Oscillations-24.jpg",
         "papers/physics/img/31-10-Oscillations-25.jpg",
         "papers/physics/img/31-10-Oscillations-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q27-2.jpg"
       ]
     },
     {
@@ -1626,12 +1703,21 @@
         "graph"
       ],
       "question": "A mass displaced 5 cm from equilibrium oscillates; its acceleration against displacement graph is given. Sketch a graph of displacement against time.",
-      "status": "pending",
-      "answer": "Needs the acceleration-displacement graph and the blank axes from the PDF. Expected: sinusoid with amplitude 5 cm.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A sinusoidal x-t graph of amplitude 5 cm and period about 5.0 s, e.g. a cosine curve starting at +5 cm.",
+      "steps": [
+        "The gradient of the a-x graph is -8 / 5 = -1.6 s^-2, so omega^2 = 1.6 s^-2 and omega = 1.26 rad s^-1 (the acceleration axis is in cm s^-2).",
+        "T = 2 pi / omega = 2 pi / 1.26 = 5.0 s.",
+        "The mass is displaced 5 cm and released, so it starts at rest at maximum displacement and the amplitude is 5 cm: x = 5 cos(1.26 t) cm.",
+        "Sketch a cosine curve: +5 cm at t = 0, zero at about 1.25 s, -5 cm at about 2.5 s, zero at about 3.7 s and back to +5 cm at 5.0 s. Label x = +5 and -5 cm on the axis and the time values on the t axis."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-26.jpg",
         "papers/physics/img/31-10-Oscillations-27.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q28.jpg",
+        "papers/physics/fig/31-10-Oscillations-Q28-2.jpg"
       ]
     },
     {
@@ -1649,12 +1735,19 @@
         "expression"
       ],
       "question": "A seconds pendulum has a period of 2 s. Which expression gives its length in metres? (Option list is not in the text.)",
-      "status": "pending",
-      "answer": "Option list not in the text. Expected: L = g / pi^2 = 0.99 m.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 9.81 / pi^2 = 0.99 m",
+      "steps": [
+        "T = 2 pi sqrt(L / g), so L = g T^2 / (4 pi^2).",
+        "With T = 2 s: L = 9.81 x 2^2 / (4 pi^2) = 9.81 x 4 / (4 pi^2) = 9.81 / pi^2 = 0.99 m.",
+        "This is option C. A and B are not in the right form, and D (9.81 / 4 pi^2) would be the length for T = 1 s."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-27.jpg",
         "papers/physics/img/31-10-Oscillations-28.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q29.jpg"
       ]
     },
     {
@@ -1672,12 +1765,19 @@
         "simple harmonic"
       ],
       "question": "Add to the graph of elastic potential energy against displacement a line showing how the total energy of the mass-spring system varies with displacement.",
-      "status": "pending",
-      "answer": "Needs the EPE-displacement graph and its axes from the PDF; the total energy line is a horizontal, constant line.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A horizontal straight line at the total energy of about 19 mJ, from x = -2 cm to x = +2 cm, meeting the curve at both ends.",
+      "steps": [
+        "In SHM the total energy (elastic potential plus kinetic) is constant, so it is a horizontal line.",
+        "At the maximum displacement (the amplitude, 2.0 cm) the mass is momentarily at rest, so all the energy is elastic potential energy. The line is therefore at the height where the curve ends, about 19 mJ.",
+        "At any other displacement, the gap between the horizontal line and the curve is the kinetic energy."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-27.jpg",
         "papers/physics/img/31-10-Oscillations-28.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q30.jpg"
       ]
     },
     {
@@ -1696,12 +1796,20 @@
         "total energy"
       ],
       "question": "Using the EPE-displacement graph for a 150 g mass on a vertical spring, determine the speed of the mass when its displacement is 1.0 cm.",
-      "status": "pending",
-      "answer": "Needs the EPE values read from the graph in the PDF; then 1/2 m v^2 = total energy - EPE at 1.0 cm.",
-      "steps": [],
+      "status": "ready",
+      "answer": "v = 0.44 m s^-1",
+      "steps": [
+        "The total energy equals the potential energy at the amplitude (2.0 cm), which is about 19 mJ.",
+        "At a displacement of 1.0 cm the graph gives an elastic potential energy of about 4.5 mJ.",
+        "Kinetic energy at 1.0 cm = 19 - 4.5 = 14.5 mJ = 1.45 x 10^-2 J.",
+        "1/2 m v^2 = 1.45 x 10^-2 J, so v = sqrt(2 x 1.45 x 10^-2 / 0.150) = 0.44 m s^-1."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-27.jpg",
         "papers/physics/img/31-10-Oscillations-28.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q30.jpg"
       ]
     },
     {
@@ -1731,6 +1839,9 @@
         "papers/physics/img/31-10-Oscillations-28.jpg",
         "papers/physics/img/31-10-Oscillations-29.jpg",
         "papers/physics/img/31-10-Oscillations-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q31.jpg"
       ]
     },
     {
@@ -1762,6 +1873,9 @@
         "papers/physics/img/31-10-Oscillations-28.jpg",
         "papers/physics/img/31-10-Oscillations-29.jpg",
         "papers/physics/img/31-10-Oscillations-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q31.jpg"
       ]
     },
     {
@@ -1864,11 +1978,19 @@
         "phase"
       ],
       "question": "The graph shows velocity against time for a particle in SHM. Which graph shows displacement against time over the same interval?",
-      "status": "pending",
-      "answer": "Needs the velocity-time graph and the displacement option graphs from the PDF (images, not in the text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B",
+      "steps": [
+        "Velocity is the gradient of the displacement-time graph. At t = 0 the velocity is zero, so the displacement is at a maximum or minimum.",
+        "Just after t = 0 the velocity is positive, so the displacement is increasing, which means it starts at its negative maximum (x = -A cos omega t).",
+        "Only B starts at a minimum and rises. A starts at zero and rises, C starts at zero and falls, and D starts at a positive maximum."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-31.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q34.jpg",
+        "papers/physics/fig/31-10-Oscillations-Q34-2.jpg"
       ]
     },
     {
@@ -1887,13 +2009,22 @@
         "k"
       ],
       "question": "Using the student's timings for 30 oscillations of a mass on the springs labelled k = 21 N m-1, deduce whether the label is correct.",
-      "status": "pending",
-      "answer": "Needs the table of measured times for 30 oscillations from the PDF; then k = 4 pi^2 m / T^2 can be compared with 21 N m-1.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The label is correct: the calculated stiffness of each spring is 20.9 N m^-1, which is 21 N m^-1 to 2 significant figures.",
+      "steps": [
+        "Mean time for 30 oscillations = (13.65 + 13.70) / 2 = 13.675 s, so T = 13.675 / 30 = 0.456 s.",
+        "The two identical springs are side by side supporting the mass (in parallel), so the combined stiffness is 2k and T = 2 pi sqrt(m / 2k).",
+        "Combined stiffness = 4 pi^2 m / T^2 = 4 pi^2 x 0.22 / (0.456)^2 = 41.8 N m^-1.",
+        "Each spring: k = 41.8 / 2 = 20.9 N m^-1, which agrees with the label of 21 N m^-1."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-32.jpg",
         "papers/physics/img/31-10-Oscillations-33.jpg",
         "papers/physics/img/31-10-Oscillations-34.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q35.jpg",
+        "papers/physics/fig/31-10-Oscillations-Q35-2.jpg"
       ]
     },
     {
@@ -1924,6 +2055,9 @@
         "papers/physics/img/31-10-Oscillations-32.jpg",
         "papers/physics/img/31-10-Oscillations-33.jpg",
         "papers/physics/img/31-10-Oscillations-34.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q35-3.jpg"
       ]
     },
     {
@@ -1953,6 +2087,9 @@
         "papers/physics/img/31-10-Oscillations-32.jpg",
         "papers/physics/img/31-10-Oscillations-33.jpg",
         "papers/physics/img/31-10-Oscillations-34.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q35-3.jpg"
       ]
     },
     {
@@ -1981,6 +2118,9 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-34.jpg",
         "papers/physics/img/31-10-Oscillations-35.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q36.jpg"
       ]
     },
     {
@@ -2010,6 +2150,9 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-34.jpg",
         "papers/physics/img/31-10-Oscillations-35.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q36.jpg"
       ]
     },
     {
@@ -2055,12 +2198,18 @@
         "multiple choice"
       ],
       "question": "A simple pendulum's frequency is determined, then its length is doubled. By what factor is the frequency multiplied? (Option list is not in the text.)",
-      "status": "pending",
-      "answer": "Option list not in the text. Expected: frequency multiplied by 1/sqrt(2) = 0.71.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 1 / sqrt(2) = 0.71",
+      "steps": [
+        "For a simple pendulum f = (1 / 2 pi) sqrt(g / L), so f is proportional to 1 / sqrt(L).",
+        "If L is doubled, f is multiplied by 1 / sqrt(2) = 0.71, which is option A."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-36.jpg",
         "papers/physics/img/31-10-Oscillations-37.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q37.jpg"
       ]
     },
     {
@@ -2133,12 +2282,19 @@
         "0.12 m"
       ],
       "question": "An object oscillates with SHM, period 0.65 s and amplitude 0.12 m. Which expression gives its maximum velocity? (Option list is not in the text.)",
-      "status": "pending",
-      "answer": "Option list not in the text. Expected: v_max = 2 pi A / T = 1.16 m s-1.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: (2 pi / 0.65) x 0.12 = 1.2 m s^-1",
+      "steps": [
+        "The maximum velocity is v_max = omega A with omega = 2 pi / T.",
+        "v_max = (2 pi / 0.65) x 0.12 = 9.67 x 0.12 = 1.2 m s^-1, which is option B.",
+        "A multiplies by T instead of dividing, and C and D are squared, which would give a maximum acceleration-type expression."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-37.jpg",
         "papers/physics/img/31-10-Oscillations-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q39.jpg"
       ]
     },
     {
@@ -2155,12 +2311,21 @@
         "particle"
       ],
       "question": "The graph shows acceleration against time for a particle in SHM. Which graph shows velocity against time over the same interval?",
-      "status": "pending",
-      "answer": "Needs the acceleration-time graph and the four option graphs from the PDF (images, not in the text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B",
+      "steps": [
+        "Acceleration is the gradient of the velocity-time graph, so a = 0 at t = 0 means v is at a maximum or minimum there.",
+        "Just after t = 0 the acceleration is positive, so v is increasing: the velocity starts at its negative maximum and rises (v = -v_max cos omega t).",
+        "A quarter of a period later the acceleration is at its maximum, which is where the velocity graph crosses zero going up. Only B starts at a minimum and rises.",
+        "A starts at zero and rises, C starts at zero and falls, and D starts at a positive maximum."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-37.jpg",
         "papers/physics/img/31-10-Oscillations-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q40.jpg",
+        "papers/physics/fig/31-10-Oscillations-Q40-2.jpg"
       ]
     },
     {
@@ -2178,11 +2343,18 @@
         "graph shape"
       ],
       "question": "A simple pendulum in SHM has acceleration a and displacement x. Which of graphs A to D shows how a varies with x?",
-      "status": "pending",
-      "answer": "Needs the four option graphs A to D from the PDF; the correct graph is a straight line through the origin with negative gradient, but the letter is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D",
+      "steps": [
+        "In SHM the acceleration is proportional to the displacement and always acts towards the equilibrium position: a = -omega^2 x.",
+        "So the graph of a against x is a straight line through the origin with a negative gradient, which is graph D.",
+        "B has a positive gradient (acceleration away from equilibrium), and A and C show a constant acceleration."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-39.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q41.jpg"
       ]
     },
     {
@@ -2286,12 +2458,18 @@
         "new frequency"
       ],
       "question": "A mass hung on a spring oscillates with frequency f. The mass is doubled. What is the new frequency? (Option list is not in the text.)",
-      "status": "pending",
-      "answer": "Option list not in the text. Expected: new frequency f / sqrt(2) = 0.71 f.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: f / sqrt(2) = 0.71 f",
+      "steps": [
+        "For a mass on a spring f = (1 / 2 pi) sqrt(k / m), so f is proportional to 1 / sqrt(m).",
+        "If the mass is doubled, f is multiplied by 1 / sqrt(2), so the new frequency is f / sqrt(2) = 0.71 f, which is option B."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-40.jpg",
         "papers/physics/img/31-10-Oscillations-41.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q44.jpg"
       ]
     },
     {
@@ -2337,11 +2515,18 @@
         "cm"
       ],
       "question": "A mass in SHM has angular velocity 2 rad s-1 and maximum velocity 10 cm s-1. Which expression gives the amplitude in cm? (Option list is not in the text.)",
-      "status": "pending",
-      "answer": "Option list not in the text. Expected: A = v_max / omega = 5 cm.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: A = 10 / 2 = 5 cm",
+      "steps": [
+        "The maximum velocity is v_max = omega A, so A = v_max / omega.",
+        "A = 10 cm s^-1 / 2 rad s^-1 = 5 cm, which is option B.",
+        "A has the ratio the wrong way up, and C and D contain sin 2t, which would be an expression for a value at a particular time and not the amplitude."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-41.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q46.jpg"
       ]
     },
     {
@@ -2386,12 +2571,21 @@
         "gradient"
       ],
       "question": "The graph shows velocity against time for an object in SHM. Which of the four graphs shows acceleration against time for the same period?",
-      "status": "pending",
-      "answer": "Needs the velocity-time graph and the four option graphs A to D from the PDF (images, not in the text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C",
+      "steps": [
+        "Acceleration is the gradient of the velocity-time graph.",
+        "The velocity graph starts at zero and rises, so at t = 0 its gradient is a positive maximum: the acceleration starts at its maximum value.",
+        "The velocity is at its peak a quarter of a period later, where its gradient is zero, so the acceleration crosses zero there and then goes negative (a = a_max cos omega t).",
+        "Only graph C starts at a maximum and falls through zero at a quarter of the period."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-42.jpg",
         "papers/physics/img/31-10-Oscillations-43.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q48.jpg",
+        "papers/physics/fig/31-10-Oscillations-Q48-2.jpg"
       ]
     },
     {
@@ -2408,11 +2602,19 @@
         "phase"
       ],
       "question": "The graph shows velocity against time for an object in SHM. Which of the four graphs shows displacement against time for the same period?",
-      "status": "pending",
-      "answer": "Needs the velocity-time graph and the four option graphs A to D from the PDF (images, not in the text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B",
+      "steps": [
+        "Velocity is the gradient of the displacement-time graph. At t = 0 the velocity is zero, so the displacement is at a maximum or minimum.",
+        "Just after t = 0 the velocity is positive, so the displacement is increasing, which means it starts at its negative maximum (x = -A cos omega t).",
+        "The velocity is at its peak a quarter of a period later, where the displacement crosses zero going up. Only B starts at a minimum and rises."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-43.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q49.jpg",
+        "papers/physics/fig/31-10-Oscillations-Q49-2.jpg"
       ]
     },
     {
@@ -2516,13 +2718,21 @@
         "11300 kg m-3"
       ],
       "question": "Calculate the stiffness of the spring system for the lead box damper, given its dimensions, the density of lead 11 300 kg m-3 and the oscillation frequency 0.17 Hz.",
-      "status": "pending",
-      "answer": "The box dimensions in the extracted text are garbled; read them from the PDF. Then m = density x volume and k = 4 pi^2 f^2 m.",
-      "steps": [],
+      "status": "ready",
+      "answer": "k = 3.1 x 10^5 N m^-1",
+      "steps": [
+        "Volume of the box = 5.20 x 5.20 x 0.90 = 24.3 m^3.",
+        "Mass = density x volume = 11 300 x 24.3 = 2.75 x 10^5 kg.",
+        "The damper must oscillate at 0.17 Hz, so omega = 2 pi f = 2 pi x 0.17 = 1.07 rad s^-1.",
+        "From T = 2 pi sqrt(m / k): k = m omega^2 = 2.75 x 10^5 x (1.07)^2 = 3.1 x 10^5 N m^-1 (the stiffness of the whole spring system)."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-44.jpg",
         "papers/physics/img/31-10-Oscillations-45.jpg",
         "papers/physics/img/31-10-Oscillations-46.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q51.jpg"
       ]
     },
     {
@@ -2552,6 +2762,9 @@
         "papers/physics/img/31-10-Oscillations-44.jpg",
         "papers/physics/img/31-10-Oscillations-45.jpg",
         "papers/physics/img/31-10-Oscillations-46.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q51.jpg"
       ]
     },
     {
@@ -2582,6 +2795,9 @@
         "papers/physics/img/31-10-Oscillations-44.jpg",
         "papers/physics/img/31-10-Oscillations-45.jpg",
         "papers/physics/img/31-10-Oscillations-46.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q51.jpg"
       ]
     },
     {
@@ -2598,11 +2814,19 @@
         "phase"
       ],
       "question": "The graph shows force against time for an object in SHM. Which of graphs A to D shows displacement against time over the same interval?",
-      "status": "pending",
-      "answer": "Needs the force-time graph and the four option graphs from the PDF (images, not in the text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "D",
+      "steps": [
+        "The force on the object is F = -kx (equivalently F = ma with a = -omega^2 x), so the displacement graph is the force graph turned upside down.",
+        "The force graph starts at zero and rises first, so the displacement starts at zero and goes negative first.",
+        "Only D starts at zero and falls. A is the same as the force graph, B starts at a negative value and C starts at a positive maximum."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-46.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q52.jpg",
+        "papers/physics/fig/31-10-Oscillations-Q52-2.jpg"
       ]
     },
     {
@@ -2619,11 +2843,20 @@
         "phase"
       ],
       "question": "The graph shows force against time for an object in SHM. Which of the four graphs shows velocity against time?",
-      "status": "pending",
-      "answer": "Needs the force-time graph and the four option graphs from the PDF (images, not in the text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B",
+      "steps": [
+        "The force is proportional to the acceleration (F = ma), and acceleration is the gradient of the velocity-time graph.",
+        "The force graph is zero at t = 0, so the velocity gradient is zero there and the velocity is at a maximum or minimum.",
+        "Just after t = 0 the force is positive, so the velocity is increasing: the velocity starts at its negative maximum and rises.",
+        "The force is at its maximum a quarter of a period later, where the velocity graph is steepest and crossing zero. Only B starts at a minimum and rises."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-47.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q53.jpg",
+        "papers/physics/fig/31-10-Oscillations-Q53-2.jpg"
       ]
     },
     {
@@ -2641,11 +2874,20 @@
         "student suggestion"
       ],
       "question": "Two pendulums of equal mass, one of length L and one of another length, are given the same initial amplitude. Evaluate the student's suggestion that the maximum kinetic energy of one is four times that of the other.",
-      "status": "pending",
-      "answer": "The second length and the definition of amplitude are not in the extracted text (the diagram or value is missing), so the factor of four cannot be checked.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The suggestion is not correct: the maximum kinetic energy of the L/2 pendulum is only about twice (not four times) that of the L pendulum.",
+      "steps": [
+        "The diagram shows both bobs pulled aside by the same horizontal distance A (same amplitude), and the masses are equal. For small swings E_k max = 1/2 m omega^2 A^2, with omega^2 = g / length.",
+        "For the pendulum of length L, omega^2 = g / L. For the pendulum of length L/2, omega^2 = 2g / L, which is twice as large.",
+        "m and A are the same, so E_k max is proportional to omega^2 and is doubled, not quadrupled.",
+        "Check with energy: for a small swing the bob rises by h = A^2 / (2 x length), so halving the length doubles h and doubles the maximum kinetic energy m g h.",
+        "A factor of four would be right only if omega were doubled. Halving the length multiplies omega by only sqrt(2), so v_max rises by sqrt(2) and E_k by (sqrt 2)^2 = 2."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-48.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q54.jpg"
       ]
     },
     {
@@ -2662,12 +2904,18 @@
         "shows"
       ],
       "question": "The graph shows acceleration against displacement from equilibrium for an object. Explain how the graph shows that the object moves with simple harmonic motion.",
-      "status": "pending",
-      "answer": "Needs the a-x graph from the PDF; the answer is that the graph is a straight line through the origin with negative gradient, so a is proportional to -x.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The graph is a straight line through the origin with a negative gradient, so a is proportional to -x: the acceleration is proportional to the displacement and always directed towards equilibrium, which is the definition of SHM.",
+      "steps": [
+        "A straight line through the origin means a is directly proportional to x.",
+        "The negative gradient means the acceleration is always in the opposite direction to the displacement, that is towards the equilibrium position (a = -omega^2 x), which is the condition for SHM."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-49.jpg",
         "papers/physics/img/31-10-Oscillations-50.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q55.jpg"
       ]
     },
     {
@@ -2685,12 +2933,21 @@
         "graph"
       ],
       "question": "For the object of mass 0.25 kg whose acceleration-displacement graph is shown, calculate its maximum kinetic energy.",
-      "status": "pending",
-      "answer": "Needs omega^2 (gradient) and amplitude read from the a-x graph in the PDF; then E_k max = 1/2 m omega^2 A^2.",
-      "steps": [],
+      "status": "ready",
+      "answer": "E_k max = 3.5 x 10^-3 J (3.5 mJ)",
+      "steps": [
+        "The gradient of the a-x graph is -omega^2: omega^2 = 0.70 / 0.040 = 17.5 s^-2, so omega = 4.18 rad s^-1.",
+        "The graph extends to x = +/-0.040 m, so the amplitude is A = 0.040 m.",
+        "v_max = omega A = 4.18 x 0.040 = 0.167 m s^-1.",
+        "E_k max = 1/2 m v_max^2 = 0.5 x 0.25 x (0.167)^2 = 3.5 x 10^-3 J.",
+        "Check: E_k max = 1/2 m omega^2 A^2 = 0.5 x 0.25 x 17.5 x (0.040)^2 = 3.5 x 10^-3 J."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-49.jpg",
         "papers/physics/img/31-10-Oscillations-50.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q55.jpg"
       ]
     },
     {
@@ -2708,12 +2965,19 @@
         "axes"
       ],
       "question": "Sketch a graph on the axes provided to show how the kinetic energy of the object varies with displacement x. No further calculations are needed.",
-      "status": "pending",
-      "answer": "Needs the blank axes from the PDF. Expected: inverted parabola, maximum at x = 0 and zero at x = +/- A.",
-      "steps": [],
+      "status": "ready",
+      "answer": "An inverted parabola (hill shape) symmetric about the vertical axis, with maximum kinetic energy of 3.5 mJ at x = 0 and falling to zero at x = +0.040 m and x = -0.040 m.",
+      "steps": [
+        "E_k = 1/2 m omega^2 (A^2 - x^2), which is a quadratic in x with a negative x^2 term, so the graph is an inverted parabola.",
+        "At x = 0 the kinetic energy is at its maximum (3.5 mJ from part (i)); at x = +/-A = +/-0.040 m it is zero.",
+        "The curve is symmetrical about the E_k axis, never goes negative, and meets the x axis at +/-0.040 m."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-49.jpg",
         "papers/physics/img/31-10-Oscillations-50.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q55-2.jpg"
       ]
     },
     {
@@ -2744,6 +3008,9 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-51.jpg",
         "papers/physics/img/31-10-Oscillations-52.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q56.jpg"
       ]
     },
     {
@@ -2801,6 +3068,9 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-52.jpg",
         "papers/physics/img/31-10-Oscillations-53.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q58.jpg"
       ]
     },
     {
@@ -2860,6 +3130,9 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-53.jpg",
         "papers/physics/img/31-10-Oscillations-54.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q60.jpg"
       ]
     },
     {
@@ -2903,12 +3176,20 @@
         "phase"
       ],
       "question": "The graph shows displacement against time for an object in SHM. Which of the four graphs shows velocity against time for the same period?",
-      "status": "pending",
-      "answer": "Needs the displacement-time graph and the four option graphs from the PDF (images, not in the text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "D",
+      "steps": [
+        "Velocity is the gradient of the displacement-time graph. The displacement graph starts at its negative maximum, where the gradient is zero, so the velocity starts at zero.",
+        "Just after t = 0 the displacement is increasing, so the velocity is positive: the velocity graph starts at zero and rises (v = A omega sin omega t).",
+        "Only graph D starts at zero and rises. A starts at a positive maximum, B starts at a negative value and C starts at zero but falls."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-55.jpg",
         "papers/physics/img/31-10-Oscillations-56.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q62.jpg",
+        "papers/physics/fig/31-10-Oscillations-Q62-2.jpg"
       ]
     },
     {
@@ -2925,12 +3206,20 @@
         "phase"
       ],
       "question": "The graph shows displacement against time for an object in SHM. Which of the four graphs shows acceleration against time?",
-      "status": "pending",
-      "answer": "Needs the displacement-time graph and the four option graphs from the PDF (images, not in the text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A",
+      "steps": [
+        "In SHM a = -omega^2 x, so the acceleration graph is the displacement graph turned upside down (same period).",
+        "The displacement graph starts at its negative maximum, so the acceleration starts at its positive maximum and falls.",
+        "Only graph A starts at a positive maximum and falls. B starts at a negative value, C starts at zero going down and D starts at zero going up."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-56.jpg",
         "papers/physics/img/31-10-Oscillations-57.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q63.jpg",
+        "papers/physics/fig/31-10-Oscillations-Q63-2.jpg"
       ]
     },
     {
@@ -2960,6 +3249,9 @@
         "papers/physics/img/31-10-Oscillations-57.jpg",
         "papers/physics/img/31-10-Oscillations-58.jpg",
         "papers/physics/img/31-10-Oscillations-59.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q64-2.jpg"
       ]
     },
     {
@@ -2977,13 +3269,20 @@
         "suspension"
       ],
       "question": "The graph shows how the vertical displacement of the car body varies with time. Determine the maximum velocity of the car body.",
-      "status": "pending",
-      "answer": "Needs the displacement-time graph from the PDF to read the amplitude and period; then v_max = 2 pi A / T.",
-      "steps": [],
+      "status": "ready",
+      "answer": "v_max = 0.47 m s^-1",
+      "steps": [
+        "From the graph the amplitude is A = 3.0 cm = 0.030 m.",
+        "The peaks are at 0.2 s, 0.6 s and 1.0 s, so the period is T = 0.40 s and omega = 2 pi / T = 2 pi / 0.40 = 15.7 rad s^-1.",
+        "v_max = omega A = 15.7 x 0.030 = 0.47 m s^-1."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-57.jpg",
         "papers/physics/img/31-10-Oscillations-58.jpg",
         "papers/physics/img/31-10-Oscillations-59.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q64.jpg"
       ]
     },
     {
@@ -3012,6 +3311,9 @@
         "papers/physics/img/31-10-Oscillations-57.jpg",
         "papers/physics/img/31-10-Oscillations-58.jpg",
         "papers/physics/img/31-10-Oscillations-59.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q64-2.jpg"
       ]
     }
   ]

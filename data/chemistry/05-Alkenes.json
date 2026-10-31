@@ -29,6 +29,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-01.jpg",
         "papers/chemistry/img/05-Alkenes-02.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q1.jpg"
       ]
     },
     {
@@ -55,6 +58,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-01.jpg",
         "papers/chemistry/img/05-Alkenes-02.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q2.jpg"
       ]
     },
     {
@@ -81,6 +87,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-01.jpg",
         "papers/chemistry/img/05-Alkenes-02.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q3.jpg"
       ]
     },
     {
@@ -108,6 +117,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-02.jpg",
         "papers/chemistry/img/05-Alkenes-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q4.jpg"
       ]
     },
     {
@@ -135,6 +147,10 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-02.jpg",
         "papers/chemistry/img/05-Alkenes-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q5.jpg",
+        "papers/chemistry/fig/05-Alkenes-A-Q5-2.jpg"
       ]
     },
     {
@@ -162,6 +178,10 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-03.jpg",
         "papers/chemistry/img/05-Alkenes-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q6.jpg",
+        "papers/chemistry/fig/05-Alkenes-A-Q6-2.jpg"
       ]
     },
     {
@@ -231,18 +251,21 @@
         "prefix",
         "naming"
       ],
-      "question": "State the prefixes that could be used to name the geometric isomers of but-2-ene.",
+      "question": "But-2-ene shows geometric isomerism. Which prefixes could be used in naming the isomer drawn, with both CH3 groups on the same side of the C=C? Options: A cis and E, B cis and Z, C trans and E, D trans and Z.",
       "status": "ready",
-      "answer": "cis and trans (equivalently E and Z)",
+      "answer": "B: cis and Z",
       "steps": [
-        "But-2-ene has a C=C with two different groups on each carbon (H and CH3).",
-        "The two isomers have the CH3 groups on the same side (cis/Z) or opposite sides (trans/E).",
-        "Both naming systems describe the same pair of isomers.",
-        "So the prefixes are cis and trans (or E and Z)."
+        "The drawn isomer has both CH3 groups on the same side of the C=C (both at the bottom).",
+        "Same side means cis in the cis/trans system.",
+        "On each carbon the CH3 group has higher priority than H, so the two higher-priority groups are on the same side: Z.",
+        "So the prefixes are cis and Z, option B."
       ],
       "images": [
         "papers/chemistry/img/05-Alkenes-05.jpg",
         "papers/chemistry/img/05-Alkenes-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q9.jpg"
       ]
     },
     {
@@ -324,6 +347,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-06.jpg",
         "papers/chemistry/img/05-Alkenes-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q11.jpg"
       ]
     },
     {
@@ -366,18 +392,22 @@
         "CIP priority",
         "chlorine"
       ],
-      "question": "Draw the skeletal formula of E-2-chlorobut-2-ene.",
+      "question": "Which skeletal formula is E-2-chlorobut-2-ene? Choose from the four structures A to D shown.",
       "status": "ready",
-      "answer": "CH3-C(Cl)=CH-CH3 with Cl and the C4 CH3 on opposite sides of the C=C",
+      "answer": "A: CH3-C(Cl)=CH-CH3 with Cl and the C4 methyl on opposite sides of the C=C",
       "steps": [
         "Structure: C1H3-C2(Cl)=C3H-C4H3.",
         "On C2, Cl has higher priority than CH3.",
         "On C3, CH3 (C4) has higher priority than H.",
-        "E means the Cl and the C4 methyl are on opposite sides (trans) of the C=C."
+        "E means the Cl and the C4 methyl are on opposite sides (trans) of the C=C.",
+        "Of the structures shown, A has Cl and the C4 methyl on opposite sides, so A is E. C has them on the same side (Z); B and D are 1-chlorobut-2-enes."
       ],
       "images": [
         "papers/chemistry/img/05-Alkenes-07.jpg",
         "papers/chemistry/img/05-Alkenes-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q13a.jpg"
       ]
     },
     {
@@ -430,6 +460,9 @@
       ],
       "images": [
         "papers/chemistry/img/05-Alkenes-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q14.jpg"
       ]
     },
     {
@@ -456,6 +489,9 @@
       ],
       "images": [
         "papers/chemistry/img/05-Alkenes-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q15.jpg"
       ]
     },
     {
@@ -482,6 +518,9 @@
       ],
       "images": [
         "papers/chemistry/img/05-Alkenes-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q16.jpg"
       ]
     },
     {
@@ -508,6 +547,9 @@
       ],
       "images": [
         "papers/chemistry/img/05-Alkenes-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q17.jpg"
       ]
     },
     {
@@ -535,6 +577,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-11.jpg",
         "papers/chemistry/img/05-Alkenes-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q18a.jpg"
       ]
     },
     {
@@ -589,6 +634,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-12.jpg",
         "papers/chemistry/img/05-Alkenes-13.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q19.jpg"
       ]
     },
     {
@@ -615,6 +663,9 @@
       ],
       "images": [
         "papers/chemistry/img/05-Alkenes-13.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q20.jpg"
       ]
     },
     {
@@ -759,6 +810,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-15.jpg",
         "papers/chemistry/img/05-Alkenes-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q24.jpg"
       ]
     },
     {
@@ -1561,6 +1615,9 @@
         "papers/chemistry/img/05-Alkenes-29.jpg",
         "papers/chemistry/img/05-Alkenes-30.jpg",
         "papers/chemistry/img/05-Alkenes-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q2.jpg"
       ]
     },
     {
@@ -1590,6 +1647,9 @@
         "papers/chemistry/img/05-Alkenes-29.jpg",
         "papers/chemistry/img/05-Alkenes-30.jpg",
         "papers/chemistry/img/05-Alkenes-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q2.jpg"
       ]
     },
     {
@@ -1745,6 +1805,9 @@
         "papers/chemistry/img/05-Alkenes-29.jpg",
         "papers/chemistry/img/05-Alkenes-30.jpg",
         "papers/chemistry/img/05-Alkenes-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q2.jpg"
       ]
     },
     {
@@ -1774,6 +1837,9 @@
         "papers/chemistry/img/05-Alkenes-29.jpg",
         "papers/chemistry/img/05-Alkenes-30.jpg",
         "papers/chemistry/img/05-Alkenes-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q2f.jpg"
       ]
     },
     {
@@ -2081,6 +2147,9 @@
         "papers/chemistry/img/05-Alkenes-34.jpg",
         "papers/chemistry/img/05-Alkenes-35.jpg",
         "papers/chemistry/img/05-Alkenes-36.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q4.jpg"
       ]
     },
     {
@@ -2276,6 +2345,9 @@
         "papers/chemistry/img/05-Alkenes-36.jpg",
         "papers/chemistry/img/05-Alkenes-37.jpg",
         "papers/chemistry/img/05-Alkenes-38.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q5a.jpg"
       ]
     },
     {
@@ -2360,6 +2432,9 @@
         "papers/chemistry/img/05-Alkenes-36.jpg",
         "papers/chemistry/img/05-Alkenes-37.jpg",
         "papers/chemistry/img/05-Alkenes-38.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q5b.jpg"
       ]
     },
     {
@@ -2764,6 +2839,9 @@
         "papers/chemistry/img/05-Alkenes-41.jpg",
         "papers/chemistry/img/05-Alkenes-42.jpg",
         "papers/chemistry/img/05-Alkenes-43.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q7d.jpg"
       ]
     },
     {
@@ -2820,6 +2898,9 @@
         "papers/chemistry/img/05-Alkenes-41.jpg",
         "papers/chemistry/img/05-Alkenes-42.jpg",
         "papers/chemistry/img/05-Alkenes-43.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q7e.jpg"
       ]
     },
     {
@@ -2878,6 +2959,9 @@
         "papers/chemistry/img/05-Alkenes-44.jpg",
         "papers/chemistry/img/05-Alkenes-45.jpg",
         "papers/chemistry/img/05-Alkenes-46.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q8.jpg"
       ]
     },
     {
@@ -3108,6 +3192,9 @@
         "papers/chemistry/img/05-Alkenes-44.jpg",
         "papers/chemistry/img/05-Alkenes-45.jpg",
         "papers/chemistry/img/05-Alkenes-46.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q8e.jpg"
       ]
     },
     {
@@ -3137,6 +3224,9 @@
         "papers/chemistry/img/05-Alkenes-44.jpg",
         "papers/chemistry/img/05-Alkenes-45.jpg",
         "papers/chemistry/img/05-Alkenes-46.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q8e.jpg"
       ]
     },
     {
@@ -3607,6 +3697,9 @@
         "papers/chemistry/img/05-Alkenes-50.jpg",
         "papers/chemistry/img/05-Alkenes-51.jpg",
         "papers/chemistry/img/05-Alkenes-52.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q10c.jpg"
       ]
     },
     {
@@ -3864,6 +3957,9 @@
         "papers/chemistry/img/05-Alkenes-54.jpg",
         "papers/chemistry/img/05-Alkenes-55.jpg",
         "papers/chemistry/img/05-Alkenes-56.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q12a.jpg"
       ]
     },
     {
@@ -3948,6 +4044,9 @@
         "papers/chemistry/img/05-Alkenes-54.jpg",
         "papers/chemistry/img/05-Alkenes-55.jpg",
         "papers/chemistry/img/05-Alkenes-56.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q12b.jpg"
       ]
     },
     {
@@ -4255,6 +4354,9 @@
         "papers/chemistry/img/05-Alkenes-57.jpg",
         "papers/chemistry/img/05-Alkenes-58.jpg",
         "papers/chemistry/img/05-Alkenes-59.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q13c.jpg"
       ]
     },
     {
@@ -4311,6 +4413,9 @@
         "papers/chemistry/img/05-Alkenes-59.jpg",
         "papers/chemistry/img/05-Alkenes-60.jpg",
         "papers/chemistry/img/05-Alkenes-61.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q14a.jpg"
       ]
     },
     {
@@ -4735,6 +4840,9 @@
         "papers/chemistry/img/05-Alkenes-63.jpg",
         "papers/chemistry/img/05-Alkenes-64.jpg",
         "papers/chemistry/img/05-Alkenes-65.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q15d.jpg"
       ]
     },
     {
@@ -4763,6 +4871,9 @@
         "papers/chemistry/img/05-Alkenes-63.jpg",
         "papers/chemistry/img/05-Alkenes-64.jpg",
         "papers/chemistry/img/05-Alkenes-65.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q15d.jpg"
       ]
     },
     {
@@ -5084,6 +5195,9 @@
         "papers/chemistry/img/05-Alkenes-68.jpg",
         "papers/chemistry/img/05-Alkenes-69.jpg",
         "papers/chemistry/img/05-Alkenes-70.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q17.jpg"
       ]
     },
     {
@@ -5317,6 +5431,9 @@
         "papers/chemistry/img/05-Alkenes-68.jpg",
         "papers/chemistry/img/05-Alkenes-69.jpg",
         "papers/chemistry/img/05-Alkenes-70.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q17e.jpg"
       ]
     },
     {
@@ -5684,6 +5801,9 @@
         "papers/chemistry/img/05-Alkenes-73.jpg",
         "papers/chemistry/img/05-Alkenes-74.jpg",
         "papers/chemistry/img/05-Alkenes-75.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q19b-2.jpg"
       ]
     },
     {
@@ -5713,6 +5833,9 @@
         "papers/chemistry/img/05-Alkenes-73.jpg",
         "papers/chemistry/img/05-Alkenes-74.jpg",
         "papers/chemistry/img/05-Alkenes-75.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q19c.jpg"
       ]
     },
     {
@@ -5741,6 +5864,10 @@
         "papers/chemistry/img/05-Alkenes-75.jpg",
         "papers/chemistry/img/05-Alkenes-76.jpg",
         "papers/chemistry/img/05-Alkenes-77.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q20a-2.jpg",
+        "papers/chemistry/fig/05-Alkenes-B-Q20a.jpg"
       ]
     },
     {
@@ -6381,6 +6508,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-86.jpg",
         "papers/chemistry/img/05-Alkenes-87.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q25a.jpg"
       ]
     },
     {
@@ -6408,6 +6538,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-86.jpg",
         "papers/chemistry/img/05-Alkenes-87.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q25a.jpg"
       ]
     },
     {
@@ -6435,6 +6568,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-86.jpg",
         "papers/chemistry/img/05-Alkenes-87.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q25a.jpg"
       ]
     },
     {
@@ -6462,6 +6598,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-86.jpg",
         "papers/chemistry/img/05-Alkenes-87.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q25a.jpg"
       ]
     },
     {

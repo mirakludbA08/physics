@@ -255,7 +255,7 @@
       "steps": [
         "The Sun is a main sequence star, so its cross must lie on the diagonal band of dots, not on a stray point.",
         "The Sun's luminosity is 1 L_sun, so the cross is at the height of the \"1\" on the vertical axis.",
-        "Where the band crosses that level (about 60% of the way along from the hot, upper-left end) is the position of a Sun-like star."
+        "Where the band crosses that level (about two thirds of the way along from the hot, upper-left end) is the position of a Sun-like star."
       ],
       "images": [
         "papers/physics/img/33-11B-Space-03.jpg",
@@ -2575,13 +2575,21 @@
         "astrophysics"
       ],
       "question": "Add the approximate positions of the Sun and Betelgeuse to the HR diagram of main sequence stars, marked with labelled crosses.",
-      "status": "pending",
-      "answer": "Pending: the HR diagram of main sequence stars is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Sun: cross labelled S at T about 5800 K (between 10 000 and 5000, nearer 5000) on L = 1 L_sun. Betelgeuse: cross labelled B at T about 3400 K (between 5000 and 2500) at L about 1 x 10^5 L_sun, near the top of the diagram.",
+      "steps": [
+        "Sun: L = 1 L_sun and T = 5800 K. On the logarithmic temperature scale, 5800 K lies between 10 000 K and 5000 K, close to the 5000 K mark, so the cross is on the main sequence level with \"1\".",
+        "Betelgeuse temperature: T = 2.898 x 10^-3 / 850 x 10^-9 = 3400 K, between the 5000 and 2500 marks (a little over half way from 5000 to 2500).",
+        "Betelgeuse luminosity: L / L_sun = 4.49 x 10^31 / 3.83 x 10^26 = 1.2 x 10^5, so just above 10^5 on the vertical axis (halfway between the 10^4 and 10^6 marks, near the top).",
+        "Betelgeuse is a red supergiant, so its cross is at the top right, far above the main-sequence stars plotted."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-40.jpg",
         "papers/physics/img/33-11B-Space-41.jpg",
         "papers/physics/img/33-11B-Space-42.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q46.jpg"
       ]
     },
     {
@@ -2656,12 +2664,19 @@
         "astrophysics"
       ],
       "question": "Add a scale to the horizontal axis of the Hertzsprung-Russell diagram for the star cluster.",
-      "status": "pending",
-      "answer": "Pending: the HR diagram for the star cluster is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Temperature (K) scale decreasing from left to right and logarithmic, e.g. 40 000, 20 000, 10 000, 5000, 2500 at equal spacing.",
+      "steps": [
+        "Hot stars are at the left of an HR diagram, so the scale must decrease from left to right.",
+        "The scale is logarithmic: equally spaced ticks with values that halve each time, e.g. 40 000, 20 000, 10 000, 5000 and 2500 K.",
+        "The hottest main sequence stars here are at about 40 000 K (left end) and the coolest at about 2500 K (right end)."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-42.jpg",
         "papers/physics/img/33-11B-Space-43.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q47.jpg"
       ]
     },
     {
@@ -2678,12 +2693,19 @@
         "main sequence turn-off"
       ],
       "question": "Explain how this HR diagram shows that the star cluster is not a young star cluster, referring to groups of stars and their positions.",
-      "status": "pending",
-      "answer": "Pending: the HR diagram for the star cluster is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The diagram contains red giants (cool, very luminous) and white dwarfs (hot, dim), which only exist after stars have left the main sequence, so the cluster must be old.",
+      "steps": [
+        "There is a group of stars at the upper right (cool but very luminous): red giants/supergiants, which are stars that have used up the hydrogen in their cores.",
+        "There is a group of stars at the bottom left (hot but very dim): white dwarfs, the end point of stars like the Sun.",
+        "These stars take billions of years to form, and in a young cluster nearly all stars would still lie on the main sequence, so the cluster is not young."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-42.jpg",
         "papers/physics/img/33-11B-Space-43.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q47.jpg"
       ]
     },
     {
@@ -2836,12 +2858,19 @@
         "temperature"
       ],
       "question": "Show that the surface temperature of Ross-154 is about 3000 K from its graph of power against wavelength.",
-      "status": "pending",
-      "answer": "Pending: the power-wavelength graph for Ross-154 is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "T = 3.4 x 10^3 K, which is about 3000 K to 1 significant figure.",
+      "steps": [
+        "Read the peak of the curve: lambda_max = 850 nm = 8.5 x 10^-7 m.",
+        "Wien's law: lambda_max T = 2.898 x 10^-3 m K.",
+        "T = 2.898 x 10^-3 / 8.5 x 10^-7 = 3.4 x 10^3 K, about 3000 K (to 1 s.f.)."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-45.jpg",
         "papers/physics/img/33-11B-Space-46.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q52.jpg"
       ]
     },
     {
@@ -2942,12 +2971,19 @@
         "validity"
       ],
       "question": "Assess the validity of Hubble's expression v = H0 d based on the data shown in his graph.",
-      "status": "pending",
-      "answer": "Pending: Hubble's velocity-distance data graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Broadly valid but only roughly: the data show a clear trend of v increasing with d, consistent with a straight line through the origin, but with a large scatter.",
+      "steps": [
+        "v = H0 d predicts a straight line through the origin; the plotted best-fit line passes through (0, 0) and most points lie close to it, with v increasing as d increases.",
+        "However, several points are far from the line (about a factor of 2 above or below, at both small and large d), so the scatter is large and the proportionality is not tightly confirmed.",
+        "The data cover only a small range of distances and a few points, so the relationship is plausible but not proved; more data at greater distance would be needed."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-46.jpg",
         "papers/physics/img/33-11B-Space-47.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q53.jpg"
       ]
     },
     {
@@ -2991,12 +3027,20 @@
         "evolution"
       ],
       "question": "The HR diagram shows four areas P, Q, R and S. Which is a possible evolutionary path for stars initially in area P?",
-      "status": "pending",
-      "answer": "Pending: the HR diagram with areas P, Q, R and S, and the options, are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: P -> S -> Q",
+      "steps": [
+        "P is the hot, luminous end of the main sequence. When its core hydrogen is used up the star expands and cools into a red giant (supergiant), which is area S (cool, luminous).",
+        "After fusion ends, the outer layers are lost and the core is left as a white dwarf, which is hot but dim: area Q.",
+        "A is wrong (a white dwarf does not become a giant). C and D are wrong because R is a lower, cooler part of the main sequence, and a star does not move down the main sequence or return to it from the giant stage."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-48.jpg",
         "papers/physics/img/33-11B-Space-49.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q55.jpg",
+        "papers/physics/fig/33-11B-Space-Q55-2.jpg"
       ]
     },
     {
@@ -3013,12 +3057,20 @@
         "main sequence"
       ],
       "question": "Which of the HR diagrams W, X, Y or Z represents the cluster in its final stage of evolution?",
-      "status": "pending",
-      "answer": "Pending: the HR diagrams W, X, Y and Z and the answer options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Y, as there are white dwarf stars but no red giants in the cluster.",
+      "steps": [
+        "As a cluster ages, the most massive, luminous main sequence stars leave first, so the main sequence loses its upper part, then the stars become red giants, then white dwarfs.",
+        "In the final stage even the red giants have gone: only white dwarfs (hot, dim, bottom left) and the few cool, low-mass main sequence stars remain. That is diagram Y.",
+        "Z is a young cluster (full main sequence). X has a few red giants but no white dwarfs yet. W has both red giants and white dwarfs, so it is not yet at the final stage."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-48.jpg",
         "papers/physics/img/33-11B-Space-49.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q56.jpg",
+        "papers/physics/fig/33-11B-Space-Q56-2.jpg"
       ]
     },
     {
@@ -3226,12 +3278,19 @@
         "groups of stars"
       ],
       "question": "Describe a possible evolutionary path for stars originally in area P of the HR diagram, referring to the type of star at each stage.",
-      "status": "pending",
-      "answer": "Pending: the HR diagram with areas P, Q, R and S is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "P (main sequence star) -> S (red giant/supergiant) -> Q (white dwarf).",
+      "steps": [
+        "In P the star is a hot, luminous main sequence star, fusing hydrogen into helium in its core.",
+        "When the core hydrogen is used up, the star expands and cools to become a red giant (or supergiant) in area S: cool but very luminous.",
+        "Fusion then ends, the outer layers are ejected and the core remains as a white dwarf in area Q: hot but dim."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-52.jpg",
         "papers/physics/img/33-11B-Space-53.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q61.jpg"
       ]
     },
     {
@@ -3277,13 +3336,21 @@
         "mass energy equivalence"
       ],
       "question": "Show that when 4 protons form a helium nucleus the energy released is about 4.3 x 10^-12 J.",
-      "status": "pending",
-      "answer": "Pending: needs the atomic masses of hydrogen and helium-4, which are not given in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "E = 4.3 x 10^-12 J",
+      "steps": [
+        "Mass of 4 protons = 4 x 1.0078 u = 4.0312 u.",
+        "Mass lost = 4.0312 u - 4.0026 u = 0.0286 u = 0.0286 x 1.66 x 10^-27 kg = 4.75 x 10^-29 kg.",
+        "Energy released E = mc^2 = 4.75 x 10^-29 x (3.00 x 10^8)^2 = 4.27 x 10^-12 J.",
+        "This is about 4.3 x 10^-12 J."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-53.jpg",
         "papers/physics/img/33-11B-Space-54.jpg",
         "papers/physics/img/33-11B-Space-55.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q63.jpg"
       ]
     },
     {
@@ -3301,13 +3368,22 @@
         "fusion energy"
       ],
       "question": "Assess the claim that it would take 9 x 10^9 years for 10% of the hydrogen in the Sun to be fused into helium, considering the rate of helium production (mass of hydrogen 1.39 x 10^30 kg, L_sun = 3.83 x 10^26 W).",
-      "status": "pending",
-      "answer": "Pending: needs the proton or hydrogen mass to convert energy per reaction into mass fused, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Not accurate: the Sun would take about 7.4 x 10^9 years to fuse 10% of its hydrogen, so 9 x 10^9 years is about 20% too long.",
+      "steps": [
+        "Number of fusion reactions per second = L / E = 3.83 x 10^26 / 4.27 x 10^-12 = 9.0 x 10^37 s^-1.",
+        "Each reaction uses 4 protons: 4 x 1.0078 u = 6.69 x 10^-27 kg, so hydrogen fused per second = 9.0 x 10^37 x 6.69 x 10^-27 = 6.0 x 10^11 kg s^-1.",
+        "Mass to be fused = 10% of 1.39 x 10^30 kg = 1.39 x 10^29 kg.",
+        "Time = 1.39 x 10^29 / 6.0 x 10^11 = 2.3 x 10^17 s = 2.3 x 10^17 / 3.15 x 10^7 = 7.4 x 10^9 years.",
+        "The claim of 9 x 10^9 years is about 22% longer than the calculated 7.4 x 10^9 years, so it is roughly the right order but not accurate."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-53.jpg",
         "papers/physics/img/33-11B-Space-54.jpg",
         "papers/physics/img/33-11B-Space-55.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q63.jpg"
       ]
     },
     {
@@ -3407,12 +3483,20 @@
         "wien displacement law"
       ],
       "question": "The graphs show radiation intensity against wavelength for star X and star Y. Which statement about their surface temperatures is correct?",
-      "status": "pending",
-      "answer": "Pending: the intensity-wavelength graphs for X and Y are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: T_X > T_Y because the peak intensity for star X is at the higher frequency.",
+      "steps": [
+        "On the graph star X peaks at a shorter wavelength than star Y, which means a higher frequency (f = c / lambda).",
+        "By Wien's law (lambda_max is proportional to 1/T) the star with the shorter peak wavelength has the higher surface temperature, so T_X > T_Y.",
+        "A and B conclude T_Y > T_X, which is wrong. C has the right conclusion but the wrong reason: the peak of X is at the higher frequency, not the lower."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-56.jpg",
         "papers/physics/img/33-11B-Space-57.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q66.jpg",
+        "papers/physics/fig/33-11B-Space-Q66-2.jpg"
       ]
     },
     {
@@ -3429,12 +3513,19 @@
         "table"
       ],
       "question": "Which row of the table gives the changes in density and surface temperature as a red giant evolves into a white dwarf?",
-      "status": "pending",
-      "answer": "Pending: the answer table is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: density increases and surface temperature increases.",
+      "steps": [
+        "A red giant is a huge, low-density star with a cool surface (about 3000 - 4000 K).",
+        "A white dwarf is the core left behind after the outer layers are lost: about Earth-sized but with a mass similar to the Sun, so its density is enormously greater.",
+        "A white dwarf is also very hot (above about 10 000 K) and so appears white/blue-white, so the surface temperature increases."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-56.jpg",
         "papers/physics/img/33-11B-Space-57.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q67.jpg"
       ]
     },
     {
@@ -3451,12 +3542,18 @@
         "stars p and q"
       ],
       "question": "The graph shows intensity against wavelength for stars P and Q. Which could be deduced? A: luminosity P > Q, B: mass P > Q, C: radius P > Q, D: temperature P > Q.",
-      "status": "pending",
-      "answer": "Pending: the intensity-wavelength graph for P and Q is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Temperature of P > Temperature of Q",
+      "steps": [
+        "The peak of P is at a shorter wavelength than the peak of Q, so by Wien's law P has the higher surface temperature.",
+        "The luminosity, mass and radius cannot be deduced: the graph gives the intensity received, which also depends on the distance of each star, and no distances or sizes are given."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-57.jpg",
         "papers/physics/img/33-11B-Space-58.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q68.jpg"
       ]
     },
     {
@@ -3473,12 +3570,19 @@
         "derivation"
       ],
       "question": "Kepler's law relates the orbital time T of a planet to its average distance r from the Sun. Show that the expression given holds, where M is the solar mass.",
-      "status": "pending",
-      "answer": "Pending: the expression to be shown is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "T^2 = 4 pi^2 r^3 / (G M), obtained by equating gravitational force and centripetal force.",
+      "steps": [
+        "For a circular orbit the gravitational force provides the centripetal force: G M m / r^2 = m r omega^2.",
+        "The angular speed is omega = 2 pi / T, so G M m / r^2 = m r (2 pi / T)^2 = 4 pi^2 m r / T^2.",
+        "Cancel m and rearrange: T^2 = 4 pi^2 r^3 / (G M), where M is the mass of the Sun."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-57.jpg",
         "papers/physics/img/33-11B-Space-58.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q69.jpg"
       ]
     },
     {
@@ -3523,9 +3627,14 @@
         "galaxy"
       ],
       "question": "The observed orbital period of the star is 6.0 x 10^7 s, which does not agree with the calculated value. Deduce what this tells us about our galaxy.",
-      "status": "pending",
-      "answer": "Pending: the observed period as printed (6.0 x 10^7 s) looks inconsistent with the predicted 8 x 10^15 s; confirm the value in the original paper.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The observed period is much shorter than predicted, so the galaxy contains much more mass than the visible (luminous) matter suggests: there must be dark matter.",
+      "steps": [
+        "From T^2 = 4 pi^2 r^3 / (G M), at a fixed radius T is proportional to 1 / sqrt(M).",
+        "The observed period is shorter than the predicted 8 x 10^15 s, so the mass inside the star's orbit is larger than the 8.0 x 10^11 solar masses estimated from the luminosity: M = 4 pi^2 r^3 / (G T^2).",
+        "Note: the printed period 6.0 x 10^7 s would give an absurd M of about 3 x 10^58 kg; if it is a misprint for 6.0 x 10^15 s, M = 3.0 x 10^42 kg (about 1.5 x 10^12 solar masses), roughly twice the luminous estimate.",
+        "The extra mass does not emit light, so our galaxy must contain a large amount of dark matter, probably spread in a halo around it."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-57.jpg",
         "papers/physics/img/33-11B-Space-58.jpg"
@@ -3601,11 +3710,18 @@
         "astrophysics"
       ],
       "question": "Epsilon Indi is a main sequence star. Which row of the table gives a possible surface temperature and luminosity?",
-      "status": "pending",
-      "answer": "Pending: the answer table is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 4700 K and 0.14 L_sun",
+      "steps": [
+        "Main sequence stars lie on the diagonal band of the HR diagram: lower temperature goes with lower luminosity.",
+        "B (4700 K, 0.14 L_sun) is a cooler, dimmer star than the Sun, which fits the lower right of the main sequence.",
+        "A (cool but 140 L_sun) and C (1400 L_sun) are far too luminous for their temperatures: giants. D (10 000 K but 0.014 L_sun) is hot but dim: a white dwarf."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-59.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q71.jpg"
       ]
     },
     {
@@ -3633,6 +3749,9 @@
       "images": [
         "papers/physics/img/33-11B-Space-60.jpg",
         "papers/physics/img/33-11B-Space-61.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q72.jpg"
       ]
     },
     {
@@ -3650,12 +3769,19 @@
         "arcturus"
       ],
       "question": "Determine the speed of Arcturus relative to the Sun from the spectra shown.",
-      "status": "pending",
-      "answer": "Pending: the wavelength shifts are read from the spectra diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "v = 5 x 10^4 m s^-1 (about 54 km s^-1), moving away from the Sun",
+      "steps": [
+        "Read the deep absorption line positions (small grid squares are 0.05 nm): Sun 883.83 nm, Arcturus 883.99 nm.",
+        "Shift = 883.99 - 883.83 = 0.16 nm towards longer wavelength: a redshift, so Arcturus is receding from the Sun.",
+        "v = c x (change in wavelength) / lambda = 3.00 x 10^8 x 0.16 / 883.8 = 5.4 x 10^4 m s^-1."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-60.jpg",
         "papers/physics/img/33-11B-Space-61.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q72.jpg"
       ]
     },
     {
@@ -3755,12 +3881,19 @@
         "fate"
       ],
       "question": "Which row of the table correctly links a condition with the ultimate fate of the universe?",
-      "status": "pending",
-      "answer": "Pending: the answer table is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: density of the universe greater than the critical density, so the universe eventually contracts.",
+      "steps": [
+        "The fate of the universe depends on its average density compared with the critical density.",
+        "If the density is greater than the critical density, gravity is strong enough to halt the expansion, so the universe eventually contracts (a closed universe).",
+        "A is wrong: at the critical density the universe expands forever (at an ever-decreasing rate), it does not contract. C and D are wrong: the comparison is made with density, not mass, and a mass greater than the critical value would lead to contraction, not endless expansion."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-62.jpg",
         "papers/physics/img/33-11B-Space-63.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q74.jpg"
       ]
     },
     {
@@ -3806,13 +3939,20 @@
         "hr diagram"
       ],
       "question": "Label the position of the Sun on the incomplete HR diagram with a cross and an S.",
-      "status": "pending",
-      "answer": "Pending: the HR diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A cross labelled S on the L = 1 line (level with \"1\"), at T about 5800 K: between the 10 000 and 5000 marks, close to 5000.",
+      "steps": [
+        "The Sun has L = 1 L_sun, so the cross is level with the \"1\" on the vertical axis.",
+        "Its surface temperature is about 5800 - 6000 K, which on this scale is between 10 000 K and 5000 K, slightly nearer 5000 K (roughly three-quarters of the way along from 10 000 towards 5000).",
+        "Label the cross with the letter S."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-63.jpg",
         "papers/physics/img/33-11B-Space-64.jpg",
         "papers/physics/img/33-11B-Space-65.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q75.jpg"
       ]
     },
     {
@@ -3829,13 +3969,21 @@
         "labels a b c"
       ],
       "question": "Add to the HR diagram to indicate the areas where main sequence stars (A), red giant stars (B) and white dwarf stars (C) are located.",
-      "status": "pending",
-      "answer": "Pending: the HR diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: a diagonal band from top left to bottom right through the Sun. B: upper right (cool, luminous). C: lower left (hot, dim).",
+      "steps": [
+        "A (main sequence): a diagonal band running from the top left (about 30 000 K, L about 10^5) down to the bottom right (about 3000 K, L about 10^-3), passing through the Sun at (about 5800 K, 1).",
+        "B (red giants): an area in the upper right, cooler than about 5000 K and much more luminous than the Sun (L about 10^2 - 10^4), above the main sequence.",
+        "C (white dwarfs): an area in the lower left, hot (about 10 000 - 30 000 K) but very dim (L about 10^-2 - 10^-4), below the main sequence.",
+        "Each area must be clearly separate and labelled with its letter."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-63.jpg",
         "papers/physics/img/33-11B-Space-64.jpg",
         "papers/physics/img/33-11B-Space-65.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q75.jpg"
       ]
     },
     {
@@ -4081,13 +4229,22 @@
         "cepheid"
       ],
       "question": "Show that the mean luminosity of this Cepheid variable star is about 8 x 10^29 W from its graph of luminosity against time.",
-      "status": "pending",
-      "answer": "Pending: the luminosity-time graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Mean luminosity = 2000 L_sun = 7.7 x 10^29 W, about 8 x 10^29 W.",
+      "steps": [
+        "On the luminosity-time graph the peaks are at about 3.5, 8.5, 13.5 and 18.5 days, so the period of the Cepheid is 5.0 days.",
+        "On the period-mean luminosity graph (logarithmic axes) read the line at a period of 5.0 days: the mean luminosity is 2000 L_sun.",
+        "Mean luminosity = 2000 x 3.83 x 10^26 W = 7.7 x 10^29 W.",
+        "This is about 8 x 10^29 W."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-68.jpg",
         "papers/physics/img/33-11B-Space-69.jpg",
         "papers/physics/img/33-11B-Space-70.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q78.jpg",
+        "papers/physics/fig/33-11B-Space-Q78-2.jpg"
       ]
     },
     {
@@ -4132,12 +4289,18 @@
         "table"
       ],
       "question": "Which row of the table gives the change in diameter and the change in surface temperature when a main sequence star evolves into a red giant?",
-      "status": "pending",
-      "answer": "Pending: the answer table is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: the diameter increases and the surface temperature decreases.",
+      "steps": [
+        "When the core hydrogen runs out, the outer layers of the star expand enormously, so the diameter increases.",
+        "The expanded surface is much cooler (red), so the surface temperature decreases while the luminosity goes up."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-70.jpg",
         "papers/physics/img/33-11B-Space-71.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q79.jpg"
       ]
     },
     {
@@ -4545,12 +4708,19 @@
         "stars x and y"
       ],
       "question": "Stars X and Y have the same luminosity. The graph shows the intensity received at Earth from each against wavelength. Which statement can be deduced?",
-      "status": "pending",
-      "answer": "Pending: the intensity-wavelength graph and answer options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: Star X has a higher surface temperature and is closer than star Y.",
+      "steps": [
+        "The peak of X is at a shorter wavelength than the peak of Y, so by Wien's law X has the higher surface temperature.",
+        "The two stars have the same luminosity, and the intensity received is I = L / (4 pi d^2). X gives the larger intensity at Earth, so X must be closer."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-75.jpg",
         "papers/physics/img/33-11B-Space-76.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q86.jpg",
+        "papers/physics/fig/33-11B-Space-Q86-2.jpg"
       ]
     },
     {
@@ -4567,12 +4737,18 @@
         "74 km s-1 mpc-1"
       ],
       "question": "Which of the following gives the age of the universe in seconds, using H0 = 74 km s^-1 Mpc^-1 and 1 Mpc = 3.1 x 10^22 m?",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: (3.1 x 10^22) / (74 x 10^3) = 4.2 x 10^17 s",
+      "steps": [
+        "Convert to SI: H0 = 74 km s^-1 Mpc^-1 = 74 x 10^3 m s^-1 / 3.1 x 10^22 m = 74 x 10^3 / 3.1 x 10^22 s^-1.",
+        "The age of the universe is 1 / H0 = 3.1 x 10^22 / (74 x 10^3) s = 4.2 x 10^17 s (about 1.3 x 10^10 years)."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-76.jpg",
         "papers/physics/img/33-11B-Space-77.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q87.jpg"
       ]
     },
     {
@@ -4589,12 +4765,19 @@
         "a-level physics"
       ],
       "question": "Label the position of the Sun on the HR diagram with the letter S.",
-      "status": "pending",
-      "answer": "Pending: the HR diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A cross labelled S on the main sequence at L = 1 L_sun (level with \"1\"), at about 5800 K: just to the right of the 6000 K mark.",
+      "steps": [
+        "The Sun has L = 1 L_sun, so the cross is level with the \"1\" on the luminosity axis.",
+        "Its surface temperature is about 5800 K, which on this logarithmic scale is just to the right (cooler) of the 6000 K mark.",
+        "This position lies on the diagonal band of main sequence stars; label the cross with S."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-77.jpg",
         "papers/physics/img/33-11B-Space-78.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q88.jpg"
       ]
     },
     {
@@ -4612,12 +4795,19 @@
         "evolution"
       ],
       "question": "Draw on the diagram a possible path of the Sun as it evolves to a white dwarf star.",
-      "status": "pending",
-      "answer": "Pending: the HR diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Path starting at S, going up and to the right to the red giant region (about 4000 K, L about 10^2 - 10^3 L_sun), then to the left and down to the white dwarf region at the bottom left (about 10 000 K, L about 10^-2 - 10^-3 L_sun).",
+      "steps": [
+        "Start the line at the cross S on the main sequence.",
+        "Draw it up and to the right: the Sun becomes a red giant, more luminous (10^2 - 10^3 L_sun) and cooler (about 3500 - 5000 K), ending in the group of giants at the upper right.",
+        "Then draw it moving to the left (hotter) and then steeply down to the group of dim, hot stars at the lower left (white dwarf region, about 10 000 K and 10^-2 - 10^-3 L_sun), with an arrow showing the direction."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-77.jpg",
         "papers/physics/img/33-11B-Space-78.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q88.jpg"
       ]
     },
     {

@@ -33,6 +33,9 @@
         "papers/maths/img/M1-04-F-ma-Slope-1.jpg",
         "papers/maths/img/M1-04-F-ma-Slope-2.jpg",
         "papers/maths/img/M1-04-F-ma-Slope-3.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/04-F-ma-Slope-Q1.jpg"
       ]
     },
     {
@@ -64,6 +67,9 @@
         "papers/maths/img/M1-04-F-ma-Slope-1.jpg",
         "papers/maths/img/M1-04-F-ma-Slope-2.jpg",
         "papers/maths/img/M1-04-F-ma-Slope-3.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/04-F-ma-Slope-Q1.jpg"
       ]
     },
     {
@@ -94,6 +100,9 @@
         "papers/maths/img/M1-04-F-ma-Slope-1.jpg",
         "papers/maths/img/M1-04-F-ma-Slope-2.jpg",
         "papers/maths/img/M1-04-F-ma-Slope-3.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/04-F-ma-Slope-Q2.jpg"
       ]
     },
     {
@@ -123,6 +132,9 @@
         "papers/maths/img/M1-04-F-ma-Slope-1.jpg",
         "papers/maths/img/M1-04-F-ma-Slope-2.jpg",
         "papers/maths/img/M1-04-F-ma-Slope-3.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/04-F-ma-Slope-Q2.jpg"
       ]
     },
     {
@@ -153,6 +165,9 @@
         "papers/maths/img/M1-04-F-ma-Slope-1.jpg",
         "papers/maths/img/M1-04-F-ma-Slope-2.jpg",
         "papers/maths/img/M1-04-F-ma-Slope-3.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/04-F-ma-Slope-Q2.jpg"
       ]
     },
     {
@@ -182,6 +197,9 @@
       "images": [
         "papers/maths/img/M1-04-F-ma-Slope-3.jpg",
         "papers/maths/img/M1-04-F-ma-Slope-4.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/04-F-ma-Slope-Q3.jpg"
       ]
     },
     {
@@ -210,6 +228,9 @@
       "images": [
         "papers/maths/img/M1-04-F-ma-Slope-3.jpg",
         "papers/maths/img/M1-04-F-ma-Slope-4.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/04-F-ma-Slope-Q3.jpg"
       ]
     },
     {
@@ -239,6 +260,9 @@
       "images": [
         "papers/maths/img/M1-04-F-ma-Slope-3.jpg",
         "papers/maths/img/M1-04-F-ma-Slope-4.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/04-F-ma-Slope-Q3.jpg"
       ]
     },
     {
@@ -355,6 +379,9 @@
       "images": [
         "papers/maths/img/M1-04-F-ma-Slope-4.jpg",
         "papers/maths/img/M1-04-F-ma-Slope-5.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/04-F-ma-Slope-Q5.jpg"
       ]
     },
     {
@@ -385,6 +412,9 @@
       "images": [
         "papers/maths/img/M1-04-F-ma-Slope-4.jpg",
         "papers/maths/img/M1-04-F-ma-Slope-5.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/04-F-ma-Slope-Q5.jpg"
       ]
     },
     {
@@ -415,6 +445,9 @@
       "images": [
         "papers/maths/img/M1-04-F-ma-Slope-5.jpg",
         "papers/maths/img/M1-04-F-ma-Slope-6.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/04-F-ma-Slope-Q6.jpg"
       ]
     }
   ]

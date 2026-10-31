@@ -272,6 +272,9 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-04.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-05.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q5.jpg"
       ]
     },
     {
@@ -332,6 +335,9 @@
         "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q7-2.jpg"
       ]
     },
     {
@@ -865,6 +871,9 @@
         "papers/physics/img/30-9-Nuclear-Decay-13.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-14.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-15.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q14-2.jpg"
       ]
     },
     {
@@ -1196,11 +1205,18 @@
         "alpha decay"
       ],
       "question": "A polonium-210 nucleus decays to lead-206 by emitting an alpha particle. Using the masses in the table, show that the energy released is about 9e-13 J.",
-      "status": "pending",
-      "answer": "Pending: the table of particle masses is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Energy released = 8.7 x 10^-13 J, which is about 9 x 10^-13 J.",
+      "steps": [
+        "Mass after = lead + alpha = 3.41918e-25 + 0.0664437e-25 = 3.4856237e-25 kg.",
+        "Mass decrease = 3.48572e-25 - 3.4856237e-25 = 9.63 x 10^-30 kg.",
+        "Energy released = mc^2 = 9.63e-30 x (3.00e8)^2 = 8.7e-13 J, which is about 9e-13 J."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-20.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q20.jpg"
       ]
     },
     {
@@ -1219,11 +1235,19 @@
         "polonium"
       ],
       "question": "98% of the decay energy is released as kinetic energy of the alpha particle. Calculate the velocity of the alpha particle immediately after the decay.",
-      "status": "pending",
-      "answer": "Pending: the mass of the alpha particle (given in the missing table) is needed for the velocity calculation.",
-      "steps": [],
+      "status": "ready",
+      "answer": "v = 1.6 x 10^7 m s^-1.",
+      "steps": [
+        "Kinetic energy of the alpha particle = 0.98 x 8.67e-13 = 8.5e-13 J.",
+        "Use KE = 1/2 m v^2 with m = 6.64437e-27 kg (from the table).",
+        "v = sqrt(2 x 8.5e-13 / 6.64437e-27) = sqrt(2.56e14) = 1.6e7 m s^-1.",
+        "This is about 5% of the speed of light, so using the non-relativistic formula is acceptable."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-20.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q20.jpg"
       ]
     },
     {
@@ -1281,6 +1305,9 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-21.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-22.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q21.jpg"
       ]
     },
     {
@@ -1396,6 +1423,9 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-22.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-23.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q22.jpg"
       ]
     },
     {
@@ -1471,12 +1501,22 @@
         "estimate"
       ],
       "question": "Strontium-90 beta particles ionise about 250 nitrogen molecules per cm of air. 15.6 eV is needed to ionise a nitrogen molecule. Assess whether this estimate is consistent with the range of the most energetic beta particles (range-energy graph missing).",
-      "status": "pending",
-      "answer": "Pending: the beta energy distribution and range-energy graph are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Yes, it is consistent: ionising over the range of about 1.3 m takes about 0.51 MeV, close to the maximum beta energy of about 0.53 MeV.",
+      "steps": [
+        "The energy spectrum ends at about 0.53 MeV, so the most energetic beta particles have about 0.53 MeV.",
+        "On the range graph, 0.53 MeV in air corresponds to a range of about 1.3 m = 130 cm.",
+        "Energy used per cm = 250 x 15.6 eV = 3.9 x 10^3 eV.",
+        "Energy used over 130 cm = 3.9e3 x 130 = 5.1e5 eV = 0.51 MeV.",
+        "This is within about 5% of 0.53 MeV, so the estimate of 250 ionisations per cm is consistent with the range (the particle stops when all its energy has gone into ionisation)."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-23.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q23.jpg",
+        "papers/physics/fig/30-9-Nuclear-Decay-Q23-2.jpg"
       ]
     },
     {
@@ -1593,6 +1633,9 @@
         "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q26.jpg"
       ]
     },
     {
@@ -1703,12 +1746,19 @@
         "options"
       ],
       "question": "Which row of the table gives the conditions required in the core of a star for fusion to be sustained?",
-      "status": "pending",
-      "answer": "Pending: the table of condition options is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: very high density and very high temperature.",
+      "steps": [
+        "Nuclei repel each other electrostatically, so they need very high kinetic energy to get close enough to fuse: a very high temperature (about 10^7 K).",
+        "A very high density is needed so that the nuclei collide often enough for the fusion rate to give enough energy to sustain the reaction.",
+        "Both conditions must be very high, so the row is D."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-27.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-28.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q27.jpg"
       ]
     },
     {
@@ -1727,12 +1777,20 @@
         "decay curve"
       ],
       "question": "Bismuth decays to form a stable isotope of thallium. Which graph shows how the number N of thallium atoms in a sample varies with time t? (Graphs A to D are missing from the text.)",
-      "status": "pending",
-      "answer": "Pending: graphs A to D are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D.",
+      "steps": [
+        "The thallium is the stable decay product, so there are no thallium atoms at t = 0 and N starts from zero.",
+        "N increases as bismuth decays, but the rate of increase falls as the number of bismuth atoms left falls, so the curve flattens (N = N0(1 - e^(-lambda t))).",
+        "It levels off at the original number of bismuth atoms, since stable thallium does not decay. This is graph D.",
+        "A and B show a falling number and C shows an ever-steeper rise, neither of which fits."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-27.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-28.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q28.jpg"
       ]
     },
     {
@@ -1841,13 +1899,20 @@
         "identify"
       ],
       "question": "Alpha particles bombard aluminium to produce a radioactive isotope of phosphorus. Identify particle X in the nuclear equation.",
-      "status": "pending",
-      "answer": "Pending: the nuclear equation with particle X is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "X is a neutron, 1 0 n.",
+      "steps": [
+        "Nucleon number: 27 + 4 = 31 = 30 + A(X), so A = 1.",
+        "Proton number: 13 + 2 = 15 = 15 + Z(X), so Z = 0.",
+        "A particle with nucleon number 1 and no charge is a neutron."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-29.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-30.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-31.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q32.jpg"
       ]
     },
     {
@@ -1866,13 +1931,21 @@
         "nuclear masses"
       ],
       "question": "Calculate the energy released, in joules, in the nuclear reaction in part (a)(i).",
-      "status": "pending",
-      "answer": "Pending: the nuclear masses of the reactants and products are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Energy released = 8.0 x 10^-14 J (0.50 MeV).",
+      "steps": [
+        "Mass before = Al + alpha = 25.1333 + 3.7274 = 28.8607 GeV/c^2.",
+        "Mass after = P + X = 27.9206 + 0.9396 = 28.8602 GeV/c^2.",
+        "Mass decrease = 0.0005 GeV/c^2, so energy released = 0.0005 GeV = 5 x 10^5 eV.",
+        "In joules: 5e5 x 1.60e-19 = 8.0e-14 J."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-29.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-30.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-31.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q32-2.jpg"
       ]
     },
     {
@@ -1961,6 +2034,9 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-31.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-32.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q34.jpg"
       ]
     },
     {
@@ -2019,6 +2095,9 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-32.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-33.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q35.jpg"
       ]
     },
     {
@@ -2038,7 +2117,7 @@
       ],
       "question": "Calculate the speed of the beta particle emitted in the rhenium-187 decay.",
       "status": "pending",
-      "answer": "Pending: the energy of the beta particle (or the decay energy data) needed for the speed calculation is not in the extracted text.",
+      "answer": "Pending: the page gives no kinetic energy, decay energy or other data for the beta particle (the part (b) label and its data are missing from the paper), so its speed cannot be calculated.",
       "steps": [],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-32.jpg",
@@ -2061,12 +2140,22 @@
         "Rutherford"
       ],
       "question": "Alpha particles are fired at nitrogen atoms. Calculate the minimum energy, in MeV, required for the reaction to take place.",
-      "status": "pending",
-      "answer": "Pending: the nuclear masses needed for this calculation are not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Minimum energy = 1.2 MeV (1.16 MeV).",
+      "steps": [
+        "Mass before (He + N) = (6.64432 + 23.2451) x 10^-27 = 29.88942e-27 kg.",
+        "Mass after (O + H) = (28.2185 + 1.67299) x 10^-27 = 29.89149e-27 kg.",
+        "The products are heavier by 0.00207e-27 = 2.07e-30 kg, so energy must be supplied.",
+        "Energy = mc^2 = 2.07e-30 x (3.00e8)^2 = 1.86e-13 J.",
+        "In MeV: 1.86e-13 / 1.60e-13 = 1.16 MeV, about 1.2 MeV."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-32.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-33.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q36.jpg",
+        "papers/physics/fig/30-9-Nuclear-Decay-Q36-2.jpg"
       ]
     },
     {
@@ -2231,12 +2320,19 @@
         "row"
       ],
       "question": "Fusion reactions are the primary energy source of stars. Which row of the table gives the conditions necessary for fusion in stars?",
-      "status": "pending",
-      "answer": "Pending: the table of conditions is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: high density and high temperature.",
+      "steps": [
+        "A very high temperature gives the nuclei enough kinetic energy to overcome their electrostatic repulsion and get close enough to fuse.",
+        "A high density means the nuclei are close together and collide often, giving a high enough fusion rate.",
+        "Both must be high, so the row is A."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-35.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-36.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q38.jpg"
       ]
     },
     {
@@ -2255,12 +2351,20 @@
         "alpha"
       ],
       "question": "A thorium-230 nucleus decays to radium-226 by emitting an alpha particle. Using the table of particle masses, determine the energy released in J.",
-      "status": "pending",
-      "answer": "Pending: the table of masses for thorium-230, radium-226 and the alpha particle is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Energy released = 7.6 x 10^-13 J.",
+      "steps": [
+        "Mass before = 230.0331 u. Mass after = 226.0254 + 4.0026 = 230.0280 u.",
+        "Mass decrease = 230.0331 - 230.0280 = 0.0051 u.",
+        "In kg: 0.0051 x 1.66e-27 = 8.47e-30 kg.",
+        "Energy = mc^2 = 8.47e-30 x (3.00e8)^2 = 7.6e-13 J."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-35.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-36.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q39.jpg"
       ]
     },
     {
@@ -2391,12 +2495,20 @@
         "MeV"
       ],
       "question": "Determine the energy in MeV released when a 2H nucleus fuses with a 3H nucleus to form 4He and a neutron, using the binding energy per nucleon graph.",
-      "status": "pending",
-      "answer": "Pending: the binding energy per nucleon graph (against proton number) is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 17 MeV (17.4 MeV) released.",
+      "steps": [
+        "Read from the graph: 2H has 1.1 MeV per nucleon, 3H has 2.8 MeV per nucleon and 4He has 7.0 MeV per nucleon. A free neutron has no binding energy.",
+        "Binding energy before = 2 x 1.1 + 3 x 2.8 = 2.2 + 8.4 = 10.6 MeV.",
+        "Binding energy after = 4 x 7.0 = 28.0 MeV.",
+        "Energy released = increase in binding energy = 28.0 - 10.6 = 17.4 MeV, about 17 MeV."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-37.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q41.jpg"
       ]
     },
     {
@@ -2426,6 +2538,9 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-38.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-39.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q42.jpg"
       ]
     },
     {
@@ -2473,12 +2588,19 @@
         "radiation"
       ],
       "question": "Which row of the table gives the relative ionising power and penetration of gamma radiation?",
-      "status": "pending",
-      "answer": "Pending: the table of ionising power and penetration options is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: low ionising power and high penetration.",
+      "steps": [
+        "Gamma radiation is weakly ionising, because gamma photons are uncharged and interact rarely with atoms.",
+        "For the same reason it is highly penetrating and is only partly absorbed by thick lead.",
+        "So the row is B (low, high)."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-40.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-41.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q44.jpg"
       ]
     },
     {
@@ -2507,6 +2629,9 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-40.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-41.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q45.jpg"
       ]
     },
     {
@@ -2525,12 +2650,19 @@
         "E = mc^2"
       ],
       "question": "When a nucleus of americium emits an alpha particle, 5.64 MeV is released. Which expression gives the decrease in mass in kg? (Options are missing from the extracted text.)",
-      "status": "pending",
-      "answer": "Pending: the answer expression options are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: (5.64 x 1.60 x 10^-13) / (3.0 x 10^8)^2.",
+      "steps": [
+        "Convert the energy to joules: 5.64 MeV = 5.64 x 1.60e-13 J (1 MeV = 1.60e-13 J).",
+        "Use E = (delta m) c^2, so delta m = E / c^2 = (5.64 x 1.60e-13) / (3.0e8)^2 kg.",
+        "This is expression A. B has the conversion factor the wrong way round, and C and D include 1.66e-27, which is the conversion between kg and u, not needed for an answer in kg."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-41.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-42.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q46.jpg"
       ]
     },
     {
@@ -2652,6 +2784,9 @@
         "papers/physics/img/30-9-Nuclear-Decay-43.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-44.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-45.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q50-4.jpg"
       ]
     },
     {
@@ -2670,14 +2805,25 @@
         "identify source"
       ],
       "question": "The count rate after gamma radiation passes through lead thickness x is R = R0 e^(-mu x). A graph of ln R against x and a graph of mu against photon energy are given, with a table of sources. Deduce which source was used.",
-      "status": "pending",
-      "answer": "Pending: the graphs of ln R against x and of mu against photon energy, and the table of sources, are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The source was 133Xe (photon energy 80 keV).",
+      "steps": [
+        "From R = R0 e^(-mu x), ln R = ln R0 - mu x, so the gradient of ln R against x is -mu.",
+        "Using the graph as scaled: ln R falls from 540 at x = 0 to 60 at x = 8.0 cm, so the gradient = (60 - 540) / 8.0 = -60 cm^-1.",
+        "Hence mu = 60 cm^-1.",
+        "On the mu against photon energy graph, mu = 60 cm^-1 corresponds to a photon energy of about 70 to 75 keV.",
+        "This is closest to 133Xe (80 keV). 57Co (122 keV) would give mu of about 24 cm^-1 and 133Ba (360 keV) about 5 cm^-1, so the source is 133Xe."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-42.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-43.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-44.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-45.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q50.jpg",
+        "papers/physics/fig/30-9-Nuclear-Decay-Q50-2.jpg",
+        "papers/physics/fig/30-9-Nuclear-Decay-Q50-3.jpg"
       ]
     },
     {
@@ -2854,6 +3000,9 @@
         "papers/physics/img/30-9-Nuclear-Decay-47.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-48.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-49.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q54-2.jpg"
       ]
     },
     {
@@ -2883,6 +3032,9 @@
         "papers/physics/img/30-9-Nuclear-Decay-47.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-48.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-49.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q54-2.jpg"
       ]
     },
     {
@@ -2901,13 +3053,21 @@
         "mu"
       ],
       "question": "The student's graph shows count rate R against absorber thickness x, with R = 60 e^(-mu x). Determine a value for the constant mu.",
-      "status": "pending",
-      "answer": "Pending: the student's graph of count rate against thickness is missing from the extracted text, so the value of mu cannot be read.",
-      "steps": [],
+      "status": "ready",
+      "answer": "mu = 0.34 cm^-1.",
+      "steps": [
+        "R = 60 e^(-mu x), so mu = ln(60 / R) / x.",
+        "Take a point on the curve well away from x = 0: at x = 5.0 cm, R = 11 s^-1.",
+        "mu = ln(60 / 11) / 5.0 = 1.70 / 5.0 = 0.34 cm^-1.",
+        "Check with another point: at x = 2.8 cm, R = 23 s^-1, giving mu = ln(60 / 23) / 2.8 = 0.34 cm^-1."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-47.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-48.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-49.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q54.jpg"
       ]
     },
     {
@@ -2936,6 +3096,9 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q55.jpg"
       ]
     },
     {
@@ -2954,9 +3117,15 @@
         "nuclear mass"
       ],
       "question": "The mass of a uranium-241 nucleus is 241.06033 u and the mass of a neutron is 1.68e-27 kg. Show that the binding energy of the nucleus is about 3e-10 J.",
-      "status": "pending",
-      "answer": "Pending: the mass of a proton is needed with the 92 protons but is not given in the extracted text (only the neutron mass is).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Binding energy = 3.4 x 10^-10 J, which is about 3 x 10^-10 J.",
+      "steps": [
+        "U-241 has 92 protons and 241 - 92 = 149 neutrons.",
+        "Mass of separate nucleons = 92 x 1.673e-27 + 149 x 1.68e-27 = 1.539e-25 + 2.503e-25 = 4.042e-25 kg (proton mass 1.673e-27 kg from the data sheet).",
+        "Mass of the nucleus = 241.06033 x 1.661e-27 = 4.004e-25 kg.",
+        "Mass defect = 4.042e-25 - 4.004e-25 = 3.8e-27 kg.",
+        "Binding energy = mc^2 = 3.8e-27 x (3.00e8)^2 = 3.4e-10 J, about 3e-10 J. (With a more precise neutron mass of 1.675e-27 kg the result is 2.8e-10 J, also about 3e-10 J.)"
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
@@ -2978,9 +3147,13 @@
         "energy"
       ],
       "question": "Calculate the binding energy per nucleon of uranium-241 in MeV.",
-      "status": "pending",
-      "answer": "Pending: depends on the binding energy from part (a)(ii), which needs the proton mass that is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 8.9 MeV per nucleon, using the 3.4 x 10^-10 J found from the data given (7.8 MeV if 3 x 10^-10 J is used).",
+      "steps": [
+        "Binding energy per nucleon = total binding energy / number of nucleons = 3.4e-10 / 241 = 1.4e-12 J.",
+        "Convert to MeV: 1.4e-12 / 1.60e-13 = 8.9 MeV per nucleon.",
+        "The answer is sensitive to rounding of the neutron mass given in the question. Using 3e-10 J gives 7.8 MeV, and an accurate neutron mass (1.675e-27 kg) gives about 7.2 MeV, so a value of 7 to 9 MeV per nucleon is expected for this nucleus."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
@@ -3041,6 +3214,9 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-50.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-51.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q56.jpg"
       ]
     },
     {
@@ -3146,13 +3322,21 @@
         "values from graph"
       ],
       "question": "A nucleus of uranium-238 undergoes fission with one product being tin. Estimate the energy released using values from the binding energy per nucleon graph.",
-      "status": "pending",
-      "answer": "Pending: the binding energy per nucleon graph is missing from the extracted text, so the values for U-238 and tin cannot be read.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 240 MeV released (about 2.4 x 10^2 MeV).",
+      "steps": [
+        "From the graph, U-238 has a binding energy per nucleon of about 7.5 MeV and Sn-120 about 8.5 MeV.",
+        "The other product has about 238 - 120 = 118 nucleons (ignoring any neutrons released) and also lies near 8.5 MeV per nucleon.",
+        "Binding energy before = 238 x 7.5 = 1785 MeV. Binding energy after = 238 x 8.5 = 2023 MeV.",
+        "Energy released = 2023 - 1785 = about 240 MeV (equivalently 238 nucleons x 1 MeV gain per nucleon)."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-51.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q57.jpg"
       ]
     },
     {
@@ -3182,6 +3366,9 @@
         "papers/physics/img/30-9-Nuclear-Decay-51.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q57-2.jpg"
       ]
     },
     {
@@ -3259,12 +3446,22 @@
         "ordering"
       ],
       "question": "The graph shows binding energy per nucleon against nucleon number, with isotopes P, Q and R marked. Which row of the table lists the isotopes from least stable to most stable? (The table options are missing.)",
-      "status": "pending",
-      "answer": "Pending: the table of isotope orderings and the graph with positions P, Q and R are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: P, R, Q (least stable to most stable).",
+      "steps": [
+        "Stability increases with binding energy per nucleon: the higher the value, the more tightly bound the nucleus.",
+        "Q is at the maximum of the curve, so it is the most stable.",
+        "R is on the falling part of the curve, so it is slightly lower than Q.",
+        "P is on the steep rising part, with the lowest binding energy per nucleon, so it is the least stable.",
+        "Order from least to most stable: P, R, Q, which is row B."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-53.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-54.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q58.jpg",
+        "papers/physics/fig/30-9-Nuclear-Decay-Q58-2.jpg"
       ]
     },
     {
@@ -3295,6 +3492,9 @@
         "papers/physics/img/30-9-Nuclear-Decay-54.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-55.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-56.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q59.jpg"
       ]
     },
     {
@@ -3324,6 +3524,9 @@
         "papers/physics/img/30-9-Nuclear-Decay-54.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-55.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-56.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q59-2.jpg"
       ]
     },
     {
@@ -3371,9 +3574,15 @@
         "calculation"
       ],
       "question": "Calculate the binding energy per nucleon, in MeV, for a nucleus of Pm-145. Mass of the nucleus 144.913 u, neutron mass 1.00867 u.",
-      "status": "pending",
-      "answer": "Pending: the mass of a proton (needed for the 61 protons) is not given in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 8.1 MeV per nucleon (8.09 MeV).",
+      "steps": [
+        "Pm-145 has 61 protons and 145 - 61 = 84 neutrons.",
+        "Mass of the separate nucleons = 61 x 1.00728 + 84 x 1.00867 = 146.172 u (proton mass 1.00728 u from the data sheet).",
+        "Mass defect = 146.172 - 144.913 = 1.259 u.",
+        "Binding energy = 1.259 x 931.5 = 1173 MeV.",
+        "Binding energy per nucleon = 1173 / 145 = 8.09 MeV."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-54.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-55.jpg",
@@ -3407,6 +3616,9 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-56.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-57.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q60.jpg"
       ]
     },
     {
@@ -3453,12 +3665,19 @@
         "54 counts"
       ],
       "question": "Background is 22 counts per minute. A detector at 25 cm from a gamma source records 54 counts per minute, then is moved to 50 cm. Which is the expected number of counts per minute? (Options are missing from the extracted text.)",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the extracted text. The expected value is 30 counts per minute (corrected 32 halved twice, plus 22 background).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: (54 - 22) / 4 + 22 = 30 counts per minute.",
+      "steps": [
+        "The count from the source alone at 25 cm is the measured rate minus the background: 54 - 22 = 32 counts per minute.",
+        "Gamma intensity follows an inverse square law, so doubling the distance (25 cm to 50 cm) divides the source count by 4: 32 / 4 = 8.",
+        "The detector still records the background, so add it back: 8 + 22 = 30 counts per minute, which is expression B."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-58.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-59.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q62.jpg"
       ]
     },
     {
@@ -3477,12 +3696,19 @@
         "change"
       ],
       "question": "Energy is released when low mass nuclei fuse and when high mass nuclei undergo fission. Which row of the table shows the change in binding energy per nucleon for fusion and fission?",
-      "status": "pending",
-      "answer": "Pending: the table of binding energy changes is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: binding energy per nucleon increases in both fusion and fission.",
+      "steps": [
+        "Energy is released only when the products are more tightly bound than the original nuclei, i.e. when the total binding energy increases.",
+        "In fusion, light nuclei move up the steep part of the curve towards iron, so the binding energy per nucleon increases.",
+        "In fission, a heavy nucleus splits into medium-mass nuclei, which lie closer to the peak at iron, so the binding energy per nucleon also increases."
+      ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-58.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-59.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/30-9-Nuclear-Decay-Q63.jpg"
       ]
     }
   ]

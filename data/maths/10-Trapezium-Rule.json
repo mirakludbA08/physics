@@ -152,6 +152,9 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-02.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-03.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/10-Trapezium-Rule-Q2.jpg"
       ]
     },
     {
@@ -357,6 +360,9 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-04.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-05.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/10-Trapezium-Rule-Q5.jpg"
       ]
     },
     {
@@ -446,6 +452,9 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-06.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-07.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/10-Trapezium-Rule-Q7.jpg"
       ]
     },
     {
@@ -564,6 +573,9 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-08.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-09.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/10-Trapezium-Rule-Q9.jpg"
       ]
     },
     {
@@ -621,6 +633,9 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-08.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-09.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/10-Trapezium-Rule-Q9.jpg"
       ]
     },
     {
@@ -650,6 +665,9 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-09.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-10.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/10-Trapezium-Rule-Q10.jpg"
       ]
     },
     {
@@ -710,6 +728,9 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-09.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-10.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/10-Trapezium-Rule-Q10.jpg"
       ]
     },
     {
@@ -743,6 +764,193 @@
       ],
       "figures": [
         "papers/maths/fig/10-Trapezium-Rule-Q11.jpg"
+      ]
+    },
+    {
+      "id": "P2-10-Q11b",
+      "no": "Q11(b)",
+      "marks": 3,
+      "topic": "Using Previous Estimate",
+      "keywords": [
+        "estimate",
+        "previous answer",
+        "integral",
+        "f(x) - 2",
+        "f(x - 2)",
+        "translation",
+        "curve y = f(x)",
+        "method"
+      ],
+      "question": "Figure 1 shows part of the curve y = f(x). Part (a) gave an estimate of 10.52 (2 d.p.) for the integral of f(x) dx from -1 to 1. Use this answer to estimate (i) the integral from -1 to 1 of (f(x) - 2) dx and (ii) the integral from 1 to 3 of f(x - 2) dx.",
+      "status": "ready",
+      "answer": "(i) about 6.52; (ii) about 10.52",
+      "steps": [
+        "(i) Split the integral: the integral of (f(x) - 2) dx equals the integral of f(x) dx minus the integral of 2 dx.",
+        "The integral of 2 from -1 to 1 is 2 x 2 = 4.",
+        "So the estimate is 10.52 - 4 = 6.52.",
+        "(ii) The graph of y = f(x - 2) is the graph of y = f(x) translated 2 units to the right, which does not change areas.",
+        "The limits -1 and 1 move to 1 and 3, so the integral of f(x - 2) from 1 to 3 equals the integral of f(x) from -1 to 1.",
+        "So the estimate is 10.52."
+      ],
+      "images": [
+        "papers/maths/img/P2-10-Trapezium-Rule-10.jpg",
+        "papers/maths/img/P2-10-Trapezium-Rule-11.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/10-Trapezium-Rule-Q11.jpg"
+      ]
+    },
+    {
+      "id": "P2-10-Q12a",
+      "no": "Q12(a)",
+      "marks": 3,
+      "topic": "Trapezium Rule With A Log Table",
+      "keywords": [
+        "trapezium rule",
+        "log base 2",
+        "table",
+        "estimate",
+        "integral",
+        "one decimal place",
+        "strip width 3",
+        "logarithm"
+      ],
+      "question": "The table gives corresponding values of x and y for y = log2(2x), with y given to 2 decimal places as appropriate: x = 2, 5, 8, 11, 14 and y = 2, 3.32, 4, 4.46, 4.81. Using the trapezium rule with all the values of y in the table, obtain an estimate for the integral from 2 to 14 of log2(2x) dx, giving your answer to one decimal place.",
+      "status": "ready",
+      "answer": "45.6",
+      "steps": [
+        "Five y-values give 4 strips of width h = 3.",
+        "Trapezium rule: integral is approximately (h/2)[y0 + y4 + 2(y1 + y2 + y3)].",
+        "= 1.5 x [2 + 4.81 + 2(3.32 + 4 + 4.46)].",
+        "= 1.5 x [6.81 + 23.56] = 1.5 x 30.37 = 45.555.",
+        "To one decimal place the estimate is 45.6."
+      ],
+      "images": [
+        "papers/maths/img/P2-10-Trapezium-Rule-11.jpg",
+        "papers/maths/img/P2-10-Trapezium-Rule-12.jpg"
+      ]
+    },
+    {
+      "id": "P2-10-Q12b",
+      "no": "Q12(b)",
+      "marks": 4,
+      "topic": "Using Previous Estimate",
+      "keywords": [
+        "estimate",
+        "previous answer",
+        "log laws",
+        "log2(4x^2)",
+        "log2(2/x)",
+        "integral",
+        "method",
+        "constant term"
+      ],
+      "question": "Using your answer to part (a) and making your method clear, estimate (i) the integral from 2 to 14 of log2(4x^2)/5 dx and (ii) the integral from 2 to 14 of log2(2/x) dx.",
+      "status": "ready",
+      "answer": "(i) about 18.2; (ii) about -21.6",
+      "steps": [
+        "(i) log2(4x^2) = log2((2x)^2) = 2 log2(2x), so log2(4x^2)/5 = (2/5) log2(2x).",
+        "The integral is therefore (2/5) x 45.6 = 18.24, which is about 18.2.",
+        "(ii) log2(2/x) = log2(2) - log2(x) = 1 - log2(x), and log2(2x) = 1 + log2(x), so log2(2/x) = 2 - log2(2x).",
+        "The integral of 2 from 2 to 14 is 2 x 12 = 24.",
+        "So the integral is about 24 - 45.6 = -21.6."
+      ],
+      "images": [
+        "papers/maths/img/P2-10-Trapezium-Rule-11.jpg",
+        "papers/maths/img/P2-10-Trapezium-Rule-12.jpg"
+      ]
+    },
+    {
+      "id": "P2-10-Q13a",
+      "no": "Q13(a)",
+      "marks": 3,
+      "topic": "Area Under A Log Curve",
+      "keywords": [
+        "trapezium rule",
+        "area",
+        "region R",
+        "log10",
+        "four strips",
+        "show that",
+        "strip width 3",
+        "Figure 1"
+      ],
+      "question": "Figure 1 shows a sketch of part of the curve y = log10(x). The region R, shown shaded in Figure 1, is bounded by the curve, the line x = 2, the x-axis and the line x = 14. Using the trapezium rule with four strips of equal width, show that the area of R is approximately 10.10.",
+      "status": "ready",
+      "answer": "Area of R is approximately 10.10 (shown)",
+      "steps": [
+        "Four strips between x = 2 and x = 14 give width h = (14 - 2)/4 = 3, so the x-values are 2, 5, 8, 11, 14.",
+        "The y-values are log10(2) = 0.30103, log10(5) = 0.69897, log10(8) = 0.90309, log10(11) = 1.04139 and log10(14) = 1.14613.",
+        "Area is approximately (h/2)[y0 + y4 + 2(y1 + y2 + y3)] = 1.5 x [0.30103 + 1.14613 + 2(0.69897 + 0.90309 + 1.04139)].",
+        "= 1.5 x [1.44716 + 5.2869] = 1.5 x 6.73406 = 10.101.",
+        "So the area of R is approximately 10.10, as required."
+      ],
+      "images": [
+        "papers/maths/img/P2-10-Trapezium-Rule-12.jpg",
+        "papers/maths/img/P2-10-Trapezium-Rule-13.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/10-Trapezium-Rule-Q13.jpg"
+      ]
+    },
+    {
+      "id": "P2-10-Q13b",
+      "no": "Q13(b)",
+      "marks": 1,
+      "topic": "Improving The Estimate",
+      "keywords": [
+        "trapezium rule",
+        "more accurate",
+        "more strips",
+        "narrower strips",
+        "explain",
+        "area of R",
+        "improve",
+        "estimate"
+      ],
+      "question": "Explain how the trapezium rule could be used to obtain a more accurate estimate for the area of R (the region under the curve y = log10(x) between x = 2 and x = 14).",
+      "status": "ready",
+      "answer": "Use more strips, so each strip is narrower",
+      "steps": [
+        "The trapezium rule replaces the curve by straight chords, so each strip leaves a small gap between the chord and the curve.",
+        "Using more strips makes each strip narrower, so the chords follow the curve more closely and the estimate becomes more accurate."
+      ],
+      "images": [
+        "papers/maths/img/P2-10-Trapezium-Rule-12.jpg",
+        "papers/maths/img/P2-10-Trapezium-Rule-13.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/10-Trapezium-Rule-Q13.jpg"
+      ]
+    },
+    {
+      "id": "P2-10-Q13c",
+      "no": "Q13(c)",
+      "marks": 4,
+      "topic": "Using Previous Estimate",
+      "keywords": [
+        "estimate",
+        "previous answer",
+        "log laws",
+        "log10(sqrt x)",
+        "log10(100x^3)",
+        "integral",
+        "method",
+        "constant term"
+      ],
+      "question": "Using your answer to part (a) and making your method clear, estimate the value of (i) the integral from 2 to 14 of log10(sqrt(x)) dx and (ii) the integral from 2 to 14 of log10(100x^3) dx.",
+      "status": "ready",
+      "answer": "(i) about 5.05; (ii) about 54.3",
+      "steps": [
+        "(i) log10(sqrt(x)) = (1/2) log10(x), so the integral is half of the area found in part (a): 0.5 x 10.10 = 5.05.",
+        "(ii) log10(100x^3) = log10(100) + 3 log10(x) = 2 + 3 log10(x).",
+        "The integral of 2 from 2 to 14 is 2 x 12 = 24.",
+        "The integral of 3 log10(x) from 2 to 14 is 3 x 10.10 = 30.3.",
+        "So the integral is about 24 + 30.3 = 54.3."
+      ],
+      "images": [
+        "papers/maths/img/P2-10-Trapezium-Rule-12.jpg",
+        "papers/maths/img/P2-10-Trapezium-Rule-13.jpg"
       ]
     }
   ]
