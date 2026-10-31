@@ -78159,15 +78159,20 @@ window.BANK.biology = {
       "dose"
      ],
      "question": "Determine the effect of MDMA on the serotonin level in cerebrospinal fluid, using the graph (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the graph of serotonin concentration against MDMA dose is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Increasing the MDMA dose increases the serotonin concentration in the cerebrospinal fluid (about 265 to 390 mg cm^-3 from 0 to 15 mg kg^-1).",
+     "steps": [
+      "The line of best fit rises throughout, showing a positive relationship: serotonin is about 265 mg cm^-3 with no MDMA and about 385 to 390 mg cm^-3 at 15 mg kg^-1, an increase of nearly 50 %.",
+      "The results are not perfectly linear (330 at 5 mg kg^-1 and 320 at 10 mg kg^-1) but overall serotonin is higher at every dose than with no MDMA."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-066.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-067.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-068.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q30.jpg"
+     ]
     },
     {
      "id": "8AB-Q30c(ii)",
@@ -78184,15 +78189,21 @@ window.BANK.biology = {
       "g per cm3"
      ],
      "question": "Predict the serotonin concentration for a dose of 17.5 mg per kg MDMA, using the line of best fit, in g cm-3 (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the graph with the line of best fit is not in the text, so the value cannot be read.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 0.41 g cm^-3 (about 410 mg cm^-3)",
+     "steps": [
+      "Use the line of best fit: it rises from about 265 mg cm^-3 at 0 to about 385 mg cm^-3 at 15 mg kg^-1, a gradient of about 8 mg cm^-3 per mg kg^-1.",
+      "Extend it by 2.5 mg kg^-1 beyond 15: 385 + 2.5 x 8 = about 405 to 410 mg cm^-3.",
+      "Convert mg to g by dividing by 1000: 0.41 g cm^-3 (accept 0.40 to 0.41)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-066.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-067.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-068.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q30.jpg"
+     ]
     },
     {
      "id": "8AB-Q30c(iii)",
@@ -78239,9 +78250,14 @@ window.BANK.biology = {
       "comment"
      ],
      "question": "Comment on the results shown in the bar chart of dopamine release in rats given different sucrose concentrations, and how they support the conclusion (4 marks).",
-     "status": "pending",
-     "answer": "Pending: the bar chart of dopamine release for different sucrose concentrations is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Dopamine release rises as sucrose concentration rises (about 21 %, 33 % and 50 % at 0.03, 0.10 and 0.30 mol dm^-3), which supports the conclusion, but the overlapping error bars make the differences between concentrations uncertain.",
+     "steps": [
+      "Dopamine increased at every concentration and the lower end of every error bar is above 0 %, so drinking sucrose does increase dopamine release.",
+      "The increase is greater at higher concentrations (about 21, 33 and 50 %), so more sucrose gives a bigger effect and a greater desire to eat if dopamine drives that desire.",
+      "The error bars overlap (e.g. 0.03: about 10 to 33 %, 0.10: about 14 to 51 %), so the differences between concentrations may not be significant.",
+      "No control with no sucrose or sample size is shown, and eating itself was not measured, so the conclusion is only indirectly supported."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-068.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-069.jpg",
@@ -78249,7 +78265,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-071.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-072.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q31.jpg"
+     ]
     },
     {
      "id": "8AB-Q31a(ii)",
@@ -78266,9 +78284,13 @@ window.BANK.biology = {
       "mean"
      ],
      "question": "Complete the table to calculate the standard deviation of the results for sucrose at 0.4 mol dm-3, giving the answer to two significant figures (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the table of results for the 0.4 mol dm-3 sucrose group is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "S = 12",
+     "steps": [
+      "Mean = (45 + 63 + 74 + 58) / 4 = 60, so the missing x - mean value for 58 is -2 and its square is 4.",
+      "Sum of (x - mean)^2 = 225 + 9 + 196 + 4 = 434.",
+      "n - 1 = 4 - 1 = 3, so S = sqrt(434 / 3) = sqrt(144.7) = 12 (2 s.f.)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-068.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-069.jpg",
@@ -78276,7 +78298,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-071.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-072.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q31-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q31b",
@@ -78325,9 +78349,14 @@ window.BANK.biology = {
       "homeostasis"
      ],
      "question": "Discuss how negative feedback is involved in controlling blood glucose concentration, using the diagram and graphs of daily changes in insulin, glucagon and glucose (6 marks).",
-     "status": "pending",
-     "answer": "Pending: the diagram of blood glucose control and the graphs of daily insulin, glucagon and glucose changes are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Blood glucose is kept within narrow limits by negative feedback: a high level causes insulin release which lowers it, and a low level causes glucagon release which raises it.",
+     "steps": [
+      "High blood glucose is detected by the pancreas, which releases insulin; insulin stimulates tissue cells to take up glucose and the liver to form glycogen, so blood glucose falls back to normal.",
+      "The graphs show insulin peaks (about 48, 43 and 40 units cm^-3) just after each rise in glucose following meals, and glucose then falls back from 108, 118 and 125 mg per 100 cm^3 to about 100, so the rise is reversed.",
+      "When glucose falls (e.g. overnight, about 90 mg per 100 cm^3) insulin falls to about 10 and glucagon is slightly higher (about 1.3 to 1.6 ng cm^-3); glucagon stimulates glycogen breakdown in the liver, raising blood glucose.",
+      "Each hormone's release is stopped by the effect it produces, so glucose stays within about 90 to 125 mg per 100 cm^3 all day, despite meals, which shows negative feedback."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-068.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-069.jpg",
@@ -78335,7 +78364,10 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-071.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-072.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q31-3.jpg",
+      "papers/biology/fig/08AB-Nervous-Coordination-Q31-4.jpg"
+     ]
     },
     {
      "id": "8AB-Q32a",
@@ -78352,16 +78384,22 @@ window.BANK.biology = {
       "mm"
      ],
      "question": "The actual length of the brain shown on the MRI scan is 15 cm. Calculate the actual diameter, in mm, of the lesion between X and Y (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the MRI photograph with points X and Y and the brain length on the image are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 20 mm (accept 18 to 22 mm)",
+     "steps": [
+      "Measure the length of the brain on the scan (top to bottom) and the distance X to Y: X to Y is about 0.13 of the brain length.",
+      "Actual diameter = 0.133 x 15 cm = 2.0 cm.",
+      "Convert to millimetres: 2.0 cm x 10 = 20 mm."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-072.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-073.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-074.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q32.jpg"
+     ]
     },
     {
      "id": "8AB-Q32b(i)",
@@ -78378,16 +78416,22 @@ window.BANK.biology = {
       "show that"
      ],
      "question": "Show that the effect of axon diameter on conduction speed is six times greater in a myelinated neurone than in a non-myelinated neurone, using the table (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the table of conduction speeds for each axon diameter is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Doubling the diameter from 1 to 2 um raises the myelinated speed by about 227 % but the non-myelinated speed by only 35 %, about six times greater.",
+     "steps": [
+      "Myelinated: speed rises from 2.6 to 8.5 m s^-1, an increase of 5.9 m s^-1, which is 5.9 / 2.6 x 100 = 227 %.",
+      "Non-myelinated: speed rises from 2.3 to 3.1 m s^-1, an increase of 0.8 m s^-1, which is 0.8 / 2.3 x 100 = 35 %.",
+      "Ratio = 227 / 35 = 6.5, so diameter has roughly six times the effect in myelinated neurones (in absolute terms the increase is 5.9 / 0.8 = 7.4 times)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-072.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-073.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-074.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q32-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q32b(ii)",
@@ -78466,15 +78510,20 @@ window.BANK.biology = {
       "repeats"
      ],
      "question": "In an investigation with 350 insects, calculate the mean decrease in the number of insects showing PER each time the procedure was repeated, using the graph (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the graph of the number of insects showing PER at each repeat is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 6 insects per repeat",
+     "steps": [
+      "At the start 100 % of the 350 insects show PER, and by about 58 repeats none do, so the total decrease is 350 insects.",
+      "Mean decrease per repeat = 350 / 58 = 6.0 insects each time."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-075.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-076.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-077.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q33.jpg"
+     ]
     },
     {
      "id": "8AB-Q33b",
@@ -78491,15 +78540,21 @@ window.BANK.biology = {
       "repeats"
      ],
      "question": "Explain the results of the investigation into the proboscis extension response to a heat stimulus (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the graph of the investigation results is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The insects show habituation: the heat pad is repeatedly presented with no reward, so they learn to ignore it and fewer extend the proboscis each time.",
+     "steps": [
+      "The percentage showing the proboscis extension response falls from 100 % to 0 % as the procedure is repeated 58 times, so the response is lost with repeated exposure to the same stimulus.",
+      "This is habituation: the warm stimulus repeatedly gives no food, so the nervous system stops responding (fewer neurotransmitter vesicles released at the synapse).",
+      "It avoids wasting energy responding to an unimportant stimulus; the small ups and downs in the curve are natural variation."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-075.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-076.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-077.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q33.jpg"
+     ]
     },
     {
      "id": "8AB-Q33c",
@@ -78669,16 +78724,25 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Discuss the differences between athletes and non-athletes in two investigations, using the table of measurements and the graph of power against oxygen used (6 marks).",
-     "status": "pending",
-     "answer": "Pending: the table of mean measurements and the graph of power against oxygen use are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Athletes have a lower resting heart rate and a greater capacity to use oxygen (aerobically and anaerobically), and reach higher power outputs, but at a given power they use oxygen at a similar rate to non-athletes.",
+     "steps": [
+      "Table: resting heart rate is lower in athletes (66 against 71 bpm) as their stronger hearts have a bigger stroke volume; peak heart rate is slightly lower (190 against 196), so the heart does not need to beat as fast.",
+      "Maximum oxygen use is much higher in athletes under aerobic conditions (57 against 39 cm^3 kg^-1 min^-1, +46 %) and anaerobic (35 against 20, +75 %), because of more mitochondria, more capillaries and myoglobin in muscles and more efficient lungs and blood supply.",
+      "Graph: in both groups oxygen use rises with power generated (positive correlation), and the two sets of points overlap between about 2.5 and 3.5 W kg^-1, so at the same power the oxygen cost is similar.",
+      "Athletes reach higher power (up to about 5.0 against about 3.7 W kg^-1) and oxygen use (up to about 64 against about 51), so they can sustain greater exercise.",
+      "The samples are small (n = 11 and 10), so the differences may not be significant and other factors such as age and sex are not given."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-077.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-078.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-079.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-080.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q34.jpg",
+      "papers/biology/fig/08AB-Nervous-Coordination-Q34-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q35a(i)",
@@ -78694,14 +78758,19 @@ window.BANK.biology = {
       "heart rate"
      ],
      "question": "Which labelled part of the brain section contains the cardiovascular control centre? A P, B Q, C R, D S (1 mark)",
-     "status": "pending",
-     "answer": "Pending: the labelled brain section diagram (P, Q, R, S, T) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: P (medulla oblongata)",
+     "steps": [
+      "P points to the lower part of the brainstem, the medulla oblongata, which contains the cardiovascular and respiratory control centres.",
+      "Q is the pituitary gland, R the hypothalamus, S the cerebral hemisphere and T the cerebellum."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-080.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-081.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q35.jpg"
+     ]
     },
     {
      "id": "8AB-Q35a(ii)",
@@ -78717,14 +78786,19 @@ window.BANK.biology = {
       "P Q R T"
      ],
      "question": "Which labelled part of the brain section would control balance and coordinate movement? A P, B Q, C R, D T (1 mark)",
-     "status": "pending",
-     "answer": "Pending: the labelled brain section diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: T (cerebellum)",
+     "steps": [
+      "The cerebellum, at the back and below the cerebral hemispheres (label T), controls balance and coordinates movement.",
+      "P is the medulla oblongata, Q the pituitary and R the hypothalamus."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-080.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-081.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q35.jpg"
+     ]
     },
     {
      "id": "8AB-Q35a(iii)",
@@ -78740,14 +78814,19 @@ window.BANK.biology = {
       "osmoregulation"
      ],
      "question": "Which labelled parts of the brain section would be involved in controlling the solute concentration of blood plasma? A P and Q, B Q and R, C P and R, D S and T (1 mark)",
-     "status": "pending",
-     "answer": "Pending: the labelled brain section diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Q and R (pituitary gland and hypothalamus)",
+     "steps": [
+      "The hypothalamus (R) has osmoreceptors that detect the solute concentration of the blood and makes ADH.",
+      "The pituitary gland (Q) releases ADH, which alters the kidney's reabsorption of water and so the plasma concentration, so B is correct."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-080.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-081.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q35.jpg"
+     ]
     },
     {
      "id": "8AB-Q35b(i)",
@@ -79038,9 +79117,13 @@ window.BANK.biology = {
       "amino acids"
      ],
      "question": "Explain why diets rich in whey and egg protein may not be ideal for prolonged treatment of a protein-poor diet (paragraph 11 of the source) (3 marks).",
-     "status": "pending",
-     "answer": "Pending: paragraph 11 of the source article, which gives the reasons for the limits of whey and egg protein diets, is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Whey and egg protein are digested and absorbed quickly, so amino acid levels rise and fall rapidly, and excess amino acids are broken down and excreted as urea, so prolonged high-protein intake is not efficient and puts extra work on the liver and kidneys.",
+     "steps": [
+      "These proteins are absorbed rapidly, so the supply of amino acids to muscle is short-lived rather than steady.",
+      "In older people muscle responds less to amino acids (anabolic resistance), so extra protein alone does not keep building muscle without exercise.",
+      "Amino acids not used for protein synthesis are deaminated in the liver and the nitrogen is excreted as urea, which over a long period increases the load on the kidneys (the source paragraph is not on the page, so this uses general knowledge)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-081.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
@@ -79126,16 +79209,22 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Calculate the percentage difference between the number of roundworms in group 1 and group 2 that changed direction 30 minutes after habituation (2 marks), using the graph.",
-     "status": "pending",
-     "answer": "Pending: the numbers of roundworms that changed direction at 30 minutes are read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "50 %",
+     "steps": [
+      "At 30 minutes group 1 has 20 roundworms changing direction and group 2 has 12.",
+      "Difference = 20 - 12 = 8 and mean = (20 + 12) / 2 = 16.",
+      "Percentage difference = 8 / 16 x 100 = 50 %."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-084.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-085.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-086.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-087.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q37.jpg"
+     ]
     },
     {
      "id": "8AB-Q37b(ii)",
@@ -79152,16 +79241,22 @@ window.BANK.biology = {
       "30 minutes"
      ],
      "question": "Describe three conclusions about recovery times after habituation, using the graph of results (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the graph of the percentage of roundworms changing direction over time for each group is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Recovery increases with time after habituation in all groups; it is greatest after habituation with short intervals between taps (group 1) and least after the longest intervals (group 3); recovery is fastest in the first 10 minutes.",
+     "steps": [
+      "At 0 and 0.5 minutes no roundworm responded in any group, and the number changing direction rises with time, so the response recovers gradually after habituation.",
+      "The shorter the interval between taps during habituation, the quicker the recovery: at 30 minutes group 1 (2 s intervals) had 20 responding, group 2 (10 s) had 12 and group 3 (60 s) only 4.",
+      "Most recovery happens in the first 10 minutes (to 17, 7 and 2) and the rate slows after that, and no group has fully recovered (maximum 20 of 25) by 30 minutes."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-084.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-085.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-086.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-087.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q37.jpg"
+     ]
     },
     {
      "id": "8AB-Q38a(i)",
@@ -79239,15 +79334,21 @@ window.BANK.biology = {
       "describe"
      ],
      "question": "Describe the relationships between mass, resting metabolic rate and pulse rate shown in the table of five mammals (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the table of mass, resting metabolic rate and pulse rate for the five mammals is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "As mass increases, resting metabolic rate increases but pulse rate decreases; metabolic rate per kg falls with increasing mass.",
+     "steps": [
+      "Resting metabolic rate rises with mass, from 1.45 J s^-1 in the 0.26 kg rat to 267 J s^-1 in the 400 kg cow, but less than proportionally: the cow is about 1500 times heavier but its rate is only about 180 times greater.",
+      "Pulse rate falls as mass increases, from 420 bpm in the rat to 40 bpm in the cow (rat > dog > sheep, with the human at 72 bpm slightly above the sheep at 70 bpm, despite being heavier).",
+      "Small mammals have a higher metabolic rate per kg (5.6 J s^-1 kg^-1 for the rat against 0.67 for the cow) and a faster heart rate to supply oxygen, because of their larger surface area to volume ratio and greater heat loss."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-087.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-088.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-089.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q38.jpg"
+     ]
     },
     {
      "id": "8AB-Q38b(ii)",
@@ -79294,15 +79395,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "A section of squirrel monkey retina contains 5000 photoreceptors. Calculate how many would be rod cells, assuming an even distribution (2 marks), using the table of photoreceptor numbers.",
-     "status": "pending",
-     "answer": "Pending: the table giving the rod and cone numbers for the squirrel monkey is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 4170 rod cells (4.17 x 10^3, about 4200)",
+     "steps": [
+      "Squirrel monkey: 7.0 x 10^6 cones and 3.5 x 10^7 rods, so total = 4.2 x 10^7 photoreceptors.",
+      "Fraction that are rods = 3.5 x 10^7 / 4.2 x 10^7 = 0.833.",
+      "Rods in 5000 photoreceptors = 5000 x 0.833 = 4170."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-089.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-090.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q39.jpg"
+     ]
     },
     {
      "id": "8AB-Q39a(ii)",
@@ -79349,15 +79456,21 @@ window.BANK.biology = {
       "deduce"
      ],
      "question": "Deduce the effect of each treatment on seedlings that have had their apical buds removed, using the table of treatments and their appearance after exposure to light (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the table of treatments and seedling appearances is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Auxin applied to the cut top keeps the lateral buds from growing (restores apical dominance) and the shoot bends towards the light; gibberellin makes the stem longer but does not prevent lateral growth or cause bending; without treatment the lateral buds grow out.",
+     "steps": [
+      "Seedling 1 (no treatment): with the apical bud gone there is no auxin from the tip, so the lateral buds grow out into shoots, showing apical dominance has been lost.",
+      "Seedling 2 (auxin): the lateral buds stay small, so auxin replaces the apical bud's effect in inhibiting lateral buds, and the stem bends towards the light because auxin moves to the shaded side and makes it elongate more.",
+      "Seedling 3 (gibberellin): the stem is taller with longer internodes, so gibberellin stimulates stem elongation; the shoot stays upright and the lateral buds are not inhibited, so gibberellin does not restore apical dominance or cause phototropism."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-089.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-090.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q39-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q40a",
@@ -79374,15 +79487,21 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Explain why the symptoms of Parkinson's disease increase with age, using the graph of the number of dopamine-producing cells against age (4 marks).",
-     "status": "pending",
-     "answer": "Pending: the graph of dopamine-producing cell numbers against age is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Dopamine-producing cells die progressively, so the number falls with age; the fewer cells there are, the less dopamine is made and the worse the movement symptoms become.",
+     "steps": [
+      "In the graph the number falls from 500 000 at age 10 to about 385 000 at 40, 300 000 at 50, 150 000 at 60 and only about 20 000 at 80, with the steepest fall after 40.",
+      "People without Parkinson's rarely fall below 350 000 cells, so below this level (reached at about 45 years) there is not enough dopamine and symptoms appear.",
+      "Less dopamine is released at synapses, so there is less stimulation of the neurones that control movement (e.g. in the basal ganglia), causing tremor and slow movement; as cells continue to die the symptoms get worse."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-092.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-093.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-094.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q40.jpg"
+     ]
     },
     {
      "id": "8AB-Q40b",
@@ -79429,15 +79548,22 @@ window.BANK.biology = {
       "comment"
      ],
      "question": "Comment on the results of an investigation in which different concentrations of dopamine were given to Drosophila, showing their mean heart rates (4 marks), using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of mean heart rate of Drosophila at each dopamine concentration is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Dopamine raises the heart rate of Drosophila at moderate concentrations (to about 415 beats per minute) but a very high concentration lowers it (to about 377).",
+     "steps": [
+      "At log10 0, 1 and 2 the mean heart rate is about 393, 392 and 397 beats per minute with overlapping error bars, so low concentrations have little or no effect.",
+      "At log10 3 and 4 it rises to about 415 and 416 bpm, a plateau about 5 to 6 % above the low-concentration values, and the error bars do not overlap those at low concentration, so dopamine has a significant effect on heart rate.",
+      "At log10 5 the heart rate drops to about 377 bpm, below all the other values, so a very high concentration inhibits the heart (it may be toxic) and the effect is not simply increasing.",
+      "There is no control without dopamine and only groups of 10 flies, so the evidence is limited."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-092.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-093.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-094.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q40-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q41a",
@@ -79454,15 +79580,20 @@ window.BANK.biology = {
       "impulse"
      ],
      "question": "Draw an arrow on the neurone diagram to show the direction of a nerve impulse (1 mark).",
-     "status": "pending",
-     "answer": "Pending: the neurone diagram to annotate is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "An arrow drawn along the axon pointing from right to left, from the cell body and dendrite end towards the axon terminals.",
+     "steps": [
+      "The impulse travels away from the cell body and dendrites (at the right, where the cell body sits) along the myelinated axon.",
+      "So the arrow along the axon points to the left, towards the branching axon terminals with synaptic knobs."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-094.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-095.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-096.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q41.jpg"
+     ]
     },
     {
      "id": "8AB-Q41b(i)",
@@ -79478,15 +79609,20 @@ window.BANK.biology = {
       "options"
      ],
      "question": "Which is the resting potential for this neurone? A -90 mV, B -70 mV, C +48 mV, D +70 mV (1 mark) (graph not in text).",
-     "status": "pending",
-     "answer": "Pending: the action potential graph is not in the text, so the resting potential cannot be read from it.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: -70 mV",
+     "steps": [
+      "The resting potential is the steady level before the stimulus, at the start of the trace.",
+      "The trace is flat at -70 mV from 0 to about 1.8 ms and again from 4 ms, so the answer is B."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-094.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-095.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-096.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q41-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q41b(ii)",
@@ -79502,15 +79638,20 @@ window.BANK.biology = {
       "membrane potential"
      ],
      "question": "Which letter on the action potential graph shows where the neurone is hyperpolarised? A U, B V, C W, D X (1 mark).",
-     "status": "pending",
-     "answer": "Pending: the graph with points U, V, W and X is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: W",
+     "steps": [
+      "Hyperpolarised means more negative than the resting potential of -70 mV.",
+      "W is at the bottom of the trace, about -90 mV at 3 ms, after the spike (U is the rising depolarisation, V the peak and X the return to resting), so it is C."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-094.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-095.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-096.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q41-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q41b(iii)",
@@ -79527,15 +79668,20 @@ window.BANK.biology = {
       "membrane potential"
      ],
      "question": "What is the difference in membrane potential between points V and W on the graph? A 40 mV, B 50 mV, C 90 mV, D 140 mV (1 mark).",
-     "status": "pending",
-     "answer": "Pending: the graph values at points V and W are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 140 mV",
+     "steps": [
+      "V is the peak of the action potential at +50 mV and W is the trough at about -90 mV.",
+      "Difference = 50 - (-90) = 140 mV."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-094.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-095.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-096.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q41-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q41c",
@@ -79582,16 +79728,22 @@ window.BANK.biology = {
       "bioaccumulation"
      ],
      "question": "Calculate the percentage increase in BMAA per gram from the seeds of the cycad trees to the flying foxes, to two significant figures (1 mark), using the table.",
-     "status": "pending",
-     "answer": "Pending: the table of BMAA amounts per gram at each stage of the food chain is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "9500 % (about 9.5 x 10^3 %)",
+     "steps": [
+      "Increase in BMAA = 3556 - 37 = 3519 ug per gram.",
+      "Percentage increase = 3519 / 37 x 100 = 9511 %.",
+      "To 2 significant figures this is 9500 %."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-096.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-097.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-098.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-099.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q42.jpg"
+     ]
     },
     {
      "id": "8AB-Q42b(i)",
@@ -79608,16 +79760,23 @@ window.BANK.biology = {
       "explain"
      ],
      "question": "Explain the results of the graph of the flying fox population and the number of men diagnosed with ALS (4 marks).",
-     "status": "pending",
-     "answer": "Pending: the graph of flying fox population against ALS diagnoses is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "As flying foxes became scarcer, the Chamorro ate fewer and took in less BMAA, so the number of men with ALS fell later; BMAA builds up in flying foxes, so eating them gave a high dose.",
+     "steps": [
+      "Flying fox numbers fell from about 15 000 in 1950 to almost none by 1974, and then recovered slightly, because they were heavily hunted for food.",
+      "BMAA is found at 3556 ug per gram in flying fox fat compared with 37 ug per gram in cycad seeds, about 96 times more, so people eating the flying foxes were exposed to a high dose of the neurotoxin (it accumulates up the food chain).",
+      "ALS rose to about 138 per 100 000 men by 1965 and then fell to about 16 by 1995 as the supply of flying foxes, and so BMAA intake, declined.",
+      "The fall in ALS lags behind the fall in flying foxes by several years, as the disease takes many years to develop; the link is a correlation, which does not prove BMAA is the cause."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-096.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-097.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-098.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-099.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q42-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q42b(ii)",
@@ -79666,9 +79825,13 @@ window.BANK.biology = {
       "dendrites"
      ],
      "question": "Draw a myelinated motor neurone and label two structures (3 marks).",
-     "status": "pending",
-     "answer": "Pending: this needs a drawn diagram by the student, which cannot be given in text; expected labels include cell body, dendrites, axon, myelin sheath and nodes of Ranvier.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A drawing of a motor neurone with a cell body (nucleus) and dendrites at one end, a long axon wrapped in myelin sheath segments with gaps (nodes of Ranvier) between, and axon terminals at the other end; two labelled structures, such as the myelin sheath and the node of Ranvier.",
+     "steps": [
+      "Draw the cell body with a nucleus and short branching dendrites at one end.",
+      "Draw one long axon leaving the cell body, covered by a series of separate myelin (Schwann cell) sections with small gaps between them, ending in branched axon terminals (synaptic knobs).",
+      "Label two structures correctly with lines to them, for example myelin sheath (Schwann cell), node of Ranvier, axon, cell body or axon terminal."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-096.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-097.jpg",
@@ -79706,7 +79869,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-098.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-099.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q42-3.jpg"
+     ]
     },
     {
      "id": "8AB-Q43a(i)",
@@ -79813,15 +79978,20 @@ window.BANK.biology = {
       "extensor"
      ],
      "question": "Name the two types of skeletal muscle that are contracted when the arm is held in the position shown in the diagram of arm muscles (1 mark).",
-     "status": "pending",
-     "answer": "Pending: the diagram of the arm and its muscles is not in the text, so the two muscles cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A flexor (the biceps) and an extensor (the triceps), an antagonistic pair that both contract to hold the position",
+     "steps": [
+      "Holding the arm bent, the biceps (flexor, labelled B on the front) contracts to keep the elbow flexed.",
+      "The triceps (extensor, labelled A at the back) also contracts, acting against it to stabilise the joint, so the two antagonistic muscles hold the position."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-099.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-100.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-101.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q43.jpg"
+     ]
     },
     {
      "id": "8AB-Q43b(ii)",
@@ -79838,15 +80008,20 @@ window.BANK.biology = {
       "extend"
      ],
      "question": "Describe how the arm could be straightened by the muscles labelled A and B in the diagram (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the diagram that identifies muscles A and B is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The triceps (A) contracts while the biceps (B) relaxes, so the triceps pulls the forearm bone and the elbow straightens.",
+     "steps": [
+      "The muscles are an antagonistic pair: the triceps (A, extensor) contracts and shortens, pulling on its tendon attached to the ulna.",
+      "The biceps (B, flexor) relaxes at the same time, so it does not resist and the lower arm is straightened about the elbow joint."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-099.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-100.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-101.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q43.jpg"
+     ]
     },
     {
      "id": "8AB-Q44a(i)",
@@ -79925,16 +80100,22 @@ window.BANK.biology = {
       "graphs"
      ],
      "question": "Describe three conclusions from the investigation of TBT's effect on blood testosterone and oestradiol in male mice, using the graphs (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the graphs of blood testosterone and oestradiol against TBT concentration are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "TBT lowers the testosterone concentration in a dose-dependent way; oestradiol rises at 25 and 50 mg kg^-1 but falls below the control at 100 mg kg^-1; so TBT disrupts hormone levels.",
+     "steps": [
+      "Testosterone falls as TBT concentration rises: about 370 pg cm^-3 with no TBT, then 330, 275 and about 97 at 100 mg kg^-1, a fall of about 74 %, with a clear difference at 100.",
+      "Oestradiol is about 112 pg cm^-3 in the control, rises to about 142 at 25 and 163 at 50 mg kg^-1 (a significant rise at 50, as the error bars do not overlap the control), then falls to about 70 at 100 mg kg^-1, below the control.",
+      "So TBT alters the balance of steroid hormones in male mice (it is an endocrine disruptor), reducing testosterone at higher doses; the 25 mg kg^-1 results overlap the control, so are not clearly different."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-101.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-102.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-103.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-104.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q44.jpg"
+     ]
     },
     {
      "id": "8AB-Q44b(ii)",
@@ -79982,16 +80163,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Which row shows the events that happen during depolarisation of a neurone? (1 mark) (table not in text)",
-     "status": "pending",
-     "answer": "Pending: the table of rows is not in the text, so the correct row cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: sodium channels open, membrane potential increasing",
+     "steps": [
+      "During depolarisation voltage-gated sodium channels open and Na+ enters the axon.",
+      "The inside of the membrane becomes less negative, so the membrane potential is increasing, which is row D."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-104.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-105.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-106.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-107.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q45.jpg"
+     ]
     },
     {
      "id": "8AB-Q45a(ii)",
@@ -80039,16 +80225,22 @@ window.BANK.biology = {
       "image size"
      ],
      "question": "Calculate the magnification of the photograph of a cross-section of part of a sciatic nerve, in standard form (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the photograph's image size and scale bar are not in the text, so the magnification cannot be calculated.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 2.3 x 10^2 (x 230)",
+     "steps": [
+      "Measure the scale bar on the photograph: about 11.7 mm.",
+      "Convert the real length to the same unit: 50.0 um = 0.0500 mm.",
+      "Magnification = image length / real length = 11.7 / 0.0500 = 234, so about 2.3 x 10^2 in standard form (accept about 2.2 to 2.5 x 10^2)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-104.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-105.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-106.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-107.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q45-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q45b(ii)",
@@ -80065,16 +80257,21 @@ window.BANK.biology = {
       "sciatic"
      ],
      "question": "Name a type of microscope that would be used to obtain the image of the sciatic nerve cross-section (1 mark).",
-     "status": "pending",
-     "answer": "Pending: the magnification of the photograph is needed to decide the microscope type, and it cannot be calculated from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A light (optical) microscope",
+     "steps": [
+      "The image is a stained cross-section of the whole nerve at a modest magnification (about x230) with colour or grey tone from staining, which is what a light microscope gives.",
+      "An electron microscope would show much finer detail at far higher magnification."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-104.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-105.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-106.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-107.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q45-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q45b(iii)",
@@ -80122,14 +80319,20 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Label the diagram of a cross-section of the human brain to show the pituitary gland (P), cerebellum (C) and hypothalamus (H) (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the cross-section diagram is not in the text, so the labels cannot be placed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: the cauliflower-like structure behind and below the cerebral hemispheres; P: the small drop-shaped gland hanging at the base of the brain; H: the region just above P, below the thalamus.",
+     "steps": [
+      "Label C on the cerebellum, the folded rounded structure at the back of the brain.",
+      "Label P on the small teardrop-shaped pituitary gland attached to the underside of the brain near the centre.",
+      "Label H on the hypothalamus, immediately above the pituitary and below the thalamus."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-107.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-108.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q46.jpg"
+     ]
     },
     {
      "id": "8AB-Q46b",
@@ -80146,14 +80349,20 @@ window.BANK.biology = {
       "complete"
      ],
      "question": "Complete the table to show one function of each of the brain parts P, C and H (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the table to complete is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Hypothalamus: regulates body temperature and water balance (and controls the pituitary); medulla oblongata: controls heart rate and breathing rate; pituitary gland: releases hormones such as ADH and growth hormone.",
+     "steps": [
+      "Hypothalamus: homeostatic control, for example detects blood solute concentration and body temperature and makes ADH.",
+      "Medulla oblongata: involuntary control of heart rate, breathing rate and blood pressure.",
+      "Pituitary gland: secretes hormones (ADH, growth hormone and others) that control other glands and the kidney."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-107.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-108.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q46-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q47a",
@@ -80200,15 +80409,21 @@ window.BANK.biology = {
       "axon membrane"
      ],
      "question": "Calculate the maximum rate of increase in permeability of the axon membrane to potassium ions, to two significant figures with units (2 marks), using the graph.",
-     "status": "pending",
-     "answer": "Pending: the permeability graph after the start of the action potential is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 19 a.u. ms^-1 (accept 18 to 21)",
+     "steps": [
+      "The maximum rate of increase is the steepest part of the rising curve, about 1.0 to 1.4 ms; draw a tangent there.",
+      "Between 1.0 ms (about 7.2 a.u.) and 1.4 ms (about 14.7 a.u.) the permeability rises by 7.5 a.u. over 0.4 ms.",
+      "Gradient = 7.5 / 0.4 = about 19 a.u. per millisecond (a.u. ms^-1)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-108.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-109.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-110.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q47.jpg"
+     ]
     },
     {
      "id": "8AB-Q47c",
@@ -80225,15 +80440,20 @@ window.BANK.biology = {
       "concentration"
      ],
      "question": "Which is the ratio of potassium ion concentration outside and inside an axon? A 0.026:1, B 0.3:1, C 0.083:1, D 30:1 (1 mark), using the table of ion concentrations.",
-     "status": "pending",
-     "answer": "Pending: the table of ion concentrations inside and outside the axon is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 0.026 : 1",
+     "steps": [
+      "Outside K+ = 4 mol dm^-3 and inside K+ = 155 mol dm^-3.",
+      "Ratio outside : inside = 4 / 155 = 0.026, so the ratio is 0.026 : 1."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-108.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-109.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-110.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q47-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q47d(i)",
@@ -80280,15 +80500,20 @@ window.BANK.biology = {
       "conduction"
      ],
      "question": "Describe two conclusions about the effect of axon diameter and myelination on the speed of an impulse, using the table of results for four neurones (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the table of speeds for four neurones is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Myelinated neurones conduct faster than non-myelinated ones of the same diameter, and a larger diameter gives a faster speed, with a bigger effect in myelinated neurones.",
+     "steps": [
+      "Myelination raises speed at both diameters: A is 7.0 against B 3.8 m s^-1 at 2.5 um (about 1.8 times faster) and C is 4.0 against D 2.5 m s^-1 at 1.5 um (1.6 times).",
+      "Greater diameter raises speed: 2.5 um gives 7.0 and 3.8 m s^-1 against 4.0 and 2.5 at 1.5 um, and the effect is bigger with myelin (an increase of 3.0 m s^-1 against 1.3 m s^-1 without)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-108.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-109.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-110.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q47-3.jpg"
+     ]
     },
     {
      "id": "8AB-Q48a",
@@ -80576,16 +80801,22 @@ window.BANK.biology = {
       "assess"
      ],
      "question": "Assess the effects of lidocaine on cell survival of heart muscle cells cultured in low oxygen, using the graph (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the graph of cell survival at different lidocaine concentrations is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Lidocaine increases the survival of heart muscle cells in low oxygen, and the higher the concentration the greater the survival, reaching about 96 % at 0.01 mol dm^-3, close to the control.",
+     "steps": [
+      "With low oxygen and no lidocaine only about 40 % of cells survive, against 100 % in the control with excess oxygen.",
+      "Survival rises with each increase in lidocaine concentration: about 52 % at 0.0005, 67 % at 0.001, 84 % at 0.005 and 96 % at 0.01 mol dm^-3, a positive relationship with error bars that mostly do not overlap those of the 0 concentration.",
+      "At 0.01 mol dm^-3 survival is within the error bars of the control (about 100 %), so lidocaine almost completely protects the cells; the rise is smaller at higher concentrations, suggesting it levels off."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-113.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-114.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-115.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-116.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q49.jpg"
+     ]
     },
     {
      "id": "8AB-Q49b(ii)",
@@ -80664,16 +80895,23 @@ window.BANK.biology = {
       "discuss"
      ],
      "question": "Discuss how exercise reduces the risk of death from cardiovascular disease, using Graph 1 (heart rate and exercise) and Graph 2 (risk of death with and without CVD) (6 marks).",
-     "status": "pending",
-     "answer": "Pending: Graph 1 and Graph 2 are not in the text, so the data needed to support the discussion cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Exercise makes the heart more efficient, with a lower heart rate for the same work, and it lowers the risk factors for CVD, so the risk of death falls as weekly exercise increases, particularly in people with CVD.",
+     "steps": [
+      "Graph 1: athletes have a lower resting rate, a smaller rise during exercise and a faster return to resting rate afterwards than non-athletes, so their hearts are stronger with a larger stroke volume and are under less strain.",
+      "Graph 2: for both groups the risk of death falls as weekly exercise increases; in people without CVD it falls quickly then levels off at a low level, while for people with CVD it starts higher but keeps falling and gets close to the risk without CVD at the longest durations.",
+      "Regular exercise also lowers blood pressure and blood cholesterol (LDL), reduces the build-up of atheroma in the arteries and helps control body mass and blood glucose, so less risk of coronary heart disease, stroke and heart attack.",
+      "The graphs have no numbers, and a correlation does not show that exercise is the cause."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-113.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-114.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-115.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-116.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q49-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q50a(i)",
@@ -80721,9 +80959,13 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the actual width of the mitochondrion between points A and B on the photograph, in metres to three significant figures, with magnification x23 500 (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the measured image width between points A and B is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1.46 um (1.46 x 10^-6 m)",
+     "steps": [
+      "Measure the line A to B on the photograph: about 34.4 mm.",
+      "Actual width = image length / magnification = 34.4 mm / 23 500 = 0.001464 mm.",
+      "Convert to micrometres: 0.001464 mm x 1000 = 1.46 um (3 s.f.)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-116.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-117.jpg",
@@ -80731,7 +80973,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q50.jpg"
+     ]
     },
     {
      "id": "8AB-Q50b(i)",
@@ -80780,9 +81024,12 @@ window.BANK.biology = {
       "oxygen"
      ],
      "question": "Amytal inhibits the electron transport chain in respiration. Which row of the table shows the changes caused by amytal in a cell? (1 mark)",
-     "status": "pending",
-     "answer": "Pending: the table of rows is not in the text, so the correct row cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: oxygen used decreases and Krebs cycle activity decreases",
+     "steps": [
+      "Amytal blocks the electron transport chain, so oxygen is not used as the final electron acceptor and oxygen use falls.",
+      "Reduced NAD and FAD are then not re-oxidised, so the Krebs cycle (which needs oxidised NAD) slows down as well."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-116.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-117.jpg",
@@ -80790,7 +81037,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q50-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q50b(iii)",
@@ -80871,9 +81120,14 @@ window.BANK.biology = {
       "conclusions"
      ],
      "question": "Comment on the conclusions that can be made from the graphs of mitochondrial number and ATP quantity after cell division and during differentiation of brain cells (4 marks).",
-     "status": "pending",
-     "answer": "Pending: the graphs of mitochondrial number and ATP quantity are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both mitochondrial number and ATP concentration rise during differentiation, supporting the idea that more mitochondria make more ATP, but ATP rises far less than the mitochondrial number.",
+     "steps": [
+      "The number of mitochondria per neurone rises from about 15 on day 1 to about 90 on day 5 and 545 on day 10, with a sharp rise after day 5, about 36-fold overall.",
+      "ATP concentration rises from about 3.2 to 7.5 a.u., only about 2.3 times, with a plateau between days 5 and 7, so it is not directly proportional (much of the ATP is being used for growing axons and forming synapses).",
+      "The error bars for ATP overlap on days 1 and 3 and on days 5 and 7 so some increases may not be significant, but the rise to day 10 is clear and the mitochondria error bars do not overlap after day 5.",
+      "The correlation does not prove that mitochondria cause the rise in ATP, and results come only up to 10 days."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-116.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-117.jpg",
@@ -80881,7 +81135,10 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q50-3.jpg",
+      "papers/biology/fig/08AB-Nervous-Coordination-Q50-4.jpg"
+     ]
     },
     {
      "id": "8AB-Q51a(i)",
@@ -80897,16 +81154,21 @@ window.BANK.biology = {
       "J K L M"
      ],
      "question": "Which label on the brain cross-section identifies the pituitary gland? A J, B K, C L, D M (1 mark).",
-     "status": "pending",
-     "answer": "Pending: the labelled cross-section diagram (J, K, L, M) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: J",
+     "steps": [
+      "J points to the small dark gland attached to the underside of the brain, in the hollow of the skull above the nasal cavity, which is the pituitary gland.",
+      "K is the cerebral hemisphere, L the brain stem (hypothalamus/medulla region) and M the cerebellum."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-120.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q51.jpg"
+     ]
     },
     {
      "id": "8AB-Q51a(ii)",
@@ -80954,16 +81216,22 @@ window.BANK.biology = {
       "changes"
      ],
      "question": "Comment on the changes in the concentration of growth hormone in the blood of males of different ages, using the graph (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the graph of GH concentration against age for males is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "GH concentration in males falls sharply from childhood to about age 30, then falls slowly and levels off at about 5 to 8 ng dm^-3 after about 40.",
+     "steps": [
+      "It falls from about 50 ng dm^-3 at age 10 to about 23 at 18 and about 12 at 28, a fall of about 75 % by age 30, the steepest part of the curve.",
+      "After about 40 years it changes little (about 6 to 8 ng dm^-3 up to 73 and about 5 at 86), so it is lower in older people than in young ones.",
+      "The error bars are large and overlap for many of the older ages (e.g. 28, 34 and 73), so small differences between these ages may not be significant."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-120.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q51-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q51c",
@@ -81073,14 +81341,20 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Complete the diagram of a motor neurone by naming the parts labelled A to C (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the motor neurone diagram with labels A to C is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: dendrite; B: cell body; C: myelin sheath (Schwann cell)",
+     "steps": [
+      "A points to a thin branching process that carries impulses towards the cell body: a dendrite.",
+      "B points to the main body of the neurone containing the nucleus: the cell body.",
+      "C points to one of the sausage-shaped insulating segments along the axon: a myelin sheath formed by a Schwann cell."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-123.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-124.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q52.jpg"
+     ]
     },
     {
      "id": "8AB-Q52b",
@@ -81186,15 +81460,23 @@ window.BANK.biology = {
       "discuss"
      ],
      "question": "Discuss the role of bacteria, inflammation and lifestyle in ageing, using the graphs of the changes in bacteria and inflammation during healthy and unhealthy ageing (6 marks).",
-     "status": "pending",
-     "answer": "Pending: the two graphs of bacteria types and inflammation during healthy and unhealthy ageing are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Ageing brings more harmful bacteria, fewer protective ones and more inflammation, which rise faster with an unhealthy lifestyle; a healthy lifestyle slows these changes and keeps people healthy for longer.",
+     "steps": [
+      "Graph 1: pathogenic bacteria increase with age, and the rise is steeper in unhealthy ageing, reaching a higher level over a shorter life.",
+      "Graph 2: protective bacteria decrease with age, and fall faster in unhealthy ageing, so the pathogenic bacteria are no longer controlled.",
+      "Graph 3: inflammation increases with age and more steeply in unhealthy ageing, so more pathogens and fewer protective bacteria go with more inflammation, which can damage tissues in different parts of the body (e.g. gut, joints and blood vessels) and add to age-related disease.",
+      "Lifestyle factors such as a poor diet, lack of exercise, smoking and stress would favour pathogens and inflammation, whereas a healthy diet and exercise help keep protective bacteria and reduce inflammation.",
+      "The graphs show the trends only (no values), and association does not prove that bacteria cause the inflammation."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-125.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-126.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-127.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q53.jpg"
+     ]
     },
     {
      "id": "8AB-Q54a",
@@ -81243,9 +81525,14 @@ window.BANK.biology = {
       "graphs"
      ],
      "question": "Determine the effect of light (red, blue and white light at low and high intensities) on the growth of peanut seedlings, using the graphs (4 marks).",
-     "status": "pending",
-     "answer": "Pending: the graphs of seedling growth under each light condition are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Red light gives the tallest seedlings, then blue, then white, at both intensities, and plants grow much more in high light intensity, while those in low intensity die after 32 days.",
+     "steps": [
+      "High intensity: seedlings grow steadily for 55 days, with red light the best (about 19 to 42 cm), blue about 10 to 24 cm and white only about 7 to 15 cm.",
+      "Low intensity: there is little growth (red about 16 to 17, blue about 12 to 14 and white about 6 to 9 cm) and the plants died after 32 days.",
+      "So the colour matters: red light (acting through phytochrome) promotes elongation more than blue or white light, which contains blue, so the seedlings are less tall, and a higher intensity gives more height for the same colour (red 28 cm against 17 cm at 32 days).",
+      "Each point appears to be a single value, so the differences have no statistical test."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-127.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-128.jpg",
@@ -81253,7 +81540,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-130.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-131.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q54.jpg"
+     ]
     },
     {
      "id": "8AB-Q54c",
@@ -81302,9 +81591,12 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Calculate the percentage change in germination between 200 ppm and 400 ppm gibberellin, as a whole number, using the table of results (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the table of germination percentages at each gibberellin concentration is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "60 % decrease",
+     "steps": [
+      "Number germinating at 200 ppm = 114 and at 400 ppm = 46, so the change is 46 - 114 = -68.",
+      "Percentage change = -68 / 114 x 100 = -59.6 %, which is a decrease of 60 % to a whole number."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-127.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-128.jpg",
@@ -81312,7 +81604,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-130.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-131.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q54-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q54d(ii)",
@@ -81485,16 +81779,22 @@ window.BANK.biology = {
       "comment"
      ],
      "question": "Comment on the toxicity of TTX in mice, using the graph of percentage of mice dying at each dose (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the graph of percentage of mice dying at each TTX dose is needed and is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "TTX is highly toxic: very small doses kill mice, with none dying up to 6.0 ug kg^-1 but all dying at 10 ug kg^-1, so the lethal dose lies in a narrow range.",
+     "steps": [
+      "No mice died at 6.0 ug kg^-1 or less, then the percentage dying rises steeply (about 4 % at 6.5, 22 % at 7.5, 50 % at about 8.5 and 90 % at 9.5), so it is dose-dependent.",
+      "All the mice died at 10.0 ug kg^-1, only 4 ug kg^-1 above the highest dose with no deaths, so a small increase in dose changes the outcome a lot.",
+      "The LD50 of 8.4 ug kg^-1 is very small (about 0.0084 mg per kg), so TTX is toxic even in tiny amounts; the points are close to the line of best fit, so it fits well."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-131.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-132.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-133.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-134.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q55.jpg"
+     ]
     }
    ]
   },

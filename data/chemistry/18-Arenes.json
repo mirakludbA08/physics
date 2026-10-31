@@ -49,12 +49,19 @@
         "primary structure"
       ],
       "question": "How many different amino acids were used to form the part of the protein structure shown in the PDF? A 3, B 4, C 5, D 6.",
-      "status": "pending",
-      "answer": "Needs the protein structure diagram from the PDF to count the different amino acid residues",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 4",
+      "steps": [
+        "Split the chain at each amide (peptide) link; each residue is N-CH(R)-C(=O) with side chain R on the alpha carbon.",
+        "Reading left to right the side chains are CH3 (alanine), H (glycine), CH2OH (serine), CH(OH)CH3 (threonine), CH2OH (serine), CH3 (alanine).",
+        "Alanine and serine each occur twice, so the different amino acids are alanine, glycine, serine and threonine = 4, option B."
+      ],
       "images": [
         "papers/chemistry/img/18-Arenes-01.jpg",
         "papers/chemistry/img/18-Arenes-02.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/18-Arenes-Q2.jpg"
       ]
     },
     {
@@ -72,13 +79,20 @@
         "standard enthalpy"
       ],
       "question": "Using the standard enthalpies of combustion of cyclohexene and cyclohexa-1,4-diene (values in a table in the PDF), calculate the enthalpy of combustion of the theoretical compound cyclohexa-1,3,5-triene.",
-      "status": "pending",
-      "answer": "Needs the standard enthalpies of combustion table from the PDF; the values are not in the extraction",
-      "steps": [],
+      "status": "ready",
+      "answer": "-3416 kJ mol^-1",
+      "steps": [
+        "Going from cyclohexene (-3752) to cyclohexa-1,4-diene (-3584) adds one C=C (loses H2): change = -3584 - (-3752) = +168 kJ mol^-1.",
+        "Adding the next C=C (cyclohexa-1,3,5-triene, C6H6) should change the value by the same +168 kJ mol^-1.",
+        "Triene = -3584 + 168 = -3416 kJ mol^-1 (compare benzene -3267, so benzene is about 149 kJ mol^-1 less exothermic, i.e. more stable)."
+      ],
       "images": [
         "papers/chemistry/img/18-Arenes-02.jpg",
         "papers/chemistry/img/18-Arenes-03.jpg",
         "papers/chemistry/img/18-Arenes-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/18-Arenes-Q3ai.jpg"
       ]
     },
     {
@@ -109,6 +123,9 @@
         "papers/chemistry/img/18-Arenes-02.jpg",
         "papers/chemistry/img/18-Arenes-03.jpg",
         "papers/chemistry/img/18-Arenes-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/18-Arenes-Q3ai.jpg"
       ]
     },
     {
@@ -244,12 +261,19 @@
         "sulfonic acid"
       ],
       "question": "What is the product when benzene reacts with fuming sulfuric acid? The answer options are not in the extraction.",
-      "status": "pending",
-      "answer": "Needs the answer options from the PDF; they are missing from the extraction (expected: benzenesulfonic acid)",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: benzenesulfonic acid, C6H5SO3H",
+      "steps": [
+        "Fuming sulfuric acid contains SO3, which (or HSO3+) is the electrophile in electrophilic substitution of benzene.",
+        "One ring H is replaced by the sulfonic acid group -SO3H: sulfur is bonded to the ring, to two double-bonded oxygens (S=O) and to one -OH.",
+        "D shows exactly this group. A has no OH, B is a sulfinate (O-S bond to the ring, only one S=O), and C has only one S=O with two OH groups."
+      ],
       "images": [
         "papers/chemistry/img/18-Arenes-05.jpg",
         "papers/chemistry/img/18-Arenes-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/18-Arenes-Q5.jpg"
       ]
     },
     {
@@ -268,12 +292,19 @@
         "could not be formed"
       ],
       "question": "Which of the given compounds could NOT be formed when excess benzene is heated with trichloromethane (CHCl3) in the presence of aluminium chloride? The options (structures) are not in the extraction.",
-      "status": "pending",
-      "answer": "Needs the structures listed as options from the PDF; they are missing from the extraction",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: tetraphenylmethane, C(C6H5)4",
+      "steps": [
+        "With AlCl3, CHCl3 acts as a Friedel-Crafts alkylating agent: each substitution replaces one C-Cl bond by a C-phenyl bond.",
+        "With excess benzene the products can be PhCHCl2 (A), Ph2CHCl (B) and Ph3CH (C, three phenyls, one H).",
+        "The C-H bond of CHCl3 is not substituted, so the carbon can never carry four phenyl groups; D cannot be formed."
+      ],
       "images": [
         "papers/chemistry/img/18-Arenes-05.jpg",
         "papers/chemistry/img/18-Arenes-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/18-Arenes-Q6.jpg"
       ]
     },
     {
@@ -292,12 +323,19 @@
         "orbital"
       ],
       "question": "The delocalised electrons in benzene result from the overlap of which orbitals? Options A and B (s orbitals) and C and D (p orbitals) are given, differing in the bond symbol (Greek letter) lost in the extraction.",
-      "status": "pending",
-      "answer": "Needs the Greek bond symbols in options C and D from the PDF; the expected answer is D (p orbitals sideways to form pi bonds)",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: p orbitals overlapping sideways to form pi bonds",
+      "steps": [
+        "Each carbon in benzene has one unhybridised p orbital perpendicular to the plane of the ring.",
+        "Sideways overlap of these p orbitals forms pi bonds, giving a ring of delocalised pi electrons above and below the plane.",
+        "s orbitals cannot give the delocalised system and sigma overlap is end-on, so only D is correct."
+      ],
       "images": [
         "papers/chemistry/img/18-Arenes-06.jpg",
         "papers/chemistry/img/18-Arenes-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/18-Arenes-Q7.jpg"
       ]
     },
     {
@@ -373,12 +411,19 @@
         "covalent"
       ],
       "question": "How many sigma and how many pi bonds are there in a molecule of benzene? The answer options are not in the extraction.",
-      "status": "pending",
-      "answer": "Needs the answer options from the PDF (expected: 12 sigma bonds and 3 pi bonds)",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 12 sigma bonds and 3 pi bonds",
+      "steps": [
+        "Sigma bonds: 6 C-C ring bonds + 6 C-H bonds = 12.",
+        "Pi bonds: each carbon contributes one p electron; the six electrons are equivalent to 3 pi bonds (delocalised over the ring).",
+        "So 12 sigma and 3 pi, option C."
+      ],
       "images": [
         "papers/chemistry/img/18-Arenes-07.jpg",
         "papers/chemistry/img/18-Arenes-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/18-Arenes-Q10.jpg"
       ]
     },
     {
@@ -456,11 +501,18 @@
         "statement"
       ],
       "question": "Which is correct for the reaction of bromine with phenol when compared with benzene? The options are not in the extraction.",
-      "status": "pending",
-      "answer": "Needs the answer options from the PDF; they are missing from the extraction",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: phenol is more reactive, with a higher electron density in the ring",
+      "steps": [
+        "A lone pair on the oxygen of phenol overlaps with the ring pi system and is partly delocalised into it.",
+        "This raises the electron density of the ring, so it polarises bromine more strongly and attacks it more readily.",
+        "Phenol is therefore more reactive than benzene (higher electron density), option A."
+      ],
       "images": [
         "papers/chemistry/img/18-Arenes-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/18-Arenes-Q13.jpg"
       ]
     },
     {
@@ -536,13 +588,24 @@
         "pi bonds"
       ],
       "question": "Using the thermochemical, X-ray diffraction and bromination information on benzene and cyclohexene shown in the PDF, explain how this provides evidence that the electrons in the pi bonds of benzene are delocalised.",
-      "status": "pending",
-      "answer": "Needs the thermochemical, X-ray diffraction and bromination data tables from the PDF; they are not in the extraction",
-      "steps": [],
+      "status": "ready",
+      "answer": "Benzene is more stable than a localised triene (hydrogenation), has six equal C-C bonds of intermediate length (X-ray) and reacts by substitution under harsher conditions than cyclohexene (bromination): all consistent with delocalised pi electrons.",
+      "steps": [
+        "Thermochemical: cyclohexene -120 kJ mol^-1, so a Kekule benzene with three C=C would give 3 x -120 = -360 kJ mol^-1; the actual -208 kJ mol^-1 is about 152 kJ mol^-1 less exothermic, so benzene is lower in energy (more stable) than a localised structure.",
+        "This extra stability is explained by delocalisation of the pi electrons around the whole ring.",
+        "X-ray diffraction: all benzene C-C bonds are 139 pm, whereas cyclohexene has C=C 129 pm and C-C 150 and 153 pm; a Kekule structure would have alternating long and short bonds.",
+        "Benzene bond length lies between C=C and C-C and all six are equal, so the pi electrons are shared evenly around the ring, not localised in three double bonds.",
+        "Bromination: cyclohexene reacts with bromine at room temperature (electrophilic addition), while benzene needs FeBr3 and heat and gives a substitution product, bromobenzene.",
+        "Delocalised electrons make the ring less electron-rich at any one bond and keep the stable ring intact (substitution rather than addition), so benzene does not behave like an alkene."
+      ],
       "images": [
         "papers/chemistry/img/18-Arenes-10.jpg",
         "papers/chemistry/img/18-Arenes-11.jpg",
         "papers/chemistry/img/18-Arenes-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/18-Arenes-Q16.jpg",
+        "papers/chemistry/fig/18-Arenes-Q16-2.jpg"
       ]
     },
     {
@@ -1027,12 +1090,19 @@
         "benzene"
       ],
       "question": "The formation of nitrobenzene requires benzene and concentrated nitric and sulfuric acids. Which is an equation for the reaction that forms the electrophile? The options are not in the extraction.",
-      "status": "pending",
-      "answer": "Needs the answer options from the PDF; they are missing from the extraction (expected: HNO3 + 2H2SO4 -> NO2+ + H3O+ + 2HSO4-)",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: HNO3 + 2H2SO4 -> NO2+ + 2HSO4- + H3O+",
+      "steps": [
+        "The electrophile is the nitronium ion NO2+, formed when nitric acid accepts protons from sulfuric acid.",
+        "B is balanced (5 H, 11 O, one N on each side; charge 0 on each side) and shows HSO4- as the conjugate base of H2SO4 and water leaving as H3O+.",
+        "A also balances but forms SO4^2- (ionising H2SO4 twice), which does not happen in concentrated acid; C and D do not give NO2+ or are not sensible equations."
+      ],
       "images": [
         "papers/chemistry/img/18-Arenes-18.jpg",
         "papers/chemistry/img/18-Arenes-19.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/18-Arenes-Q22.jpg"
       ]
     },
     {
@@ -1110,13 +1180,19 @@
         "kekule"
       ],
       "question": "Complete the incomplete Hess cycle for benzene by adding balancing numbers (the cycle diagram is not in the extraction).",
-      "status": "pending",
-      "answer": "Needs the Hess cycle diagram from the PDF to add the balancing numbers",
-      "steps": [],
+      "status": "ready",
+      "answer": "6C(g) + 6H(g) (top left); 6C(s) + 3H2(g) (bottom left)",
+      "steps": [
+        "Top left: benzene has 6 C and 6 H, so atomising it gives 6C(g) + 6H(g).",
+        "Bottom left: the elements in their standard states are 6C(s) + 3H2(g) (3 H2 provide 6 H atoms)."
+      ],
       "images": [
         "papers/chemistry/img/18-Arenes-19.jpg",
         "papers/chemistry/img/18-Arenes-20.jpg",
         "papers/chemistry/img/18-Arenes-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/18-Arenes-Q25.jpg"
       ]
     },
     {
@@ -1135,13 +1211,22 @@
         "calculation"
       ],
       "question": "Calculate the mean carbon-carbon bond enthalpy in benzene using the completed Hess cycle and the data shown in the PDF (the enthalpy data table is not in the extraction).",
-      "status": "pending",
-      "answer": "Needs the enthalpy data shown in the PDF Hess cycle to calculate the mean C-C bond enthalpy",
-      "steps": [],
+      "status": "ready",
+      "answer": "+507 kJ mol^-1",
+      "steps": [
+        "Atomisation of the elements: 6 x (+715) + 3 x (+436) = 4290 + 1308 = +5598 kJ mol^-1.",
+        "Hess: 5598 = (+49.0) + (+31) + enthalpy of atomisation of C6H6(g), so atomisation of C6H6(g) = 5598 - 80 = +5518 kJ mol^-1.",
+        "This breaks 6 C-H bonds (6 x 413 = 2478) and 6 equal C-C bonds: 5518 - 2478 = 3040 kJ mol^-1.",
+        "Mean C-C bond enthalpy = 3040 / 6 = +507 kJ mol^-1 (506.7)."
+      ],
       "images": [
         "papers/chemistry/img/18-Arenes-19.jpg",
         "papers/chemistry/img/18-Arenes-20.jpg",
         "papers/chemistry/img/18-Arenes-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/18-Arenes-Q25.jpg",
+        "papers/chemistry/fig/18-Arenes-Q25-2.jpg"
       ]
     },
     {

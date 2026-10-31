@@ -49,13 +49,21 @@
         "proton NMR table"
       ],
       "question": "Isomer E contains an ether group and a ketone group and its low-resolution 1H NMR spectrum has four peaks. Complete the table for the four labelled hydrogen environments, including the splitting pattern in high-resolution spectrum.",
-      "status": "pending",
-      "answer": "Needs the displayed formula of E and the table layout from the PDF to check the labelled hydrogen environments",
-      "steps": [],
+      "status": "ready",
+      "answer": "b: relative area 2, shift 2.9-4.2 ppm, triplet; c: relative area 2, shift 2.2-2.7 ppm, triplet; d: relative area 3, shift 2.2-2.7 ppm, singlet",
+      "steps": [
+        "Relative peak area = number of H in each environment: CH3-O (a) = 3, O-CH2 (b) = 2, CH2-C=O (c) = 2, CH3-C=O (d) = 3",
+        "Peak b (O-CH2) is next to the CH2 (c) only, so n = 2 neighbours gives n+1 = 3: a triplet; its shift is 2.9-4.2 ppm because the carbon is bonded to oxygen",
+        "Peak c (CH2-C=O) is next to the CH2 (b) only, so it is also a triplet; being next to C=O it comes at about 2.2-2.7 ppm",
+        "Peak d (CH3-C=O) has no hydrogens on the neighbouring carbonyl carbon, so it is a singlet, area 3, at about 2.2-2.7 ppm"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-01.jpg",
         "papers/chemistry/img/15E-Spectroscopy-02.jpg",
         "papers/chemistry/img/15E-Spectroscopy-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q1.jpg"
       ]
     },
     {
@@ -71,13 +79,20 @@
         "equivalent carbons"
       ],
       "question": "State the number of peaks in the carbon-13 NMR spectrum of isomer E.",
-      "status": "pending",
-      "answer": "Needs the displayed formula of isomer E from the PDF to count the distinct carbon environments",
-      "steps": [],
+      "status": "ready",
+      "answer": "5 peaks",
+      "steps": [
+        "Each different carbon environment gives one peak in the 13C NMR spectrum",
+        "E is CH3-O-CH2-CH2-C(=O)-CH3, and none of its five carbons is equivalent to another: CH3O, OCH2, CH2C=O, C=O and CH3C=O",
+        "So there are 5 peaks"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-01.jpg",
         "papers/chemistry/img/15E-Spectroscopy-02.jpg",
         "papers/chemistry/img/15E-Spectroscopy-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q1.jpg"
       ]
     },
     {
@@ -207,13 +222,22 @@
         "structure labels"
       ],
       "question": "Label the hydrogen environments w, x, y and z on the displayed formula of ethyl 3-oxobutanoate to match the four peaks in its 1H NMR spectrum.",
-      "status": "pending",
-      "answer": "Needs the NMR spectrum with the w, x, y, z peaks from the PDF to check the labels",
-      "steps": [],
+      "status": "ready",
+      "answer": "w = the OCH2 hydrogens of the ethyl group; x = the COCH2CO hydrogens; y = the CH3 of CH3CO; z = the CH3 of the ethyl group (CH2CH3)",
+      "steps": [
+        "w (about 4.2 ppm, quartet): the CH2 bonded to the ester oxygen, deshielded by O and split by the 3 H of the neighbouring CH3",
+        "x (about 3.5 ppm, singlet): the CH2 between the ketone C=O and the ester C=O, which has no hydrogens on adjacent carbons",
+        "y (about 2.3 ppm, singlet, tallest peak so 3H): the CH3 attached to the ketone C=O",
+        "z (about 1.3 ppm, triplet): the CH3 of the ethyl group, split by the 2 H of the neighbouring OCH2"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-03.jpg",
         "papers/chemistry/img/15E-Spectroscopy-04.jpg",
         "papers/chemistry/img/15E-Spectroscopy-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q2.jpg",
+        "papers/chemistry/fig/15E-Spectroscopy-Q2-2.jpg"
       ]
     },
     {
@@ -243,6 +267,9 @@
         "papers/chemistry/img/15E-Spectroscopy-03.jpg",
         "papers/chemistry/img/15E-Spectroscopy-04.jpg",
         "papers/chemistry/img/15E-Spectroscopy-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q2.jpg"
       ]
     },
     {
@@ -289,13 +316,21 @@
         "labels"
       ],
       "question": "Complete a diagram of a thin-layer chromatogram for ethyl 3-oxobutanoate (Rf = 0.45 in ethoxyethane and hexane), including appropriate labels.",
-      "status": "pending",
-      "answer": "Needs the blank chromatogram diagram from the PDF to check the drawn spot position and labels",
-      "steps": [],
+      "status": "ready",
+      "answer": "A rectangle showing a labelled baseline near the bottom, a labelled solvent front near the top, and one spot labelled ethyl 3-oxobutanoate at 0.45 of the distance from baseline to solvent front",
+      "steps": [
+        "Draw a horizontal start (origin) line near the bottom and label it baseline; the solvent front line near the top should also be labelled",
+        "Draw one spot for ethyl 3-oxobutanoate (a single compound gives one spot) and label it",
+        "Position the spot so that its distance from the baseline is 0.45 x the distance from the baseline to the solvent front, e.g. 4.5 cm up if the solvent front is 10 cm from the baseline",
+        "Rf = distance moved by spot / distance moved by solvent front = 0.45"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-03.jpg",
         "papers/chemistry/img/15E-Spectroscopy-04.jpg",
         "papers/chemistry/img/15E-Spectroscopy-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q2-3.jpg"
       ]
     },
     {
@@ -367,12 +402,19 @@
         "C8H16O2"
       ],
       "question": "Give the IUPAC name of ester Y from its structure shown in the question.",
-      "status": "pending",
-      "answer": "Needs the displayed structure of Y from the PDF to name it",
-      "steps": [],
+      "status": "ready",
+      "answer": "2,2-dimethylpropyl propanoate",
+      "steps": [
+        "The part from the acid is CH3CH2C(=O)-, three carbons, so the ester is a propanoate",
+        "The part from the alcohol is -CH2C(CH3)3: a propyl chain (three carbons) with two methyl groups on carbon 2, so it is 2,2-dimethylpropyl",
+        "The alkyl group is named first and the acid part second: 2,2-dimethylpropyl propanoate (C8H16O2)"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-06.jpg",
         "papers/chemistry/img/15E-Spectroscopy-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q3.jpg"
       ]
     },
     {
@@ -389,12 +431,19 @@
         "reactants"
       ],
       "question": "Draw the structures of two organic compounds that react together to form ester Y.",
-      "status": "pending",
-      "answer": "Needs the displayed structure of Y from the PDF to deduce the acid and alcohol",
-      "steps": [],
+      "status": "ready",
+      "answer": "Propanoic acid, CH3CH2COOH, and 2,2-dimethylpropan-1-ol, (CH3)3CCH2OH (an acid chloride such as propanoyl chloride could replace the acid)",
+      "steps": [
+        "Break the ester C-O single bond: the C=O side becomes the carboxylic acid CH3CH2COOH",
+        "The O-CH2C(CH3)3 side becomes the alcohol HOCH2C(CH3)3, 2,2-dimethylpropan-1-ol",
+        "Esterification of these two with a strong acid catalyst (conc. H2SO4) and heat gives Y plus water"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-06.jpg",
         "papers/chemistry/img/15E-Spectroscopy-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q3.jpg"
       ]
     },
     {
@@ -410,12 +459,20 @@
         "structure labels"
       ],
       "question": "Label the three remaining hydrogen environments B, C and D on the structure of ester Y.",
-      "status": "pending",
-      "answer": "Needs the displayed structure of Y from the PDF to place the labels",
-      "steps": [],
+      "status": "ready",
+      "answer": "B = the CH2 of the ethyl group (next to C=O); C = the OCH2; D = the three equivalent CH3 groups on the quaternary carbon, linked as one environment",
+      "steps": [
+        "A (given) is the CH3 of the ethyl group",
+        "B labels the CH2 between the CH3 and the C=O",
+        "C labels the CH2 bonded to the ester oxygen",
+        "D labels all three CH3 groups on the C(CH3)3 carbon, because they are equivalent (one label, circled together)"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-06.jpg",
         "papers/chemistry/img/15E-Spectroscopy-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q3-2.jpg"
       ]
     },
     {
@@ -432,12 +489,21 @@
         "hydrogen environments"
       ],
       "question": "Complete the table of data from the high-resolution 1H NMR spectrum of ester Y.",
-      "status": "pending",
-      "answer": "Needs the table layout and the NMR spectrum data from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: quartet, relative area 2; C: singlet, relative area 2; D: singlet, relative area 9",
+      "steps": [
+        "B (CH2 of ethyl) has three neighbouring H on the CH3 (A), so n + 1 = 4: a quartet, area 2",
+        "C (OCH2) is bonded to the quaternary carbon, which has no H, so there is no splitting: a singlet, area 2",
+        "D (3 x CH3 on the quaternary carbon) has no H on the adjacent carbon: a singlet, area 9 (3 x 3 H)",
+        "Check: total area 3 + 2 + 2 + 9 = 16, matching the 16 H in C8H16O2"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-06.jpg",
         "papers/chemistry/img/15E-Spectroscopy-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q3-2.jpg",
+        "papers/chemistry/fig/15E-Spectroscopy-Q3-3.jpg"
       ]
     },
     {
@@ -506,13 +572,20 @@
         "intermolecular attraction"
       ],
       "question": "A component in a TLC mixture has Rf = 0.92. What can be deduced about its attractions to the stationary and mobile phases? (Answer options are not in the text.)",
-      "status": "pending",
-      "answer": "Needs the answer options A-D, which are missing from the text; the deduction is that the component is held more strongly by the mobile phase than by the stationary phase",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: weak attraction to the stationary phase and strong attraction to the mobile phase",
+      "steps": [
+        "Rf = distance moved by component / distance moved by solvent, so Rf = 0.92 means the component travelled almost as far as the solvent front",
+        "It therefore spent most of its time dissolved in the mobile phase: strong attraction to the mobile phase",
+        "It was held only weakly by the stationary phase, so option D"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-08.jpg",
         "papers/chemistry/img/15E-Spectroscopy-09.jpg",
         "papers/chemistry/img/15E-Spectroscopy-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q5.jpg"
       ]
     },
     {
@@ -528,13 +601,20 @@
         "C10H18O"
       ],
       "question": "Give the molecular formula of menthone from its skeletal formula.",
-      "status": "pending",
-      "answer": "Needs the skeletal formula of menthone from the PDF to count the carbon and hydrogen atoms",
-      "steps": [],
+      "status": "ready",
+      "answer": "C10H18O",
+      "steps": [
+        "Count carbons: 6 in the ring, 1 in the methyl group and 3 in the propan-2-yl (isopropyl) group = 10 C",
+        "Hydrogens: ring CH2 x 3 = 6, ring CH x 2 = 2, CH3 = 3, isopropyl CH(CH3)2 = 7, giving 6 + 2 + 3 + 7 = 18 H",
+        "The C=O gives 1 O, so the formula is C10H18O"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-08.jpg",
         "papers/chemistry/img/15E-Spectroscopy-09.jpg",
         "papers/chemistry/img/15E-Spectroscopy-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q6.jpg"
       ]
     },
     {
@@ -779,15 +859,22 @@
         "butanoic acid derivatives"
       ],
       "question": "A reaction scheme involving butanoic acid is shown. Identify X, Y and Z by name or formula.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme diagram from the PDF to identify X, Y and Z",
-      "steps": [],
+      "status": "ready",
+      "answer": "X = butan-1-ol, CH3CH2CH2CH2OH; Y = phosphorus(V) chloride, PCl5 (or SOCl2); Z = N-methylbutanamide, CH3CH2CH2CONHCH3",
+      "steps": [
+        "Acidified K2Cr2O7 heated under reflux oxidises a primary alcohol fully to a carboxylic acid, so X is butan-1-ol",
+        "A carboxylic acid is converted into an acyl chloride by PCl5 (or PCl3 or SOCl2), so Y is PCl5",
+        "Butanoyl chloride reacts with methylamine (nucleophilic addition-elimination), losing HCl, to give the N-substituted amide CH3CH2CH2CONHCH3"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-10.jpg",
         "papers/chemistry/img/15E-Spectroscopy-11.jpg",
         "papers/chemistry/img/15E-Spectroscopy-12.jpg",
         "papers/chemistry/img/15E-Spectroscopy-13.jpg",
         "papers/chemistry/img/15E-Spectroscopy-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q7.jpg"
       ]
     },
     {
@@ -804,15 +891,22 @@
         "dicarboxylic acid"
       ],
       "question": "Give the structures of the two monomers that could form the polyester whose repeat unit is shown.",
-      "status": "pending",
-      "answer": "Needs the polyester repeat unit diagram from the PDF to deduce the diol and dicarboxylic acid",
-      "steps": [],
+      "status": "ready",
+      "answer": "Monomer 1: ethane-1,2-diol, HOCH2CH2OH; Monomer 2: (E)-but-2-enedioic acid, HOOCCH=CHCOOH",
+      "steps": [
+        "A polyester repeat unit contains ester links -O-C(=O)-, formed from a diol and a dicarboxylic acid (condensation, losing water)",
+        "The -OCH2CH2O- section comes from ethane-1,2-diol",
+        "The -C(=O)CH=CHC(=O)- section comes from but-2-enedioic acid (drawn with the H atoms trans, so fumaric acid); the acid chloride or diacyl dichloride would also do"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-10.jpg",
         "papers/chemistry/img/15E-Spectroscopy-11.jpg",
         "papers/chemistry/img/15E-Spectroscopy-12.jpg",
         "papers/chemistry/img/15E-Spectroscopy-13.jpg",
         "papers/chemistry/img/15E-Spectroscopy-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q7-2.jpg"
       ]
     },
     {
@@ -842,6 +936,9 @@
         "papers/chemistry/img/15E-Spectroscopy-12.jpg",
         "papers/chemistry/img/15E-Spectroscopy-13.jpg",
         "papers/chemistry/img/15E-Spectroscopy-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q7-4.jpg"
       ]
     },
     {
@@ -913,15 +1010,24 @@
         "structure deduction"
       ],
       "question": "Data from the high-resolution 1H NMR spectrum of E is shown. Deduce the structure of E and justify it by labelling the protons responsible for each peak.",
-      "status": "pending",
-      "answer": "Needs the 1H NMR spectrum data from the PDF to deduce the structure of E",
-      "steps": [],
+      "status": "ready",
+      "answer": "E = propyl ethanoate, CH3COOCH2CH2CH3",
+      "steps": [
+        "E is an ester (from parts (ii) and (iii)) of formula C5H10O2; the total relative peak area 2 + 3 + 2 + 3 = 10 matches 10 H",
+        "A, 4.02 ppm, triplet, 2H: the OCH2, next to CH2 (2 neighbours + 1 = triplet) and deshielded by O",
+        "B, 2.05 ppm, singlet, 3H: CH3 attached to C=O with no H on the neighbouring carbon",
+        "C, 1.65 ppm, sextet, 2H: the middle CH2, which has 5 neighbouring H (OCH2 and CH3)",
+        "D, 0.95 ppm, triplet, 3H: the terminal CH3, next to a CH2"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-10.jpg",
         "papers/chemistry/img/15E-Spectroscopy-11.jpg",
         "papers/chemistry/img/15E-Spectroscopy-12.jpg",
         "papers/chemistry/img/15E-Spectroscopy-13.jpg",
         "papers/chemistry/img/15E-Spectroscopy-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q7-3.jpg"
       ]
     },
     {
@@ -947,6 +1053,9 @@
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-14.jpg",
         "papers/chemistry/img/15E-Spectroscopy-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q8.jpg"
       ]
     },
     {
@@ -962,12 +1071,19 @@
         "labelled carbons P Q R S"
       ],
       "question": "Which labelled carbon atom (P, Q, R or S) of menthol is responsible for the 13C NMR peak at 72 ppm? Options: A P, B Q, C R, D S.",
-      "status": "pending",
-      "answer": "Needs the labelled structure of menthol and the answer options from the PDF to identify the C-OH carbon",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Q",
+      "steps": [
+        "In 13C NMR a carbon bonded to an oxygen atom (C-OH, alcohol) appears at about 50-90 ppm, here 72 ppm, whereas other alkane-type carbons are below about 50 ppm",
+        "In the structure, the OH is attached to carbon Q",
+        "So the peak at 72 ppm is due to Q (option B)"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-14.jpg",
         "papers/chemistry/img/15E-Spectroscopy-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q8.jpg"
       ]
     },
     {
@@ -984,12 +1100,20 @@
         "secondary alcohol"
       ],
       "question": "Four groups warmed menthol with sodium dichromate(VI) in acid and tested the product. Which group recorded the expected results (A One, B Two, C Three, D Four)?",
-      "status": "pending",
-      "answer": "Needs the results table with ticks and crosses from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Group Two (2,4-DNPH positive, Fehling's negative, PCl5 negative)",
+      "steps": [
+        "Menthol is a secondary alcohol, so warming with acidified dichromate(VI) oxidises it to a ketone (menthone)",
+        "A ketone gives an orange precipitate with 2,4-DNPH (tick), does not reduce Fehling's solution (cross) and has no -OH, so it gives no misty fumes with PCl5 (cross)",
+        "Group Two is the only row with tick, cross, cross, so option B"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-14.jpg",
         "papers/chemistry/img/15E-Spectroscopy-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q8.jpg",
+        "papers/chemistry/fig/15E-Spectroscopy-Q8-2.jpg"
       ]
     },
     {
@@ -1005,12 +1129,19 @@
         "compound X"
       ],
       "question": "The high-resolution mass spectrum of compound X has a molecular ion peak at m/z = 44.0632. Which compound with Mr 44 gives this peak? (The options are in a diagram not present in the text.)",
-      "status": "pending",
-      "answer": "Needs the answer options (diagram) from the PDF to choose the compound",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: propane, C3H8",
+      "steps": [
+        "Use the accurate masses: C3H8 = 3 x 12.0000 + 8 x 1.0079 = 36.0000 + 8.0632 = 44.0632",
+        "Ethanal and ethenol (both C2H4O) = 24.0000 + 4.0316 + 15.9949 = 44.0265, and CO2 = 12.0000 + 31.9898 = 43.9898, so neither matches",
+        "Only C3H8 gives 44.0632, so option C"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-15.jpg",
         "papers/chemistry/img/15E-Spectroscopy-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q9.jpg"
       ]
     },
     {
@@ -1205,14 +1336,23 @@
         "compound X"
       ],
       "question": "Explain how the number of peaks, their relative peak areas, their chemical shifts and their splitting patterns in the 1H NMR spectrum of X can confirm its structure.",
-      "status": "pending",
-      "answer": "Needs the simplified 1H NMR spectrum of X from the PDF to confirm the peak numbers, areas and splitting",
-      "steps": [],
+      "status": "ready",
+      "answer": "The spectrum has 3 peaks of relative heights 1 : 2 : 3, at about 11, 2.6 and 1.9 ppm, all singlets, which fits CH3COCH2COOH (3-oxobutanoic acid) and not CH3CH2COCOOH",
+      "steps": [
+        "Number of peaks: three peaks means three different hydrogen environments, which matches CH3COCH2COOH (CH3, CH2 and COOH)",
+        "Relative heights 1 : 2 : 3 give the ratio of hydrogens: 1 H (COOH), 2 H (CH2) and 3 H (CH3), total 6 H as in C4H6O3",
+        "Chemical shifts: about 11 ppm is the acid O-H of COOH (range about 10-12 ppm); about 2.6 ppm is the CH2 next to a C=O; about 1.9-2.2 ppm is the CH3 attached to C=O (data booklet range about 2.1-2.7 ppm)",
+        "Splitting: every peak is a singlet because no hydrogens are on adjacent carbons (the CH2 and CH3 are separated by the C=O), as in CH3COCH2COOH",
+        "The other isomer, CH3CH2COCOOH, would show a quartet (CH2) and a triplet (CH3), so it is ruled out"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-17.jpg",
         "papers/chemistry/img/15E-Spectroscopy-18.jpg",
         "papers/chemistry/img/15E-Spectroscopy-19.jpg",
         "papers/chemistry/img/15E-Spectroscopy-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q11.jpg"
       ]
     },
     {
@@ -1255,12 +1395,19 @@
         "baseline"
       ],
       "question": "A diagram of a thin-layer chromatogram of substance Y is shown. What is its Rf value? Options: A 0.25, B 0.60, C 0.75, D 1.33.",
-      "status": "pending",
-      "answer": "Needs the TLC diagram from the PDF to measure the distances",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 0.75",
+      "steps": [
+        "Rf = distance moved by the substance / distance moved by the solvent front, both measured from the baseline",
+        "Measuring on the diagram: baseline to solvent front is about 240 units and baseline to the spot is about 178 units (spot about three quarters of the way up)",
+        "Rf = 178 / 240 = 0.74, which is closest to 0.75, so option C (Rf cannot exceed 1, so D is impossible)"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-21.jpg",
         "papers/chemistry/img/15E-Spectroscopy-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q13.jpg"
       ]
     },
     {
@@ -1276,15 +1423,22 @@
         "structure drawing"
       ],
       "question": "Molecule A reacts in an intramolecular reaction with an acid catalyst to form cyclic ester B. Draw the structure of B.",
-      "status": "pending",
-      "answer": "Needs the structure of molecule A from the PDF to draw the cyclic ester B",
-      "steps": [],
+      "status": "ready",
+      "answer": "Cyclic ester B (a lactone): a five-membered ring containing -O-C(=O)-CH2-CH2-CH(CH3)-, i.e. 5-methyloxolan-2-one (4-pentanolide), C5H8O2",
+      "steps": [
+        "Molecule A is 4-hydroxypentanoic acid, CH3CH(OH)CH2CH2COOH, with an -OH and a -COOH in the same molecule",
+        "Intramolecular esterification: the -OH on carbon 4 attacks the COOH carbon and water is lost, forming an ester link inside the molecule",
+        "The ring contains the ester C(=O) carbon, two CH2 groups, the CH(CH3) carbon and the ring oxygen: five atoms in total"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-22.jpg",
         "papers/chemistry/img/15E-Spectroscopy-23.jpg",
         "papers/chemistry/img/15E-Spectroscopy-24.jpg",
         "papers/chemistry/img/15E-Spectroscopy-25.jpg",
         "papers/chemistry/img/15E-Spectroscopy-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q14.jpg"
       ]
     },
     {
@@ -1300,15 +1454,22 @@
         "two repeat units"
       ],
       "question": "Draw the condensation polymer C formed from A by intermolecular reaction, showing two repeat units.",
-      "status": "pending",
-      "answer": "Needs the structure of molecule A from the PDF to draw the polymer",
-      "steps": [],
+      "status": "ready",
+      "answer": "-[O-CH(CH3)-CH2-CH2-C(=O)]-n drawn as two units: -O-CH(CH3)CH2CH2C(=O)-O-CH(CH3)CH2CH2C(=O)- with the open bonds at both ends shown",
+      "steps": [
+        "Intermolecular reaction: the -OH of one molecule of A reacts with the -COOH of another, giving an ester link and losing water each time",
+        "A has both groups, so a polyester forms by condensation polymerisation",
+        "Repeat unit: -O-CH(CH3)-CH2-CH2-C(=O)-; show two such units joined through an ester -C(=O)-O- link, with continuation bonds at each end"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-22.jpg",
         "papers/chemistry/img/15E-Spectroscopy-23.jpg",
         "papers/chemistry/img/15E-Spectroscopy-24.jpg",
         "papers/chemistry/img/15E-Spectroscopy-25.jpg",
         "papers/chemistry/img/15E-Spectroscopy-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q14.jpg"
       ]
     },
     {
@@ -1354,15 +1515,22 @@
         "triglyceride"
       ],
       "question": "Give the molecular formula of the triester shown in the question.",
-      "status": "pending",
-      "answer": "Needs the displayed structure of the triester from the PDF to count atoms",
-      "steps": [],
+      "status": "ready",
+      "answer": "C9H14O6",
+      "steps": [
+        "The triester is propane-1,2,3-triyl triethanoate (glyceryl triethanoate): a C3H5 backbone with three -OCOCH3 groups",
+        "C: 3 + 3 x 2 = 9; H: 5 + 3 x 3 = 14; O: 3 x 2 = 6",
+        "Molecular formula C9H14O6"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-22.jpg",
         "papers/chemistry/img/15E-Spectroscopy-23.jpg",
         "papers/chemistry/img/15E-Spectroscopy-24.jpg",
         "papers/chemistry/img/15E-Spectroscopy-25.jpg",
         "papers/chemistry/img/15E-Spectroscopy-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q14-2.jpg"
       ]
     },
     {
@@ -1380,15 +1548,23 @@
         "saponification"
       ],
       "question": "Complete the equation for the alkaline hydrolysis of the triester with excess aqueous NaOH, showing the structures of the products.",
-      "status": "pending",
-      "answer": "Needs the triester structure from the PDF to give the carboxylate salt and alcohol products",
-      "steps": [],
+      "status": "ready",
+      "answer": "C9H14O6 + 3NaOH -> 3CH3COONa + CH2(OH)CH(OH)CH2OH (sodium ethanoate and propane-1,2,3-triol)",
+      "steps": [
+        "Alkaline hydrolysis breaks each ester link: three C(=O)-O bonds are broken",
+        "With excess NaOH the acid part is formed as its sodium salt, three CH3COO-Na+ (sodium ethanoate)",
+        "The alcohol part is the triol, propane-1,2,3-triol (glycerol), HOCH2CH(OH)CH2OH",
+        "Three NaOH are needed per triester, so the balancing number in front of NaOH is 3"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-22.jpg",
         "papers/chemistry/img/15E-Spectroscopy-23.jpg",
         "papers/chemistry/img/15E-Spectroscopy-24.jpg",
         "papers/chemistry/img/15E-Spectroscopy-25.jpg",
         "papers/chemistry/img/15E-Spectroscopy-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q14-2.jpg"
       ]
     },
     {
@@ -1403,15 +1579,21 @@
         "reaction scheme"
       ],
       "question": "Identify Reagent P in the reactions of ethanoyl chloride, CH3COCl, shown in the scheme.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme diagram from the PDF to identify reagent P",
-      "steps": [],
+      "status": "ready",
+      "answer": "Water, H2O",
+      "steps": [
+        "The acyl chloride CH3COCl is converted to the carboxylic acid CH3COOH",
+        "The Cl is replaced by OH, which is the effect of reacting with water (hydrolysis), releasing HCl"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-22.jpg",
         "papers/chemistry/img/15E-Spectroscopy-23.jpg",
         "papers/chemistry/img/15E-Spectroscopy-24.jpg",
         "papers/chemistry/img/15E-Spectroscopy-25.jpg",
         "papers/chemistry/img/15E-Spectroscopy-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q14-3.jpg"
       ]
     },
     {
@@ -1427,15 +1609,22 @@
         "scheme"
       ],
       "question": "Write a balanced equation for Reaction Q in the ethanoyl chloride scheme (state symbols not required).",
-      "status": "pending",
-      "answer": "Needs the reaction scheme diagram from the PDF to identify reaction Q",
-      "steps": [],
+      "status": "ready",
+      "answer": "CH3COCl + 2NH3 -> CH3CONH2 + NH4Cl",
+      "steps": [
+        "Reaction Q converts CH3COCl to the primary amide ethanamide, so the reagent is ammonia (concentrated or excess)",
+        "One NH3 substitutes for Cl, and a second NH3 takes up the HCl produced to form NH4Cl",
+        "Balanced: CH3COCl + 2NH3 -> CH3CONH2 + NH4Cl (CH3COCl + NH3 -> CH3CONH2 + HCl is also accepted)"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-22.jpg",
         "papers/chemistry/img/15E-Spectroscopy-23.jpg",
         "papers/chemistry/img/15E-Spectroscopy-24.jpg",
         "papers/chemistry/img/15E-Spectroscopy-25.jpg",
         "papers/chemistry/img/15E-Spectroscopy-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q14-3.jpg"
       ]
     },
     {
@@ -1450,15 +1639,21 @@
         "acyl chloride scheme"
       ],
       "question": "Suggest the structural formula of Reagent R in the ethanoyl chloride scheme.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme diagram from the PDF to identify reagent R",
-      "steps": [],
+      "status": "ready",
+      "answer": "CH3SH (methanethiol)",
+      "steps": [
+        "The product is CH3C(=O)-S-CH3, in which the Cl of the acyl chloride has been replaced by -SCH3",
+        "The reagent supplying this group is the thiol CH3SH, with loss of HCl"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-22.jpg",
         "papers/chemistry/img/15E-Spectroscopy-23.jpg",
         "papers/chemistry/img/15E-Spectroscopy-24.jpg",
         "papers/chemistry/img/15E-Spectroscopy-25.jpg",
         "papers/chemistry/img/15E-Spectroscopy-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q14-3.jpg"
       ]
     },
     {
@@ -1473,15 +1668,22 @@
         "acyl chloride scheme"
       ],
       "question": "Draw the skeletal formula of Reagent S in the ethanoyl chloride scheme.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme diagram from the PDF to identify reagent S",
-      "steps": [],
+      "status": "ready",
+      "answer": "N-methylethanamine, CH3CH2NHCH3: a skeletal zigzag chain of N with one methyl and one ethyl group (and an H on N)",
+      "steps": [
+        "The product is CH3C(=O)N(CH3)CH2CH3, a tertiary amide, so the N has gained a methyl and an ethyl group",
+        "The reagent is therefore the secondary amine CH3CH2-NH-CH3, which replaces Cl with the N (HCl lost)",
+        "Skeletal formula: ethyl group (two-segment zigzag) bonded to NH, which is bonded to a methyl line"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-22.jpg",
         "papers/chemistry/img/15E-Spectroscopy-23.jpg",
         "papers/chemistry/img/15E-Spectroscopy-24.jpg",
         "papers/chemistry/img/15E-Spectroscopy-25.jpg",
         "papers/chemistry/img/15E-Spectroscopy-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q14-3.jpg"
       ]
     },
     {
@@ -1515,6 +1717,9 @@
         "papers/chemistry/img/15E-Spectroscopy-24.jpg",
         "papers/chemistry/img/15E-Spectroscopy-25.jpg",
         "papers/chemistry/img/15E-Spectroscopy-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q14-4.jpg"
       ]
     },
     {
@@ -1608,14 +1813,21 @@
         "high performance liquid chromatography"
       ],
       "question": "In HPLC, the mobile and stationary phases are... (Options A-D are not in the text.)",
-      "status": "pending",
-      "answer": "Needs the answer options A-D from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: mobile phase liquid, stationary phase solid",
+      "steps": [
+        "In HPLC the mobile phase is a liquid solvent pumped under high pressure through the column",
+        "The stationary phase is a solid (e.g. silica packed in the column, often with a bonded layer), so liquid mobile and solid stationary: option D",
+        "Gas as the mobile phase belongs to gas chromatography"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-27.jpg",
         "papers/chemistry/img/15E-Spectroscopy-28.jpg",
         "papers/chemistry/img/15E-Spectroscopy-29.jpg",
         "papers/chemistry/img/15E-Spectroscopy-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q16.jpg"
       ]
     },
     {
@@ -1776,14 +1988,24 @@
         "tests"
       ],
       "question": "A series of tests was performed on compound A (C6H12O2). Deduce the structure of A and justify it using all the test results.",
-      "status": "pending",
-      "answer": "Needs the table of test results from the PDF to deduce the structure of A",
-      "steps": [],
+      "status": "ready",
+      "answer": "A is a hydroxy-ketone with a tertiary -OH and a chiral centre, e.g. 3-hydroxy-3-methylpentan-2-one, CH3COC(OH)(CH3)CH2CH3",
+      "steps": [
+        "Test 1: misty fumes with PCl5 means A contains an -OH group (alcohol or carboxylic acid)",
+        "Test 2: orange precipitate with 2,4-DNPH means a C=O group (aldehyde or ketone); with the formula C6H12O2 (one C=C/C=O unit) it is not also an acid, so A has an OH and a C=O",
+        "Test 3: no reaction with Benedict's/Fehling's, so the C=O is a ketone, not an aldehyde",
+        "Test 4: acidified dichromate stays orange, so the OH is not on a primary or secondary carbon: it is a tertiary alcohol",
+        "Test 5: it rotates plane-polarised light, so A has a chiral centre (a carbon with four different groups): here the C bearing OH, CH3, C2H5 and COCH3",
+        "Structure fitting everything with six carbons: CH3-CO-C(OH)(CH3)-CH2CH3"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-27.jpg",
         "papers/chemistry/img/15E-Spectroscopy-28.jpg",
         "papers/chemistry/img/15E-Spectroscopy-29.jpg",
         "papers/chemistry/img/15E-Spectroscopy-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q17.jpg"
       ]
     },
     {
@@ -2246,9 +2468,14 @@
         "dilution"
       ],
       "question": "0.0150 g of chloroethanoic acid (Mr 94.5) is dissolved in 1500 cm3 of water and the pH is 3.42. Calculate the Ka of chloroethanoic acid.",
-      "status": "pending",
-      "answer": "Data check needed: 0.0150 g in 1500 cm3 gives 1.06 x 10^-4 mol dm-3, which is lower than [H+] = 3.8 x 10^-4 from pH 3.42, so the mass or volume in the PDF must be checked before calculating Ka",
-      "steps": [],
+      "status": "ready",
+      "answer": "Ka = 1.37 x 10^-3 mol dm-3 (about 1.4 x 10^-3 mol dm-3)",
+      "steps": [
+        "Moles of acid = 0.0150 / 94.5 = 1.59 x 10^-4 mol, in 1500 cm3 = 1.500 dm3, so [ClCH2COOH] = 1.59 x 10^-4 / 1.500 = 1.06 x 10^-4 mol dm-3",
+        "[H+] = 10^-3.42 = 3.80 x 10^-4 mol dm-3, and [ClCH2COO-] = [H+] because the acid dissociates 1:1 (water's H+ ignored)",
+        "Ka = [H+][ClCH2COO-] / [ClCH2COOH] = (3.80 x 10^-4)^2 / (1.06 x 10^-4)",
+        "Ka = 1.37 x 10^-3 mol dm-3. Note: the [H+] from the pH is larger than the stated acid concentration, so the data are not self-consistent; the intended working takes [HA] as the stated concentration (the acid is only slightly dissociated assumption)"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-34.jpg",
         "papers/chemistry/img/15E-Spectroscopy-35.jpg",
@@ -2271,15 +2498,22 @@
         "graph"
       ],
       "question": "Explain how the titration curve of Tris with chloroethanoic acid shows that Tris and its conjugate acid act as a buffer.",
-      "status": "pending",
-      "answer": "Needs the titration curve graph from the PDF to refer to the flat buffer region",
-      "steps": [],
+      "status": "ready",
+      "answer": "Between about 2 and 16 cm3 of acid, the pH stays almost constant (about 8.5), so the Tris / conjugate acid mixture resists pH change when acid is added",
+      "steps": [
+        "On the graph the pH falls only from about 8.9 to about 8.4 over the first 16 cm3 of acid, a long nearly flat region",
+        "In this region Tris (a base) and its conjugate acid are both present in appreciable amounts: added H+ is removed by Tris, which forms more conjugate acid, so [H+] and pH hardly change",
+        "The sharp fall at 20 cm3 occurs only when the Tris has been used up (equivalence), so the buffer has run out"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-34.jpg",
         "papers/chemistry/img/15E-Spectroscopy-35.jpg",
         "papers/chemistry/img/15E-Spectroscopy-36.jpg",
         "papers/chemistry/img/15E-Spectroscopy-37.jpg",
         "papers/chemistry/img/15E-Spectroscopy-38.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q22.jpg"
       ]
     },
     {
@@ -2295,15 +2529,22 @@
         "chloroethanoic acid"
       ],
       "question": "Use the graph to estimate the pH of the salt formed when Tris is neutralised with chloroethanoic acid.",
-      "status": "pending",
-      "answer": "Needs the titration curve from the PDF to read the equivalence-point pH",
-      "steps": [],
+      "status": "ready",
+      "answer": "About pH 6 (read at the midpoint of the vertical section at 20 cm3, between about pH 7 and pH 5)",
+      "steps": [
+        "The salt forms at the equivalence point, where 20 cm3 of acid has been added",
+        "The vertical section of the curve at 20 cm3 runs from about pH 7.2 to about pH 4.8; its midpoint gives the pH of the salt solution, about 6",
+        "The salt of a weak base with an acid is slightly acidic, consistent with a pH below 7"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-34.jpg",
         "papers/chemistry/img/15E-Spectroscopy-35.jpg",
         "papers/chemistry/img/15E-Spectroscopy-36.jpg",
         "papers/chemistry/img/15E-Spectroscopy-37.jpg",
         "papers/chemistry/img/15E-Spectroscopy-38.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q22.jpg"
       ]
     },
     {
@@ -2348,15 +2589,22 @@
         "options 0.28 0.62 0.70 0.86"
       ],
       "question": "The chromatogram of substance X is shown. What is its Rf value? Options: A 0.28, B 0.62, C 0.70, D 0.86.",
-      "status": "pending",
-      "answer": "Needs the chromatogram diagram from the PDF to measure the distances",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 0.70",
+      "steps": [
+        "Rf = distance from baseline to spot / distance from baseline to solvent front",
+        "Measured on the diagram: spot about 198 units above the baseline; solvent front about 282 units above the baseline",
+        "Rf = 198 / 282 = 0.70, so option C"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-38.jpg",
         "papers/chemistry/img/15E-Spectroscopy-39.jpg",
         "papers/chemistry/img/15E-Spectroscopy-40.jpg",
         "papers/chemistry/img/15E-Spectroscopy-41.jpg",
         "papers/chemistry/img/15E-Spectroscopy-42.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q23.jpg"
       ]
     },
     {
@@ -2464,15 +2712,23 @@
         "chemical shifts"
       ],
       "question": "A simplified high-resolution 1H NMR spectrum of X is shown. State what the number of peaks, their relative peak areas and splitting patterns show about the structure of X.",
-      "status": "pending",
-      "answer": "Needs the simplified 1H NMR spectrum of X from the PDF to read the peaks, areas and splitting",
-      "steps": [],
+      "status": "ready",
+      "answer": "Two peaks: two hydrogen environments, in the ratio 1 : 3, with the 1H quartet and 3H doublet showing a CH(CH3) unit",
+      "steps": [
+        "Number of peaks: two, so X has only two different hydrogen environments (a CH and a CH3), which means the molecule is symmetrical",
+        "Relative peak areas 1 : 3 show one H and three H in the two environments: a CH and a CH3, repeated twice to give 8 H in C6H8O4",
+        "Splitting: the 1H peak (about 5 ppm) is a quartet, so its carbon is next to a CH3 (3 H, n + 1 = 4); the 3H peak (about 1.3 ppm) is a doublet, so its CH3 is next to a single CH",
+        "Together: X contains -CH(CH3)- units with no other hydrogens on neighbouring carbons"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-38.jpg",
         "papers/chemistry/img/15E-Spectroscopy-39.jpg",
         "papers/chemistry/img/15E-Spectroscopy-40.jpg",
         "papers/chemistry/img/15E-Spectroscopy-41.jpg",
         "papers/chemistry/img/15E-Spectroscopy-42.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q24.jpg"
       ]
     },
     {
@@ -2488,15 +2744,22 @@
         "symmetry"
       ],
       "question": "A simplified 13C NMR spectrum of X is shown. State what additional information about the structure of X it gives.",
-      "status": "pending",
-      "answer": "Needs the simplified 13C NMR spectrum of X from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Three carbon environments (3 peaks): C=O of an ester at about 168 ppm, C-O (CH-O) at about 72 ppm and CH3 at about 15 ppm; X has six carbons so each environment occurs twice (symmetry)",
+      "steps": [
+        "Three peaks means three different carbon environments, so the six carbons in X come in identical pairs and the molecule is symmetrical",
+        "The peak at about 168 ppm is a C=O carbon of an ester (data booklet range about 160-185 ppm), which tells us the ester group is present, not shown by the 1H spectrum",
+        "The peak at about 72 ppm is a carbon singly bonded to oxygen (C-O, 50-90 ppm) and the peak at about 15 ppm is an alkyl CH3"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-38.jpg",
         "papers/chemistry/img/15E-Spectroscopy-39.jpg",
         "papers/chemistry/img/15E-Spectroscopy-40.jpg",
         "papers/chemistry/img/15E-Spectroscopy-41.jpg",
         "papers/chemistry/img/15E-Spectroscopy-42.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q24-2.jpg"
       ]
     },
     {
@@ -2512,15 +2775,23 @@
         "lactic acid dimer"
       ],
       "question": "Draw the structure of X using the information from (b)(ii) to (b)(iv).",
-      "status": "pending",
-      "answer": "Needs the NMR information from (b)(iii) and (b)(iv) and the PDF structure to confirm the drawing",
-      "steps": [],
+      "status": "ready",
+      "answer": "Lactide (3,6-dimethyl-1,4-dioxane-2,5-dione): a six-membered ring O-CH(CH3)-C(=O)-O-CH(CH3)-C(=O)-, C6H8O4",
+      "steps": [
+        "X is a cyclic diester made from two lactic acid molecules, each contributing a CH(CH3) and a C(=O)O link; formula C6H8O4 (M = 144)",
+        "The ring is O-CH(CH3)-C(=O)-O-CH(CH3)-C(=O)-, joined back to the first O to close the six-membered ring",
+        "This has two equivalent CH(CH3) units (1H quartet, 3H doublet) and three carbon environments (C=O, CH, CH3), as seen in both spectra"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-38.jpg",
         "papers/chemistry/img/15E-Spectroscopy-39.jpg",
         "papers/chemistry/img/15E-Spectroscopy-40.jpg",
         "papers/chemistry/img/15E-Spectroscopy-41.jpg",
         "papers/chemistry/img/15E-Spectroscopy-42.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q24.jpg",
+        "papers/chemistry/fig/15E-Spectroscopy-Q24-2.jpg"
       ]
     },
     {
@@ -2536,12 +2807,19 @@
         "detector response"
       ],
       "question": "Which is correct for the labels on the axes of the HPLC chromatogram? (Options not in text.)",
-      "status": "pending",
-      "answer": "Needs the chromatogram and answer options from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: x-axis = time, y-axis = absorption",
+      "steps": [
+        "An HPLC chromatogram plots the detector response (here absorption) against retention time",
+        "The x-axis is therefore time (0 to 15, retention time) and the y-axis is absorption",
+        "Rf is a quantity used in thin-layer and paper chromatography, not HPLC, so options B and C are wrong"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-42.jpg",
         "papers/chemistry/img/15E-Spectroscopy-43.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q25.jpg"
       ]
     },
     {
@@ -2556,12 +2834,19 @@
         "retention times"
       ],
       "question": "Which is correct for the components E, F and G in the HPLC chromatogram? (Options not in text.)",
-      "status": "pending",
-      "answer": "Needs the chromatogram and answer options from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: G is most attracted to the stationary phase; F is most abundant",
+      "steps": [
+        "The component most strongly attracted to the stationary phase is held longest, so it has the longest retention time: G (about 7.5 min)",
+        "The peak area is proportional to the amount of each component; F has the largest peak, so F is the most abundant",
+        "G and F together make option D"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-42.jpg",
         "papers/chemistry/img/15E-Spectroscopy-43.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q25.jpg"
       ]
     },
     {

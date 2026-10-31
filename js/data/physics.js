@@ -55185,14 +55185,21 @@ window.BANK.physics = {
       "mixture"
      ],
      "question": "A closed container holds two gases X and Y at constant temperature, with each molecule of X four times the mass of Y. A ratio is asked for, with four options.",
-     "status": "pending",
-     "answer": "Pending: the ratio symbol and the answer options are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 1/2",
+     "steps": [
+      "At the same temperature both gases have the same mean kinetic energy per molecule: 1/2 m_X <c^2>_X = 1/2 m_Y <c^2>_Y.",
+      "So <c^2> is inversely proportional to the molecular mass, giving <c^2>_X / <c^2>_Y = m_Y / m_X = 1/4.",
+      "The r.m.s. velocity is the square root of <c^2>, so the ratio = sqrt(1/4) = 1/2.",
+      "The heavier molecules (X) move more slowly, so the ratio is less than 1; option B."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-02.jpg",
       "papers/physics/img/29-8-Thermodynamics-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/29-8-Thermodynamics-Q2.jpg"
+     ]
     },
     {
      "id": "8-Q3",
@@ -55210,14 +55217,22 @@ window.BANK.physics = {
       "circuit"
      ],
      "question": "A negative temperature coefficient thermistor and a resistor are connected in a circuit. The temperature of the thermistor decreases. Choose the table row showing how the meter readings change.",
-     "status": "pending",
-     "answer": "Pending: the circuit diagram and the table of meter-reading options are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: ammeter decreases, voltmeter decreases",
+     "steps": [
+      "In an NTC thermistor the resistance rises as the temperature falls.",
+      "The thermistor is in series with the fixed resistor, so the total resistance increases and the current falls (cell pd fixed); the ammeter reading decreases.",
+      "The voltmeter is across the fixed resistor, so its reading V = IR falls because I falls and R is constant.",
+      "(The thermistor pd rises, but that is not what the voltmeter reads.) So row A."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-02.jpg",
       "papers/physics/img/29-8-Thermodynamics-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/29-8-Thermodynamics-Q3.jpg",
+      "papers/physics/fig/29-8-Thermodynamics-Q3-2.jpg"
+     ]
     },
     {
      "id": "8-Q4",
@@ -55235,14 +55250,20 @@ window.BANK.physics = {
       "table"
      ],
      "question": "A solid is heated and melts at a constant temperature. Choose the table row showing how the kinetic and potential energies of the molecules change.",
-     "status": "pending",
-     "answer": "Pending: the table of energy-change options is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: kinetic energy stays the same, potential energy increases",
+     "steps": [
+      "Melting happens at constant temperature, so the mean kinetic energy of the molecules does not change.",
+      "The energy supplied (latent heat) is used to break the bonds and increase the separation of molecules, so their potential energy increases.",
+      "Option C; the kinetic energy only rises when the temperature rises, not during a change of state."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-03.jpg",
       "papers/physics/img/29-8-Thermodynamics-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/29-8-Thermodynamics-Q4.jpg"
+     ]
     },
     {
      "id": "8-Q5",
@@ -55538,14 +55559,21 @@ window.BANK.physics = {
       "gas mixture"
      ],
      "question": "In a sample of natural gas, the r.m.s. velocity of CO2 molecules is 60.5% of the r.m.s. velocity of CH4 molecules. The prompt for this part is missing from the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the question prompt for part (b) is missing from the extracted text; only the 60.5% statement is present.",
-     "steps": [],
+     "status": "ready",
+     "answer": "mass of CO2 molecule / mass of CH4 molecule = 2.73 (about 2.7)",
+     "steps": [
+      "Same temperature, so the mean kinetic energy per molecule is equal: 1/2 m_CO2 <c^2>_CO2 = 1/2 m_CH4 <c^2>_CH4.",
+      "Rearrange: m_CO2 / m_CH4 = <c^2>_CH4 / <c^2>_CO2 = (c_rms,CH4 / c_rms,CO2)^2.",
+      "Given c_rms,CO2 = 0.605 c_rms,CH4, so c_rms,CH4 / c_rms,CO2 = 1/0.605 = 1.65.",
+      "Ratio = (1/0.605)^2 = 2.73 (consistent with relative molecular masses 44/16 = 2.75)."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-09.jpg",
       "papers/physics/img/29-8-Thermodynamics-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/29-8-Thermodynamics-Q11b.jpg"
+     ]
     },
     {
      "id": "8-Q12a",
@@ -56025,14 +56053,20 @@ window.BANK.physics = {
       "new volume"
      ],
      "question": "A fixed mass of ideal gas has volume V, pressure p and absolute temperature T. When heated the pressure becomes 4p. Choose the table row giving the new volume and new temperature.",
-     "status": "pending",
-     "answer": "Pending: the table of volume and temperature options is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: new volume V/2 and new temperature 2T",
+     "steps": [
+      "For a fixed mass of ideal gas, pV/T is constant, so (4p)(V_new)/(T_new) = pV/T.",
+      "This needs V_new / T_new = (1/4) V/T, so V_new/T_new must be one quarter of the original ratio.",
+      "Row A: (V/2)/(2T) = (1/4)(V/T), which works. Row B gives 1/8, row C gives 1 and row D gives 1/2 of V/T, which fail."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-17.jpg",
       "papers/physics/img/29-8-Thermodynamics-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/29-8-Thermodynamics-Q22.jpg"
+     ]
     },
     {
      "id": "8-Q23",
@@ -56231,14 +56265,22 @@ window.BANK.physics = {
       "molecular energy"
      ],
      "question": "Describe how the internal energy of cooling wax changes, referring to liquid cooling, solidification (between times X and Y on the graph) and solid cooling.",
-     "status": "pending",
-     "answer": "Pending: the cooling graph with times X and Y is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Internal energy decreases throughout: molecular KE falls while the liquid cools, PE falls between X and Y as it solidifies at constant temperature, and KE falls as the solid cools.",
+     "steps": [
+      "Before X (liquid cooling): the temperature falls, so the mean kinetic energy of the molecules decreases; internal energy falls as energy is transferred to the surroundings.",
+      "Between X and Y (solidifying): the temperature is constant, so the mean kinetic energy stays the same.",
+      "Between X and Y: the molecules move closer and bond into a lattice, so their potential energy decreases; latent heat is released and the internal energy still decreases.",
+      "After Y (solid cooling): the molecules only vibrate, with decreasing mean kinetic energy as the temperature falls; the potential energy is roughly constant.",
+      "Overall the internal energy (total random KE + PE of the molecules) decreases at every stage, with the largest drop at constant temperature between X and Y."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-21.jpg",
       "papers/physics/img/29-8-Thermodynamics-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/29-8-Thermodynamics-Q27.jpg"
+     ]
     },
     {
      "id": "8-Q28a",
@@ -56405,14 +56447,22 @@ window.BANK.physics = {
       "validity"
      ],
      "question": "A student plotted pressure against volume for a fixed mass of gas at constant temperature and claimed the pressure is inversely proportional to volume. Assess the validity of this claim.",
-     "status": "pending",
-     "answer": "Pending: the student's pressure-volume graph is missing from the extracted text, so its shape cannot be assessed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The claim is valid within reading error: pV stays about 660 J over the whole graph (655 to 670 J), but a p-V curve alone is not proof; a p against 1/V line through the origin would be better.",
+     "steps": [
+      "Inverse proportionality means pV = constant, so test this using points read from the curve.",
+      "V = 0.005 m^3, p = 131 kPa: pV = 655 J. V = 0.009 m^3, p = 73.3 kPa: pV = 660 J. V = 0.011 m^3, p = 60.3 kPa: pV = 663 J. V = 0.015 m^3, p = 44.7 kPa: pV = 670 J.",
+      "The products agree within about 2%, which is within the reading error from the graph, so the data support p being inversely proportional to V (at constant temperature).",
+      "But a downward-sloping curve alone does not prove inverse proportion (many curves fall); the student should plot p against 1/V and show a straight line through the origin, or check that pV is constant.",
+      "The volume range is only a factor of 3 and the graph was drawn as a smooth curve, so the evidence is good but limited."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-24.jpg",
       "papers/physics/img/29-8-Thermodynamics-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/29-8-Thermodynamics-Q31.jpg"
+     ]
     },
     {
      "id": "8-Q32",
@@ -56430,14 +56480,21 @@ window.BANK.physics = {
       "energy"
      ],
      "question": "A 0.015 kg sample of wax cools and changes state, losing energy at 25 W, with temperature against time shown. Choose the expression giving the specific latent heat.",
-     "status": "pending",
-     "answer": "Pending: the expression options (graphic) are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 25 x 100 / 0.015",
+     "steps": [
+      "The wax changes state (solidifies) while the temperature is constant at 72 C, between t = 50 s and t = 150 s, which is a time of 100 s.",
+      "Energy lost during this time = P t = 25 W x 100 s.",
+      "Specific latent heat L = E/m = (25 x 100) / 0.015, which is option A (the 72 C is not needed)."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-26.jpg",
       "papers/physics/img/29-8-Thermodynamics-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/29-8-Thermodynamics-Q32.jpg",
+      "papers/physics/fig/29-8-Thermodynamics-Q32-2.jpg"
+     ]
     },
     {
      "id": "8-Q33",
@@ -56455,14 +56512,20 @@ window.BANK.physics = {
       "equation"
      ],
      "question": "A cylinder holds a mixture of gas X and gas Y with mean kinetic energies EX and EY. Molecules of X have twice the mass of Y. Choose the correct equation from the options.",
-     "status": "pending",
-     "answer": "Pending: the equation options are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: E_X = E_Y",
+     "steps": [
+      "The two gases are mixed in one cylinder, so they are in thermal equilibrium at the same temperature.",
+      "The mean kinetic energy of a molecule, 3/2 kT, depends only on the temperature, not on the mass.",
+      "So E_X = E_Y; the heavier X molecules simply move more slowly (<c^2>_X = 1/2 <c^2>_Y)."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-26.jpg",
       "papers/physics/img/29-8-Thermodynamics-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/29-8-Thermodynamics-Q33.jpg"
+     ]
     },
     {
      "id": "8-Q34a",
@@ -56661,13 +56724,19 @@ window.BANK.physics = {
       "molecules"
      ],
      "question": "Ice at 0 C melts into water at 0 C. Choose the table row giving the changes in mean molecular kinetic energy and mean molecular potential energy.",
-     "status": "pending",
-     "answer": "Pending: the table of energy-change options is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: kinetic energy no change, potential energy increases",
+     "steps": [
+      "Melting at 0 C takes place at constant temperature, so the mean molecular kinetic energy does not change.",
+      "The latent heat supplied overcomes the bonds between molecules and increases their separation, so the mean potential energy increases.",
+      "Option B."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/29-8-Thermodynamics-Q38.jpg"
+     ]
     },
     {
      "id": "8-Q39",
@@ -56685,14 +56754,23 @@ window.BANK.physics = {
       "resistance"
      ],
      "question": "A diagram shows equipment that could be used to calibrate a thermistor. Describe a method to obtain a calibration curve from 0 C to 100 C and identify any extra equipment needed.",
-     "status": "pending",
-     "answer": "Pending: the equipment diagram is missing from the extracted text, so the equipment cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Extra equipment: a thermometer, a heat source (Bunsen burner or heater), a stirrer, and ice. Record resistance at each temperature from 0 C to 100 C, then plot a resistance-temperature graph.",
+     "steps": [
+      "Extra equipment needed: a thermometer (the diagram shows only the ohmmeter, thermistor, beaker of water and tripod), a stirrer, a heat source with gauze/heat-proof mat, and ice for 0 C.",
+      "Start with a mixture of crushed ice and water at 0 C, with the thermistor and thermometer bulb close together and fully submerged; stir.",
+      "When the thermometer reading is steady, record the temperature and the ohmmeter reading of the thermistor resistance.",
+      "Heat the water gently, stirring continuously, and record temperature and resistance at regular intervals (for example every 10 C) up to 100 C, waiting for steady readings each time.",
+      "Precautions: stir to get a uniform temperature, read the thermometer at eye level to avoid parallax, and keep the thermistor from touching the beaker walls.",
+      "Plot resistance (y) against temperature (x) and draw a smooth curve through the points: this is the calibration curve (resistance falls with temperature for an NTC thermistor)."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-31.jpg",
       "papers/physics/img/29-8-Thermodynamics-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/29-8-Thermodynamics-Q39.jpg"
+     ]
     },
     {
      "id": "8-Q40",
@@ -56741,9 +56819,15 @@ window.BANK.physics = {
       "molten copper"
      ],
      "question": "2.7 kg of solid tin at 295 K is added to 10.5 kg of molten copper at 1520 K. Tin melts and mixes to form bronze. Given c(molten copper) = 572 J kg-1 K-1, c(tin) = 214 J kg-1 K-1, L(fusion of tin) = 5.92e4 J kg-1. Calculate the final temperature.",
-     "status": "pending",
-     "answer": "Pending: the melting point of tin is needed for the calculation but is not given in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Final temperature = 1.39e3 K (about 1390 K)",
+     "steps": [
+      "Heat lost by copper = m c dT = 10.5 x 572 x (1520 - T) = 6006 (1520 - T).",
+      "Heat gained by tin = warming to T + melting; since c is the same for solid and liquid tin, the melting point is not needed: 2.7 x 214 x (T - 295) + 2.7 x 5.92e4 = 577.8 (T - 295) + 1.598e5.",
+      "Equate (no energy lost to the surroundings): 6006 (1520 - T) = 577.8 (T - 295) + 1.598e5.",
+      "Expand: 9.129e6 - 6006 T = 577.8 T - 1.705e5 + 1.598e5, so 6584 T = 9.140e6.",
+      "T = 1388 K, so the final temperature is about 1.39e3 K."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-33.jpg",
       "papers/physics/img/29-8-Thermodynamics-34.jpg"
@@ -56855,15 +56939,21 @@ window.BANK.physics = {
       "options"
      ],
      "question": "A container holds a mixture of gases X and Y at constant temperature, with each molecule of X having twice the mass of each molecule of Y. The question and options are missing from the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the question prompt and answer options are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 1/sqrt(2)",
+     "steps": [
+      "At constant temperature the mean kinetic energy is the same for both gases: 1/2 m_X <c^2>_X = 1/2 m_Y <c^2>_Y.",
+      "With m_X = 2 m_Y: <c^2>_X = <c^2>_Y / 2.",
+      "So the r.m.s. ratio = sqrt(<c^2>_X / <c^2>_Y) = sqrt(1/2) = 1/sqrt(2), option A."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-35.jpg",
       "papers/physics/img/29-8-Thermodynamics-36.jpg",
       "papers/physics/img/29-8-Thermodynamics-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/29-8-Thermodynamics-Q44.jpg"
+     ]
     },
     {
      "id": "8-Q45a",
@@ -56944,14 +57034,20 @@ window.BANK.physics = {
       "options"
      ],
      "question": "A container holds gases X and Y at constant temperature, with the r.m.s. velocity of X twice that of Y. Choose the correct statement from the options.",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 1/4",
+     "steps": [
+      "Same temperature, so the mean kinetic energy per molecule is equal: 1/2 m_X <c^2>_X = 1/2 m_Y <c^2>_Y.",
+      "So m_X / m_Y = <c^2>_Y / <c^2>_X = (c_rms,Y / c_rms,X)^2.",
+      "With c_rms,X = 2 c_rms,Y: m_X / m_Y = (1/2)^2 = 1/4, option A (the faster molecules are the lighter ones)."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-37.jpg",
       "papers/physics/img/29-8-Thermodynamics-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/29-8-Thermodynamics-Q46.jpg"
+     ]
     },
     {
      "id": "8-Q47",
@@ -56969,14 +57065,21 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "Energy is supplied at a constant rate to a material that melts and then boils, with temperature against time shown. Choose the correct comparison of specific heat capacities.",
-     "status": "pending",
-     "answer": "Pending: the temperature-time graph is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: specific heat capacity of solid = specific heat capacity of gas",
+     "steps": [
+      "Constant power and constant mass: the gradient of the temperature-time graph is P/(m c), so c = P/(m x gradient); a steeper line means a smaller c.",
+      "The solid and gas sections have almost the same steep gradient (about twice the liquid gradient), so c_solid = c_gas.",
+      "The liquid section is less steep (about half), so the liquid has the larger specific heat capacity: A, B and C are not true.",
+      "Option D."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-37.jpg",
       "papers/physics/img/29-8-Thermodynamics-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/29-8-Thermodynamics-Q47.jpg"
+     ]
     },
     {
      "id": "8-Q48a",
@@ -57116,14 +57219,22 @@ window.BANK.physics = {
       "rectangular block"
      ],
      "question": "Water at 0.0 C is frozen into a rectangular ice block (density 920 kg m-3, L = 3.4e5 J kg-1, c(ice) = 2100 J kg-1 K-1) and cooled to -7.5 C. Determine the energy transferred.",
-     "status": "pending",
-     "answer": "Pending: the block dimensions are shown in a diagram and are not in the text, so the mass of ice cannot be found.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Energy transferred = 1.84e5 J (about 1.8e5 J)",
+     "steps": [
+      "Volume of the block = 0.150 x 0.250 x 0.015 = 5.625e-4 m^3.",
+      "Mass = density x volume = 920 x 5.625e-4 = 0.5175 kg.",
+      "Freezing at 0 C: E1 = m L = 0.5175 x 3.4e5 = 1.76e5 J.",
+      "Cooling the ice from 0 C to -7.5 C: E2 = m c dT = 0.5175 x 2100 x 7.5 = 8.2e3 J.",
+      "Total energy transferred out = 1.76e5 + 0.08e5 = 1.84e5 J."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-41.jpg",
       "papers/physics/img/29-8-Thermodynamics-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/29-8-Thermodynamics-Q50.jpg"
+     ]
     },
     {
      "id": "8-Q50b",
@@ -57141,14 +57252,19 @@ window.BANK.physics = {
       "energy"
      ],
      "question": "Explain why the statement on the delivery company's website, shown in the original paper, is not correct.",
-     "status": "pending",
-     "answer": "Pending: the company's statement is not in the extracted text, so the explanation cannot be given.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The melting ice absorbs energy from the food and surroundings; energy is not given out by the ice.",
+     "steps": [
+      "Melting needs energy (latent heat) to be supplied to the ice, so energy flows into the ice from the warmer food and surroundings, which keeps the food cold.",
+      "The statement has the direction of energy transfer reversed: the ice gains energy (its internal energy increases) rather than losing it, and it only melts because the food and air are warmer."
+     ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-41.jpg",
       "papers/physics/img/29-8-Thermodynamics-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/29-8-Thermodynamics-Q50-2.jpg"
+     ]
     }
    ]
   },
@@ -63958,15 +64074,22 @@ window.BANK.physics = {
       "one third"
      ],
      "question": "The gravitational field strength on the surface of Mercury is gM. Callisto has the same radius as Mercury but only one third of its density. What is the gravitational field strength on the surface of Callisto? (Option list is not in the text.)",
-     "status": "pending",
-     "answer": "Option list is not in the text. Expected: g = (4/3) pi G rho r, so Callisto's surface field strength is gM / 3.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: gM / 3",
+     "steps": [
+      "Surface field strength g = GM/R^2, and the mass of a uniform sphere is M = (4/3) pi R^3 rho, so g = (4/3) pi G rho R.",
+      "Callisto has the same radius R as Mercury, so g is directly proportional to the density rho.",
+      "Density is one third of Mercury's, so g = gM / 3, which is option B.",
+      "A (gM/9) wrongly applies the factor of 1/3 twice; C and D would need a larger density."
+     ],
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-05.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-06.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q6.jpg"
+     ]
     },
     {
      "id": "11A-Q7a(i)",
@@ -64339,14 +64462,21 @@ window.BANK.physics = {
       "s2 m-3"
      ],
      "question": "Using the table of orbital data for Earth and Mars, show that K has a value of about 3.0 x 10^-19 s2 m-3 for each planet, where T^2 = K R^3.",
-     "status": "pending",
-     "answer": "The Earth and Mars table is not in the extracted text; read it from the PDF. Earth check: K = (3.15 x 10^7)^2 / (1.5 x 10^11)^3 = 2.9 x 10^-19 s2 m-3.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Earth: K = 2.96 x 10^-19 s^2 m^-3; Mars: K = 2.97 x 10^-19 s^2 m^-3; both about 3.0 x 10^-19 s^2 m^-3",
+     "steps": [
+      "Rearrange T^2 = K R^3 to K = T^2 / R^3 and use the table values for each planet.",
+      "Earth: K = (3.16 x 10^7)^2 / (1.50 x 10^11)^3 = 9.99 x 10^14 / 3.375 x 10^33 = 2.96 x 10^-19 s^2 m^-3.",
+      "Mars: K = (5.93 x 10^7)^2 / (2.28 x 10^11)^3 = 3.52 x 10^15 / 1.185 x 10^34 = 2.97 x 10^-19 s^2 m^-3.",
+      "Both round to 3.0 x 10^-19 s^2 m^-3, so K is the same for both planets within the precision of the data."
+     ],
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-10.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q11.jpg"
+     ]
     },
     {
      "id": "11A-Q11b",
@@ -64511,14 +64641,21 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A space shuttle of mass m falls to Earth (mass M) from a height R above the Earth, where R is the Earth's radius. Which expression gives its change in gravitational potential energy? (Option list is not in the text.)",
-     "status": "pending",
-     "answer": "Option list is not in the text. Expected: change = -GMm / (2R), a decrease as the shuttle falls from 2R to R from the Earth's centre.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: change = GMm (1/(2R) - 1/R) = -GMm / (2R), a decrease",
+     "steps": [
+      "Gravitational potential energy is E = -GMm / r, with r measured from the Earth's centre.",
+      "Starting at height R above the surface means r = 2R; arriving at the surface means r = R.",
+      "Change = final - initial = (-GMm/R) - (-GMm/2R) = GMm (1/(2R) - 1/R) = -GMm/(2R).",
+      "This is option A. B is the same size but positive (an increase), which is wrong for a falling object."
+     ],
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-13.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q13.jpg"
+     ]
     },
     {
      "id": "11A-Q14ai",
@@ -64624,14 +64761,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "The gravitational field strength at the Earth's surface is g. Another planet has the same density as the Earth but twice the Earth's radius. What is its surface gravitational field strength? (Option list is not in the text.)",
-     "status": "pending",
-     "answer": "Option list is not in the text. Expected: g = (4/3) pi G rho r, so the field strength is 2g.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 2g",
+     "steps": [
+      "g = GM/R^2 with M = (4/3) pi R^3 rho gives g = (4/3) pi G rho R, so g is proportional to rho R.",
+      "The density is the same and the radius is doubled, so g is doubled.",
+      "The surface field strength is 2g, which is option B."
+     ],
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-15.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q15.jpg"
+     ]
     },
     {
      "id": "11A-Q16",
@@ -65000,14 +65143,20 @@ window.BANK.physics = {
       "change"
      ],
      "question": "The Moon is gradually moving away from the Earth. Which row of the table shows how the gravitational potential at the Earth due to the Moon and the gravitational force between them change? (Table is not in the text.)",
-     "status": "pending",
-     "answer": "The table is not in the extracted text. Expected: the potential becomes less negative (increases) and the force decreases.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: gravitational potential increases and gravitational force decreases",
+     "steps": [
+      "The Moon's potential at the Earth is V = -GM/r, which is negative; as r increases it becomes less negative, so it increases.",
+      "Force F = GMm/r^2 decreases as the separation r increases.",
+      "Potential increases and force decreases, which is row B."
+     ],
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-20.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q21.jpg"
+     ]
     },
     {
      "id": "11A-Q22",
@@ -65053,14 +65202,20 @@ window.BANK.physics = {
       "radius R"
      ],
      "question": "A satellite of mass m on the Earth's surface is moved into a circular orbit of height h above the Earth (Earth mass M, radius R). Which expression gives its change in gravitational potential energy? (Option list is not in the text.)",
-     "status": "pending",
-     "answer": "Option list is not in the text. Expected: change = G M m (1/R - 1/(R + h)) = G M m h / (R (R + h)), a positive value.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: GMm/R - GMm/(R + h)",
+     "steps": [
+      "Potential energy at the surface is -GMm/R; in the orbit it is -GMm/(R + h).",
+      "Change = final - initial = -GMm/(R + h) + GMm/R = GMm/R - GMm/(R + h), a positive increase.",
+      "A and C contain GM without m, so they are potentials, not energies; D has 1/r^2 terms, which are forces. So the answer is B."
+     ],
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-21.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q23.jpg"
+     ]
     },
     {
      "id": "11A-Q24",
@@ -65134,14 +65289,20 @@ window.BANK.physics = {
       "table"
      ],
      "question": "Mercury orbits the Sun in an elliptical orbit. Which row of the table shows how its speed and gravitational potential energy change as it approaches the Sun? (Table is not in the text.)",
-     "status": "pending",
-     "answer": "The table is not in the extracted text. Expected: speed increases and gravitational potential energy decreases (becomes more negative).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: potential energy decreases and speed increases",
+     "steps": [
+      "As Mercury gets closer to the Sun, r decreases and E = -GMm/r becomes more negative, so gravitational potential energy decreases.",
+      "Total energy is conserved, so the lost potential energy becomes kinetic energy and the speed increases.",
+      "This is row B (decreases, increases)."
+     ],
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-23.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q26.jpg"
+     ]
     },
     {
      "id": "11A-Q27",
@@ -65187,14 +65348,20 @@ window.BANK.physics = {
       "sun"
      ],
      "question": "Pluto orbits the Sun in an elliptical orbit and moves away from the Sun. Which row of the table shows how the Sun's gravitational force on Pluto and Pluto's velocity change? (Table is not in the text.)",
-     "status": "pending",
-     "answer": "The table is not in the extracted text. Expected: the gravitational force decreases and the velocity decreases as Pluto moves away.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: gravitational force decreases and velocity (speed) decreases",
+     "steps": [
+      "F = GMm/r^2, so the Sun's force on Pluto decreases as r increases.",
+      "Moving away raises Pluto's gravitational potential energy; total energy is conserved, so kinetic energy falls and Pluto slows down.",
+      "This is row A (decreases, decreases)."
+     ],
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-24.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q28.jpg"
+     ]
     },
     {
      "id": "11A-Q29a",
@@ -65473,14 +65640,21 @@ window.BANK.physics = {
       "V = -GM/r"
      ],
      "question": "The graph shows how gravitational potential V varies with distance r from the centre of the Earth. Show that the mass of the Earth is about 6 x 10^24 kg.",
-     "status": "pending",
-     "answer": "Needs the V against r graph from the PDF to read values of V and r; then M = -V r / G.",
-     "steps": [],
+     "status": "ready",
+     "answer": "M = -V r / G = 6.0 x 10^24 kg, which is about 6 x 10^24 kg",
+     "steps": [
+      "Potential around a point mass is V = -GM/r, so M = -V r / G.",
+      "Read a point from the graph: at r = 0.1 x 10^8 m = 1.0 x 10^7 m, V = -4.0 x 10^7 J kg^-1.",
+      "M = (4.0 x 10^7 x 1.0 x 10^7) / (6.67 x 10^-11) = 6.0 x 10^24 kg.",
+      "Check with a second point: r = 0.4 x 10^8 m, V = -1.0 x 10^7 J kg^-1 gives the same product Vr, so the same mass."
+     ],
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-29.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q34.jpg"
+     ]
     },
     {
      "id": "11A-Q35a",
@@ -65556,14 +65730,20 @@ window.BANK.physics = {
       "earth"
      ],
      "question": "Due to tidal action the Moon is slowly moving away from the Earth. Which row of the table correctly shows how the gravitational force between the Earth and the Moon, and the Moon's gravitational potential energy, change? (Table is not in the text.)",
-     "status": "pending",
-     "answer": "The table is not in the extracted text. Expected: the gravitational force decreases and the Moon's gravitational potential energy increases (becomes less negative).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: force decreases and potential energy increases",
+     "steps": [
+      "Force F = GMm/r^2 decreases as the Moon's distance r from the Earth increases.",
+      "Potential energy E = -GMm/r is negative and becomes less negative as r increases, so it increases.",
+      "This is row B (decreases, increases)."
+     ],
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-31.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/32-11A-Gravitational-Fields-Q36.jpg"
+     ]
     },
     {
      "id": "11A-Q37",

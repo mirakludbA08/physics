@@ -81,12 +81,20 @@
         "mixture"
       ],
       "question": "A closed container holds two gases X and Y at constant temperature, with each molecule of X four times the mass of Y. A ratio is asked for, with four options.",
-      "status": "pending",
-      "answer": "Pending: the ratio symbol and the answer options are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 1/2",
+      "steps": [
+        "At the same temperature both gases have the same mean kinetic energy per molecule: 1/2 m_X <c^2>_X = 1/2 m_Y <c^2>_Y.",
+        "So <c^2> is inversely proportional to the molecular mass, giving <c^2>_X / <c^2>_Y = m_Y / m_X = 1/4.",
+        "The r.m.s. velocity is the square root of <c^2>, so the ratio = sqrt(1/4) = 1/2.",
+        "The heavier molecules (X) move more slowly, so the ratio is less than 1; option B."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-02.jpg",
         "papers/physics/img/29-8-Thermodynamics-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/29-8-Thermodynamics-Q2.jpg"
       ]
     },
     {
@@ -105,12 +113,21 @@
         "circuit"
       ],
       "question": "A negative temperature coefficient thermistor and a resistor are connected in a circuit. The temperature of the thermistor decreases. Choose the table row showing how the meter readings change.",
-      "status": "pending",
-      "answer": "Pending: the circuit diagram and the table of meter-reading options are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: ammeter decreases, voltmeter decreases",
+      "steps": [
+        "In an NTC thermistor the resistance rises as the temperature falls.",
+        "The thermistor is in series with the fixed resistor, so the total resistance increases and the current falls (cell pd fixed); the ammeter reading decreases.",
+        "The voltmeter is across the fixed resistor, so its reading V = IR falls because I falls and R is constant.",
+        "(The thermistor pd rises, but that is not what the voltmeter reads.) So row A."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-02.jpg",
         "papers/physics/img/29-8-Thermodynamics-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/29-8-Thermodynamics-Q3.jpg",
+        "papers/physics/fig/29-8-Thermodynamics-Q3-2.jpg"
       ]
     },
     {
@@ -129,12 +146,19 @@
         "table"
       ],
       "question": "A solid is heated and melts at a constant temperature. Choose the table row showing how the kinetic and potential energies of the molecules change.",
-      "status": "pending",
-      "answer": "Pending: the table of energy-change options is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: kinetic energy stays the same, potential energy increases",
+      "steps": [
+        "Melting happens at constant temperature, so the mean kinetic energy of the molecules does not change.",
+        "The energy supplied (latent heat) is used to break the bonds and increase the separation of molecules, so their potential energy increases.",
+        "Option C; the kinetic energy only rises when the temperature rises, not during a change of state."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-03.jpg",
         "papers/physics/img/29-8-Thermodynamics-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/29-8-Thermodynamics-Q4.jpg"
       ]
     },
     {
@@ -422,12 +446,20 @@
         "gas mixture"
       ],
       "question": "In a sample of natural gas, the r.m.s. velocity of CO2 molecules is 60.5% of the r.m.s. velocity of CH4 molecules. The prompt for this part is missing from the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the question prompt for part (b) is missing from the extracted text; only the 60.5% statement is present.",
-      "steps": [],
+      "status": "ready",
+      "answer": "mass of CO2 molecule / mass of CH4 molecule = 2.73 (about 2.7)",
+      "steps": [
+        "Same temperature, so the mean kinetic energy per molecule is equal: 1/2 m_CO2 <c^2>_CO2 = 1/2 m_CH4 <c^2>_CH4.",
+        "Rearrange: m_CO2 / m_CH4 = <c^2>_CH4 / <c^2>_CO2 = (c_rms,CH4 / c_rms,CO2)^2.",
+        "Given c_rms,CO2 = 0.605 c_rms,CH4, so c_rms,CH4 / c_rms,CO2 = 1/0.605 = 1.65.",
+        "Ratio = (1/0.605)^2 = 2.73 (consistent with relative molecular masses 44/16 = 2.75)."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-09.jpg",
         "papers/physics/img/29-8-Thermodynamics-10.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/29-8-Thermodynamics-Q11b.jpg"
       ]
     },
     {
@@ -893,12 +925,19 @@
         "new volume"
       ],
       "question": "A fixed mass of ideal gas has volume V, pressure p and absolute temperature T. When heated the pressure becomes 4p. Choose the table row giving the new volume and new temperature.",
-      "status": "pending",
-      "answer": "Pending: the table of volume and temperature options is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: new volume V/2 and new temperature 2T",
+      "steps": [
+        "For a fixed mass of ideal gas, pV/T is constant, so (4p)(V_new)/(T_new) = pV/T.",
+        "This needs V_new / T_new = (1/4) V/T, so V_new/T_new must be one quarter of the original ratio.",
+        "Row A: (V/2)/(2T) = (1/4)(V/T), which works. Row B gives 1/8, row C gives 1 and row D gives 1/2 of V/T, which fail."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-17.jpg",
         "papers/physics/img/29-8-Thermodynamics-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/29-8-Thermodynamics-Q22.jpg"
       ]
     },
     {
@@ -1092,12 +1131,21 @@
         "molecular energy"
       ],
       "question": "Describe how the internal energy of cooling wax changes, referring to liquid cooling, solidification (between times X and Y on the graph) and solid cooling.",
-      "status": "pending",
-      "answer": "Pending: the cooling graph with times X and Y is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Internal energy decreases throughout: molecular KE falls while the liquid cools, PE falls between X and Y as it solidifies at constant temperature, and KE falls as the solid cools.",
+      "steps": [
+        "Before X (liquid cooling): the temperature falls, so the mean kinetic energy of the molecules decreases; internal energy falls as energy is transferred to the surroundings.",
+        "Between X and Y (solidifying): the temperature is constant, so the mean kinetic energy stays the same.",
+        "Between X and Y: the molecules move closer and bond into a lattice, so their potential energy decreases; latent heat is released and the internal energy still decreases.",
+        "After Y (solid cooling): the molecules only vibrate, with decreasing mean kinetic energy as the temperature falls; the potential energy is roughly constant.",
+        "Overall the internal energy (total random KE + PE of the molecules) decreases at every stage, with the largest drop at constant temperature between X and Y."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-21.jpg",
         "papers/physics/img/29-8-Thermodynamics-22.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/29-8-Thermodynamics-Q27.jpg"
       ]
     },
     {
@@ -1260,12 +1308,21 @@
         "validity"
       ],
       "question": "A student plotted pressure against volume for a fixed mass of gas at constant temperature and claimed the pressure is inversely proportional to volume. Assess the validity of this claim.",
-      "status": "pending",
-      "answer": "Pending: the student's pressure-volume graph is missing from the extracted text, so its shape cannot be assessed.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The claim is valid within reading error: pV stays about 660 J over the whole graph (655 to 670 J), but a p-V curve alone is not proof; a p against 1/V line through the origin would be better.",
+      "steps": [
+        "Inverse proportionality means pV = constant, so test this using points read from the curve.",
+        "V = 0.005 m^3, p = 131 kPa: pV = 655 J. V = 0.009 m^3, p = 73.3 kPa: pV = 660 J. V = 0.011 m^3, p = 60.3 kPa: pV = 663 J. V = 0.015 m^3, p = 44.7 kPa: pV = 670 J.",
+        "The products agree within about 2%, which is within the reading error from the graph, so the data support p being inversely proportional to V (at constant temperature).",
+        "But a downward-sloping curve alone does not prove inverse proportion (many curves fall); the student should plot p against 1/V and show a straight line through the origin, or check that pV is constant.",
+        "The volume range is only a factor of 3 and the graph was drawn as a smooth curve, so the evidence is good but limited."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-24.jpg",
         "papers/physics/img/29-8-Thermodynamics-25.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/29-8-Thermodynamics-Q31.jpg"
       ]
     },
     {
@@ -1284,12 +1341,20 @@
         "energy"
       ],
       "question": "A 0.015 kg sample of wax cools and changes state, losing energy at 25 W, with temperature against time shown. Choose the expression giving the specific latent heat.",
-      "status": "pending",
-      "answer": "Pending: the expression options (graphic) are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 25 x 100 / 0.015",
+      "steps": [
+        "The wax changes state (solidifies) while the temperature is constant at 72 C, between t = 50 s and t = 150 s, which is a time of 100 s.",
+        "Energy lost during this time = P t = 25 W x 100 s.",
+        "Specific latent heat L = E/m = (25 x 100) / 0.015, which is option A (the 72 C is not needed)."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-26.jpg",
         "papers/physics/img/29-8-Thermodynamics-27.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/29-8-Thermodynamics-Q32.jpg",
+        "papers/physics/fig/29-8-Thermodynamics-Q32-2.jpg"
       ]
     },
     {
@@ -1308,12 +1373,19 @@
         "equation"
       ],
       "question": "A cylinder holds a mixture of gas X and gas Y with mean kinetic energies EX and EY. Molecules of X have twice the mass of Y. Choose the correct equation from the options.",
-      "status": "pending",
-      "answer": "Pending: the equation options are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: E_X = E_Y",
+      "steps": [
+        "The two gases are mixed in one cylinder, so they are in thermal equilibrium at the same temperature.",
+        "The mean kinetic energy of a molecule, 3/2 kT, depends only on the temperature, not on the mass.",
+        "So E_X = E_Y; the heavier X molecules simply move more slowly (<c^2>_X = 1/2 <c^2>_Y)."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-26.jpg",
         "papers/physics/img/29-8-Thermodynamics-27.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/29-8-Thermodynamics-Q33.jpg"
       ]
     },
     {
@@ -1507,11 +1579,18 @@
         "molecules"
       ],
       "question": "Ice at 0 C melts into water at 0 C. Choose the table row giving the changes in mean molecular kinetic energy and mean molecular potential energy.",
-      "status": "pending",
-      "answer": "Pending: the table of energy-change options is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: kinetic energy no change, potential energy increases",
+      "steps": [
+        "Melting at 0 C takes place at constant temperature, so the mean molecular kinetic energy does not change.",
+        "The latent heat supplied overcomes the bonds between molecules and increases their separation, so the mean potential energy increases.",
+        "Option B."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/29-8-Thermodynamics-Q38.jpg"
       ]
     },
     {
@@ -1530,12 +1609,22 @@
         "resistance"
       ],
       "question": "A diagram shows equipment that could be used to calibrate a thermistor. Describe a method to obtain a calibration curve from 0 C to 100 C and identify any extra equipment needed.",
-      "status": "pending",
-      "answer": "Pending: the equipment diagram is missing from the extracted text, so the equipment cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Extra equipment: a thermometer, a heat source (Bunsen burner or heater), a stirrer, and ice. Record resistance at each temperature from 0 C to 100 C, then plot a resistance-temperature graph.",
+      "steps": [
+        "Extra equipment needed: a thermometer (the diagram shows only the ohmmeter, thermistor, beaker of water and tripod), a stirrer, a heat source with gauze/heat-proof mat, and ice for 0 C.",
+        "Start with a mixture of crushed ice and water at 0 C, with the thermistor and thermometer bulb close together and fully submerged; stir.",
+        "When the thermometer reading is steady, record the temperature and the ohmmeter reading of the thermistor resistance.",
+        "Heat the water gently, stirring continuously, and record temperature and resistance at regular intervals (for example every 10 C) up to 100 C, waiting for steady readings each time.",
+        "Precautions: stir to get a uniform temperature, read the thermometer at eye level to avoid parallax, and keep the thermistor from touching the beaker walls.",
+        "Plot resistance (y) against temperature (x) and draw a smooth curve through the points: this is the calibration curve (resistance falls with temperature for an NTC thermistor)."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-31.jpg",
         "papers/physics/img/29-8-Thermodynamics-32.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/29-8-Thermodynamics-Q39.jpg"
       ]
     },
     {
@@ -1584,9 +1673,15 @@
         "molten copper"
       ],
       "question": "2.7 kg of solid tin at 295 K is added to 10.5 kg of molten copper at 1520 K. Tin melts and mixes to form bronze. Given c(molten copper) = 572 J kg-1 K-1, c(tin) = 214 J kg-1 K-1, L(fusion of tin) = 5.92e4 J kg-1. Calculate the final temperature.",
-      "status": "pending",
-      "answer": "Pending: the melting point of tin is needed for the calculation but is not given in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Final temperature = 1.39e3 K (about 1390 K)",
+      "steps": [
+        "Heat lost by copper = m c dT = 10.5 x 572 x (1520 - T) = 6006 (1520 - T).",
+        "Heat gained by tin = warming to T + melting; since c is the same for solid and liquid tin, the melting point is not needed: 2.7 x 214 x (T - 295) + 2.7 x 5.92e4 = 577.8 (T - 295) + 1.598e5.",
+        "Equate (no energy lost to the surroundings): 6006 (1520 - T) = 577.8 (T - 295) + 1.598e5.",
+        "Expand: 9.129e6 - 6006 T = 577.8 T - 1.705e5 + 1.598e5, so 6584 T = 9.140e6.",
+        "T = 1388 K, so the final temperature is about 1.39e3 K."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-33.jpg",
         "papers/physics/img/29-8-Thermodynamics-34.jpg"
@@ -1694,13 +1789,20 @@
         "options"
       ],
       "question": "A container holds a mixture of gases X and Y at constant temperature, with each molecule of X having twice the mass of each molecule of Y. The question and options are missing from the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the question prompt and answer options are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 1/sqrt(2)",
+      "steps": [
+        "At constant temperature the mean kinetic energy is the same for both gases: 1/2 m_X <c^2>_X = 1/2 m_Y <c^2>_Y.",
+        "With m_X = 2 m_Y: <c^2>_X = <c^2>_Y / 2.",
+        "So the r.m.s. ratio = sqrt(<c^2>_X / <c^2>_Y) = sqrt(1/2) = 1/sqrt(2), option A."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-35.jpg",
         "papers/physics/img/29-8-Thermodynamics-36.jpg",
         "papers/physics/img/29-8-Thermodynamics-37.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/29-8-Thermodynamics-Q44.jpg"
       ]
     },
     {
@@ -1780,12 +1882,19 @@
         "options"
       ],
       "question": "A container holds gases X and Y at constant temperature, with the r.m.s. velocity of X twice that of Y. Choose the correct statement from the options.",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 1/4",
+      "steps": [
+        "Same temperature, so the mean kinetic energy per molecule is equal: 1/2 m_X <c^2>_X = 1/2 m_Y <c^2>_Y.",
+        "So m_X / m_Y = <c^2>_Y / <c^2>_X = (c_rms,Y / c_rms,X)^2.",
+        "With c_rms,X = 2 c_rms,Y: m_X / m_Y = (1/2)^2 = 1/4, option A (the faster molecules are the lighter ones)."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-37.jpg",
         "papers/physics/img/29-8-Thermodynamics-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/29-8-Thermodynamics-Q46.jpg"
       ]
     },
     {
@@ -1804,12 +1913,20 @@
         "graph"
       ],
       "question": "Energy is supplied at a constant rate to a material that melts and then boils, with temperature against time shown. Choose the correct comparison of specific heat capacities.",
-      "status": "pending",
-      "answer": "Pending: the temperature-time graph is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: specific heat capacity of solid = specific heat capacity of gas",
+      "steps": [
+        "Constant power and constant mass: the gradient of the temperature-time graph is P/(m c), so c = P/(m x gradient); a steeper line means a smaller c.",
+        "The solid and gas sections have almost the same steep gradient (about twice the liquid gradient), so c_solid = c_gas.",
+        "The liquid section is less steep (about half), so the liquid has the larger specific heat capacity: A, B and C are not true.",
+        "Option D."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-37.jpg",
         "papers/physics/img/29-8-Thermodynamics-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/29-8-Thermodynamics-Q47.jpg"
       ]
     },
     {
@@ -1946,12 +2063,21 @@
         "rectangular block"
       ],
       "question": "Water at 0.0 C is frozen into a rectangular ice block (density 920 kg m-3, L = 3.4e5 J kg-1, c(ice) = 2100 J kg-1 K-1) and cooled to -7.5 C. Determine the energy transferred.",
-      "status": "pending",
-      "answer": "Pending: the block dimensions are shown in a diagram and are not in the text, so the mass of ice cannot be found.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Energy transferred = 1.84e5 J (about 1.8e5 J)",
+      "steps": [
+        "Volume of the block = 0.150 x 0.250 x 0.015 = 5.625e-4 m^3.",
+        "Mass = density x volume = 920 x 5.625e-4 = 0.5175 kg.",
+        "Freezing at 0 C: E1 = m L = 0.5175 x 3.4e5 = 1.76e5 J.",
+        "Cooling the ice from 0 C to -7.5 C: E2 = m c dT = 0.5175 x 2100 x 7.5 = 8.2e3 J.",
+        "Total energy transferred out = 1.76e5 + 0.08e5 = 1.84e5 J."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-41.jpg",
         "papers/physics/img/29-8-Thermodynamics-42.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/29-8-Thermodynamics-Q50.jpg"
       ]
     },
     {
@@ -1970,12 +2096,18 @@
         "energy"
       ],
       "question": "Explain why the statement on the delivery company's website, shown in the original paper, is not correct.",
-      "status": "pending",
-      "answer": "Pending: the company's statement is not in the extracted text, so the explanation cannot be given.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The melting ice absorbs energy from the food and surroundings; energy is not given out by the ice.",
+      "steps": [
+        "Melting needs energy (latent heat) to be supplied to the ice, so energy flows into the ice from the warmer food and surroundings, which keeps the food cold.",
+        "The statement has the direction of energy transfer reversed: the ice gains energy (its internal energy increases) rather than losing it, and it only melts because the food and air are warmer."
+      ],
       "images": [
         "papers/physics/img/29-8-Thermodynamics-41.jpg",
         "papers/physics/img/29-8-Thermodynamics-42.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/29-8-Thermodynamics-Q50-2.jpg"
       ]
     }
   ]
