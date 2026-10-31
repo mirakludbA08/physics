@@ -359,6 +359,33 @@
     return row;
   }
 
+  // Earlier parts of the same question, with their answers: later parts often use
+  // information or results from them. Collapsed, so they do not crowd the card.
+  function earlierParts(q) {
+    const num = (no) => (/^Q(\d+)/.exec(no || '') || [])[1];
+    const n = num(q.no);
+    if (!n) return null;
+    const list = q.paper.questions;
+    const at = list.findIndex((x) => x.id === q.id);
+    const prev = list.slice(0, Math.max(0, at)).filter((x) => num(x.no) === n);
+    if (!prev.length) return null;
+    const box = el('details', 'q-context');
+    box.appendChild(el('summary', null, 'Earlier parts of this question (' + prev.length + ')'));
+    prev.forEach((x) => {
+      const part = el('div', 'q-context-part');
+      part.appendChild(el('p', 'q-context-no', x.no + ' · ' + x.marks + (x.marks === 1 ? ' mark' : ' marks')));
+      part.appendChild(math('p', 'q-context-text', x.question));
+      if (x.status !== 'pending') {
+        const a = el('p', 'q-context-answer');
+        a.appendChild(el('strong', null, 'Answer: '));
+        a.appendChild(math('span', null, x.answer));
+        part.appendChild(a);
+      }
+      box.appendChild(part);
+    });
+    return box;
+  }
+
   function card(q) {
     const k = keyOf(q);
     const article = el('article', 'q-card' + (q.status === 'pending' ? ' pending' : '') + (done.has(k) ? ' done' : ''));
@@ -370,6 +397,8 @@
     article.appendChild(head);
 
     article.appendChild(math('p', 'q-text', q.question));
+    const before = earlierParts(q);
+    if (before) article.appendChild(before);
 
     const mcqImage = optionsOnlyInImage(q) && q.images && q.images.length > 0;
     if (mcqImage) article.appendChild(el('p', 'q-mcq-note', 'Multiple choice: the options are on the page from the paper below.'));
