@@ -9,7 +9,16 @@
       "no": "Q1(a)(i)",
       "marks": 1,
       "topic": "Anaerobic Respiration Steps",
-      "keywords": ["anaerobic respiration", "glycolysis", "phosphorylation", "hexose", "glucose", "cytoplasm", "ATP", "MCQ"],
+      "keywords": [
+        "anaerobic respiration",
+        "glycolysis",
+        "phosphorylation",
+        "hexose",
+        "glucose",
+        "cytoplasm",
+        "ATP",
+        "MCQ"
+      ],
       "question": "Which describes a step in anaerobic respiration? Options: A decarboxylation of lactate, B phosphorylation of hexoses, C oxidation of pyruvate, D removal of phosphate groups from glucose.",
       "status": "ready",
       "answer": "B - phosphorylation of hexoses (the early glycolysis step that uses ATP).",
@@ -18,6 +27,10 @@
         "Glycolysis starts by phosphorylating glucose (a hexose) using ATP, trapping it in the cell.",
         "Lactate is a product, so it is not decarboxylated in anaerobic respiration (A is wrong).",
         "Oxidation of pyruvate happens in aerobic respiration, and phosphate removal is not a step (C and D are wrong)."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-01.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-02.jpg"
       ]
     },
     {
@@ -25,7 +38,15 @@
       "no": "Q1(a)(ii)",
       "marks": 1,
       "topic": "Lactate and Blood pH",
-      "keywords": ["lactate", "anaerobic respiration", "blood pH", "lactic acid", "concentration", "acidity", "MCQ"],
+      "keywords": [
+        "lactate",
+        "anaerobic respiration",
+        "blood pH",
+        "lactic acid",
+        "concentration",
+        "acidity",
+        "MCQ"
+      ],
       "question": "What happens to the lactate concentration during a period of anaerobic respiration? Options: A decreases, lowering blood pH; B decreases, raising blood pH; C increases, lowering blood pH; D increases, raising blood pH.",
       "status": "ready",
       "answer": "C - lactate increases, causing blood pH to decrease.",
@@ -34,6 +55,10 @@
         "Lactic acid releases H+ ions into the blood.",
         "More H+ ions lower the pH, making the blood more acidic.",
         "So option C is correct."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-01.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-02.jpg"
       ]
     },
     {
@@ -41,7 +66,16 @@
       "no": "Q1(b)(i)",
       "marks": 1,
       "topic": "Krebs Cycle Entry",
-      "keywords": ["Krebs cycle", "link reaction", "acetyl CoA", "2 carbon", "entry", "RUBISCO", "respiratory substrate", "MCQ"],
+      "keywords": [
+        "Krebs cycle",
+        "link reaction",
+        "acetyl CoA",
+        "2 carbon",
+        "entry",
+        "RUBISCO",
+        "respiratory substrate",
+        "MCQ"
+      ],
       "question": "How do respiratory substrates enter the Krebs cycle? Options: A as 2-carbon molecules produced by the link reaction, B as 3-carbon molecules produced by the link reaction, C as 2-carbon molecules produced by RUBISCO, D as 3-carbon molecules produced by RUBISCO.",
       "status": "ready",
       "answer": "A - as 2-carbon molecules (acetyl CoA) produced by the link reaction.",
@@ -50,6 +84,10 @@
         "This produces 2-carbon acetyl groups carried by coenzyme A (acetyl CoA).",
         "Acetyl CoA enters the Krebs cycle and combines with oxaloacetate.",
         "RUBISCO works in photosynthesis, not respiration, so options C and D are wrong."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-01.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-02.jpg"
       ]
     },
     {
@@ -57,7 +95,16 @@
       "no": "Q1(b)(ii)",
       "marks": 2,
       "topic": "Mitochondrion Diagram",
-      "keywords": ["mitochondrion", "diagram", "Krebs cycle", "matrix", "inner membrane", "cristae", "outer membrane", "label"],
+      "keywords": [
+        "mitochondrion",
+        "diagram",
+        "Krebs cycle",
+        "matrix",
+        "inner membrane",
+        "cristae",
+        "outer membrane",
+        "label"
+      ],
       "question": "Draw a diagram of a mitochondrion and label only the part where the Krebs cycle occurs.",
       "status": "ready",
       "answer": "Draw a double-membraned oval with folded cristae, and label the matrix as the site of the Krebs cycle.",
@@ -66,6 +113,10 @@
         "Draw a folded inner membrane inside it, with the folds (cristae) shown.",
         "Shade or label the fluid space inside the inner membrane as the matrix.",
         "The Krebs cycle takes place in the matrix, so only the matrix is labelled."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-01.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-02.jpg"
       ]
     },
     {
@@ -73,7 +124,16 @@
       "no": "Q1(b)(iii)",
       "marks": 5,
       "topic": "Chemiosmosis and ATP Synthesis",
-      "keywords": ["chemiosmosis", "ATP synthase", "proton gradient", "electron transport chain", "inner membrane", "ATP", "hydrogen ions", "oxidative phosphorylation"],
+      "keywords": [
+        "chemiosmosis",
+        "ATP synthase",
+        "proton gradient",
+        "electron transport chain",
+        "inner membrane",
+        "ATP",
+        "hydrogen ions",
+        "oxidative phosphorylation"
+      ],
       "question": "Describe the role of chemiosmosis in the synthesis of ATP.",
       "status": "ready",
       "answer": "Electron transport pumps H+ into the intermembrane space; H+ flow back through ATP synthase, driving ADP + Pi to ATP.",
@@ -83,6 +143,10 @@
         "This builds a proton (electrochemical) gradient across the inner membrane.",
         "H+ diffuse back through ATP synthase, whose rotation drives ADP + Pi to ATP.",
         "Oxygen accepts electrons at the end of the chain and forms water with H+, keeping the chain running."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-01.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-02.jpg"
       ]
     },
     {
@@ -90,18 +154,40 @@
       "no": "Q2(a)",
       "marks": 3,
       "topic": "Muscle Strength After Training",
-      "keywords": ["muscle strength", "percentage", "moderate training", "12 weeks", "a.u.", "graph", "significant figures"],
+      "keywords": [
+        "muscle strength",
+        "percentage",
+        "moderate training",
+        "12 weeks",
+        "a.u.",
+        "graph",
+        "significant figures"
+      ],
       "question": "The muscle strength before moderate training was 12.5 a.u. Calculate the muscle strength after 12 weeks of moderate training, to 3 significant figures.",
       "status": "pending",
       "answer": "Needs the graph value of muscle strength after 12 weeks of moderate training (not in text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-02.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-03.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-04.jpg"
+      ]
     },
     {
       "id": "7A-Q2b(i)",
       "no": "Q2(b)(i)",
       "marks": 3,
       "topic": "Intermediate Fibre Structure",
-      "keywords": ["intermediate fibres", "slow twitch", "fast twitch", "mitochondria", "myoglobin", "capillaries", "fibre diameter", "structure"],
+      "keywords": [
+        "intermediate fibres",
+        "slow twitch",
+        "fast twitch",
+        "mitochondria",
+        "myoglobin",
+        "capillaries",
+        "fibre diameter",
+        "structure"
+      ],
       "question": "Describe how the structure of an intermediate muscle fibre differs from that of a slow twitch fibre.",
       "status": "ready",
       "answer": "Intermediate fibres have a larger diameter and fewer mitochondria, myoglobin and capillaries than slow twitch fibres.",
@@ -110,6 +196,11 @@
         "Intermediate fibres have a larger diameter than slow twitch fibres, like fast twitch fibres.",
         "They have fewer mitochondria than slow twitch fibres, so less aerobic capacity.",
         "They also have less myoglobin and fewer capillaries than slow twitch fibres."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-02.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-03.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-04.jpg"
       ]
     },
     {
@@ -117,40 +208,87 @@
       "no": "Q2(b)(ii)",
       "marks": 3,
       "topic": "Effect of Exercise on Muscle",
-      "keywords": ["exercise", "muscle fibres", "cross-sectional area", "muscle strength", "training", "table", "graph"],
+      "keywords": [
+        "exercise",
+        "muscle fibres",
+        "cross-sectional area",
+        "muscle strength",
+        "training",
+        "table",
+        "graph"
+      ],
       "question": "Comment on the effect of exercise on this muscle, using the information in the graphs and the table.",
       "status": "pending",
       "answer": "Needs the strength and cross-sectional area graphs and the fibre-type table (not in text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-02.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-03.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-04.jpg"
+      ]
     },
     {
       "id": "7A-Q3a",
       "no": "Q3(a)",
       "marks": 3,
       "topic": "Products of Respiration Stages",
-      "keywords": ["glycolysis", "link reaction", "Krebs cycle", "oxidative phosphorylation", "ATP", "products", "table"],
+      "keywords": [
+        "glycolysis",
+        "link reaction",
+        "Krebs cycle",
+        "oxidative phosphorylation",
+        "ATP",
+        "products",
+        "table"
+      ],
       "question": "Complete the table to show one other product of each stage of aerobic respiration that also produces ATP.",
       "status": "pending",
       "answer": "Needs the table of respiration stages and product boxes (not in text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-04.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-05.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-06.jpg"
+      ]
     },
     {
       "id": "7A-Q3b",
       "no": "Q3(b)",
       "marks": 2,
       "topic": "Balancing Respiration Equation",
-      "keywords": ["aerobic respiration", "balanced equation", "substrate", "carbon dioxide", "water", "oxygen", "stoichiometry"],
+      "keywords": [
+        "aerobic respiration",
+        "balanced equation",
+        "substrate",
+        "carbon dioxide",
+        "water",
+        "oxygen",
+        "stoichiometry"
+      ],
       "question": "Complete the incomplete equation for the aerobic respiration of a substrate by inserting the numbers that balance it.",
       "status": "pending",
       "answer": "Needs the incomplete equation with dotted lines (not in text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-04.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-05.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-06.jpg"
+      ]
     },
     {
       "id": "7A-Q3c(i)",
       "no": "Q3(c)(i)",
       "marks": 1,
       "topic": "Energy Release From ATP",
-      "keywords": ["ATP", "hydrolysis", "energy release", "ADP", "usable energy", "reaction", "MCQ"],
+      "keywords": [
+        "ATP",
+        "hydrolysis",
+        "energy release",
+        "ADP",
+        "usable energy",
+        "reaction",
+        "MCQ"
+      ],
       "question": "Which reaction releases energy from ATP? Options: A conversion of ADP to ATP, B phosphorylation of ADP, C hydrolysis of ATP, D removal of adenosine molecules from ATP.",
       "status": "ready",
       "answer": "C - hydrolysis of ATP.",
@@ -159,6 +297,11 @@
         "Hydrolysis breaks the bond to the terminal phosphate.",
         "Converting ADP to ATP (A) and phosphorylating ADP (B) store energy instead.",
         "Removing adenosine (D) is not a reaction that releases usable energy."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-04.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-05.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-06.jpg"
       ]
     },
     {
@@ -166,7 +309,16 @@
       "no": "Q3(c)(ii)",
       "marks": 2,
       "topic": "Maximum ATP Energy Efficiency",
-      "keywords": ["percentage", "ATP", "glucose", "energy", "kJ", "calculation", "usable energy", "38 ATP"],
+      "keywords": [
+        "percentage",
+        "ATP",
+        "glucose",
+        "energy",
+        "kJ",
+        "calculation",
+        "usable energy",
+        "38 ATP"
+      ],
       "question": "One glucose molecule contains 2867.48 kJ and generates a maximum of 38 ATP. Each ATP contains 30.51 kJ of usable energy. Calculate the maximum percentage of the glucose energy that can be converted to usable energy in ATP.",
       "status": "ready",
       "answer": "40.4%.",
@@ -175,6 +327,11 @@
         "Energy in one glucose molecule = 2867.48 kJ.",
         "Percentage = 1159.38 / 2867.48 x 100 = 40.4%.",
         "This is a maximum because it assumes the full 38 ATP are made."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-04.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-05.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-06.jpg"
       ]
     },
     {
@@ -182,7 +339,15 @@
       "no": "Q3(c)(iii)",
       "marks": 2,
       "topic": "Unused Energy as Heat",
-      "keywords": ["energy", "heat", "not converted", "muscle cell", "body temperature", "thermal energy", "respiration"],
+      "keywords": [
+        "energy",
+        "heat",
+        "not converted",
+        "muscle cell",
+        "body temperature",
+        "thermal energy",
+        "respiration"
+      ],
       "question": "Describe what happens to the energy that is not converted to usable energy in a muscle cell.",
       "status": "ready",
       "answer": "It is released as heat, which helps maintain body temperature and is otherwise lost to the surroundings.",
@@ -191,6 +356,11 @@
         "The remaining energy is released as heat from the exothermic reactions.",
         "Muscle cells use this heat to help maintain body temperature.",
         "Any excess heat is lost to the surroundings."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-04.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-05.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-06.jpg"
       ]
     },
     {
@@ -198,7 +368,15 @@
       "no": "Q3(d)",
       "marks": 2,
       "topic": "Oxygen in ATP Production",
-      "keywords": ["oxygen", "electron transport chain", "cristae", "final electron acceptor", "water", "ATP synthase", "chemiosmosis"],
+      "keywords": [
+        "oxygen",
+        "electron transport chain",
+        "cristae",
+        "final electron acceptor",
+        "water",
+        "ATP synthase",
+        "chemiosmosis"
+      ],
       "question": "Describe how oxygen is involved in the production of ATP on the cristae in the mitochondria.",
       "status": "ready",
       "answer": "Oxygen is the final electron acceptor at the end of the electron transport chain on the cristae; it forms water, keeping the chain running so ATP synthase can make ATP.",
@@ -207,6 +385,11 @@
         "Energy released pumps H+ into the intermembrane space to form a gradient.",
         "Oxygen accepts electrons at the end of the chain and combines with H+ to form water.",
         "Removing electrons keeps the chain running, so the gradient drives ATP synthase."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-04.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-05.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-06.jpg"
       ]
     },
     {
@@ -214,18 +397,41 @@
       "no": "Q4(a)(i)",
       "marks": 1,
       "topic": "Location of Respiration Stages",
-      "keywords": ["aerobic respiration", "location", "cytoplasm", "matrix", "cristae", "table", "stages"],
+      "keywords": [
+        "aerobic respiration",
+        "location",
+        "cytoplasm",
+        "matrix",
+        "cristae",
+        "table",
+        "stages"
+      ],
       "question": "Which row of the table shows the location of each of the three stages of aerobic respiration with enzyme-catalysed reactions?",
       "status": "pending",
       "answer": "Needs the table of locations (rows) for each stage (not in text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-06.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-07.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-08.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-09.jpg"
+      ]
     },
     {
       "id": "7A-Q4a(ii)",
       "no": "Q4(a)(ii)",
       "marks": 1,
       "topic": "Respiratory Quotient",
-      "keywords": ["respiratory quotient", "RQ", "carbon dioxide", "oxygen", "cockroach", "calculation", "gas exchange", "MCQ"],
+      "keywords": [
+        "respiratory quotient",
+        "RQ",
+        "carbon dioxide",
+        "oxygen",
+        "cockroach",
+        "calculation",
+        "gas exchange",
+        "MCQ"
+      ],
       "question": "A cockroach used 1.7 cm3 per hour of oxygen and produced 1.3 cm3 per hour of carbon dioxide. What is its respiratory quotient? Options: A 0.7, B 0.8, C 1.3, D 2.2.",
       "status": "ready",
       "answer": "B - 0.8 (1.3 / 1.7 = 0.76, which rounds to 0.8).",
@@ -234,6 +440,12 @@
         "RQ = 1.3 / 1.7 = 0.76.",
         "Rounded to one decimal place this is 0.8.",
         "This matches option B; the other options are not close to 0.76."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-06.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-07.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-08.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-09.jpg"
       ]
     },
     {
@@ -241,51 +453,115 @@
       "no": "Q4(a)(iii)",
       "marks": 1,
       "topic": "Electron Transport Inhibitor Effects",
-      "keywords": ["hydramethylnon", "electron transport chain", "inhibitor", "ATP", "termite", "table", "expected changes"],
+      "keywords": [
+        "hydramethylnon",
+        "electron transport chain",
+        "inhibitor",
+        "ATP",
+        "termite",
+        "table",
+        "expected changes"
+      ],
       "question": "Hydramethylnon inhibits the electron transport chain. Which row of the table shows the expected changes caused by hydramethylnon?",
       "status": "pending",
       "answer": "Needs the table of rows showing expected changes (not in text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-06.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-07.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-08.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-09.jpg"
+      ]
     },
     {
       "id": "7A-Q4b",
       "no": "Q4(b)",
       "marks": 2,
       "topic": "Metabolic Rate Comparison",
-      "keywords": ["metabolic rate", "oxygen consumption", "body mass", "field mouse", "southern elephant seal", "cm3 g-1 h-1", "calculation"],
+      "keywords": [
+        "metabolic rate",
+        "oxygen consumption",
+        "body mass",
+        "field mouse",
+        "southern elephant seal",
+        "cm3 g-1 h-1",
+        "calculation"
+      ],
       "question": "Calculate how many times greater the metabolic rate of the field mouse is than that of the southern elephant seal, using the oxygen consumption and body mass data.",
       "status": "pending",
       "answer": "Needs the table of oxygen consumption and body mass for the two animals (not in text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-06.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-07.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-08.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-09.jpg"
+      ]
     },
     {
       "id": "7A-Q4c",
       "no": "Q4(c)",
       "marks": 6,
       "topic": "Aerobic and Anaerobic Roles in Crocodiles",
-      "keywords": ["crocodile", "lactate production", "anaerobic respiration", "aerobic respiration", "active", "graph", "saltwater"],
+      "keywords": [
+        "crocodile",
+        "lactate production",
+        "anaerobic respiration",
+        "aerobic respiration",
+        "active",
+        "graph",
+        "saltwater"
+      ],
       "question": "Discuss the roles of aerobic and anaerobic respiration in the active crocodiles, using the lactate production graph and your own knowledge.",
       "status": "pending",
       "answer": "Needs the graph of lactate production rate for individual crocodiles (not in text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-06.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-07.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-08.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-09.jpg"
+      ]
     },
     {
       "id": "7A-Q5a",
       "no": "Q5(a)",
       "marks": 2,
       "topic": "Mitochondrion Width",
-      "keywords": ["mitochondrion", "width", "length", "electron micrograph", "scale", "nm", "measurement"],
+      "keywords": [
+        "mitochondrion",
+        "width",
+        "length",
+        "electron micrograph",
+        "scale",
+        "nm",
+        "measurement"
+      ],
       "question": "The mitochondrion is 2000 nm long. Calculate its width between X and Y in the micrograph.",
       "status": "pending",
       "answer": "Needs the micrograph to measure X to Y against the mitochondrion length (not in text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-09.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-10.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-11.jpg"
+      ]
     },
     {
       "id": "7A-Q5b",
       "no": "Q5(b)",
       "marks": 3,
       "topic": "Oxidative Phosphorylation",
-      "keywords": ["oxidative phosphorylation", "ATP synthase", "electron transport", "proton pumping", "chemiosmosis", "oxygen", "mitochondrion", "ADP"],
+      "keywords": [
+        "oxidative phosphorylation",
+        "ATP synthase",
+        "electron transport",
+        "proton pumping",
+        "chemiosmosis",
+        "oxygen",
+        "mitochondrion",
+        "ADP"
+      ],
       "question": "Describe how ATP is synthesised by oxidative phosphorylation in the mitochondrion.",
       "status": "ready",
       "answer": "Electron transport pumps H+ across the inner membrane; H+ flow back through ATP synthase, phosphorylating ADP to ATP, with oxygen as final electron acceptor.",
@@ -294,6 +570,11 @@
         "Energy from electron transfer pumps H+ into the intermembrane space.",
         "H+ flow back through ATP synthase, driving ADP + Pi to ATP.",
         "Oxygen accepts electrons at the end of the chain and forms water."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-09.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-10.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-11.jpg"
       ]
     },
     {
@@ -301,7 +582,15 @@
       "no": "Q5(c)",
       "marks": 2,
       "topic": "ATP Use for Energy",
-      "keywords": ["ATP hydrolysis", "energy", "phosphorylation", "ADP", "biological processes", "energy transfer", "active transport"],
+      "keywords": [
+        "ATP hydrolysis",
+        "energy",
+        "phosphorylation",
+        "ADP",
+        "biological processes",
+        "energy transfer",
+        "active transport"
+      ],
       "question": "Describe how ATP is used to supply energy for biological processes.",
       "status": "ready",
       "answer": "ATP is hydrolysed to ADP and Pi, releasing energy; the phosphate is often transferred to another molecule, making it more reactive.",
@@ -310,6 +599,11 @@
         "The released energy is used directly in the cell reaction that needs it.",
         "Often the phosphate group is transferred to another molecule (phosphorylation), making it more reactive.",
         "This couples energy to processes such as muscle contraction, active transport and synthesis."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-09.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-10.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-11.jpg"
       ]
     },
     {
@@ -317,7 +611,15 @@
       "no": "Q6(a)(i)",
       "marks": 1,
       "topic": "Inner Membrane Statements",
-      "keywords": ["inner mitochondrial membrane", "cristae", "ATP synthase", "electron transfer chain", "protein synthesis", "statements", "MCQ"],
+      "keywords": [
+        "inner mitochondrial membrane",
+        "cristae",
+        "ATP synthase",
+        "electron transfer chain",
+        "protein synthesis",
+        "statements",
+        "MCQ"
+      ],
       "question": "How many of these statements about the inner membrane of a mitochondrion are correct? 1 it is folded (has cristae); 2 it is the location of ATP synthase; 3 it is the site of the electron transfer chain; 4 it is a site of protein synthesis. Options: A 1, B 2, C 3, D 4.",
       "status": "ready",
       "answer": "C - 3 statements are correct (protein synthesis is not a site on the inner membrane).",
@@ -326,6 +628,10 @@
         "ATP synthase is located in the inner membrane, so statement 2 is correct.",
         "The electron transfer chain is located in the inner membrane, so statement 3 is correct.",
         "Protein synthesis by mitochondrial ribosomes occurs in the matrix, so statement 4 is wrong; 3 are correct, option C."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-11.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-12.jpg"
       ]
     },
     {
@@ -333,7 +639,15 @@
       "no": "Q6(a)(ii)",
       "marks": 1,
       "topic": "Lactate Production Result",
-      "keywords": ["lactate", "anaerobic respiration", "acidic", "muscle fatigue", "pH", "waste product", "MCQ"],
+      "keywords": [
+        "lactate",
+        "anaerobic respiration",
+        "acidic",
+        "muscle fatigue",
+        "pH",
+        "waste product",
+        "MCQ"
+      ],
       "question": "Anaerobic respiration produces lactate as a waste product. Which is the result of lactate production? Options: A blood becomes less acidic, B muscle becomes less fatigued, C pH of the blood increases, D muscle becomes more acidic.",
       "status": "ready",
       "answer": "D - muscle becomes more acidic.",
@@ -342,6 +656,10 @@
         "Lactic acid releases H+ ions, so muscle becomes more acidic.",
         "Increased acidity contributes to muscle fatigue, so option B is wrong.",
         "Blood pH decreases, not increases, so options A and C are wrong."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-11.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-12.jpg"
       ]
     },
     {
@@ -349,7 +667,15 @@
       "no": "Q6(b)",
       "marks": 2,
       "topic": "Chemiosmosis in ATP Synthesis",
-      "keywords": ["chemiosmosis", "proton gradient", "ATP synthase", "H+", "ATP synthesis", "inner membrane", "electron transport"],
+      "keywords": [
+        "chemiosmosis",
+        "proton gradient",
+        "ATP synthase",
+        "H+",
+        "ATP synthesis",
+        "inner membrane",
+        "electron transport"
+      ],
       "question": "Describe how chemiosmosis is involved in the synthesis of ATP.",
       "status": "ready",
       "answer": "Electron transport pumps H+ to build a gradient; H+ flow back through ATP synthase, which makes ATP from ADP and Pi.",
@@ -358,6 +684,10 @@
         "This creates an electrochemical gradient across the inner membrane.",
         "H+ flow back down the gradient through ATP synthase.",
         "The flow drives the phosphorylation of ADP to ATP."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-11.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-12.jpg"
       ]
     },
     {
@@ -365,7 +695,16 @@
       "no": "Q6(c)",
       "marks": 1,
       "topic": "First Radioactive Product",
-      "keywords": ["radioactive oxygen", "oxygen", "water", "carbon dioxide", "reduced NAD", "ATP", "respiration", "tracer"],
+      "keywords": [
+        "radioactive oxygen",
+        "oxygen",
+        "water",
+        "carbon dioxide",
+        "reduced NAD",
+        "ATP",
+        "respiration",
+        "tracer"
+      ],
       "question": "A respiring culture was supplied with radioactive oxygen molecules. Which will be the first substance to contain radioactive oxygen atoms? Options: A ATP, B carbon dioxide, C reduced NAD, D water.",
       "status": "ready",
       "answer": "D - water.",
@@ -374,6 +713,10 @@
         "Oxygen accepts electrons and H+ and is reduced to form water.",
         "So water is the first product to contain the labelled oxygen.",
         "CO2 is made from substrate carbon in the Krebs cycle, not directly from O2, and ATP and reduced NAD do not contain O2 first."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-11.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-12.jpg"
       ]
     },
     {
@@ -381,7 +724,16 @@
       "no": "Q7(a)(i)",
       "marks": 1,
       "topic": "Site of Electron Transport",
-      "keywords": ["electron transport chain", "inner mitochondrial membrane", "mitochondrion", "site", "ATP synthesis", "matrix", "cytoplasm", "MCQ"],
+      "keywords": [
+        "electron transport chain",
+        "inner mitochondrial membrane",
+        "mitochondrion",
+        "site",
+        "ATP synthesis",
+        "matrix",
+        "cytoplasm",
+        "MCQ"
+      ],
       "question": "Where is the site of the electron transport chain? Options: A cytoplasm, B inner mitochondrial membrane, C mitochondrial matrix, D outer mitochondrial membrane.",
       "status": "ready",
       "answer": "B - inner mitochondrial membrane.",
@@ -390,6 +742,11 @@
         "Glycolysis, not the chain, takes place in the cytoplasm.",
         "The matrix holds the enzymes of the link reaction and Krebs cycle.",
         "The outer membrane is not where the chain is located."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-12.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-13.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-14.jpg"
       ]
     },
     {
@@ -397,7 +754,16 @@
       "no": "Q7(a)(ii)",
       "marks": 1,
       "topic": "Enzymes Are Proteins",
-      "keywords": ["enzyme", "protein", "molecule type", "carbohydrate", "lipid", "phospholipid", "electron transport chain", "MCQ"],
+      "keywords": [
+        "enzyme",
+        "protein",
+        "molecule type",
+        "carbohydrate",
+        "lipid",
+        "phospholipid",
+        "electron transport chain",
+        "MCQ"
+      ],
       "question": "Which type of molecule is an enzyme? Options: A carbohydrate, B lipid, C phospholipid, D protein.",
       "status": "ready",
       "answer": "D - protein.",
@@ -406,6 +772,11 @@
         "Almost all enzymes are globular proteins.",
         "Carbohydrates, lipids and phospholipids are not enzymes.",
         "So option D is correct."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-12.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-13.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-14.jpg"
       ]
     },
     {
@@ -413,7 +784,15 @@
       "no": "Q7(a)(iii)",
       "marks": 2,
       "topic": "Role of Reduced NAD",
-      "keywords": ["reduced NAD", "electron carrier", "hydrogen", "electron transport chain", "glycolysis", "Krebs cycle", "oxidative phosphorylation"],
+      "keywords": [
+        "reduced NAD",
+        "electron carrier",
+        "hydrogen",
+        "electron transport chain",
+        "glycolysis",
+        "Krebs cycle",
+        "oxidative phosphorylation"
+      ],
       "question": "Describe the role of reduced NAD in aerobic respiration.",
       "status": "ready",
       "answer": "Reduced NAD carries electrons (and H) from glycolysis, the link reaction and the Krebs cycle to the electron transport chain, which releases energy for ATP production.",
@@ -422,6 +801,11 @@
         "It becomes reduced NAD.",
         "At the electron transport chain, reduced NAD donates its electrons, releasing energy.",
         "This energy pumps H+ across the inner membrane, and NAD is regenerated to be reused."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-12.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-13.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-14.jpg"
       ]
     },
     {
@@ -429,7 +813,15 @@
       "no": "Q7(b)(i)",
       "marks": 3,
       "topic": "Carbon Monoxide and ATP",
-      "keywords": ["carbon monoxide", "haemoglobin", "oxygen transport", "electron transport chain", "ATP production", "final electron acceptor", "oxidative phosphorylation"],
+      "keywords": [
+        "carbon monoxide",
+        "haemoglobin",
+        "oxygen transport",
+        "electron transport chain",
+        "ATP production",
+        "final electron acceptor",
+        "oxidative phosphorylation"
+      ],
       "question": "Carbon monoxide binds to the haem group of haemoglobin. Explain how carbon monoxide will affect the production of ATP.",
       "status": "ready",
       "answer": "CO blocks oxygen binding, so less oxygen reaches the mitochondria; without oxygen the electron transport chain stops and less ATP is made.",
@@ -438,6 +830,11 @@
         "Less oxygen is carried to the body cells and their mitochondria.",
         "Oxygen is the final electron acceptor of the chain; without it electrons cannot be removed.",
         "The electron transport chain stops, so H+ is not pumped and ATP synthase makes less ATP."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-12.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-13.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-14.jpg"
       ]
     },
     {
@@ -445,7 +842,15 @@
       "no": "Q7(b)(ii)",
       "marks": 2,
       "topic": "Cyanide and Anaerobic ATP",
-      "keywords": ["cyanide", "electron transport chain", "anaerobic respiration", "glycolysis", "substrate-level phosphorylation", "ATP", "oxygen"],
+      "keywords": [
+        "cyanide",
+        "electron transport chain",
+        "anaerobic respiration",
+        "glycolysis",
+        "substrate-level phosphorylation",
+        "ATP",
+        "oxygen"
+      ],
       "question": "Cyanide stops electron transfer along the electron transport chain. Explain why cyanide does not affect the production of ATP from anaerobic respiration.",
       "status": "ready",
       "answer": "Anaerobic respiration does not use the electron transport chain; its ATP comes from glycolysis (substrate-level phosphorylation), which cyanide does not block.",
@@ -454,6 +859,11 @@
         "Anaerobic respiration makes ATP only by glycolysis in the cytoplasm.",
         "Glycolysis uses substrate-level phosphorylation, not the electron transport chain.",
         "So ATP production from anaerobic respiration continues."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-12.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-13.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-14.jpg"
       ]
     },
     {
@@ -461,7 +871,14 @@
       "no": "Q8(a)",
       "marks": 1,
       "topic": "Site of Electron Transport",
-      "keywords": ["electron transport chain", "inner mitochondrial membrane", "site", "ATP", "mitochondria", "MCQ"],
+      "keywords": [
+        "electron transport chain",
+        "inner mitochondrial membrane",
+        "site",
+        "ATP",
+        "mitochondria",
+        "MCQ"
+      ],
       "question": "Where is the site of the electron transport chain? Options: A cytoplasm, B inner mitochondrial membrane, C matrix, D outer mitochondrial membrane.",
       "status": "ready",
       "answer": "B - inner mitochondrial membrane.",
@@ -470,6 +887,11 @@
         "The cytoplasm is the site of glycolysis only.",
         "The matrix holds the Krebs cycle and link reaction enzymes.",
         "The outer membrane is not the site of the chain."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-14.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-15.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-16.jpg"
       ]
     },
     {
@@ -477,7 +899,15 @@
       "no": "Q8(b)(i)",
       "marks": 2,
       "topic": "Cyanide and ATP Production",
-      "keywords": ["cyanide", "cytochrome oxidase", "electron transport chain", "ATP production", "oxygen", "proton gradient", "inhibitor"],
+      "keywords": [
+        "cyanide",
+        "cytochrome oxidase",
+        "electron transport chain",
+        "ATP production",
+        "oxygen",
+        "proton gradient",
+        "inhibitor"
+      ],
       "question": "Explain the effect that cyanide will have on ATP production by the electron transport chain.",
       "status": "ready",
       "answer": "Cyanide blocks cytochrome oxidase, stopping electron flow to oxygen; H+ cannot be pumped, so ATP synthase cannot make ATP.",
@@ -486,6 +916,11 @@
         "Electrons back up along the chain and the chain stops.",
         "No H+ is pumped into the intermembrane space, so no proton gradient forms.",
         "ATP synthase has no gradient to drive it, so ATP production by oxidative phosphorylation falls sharply."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-14.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-15.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-16.jpg"
       ]
     },
     {
@@ -493,7 +928,15 @@
       "no": "Q8(b)(ii)",
       "marks": 2,
       "topic": "Rotenone and Succinate",
-      "keywords": ["rotenone", "succinate", "reduced FAD", "complex I", "electron transport chain", "ATP production", "succinate dehydrogenase"],
+      "keywords": [
+        "rotenone",
+        "succinate",
+        "reduced FAD",
+        "complex I",
+        "electron transport chain",
+        "ATP production",
+        "succinate dehydrogenase"
+      ],
       "question": "Metabolism of succinate produces reduced FAD. Explain the effect that rotenone will have on ATP production by the electron transport chain.",
       "status": "ready",
       "answer": "Rotenone blocks complex I, but reduced FAD enters the chain at complex II, so ATP production from succinate continues.",
@@ -502,6 +945,11 @@
         "Succinate metabolism produces reduced FAD, which donates electrons at complex II (succinate dehydrogenase).",
         "These electrons bypass complex I, so the chain can still pump H+.",
         "So ATP production from reduced FAD continues, although ATP from reduced NAD falls."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-14.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-15.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-16.jpg"
       ]
     },
     {
@@ -509,7 +957,16 @@
       "no": "Q8(b)(iii)",
       "marks": 2,
       "topic": "Inhibitors and Anaerobic ATP",
-      "keywords": ["anaerobic respiration", "inhibitors", "glycolysis", "electron transport chain", "substrate-level phosphorylation", "ATP", "cyanide", "rotenone"],
+      "keywords": [
+        "anaerobic respiration",
+        "inhibitors",
+        "glycolysis",
+        "electron transport chain",
+        "substrate-level phosphorylation",
+        "ATP",
+        "cyanide",
+        "rotenone"
+      ],
       "question": "Explain why these inhibitors will not affect the production of ATP from anaerobic respiration.",
       "status": "ready",
       "answer": "Anaerobic respiration does not use the electron transport chain, so ATP made by glycolysis is unaffected.",
@@ -518,6 +975,11 @@
         "ATP is made by substrate-level phosphorylation, which does not need the electron transport chain.",
         "The inhibitors act only on the electron transport chain, which anaerobic respiration does not use.",
         "So ATP production from anaerobic respiration is not affected."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-14.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-15.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-16.jpg"
       ]
     },
     {
@@ -525,7 +987,16 @@
       "no": "Q9(a)",
       "marks": 3,
       "topic": "Ageing and Neurodegeneration",
-      "keywords": ["ageing", "neurodegeneration", "mitochondria", "reactive oxygen species", "mtDNA mutations", "ATP", "neurons", "energy demand"],
+      "keywords": [
+        "ageing",
+        "neurodegeneration",
+        "mitochondria",
+        "reactive oxygen species",
+        "mtDNA mutations",
+        "ATP",
+        "neurons",
+        "energy demand"
+      ],
       "question": "Suggest why there is a relationship between the ageing process and neurodegeneration.",
       "status": "ready",
       "answer": "With age, ROS and mtDNA damage build up, reducing ATP supply, and energy-demanding neurons die.",
@@ -534,6 +1005,12 @@
         "With age, ROS damage mitochondrial DNA and proteins, and repair becomes less efficient.",
         "Damaged mitochondria make less ATP and more ROS, a damaging cycle.",
         "Neurons have very high energy demand, so they die first when ATP falls, causing neurodegeneration."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-16.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-17.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-18.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-19.jpg"
       ]
     },
     {
@@ -541,7 +1018,15 @@
       "no": "Q9(b)",
       "marks": 3,
       "topic": "Energy Use in Oxidative Phosphorylation",
-      "keywords": ["oxidative phosphorylation", "electron transport chain", "proton gradient", "ATP synthase", "reduced NAD", "chemiosmosis", "glucose energy"],
+      "keywords": [
+        "oxidative phosphorylation",
+        "electron transport chain",
+        "proton gradient",
+        "ATP synthase",
+        "reduced NAD",
+        "chemiosmosis",
+        "glucose energy"
+      ],
       "question": "Describe how energy released from glucose is used in oxidative phosphorylation.",
       "status": "ready",
       "answer": "Energy from electron transfer pumps H+ to create a gradient; H+ flowing through ATP synthase drives ATP synthesis.",
@@ -550,6 +1035,12 @@
         "Electrons pass along the electron transport chain, releasing energy that pumps H+ across the inner membrane.",
         "The H+ gradient stores this energy as an electrochemical potential.",
         "H+ diffuse back through ATP synthase, which makes ATP from ADP and Pi; oxygen accepts electrons to form water."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-16.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-17.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-18.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-19.jpg"
       ]
     },
     {
@@ -557,7 +1048,15 @@
       "no": "Q9(c)",
       "marks": 3,
       "topic": "ROS Damage to mtDNA",
-      "keywords": ["reactive oxygen species", "free radicals", "mtDNA", "oxidative damage", "mutations", "electron transport chain", "DNA repair"],
+      "keywords": [
+        "reactive oxygen species",
+        "free radicals",
+        "mtDNA",
+        "oxidative damage",
+        "mutations",
+        "electron transport chain",
+        "DNA repair"
+      ],
       "question": "Explain how free radicals (ROS) can cause damage to mitochondrial DNA.",
       "status": "ready",
       "answer": "ROS made by the electron transport chain oxidise mtDNA bases and backbone, causing mutations and strand breaks, and mtDNA has little protection or repair.",
@@ -566,6 +1065,12 @@
         "They are highly reactive and oxidise DNA bases and the sugar-phosphate backbone.",
         "This causes base changes, mutations and strand breaks.",
         "mtDNA has few histone proteins and limited repair, so damage accumulates."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-16.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-17.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-18.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-19.jpg"
       ]
     },
     {
@@ -573,7 +1078,15 @@
       "no": "Q9(d)",
       "marks": 3,
       "topic": "Cell Differentiation",
-      "keywords": ["differentiation", "gene expression", "transcription factors", "specialised cells", "brain cells", "morphology", "signals"],
+      "keywords": [
+        "differentiation",
+        "gene expression",
+        "transcription factors",
+        "specialised cells",
+        "brain cells",
+        "morphology",
+        "signals"
+      ],
       "question": "Describe how the differentiation of highly specialised brain cells with different morphology can occur.",
       "status": "ready",
       "answer": "Different genes are switched on or off by transcription factors and environmental signals, so cells develop different structures and functions.",
@@ -582,6 +1095,12 @@
         "Transcription factors and chemical signals from the environment switch genes on or off.",
         "Different proteins are then made in different cell types, changing their shape and function.",
         "A cell's position in the brain gives it different signals, and so a different morphology."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-16.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-17.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-18.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-19.jpg"
       ]
     },
     {
@@ -589,7 +1108,15 @@
       "no": "Q9(e)",
       "marks": 2,
       "topic": "Mitochondrial Proteome",
-      "keywords": ["mitochondrial proteome", "proteins", "mitochondria", "complete set", "genome", "proteomics", "mitochondrial function"],
+      "keywords": [
+        "mitochondrial proteome",
+        "proteins",
+        "mitochondria",
+        "complete set",
+        "genome",
+        "proteomics",
+        "mitochondrial function"
+      ],
       "question": "Explain what is meant by the phrase mitochondrial proteome.",
       "status": "ready",
       "answer": "The complete set of proteins found in mitochondria.",
@@ -598,6 +1125,12 @@
         "The mitochondrial proteome is therefore all proteins present in mitochondria.",
         "Some are coded by mtDNA, but most are coded by nuclear DNA and imported into mitochondria.",
         "Its composition can change with cell type and with age."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-16.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-17.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-18.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-19.jpg"
       ]
     },
     {
@@ -605,7 +1138,16 @@
       "no": "Q9(f)",
       "marks": 2,
       "topic": "Synaptic Mitochondria Ageing",
-      "keywords": ["synaptic mitochondria", "neurone", "ageing", "energy demand", "ROS", "mitochondrial damage", "synapse", "neurotransmitter"],
+      "keywords": [
+        "synaptic mitochondria",
+        "neurone",
+        "ageing",
+        "energy demand",
+        "ROS",
+        "mitochondrial damage",
+        "synapse",
+        "neurotransmitter"
+      ],
       "question": "Explain why synaptic mitochondria are more susceptible to ageing than mitochondria in other parts of a neurone.",
       "status": "ready",
       "answer": "Synapses have very high energy demand, so these mitochondria produce more ROS and accumulate damage faster.",
@@ -614,6 +1156,12 @@
         "High activity means high rates of respiration and more ROS production.",
         "Synaptic mitochondria are far from the cell body, so repair or replacement is slower.",
         "So damage builds up faster than in mitochondria in other parts of the neurone."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-16.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-17.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-18.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-19.jpg"
       ]
     },
     {
@@ -621,7 +1169,15 @@
       "no": "Q9(g)",
       "marks": 2,
       "topic": "Mitochondrial Genome and Oxidative Phosphorylation",
-      "keywords": ["mitochondrial genome", "mtDNA", "oxidative phosphorylation", "ETC proteins", "ATP synthase", "polypeptides", "mutations"],
+      "keywords": [
+        "mitochondrial genome",
+        "mtDNA",
+        "oxidative phosphorylation",
+        "ETC proteins",
+        "ATP synthase",
+        "polypeptides",
+        "mutations"
+      ],
       "question": "Explain why the mitochondrial genome is essential for oxidative phosphorylation.",
       "status": "ready",
       "answer": "mtDNA codes for some subunits of the electron transport chain and ATP synthase, which are essential for oxidative phosphorylation.",
@@ -630,6 +1186,12 @@
         "Without these subunits, the chain and ATP synthase cannot be assembled or function.",
         "So proton pumping and ATP synthesis by oxidative phosphorylation would fail.",
         "Mutations in mtDNA therefore reduce ATP production."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-16.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-17.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-18.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-19.jpg"
       ]
     },
     {
@@ -637,7 +1199,15 @@
       "no": "Q9(h)",
       "marks": 2,
       "topic": "Autophagy of Mitochondria",
-      "keywords": ["autophagy", "damaged mitochondria", "autophagosome", "lysosome", "mitophagy", "digestion", "membrane"],
+      "keywords": [
+        "autophagy",
+        "damaged mitochondria",
+        "autophagosome",
+        "lysosome",
+        "mitophagy",
+        "digestion",
+        "membrane"
+      ],
       "question": "Suggest how damaged mitochondria are removed by autophagy.",
       "status": "ready",
       "answer": "Damaged mitochondria are tagged and engulfed by an autophagosome, which fuses with a lysosome whose enzymes digest them.",
@@ -646,6 +1216,12 @@
         "A double membrane (autophagosome) forms around the tagged mitochondria.",
         "The autophagosome fuses with a lysosome.",
         "Lysosomal enzymes digest the mitochondrial components, which are then recycled."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-16.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-17.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-18.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-19.jpg"
       ]
     },
     {
@@ -653,18 +1229,38 @@
       "no": "Q10(a)",
       "marks": 1,
       "topic": "Order of Respiration Stages",
-      "keywords": ["glycolysis", "link reaction", "Krebs cycle", "oxidative phosphorylation", "order", "complete oxidation", "glucose"],
+      "keywords": [
+        "glycolysis",
+        "link reaction",
+        "Krebs cycle",
+        "oxidative phosphorylation",
+        "order",
+        "complete oxidation",
+        "glucose"
+      ],
       "question": "Which is the correct order of the stages of respiration required for the complete oxidation of glucose? The options are not in the text.",
       "status": "pending",
       "answer": "Needs the list of options for the order of stages (not in text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-20.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-21.jpg"
+      ]
     },
     {
       "id": "7A-Q10b",
       "no": "Q10(b)",
       "marks": 2,
       "topic": "Balanced Equation for Glucose",
-      "keywords": ["glucose", "aerobic respiration", "balanced equation", "carbon dioxide", "water", "oxygen", "C6H12O6"],
+      "keywords": [
+        "glucose",
+        "aerobic respiration",
+        "balanced equation",
+        "carbon dioxide",
+        "water",
+        "oxygen",
+        "C6H12O6"
+      ],
       "question": "Write a balanced equation for the complete oxidation of glucose in aerobic respiration.",
       "status": "ready",
       "answer": "C6H12O6 + 6O2 -> 6CO2 + 6H2O",
@@ -673,6 +1269,10 @@
         "The products are carbon dioxide (CO2) and water (H2O).",
         "Carbon: 6 atoms on each side. Hydrogen: 12 atoms on each side (6 H2O = 12 H).",
         "Oxygen: left 6 (glucose) + 12 (from 6 O2) = 18; right 12 (6 CO2) + 6 (6 H2O) = 18, so it balances."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-20.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-21.jpg"
       ]
     },
     {
@@ -680,7 +1280,16 @@
       "no": "Q10(c)(i)",
       "marks": 1,
       "topic": "Respiratory Quotient of Lipid",
-      "keywords": ["respiratory quotient", "lipid", "CO2", "O2", "RQ", "calculation", "fat", "MCQ"],
+      "keywords": [
+        "respiratory quotient",
+        "lipid",
+        "CO2",
+        "O2",
+        "RQ",
+        "calculation",
+        "fat",
+        "MCQ"
+      ],
       "question": "What is the respiratory quotient when this lipid (2 C18H34O2 + 51 O2 -> 36 CO2 + 34 H2O) is used in aerobic respiration? Options: A 0.67, B 0.71, C 1.06, D 1.42.",
       "status": "ready",
       "answer": "B - 0.71 (36 / 51 = 0.706).",
@@ -689,6 +1298,10 @@
         "From the equation, 36 CO2 are produced and 51 O2 are consumed.",
         "RQ = 36 / 51 = 0.706, which rounds to 0.71.",
         "Lipids have an RQ below 1, lower than carbohydrates, which is why option B is correct."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-20.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-21.jpg"
       ]
     },
     {
@@ -696,7 +1309,15 @@
       "no": "Q10(c)(ii)",
       "marks": 2,
       "topic": "Percentage Energy in ATP From Lipid",
-      "keywords": ["percentage", "lipid", "ATP", "energy conversion", "kJ", "calculation", "3 significant figures"],
+      "keywords": [
+        "percentage",
+        "lipid",
+        "ATP",
+        "energy conversion",
+        "kJ",
+        "calculation",
+        "3 significant figures"
+      ],
       "question": "The lipid oxidation produces 122 ATP; one lipid molecule contains 12 244 kJ and one ATP yields 30.51 kJ. Calculate the percentage of the lipid energy converted to ATP energy, to 3 significant figures.",
       "status": "ready",
       "answer": "30.4%.",
@@ -705,6 +1326,10 @@
         "Energy in one lipid molecule = 12 244 kJ.",
         "Percentage = 3722.2 / 12 244 x 100 = 30.4%.",
         "Give the answer to 3 significant figures: 30.4%."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-20.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-21.jpg"
       ]
     },
     {
@@ -712,7 +1337,15 @@
       "no": "Q11(a)(i)",
       "marks": 1,
       "topic": "Folds of Inner Membrane",
-      "keywords": ["cristae", "inner mitochondrial membrane", "folding", "mitochondrion", "surface area", "ATP synthase", "structure"],
+      "keywords": [
+        "cristae",
+        "inner mitochondrial membrane",
+        "folding",
+        "mitochondrion",
+        "surface area",
+        "ATP synthase",
+        "structure"
+      ],
       "question": "Name a structure formed by the folding of the inner mitochondrial membrane.",
       "status": "ready",
       "answer": "Cristae.",
@@ -721,6 +1354,11 @@
         "These folds are called cristae.",
         "Folding increases the surface area for the electron transport chain and ATP synthase.",
         "The matrix lies inside the inner membrane."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-21.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-22.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-23.jpg"
       ]
     },
     {
@@ -728,7 +1366,15 @@
       "no": "Q11(a)(ii)",
       "marks": 1,
       "topic": "Role of Inner Membrane",
-      "keywords": ["inner mitochondrial membrane", "role", "ATP synthase", "phosphorylate ADP", "glucose to pyruvate", "electron transport", "MCQ"],
+      "keywords": [
+        "inner mitochondrial membrane",
+        "role",
+        "ATP synthase",
+        "phosphorylate ADP",
+        "glucose to pyruvate",
+        "electron transport",
+        "MCQ"
+      ],
       "question": "Which is a role of the inner mitochondrial membrane? Options: A to convert glucose to pyruvate, B to phosphorylate ADP, C to produce glucose from carbon dioxide, D to trap light.",
       "status": "ready",
       "answer": "B - to phosphorylate ADP.",
@@ -737,6 +1383,11 @@
         "ATP synthase phosphorylates ADP to ATP using the H+ gradient.",
         "Glucose to pyruvate occurs in the cytoplasm (A), not the membrane.",
         "Trapping light (D) and making glucose from CO2 (C) are photosynthesis processes."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-21.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-22.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-23.jpg"
       ]
     },
     {
@@ -744,18 +1395,40 @@
       "no": "Q11(a)(iii)",
       "marks": 2,
       "topic": "Magnification of Mitochondrion",
-      "keywords": ["magnification", "mitochondrion", "photograph", "standard form", "image length", "actual length", "calculation"],
+      "keywords": [
+        "magnification",
+        "mitochondrion",
+        "photograph",
+        "standard form",
+        "image length",
+        "actual length",
+        "calculation"
+      ],
       "question": "The actual length of the mitochondrion between X and Y is 2.7 m (as stated). Calculate the magnification, in standard form.",
       "status": "pending",
       "answer": "Needs the length of the mitochondrion between X and Y measured on the photograph (not in text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-21.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-22.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-23.jpg"
+      ]
     },
     {
       "id": "7A-Q11b",
       "no": "Q11(b)",
       "marks": 3,
       "topic": "Reduced NAD and ATP Synthesis",
-      "keywords": ["reduced NAD", "ATP synthesis", "electron transport chain", "proton gradient", "ATP synthase", "mitochondrion", "chemiosmosis", "oxygen"],
+      "keywords": [
+        "reduced NAD",
+        "ATP synthesis",
+        "electron transport chain",
+        "proton gradient",
+        "ATP synthase",
+        "mitochondrion",
+        "chemiosmosis",
+        "oxygen"
+      ],
       "question": "Describe how reduced NAD is involved in the synthesis of ATP inside a mitochondrion.",
       "status": "ready",
       "answer": "Reduced NAD donates electrons to the electron transport chain; the energy pumps H+ to form a gradient, and H+ flowing through ATP synthase makes ATP.",
@@ -764,6 +1437,11 @@
         "The electrons pass along the electron transport chain, releasing energy to pump H+ into the intermembrane space.",
         "The H+ build a gradient, and they flow back through ATP synthase.",
         "ATP synthase phosphorylates ADP to ATP, and oxygen accepts the electrons to form water."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-21.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-22.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-23.jpg"
       ]
     },
     {
@@ -771,7 +1449,15 @@
       "no": "Q11(c)(i)",
       "marks": 1,
       "topic": "Role of Oxygen",
-      "keywords": ["oxygen", "electron acceptor", "electron transport chain", "water", "mitochondria", "final acceptor", "MCQ"],
+      "keywords": [
+        "oxygen",
+        "electron acceptor",
+        "electron transport chain",
+        "water",
+        "mitochondria",
+        "final acceptor",
+        "MCQ"
+      ],
       "question": "Which is the role of oxygen molecules in mitochondria? Options: A to accept electrons, B to donate electrons, C to donate hydrogen ions, D to form carbon dioxide.",
       "status": "ready",
       "answer": "A - to accept electrons.",
@@ -780,6 +1466,11 @@
         "Oxygen is the final electron acceptor.",
         "Oxygen combines with electrons and H+ to form water.",
         "Oxygen does not donate electrons or form CO2 directly (B, C and D are wrong)."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-21.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-22.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-23.jpg"
       ]
     },
     {
@@ -787,7 +1478,15 @@
       "no": "Q11(c)(ii)",
       "marks": 1,
       "topic": "Location of Electron Transport Chain",
-      "keywords": ["electron transport chain", "inner mitochondrial membrane", "mitochondrion", "matrix", "ribosome", "location", "MCQ"],
+      "keywords": [
+        "electron transport chain",
+        "inner mitochondrial membrane",
+        "mitochondrion",
+        "matrix",
+        "ribosome",
+        "location",
+        "MCQ"
+      ],
       "question": "Which part of a mitochondrion contains the electron transport chain? Options: A inner mitochondrial membrane, B mitochondrial matrix, C outer mitochondrial membrane, D ribosome.",
       "status": "ready",
       "answer": "A - inner mitochondrial membrane.",
@@ -796,6 +1495,11 @@
         "The matrix contains Krebs cycle enzymes, not the electron transport chain.",
         "The outer membrane is a simple barrier and does not carry the chain.",
         "Ribosomes make proteins, so they are not the site of the chain."
+      ],
+      "images": [
+        "papers/biology/img/07A-Cellular-Respiration-21.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-22.jpg",
+        "papers/biology/img/07A-Cellular-Respiration-23.jpg"
       ]
     }
   ]

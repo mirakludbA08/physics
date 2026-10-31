@@ -29,6 +29,10 @@
         "-x^(3/2) gives -(3/2)x^(1/2).",
         "The constant -20 differentiates to 0.",
         "So dy/dx = (27/2)x^(-1/2) - (3/2)x^(1/2)."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-1.jpg",
+        "papers/maths/img/P2-08-Differentiation-2.jpg"
       ]
     },
     {
@@ -56,6 +60,10 @@
         "Substitute x = 9 into y: y = 27(3) - 27 - 20.",
         "y = 81 - 27 - 20 = 34.",
         "The stationary point is (9, 34)."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-1.jpg",
+        "papers/maths/img/P2-08-Differentiation-2.jpg"
       ]
     },
     {
@@ -82,6 +90,10 @@
         "At x = 9: x^(-3/2) = 1/27 and x^(-1/2) = 1/3.",
         "d^2y/dx^2 = -(27/4)(1/27) - (3/4)(1/3) = -1/4 - 1/4 = -1/2.",
         "The second derivative is negative, so the stationary point is a maximum."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-1.jpg",
+        "papers/maths/img/P2-08-Differentiation-2.jpg"
       ]
     },
     {
@@ -109,6 +121,10 @@
         "Substitute: P = 12(64) - 64^(3/2) - 120.",
         "64^(3/2) = 8^3 = 512, so P = 768 - 512 - 120 = 136.",
         "The maximum profit is 136 thousand pounds."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-1.jpg",
+        "papers/maths/img/P2-08-Differentiation-2.jpg"
       ]
     },
     {
@@ -134,6 +150,10 @@
         "d^2P/dx^2 = -(3/4)x^(-1/2).",
         "At x = 64: x^(-1/2) = 1/8, so d^2P/dx^2 = -(3/4)(1/8) = -3/32.",
         "This is negative, so the stationary point is a maximum."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-1.jpg",
+        "papers/maths/img/P2-08-Differentiation-2.jpg"
       ]
     },
     {
@@ -160,6 +180,10 @@
         "Set dy/dx = 0: 6x^2 - 20x = 0.",
         "Factorise: 2x(3x - 10) = 0.",
         "So x = 0 or x = 10/3."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-2.jpg",
+        "papers/maths/img/P2-08-Differentiation-3.jpg"
       ]
     },
     {
@@ -187,6 +211,10 @@
         "For x < 0 both factors 2x and 3x - 10 are negative, so the product is positive.",
         "For x between 0 and 10/3 the product is negative; for x > 10/3 it is positive.",
         "So y is increasing for x < 0 or x > 10/3."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-2.jpg",
+        "papers/maths/img/P2-08-Differentiation-3.jpg"
       ]
     },
     {
@@ -213,6 +241,10 @@
         "At P, x = 1/2 and dy/dx = 0: 12(1/4) - 9 - 4k = 0.",
         "So 3 - 9 - 4k = 0, which gives -6 - 4k = 0.",
         "Solving gives k = -3/2."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-2.jpg",
+        "papers/maths/img/P2-08-Differentiation-3.jpg"
       ]
     },
     {
@@ -238,6 +270,10 @@
         "With k = -3/2: d^2y/dx^2 = 24x - 3/x^3.",
         "At x = 1/2: 12 - 3(8) = 12 - 24 = -12.",
         "The second derivative is negative, so P is a maximum."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-2.jpg",
+        "papers/maths/img/P2-08-Differentiation-3.jpg"
       ]
     },
     {
@@ -265,6 +301,10 @@
         "Let u = x^2: 8u^2 - 6u + 1 = 0, so (4u - 1)(2u - 1) = 0.",
         "u = 1/4 gives x = 1/2 (point P); u = 1/2 gives x^2 = 1/2.",
         "Since x > 0, x = 1/sqrt(2) = sqrt(2)/2 (about 0.707)."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-2.jpg",
+        "papers/maths/img/P2-08-Differentiation-3.jpg"
       ]
     },
     {
@@ -291,6 +331,10 @@
         "Surface area: S = 2(x)(3x) + 2(x)(h) + 2(3x)(h) = 6x^2 + 8xh.",
         "Substitute h: 8x(324/x^2) = 2592/x.",
         "So S = 6x^2 + 2592/x."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-3.jpg",
+        "papers/maths/img/P2-08-Differentiation-4.jpg"
       ]
     },
     {
@@ -316,6 +360,10 @@
         "Differentiate 6x^2 to get 12x.",
         "Differentiate 2592x^(-1) to get -2592x^(-2).",
         "So dS/dx = 12x - 2592/x^2."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-3.jpg",
+        "papers/maths/img/P2-08-Differentiation-4.jpg"
       ]
     },
     {
@@ -341,6 +389,10 @@
         "So 12x = 2592/x^2, which gives 12x^3 = 2592.",
         "Hence x^3 = 216.",
         "So x = 6."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-3.jpg",
+        "papers/maths/img/P2-08-Differentiation-4.jpg"
       ]
     },
     {
@@ -366,6 +418,10 @@
         "At x = 6: x^3 = 216, so 5184/216 = 24.",
         "d^2S/dx^2 = 12 + 24 = 36.",
         "This is positive, so the stationary point is a minimum."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-3.jpg",
+        "papers/maths/img/P2-08-Differentiation-4.jpg"
       ]
     },
     {
@@ -391,6 +447,10 @@
         "6(6^2) = 216.",
         "2592/6 = 432.",
         "S = 216 + 432 = 648 cm^2."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-3.jpg",
+        "papers/maths/img/P2-08-Differentiation-4.jpg"
       ]
     },
     {
@@ -418,6 +478,10 @@
         "-84x^3/(21x^(1/2)) = -4x^(5/2) and 182x^2/(21x^(1/2)) = (26/3)x^(3/2).",
         "-210x/(21x^(1/2)) = -10x^(1/2).",
         "So a = 4/7, b = -4, c = 26/3 and d = -10."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-4.jpg",
+        "papers/maths/img/P2-08-Differentiation-5.jpg"
       ]
     },
     {
@@ -443,6 +507,10 @@
         "Set dy/dx = 0.",
         "Multiply every term by x^(1/2), which is positive for x > 0.",
         "This gives 2x^3 - 10x^2 + 13x - 5 = 0."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-4.jpg",
+        "papers/maths/img/P2-08-Differentiation-5.jpg"
       ]
     },
     {
@@ -469,6 +537,10 @@
         "Solve 2x^2 - 8x + 5 = 0 with the quadratic formula: x = (8 +/- sqrt(64 - 40))/4.",
         "This gives x = (8 +/- sqrt(24))/4 = 2 +/- sqrt(6)/2.",
         "Both values are positive, so they are valid for x > 0."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-4.jpg",
+        "papers/maths/img/P2-08-Differentiation-5.jpg"
       ]
     },
     {
@@ -494,6 +566,10 @@
         "Set dy/dx = 0.",
         "Factorise: (3x - 8)(x + 2) = 0, since 3x^2 + 6x - 8x - 16 = 3x^2 - 2x - 16.",
         "So x = 8/3 or x = -2."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-5.jpg",
+        "papers/maths/img/P2-08-Differentiation-6.jpg"
       ]
     },
     {
@@ -518,6 +594,10 @@
         "Second derivative: d^2y/dx^2 = 6x - 2.",
         "At x = -2: 6(-2) - 2 = -14, which is negative, so a maximum.",
         "At x = 8/3: 6(8/3) - 2 = 14, which is positive, so a minimum."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-5.jpg",
+        "papers/maths/img/P2-08-Differentiation-6.jpg"
       ]
     },
     {
@@ -543,6 +623,9 @@
         "Gradient at x = 2 is 7: 12a - 12 + 3 = 7, so 12a = 16 and a = 4/3.",
         "Point (2, 5) lies on C: 8a - 12 + 6 + b = 5, so 8a + b = 11.",
         "Substitute a = 4/3: 32/3 + b = 11, so b = 1/3."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-6.jpg"
       ]
     },
     {
@@ -569,6 +652,9 @@
         "Discriminant b^2 - 4ac = 36 - 48 = -12, which is negative.",
         "So there are no real roots; equivalently 4(x - 3/4)^2 + 3/4 > 0 for all x.",
         "Hence dy/dx is never zero, so C has no turning points."
+      ],
+      "images": [
+        "papers/maths/img/P2-08-Differentiation-6.jpg"
       ]
     }
   ]

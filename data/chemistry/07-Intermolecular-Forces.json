@@ -9,18 +9,35 @@
       "no": "Q1",
       "marks": 1,
       "topic": "Isomer Boiling Temperature",
-      "keywords": ["isomers", "boiling temperature", "branching", "intermolecular forces", "london forces", "structures"],
+      "keywords": [
+        "isomers",
+        "boiling temperature",
+        "branching",
+        "intermolecular forces",
+        "london forces",
+        "structures"
+      ],
       "question": "Which of these isomers has the highest boiling temperature? (The isomer structures are in a diagram not present in the text.)",
       "status": "pending",
       "answer": "Pending: the isomer structures (diagram) are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-01.jpg"
+      ]
     },
     {
       "id": "Ch7-Q2a",
       "no": "Q2(a)",
       "marks": 1,
       "topic": "Hydrogen Bonding Properties",
-      "keywords": ["hydrogen bonding", "density of ice", "boiling temperature", "bond enthalpy", "volatility", "intermolecular forces"],
+      "keywords": [
+        "hydrogen bonding",
+        "density of ice",
+        "boiling temperature",
+        "bond enthalpy",
+        "volatility",
+        "intermolecular forces"
+      ],
       "question": "Which property is NOT due to hydrogen bonding? A: ice is less dense than water at 0 deg C; B: HF has a higher boiling temperature than HCl; C: H-H bond enthalpy is greater than Si-H bond enthalpy; D: alcohols are less volatile than alkanes of similar molar mass.",
       "status": "ready",
       "answer": "C (H-H bond enthalpy is greater than Si-H bond enthalpy)",
@@ -31,6 +48,10 @@
         "D: alcohols hydrogen bond between molecules, so they are less volatile than alkanes - due to hydrogen bonding.",
         "C: bond enthalpy is the energy of a covalent bond within a molecule, not an intermolecular force.",
         "So the answer is C."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-02.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-03.jpg"
       ]
     },
     {
@@ -38,18 +59,37 @@
       "no": "Q2(b)",
       "marks": 1,
       "topic": "Hydrogen Bond Diagram",
-      "keywords": ["hydrogen bond", "water molecules", "diagram", "dipoles", "lone pair", "hydrogen bonding"],
+      "keywords": [
+        "hydrogen bond",
+        "water molecules",
+        "diagram",
+        "dipoles",
+        "lone pair",
+        "hydrogen bonding"
+      ],
       "question": "Which diagram best represents a hydrogen bond between two water molecules? (The diagrams A-D are not in the text.)",
       "status": "pending",
       "answer": "Pending: the diagram options are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-02.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-03.jpg"
+      ]
     },
     {
       "id": "Ch7-Q3",
       "no": "Q3",
       "marks": 1,
       "topic": "Forces in Solid HI",
-      "keywords": ["hydrogen iodide", "solid", "intermolecular forces", "london forces", "covalent bonds", "ionic bonds", "hydrogen bonds"],
+      "keywords": [
+        "hydrogen iodide",
+        "solid",
+        "intermolecular forces",
+        "london forces",
+        "covalent bonds",
+        "ionic bonds",
+        "hydrogen bonds"
+      ],
       "question": "What are the strongest interactions between molecules in solid hydrogen iodide, HI? A: covalent bonds; B: hydrogen bonds; C: ionic bonds; D: London forces.",
       "status": "ready",
       "answer": "D (London forces)",
@@ -60,6 +100,10 @@
         "Between HI molecules the intermolecular forces are London forces and permanent dipole forces.",
         "Of the options given, London forces (D) is the only intermolecular interaction listed.",
         "So the answer is D."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-03.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-04.jpg"
       ]
     },
     {
@@ -67,18 +111,36 @@
       "no": "Q4",
       "marks": 1,
       "topic": "Isomer Boiling Order",
-      "keywords": ["isomers", "boiling temperature", "skeletal formulae", "branching", "order", "intermolecular forces"],
+      "keywords": [
+        "isomers",
+        "boiling temperature",
+        "skeletal formulae",
+        "branching",
+        "order",
+        "intermolecular forces"
+      ],
       "question": "Three isomers X, Y and Z are shown as skeletal formulae. Which series gives the correct order of increasing boiling temperature? (A: Y, X, Z; B: X, Y, Z; C: Y, Z, X; D: X, Z, Y.)",
       "status": "pending",
       "answer": "Pending: the skeletal formulae of X, Y and Z are in a diagram missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-04.jpg"
+      ]
     },
     {
       "id": "Ch7-Q5",
       "no": "Q5",
       "marks": 1,
       "topic": "Water Not Hydrogen Bonding",
-      "keywords": ["water", "hydrogen bonding", "ice", "solvent", "ionic compounds", "ion-dipole", "freezing"],
+      "keywords": [
+        "water",
+        "hydrogen bonding",
+        "ice",
+        "solvent",
+        "ionic compounds",
+        "ion-dipole",
+        "freezing"
+      ],
       "question": "Which statement about water is NOT due to hydrogen bonding? A: water has a less open structure than ice; B: ice cubes float; C: volume increases when water freezes; D: water is a good solvent for ionic compounds.",
       "status": "ready",
       "answer": "D (water is a good solvent for ionic compounds)",
@@ -88,6 +150,9 @@
         "C: the open lattice of ice gives a larger volume on freezing, which is due to hydrogen bonding.",
         "D: water dissolves ionic compounds by ion-dipole attractions between ions and polar water molecules.",
         "So D is the statement not due to hydrogen bonding."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-04.jpg"
       ]
     },
     {
@@ -95,7 +160,14 @@
       "no": "Q6(a)(i)",
       "marks": 1,
       "topic": "Hess Cycle Arrows",
-      "keywords": ["hess law", "enthalpy of formation", "enthalpy of combustion", "propane", "arrows", "stoichiometric coefficients"],
+      "keywords": [
+        "hess law",
+        "enthalpy of formation",
+        "enthalpy of combustion",
+        "propane",
+        "arrows",
+        "stoichiometric coefficients"
+      ],
       "question": "Add arrowheads and stoichiometric coefficients to the Hess's Law diagram for the combustion of propane and the formation of propane.",
       "status": "ready",
       "answer": "Arrows: elements to C3H8 (formation); C3H8 + 5O2 to 3CO2 + 4H2O (combustion); elements to products via 3C + 3O2 and 4H2 + 2O2 (5 O2 in total).",
@@ -105,6 +177,11 @@
         "Direct route from elements to products: 3C(s) + 3O2(g) -> 3CO2(g) and 4H2(g) + 2O2(g) -> 4H2O.",
         "The O2 coefficients add to 5 (3 + 2), matching the combustion equation.",
         "Arrowheads point from the reactant side to the product side of each step."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-05.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-06.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-07.jpg"
       ]
     },
     {
@@ -112,18 +189,38 @@
       "no": "Q6(a)(ii)",
       "marks": 2,
       "topic": "Enthalpy of Formation",
-      "keywords": ["enthalpy of formation", "hess law", "propane", "combustion data", "calculation", "sign and units"],
+      "keywords": [
+        "enthalpy of formation",
+        "hess law",
+        "propane",
+        "combustion data",
+        "calculation",
+        "sign and units"
+      ],
       "question": "Use the enthalpy data at the start of Q6 and the Hess's Law diagram to calculate the standard enthalpy change of formation of propane, with sign and units.",
       "status": "pending",
       "answer": "Pending: the enthalpy data given at the start of Q6 are in a table missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-05.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-06.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-07.jpg"
+      ]
     },
     {
       "id": "Ch7-Q6b(i)",
       "no": "Q6(b)(i)",
       "marks": 2,
       "topic": "Alkane Trends",
-      "keywords": ["alkanes", "boiling temperature", "enthalpy of combustion", "ch2 increment", "london forces", "homologous series", "bond enthalpy"],
+      "keywords": [
+        "alkanes",
+        "boiling temperature",
+        "enthalpy of combustion",
+        "ch2 increment",
+        "london forces",
+        "homologous series",
+        "bond enthalpy"
+      ],
       "question": "Explain why the successive increases in the values for the straight-chain alkanes (boiling temperatures and standard enthalpies of combustion) are similar.",
       "status": "ready",
       "answer": "Each extra CH2 group adds the same bonds and London forces, so each step gives a similar rise in boiling temperature and in enthalpy of combustion.",
@@ -133,6 +230,11 @@
         "The same bonds are added each time, so the enthalpy of combustion rises by a similar amount per step.",
         "Each CH2 group adds the same number of electrons and surface area, so London forces rise by a similar amount each step.",
         "More energy is needed to separate molecules with stronger London forces, so boiling temperatures rise by a similar amount each step."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-05.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-06.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-07.jpg"
       ]
     },
     {
@@ -140,18 +242,39 @@
       "no": "Q6(b)(ii)",
       "marks": 2,
       "topic": "Alkane Trend Anomaly",
-      "keywords": ["alkanes", "butane", "pentane", "increase", "boiling temperature", "enthalpy of combustion", "explanation"],
+      "keywords": [
+        "alkanes",
+        "butane",
+        "pentane",
+        "increase",
+        "boiling temperature",
+        "enthalpy of combustion",
+        "explanation"
+      ],
       "question": "The increase in one of the tabulated values from butane to pentane is smaller than any other increase. Suggest an explanation.",
       "status": "pending",
       "answer": "Pending: the table of values and the quantity referred to are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-05.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-06.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-07.jpg"
+      ]
     },
     {
       "id": "Ch7-Q6b(iii)",
       "no": "Q6(b)(iii)",
       "marks": 3,
       "topic": "Alkane Boiling Temperature",
-      "keywords": ["alkanes", "boiling temperature", "london forces", "number of carbon atoms", "electrons", "polarisability", "surface area"],
+      "keywords": [
+        "alkanes",
+        "boiling temperature",
+        "london forces",
+        "number of carbon atoms",
+        "electrons",
+        "polarisability",
+        "surface area"
+      ],
       "question": "Explain, with reference to intermolecular forces (no detailed description needed), why the boiling temperatures of alkanes increase as the number of carbon atoms increases.",
       "status": "ready",
       "answer": "More carbon atoms give more electrons and a larger molecule, so London forces are stronger and more energy is needed to separate the molecules.",
@@ -162,6 +285,11 @@
         "Longer chains have a larger surface area of contact between neighbouring molecules, giving more London force interactions.",
         "More energy is needed to overcome the stronger London forces and separate the molecules.",
         "So boiling temperature increases with the number of carbon atoms."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-05.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-06.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-07.jpg"
       ]
     },
     {
@@ -169,18 +297,36 @@
       "no": "Q7",
       "marks": 1,
       "topic": "Viscosity Bubble Test",
-      "keywords": ["viscosity", "air bubble", "liquid", "intermolecular forces", "organic compounds", "time"],
+      "keywords": [
+        "viscosity",
+        "air bubble",
+        "liquid",
+        "intermolecular forces",
+        "organic compounds",
+        "time"
+      ],
       "question": "Four liquid organic compounds are compared by timing an air bubble in inverted tubes. For which compound does the bubble take the longest time?",
       "status": "pending",
       "answer": "Pending: the four compounds and their viscosities are shown in a diagram or table missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-07.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-08.jpg"
+      ]
     },
     {
       "id": "Ch7-Q8",
       "no": "Q8",
       "marks": 1,
       "topic": "Hydrogen Bonding Compounds",
-      "keywords": ["hydrogen bonding", "liquid state", "hydrogen fluoride", "trichloroethane", "trimethylamine", "hydrogen sulfide"],
+      "keywords": [
+        "hydrogen bonding",
+        "liquid state",
+        "hydrogen fluoride",
+        "trichloroethane",
+        "trimethylamine",
+        "hydrogen sulfide"
+      ],
       "question": "Which pure compound has hydrogen bonding in the liquid state? A: 1,1,1-trichloroethane, CH3CCl3; B: trimethylamine, (CH3)3N; C: hydrogen fluoride, HF; D: hydrogen sulfide, H2S.",
       "status": "ready",
       "answer": "C (hydrogen fluoride, HF)",
@@ -191,6 +337,9 @@
         "C: in HF the H is bonded to F, so hydrogen bonds form between molecules.",
         "D: in H2S the H is bonded to S, which is not electronegative enough, so there is no hydrogen bonding.",
         "So the answer is C."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-08.jpg"
       ]
     },
     {
@@ -198,29 +347,57 @@
       "no": "Q9",
       "marks": 1,
       "topic": "Isomer Boiling Temperature",
-      "keywords": ["isomers", "boiling temperature", "branching", "structures", "intermolecular forces"],
+      "keywords": [
+        "isomers",
+        "boiling temperature",
+        "branching",
+        "structures",
+        "intermolecular forces"
+      ],
       "question": "Which of these isomers has the highest boiling temperature? (The isomer structures are in a diagram not present in the text.)",
       "status": "pending",
       "answer": "Pending: the isomer structures and options are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-09.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-10.jpg"
+      ]
     },
     {
       "id": "Ch7-Q10",
       "no": "Q10",
       "marks": 1,
       "topic": "Hydrogen Halide Order",
-      "keywords": ["hydrogen halides", "boiling temperature", "hydrogen chloride", "hydrogen iodide", "increasing order", "table"],
+      "keywords": [
+        "hydrogen halides",
+        "boiling temperature",
+        "hydrogen chloride",
+        "hydrogen iodide",
+        "increasing order",
+        "table"
+      ],
       "question": "Which row shows the hydrogen halides in order of increasing boiling temperature? (The rows are in a table missing from the text.)",
       "status": "pending",
       "answer": "Pending: the table of answer rows is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-09.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-10.jpg"
+      ]
     },
     {
       "id": "Ch7-Q11",
       "no": "Q11",
       "marks": 1,
       "topic": "Branched Alkane Boiling",
-      "keywords": ["alkane isomers", "c8h18", "branching", "lowest boiling temperature", "london forces", "surface area"],
+      "keywords": [
+        "alkane isomers",
+        "c8h18",
+        "branching",
+        "lowest boiling temperature",
+        "london forces",
+        "surface area"
+      ],
       "question": "Which isomer of C8H18 has the lowest boiling temperature? A: 2,5-dimethylhexane; B: 2-methylheptane; C: 2,2,4-trimethylpentane; D: octane.",
       "status": "ready",
       "answer": "C (2,2,4-trimethylpentane)",
@@ -230,6 +407,10 @@
         "Less contact means weaker London forces between molecules.",
         "Weaker London forces need less energy to overcome, so the boiling temperature is lower.",
         "C is the most branched isomer, so it has the lowest boiling temperature; D (octane) is the straight chain with the highest."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-10.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-11.jpg"
       ]
     },
     {
@@ -237,18 +418,35 @@
       "no": "Q12",
       "marks": 1,
       "topic": "Highest Boiling Compound",
-      "keywords": ["boiling temperature", "compounds", "intermolecular forces", "hydrogen bonding", "structures"],
+      "keywords": [
+        "boiling temperature",
+        "compounds",
+        "intermolecular forces",
+        "hydrogen bonding",
+        "structures"
+      ],
       "question": "Which compound has the highest boiling temperature? (The options are in a diagram not present in the text.)",
       "status": "pending",
       "answer": "Pending: the compound options are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-10.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-11.jpg"
+      ]
     },
     {
       "id": "Ch7-Q13",
       "no": "Q13",
       "marks": 1,
       "topic": "Solubility of Alkanes",
-      "keywords": ["solubility", "hydrocarbon", "hexane", "non-polar solvent", "like dissolves like", "c35h72"],
+      "keywords": [
+        "solubility",
+        "hydrocarbon",
+        "hexane",
+        "non-polar solvent",
+        "like dissolves like",
+        "c35h72"
+      ],
       "question": "Which solvent dissolves the greatest amount of the hydrocarbon C35H72? A: butan-1-ol; B: ethanoic acid; C: hexane; D: water.",
       "status": "ready",
       "answer": "C (hexane)",
@@ -258,6 +456,9 @@
         "Hexane is non-polar and has London forces, so it mixes readily with the alkane.",
         "Butan-1-ol, ethanoic acid and water are polar and hydrogen bond to each other, so they do not mix well with the alkane.",
         "So hexane (C) dissolves the greatest amount."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-11.jpg"
       ]
     },
     {
@@ -265,7 +466,14 @@
       "no": "Q14",
       "marks": 1,
       "topic": "Properties of Ice",
-      "keywords": ["ice", "water", "density", "hydrogen bonds", "bond angle", "open structure"],
+      "keywords": [
+        "ice",
+        "water",
+        "density",
+        "hydrogen bonds",
+        "bond angle",
+        "open structure"
+      ],
       "question": "Which statement about ice is NOT correct? A: ice has a lower density than water; B: H2O molecules are further apart in ice than in water; C: the H-O-H bond angle is the same in ice and water; D: H2O molecules in ice are held together by hydrogen bonds.",
       "status": "ready",
       "answer": "C (the H-O-H bond angle is not the same in ice and water)",
@@ -275,6 +483,10 @@
         "D: hydrogen bonds hold H2O molecules together in ice - correct.",
         "C: the H-O-H angle is about 104.5 deg in liquid water, but it differs in the ice lattice, so the statement is incorrect.",
         "So the answer is C."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-12.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-13.jpg"
       ]
     },
     {
@@ -282,18 +494,36 @@
       "no": "Q15",
       "marks": 1,
       "topic": "Intermolecular Forces in a Compound",
-      "keywords": ["intermolecular forces", "hydrogen bonding", "dipole-dipole", "london forces", "molecule structure"],
+      "keywords": [
+        "intermolecular forces",
+        "hydrogen bonding",
+        "dipole-dipole",
+        "london forces",
+        "molecule structure"
+      ],
       "question": "Which intermolecular forces exist between the molecules of the compound shown? (The compound structure is in a diagram missing from the text.)",
       "status": "pending",
       "answer": "Pending: the structure of the compound is in a diagram missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-12.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-13.jpg"
+      ]
     },
     {
       "id": "Ch7-Q16",
       "no": "Q16",
       "marks": 1,
       "topic": "Compounds Without Hydrogen Bonds",
-      "keywords": ["hydrogen bonds", "hcl", "hf", "h2o", "nh3", "hydrogen halides", "intermolecular forces"],
+      "keywords": [
+        "hydrogen bonds",
+        "hcl",
+        "hf",
+        "h2o",
+        "nh3",
+        "hydrogen halides",
+        "intermolecular forces"
+      ],
       "question": "Which compound does NOT form hydrogen bonds between its molecules? A: HCl; B: H2O; C: HF; D: NH3.",
       "status": "ready",
       "answer": "A (HCl)",
@@ -303,6 +533,10 @@
         "A: in HCl the H is bonded to Cl, which is not electronegative enough to form hydrogen bonds.",
         "HCl molecules are held together only by dipole-dipole and London forces.",
         "So the answer is A."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-12.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-13.jpg"
       ]
     },
     {
@@ -310,7 +544,14 @@
       "no": "Q17",
       "marks": 1,
       "topic": "Hydrogen Halide Boiling Temperatures",
-      "keywords": ["hydrogen iodide", "hydrogen bromide", "boiling temperature", "london forces", "permanent dipole", "molecular size"],
+      "keywords": [
+        "hydrogen iodide",
+        "hydrogen bromide",
+        "boiling temperature",
+        "london forces",
+        "permanent dipole",
+        "molecular size"
+      ],
       "question": "Why is the boiling temperature of hydrogen iodide higher than that of hydrogen bromide? A: HI has stronger London forces than HBr; B: HI has a larger permanent dipole than HBr; C: HI has stronger hydrogen bonds than HBr; D: the H-I bond is stronger than the H-Br bond.",
       "status": "ready",
       "answer": "A (HI has stronger London forces than HBr)",
@@ -320,6 +561,10 @@
         "A larger electron cloud gives stronger London forces between molecules.",
         "More energy is needed to separate HI molecules, so HI boils at a higher temperature.",
         "B is wrong because HI is less polar than HBr; D is wrong because bond strength is not overcome on boiling."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-13.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-14.jpg"
       ]
     },
     {
@@ -327,7 +572,14 @@
       "no": "Q18",
       "marks": 1,
       "topic": "Boiling Temperature Comparison",
-      "keywords": ["boiling temperature", "butan-1-ol", "hydrogen bonding", "alcohol", "branching", "pentane"],
+      "keywords": [
+        "boiling temperature",
+        "butan-1-ol",
+        "hydrogen bonding",
+        "alcohol",
+        "branching",
+        "pentane"
+      ],
       "question": "Which compound would be expected to have the highest boiling temperature? A: (CH3)3COH; B: CH3CH2CH2CH2OH; C: CH3CH2CH(CH3)2; D: CH3CH2CH2CH2CH3.",
       "status": "ready",
       "answer": "B (butan-1-ol, CH3CH2CH2CH2OH)",
@@ -337,6 +589,10 @@
         "B is a straight-chain alcohol, giving a larger surface area of contact and stronger London forces as well as hydrogen bonds.",
         "C and D have only London forces, so they boil at lower temperatures.",
         "So B (butan-1-ol) has the highest boiling temperature."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-13.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-14.jpg"
       ]
     },
     {
@@ -344,7 +600,15 @@
       "no": "Q19(a)",
       "marks": 1,
       "topic": "Alkane Boiling Temperatures",
-      "keywords": ["alkanes", "boiling temperature", "hexane", "pentane", "butane", "propane", "chain length"],
+      "keywords": [
+        "alkanes",
+        "boiling temperature",
+        "hexane",
+        "pentane",
+        "butane",
+        "propane",
+        "chain length"
+      ],
       "question": "Which of these alkanes (A: butane; B: hexane; C: pentane; D: propane) has the highest boiling temperature?",
       "status": "ready",
       "answer": "B (hexane)",
@@ -353,6 +617,10 @@
         "Boiling temperature rises with chain length because more electrons give stronger London forces.",
         "Hexane has the most carbon atoms of the four (C6).",
         "So hexane (B) has the highest boiling temperature."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-13.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-14.jpg"
       ]
     },
     {
@@ -360,7 +628,15 @@
       "no": "Q19(b)",
       "marks": 1,
       "topic": "Alkane Boiling Temperatures",
-      "keywords": ["alkanes", "boiling temperature", "propane", "butane", "pentane", "hexane", "lowest"],
+      "keywords": [
+        "alkanes",
+        "boiling temperature",
+        "propane",
+        "butane",
+        "pentane",
+        "hexane",
+        "lowest"
+      ],
       "question": "Which of these alkanes (the same list as part (a): butane, hexane, pentane, propane) has the lowest boiling temperature?",
       "status": "ready",
       "answer": "D (propane)",
@@ -369,6 +645,10 @@
         "It has the fewest electrons and the smallest surface area of contact.",
         "So it has the weakest London forces and the lowest boiling temperature.",
         "So the answer is D (propane)."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-13.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-14.jpg"
       ]
     },
     {
@@ -376,29 +656,59 @@
       "no": "Q20",
       "marks": 1,
       "topic": "Forces in Liquids",
-      "keywords": ["liquid state", "intermolecular forces", "table", "london forces", "hydrogen bonds", "dipole-dipole"],
+      "keywords": [
+        "liquid state",
+        "intermolecular forces",
+        "table",
+        "london forces",
+        "hydrogen bonds",
+        "dipole-dipole"
+      ],
       "question": "Which row in the table shows the forces between the molecules in the liquid state? (The table is missing from the text.)",
       "status": "pending",
       "answer": "Pending: the table of rows is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-14.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-15.jpg"
+      ]
     },
     {
       "id": "Ch7-Q21a(i)",
       "no": "Q21(a)(i)",
       "marks": 4,
       "topic": "Enthalpy from Bond Enthalpies",
-      "keywords": ["octane", "bond enthalpies", "enthalpy of combustion", "mean bond enthalpy", "combustion", "petrol", "calculation"],
+      "keywords": [
+        "octane",
+        "bond enthalpies",
+        "enthalpy of combustion",
+        "mean bond enthalpy",
+        "combustion",
+        "petrol",
+        "calculation"
+      ],
       "question": "Use mean bond enthalpies to calculate the enthalpy change of combustion of octane, C8H18. (The balanced equation and the bond enthalpy values are not in the text.)",
       "status": "pending",
       "answer": "Pending: the combustion equation and the mean bond enthalpy values are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-15.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-16.jpg"
+      ]
     },
     {
       "id": "Ch7-Q21a(ii)",
       "no": "Q21(a)(ii)",
       "marks": 2,
       "topic": "Standard vs Bond Enthalpy",
-      "keywords": ["standard enthalpy of combustion", "bond enthalpy", "standard conditions", "liquid water", "mean bond enthalpy", "octane"],
+      "keywords": [
+        "standard enthalpy of combustion",
+        "bond enthalpy",
+        "standard conditions",
+        "liquid water",
+        "mean bond enthalpy",
+        "octane"
+      ],
       "question": "Give two reasons why the standard enthalpy change of combustion of octane (-5470 kJ mol-1) differs from the value calculated using bond enthalpy data.",
       "status": "ready",
       "answer": "(1) Mean bond enthalpies are averages over many compounds; (2) the standard value uses standard conditions and products in their standard states (e.g. liquid water), unlike the gas-phase bond data.",
@@ -407,6 +717,10 @@
         "Bond enthalpies refer to gaseous species, whereas the standard value uses substances in their standard states.",
         "Standard conditions (298 K and 100 kPa) are fixed, which bond enthalpy calculations do not specify.",
         "In the standard value water is liquid, so more energy is released than if steam were formed."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-15.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-16.jpg"
       ]
     },
     {
@@ -414,7 +728,15 @@
       "no": "Q21(a)(iii)",
       "marks": 2,
       "topic": "Fuel Efficiency Percentage",
-      "keywords": ["percentage efficiency", "octane", "enthalpy of combustion", "molar mass", "petrol", "energy available", "megajoules"],
+      "keywords": [
+        "percentage efficiency",
+        "octane",
+        "enthalpy of combustion",
+        "molar mass",
+        "petrol",
+        "energy available",
+        "megajoules"
+      ],
       "question": "1 kg of petrol is assumed to be pure octane, with standard enthalpy change of combustion -5470 kJ mol-1. The energy used to move the car is 11 MJ. Calculate the percentage of the maximum energy that is available to move the car.",
       "status": "ready",
       "answer": "About 23% (22.9%)",
@@ -423,6 +745,10 @@
         "Moles of octane in 1000 g = 1000 / 114 = 8.77 mol.",
         "Maximum energy from 1 kg = 8.77 x 5470 kJ = approx. 48 000 kJ = 48.0 MJ.",
         "Percentage available = (11 / 48.0) x 100 = 22.9%, which is about 23%."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-15.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-16.jpg"
       ]
     },
     {
@@ -430,7 +756,15 @@
       "no": "Q21(a)(iv)",
       "marks": 2,
       "topic": "Energy Losses in Engines",
-      "keywords": ["energy losses", "heat loss", "incomplete combustion", "engine efficiency", "maximum energy", "friction", "fuel"],
+      "keywords": [
+        "energy losses",
+        "heat loss",
+        "incomplete combustion",
+        "engine efficiency",
+        "maximum energy",
+        "friction",
+        "fuel"
+      ],
       "question": "Give two reasons why the energy used to move the car is less than the theoretical maximum energy from the fuel.",
       "status": "ready",
       "answer": "Heat is lost to the surroundings (engine and exhaust), and energy is used to overcome friction and air resistance (or combustion is incomplete).",
@@ -439,6 +773,10 @@
         "Heat energy is lost to the surroundings through the engine block and the hot exhaust gases.",
         "Some energy is used to overcome friction between moving parts of the engine.",
         "Energy used to overcome air resistance and friction does not move the car forward, so less energy is available for motion."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-15.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-16.jpg"
       ]
     },
     {
@@ -446,7 +784,16 @@
       "no": "Q21(b)",
       "marks": 6,
       "topic": "Hydrogen and Ammonia Forces",
-      "keywords": ["hydrogen", "ammonia", "london forces", "hydrogen bonding", "liquefaction", "intermolecular forces", "lone pair", "dipole"],
+      "keywords": [
+        "hydrogen",
+        "ammonia",
+        "london forces",
+        "hydrogen bonding",
+        "liquefaction",
+        "intermolecular forces",
+        "lone pair",
+        "dipole"
+      ],
       "question": "Compare and contrast the intermolecular forces involved when hydrogen and ammonia liquefy, describing how these forces are formed.",
       "status": "ready",
       "answer": "Hydrogen has only London forces from temporary dipoles; ammonia has hydrogen bonds (N-H...N) and dipole-dipole forces as well as London forces, so ammonia liquefies more easily.",
@@ -458,6 +805,10 @@
         "Ammonia also forms hydrogen bonds: the lone pair on N attracts the delta+ H of a neighbouring N-H group.",
         "Hydrogen bonds are stronger than London forces, so ammonia liquefies more easily than hydrogen.",
         "Contrast: both are intermolecular, but H2 has only London forces while NH3 also has hydrogen bonds and dipole-dipole forces."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-15.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-16.jpg"
       ]
     },
     {
@@ -465,7 +816,14 @@
       "no": "Q22",
       "marks": 1,
       "topic": "Cyclohexane vs Hexane",
-      "keywords": ["cyclohexane", "hexane", "boiling temperature", "surface area", "london forces", "cyclic molecules"],
+      "keywords": [
+        "cyclohexane",
+        "hexane",
+        "boiling temperature",
+        "surface area",
+        "london forces",
+        "cyclic molecules"
+      ],
       "question": "Hexane boils at 69 deg C and cyclohexane at 81 deg C. The main reason cyclohexane has the higher boiling temperature is that its molecules A: have more electrons; B: have strong permanent dipole-permanent dipole forces; C: have a larger surface area of contact; D: form hydrogen bonds.",
       "status": "ready",
       "answer": "C (have a larger surface area of contact)",
@@ -476,6 +834,10 @@
         "The rigid ring of cyclohexane lets molecules pack more closely, increasing the surface area of contact.",
         "Greater contact gives stronger London forces, so more energy is needed to boil cyclohexane.",
         "So the answer is C."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-16.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-17.jpg"
       ]
     },
     {
@@ -483,18 +845,37 @@
       "no": "Q23",
       "marks": 1,
       "topic": "Methanol Water Hydrogen Bond",
-      "keywords": ["methanol", "water", "hydrogen bond", "solubility", "structure", "diagram"],
+      "keywords": [
+        "methanol",
+        "water",
+        "hydrogen bond",
+        "solubility",
+        "structure",
+        "diagram"
+      ],
       "question": "Which structure best represents a hydrogen bond between methanol and water? (The structures are in a diagram missing from the text.)",
       "status": "pending",
       "answer": "Pending: the structure options are in a diagram missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-17.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-18.jpg"
+      ]
     },
     {
       "id": "Ch7-Q24",
       "no": "Q24",
       "marks": 1,
       "topic": "Hydrogen Bonding Groups",
-      "keywords": ["hydrogen bonding", "oh group", "amine", "fluoro compound", "aldehyde", "tertiary alcohol", "intermolecular"],
+      "keywords": [
+        "hydrogen bonding",
+        "oh group",
+        "amine",
+        "fluoro compound",
+        "aldehyde",
+        "tertiary alcohol",
+        "intermolecular"
+      ],
       "question": "Which compound has intermolecular hydrogen bonding? A: (CH3)3N; B: (CH3)3CF; C: (CH3)3COH; D: (CH3)3CCHO.",
       "status": "ready",
       "answer": "C ((CH3)3COH)",
@@ -505,6 +886,10 @@
         "C: (CH3)3COH has an O-H group, so hydrogen bonds form between molecules.",
         "D: the C=O group has no O-H or N-H, so there is no hydrogen bonding.",
         "So the answer is C."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-18.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-19.jpg"
       ]
     },
     {
@@ -512,7 +897,15 @@
       "no": "Q25",
       "marks": 1,
       "topic": "London Forces Only",
-      "keywords": ["london forces only", "cf4", "non-polar molecule", "symmetrical", "hf", "of2", "pf3"],
+      "keywords": [
+        "london forces only",
+        "cf4",
+        "non-polar molecule",
+        "symmetrical",
+        "hf",
+        "of2",
+        "pf3"
+      ],
       "question": "Which compound has London forces as its only intermolecular force? A: HF; B: OF2; C: PF3; D: CF4.",
       "status": "ready",
       "answer": "D (CF4)",
@@ -522,6 +915,10 @@
         "D: CF4 is tetrahedral and symmetrical, so its polar C-F bonds cancel out and the molecule is non-polar.",
         "Non-polar molecules have only London forces between them.",
         "So the answer is D (CF4)."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-19.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-20.jpg"
       ]
     },
     {
@@ -529,7 +926,15 @@
       "no": "Q26",
       "marks": 1,
       "topic": "Alcohol Boiling Temperatures",
-      "keywords": ["boiling temperature", "butan-1-ol", "methylpropanol", "hydrogen bonding", "branching", "pentane", "isomers"],
+      "keywords": [
+        "boiling temperature",
+        "butan-1-ol",
+        "methylpropanol",
+        "hydrogen bonding",
+        "branching",
+        "pentane",
+        "isomers"
+      ],
       "question": "Which of these compounds would be expected to have the highest boiling temperature? A: butan-1-ol; B: 2-methylpropan-1-ol; C: 2-methylpropan-2-ol; D: pentane.",
       "status": "ready",
       "answer": "A (butan-1-ol)",
@@ -539,6 +944,10 @@
         "B is branched, so it has less surface contact than the straight-chain alcohol A.",
         "A is a straight-chain alcohol, giving the largest surface area of contact and the strongest London forces alongside hydrogen bonds.",
         "So A (butan-1-ol) has the highest boiling temperature."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-19.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-20.jpg"
       ]
     },
     {
@@ -546,18 +955,36 @@
       "no": "Q27",
       "marks": 1,
       "topic": "Hydrogen Halide Order",
-      "keywords": ["hydrogen halides", "boiling temperature", "decreasing order", "hydrogen fluoride", "sequence"],
+      "keywords": [
+        "hydrogen halides",
+        "boiling temperature",
+        "decreasing order",
+        "hydrogen fluoride",
+        "sequence"
+      ],
       "question": "Which sequence shows the hydrogen halides in order of decreasing boiling temperature? (The sequences are missing from the text.)",
       "status": "pending",
       "answer": "Pending: the sequence options are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-20.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-21.jpg"
+      ]
     },
     {
       "id": "Ch7-Q28",
       "no": "Q28",
       "marks": 1,
       "topic": "Propanal Boiling Temperature",
-      "keywords": ["propanal", "butane", "aldehyde", "permanent dipole", "boiling temperature", "carbonyl group", "london forces"],
+      "keywords": [
+        "propanal",
+        "butane",
+        "aldehyde",
+        "permanent dipole",
+        "boiling temperature",
+        "carbonyl group",
+        "london forces"
+      ],
       "question": "Propanal boils at a higher temperature than butane. The main reason is that propanal molecules A: have more electrons; B: have strong permanent dipole-permanent dipole forces; C: have a larger surface area of contact; D: form hydrogen bonds.",
       "status": "ready",
       "answer": "B (strong permanent dipole-permanent dipole forces)",
@@ -568,6 +995,10 @@
         "Propanal has no O-H or N-H bond, so it cannot form hydrogen bonds (D is wrong).",
         "Butane has as many or more electrons than propanal, so A is wrong and the surface contact is similar (C is wrong).",
         "So the answer is B."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-20.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-21.jpg"
       ]
     },
     {
@@ -575,18 +1006,35 @@
       "no": "Q29",
       "marks": 1,
       "topic": "Boiling Temperature Order",
-      "keywords": ["boiling temperature", "order", "compounds W X Y Z", "intermolecular forces", "structures"],
+      "keywords": [
+        "boiling temperature",
+        "order",
+        "compounds W X Y Z",
+        "intermolecular forces",
+        "structures"
+      ],
       "question": "Which is the order of increasing boiling temperature for compounds W, X, Y and Z? (A: YZXW; B: YXZW; C: WXZY; D: XWYZ.) The compounds are shown in a diagram missing from the text.",
       "status": "pending",
       "answer": "Pending: the structures or data for W, X, Y and Z are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-21.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-22.jpg"
+      ]
     },
     {
       "id": "Ch7-Q30",
       "no": "Q30",
       "marks": 1,
       "topic": "Alkane Boiling Temperature",
-      "keywords": ["alkane", "highest boiling temperature", "pentane", "branching", "isomers", "butane"],
+      "keywords": [
+        "alkane",
+        "highest boiling temperature",
+        "pentane",
+        "branching",
+        "isomers",
+        "butane"
+      ],
       "question": "Which alkane has the highest boiling temperature? A: 2,2-dimethylpropane; B: 2-methylbutane; C: butane; D: pentane.",
       "status": "ready",
       "answer": "D (pentane)",
@@ -596,6 +1044,10 @@
         "2,2-dimethylpropane and 2-methylbutane are branched, so they have less surface contact.",
         "Butane is shorter than pentane, so it has fewer electrons and weaker London forces.",
         "So D (pentane) has the highest boiling temperature."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-21.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-22.jpg"
       ]
     },
     {
@@ -603,7 +1055,15 @@
       "no": "Q31",
       "marks": 1,
       "topic": "London Forces Strength",
-      "keywords": ["london forces", "alkane", "liquid phase", "surface area", "chain length", "branching", "nonane"],
+      "keywords": [
+        "london forces",
+        "alkane",
+        "liquid phase",
+        "surface area",
+        "chain length",
+        "branching",
+        "nonane"
+      ],
       "question": "Which alkane has the strongest London forces in the liquid phase? A: (CH3)4C; B: CH3CH2CH2CH2CH3; C: (C2H5)4C; D: CH3(CH2)7CH3.",
       "status": "ready",
       "answer": "D (CH3(CH2)7CH3, straight-chain nonane)",
@@ -613,6 +1073,10 @@
         "C, (C2H5)4C, has 9 carbons but is highly branched, so its molecules have little surface contact.",
         "D, CH3(CH2)7CH3, is straight-chain nonane with 9 carbons and the largest surface area of contact.",
         "So D has the strongest London forces."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-22.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-23.jpg"
       ]
     },
     {
@@ -620,18 +1084,36 @@
       "no": "Q32(a)",
       "marks": 1,
       "topic": "Isomer Boiling Temperature",
-      "keywords": ["isomers", "boiling temperature", "highest", "structures", "intermolecular forces"],
+      "keywords": [
+        "isomers",
+        "boiling temperature",
+        "highest",
+        "structures",
+        "intermolecular forces"
+      ],
       "question": "Which isomer has the highest boiling temperature? (The isomer options are in a diagram missing from the text.)",
       "status": "pending",
       "answer": "Pending: the isomer options are in a diagram missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-22.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-23.jpg"
+      ]
     },
     {
       "id": "Ch7-Q32b",
       "no": "Q32(b)",
       "marks": 1,
       "topic": "Highest Boiling Temperature",
-      "keywords": ["boiling temperature", "butane-1,4-diol", "hydrogen bonding", "diol", "cyclopentane", "butan-1-ol", "pentane"],
+      "keywords": [
+        "boiling temperature",
+        "butane-1,4-diol",
+        "hydrogen bonding",
+        "diol",
+        "cyclopentane",
+        "butan-1-ol",
+        "pentane"
+      ],
       "question": "Which compound has the highest boiling temperature? A: pentane; B: cyclopentane; C: butan-1-ol; D: butane-1,4-diol.",
       "status": "ready",
       "answer": "D (butane-1,4-diol)",
@@ -641,6 +1123,10 @@
         "Butane-1,4-diol has two -OH groups, so each molecule can form more hydrogen bonds.",
         "More hydrogen bonds need more energy to separate the molecules, so it boils at the highest temperature.",
         "So the answer is D."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-22.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-23.jpg"
       ]
     },
     {
@@ -648,7 +1134,15 @@
       "no": "Q33",
       "marks": 1,
       "topic": "Alkane Boiling Temperature",
-      "keywords": ["alkanes", "boiling temperature", "hexane", "pentane", "2-methylpentane", "branching", "straight chain"],
+      "keywords": [
+        "alkanes",
+        "boiling temperature",
+        "hexane",
+        "pentane",
+        "2-methylpentane",
+        "branching",
+        "straight chain"
+      ],
       "question": "Which alkane has the highest boiling temperature? A: hexane; B: pentane; C: 2-methylpentane; D: 2,3-dimethylbutane.",
       "status": "ready",
       "answer": "A (hexane)",
@@ -658,6 +1152,10 @@
         "Its straight chain packs closely, giving the largest surface area of contact and the strongest London forces.",
         "C and D are branched isomers with less surface contact, so their London forces are weaker.",
         "So A (hexane) has the highest boiling temperature."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-23.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-24.jpg"
       ]
     },
     {
@@ -665,7 +1163,15 @@
       "no": "Q34",
       "marks": 1,
       "topic": "Hydrogen Bonding Hydrides",
-      "keywords": ["hydrogen bonding", "hydrides", "hf", "h2te", "ash3", "snh4", "intermolecular hydrogen bonds"],
+      "keywords": [
+        "hydrogen bonding",
+        "hydrides",
+        "hf",
+        "h2te",
+        "ash3",
+        "snh4",
+        "intermolecular hydrogen bonds"
+      ],
       "question": "Which compound has intermolecular hydrogen bonding? A: HF; B: H2Te; C: AsH3; D: SnH4.",
       "status": "ready",
       "answer": "A (HF)",
@@ -675,6 +1181,10 @@
         "B, C and D have H bonded to Te, As or Sn, which are not electronegative enough for hydrogen bonding.",
         "These compounds are held together only by dipole-dipole and London forces.",
         "So the answer is A (HF)."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-23.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-24.jpg"
       ]
     },
     {
@@ -682,7 +1192,15 @@
       "no": "Q35",
       "marks": 1,
       "topic": "Polar Molecule Identification",
-      "keywords": ["polar molecules", "permanent dipole", "non-polar bonds", "electronegativity", "ph3", "molecular shape", "data booklet"],
+      "keywords": [
+        "polar molecules",
+        "permanent dipole",
+        "non-polar bonds",
+        "electronegativity",
+        "ph3",
+        "molecular shape",
+        "data booklet"
+      ],
       "question": "A compound has molecules with non-polar bonds and permanent dipole-permanent dipole forces between its molecules. Which could be its formula, using the Data Booklet? A: NO; B: BeCl2; C: PH3; D: CI4.",
       "status": "ready",
       "answer": "C (PH3)",
@@ -693,6 +1211,9 @@
         "B (BeCl2) has polar bonds but is linear and symmetrical, so the molecule has no permanent dipole.",
         "D (CI4) is a symmetrical tetrahedron, so it has no permanent dipole.",
         "So the answer is C (PH3)."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-24.jpg"
       ]
     },
     {
@@ -700,7 +1221,15 @@
       "no": "Q36",
       "marks": 1,
       "topic": "Breaking Intermolecular Bonds",
-      "keywords": ["hydrogen bonds", "intermolecular", "breaking", "boiling water", "vaporisation", "h2o", "covalent bonds"],
+      "keywords": [
+        "hydrogen bonds",
+        "intermolecular",
+        "breaking",
+        "boiling water",
+        "vaporisation",
+        "h2o",
+        "covalent bonds"
+      ],
       "question": "In which process are intermolecular hydrogen bonds broken? A: H2(g) -> 2H(g); B: H2O(l) -> H2O(g); C: H2(l) -> H2(g); D: H2(g) + 1/2 O2(g) -> H2O(g).",
       "status": "ready",
       "answer": "B (H2O(l) -> H2O(g))",
@@ -711,6 +1240,9 @@
         "D forms a covalent H-O bond, which is a chemical reaction and not an intermolecular change.",
         "B: vaporising liquid water separates H2O molecules, breaking the hydrogen bonds between them.",
         "So the answer is B."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-24.jpg"
       ]
     },
     {
@@ -718,7 +1250,14 @@
       "no": "Q37",
       "marks": 1,
       "topic": "Solubility of Ionic Compounds",
-      "keywords": ["solubility", "lithium chloride", "solvent", "ion-dipole", "cyclohexane", "non-polar solvent"],
+      "keywords": [
+        "solubility",
+        "lithium chloride",
+        "solvent",
+        "ion-dipole",
+        "cyclohexane",
+        "non-polar solvent"
+      ],
       "question": "In which liquid solvent would the solubility of lithium chloride (LiCl) be lowest? A: ammonia; B: cyclohexane; C: methanol; D: water.",
       "status": "ready",
       "answer": "B (cyclohexane)",
@@ -727,6 +1266,9 @@
         "Ammonia, methanol and water are polar and solvate the Li+ and Cl- ions.",
         "Cyclohexane is non-polar, so it cannot form ion-dipole attractions to separate the ions.",
         "So LiCl is least soluble in cyclohexane (B)."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-25.jpg"
       ]
     },
     {
@@ -734,7 +1276,14 @@
       "no": "Q38",
       "marks": 1,
       "topic": "Ionic Solutions",
-      "keywords": ["sodium chloride", "water", "ion-dipole", "dissolving", "solution", "ionic compound"],
+      "keywords": [
+        "sodium chloride",
+        "water",
+        "ion-dipole",
+        "dissolving",
+        "solution",
+        "ionic compound"
+      ],
       "question": "Sodium chloride dissolves in water because of interactions between the sodium chloride and water. What are these interactions? A: dipole-dipole; B: hydrogen bonds; C: ion-dipole; D: London forces.",
       "status": "ready",
       "answer": "C (ion-dipole)",
@@ -744,6 +1293,9 @@
         "Each ion is attracted to the oppositely charged end of water molecules, which is an ion-dipole interaction.",
         "Dipole-dipole, hydrogen bonds and London forces do not describe attraction between ions and water molecules.",
         "So the answer is C (ion-dipole)."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-25.jpg"
       ]
     },
     {
@@ -751,7 +1303,15 @@
       "no": "Q39",
       "marks": 1,
       "topic": "Choosing a Solvent",
-      "keywords": ["solvent", "chloroethane", "polar", "dipole-dipole", "like dissolves like", "ethanol", "hexane"],
+      "keywords": [
+        "solvent",
+        "chloroethane",
+        "polar",
+        "dipole-dipole",
+        "like dissolves like",
+        "ethanol",
+        "hexane"
+      ],
       "question": "Which is the best solvent for chloroethane? A: ethanol; B: hexane; C: hydrochloric acid; D: water.",
       "status": "ready",
       "answer": "A (ethanol)",
@@ -762,6 +1322,9 @@
         "Hexane is non-polar, so it cannot form strong attractions with the polar C-Cl bond.",
         "Water and hydrochloric acid are aqueous and strongly hydrogen bonded, so they mix less well with chloroethane.",
         "So the answer is A (ethanol)."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-25.jpg"
       ]
     },
     {
@@ -769,7 +1332,15 @@
       "no": "Q40(a)",
       "marks": 3,
       "topic": "Hydrogen Bonding in Ice",
-      "keywords": ["hydrogen bonding", "ice", "water", "bond angle", "lone pairs", "dipoles", "diagram"],
+      "keywords": [
+        "hydrogen bonding",
+        "ice",
+        "water",
+        "bond angle",
+        "lone pairs",
+        "dipoles",
+        "diagram"
+      ],
       "question": "Draw a diagram to show hydrogen bonding between two H2O molecules in ice, including bond angles, relevant dipoles and lone pairs.",
       "status": "ready",
       "answer": "Two V-shaped H2O molecules with H-O-H angle about 104.5 deg, two lone pairs on each O, delta+ on H and delta- on O, and a dashed H-bond from the delta+ H of one molecule to a lone pair on the O of the other (angle close to 180 deg).",
@@ -779,6 +1350,10 @@
         "Label each O as delta- and each H as delta+, because the O-H bonds are polar.",
         "Draw a dashed line from the delta+ H of one molecule to a lone pair on the O of the neighbouring molecule.",
         "Label the O-H...O arrangement as close to linear (about 180 deg) and mark the charges on the hydrogen bond."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-26.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-27.jpg"
       ]
     },
     {
@@ -786,18 +1361,38 @@
       "no": "Q40(b)",
       "marks": 3,
       "topic": "Water and Ammonia Properties",
-      "keywords": ["water", "ammonia", "intermolecular forces", "boiling temperature", "data", "compare", "contrast"],
+      "keywords": [
+        "water",
+        "ammonia",
+        "intermolecular forces",
+        "boiling temperature",
+        "data",
+        "compare",
+        "contrast"
+      ],
       "question": "Compare and contrast the effect of intermolecular forces on the properties of water and ammonia, using the data shown.",
       "status": "pending",
       "answer": "Pending: the data table for water and ammonia is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-26.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-27.jpg"
+      ]
     },
     {
       "id": "Ch7-Q41a",
       "no": "Q41(a)",
       "marks": 1,
       "topic": "Boiling Temperature Trend",
-      "keywords": ["hydrogen halides", "boiling temperature", "hbr", "hcl", "hi", "molecular mass", "trend"],
+      "keywords": [
+        "hydrogen halides",
+        "boiling temperature",
+        "hbr",
+        "hcl",
+        "hi",
+        "molecular mass",
+        "trend"
+      ],
       "question": "Which is the best estimate for the boiling temperature of HBr? A: 59 deg C; B: -20 deg C; C: -67 deg C; D: -90 deg C.",
       "status": "ready",
       "answer": "C (-67 deg C)",
@@ -808,6 +1403,10 @@
         "B (-20 deg C) is above HI (-35 deg C), so it breaks the trend.",
         "D (-90 deg C) is below HCl (-85 deg C), so it breaks the trend.",
         "So C (-67 deg C) is the best estimate."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-26.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-27.jpg"
       ]
     },
     {
@@ -815,7 +1414,14 @@
       "no": "Q41(b)",
       "marks": 1,
       "topic": "Anomalous Hydrogen Fluoride",
-      "keywords": ["hydrogen fluoride", "hydrogen bonding", "hydrogen halides", "anomalous boiling temperature", "boiling temperature", "hf"],
+      "keywords": [
+        "hydrogen fluoride",
+        "hydrogen bonding",
+        "hydrogen halides",
+        "anomalous boiling temperature",
+        "boiling temperature",
+        "hf"
+      ],
       "question": "Why does HF not fit the pattern of boiling temperatures of the other hydrogen halides? A: it forms hydrogen bonds; B: it is much smaller than the other hydrogen halides; C: the other halogens are all electronegative; D: fluorine is the most reactive.",
       "status": "ready",
       "answer": "A (it forms hydrogen bonds)",
@@ -826,6 +1432,10 @@
         "Hydrogen bonds are stronger than London forces, so more energy is needed to boil HF.",
         "B, C and D do not explain the extra strength of the intermolecular forces.",
         "So the answer is A."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-26.jpg",
+        "papers/chemistry/img/07-Intermolecular-Forces-27.jpg"
       ]
     },
     {
@@ -833,7 +1443,14 @@
       "no": "Q42",
       "marks": 1,
       "topic": "Amine Boiling Temperatures",
-      "keywords": ["amines", "c3h9n", "boiling temperature", "hydrogen bonding", "tertiary amine", "n-h bond"],
+      "keywords": [
+        "amines",
+        "c3h9n",
+        "boiling temperature",
+        "hydrogen bonding",
+        "tertiary amine",
+        "n-h bond"
+      ],
       "question": "Which amine with molecular formula C3H9N has the lowest boiling temperature? A: (CH3)3N; B: CH3CH2NHCH3; C: CH3CH2CH2NH2; D: CH3CH(NH2)CH3.",
       "status": "ready",
       "answer": "A ((CH3)3N, trimethylamine)",
@@ -843,6 +1460,9 @@
         "A, (CH3)3N, is a tertiary amine with no N-H bond, so it cannot form hydrogen bonds.",
         "Without hydrogen bonds, (CH3)3N has only dipole-dipole and London forces, which are weaker.",
         "So A has the lowest boiling temperature."
+      ],
+      "images": [
+        "papers/chemistry/img/07-Intermolecular-Forces-27.jpg"
       ]
     }
   ]

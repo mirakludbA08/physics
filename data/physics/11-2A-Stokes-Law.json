@@ -1,6 +1,6 @@
 {
   "code": "2A",
-  "title": "Stokes Law",
+  "title": "Stokes' law",
   "unit": "AS Unit 2",
   "pdf": "papers/physics/11-2A-Stokes-Law.pdf",
   "questions": [
@@ -9,18 +9,39 @@
       "no": "Q1(a)",
       "marks": 2,
       "topic": "Free Body Diagram Bead",
-      "keywords": ["free body diagram", "polystyrene bead", "upthrust", "weight", "viscous drag", "constant velocity", "oil"],
+      "keywords": [
+        "free body diagram",
+        "polystyrene bead",
+        "upthrust",
+        "weight",
+        "viscous drag",
+        "constant velocity",
+        "oil"
+      ],
       "question": "A polystyrene bead moves upwards through oil at constant velocity. Complete the free-body force diagram showing all forces on the bead.",
       "status": "pending",
       "answer": "Needs the diagram from the PDF to check the arrows (expected: upthrust up, weight down, viscous drag down)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-01.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-02.jpg"
+      ]
     },
     {
       "id": "2A-Q1b",
       "no": "Q1(b)",
       "marks": 3,
       "topic": "Upthrust On Bead",
-      "keywords": ["upthrust", "density", "oil", "volume", "sphere", "diameter", "archimedes", "polystyrene"],
+      "keywords": [
+        "upthrust",
+        "density",
+        "oil",
+        "volume",
+        "sphere",
+        "diameter",
+        "archimedes",
+        "polystyrene"
+      ],
       "question": "A polystyrene bead of diameter 4.00 x 10^-3 m is in oil of density 930 kg m^-3. Show that the upthrust on the bead is about 3.1 x 10^-4 N.",
       "status": "ready",
       "answer": "Upthrust = 3.1 x 10^-4 N",
@@ -28,6 +49,10 @@
         "Radius r = 2.00 x 10^-3 m.",
         "Volume V = (4/3) pi r^3 = 4.19 x (2.00 x 10^-3)^3 = 3.35 x 10^-8 m^3.",
         "Upthrust = weight of displaced oil = rho V g = 930 x 3.35 x 10^-8 x 9.81 = 3.06 x 10^-4 N, about 3.1 x 10^-4 N."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-01.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-02.jpg"
       ]
     },
     {
@@ -35,7 +60,15 @@
       "no": "Q1(c)(i)",
       "marks": 1,
       "topic": "Stokes Law Speed Condition",
-      "keywords": ["stokes law", "laminar flow", "turbulent", "low speed", "viscous drag", "reason", "condition"],
+      "keywords": [
+        "stokes law",
+        "laminar flow",
+        "turbulent",
+        "low speed",
+        "viscous drag",
+        "reason",
+        "condition"
+      ],
       "question": "Stokes' law is only valid if the bead moves sufficiently slowly through the oil. State the reason for this condition.",
       "status": "ready",
       "answer": "At higher speeds the flow becomes turbulent, and the drag is no longer given by Stokes' law",
@@ -43,6 +76,10 @@
         "Stokes' law assumes laminar (smooth, layered) flow of the fluid around the sphere.",
         "At higher speeds the flow becomes turbulent, with eddies.",
         "In turbulent flow the drag is not proportional to speed, so Stokes' law does not apply."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-01.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-02.jpg"
       ]
     },
     {
@@ -50,24 +87,49 @@
       "no": "Q1(c)(ii)",
       "marks": 5,
       "topic": "Critical Speed For Stokes Law",
-      "keywords": ["stokes law", "critical speed", "viscosity", "oil", "polystyrene bead", "weight", "validity", "terminal velocity"],
+      "keywords": [
+        "stokes law",
+        "critical speed",
+        "viscosity",
+        "oil",
+        "polystyrene bead",
+        "weight",
+        "validity",
+        "terminal velocity"
+      ],
       "question": "For Stokes' law to be valid the speed of the bead must be less than v_R, given by a formula. The oil viscosity is 4.90 x 10^-2 Pa s and the bead weight is 1.05 x 10^-5 N. Deduce whether Stokes' law can be applied.",
       "status": "pending",
       "answer": "Needs the formula for v_R, which is missing from the text; check it against the PDF before working the answer",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-01.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-02.jpg"
+      ]
     },
     {
       "id": "2A-Q2a",
       "no": "Q2(a)",
       "marks": 1,
       "topic": "Stokes Law Condition For Bubble",
-      "keywords": ["air bubble", "stokes law", "laminar flow", "condition", "drag", "water", "small sphere"],
+      "keywords": [
+        "air bubble",
+        "stokes law",
+        "laminar flow",
+        "condition",
+        "drag",
+        "water",
+        "small sphere"
+      ],
       "question": "A small spherical air bubble moves upwards in water. State the condition needed for Stokes' law to apply to the bubble.",
       "status": "ready",
       "answer": "The flow of water around the bubble must be laminar",
       "steps": [
         "Stokes' law applies only when the flow around the sphere is laminar.",
         "This requires the bubble to move slowly enough that the flow does not become turbulent."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-02.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-03.jpg"
       ]
     },
     {
@@ -75,13 +137,25 @@
       "no": "Q2(b)(i)",
       "marks": 2,
       "topic": "Upthrust On Air Bubble",
-      "keywords": ["upthrust", "air bubble", "volume", "density of water", "constant velocity", "buoyancy", "5.3 x 10^-11"],
+      "keywords": [
+        "upthrust",
+        "air bubble",
+        "volume",
+        "density of water",
+        "constant velocity",
+        "buoyancy",
+        "5.3 x 10^-11"
+      ],
       "question": "A bubble of volume 5.3 x 10^-11 m^3 moves upwards at constant velocity in water of density 998 kg m^-3. Show that the upthrust on the bubble is about 5 x 10^-7 N.",
       "status": "ready",
       "answer": "Upthrust = 5.2 x 10^-7 N, about 5 x 10^-7 N",
       "steps": [
         "Upthrust = rho V g = 998 x 5.3 x 10^-11 x 9.81.",
         "= 5.19 x 10^-7 N, which is about 5 x 10^-7 N."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-02.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-03.jpg"
       ]
     },
     {
@@ -89,7 +163,16 @@
       "no": "Q2(b)(ii)",
       "marks": 4,
       "topic": "Stokes Law Check For Bubble",
-      "keywords": ["air bubble", "stokes law", "drag", "upthrust", "terminal velocity", "viscosity of water", "reynolds number", "radius"],
+      "keywords": [
+        "air bubble",
+        "stokes law",
+        "drag",
+        "upthrust",
+        "terminal velocity",
+        "viscosity of water",
+        "reynolds number",
+        "radius"
+      ],
       "question": "The bubble rises at constant velocity 0.035 m s^-1 in water of viscosity 9.5 x 10^-4 Pa s. Ignore the bubble's weight. Deduce whether Stokes' law applies.",
       "status": "ready",
       "answer": "Stokes' law does not apply: the Stokes drag would be about 1.5 x 10^-7 N, not the 5.2 x 10^-7 N needed (and Re is about 17)",
@@ -100,6 +183,10 @@
         "The actual drag (5.2 x 10^-7 N) is about 3.6 times the Stokes prediction, so Stokes' law does not fit.",
         "Reynolds number Re = rho v d / eta = 998 x 0.035 x 4.66 x 10^-4 / (9.5 x 10^-4) = 17, far above the laminar range.",
         "So the flow is not laminar and Stokes' law does not apply to the bubble."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-02.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-03.jpg"
       ]
     },
     {
@@ -107,7 +194,16 @@
       "no": "Q3(a)(i)",
       "marks": 5,
       "topic": "Drag At Terminal Velocity",
-      "keywords": ["terminal velocity", "drag", "upthrust", "seawater", "weight", "object", "lift bag", "density"],
+      "keywords": [
+        "terminal velocity",
+        "drag",
+        "upthrust",
+        "seawater",
+        "weight",
+        "object",
+        "lift bag",
+        "density"
+      ],
       "question": "A 35 kg object falls at terminal velocity in seawater of density 1.03 x 10^3 kg m^-3. Its volume is 1.60 x 10^-2 m^3. Show that the drag at terminal velocity is about 200 N.",
       "status": "ready",
       "answer": "Drag = 1.8 x 10^2 N, which is about 200 N to 1 s.f.",
@@ -116,6 +212,10 @@
         "Upthrust U = rho V g = 1.03 x 10^3 x 1.60 x 10^-2 x 9.81 = 161.7 N.",
         "At terminal velocity the resultant force is zero, so drag D = W - U = 343.4 - 161.7 = 181.7 N.",
         "181.7 N is about 200 N to 1 s.f., as required."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-03.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-04.jpg"
       ]
     },
     {
@@ -123,7 +223,15 @@
       "no": "Q3(a)(ii)",
       "marks": 2,
       "topic": "Terminal Velocity With Quadratic Drag",
-      "keywords": ["terminal velocity", "drag", "kv^2", "quadratic drag", "speed", "k constant", "object"],
+      "keywords": [
+        "terminal velocity",
+        "drag",
+        "kv^2",
+        "quadratic drag",
+        "speed",
+        "k constant",
+        "object"
+      ],
       "question": "The drag on the object obeys D = k v^2 with k = 2.2 N s^2 m^-2. Determine the terminal velocity.",
       "status": "ready",
       "answer": "Terminal velocity = 9.1 m s^-1",
@@ -131,6 +239,10 @@
         "At terminal velocity the drag equals the net downward force found in part (i): D = 181.7 N.",
         "k v^2 = D, so v = sqrt(D / k) = sqrt(181.7 / 2.2) = sqrt(82.6).",
         "v = 9.1 m s^-1."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-03.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-04.jpg"
       ]
     },
     {
@@ -138,13 +250,25 @@
       "no": "Q3(a)(iii)",
       "marks": 2,
       "topic": "Limits Of Stokes Law",
-      "keywords": ["stokes law", "reasons", "terminal velocity", "laminar", "high speed", "large object", "turbulent"],
+      "keywords": [
+        "stokes law",
+        "reasons",
+        "terminal velocity",
+        "laminar",
+        "high speed",
+        "large object",
+        "turbulent"
+      ],
       "question": "Give two reasons why Stokes' law could not be used to calculate the terminal velocity of the object in part (a)(i).",
       "status": "ready",
       "answer": "The speed is too high for laminar flow, and the object is large (not a small sphere)",
       "steps": [
         "The speed of about 9 m s^-1 is too high: the flow around the object would be turbulent, not laminar.",
         "The object is large (35 kg) rather than a small sphere, so Stokes' law for small spheres does not apply."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-03.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-04.jpg"
       ]
     },
     {
@@ -152,7 +276,16 @@
       "no": "Q3(b)",
       "marks": 3,
       "topic": "Lift Bag Maximum Velocity",
-      "keywords": ["lift bag", "maximum velocity", "drag", "upthrust", "weight", "resultant force", "terminal velocity", "accelerate"],
+      "keywords": [
+        "lift bag",
+        "maximum velocity",
+        "drag",
+        "upthrust",
+        "weight",
+        "resultant force",
+        "terminal velocity",
+        "accelerate"
+      ],
       "question": "A lift bag with an object is released and accelerates upwards until it reaches a maximum velocity. Explain why it reaches a maximum velocity.",
       "status": "ready",
       "answer": "Drag increases with speed until it balances the net upward force, so the resultant force becomes zero",
@@ -161,6 +294,10 @@
         "As the bag speeds up, the drag force increases, opposing the motion.",
         "The resultant force = net upward force minus drag decreases as speed rises.",
         "When drag equals the net upward force, the resultant force is zero, so acceleration stops and the maximum (terminal) velocity is reached."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-03.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-04.jpg"
       ]
     },
     {
@@ -168,7 +305,15 @@
       "no": "Q4",
       "marks": 1,
       "topic": "Stokes Law Best Case",
-      "keywords": ["stokes law", "frictional force", "small sphere", "slow speed", "fluid", "multiple choice", "drag"],
+      "keywords": [
+        "stokes law",
+        "frictional force",
+        "small sphere",
+        "slow speed",
+        "fluid",
+        "multiple choice",
+        "drag"
+      ],
       "question": "Stokes' law can be used to determine the frictional force on an object moving through a fluid. To which would it best apply? A: large sphere, fast, B: large sphere, slow, C: small sphere, fast, D: small sphere, slow.",
       "status": "ready",
       "answer": "D: a small sphere moving slowly through a fluid",
@@ -176,6 +321,9 @@
         "Stokes' law applies to small spheres moving slowly, giving laminar flow.",
         "A large sphere (A, B) or a fast sphere (C) breaks the conditions.",
         "Option D meets both conditions."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-04.jpg"
       ]
     },
     {
@@ -183,24 +331,48 @@
       "no": "Q5",
       "marks": 1,
       "topic": "Temperature And Terminal Velocity",
-      "keywords": ["ball bearing", "terminal velocity", "temperature", "liquid", "viscosity", "table", "falls faster"],
+      "keywords": [
+        "ball bearing",
+        "terminal velocity",
+        "temperature",
+        "liquid",
+        "viscosity",
+        "table",
+        "falls faster"
+      ],
       "question": "A ball bearing falls at terminal velocity through a liquid. As the temperature of the liquid increases, the terminal velocity increases. Which row of the table is correct?",
       "status": "pending",
       "answer": "Needs the table of options from the PDF (the table is not in the text)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-05.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-06.jpg"
+      ]
     },
     {
       "id": "2A-Q6a(i)",
       "no": "Q6(a)(i)",
       "marks": 1,
       "topic": "Laminar Flow Meaning",
-      "keywords": ["laminar flow", "streamline", "fluid", "layers", "turbulent", "smooth", "droplet"],
+      "keywords": [
+        "laminar flow",
+        "streamline",
+        "fluid",
+        "layers",
+        "turbulent",
+        "smooth",
+        "droplet"
+      ],
       "question": "A water droplet moves downwards through oil with laminar flow around it. State what is meant by laminar flow.",
       "status": "ready",
       "answer": "Fluid flows smoothly in layers (streamlines), with no turbulence or eddies",
       "steps": [
         "In laminar flow each layer of fluid slides smoothly past its neighbours.",
         "Streamlines are smooth and do not cross, with no eddies or turbulence."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-05.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-06.jpg"
       ]
     },
     {
@@ -208,13 +380,24 @@
       "no": "Q6(a)(ii)",
       "marks": 1,
       "topic": "Constant Speed Condition",
-      "keywords": ["constant speed", "resultant force", "terminal velocity", "droplet", "balanced forces", "zero"],
+      "keywords": [
+        "constant speed",
+        "resultant force",
+        "terminal velocity",
+        "droplet",
+        "balanced forces",
+        "zero"
+      ],
       "question": "State the condition necessary for the speed of the droplet to be constant.",
       "status": "ready",
       "answer": "The resultant force on the droplet must be zero (forces balanced)",
       "steps": [
         "Constant speed means zero acceleration.",
         "By Newton's first law the resultant force must then be zero, so weight = upthrust + drag."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-05.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-06.jpg"
       ]
     },
     {
@@ -222,13 +405,25 @@
       "no": "Q6(b)(i)",
       "marks": 3,
       "topic": "Weight Of Water Droplet",
-      "keywords": ["weight", "droplet", "density of water", "volume", "spherical", "gravity", "mass"],
+      "keywords": [
+        "weight",
+        "droplet",
+        "density of water",
+        "volume",
+        "spherical",
+        "gravity",
+        "mass"
+      ],
       "question": "A spherical water droplet has volume 3.35 x 10^-8 m^3 and water density 1.00 x 10^3 kg m^-3. Calculate its weight.",
       "status": "ready",
       "answer": "Weight of droplet = 3.3 x 10^-4 N",
       "steps": [
         "Mass m = rho V = 1.00 x 10^3 x 3.35 x 10^-8 = 3.35 x 10^-5 kg.",
         "Weight = m g = 3.35 x 10^-5 x 9.81 = 3.29 x 10^-4 N."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-05.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-06.jpg"
       ]
     },
     {
@@ -236,13 +431,25 @@
       "no": "Q6(b)(ii)",
       "marks": 2,
       "topic": "Upthrust On Droplet In Oil",
-      "keywords": ["upthrust", "droplet", "oil density", "submerged", "volume", "archimedes", "0.94"],
+      "keywords": [
+        "upthrust",
+        "droplet",
+        "oil density",
+        "submerged",
+        "volume",
+        "archimedes",
+        "0.94"
+      ],
       "question": "The droplet is completely submerged in oil of density 0.94 x 10^3 kg m^-3. Show that the upthrust is about 3 x 10^-4 N.",
       "status": "ready",
       "answer": "Upthrust = 3.1 x 10^-4 N, about 3 x 10^-4 N",
       "steps": [
         "Upthrust = weight of displaced oil = rho_oil V g.",
         "= 0.94 x 10^3 x 3.35 x 10^-8 x 9.81 = 3.09 x 10^-4 N, about 3 x 10^-4 N."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-05.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-06.jpg"
       ]
     },
     {
@@ -250,7 +457,16 @@
       "no": "Q6(b)(iii)",
       "marks": 4,
       "topic": "Terminal Velocity Of Droplet",
-      "keywords": ["terminal velocity", "droplet", "viscosity of oil", "stokes law", "drag", "radius", "weight", "upthrust"],
+      "keywords": [
+        "terminal velocity",
+        "droplet",
+        "viscosity of oil",
+        "stokes law",
+        "drag",
+        "radius",
+        "weight",
+        "upthrust"
+      ],
       "question": "Calculate the terminal velocity of the water droplet in oil of viscosity 0.11 Pa s, given the droplet volume, weights and upthrust from parts (i) and (ii).",
       "status": "ready",
       "answer": "Terminal velocity = 4.8 x 10^-3 m s^-1",
@@ -259,6 +475,10 @@
         "At terminal velocity drag = weight - upthrust = 3.29 x 10^-4 - 3.09 x 10^-4 = 1.97 x 10^-5 N.",
         "Stokes' law: D = 6 pi eta r v, so v = D / (6 pi eta r).",
         "v = 1.97 x 10^-5 / (6 pi x 0.11 x 2.00 x 10^-3) = 1.97 x 10^-5 / 4.15 x 10^-3 = 4.8 x 10^-3 m s^-1."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-05.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-06.jpg"
       ]
     },
     {
@@ -266,7 +486,15 @@
       "no": "Q7",
       "marks": 1,
       "topic": "Factors Affecting Settling Time",
-      "keywords": ["sand", "settling", "terminal velocity", "viscosity", "temperature", "particle size", "beaker"],
+      "keywords": [
+        "sand",
+        "settling",
+        "terminal velocity",
+        "viscosity",
+        "temperature",
+        "particle size",
+        "beaker"
+      ],
       "question": "Which change would decrease the time taken for sand to settle in sea water? A: smaller sand particles, B: lower temperature, C: smaller terminal velocity, D: lower viscosity of the sea water.",
       "status": "ready",
       "answer": "D: lower viscosity of the sea water",
@@ -275,6 +503,10 @@
         "Terminal velocity v is proportional to 1/eta (Stokes' law), so lower viscosity gives a larger terminal velocity.",
         "A smaller particle (A) or a lower temperature (B, which raises viscosity) reduces speed, and C lowers the speed directly.",
         "So D is correct."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-07.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-08.jpg"
       ]
     },
     {
@@ -282,13 +514,25 @@
       "no": "Q8(a)",
       "marks": 1,
       "topic": "Stokes Law Condition",
-      "keywords": ["stokes law", "viscous drag", "small sphere", "condition", "laminar", "fluid", "spherical"],
+      "keywords": [
+        "stokes law",
+        "viscous drag",
+        "small sphere",
+        "condition",
+        "laminar",
+        "fluid",
+        "spherical"
+      ],
       "question": "State one other condition that must be met for Stokes' law to apply to a moving object.",
       "status": "ready",
       "answer": "The flow of fluid around the object must be laminar",
       "steps": [
         "Stokes' law applies only when the fluid flow around the sphere is laminar.",
         "This means the sphere must move slowly enough that turbulence does not form."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-07.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-08.jpg"
       ]
     },
     {
@@ -296,7 +540,16 @@
       "no": "Q8(b)",
       "marks": 5,
       "topic": "Stokes Law Check For Falling Sphere",
-      "keywords": ["ball bearing", "water", "terminal velocity", "drag", "stokes law", "upthrust", "viscosity", "diameter"],
+      "keywords": [
+        "ball bearing",
+        "water",
+        "terminal velocity",
+        "drag",
+        "stokes law",
+        "upthrust",
+        "viscosity",
+        "diameter"
+      ],
       "question": "A steel ball bearing of diameter 6.0 x 10^-3 m and mass 9.1 x 10^-4 kg falls through water at a constant 0.50 m s^-1. The upthrust is 1.1 x 10^-3 N and water viscosity is 8.9 x 10^-4 Pa s. Assess whether Stokes' law can be applied.",
       "status": "ready",
       "answer": "Stokes' law cannot be applied: the measured drag is 7.8 x 10^-3 N but Stokes' law gives about 2.5 x 10^-5 N",
@@ -306,6 +559,10 @@
         "Stokes drag with r = 3.0 x 10^-3 m: 6 pi eta r v = 6 pi x 8.9 x 10^-4 x 3.0 x 10^-3 x 0.50 = 2.5 x 10^-5 N.",
         "The measured drag is about 300 times the Stokes prediction, so Stokes' law does not describe the drag.",
         "The speed is also high, so the flow would be turbulent; Stokes' law therefore does not apply."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-07.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-08.jpg"
       ]
     },
     {
@@ -313,7 +570,15 @@
       "no": "Q9",
       "marks": 1,
       "topic": "When Stokes Law Applies",
-      "keywords": ["stokes law", "small spherical objects", "low speeds", "conditions", "fluid", "viscous drag", "applies"],
+      "keywords": [
+        "stokes law",
+        "small spherical objects",
+        "low speeds",
+        "conditions",
+        "fluid",
+        "viscous drag",
+        "applies"
+      ],
       "question": "Which best describes the situations in which Stokes' law applies? A: all spherical objects at low speeds, B: all spherical objects in low viscosity fluid, C: small spherical objects at low speeds, D: small spherical objects in low viscosity fluid.",
       "status": "ready",
       "answer": "C: small spherical objects moving at low speeds",
@@ -321,6 +586,10 @@
         "Stokes' law needs a sphere that is small and moves slowly, so the flow is laminar.",
         "Option A omits small; B and D refer to viscosity, which is not a condition.",
         "Option C gives both key conditions."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-08.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-09.jpg"
       ]
     },
     {
@@ -328,7 +597,15 @@
       "no": "Q10(a)",
       "marks": 2,
       "topic": "Conditions For Stokes Law",
-      "keywords": ["stokes law", "viscous drag", "sphere", "laminar flow", "low speed", "conditions", "valid"],
+      "keywords": [
+        "stokes law",
+        "viscous drag",
+        "sphere",
+        "laminar flow",
+        "low speed",
+        "conditions",
+        "valid"
+      ],
       "question": "A small sphere moves horizontally through a viscous liquid. State the conditions that must apply for Stokes' law to be valid.",
       "status": "ready",
       "answer": "The sphere is small and spherical, and the flow of the liquid is laminar (low speed)",
@@ -336,6 +613,10 @@
         "The object must be a small sphere, so that its drag depends on its radius only.",
         "The flow around it must be laminar, which requires low speed.",
         "A uniform viscous fluid with no wall or boundary effects is also assumed."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-08.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-09.jpg"
       ]
     },
     {
@@ -343,7 +624,16 @@
       "no": "Q10(b)(i)",
       "marks": 3,
       "topic": "Resultant Horizontal Force On Sphere",
-      "keywords": ["resultant force", "viscous drag", "sphere", "constant force", "speed", "viscosity", "horizontal", "stokes law"],
+      "keywords": [
+        "resultant force",
+        "viscous drag",
+        "sphere",
+        "constant force",
+        "speed",
+        "viscosity",
+        "horizontal",
+        "stokes law"
+      ],
       "question": "A constant horizontal force of 2.3 x 10^-5 N acts on a sphere of diameter 4.5 x 10^-3 m moving through liquid of viscosity 7.1 x 10^-2 Pa s at 5.2 x 10^-3 m s^-1. Calculate the resultant horizontal force on the sphere.",
       "status": "ready",
       "answer": "Resultant horizontal force = 7.3 x 10^-6 N",
@@ -351,6 +641,10 @@
         "Radius r = 2.25 x 10^-3 m.",
         "Viscous drag (opposing the motion) = 6 pi eta r v = 6 pi x 7.1 x 10^-2 x 2.25 x 10^-3 x 5.2 x 10^-3 = 1.57 x 10^-5 N.",
         "Resultant = applied force - drag = 2.3 x 10^-5 - 1.57 x 10^-5 = 7.3 x 10^-6 N in the direction of motion."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-08.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-09.jpg"
       ]
     },
     {
@@ -358,7 +652,15 @@
       "no": "Q10(b)(ii)",
       "marks": 2,
       "topic": "Maximum Horizontal Speed",
-      "keywords": ["maximum speed", "terminal speed", "drag", "constant force", "viscosity", "sphere", "horizontal"],
+      "keywords": [
+        "maximum speed",
+        "terminal speed",
+        "drag",
+        "constant force",
+        "viscosity",
+        "sphere",
+        "horizontal"
+      ],
       "question": "Calculate the maximum speed of the sphere in the horizontal direction, given the same force, diameter and viscosity.",
       "status": "ready",
       "answer": "Maximum horizontal speed = 7.6 x 10^-3 m s^-1",
@@ -366,6 +668,10 @@
         "Maximum speed occurs when drag equals the constant applied force, so the resultant is zero.",
         "6 pi eta r v_max = 2.3 x 10^-5 N, so v_max = F / (6 pi eta r).",
         "v_max = 2.3 x 10^-5 / (6 pi x 7.1 x 10^-2 x 2.25 x 10^-3) = 2.3 x 10^-5 / 3.01 x 10^-3 = 7.6 x 10^-3 m s^-1."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-08.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-09.jpg"
       ]
     },
     {
@@ -373,7 +679,16 @@
       "no": "Q10(c)",
       "marks": 4,
       "topic": "Effect Of Size And Temperature",
-      "keywords": ["maximum speed", "larger diameter", "lower temperature", "viscosity", "drag", "stokes law", "sphere", "constant force"],
+      "keywords": [
+        "maximum speed",
+        "larger diameter",
+        "lower temperature",
+        "viscosity",
+        "drag",
+        "stokes law",
+        "sphere",
+        "constant force"
+      ],
       "question": "A larger diameter sphere in the same liquid is acted on by the same constant force, and the liquid is at a lower temperature. Explain the effect of these changes on the maximum speed.",
       "status": "ready",
       "answer": "Both changes reduce the maximum speed: a larger sphere has more drag, and a lower temperature increases viscosity",
@@ -382,6 +697,10 @@
         "A larger diameter means a larger radius, so the drag for a given speed increases and v falls.",
         "A lower temperature increases the viscosity of the liquid, which increases the drag.",
         "Both changes increase the drag, so the maximum speed decreases."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-08.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-09.jpg"
       ]
     },
     {
@@ -389,7 +708,15 @@
       "no": "Q11(a)",
       "marks": 1,
       "topic": "Temperature In Viscometer",
-      "keywords": ["falling sphere viscometer", "temperature", "viscosity", "liquid", "terminal velocity", "measurement", "constant"],
+      "keywords": [
+        "falling sphere viscometer",
+        "temperature",
+        "viscosity",
+        "liquid",
+        "terminal velocity",
+        "measurement",
+        "constant"
+      ],
       "question": "A falling sphere viscometer measures the terminal velocity of a sphere in a liquid. State why the temperature of the liquid should not increase during the measurement.",
       "status": "ready",
       "answer": "The viscosity of the liquid falls as it warms, so the viscosity would change during the measurement",
@@ -397,6 +724,11 @@
         "Viscosity depends strongly on temperature, and it decreases as the liquid warms.",
         "If the temperature rises during the measurement, the viscosity changes and the terminal velocity is no longer constant.",
         "So the calculated viscosity would not be reliable."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-09.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-10.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-11.jpg"
       ]
     },
     {
@@ -404,7 +736,15 @@
       "no": "Q11(b)(i)",
       "marks": 4,
       "topic": "Weight Of Aluminium Sphere",
-      "keywords": ["weight", "aluminium sphere", "density", "diameter", "volume", "mass", "glycerol"],
+      "keywords": [
+        "weight",
+        "aluminium sphere",
+        "density",
+        "diameter",
+        "volume",
+        "mass",
+        "glycerol"
+      ],
       "question": "An aluminium sphere of density 2.70 x 10^3 kg m^-3 and diameter 7.00 x 10^-3 m falls through glycerol. Show that its weight is about 4.8 x 10^-3 N.",
       "status": "ready",
       "answer": "Weight = 4.8 x 10^-3 N (4.76 x 10^-3 N)",
@@ -412,6 +752,11 @@
         "Radius r = 3.50 x 10^-3 m, so volume V = (4/3) pi r^3 = 1.80 x 10^-7 m^3.",
         "Mass m = rho V = 2.70 x 10^3 x 1.80 x 10^-7 = 4.85 x 10^-4 kg.",
         "Weight W = m g = 4.85 x 10^-4 x 9.81 = 4.76 x 10^-3 N, about 4.8 x 10^-3 N."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-09.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-10.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-11.jpg"
       ]
     },
     {
@@ -419,7 +764,16 @@
       "no": "Q11(b)(ii)",
       "marks": 3,
       "topic": "Check Stokes Law In Glycerol",
-      "keywords": ["stokes law", "glycerol", "terminal velocity", "drag", "upthrust", "reynolds number", "sphere", "viscosity"],
+      "keywords": [
+        "stokes law",
+        "glycerol",
+        "terminal velocity",
+        "drag",
+        "upthrust",
+        "reynolds number",
+        "sphere",
+        "viscosity"
+      ],
       "question": "The terminal velocity of the aluminium sphere in glycerol was 4.05 x 10^-2 m s^-1. Deduce whether Stokes' law applied, given glycerol density 1.26 x 10^3 kg m^-3 and viscosity 9.50 x 10^-1 Pa s.",
       "status": "ready",
       "answer": "Yes, Stokes' law applied: the measured drag (2.54 x 10^-3 N) matches the Stokes prediction (2.54 x 10^-3 N)",
@@ -428,6 +782,11 @@
         "Drag at terminal velocity = W - U = 4.76 x 10^-3 - 2.22 x 10^-3 = 2.54 x 10^-3 N.",
         "Stokes drag = 6 pi eta r v = 6 pi x 0.950 x 3.50 x 10^-3 x 4.05 x 10^-2 = 2.54 x 10^-3 N.",
         "The two values agree, and Re = rho v d / eta is about 0.4 (laminar), so Stokes' law applied."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-09.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-10.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-11.jpg"
       ]
     },
     {
@@ -435,13 +794,25 @@
       "no": "Q11(b)(iii)",
       "marks": 1,
       "topic": "Condition For Stokes Law",
-      "keywords": ["stokes law", "condition", "laminar flow", "sphere", "low speed", "viscous drag"],
+      "keywords": [
+        "stokes law",
+        "condition",
+        "laminar flow",
+        "sphere",
+        "low speed",
+        "viscous drag"
+      ],
       "question": "State one condition that must be met for Stokes' law to apply.",
       "status": "ready",
       "answer": "The flow of the liquid around the sphere must be laminar",
       "steps": [
         "Stokes' law requires laminar flow around the sphere.",
         "Other valid answers: the sphere is small and spherical, or it moves at low speed."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-09.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-10.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-11.jpg"
       ]
     },
     {
@@ -449,7 +820,15 @@
       "no": "Q11(c)",
       "marks": 5,
       "topic": "Smaller Sphere For Blood",
-      "keywords": ["blood viscosity", "sphere diameter", "terminal velocity", "viscometer", "laminar flow", "viscosity range", "smaller sphere"],
+      "keywords": [
+        "blood viscosity",
+        "sphere diameter",
+        "terminal velocity",
+        "viscometer",
+        "laminar flow",
+        "viscosity range",
+        "smaller sphere"
+      ],
       "question": "A scientist uses the viscometer to measure blood, with viscosity 3 x 10^-3 to 4 x 10^-3 Pa s. Explain why a much smaller diameter sphere than the glycerol sphere should be used. Do not include calculations.",
       "status": "ready",
       "answer": "Blood is far less viscous than glycerol, so a large sphere would fall too fast for Stokes' law and the timing; a smaller sphere keeps the speed low",
@@ -459,6 +838,11 @@
         "At high speed the flow becomes turbulent, so Stokes' law would not apply.",
         "A too-fast sphere also reaches terminal velocity quickly and falls the measured distance in too short a time to time accurately.",
         "Terminal velocity is proportional to radius squared, so a smaller diameter lowers the speed to a laminar, measurable range."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-09.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-10.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-11.jpg"
       ]
     },
     {
@@ -466,7 +850,15 @@
       "no": "Q12(a)(i)",
       "marks": 4,
       "topic": "Terminal Velocity Of Raindrop",
-      "keywords": ["raindrop", "terminal velocity", "free body diagram", "weight", "air resistance", "constant speed", "resultant force"],
+      "keywords": [
+        "raindrop",
+        "terminal velocity",
+        "free body diagram",
+        "weight",
+        "air resistance",
+        "constant speed",
+        "resultant force"
+      ],
       "question": "Explain what is meant by the terminal velocity of a falling raindrop, including a free-body force diagram at terminal velocity (upthrust negligible).",
       "status": "ready",
       "answer": "Terminal velocity is the constant maximum speed reached when air resistance equals the weight, so the resultant force is zero",
@@ -475,6 +867,11 @@
         "As speed increases, air resistance increases until it equals the weight.",
         "Free-body diagram: weight acting down and air resistance acting up, of equal size.",
         "With zero resultant force the drop moves at a constant (terminal) velocity."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-11.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-12.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-13.jpg"
       ]
     },
     {
@@ -482,29 +879,64 @@
       "no": "Q12(a)(ii)",
       "marks": 4,
       "topic": "Raindrop Terminal Velocity Calculation",
-      "keywords": ["raindrop", "air resistance", "terminal velocity", "radius", "density of air", "density of rainwater", "cross-sectional area", "expression"],
+      "keywords": [
+        "raindrop",
+        "air resistance",
+        "terminal velocity",
+        "radius",
+        "density of air",
+        "density of rainwater",
+        "cross-sectional area",
+        "expression"
+      ],
       "question": "Using the air resistance expression for a raindrop of radius 2.0 x 10^-3 m (with density of air 1.2 kg m^-3 and rainwater density 1.0 x 10^3 kg m^-3), calculate the terminal velocity.",
       "status": "pending",
       "answer": "Needs the air resistance expression, which is missing from the text; check it against the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-11.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-12.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-13.jpg"
+      ]
     },
     {
       "id": "2A-Q12b(i)",
       "no": "Q12(b)(i)",
       "marks": 2,
       "topic": "Drop Positions On Leaf",
-      "keywords": ["raindrop", "leaf", "positions", "regular intervals", "motion", "drop sliding", "diagram"],
+      "keywords": [
+        "raindrop",
+        "leaf",
+        "positions",
+        "regular intervals",
+        "motion",
+        "drop sliding",
+        "diagram"
+      ],
       "question": "A water drop slides off a leaf. Add to the diagram the positions of the drop at regular intervals of time, given the first two positions.",
       "status": "pending",
       "answer": "Needs the diagram from the PDF to check the spacing of the drop positions",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-11.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-12.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-13.jpg"
+      ]
     },
     {
       "id": "2A-Q12b(ii)",
       "no": "Q12(b)(ii)",
       "marks": 3,
       "topic": "Height Of Leaf From Drop Spacing",
-      "keywords": ["raindrop", "leaf", "height", "free fall", "time interval", "drops per second", "acceleration due to gravity"],
+      "keywords": [
+        "raindrop",
+        "leaf",
+        "height",
+        "free fall",
+        "time interval",
+        "drops per second",
+        "acceleration due to gravity"
+      ],
       "question": "Water falls from a leaf at five drops per second. As each drop reaches the ground there are four drops above it in the air, and the highest drop has just left the leaf. Calculate the height of the leaf.",
       "status": "ready",
       "answer": "Height of leaf = 3.1 m",
@@ -513,6 +945,11 @@
         "The highest drop has just left the leaf (age 0), and the four drops above the ground drop are at ages 0, 0.20, 0.40 and 0.60 s.",
         "So the ground drop has been falling for 0.80 s.",
         "h = (1/2) g t^2 = 0.5 x 9.81 x 0.80^2 = 3.1 m."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-11.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-12.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-13.jpg"
       ]
     },
     {
@@ -520,7 +957,15 @@
       "no": "Q13(a)",
       "marks": 2,
       "topic": "Conditions For Stokes Law In Investigation",
-      "keywords": ["ball-bearing", "stokes law", "conditions", "laminar", "spherical", "low speed", "viscosity"],
+      "keywords": [
+        "ball-bearing",
+        "stokes law",
+        "conditions",
+        "laminar",
+        "spherical",
+        "low speed",
+        "viscosity"
+      ],
       "question": "A student investigates small ball-bearings falling through a liquid to find its viscosity. State the conditions needed for Stokes' law to apply.",
       "status": "ready",
       "answer": "The ball-bearing is small and spherical, and the flow of liquid around it is laminar (low speed)",
@@ -528,6 +973,10 @@
         "The ball-bearing must be a small sphere.",
         "The flow of liquid around it must be laminar, which needs low speed.",
         "The liquid should be uniform, with no wall effects, for the standard result to hold."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-13.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-14.jpg"
       ]
     },
     {
@@ -535,7 +984,15 @@
       "no": "Q13(b)(i)",
       "marks": 2,
       "topic": "Free Body Diagram At Terminal Velocity",
-      "keywords": ["ball-bearing", "free body diagram", "terminal velocity", "weight", "upthrust", "drag", "forces balanced"],
+      "keywords": [
+        "ball-bearing",
+        "free body diagram",
+        "terminal velocity",
+        "weight",
+        "upthrust",
+        "drag",
+        "forces balanced"
+      ],
       "question": "Complete the free-body force diagram for a ball-bearing falling at terminal velocity.",
       "status": "ready",
       "answer": "Weight acts down; upthrust and viscous drag both act up, with weight = upthrust + drag",
@@ -544,6 +1001,10 @@
         "Upthrust acts vertically upwards from the displaced liquid.",
         "Viscous drag acts upwards, opposing the downward motion.",
         "At terminal velocity the upward forces balance the weight: weight = upthrust + drag."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-13.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-14.jpg"
       ]
     },
     {
@@ -551,7 +1012,16 @@
       "no": "Q13(b)(ii)",
       "marks": 6,
       "topic": "Check Liquid Is Glycerol",
-      "keywords": ["glycerol", "ball-bearing", "terminal velocity", "viscosity", "drag", "upthrust", "stokes law", "radius"],
+      "keywords": [
+        "glycerol",
+        "ball-bearing",
+        "terminal velocity",
+        "viscosity",
+        "drag",
+        "upthrust",
+        "stokes law",
+        "radius"
+      ],
       "question": "A ball-bearing of radius 2.30 mm and weight 4.00 x 10^-3 N falls at terminal velocity 0.0824 m s^-1 in a liquid. The liquid density is 1.26 x 10^3 kg m^-3 and glycerol's viscosity at room temperature is 0.934 Pa s. Deduce whether the liquid is glycerol.",
       "status": "ready",
       "answer": "Yes, the liquid is consistent with glycerol: the Stokes drag (3.34 x 10^-3 N) matches the drag from the forces (3.37 x 10^-3 N) within about 1%",
@@ -562,6 +1032,10 @@
         "Stokes drag = 6 pi eta r v = 6 pi x 0.934 x 2.30 x 10^-3 x 0.0824 = 3.34 x 10^-3 N.",
         "The two drags agree to about 1%, and Re = rho v d / eta is about 0.5, so Stokes' law applies.",
         "Therefore the liquid is consistent with glycerol at room temperature."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-13.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-14.jpg"
       ]
     },
     {
@@ -569,18 +1043,38 @@
       "no": "Q14",
       "marks": 1,
       "topic": "Stokes Law Conditions Table",
-      "keywords": ["stokes law", "object moving through fluid", "conditions", "table", "row", "laminar", "spherical"],
+      "keywords": [
+        "stokes law",
+        "object moving through fluid",
+        "conditions",
+        "table",
+        "row",
+        "laminar",
+        "spherical"
+      ],
       "question": "An object is moving through a fluid. Which row of the table states the conditions that must be met for Stokes' law to apply?",
       "status": "pending",
       "answer": "Needs the table of rows from the PDF (not in the text)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-14.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-15.jpg"
+      ]
     },
     {
       "id": "2A-Q15a",
       "no": "Q15(a)",
       "marks": 2,
       "topic": "Conditions For Stokes Law Data Logger",
-      "keywords": ["stokes law", "conditions", "fluid", "ball-bearing", "laminar flow", "spherical", "low speed"],
+      "keywords": [
+        "stokes law",
+        "conditions",
+        "fluid",
+        "ball-bearing",
+        "laminar flow",
+        "spherical",
+        "low speed"
+      ],
       "question": "State the conditions under which Stokes' law applies to an object moving through a fluid.",
       "status": "ready",
       "answer": "The object is a small sphere, the flow is laminar, and the object moves at low speed",
@@ -588,6 +1082,11 @@
         "The object must be a small sphere so that the drag depends only on its radius.",
         "The flow around the object must be laminar, which needs low speed.",
         "The fluid must be uniform and viscous, with no wall effects."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-15.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-16.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-17.jpg"
       ]
     },
     {
@@ -595,29 +1094,64 @@
       "no": "Q15(b)(i)",
       "marks": 3,
       "topic": "Shape Of Velocity Time Graph",
-      "keywords": ["velocity time graph", "ball-bearing", "data logger", "terminal velocity", "acceleration", "drag", "graph shape"],
+      "keywords": [
+        "velocity time graph",
+        "ball-bearing",
+        "data logger",
+        "terminal velocity",
+        "acceleration",
+        "drag",
+        "graph shape"
+      ],
       "question": "The data-logger graph of a falling ball-bearing is shown. Explain the shape of the graph.",
       "status": "pending",
       "answer": "Needs the graph from the PDF to check the shape it shows",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-15.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-16.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-17.jpg"
+      ]
     },
     {
       "id": "2A-Q15b(ii)",
       "no": "Q15(b)(ii)",
       "marks": 4,
       "topic": "Viscosity From Upthrust Difference",
-      "keywords": ["viscosity", "upthrust", "weight", "ball-bearing", "stokes law", "terminal velocity", "diameter 1.6 mm", "drag"],
+      "keywords": [
+        "viscosity",
+        "upthrust",
+        "weight",
+        "ball-bearing",
+        "stokes law",
+        "terminal velocity",
+        "diameter 1.6 mm",
+        "drag"
+      ],
       "question": "A ball-bearing of diameter 1.6 mm has a difference of 1.45 x 10^-4 N between its upthrust and weight. Calculate the viscosity of the liquid, assuming Stokes' law applies.",
       "status": "pending",
       "answer": "Needs the terminal velocity read from the graph, which is not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-15.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-16.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-17.jpg"
+      ]
     },
     {
       "id": "2A-Q15b(iii)",
       "no": "Q15(b)(iii)",
       "marks": 4,
       "topic": "Effect Of Temperature On Fall Time",
-      "keywords": ["temperature", "viscosity", "terminal velocity", "ball-bearing", "faster fall", "drag", "liquid heated"],
+      "keywords": [
+        "temperature",
+        "viscosity",
+        "terminal velocity",
+        "ball-bearing",
+        "faster fall",
+        "drag",
+        "liquid heated"
+      ],
       "question": "The liquid was heated and the ball-bearing took less time to fall a given distance. Explain why, assuming the density of the liquid is constant.",
       "status": "ready",
       "answer": "Heating lowers the viscosity, so the drag is smaller and the terminal velocity is larger, giving a shorter fall time",
@@ -626,6 +1160,11 @@
         "Lower viscosity means less viscous drag for a given speed (drag = 6 pi eta r v).",
         "The drag balances the same net weight force at a higher speed, so the terminal velocity is larger.",
         "A larger speed covers the given distance in less time."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-15.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-16.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-17.jpg"
       ]
     },
     {
@@ -633,13 +1172,26 @@
       "no": "Q16(a)(i)",
       "marks": 2,
       "topic": "Conditions For Stokes Law Diver",
-      "keywords": ["stokes law", "deep-sea diver", "spherical mass", "laminar", "conditions", "sea water", "small sphere"],
+      "keywords": [
+        "stokes law",
+        "deep-sea diver",
+        "spherical mass",
+        "laminar",
+        "conditions",
+        "sea water",
+        "small sphere"
+      ],
       "question": "A spherical mass falls through the sea after becoming detached from a diver. State the conditions for Stokes' law to apply.",
       "status": "ready",
       "answer": "The mass is a small sphere, and the flow of water around it is laminar (low speed)",
       "steps": [
         "The mass must be a small sphere moving through the fluid.",
         "The flow around it must be laminar, which requires low speed."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-17.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-18.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-19.jpg"
       ]
     },
     {
@@ -647,7 +1199,16 @@
       "no": "Q16(a)(ii)",
       "marks": 5,
       "topic": "Stokes Law Check For Diver Mass",
-      "keywords": ["terminal velocity", "stokes law", "drag", "upthrust", "spherical mass", "volume", "water viscosity", "diver"],
+      "keywords": [
+        "terminal velocity",
+        "stokes law",
+        "drag",
+        "upthrust",
+        "spherical mass",
+        "volume",
+        "water viscosity",
+        "diver"
+      ],
       "question": "At terminal velocity the mass fell 25 m in 0.36 s. There was a 4.6 N difference between weight and upthrust. The sphere's volume is 45 cm^3 and the water viscosity is 1.2 x 10^-3 Pa s. Deduce whether Stokes' law applied.",
       "status": "ready",
       "answer": "Stokes' law did not apply: Stokes drag would be about 0.035 N, but the measured drag is 4.6 N",
@@ -658,6 +1219,11 @@
         "Stokes drag = 6 pi eta r v = 6 pi x 1.2 x 10^-3 x 2.21 x 10^-2 x 69 = 0.035 N.",
         "The measured drag is about 130 times the Stokes prediction, and the speed is very high, so the flow is turbulent.",
         "Therefore Stokes' law did not apply."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-17.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-18.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-19.jpg"
       ]
     },
     {
@@ -665,7 +1231,15 @@
       "no": "Q16(b)(i)",
       "marks": 2,
       "topic": "Displacement From Velocity Graph",
-      "keywords": ["velocity time graph", "displacement", "area", "surface", "diver", "zero displacement", "area above axis"],
+      "keywords": [
+        "velocity time graph",
+        "displacement",
+        "area",
+        "surface",
+        "diver",
+        "zero displacement",
+        "area above axis"
+      ],
       "question": "The diver was at the sea surface at 0 s. Explain how the v-t graph shows the diver was back at the surface at 82 s.",
       "status": "ready",
       "answer": "The area between the graph and the time axis from 0 to 82 s is zero, so the net displacement is zero",
@@ -673,6 +1247,11 @@
         "The area under a velocity-time graph gives the displacement.",
         "Areas above the time axis (upward motion) and below it (downward motion) between 0 and 82 s must be equal.",
         "Equal positive and negative areas give zero net displacement, so the diver is back at the surface."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-17.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-18.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-19.jpg"
       ]
     },
     {
@@ -680,18 +1259,39 @@
       "no": "Q16(b)(ii)",
       "marks": 3,
       "topic": "Acceleration From Velocity Gradient",
-      "keywords": ["acceleration", "gradient", "velocity time graph", "diver", "70 s", "vertical velocity", "slope"],
+      "keywords": [
+        "acceleration",
+        "gradient",
+        "velocity time graph",
+        "diver",
+        "70 s",
+        "vertical velocity",
+        "slope"
+      ],
       "question": "Determine the vertical acceleration of the diver at 70 s from the velocity-time graph.",
       "status": "pending",
       "answer": "Needs the velocity-time graph from the PDF to read the gradient at 70 s",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-17.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-18.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-19.jpg"
+      ]
     },
     {
       "id": "2A-Q17",
       "no": "Q17",
       "marks": 1,
       "topic": "Stokes Law Applicable Conditions",
-      "keywords": ["stokes law", "spherical objects", "laminar flow", "cylindrical", "viscosity", "conditions", "multiple choice"],
+      "keywords": [
+        "stokes law",
+        "spherical objects",
+        "laminar flow",
+        "cylindrical",
+        "viscosity",
+        "conditions",
+        "multiple choice"
+      ],
       "question": "For which conditions does Stokes' law apply? A: spherical objects and laminar flow, B: spherical objects and low viscosity, C: cylindrical objects and laminar flow, D: cylindrical objects and low viscosity.",
       "status": "ready",
       "answer": "A: spherical objects and laminar flow",
@@ -699,6 +1299,10 @@
         "Stokes' law applies to spherical objects moving through fluid with laminar flow.",
         "Cylindrical objects (C, D) do not fit the derivation of Stokes' law.",
         "Low viscosity (B, D) is not a condition, so option A is correct."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-19.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-20.jpg"
       ]
     },
     {
@@ -706,7 +1310,15 @@
       "no": "Q18(a)",
       "marks": 1,
       "topic": "Reaching Terminal Velocity",
-      "keywords": ["grain of sand", "terminal velocity", "drag", "weight", "upthrust", "resultant force", "water"],
+      "keywords": [
+        "grain of sand",
+        "terminal velocity",
+        "drag",
+        "weight",
+        "upthrust",
+        "resultant force",
+        "water"
+      ],
       "question": "A grain of sand quickly reaches terminal velocity when it falls into water. State why the grain reaches terminal velocity.",
       "status": "ready",
       "answer": "Drag increases with speed until it balances the net downward force, so the resultant force becomes zero",
@@ -714,6 +1326,10 @@
         "At the start the weight is larger than the upthrust plus drag, so the grain accelerates.",
         "As speed increases, the drag increases.",
         "Terminal velocity is reached when drag plus upthrust equals weight, so the resultant force is zero."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-19.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-20.jpg"
       ]
     },
     {
@@ -721,7 +1337,16 @@
       "no": "Q18(b)",
       "marks": 3,
       "topic": "Stokes Law Check For Sand Grain",
-      "keywords": ["sand grain", "stokes law", "terminal velocity", "viscosity of water", "upthrust", "weight", "drag", "diameter"],
+      "keywords": [
+        "sand grain",
+        "stokes law",
+        "terminal velocity",
+        "viscosity of water",
+        "upthrust",
+        "weight",
+        "drag",
+        "diameter"
+      ],
       "question": "A spherical sand grain of weight 4.3 x 10^-5 N displaces water with weight 1.5 x 10^-5 N and falls at terminal velocity 0.050 m s^-1. Viscosity of water is 1.2 x 10^-3 Pa s and grain diameter 1.5 x 10^-3 m. Deduce whether Stokes' law applies.",
       "status": "ready",
       "answer": "Stokes' law does not apply: the measured drag is 2.8 x 10^-5 N, but Stokes' law gives about 8.5 x 10^-7 N",
@@ -730,6 +1355,10 @@
         "Radius r = 7.5 x 10^-4 m.",
         "Stokes drag = 6 pi eta r v = 6 pi x 1.2 x 10^-3 x 7.5 x 10^-4 x 0.050 = 8.5 x 10^-7 N.",
         "The measured drag is about 33 times the Stokes prediction, so Stokes' law does not apply."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-19.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-20.jpg"
       ]
     },
     {
@@ -737,7 +1366,15 @@
       "no": "Q18(c)",
       "marks": 2,
       "topic": "Water Temperature And Terminal Velocity",
-      "keywords": ["temperature", "terminal velocity", "viscosity", "water", "stokes law", "sand grain", "drag"],
+      "keywords": [
+        "temperature",
+        "terminal velocity",
+        "viscosity",
+        "water",
+        "stokes law",
+        "sand grain",
+        "drag"
+      ],
       "question": "Explain how the temperature of the water affects the terminal velocity of a grain of sand if Stokes' law does apply.",
       "status": "ready",
       "answer": "Higher temperature lowers the viscosity, which reduces drag and increases the terminal velocity (v is proportional to 1/eta)",
@@ -745,6 +1382,10 @@
         "Stokes' law gives terminal velocity v = (2/9)(rho_s - rho_w) g r^2 / eta.",
         "Raising the temperature lowers the viscosity eta of the water.",
         "Lower viscosity gives a larger terminal velocity, since v is proportional to 1/eta."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-19.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-20.jpg"
       ]
     },
     {
@@ -752,7 +1393,15 @@
       "no": "Q19(a)",
       "marks": 2,
       "topic": "Meaning Of Terminal Velocity",
-      "keywords": ["terminal velocity", "constant velocity", "resultant force", "drag", "weight", "upthrust", "glass spheres"],
+      "keywords": [
+        "terminal velocity",
+        "constant velocity",
+        "resultant force",
+        "drag",
+        "weight",
+        "upthrust",
+        "glass spheres"
+      ],
       "question": "Explain what is meant by terminal velocity.",
       "status": "ready",
       "answer": "The constant maximum velocity reached when the drag and upthrust together balance the weight, so the resultant force is zero",
@@ -760,6 +1409,11 @@
         "A falling object accelerates until the drag increases enough to balance the other forces.",
         "At that point the resultant force is zero and the object moves at constant speed.",
         "This constant speed is the terminal velocity."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-20.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-21.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-22.jpg"
       ]
     },
     {
@@ -767,7 +1421,16 @@
       "no": "Q19(b)",
       "marks": 5,
       "topic": "Drag On Glass Sphere",
-      "keywords": ["glass sphere", "drag force", "terminal velocity", "density of glass", "density of liquid", "weight", "upthrust", "diameter 35 mm"],
+      "keywords": [
+        "glass sphere",
+        "drag force",
+        "terminal velocity",
+        "density of glass",
+        "density of liquid",
+        "weight",
+        "upthrust",
+        "diameter 35 mm"
+      ],
       "question": "A glass sphere of diameter 35 mm travels at terminal velocity through a liquid of density 1.43 x 10^3 kg m^-3. Glass has density 2.52 x 10^3 kg m^-3. Show that the drag force is about 0.2 N.",
       "status": "ready",
       "answer": "Drag = 0.24 N, about 0.2 N",
@@ -776,6 +1439,11 @@
         "Weight W = rho_g V g = 2.52 x 10^3 x 2.24 x 10^-5 x 9.81 = 0.555 N.",
         "Upthrust U = rho_l V g = 1.43 x 10^3 x 2.24 x 10^-5 x 9.81 = 0.315 N.",
         "At terminal velocity drag D = W - U = 0.555 - 0.315 = 0.24 N, about 0.2 N."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-20.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-21.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-22.jpg"
       ]
     },
     {
@@ -783,40 +1451,87 @@
       "no": "Q19(c)(i)",
       "marks": 3,
       "topic": "Laminar Flow From Graph",
-      "keywords": ["laminar flow", "graph", "v against d squared", "straight line", "origin", "stokes law", "glass spheres"],
+      "keywords": [
+        "laminar flow",
+        "graph",
+        "v against d squared",
+        "straight line",
+        "origin",
+        "stokes law",
+        "glass spheres"
+      ],
       "question": "The graph of terminal velocity v against d^2 is shown. Deduce from the graph whether the flow of liquid around the spheres was laminar.",
       "status": "pending",
       "answer": "Needs the graph from the PDF to check whether v against d^2 is a straight line through the origin",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-20.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-21.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-22.jpg"
+      ]
     },
     {
       "id": "2A-Q19c(ii)",
       "no": "Q19(c)(ii)",
       "marks": 3,
       "topic": "Constant k From Graph Gradient",
-      "keywords": ["constant k", "gradient", "graph", "v against d squared", "terminal velocity", "stokes law", "glass spheres"],
+      "keywords": [
+        "constant k",
+        "gradient",
+        "graph",
+        "v against d squared",
+        "terminal velocity",
+        "stokes law",
+        "glass spheres"
+      ],
       "question": "Using the student's graph of v against d^2, where Stokes' law gives v = k d^2, determine a value for k.",
       "status": "pending",
       "answer": "Needs the graph values from the PDF to find the gradient k",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-20.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-21.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-22.jpg"
+      ]
     },
     {
       "id": "2A-Q19c(iii)",
       "no": "Q19(c)(iii)",
       "marks": 2,
       "topic": "Viscosity From Constant k",
-      "keywords": ["viscosity", "constant k", "density of glass", "density of liquid", "gradient", "stokes law", "liquid"],
+      "keywords": [
+        "viscosity",
+        "constant k",
+        "density of glass",
+        "density of liquid",
+        "gradient",
+        "stokes law",
+        "liquid"
+      ],
       "question": "The constant k is given by a formula involving the viscosity of the liquid. Using density of glass 2.52 x 10^3 kg m^-3 and density of liquid 1.43 x 10^3 kg m^-3, determine a value for the viscosity.",
       "status": "pending",
       "answer": "Needs the value of k from part (ii) and the formula for k, which is missing from the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-20.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-21.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-22.jpg"
+      ]
     },
     {
       "id": "2A-Q20a(i)",
       "no": "Q20(a)(i)",
       "marks": 2,
       "topic": "Rubber Band Position",
-      "keywords": ["rubber band", "terminal velocity", "surface", "timer", "accelerating", "oil", "viscometer"],
+      "keywords": [
+        "rubber band",
+        "terminal velocity",
+        "surface",
+        "timer",
+        "accelerating",
+        "oil",
+        "viscometer"
+      ],
       "question": "Explain why the top rubber band should be placed a short distance below the surface of the oil.",
       "status": "ready",
       "answer": "So that the sphere has reached terminal velocity before it passes the top band and the timing starts at constant speed",
@@ -824,6 +1539,11 @@
         "A sphere released at the surface first accelerates, so its speed is not yet constant.",
         "Placing the top band a short distance below the surface lets the sphere reach terminal velocity first.",
         "The timed section then has a constant speed, which the calculation of viscosity needs."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-22.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-23.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-24.jpg"
       ]
     },
     {
@@ -831,7 +1551,15 @@
       "no": "Q20(a)(ii)",
       "marks": 2,
       "topic": "Benefit Of Third Rubber Band",
-      "keywords": ["rubber band", "third band", "terminal velocity", "constant speed", "timing", "accuracy", "viscometer"],
+      "keywords": [
+        "rubber band",
+        "third band",
+        "terminal velocity",
+        "constant speed",
+        "timing",
+        "accuracy",
+        "viscometer"
+      ],
       "question": "Another student suggests adding a third rubber band halfway between the top and bottom bands. Discuss the benefit of this.",
       "status": "ready",
       "answer": "It lets the student check that the speed is constant (terminal) by comparing the two timed sections, and gives a better average",
@@ -839,6 +1567,11 @@
         "With three bands there are two timed sections of equal length.",
         "If the two times are equal, the sphere is moving at a constant (terminal) speed.",
         "Averaging over two sections also reduces the effect of timing errors."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-22.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-23.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-24.jpg"
       ]
     },
     {
@@ -846,29 +1579,63 @@
       "no": "Q20(b)(i)",
       "marks": 1,
       "topic": "Symbol Identification In Formula",
-      "keywords": ["viscosity formula", "symbol", "density of sphere", "density of oil", "radius", "terminal velocity", "falling sphere"],
+      "keywords": [
+        "viscosity formula",
+        "symbol",
+        "density of sphere",
+        "density of oil",
+        "radius",
+        "terminal velocity",
+        "falling sphere"
+      ],
       "question": "The student used an equation for the viscosity of the oil with symbols defined in the text. Which quantity is represented by the symbol shown in part (i)?",
       "status": "pending",
       "answer": "Needs the equation from the PDF, since its symbols are missing from the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-22.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-23.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-24.jpg"
+      ]
     },
     {
       "id": "2A-Q20b(ii)",
       "no": "Q20(b)(ii)",
       "marks": 1,
       "topic": "Symbol Identification In Formula",
-      "keywords": ["viscosity formula", "symbol", "quantity", "falling sphere", "equation", "oil", "stokes"],
+      "keywords": [
+        "viscosity formula",
+        "symbol",
+        "quantity",
+        "falling sphere",
+        "equation",
+        "oil",
+        "stokes"
+      ],
       "question": "Which quantity is represented by the symbol shown in part (ii) of the viscosity equation?",
       "status": "pending",
       "answer": "Needs the equation from the PDF, since its symbols are missing from the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-22.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-23.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-24.jpg"
+      ]
     },
     {
       "id": "2A-Q20b(iii)",
       "no": "Q20(b)(iii)",
       "marks": 1,
       "topic": "Viscous Drag Term",
-      "keywords": ["6 pi eta r v", "viscous drag", "stokes law", "drag force", "sphere", "radius", "terminal velocity"],
+      "keywords": [
+        "6 pi eta r v",
+        "viscous drag",
+        "stokes law",
+        "drag force",
+        "sphere",
+        "radius",
+        "terminal velocity"
+      ],
       "question": "Which quantity is represented by 6 pi eta r v (written as 6rv in the text) in the viscosity equation?",
       "status": "ready",
       "answer": "The viscous drag force on the sphere, from Stokes' law",
@@ -876,6 +1643,11 @@
         "Stokes' law gives the viscous drag on a sphere as F = 6 pi eta r v.",
         "Here eta is the viscosity, r the radius and v the terminal velocity.",
         "So the term represents the viscous drag force on the sphere."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-22.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-23.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-24.jpg"
       ]
     },
     {
@@ -883,7 +1655,15 @@
       "no": "Q20(b)(iv)",
       "marks": 1,
       "topic": "Reason For Low Viscosity Value",
-      "keywords": ["viscosity", "lower value", "terminal velocity", "measured speed", "accuracy", "oil", "experimental error"],
+      "keywords": [
+        "viscosity",
+        "lower value",
+        "terminal velocity",
+        "measured speed",
+        "accuracy",
+        "oil",
+        "experimental error"
+      ],
       "question": "The accepted viscosity of the oil is 41 mPa s at 24 degrees C, but the student obtained 36 mPa s. Suggest a possible reason for the lower value.",
       "status": "ready",
       "answer": "The sphere had not yet reached terminal velocity when it passed the top band, so the measured speed was too high",
@@ -891,6 +1671,11 @@
         "Viscosity = 2r^2 (rho_s - rho_o) g / (9v), so viscosity is inversely proportional to v.",
         "If the sphere was still accelerating past the top band, the measured speed is too high.",
         "A larger measured speed gives a smaller calculated viscosity, which matches 36 mPa s being lower than 41 mPa s."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-22.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-23.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-24.jpg"
       ]
     },
     {
@@ -898,7 +1683,16 @@
       "no": "Q21(a)(i)",
       "marks": 5,
       "topic": "Accurate Terminal Velocity Method",
-      "keywords": ["terminal velocity", "method", "washing up liquid", "sphere", "timing", "light gate", "marks", "repeat"],
+      "keywords": [
+        "terminal velocity",
+        "method",
+        "washing up liquid",
+        "sphere",
+        "timing",
+        "light gate",
+        "marks",
+        "repeat"
+      ],
       "question": "Describe a method the student could use to determine an accurate value for the terminal velocity of the sphere in the washing up liquid, using a stopwatch and metre rule.",
       "status": "ready",
       "answer": "Mark two points well below the surface, time the sphere over a measured distance once it moves at constant speed, and repeat several times",
@@ -908,6 +1702,11 @@
         "Start the stopwatch as the sphere passes the upper mark and stop it at the lower mark.",
         "Repeat several times and average the times to reduce random error.",
         "Terminal velocity = distance / average time, checking the speed is constant between marks."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-24.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-25.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-26.jpg"
       ]
     },
     {
@@ -915,7 +1714,15 @@
       "no": "Q21(a)(ii)",
       "marks": 4,
       "topic": "Larger Sphere Uncertainty",
-      "keywords": ["percentage uncertainty", "larger sphere", "terminal velocity", "timing", "reaction time", "fall time", "uncertainty"],
+      "keywords": [
+        "percentage uncertainty",
+        "larger sphere",
+        "terminal velocity",
+        "timing",
+        "reaction time",
+        "fall time",
+        "uncertainty"
+      ],
       "question": "Explain why the use of a larger sphere would increase the percentage uncertainty in the calculated terminal velocity.",
       "status": "ready",
       "answer": "A larger sphere falls faster, so it covers the measured distance in a shorter time, and the fixed timing error becomes a larger percentage",
@@ -924,6 +1731,11 @@
         "It therefore covers the measured distance in a shorter time.",
         "The timing uncertainty (for example reaction time) is roughly fixed in seconds.",
         "A fixed uncertainty in a shorter time is a larger percentage uncertainty in the time and so in the velocity."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-24.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-25.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-26.jpg"
       ]
     },
     {
@@ -931,7 +1743,15 @@
       "no": "Q21(b)(i)",
       "marks": 3,
       "topic": "Free Body Diagram Sphere",
-      "keywords": ["free body diagram", "sphere", "terminal velocity", "weight", "upthrust", "drag", "viscous forces"],
+      "keywords": [
+        "free body diagram",
+        "sphere",
+        "terminal velocity",
+        "weight",
+        "upthrust",
+        "drag",
+        "viscous forces"
+      ],
       "question": "Complete the free-body force diagram for the sphere travelling at terminal velocity in the washing up liquid.",
       "status": "ready",
       "answer": "Weight acts down; upthrust and viscous drag both act up, with weight = upthrust + drag",
@@ -940,6 +1760,11 @@
         "Upthrust acts vertically upwards, from the displaced liquid.",
         "Viscous drag acts upwards, opposing the motion.",
         "At terminal velocity the resultant force is zero, so weight = upthrust + drag."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-24.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-25.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-26.jpg"
       ]
     },
     {
@@ -947,7 +1772,16 @@
       "no": "Q21(b)(ii)",
       "marks": 4,
       "topic": "Viscosity Of Washing Up Liquid",
-      "keywords": ["viscosity", "washing up liquid", "terminal velocity", "stokes law", "upthrust", "weight", "radius", "density"],
+      "keywords": [
+        "viscosity",
+        "washing up liquid",
+        "terminal velocity",
+        "stokes law",
+        "upthrust",
+        "weight",
+        "radius",
+        "density"
+      ],
       "question": "The sphere has radius 4.8 x 10^-3 m, weight 3.5 x 10^-2 N, and falls at 0.16 m s^-1 in liquid of density 1.1 x 10^3 kg m^-3. Calculate the viscosity of the washing up liquid.",
       "status": "ready",
       "answer": "Viscosity = 2.1 Pa s",
@@ -956,6 +1790,11 @@
         "Upthrust U = rho V g = 1.1 x 10^3 x 4.63 x 10^-7 x 9.81 = 5.00 x 10^-3 N.",
         "Drag D = W - U = 3.5 x 10^-2 - 5.00 x 10^-3 = 3.00 x 10^-2 N.",
         "Stokes: eta = D / (6 pi r v) = 3.00 x 10^-2 / (6 pi x 4.8 x 10^-3 x 0.16) = 2.07 Pa s, about 2.1 Pa s."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-24.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-25.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-26.jpg"
       ]
     },
     {
@@ -963,7 +1802,16 @@
       "no": "Q22(a)(i)",
       "marks": 3,
       "topic": "Viscous Drag On Foram",
-      "keywords": ["foram", "viscous drag", "terminal velocity", "upthrust", "mass", "seawater", "weight", "laminar"],
+      "keywords": [
+        "foram",
+        "viscous drag",
+        "terminal velocity",
+        "upthrust",
+        "mass",
+        "seawater",
+        "weight",
+        "laminar"
+      ],
       "question": "A spherical foram of mass 1.15 x 10^-8 kg sinks at terminal velocity in seawater, with upthrust 4.37 x 10^-8 N and laminar flow. Show that the viscous drag is about 7 x 10^-8 N.",
       "status": "ready",
       "answer": "Drag = 6.9 x 10^-8 N, about 7 x 10^-8 N",
@@ -971,6 +1819,10 @@
         "Weight W = m g = 1.15 x 10^-8 x 9.81 = 1.13 x 10^-7 N.",
         "At terminal velocity the resultant force is zero, so drag D = W - U.",
         "D = 1.13 x 10^-7 - 4.37 x 10^-8 = 6.9 x 10^-8 N, about 7 x 10^-8 N."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-26.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-27.jpg"
       ]
     },
     {
@@ -978,7 +1830,15 @@
       "no": "Q22(a)(ii)",
       "marks": 2,
       "topic": "Terminal Velocity Of Foram",
-      "keywords": ["foram", "terminal velocity", "viscous drag", "seawater viscosity", "diameter", "stokes law", "sinking"],
+      "keywords": [
+        "foram",
+        "terminal velocity",
+        "viscous drag",
+        "seawater viscosity",
+        "diameter",
+        "stokes law",
+        "sinking"
+      ],
       "question": "The foram has diameter 9.2 x 10^-4 m, and seawater has viscosity 1.41 x 10^-3 Pa s. Calculate the terminal velocity of the foram.",
       "status": "ready",
       "answer": "Terminal velocity = 5.7 x 10^-3 m s^-1",
@@ -986,6 +1846,10 @@
         "Radius r = 4.6 x 10^-4 m.",
         "Stokes drag D = 6 pi eta r v, so v = D / (6 pi eta r).",
         "v = 6.9 x 10^-8 / (6 pi x 1.41 x 10^-3 x 4.6 x 10^-4) = 6.9 x 10^-8 / 1.22 x 10^-5 = 5.7 x 10^-3 m s^-1."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-26.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-27.jpg"
       ]
     },
     {
@@ -993,7 +1857,15 @@
       "no": "Q22(b)",
       "marks": 4,
       "topic": "Foram Speed With Depth",
-      "keywords": ["foram", "temperature", "seawater viscosity", "terminal velocity", "depth", "drag", "sinking"],
+      "keywords": [
+        "foram",
+        "temperature",
+        "seawater viscosity",
+        "terminal velocity",
+        "depth",
+        "drag",
+        "sinking"
+      ],
       "question": "As forams sink deeper, the temperature of the water becomes lower. Discuss how the terminal velocities of forams change as they sink deeper.",
       "status": "ready",
       "answer": "Lower temperature raises the viscosity of seawater, so the drag increases and the terminal velocity decreases",
@@ -1002,6 +1874,10 @@
         "A higher viscosity increases the viscous drag at a given speed (drag = 6 pi eta r v).",
         "Terminal velocity is reached when drag balances the net weight force, so a larger drag needs a lower speed.",
         "So the terminal velocity of the forams decreases as they sink into colder water."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-26.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-27.jpg"
       ]
     },
     {
@@ -1009,29 +1885,61 @@
       "no": "Q23",
       "marks": 1,
       "topic": "Upthrust And Drag Accelerating",
-      "keywords": ["sphere", "viscous liquid", "upthrust", "viscous drag", "accelerates", "table", "row"],
+      "keywords": [
+        "sphere",
+        "viscous liquid",
+        "upthrust",
+        "viscous drag",
+        "accelerates",
+        "table",
+        "row"
+      ],
       "question": "A sphere falls through a viscous liquid. Which row of the table describes the upthrust and viscous drag as the sphere accelerates downwards?",
       "status": "pending",
       "answer": "Needs the table of rows from the PDF (not in the text)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-27.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-28.jpg"
+      ]
     },
     {
       "id": "2A-Q24",
       "no": "Q24",
       "marks": 1,
       "topic": "Choosing Measurement Points",
-      "keywords": ["ball bearing", "oil", "terminal velocity", "measured distance", "points", "timing", "diagram"],
+      "keywords": [
+        "ball bearing",
+        "oil",
+        "terminal velocity",
+        "measured distance",
+        "points",
+        "timing",
+        "diagram"
+      ],
       "question": "A student releases a ball bearing at point V and times its fall to determine its terminal velocity in oil. Which two points (A: V and Y, B: W and Y, C: X and Y, D: W and Z) should be used for the measured distance?",
       "status": "pending",
       "answer": "Needs the diagram showing points V, W, X, Y and Z (not in the text)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-28.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-29.jpg"
+      ]
     },
     {
       "id": "2A-Q25",
       "no": "Q25",
       "marks": 1,
       "topic": "Gradient And Viscosity",
-      "keywords": ["gradient", "terminal velocity", "mass", "viscosity", "small spheres", "graph", "greater viscosity"],
+      "keywords": [
+        "gradient",
+        "terminal velocity",
+        "mass",
+        "viscosity",
+        "small spheres",
+        "graph",
+        "greater viscosity"
+      ],
       "question": "The graph shows terminal velocity against mass for small spheres of equal diameter falling through a viscous liquid. Which describes the gradient for a liquid of greater viscosity? A: greater gradient, B: smaller gradient, C: variable gradient, D: same gradient.",
       "status": "ready",
       "answer": "B: a smaller gradient",
@@ -1039,6 +1947,10 @@
         "For spheres of the same diameter, terminal velocity v = (m g - U) / (6 pi eta r).",
         "The gradient dv/dm = g / (6 pi eta r), which is inversely proportional to viscosity eta.",
         "A greater viscosity therefore gives a smaller gradient."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-29.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-30.jpg"
       ]
     },
     {
@@ -1046,7 +1958,16 @@
       "no": "Q26(a)",
       "marks": 4,
       "topic": "Measuring Drag On Ball",
-      "keywords": ["drag force", "falling ball", "balance", "digital calliper", "upthrust", "density of liquid", "weight", "method"],
+      "keywords": [
+        "drag force",
+        "falling ball",
+        "balance",
+        "digital calliper",
+        "upthrust",
+        "density of liquid",
+        "weight",
+        "method"
+      ],
       "question": "Describe how the student could use her measurements of the ball (mass with a balance, diameter with a digital calliper) and the known density of the liquid to calculate the drag force on the ball at terminal velocity.",
       "status": "ready",
       "answer": "Drag = weight - upthrust, with weight from the mass and upthrust from the calliper-measured volume and the liquid density",
@@ -1055,6 +1976,10 @@
         "Measure the diameter with the calliper, halve it to get the radius r, and find the volume V = (4/3) pi r^3.",
         "Calculate the upthrust U = rho_liquid V g, using the known density of the liquid.",
         "At terminal velocity drag = weight - upthrust, so D = m g - rho_liquid V g."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-29.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-30.jpg"
       ]
     },
     {
@@ -1062,7 +1987,15 @@
       "no": "Q26(b)",
       "marks": 2,
       "topic": "Viscosity From Terminal Velocity",
-      "keywords": ["viscosity", "terminal velocity", "drag force", "radius", "laminar flow", "stokes law", "ball"],
+      "keywords": [
+        "viscosity",
+        "terminal velocity",
+        "drag force",
+        "radius",
+        "laminar flow",
+        "stokes law",
+        "ball"
+      ],
       "question": "A ball of radius 0.50 x 10^-2 m reaches terminal velocity 5.4 x 10^-4 m s^-1 in a liquid, with drag force 1.1 x 10^-2 N and laminar flow. Calculate the viscosity of the liquid.",
       "status": "ready",
       "answer": "Viscosity = 2.2 x 10^2 Pa s (216 Pa s from the given values)",
@@ -1070,6 +2003,10 @@
         "Stokes' law: drag D = 6 pi eta r v, so eta = D / (6 pi r v).",
         "6 pi r v = 6 pi x 5.0 x 10^-3 x 5.4 x 10^-4 = 5.09 x 10^-5 N s m^-1 x m.",
         "eta = 1.1 x 10^-2 / 5.09 x 10^-5 = 216 Pa s, about 2.2 x 10^2 Pa s."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-29.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-30.jpg"
       ]
     },
     {
@@ -1077,18 +2014,39 @@
       "no": "Q27(a)",
       "marks": 1,
       "topic": "Extra Measurement For Viscosity",
-      "keywords": ["falling ball method", "vegetable oil", "measurement", "ball-bearing", "density", "mass", "viscosity"],
+      "keywords": [
+        "falling ball method",
+        "vegetable oil",
+        "measurement",
+        "ball-bearing",
+        "density",
+        "mass",
+        "viscosity"
+      ],
       "question": "A student uses the falling-ball method on vegetable oil. Give one other measurement needed to determine the viscosity of the oil.",
       "status": "pending",
       "answer": "Needs the PDF mark scheme or diagram to confirm which measurement is expected (the text does not name it)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-30.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-31.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-32.jpg"
+      ]
     },
     {
       "id": "2A-Q27b",
       "no": "Q27(b)",
       "marks": 3,
       "topic": "Viscosity Of Vegetable Oil",
-      "keywords": ["viscosity", "vegetable oil", "ball-bearing", "viscous drag", "terminal velocity", "time 1.3 s", "diameter 1.24 mm"],
+      "keywords": [
+        "viscosity",
+        "vegetable oil",
+        "ball-bearing",
+        "viscous drag",
+        "terminal velocity",
+        "time 1.3 s",
+        "diameter 1.24 mm"
+      ],
       "question": "A ball-bearing of diameter 1.24 mm falls 20.0 cm in 1.3 s at terminal velocity. The viscous drag calculated was 5.6 x 10^-5 N. Calculate the viscosity of the oil.",
       "status": "ready",
       "answer": "Viscosity = 0.031 Pa s",
@@ -1096,6 +2054,11 @@
         "Radius r = 0.62 mm = 6.2 x 10^-4 m; terminal velocity v = 0.200 / 1.3 = 0.154 m s^-1.",
         "Stokes: eta = D / (6 pi r v) = 5.6 x 10^-5 / (6 pi x 6.2 x 10^-4 x 0.154).",
         "Denominator = 1.80 x 10^-3, so eta = 5.6 x 10^-5 / 1.80 x 10^-3 = 0.031 Pa s."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-30.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-31.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-32.jpg"
       ]
     },
     {
@@ -1103,7 +2066,15 @@
       "no": "Q27(c)",
       "marks": 3,
       "topic": "Lower Temperature And Fall Time",
-      "keywords": ["temperature", "viscosity", "oil", "fall time", "terminal velocity", "drag", "ball-bearing"],
+      "keywords": [
+        "temperature",
+        "viscosity",
+        "oil",
+        "fall time",
+        "terminal velocity",
+        "drag",
+        "ball-bearing"
+      ],
       "question": "The student repeated the experiment with the same oil at a lower temperature. Explain how this affected the time taken for the ball-bearing to fall 20.0 cm.",
       "status": "ready",
       "answer": "Lower temperature increases the viscosity, so the drag increases, the terminal velocity falls and the time to fall 20.0 cm increases",
@@ -1112,6 +2083,11 @@
         "A higher viscosity increases the drag on the ball (drag = 6 pi eta r v).",
         "The ball reaches a lower terminal velocity, since the drag balances the same net force at a lower speed.",
         "A lower speed takes longer to cover 20.0 cm, so the time increases."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-30.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-31.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-32.jpg"
       ]
     },
     {
@@ -1119,7 +2095,15 @@
       "no": "Q28(a)",
       "marks": 4,
       "topic": "Why Sphere Reaches Terminal Velocity",
-      "keywords": ["terminal velocity", "metal sphere", "oil", "drag", "resultant force", "acceleration", "released from rest"],
+      "keywords": [
+        "terminal velocity",
+        "metal sphere",
+        "oil",
+        "drag",
+        "resultant force",
+        "acceleration",
+        "released from rest"
+      ],
       "question": "A student releases a metal sphere from rest in oil. Explain why the sphere reaches terminal velocity.",
       "status": "ready",
       "answer": "Drag increases with speed until it balances the net downward force, so the resultant force becomes zero",
@@ -1128,6 +2112,10 @@
         "As its speed increases, the viscous drag increases.",
         "The net downward force falls as drag rises, so the acceleration decreases.",
         "When drag equals weight minus upthrust the resultant force is zero, and the sphere moves at constant terminal velocity."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-32.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-33.jpg"
       ]
     },
     {
@@ -1135,7 +2123,15 @@
       "no": "Q28(b)(i)",
       "marks": 3,
       "topic": "Viscous Drag From Fall Time",
-      "keywords": ["viscous drag", "terminal velocity", "time taken", "0.45 m", "radius", "viscosity of oil", "stokes law"],
+      "keywords": [
+        "viscous drag",
+        "terminal velocity",
+        "time taken",
+        "0.45 m",
+        "radius",
+        "viscosity of oil",
+        "stokes law"
+      ],
       "question": "The sphere falls 0.45 m through oil at terminal velocity in 7.3 s. Radius 0.90 x 10^-3 m, oil viscosity 2.1 x 10^-1 Pa s. Calculate the viscous drag force, assuming Stokes' law applied.",
       "status": "ready",
       "answer": "Viscous drag force = 2.2 x 10^-4 N",
@@ -1143,6 +2139,10 @@
         "Terminal velocity v = distance / time = 0.45 / 7.3 = 0.0616 m s^-1.",
         "Stokes drag D = 6 pi eta r v = 6 pi x 2.1 x 10^-1 x 0.90 x 10^-3 x 0.0616.",
         "D = 2.2 x 10^-4 N."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-32.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-33.jpg"
       ]
     },
     {
@@ -1150,7 +2150,15 @@
       "no": "Q28(b)(ii)",
       "marks": 3,
       "topic": "Larger Sphere Fall Time",
-      "keywords": ["larger sphere", "same density", "terminal velocity", "radius squared", "time to fall", "oil", "stokes law"],
+      "keywords": [
+        "larger sphere",
+        "same density",
+        "terminal velocity",
+        "radius squared",
+        "time to fall",
+        "oil",
+        "stokes law"
+      ],
       "question": "A second sphere with a greater diameter but the same density falls through the same oil at terminal velocity, with Stokes' law applying. Explain how its time to fall 0.45 m compares with the original sphere.",
       "status": "ready",
       "answer": "The larger sphere has a higher terminal velocity (v is proportional to r^2), so it takes less time to fall 0.45 m",
@@ -1159,6 +2167,10 @@
         "With the same densities and oil, v is proportional to r^2.",
         "A greater diameter gives a larger radius and so a larger terminal velocity.",
         "Time to fall a fixed distance is distance / v, so the second sphere takes less time."
+      ],
+      "images": [
+        "papers/physics/img/11-2A-Stokes-Law-32.jpg",
+        "papers/physics/img/11-2A-Stokes-Law-33.jpg"
       ]
     }
   ]

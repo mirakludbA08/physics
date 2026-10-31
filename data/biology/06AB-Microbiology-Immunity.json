@@ -28,6 +28,11 @@
         "A single antibiotic would kill sensitive cells and select for resistant mutants, which then multiply (natural selection).",
         "Using a combination makes it very unlikely a bacterium is resistant to all the drugs at once.",
         "Several months of treatment kills all bacteria, including slow-dividing ones that survive short courses."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-001.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-002.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-003.jpg"
       ]
     },
     {
@@ -54,6 +59,11 @@
         "Bacterial toxins and the immune response (inflammation) destroy alveolar tissue.",
         "Less alveolar surface area means less oxygen can diffuse into the blood.",
         "Lung function falls too far to survive, so healthy donor lungs are needed."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-001.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-002.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-003.jpg"
       ]
     },
     {
@@ -80,6 +90,11 @@
         "B and T lymphocytes cannot divide by mitosis, so clonal expansion is reduced.",
         "Fewer T helper, T killer and plasma cells means less antibody and less killing of infected cells.",
         "With a weak immune response, the bacteria multiply faster and the infection spreads."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-001.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-002.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-003.jpg"
       ]
     },
     {
@@ -101,7 +116,12 @@
       "question": "Explain the changes in the numbers of Mycobacterium and phages after phage therapy started, using the graph.",
       "status": "pending",
       "answer": "The graph of bacteria and phage numbers is not in the text, so the answer cannot be given.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-001.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-002.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-003.jpg"
+      ]
     },
     {
       "id": "6AB-Q2a",
@@ -122,7 +142,12 @@
       "question": "Tick the correct boxes in a table of statements about artificial immunity (artificial active and passive).",
       "status": "pending",
       "answer": "The table of statements and cross boxes is not in the text, so the answer cannot be given.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-003.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-004.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-005.jpg"
+      ]
     },
     {
       "id": "6AB-Q2b(i)",
@@ -148,6 +173,11 @@
         "They digest the virus and display viral antigens on their surface bound to MHC class II.",
         "T helper cells with complementary receptors bind to this antigen-MHC complex.",
         "Binding activates the T helper cells, which then trigger B cells and T killer cells to divide."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-003.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-004.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-005.jpg"
       ]
     },
     {
@@ -174,6 +204,11 @@
         "T helper cells release cytokines that activate B cells and T killer cells by clonal selection.",
         "T killer cells bind to and destroy the virus-infected cells, stopping virus replication.",
         "T helper cells also stimulate memory cell formation so the response is faster next time."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-003.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-004.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-005.jpg"
       ]
     },
     {
@@ -199,6 +234,13 @@
         "It uses sterile equipment and media so only the target species (here E. coli) grows.",
         "This ensures any growth or results come from the organism being studied.",
         "Aseptic technique keeps unwanted microbes out, so only E. coli is being tested."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-005.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-006.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
       ]
     },
     {
@@ -225,6 +267,13 @@
         "Flame the necks of bottles and tubes when opening and closing them.",
         "Work close to a Bunsen flame so rising hot air keeps airborne microbes away.",
         "Use sterile microdilution plates, tips and media so no unwanted microbes are added."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-005.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-006.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
       ]
     },
     {
@@ -250,6 +299,13 @@
         "They could grow and be mistaken for E. coli, showing growth at a concentration where it should not.",
         "This would give a false MIC value for each antimicrobial substance.",
         "Aseptic technique keeps the results valid and reliable."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-005.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-006.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
       ]
     },
     {
@@ -276,6 +332,13 @@
         "At this temperature the bacteria divide quickly and grow in every well with no antimicrobial.",
         "72 hours gives enough cell divisions for visible growth to be seen in the wells.",
         "The MIC is read as the lowest concentration with no visible growth after this time."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-005.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-006.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
       ]
     },
     {
@@ -296,7 +359,14 @@
       "question": "Explain why an antimicrobial substance that affects E. coli only was included in the assay (row H).",
       "status": "pending",
       "answer": "Needs the results diagram (what row H shows and which bacteria are affected); not fully in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-005.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-006.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
+      ]
     },
     {
       "id": "6AB-Q3c(ii)",
@@ -322,6 +392,13 @@
         "It shows that the E. coli is viable and grows under the conditions used.",
         "Growth here is compared with the other wells to decide the MIC.",
         "It also shows the medium is not contaminated or sterile so growth cannot be assumed."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-005.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-006.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
       ]
     },
     {
@@ -348,6 +425,13 @@
         "Add it to an equal volume (1 cm3) of sterile nutrient broth and mix thoroughly, giving 1 in 2.",
         "Take a sample from this mixture and spread it onto sterile agar.",
         "Incubate and count colonies; the count is halved for each 1 in 2 step."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-005.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-006.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
       ]
     },
     {
@@ -369,7 +453,14 @@
       "question": "Calculate how many times more effective the antimicrobial in one row is than the antimicrobial in row E, using their MIC columns.",
       "status": "pending",
       "answer": "The rows and MIC column numbers are shown only in the diagram, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-005.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-006.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
+      ]
     },
     {
       "id": "6AB-Q4a",
@@ -394,6 +485,11 @@
         "Each living bacterium that divides forms a colony that can be counted.",
         "This is dilution plating (option A); latency, mass and turbidity methods do not count colonies.",
         "Only dilution plating gives a colony count, so option A is correct."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
       ]
     },
     {
@@ -420,6 +516,11 @@
         "Incubate the dish upside down so condensation forms on the lid, not on the agar.",
         "Droplets falling onto the agar could spread bacteria across it and spoil the count.",
         "Sealing and inverting the dish stops contamination and condensation falling on the agar."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
       ]
     },
     {
@@ -445,6 +546,11 @@
         "They divide at a constant rate in the exponential phase.",
         "Growth stops as nutrients run out in the stationary phase, then cells die.",
         "Batch cultures pass through lag, exponential, stationary and death phases in that order."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
       ]
     },
     {
@@ -466,7 +572,12 @@
       "question": "How many of four listed changes (decrease/increase pH, decrease/increase temperature) could result in faster growth?",
       "status": "pending",
       "answer": "Depends on whether the student's conditions were above or below the optimum, which is not stated in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
+      ]
     },
     {
       "id": "6AB-Q4c(iii)",
@@ -487,7 +598,12 @@
       "question": "Calculate the growth rate constant (k) of these bacteria between 4 and 10 hours, to two decimal places.",
       "status": "pending",
       "answer": "Needs population values read from the growth curve graph and the equation, which are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
+      ]
     },
     {
       "id": "6AB-Q5a",
@@ -512,6 +628,10 @@
         "Growth data span a huge range, so a log10 scale is used on the y-axis.",
         "Option A combines both points.",
         "Colony counts give living cells, so option A is chosen over total cell counts."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-011.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-012.jpg"
       ]
     },
     {
@@ -537,6 +657,10 @@
         "They would grow alongside the target microbes and be counted too.",
         "The growth curve or count would then be wrong and not represent the organism studied.",
         "Contamination would give inaccurate counts, so the growth data would not be valid."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-011.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-012.jpg"
       ]
     },
     {
@@ -563,6 +687,10 @@
         "Work next to a Bunsen flame so rising warm air keeps airborne microbes away.",
         "Use sterile pipettes and diluent so only the target organism is transferred.",
         "Flame the necks of bottles and tubes when opening and closing them."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-011.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-012.jpg"
       ]
     },
     {
@@ -584,7 +712,13 @@
       "question": "Complete the table to show the increase in cell number between 4 and 6 hours of culture.",
       "status": "pending",
       "answer": "Needs the table values and calibration curve, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-012.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-013.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-014.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-015.jpg"
+      ]
     },
     {
       "id": "6AB-Q6b",
@@ -605,7 +739,13 @@
       "question": "Explain the changes in cell number during the first six hours of the culture.",
       "status": "pending",
       "answer": "Depends on the table values and calibration data for the first six hours, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-012.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-013.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-014.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-015.jpg"
+      ]
     },
     {
       "id": "6AB-Q6c(i)",
@@ -631,6 +771,12 @@
         "Spread a known volume of a suitable dilution onto sterile agar.",
         "Incubate so each living bacterium forms a visible colony.",
         "Count colonies on a plate with 30 to 300 colonies and multiply by the dilution factor."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-012.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-013.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-014.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-015.jpg"
       ]
     },
     {
@@ -657,6 +803,12 @@
         "Dilution plating counts only living cells that can divide to form colonies.",
         "As cells die or stop dividing after 8 hours, the colony count falls but turbidity stays high.",
         "So the turbidity method gives a higher number of cells than dilution plating."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-012.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-013.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-014.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-015.jpg"
       ]
     },
     {
@@ -682,6 +834,10 @@
         "The antibiotic causes the death of bacterial cells.",
         "Contrast with bacteriostatic, which only stops them growing or dividing.",
         "Bactericidal drugs kill bacteria, whereas bacteriostatic drugs only inhibit growth."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-015.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-016.jpg"
       ]
     },
     {
@@ -707,6 +863,10 @@
         "For example, peptidoglycan cell walls and 70S ribosomes are absent from human cells.",
         "So the drug damages the bacteria without harming the patient's own cells.",
         "This selective toxicity lets antibiotics kill bacteria with little harm to the patient."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-015.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-016.jpg"
       ]
     },
     {
@@ -733,6 +893,10 @@
         "Do not use antibiotics for viral infections such as colds, which they cannot treat.",
         "Do not save leftover antibiotics or share them, because the wrong dose selects resistant bacteria.",
         "This advice aims to reduce antibiotic resistance and misuse."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-015.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-016.jpg"
       ]
     },
     {
@@ -754,7 +918,11 @@
       "question": "Describe the effects of this antibiotic on the bacteria present in the throat, using charts before and after treatment.",
       "status": "pending",
       "answer": "The before and after charts of bacterial proportions are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-015.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-016.jpg"
+      ]
     },
     {
       "id": "6AB-Q8a",
@@ -780,6 +948,11 @@
         "Bacteriostatic antibiotics stop growth and division, so the bacteria remain alive.",
         "Bactericidal antibiotics kill the bacteria outright.",
         "Bacteriostatic bacteria can recover once the drug is removed if the immune system does not clear them."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-016.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-017.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-018.jpg"
       ]
     },
     {
@@ -806,6 +979,11 @@
         "Place the paper in a solvent below the baseline so the solvent does not dissolve the spot.",
         "As the solvent moves up by capillary action, the antibiotic separates according to solubility and attraction to the paper.",
         "Locate the spots (for example under UV), then Rf = distance moved by spot / distance moved by solvent front."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-016.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-017.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-018.jpg"
       ]
     },
     {
@@ -826,7 +1004,12 @@
       "question": "Which option identifies the antibiotic in the diagram and the method used?",
       "status": "pending",
       "answer": "The chromatogram diagram and the Rf table are not in the text, so the option cannot be checked.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-016.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-017.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-018.jpg"
+      ]
     },
     {
       "id": "6AB-Q8b(iii)",
@@ -852,6 +1035,11 @@
         "So each travels a different distance relative to the solvent front.",
         "The two methods use different solvents or stationary phases, which change the distances moved.",
         "So the four Rf values differ for the two antibiotics and two methods."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-016.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-017.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-018.jpg"
       ]
     },
     {
@@ -877,6 +1065,11 @@
         "This produces an immune response and memory cells in the patient.",
         "Passive immunotherapy gives the patient ready-made antibodies or activated immune cells.",
         "No immune response is needed from the patient, so the effect is immediate but short-lived."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
       ]
     },
     {
@@ -903,6 +1096,11 @@
         "The changed codon codes for a different amino acid, or none, in the protein.",
         "The altered amino acid sequence changes the protein's tertiary structure and shape.",
         "The new shape is not present on normal cells, so it acts as a neoantigen recognised by the immune system."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
       ]
     },
     {
@@ -929,6 +1127,11 @@
         "The neoantigen is processed and presented on MHC molecules on the cell surface.",
         "T helper and T killer cells with matching receptors bind to the complex and are activated, then divide by clonal expansion.",
         "T killer cells destroy cancer cells displaying the neoantigen, and memory cells remain for future protection."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
       ]
     },
     {
@@ -955,6 +1158,11 @@
         "It binds to antigens on the cancer cells, so it targets only those cells.",
         "Bound antibodies mark the cancer cells so phagocytes such as macrophages engulf them (opsonisation).",
         "Antibodies can also activate complement or block receptors that help cancer cells grow."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
       ]
     },
     {
@@ -981,6 +1189,11 @@
         "Large numbers ensure enough cells are present to bind and kill the many cancer cells.",
         "Cloning in the laboratory produces the required numbers from the patient's own T cells.",
         "Enough cells are needed to overcome the tumour and provide a lasting response."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
       ]
     },
     {
@@ -1007,6 +1220,11 @@
         "It should lyse (burst) the cancer cells through the lytic cycle, releasing new viruses to spread.",
         "It should be non-pathogenic, so it does not cause disease in the patient.",
         "Such a virus needs receptors on cancer cells to attach to them."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
       ]
     },
     {
@@ -1033,6 +1251,11 @@
         "Cellulase enzymes break these beta 1-4 bonds to release glucose.",
         "Option A is the only option with beta 1-4; the symbol in the text is garbled, but 1-4 matches cellulose.",
         "Digestion by hydrolysis adds water to break these bonds and release glucose."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-022.jpg"
       ]
     },
     {
@@ -1054,7 +1277,12 @@
       "question": "Put one cross in each row to show whether genes are found in each structure of bacteria and fungi.",
       "status": "pending",
       "answer": "The table of structures and rows is not in the text, so the answer cannot be given.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-022.jpg"
+      ]
     },
     {
       "id": "6AB-Q10c(i)",
@@ -1075,7 +1303,12 @@
       "question": "Which sequence shows the succession of bacteria during development of a giant panda (options A to D)?",
       "status": "pending",
       "answer": "Depends on the graph of relative abundance, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-022.jpg"
+      ]
     },
     {
       "id": "6AB-Q10c(ii)",
@@ -1101,6 +1334,11 @@
         "Use PCR with primers for the 16S rRNA gene, which is present in all bacteria but varies between species.",
         "Sequence the amplified DNA and match the sequences to a database to identify Streptococcus.",
         "Relative abundance = number of Streptococcus sequences / total bacterial sequences x 100%."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-022.jpg"
       ]
     },
     {
@@ -1127,6 +1365,11 @@
         "A control group receives a placebo so the effect of the drug is separated from other factors.",
         "Side effects and safety at different doses are recorded to ensure the drug is not harmful.",
         "Data must be reproducible across many patients before approval."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-024.jpg"
       ]
     },
     {
@@ -1153,6 +1396,11 @@
         "This binding site is complementary to a particular antigen, here beta-amyloid.",
         "Only beta-amyloid with this shape fits and binds, so other antigens are not bound.",
         "Specificity comes from the shape of the variable region, so only beta-amyloid binds."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-024.jpg"
       ]
     },
     {
@@ -1179,6 +1427,11 @@
         "Bound antibodies mark the amyloid so that phagocytes such as macrophages engulf and remove it.",
         "Binding also blocks beta-amyloid from clumping into plaques.",
         "So less beta-amyloid builds up in the brain."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-024.jpg"
       ]
     },
     {
@@ -1205,6 +1458,11 @@
         "Without build-up of plaques, the neurones were not damaged.",
         "So they showed no signs of Alzheimer's disease.",
         "Early clearance of beta-amyloid would prevent plaques from forming."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-024.jpg"
       ]
     },
     {
@@ -1225,7 +1483,12 @@
       "question": "Explain why this drug could be produced only from B memory cells taken from a person who did not have Alzheimer's disease.",
       "status": "pending",
       "answer": "Needs the mark scheme reasoning for why B cells from an affected person would not give a suitable antibody; the text does not state this clearly.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-024.jpg"
+      ]
     },
     {
       "id": "6AB-Q12a(i)",
@@ -1251,6 +1514,11 @@
         "HIV and TMV are both RNA viruses.",
         "Lambda phage has DNA, so option B is correct.",
         "Matching the nucleic acid type gives option B."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
       ]
     },
     {
@@ -1276,6 +1544,11 @@
         "HIV has a different (conical) capsid, not helical.",
         "Lambda phage has a complex capsid, so option D is correct.",
         "Option D is the only virus in the list with a helical capsid."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
       ]
     },
     {
@@ -1301,6 +1574,11 @@
         "Capsids are made of protein subunits (capsomeres).",
         "Protein subunits make up the capsid, so option D is correct.",
         "Capsid proteins protect the viral nucleic acid from damage."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
       ]
     },
     {
@@ -1327,6 +1605,11 @@
         "Volume of TMV = pi x 40^2 x 300 = about 1.51 x 10^6 nm3.",
         "Ratio = Ebola volume / TMV volume = 7.76 x 10^4 / 1.51 x 10^6 = about 0.051.",
         "So Ebola is about 0.05 times the size of TMV (TMV is about 19 times larger)."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
       ]
     },
     {
@@ -1352,6 +1635,11 @@
         "Integrase inserts the viral DNA into the host cell genome.",
         "Both enzymes are carried into the host cell inside the virus particle.",
         "Reverse transcriptase and integrase are both needed for HIV to integrate."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
       ]
     },
     {
@@ -1378,6 +1666,11 @@
         "Integrase then joins the viral DNA into the host cell's chromosomal DNA as a provirus.",
         "The integrated viral DNA is transcribed and translated by the host cell to make new viral RNA and proteins.",
         "So the virus is copied each time the host cell divides."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
       ]
     },
     {
@@ -1403,6 +1696,12 @@
         "Enzymes work by lowering the activation energy of a reaction.",
         "Options A and B are inorganic, and D describes the wrong effect on activation energy.",
         "Option C is correct: an organic (protein) catalyst that decreases activation energy."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-026.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
       ]
     },
     {
@@ -1423,7 +1722,13 @@
       "question": "Name the type of scale used on the y-axis of the survival time graph for fish.",
       "status": "pending",
       "answer": "The graph is not in the text, so the scale type (presumably logarithmic) cannot be confirmed.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-026.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
+      ]
     },
     {
       "id": "6AB-Q13b(ii)",
@@ -1449,6 +1754,12 @@
         "Pathogens cause disease and predators kill fish in the zone of tolerance.",
         "Salt level and wave action are abiotic (non-living) factors, so A, B and D are wrong.",
         "Option C is the only pair of living (biotic) factors."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-026.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
       ]
     },
     {
@@ -1475,6 +1786,12 @@
         "At high temperatures, enzymes denature because hydrogen bonds break and the active site changes shape.",
         "At low temperatures, kinetic energy falls, so enzyme-controlled reactions such as respiration slow down.",
         "Either way, the fish cannot maintain its metabolism, so its survival time is reduced."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-026.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
       ]
     },
     {
@@ -1496,7 +1813,13 @@
       "question": "Calculate the Q10 for this enzyme stored for 3 hours, using the formula and initial rate at 20 C.",
       "status": "pending",
       "answer": "Needs the formula (missing from the text) and the initial rates from the graph.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-026.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
+      ]
     },
     {
       "id": "6AB-Q13c(ii)",
@@ -1516,7 +1839,13 @@
       "question": "Explain why the optimum temperature for this enzyme is affected by storage time.",
       "status": "pending",
       "answer": "Depends on the direction of the shift shown in the graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-026.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
+      ]
     },
     {
       "id": "6AB-Q14a(i)",
@@ -1541,6 +1870,12 @@
         "Insects colonise a body in a predictable sequence called succession.",
         "The stage of development of the insect larvae can be aged, giving the time since colonisation.",
         "This gives a more accurate time of death than other methods after 72 hours."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-029.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
       ]
     },
     {
@@ -1566,6 +1901,12 @@
         "If species found on the body are not those expected at the place of death, the body was probably moved.",
         "Insects found on the body may also differ in development stage from those on the ground nearby.",
         "This indicates that insect colonisation happened somewhere else."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-029.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
       ]
     },
     {
@@ -1591,6 +1932,12 @@
         "The cage keeps the body in place so decomposition by insects and microbes can be monitored.",
         "This makes the results valid and reproducible.",
         "The cage keeps the carcass intact so decomposition can be monitored."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-029.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
       ]
     },
     {
@@ -1611,7 +1958,13 @@
       "question": "Calculate the rate of change in mass between day 5 and day 15 of decomposition, in kg per hour to two decimal places.",
       "status": "pending",
       "answer": "Needs the mass values read from the graph, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-029.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
+      ]
     },
     {
       "id": "6AB-Q14b(iii)",
@@ -1632,7 +1985,13 @@
       "question": "Explain the changes in mass of the mammal during decomposition.",
       "status": "pending",
       "answer": "Depends on the shape of the mass-time graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-029.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
+      ]
     },
     {
       "id": "6AB-Q14b(iv)",
@@ -1657,6 +2016,12 @@
         "Identifying the species allows the development time to be looked up for estimating time of death.",
         "Keeping them at controlled temperatures lets development be monitored accurately.",
         "Keeping the eggs lets the larvae develop so their age and species can be determined."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-029.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
       ]
     },
     {
@@ -1678,7 +2043,13 @@
       "question": "Explain how the data in the table illustrate succession.",
       "status": "pending",
       "answer": "The table of insects collected is not in the text, so the answer cannot be checked.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-029.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
+      ]
     },
     {
       "id": "6AB-Q15a(i)",
@@ -1698,7 +2069,12 @@
       "question": "Which labelled structure of the HIV diagram is RNA (options A to D: R, Q, S, T)?",
       "status": "pending",
       "answer": "The labelled HIV diagram is not in the text, so the structure cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
+      ]
     },
     {
       "id": "6AB-Q15a(ii)",
@@ -1718,7 +2094,12 @@
       "question": "How many of structures Q, R and S of the HIV diagram contain protein (options A to D)?",
       "status": "pending",
       "answer": "The labelled HIV diagram is not in the text, so the count cannot be checked.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
+      ]
     },
     {
       "id": "6AB-Q15a(iii)",
@@ -1738,7 +2119,12 @@
       "question": "Which virus has structure P and contains RNA (options A to D)?",
       "status": "pending",
       "answer": "Needs the labelled HIV diagram to know which structure is P.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
+      ]
     },
     {
       "id": "6AB-Q15a(iv)",
@@ -1758,7 +2144,12 @@
       "question": "The diameter of HIV is 120 nm. Which is the approximate magnification of the drawing (options A to D)?",
       "status": "pending",
       "answer": "The size of the drawing on the page is needed, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
+      ]
     },
     {
       "id": "6AB-Q15b(i)",
@@ -1783,6 +2174,11 @@
         "Plotting both on the same axis would make the deaths line almost flat at the bottom.",
         "Dividing by 10 keeps both sets of values on a similar scale so trends can be compared.",
         "The scaling must be stated on the graph so the true numbers can be read."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
       ]
     },
     {
@@ -1802,7 +2198,12 @@
       "question": "Calculate the mean rate of increase in the number of people infected with HIV from 2005 to 2010, in standard form.",
       "status": "pending",
       "answer": "Needs the number of infections read from the graph in 2005 and 2010, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
+      ]
     },
     {
       "id": "6AB-Q15b(iii)",
@@ -1827,6 +2228,11 @@
         "New infections are still greater than deaths after 2005, even though both are falling.",
         "So the total living with HIV keeps increasing.",
         "People on treatment also survive longer, so they remain in the infected total."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
       ]
     },
     {
@@ -1852,6 +2258,11 @@
         "Find the point on the extended line corresponding to 2025.",
         "Read the number of deaths from the y-axis at that point.",
         "Extrapolation assumes the trend continues, so the estimate is approximate."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
       ]
     },
     {
@@ -1878,6 +2289,11 @@
         "People vaccinated are protected, so fewer people become newly infected from 2023.",
         "Fewer infections mean fewer people reach the stage of AIDS and die of the disease.",
         "So the number of deaths in 2025 would be lower than the trend-line estimate."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
       ]
     },
     {
@@ -1898,7 +2314,13 @@
       "question": "Which row of the table shows the cells that present antigens to T helper and T killer cells?",
       "status": "pending",
       "answer": "The table of cell types and rows is not in the text, so the row cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-034.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
+      ]
     },
     {
       "id": "6AB-Q16b(i)",
@@ -1925,6 +2347,12 @@
         "HIV is a retrovirus that inserts its genetic material into host cell DNA, so it can be used as a vector.",
         "Ebola, lambda phage and TMV are not suitable: Ebola is highly pathogenic, while lambda phage infects bacteria and TMV infects plants.",
         "Only HIV, modified to be non-pathogenic, can insert genes, so option B is correct."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-034.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
       ]
     },
     {
@@ -1951,6 +2379,12 @@
         "Inserting the gene makes the T cells produce this CAR receptor on their membrane.",
         "CAR-T cells can then bind to the cancer antigen and destroy the cancer cells.",
         "Without the CAR gene the T cells cannot make the receptor needed to bind cancer cells."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-034.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
       ]
     },
     {
@@ -1977,6 +2411,12 @@
         "Each daughter cell carries the inserted CAR gene and makes the same CAR receptor.",
         "This clonal expansion produces large numbers of cells with the same specificity for the cancer antigen.",
         "Enough cells are needed to kill the cancer cells in the patient's body."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-034.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
       ]
     },
     {
@@ -2003,6 +2443,12 @@
         "This avoids an immune rejection response against the injected cells.",
         "No immunosuppressive drugs are needed, so the patient's immune system stays active.",
         "The cells can persist in the body and act as memory cells for future protection."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-034.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
       ]
     },
     {
@@ -2029,6 +2475,12 @@
         "Solid tumours create a suppressive environment that inhibits T cell activity.",
         "Solid tumour cells may lack a single uniform antigen target that the CAR receptor binds.",
         "Solid tumours need immune cells to penetrate tissue, which limits CAR-T cells."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-034.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
       ]
     },
     {
@@ -2055,6 +2507,10 @@
         "It replicates inside the T helper cells and causes them to be destroyed.",
         "With fewer T helper cells, B cells and T killer cells are not activated, so fewer antibodies are made.",
         "The body cannot fight off infections, so opportunistic infections and disease result."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-037.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-038.jpg"
       ]
     },
     {
@@ -2081,6 +2537,10 @@
         "Without viral DNA, the virus cannot integrate into the host cell genome.",
         "Integrase inhibitors block the enzyme that inserts viral DNA into the host chromosome.",
         "So new viral proteins and particles are not made, so HIV replication is reduced."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-037.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-038.jpg"
       ]
     },
     {
@@ -2106,6 +2566,10 @@
         "A single drug would select for these resistant strains, which would then multiply.",
         "Using several drugs together makes it very unlikely a virus is resistant to all of them.",
         "This keeps the viral load low for longer."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-037.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-038.jpg"
       ]
     },
     {
@@ -2132,6 +2596,10 @@
         "Some infected cells hold HIV as integrated provirus that is latent and not killed.",
         "When drugs stop, the provirus is activated and produces new virus particles.",
         "So the viral population rises again."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-037.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-038.jpg"
       ]
     },
     {
@@ -2158,6 +2626,11 @@
         "Binding can clump pathogens together (agglutination) so they are easier to engulf.",
         "Antibodies neutralise toxins and block viruses from attaching to host cells.",
         "Antibodies mark pathogens for phagocytosis by macrophages and activate complement."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-038.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-039.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-040.jpg"
       ]
     },
     {
@@ -2179,7 +2652,12 @@
       "question": "Describe the changes in classes of antibody in a fetus before birth and in a child after birth, using the graph.",
       "status": "pending",
       "answer": "The graph of IgA and IgG concentrations is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-038.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-039.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-040.jpg"
+      ]
     },
     {
       "id": "6AB-Q18b(ii)",
@@ -2204,6 +2682,11 @@
         "This is natural, because it happens through breastfeeding.",
         "Antibodies that are passed from another person are passive immunity, so the answer is D.",
         "IgA from breast milk is passive and natural, so the answer is option D."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-038.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-039.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-040.jpg"
       ]
     },
     {
@@ -2230,6 +2713,11 @@
         "Fewer B cells have been activated, so fewer antibodies are produced.",
         "Maternal antibodies received at birth have declined over time.",
         "Adults have built up memory cells from many infections, so higher antibody levels."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-038.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-039.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-040.jpg"
       ]
     },
     {
@@ -2250,7 +2738,12 @@
       "question": "Give one piece of evidence, shown in the photographs, that rheumatoid arthritis is an inflammatory condition.",
       "status": "pending",
       "answer": "The photographs of the hands are not in the text, so the visible sign cannot be confirmed (likely swelling of the joints).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-040.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
+      ]
     },
     {
       "id": "6AB-Q19a(ii)",
@@ -2275,6 +2768,11 @@
         "The redness and swelling are visible in the photograph, so the other two signs are heat and pain.",
         "Heat results from increased blood flow, and pain from chemicals stimulating nerve endings.",
         "Redness, swelling, heat and pain are the four signs of inflammation."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-040.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
       ]
     },
     {
@@ -2301,6 +2799,11 @@
         "Both are transcribed and translated together to make a single fusion protein.",
         "The viral part of the fusion protein is incorporated into the capsid, carrying TNF to its outer surface.",
         "So TNF is displayed on the outside of the capsid where it can be detected and used to make antibodies."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-040.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
       ]
     },
     {
@@ -2327,6 +2830,11 @@
         "Anti-TNF antibodies bind to TNF, preventing it from binding its receptors.",
         "With TNF blocked, the chemical reactions causing inflammation are reduced.",
         "So the symptoms of rheumatoid arthritis are relieved."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-040.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
       ]
     },
     {
@@ -2353,6 +2861,11 @@
         "TNF helps form granulomas that wall off Mycobacterium tuberculosis and stop it spreading.",
         "When TNF is blocked, macrophages are less active and granulomas do not form properly.",
         "The TB bacteria multiply and spread through the lungs and body, which can be fatal."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-040.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
       ]
     },
     {
@@ -2378,6 +2891,10 @@
         "Redness and heat come from increased blood flow to the area.",
         "Swelling is caused by fluid leaking from capillaries into the tissue.",
         "Pain is caused by chemicals stimulating nerve endings."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-043.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-044.jpg"
       ]
     },
     {
@@ -2404,6 +2921,10 @@
         "Heat also increases enzyme activity of white blood cells and inhibits pathogen growth.",
         "Swelling caused by leaking fluid dilutes toxins and allows antibodies and clotting factors to reach the area.",
         "Pain makes the person protect the wound, reducing further damage."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-043.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-044.jpg"
       ]
     },
     {
@@ -2424,7 +2945,11 @@
       "question": "Compare and contrast the effect of treating inflammation with curcumin extract and drug A, using the graph.",
       "status": "pending",
       "answer": "The graph of the effects of curcumin and drug A is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-043.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-044.jpg"
+      ]
     },
     {
       "id": "6AB-Q20b(ii)",
@@ -2449,6 +2974,10 @@
         "Mass of turmeric = mass of curcumin / percentage = 1 / 0.03.",
         "1 / 0.03 = 33.3 g, which is option C.",
         "Option C is correct: 1 / 0.03 = 33.3 g."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-043.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-044.jpg"
       ]
     },
     {
@@ -2474,6 +3003,11 @@
         "The pathogen causes damage and disease symptoms.",
         "Infection differs from disease, which is the harm that results.",
         "Infection describes the pathogen living and multiplying inside the host."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
       ]
     },
     {
@@ -2499,6 +3033,11 @@
         "560 is closest to 1 in 600 among the options.",
         "So the death rate is about 1 in 600, option B.",
         "Option B (1 in 600) is the closest value."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
       ]
     },
     {
@@ -2524,6 +3063,11 @@
         "Ratio = 274 000 : 135 000 = 2.03 : 1.",
         "This is closest to 2.0 : 1.0, option D.",
         "Option D (2.0 : 1.0) is the closest ratio."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
       ]
     },
     {
@@ -2550,6 +3094,11 @@
         "Living (weakened) parasites are better at stimulating an immune response than dead ones.",
         "The immune system produces antibodies and T cells and memory cells against the sporozoite antigens.",
         "Memory cells give a fast response if the person is later infected with the real malaria parasite."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
       ]
     },
     {
@@ -2576,6 +3125,11 @@
         "One chemical kills the sporozoites so they cannot infect liver cells and cause disease.",
         "The other chemical kills any merozoites that form, so they cannot invade red blood cells.",
         "Together they make the vaccine safe to test, while the immune response to the antigens is still stimulated."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
       ]
     },
     {
@@ -2602,6 +3156,11 @@
         "These memory cells respond rapidly on re-exposure, giving a secondary immune response.",
         "The identical strain carries the same antigens, so it is recognised directly.",
         "The different strain shares some antigens with the vaccine strain, so the same memory cells also recognise it."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
       ]
     },
     {
@@ -2622,7 +3181,14 @@
       "question": "Explain the use of antibiotics to treat the medical conditions shown in the table.",
       "status": "pending",
       "answer": "The table of conditions and whether antibiotics are needed is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-046.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-047.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
+      ]
     },
     {
       "id": "6AB-Q22b",
@@ -2642,7 +3208,14 @@
       "question": "Which row of the table describes each of drugs J, K and L from the graph?",
       "status": "pending",
       "answer": "The graph and table of drug descriptions are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-046.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-047.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
+      ]
     },
     {
       "id": "6AB-Q22c(i)",
@@ -2668,6 +3241,13 @@
         "They compete with pathogens for nutrients and space.",
         "Some gut flora produce acids or antimicrobial substances that inhibit pathogens.",
         "They also help stimulate the development of the immune system."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-046.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-047.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
       ]
     },
     {
@@ -2693,6 +3273,13 @@
         "Broad-spectrum antibiotics kill many types of bacteria, including the beneficial ones.",
         "Killing gut flora removes competition, so resistant or harmful species may grow.",
         "This reduces the protective effect of gut flora against infection."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-046.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-047.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
       ]
     },
     {
@@ -2713,7 +3300,14 @@
       "question": "The number of type A bacteria in gut flora without antibiotics is 6 000 000. Estimate the number of type B, in standard form.",
       "status": "pending",
       "answer": "The relative proportions of types A and B are shown only in the diagram, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-046.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-047.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
+      ]
     },
     {
       "id": "6AB-Q22c(iv)",
@@ -2734,7 +3328,14 @@
       "question": "Deduce the effects of antibiotics P, Q and R on gut flora, using the diagrams.",
       "status": "pending",
       "answer": "The diagrams showing the effects of P, Q and R are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-046.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-047.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
+      ]
     },
     {
       "id": "6AB-Q23a",
@@ -2760,6 +3361,11 @@
         "Humans respond by developing new drugs such as Castaneroxy A.",
         "The pathogen may then evolve resistance to the new drug through further mutations.",
         "So both humans and pathogens keep evolving in response to each other."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
       ]
     },
     {
@@ -2786,6 +3392,11 @@
         "If the drug killed skin flora, this competition would be removed.",
         "MRSA could then colonise the skin more easily and cause infection.",
         "So the drug must target only the pathogen."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
       ]
     },
     {
@@ -2812,6 +3423,11 @@
         "White blood cells can engulf and destroy them more easily.",
         "Fewer toxins are produced, so less tissue damage and inflammation occurs.",
         "The infection is cleared more quickly and the patient recovers."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
       ]
     },
     {
@@ -2837,6 +3453,11 @@
         "A group treated with only solvent shows the effect of the solvent alone.",
         "Comparing it with the drug groups isolates the effect of Castaneroxy A.",
         "This makes the investigation a valid, controlled test."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
       ]
     },
     {
@@ -2857,7 +3478,12 @@
       "question": "Determine the effect that Castaneroxy A has on the mean size of skin infections, using the graph.",
       "status": "pending",
       "answer": "The graph of mean infection size for each treatment is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
+      ]
     },
     {
       "id": "6AB-Q23d(iii)",
@@ -2883,6 +3509,11 @@
         "0.0019% = 0.0019 / 100 = 1.9 x 10^-5 as a fraction of leaf mass.",
         "Mass of leaves = 50 kg / 1.9 x 10^-5 = 2 631 579 kg.",
         "Rounded to the nearest kilogram this is 2 631 579 kg."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
       ]
     },
     {
@@ -2907,6 +3538,11 @@
         "So the two other characteristics are swelling and pain.",
         "These are the classic characteristics of inflammation with heat and redness.",
         "Swelling and pain are the other two signs of inflammation."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-052.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-053.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-054.jpg"
       ]
     },
     {
@@ -2933,6 +3569,11 @@
         "This allows white blood cells to act faster against pathogens.",
         "Many pathogens grow less well at higher temperatures, so their growth is slowed.",
         "Heat also increases blood flow, bringing more phagocytes to the infection."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-052.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-053.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-054.jpg"
       ]
     },
     {
@@ -2958,6 +3599,11 @@
         "Interferon binds to receptors on neighbouring uninfected cells.",
         "These cells then make antiviral proteins that block viral replication.",
         "So the spread of the virus to other cells is slowed."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-052.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-053.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-054.jpg"
       ]
     },
     {
@@ -2978,7 +3624,12 @@
       "question": "Compare and contrast the changes in antibody concentration in the blood plasma after the first infection and the second infection, using the graph.",
       "status": "pending",
       "answer": "The graph of antibody concentrations for the first and second infections is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-052.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-053.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-054.jpg"
+      ]
     },
     {
       "id": "6AB-Q25a",
@@ -2998,7 +3649,12 @@
       "question": "Estimate the percentage composition of oligosaccharides in colostrum from the charts.",
       "status": "pending",
       "answer": "The charts of nutritional components are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-054.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-055.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-056.jpg"
+      ]
     },
     {
       "id": "6AB-Q25b(i)",
@@ -3018,7 +3674,12 @@
       "question": "Describe two conclusions about the gut flora of babies fed breast milk or another milk, from the graph.",
       "status": "pending",
       "answer": "The bar chart of bacterial proportions is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-054.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-055.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-056.jpg"
+      ]
     },
     {
       "id": "6AB-Q25b(ii)",
@@ -3043,6 +3704,11 @@
         "They compete with pathogens for nutrients.",
         "They produce substances that inhibit pathogens and help train the developing immune system.",
         "Healthy gut flora therefore supports protection from infection in babies."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-054.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-055.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-056.jpg"
       ]
     },
     {
@@ -3069,6 +3735,11 @@
         "Oligosaccharides are natural molecules, so resistance is less likely to evolve quickly.",
         "They may act more specifically against GBS and spare the beneficial gut flora.",
         "Using them avoids the side effects and gut damage caused by broad-spectrum antibiotics."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-054.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-055.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-056.jpg"
       ]
     },
     {
@@ -3094,6 +3765,11 @@
         "Lambda phage has a complex capsid (head and tail), so the second statement is correct.",
         "Its DNA codes for the J protein used to attach to the host cell, so the third statement is correct.",
         "All three statements are correct, so option D is the answer."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-056.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-057.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-058.jpg"
       ]
     },
     {
@@ -3120,6 +3796,11 @@
         "In the diagram it is attached to maltoporin, a protein on the E. coli outer membrane.",
         "This attachment holds the phage to the host cell.",
         "The phage can then inject its DNA into the bacterium to begin infection."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-056.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-057.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-058.jpg"
       ]
     },
     {
@@ -3145,6 +3826,11 @@
         "Sugars also provide carbon atoms for building other organic molecules.",
         "Sugars are essential nutrients for the growth and metabolism of E. coli.",
         "Glucose also provides carbon for building new cell material."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-056.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-057.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-058.jpg"
       ]
     },
     {
@@ -3173,6 +3859,11 @@
         "The phage population then has an advantage, so E. coli must mutate again to escape infection.",
         "Each cycle of mutation and natural selection in both species drives an evolutionary arms race.",
         "The arms race continues as long as both species keep producing variants that are selected."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-056.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-057.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-058.jpg"
       ]
     },
     {
@@ -3199,6 +3890,11 @@
         "tRNA molecules with anticodons complementary to each codon bring specific amino acids.",
         "Amino acids are joined by peptide bonds catalysed by the ribosome, lengthening the chain.",
         "The ribosome reaches a stop codon and releases the single long polyprotein chain."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-058.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-059.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-060.jpg"
       ]
     },
     {
@@ -3225,6 +3921,11 @@
         "An inhibitor blocks the active site of the protease, so cleavage cannot occur.",
         "Without separated proteins, the enzymes and structural proteins needed for replication are not active.",
         "So fewer new viruses are assembled and released from the infected cell."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-058.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-059.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-060.jpg"
       ]
     },
     {
@@ -3251,6 +3952,11 @@
         "Higher platelet counts help maintain blood pressure and prevent haemorrhage.",
         "White blood cells such as macrophages and lymphocytes engulf and destroy virus particles.",
         "T killer cells and antibodies from white blood cells destroy virus-infected cells, reducing viral spread."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-058.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-059.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-060.jpg"
       ]
     },
     {
@@ -3277,6 +3983,11 @@
         "The bacteria do not harm the mosquitoes, so the control does not reduce the mosquito population directly.",
         "Less dependence on insecticides avoids resistance in mosquitoes and environmental damage.",
         "Mosquitoes are not harmed, so they can carry Wolbachia continuously."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-058.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-059.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-060.jpg"
       ]
     },
     {
@@ -3302,6 +4013,12 @@
         "They compete with pathogens for nutrients.",
         "Some skin bacteria produce acids or antimicrobial substances that kill or inhibit pathogens.",
         "These mechanisms prevent infection without needing an immune response."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-060.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
       ]
     },
     {
@@ -3327,6 +4044,12 @@
         "Sweat and sebum also create an acidic surface that inhibits microbes.",
         "Sweat and sebum also create an acidic surface that inhibits microbes.",
         "The outer layer of dead cells is a barrier that most microbes cannot cross."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-060.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
       ]
     },
     {
@@ -3347,7 +4070,13 @@
       "question": "Describe three conclusions that could be made from the graph of bacteria groups on the skin of men of different ages.",
       "status": "pending",
       "answer": "The graph of bacterial groups on men of different ages is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-060.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
+      ]
     },
     {
       "id": "6AB-Q28b(ii)",
@@ -3372,6 +4101,12 @@
         "Select participants randomly to avoid bias.",
         "Control variables such as washing, hygiene and the sampling site on the skin.",
         "Use the same sampling and culturing method for every person, with repeats to check reliability."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-060.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
       ]
     },
     {
@@ -3398,6 +4133,12 @@
         "Lysosomes fuse with the vesicle and digest the bacteria with enzymes.",
         "Macrophages also release chemicals that cause inflammation and attract more phagocytes.",
         "Phagocytosis is a non-specific response, as it does not need antigen recognition."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-060.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
       ]
     },
     {
@@ -3423,6 +4164,12 @@
         "T helper cells with complementary receptors bind to the antigen-MHC complex.",
         "Binding activates the T helper cells, which then activate B cells and T killer cells.",
         "This links the non-specific response of macrophages to the specific immune response."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-060.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
       ]
     },
     {
@@ -3449,6 +4196,11 @@
         "TMV and lambda phage do not have an envelope.",
         "So option A is the correct pair.",
         "Option A is the only pair in which both viruses have an envelope."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
       ]
     },
     {
@@ -3474,6 +4226,11 @@
         "Lambda phage has a complex capsid with a head and tail.",
         "Ebola is helical, HIV is icosahedral (conical), and TMV is helical.",
         "Option C (lambda phage) is the only virus with a complex capsid."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
       ]
     },
     {
@@ -3499,6 +4256,11 @@
         "Lambda phage has double-stranded DNA, so it is not an RNA virus.",
         "So three viruses are RNA viruses: option C.",
         "Option C is the count of RNA viruses."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
       ]
     },
     {
@@ -3518,7 +4280,12 @@
       "question": "Complete the diagram to show the base sequence of the positive RNA strand complementary to the given negative strand.",
       "status": "pending",
       "answer": "The base sequence is shown only in the diagram, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
+      ]
     },
     {
       "id": "6AB-Q29b(ii)",
@@ -3544,6 +4311,11 @@
         "A positive RNA strand is made by RNA polymerase using the negative strand as a template.",
         "The positive strand acts as mRNA, so ribosomes make viral proteins from it.",
         "It also serves as a template to make more negative RNA genomes for new virus particles."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
       ]
     },
     {
@@ -3570,6 +4342,11 @@
         "It then travels along neurones (retrograde transport) toward the central nervous system.",
         "Once the virus reaches the brain, it causes severe symptoms that cannot be stopped by treatment.",
         "Delayed treatment means the virus may already have reached the brain, so treatment is unlikely to work."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
       ]
     },
     {
@@ -3595,6 +4372,13 @@
         "Larger cells, such as yeast, scatter more light per cell than smaller bacteria.",
         "So larger microorganisms give a higher optical density at the same cell number.",
         "So the size of the microorganism changes the optical density per cell."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-065.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-066.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
       ]
     },
     {
@@ -3615,7 +4399,14 @@
       "question": "Calculate how many times more bacterial cells there are than yeast cells if both samples have an optical density of 1.0 a.u.",
       "status": "pending",
       "answer": "Needs the calibration curve values for bacteria and yeast at 1.0 a.u., which are shown in a graph not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-065.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-066.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
+      ]
     },
     {
       "id": "6AB-Q30c(i)",
@@ -3639,6 +4430,13 @@
         "So optical density rises with cell number.",
         "The rise is roughly linear at low cell concentrations and levels off at high concentrations.",
         "The relationship is roughly linear, so calibration curves are needed for accuracy."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-065.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-066.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
       ]
     },
     {
@@ -3665,6 +4463,13 @@
         "So the optical density is directly proportional to cell number.",
         "At high concentrations cells block light from each other, so most light is absorbed.",
         "The detector then cannot tell the difference between high densities, so the reading is less accurate."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-065.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-066.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
       ]
     },
     {
@@ -3690,6 +4495,13 @@
         "Rearrange: t = ln(Nt / N0) / k.",
         "Nt / N0 = 1.2 x 10^7 / 6 x 10^3 = 2000, and ln(2000) = 7.601.",
         "t = 7.601 / 0.963 = 7.89 hours."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-065.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-066.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
       ]
     },
     {
@@ -3718,6 +4530,13 @@
         "Cell colour or pigment content also changes light absorption, so the optical density per cell changes.",
         "Some microorganisms form filaments or clumps, which scatter light differently from single cells.",
         "So a calibration curve must be made for each species or type of microorganism being studied."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-065.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-066.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
       ]
     },
     {
@@ -3744,6 +4563,11 @@
         "Use sterile agar and Petri dishes so no unwanted microbes are already present.",
         "Work near a Bunsen flame and keep lids on dishes to exclude airborne microbes.",
         "Both precautions help make sure the culture contains only one species."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-069.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-070.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-071.jpg"
       ]
     },
     {
@@ -3764,7 +4588,12 @@
       "question": "How much more antibiotic is in part B3 than in part B2 of the mast ring (options A to D)?",
       "status": "pending",
       "answer": "Needs the mass values for parts B2 and B3 from the table, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-069.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-070.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-071.jpg"
+      ]
     },
     {
       "id": "6AB-Q31c",
@@ -3790,6 +4619,11 @@
         "The larger the diameter of the zone, the more effective the antibiotic against this bacteria.",
         "The lowest mass that still gives a clear zone shows the minimum effective dose.",
         "A doctor would choose the most effective antibiotic at the lowest effective dose, avoiding resistant strains."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-069.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-070.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-071.jpg"
       ]
     },
     {
@@ -3815,6 +4649,11 @@
         "It is used as a template to make viral mRNA and new viral genomes.",
         "So it controls the production of new virus particles inside the host cell.",
         "The genome therefore determines which viral proteins the virus can make."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-071.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
       ]
     },
     {
@@ -3841,6 +4680,11 @@
         "They fit complementary receptors on the surface of host cells.",
         "Binding allows the virus to attach and be taken into the cell by endocytosis or membrane fusion.",
         "Glycoproteins are therefore needed for the virus to infect new cells."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-071.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
       ]
     },
     {
@@ -3866,6 +4710,11 @@
         "Host cells normally make mRNA from DNA, not from RNA templates.",
         "So the virus carries RNA polymerase to copy its RNA into mRNA and new genomes inside the host cell.",
         "So the virus carries its own RNA polymerase into the host cell."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-071.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
       ]
     },
     {
@@ -3892,6 +4741,11 @@
         "VP40 and VP24 help the proteins and genome come together to form the nucleocapsid.",
         "The new virus particle then buds out through the host cell membrane, taking an envelope with it.",
         "Assembly is followed by budding out of the host cell to release new viruses."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-071.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
       ]
     },
     {
@@ -3918,6 +4772,11 @@
         "Interferon causes neighbouring cells to produce antiviral proteins that block virus replication.",
         "VP35 blocks interferon production, so the antiviral defence is not triggered.",
         "This allows the Ebola virus to replicate and spread more easily."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-071.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
       ]
     },
     {
@@ -3943,6 +4802,11 @@
         "They are not carbohydrates, nucleic acids or polypeptides.",
         "So the answer is option B.",
         "Mycolic acids are long-chain fatty acids that form part of the waxy cell wall."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
       ]
     },
     {
@@ -3968,6 +4832,11 @@
         "Cell wall synthesis only happens during cell growth and division.",
         "So the drug has no effect on non-dividing bacteria.",
         "This restricts the action of the drug to periods of active growth."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
       ]
     },
     {
@@ -3993,6 +4862,11 @@
         "Macrophages engulf the dead or damaged bacteria by phagocytosis.",
         "They digest the bacteria and display the antigens on their surface on MHC class II molecules.",
         "More antigen presentation activates more T helper cells."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
       ]
     },
     {
@@ -4012,7 +4886,12 @@
       "question": "Explain how antibiotic P could affect M. tuberculosis, using the table of antibiotics.",
       "status": "pending",
       "answer": "The table giving the details of antibiotic P is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
+      ]
     },
     {
       "id": "6AB-Q33b(iv)",
@@ -4031,7 +4910,12 @@
       "question": "Explain how antibiotic R could affect M. tuberculosis, using the table of antibiotics.",
       "status": "pending",
       "answer": "The table giving the details of antibiotic R is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
+      ]
     },
     {
       "id": "6AB-Q33b(v)",
@@ -4057,6 +4941,11 @@
         "Antibiotic treatment kills sensitive bacteria, so resistant mutants survive (natural selection).",
         "Over several months the resistant bacteria multiply and become the dominant population.",
         "Incomplete courses or drug combinations can leave resistant survivors, increasing resistance."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
       ]
     },
     {
@@ -4083,6 +4972,12 @@
         "1.2 / 0.4 = 3; 3.2 / 0.4 = 8; 5.6 / 0.4 = 14.",
         "So the ratio children : women : men = 3 : 8 : 14.",
         "Ratios are simplified by dividing by the smallest value."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-075.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
       ]
     },
     {
@@ -4109,6 +5004,12 @@
         "The infection and inflammation damage the alveoli, so less surface area is available for gas exchange.",
         "Reduced oxygen uptake and respiratory failure can cause death if untreated.",
         "The infection can also spread to other organs, causing organ failure."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-075.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
       ]
     },
     {
@@ -4134,6 +5035,12 @@
         "Stimulating the macrophages shows that they can release IL-1 normally (positive control).",
         "Comparing infected and uninfected stimulated macrophages shows the inhibition caused by M. tuberculosis.",
         "So the inhibitory effect of M. tuberculosis on IL-1 release can be identified."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-075.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
       ]
     },
     {
@@ -4160,6 +5067,12 @@
         "After washing, a second enzyme-linked antibody binds to a different site on the IL-1 (sandwich).",
         "Adding the enzyme's substrate produces a coloured product only where the enzyme is bound.",
         "The intensity of colour is measured, showing the amount of IL-1 present."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-075.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
       ]
     },
     {
@@ -4179,12 +5092,20 @@
       ],
       "question": "Describe how optical methods (turbidity) can be used to compare the growth rates of mutant and unmutated M. tuberculosis populations.",
       "status": "ready",
-      "answer": "Measure the optical density of each culture at regular time intervals using a photometer, plot against time, and compare the slopes of the exponential phases.",
+      "answer": "Grow equal starting numbers of mutant and unmutated bacteria in identical broth; at regular time intervals measure the absorbance (turbidity) of samples in a colorimeter zeroed with sterile broth, where more cells absorb more light; then plot absorbance (or cell number from a calibration curve) against time and compare the gradients of the exponential phases.",
       "steps": [
-        "Inoculate equal numbers of mutant and unmutated bacteria into identical culture media.",
-        "Use a photometer to measure optical density of each culture at regular time intervals.",
-        "Plot optical density against time for both populations on the same axes.",
-        "Compare the gradients of the exponential phases; a steeper gradient means a faster growth rate."
+        "Inoculate equal numbers of mutant and unmutated bacteria into the same volume of identical sterile broth, kept at the same temperature.",
+        "Zero (calibrate) the colorimeter or spectrophotometer using a cuvette of sterile, uninoculated broth.",
+        "At regular time intervals remove a sample from each culture and measure its absorbance (or percentage transmission) of light.",
+        "The more bacterial cells there are, the more turbid the culture, so the higher the absorbance (less light transmitted).",
+        "Convert absorbance to cell number using a calibration curve if needed, and plot absorbance against time for both populations.",
+        "Compare the gradients of the exponential (log) phases: the steeper gradient shows the faster growth rate."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-075.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
       ]
     },
     {
@@ -4210,6 +5131,12 @@
         "A drug or antibody that blocks or neutralises the protein would stop this suppression.",
         "Macrophages could then be activated to destroy the bacteria.",
         "Blocking the protein would stop it suppressing macrophage activation."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-075.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
       ]
     },
     {
@@ -4230,7 +5157,12 @@
       "question": "How many of the organelles labelled in the fungal cell diagram have membranes (options A to D)?",
       "status": "pending",
       "answer": "The labelled fungal diagram is not in the text, so the number of membrane-bound organelles cannot be counted.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-078.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-079.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-080.jpg"
+      ]
     },
     {
       "id": "6AB-Q35a(ii)",
@@ -4256,6 +5188,11 @@
         "Fungal cell walls are made of chitin, not cellulose as in plants or peptidoglycan as in bacteria.",
         "Fungi lack chloroplasts, so they cannot photosynthesise like plants.",
         "Fungi digest food externally and absorb it, unlike animals which ingest food."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-078.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-079.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-080.jpg"
       ]
     },
     {
@@ -4276,7 +5213,12 @@
       "question": "Explain the relationship between the number of aminopenicillin prescriptions and the percentage of E. coli resistant to aminopenicillin, using the graph.",
       "status": "pending",
       "answer": "The graph of prescriptions and percentage resistance is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-078.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-079.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-080.jpg"
+      ]
     },
     {
       "id": "6AB-Q35c",
@@ -4296,7 +5238,12 @@
       "question": "Explain why the results of this survey are a cause for concern.",
       "status": "pending",
       "answer": "The survey diagram is not in the text, so the results cannot be checked.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-078.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-079.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-080.jpg"
+      ]
     },
     {
       "id": "6AB-Q36a",
@@ -4322,6 +5269,11 @@
         "Macrophages present the antigen to T helper cells, which activate B cells with complementary receptors (clonal selection).",
         "Activated B cells divide by mitosis and differentiate into plasma cells that secrete antibodies.",
         "Memory B and T cells are also formed, giving a faster response if the real pathogen infects later."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-080.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-081.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-082.jpg"
       ]
     },
     {
@@ -4342,7 +5294,12 @@
       "question": "Identify three conclusions from the results of the vaccine attitude survey, using the graph.",
       "status": "pending",
       "answer": "The survey graph is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-080.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-081.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-082.jpg"
+      ]
     },
     {
       "id": "6AB-Q36b(ii)",
@@ -4367,6 +5324,11 @@
         "Less access to reliable information can lead to doubts about vaccine safety.",
         "So attitudes towards vaccines vary across different income groups.",
         "This is one plausible reason, linked to the survey data on trust and income."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-080.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-081.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-082.jpg"
       ]
     },
     {
@@ -4393,6 +5355,11 @@
         "When most people are vaccinated, the pathogen cannot find enough susceptible hosts.",
         "Even non-vaccinated people are protected because the spread of infection is reduced (herd immunity).",
         "Herd immunity protects people who cannot be vaccinated."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-080.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-081.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-082.jpg"
       ]
     },
     {
@@ -4418,6 +5385,11 @@
         "Lambda phage is a bacteriophage that infects E. coli.",
         "Ebola and HIV infect animals and TMV infects plants.",
         "Lambda phage infects E. coli, so it is a bacteriophage."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-082.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-083.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-084.jpg"
       ]
     },
     {
@@ -4443,6 +5415,11 @@
         "Polar lysins cannot cross the hydrophobic bilayer, so they use the channel.",
         "They pass down their concentration gradient by facilitated diffusion, needing no ATP.",
         "Channels let lysins pass through without using energy."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-082.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-083.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-084.jpg"
       ]
     },
     {
@@ -4469,6 +5446,11 @@
         "The sequence determines which R groups are hydrophilic or hydrophobic.",
         "These amino acids fold by hydrogen, ionic and hydrophobic bonds into the tertiary structure.",
         "Hydrophobic parts face the lipid bilayer and hydrophilic parts line the central channel, giving it its properties."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-082.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-083.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-084.jpg"
       ]
     },
     {
@@ -4494,6 +5476,11 @@
         "With the wall weakened, the bacterial cell lyses under osmotic pressure.",
         "New viruses are released to infect other bacteria, completing the lytic cycle.",
         "Lysis of the host cell is the final step of the lytic cycle."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-082.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-083.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-084.jpg"
       ]
     },
     {
@@ -4514,7 +5501,11 @@
       "question": "For each structure (nucleic acid type, capsid arrangement, envelope, enzymes), put one cross in the appropriate box to show which viruses have that structure.",
       "status": "pending",
       "answer": "The table of viruses and structures is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-084.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-085.jpg"
+      ]
     },
     {
       "id": "6AB-Q38b(i)",
@@ -4537,6 +5528,10 @@
         "It is found in retroviruses such as HIV.",
         "This enzyme is used by retroviruses such as HIV.",
         "Its activity is why HIV can make DNA copies of its RNA genome."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-084.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-085.jpg"
       ]
     },
     {
@@ -4562,6 +5557,10 @@
         "Inhibiting it would stop DNA synthesis from RNA templates in the cancer cells.",
         "So the cancer cells would be unable to replicate, while normal cells are less affected.",
         "Cancer cells use this enzyme, so inhibiting it selectively targets them."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-084.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-085.jpg"
       ]
     },
     {
@@ -4587,6 +5586,11 @@
         "They could compete for nutrients or produce toxins that affect the bacteria under study.",
         "This would change the growth curve or counts and make results invalid.",
         "Aseptic technique keeps the culture pure so the results represent only the target species."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-085.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
       ]
     },
     {
@@ -4612,6 +5616,11 @@
         "This kills any microorganisms on the loop before it touches the culture.",
         "Letting the loop cool before use prevents it killing the bacteria being transferred.",
         "So only the target bacteria are transferred into the sterile medium."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-085.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
       ]
     },
     {
@@ -4632,7 +5641,12 @@
       "question": "Calculate the growth rate constant (k) of these bacteria between 2 and 6 hours of culture, using log10 counts from the graph.",
       "status": "pending",
       "answer": "Needs the bacterial counts at 2 and 6 hours read from the growth curve graph, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-085.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
+      ]
     },
     {
       "id": "6AB-Q39c(i)",
@@ -4657,6 +5671,11 @@
         "The result is about 63.1.",
         "So the ratio is 63.1 : 1.",
         "The ratio is given to one decimal place."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-085.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
       ]
     },
     {
@@ -4682,6 +5701,11 @@
         "Student Q's lower count fits dilution plating, which counts only living cells that form colonies.",
         "The difference in counts between the two students is due to the method, not the culture conditions.",
         "Using the right method for each count gives the correct interpretation."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-085.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
       ]
     },
     {
@@ -4707,6 +5731,11 @@
         "Mutated proto-oncogenes become oncogenes that stimulate excessive cell division.",
         "Loss of tumour suppressor function removes the checks on mitosis.",
         "The cell divides uncontrollably by mitosis and forms a tumour."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
       ]
     },
     {
@@ -4732,6 +5761,11 @@
         "Statement 2 is true: both Ebola and HIV have envelopes with envelope proteins.",
         "Statement 3 is true: HIV has an icosahedral (not helical) capsid, so option C is correct.",
         "Only statements 2 and 3 are true, so option C is correct."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
       ]
     },
     {
@@ -4757,6 +5791,11 @@
         "They fit complementary receptors on host cells.",
         "This binding allows the virus to attach and enter the cell.",
         "Envelope proteins are therefore essential for entry into host cells."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
       ]
     },
     {
@@ -4782,6 +5821,11 @@
         "Modification removes the harmful genes so the virus is safe to inject.",
         "The modified virus still infects and replicates in cancer cells, so it can kill them.",
         "Modification keeps the treatment safe for the patient."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
       ]
     },
     {
@@ -4807,6 +5851,11 @@
         "The lytic cycle is completed as the cell membrane is damaged and the cell bursts.",
         "The cancer cell dies and releases viruses and antigens that can infect nearby cancer cells.",
         "Lysis releases new viruses that infect more cancer cells."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
       ]
     },
     {
@@ -4833,6 +5882,11 @@
         "Macrophages engulf the antigens and present them on MHC class II to T helper cells.",
         "Activated T helper cells stimulate T killer cells and B cells to divide by clonal selection.",
         "T killer cells destroy cancer cells that display the antigens, and antibodies mark more cancer cells for phagocytosis."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
       ]
     },
     {
@@ -4853,7 +5907,13 @@
       "question": "For each statement in the table, tick whether it is true for artificial active or artificial passive immunity.",
       "status": "pending",
       "answer": "The table of statements and tick boxes is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-089.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
+      ]
     },
     {
       "id": "6AB-Q41b",
@@ -4878,6 +5938,12 @@
         "Activated T helper cells release cytokines that stimulate B cells with matching receptors.",
         "These B cells divide by clonal expansion and differentiate into plasma cells.",
         "Plasma cells secrete large amounts of antibody into the blood."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-089.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
       ]
     },
     {
@@ -4903,6 +5969,12 @@
         "Keep variables such as age, health and sex the same across groups.",
         "Use the same method and equipment for measuring antibody levels each time.",
         "These controls allow the effect of the vaccine to be isolated."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-089.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
       ]
     },
     {
@@ -4923,7 +5995,13 @@
       "question": "In group 1, Vac 2 increased antibody levels more than Vac 1. Calculate how many times greater this increase was.",
       "status": "pending",
       "answer": "Needs the antibody level values for Vac 1 and Vac 2 from the graph, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-089.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
+      ]
     },
     {
       "id": "6AB-Q41c(iii)",
@@ -4948,6 +6026,12 @@
         "Antibody levels before the first vaccine were therefore zero or below detection.",
         "So no data point was plotted for this time.",
         "No pre-vaccination data is therefore plotted for group 1."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-089.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
       ]
     },
     {
@@ -4969,7 +6053,13 @@
       "question": "Explain the results of this investigation (groups 1 and 2 after Vac 1 and Vac 2).",
       "status": "pending",
       "answer": "Needs the detailed graphs of antibody levels for both groups, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-089.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
+      ]
     },
     {
       "id": "6AB-Q42a",
@@ -4994,6 +6084,11 @@
         "Stomach acid kills bacteria that are swallowed.",
         "Antigens and interferon are not barriers; they are part of the immune response (options A, B and C are wrong).",
         "So option D (skin and stomach acid) is correct."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-092.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-093.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-094.jpg"
       ]
     },
     {
@@ -5014,7 +6109,12 @@
       "question": "Describe two conclusions about the different methods of washing hands, from the diagrams of microorganisms on the skin.",
       "status": "pending",
       "answer": "The diagrams of microorganisms after each washing method are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-092.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-093.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-094.jpg"
+      ]
     },
     {
       "id": "6AB-Q42b(ii)",
@@ -5034,7 +6134,12 @@
       "question": "Explain the differences in the effects that the methods of washing hands have on skin flora.",
       "status": "pending",
       "answer": "The diagrams showing differences between washing methods are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-092.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-093.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-094.jpg"
+      ]
     },
     {
       "id": "6AB-Q43a",
@@ -5059,6 +6164,11 @@
         "Without T helper cells, macrophages infected with M. tuberculosis are not activated to kill the bacteria.",
         "B cells and T killer cells are also not activated, so the immune response to TB is weak.",
         "TB bacteria survive and multiply unchecked, so the disease becomes more severe and spreads faster."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-094.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
       ]
     },
     {
@@ -5084,6 +6194,11 @@
         "Some infected people do not show symptoms or do not visit a clinic, so cases go unrecorded.",
         "Tests and reporting may not be consistent between countries.",
         "Estimates carry uncertainty, so the figures should be described as approximate."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-094.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
       ]
     },
     {
@@ -5109,6 +6224,11 @@
         "0.30 x 33 400 000 = 10 020 000.",
         "In standard form this is 1.0 x 10^7 (1.002 x 10^7).",
         "Standard form gives a compact way to express large numbers."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-094.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
       ]
     },
     {
@@ -5128,7 +6248,12 @@
       "question": "Comment on the relationship between the number of people who have TB and the percentage of people who have HIV, using the graph.",
       "status": "pending",
       "answer": "The scatter graph of TB cases against HIV percentage is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-094.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
+      ]
     },
     {
       "id": "6AB-Q43c(ii)",
@@ -5153,6 +6278,11 @@
         "Calculate a correlation coefficient, such as Pearson's r or Spearman's rank for non-parametric data.",
         "The value lies between -1 and +1; values close to +1 or -1 show a strong relationship.",
         "Use a significance test to check whether the correlation is unlikely to be due to chance."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-094.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
       ]
     },
     {
@@ -5178,6 +6308,11 @@
         "Percentage untreated = 46 / 120 x 100 = 38.3%.",
         "This is closest to 38, option A.",
         "Option A (38%) is correct."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
       ]
     },
     {
@@ -5203,6 +6338,11 @@
         "Dilution factor = 3200 / 6.25 = 512.",
         "So option C, 512, is correct.",
         "Option C (512) is correct."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
       ]
     },
     {
@@ -5223,7 +6363,12 @@
       "question": "Describe the conclusions that can be made about the effects of heavy metal ions on the survival of Vibrio, using the graph.",
       "status": "pending",
       "answer": "The graph of Vibrio survival against heavy metal concentration is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
+      ]
     },
     {
       "id": "6AB-Q44c(i)",
@@ -5248,6 +6393,11 @@
         "Antibiotics kill the sensitive bacteria, so resistant bacteria survive (natural selection).",
         "The resistant bacteria reproduce and pass resistance genes to their offspring.",
         "So treated ponds contain a higher percentage of resistant Vibrio."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
       ]
     },
     {
@@ -5272,6 +6422,11 @@
         "Bactericidal antibiotics cause the death of the bacteria.",
         "The difference is whether the bacteria are killed or only prevented from growing.",
         "This difference decides whether the antibiotic kills or only inhibits growth."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
       ]
     },
     {
@@ -5297,6 +6452,11 @@
         "Bacteriostatic antibiotics only stop growth, so the bacteria survive and grow once the drug is removed.",
         "Bactericidal antibiotics kill the bacteria, so no colonies grow on the fresh agar.",
         "So the regrowth shows which antibiotics were bacteriostatic."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
       ]
     },
     {
@@ -5317,7 +6477,12 @@
       "question": "What is the proportion of children under five in hospital who are under 6 months old?",
       "status": "pending",
       "answer": "The hospital data graph is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-099.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
+      ]
     },
     {
       "id": "6AB-Q45a(ii)",
@@ -5342,6 +6507,11 @@
         "The death numbers cover a very wide range (small numbers for some groups, large for others).",
         "So a logarithmic scale lets all values be seen clearly, so option B.",
         "A logarithmic scale is best for data covering a wide range of values."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-099.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
       ]
     },
     {
@@ -5367,6 +6537,11 @@
         "The vaccine stimulates antibodies and T cells against the shared antigens.",
         "Memory cells formed against these shared antigens recognise both subtypes.",
         "Shared antigens allow one vaccine to protect against several subtypes."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-099.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
       ]
     },
     {
@@ -5394,6 +6569,11 @@
         "IgG antibodies pass from the maternal blood into the fetal blood across the placenta, by receptor-mediated transfer into placental cells.",
         "The antibodies circulate in the baby's blood and bind RSV, giving immediate protection.",
         "This is natural passive immunity, because the antibodies were made by someone else and transferred naturally."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-099.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
       ]
     },
     {
@@ -5420,6 +6600,11 @@
         "Count babies needing medical attention for RSV in both groups over the same period.",
         "Calculate the percentage reduction in infections: (control rate - vaccine rate) / control rate x 100.",
         "Use a large sample and double-blinding so the result is valid."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-099.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
       ]
     },
     {
@@ -5445,6 +6630,12 @@
         "Smallest difference = smallest yeast diameter - largest bacterial diameter = 5000 nm - 1500 nm = 3500 nm.",
         "So the smallest difference is 3500 nm (3.5 um).",
         "The smallest difference uses the smallest yeast and largest bacterial diameters."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-101.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
       ]
     },
     {
@@ -5466,7 +6657,13 @@
       "question": "Put one cross in each row of the table to show whether these statements are true for the types of microorganisms shown.",
       "status": "pending",
       "answer": "The table of statements and tick boxes is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-101.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
+      ]
     },
     {
       "id": "6AB-Q46b(i)",
@@ -5486,7 +6683,13 @@
       "question": "Explain how to calculate the concentration of yeast cells per cm3 from the haemocytometer diagram, given the sample volume of 0.00625 (units as printed).",
       "status": "pending",
       "answer": "The number of cells counted in the diagram is not in the text, so the final concentration cannot be calculated.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-101.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
+      ]
     },
     {
       "id": "6AB-Q46b(ii)",
@@ -5511,6 +6714,12 @@
         "Draw a short lag phase with little increase in cell number.",
         "Draw a steep exponential (log) phase, then a plateau labelled stationary phase.",
         "Draw a falling line labelled death phase at the end."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-101.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
       ]
     },
     {
@@ -5536,6 +6745,12 @@
         "Take the number of cells at two points within this phase.",
         "Plot log10 (or ln) of cell number against time for this phase.",
         "The gradient of the straight line is the growth rate constant k."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-101.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
       ]
     },
     {
@@ -5561,6 +6776,11 @@
         "Without photosynthesis, the leaf cells lack glucose and energy and begin to die.",
         "The chemicals stimulate xylem to produce a sticky gum that blocks the xylem vessels.",
         "Blocked xylem stops water and minerals reaching the leaves, so more cells die and the whole plant eventually dies."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-104.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-105.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-106.jpg"
       ]
     },
     {
@@ -5586,6 +6806,11 @@
         "Prokaryotic DNA is not wound around histone proteins, whereas human DNA is associated with histones.",
         "Prokaryotic DNA lies in the cytoplasm (nucleoid) without a nuclear membrane, unlike human DNA in a nucleus.",
         "These differences reflect the simpler organisation of prokaryotic cells."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-104.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-105.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-106.jpg"
       ]
     },
     {
@@ -5611,6 +6836,11 @@
         "DNA gyrase is found in prokaryotic cells but not in human cells.",
         "Blocking supercoiling stops bacterial DNA function and cell processes, killing or inhibiting the pathogen.",
         "So albicidin can target human pathogens without harming the patient's cells."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-104.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-105.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-106.jpg"
       ]
     },
     {
@@ -5636,6 +6866,11 @@
         "New antibiotics with new modes of action are needed to treat infections that are resistant to current drugs.",
         "New antibiotics ensure infections can still be treated effectively.",
         "Without new drugs, resistant infections would become untreatable."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-104.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-105.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-106.jpg"
       ]
     },
     {
@@ -5661,6 +6896,10 @@
         "The vesicles travel to the Golgi apparatus, which modifies and packages the complex.",
         "Vesicles from the Golgi move to the cell surface membrane.",
         "The vesicle membrane fuses with the surface membrane, releasing the complex so it is displayed outside (exocytosis)."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-106.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-107.jpg"
       ]
     },
     {
@@ -5687,6 +6926,10 @@
         "3.7 angstroms / 10 = 0.37 nm.",
         "Converting angstroms to nanometres gives the resolution in nm.",
         "1 nm equals 10 angstroms."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-106.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-107.jpg"
       ]
     },
     {
@@ -5711,6 +6954,10 @@
         "Here two structures closer than 3.7 angstroms would appear as one.",
         "A smaller resolution value means a finer, more detailed image.",
         "Points closer than this distance would appear as one."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-106.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-107.jpg"
       ]
     },
     {
@@ -5736,6 +6983,10 @@
         "Infected cells display viral antigens bound to MHC class I molecules on their surface.",
         "T killer cells have receptors that bind this antigen-MHC complex, so they can recognise infected cells specifically.",
         "Without presentation, T killer cells cannot distinguish infected cells from healthy ones."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-106.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-107.jpg"
       ]
     },
     {
@@ -5761,6 +7012,10 @@
         "They release perforin, which makes pores in the infected cell membrane, or trigger apoptosis.",
         "The infected cell dies, so the virus inside cannot replicate further.",
         "Virus particles are cleared and memory cells are left for future protection, so the person recovers."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-106.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-107.jpg"
       ]
     },
     {
@@ -5786,6 +7041,12 @@
         "They kill bacteria or stop their growth.",
         "Antibiotics do not act on viruses.",
         "Antibiotics are therefore a subset of antimicrobial drugs that act only on bacteria."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-107.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
       ]
     },
     {
@@ -5810,6 +7071,12 @@
         "Percentage increase = 8.73 / 1.27 x 100 = 687%.",
         "So option C is correct.",
         "Option C (687%) is correct."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-107.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
       ]
     },
     {
@@ -5835,6 +7102,12 @@
         "Many deaths are already caused by resistant infections, and this number is predicted to rise.",
         "New drugs with different targets are needed to treat infections that current antibiotics cannot.",
         "New drugs must be developed faster than resistance evolves."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-107.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
       ]
     },
     {
@@ -5860,6 +7133,12 @@
         "This alters the membrane structure, making it more permeable.",
         "Antibiotics can then enter the bacterial cell more easily and reach their target.",
         "So a lower dose of antibiotic is enough to be effective."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-107.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
       ]
     },
     {
@@ -5880,7 +7159,13 @@
       "question": "Describe two conclusions about the effects of three antibiotics on the species richness of gut flora, from the graph.",
       "status": "pending",
       "answer": "The graph of species richness for the three antibiotics is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-107.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
+      ]
     },
     {
       "id": "6AB-Q49e(ii)",
@@ -5905,6 +7190,12 @@
         "So the effective dose of antibiotic C is lower than it would otherwise be.",
         "A lower dose causes less loss of gut flora species richness, keeping protective gut flora intact.",
         "Less antibiotic exposure also reduces the selection pressure for resistant bacteria."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-107.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
       ]
     },
     {
@@ -5925,7 +7216,15 @@
       "question": "Describe two conclusions about the distribution of cholera cases by age group and sex, from the diagram.",
       "status": "pending",
       "answer": "The diagram of cholera cases by age and sex is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-110.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-111.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-112.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
+      ]
     },
     {
       "id": "6AB-Q50b(i)",
@@ -5950,6 +7249,14 @@
         "Use powder from non-GM rice, or from GM rice without the subunit gene, so the placebo looks and tastes the same.",
         "Participants do not know which they receive, so the placebo controls for the effect of eating rice powder itself.",
         "The placebo is given in the same way and amount as the vaccine."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-110.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-111.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-112.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
       ]
     },
     {
@@ -5969,7 +7276,15 @@
       "question": "State why the scientists concluded that a dose of 6 g of rice powder vaccine was needed to stimulate an immune response.",
       "status": "pending",
       "answer": "Depends on the antibody concentration graph for each dose, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-110.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-111.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-112.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
+      ]
     },
     {
       "id": "6AB-Q50b(iii)",
@@ -5994,6 +7309,14 @@
         "Antibodies bind to a specific epitope, which has a particular shape.",
         "The shared epitope has the same shape, so the same antibodies bind to both toxins.",
         "Shared epitopes allow cross-reaction between different toxins."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-110.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-111.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-112.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
       ]
     },
     {
@@ -6014,7 +7337,15 @@
       "question": "Compare and contrast the gut flora of non-responders and responders to the vaccine, using the charts.",
       "status": "pending",
       "answer": "The charts of gut flora proportions for responders and non-responders are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-110.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-111.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-112.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
+      ]
     },
     {
       "id": "6AB-Q50b(v)",
@@ -6039,6 +7370,14 @@
         "The data show correlation only, so gut flora may be a result rather than the cause of non-response.",
         "Other factors, such as diet, genetics, age or existing health, were not controlled.",
         "Gut flora was sampled at one point in time, which may not represent long-term composition."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-110.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-111.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-112.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
       ]
     },
     {
@@ -6064,6 +7403,12 @@
         "Methane is released by livestock (for example cattle digestive systems) and by rice cultivation.",
         "These sources are human-caused (anthropogenic).",
         "CO2 comes from fossil fuels; methane comes from livestock or rice fields."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-115.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
       ]
     },
     {
@@ -6089,6 +7434,12 @@
         "The Earth re-emits energy as infrared (long-wavelength) radiation.",
         "Greenhouse gases absorb this infrared radiation and re-emit it in all directions, some back to the surface.",
         "This traps heat, so the mean global temperature rises as concentrations increase."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-115.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
       ]
     },
     {
@@ -6109,7 +7460,13 @@
       "question": "Predict the change in mean global temperature in 2050 from the graph of 1975 to 2023.",
       "status": "pending",
       "answer": "The temperature trend graph is not in the text, so the prediction cannot be read.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-115.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
+      ]
     },
     {
       "id": "6AB-Q51d(i)",
@@ -6134,6 +7491,12 @@
         "Ratio = 265 / 28 = 9.46.",
         "To two significant figures this is 9.5 : 1.",
         "The WP ratio is 9.5 : 1."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-115.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
       ]
     },
     {
@@ -6159,6 +7522,12 @@
         "Methane has a high warming potential but lasts only about 12 years, so reducing it gives rapid benefit.",
         "Nitrous oxide has a very high WP and lasts about 121 years, so reducing it also matters in the long term.",
         "Scientists must weigh short-term and long-term benefits when choosing which gases to target."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-115.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
       ]
     },
     {
@@ -6179,7 +7548,13 @@
       "question": "Explain how the graph of turbidity for the two methanotrophs can be used to compare their growth rates.",
       "status": "pending",
       "answer": "The growth curves for methanotrophs A and B are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-115.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
+      ]
     },
     {
       "id": "6AB-Q51e(ii)",
@@ -6204,6 +7579,12 @@
         "Below a minimum concentration, there is not enough methane to supply the energy needed for growth.",
         "So the methanotroph cannot grow at low methane concentrations.",
         "Methanotroph A cannot grow below this threshold concentration."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-115.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
       ]
     },
     {
@@ -6229,6 +7610,12 @@
         "If methanotroph B produces nitrous oxide or extra CO2, it could add to global warming.",
         "So the analysis checks whether it is a suitable method for reducing greenhouse gases.",
         "Checking gas output confirms the method does not add greenhouse gases."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-115.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
       ]
     },
     {
@@ -6257,6 +7644,11 @@
         "Offspring inherit the ERV in every cell, so it is passed through many generations in families.",
         "Over millions of years the ERV sequences accumulate mutations and remain as part of the genome.",
         "So ancient ERVs are found in human DNA today."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-118.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-119.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-120.jpg"
       ]
     },
     {
@@ -6282,6 +7674,11 @@
         "Histone proteins are modified so the chromatin is condensed (heterochromatin).",
         "Transcription factors and RNA polymerase cannot bind to the ERV gene.",
         "No mRNA is transcribed, so the viral envelope proteins are not synthesised."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-118.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-119.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-120.jpg"
       ]
     },
     {
@@ -6308,6 +7705,11 @@
         "Normal cells do not express these proteins, so they are specific to cancer cells.",
         "A vaccine containing these proteins as antigens stimulates B cells and T cells to respond.",
         "Memory cells and T killer cells are produced that recognise the protein on cancer cells and destroy them."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-118.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-119.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-120.jpg"
       ]
     },
     {
@@ -6333,6 +7735,12 @@
         "0.20 x 1 700 000 = 340 000 tonnes.",
         "In standard form: 3.4 x 10^5 tonnes.",
         "Therefore about 3.4 x 10^5 tonnes of rice are lost."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-120.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
       ]
     },
     {
@@ -6358,6 +7766,12 @@
         "Early identification lets farmers remove or isolate infected plants before the virus spreads.",
         "This limits the proportion of the harvest lost and protects the yield.",
         "Early action limits the spread of the virus and the yield loss."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-120.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
       ]
     },
     {
@@ -6383,6 +7797,12 @@
         "Plant pigments such as chlorophyll absorb strongly in the visible range, so changes show up here.",
         "Near-infrared is strongly reflected by healthy leaf structure, so changes are also detected.",
         "Visible and near-infrared wavelengths are reflected by leaf pigments and structure."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-120.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
       ]
     },
     {
@@ -6408,6 +7828,12 @@
         "This indicates reduced chlorophyll and changed pigment content in the leaf cells.",
         "Pigments absorb light at specific wavelengths, so less absorption and more reflection occur at those wavelengths.",
         "So the reflection spectra of infected and healthy leaves differ."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-120.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
       ]
     },
     {
@@ -6428,7 +7854,13 @@
       "question": "Discuss the extent to which the results shown in the graph could be useful to farmers in identifying infected plants.",
       "status": "pending",
       "answer": "Depends on the size of the differences shown in the reflectance graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-120.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
+      ]
     },
     {
       "id": "6AB-Q53c",
@@ -6454,6 +7886,12 @@
         "Random variation produced some plants with resistance alleles (for example, altered virus-binding proteins).",
         "Plants with resistance survived and reproduced, so the resistance alleles became more common (natural selection).",
         "Asian rice had no exposure to the virus, so it had no selection for resistance and is more susceptible."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-120.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
       ]
     },
     {
@@ -6477,6 +7915,11 @@
         "Pathogens include bacteria, viruses, fungi and protoctists.",
         "They cause disease by damaging cells or producing toxins.",
         "Pathogens can be bacteria, viruses, fungi or protoctists."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
       ]
     },
     {
@@ -6502,6 +7945,11 @@
         "They kill bacteria or inhibit their growth.",
         "They do not act on viruses.",
         "Antibiotics do not act on viruses."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
       ]
     },
     {
@@ -6521,7 +7969,12 @@
       "question": "State one conclusion about the effect of the control on the variety of bacteria in the gut flora.",
       "status": "pending",
       "answer": "The before and after diagrams of bacterial proportions for the control group are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
+      ]
     },
     {
       "id": "6AB-Q54c(ii)",
@@ -6540,7 +7993,12 @@
       "question": "Estimate the decrease in the proportion of bacteria type C in the group given the antibiotic.",
       "status": "pending",
       "answer": "The proportions of type C shown in the diagram are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
+      ]
     },
     {
       "id": "6AB-Q54c(iii)",
@@ -6565,6 +8023,11 @@
         "This reduces the variety and changes the proportions of the bacterial species present.",
         "Resistant bacteria are not killed, so they increase in proportion (no competition).",
         "The balance of gut flora is disrupted, which can reduce protection against pathogens."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
       ]
     },
     {
@@ -6590,6 +8053,10 @@
         "Artificial active immunity comes from vaccination; natural active from infection.",
         "Passive immunity (artificial or natural) involves antibodies received from elsewhere, not made by the person, so B and D are wrong.",
         "Option A is correct because both forms of active immunity produce antibodies."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-125.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-126.jpg"
       ]
     },
     {
@@ -6615,6 +8082,10 @@
         "A T killer cell has its own antigen, which a cancer-specific antibody does not bind.",
         "A single antibody with two binding sites can bind the cancer antigen and the T killer cell antigen at the same time.",
         "This brings the T killer cell and cancer cell together, so the T killer cell can destroy the cancer cell."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-125.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-126.jpg"
       ]
     },
     {
@@ -6635,7 +8106,11 @@
       "question": "Suggest how the scientists could make this single antibody, using the information in the diagram.",
       "status": "pending",
       "answer": "Depends on the diagrams of the two antibodies and their binding sites, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-125.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-126.jpg"
+      ]
     },
     {
       "id": "6AB-Q55b(iii)",
@@ -6660,6 +8135,10 @@
         "Its other binding site attaches to the T killer cell.",
         "This holds the T killer cell next to the cancer cell.",
         "The T killer cell then releases perforin or triggers apoptosis, destroying the cancer cell."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-125.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-126.jpg"
       ]
     },
     {
@@ -6685,6 +8164,13 @@
         "Pick a single colony from the nutrient agar plate using the loop.",
         "Dip the loop into the sterile liquid broth and swirl it to transfer the cells.",
         "Close the broth container and the agar plate immediately, working near a Bunsen flame."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-126.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-127.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
       ]
     },
     {
@@ -6710,6 +8196,13 @@
         "It keeps the cells suspended and evenly distributed in the medium.",
         "Mixing also keeps the temperature and nutrients uniform, so growth is consistent.",
         "Shaking therefore improves growth of the culture."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-126.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-127.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
       ]
     },
     {
@@ -6729,7 +8222,14 @@
       "question": "Which is the Rf value for beta-carotene in the chromatogram (options A to D: 0.75, 0.87, 1.16, 1.33)?",
       "status": "pending",
       "answer": "The chromatogram with the spot and solvent front distances is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-126.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-127.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
+      ]
     },
     {
       "id": "6AB-Q56b(ii)",
@@ -6754,6 +8254,13 @@
         "Rf = distance moved by spot / distance moved by solvent front, which is the same for the same substance and conditions.",
         "The Rf of the unknown spot is compared with the Rf of a known beta-carotene standard.",
         "A match identifies beta-carotene."
+      ],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-126.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-127.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
       ]
     },
     {
@@ -6774,7 +8281,14 @@
       "question": "Describe three conclusions from the graphs of the effects of pH and temperature on beta-carotene production by C. parietis.",
       "status": "pending",
       "answer": "The graphs of pH and temperature effects are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-126.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-127.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
+      ]
     },
     {
       "id": "6AB-Q56d",
@@ -6794,7 +8308,14 @@
       "question": "Explain the changes in the mass of beta-carotene produced by this culture, using the graph of beta-carotene mass and bacterial numbers.",
       "status": "pending",
       "answer": "The graph of beta-carotene mass and bacterial numbers is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/06AB-Microbiology-Immunity-126.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-127.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
+        "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
+      ]
     }
   ]
 }

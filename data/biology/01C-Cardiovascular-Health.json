@@ -25,6 +25,11 @@
         "So the ratio of glycerol to fatty acid is 1:3.",
         "Option B is therefore correct.",
         "A triglyceride has one glycerol and three fatty acids, so the ratio is 1:3."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
       ]
     },
     {
@@ -43,7 +48,12 @@
       "question": "Which diagram shows the bond joining a glycerol molecule to a fatty acid in a triglyceride?",
       "status": "pending",
       "answer": "Pending: the diagram options (labelled bonds) are not in the text. The bond is an ester bond.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
+      ]
     },
     {
       "id": "1C-Q1a(iii)",
@@ -62,7 +72,12 @@
       "question": "Using the table of four fatty acids, explain which would have the lowest risk of causing CVD if included in a diet in equal masses.",
       "status": "pending",
       "answer": "Pending: the table of the four fatty acids is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
+      ]
     },
     {
       "id": "1C-Q1b(i)",
@@ -86,6 +101,11 @@
         "The drug binds to the active site, so the enzyme cannot bind its substrate (competitive inhibition).",
         "Without active thrombin, fibrinogen is not converted into fibrin.",
         "Fewer fibrin threads means fewer blood cells are trapped, so clotting is reduced."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
       ]
     },
     {
@@ -110,6 +130,11 @@
         "The antiplatelet drug binds to or blocks these surface molecules.",
         "Platelets can no longer link to each other and to the damaged wall.",
         "Fewer platelets aggregate, so a clot forms more slowly or not at all."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
       ]
     },
     {
@@ -134,6 +159,11 @@
         "The thrombolytic drug converts plasminogen into active plasmin.",
         "Plasmin breaks down the fibrin mesh of an existing clot.",
         "Breaking down the clot restores blood flow and reduces the chance of a clot blocking a vessel."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
       ]
     },
     {
@@ -158,6 +188,11 @@
         "Antioxidants donate electrons to free radicals, making them harmless.",
         "This stops LDL cholesterol being oxidised, since oxidised LDL is taken up by macrophages.",
         "Less oxidised LDL means less atheroma forms and the endothelium is less damaged, lowering CVD risk."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-03.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-04.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-05.jpg"
       ]
     },
     {
@@ -176,7 +211,12 @@
       "question": "Explain whether eating dark chocolate is likely to reduce CVD risk more than milk chocolate, using the table.",
       "status": "pending",
       "answer": "Pending: the table comparing dark and milk chocolate is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-03.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-04.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-05.jpg"
+      ]
     },
     {
       "id": "1C-Q2b(ii)",
@@ -200,6 +240,11 @@
         "Cocoa mass is the cocoa solids part of chocolate, so it contains the most flavonoids.",
         "Milk fat, sugar and whole milk powder contain little or no flavonoid, so A is correct.",
         "Milk fat, sugar and whole milk powder are not sources of flavonoids."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-03.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-04.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-05.jpg"
       ]
     },
     {
@@ -225,6 +270,11 @@
         "Control variables such as age, diet, exercise and smoking so that only chocolate varies.",
         "Measure CVD risk markers (blood pressure, cholesterol, endothelial function) at the start and at intervals.",
         "Repeat or use a double-blind design so participants and researchers do not know the group, improving validity and reliability."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-03.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-04.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-05.jpg"
       ]
     },
     {
@@ -243,7 +293,11 @@
       "question": "Describe the conclusions that can be made about the risk factors for CVD, using the graph of relative risk for non-smokers and smokers.",
       "status": "pending",
       "answer": "Pending: the relative risk graph for non-smokers and smokers is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-05.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-06.jpg"
+      ]
     },
     {
       "id": "1C-Q3a(ii)",
@@ -262,7 +316,11 @@
       "question": "The graph data were collected more than 25 years ago. Explain how the graph might appear if it showed data collected last year.",
       "status": "pending",
       "answer": "Pending: the original relative risk graph is not in the text, so the expected change cannot be compared with it.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-05.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-06.jpg"
+      ]
     },
     {
       "id": "1C-Q3b",
@@ -285,6 +343,10 @@
         "17.7 / 0.31 = 57.1 (million).",
         "So total deaths = 57.1 x 10^6, which is option C.",
         "This is a percentage problem: total = part / fraction."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-05.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-06.jpg"
       ]
     },
     {
@@ -307,6 +369,11 @@
         "Anticoagulants and platelet inhibitors reduce clotting, and statins lower cholesterol.",
         "So the answer is B.",
         "Antihypertensives lower blood pressure by relaxing blood vessels or reducing heart output."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-06.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
       ]
     },
     {
@@ -330,6 +397,11 @@
         "HDL carries cholesterol back to the liver, so high HDL is protective.",
         "The calculator therefore uses both values, usually as the ratio of total to HDL cholesterol.",
         "A high ratio means higher risk of coronary heart disease."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-06.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
       ]
     },
     {
@@ -354,6 +426,11 @@
         "Damage encourages LDL to deposit and atheroma to form.",
         "Smoking raises blood pressure and makes platelets stick together more easily, increasing clotting.",
         "It also lowers HDL, so cholesterol is removed less efficiently, so the 10 year CHD risk rises."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-06.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
       ]
     },
     {
@@ -377,6 +454,11 @@
         "Family history of CHD (genetic predisposition) is a known risk factor.",
         "Including it would make the estimate of risk more accurate for the individual.",
         "Family history is a non-lifestyle factor that the calculator can include."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-06.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
       ]
     },
     {
@@ -400,6 +482,11 @@
         "Adding a risk factor that increases risk raises the calculated value.",
         "So the calculated 10 year risk would be higher.",
         "A higher risk factor raises the calculated 10 year risk."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-06.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
       ]
     },
     {
@@ -415,14 +502,20 @@
         "CHD",
         "accuracy"
       ],
-      "question": "Explain why the value obtained for the 10 Year CHD Risk may be an underestimate.",
+      "question": "A person used a coronary heart disease (CHD) risk calculator that asks for sex, ethnicity, age, total cholesterol, HDL cholesterol, systolic blood pressure, blood pressure medication, diabetes and smoking. Explain why the value obtained for the 10 Year CHD Risk may be an underestimate.",
       "status": "ready",
-      "answer": "The calculator does not include every risk factor (such as family history, diabetes or stress), so the estimate omits some sources of risk and underestimates it.",
+      "answer": "The result depends on what the person enters: they may give inaccurate or out-of-date values (e.g. not know their current cholesterol or blood pressure, or not admit to smoking), and the calculator leaves out other risk factors such as family history, obesity/BMI, physical inactivity, diet, alcohol or stress, so their true risk may be higher.",
       "steps": [
-        "The calculator uses only a set of risk factors that the model includes.",
-        "Other known risk factors, such as family history or diabetes, are not included.",
-        "Leaving these out means the calculated risk is lower than the true risk.",
-        "So the value may underestimate the person's real risk."
+        "The calculator only uses the information the person enters, so the result is only as accurate as that data.",
+        "The person may not know their current cholesterol or blood pressure, or may enter old values that have since risen.",
+        "They may not be honest, for example not ticking 'smokes', which lowers the calculated risk.",
+        "The calculator does not include other risk factors such as family history of CHD, obesity/BMI, lack of exercise, a high-fat or high-salt diet, alcohol intake or stress (diabetes is already included).",
+        "If the person has any of these, their true risk is higher than the value calculated, so it is an underestimate."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-06.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
       ]
     },
     {
@@ -446,6 +539,11 @@
         "Waist-to-hip ratio compares waist and hip measurements to show fat distribution.",
         "Skinfold thickness and body fat percentage also indicate the amount of body fat.",
         "Obesity indicators help assess the risk of CVD linked to obesity."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
       ]
     },
     {
@@ -469,6 +567,11 @@
         "The main chain is joined by 1-4 bonds, and branches are joined by 1-6 glycosidic bonds.",
         "The question asks for the bonds that cause branching, so the answer is B.",
         "The 1-4 bonds form the linear backbone, so the branching bonds must be 1-6."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
       ]
     },
     {
@@ -493,6 +596,11 @@
         "The swollen gel fills the stomach and takes up space.",
         "Stretch receptors in the stomach signal fullness to the brain.",
         "The person eats less, so energy intake falls and weight is lost."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
       ]
     },
     {
@@ -517,6 +625,11 @@
         "If digested, it is hydrolysed into monosaccharides, which are absorbed into the blood.",
         "The glucose released provides energy from respiration.",
         "Energy not used is stored as glycogen or converted to fat, so the person gains weight."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
       ]
     },
     {
@@ -535,7 +648,12 @@
       "question": "Determine the extent to which the study on a low-fat and a very low-carbohydrate diet supports the claim that low-carbohydrate diets cause two to three times as much weight loss.",
       "status": "pending",
       "answer": "Pending: the table of weight loss results for the two diet groups is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
+      ]
     },
     {
       "id": "1C-Q5c(ii)",
@@ -558,6 +676,11 @@
         "Blood cholesterol (LDL and HDL) is a key cardiovascular risk factor to monitor.",
         "Blood pressure is also a cardiovascular risk factor that should be measured.",
         "Monitoring these factors shows whether the diet has harmful effects."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
       ]
     },
     {
@@ -576,7 +699,12 @@
       "question": "State two conclusions from the graph of the increased risk of death related to a high-salt diet.",
       "status": "pending",
       "answer": "Pending: the hazard ratio graph is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-11.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
+      ]
     },
     {
       "id": "1C-Q6b(i)",
@@ -599,6 +727,11 @@
         "If they differ between salt groups they could cause a false link with salt intake.",
         "Adjusting for them removes their effect from the hazard ratio.",
         "So the hazard ratio shows the effect of salt intake alone, making the result more valid."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-11.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
       ]
     },
     {
@@ -623,6 +756,11 @@
         "Body mass index (obesity) increases the risk of many diseases.",
         "Physical activity level and alcohol intake also affect mortality.",
         "Factors such as physical activity and BMI can influence death rates and are adjusted for."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-11.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
       ]
     },
     {
@@ -646,6 +784,11 @@
         "The low salt intake group is used as the baseline comparison.",
         "The risk of a group compared with itself is 1, so the ratio is 1.00 by definition.",
         "A reference group makes the other hazard ratios easy to interpret."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-11.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
       ]
     },
     {
@@ -669,6 +812,11 @@
         "It can be positive (both increase) or negative (one increases as the other decreases).",
         "Correlation does not show cause and effect.",
         "Correlation shows association, not causation."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-11.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
       ]
     },
     {
@@ -692,6 +840,11 @@
         "Other factors (confounding variables) such as exercise or income may affect the results.",
         "Participants may not report their salt intake accurately, so the data are less reliable.",
         "Correlation studies cannot exclude other factors, so causal conclusions are unreliable."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-11.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
       ]
     },
     {
@@ -710,7 +863,12 @@
       "question": "Calculate the waist size of female K from the table of measurements.",
       "status": "pending",
       "answer": "Pending: the table of measurements for females J and K is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-13.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
+      ]
     },
     {
       "id": "1C-Q7a(ii)",
@@ -729,7 +887,12 @@
       "question": "Using the BMI formula and the data in the table, calculate the mass of female K.",
       "status": "pending",
       "answer": "Pending: the BMI formula image and the height and BMI values in the table are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-13.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
+      ]
     },
     {
       "id": "1C-Q7a(iii)",
@@ -747,7 +910,12 @@
       "question": "Comment on the risk of developing CVD in the two women, using the measurements in the table.",
       "status": "pending",
       "answer": "Pending: the measurement values for females J and K are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-13.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
+      ]
     },
     {
       "id": "1C-Q7a(iv)",
@@ -770,6 +938,11 @@
         "If the tape is pulled too tight it compresses the soft tissue, giving a smaller waist reading.",
         "If the tape is not horizontal or is at the wrong level, the measurement is not the standard one.",
         "A smaller waist value gives a lower ratio, so the CVD risk is underestimated."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-13.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
       ]
     },
     {
@@ -793,6 +966,11 @@
         "Hormones and genetics affect where fat is deposited, for example differently in women than men.",
         "The thickness of skin and underlying muscle differs between sites.",
         "So the skinfold readings vary at each site even when the measurement is taken correctly."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-13.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
       ]
     },
     {
@@ -811,7 +989,12 @@
       "question": "Using the body fat interpretation chart and the mean of the four skinfold thickness measurements, determine the level of body fat of this female.",
       "status": "pending",
       "answer": "Pending: the body fat interpretation chart and the four skinfold values are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-13.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
+      ]
     },
     {
       "id": "1C-Q8a",
@@ -835,6 +1018,11 @@
         "This reduces blood flow, so less oxygen and glucose reach the heart muscle.",
         "A stent is expanded inside the artery to hold it open against the plaque.",
         "The restored blood flow reduces the risk of angina or a heart attack."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
       ]
     },
     {
@@ -853,7 +1041,12 @@
       "question": "800 patients had stent A and 400 had stent B. Calculate the difference in the number of patients who developed stent thrombosis three years after insertion, using the graph.",
       "status": "pending",
       "answer": "Pending: the incidence values from the stent thrombosis graph are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
+      ]
     },
     {
       "id": "1C-Q8b(ii)",
@@ -876,6 +1069,11 @@
         "Heart muscle cells are deprived of oxygen and cannot respire aerobically.",
         "The muscle cells die (myocardial infarction), and the heart cannot pump effectively, causing death.",
         "Clots can also cause arrhythmias or cardiac arrest, which can be fatal."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
       ]
     },
     {
@@ -899,6 +1097,11 @@
         "Thromboplastin is an active enzyme that converts prothrombin to thrombin.",
         "Prothrombin is an inactive precursor, so it is excluded.",
         "The answer is D."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
       ]
     },
     {
@@ -921,6 +1124,11 @@
         "Fibrin is insoluble, so options A and B are wrong.",
         "Thromboplastin is stored in platelets and is not dissolved in plasma, so option C is wrong.",
         "The answer is D."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
       ]
     },
     {
@@ -945,6 +1153,11 @@
         "An anticoagulant such as heparin reduces thrombin activity and fibrin formation.",
         "An antiplatelet drug such as aspirin stops platelets sticking together.",
         "Such drugs are used to prevent clots forming on stents or in arteries."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
       ]
     },
     {
@@ -964,7 +1177,13 @@
       "question": "Explain why a man with a blood HDL level above 40 mg dm-3 may still have a high risk of heart disease, using the graph of HDL and LDL levels and own knowledge.",
       "status": "pending",
       "answer": "Pending: the graph of heart disease risk against HDL and LDL levels is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-18.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-19.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-20.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-21.jpg"
+      ]
     },
     {
       "id": "1C-Q9b(i)",
@@ -982,7 +1201,13 @@
       "question": "Compare and contrast the structure of HDL with altered HDL, shown in the diagrams.",
       "status": "pending",
       "answer": "Pending: the diagrams of HDL in low and high cholesterol blood are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-18.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-19.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-20.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-21.jpg"
+      ]
     },
     {
       "id": "1C-Q9b(ii)",
@@ -1005,6 +1230,12 @@
         "With reduced antioxidant action, LDL is oxidised more easily.",
         "Oxidised LDL is taken up by macrophages and builds up as atheroma in artery walls.",
         "This narrows the arteries and raises the risk of heart disease, so HDL is less able to lower risk."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-18.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-19.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-20.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-21.jpg"
       ]
     },
     {
@@ -1029,6 +1260,13 @@
         "A non-lifestyle risk factor is one a person cannot change, such as age, sex or family history.",
         "Either a correct lifestyle factor and a correct non-lifestyle factor completes the diagram.",
         "Lifestyle factors can be changed; non-lifestyle factors cannot."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-21.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-22.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-23.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-24.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-25.jpg"
       ]
     },
     {
@@ -1047,7 +1285,14 @@
       "question": "Describe the conclusions that can be made from the graph showing the effect of exercise on the relative risk of death from CVD.",
       "status": "pending",
       "answer": "Pending: the exercise and relative risk graph is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-21.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-22.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-23.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-24.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-25.jpg"
+      ]
     },
     {
       "id": "1C-Q10c(i)",
@@ -1071,6 +1316,13 @@
         "Antioxidants donate electrons to free radicals, making them harmless.",
         "This prevents LDL cholesterol being oxidised, so less oxidised LDL is taken up by macrophages.",
         "Less atheroma forms and the endothelium is less damaged, so CVD risk falls."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-21.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-22.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-23.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-24.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-25.jpg"
       ]
     },
     {
@@ -1094,6 +1346,13 @@
         "Make the trial double-blind so neither participants nor researchers know the group.",
         "Control variables such as diet, age, smoking and exercise.",
         "Measure CVD events or markers (LDL oxidation, blood pressure) over a long period and compare the groups."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-21.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-22.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-23.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-24.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-25.jpg"
       ]
     },
     {
@@ -1119,6 +1378,13 @@
         "Anaerobic respiration gives only a little ATP and lactic acid builds up, which lowers pH.",
         "Without enough ATP the muscle cannot contract, so the heart stops contracting by 8 minutes.",
         "After about 20 minutes the cells lack energy and begin to die, causing permanent damage to the heart muscle."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-21.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-22.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-23.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-24.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-25.jpg"
       ]
     },
     {
@@ -1142,6 +1408,11 @@
         "Statement 2 is correct: thromboplastin is an active enzyme that converts prothrombin to thrombin.",
         "Statement 3 is wrong: thromboplastin is not converted into thrombin; prothrombin is converted into thrombin.",
         "Two statements are correct, so the answer is C."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-25.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-26.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-27.jpg"
       ]
     },
     {
@@ -1161,7 +1432,12 @@
       "question": "Deduce a safe range for the INR level, using the graph of INR against the risk of stroke and the risk of bleeding within the skull.",
       "status": "pending",
       "answer": "Pending: the graph of INR against stroke and bleeding risk is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-25.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-26.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-27.jpg"
+      ]
     },
     {
       "id": "1C-Q11c",
@@ -1186,6 +1462,11 @@
         "With less prothrombin, less thrombin is made, so less fibrin forms.",
         "Fewer clots form in coronary or cerebral arteries, so blood flow is less likely to be blocked.",
         "Lower clotting reduces the risk of heart attack and stroke, which are forms of CVD."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-25.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-26.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-27.jpg"
       ]
     },
     {
@@ -1209,6 +1490,11 @@
         "83.3 / 100 = 0.833.",
         "0.833 x 1216 = 1012.9, which is about 1013 people.",
         "The number of people must be a whole number, so round the answer."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-25.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-26.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-27.jpg"
       ]
     },
     {
@@ -1233,6 +1519,11 @@
         "Randomly assign them to warfarin alone, aspirin alone or the combination, so groups are comparable.",
         "Use the same dose and length of follow-up (four years) and record the same outcomes for each group.",
         "Use a double-blind design where possible and control other factors, so only the drug treatment varies between groups."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-25.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-26.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-27.jpg"
       ]
     },
     {
@@ -1250,7 +1541,12 @@
       "question": "Which row of the table identifies one lifestyle factor and one non-lifestyle factor?",
       "status": "pending",
       "answer": "Pending: the table with the rows of factors is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-27.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-28.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-29.jpg"
+      ]
     },
     {
       "id": "1C-Q12a(ii)",
@@ -1274,6 +1570,11 @@
         "Antihypertensives lower blood pressure, statins lower blood cholesterol, and anticoagulants or platelet inhibitors reduce clotting.",
         "A person may have more than one risk factor, so more than one drug is needed.",
         "Each drug treats a different cause, so combined treatment reduces risk more effectively."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-27.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-28.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-29.jpg"
       ]
     },
     {
@@ -1297,6 +1598,11 @@
         "Antioxidants donate electrons to neutralise free radicals.",
         "This prevents LDL cholesterol being oxidised, so it is less likely to be taken up and form atheroma.",
         "Antioxidants stop the chain reactions that oxidise LDL."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-27.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-28.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-29.jpg"
       ]
     },
     {
@@ -1320,6 +1626,11 @@
         "The results may show association but cannot prove that antioxidants caused the change.",
         "Participants' diets may be recorded inaccurately, so the data are less reliable.",
         "So the conclusion that antioxidants reduce CVD risk must be treated with caution."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-27.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-28.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-29.jpg"
       ]
     },
     {
@@ -1344,6 +1655,11 @@
         "Lower LDL means less cholesterol is deposited in artery walls, so less atheroma forms.",
         "Reducing salt intake lowers blood pressure, which reduces strain on the arteries and heart.",
         "Lower blood pressure and cholesterol together reduce the risk of CVD."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-27.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-28.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-29.jpg"
       ]
     },
     {
@@ -1362,7 +1678,14 @@
       "question": "Describe two conclusions that can be drawn from the study comparing perceived risk with actual risk of CVD.",
       "status": "pending",
       "answer": "Pending: the graph of perceived against actual risk is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-29.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-30.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
+      ]
     },
     {
       "id": "1C-Q13a(ii)",
@@ -1386,6 +1709,13 @@
         "Ask every participant the same questions in the same way to measure perceived risk.",
         "Measure actual risk with standard tests (blood pressure, cholesterol, smoking status) on the same people.",
         "Compare the two measures in the same individuals, using the same criteria, to allow valid comparison."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-29.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-30.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
       ]
     },
     {
@@ -1409,6 +1739,13 @@
         "Without changes, the risk of CVD stays high and they may not take preventive drugs.",
         "If a person overestimates their risk, they may cause themselves stress or take unnecessary treatment.",
         "An accurate perception lets people make sensible choices and get the right treatment."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-29.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-30.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
       ]
     },
     {
@@ -1428,7 +1765,14 @@
       "question": "Calculate the 10-year risk of CVD for a 35-year-old woman with total cholesterol 242 mg dm-3, who is a smoker, and systolic blood pressure 132 mm Hg, using the Framingham point tables.",
       "status": "pending",
       "answer": "Pending: the point score tables (Table 1 and Table 2) are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-29.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-30.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
+      ]
     },
     {
       "id": "1C-Q13b(ii)",
@@ -1447,7 +1791,14 @@
       "question": "Explain the lifestyle changes this woman could make to reduce her 10-year risk of CVD, using the information in the table.",
       "status": "pending",
       "answer": "Pending: the points table that the answer should use is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-29.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-30.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
+      ]
     },
     {
       "id": "1C-Q13b(iii)",
@@ -1470,6 +1821,13 @@
         "She has high total cholesterol (242 mg dm-3), which is treated with statins.",
         "Anticoagulants and platelet inhibitors treat clotting rather than the two main risk factors shown, so D is the best answer.",
         "Antihypertensives treat blood pressure and statins lower cholesterol."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-29.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-30.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
       ]
     },
     {
@@ -1494,6 +1852,13 @@
         "Important risk factors such as family history, diabetes, and stress are not included.",
         "The points are based on population data, which may not match an individual.",
         "Self-reported information may also be inaccurate, so the estimate may be wrong."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-29.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-30.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
       ]
     },
     {
@@ -1512,7 +1877,12 @@
       "question": "Which row in the table describes the cholesterol content and antioxidant content of the Portfolio diet?",
       "status": "pending",
       "answer": "Pending: the table of cholesterol and antioxidant content is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
+      ]
     },
     {
       "id": "1C-Q14a(ii)",
@@ -1535,6 +1905,11 @@
         "Reducing salt intake lowers blood pressure.",
         "Reducing saturated fat lowers LDL cholesterol.",
         "These dietary factors are established risk factors for CVD."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
       ]
     },
     {
@@ -1558,6 +1933,11 @@
         "Without it, lifestyle factors (such as smoking or exercise) that affect CVD cannot be controlled.",
         "Removing them keeps the groups comparable and the results valid.",
         "Missing data would bias the results."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
       ]
     },
     {
@@ -1582,6 +1962,11 @@
         "Portion sizes are difficult to estimate accurately.",
         "People may under-report intake, for example to avoid judgement or because they want to appear healthy.",
         "Reasons include forgetting, misjudging portion sizes, and wanting to appear healthier."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
       ]
     },
     {
@@ -1605,6 +1990,11 @@
         "Women who already have CVD have a different starting risk, so they cannot show a new effect.",
         "Including them would make the results less valid for the population at risk.",
         "So they are removed to keep the study focused on those at risk of developing CVD."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
       ]
     },
     {
@@ -1623,7 +2013,12 @@
       "question": "Calculate the percentage of all the women removed from this investigation, using the numbers in the diagram of the study.",
       "status": "pending",
       "answer": "Pending: the numbers removed at each stage are shown in the diagram, which is not in the text. (Initial 161 808 minus selected 123 330 gives 38 478, which is about 23.8 % of the initial group, if this is the full removal.)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
+      ]
     },
     {
       "id": "1C-Q14c",
@@ -1646,6 +2041,11 @@
         "High LDL cholesterol leads to more cholesterol being deposited in artery walls.",
         "This forms atheroma, which narrows arteries and can cause blockages.",
         "A diet low in saturated fat keeps LDL low, so the atheroma and CVD risk are reduced."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
       ]
     },
     {
@@ -1664,7 +2064,12 @@
       "question": "How many of the risk factors listed in the table are not influenced by lifestyle? Options: A 1, B 2, C 3, D 4.",
       "status": "pending",
       "answer": "Pending: the table of risk factors for RAC-1 and RAC-2 is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-35.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
+      ]
     },
     {
       "id": "1C-Q15b",
@@ -1690,6 +2095,11 @@
         "Important factors such as family history, ethnicity, diabetes, diet and stress are often not included.",
         "Including more factors would make the estimate more accurate, and a doctor should consider them in a full assessment.",
         "So the calculators are a useful screening tool but should be used alongside clinical judgement."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-35.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
       ]
     },
     {
@@ -1713,6 +2123,11 @@
         "People may under-report unhealthy habits such as smoking, drinking or poor diet.",
         "The calculator uses the entered values, so incorrect inputs give a lower risk score.",
         "The 10-year risk is therefore underestimated."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-35.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
       ]
     },
     {
@@ -1736,6 +2151,11 @@
         "They may not be accurate for different ages, sexes or ethnic groups.",
         "People who already have CVD or diabetes may need different assessment.",
         "So the results may be misleading for those people."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-35.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
       ]
     },
     {
@@ -1759,6 +2179,11 @@
         "A 10-year period is long enough to show meaningful risk but short enough to be useful.",
         "Doctors can use this to decide whether preventive treatment, such as statins or antihypertensives, is needed.",
         "The timescale matches how risk builds up over years."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-35.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
       ]
     },
     {
@@ -1782,6 +2207,11 @@
         "17.9 / 0.31 = 57.74, so total deaths = 57.74 million.",
         "In standard form this is 5.77 x 10^7.",
         "Check: 57.7 million x 0.31 is about 17.9 million."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-38.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-39.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-40.jpg"
       ]
     },
     {
@@ -1806,6 +2236,11 @@
         "A trend line or statistical model is fitted to these data.",
         "The trend is extended (extrapolated) to 2030.",
         "Population growth and ageing are included in the model to predict the future number of deaths."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-38.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-39.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-40.jpg"
       ]
     },
     {
@@ -1830,6 +2265,11 @@
         "This prevents oxidation of LDL cholesterol.",
         "Oxidised LDL is less likely to build up as atheroma in artery walls.",
         "Less atheroma and less endothelial damage reduce the risk of CVD."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-38.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-39.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-40.jpg"
       ]
     },
     {
@@ -1853,6 +2293,11 @@
         "It contains antioxidants that are known to be beneficial for the heart.",
         "So eating it is low risk even before its effect is fully proven.",
         "Eating ginger is low risk, so it can be included before its effectiveness is fully known."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-38.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-39.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-40.jpg"
       ]
     },
     {
@@ -1880,6 +2325,11 @@
         "Control variables such as diet, age, smoking and exercise, and use the same dose and duration for all.",
         "Measure CVD markers (blood pressure, LDL cholesterol, endothelial function) at the start and repeatedly, using standard methods so the results are repeatable.",
         "Use statistical analysis to compare the two groups."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-38.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-39.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-40.jpg"
       ]
     },
     {
@@ -1898,7 +2348,13 @@
       "question": "Calculate the percentage increase in the thickness of the artery wall where the plaque is located, measured along the line X-Y on the photograph.",
       "status": "pending",
       "answer": "Pending: the photograph of the artery section with the X-Y measurements is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-40.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-41.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-42.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-43.jpg"
+      ]
     },
     {
       "id": "1C-Q17b",
@@ -1923,6 +2379,12 @@
         "Less blood flows through, so less oxygen and glucose reach the heart muscle, causing angina during exertion.",
         "Plaques can rupture, releasing material that triggers a blood clot (thrombus).",
         "A clot can completely block the coronary artery, so heart muscle cells die (heart attack), leaving scar tissue and reducing pumping ability."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-40.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-41.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-42.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-43.jpg"
       ]
     },
     {
@@ -1943,7 +2405,13 @@
       "question": "Assess the contribution of the lipoproteins LDL and HDL to the risk of developing CVD, using Graph 1 (total cholesterol and death risk) and Graph 2 (LDL size and ratio of total cholesterol to HDL).",
       "status": "pending",
       "answer": "Pending: Graph 1 and Graph 2 are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-40.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-41.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-42.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-43.jpg"
+      ]
     },
     {
       "id": "1C-Q18a",
@@ -1967,6 +2435,11 @@
         "Contrast: a saturated fatty acid has only single C-C bonds, so its chain is straight.",
         "Contrast: an unsaturated fatty acid has one or more C=C double bonds, which put kinks in the chain.",
         "The kinks stop unsaturated fatty acids packing tightly, so they are liquid at room temperature."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-43.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-44.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-45.jpg"
       ]
     },
     {
@@ -1990,6 +2463,11 @@
         "41 701 / 68 786 = 0.606, so the ratio is about 0.6 : 1.",
         "This matches option A.",
         "Check: 0.6 x 68 786 is close to 41 701."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-43.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-44.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-45.jpg"
       ]
     },
     {
@@ -2017,6 +2495,11 @@
         "Use closed questions with set portion sizes to make answers comparable and reduce recall error.",
         "Repeat the questionnaire every four years to track changes in diet over time.",
         "Reasons: each question gathers data on a variable that could change the CHD outcome, so the results can be properly compared."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-43.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-44.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-45.jpg"
       ]
     },
     {
@@ -2041,6 +2524,11 @@
         "It is an observational study, so it shows association rather than proof that avocados cause the change.",
         "Other factors such as smoking, exercise and existing health must be adjusted for to avoid confounding.",
         "The long follow-up over 30 years and repeated questionnaires are strengths that improve reliability."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-43.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-44.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-45.jpg"
       ]
     },
     {
@@ -2064,6 +2552,11 @@
         "Waist-to-hip ratio compares waist and hip measurements.",
         "Waist circumference and skinfold thickness are also valid indicators.",
         "Waist-to-hip ratio is a measure of fat distribution."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
       ]
     },
     {
@@ -2087,6 +2580,11 @@
         "BMI = mass / height^2 = 65 / (1.65 x 1.65) = 65 / 2.7225.",
         "65 / 2.7225 = 23.9, which rounds to 24, so the answer is B.",
         "Check: 24 is the nearest option to 23.9."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
       ]
     },
     {
@@ -2105,7 +2603,12 @@
       "question": "Which describes the body mass of a person who is obese? The four options (A to D) use inequality symbols that are garbled in the text.",
       "status": "pending",
       "answer": "Pending: the inequality symbols in options A to D are garbled in the text, so the exact option cannot be confirmed. Obese means a BMI of 30 or more.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
+      ]
     },
     {
       "id": "1C-Q19b",
@@ -2128,6 +2631,11 @@
         "Reducing food intake or choosing lower-energy food reduces energy intake.",
         "Increasing physical activity uses more energy through respiration, so more fat is used.",
         "Both methods reduce energy intake or increase energy use, creating a negative energy balance."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
       ]
     },
     {
@@ -2147,7 +2655,12 @@
       "question": "Which row of the table describes the action of amylase in breaking down amylose into maltose?",
       "status": "pending",
       "answer": "Pending: the table of enzyme actions is not in the text (the correct action is hydrolysis of amylose into maltose).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
+      ]
     },
     {
       "id": "1C-Q19c(ii)",
@@ -2171,6 +2684,11 @@
         "With low amylase, less starch is broken down in the mouth.",
         "Larger starch molecules pass further along the gut where fewer enzymes act, so less glucose is absorbed.",
         "Less energy is absorbed, so the person takes in fewer calories and loses weight more easily."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
       ]
     },
     {
@@ -2194,6 +2712,11 @@
         "Here, greater weight loss goes with higher rates of bacterial replication.",
         "Both variables increase together, so it is a positive correlation (but not proof of cause).",
         "Both variables increase together, which is the definition of positive correlation."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
       ]
     },
     {
@@ -2217,6 +2740,11 @@
         "Their activity changes how much energy is released and absorbed from food.",
         "Faster replication means more bacteria and a greater effect on energy absorption.",
         "So the energy taken in, and therefore weight loss, may change."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
       ]
     },
     {
@@ -2235,7 +2763,13 @@
       "question": "Calculate the mean rate of production of monacolin K in the culture over the 45-day period, to two decimal places.",
       "status": "pending",
       "answer": "Pending: the amounts of monacolin K at the start and end of the 45-day period are read from the graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-47.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-48.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-49.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-50.jpg"
+      ]
     },
     {
       "id": "1C-Q20b",
@@ -2254,7 +2788,13 @@
       "question": "Discuss the limitations of using the four studies, and the two graphs of LDL cholesterol levels, to draw conclusions about the effects of red yeast rice on lipid levels.",
       "status": "pending",
       "answer": "Pending: the table of four studies and Graphs 1 and 2 are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-47.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-48.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-49.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-50.jpg"
+      ]
     },
     {
       "id": "1C-Q20c(i)",
@@ -2276,6 +2816,12 @@
         "They can affect liver function, shown by raised liver enzymes.",
         "Other side effects include digestive problems and, rarely, kidney damage.",
         "Symptoms like these are monitored in clinical trials."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-47.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-48.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-49.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-50.jpg"
       ]
     },
     {
@@ -2300,6 +2846,12 @@
         "Make the trial double-blind so neither participants nor researchers know which group is which.",
         "Give the same dose for the same period to each group, and record all symptoms and side effects.",
         "Take blood samples at intervals to measure liver enzymes and muscle markers (creatine kinase) and compare with the control."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-47.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-48.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-49.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-50.jpg"
       ]
     },
     {
@@ -2324,6 +2876,12 @@
         "Participants who know they are taking a drug may report more or fewer symptoms (placebo or nocebo effect).",
         "Other drugs or health conditions may cause the same symptoms, so the cause may be wrongly identified.",
         "Controlling variables helps isolate the side effects of the drug."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-47.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-48.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-49.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-50.jpg"
       ]
     },
     {
@@ -2346,6 +2904,10 @@
         "Thromboplastin converts prothrombin into thrombin, which starts the clotting process.",
         "Fibrinogen, prothrombin and thrombin are plasma proteins rather than platelet products, so A, B and C are wrong.",
         "Thromboplastin acts on prothrombin to start the clotting process."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-51.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-52.jpg"
       ]
     },
     {
@@ -2369,6 +2931,10 @@
         "Thromboplastin is an active enzyme that converts prothrombin to thrombin.",
         "Prothrombin and fibrinogen are inactive precursors, so options A, B and D are wrong.",
         "Active enzymes have a correctly shaped active site that can bind their substrate."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-51.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-52.jpg"
       ]
     },
     {
@@ -2391,6 +2957,10 @@
         "Fibrin is formed from fibrinogen as insoluble threads forming the clot mesh.",
         "So the answer is A.",
         "Fibrin is insoluble because it forms long fibres."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-51.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-52.jpg"
       ]
     },
     {
@@ -2414,6 +2984,10 @@
         "Less blood reaches the alveoli, so less oxygen enters the blood and less carbon dioxide is removed.",
         "Low blood oxygen and high carbon dioxide are detected, causing faster breathing and a feeling of breathlessness.",
         "The heart beats faster to try to maintain oxygen delivery to the body."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-51.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-52.jpg"
       ]
     },
     {
@@ -2438,6 +3012,10 @@
         "Bears with less HSP47 may form fewer clots during inactivity, suggesting a target for DVT drugs.",
         "Reducing binding too much could increase bleeding, so the effect must be controlled carefully.",
         "Human trials would be needed before any treatment could be developed."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-51.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-52.jpg"
       ]
     },
     {
@@ -2462,6 +3040,10 @@
         "Thromboplastin (prothrombin activator) converts prothrombin into the active enzyme thrombin.",
         "Thrombin acts on its substrate fibrinogen, converting it into insoluble fibrin.",
         "Prothrombin is made in the liver, so it is carried in plasma."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-52.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-53.jpg"
       ]
     },
     {
@@ -2484,6 +3066,10 @@
         "Anticoagulants slow the clotting cascade.",
         "Platelet inhibitors stop platelets clumping together.",
         "Antihypertensives and statins do not directly reduce clotting, so B is correct."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-52.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-53.jpg"
       ]
     },
     {
@@ -2507,6 +3093,10 @@
         "Percentage increase = (1.5 / 8.5) x 100 = 17.6 %.",
         "Percentage increase is the change divided by the original value, multiplied by 100.",
         "Check: the answer is positive, as the PT increased."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-52.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-53.jpg"
       ]
     },
     {
@@ -2530,6 +3120,13 @@
         "0.70 x 8 078 799 080 = 5 655 159 356, which is about 5.66 x 10^9.",
         "Expressed to 3 significant figures in standard form, this is 5.66 x 10^9.",
         "Standard form 5.66 x 10^9 has 3 significant figures, matching the data."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-53.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-54.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
       ]
     },
     {
@@ -2553,6 +3150,13 @@
         "Regular exercise helps control weight and lowers blood pressure and cholesterol.",
         "A healthy diet low in saturated fat and salt also reduces CVD risk.",
         "Each example is a lifestyle change that lowers CVD risk factors."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-53.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-54.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
       ]
     },
     {
@@ -2574,6 +3178,13 @@
         "The variables may increase together (positive) or one may increase as the other decreases (negative).",
         "A correlation does not show that one variable causes the change in the other.",
         "Correlation does not prove cause and effect."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-53.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-54.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
       ]
     },
     {
@@ -2597,6 +3208,13 @@
         "If blood pressure differed between volunteers, it would be a confounding variable.",
         "Keeping blood pressure similar and healthy ensures that the differences in endothelial damage are caused by neutrophils.",
         "This makes the results valid and the comparison fair."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-53.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-54.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
       ]
     },
     {
@@ -2614,7 +3232,14 @@
       "question": "Calculate the blood pressure of a person with systolic blood pressure 11.0 kPa and diastolic blood pressure 6.7 kPa, using the formula given in the text.",
       "status": "pending",
       "answer": "Pending: the blood pressure formula image is not in the text, so the exact formula cannot be confirmed. (If mean arterial pressure is intended, MAP = DBP + (SBP - DBP) / 3 = 8.1 kPa.)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-53.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-54.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
+      ]
     },
     {
       "id": "1C-Q23c(iv)",
@@ -2638,6 +3263,13 @@
         "When damaged, it releases fewer protective chemicals such as nitric oxide and allows platelets to stick.",
         "Cholesterol and inflammatory cells then enter the artery wall and form atheroma.",
         "This narrows and stiffens the arteries, which indicates raised risk of CVD."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-53.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-54.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
       ]
     },
     {
@@ -2657,7 +3289,14 @@
       "question": "Comment on the relationships between the number of neutrophils and the proportion of healthy endothelial cells of males and females in this study, using the graphs.",
       "status": "pending",
       "answer": "Pending: the graphs of neutrophil number against proportion of healthy endothelial cells for males and females are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-53.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-54.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
+      ]
     },
     {
       "id": "1C-Q24a",
@@ -2681,6 +3320,12 @@
         "CHD is a specific form of CVD affecting the coronary arteries that supply the heart muscle.",
         "CHD is caused by atheroma narrowing the coronary arteries, leading to angina or heart attack.",
         "CVD is the umbrella term; CHD is one type of CVD."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-57.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
       ]
     },
     {
@@ -2704,6 +3349,12 @@
         "BMI = mass / height^2 = 68 / 2.7225.",
         "68 / 2.7225 = 24.98, which is 25.0 kg/m^2.",
         "Check: a BMI of 25 is at the lower bound of overweight."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-57.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
       ]
     },
     {
@@ -2727,6 +3378,12 @@
         "85 / 101 = 0.8416.",
         "Expressed as a ratio to 1 this is 0.84 : 1.",
         "The WHR is compared with reference values to assess risk."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-57.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
       ]
     },
     {
@@ -2751,6 +3408,12 @@
         "Damaged, thickened arteries are narrower and less flexible.",
         "The heart has to pump harder against high pressure, increasing workload and risk of heart failure.",
         "High pressure can also rupture weakened vessels, causing a stroke."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-57.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
       ]
     },
     {
@@ -2774,6 +3437,12 @@
         "Family history of heart disease is recorded as present or absent.",
         "Diabetes status is also a yes-or-no factor that is commonly recorded.",
         "Both are yes/no characteristics recorded in the questionnaire."
+      ],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-57.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
       ]
     },
     {
@@ -2793,7 +3462,13 @@
       "question": "Discuss the usefulness of BMI and WHR in predicting death from CVD and CHD, using the graphs of BMI and WHR of men and women who died.",
       "status": "pending",
       "answer": "Pending: the graphs of BMI and WHR for men and women who died from CVD or CHD are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01C-Cardiovascular-Health-57.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
+        "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
+      ]
     }
   ]
 }

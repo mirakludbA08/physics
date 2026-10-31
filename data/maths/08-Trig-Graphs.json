@@ -25,6 +25,10 @@
         "The minimum of sin theta is -1 at theta = 270 degrees.",
         "Multiplying by 4 stretches the curve vertically, so the minimum of 4 sin theta is -4.",
         "The minimum point is (270, -4)."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-01.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-02.jpg"
       ]
     },
     {
@@ -48,6 +52,10 @@
         "y = 1 + sin theta is the sine curve moved up by 1: it passes through (0, 1), max 2 at 90, (180, 1), min 0 at 270, and (360, 1).",
         "y = tan theta passes through (0, 0), (180, 0) and (360, 0), with vertical asymptotes at theta = 90 and theta = 270.",
         "Label both curves clearly on the diagram."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-01.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-02.jpg"
       ]
     },
     {
@@ -74,6 +82,10 @@
         "So there are 2 solutions per 360 degrees.",
         "(i) 0 to 2160 is 6 periods: 6 x 2 = 12 solutions.",
         "(ii) 0 to 1980 is 5 full periods (10 solutions) plus 1800 to 1980, which matches 0 to 180 and contains one solution: total 11."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-01.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-02.jpg"
       ]
     },
     {
@@ -95,6 +107,10 @@
       "steps": [
         "The period of sin(x) is 2pi.",
         "For sin(x/12), the period is 12 x 2pi = 24pi."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-02.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-03.jpg"
       ]
     },
     {
@@ -117,6 +133,10 @@
       "steps": [
         "Minimum of sin(x/12) is -1, when x/12 = 3pi/2.",
         "So x = 18pi and y = -1, giving M = (18pi, -1)."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-02.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-03.jpg"
       ]
     },
     {
@@ -141,6 +161,10 @@
         "Solutions of sin(x/12) = k are x = alpha, 12pi - alpha, and their shifts by 24pi. Here alpha < 6pi since k > 0 and alpha/12 < pi/2.",
         "(i) Negative solutions are alpha - 24pi and -12pi - alpha. The one closest to zero is -12pi - alpha.",
         "(ii) cos(u) = sin(u0) when u = pi/2 - u0, so cos(x/12) = k has smallest positive solution x = 12(pi/2 - alpha/12) = 6pi - alpha."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-02.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-03.jpg"
       ]
     },
     {
@@ -164,6 +188,10 @@
         "Minimum of cos u is -1 at u = pi, so 2x = pi.",
         "x = pi/2 and y = -1.",
         "P = (pi/2, -1)."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-03.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-04.jpg"
       ]
     },
     {
@@ -187,6 +215,10 @@
         "y = sin x passes through the origin and rises to a maximum of 1 at x = pi/2.",
         "It crosses the x-axis at pi and 2pi, with a minimum of -1 at x = 3pi/2.",
         "Its period is 2pi, so it repeats with the same shape across the diagram."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-03.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-04.jpg"
       ]
     },
     {
@@ -211,6 +243,10 @@
         "So sin x = 1/2 (x = pi/6, 5pi/6 per 2pi) or sin x = -1 (x = 3pi/2 per 2pi): 3 solutions per period 2pi.",
         "(i) 0 to 20pi is 10 periods, giving 30 solutions (none at the endpoints).",
         "(ii) 20pi to 21pi adds pi/6 and 5pi/6 beyond 20pi (3pi/2 is outside), giving 30 + 2 = 32."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-03.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-04.jpg"
       ]
     },
     {
@@ -232,6 +268,10 @@
       "steps": [
         "tan x repeats every pi radians.",
         "So the period of tan x is pi."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-04.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-05.jpg"
       ]
     },
     {
@@ -255,6 +295,10 @@
         "x = 0 is always a root, since both sides are zero.",
         "The line has gradient about 5.14, steeper than tan's gradient 1 at 0, so on (0, pi/2) tan x - (pi+2)x goes from negative to positive: one root.",
         "By odd symmetry there is one root in (-pi/2, 0), and none in the other branches, giving 3 roots."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-04.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-05.jpg"
       ]
     },
     {
@@ -279,6 +323,10 @@
         "On (0, pi/2) there is one root, since tan x - pi x is convex and starts at 0 with negative gradient.",
         "On (pi, 3pi/2) tan rises from 0 to infinity and meets pi x once, near x of about 4.6.",
         "With odd symmetry this gives 1 + 2 + 2 = 5 roots."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-04.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-05.jpg"
       ]
     },
     {
@@ -303,6 +351,10 @@
         "Positive branches k = 1 to 99 lie inside (0, 100pi), giving 99 roots, plus one root in (0, pi/2): 100 positive roots.",
         "By symmetry there are 100 negative roots, and x = 0 is also a root.",
         "Total = 100 + 100 + 1 = 201."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-04.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-05.jpg"
       ]
     },
     {
@@ -327,6 +379,10 @@
         "So P = (-180, -4).",
         "Q is a zero where cos x = 0 after 360 degrees, at x = 450.",
         "So Q = (450, 0)."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-05.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-06.jpg"
       ]
     },
     {
@@ -351,6 +407,10 @@
         "Maximum value is 4 + 3 = 7, occurring when cos x = 1.",
         "The smallest positive x with cos x = 1 is x = 360.",
         "So R = (360, 7)."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-05.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-06.jpg"
       ]
     },
     {
@@ -375,6 +435,10 @@
         "sin(180 - alpha) = sin alpha = p, so 2 sin(180 - alpha) = 2p.",
         "sin(alpha - 180) = -sin alpha = -p.",
         "sin(180 + alpha) = -sin alpha = -p, so 3 + sin(180 + alpha) = 3 - p."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-06.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-07.jpg"
       ]
     },
     {
@@ -397,6 +461,10 @@
         "sin 2x has period 180 degrees, half that of sin x.",
         "It passes through the origin and reaches its maximum of 1 at x = 45 degrees.",
         "It crosses the x-axis at 90 and 180 degrees, with minimum -1 at x = 135 degrees."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-06.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-07.jpg"
       ]
     },
     {
@@ -420,6 +488,10 @@
         "Let u = 2x, so 0 < u < 360 and sin u = p with p > 0.",
         "Solutions in (0, 360) are u = alpha and u = 180 - alpha.",
         "Dividing by 2 gives x = alpha/2 and x = 90 - alpha/2, both in (0, 180)."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-06.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-07.jpg"
       ]
     },
     {
@@ -443,6 +515,10 @@
         "The curve has maximum 3 at x = 0 and minimum -3 at x = +/- pi.",
         "This is the cosine curve with amplitude 3.",
         "So f(x) = 3 cos x."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-07.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-08.jpg"
       ]
     },
     {
@@ -467,6 +543,10 @@
         "y-intercept: x = 0 gives 3 cos(pi/4) = 3/sqrt(2), about 2.12, so (0, 2.12).",
         "x-intercepts: x + pi/4 = pi/2 + n pi gives x = pi/4 + n pi, i.e. pi/4, -3pi/4, 5pi/4, -7pi/4.",
         "Maxima at x = -pi/4 and 7pi/4 (value 3); minima at 3pi/4 and -5pi/4 (value -3)."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-07.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-08.jpg"
       ]
     },
     {
@@ -490,6 +570,10 @@
         "The curve crosses the axis at the origin, rising, with maximum 1 at x = pi/4 and minimum -1 at x = -pi/4.",
         "Period is pi, so the function is sin 2x (period 2pi/2 = pi).",
         "So g(x) = sin 2x."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-07.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-08.jpg"
       ]
     },
     {
@@ -512,6 +596,10 @@
         "Shift the graph of sin 2x down by 2.",
         "The maxima become -1, minima become -3, and the period stays pi.",
         "At x = 0, y = sin 0 - 2 = -2, so the y-intercept is (0, -2)."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-07.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-08.jpg"
       ]
     },
     {
@@ -536,6 +624,10 @@
         "Minimum of cos 2x is -1, when 2x = 180, so x = 90: Q = (90, -1).",
         "After Q the curve rises to a maximum at x = 180, then falls to zero at 2x = 450.",
         "So R is the zero at x = 225, giving k = 225."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-08.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-09.jpg"
       ]
     },
     {
@@ -552,14 +644,18 @@
         "boundary",
         "inequality"
       ],
-      "question": "Given that there are exactly two solutions to cos 2x = p in the region 0 <= x <= k, find the range of possible values of p.",
+      "question": "For f(x) = cos 2x degrees, 0 <= x <= k (k = 225 from part (a)): given that there are exactly two solutions to the equation cos 2x degrees = p in the region 0 <= x <= k, find the range of possible values for p.",
       "status": "ready",
       "answer": "-1 < p < 0 or p = 1",
       "steps": [
-        "With k = 225, let u = 2x so 0 <= u <= 450 and cos u = p.",
+        "With k = 225, let u = 2x degrees so 0 <= u <= 450 and cos u = p.",
         "For 0 < p < 1 there are 3 solutions (two in (0, 360) and one in (360, 450)); p = 0 gives 3 as well.",
         "For -1 < p < 0 there are exactly 2 solutions in (90, 270).",
         "p = 1 gives u = 0 and u = 360, exactly 2 solutions; p = -1 gives only 1."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-08.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-09.jpg"
       ]
     },
     {
@@ -583,6 +679,10 @@
         "The first maximum of 3 sin x is at x = 90, so P = (90, 3).",
         "Zeros of 3 sin x are at multiples of 180; the figure shows Q after a maximum at 450 and a minimum at 270.",
         "The zero at 540 gives Q = (540, 0)."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-09.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-10.jpg"
       ]
     },
     {
@@ -606,6 +706,10 @@
         "Maximum of 3 sin x + k is 3 + k = 10, so k = 7.",
         "Minimum of 3 sin x + 7 is -3 + 7 = 4, when sin x = -1.",
         "The smallest positive x with sin x = -1 is 270, so R = (270, 4)."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-09.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-10.jpg"
       ]
     },
     {
@@ -629,6 +733,10 @@
         "At x = 30, cos(x - 30) = 1, so y = A.",
         "P is a minimum with y = -3, so A = -3.",
         "(A = 3 would make (30, 3) a maximum, which contradicts the figure.)"
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-10.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-11.jpg"
       ]
     },
     {
@@ -653,6 +761,10 @@
         "The maxima are at 210, 570, 930, ...; Q is the third maximum to the right of P, as drawn in Figure 4.",
         "Maximum value is -3 x (-1) = 3.",
         "So Q = (930, 3)."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-10.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-11.jpg"
       ]
     },
     {
@@ -676,6 +788,11 @@
         "The first zero of cos(x/n) is at x/n = 90, so 270 = 90n, giving n = 3.",
         "Period of cos(x/n) is 360n = 360 x 3 = 1080 degrees.",
         "So n = 3 and the period is 1080 degrees."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-11.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-12.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-13.jpg"
       ]
     },
     {
@@ -698,6 +815,11 @@
         "Minimum of cos(x/3) is -1 when x/3 = 180.",
         "So x = 540 and y = 3 x (-1) = -3.",
         "Q = (540, -3)."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-11.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-12.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-13.jpg"
       ]
     },
     {
@@ -722,6 +844,11 @@
         "Adding the equations: 2 sin a + k = 12/5 and -2 sin a + k = -3/5 gives 2k = 9/5.",
         "So k = 9/10.",
         "Check: 2 sin a = 3/2, so sin a = 0.75 and a = 48.6 degrees, which is less than 90."
+      ],
+      "images": [
+        "papers/maths/img/P1-08-Trig-Graphs-11.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-12.jpg",
+        "papers/maths/img/P1-08-Trig-Graphs-13.jpg"
       ]
     }
   ]

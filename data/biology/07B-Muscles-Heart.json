@@ -20,7 +20,12 @@
       "question": "Describe the relationship between exercise intensity and heart rate, using the table of data for swimmers.",
       "status": "pending",
       "answer": "Pending: the table of heart rate against exercise intensity is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-01.jpg",
+        "papers/biology/img/07B-Muscles-Heart-02.jpg",
+        "papers/biology/img/07B-Muscles-Heart-03.jpg"
+      ]
     },
     {
       "id": "7B-Q1b",
@@ -39,7 +44,12 @@
       "question": "Using the table of resting cardiac output and stroke volume for swimmers and a control group, calculate the difference in resting heart rate (2 d.p., with units).",
       "status": "pending",
       "answer": "Pending: the table of mean resting cardiac output and stroke volume values is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-01.jpg",
+        "papers/biology/img/07B-Muscles-Heart-02.jpg",
+        "papers/biology/img/07B-Muscles-Heart-03.jpg"
+      ]
     },
     {
       "id": "7B-Q1c",
@@ -58,7 +68,12 @@
       "question": "Explain the role of the heart in responding to regular exercise, using both tables and own knowledge.",
       "status": "pending",
       "answer": "Pending: the answer must use the two data tables, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-01.jpg",
+        "papers/biology/img/07B-Muscles-Heart-02.jpg",
+        "papers/biology/img/07B-Muscles-Heart-03.jpg"
+      ]
     },
     {
       "id": "7B-Q2a(i)",
@@ -77,7 +92,13 @@
       "question": "Identify the protein that forms the structure labelled X in the sarcomere diagram (options: actin, myosin, tropomyosin, troponin).",
       "status": "pending",
       "answer": "Pending: the labelled sarcomere diagram (structure X) is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-03.jpg",
+        "papers/biology/img/07B-Muscles-Heart-04.jpg",
+        "papers/biology/img/07B-Muscles-Heart-05.jpg",
+        "papers/biology/img/07B-Muscles-Heart-06.jpg"
+      ]
     },
     {
       "id": "7B-Q2a(ii)",
@@ -96,7 +117,13 @@
       "question": "State which labelled part of the sarcomere diagram becomes shorter when the muscle contracts (options W, X, Y, Z).",
       "status": "pending",
       "answer": "Pending: the labelled sarcomere diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-03.jpg",
+        "papers/biology/img/07B-Muscles-Heart-04.jpg",
+        "papers/biology/img/07B-Muscles-Heart-05.jpg",
+        "papers/biology/img/07B-Muscles-Heart-06.jpg"
+      ]
     },
     {
       "id": "7B-Q2a(iii)",
@@ -119,6 +146,12 @@
         "Ca2+ binds to troponin, which moves tropomyosin and exposes actin binding sites, so statement 1 is correct.",
         "Myosin heads change shape during the power stroke, which pulls actin along, so statement 3 is correct.",
         "All three are correct, so the answer is D."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-03.jpg",
+        "papers/biology/img/07B-Muscles-Heart-04.jpg",
+        "papers/biology/img/07B-Muscles-Heart-05.jpg",
+        "papers/biology/img/07B-Muscles-Heart-06.jpg"
       ]
     },
     {
@@ -142,6 +175,12 @@
         "Myosin heads have ATPase activity, meaning they contain an enzyme that hydrolyses ATP.",
         "Hydrolysis of ATP to ADP and Pi releases energy for the power stroke.",
         "Actin, tropomyosin and troponin are regulatory or structural proteins without this enzyme, so B is correct."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-03.jpg",
+        "papers/biology/img/07B-Muscles-Heart-04.jpg",
+        "papers/biology/img/07B-Muscles-Heart-05.jpg",
+        "papers/biology/img/07B-Muscles-Heart-06.jpg"
       ]
     },
     {
@@ -162,7 +201,13 @@
       "question": "Using the oxygen consumption results for healthy and mitochondrial disease samples treated with different substrates, comment on the defects in the electron transport chain.",
       "status": "pending",
       "answer": "Pending: the table of oxygen consumption results for each sample is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-03.jpg",
+        "papers/biology/img/07B-Muscles-Heart-04.jpg",
+        "papers/biology/img/07B-Muscles-Heart-05.jpg",
+        "papers/biology/img/07B-Muscles-Heart-06.jpg"
+      ]
     },
     {
       "id": "7B-Q3a",
@@ -181,7 +226,12 @@
       "question": "Calculate the difference in percentage decrease in heart rate between the unfit and fit person 120 seconds after exercise (unfit person decreased by 16%).",
       "status": "pending",
       "answer": "Pending: the fit person percentage decrease at 120 s must be read from the graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-06.jpg",
+        "papers/biology/img/07B-Muscles-Heart-07.jpg",
+        "papers/biology/img/07B-Muscles-Heart-08.jpg"
+      ]
     },
     {
       "id": "7B-Q3b",
@@ -200,7 +250,12 @@
       "question": "Calculate the heart rate of the unfit person at 5 minutes using a straight-line equation fitted to the graph.",
       "status": "pending",
       "answer": "Pending: the graph values needed for the gradient and intercept are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-06.jpg",
+        "papers/biology/img/07B-Muscles-Heart-07.jpg",
+        "papers/biology/img/07B-Muscles-Heart-08.jpg"
+      ]
     },
     {
       "id": "7B-Q3c",
@@ -219,7 +274,12 @@
       "question": "Explain the difference in the time the fit and unfit person take to recover from exercise, using the graph.",
       "status": "pending",
       "answer": "Pending: the answer depends on the graph showing which person recovers faster and by how much.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-06.jpg",
+        "papers/biology/img/07B-Muscles-Heart-07.jpg",
+        "papers/biology/img/07B-Muscles-Heart-08.jpg"
+      ]
     },
     {
       "id": "7B-Q3d",
@@ -246,6 +306,11 @@
         "The medulla sends impulses along sympathetic nerves to the SAN, increasing heart rate.",
         "Adrenaline from the adrenal medulla also raises heart rate.",
         "When blood CO2 returns to normal, the signals stop and heart rate falls (negative feedback)."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-06.jpg",
+        "papers/biology/img/07B-Muscles-Heart-07.jpg",
+        "papers/biology/img/07B-Muscles-Heart-08.jpg"
       ]
     },
     {
@@ -266,7 +331,12 @@
       "question": "Calculate the percentage difference in the change in heart rate when using drug B between 5 and 12.5 minutes.",
       "status": "pending",
       "answer": "Pending: the mean heart rate values for drug B at 5 and 12.5 minutes must be read from the graph.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-08.jpg",
+        "papers/biology/img/07B-Muscles-Heart-09.jpg",
+        "papers/biology/img/07B-Muscles-Heart-10.jpg"
+      ]
     },
     {
       "id": "7B-Q4b",
@@ -286,7 +356,12 @@
       "question": "Compare and contrast the effects of drug A and drug B on heart rate during the investigation, using the graph.",
       "status": "pending",
       "answer": "Pending: the answer depends on the graph of mean heart rate for each drug.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-08.jpg",
+        "papers/biology/img/07B-Muscles-Heart-09.jpg",
+        "papers/biology/img/07B-Muscles-Heart-10.jpg"
+      ]
     },
     {
       "id": "7B-Q4c",
@@ -305,7 +380,12 @@
       "question": "Explain the effect of drugs A and B on the control of heart rate.",
       "status": "pending",
       "answer": "Pending: which drug raises or lowers heart rate must be read from the graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-08.jpg",
+        "papers/biology/img/07B-Muscles-Heart-09.jpg",
+        "papers/biology/img/07B-Muscles-Heart-10.jpg"
+      ]
     },
     {
       "id": "7B-Q5a",
@@ -331,6 +411,11 @@
         "Proximal tubule reabsorbs a fixed proportion of filtrate regardless of ADH.",
         "Loop of Henle sets up the medulla gradient and is not directly controlled by ADH in this sense.",
         "Only one part responds, so the answer is A."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-10.jpg",
+        "papers/biology/img/07B-Muscles-Heart-11.jpg",
+        "papers/biology/img/07B-Muscles-Heart-12.jpg"
       ]
     },
     {
@@ -354,6 +439,11 @@
         "Blood enters the glomerulus at high pressure.",
         "The pressure forces small molecules (water, glucose, urea, ions) through capillary walls and basement membrane.",
         "This filtrate passes into Bowman capsule, which is ultrafiltration."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-10.jpg",
+        "papers/biology/img/07B-Muscles-Heart-11.jpg",
+        "papers/biology/img/07B-Muscles-Heart-12.jpg"
       ]
     },
     {
@@ -372,7 +462,12 @@
       "question": "Name the structures labelled S on the electron micrograph of a proximal tubule.",
       "status": "pending",
       "answer": "Pending: the labelled electron micrograph is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-10.jpg",
+        "papers/biology/img/07B-Muscles-Heart-11.jpg",
+        "papers/biology/img/07B-Muscles-Heart-12.jpg"
+      ]
     },
     {
       "id": "7B-Q5c(i)",
@@ -395,6 +490,11 @@
         "Radius = diameter / 2 = 4.71 / 2 = 2.355 mm.",
         "Cross-sectional area of a vessel is a circle: A = pi x r^2.",
         "A = pi x (2.355)^2 = 17.42 mm2 (to 2 d.p.)."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-10.jpg",
+        "papers/biology/img/07B-Muscles-Heart-11.jpg",
+        "papers/biology/img/07B-Muscles-Heart-12.jpg"
       ]
     },
     {
@@ -417,6 +517,11 @@
         "Convert the first area to cm2: 17.42 mm2 / 100 = 0.1742 cm2 (1 cm2 = 100 mm2).",
         "Subtract: 0.194 - 0.1742 = 0.0198 cm2.",
         "Give the answer in cm2 to match the second value."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-10.jpg",
+        "papers/biology/img/07B-Muscles-Heart-11.jpg",
+        "papers/biology/img/07B-Muscles-Heart-12.jpg"
       ]
     },
     {
@@ -436,7 +541,12 @@
       "question": "Explain the concentrations of glucose and urea in urine, using the table of plasma, filtrate and urine concentrations.",
       "status": "pending",
       "answer": "Pending: the table of glucose and urea concentrations in plasma, filtrate and urine is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-10.jpg",
+        "papers/biology/img/07B-Muscles-Heart-11.jpg",
+        "papers/biology/img/07B-Muscles-Heart-12.jpg"
+      ]
     },
     {
       "id": "7B-Q5e",
@@ -459,6 +569,11 @@
         "24 hours = 24 x 60 = 1440 minutes.",
         "Volume = 0.83 cm3/min x 1440 min = 1195.2 cm3.",
         "Convert: 1195.2 cm3 / 1000 = 1.1952 dm3, which is 1.2 dm3 to 2 s.f."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-10.jpg",
+        "papers/biology/img/07B-Muscles-Heart-11.jpg",
+        "papers/biology/img/07B-Muscles-Heart-12.jpg"
       ]
     },
     {
@@ -483,6 +598,12 @@
         "Adrenaline stimulates glycogen breakdown in the liver, releasing glucose, so the second is true.",
         "Digestion slows during fight or flight, so the third is true.",
         "Two statements are correct, so the answer is C."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-13.jpg",
+        "papers/biology/img/07B-Muscles-Heart-14.jpg",
+        "papers/biology/img/07B-Muscles-Heart-15.jpg",
+        "papers/biology/img/07B-Muscles-Heart-16.jpg"
       ]
     },
     {
@@ -505,6 +626,12 @@
         "Cardiac output = heart rate x stroke volume = 77 x 70 = 5390 cm3 per minute.",
         "Convert to dm3: 5390 / 1000 = 5.39 dm3 per minute.",
         "Multiply by 60 minutes: 5.39 x 60 = 323.4 dm3 per hour, which is 320 (2 s.f.)."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-13.jpg",
+        "papers/biology/img/07B-Muscles-Heart-14.jpg",
+        "papers/biology/img/07B-Muscles-Heart-15.jpg",
+        "papers/biology/img/07B-Muscles-Heart-16.jpg"
       ]
     },
     {
@@ -524,7 +651,13 @@
       "question": "Complete the table to show the units for cardiac index, the cardiac index for individual A, and the cardiac output for individual B.",
       "status": "pending",
       "answer": "Pending: the data table with body surface area and cardiac index values is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-13.jpg",
+        "papers/biology/img/07B-Muscles-Heart-14.jpg",
+        "papers/biology/img/07B-Muscles-Heart-15.jpg",
+        "papers/biology/img/07B-Muscles-Heart-16.jpg"
+      ]
     },
     {
       "id": "7B-Q6b(iii)",
@@ -544,7 +677,13 @@
       "question": "Discuss the effect of ageing on the response of the heart to adrenaline, using the two graphs.",
       "status": "pending",
       "answer": "Pending: the answer must use the two graphs of heart response to adrenaline, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-13.jpg",
+        "papers/biology/img/07B-Muscles-Heart-14.jpg",
+        "papers/biology/img/07B-Muscles-Heart-15.jpg",
+        "papers/biology/img/07B-Muscles-Heart-16.jpg"
+      ]
     },
     {
       "id": "7B-Q7a",
@@ -562,7 +701,12 @@
       "question": "Calculate the magnification of the mitochondrion shown in the diagram, where the actual length between A and B is 0.75 (units as printed).",
       "status": "pending",
       "answer": "Pending: the length of A to B measured on the diagram is not in the text; the actual length unit also appears garbled (m).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-16.jpg",
+        "papers/biology/img/07B-Muscles-Heart-17.jpg",
+        "papers/biology/img/07B-Muscles-Heart-18.jpg"
+      ]
     },
     {
       "id": "7B-Q7b(i)",
@@ -580,7 +724,12 @@
       "question": "State the approximate rate of CO2 production in sample 1 (pyruvate only), from the four options given.",
       "status": "pending",
       "answer": "Pending: the results table giving the CO2 production rate for each sample is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-16.jpg",
+        "papers/biology/img/07B-Muscles-Heart-17.jpg",
+        "papers/biology/img/07B-Muscles-Heart-18.jpg"
+      ]
     },
     {
       "id": "7B-Q7b(ii)",
@@ -599,7 +748,12 @@
       "question": "Explain the results of the mitochondria investigation using the table and knowledge of the Krebs cycle.",
       "status": "pending",
       "answer": "Pending: the results table for samples 1 to 3 is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-16.jpg",
+        "papers/biology/img/07B-Muscles-Heart-17.jpg",
+        "papers/biology/img/07B-Muscles-Heart-18.jpg"
+      ]
     },
     {
       "id": "7B-Q7c(i)",
@@ -623,6 +777,11 @@
         "They have many mitochondria so they can carry out aerobic respiration efficiently.",
         "Fast twitch fibres contract quickly and powerfully for short bursts.",
         "They have fewer mitochondria and rely more on anaerobic glycolysis, which needs fewer mitochondria."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-16.jpg",
+        "papers/biology/img/07B-Muscles-Heart-17.jpg",
+        "papers/biology/img/07B-Muscles-Heart-18.jpg"
       ]
     },
     {
@@ -648,6 +807,11 @@
         "The energised myosin head rotates (power stroke) and pulls actin along the thin filament.",
         "ADP and Pi are released and a new cross bridge forms.",
         "ATP is also used to pump Ca2+ back into the sarcoplasmic reticulum so the muscle can relax."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-16.jpg",
+        "papers/biology/img/07B-Muscles-Heart-17.jpg",
+        "papers/biology/img/07B-Muscles-Heart-18.jpg"
       ]
     },
     {
@@ -671,6 +835,11 @@
         "Ligaments join bone to bone at joints.",
         "Tendons join muscle to bone, so D is wrong.",
         "Actin is a protein and a synapse is a nerve junction, so neither attaches bones."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-19.jpg",
+        "papers/biology/img/07B-Muscles-Heart-20.jpg",
+        "papers/biology/img/07B-Muscles-Heart-21.jpg"
       ]
     },
     {
@@ -695,6 +864,11 @@
         "Skeletal muscles are neurogenic (need nerve impulses), not myogenic, so statement 2 is wrong.",
         "Ligaments contain more elastic fibres than tendons, so statement 3 is wrong.",
         "One statement is correct, so the answer is B."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-19.jpg",
+        "papers/biology/img/07B-Muscles-Heart-20.jpg",
+        "papers/biology/img/07B-Muscles-Heart-21.jpg"
       ]
     },
     {
@@ -717,6 +891,11 @@
         "Myoglobin is an oxygen-binding pigment in muscle fibres.",
         "It stores oxygen and releases it for aerobic respiration during activity.",
         "It is not an enzyme, not part of the sarcolemma and not an energy store, so D is correct."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-19.jpg",
+        "papers/biology/img/07B-Muscles-Heart-20.jpg",
+        "papers/biology/img/07B-Muscles-Heart-21.jpg"
       ]
     },
     {
@@ -741,6 +920,11 @@
         "Fast twitch fibres have high myosin ATPase activity so ATP is hydrolysed quickly.",
         "They rely on anaerobic respiration (glycolysis) with large glycogen stores and phosphocreatine for rapid ATP supply.",
         "They have larger diameter and more glycolytic enzymes, so they can generate high force for short periods."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-19.jpg",
+        "papers/biology/img/07B-Muscles-Heart-20.jpg",
+        "papers/biology/img/07B-Muscles-Heart-21.jpg"
       ]
     },
     {
@@ -759,7 +943,12 @@
       "question": "Comment on the results of the investigation showing heart rate and blood lactate at seven running speeds, using the graph.",
       "status": "pending",
       "answer": "Pending: the graph of heart rate and lactate concentration against running speed is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-19.jpg",
+        "papers/biology/img/07B-Muscles-Heart-20.jpg",
+        "papers/biology/img/07B-Muscles-Heart-21.jpg"
+      ]
     },
     {
       "id": "7B-Q9a(i)",
@@ -777,7 +966,12 @@
       "question": "Describe the relationship between resting heart rate and mean life expectancy shown in the table.",
       "status": "pending",
       "answer": "Pending: the table of resting heart rate and life expectancy for each species is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-22.jpg",
+        "papers/biology/img/07B-Muscles-Heart-23.jpg",
+        "papers/biology/img/07B-Muscles-Heart-24.jpg"
+      ]
     },
     {
       "id": "7B-Q9a(ii)",
@@ -796,7 +990,12 @@
       "question": "Calculate the volume of oxygen produced each hour by a resting 4500 kg elephant, in standard form.",
       "status": "pending",
       "answer": "Pending: the rate (per kg per hour) data from the table is needed and is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-22.jpg",
+        "papers/biology/img/07B-Muscles-Heart-23.jpg",
+        "papers/biology/img/07B-Muscles-Heart-24.jpg"
+      ]
     },
     {
       "id": "7B-Q9b(i)",
@@ -821,6 +1020,11 @@
         "Chemoreceptors in the aorta and carotid arteries detect the change.",
         "Impulses go to the medulla, which sends impulses via sympathetic nerves to the SAN.",
         "Adrenaline from the adrenal medulla also increases heart rate, so both act together."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-22.jpg",
+        "papers/biology/img/07B-Muscles-Heart-23.jpg",
+        "papers/biology/img/07B-Muscles-Heart-24.jpg"
       ]
     },
     {
@@ -844,6 +1048,11 @@
         "At very high speed, muscles respire anaerobically because oxygen supply cannot keep up.",
         "Lactate accumulates and lowers pH, and stores such as phosphocreatine and glycogen are used up.",
         "Muscle fatigue then sets in, so the cheetah cannot sustain the speed."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-22.jpg",
+        "papers/biology/img/07B-Muscles-Heart-23.jpg",
+        "papers/biology/img/07B-Muscles-Heart-24.jpg"
       ]
     },
     {
@@ -866,6 +1075,11 @@
         "Ligaments connect bone to bone.",
         "Tendons connect muscle to bone, so D is wrong.",
         "Muscle and actin are not joining structures."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-24.jpg",
+        "papers/biology/img/07B-Muscles-Heart-25.jpg",
+        "papers/biology/img/07B-Muscles-Heart-26.jpg"
       ]
     },
     {
@@ -888,6 +1102,11 @@
         "Tendons attach muscle to bone.",
         "Ligaments join bone to bone, so B is wrong.",
         "Actin and myosin are muscle proteins, not attachment structures."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-24.jpg",
+        "papers/biology/img/07B-Muscles-Heart-25.jpg",
+        "papers/biology/img/07B-Muscles-Heart-26.jpg"
       ]
     },
     {
@@ -910,6 +1129,11 @@
       "steps": [
         "Actin and myosin are muscle proteins.",
         "They are not carbohydrates, lipids or nucleic acids."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-24.jpg",
+        "papers/biology/img/07B-Muscles-Heart-25.jpg",
+        "papers/biology/img/07B-Muscles-Heart-26.jpg"
       ]
     },
     {
@@ -933,6 +1157,11 @@
         "Muscles on both sides of the knee contract together (co-contraction), so opposing forces balance.",
         "The ligaments around the joint limit excessive movement and keep bones aligned.",
         "Together these hold the joint steady without movement."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-24.jpg",
+        "papers/biology/img/07B-Muscles-Heart-25.jpg",
+        "papers/biology/img/07B-Muscles-Heart-26.jpg"
       ]
     },
     {
@@ -957,6 +1186,11 @@
         "ATP is hydrolysed to ADP and Pi, so the myosin head is energised and moves to a cocked position.",
         "The myosin head binds to actin and pulls it along (power stroke), shortening the sarcomere.",
         "ADP and Pi are released and the cycle repeats while Ca2+ is present."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-24.jpg",
+        "papers/biology/img/07B-Muscles-Heart-25.jpg",
+        "papers/biology/img/07B-Muscles-Heart-26.jpg"
       ]
     },
     {
@@ -980,6 +1214,11 @@
         "Asthma narrows the airways, increasing resistance to airflow.",
         "Emphysema destroys alveolar walls, reducing surface area for gas exchange.",
         "Either named condition that reduces airflow or gas exchange is accepted."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-26.jpg",
+        "papers/biology/img/07B-Muscles-Heart-27.jpg",
+        "papers/biology/img/07B-Muscles-Heart-28.jpg"
       ]
     },
     {
@@ -999,7 +1238,12 @@
       "question": "Comment on the relationship between mean resting ventilation rate and body mass, using the table of five species.",
       "status": "pending",
       "answer": "Pending: the table of mean resting ventilation rate and body mass for five species is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-26.jpg",
+        "papers/biology/img/07B-Muscles-Heart-27.jpg",
+        "papers/biology/img/07B-Muscles-Heart-28.jpg"
+      ]
     },
     {
       "id": "7B-Q11b(ii)",
@@ -1017,7 +1261,12 @@
       "question": "Calculate the respiratory minute ventilation (dm3, 2 s.f.) for a resting talapoin monkey with tidal volume 40 cm3.",
       "status": "pending",
       "answer": "Pending: the resting breathing rate (breaths per minute) for the talapoin monkey is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-26.jpg",
+        "papers/biology/img/07B-Muscles-Heart-27.jpg",
+        "papers/biology/img/07B-Muscles-Heart-28.jpg"
+      ]
     },
     {
       "id": "7B-Q11c",
@@ -1041,6 +1290,11 @@
         "Chemoreceptors in the aorta and carotid arteries detect the rise in CO2 and fall in O2 and pH.",
         "Impulses go to the medulla oblongata, which sends impulses to the diaphragm and intercostal muscles.",
         "Breathing becomes faster and deeper, increasing gas exchange; this is negative feedback restoring blood gas levels."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-26.jpg",
+        "papers/biology/img/07B-Muscles-Heart-27.jpg",
+        "papers/biology/img/07B-Muscles-Heart-28.jpg"
       ]
     },
     {
@@ -1064,6 +1318,11 @@
         "Ions are charged and cannot diffuse directly through the lipid bilayer.",
         "They cross by facilitated diffusion through specific channel proteins, down a concentration gradient.",
         "They can also be moved against a concentration gradient by carrier proteins using energy from ATP (active transport)."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-28.jpg",
+        "papers/biology/img/07B-Muscles-Heart-29.jpg",
+        "papers/biology/img/07B-Muscles-Heart-30.jpg"
       ]
     },
     {
@@ -1083,7 +1342,12 @@
       "question": "Discuss how the distribution and concentrations of ions shown in the graph contribute to their biological roles.",
       "status": "pending",
       "answer": "Pending: the graph of ion concentrations in intracellular fluid, tissue fluid and plasma is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-28.jpg",
+        "papers/biology/img/07B-Muscles-Heart-29.jpg",
+        "papers/biology/img/07B-Muscles-Heart-30.jpg"
+      ]
     },
     {
       "id": "7B-Q13a",
@@ -1101,7 +1365,13 @@
       "question": "Explain the importance of slow twitch muscle fibres in the types of athlete shown in the table.",
       "status": "pending",
       "answer": "Pending: the table comparing percentage of slow twitch fibres in each athlete type is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-30.jpg",
+        "papers/biology/img/07B-Muscles-Heart-31.jpg",
+        "papers/biology/img/07B-Muscles-Heart-32.jpg",
+        "papers/biology/img/07B-Muscles-Heart-33.jpg"
+      ]
     },
     {
       "id": "7B-Q13b",
@@ -1121,6 +1391,12 @@
         "Muscle fibres are made of myofibrils.",
         "Myofibrils are made of repeating sarcomeres.",
         "The sarcomere is the contractile unit between two Z lines."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-30.jpg",
+        "papers/biology/img/07B-Muscles-Heart-31.jpg",
+        "papers/biology/img/07B-Muscles-Heart-32.jpg",
+        "papers/biology/img/07B-Muscles-Heart-33.jpg"
       ]
     },
     {
@@ -1143,6 +1419,12 @@
         "Cardiac output = heart rate x stroke volume (the text equation is garbled but this is the correct relation).",
         "65 x 57 = 3705 cm3 per minute.",
         "Convert to dm3: 3705 / 1000 = 3.7 dm3 min-1."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-30.jpg",
+        "papers/biology/img/07B-Muscles-Heart-31.jpg",
+        "papers/biology/img/07B-Muscles-Heart-32.jpg",
+        "papers/biology/img/07B-Muscles-Heart-33.jpg"
       ]
     },
     {
@@ -1161,7 +1443,13 @@
       "question": "Using the table of data for two patients, which is the correct cardiac index for patient B (options 1.24, 2.48, 2.92, 5.21)?",
       "status": "pending",
       "answer": "Pending: the table of cardiac output and body surface area for patients A and B is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-30.jpg",
+        "papers/biology/img/07B-Muscles-Heart-31.jpg",
+        "papers/biology/img/07B-Muscles-Heart-32.jpg",
+        "papers/biology/img/07B-Muscles-Heart-33.jpg"
+      ]
     },
     {
       "id": "7B-Q13c(iii)",
@@ -1179,7 +1467,13 @@
       "question": "State the ratio of body surface area of patient A to patient B, using the table.",
       "status": "pending",
       "answer": "Pending: the body surface area values for patients A and B are in a table that is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-30.jpg",
+        "papers/biology/img/07B-Muscles-Heart-31.jpg",
+        "papers/biology/img/07B-Muscles-Heart-32.jpg",
+        "papers/biology/img/07B-Muscles-Heart-33.jpg"
+      ]
     },
     {
       "id": "7B-Q13d(i)",
@@ -1197,7 +1491,13 @@
       "question": "Comment on the effect of running speed on cardiac output, using the graph.",
       "status": "pending",
       "answer": "Pending: the graph of cardiac output against running speed is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-30.jpg",
+        "papers/biology/img/07B-Muscles-Heart-31.jpg",
+        "papers/biology/img/07B-Muscles-Heart-32.jpg",
+        "papers/biology/img/07B-Muscles-Heart-33.jpg"
+      ]
     },
     {
       "id": "7B-Q13d(ii)",
@@ -1222,6 +1522,12 @@
         "Blood CO2 rises and pH falls, detected by chemoreceptors in the aorta and carotid arteries.",
         "Impulses go to the medulla, which sends impulses via sympathetic nerves to the SAN.",
         "The SAN fires more often, so heart rate increases to supply more oxygen and remove CO2."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-30.jpg",
+        "papers/biology/img/07B-Muscles-Heart-31.jpg",
+        "papers/biology/img/07B-Muscles-Heart-32.jpg",
+        "papers/biology/img/07B-Muscles-Heart-33.jpg"
       ]
     },
     {
@@ -1245,6 +1551,12 @@
         "Lactate diffuses from muscle into the blood.",
         "It is transported to the liver.",
         "The liver converts lactate back to glucose or glycogen (gluconeogenesis), or it is oxidised in the Krebs cycle when oxygen is available."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-30.jpg",
+        "papers/biology/img/07B-Muscles-Heart-31.jpg",
+        "papers/biology/img/07B-Muscles-Heart-32.jpg",
+        "papers/biology/img/07B-Muscles-Heart-33.jpg"
       ]
     },
     {
@@ -1263,7 +1575,13 @@
       "question": "Describe two conclusions from the table of mean resting heart rate and mean lifespan for seven mammals.",
       "status": "pending",
       "answer": "Pending: the table of resting heart rate and lifespan for seven mammals is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-33.jpg",
+        "papers/biology/img/07B-Muscles-Heart-34.jpg",
+        "papers/biology/img/07B-Muscles-Heart-35.jpg",
+        "papers/biology/img/07B-Muscles-Heart-36.jpg"
+      ]
     },
     {
       "id": "7B-Q14b(i)",
@@ -1281,7 +1599,13 @@
       "question": "Which heart rate (6, 48, 60 or 75 bpm) is shown in trace A of the ECG?",
       "status": "pending",
       "answer": "Pending: the ECG trace A is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-33.jpg",
+        "papers/biology/img/07B-Muscles-Heart-34.jpg",
+        "papers/biology/img/07B-Muscles-Heart-35.jpg",
+        "papers/biology/img/07B-Muscles-Heart-36.jpg"
+      ]
     },
     {
       "id": "7B-Q14b(ii)",
@@ -1299,7 +1623,13 @@
       "question": "Describe two differences between normal trace A and abnormal trace B on the ECG.",
       "status": "pending",
       "answer": "Pending: the ECG traces A and B are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-33.jpg",
+        "papers/biology/img/07B-Muscles-Heart-34.jpg",
+        "papers/biology/img/07B-Muscles-Heart-35.jpg",
+        "papers/biology/img/07B-Muscles-Heart-36.jpg"
+      ]
     },
     {
       "id": "7B-Q14c(i)",
@@ -1323,6 +1653,12 @@
         "Cardiac muscle cannot regenerate, so the heart has a limited number of beats in a lifetime.",
         "A lower resting heart rate (72 bpm in humans) means fewer total heartbeats over a lifetime.",
         "Healthcare, diet and lifestyle also affect lifespan independently of heart rate."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-33.jpg",
+        "papers/biology/img/07B-Muscles-Heart-34.jpg",
+        "papers/biology/img/07B-Muscles-Heart-35.jpg",
+        "papers/biology/img/07B-Muscles-Heart-36.jpg"
       ]
     },
     {
@@ -1344,6 +1680,12 @@
         "Cardiac output = heart rate x stroke volume.",
         "Resting heart rate ignores the volume of blood pumped with each beat.",
         "Cardiac output shows how much blood (and oxygen) is delivered to the tissues each minute."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-33.jpg",
+        "papers/biology/img/07B-Muscles-Heart-34.jpg",
+        "papers/biology/img/07B-Muscles-Heart-35.jpg",
+        "papers/biology/img/07B-Muscles-Heart-36.jpg"
       ]
     },
     {
@@ -1369,6 +1711,12 @@
         "The medulla oblongata sends impulses along sympathetic nerves to the SAN, increasing heart rate.",
         "Sympathetic impulses also increase the force of ventricular contraction, raising stroke volume.",
         "Together, heart rate and stroke volume increase cardiac output so muscles get more oxygen and glucose."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-33.jpg",
+        "papers/biology/img/07B-Muscles-Heart-34.jpg",
+        "papers/biology/img/07B-Muscles-Heart-35.jpg",
+        "papers/biology/img/07B-Muscles-Heart-36.jpg"
       ]
     },
     {
@@ -1391,6 +1739,12 @@
         "Tendons connect muscles to bones, so statement 3 is correct.",
         "Tendons are not extensors (extensor is a muscle action) and are not myogenic (myogenic refers to heart-type self-stimulation).",
         "One statement is correct, so the answer is B."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-36.jpg",
+        "papers/biology/img/07B-Muscles-Heart-37.jpg",
+        "papers/biology/img/07B-Muscles-Heart-38.jpg",
+        "papers/biology/img/07B-Muscles-Heart-39.jpg"
       ]
     },
     {
@@ -1409,7 +1763,13 @@
       "question": "Which pair of letters on the electron micrograph represents the length of one sarcomere (options P to T, P to U, Q to T, R to S)?",
       "status": "pending",
       "answer": "Pending: the electron micrograph with labels P, Q, R, S, T and U is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-36.jpg",
+        "papers/biology/img/07B-Muscles-Heart-37.jpg",
+        "papers/biology/img/07B-Muscles-Heart-38.jpg",
+        "papers/biology/img/07B-Muscles-Heart-39.jpg"
+      ]
     },
     {
       "id": "7B-Q15b(ii)",
@@ -1427,7 +1787,13 @@
       "question": "Calculate the magnification of the electron micrograph of a skeletal muscle fibre, in standard form.",
       "status": "pending",
       "answer": "Pending: the measured image size and actual size from the micrograph are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-36.jpg",
+        "papers/biology/img/07B-Muscles-Heart-37.jpg",
+        "papers/biology/img/07B-Muscles-Heart-38.jpg",
+        "papers/biology/img/07B-Muscles-Heart-39.jpg"
+      ]
     },
     {
       "id": "7B-Q15b(iii)",
@@ -1452,6 +1818,12 @@
         "They have fewer mitochondria and less myoglobin, so they are pale in colour.",
         "Slow twitch fibres have many mitochondria and more myoglobin, so they are dark red.",
         "Slow twitch fibres have a richer capillary supply for a steady oxygen supply."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-36.jpg",
+        "papers/biology/img/07B-Muscles-Heart-37.jpg",
+        "papers/biology/img/07B-Muscles-Heart-38.jpg",
+        "papers/biology/img/07B-Muscles-Heart-39.jpg"
       ]
     },
     {
@@ -1476,6 +1848,12 @@
         "Force depends on the number of cross bridges formed between actin and myosin.",
         "At high contraction velocity, each myosin head has less time to attach before it detaches.",
         "So fewer cross bridges form at once and the force falls as velocity rises (inverse relationship)."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-36.jpg",
+        "papers/biology/img/07B-Muscles-Heart-37.jpg",
+        "papers/biology/img/07B-Muscles-Heart-38.jpg",
+        "papers/biology/img/07B-Muscles-Heart-39.jpg"
       ]
     },
     {
@@ -1498,6 +1876,10 @@
       "steps": [
         "Actin and myosin are contractile proteins found in muscle.",
         "Bone, ligament and tendon are not contractile tissues."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-39.jpg",
+        "papers/biology/img/07B-Muscles-Heart-40.jpg"
       ]
     },
     {
@@ -1517,7 +1899,11 @@
       "question": "What is the function of the part of the elbow joint labelled W (options: extensor, flexor, ligament, tendon)?",
       "status": "pending",
       "answer": "Pending: the labelled elbow joint diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-39.jpg",
+        "papers/biology/img/07B-Muscles-Heart-40.jpg"
+      ]
     },
     {
       "id": "7B-Q16b(i)",
@@ -1539,6 +1925,10 @@
         "Ligaments connect bone to bone at a joint.",
         "They are made of collagen and some elastic fibres, giving strength and some flexibility.",
         "They limit movement in directions that could damage the joint, keeping bones in place."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-39.jpg",
+        "papers/biology/img/07B-Muscles-Heart-40.jpg"
       ]
     },
     {
@@ -1561,6 +1951,10 @@
       "steps": [
         "Ligaments can be damaged when a joint is forced beyond its normal range of movement.",
         "A sudden twist or impact, such as in a fall or sports injury, is a typical cause."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-39.jpg",
+        "papers/biology/img/07B-Muscles-Heart-40.jpg"
       ]
     },
     {
@@ -1583,6 +1977,12 @@
         "Electrons and protons reach the final electron acceptor at the end of the electron transport chain.",
         "Oxygen is the final electron acceptor and is reduced.",
         "Reduced oxygen combines with protons to form water, so B is correct."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-40.jpg",
+        "papers/biology/img/07B-Muscles-Heart-41.jpg",
+        "papers/biology/img/07B-Muscles-Heart-42.jpg",
+        "papers/biology/img/07B-Muscles-Heart-43.jpg"
       ]
     },
     {
@@ -1601,7 +2001,13 @@
       "question": "Using oxygen uptake of 2.20 dm3/min at 60 minutes and the respiratory quotient from the graph, find the CO2 production rate.",
       "status": "pending",
       "answer": "Pending: the respiratory quotient at 60 minutes must be read from the graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-40.jpg",
+        "papers/biology/img/07B-Muscles-Heart-41.jpg",
+        "papers/biology/img/07B-Muscles-Heart-42.jpg",
+        "papers/biology/img/07B-Muscles-Heart-43.jpg"
+      ]
     },
     {
       "id": "7B-Q17b(ii)",
@@ -1620,7 +2026,13 @@
       "question": "Explain the changes in respiratory quotient during the exercise period, using the table and the graph.",
       "status": "pending",
       "answer": "Pending: the RQ graph over time and the RQ table for fats and carbohydrates are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-40.jpg",
+        "papers/biology/img/07B-Muscles-Heart-41.jpg",
+        "papers/biology/img/07B-Muscles-Heart-42.jpg",
+        "papers/biology/img/07B-Muscles-Heart-43.jpg"
+      ]
     },
     {
       "id": "7B-Q17c(i)",
@@ -1639,7 +2051,13 @@
       "question": "Calculate the total number of 80-year-old people with lung cancer who are non-smoking with COPD, in standard form.",
       "status": "pending",
       "answer": "Pending: the incidence percentages from the graph are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-40.jpg",
+        "papers/biology/img/07B-Muscles-Heart-41.jpg",
+        "papers/biology/img/07B-Muscles-Heart-42.jpg",
+        "papers/biology/img/07B-Muscles-Heart-43.jpg"
+      ]
     },
     {
       "id": "7B-Q17c(ii)",
@@ -1664,6 +2082,12 @@
         "Mucus and inflammation block airways, so less O2 enters and CO2 is retained.",
         "Chemoreceptors detect low O2 and high CO2, and the medulla increases heart rate and ventilation rate.",
         "A faster heart rate and breathing rate try to supply more O2 and remove CO2, although the effect is limited by the damage."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-40.jpg",
+        "papers/biology/img/07B-Muscles-Heart-41.jpg",
+        "papers/biology/img/07B-Muscles-Heart-42.jpg",
+        "papers/biology/img/07B-Muscles-Heart-43.jpg"
       ]
     },
     {
@@ -1683,7 +2107,12 @@
       "question": "Which row of the table shows the sensor and location involved in control of ventilation?",
       "status": "pending",
       "answer": "Pending: the table of sensors and locations is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-43.jpg",
+        "papers/biology/img/07B-Muscles-Heart-44.jpg",
+        "papers/biology/img/07B-Muscles-Heart-45.jpg"
+      ]
     },
     {
       "id": "7B-Q18a(ii)",
@@ -1702,7 +2131,12 @@
       "question": "Explain why control of ventilation rate is an example of negative feedback, using the diagram.",
       "status": "pending",
       "answer": "Pending: the answer must refer to the negative feedback diagram, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-43.jpg",
+        "papers/biology/img/07B-Muscles-Heart-44.jpg",
+        "papers/biology/img/07B-Muscles-Heart-45.jpg"
+      ]
     },
     {
       "id": "7B-Q18b",
@@ -1720,7 +2154,12 @@
       "question": "Complete the diagram to show positive feedback in the ripening of apples, where ripe apples release ethene.",
       "status": "pending",
       "answer": "Pending: the incomplete feedback diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-43.jpg",
+        "papers/biology/img/07B-Muscles-Heart-44.jpg",
+        "papers/biology/img/07B-Muscles-Heart-45.jpg"
+      ]
     },
     {
       "id": "7B-Q19a",
@@ -1738,7 +2177,12 @@
       "question": "Which row of the table describes tendons and ligaments?",
       "status": "pending",
       "answer": "Pending: the table is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-46.jpg",
+        "papers/biology/img/07B-Muscles-Heart-47.jpg",
+        "papers/biology/img/07B-Muscles-Heart-48.jpg"
+      ]
     },
     {
       "id": "7B-Q19b(i)",
@@ -1757,7 +2201,12 @@
       "question": "Which pair of letters on the muscle fibre diagram represents one sarcomere (options P to T, Q to U, R to V, S to W)?",
       "status": "pending",
       "answer": "Pending: the diagram of a skeletal muscle fibre is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-46.jpg",
+        "papers/biology/img/07B-Muscles-Heart-47.jpg",
+        "papers/biology/img/07B-Muscles-Heart-48.jpg"
+      ]
     },
     {
       "id": "7B-Q19b(ii)",
@@ -1782,6 +2231,11 @@
         "Fast twitch fibres are thicker, with more glycogen and glycolytic enzymes, and fewer mitochondria.",
         "Slow twitch fibres have many mitochondria, more myoglobin and a richer blood supply.",
         "Fast twitch fibres contract faster and more powerfully; slow twitch fibres resist fatigue."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-46.jpg",
+        "papers/biology/img/07B-Muscles-Heart-47.jpg",
+        "papers/biology/img/07B-Muscles-Heart-48.jpg"
       ]
     },
     {
@@ -1800,7 +2254,12 @@
       "question": "Explain the relationship between power output and speed of contraction for the two muscle types, using the graph.",
       "status": "pending",
       "answer": "Pending: the graph of power output against speed of contraction for the two muscle types is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-46.jpg",
+        "papers/biology/img/07B-Muscles-Heart-47.jpg",
+        "papers/biology/img/07B-Muscles-Heart-48.jpg"
+      ]
     },
     {
       "id": "7B-Q20a(i)",
@@ -1819,7 +2278,13 @@
       "question": "Which row shows the molecules in the diagram of what happens to lactate following exercise?",
       "status": "pending",
       "answer": "Pending: the diagram and its answer rows are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-48.jpg",
+        "papers/biology/img/07B-Muscles-Heart-49.jpg",
+        "papers/biology/img/07B-Muscles-Heart-50.jpg",
+        "papers/biology/img/07B-Muscles-Heart-51.jpg"
+      ]
     },
     {
       "id": "7B-Q20a(ii)",
@@ -1839,7 +2304,13 @@
       "question": "Explain the results of the investigation on lactate and stroke volume, using the table, the graph and own knowledge.",
       "status": "pending",
       "answer": "Pending: the results table and stroke volume graph are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-48.jpg",
+        "papers/biology/img/07B-Muscles-Heart-49.jpg",
+        "papers/biology/img/07B-Muscles-Heart-50.jpg",
+        "papers/biology/img/07B-Muscles-Heart-51.jpg"
+      ]
     },
     {
       "id": "7B-Q20b",
@@ -1863,6 +2334,12 @@
         "Cyanide inhibits it, so electrons cannot be passed on and the chain stops.",
         "Reduced NAD and FAD cannot be reoxidised, so the Krebs cycle and oxidative phosphorylation stop.",
         "Less ATP is made by chemiosmosis, so cells (including muscle and nerve) lack energy and the animal dies."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-48.jpg",
+        "papers/biology/img/07B-Muscles-Heart-49.jpg",
+        "papers/biology/img/07B-Muscles-Heart-50.jpg",
+        "papers/biology/img/07B-Muscles-Heart-51.jpg"
       ]
     },
     {
@@ -1887,6 +2364,12 @@
         "This moves tropomyosin away from the myosin binding sites on actin.",
         "With low Ca2+, the binding sites stay blocked, so myosin heads cannot form cross bridges.",
         "Without cross bridges, the power stroke cannot happen and the muscle cannot contract."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-51.jpg",
+        "papers/biology/img/07B-Muscles-Heart-52.jpg",
+        "papers/biology/img/07B-Muscles-Heart-53.jpg",
+        "papers/biology/img/07B-Muscles-Heart-54.jpg"
       ]
     },
     {
@@ -1909,6 +2392,12 @@
         "The body keeps blood Ca2+ within a narrow range.",
         "Any change is detected and corrected by an opposing response.",
         "This control process is homeostasis, achieved by negative feedback."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-51.jpg",
+        "papers/biology/img/07B-Muscles-Heart-52.jpg",
+        "papers/biology/img/07B-Muscles-Heart-53.jpg",
+        "papers/biology/img/07B-Muscles-Heart-54.jpg"
       ]
     },
     {
@@ -1931,6 +2420,12 @@
         "6% of 91 = 0.06 x 91 = 5.46 mg dm-3.",
         "The range extends 5.46 above and 5.46 below the mean.",
         "Total spread = 2 x 5.46 = 10.92, so 10.9 mg dm-3 (maximum difference across the range)."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-51.jpg",
+        "papers/biology/img/07B-Muscles-Heart-52.jpg",
+        "papers/biology/img/07B-Muscles-Heart-53.jpg",
+        "papers/biology/img/07B-Muscles-Heart-54.jpg"
       ]
     },
     {
@@ -1950,7 +2445,13 @@
       "question": "Explain the effect on lactate concentration from 15 minutes to 60 minutes on the graph.",
       "status": "pending",
       "answer": "Pending: the blood lactate graph for the time trial is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-51.jpg",
+        "papers/biology/img/07B-Muscles-Heart-52.jpg",
+        "papers/biology/img/07B-Muscles-Heart-53.jpg",
+        "papers/biology/img/07B-Muscles-Heart-54.jpg"
+      ]
     },
     {
       "id": "7B-Q21c(ii)",
@@ -1971,6 +2472,12 @@
       "steps": [
         "Lactate levels vary between people and over time.",
         "A baseline reading allows the change caused by exercise to be measured."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-51.jpg",
+        "papers/biology/img/07B-Muscles-Heart-52.jpg",
+        "papers/biology/img/07B-Muscles-Heart-53.jpg",
+        "papers/biology/img/07B-Muscles-Heart-54.jpg"
       ]
     },
     {
@@ -1993,6 +2500,12 @@
       "steps": [
         "Intensity of exercise affects lactate, so it must be kept the same.",
         "Use the same simulator setting or course for every trial and every cyclist."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-51.jpg",
+        "papers/biology/img/07B-Muscles-Heart-52.jpg",
+        "papers/biology/img/07B-Muscles-Heart-53.jpg",
+        "papers/biology/img/07B-Muscles-Heart-54.jpg"
       ]
     },
     {
@@ -2011,7 +2524,12 @@
       "question": "Which regions of the relaxed sarcomere diagram would shorten when it contracts (options: P only, R only, P and R, Q and R)?",
       "status": "pending",
       "answer": "Pending: the labelled sarcomere diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-54.jpg",
+        "papers/biology/img/07B-Muscles-Heart-55.jpg",
+        "papers/biology/img/07B-Muscles-Heart-56.jpg"
+      ]
     },
     {
       "id": "7B-Q22a(ii)",
@@ -2029,7 +2547,12 @@
       "question": "Give the ratio of the length of the relaxed sarcomere to the contracted sarcomere (contracted length 50 mm, same scale).",
       "status": "pending",
       "answer": "Pending: the relaxed sarcomere length on the diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-54.jpg",
+        "papers/biology/img/07B-Muscles-Heart-55.jpg",
+        "papers/biology/img/07B-Muscles-Heart-56.jpg"
+      ]
     },
     {
       "id": "7B-Q22a(iii)",
@@ -2047,7 +2570,12 @@
       "question": "Name the major protein component that forms structure S in the sarcomere diagram.",
       "status": "pending",
       "answer": "Pending: the labelled sarcomere diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-54.jpg",
+        "papers/biology/img/07B-Muscles-Heart-55.jpg",
+        "papers/biology/img/07B-Muscles-Heart-56.jpg"
+      ]
     },
     {
       "id": "7B-Q22b",
@@ -2071,6 +2599,11 @@
         "Ca2+ binds to troponin, which changes shape.",
         "Troponin pulls tropomyosin away from the myosin binding sites on actin.",
         "Myosin heads can now bind to actin, forming cross bridges and allowing contraction."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-54.jpg",
+        "papers/biology/img/07B-Muscles-Heart-55.jpg",
+        "papers/biology/img/07B-Muscles-Heart-56.jpg"
       ]
     },
     {
@@ -2089,7 +2622,12 @@
       "question": "Add an appropriate scale to the incomplete graph and draw a line of best fit for ATP concentration against peak muscle tension.",
       "status": "pending",
       "answer": "Pending: the results table and incomplete graph are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-54.jpg",
+        "papers/biology/img/07B-Muscles-Heart-55.jpg",
+        "papers/biology/img/07B-Muscles-Heart-56.jpg"
+      ]
     },
     {
       "id": "7B-Q22c(ii)",
@@ -2106,7 +2644,12 @@
       "question": "Calculate the gradient of the line of best fit, in N per percentage increase in ATP.",
       "status": "pending",
       "answer": "Pending: the results table data needed for the gradient is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-54.jpg",
+        "papers/biology/img/07B-Muscles-Heart-55.jpg",
+        "papers/biology/img/07B-Muscles-Heart-56.jpg"
+      ]
     },
     {
       "id": "7B-Q23a(i)",
@@ -2124,7 +2667,12 @@
       "question": "Describe three conclusions from the graph of mean heart rate and blood pressure during and after exercise.",
       "status": "pending",
       "answer": "Pending: the graph of heart rate and blood pressure against time is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-56.jpg",
+        "papers/biology/img/07B-Muscles-Heart-57.jpg",
+        "papers/biology/img/07B-Muscles-Heart-58.jpg"
+      ]
     },
     {
       "id": "7B-Q23a(ii)",
@@ -2149,6 +2697,11 @@
         "The SAN fires more frequently, so the cardiac cycle shortens and both systole and diastole are shorter.",
         "Adrenaline increases the heart rate and the force of ventricular contraction (systole).",
         "Diastole is shorter, so less time is available for ventricles to fill, and blood pressure rises."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-56.jpg",
+        "papers/biology/img/07B-Muscles-Heart-57.jpg",
+        "papers/biology/img/07B-Muscles-Heart-58.jpg"
       ]
     },
     {
@@ -2171,6 +2724,11 @@
         "Convert cardiac output: 5 dm3 = 5000 cm3 per minute.",
         "Stroke volume = cardiac output / heart rate = 5000 / 72 = 69.4 cm3.",
         "To 2 s.f. the stroke volume is 69 cm3."
+      ],
+      "images": [
+        "papers/biology/img/07B-Muscles-Heart-56.jpg",
+        "papers/biology/img/07B-Muscles-Heart-57.jpg",
+        "papers/biology/img/07B-Muscles-Heart-58.jpg"
       ]
     }
   ]

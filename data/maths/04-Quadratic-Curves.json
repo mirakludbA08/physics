@@ -9,7 +9,16 @@
       "no": "Q1(a)",
       "marks": 4,
       "topic": "Solving Polynomial Equations",
-      "keywords": ["factorise", "roots", "polynomial", "quadratic factor", "solve", "f(x)=0", "algebra", "x squared"],
+      "keywords": [
+        "factorise",
+        "roots",
+        "polynomial",
+        "quadratic factor",
+        "solve",
+        "f(x)=0",
+        "algebra",
+        "x squared"
+      ],
       "question": "f(x) = x^2(2x + 1) - 15x. Solve f(x) = 0 showing detailed reasoning.",
       "status": "ready",
       "answer": "x = 0, x = 5/2, x = -3",
@@ -18,6 +27,10 @@
         "Take out the common factor x: f(x) = x(2x^2 + x - 15).",
         "Factorise: 2x^2 + x - 15 = (2x - 5)(x + 3).",
         "So f(x) = x(2x - 5)(x + 3) = 0, giving x = 0, 5/2 or -3."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-1.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-2.jpg"
       ]
     },
     {
@@ -25,7 +38,16 @@
       "no": "Q1(b)",
       "marks": 2,
       "topic": "Substitution With Fractional Powers",
-      "keywords": ["substitution", "fractional powers", "surd", "hence solve", "y greater than zero", "cube root", "y^(2/3)", "reject"],
+      "keywords": [
+        "substitution",
+        "fractional powers",
+        "surd",
+        "hence solve",
+        "y greater than zero",
+        "cube root",
+        "y^(2/3)",
+        "reject"
+      ],
       "question": "Hence solve y^(4/3)(2y^(2/3) + 1) - 15y^(2/3) = 0, giving your answer in simplified surd form, where y > 0.",
       "status": "ready",
       "answer": "y = 5 sqrt(10)/4",
@@ -34,6 +56,10 @@
         "From part (a), x = 0, 5/2 or -3.",
         "y > 0 gives x = y^(2/3) > 0, so x = 5/2 only.",
         "y = x^(3/2) = (5/2)^(3/2) = 5 sqrt(10)/4."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-1.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-2.jpg"
       ]
     },
     {
@@ -41,7 +67,16 @@
       "no": "Q2",
       "marks": 5,
       "topic": "Quadratic In Sqrt(X)",
-      "keywords": ["surd", "substitution", "quadratic", "square root", "solve", "algebra", "sqrt(x)", "simplify"],
+      "keywords": [
+        "surd",
+        "substitution",
+        "quadratic",
+        "square root",
+        "solve",
+        "algebra",
+        "sqrt(x)",
+        "simplify"
+      ],
       "question": "Solve, using algebra, x - 6 x^(1/2) + 4 = 0. Fully simplify the answers, writing them in the form a + b sqrt(c) where a, b and c are integers.",
       "status": "ready",
       "answer": "x = 14 + 6 sqrt(5) or x = 14 - 6 sqrt(5)",
@@ -50,6 +85,10 @@
         "u = (6 +/- sqrt(36 - 16))/2 = 3 +/- sqrt(5).",
         "Both u values are positive, so both are valid.",
         "x = u^2 = (3 +/- sqrt(5))^2 = 14 +/- 6 sqrt(5)."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-1.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-2.jpg"
       ]
     },
     {
@@ -57,7 +96,16 @@
       "no": "Q3(a)(i)",
       "marks": 1,
       "topic": "Line Through Curve Intercept",
-      "keywords": ["line", "gradient", "x-intercept", "negative", "curve c", "equation", "y=mx+c", "parabola"],
+      "keywords": [
+        "line",
+        "gradient",
+        "x-intercept",
+        "negative",
+        "curve c",
+        "equation",
+        "y=mx+c",
+        "parabola"
+      ],
       "question": "Curve C is y = -(1/4)(x + 2)(x - b), where b is a positive constant. Line l1 has gradient 1/2 and intersects C on the negative x-axis. Write down an equation for l1.",
       "status": "ready",
       "answer": "y = x/2 + 1",
@@ -65,6 +113,10 @@
         "C crosses the x-axis at x = -2 and x = b, so the negative x-axis point is (-2, 0).",
         "l1 has gradient 1/2 through (-2, 0): y - 0 = (1/2)(x + 2).",
         "So y = x/2 + 1."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-2.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-3.jpg"
       ]
     },
     {
@@ -72,7 +124,16 @@
       "no": "Q3(a)(ii)",
       "marks": 3,
       "topic": "Intersection Of Line And Curve",
-      "keywords": ["intersection", "line", "parabola", "factorise", "coordinates", "in terms of b", "point p", "algebra"],
+      "keywords": [
+        "intersection",
+        "line",
+        "parabola",
+        "factorise",
+        "coordinates",
+        "in terms of b",
+        "point p",
+        "algebra"
+      ],
       "question": "Curve C is y = -(1/4)(x + 2)(x - b) and line l1 is y = x/2 + 1. l1 meets C at a point P other than (-2, 0). Find, in terms of b, the coordinates of P.",
       "status": "ready",
       "answer": "P = (b - 2, b/2)",
@@ -81,6 +142,10 @@
         "Take out (x + 2): (x + 2)[-(1/4)(x - b) - 1/2] = 0.",
         "Since x + 2 is not zero at P, -(1/4)(x - b) = 1/2, so x - b = -2 and x = b - 2.",
         "y = (1/2)(b - 2 + 2) = b/2, so P = (b - 2, b/2)."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-2.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-3.jpg"
       ]
     },
     {
@@ -88,7 +153,16 @@
       "no": "Q3(b)",
       "marks": 2,
       "topic": "Normal Line Equation",
-      "keywords": ["perpendicular", "gradient", "positive x-axis", "intercept", "line l2", "in terms of b", "negative reciprocal", "curve"],
+      "keywords": [
+        "perpendicular",
+        "gradient",
+        "positive x-axis",
+        "intercept",
+        "line l2",
+        "in terms of b",
+        "negative reciprocal",
+        "curve"
+      ],
       "question": "Line l2 is perpendicular to l1 (gradient 1/2) and intersects C on the positive x-axis, at (b, 0). Find, in terms of b, an equation for l2.",
       "status": "ready",
       "answer": "y = -2x + 2b",
@@ -96,6 +170,10 @@
         "Gradient of l1 is 1/2, so the gradient of l2 is -2.",
         "l2 passes through the positive x-axis intercept (b, 0).",
         "y - 0 = -2(x - b), so y = -2x + 2b."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-2.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-3.jpg"
       ]
     },
     {
@@ -103,7 +181,16 @@
       "no": "Q3(c)",
       "marks": 2,
       "topic": "Line Through Point Of Intersection",
-      "keywords": ["show that", "perpendicular", "point p", "gradient", "equation", "in terms of b", "line l2", "substitute"],
+      "keywords": [
+        "show that",
+        "perpendicular",
+        "point p",
+        "gradient",
+        "equation",
+        "in terms of b",
+        "line l2",
+        "substitute"
+      ],
       "question": "Line l2 is perpendicular to l1 and intersects C at P = (b - 2, b/2). Show that another equation for l2 is y = -2x + 5b/2 - 4.",
       "status": "ready",
       "answer": "Shown: y = -2x + 5b/2 - 4",
@@ -112,6 +199,10 @@
         "Use the point P: y - b/2 = -2(x - (b - 2)).",
         "y - b/2 = -2x + 2b - 4, so y = -2x + 2b - 4 + b/2.",
         "Combine: y = -2x + 5b/2 - 4."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-2.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-3.jpg"
       ]
     },
     {
@@ -119,7 +210,16 @@
       "no": "Q3(d)",
       "marks": 2,
       "topic": "Equating Line Equations",
-      "keywords": ["equate", "equations", "solve for b", "same line", "value of b", "linear equation", "compare", "constant"],
+      "keywords": [
+        "equate",
+        "equations",
+        "solve for b",
+        "same line",
+        "value of b",
+        "linear equation",
+        "compare",
+        "constant"
+      ],
       "question": "Using the two equations for line l2, y = -2x + 2b and y = -2x + 5b/2 - 4, find the value of b.",
       "status": "ready",
       "answer": "b = 8",
@@ -127,6 +227,10 @@
         "Both equations describe l2, so their constant terms are equal: 2b = 5b/2 - 4.",
         "Multiply by 2: 4b = 5b - 8.",
         "So b = 8."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-2.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-3.jpg"
       ]
     },
     {
@@ -134,7 +238,16 @@
       "no": "Q4(a)",
       "marks": 3,
       "topic": "Completing The Square",
-      "keywords": ["complete the square", "negative quadratic", "a+b(x+c)^2", "maximum", "integers", "express", "quadratic", "form"],
+      "keywords": [
+        "complete the square",
+        "negative quadratic",
+        "a+b(x+c)^2",
+        "maximum",
+        "integers",
+        "express",
+        "quadratic",
+        "form"
+      ],
       "question": "f(x) = 11 - 4x - 2x^2. Express f(x) in the form a + b(x + c)^2, where a, b and c are integers.",
       "status": "ready",
       "answer": "f(x) = 13 - 2(x + 1)^2 (a = 13, b = -2, c = 1)",
@@ -143,6 +256,10 @@
         "Complete the square: x^2 + 2x = (x + 1)^2 - 1.",
         "f(x) = -2((x + 1)^2 - 1) + 11 = -2(x + 1)^2 + 2 + 11.",
         "So f(x) = 13 - 2(x + 1)^2."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-3.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-4.jpg"
       ]
     },
     {
@@ -150,7 +267,16 @@
       "no": "Q4(b)",
       "marks": 2,
       "topic": "Sketching Quadratic Curves",
-      "keywords": ["sketch", "quadratic", "y-intercept", "maximum", "turning point", "negative coefficient", "curve", "graph"],
+      "keywords": [
+        "sketch",
+        "quadratic",
+        "y-intercept",
+        "maximum",
+        "turning point",
+        "negative coefficient",
+        "curve",
+        "graph"
+      ],
       "question": "Sketch the graph of the curve C with equation y = f(x) = 11 - 4x - 2x^2, showing clearly the coordinates of the point where the curve crosses the y-axis.",
       "status": "ready",
       "answer": "U-shaped downward parabola with maximum at (-1, 13) and y-intercept (0, 11)",
@@ -159,6 +285,10 @@
         "From part (a), the maximum turning point is (-1, 13).",
         "Set x = 0: y = 11, so the curve crosses the y-axis at (0, 11).",
         "Draw a smooth downward curve through (0, 11), peaking at (-1, 13)."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-3.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-4.jpg"
       ]
     },
     {
@@ -166,7 +296,16 @@
       "no": "Q4(c)",
       "marks": 1,
       "topic": "Line Of Symmetry",
-      "keywords": ["line of symmetry", "turning point", "completed square", "vertical line", "axis", "x=-1", "quadratic", "symmetry"],
+      "keywords": [
+        "line of symmetry",
+        "turning point",
+        "completed square",
+        "vertical line",
+        "axis",
+        "x=-1",
+        "quadratic",
+        "symmetry"
+      ],
       "question": "Write down the equation of the line of symmetry of the curve C with equation y = 11 - 4x - 2x^2.",
       "status": "ready",
       "answer": "x = -1",
@@ -174,6 +313,10 @@
         "In the form 13 - 2(x + 1)^2, the turning point is at x = -1.",
         "The line of symmetry is the vertical line through the turning point.",
         "So the line of symmetry is x = -1."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-3.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-4.jpg"
       ]
     },
     {
@@ -181,7 +324,16 @@
       "no": "Q5(a)",
       "marks": 3,
       "topic": "Completing The Square",
-      "keywords": ["complete the square", "a(x+b)^2+c", "positive quadratic", "express", "integers", "coefficients", "quadratic", "form"],
+      "keywords": [
+        "complete the square",
+        "a(x+b)^2+c",
+        "positive quadratic",
+        "express",
+        "integers",
+        "coefficients",
+        "quadratic",
+        "form"
+      ],
       "question": "Express 3x^2 + 12x + 13 in the form a(x + b)^2 + c, where a, b and c are integers.",
       "status": "ready",
       "answer": "3(x + 2)^2 + 1 (a = 3, b = 2, c = 1)",
@@ -190,6 +342,10 @@
         "Complete the square: x^2 + 4x = (x + 2)^2 - 4.",
         "3((x + 2)^2 - 4) + 13 = 3(x + 2)^2 - 12 + 13.",
         "So 3x^2 + 12x + 13 = 3(x + 2)^2 + 1."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-4.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-5.jpg"
       ]
     },
     {
@@ -197,7 +353,16 @@
       "no": "Q5(b)",
       "marks": 3,
       "topic": "Sketching Quadratic Curves",
-      "keywords": ["sketch", "minimum point", "y-intercept", "turning point", "upward parabola", "curve", "graph", "coordinates"],
+      "keywords": [
+        "sketch",
+        "minimum point",
+        "y-intercept",
+        "turning point",
+        "upward parabola",
+        "curve",
+        "graph",
+        "coordinates"
+      ],
       "question": "Hence sketch the curve y = 3x^2 + 12x + 13, showing the coordinates of the y-intercept and the turning point.",
       "status": "ready",
       "answer": "Upward parabola with minimum (-2, 1) and y-intercept (0, 13)",
@@ -206,6 +371,10 @@
         "Minimum turning point is (-2, 1).",
         "At x = 0, y = 13, so the y-intercept is (0, 13).",
         "Draw a smooth upward U-shape through these points, symmetrical about x = -2."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-4.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-5.jpg"
       ]
     },
     {
@@ -213,7 +382,16 @@
       "no": "Q6(a)",
       "marks": 3,
       "topic": "Cubic Equation Factorising",
-      "keywords": ["cubic", "factorise", "real solutions", "roots", "common factor", "algebra", "solve", "polynomial"],
+      "keywords": [
+        "cubic",
+        "factorise",
+        "real solutions",
+        "roots",
+        "common factor",
+        "algebra",
+        "solve",
+        "polynomial"
+      ],
       "question": "Find, using algebra, all real solutions of 2x^3 + 3x^2 - 35x = 0.",
       "status": "ready",
       "answer": "x = -5, x = 0, x = 7/2",
@@ -222,6 +400,10 @@
         "Factorise: 2x^2 + 3x - 35 = (2x - 7)(x + 5).",
         "So x(2x - 7)(x + 5) = 0.",
         "Solutions: x = -5, 0, 7/2."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-4.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-5.jpg"
       ]
     },
     {
@@ -229,7 +411,16 @@
       "no": "Q6(b)",
       "marks": 4,
       "topic": "Substitution Into Polynomial",
-      "keywords": ["substitution", "hence", "real solutions", "y-5", "even powers", "square root", "reject", "polynomial"],
+      "keywords": [
+        "substitution",
+        "hence",
+        "real solutions",
+        "y-5",
+        "even powers",
+        "square root",
+        "reject",
+        "polynomial"
+      ],
       "question": "Hence find all real solutions of 2(y - 5)^6 + 3(y - 5)^4 - 35(y - 5)^2 = 0.",
       "status": "ready",
       "answer": "y = 5, y = 5 + sqrt(14)/2, y = 5 - sqrt(14)/2",
@@ -238,6 +429,10 @@
         "The equation becomes 2x^3 + 3x^2 - 35x = 0, with solutions x = -5, 0, 7/2.",
         "x = (y - 5)^2 cannot be negative, so x = -5 is rejected.",
         "x = 0 gives y = 5; x = 7/2 gives y - 5 = +/- sqrt(7/2) = +/- sqrt(14)/2."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-4.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-5.jpg"
       ]
     },
     {
@@ -245,7 +440,16 @@
       "no": "Q7(a)",
       "marks": 3,
       "topic": "Cubic Equation Factorising",
-      "keywords": ["cubic", "factorise", "all solutions", "roots", "common factor", "algebra", "solve", "polynomial"],
+      "keywords": [
+        "cubic",
+        "factorise",
+        "all solutions",
+        "roots",
+        "common factor",
+        "algebra",
+        "solve",
+        "polynomial"
+      ],
       "question": "Find, using algebra, all solutions of 20x^3 - 50x^2 - 30x = 0.",
       "status": "ready",
       "answer": "x = 0, x = -1/2, x = 3",
@@ -254,6 +458,10 @@
         "Factorise: 2x^2 - 5x - 3 = (2x + 1)(x - 3).",
         "So 10x(2x + 1)(x - 3) = 0.",
         "Solutions: x = 0, -1/2, 3."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-5.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-6.jpg"
       ]
     },
     {
@@ -261,7 +469,16 @@
       "no": "Q7(b)",
       "marks": 4,
       "topic": "Substitution With Fractional Powers",
-      "keywords": ["substitution", "fractional powers", "real solutions", "square root", "hence find", "reject negative", "y+3", "cubic"],
+      "keywords": [
+        "substitution",
+        "fractional powers",
+        "real solutions",
+        "square root",
+        "hence find",
+        "reject negative",
+        "y+3",
+        "cubic"
+      ],
       "question": "Hence find all real solutions of 20(y + 3)^(3/2) - 50(y + 3) - 30(y + 3)^(1/2) = 0.",
       "status": "ready",
       "answer": "y = -3 or y = 6",
@@ -270,6 +487,10 @@
         "The equation becomes 20x^3 - 50x^2 - 30x = 0, giving x = 0, -1/2 or 3.",
         "Since x is a real square root it cannot be negative, so x = -1/2 is rejected.",
         "x = 0 gives y = -3; x = 3 gives y + 3 = 9, so y = 6."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-5.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-6.jpg"
       ]
     },
     {
@@ -277,7 +498,16 @@
       "no": "Q8(a)",
       "marks": 5,
       "topic": "Finding A Constant From A Value",
-      "keywords": ["cubic", "f(-1)=32", "constant a", "positive", "solve", "quadratic", "factorise", "f(x)=0"],
+      "keywords": [
+        "cubic",
+        "f(-1)=32",
+        "constant a",
+        "positive",
+        "solve",
+        "quadratic",
+        "factorise",
+        "f(x)=0"
+      ],
       "question": "f(x) = a x^3 + (6a + 8) x^2 - a^2 x, where a is a positive constant. Given f(-1) = 32, (i) show that the only possible value of a is 3, and (ii) using a = 3 solve f(x) = 0.",
       "status": "ready",
       "answer": "a = 3 (shown); with a = 3, f(x) = 0 gives x = -9, x = 0, x = 1/3",
@@ -286,6 +516,10 @@
         "Set equal to 32: a^2 + 5a - 24 = 0, so (a + 8)(a - 3) = 0.",
         "a is positive, so a = 3 is the only possible value.",
         "With a = 3: f(x) = 3x^3 + 26x^2 - 9x = x(3x - 1)(x + 9), so f(x) = 0 gives x = -9, 0, 1/3."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-5.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-6.jpg"
       ]
     },
     {
@@ -293,7 +527,16 @@
       "no": "Q8(b)",
       "marks": 5,
       "topic": "Solving Equations By Substitution",
-      "keywords": ["substitution", "fractional powers", "exponential", "cubic", "real solutions", "y^(1/3)", "9^x", "hence"],
+      "keywords": [
+        "substitution",
+        "fractional powers",
+        "exponential",
+        "cubic",
+        "real solutions",
+        "y^(1/3)",
+        "9^x",
+        "hence"
+      ],
       "question": "Hence find all real solutions of (i) 3y + 26y^(2/3) - 9y^(1/3) = 0 and (ii) 3(9^(3x)) + 26(9^(2x)) - 9(9^x) = 0.",
       "status": "ready",
       "answer": "(i) y = -729, y = 0, y = 1/27; (ii) x = -1/2",
@@ -302,6 +545,10 @@
         "This is f(u) = 0 with a = 3, so u = -9, 0, 1/3, giving y = -729, 0, 1/27.",
         "(ii) Let v = 9^x > 0: the equation is 3v^3 + 26v^2 - 9v = 0, so v = -9, 0, 1/3.",
         "v > 0 so v = 1/3: 9^x = 3^(2x) = 3^(-1), so x = -1/2."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-5.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-6.jpg"
       ]
     },
     {
@@ -309,7 +556,16 @@
       "no": "Q9(a)",
       "marks": 3,
       "topic": "Completing The Square",
-      "keywords": ["complete the square", "a(x+b)^2+c", "positive quadratic", "curve c1", "integers", "express", "minimum", "quadratic"],
+      "keywords": [
+        "complete the square",
+        "a(x+b)^2+c",
+        "positive quadratic",
+        "curve c1",
+        "integers",
+        "express",
+        "minimum",
+        "quadratic"
+      ],
       "question": "Curve C1 has equation y = 3x^2 + 6x + 9. Write 3x^2 + 6x + 9 in the form a(x + b)^2 + c, where a, b and c are constants.",
       "status": "ready",
       "answer": "3(x + 1)^2 + 6 (a = 3, b = 1, c = 6)",
@@ -318,6 +574,10 @@
         "Complete the square: x^2 + 2x = (x + 1)^2 - 1.",
         "3((x + 1)^2 - 1) + 9 = 3(x + 1)^2 - 3 + 9.",
         "So 3x^2 + 6x + 9 = 3(x + 1)^2 + 6."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-6.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-7.jpg"
       ]
     },
     {
@@ -325,7 +585,16 @@
       "no": "Q9(b)",
       "marks": 1,
       "topic": "Minimum Point Of A Curve",
-      "keywords": ["minimum point", "turning point", "completed square", "coordinates", "deduce", "curve", "p", "vertex"],
+      "keywords": [
+        "minimum point",
+        "turning point",
+        "completed square",
+        "coordinates",
+        "deduce",
+        "curve",
+        "p",
+        "vertex"
+      ],
       "question": "The point P is the minimum point of C1, where C1 has equation y = 3(x + 1)^2 + 6. Deduce the coordinates of P.",
       "status": "ready",
       "answer": "P = (-1, 6)",
@@ -333,6 +602,10 @@
         "A square term (x + 1)^2 is least when x = -1, giving 0.",
         "At x = -1, y = 0 + 6 = 6.",
         "So P = (-1, 6)."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-6.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-7.jpg"
       ]
     },
     {
@@ -340,7 +613,16 @@
       "no": "Q9(c)",
       "marks": 5,
       "topic": "Cubic From Roots And Point",
-      "keywords": ["cubic", "roots", "x-intercepts", "factor theorem", "coefficients", "point p", "A B C D", "curve c2"],
+      "keywords": [
+        "cubic",
+        "roots",
+        "x-intercepts",
+        "factor theorem",
+        "coefficients",
+        "point p",
+        "A B C D",
+        "curve c2"
+      ],
       "question": "Curve C2 has equation y = Ax^3 + Bx^2 + Cx + D. It passes through P(-1, 6) and intersects the x-axis at -4, -2 and 3. Find, making your method clear, the values of A, B, C and D.",
       "status": "ready",
       "answer": "A = -1/2, B = -3/2, C = 5, D = 12",
@@ -349,6 +631,10 @@
         "Substitute P(-1, 6): A(3)(1)(-4) = 6, so -12A = 6 and A = -1/2.",
         "Expand (x + 4)(x + 2)(x - 3) = x^3 + 3x^2 - 10x - 24.",
         "Multiply by -1/2: y = -x^3/2 - 3x^2/2 + 5x + 12, so B = -3/2, C = 5, D = 12."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-6.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-7.jpg"
       ]
     },
     {
@@ -356,7 +642,16 @@
       "no": "Q10(a)",
       "marks": 3,
       "topic": "Completing The Square",
-      "keywords": ["complete the square", "a-b(x+c)^2", "maximum", "negative quadratic", "integers", "express", "quadratic", "form"],
+      "keywords": [
+        "complete the square",
+        "a-b(x+c)^2",
+        "maximum",
+        "negative quadratic",
+        "integers",
+        "express",
+        "quadratic",
+        "form"
+      ],
       "question": "f(x) = 3 + 12x - 2x^2. Express f(x) in the form a - b(x + c)^2, where a, b and c are integers.",
       "status": "ready",
       "answer": "f(x) = 21 - 2(x - 3)^2 (a = 21, b = 2, c = -3)",
@@ -365,6 +660,10 @@
         "Complete the square: x^2 - 6x = (x - 3)^2 - 9.",
         "f(x) = -2((x - 3)^2 - 9) + 3 = -2(x - 3)^2 + 18 + 3.",
         "So f(x) = 21 - 2(x - 3)^2."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-7.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-8.jpg"
       ]
     },
     {
@@ -372,7 +671,16 @@
       "no": "Q10(b)",
       "marks": 4,
       "topic": "Area Of A Triangle From Roots",
-      "keywords": ["area", "triangle", "x-intercepts", "roots", "surd", "y-intercept", "m sqrt n", "curve"],
+      "keywords": [
+        "area",
+        "triangle",
+        "x-intercepts",
+        "roots",
+        "surd",
+        "y-intercept",
+        "m sqrt n",
+        "curve"
+      ],
       "question": "The curve y = f(x) - 7 crosses the x-axis at P and Q and the y-axis at R, where f(x) = 3 + 12x - 2x^2. Find the area of triangle PQR, giving your answer in the form m sqrt(n) where m and n are integers.",
       "status": "ready",
       "answer": "4 sqrt(7) (m = 4, n = 7)",
@@ -381,6 +689,10 @@
         "Roots: 2(x - 3)^2 = 14, so (x - 3)^2 = 7 and x = 3 +/- sqrt(7).",
         "PQ = 2 sqrt(7). At x = 0, y = 14 - 18 = -4, so R = (0, -4) and the height is 4.",
         "Area = (1/2)(2 sqrt(7))(4) = 4 sqrt(7)."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-7.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-8.jpg"
       ]
     },
     {
@@ -388,7 +700,16 @@
       "no": "Q11(a)",
       "marks": 4,
       "topic": "Tangent Condition Discriminant",
-      "keywords": ["discriminant", "one point", "tangent", "line meets curve", "repeated root", "constant c", "y=4x+c", "y=x(x-3)"],
+      "keywords": [
+        "discriminant",
+        "one point",
+        "tangent",
+        "line meets curve",
+        "repeated root",
+        "constant c",
+        "y=4x+c",
+        "y=x(x-3)"
+      ],
       "question": "The line y = 4x + c meets the curve y = x(x - 3) at only one point. Find the value of c.",
       "status": "ready",
       "answer": "c = -49/4",
@@ -397,6 +718,10 @@
         "Rearrange: x^2 - 7x - c = 0.",
         "One point of intersection means a repeated root, so the discriminant is zero: 49 + 4c = 0.",
         "c = -49/4."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-7.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-8.jpg"
       ]
     },
     {
@@ -404,7 +729,16 @@
       "no": "Q11(b)",
       "marks": 3,
       "topic": "Tangent Point Coordinates",
-      "keywords": ["point of intersection", "repeated root", "coordinates", "tangent point", "substitute", "line", "curve", "hence"],
+      "keywords": [
+        "point of intersection",
+        "repeated root",
+        "coordinates",
+        "tangent point",
+        "substitute",
+        "line",
+        "curve",
+        "hence"
+      ],
       "question": "Hence find the coordinates of the point of intersection of the line y = 4x + c and the curve y = x(x - 3), where c = -49/4.",
       "status": "ready",
       "answer": "(7/2, 7/4)",
@@ -413,6 +747,10 @@
         "Substitute into the line: y = 4(7/2) - 49/4 = 14 - 49/4 = 7/4.",
         "Check on the curve: (7/2)(1/2) = 7/4.",
         "Point of intersection = (7/2, 7/4)."
+      ],
+      "images": [
+        "papers/maths/img/P1-04-Quadratic-Curves-7.jpg",
+        "papers/maths/img/P1-04-Quadratic-Curves-8.jpg"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 /* ==========================================================================
-   Physics Notes — site styles
-   Palette: navy sidebar #002b80, title blue #007bff, hover blues #0044cc / #0056b3
+   Notes — site styles (shared by every subject)
+   Palette: set through the variables in :root; each subject overrides them below.
    ========================================================================== */
 :root {
   --navy: #002b80;
@@ -26,6 +26,12 @@
   --define-bg: #ebfbee;
   --key: #002b80;
   --key-bg: #edf2ff;
+  --blue-soft: #9fc0ff;
+  --blue-scroll: #2a56b0;
+  --tint-1: #eef3ff;
+  --tint-2: #e3ebfb;
+  --tint-3: #fbfcff;
+  --tint-4: #f7f9fd;
 }
 
 body {
@@ -37,7 +43,7 @@ body {
 }
 .sidebar {
   width: 250px;
-  background-color: #002b80;
+  background-color: var(--navy);
   color: white;
   display: flex;
   flex-direction: column;
@@ -51,7 +57,7 @@ body {
   box-shadow:10px 10px 10px rgba(0, 0, 0, 0.1);
   z-index: 50;
   scrollbar-width: thin;
-  scrollbar-color: #2a56b0 transparent;
+  scrollbar-color: var(--blue-scroll) transparent;
 }
 .logo {
   display: block;
@@ -78,7 +84,7 @@ body {
 .bank-back:hover { color: #fff; text-decoration: underline; }
 
 .logo:hover {
-  background-color: #0056b3;
+  background-color: var(--blue-logo);
   transform: scale(1.05) translateY(3px);
 }
 .nav-links {
@@ -103,11 +109,11 @@ body {
 }
 
 .nav-links li a:hover {
-  background-color: #0044cc;
+  background-color: var(--blue-hover);
     transform: scale(1.05) translateX(3px) rotate(3deg);
 }
 .nav-links li a.active {
-  background-color: #007bff;
+  background-color: var(--blue);
   font-weight: bold;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
 }
@@ -136,7 +142,7 @@ body {
   font-weight: bold;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: #9fc0ff;
+  color: var(--blue-soft);
 }
 .nav-group-name {
   grid-column: 1;
@@ -163,7 +169,7 @@ body {
   top: 12px;
   left: 12px;
   z-index: 60;
-  background: #002b80;
+  background: var(--navy);
   color: #fff;
   border: 0;
   border-radius: 10px;
@@ -199,7 +205,7 @@ body {
 }
 .main-title {
     display: inline-block;
-    background-color: #007bff;
+    background-color: var(--blue);
     color: white;
     padding: 15px 25px;
     border-radius: 12px;
@@ -255,17 +261,17 @@ body {
    Headings & text
    ========================================================================== */
 .section-title {
-  color: #002b80;
+  color: var(--navy);
   font-size: 1.65rem;
   margin: 56px 0 18px;
   padding-bottom: 8px;
-  border-bottom: 3px solid #007bff;
+  border-bottom: 3px solid var(--blue);
   scroll-margin-top: 20px;
   transition: transform 0.35s var(--ease);
 }
 .section-title:hover { transform: translateX(4px); }
 .sub-title {
-  color: #0044cc;
+  color: var(--blue-hover);
   font-size: 1.25rem;
   margin: 32px 0 10px;
   scroll-margin-top: 20px;
@@ -278,8 +284,8 @@ body {
 }
 .content ul, .content ol { padding-left: 26px; }
 .key-concepts li, .equations-list li { margin-bottom: 6px; }
-.content a { color: #0044cc; }
-.content a:hover { color: #007bff; }
+.content a { color: var(--blue-hover); }
+.content a:hover { color: var(--blue); }
 .muted { color: var(--muted); }
 .center { text-align: center; }
 mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: 2px 0; }
@@ -298,11 +304,11 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: 2
   letter-spacing: 0.04em;
   padding: 5px 12px;
   border-radius: 999px;
-  background: #e3ebfb;
-  color: #002b80;
+  background: var(--tint-2);
+  color: var(--navy);
 }
-.chip.level-as { background: #007bff; color: #fff; }
-.chip.level-a2 { background: #002b80; color: #fff; }
+.chip.level-as { background: var(--blue); color: #fff; }
+.chip.level-a2 { background: var(--navy); color: #fff; }
 
 /* On-this-page list */
 .toc {
@@ -334,13 +340,13 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: 2
 .toc a {
   display: inline-block;
   text-decoration: none;
-  color: #002b80;
-  background: #eef3ff;
+  color: var(--navy);
+  background: var(--tint-1);
   padding: 6px 12px;
   border-radius: 999px;
   transition: transform 0.35s var(--ease), background-color 0.3s ease;
 }
-.toc a:hover { background: #007bff; color: #fff; transform: scale(1.05) rotate(-2deg); }
+.toc a:hover { background: var(--blue); color: #fff; transform: scale(1.05) rotate(-2deg); }
 
 /* ==========================================================================
    Cards, equations, callouts
@@ -363,7 +369,7 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: 2
 .eq-card {
   position: relative;
   background: #fff;
-  border-left: 6px solid #007bff;
+  border-left: 6px solid var(--blue);
   border-radius: 12px;
   box-shadow: var(--shadow-soft);
   padding: 14px 22px 16px;
@@ -372,7 +378,7 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: 2
 .eq-card .eq { font-size: 1.15em; }
 .eq-card .eq-name {
   font-weight: bold;
-  color: #002b80;
+  color: var(--navy);
   margin: 0 0 4px;
   font-size: 17px;
 }
@@ -413,7 +419,7 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: 2
 }
 .callout > :first-child { margin-top: 0; }
 .callout > :last-child { margin-bottom: 0; }
-.callout h4 { margin: 0 0 6px; font-size: 18px; color: #002b80; }
+.callout h4 { margin: 0 0 6px; font-size: 18px; color: var(--navy); }
 .callout.tip { background: var(--tip-bg); border-left-color: var(--tip); }
 .callout.tip::before { content: "Exam tip"; background: var(--tip); }
 .callout.warn { background: var(--warn-bg); border-left-color: var(--warn); }
@@ -447,13 +453,13 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: 2
   vertical-align: middle;
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  background: #e3ebfb;
-  color: #002b80;
+  background: var(--tint-2);
+  color: var(--navy);
   white-space: nowrap;
 }
 .tag.offspec { background: var(--offspec); color: #fff; }
-.tag.sheet { background: #e7f1ff; color: #0044cc; }
-.tag.req { background: #002b80; color: #fff; }
+.tag.sheet { background: var(--tip-bg); color: var(--blue-hover); }
+.tag.req { background: var(--navy); color: #fff; }
 .tag.use { background: #e9ecef; color: #495057; }
 .tag.core { background: #6741d9; color: #fff; }
 
@@ -467,6 +473,16 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: 2
   text-align: center;
 }
 .diagram svg, .diagram img { max-width: 100%; height: auto; }
+/* Plain figures and inline diagrams written straight into a page (biology and
+   chemistry notes) fit the screen too; interactive .sim figures style themselves. */
+.page img, .page svg[viewBox] { max-width: 100%; height: auto; }
+.page figure:not(.sim):not(.diagram) { margin: 22px auto; text-align: center; }
+.page figure:not(.sim) > figcaption {
+  color: var(--muted);
+  font-size: 15px;
+  line-height: 1.5;
+  margin-top: 8px;
+}
 .diagram figcaption {
   color: var(--muted);
   font-size: 15px;
@@ -486,7 +502,7 @@ table.data {
   font-size: 16px;
 }
 table.data th {
-  background: #002b80;
+  background: var(--navy);
   color: #fff;
   text-align: left;
   padding: 10px 14px;
@@ -496,16 +512,16 @@ table.data td {
   border-top: 1px solid var(--line);
   vertical-align: top;
 }
-table.data tr:nth-child(even) td { background: #f7f9fd; }
+table.data tr:nth-child(even) td { background: var(--tint-4); }
 .table-wrap { overflow-x: auto; }
 
 /* ==========================================================================
    Buttons
    ========================================================================== */
 .btn {
-  background: #007bff;
+  background: var(--blue);
   color: #fff;
-  border: 2px solid #007bff;
+  border: 2px solid var(--blue);
   border-radius: 8px;
   padding: 7px 15px;
   font: inherit;
@@ -515,10 +531,10 @@ table.data tr:nth-child(even) td { background: #f7f9fd; }
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
   transition: transform 0.35s var(--ease), background-color 0.3s ease, color 0.3s ease;
 }
-.btn:hover { background: #0044cc; border-color: #0044cc; transform: scale(1.05) rotate(-2deg); }
-.btn:focus-visible { outline: 3px solid #9fc0ff; outline-offset: 2px; }
-.btn.ghost { background: #fff; color: #007bff; }
-.btn.ghost:hover { background: #007bff; color: #fff; }
+.btn:hover { background: var(--blue-hover); border-color: var(--blue-hover); transform: scale(1.05) rotate(-2deg); }
+.btn:focus-visible { outline: 3px solid var(--blue-soft); outline-offset: 2px; }
+.btn.ghost { background: #fff; color: var(--blue); }
+.btn.ghost:hover { background: var(--blue); color: #fff; }
 .btn:disabled { opacity: 0.5; cursor: default; transform: none; }
 
 /* ==========================================================================
@@ -536,13 +552,13 @@ table.data tr:nth-child(even) td { background: #f7f9fd; }
   align-items: center;
   gap: 10px;
   padding: 12px 18px;
-  background: #002b80;
+  background: var(--navy);
   color: #fff;
   font-weight: bold;
   font-size: 17px;
 }
 .sim-badge {
-  background: #007bff;
+  background: var(--blue);
   padding: 3px 10px;
   border-radius: 999px;
   font-size: 11.5px;
@@ -580,10 +596,10 @@ table.data tr:nth-child(even) td { background: #f7f9fd; }
 }
 .ctrl-label output {
   font-weight: bold;
-  color: #002b80;
+  color: var(--navy);
   font-variant-numeric: tabular-nums;
 }
-.ctrl input[type="range"] { width: 100%; accent-color: #007bff; margin: 4px 0; }
+.ctrl input[type="range"] { width: 100%; accent-color: var(--blue); margin: 4px 0; }
 .ctrl select {
   font: inherit;
   font-size: 15px;
@@ -603,7 +619,7 @@ table.data tr:nth-child(even) td { background: #f7f9fd; }
   color: #333;
   padding-bottom: 6px;
 }
-.ctrl.check input { width: 18px; height: 18px; accent-color: #007bff; margin: 0; }
+.ctrl.check input { width: 18px; height: 18px; accent-color: var(--blue); margin: 0; }
 .sim-buttons {
   display: flex;
   flex-wrap: wrap;
@@ -618,14 +634,14 @@ table.data tr:nth-child(even) td { background: #f7f9fd; }
 }
 .sim-readout:empty { display: none; }
 .ro {
-  background: #eef3ff;
+  background: var(--tint-1);
   border-radius: 8px;
   padding: 5px 11px;
   font-size: 15px;
   font-variant-numeric: tabular-nums;
 }
-.ro b { color: #002b80; }
-.ro.hl { background: #007bff; color: #fff; }
+.ro b { color: var(--navy); }
+.ro.hl { background: var(--blue); color: #fff; }
 .ro.hl b { color: #fff; }
 .sim figcaption {
   padding: 2px 18px 16px;
@@ -636,7 +652,7 @@ table.data tr:nth-child(even) td { background: #f7f9fd; }
 .sim figcaption::before {
   content: "Try it: ";
   font-weight: bold;
-  color: #007bff;
+  color: var(--blue);
 }
 
 /* ==========================================================================
@@ -646,7 +662,7 @@ table.data tr:nth-child(even) td { background: #f7f9fd; }
   background: #fff;
   border-radius: 12px;
   box-shadow: var(--shadow-soft);
-  border-top: 5px solid #002b80;
+  border-top: 5px solid var(--navy);
   margin: 28px 0;
   padding: 16px 22px 18px;
 }
@@ -657,7 +673,7 @@ table.data tr:nth-child(even) td { background: #f7f9fd; }
   gap: 8px 12px;
   margin-bottom: 8px;
 }
-.derive-title { font-weight: bold; font-size: 18px; color: #002b80; }
+.derive-title { font-weight: bold; font-size: 18px; color: var(--navy); }
 .derive-head .tag { white-space: normal; max-width: 100%; }
 .derive-steps { counter-reset: step; }
 .derive .step {
@@ -673,7 +689,7 @@ table.data tr:nth-child(even) td { background: #f7f9fd; }
   width: 28px;
   height: 28px;
   border-radius: 50%;
-  background: #007bff;
+  background: var(--blue);
   color: #fff;
   font-weight: bold;
   font-size: 14px;
@@ -706,7 +722,7 @@ table.data tr:nth-child(even) td { background: #f7f9fd; }
   background: #fff;
   border-radius: 12px;
   box-shadow: var(--shadow-soft);
-  border-left: 6px solid #007bff;
+  border-left: 6px solid var(--blue);
   padding: 16px 22px;
   margin: 26px 0;
 }
@@ -717,7 +733,7 @@ table.data tr:nth-child(even) td { background: #f7f9fd; }
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: #fff;
-  background: #007bff;
+  background: var(--blue);
   padding: 4px 11px;
   border-radius: 999px;
   margin-bottom: 6px;
@@ -731,13 +747,13 @@ table.data tr:nth-child(even) td { background: #f7f9fd; }
   padding: 10px 14px;
   border-radius: 8px;
   border: 2px solid #d5deec;
-  background: #fbfcff;
+  background: var(--tint-3);
   font-size: 17px;
   line-height: 1.45;
   transition: transform 0.3s var(--ease), border-color 0.2s, background-color 0.2s;
 }
-.mcq-options button:hover { border-color: #007bff; transform: translateX(4px); }
-.mcq-options button:focus-visible { outline: 3px solid #9fc0ff; }
+.mcq-options button:hover { border-color: var(--blue); transform: translateX(4px); }
+.mcq-options button:focus-visible { outline: 3px solid var(--blue-soft); }
 .mcq-options button.correct { border-color: #2f9e44; background: #ebfbee; }
 .mcq-options button.correct::after { content: "  \2714  Correct"; color: #2f9e44; font-weight: bold; }
 .mcq-options button.wrong { border-color: #e03131; background: #fff0f0; animation: shake 0.35s; }
@@ -758,7 +774,7 @@ table.data tr:nth-child(even) td { background: #f7f9fd; }
   box-shadow: var(--shadow-soft);
   padding: 16px 22px;
   margin: 26px 0;
-  border-left: 6px solid #002b80;
+  border-left: 6px solid var(--navy);
 }
 .question-card .q-label {
   display: inline-block;
@@ -767,7 +783,7 @@ table.data tr:nth-child(even) td { background: #f7f9fd; }
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: #fff;
-  background: #002b80;
+  background: var(--navy);
   padding: 4px 11px;
   border-radius: 999px;
 }
@@ -779,17 +795,17 @@ details.solution {
 details.solution > summary {
   cursor: pointer;
   font-weight: bold;
-  color: #007bff;
+  color: var(--blue);
   list-style: none;
   display: inline-block;
   padding: 6px 14px;
   border-radius: 8px;
-  border: 2px solid #007bff;
+  border: 2px solid var(--blue);
   transition: transform 0.35s var(--ease), background-color 0.3s ease, color 0.3s;
 }
 details.solution > summary::-webkit-details-marker { display: none; }
-details.solution > summary:hover { background: #007bff; color: #fff; transform: scale(1.04) rotate(-2deg); }
-details.solution[open] > summary { background: #007bff; color: #fff; margin-bottom: 8px; }
+details.solution > summary:hover { background: var(--blue); color: #fff; transform: scale(1.04) rotate(-2deg); }
+details.solution[open] > summary { background: var(--blue); color: #fff; margin-bottom: 8px; }
 
 /* ==========================================================================
    Home page
@@ -825,11 +841,11 @@ details.solution[open] > summary { background: #007bff; color: #fff; margin-bott
 }
 .unit-card:hover { transform: translateY(-4px) rotate(-0.6deg); }
 .unit-card header {
-  background: #007bff;
+  background: var(--blue);
   color: #fff;
   padding: 14px 18px;
 }
-.unit-card.a2 header { background: #002b80; }
+.unit-card.a2 header { background: var(--navy); }
 .unit-card.prac header { background: #6741d9; }
 .unit-card header .unit-code {
   font-size: 12px;
@@ -849,8 +865,8 @@ details.solution[open] > summary { background: #007bff; color: #fff; margin-bott
   border-radius: 8px;
   transition: background-color 0.3s ease, transform 0.35s var(--ease);
 }
-.unit-card li a:hover { background: #eef3ff; transform: translateX(4px); }
-.unit-card li a strong { color: #002b80; display: block; }
+.unit-card li a:hover { background: var(--tint-1); transform: translateX(4px); }
+.unit-card li a strong { color: var(--navy); display: block; }
 .unit-card li a span { color: var(--muted); font-size: 14.5px; line-height: 1.4; }
 
 /* Prev / next */
@@ -869,12 +885,12 @@ details.solution[open] > summary { background: #007bff; color: #fff; margin-bott
   border-radius: 12px;
   box-shadow: var(--shadow-soft);
   padding: 12px 18px;
-  color: #002b80;
+  color: var(--navy);
   flex: 1 1 240px;
   max-width: 420px;
   transition: transform 0.35s var(--ease), background-color 0.3s;
 }
-.page-nav a:hover { background: #007bff; color: #fff; transform: scale(1.03) rotate(-1deg); }
+.page-nav a:hover { background: var(--blue); color: #fff; transform: scale(1.03) rotate(-1deg); }
 .page-nav a small { display: block; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; opacity: 0.75; }
 .page-nav a strong { font-size: 17px; }
 .page-nav a.next { text-align: right; margin-left: auto; }
@@ -907,4 +923,44 @@ details.solution[open] > summary { background: #007bff; color: #fff; margin-bott
 }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition: none !important; animation: none !important; }
+}
+
+/* ---------- Subject palettes ----------
+   Each subject's notes config sets <html data-subject="...">. Physics keeps the
+   default blues above; the others swap the same variables. Text-on-colour pairs
+   stay above 4.5:1 contrast. */
+html[data-subject="biology"] {
+  --navy: #173d17;
+  --blue: #2a7a2f;
+  --blue-hover: #1f5f23;
+  --blue-logo: #256b29;
+  --blue-soft: #a9d8a4;
+  --blue-scroll: #3f8f44;
+  --tip: #2a7a2f;
+  --tip-bg: #e8f5e9;
+  --key: #173d17;
+  --key-bg: #edf7ed;
+  --tint-1: #eef7ee;
+  --tint-2: #e1efe1;
+  --tint-3: #fbfdfb;
+  --tint-4: #f6faf6;
+  --shadow-soft: 0 4px 14px rgba(20, 70, 20, 0.10);
+}
+
+html[data-subject="chemistry"] {
+  --navy: #063f33;
+  --blue: #0b7a60;
+  --blue-hover: #085c48;
+  --blue-logo: #096b54;
+  --blue-soft: #9fd9c9;
+  --blue-scroll: #1f8f73;
+  --tip: #0b7a60;
+  --tip-bg: #e3f6f0;
+  --key: #063f33;
+  --key-bg: #e9f6f2;
+  --tint-1: #ebf7f3;
+  --tint-2: #dcefe9;
+  --tint-3: #fbfdfc;
+  --tint-4: #f5faf8;
+  --shadow-soft: 0 4px 14px rgba(5, 60, 48, 0.10);
 }

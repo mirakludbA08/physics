@@ -21,7 +21,11 @@
       "question": "A large amount of P is added to a small amount of Q, and P reacts reversibly to form Q. Which graph shows how the concentrations of P and Q change as equilibrium is reached?",
       "status": "pending",
       "answer": "Needs the four concentration-time graph options from the PDF; they are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-01.jpg",
+        "papers/chemistry/img/09B-Equilibria-02.jpg"
+      ]
     },
     {
       "id": "Q2a",
@@ -39,7 +43,11 @@
       "question": "For the reversible reaction of phosphorus(V) chloride, state the effect of increasing the temperature at constant pressure on the rate of reaction and the equilibrium yield of PCl5.",
       "status": "pending",
       "answer": "Needs the reversible equation and its enthalpy change from the PDF; the equation is not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-02.jpg",
+        "papers/chemistry/img/09B-Equilibria-03.jpg"
+      ]
     },
     {
       "id": "Q2b",
@@ -57,7 +65,11 @@
       "question": "For the reversible reaction of phosphorus(V) chloride, state the effect of increasing the pressure at constant temperature on the rate of reaction and the equilibrium yield of PCl5.",
       "status": "pending",
       "answer": "Needs the reversible equation from the PDF to count gas moles on each side; the equation is not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-02.jpg",
+        "papers/chemistry/img/09B-Equilibria-03.jpg"
+      ]
     },
     {
       "id": "Q3",
@@ -74,7 +86,10 @@
       "question": "Which equilibrium shifts to the right-hand side when the pressure decreases at constant temperature?",
       "status": "pending",
       "answer": "Needs the answer options (equilibria) from the PDF; they are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-03.jpg"
+      ]
     },
     {
       "id": "Q4a(i)",
@@ -99,6 +114,12 @@
         "Larger molecules have larger, more polarisable electron clouds and stronger London (instantaneous induced dipole) forces",
         "Stronger London forces need more energy to overcome, so sulfur is a solid at room temperature",
         "Oxygen is a small O2 molecule with weak London forces only, so it is a gas"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-04.jpg",
+        "papers/chemistry/img/09B-Equilibria-05.jpg",
+        "papers/chemistry/img/09B-Equilibria-06.jpg",
+        "papers/chemistry/img/09B-Equilibria-07.jpg"
       ]
     },
     {
@@ -125,6 +146,12 @@
         "Increasing temperature at constant pressure favours the endothermic reverse reaction, so the position moves left",
         "Gas moles: 2 SO2 + 1 O2 = 3 mol on the left; 2 SO3 = 2 mol on the right",
         "Increasing pressure at constant temperature favours the side with fewer gas moles, so the position moves right"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-04.jpg",
+        "papers/chemistry/img/09B-Equilibria-05.jpg",
+        "papers/chemistry/img/09B-Equilibria-06.jpg",
+        "papers/chemistry/img/09B-Equilibria-07.jpg"
       ]
     },
     {
@@ -143,7 +170,13 @@
       "question": "Complete a reaction profile showing both the catalysed and uncatalysed reactions for Step 2, labelling the activation energy and enthalpy change.",
       "status": "pending",
       "answer": "Drawing task; the diagram must be checked against the PDF and cannot be verified from the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-04.jpg",
+        "papers/chemistry/img/09B-Equilibria-05.jpg",
+        "papers/chemistry/img/09B-Equilibria-06.jpg",
+        "papers/chemistry/img/09B-Equilibria-07.jpg"
+      ]
     },
     {
       "id": "Q4a(iv)",
@@ -167,6 +200,12 @@
         "The same rate can be reached at a lower temperature",
         "Less energy (fuel) is needed, so fewer CO2 emissions are produced",
         "The catalyst is not used up and can be reused, reducing waste"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-04.jpg",
+        "papers/chemistry/img/09B-Equilibria-05.jpg",
+        "papers/chemistry/img/09B-Equilibria-06.jpg",
+        "papers/chemistry/img/09B-Equilibria-07.jpg"
       ]
     },
     {
@@ -195,6 +234,12 @@
         "Sulfur is also formed as a yellow solid, as H2SO4 is reduced further",
         "Overall, iodide ions reduce concentrated sulfuric acid, but chloride ions do not, so I- is the stronger reducing agent",
         "Reducing ability increases down Group 7 (Cl- < Br- < I-)"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-04.jpg",
+        "papers/chemistry/img/09B-Equilibria-05.jpg",
+        "papers/chemistry/img/09B-Equilibria-06.jpg",
+        "papers/chemistry/img/09B-Equilibria-07.jpg"
       ]
     },
     {
@@ -219,6 +264,12 @@
         "The same moles come from the concentrated acid (dilution does not change moles)",
         "Concentration = moles / volume = 0.75 / 0.0405 dm3",
         "Concentration = 18.5 mol dm-3"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-04.jpg",
+        "papers/chemistry/img/09B-Equilibria-05.jpg",
+        "papers/chemistry/img/09B-Equilibria-06.jpg",
+        "papers/chemistry/img/09B-Equilibria-07.jpg"
       ]
     },
     {
@@ -241,6 +292,12 @@
         "Standard enthalpy changes are measured at a stated temperature and pressure",
         "The standard temperature is 298 K (25 C)",
         "The standard pressure is 100 kPa (1 bar)"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-07.jpg",
+        "papers/chemistry/img/09B-Equilibria-08.jpg",
+        "papers/chemistry/img/09B-Equilibria-09.jpg",
+        "papers/chemistry/img/09B-Equilibria-10.jpg"
       ]
     },
     {
@@ -265,6 +322,12 @@
         "Complete combustion gives CO2 and H2O only",
         "Carbon: 8 CO2; hydrogen: 18 / 2 = 9 H2O",
         "Oxygen needed: 8 x 2 + 9 = 25 atoms, so 12.5 O2 (multiply by 2 for whole numbers)"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-07.jpg",
+        "papers/chemistry/img/09B-Equilibria-08.jpg",
+        "papers/chemistry/img/09B-Equilibria-09.jpg",
+        "papers/chemistry/img/09B-Equilibria-10.jpg"
       ]
     },
     {
@@ -289,6 +352,12 @@
         "Draw a lower level for the products (8 CO2 + 9 H2O)",
         "Draw a downward arrow from reactants to products",
         "Label the arrow delta cH = -5461 kJ mol-1, showing the reaction is exothermic"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-07.jpg",
+        "papers/chemistry/img/09B-Equilibria-08.jpg",
+        "papers/chemistry/img/09B-Equilibria-09.jpg",
+        "papers/chemistry/img/09B-Equilibria-10.jpg"
       ]
     },
     {
@@ -313,6 +382,12 @@
         "Mr of C8H18 = 8(12.0) + 18(1.0) = 114.0",
         "Moles = 692 / 114.0 = 6.07 mol",
         "Heat released = 6.07 x 5461 = 3.31 x 10^4 kJ"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-07.jpg",
+        "papers/chemistry/img/09B-Equilibria-08.jpg",
+        "papers/chemistry/img/09B-Equilibria-09.jpg",
+        "papers/chemistry/img/09B-Equilibria-10.jpg"
       ]
     },
     {
@@ -337,6 +412,12 @@
         "Mr of ethanol C2H5OH = 46.0; moles = 0.305 / 46.0 = 6.63 x 10^-3 mol",
         "Enthalpy change per mole = 5.518 / 6.63 x 10^-3 = 832 kJ mol-1 released",
         "Combustion releases heat, so delta cH = -832 kJ mol-1 (3 s.f.)"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-07.jpg",
+        "papers/chemistry/img/09B-Equilibria-08.jpg",
+        "papers/chemistry/img/09B-Equilibria-09.jpg",
+        "papers/chemistry/img/09B-Equilibria-10.jpg"
       ]
     },
     {
@@ -358,6 +439,12 @@
         "Temperature rise uses two readings, so total uncertainty = 0.05 + 0.05 = 0.10 C",
         "Percentage uncertainty = 0.10 / 13.2 x 100",
         "= 0.76%"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-07.jpg",
+        "papers/chemistry/img/09B-Equilibria-08.jpg",
+        "papers/chemistry/img/09B-Equilibria-09.jpg",
+        "papers/chemistry/img/09B-Equilibria-10.jpg"
       ]
     },
     {
@@ -382,6 +469,12 @@
         "Some heat is absorbed by the copper or glass apparatus, not only the water",
         "Ethanol burns incompletely (soot), so less heat is released per mole",
         "Some ethanol evaporates before it burns, so the mass burned is less than the mass recorded"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-07.jpg",
+        "papers/chemistry/img/09B-Equilibria-08.jpg",
+        "papers/chemistry/img/09B-Equilibria-09.jpg",
+        "papers/chemistry/img/09B-Equilibria-10.jpg"
       ]
     },
     {
@@ -401,7 +494,13 @@
       "question": "Using the enthalpy changes for the conversion of four gaseous compounds into their atoms, calculate the bond enthalpy of the C-C bond in kJ mol-1, showing working.",
       "status": "pending",
       "answer": "Needs the table of enthalpy changes for the four compounds from the PDF; the values are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-07.jpg",
+        "papers/chemistry/img/09B-Equilibria-08.jpg",
+        "papers/chemistry/img/09B-Equilibria-09.jpg",
+        "papers/chemistry/img/09B-Equilibria-10.jpg"
+      ]
     },
     {
       "id": "Q5d",
@@ -425,6 +524,12 @@
         "Gas moles: C2H4 + H2O = 2 mol on the left; C2H5OH = 1 mol on the right",
         "Increasing pressure favours the side with fewer gas moles",
         "Equilibrium shifts to the right, increasing the equilibrium yield of ethanol"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-07.jpg",
+        "papers/chemistry/img/09B-Equilibria-08.jpg",
+        "papers/chemistry/img/09B-Equilibria-09.jpg",
+        "papers/chemistry/img/09B-Equilibria-10.jpg"
       ]
     },
     {
@@ -445,7 +550,11 @@
       "question": "H2(g) + I2(g) <=> 2HI(g) is set up at 300 C and then cooled, and the colour darkens. Which statement is correct?",
       "status": "pending",
       "answer": "Needs the answer options from the PDF; they are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-10.jpg",
+        "papers/chemistry/img/09B-Equilibria-11.jpg"
+      ]
     },
     {
       "id": "Q7",
@@ -469,6 +578,10 @@
         "The equilibrium 2NO2 <=> N2O4 shifts right to reduce the gas moles (2 mol to 1 mol)",
         "NO2 (brown) is used up, so the colour gets lighter again, though not as light as before",
         "The answer is C"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-11.jpg",
+        "papers/chemistry/img/09B-Equilibria-12.jpg"
       ]
     },
     {
@@ -493,6 +606,10 @@
         "The forward reaction makes 2 mol gas from 0 mol gas",
         "Low pressure favours the side with more gas moles, so the forward reaction gives higher yield",
         "The answer is B"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-11.jpg",
+        "papers/chemistry/img/09B-Equilibria-12.jpg"
       ]
     },
     {
@@ -515,6 +632,10 @@
         "Carbonate ion CO3^2- reacts with two H+ ions",
         "Products are carbon dioxide gas and water",
         "Spectator ions are not included in an ionic equation"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-12.jpg",
+        "papers/chemistry/img/09B-Equilibria-13.jpg"
       ]
     },
     {
@@ -538,6 +659,10 @@
         "CO2 reacts with calcium hydroxide to form insoluble calcium carbonate",
         "Ca(OH)2(aq) + CO2(g) -> CaCO3(s) + H2O(l)",
         "The white solid makes the solution go milky"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-12.jpg",
+        "papers/chemistry/img/09B-Equilibria-13.jpg"
       ]
     },
     {
@@ -562,6 +687,10 @@
         "From Ca(OH)2 + 2HCl, moles Ca(OH)2 = 9.475 x 10^-4 / 2 = 4.738 x 10^-4 mol in 25.0 cm3",
         "Concentration = 4.738 x 10^-4 / 0.0250 = 0.01895 mol dm-3",
         "Mr of Ca(OH)2 = 40.1 + 2(16.0) + 2(1.0) = 74.1; mass conc = 0.01895 x 74.1 = 1.40 g dm-3"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-12.jpg",
+        "papers/chemistry/img/09B-Equilibria-13.jpg"
       ]
     },
     {
@@ -586,6 +715,10 @@
         "Solubility of Group 2 hydroxides increases down the group",
         "Sr(OH)2 is more soluble than Ca(OH)2, so its saturated solution has more OH- per dm3",
         "A larger volume of acid is needed, so the titre is larger"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-12.jpg",
+        "papers/chemistry/img/09B-Equilibria-13.jpg"
       ]
     },
     {
@@ -611,6 +744,10 @@
         "More atmospheric CO2 dissolves, so the concentration of H2CO3 increases",
         "The dissociation equilibrium shifts to the right to use up H2CO3",
         "More H+ ions are produced, so the seawater becomes more acidic"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-12.jpg",
+        "papers/chemistry/img/09B-Equilibria-13.jpg"
       ]
     },
     {
@@ -634,6 +771,10 @@
         "At equilibrium the reactions continue at equal rates (dynamic equilibrium)",
         "Concentrations and total molecules stay constant, so A, B and D are true",
         "The reactions have not stopped, so C is the statement that is not true"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-13.jpg",
+        "papers/chemistry/img/09B-Equilibria-14.jpg"
       ]
     },
     {
@@ -658,6 +799,10 @@
         "A catalyst does not change the position of equilibrium or the equilibrium yield",
         "Temperature and pressure can change the position of equilibrium, but catalysts cannot",
         "So statement A is not true"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-14.jpg",
+        "papers/chemistry/img/09B-Equilibria-15.jpg"
       ]
     },
     {
@@ -681,6 +826,10 @@
         "This creates a temporary (instantaneous) dipole",
         "The temporary dipole induces an opposite dipole in a neighbouring molecule",
         "The resulting weak attraction between the dipoles is a London force"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-14.jpg",
+        "papers/chemistry/img/09B-Equilibria-15.jpg"
       ]
     },
     {
@@ -703,6 +852,10 @@
         "HI has more electrons than HCl or HBr",
         "More electrons give a larger, more polarisable electron cloud",
         "Larger induced dipoles give stronger London forces"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-14.jpg",
+        "papers/chemistry/img/09B-Equilibria-15.jpg"
       ]
     },
     {
@@ -724,6 +877,10 @@
         "HF has H bonded to highly electronegative F",
         "This gives strong hydrogen bonds between HF molecules",
         "Much more energy is needed to overcome hydrogen bonds than London forces"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-14.jpg",
+        "papers/chemistry/img/09B-Equilibria-15.jpg"
       ]
     },
     {
@@ -748,6 +905,10 @@
         "In HCl, Cl has oxidation number -1, so Cl is reduced",
         "In HClO, Cl has oxidation number +1, so Cl is oxidised",
         "The same element is both oxidised and reduced, so this is a disproportionation"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-14.jpg",
+        "papers/chemistry/img/09B-Equilibria-15.jpg"
       ]
     },
     {
@@ -772,6 +933,10 @@
         "OH- reacts with H+ ions (from HCl and HClO) to form water",
         "Lowering the H+ concentration removes a product, so the equilibrium shifts to the right",
         "More HCl and HClO form"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-14.jpg",
+        "papers/chemistry/img/09B-Equilibria-15.jpg"
       ]
     },
     {
@@ -795,6 +960,11 @@
         "The industrial hydration of ethene uses phosphoric(V) acid as the catalyst",
         "It is coated onto a solid silica (silicon dioxide) support",
         "Name: phosphoric(V) acid, formula H3PO4"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-15.jpg",
+        "papers/chemistry/img/09B-Equilibria-16.jpg",
+        "papers/chemistry/img/09B-Equilibria-17.jpg"
       ]
     },
     {
@@ -819,6 +989,11 @@
         "The equilibrium mixture is cooled and the ethanol is separated out",
         "The unreacted ethene and steam are recycled back to the reactor",
         "Repeated passes give an overall yield of 95%"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-15.jpg",
+        "papers/chemistry/img/09B-Equilibria-16.jpg",
+        "papers/chemistry/img/09B-Equilibria-17.jpg"
       ]
     },
     {
@@ -843,6 +1018,11 @@
         "Higher temperature increases the rate of reaction",
         "But higher temperature shifts equilibrium to the left, lowering the yield of ethanol",
         "Lower temperature gives a higher yield but too slow a rate, so 300 C is a compromise"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-15.jpg",
+        "papers/chemistry/img/09B-Equilibria-16.jpg",
+        "papers/chemistry/img/09B-Equilibria-17.jpg"
       ]
     },
     {
@@ -868,6 +1048,11 @@
         "Higher pressure shifts equilibrium right, increasing the yield of ethanol",
         "Higher pressure also increases the rate of reaction",
         "However, high-pressure equipment and compression are expensive, so 7 MPa is a compromise"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-15.jpg",
+        "papers/chemistry/img/09B-Equilibria-16.jpg",
+        "papers/chemistry/img/09B-Equilibria-17.jpg"
       ]
     },
     {
@@ -890,6 +1075,11 @@
         "At high pressure ethene polymerises as a side reaction",
         "The product is a long-chain polymer, poly(ethene)",
         "Polymers melt over a range of temperatures because chain lengths vary"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-15.jpg",
+        "papers/chemistry/img/09B-Equilibria-16.jpg",
+        "papers/chemistry/img/09B-Equilibria-17.jpg"
       ]
     },
     {
@@ -913,6 +1103,11 @@
         "Compressing the gases to higher pressure needs more energy",
         "Equipment that withstands high pressure is more expensive to build and run",
         "The polymer by-product coats the catalyst and reduces its activity"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-15.jpg",
+        "papers/chemistry/img/09B-Equilibria-16.jpg",
+        "papers/chemistry/img/09B-Equilibria-17.jpg"
       ]
     },
     {
@@ -938,6 +1133,11 @@
         "Advantage: more water reduces the formation of the waxy polymer by-product",
         "Disadvantage: dilution lowers the concentration of ethene, so the rate of reaction falls",
         "Disadvantage: more energy is needed to heat and then separate the extra water from the product"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-15.jpg",
+        "papers/chemistry/img/09B-Equilibria-16.jpg",
+        "papers/chemistry/img/09B-Equilibria-17.jpg"
       ]
     },
     {
@@ -962,6 +1162,10 @@
         "The forward reaction (methane and steam) is endothermic",
         "Lowering temperature shifts equilibrium to the left, so the yield falls",
         "The answer is D"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-17.jpg",
+        "papers/chemistry/img/09B-Equilibria-18.jpg"
       ]
     },
     {
@@ -986,6 +1190,10 @@
         "CH4 + H2O (2 mol gas) gives CO + 3H2 (4 mol gas) in the forward reaction",
         "Higher pressure shifts equilibrium to the side with fewer gas moles, which is the left",
         "Yield decreases, so the answer is B"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-17.jpg",
+        "papers/chemistry/img/09B-Equilibria-18.jpg"
       ]
     },
     {
@@ -1003,7 +1211,11 @@
       "question": "Using the table of bond enthalpies shown, what is the bond enthalpy of the C-H bond in kJ mol-1? A 198, B 313, C 416, D 532.",
       "status": "pending",
       "answer": "Needs the bond enthalpy table from the PDF; the values are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-17.jpg",
+        "papers/chemistry/img/09B-Equilibria-18.jpg"
+      ]
     },
     {
       "id": "Q15a",
@@ -1027,6 +1239,10 @@
         "Reactions do not stop, so A is wrong",
         "Concentrations are not necessarily equal, so D is wrong",
         "The answer is C"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-18.jpg",
+        "papers/chemistry/img/09B-Equilibria-19.jpg"
       ]
     },
     {
@@ -1050,6 +1266,10 @@
         "It does not change the position of equilibrium or the yield",
         "It only helps the mixture reach equilibrium faster",
         "The answer is D"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-18.jpg",
+        "papers/chemistry/img/09B-Equilibria-19.jpg"
       ]
     },
     {
@@ -1069,7 +1289,13 @@
       "question": "Determine the value of n in the hydrated magnesium carbonate MgCO3.nH2O, using its reaction with hydrochloric acid (MgCO3.nH2O + 2HCl -> MgCl2 + CO2 + (n+1)H2O).",
       "status": "pending",
       "answer": "Needs the mass, acid volume and concentration data from the PDF; they are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-19.jpg",
+        "papers/chemistry/img/09B-Equilibria-20.jpg",
+        "papers/chemistry/img/09B-Equilibria-21.jpg",
+        "papers/chemistry/img/09B-Equilibria-22.jpg"
+      ]
     },
     {
       "id": "Q16b(i)",
@@ -1093,6 +1319,12 @@
         "Heat released q = 40.0 x 4.18 x 30.8 = 5150 J = 5.15 kJ",
         "Moles of MgO = 1.92 / 40.3 = 0.0476 mol",
         "delta rH1 = -5.15 / 0.0476 = -108 kJ mol-1 (exothermic, so negative)"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-19.jpg",
+        "papers/chemistry/img/09B-Equilibria-20.jpg",
+        "papers/chemistry/img/09B-Equilibria-21.jpg",
+        "papers/chemistry/img/09B-Equilibria-22.jpg"
       ]
     },
     {
@@ -1112,7 +1344,13 @@
       "question": "Use a completed Hess cycle, the answer to (b)(i) and the enthalpy change of Reaction 2 (MgCO3 + 2HCl) to calculate the enthalpy change of decomposition of MgCO3, to an appropriate number of significant figures.",
       "status": "pending",
       "answer": "Check the printed rH2 value (+3.58 kJ mol-1) against the PDF before marking ready; using it, delta rH(decomposition) = 3.58 - (-108) = +112 kJ mol-1",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-19.jpg",
+        "papers/chemistry/img/09B-Equilibria-20.jpg",
+        "papers/chemistry/img/09B-Equilibria-21.jpg",
+        "papers/chemistry/img/09B-Equilibria-22.jpg"
+      ]
     },
     {
       "id": "Q16b(iii)",
@@ -1135,6 +1373,12 @@
         "Thermal decomposition needs a high temperature and a furnace",
         "The reaction is slow and may not go to completion at a measurable temperature",
         "It cannot be done in an insulated container, so heat losses would be large"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-19.jpg",
+        "papers/chemistry/img/09B-Equilibria-20.jpg",
+        "papers/chemistry/img/09B-Equilibria-21.jpg",
+        "papers/chemistry/img/09B-Equilibria-22.jpg"
       ]
     },
     {
@@ -1160,6 +1404,12 @@
         "A lower charge density cation polarises the carbonate ion less",
         "So CaCO3 is more thermally stable and decomposes only at a higher temperature",
         "A higher furnace temperature needs more energy (fuel), which increases the cost"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-19.jpg",
+        "papers/chemistry/img/09B-Equilibria-20.jpg",
+        "papers/chemistry/img/09B-Equilibria-21.jpg",
+        "papers/chemistry/img/09B-Equilibria-22.jpg"
       ]
     },
     {
@@ -1187,6 +1437,12 @@
         "The 50 atm pressure balances higher yield against the cost of high-pressure equipment",
         "The forward reaction is exothermic, so low temperature would favour yield",
         "250 C is a compromise that gives a fast enough rate and an active copper catalyst while keeping yield reasonable"
+      ],
+      "images": [
+        "papers/chemistry/img/09B-Equilibria-19.jpg",
+        "papers/chemistry/img/09B-Equilibria-20.jpg",
+        "papers/chemistry/img/09B-Equilibria-21.jpg",
+        "papers/chemistry/img/09B-Equilibria-22.jpg"
       ]
     }
   ]

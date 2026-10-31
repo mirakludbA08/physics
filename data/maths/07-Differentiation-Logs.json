@@ -9,7 +9,16 @@
       "no": "Q1(a)",
       "marks": 4,
       "topic": "Implicit Exponential Derivative",
-      "keywords": ["differentiate", "exponential", "e^(2y)", "dy/dx", "inverse derivative", "show that", "parametric", "chain rule"],
+      "keywords": [
+        "differentiate",
+        "exponential",
+        "e^(2y)",
+        "dy/dx",
+        "inverse derivative",
+        "show that",
+        "parametric",
+        "chain rule"
+      ],
       "question": "Figure 3 shows the curve C with equation x = y e^(2y), y in R. Show that dy/dx = y/(x(1 + 2y)).",
       "status": "ready",
       "answer": "Shown: dy/dx = y/(x(1 + 2y))",
@@ -18,6 +27,10 @@
         "Use dy/dx = 1/(dx/dy) = 1/(e^(2y)(1 + 2y)).",
         "From x = y e^(2y), e^(2y) = x/y (for y not 0).",
         "Substitute: dy/dx = 1/((x/y)(1 + 2y)) = y/(x(1 + 2y))."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-01.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-02.jpg"
       ]
     },
     {
@@ -25,7 +38,16 @@
       "no": "Q1(b)",
       "marks": 3,
       "topic": "Range Of Constant For Roots",
-      "keywords": ["number of intersections", "horizontal line", "stationary point", "range of k", "minimum value", "two points", "turning point", "x equals k"],
+      "keywords": [
+        "number of intersections",
+        "horizontal line",
+        "stationary point",
+        "range of k",
+        "minimum value",
+        "two points",
+        "turning point",
+        "x equals k"
+      ],
       "question": "Figure 3 shows the curve C with equation x = y e^(2y). Given that the straight line x = k cuts C at exactly two points, find the range of possible values for k.",
       "status": "ready",
       "answer": "-1/(2e) < k < 0",
@@ -36,6 +58,10 @@
         "For y > -1/2, h increases from -1/(2e) to infinity, crossing zero at y = 0.",
         "For -1/(2e) < k < 0 there are two solutions (one on each branch); k = -1/(2e) gives one, k = 0 gives one, and k > 0 gives one.",
         "So the range is -1/(2e) < k < 0."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-01.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-02.jpg"
       ]
     },
     {
@@ -43,7 +69,16 @@
       "no": "Q2",
       "marks": 4,
       "topic": "Stationary Point Exponential",
-      "keywords": ["stationary point", "product rule", "exponential", "e^(3x)", "differentiate", "using calculus", "x coordinate", "set derivative to zero"],
+      "keywords": [
+        "stationary point",
+        "product rule",
+        "exponential",
+        "e^(3x)",
+        "differentiate",
+        "using calculus",
+        "x coordinate",
+        "set derivative to zero"
+      ],
       "question": "Find, using calculus, the x coordinate of the stationary point on the curve with equation y = (2x + 5)e^(3x).",
       "status": "ready",
       "answer": "x = -17/6",
@@ -53,6 +88,10 @@
         "So dy/dx = e^(3x)(6x + 17).",
         "Stationary point: set dy/dx = 0; e^(3x) is never zero, so 6x + 17 = 0.",
         "x = -17/6."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-02.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-03.jpg"
       ]
     },
     {
@@ -60,7 +99,16 @@
       "no": "Q3(a)",
       "marks": 4,
       "topic": "Product Rule Show Form",
-      "keywords": ["differentiate", "product rule", "chain rule", "exponential", "show that", "constant A", "f prime", "factorise"],
+      "keywords": [
+        "differentiate",
+        "product rule",
+        "chain rule",
+        "exponential",
+        "show that",
+        "constant A",
+        "f prime",
+        "factorise"
+      ],
       "question": "Figure 3 shows the curve C with equation y = f(x), where f(x) = (2x + 1)^3 e^(-4x). Show that f'(x) = A(2x + 1)^2(1 - 4x)e^(-4x), where A is a constant to be found.",
       "status": "ready",
       "answer": "A = 2",
@@ -70,6 +118,10 @@
         "Factor out (2x + 1)^2 e^(-4x): f'(x) = (2x + 1)^2 e^(-4x)[6 - 4(2x + 1)].",
         "Bracket: 6 - 8x - 4 = 2 - 8x = 2(1 - 4x).",
         "So f'(x) = 2(2x + 1)^2 (1 - 4x) e^(-4x), giving A = 2."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-02.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-03.jpg"
       ]
     },
     {
@@ -77,7 +129,15 @@
       "no": "Q3(b)",
       "marks": 3,
       "topic": "Stationary Points Exact",
-      "keywords": ["stationary points", "exact coordinates", "f prime equals zero", "exponential", "turning points", "substitute", "maximum point"],
+      "keywords": [
+        "stationary points",
+        "exact coordinates",
+        "f prime equals zero",
+        "exponential",
+        "turning points",
+        "substitute",
+        "maximum point"
+      ],
       "question": "Hence find the exact coordinates of the two stationary points on C, where f(x) = (2x + 1)^3 e^(-4x).",
       "status": "ready",
       "answer": "(-1/2, 0) and (1/4, 27/(8e)) (approx (0.25, 1.2416))",
@@ -87,6 +147,10 @@
         "1 - 4x = 0 gives x = 1/4.",
         "f(1/4) = (1/2 + 1)^3 e^(-1) = (3/2)^3 / e = 27/(8e).",
         "Stationary points: (-1/2, 0) and (1/4, 27/(8e)), where 27/(8e) is approx 1.2416."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-02.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-03.jpg"
       ]
     },
     {
@@ -94,7 +158,15 @@
       "no": "Q3(c)",
       "marks": 2,
       "topic": "Transformed Maximum Point",
-      "keywords": ["transformation", "translation", "stretch", "maximum stationary point", "g(x) = 8f(x - 2)", "coordinates", "y equals g(x)"],
+      "keywords": [
+        "transformation",
+        "translation",
+        "stretch",
+        "maximum stationary point",
+        "g(x) = 8f(x - 2)",
+        "coordinates",
+        "y equals g(x)"
+      ],
       "question": "The function g is defined by g(x) = 8f(x - 2), where f(x) = (2x + 1)^3 e^(-4x). Find the coordinates of the maximum stationary point on the curve y = g(x).",
       "status": "ready",
       "answer": "(9/4, 27/e)",
@@ -103,6 +175,10 @@
         "g(x) = 8f(x - 2) translates f by 2 in the positive x direction, so x - 2 = 1/4 gives x = 9/4.",
         "The factor 8 stretches y values: g(9/4) = 8 x 27/(8e) = 27/e.",
         "Maximum point: (9/4, 27/e), approx (2.25, 9.9327)."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-02.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-03.jpg"
       ]
     },
     {
@@ -110,7 +186,14 @@
       "no": "Q4(a)",
       "marks": 2,
       "topic": "Inverse Log Expression",
-      "keywords": ["log base 10", "express x in terms of y", "inverse function", "logarithm", "change subject", "exponential form"],
+      "keywords": [
+        "log base 10",
+        "express x in terms of y",
+        "inverse function",
+        "logarithm",
+        "change subject",
+        "exponential form"
+      ],
       "question": "The curve has equation y = log10(2x + 1). Express x in terms of y.",
       "status": "ready",
       "answer": "x = (10^y - 1)/2",
@@ -118,6 +201,11 @@
         "Write the log in index form: 10^y = 2x + 1.",
         "Subtract 1: 2x = 10^y - 1.",
         "Divide by 2: x = (10^y - 1)/2."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-03.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-04.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-05.jpg"
       ]
     },
     {
@@ -125,7 +213,15 @@
       "no": "Q4(b)",
       "marks": 3,
       "topic": "Log Derivative",
-      "keywords": ["differentiate", "log base 10", "dy/dx", "ln 10", "chain rule", "in terms of x", "logarithm derivative"],
+      "keywords": [
+        "differentiate",
+        "log base 10",
+        "dy/dx",
+        "ln 10",
+        "chain rule",
+        "in terms of x",
+        "logarithm derivative"
+      ],
       "question": "Hence, giving your answer in terms of x, find dy/dx for y = log10(2x + 1).",
       "status": "ready",
       "answer": "dy/dx = 2/((2x + 1) ln 10)",
@@ -134,6 +230,11 @@
         "Differentiate: dy/dx = (1/ln 10) x (2/(2x + 1)).",
         "So dy/dx = 2/((2x + 1) ln 10).",
         "Check with part (a): dx/dy = (10^y ln 10)/2 = (2x + 1) ln 10 / 2, which gives the same result."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-03.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-04.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-05.jpg"
       ]
     },
     {
@@ -141,7 +242,16 @@
       "no": "Q5(a)",
       "marks": 5,
       "topic": "Maximum Velocity Exponential",
-      "keywords": ["maximum velocity", "differentiate", "exponential model", "stationary point", "solve equation", "sprinter", "turning point", "using calculus"],
+      "keywords": [
+        "maximum velocity",
+        "differentiate",
+        "exponential model",
+        "stationary point",
+        "solve equation",
+        "sprinter",
+        "turning point",
+        "using calculus"
+      ],
       "question": "The sprinter's velocity is modelled by v = 12 - e^(t - 10) - 12e^(-0.75t), t >= 0. Using calculus, find the sprinter's maximum velocity during the race.",
       "status": "ready",
       "answer": "Maximum v = 12 - 7 x 3^(1/7) x e^(-30/7), approx 11.89 m/s (at t = (40 + 8 ln 3)/7, approx 6.97 s)",
@@ -152,6 +262,11 @@
         "dv/dt is positive before this t and negative after, so it gives a maximum.",
         "At this t, e^(t - 10) = 9e^(-0.75t), so v = 12 - 9e^(-0.75t) - 12e^(-0.75t) = 12 - 21e^(-0.75t).",
         "e^(-0.75t) = e^(-30/7) x 3^(-6/7), so v = 12 - 7 x 3^(1/7) x e^(-30/7), approx 11.89 m/s."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-03.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-04.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-05.jpg"
       ]
     },
     {
@@ -159,7 +274,16 @@
       "no": "Q5(b)",
       "marks": 4,
       "topic": "Integrate Velocity Show Equation",
-      "keywords": ["integrate", "distance", "definite integral", "show that", "iteration", "velocity", "exponential integration", "fixed point equation"],
+      "keywords": [
+        "integrate",
+        "distance",
+        "definite integral",
+        "show that",
+        "iteration",
+        "velocity",
+        "exponential integration",
+        "fixed point equation"
+      ],
       "question": "The sprinter runs 100 m in T seconds, so that the integral from 0 to T of v dt = 100, where v = 12 - e^(t - 10) - 12e^(-0.75t). Show that T = (1/12)(116 - 16e^(-0.75T) + e^(T - 10) - e^(-10)).",
       "status": "ready",
       "answer": "Shown by integrating v and rearranging",
@@ -170,6 +294,11 @@
         "Set equal to 100: 12T - e^(T - 10) + e^(-10) + 16e^(-0.75T) - 16 = 100.",
         "So 12T = 116 - 16e^(-0.75T) + e^(T - 10) - e^(-10).",
         "Divide by 12: T = (1/12)(116 - 16e^(-0.75T) + e^(T - 10) - e^(-10))."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-03.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-04.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-05.jpg"
       ]
     },
     {
@@ -177,7 +306,16 @@
       "no": "Q5(c)",
       "marks": 3,
       "topic": "Iteration Sprint Time",
-      "keywords": ["iteration", "iterative formula", "T2", "converge", "time taken", "decimal places", "fixed point", "sprinter race time"],
+      "keywords": [
+        "iteration",
+        "iterative formula",
+        "T2",
+        "converge",
+        "time taken",
+        "decimal places",
+        "fixed point",
+        "sprinter race time"
+      ],
       "question": "The iteration T(n+1) = (1/12)(116 - 16e^(-0.75Tn) + e^(Tn - 10) - e^(-10)) with T1 = 10 is used to approximate T. Find, to 4 decimal places, (i) the value of T2 and (ii) the time taken by the sprinter to run the race, according to the model.",
       "status": "ready",
       "answer": "(i) T2 = 9.7493; (ii) T approx 9.7293 seconds",
@@ -187,6 +325,11 @@
         "(ii) Keep iterating: T3 = 9.7306, T4 = 9.7294, T5 = 9.72934, T6 = 9.72933.",
         "The sequence converges, so the fixed point of the formula is the race time.",
         "The time taken is T = 9.7293 seconds to 4 decimal places."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-03.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-04.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-05.jpg"
       ]
     },
     {
@@ -194,7 +337,15 @@
       "no": "Q6(a)",
       "marks": 2,
       "topic": "Range Of Exponential Square",
-      "keywords": ["range of function", "exponential", "squared term", "non-negative", "maximum value", "f(x) = e^(-x^2)(2x^2 - 3)^2", "minimum value"],
+      "keywords": [
+        "range of function",
+        "exponential",
+        "squared term",
+        "non-negative",
+        "maximum value",
+        "f(x) = e^(-x^2)(2x^2 - 3)^2",
+        "minimum value"
+      ],
       "question": "Figure 1 shows the curve C with equation y = f(x), where f(x) = e^(-x^2)(2x^2 - 3)^2. Find the range of f.",
       "status": "ready",
       "answer": "0 <= f(x) <= 9",
@@ -204,6 +355,10 @@
         "At x = 0, f(0) = e^0 x (-3)^2 = 9, which is the highest peak in Figure 1.",
         "The other turning points (x^2 = 7/2) give f = 16e^(-7/2), approx 0.483, which is lower than 9.",
         "Range: 0 <= f(x) <= 9."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-05.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-06.jpg"
       ]
     },
     {
@@ -211,7 +366,16 @@
       "no": "Q6(b)",
       "marks": 4,
       "topic": "Show Derivative Form",
-      "keywords": ["differentiate", "product rule", "chain rule", "show that", "exponential", "constants A and B", "f prime", "factorise"],
+      "keywords": [
+        "differentiate",
+        "product rule",
+        "chain rule",
+        "show that",
+        "exponential",
+        "constants A and B",
+        "f prime",
+        "factorise"
+      ],
       "question": "Show that f'(x) = 2x(2x^2 - 3)e^(-x^2)(A - Bx^2), where A and B are constants to be found, for f(x) = e^(-x^2)(2x^2 - 3)^2.",
       "status": "ready",
       "answer": "A = 7, B = 2, so f'(x) = 2x(2x^2 - 3)e^(-x^2)(7 - 2x^2)",
@@ -222,6 +386,10 @@
         "Factor 2x(2x^2 - 3): f' = 2x(2x^2 - 3)e^(-x^2)[-(2x^2 - 3) + 4].",
         "Bracket: -2x^2 + 3 + 4 = 7 - 2x^2.",
         "So A = 7 and B = 2."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-05.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-06.jpg"
       ]
     },
     {
@@ -229,7 +397,16 @@
       "no": "Q6(c)",
       "marks": 4,
       "topic": "Horizontal Line Intersections",
-      "keywords": ["exact range of k", "horizontal line", "two distinct points", "turning points", "local maximum", "intersections", "y equals k", "exponential curve"],
+      "keywords": [
+        "exact range of k",
+        "horizontal line",
+        "two distinct points",
+        "turning points",
+        "local maximum",
+        "intersections",
+        "y equals k",
+        "exponential curve"
+      ],
       "question": "Given that the line y = k, where k is a constant and k > 0, intersects the curve y = f(x) at exactly two distinct points, find the exact range of values of k.",
       "status": "ready",
       "answer": "16e^(-7/2) < k < 9",
@@ -240,6 +417,10 @@
         "For 16e^(-7/2) < k < 9 the line cuts only the central peak on each side, giving exactly two points.",
         "For k > 9 there are no intersections.",
         "So 16e^(-7/2) < k < 9, where 16e^(-7/2) is approx 0.483."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-05.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-06.jpg"
       ]
     },
     {
@@ -247,7 +428,16 @@
       "no": "Q7(a)",
       "marks": 3,
       "topic": "Log Quotient Derivative",
-      "keywords": ["differentiate", "quotient rule", "natural log", "chain rule", "show that", "constants A and B", "turning points", "ln"],
+      "keywords": [
+        "differentiate",
+        "quotient rule",
+        "natural log",
+        "chain rule",
+        "show that",
+        "constants A and B",
+        "turning points",
+        "ln"
+      ],
       "question": "The curve C has equation y = ln(x^2 + k)/(x^2 + k), x in R, where k is a positive constant. Show that dy/dx = Ax(B - ln(x^2 + k))/(x^2 + k)^2, where A and B are constants to be found.",
       "status": "ready",
       "answer": "A = 2, B = 1",
@@ -257,6 +447,10 @@
         "dy/dx = dy/dw x dw/dx = 2x(1 - ln w)/w^2.",
         "Substitute w = x^2 + k: dy/dx = 2x(1 - ln(x^2 + k))/(x^2 + k)^2.",
         "So A = 2 and B = 1."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-06.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-07.jpg"
       ]
     },
     {
@@ -264,7 +458,15 @@
       "no": "Q7(b)",
       "marks": 3,
       "topic": "Turning Point Coordinates",
-      "keywords": ["turning points", "x coordinate", "ln equals one", "set derivative to zero", "three turning points", "in terms of k", "solve"],
+      "keywords": [
+        "turning points",
+        "x coordinate",
+        "ln equals one",
+        "set derivative to zero",
+        "three turning points",
+        "in terms of k",
+        "solve"
+      ],
       "question": "Given that C has exactly three turning points, find the x coordinate of each of these points, giving your answer in terms of k where appropriate.",
       "status": "ready",
       "answer": "x = 0 and x = +/- sqrt(e - k)",
@@ -274,6 +476,10 @@
         "So x^2 = e - k, giving x = +/- sqrt(e - k).",
         "These two extra roots exist only if e - k > 0, and they must be distinct from x = 0.",
         "So the three turning points have x = 0 and x = +/- sqrt(e - k)."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-06.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-07.jpg"
       ]
     },
     {
@@ -281,7 +487,15 @@
       "no": "Q7(c)",
       "marks": 1,
       "topic": "Upper Limit Of Constant",
-      "keywords": ["upper limit", "range of k", "three turning points", "e minus k", "positive constant", "ln", "inequality"],
+      "keywords": [
+        "upper limit",
+        "range of k",
+        "three turning points",
+        "e minus k",
+        "positive constant",
+        "ln",
+        "inequality"
+      ],
       "question": "Given that C has exactly three turning points, find the upper limit to the value of k.",
       "status": "ready",
       "answer": "k < e (upper limit e, not attained)",
@@ -290,6 +504,10 @@
         "This needs e - k > 0, so k < e.",
         "At k = e the extra points coincide with x = 0, giving only one turning point.",
         "So the upper limit for k is e."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-06.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-07.jpg"
       ]
     },
     {
@@ -297,7 +515,15 @@
       "no": "Q8(a)",
       "marks": 1,
       "topic": "Initial Population Value",
-      "keywords": ["substitute t = 0", "initial value", "population model", "toads", "exponential model", "start of study", "e^(0.12t)"],
+      "keywords": [
+        "substitute t = 0",
+        "initial value",
+        "population model",
+        "toads",
+        "exponential model",
+        "start of study",
+        "e^(0.12t)"
+      ],
       "question": "A population of toads is modelled by N = 900e^(0.12t)/(2e^(0.12t) + 1), t >= 0. Calculate the number of toads at the start of the study.",
       "status": "ready",
       "answer": "300 toads",
@@ -305,6 +531,10 @@
         "The start of the study is t = 0.",
         "e^(0.12 x 0) = 1.",
         "N = 900 x 1/(2 x 1 + 1) = 900/3 = 300."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-06.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-07.jpg"
       ]
     },
     {
@@ -312,7 +542,15 @@
       "no": "Q8(b)",
       "marks": 4,
       "topic": "Solve Exponential Model",
-      "keywords": ["solve exponential equation", "time when population is", "natural log", "substitute E", "420 toads", "decimal places", "logistic model"],
+      "keywords": [
+        "solve exponential equation",
+        "time when population is",
+        "natural log",
+        "substitute E",
+        "420 toads",
+        "decimal places",
+        "logistic model"
+      ],
       "question": "Using N = 900e^(0.12t)/(2e^(0.12t) + 1), find the value of t when there are 420 toads in the population, giving your answer to 2 decimal places.",
       "status": "ready",
       "answer": "t = ln 7/0.12 approx 16.22",
@@ -322,6 +560,10 @@
         "So 60E = 420, giving E = 7.",
         "e^(0.12t) = 7, so 0.12t = ln 7 and t = ln 7/0.12.",
         "t = 1.9459/0.12 = 16.2159..., so t = 16.22 to 2 decimal places."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-06.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-07.jpg"
       ]
     },
     {
@@ -329,7 +571,15 @@
       "no": "Q8(c)",
       "marks": 1,
       "topic": "Population Upper Limit",
-      "keywords": ["explain", "limit of population", "upper bound", "never reach 500", "rearrange", "horizontal asymptote", "exponential model"],
+      "keywords": [
+        "explain",
+        "limit of population",
+        "upper bound",
+        "never reach 500",
+        "rearrange",
+        "horizontal asymptote",
+        "exponential model"
+      ],
       "question": "According to the toad population model N = 900e^(0.12t)/(2e^(0.12t) + 1), explain why the number of toads can never reach 500.",
       "status": "ready",
       "answer": "N = 450 - 450/(2e^(0.12t) + 1) < 450 for all t, so N never reaches 500",
@@ -338,6 +588,10 @@
         "Rewrite: N = 450 - 450/(2E + 1), since 450(2E + 1) - 450 = 900E.",
         "Since 2E + 1 > 0, the term 450/(2E + 1) is positive, so N < 450 for all t.",
         "As t tends to infinity, N tends to 450, which is below 500, so N never reaches 500."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-06.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-07.jpg"
       ]
     },
     {
@@ -345,7 +599,15 @@
       "no": "Q9(a)",
       "marks": 5,
       "topic": "Maximum Turning Point Exact",
-      "keywords": ["turning point", "maximum point", "product rule", "exponential", "exact coordinates", "(x - 2)^2 e^(3x)", "calculus"],
+      "keywords": [
+        "turning point",
+        "maximum point",
+        "product rule",
+        "exponential",
+        "exact coordinates",
+        "(x - 2)^2 e^(3x)",
+        "calculus"
+      ],
       "question": "The curve y = f(x), where f(x) = (x - 2)^2 e^(3x), x in R, has a maximum turning point A and a minimum turning point at (2, 0). Use calculus to find the exact coordinates of A.",
       "status": "ready",
       "answer": "A = (4/3, 4e^4/9)",
@@ -356,6 +618,10 @@
         "f(4/3) = (4/3 - 2)^2 e^(4) = (4/9)e^4.",
         "Sign check: f' goes from positive to negative at x = 4/3, so it is a maximum.",
         "So A = (4/3, 4e^4/9), approx (1.33, 24.27)."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-07.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-08.jpg"
       ]
     },
     {
@@ -363,7 +629,15 @@
       "no": "Q9(b)",
       "marks": 2,
       "topic": "Range Of Values For Roots",
-      "keywords": ["at least two distinct roots", "range of k", "turning point", "maximum value", "horizontal line", "f(x) = k", "roots of equation"],
+      "keywords": [
+        "at least two distinct roots",
+        "range of k",
+        "turning point",
+        "maximum value",
+        "horizontal line",
+        "f(x) = k",
+        "roots of equation"
+      ],
       "question": "Given that f(x) = k, where k is a constant, has at least two distinct roots, state the range of possible values for k, where f(x) = (x - 2)^2 e^(3x).",
       "status": "ready",
       "answer": "0 < k <= 4e^4/9",
@@ -374,6 +648,10 @@
         "For 0 < k < 4e^4/9 there are three roots.",
         "For k = 0 there is only x = 2, so k = 0 is excluded.",
         "So 0 < k <= 4e^4/9."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-07.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-08.jpg"
       ]
     },
     {
@@ -381,7 +659,15 @@
       "no": "Q10(a)",
       "marks": 2,
       "topic": "Chain Rule Square Root",
-      "keywords": ["differentiate", "chain rule", "square root", "exponential", "x squared", "simplest form", "dy/dx"],
+      "keywords": [
+        "differentiate",
+        "chain rule",
+        "square root",
+        "exponential",
+        "x squared",
+        "simplest form",
+        "dy/dx"
+      ],
       "question": "The curve C has equation y = sqrt(3 + 4e^(x^2)), x >= 0. Find dy/dx in simplest form.",
       "status": "ready",
       "answer": "dy/dx = 4xe^(x^2)/sqrt(3 + 4e^(x^2))",
@@ -389,6 +675,10 @@
         "Write y = (3 + 4e^(x^2))^(1/2).",
         "Chain rule: dy/dx = (1/2)(3 + 4e^(x^2))^(-1/2) x 8xe^(x^2).",
         "Simplify: dy/dx = 4xe^(x^2)/sqrt(3 + 4e^(x^2))."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-08.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-09.jpg"
       ]
     },
     {
@@ -396,7 +686,15 @@
       "no": "Q10(b)",
       "marks": 3,
       "topic": "Tangent Through Origin",
-      "keywords": ["tangent through origin", "show x = alpha is a solution", "gradient equals y over x", "equation", "exponential", "square root curve", "show that"],
+      "keywords": [
+        "tangent through origin",
+        "show x = alpha is a solution",
+        "gradient equals y over x",
+        "equation",
+        "exponential",
+        "square root curve",
+        "show that"
+      ],
       "question": "P with x coordinate alpha lies on C, and the tangent to C at P passes through the origin. Show that x = alpha is a solution of 4x^2 e^(x^2) - 4e^(x^2) - 3 = 0.",
       "status": "ready",
       "answer": "Shown: 4x^2 e^(x^2) - 4e^(x^2) - 3 = 0 at x = alpha",
@@ -406,6 +704,10 @@
         "Cross-multiply: 4 alpha^2 e^(alpha^2) = y^2.",
         "y^2 = 3 + 4e^(alpha^2), so 4 alpha^2 e^(alpha^2) = 3 + 4e^(alpha^2).",
         "Rearrange: 4alpha^2 e^(alpha^2) - 4e^(alpha^2) - 3 = 0."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-08.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-09.jpg"
       ]
     },
     {
@@ -413,7 +715,15 @@
       "no": "Q10(c)",
       "marks": 2,
       "topic": "Root Location Sign Change",
-      "keywords": ["sign change", "location of root", "between 1 and 2", "intermediate value", "continuous function", "show that", "root"],
+      "keywords": [
+        "sign change",
+        "location of root",
+        "between 1 and 2",
+        "intermediate value",
+        "continuous function",
+        "show that",
+        "root"
+      ],
       "question": "Hence show that alpha lies between 1 and 2, where alpha satisfies 4x^2 e^(x^2) - 4e^(x^2) - 3 = 0.",
       "status": "ready",
       "answer": "h(1) = -3 < 0 and h(2) = 12e^4 - 3 > 0, so alpha lies between 1 and 2",
@@ -422,6 +732,10 @@
         "h(1) = 4e - 4e - 3 = -3 < 0.",
         "h(2) = 16e^4 - 4e^4 - 3 = 12e^4 - 3 > 0.",
         "Sign change on [1, 2] means a root lies in (1, 2), so alpha is between 1 and 2."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-08.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-09.jpg"
       ]
     },
     {
@@ -429,7 +743,15 @@
       "no": "Q10(d)",
       "marks": 1,
       "topic": "Rearrange To Iteration Form",
-      "keywords": ["rearrange", "show that", "iteration form", "square root", "x equals", "e^(-x^2)", "fixed point form"],
+      "keywords": [
+        "rearrange",
+        "show that",
+        "iteration form",
+        "square root",
+        "x equals",
+        "e^(-x^2)",
+        "fixed point form"
+      ],
       "question": "Show that the equation 4x^2 e^(x^2) - 4e^(x^2) - 3 = 0 can be written in the form x = (1/2)sqrt(4 + 3e^(-x^2)).",
       "status": "ready",
       "answer": "Shown: x = (1/2)sqrt(4 + 3e^(-x^2)) for x > 0",
@@ -438,6 +760,10 @@
         "So 4x^2 - 4 = 3e^(-x^2).",
         "4x^2 = 4 + 3e^(-x^2), so x^2 = (4 + 3e^(-x^2))/4.",
         "Take the positive square root (x > 0): x = (1/2)sqrt(4 + 3e^(-x^2))."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-08.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-09.jpg"
       ]
     },
     {
@@ -445,7 +771,16 @@
       "no": "Q10(e)",
       "marks": 3,
       "topic": "Iteration Root Approximation",
-      "keywords": ["iteration", "x1 = 1", "decimal places", "approximate root", "alpha", "third iterate", "converge", "fixed point"],
+      "keywords": [
+        "iteration",
+        "x1 = 1",
+        "decimal places",
+        "approximate root",
+        "alpha",
+        "third iterate",
+        "converge",
+        "fixed point"
+      ],
       "question": "The iteration x(n+1) = (1/2)sqrt(4 + 3e^(-xn^2)) with x1 = 1 is used to find an approximation for alpha. Using this iteration, find to 4 decimal places (i) x_3 (the scanned paper shows x^3, read here as the third iterate) and (ii) alpha.",
       "status": "ready",
       "answer": "(i) x_3 approx 1.0997; (ii) alpha approx 1.1051",
@@ -455,6 +790,10 @@
         "Continue: x4 = 1.1062, x5 = 1.1048, x6 = 1.1051 (values converge slowly, oscillating about the root).",
         "The iteration converges to the root, so alpha approx 1.1051 (to 4 decimal places, checked by substitution: g(1.10506) = 1.10506).",
         "Answers: (i) x_3 = 1.0997; (ii) alpha = 1.1051."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-08.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-09.jpg"
       ]
     },
     {
@@ -462,7 +801,16 @@
       "no": "Q11(a)",
       "marks": 4,
       "topic": "Exponential Model From Log Graph",
-      "keywords": ["log graph", "straight line", "log10 A", "exponential model", "gradient", "intercept", "p and q", "linear relationship"],
+      "keywords": [
+        "log graph",
+        "straight line",
+        "log10 A",
+        "exponential model",
+        "gradient",
+        "intercept",
+        "p and q",
+        "linear relationship"
+      ],
       "question": "The surface area A m^2 of a pond covered by duckweed at time t days is modelled by A = pq^t, where p and q are positive constants. Figure 1 shows the straight line through (0, 0.32) and (8, 0.56) for log10 A against t. Find, to 3 decimal places, the values of p and q.",
       "status": "ready",
       "answer": "p = 2.089 and q = 1.072",
@@ -472,6 +820,10 @@
         "Gradient: (0.56 - 0.32)/(8 - 0) = 0.03 = log10 q.",
         "So q = 10^0.03 = 1.072.",
         "Answer: p = 2.089 and q = 1.072, to 3 decimal places."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-09.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-10.jpg"
       ]
     },
     {
@@ -479,7 +831,16 @@
       "no": "Q11(b)",
       "marks": 3,
       "topic": "Rate Of Change Exponential",
-      "keywords": ["rate of change", "differentiate", "exponential", "dA/dt", "ln q", "t equals 6", "m^2 per day", "2 decimal places"],
+      "keywords": [
+        "rate of change",
+        "differentiate",
+        "exponential",
+        "dA/dt",
+        "ln q",
+        "t equals 6",
+        "m^2 per day",
+        "2 decimal places"
+      ],
       "question": "Using A = pq^t with the values found in part (a), find the rate of increase of the surface area covered by duckweed, in m^2 per day, exactly 6 days after the start of the study, giving your answer to 2 decimal places.",
       "status": "ready",
       "answer": "dA/dt approx 0.22 m^2/day",
@@ -489,6 +850,10 @@
         "At t = 6: A = 10^0.5 = 3.1623 m^2.",
         "dA/dt = 3.1623 x 0.03 x 2.3026 = 0.2184.",
         "Rate = 0.22 m^2/day to 2 decimal places."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-09.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-10.jpg"
       ]
     },
     {
@@ -496,7 +861,15 @@
       "no": "Q12(a)",
       "marks": 2,
       "topic": "Product Rule Exponential Cubic",
-      "keywords": ["differentiate", "product rule", "exponential e^(-x/2)", "cubic", "f prime", "simplest form", "x(x^2 - 4)"],
+      "keywords": [
+        "differentiate",
+        "product rule",
+        "exponential e^(-x/2)",
+        "cubic",
+        "f prime",
+        "simplest form",
+        "x(x^2 - 4)"
+      ],
       "question": "Figure 3 shows a sketch of part of the curve with equation y = f(x), where f(x) = x(x^2 - 4)e^(-x/2). Find f'(x).",
       "status": "ready",
       "answer": "f'(x) = (1/2)e^(-x/2)(-x^3 + 6x^2 + 4x - 8)",
@@ -506,6 +879,11 @@
         "Combine over 2: f'(x) = e^(-x/2)[2(3x^2 - 4) - (x^3 - 4x)]/2.",
         "Numerator: 6x^2 - 8 - x^3 + 4x.",
         "So f'(x) = (1/2)e^(-x/2)(-x^3 + 6x^2 + 4x - 8)."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-10.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-11.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-12.jpg"
       ]
     },
     {
@@ -513,7 +891,16 @@
       "no": "Q12(b)",
       "marks": 4,
       "topic": "Normal Intersection Show Equation",
-      "keywords": ["normal", "normal at origin", "intersection", "show that", "square root equation", "third quadrant", "exponential", "rearrange"],
+      "keywords": [
+        "normal",
+        "normal at origin",
+        "intersection",
+        "show that",
+        "square root equation",
+        "third quadrant",
+        "exponential",
+        "rearrange"
+      ],
       "question": "The line l is the normal to the curve y = x(x^2 - 4)e^(-x/2) at O and meets the curve again at P, which lies in the 3rd quadrant. Show that the x coordinate of P is a solution of x = -(1/2)sqrt(16 + e^(x/2)).",
       "status": "ready",
       "answer": "Shown: x = -(1/2)sqrt(16 + e^(x/2))",
@@ -523,6 +910,11 @@
         "At P: x(x^2 - 4)e^(-x/2) = x/4; P is not O so divide by x: (x^2 - 4)e^(-x/2) = 1/4.",
         "Multiply by e^(x/2): x^2 - 4 = (1/4)e^(x/2), so 4x^2 = 16 + e^(x/2).",
         "x^2 = (16 + e^(x/2))/4. P is in the 3rd quadrant, so x < 0 and x = -(1/2)sqrt(16 + e^(x/2))."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-10.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-11.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-12.jpg"
       ]
     },
     {
@@ -530,7 +922,15 @@
       "no": "Q12(c)",
       "marks": 3,
       "topic": "Iteration Negative Root",
-      "keywords": ["iteration", "x1 = -2", "decimal places", "x coordinate of P", "negative root", "fixed point", "third quadrant point"],
+      "keywords": [
+        "iteration",
+        "x1 = -2",
+        "decimal places",
+        "x coordinate of P",
+        "negative root",
+        "fixed point",
+        "third quadrant point"
+      ],
       "question": "Using the iteration x(n+1) = -(1/2)sqrt(16 + e^(x_n/2)) with x1 = -2, find to 4 decimal places (i) the value of x2 and (ii) the x coordinate of P.",
       "status": "ready",
       "answer": "(i) x2 = -2.0229; (ii) x coordinate of P = -2.0226",
@@ -540,6 +940,11 @@
         "x3 = -(1/2)sqrt(16 + e^(-1.01143)) = -2.0226.",
         "x4 = -2.0226 again, so the sequence has converged.",
         "x coordinate of P = -2.0226 to 4 decimal places."
+      ],
+      "images": [
+        "papers/maths/img/P3-07-Differentiation-Logs-10.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-11.jpg",
+        "papers/maths/img/P3-07-Differentiation-Logs-12.jpg"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 {
   "code": "7C",
-  "title": "Particle Zoo",
+  "title": "The particle zoo",
   "unit": "A2 Unit 6",
   "pdf": "papers/physics/28-7C-Particle-Zoo.pdf",
   "questions": [
@@ -9,7 +9,16 @@
       "no": "Q1(a)",
       "marks": 2,
       "topic": "Rutherford Scattering Evidence",
-      "keywords": ["alpha particle scattering", "gold foil", "central charge", "nucleus", "small volume", "large deflection", "rutherford", "1911"],
+      "keywords": [
+        "alpha particle scattering",
+        "gold foil",
+        "central charge",
+        "nucleus",
+        "small volume",
+        "large deflection",
+        "rutherford",
+        "1911"
+      ],
       "question": "Explain how the alpha particle scattering results led Rutherford to conclude that the atom has a central charge in a very small volume.",
       "status": "ready",
       "answer": "Most alpha particles pass straight through, but a few are deflected through large angles, which needs a small, dense, positive central charge.",
@@ -18,6 +27,10 @@
         "A few alpha particles are deflected through large angles, and some are reflected back.",
         "Large deflections need a strong repulsive force from concentrated positive charge.",
         "So the positive charge must be concentrated in a very small volume at the centre of the atom."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-01.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-02.jpg"
       ]
     },
     {
@@ -25,7 +38,16 @@
       "no": "Q1(b)",
       "marks": 4,
       "topic": "Sign Of Central Charge",
-      "keywords": ["central charge", "positive or negative", "alpha particle", "attraction", "repulsion", "deflection", "scattering", "sign"],
+      "keywords": [
+        "central charge",
+        "positive or negative",
+        "alpha particle",
+        "attraction",
+        "repulsion",
+        "deflection",
+        "scattering",
+        "sign"
+      ],
       "question": "Discuss why the alpha scattering observations could not show whether the central charge of the atom is positive or negative.",
       "status": "ready",
       "answer": "The size of the deflection depends on the magnitude of the force (charge squared), not its sign, so attraction or repulsion gives the same angle distribution.",
@@ -34,6 +56,10 @@
         "Attraction bends the alpha particle towards the nucleus, repulsion bends it away, through the same magnitude of angle.",
         "The scattering depends on the product of the charges, so the magnitude of the force is the same for +Ze and -Ze.",
         "Only the direction of deflection would differ, and the observations (counts at each angle) could not show this sign."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-01.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-02.jpg"
       ]
     },
     {
@@ -41,7 +67,16 @@
       "no": "Q1(c)",
       "marks": 3,
       "topic": "Closest Approach Distance",
-      "keywords": ["alpha particle", "platinum nucleus", "kinetic energy 6.29 MeV", "minimum distance", "point charges", "electrostatic", "proton number 78", "head on"],
+      "keywords": [
+        "alpha particle",
+        "platinum nucleus",
+        "kinetic energy 6.29 MeV",
+        "minimum distance",
+        "point charges",
+        "electrostatic",
+        "proton number 78",
+        "head on"
+      ],
       "question": "An alpha particle with kinetic energy 6.29 MeV approaches a platinum nucleus (proton number 78) head on and is repelled. Calculate the minimum distance between them, treating both as point charges.",
       "status": "ready",
       "answer": "r = 3.6 x 10^-14 m",
@@ -50,6 +85,10 @@
         "Charges: alpha Q = 2e = 3.2 x 10^-19 C, platinum nucleus q = 78e = 1.25 x 10^-17 C.",
         "KE = 6.29 x 10^6 x 1.6 x 10^-19 = 1.01 x 10^-12 J.",
         "r = (8.99 x 10^9 x 3.2 x 10^-19 x 1.25 x 10^-17) / (1.01 x 10^-12) = 3.6 x 10^-14 m."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-01.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-02.jpg"
       ]
     },
     {
@@ -57,7 +96,16 @@
       "no": "Q2",
       "marks": 1,
       "topic": "Farad Base Units",
-      "keywords": ["farad", "capacitance", "SI base units", "coulomb", "joule", "kg m s A", "unit", "capacitor"],
+      "keywords": [
+        "farad",
+        "capacitance",
+        "SI base units",
+        "coulomb",
+        "joule",
+        "kg m s A",
+        "unit",
+        "capacitor"
+      ],
       "question": "Which expression gives the base units of the farad? A: C V^-1; B: C^2 J^-1; C: kg^-1 m^-2 A^2 s^4; D: kg^-1 m^-2 s^-2 C^-2.",
       "status": "ready",
       "answer": "C: kg^-1 m^-2 A^2 s^4",
@@ -66,6 +114,9 @@
         "Charge C = A s, so C^2 = A^2 s^2.",
         "Joule = kg m^2 s^-2, so farad = A^2 s^2 / (kg m^2 s^-2) = kg^-1 m^-2 A^2 s^4.",
         "This matches option C."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-02.jpg"
       ]
     },
     {
@@ -73,7 +124,16 @@
       "no": "Q3",
       "marks": 1,
       "topic": "Lepton Number Violation",
-      "keywords": ["neutron decay", "conservation laws", "lepton number", "baryon number", "charge", "electron neutrino", "antineutrino", "violated"],
+      "keywords": [
+        "neutron decay",
+        "conservation laws",
+        "lepton number",
+        "baryon number",
+        "charge",
+        "electron neutrino",
+        "antineutrino",
+        "violated"
+      ],
       "question": "A student writes the decay of a neutron as n -> p + e^- + neutrino (no bar shown in text). Which conservation law is violated? A: baryon number; B: charge; C: energy; D: lepton number.",
       "status": "ready",
       "answer": "D: lepton number",
@@ -82,6 +142,9 @@
         "Charge: 0 = (+1) + (-1) + 0, so it is conserved.",
         "Lepton number: the electron gives +1, and the neutrino written without a bar also gives +1, so the total is +2 instead of 0.",
         "The correct product is an electron antineutrino, so the student has broken lepton number conservation."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-02.jpg"
       ]
     },
     {
@@ -89,18 +152,40 @@
       "no": "Q4",
       "marks": 1,
       "topic": "Pair Production Mass",
-      "keywords": ["gamma photon", "18 MeV", "particle antiparticle pair", "maximum mass", "pair production", "energy conservation", "options", "mass kg"],
+      "keywords": [
+        "gamma photon",
+        "18 MeV",
+        "particle antiparticle pair",
+        "maximum mass",
+        "pair production",
+        "energy conservation",
+        "options",
+        "mass kg"
+      ],
       "question": "A gamma photon of energy 18 MeV produces a particle and its antiparticle. Which gives the maximum possible mass of the particle in kg? (Options are not in the text.)",
       "status": "pending",
       "answer": "Pending: the answer options are missing from the text. Physics: maximum mass is when the pair shares the energy equally, so each has mc^2 = 9 MeV, giving m = 1.6 x 10^-29 kg.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-03.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-04.jpg"
+      ]
     },
     {
       "id": "7C-Q5",
       "no": "Q5",
       "marks": 1,
       "topic": "Neutron Decay Equation",
-      "keywords": ["neutron decay", "proton", "electron", "antineutrino", "beta minus", "conservation", "charge", "lepton number"],
+      "keywords": [
+        "neutron decay",
+        "proton",
+        "electron",
+        "antineutrino",
+        "beta minus",
+        "conservation",
+        "charge",
+        "lepton number"
+      ],
       "question": "Which equation correctly shows neutron decay? A: n -> p + e^+ + (missing); B: n -> p + e^+ + nu_e; C: n -> p + e^- + (missing); D: n -> p + e^- + nu_e. (Bars on antiparticle symbols are lost in the text.)",
       "status": "ready",
       "answer": "D: n -> p + e^- + antineutrino (the correct beta-minus decay)",
@@ -109,6 +194,10 @@
         "Baryon number: 1 on each side, so neutron decay gives a proton.",
         "Lepton number: the electron has +1, so an antineutrino (-1) is needed to balance it.",
         "Option D has electron plus antineutrino, which is the correct decay."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-03.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-04.jpg"
       ]
     },
     {
@@ -116,13 +205,26 @@
       "no": "Q6(a)",
       "marks": 1,
       "topic": "Electron Positron Annihilation",
-      "keywords": ["positron", "electron", "annihilation", "gamma photons", "PET", "pair", "mass to energy", "process"],
+      "keywords": [
+        "positron",
+        "electron",
+        "annihilation",
+        "gamma photons",
+        "PET",
+        "pair",
+        "mass to energy",
+        "process"
+      ],
       "question": "Name the process in which a low energy positron collides with an electron to produce a pair of gamma photons.",
       "status": "ready",
       "answer": "Annihilation (electron-positron annihilation)",
       "steps": [
         "The positron and electron are particle and antiparticle.",
         "When they meet, their mass is converted into energy in the form of two gamma photons: this is annihilation."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-03.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-04.jpg"
       ]
     },
     {
@@ -130,7 +232,16 @@
       "no": "Q6(b)",
       "marks": 4,
       "topic": "Maximum Photon Wavelength",
-      "keywords": ["gamma photon", "maximum wavelength", "annihilation", "positron", "electron", "rest energy", "wavelength", "low energy"],
+      "keywords": [
+        "gamma photon",
+        "maximum wavelength",
+        "annihilation",
+        "positron",
+        "electron",
+        "rest energy",
+        "wavelength",
+        "low energy"
+      ],
       "question": "A low energy positron and electron annihilate to produce a pair of gamma photons travelling in opposite directions. Calculate the maximum wavelength of the photons.",
       "status": "ready",
       "answer": "Maximum wavelength = 2.4 x 10^-12 m",
@@ -139,6 +250,10 @@
         "Maximum wavelength corresponds to minimum photon energy, so the kinetic energies are taken as zero.",
         "E = 9.11 x 10^-31 x (3.00 x 10^8)^2 = 8.20 x 10^-14 J.",
         "lambda = h c / E = (6.63 x 10^-34 x 3.00 x 10^8) / (8.20 x 10^-14) = 2.4 x 10^-12 m."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-03.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-04.jpg"
       ]
     },
     {
@@ -146,18 +261,40 @@
       "no": "Q7",
       "marks": 6,
       "topic": "Standard Model Particles",
-      "keywords": ["standard model", "underlined particles", "passage", "fundamental particles", "history", "particle physics", "classification", "description"],
+      "keywords": [
+        "standard model",
+        "underlined particles",
+        "passage",
+        "fundamental particles",
+        "history",
+        "particle physics",
+        "classification",
+        "description"
+      ],
       "question": "Describe how the underlined particles in a passage about the history of particle physics fit into the standard model. (The passage is not in the text.)",
       "status": "pending",
       "answer": "Pending: the passage with the underlined particles is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-04.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-05.jpg"
+      ]
     },
     {
       "id": "7C-Q8",
       "no": "Q8",
       "marks": 4,
       "topic": "Zweig Aces Model",
-      "keywords": ["zweig", "aces", "quarks", "standard model", "baryon number", "fractional charge", "leptons", "compare"],
+      "keywords": [
+        "zweig",
+        "aces",
+        "quarks",
+        "standard model",
+        "baryon number",
+        "fractional charge",
+        "leptons",
+        "compare"
+      ],
       "question": "Zweig proposed fundamental particles called aces with baryon number 1/3 and fractional charge; baryons are three aces and mesons are two aces, with four aces to match four leptons. Compare this model with the standard model.",
       "status": "ready",
       "answer": "Zweig's aces are like quarks (fractional charge, baryon number 1/3), but the standard model has six quarks in three generations matching six leptons, not four aces.",
@@ -166,6 +303,10 @@
         "Similarity: baryons are three-particle combinations and mesons are particle-antiparticle pairs in the standard model (Zweig's mesons are two aces).",
         "Difference: the standard model has six quarks (up, down, charm, strange, top, bottom), not four aces.",
         "Difference: the standard model matches six leptons in three generations, so the quark number was not four."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-05.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-06.jpg"
       ]
     },
     {
@@ -173,18 +314,40 @@
       "no": "Q9",
       "marks": 1,
       "topic": "Neutrino Interaction Equation",
-      "keywords": ["neutrino", "proton", "neutron", "interaction", "equation", "inverse beta", "charge", "lepton number"],
+      "keywords": [
+        "neutrino",
+        "proton",
+        "neutron",
+        "interaction",
+        "equation",
+        "inverse beta",
+        "charge",
+        "lepton number"
+      ],
       "question": "Neutrinos can interact with protons to create neutrons. Which equation shows this process? (Options are not in the text.)",
       "status": "pending",
       "answer": "Pending: the equation options are missing from the text. Expected form: antineutrino + p -> n + e^+.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-05.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-06.jpg"
+      ]
     },
     {
       "id": "7C-Q10a",
       "no": "Q10(a)",
       "marks": 3,
       "topic": "Positron Antiparticle Properties",
-      "keywords": ["positron", "electron", "antiparticle", "same mass", "opposite charge", "lepton number", "properties", "antimatter"],
+      "keywords": [
+        "positron",
+        "electron",
+        "antiparticle",
+        "same mass",
+        "opposite charge",
+        "lepton number",
+        "properties",
+        "antimatter"
+      ],
       "question": "State the properties of a positron that show it is the antiparticle of the electron.",
       "status": "ready",
       "answer": "Same mass and spin as the electron, but opposite charge (+e) and opposite lepton number.",
@@ -193,6 +356,11 @@
         "A positron has the same spin as an electron.",
         "A positron has charge +e, which is opposite to the electron's -e.",
         "A positron has lepton number -1, opposite to the electron's +1."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-06.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
       ]
     },
     {
@@ -200,18 +368,41 @@
       "no": "Q10(b)",
       "marks": 3,
       "topic": "Magnetic Field Direction",
-      "keywords": ["positron", "magnetic field direction", "cloud chamber", "track curvature", "Fleming left hand rule", "lead plate", "photograph", "deduce"],
+      "keywords": [
+        "positron",
+        "magnetic field direction",
+        "cloud chamber",
+        "track curvature",
+        "Fleming left hand rule",
+        "lead plate",
+        "photograph",
+        "deduce"
+      ],
       "question": "The photograph shows the curved track of a positron in a magnetic field perpendicular to the page. Deduce the direction of the magnetic field.",
       "status": "pending",
       "answer": "Pending: the direction depends on the sense of curvature and direction of travel shown in the photograph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-06.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
+      ]
     },
     {
       "id": "7C-Q10c1",
       "no": "Q10(c)(i)",
       "marks": 3,
       "topic": "Relativistic Positron Speed",
-      "keywords": ["positron", "23 MeV", "relativistic", "kinetic energy", "rest energy 0.511 MeV", "gamma factor", "speed", "show"],
+      "keywords": [
+        "positron",
+        "23 MeV",
+        "relativistic",
+        "kinetic energy",
+        "rest energy 0.511 MeV",
+        "gamma factor",
+        "speed",
+        "show"
+      ],
       "question": "A positron has kinetic energy 23 MeV, assumed to be all of its energy. Show that it must be travelling at a relativistic speed.",
       "status": "ready",
       "answer": "Its kinetic energy is about 45 times its rest energy (gamma about 46), so v is about 0.99999c, which is relativistic.",
@@ -220,6 +411,11 @@
         "Kinetic energy is 23 MeV, which is about 45 times the rest energy.",
         "gamma = 1 + E k / (m c^2) = 1 + 23 / 0.511 = 46.",
         "v = c sqrt(1 - 1/gamma^2) = 0.99999 c, so the speed is relativistic."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-06.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
       ]
     },
     {
@@ -227,7 +423,16 @@
       "no": "Q10(c)(ii)",
       "marks": 3,
       "topic": "Positron Magnetic Flux Density",
-      "keywords": ["positron", "relativistic momentum", "E = pc", "radius 3.7 cm", "magnetic flux density", "23 MeV", "momentum", "B q r"],
+      "keywords": [
+        "positron",
+        "relativistic momentum",
+        "E = pc",
+        "radius 3.7 cm",
+        "magnetic flux density",
+        "23 MeV",
+        "momentum",
+        "B q r"
+      ],
       "question": "For a relativistic positron, E = pc. The positron has energy 23 MeV and the radius of its path is 3.7 cm. Determine the magnetic flux density.",
       "status": "ready",
       "answer": "B = 2.1 T",
@@ -235,6 +440,11 @@
         "Momentum: p = E / c = (23 x 10^6 x 1.6 x 10^-19) / (3.00 x 10^8) = 1.23 x 10^-20 kg m s^-1.",
         "Radius in a magnetic field: r = p / (B q), so B = p / (q r).",
         "B = 1.23 x 10^-20 / (1.6 x 10^-19 x 0.037) = 2.1 T."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-06.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
       ]
     },
     {
@@ -242,7 +452,16 @@
       "no": "Q10(d)",
       "marks": 4,
       "topic": "Annihilation Gamma Frequency",
-      "keywords": ["positron", "electron", "head-on collision", "annihilation", "gamma frequency", "kinetic energy", "1.5 x 10^7 m s^-1", "photons"],
+      "keywords": [
+        "positron",
+        "electron",
+        "head-on collision",
+        "annihilation",
+        "gamma frequency",
+        "kinetic energy",
+        "1.5 x 10^7 m s^-1",
+        "photons"
+      ],
       "question": "A positron and an electron, each travelling at 1.5 x 10^7 m s^-1 in opposite directions, annihilate to produce gamma radiation. Calculate the frequency of the gamma radiation.",
       "status": "ready",
       "answer": "Frequency = 1.2 x 10^20 Hz per photon",
@@ -251,6 +470,11 @@
         "Kinetic energy each: 0.5 x 9.11 x 10^-31 x (1.5 x 10^7)^2 = 1.0 x 10^-16 J, so the total is 2.05 x 10^-16 J (negligible against 1.64 x 10^-13 J of rest energy).",
         "Total energy = 1.64 x 10^-13 J, shared between two gamma photons, so each has E = 8.21 x 10^-14 J.",
         "f = E / h = 8.21 x 10^-14 / 6.63 x 10^-34 = 1.2 x 10^20 Hz."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-06.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
       ]
     },
     {
@@ -258,7 +482,16 @@
       "no": "Q11(a)",
       "marks": 2,
       "topic": "Anti-neutron Energy Conservation",
-      "keywords": ["anti-neutron", "positron", "stationary", "energy conservation", "rest energy", "kinetic energy", "decay", "mass energy"],
+      "keywords": [
+        "anti-neutron",
+        "positron",
+        "stationary",
+        "energy conservation",
+        "rest energy",
+        "kinetic energy",
+        "decay",
+        "mass energy"
+      ],
       "question": "A stationary anti-neutron decays by emitting a positron. Explain how energy is conserved in this decay.",
       "status": "ready",
       "answer": "The rest energy of the anti-neutron equals the total rest energy plus kinetic energy of the products.",
@@ -266,6 +499,10 @@
         "The stationary anti-neutron has rest energy m c^2 and no kinetic energy.",
         "After decay the rest energies of the products plus their kinetic energies must add up to the original rest energy.",
         "The mass difference is therefore released as kinetic energy of the positron and other products."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-08.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-09.jpg"
       ]
     },
     {
@@ -273,18 +510,40 @@
       "no": "Q11(b)",
       "marks": 6,
       "topic": "Conservation Laws In Decay",
-      "keywords": ["anti-neutron", "conservation laws", "charge", "baryon number", "lepton number", "decay equation", "positron", "antineutrino"],
+      "keywords": [
+        "anti-neutron",
+        "conservation laws",
+        "charge",
+        "baryon number",
+        "lepton number",
+        "decay equation",
+        "positron",
+        "antineutrino"
+      ],
       "question": "Explain how the anti-neutron decay equation shows that the decay obeys three conservation laws. (The equation is not in the text.)",
       "status": "pending",
       "answer": "Pending: the decay equation is not in the text, so the charge, baryon and lepton numbers cannot be checked.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-08.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-09.jpg"
+      ]
     },
     {
       "id": "7C-Q12a",
       "no": "Q12(a)",
       "marks": 5,
       "topic": "Muon Lifetime Relativity",
-      "keywords": ["muon", "time dilation", "lifetime 2.2 x 10^-6 s", "0.994c", "1600 m", "74 percent", "relativity", "cosmic rays"],
+      "keywords": [
+        "muon",
+        "time dilation",
+        "lifetime 2.2 x 10^-6 s",
+        "0.994c",
+        "1600 m",
+        "74 percent",
+        "relativity",
+        "cosmic rays"
+      ],
       "question": "Muons travelling at 0.994c fell 1600 m, and 74% of those detected at 1600 m reached the bottom. The muon rest lifetime is 2.2 x 10^-6 s. Explain whether the observations are consistent with relativity, with a calculation.",
       "status": "ready",
       "answer": "Yes: time dilation gives gamma = 9.1 and a survival fraction of about 77%, close to the observed 74%. Without relativity the fraction would be only about 9%.",
@@ -294,6 +553,10 @@
         "With relativity: gamma = 1 / sqrt(1 - 0.994^2) = 9.1, so the lifetime is 9.1 x 2.2 x 10^-6 = 2.0 x 10^-5 s.",
         "Surviving fraction = exp(-5.37 x 10^-6 / 2.0 x 10^-5) = exp(-0.27) = 0.77, about 77%.",
         "This is close to the observed 74%, so the observations are consistent with time dilation."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-09.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-10.jpg"
       ]
     },
     {
@@ -301,7 +564,16 @@
       "no": "Q12(b)",
       "marks": 2,
       "topic": "Muon Not Meson",
-      "keywords": ["muon", "lepton", "meson", "standard model", "mu meson", "quark structure", "fundamental", "classification"],
+      "keywords": [
+        "muon",
+        "lepton",
+        "meson",
+        "standard model",
+        "mu meson",
+        "quark structure",
+        "fundamental",
+        "classification"
+      ],
       "question": "After muons were discovered they were called mu mesons. Explain why muons are not described as mesons in the standard model.",
       "status": "ready",
       "answer": "A meson is made of a quark and an antiquark, but the muon is a lepton with no quark structure and is a fundamental particle.",
@@ -309,6 +581,10 @@
         "Mesons are composite particles made of a quark and an antiquark.",
         "The muon is a fundamental lepton, with no quark structure.",
         "So it is classified as a lepton (second generation), not a meson."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-09.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-10.jpg"
       ]
     },
     {
@@ -316,7 +592,16 @@
       "no": "Q13(a)",
       "marks": 6,
       "topic": "Cyclotron Field Roles",
-      "keywords": ["cyclotron", "electric field", "magnetic field", "high speed", "charged particles", "dees", "alternating p.d.", "spiral"],
+      "keywords": [
+        "cyclotron",
+        "electric field",
+        "magnetic field",
+        "high speed",
+        "charged particles",
+        "dees",
+        "alternating p.d.",
+        "spiral"
+      ],
       "question": "Explain the role of electric and magnetic fields in producing high speed charged particles in a cyclotron.",
       "status": "ready",
       "answer": "The alternating electric field in the gap between the dees accelerates particles each half turn, and the magnetic field makes them move in circles so they return to the gap.",
@@ -327,6 +612,10 @@
         "Each acceleration increases speed and radius, so particles spiral outward.",
         "Inside the dees there is no electric field, so speed only changes in the gap.",
         "The particles leave at maximum radius with high kinetic energy."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-10.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-11.jpg"
       ]
     },
     {
@@ -334,7 +623,16 @@
       "no": "Q13(b)",
       "marks": 4,
       "topic": "Cyclotron Alpha Magnetic Field",
-      "keywords": ["cyclotron", "alpha particle", "16 MeV", "diameter 0.94 m", "magnetic flux density", "kinetic energy", "radius", "mass 6.6 x 10^-27 kg"],
+      "keywords": [
+        "cyclotron",
+        "alpha particle",
+        "16 MeV",
+        "diameter 0.94 m",
+        "magnetic flux density",
+        "kinetic energy",
+        "radius",
+        "mass 6.6 x 10^-27 kg"
+      ],
       "question": "A cyclotron produces alpha particles of kinetic energy 16 MeV, with cyclotron diameter 0.94 m and alpha mass 6.6 x 10^-27 kg. Calculate the magnetic flux density required.",
       "status": "ready",
       "answer": "B = 1.2 T",
@@ -343,6 +641,10 @@
         "Kinetic energy: 16 x 10^6 x 1.6 x 10^-19 = 2.56 x 10^-12 J.",
         "Speed: v = sqrt(2 E k / m) = sqrt(2 x 2.56 x 10^-12 / 6.6 x 10^-27) = 2.79 x 10^7 m s^-1.",
         "B = m v / (q r) = (6.6 x 10^-27 x 2.79 x 10^7) / (3.2 x 10^-19 x 0.47) = 1.2 T."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-10.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-11.jpg"
       ]
     },
     {
@@ -350,68 +652,150 @@
       "no": "Q14",
       "marks": 1,
       "topic": "Sigma Quark Structure",
-      "keywords": ["sigma particle", "quark structure", "baryon", "options", "quarks", "strange", "multiple choice", "hyperon"],
+      "keywords": [
+        "sigma particle",
+        "quark structure",
+        "baryon",
+        "options",
+        "quarks",
+        "strange",
+        "multiple choice",
+        "hyperon"
+      ],
       "question": "Which of the following is the quark structure of a sigma particle? (Options are not in the text.)",
       "status": "pending",
       "answer": "Pending: the answer options are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-11.jpg"
+      ]
     },
     {
       "id": "7C-Q15",
       "no": "Q15",
       "marks": 1,
       "topic": "Pentaquark Quark Arrangement",
-      "keywords": ["pentaquark", "five quarks", "baryon meson", "quark arrangement", "table", "combination", "2015", "row"],
+      "keywords": [
+        "pentaquark",
+        "five quarks",
+        "baryon meson",
+        "quark arrangement",
+        "table",
+        "combination",
+        "2015",
+        "row"
+      ],
       "question": "A pentaquark is made of five quarks and can form a baryon-meson combination. Which row of the table shows a possible arrangement? (The table is not in the text.)",
       "status": "pending",
       "answer": "Pending: the table of quark arrangements is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
+      ]
     },
     {
       "id": "7C-Q16a",
       "no": "Q16(a)",
       "marks": 2,
       "topic": "Anti-muon Charge From Tracks",
-      "keywords": ["bubble chamber", "anti-muon", "positive charge", "track curvature", "positive pion decay", "tracks", "diagram", "evidence"],
+      "keywords": [
+        "bubble chamber",
+        "anti-muon",
+        "positive charge",
+        "track curvature",
+        "positive pion decay",
+        "tracks",
+        "diagram",
+        "evidence"
+      ],
       "question": "State two ways the detector diagram shows that the anti-muon from a positive pion decay at X must have a positive charge.",
       "status": "pending",
       "answer": "Pending: the track diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
+      ]
     },
     {
       "id": "7C-Q16b",
       "no": "Q16(b)",
       "marks": 3,
       "topic": "Clockwise Muon Path",
-      "keywords": ["anti-muon", "clockwise path", "track", "magnetic field", "detector", "diagram", "curvature", "explain"],
+      "keywords": [
+        "anti-muon",
+        "clockwise path",
+        "track",
+        "magnetic field",
+        "detector",
+        "diagram",
+        "curvature",
+        "explain"
+      ],
       "question": "Explain how the diagram shows that the anti-muon travels in a clockwise path.",
       "status": "pending",
       "answer": "Pending: the track diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
+      ]
     },
     {
       "id": "7C-Q16c",
       "no": "Q16(c)",
       "marks": 1,
       "topic": "Detector Field Direction",
-      "keywords": ["magnetic field direction", "detector", "anti-muon", "clockwise", "into page", "out of page", "track", "state"],
+      "keywords": [
+        "magnetic field direction",
+        "detector",
+        "anti-muon",
+        "clockwise",
+        "into page",
+        "out of page",
+        "track",
+        "state"
+      ],
       "question": "State the direction of the magnetic field acting in the detector, given the clockwise path of the anti-muon.",
       "status": "pending",
       "answer": "Pending: the direction depends on the diagram showing the track and the positive charge, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
+      ]
     },
     {
       "id": "7C-Q16d",
       "no": "Q16(d)",
       "marks": 3,
       "topic": "Pion Radius In Field",
-      "keywords": ["pion", "momentum 1.2 x 10^-19 N s", "magnetic flux density 3.5 T", "radius", "charge", "circular path", "calculate", "positive pion"],
+      "keywords": [
+        "pion",
+        "momentum 1.2 x 10^-19 N s",
+        "magnetic flux density 3.5 T",
+        "radius",
+        "charge",
+        "circular path",
+        "calculate",
+        "positive pion"
+      ],
       "question": "A positive pion has momentum 1.2 x 10^-19 N s and moves in a magnetic field of flux density 3.5 T. Calculate the radius of its path.",
       "status": "ready",
       "answer": "r = 0.21 m",
       "steps": [
         "Radius in a magnetic field: r = p / (B q), with the pion charge q = +e = 1.6 x 10^-19 C.",
         "r = 1.2 x 10^-19 / (3.5 x 1.6 x 10^-19) = 0.21 m."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
       ]
     },
     {
@@ -419,13 +803,27 @@
       "no": "Q16(e)(i)",
       "marks": 1,
       "topic": "Pion Decay Equation",
-      "keywords": ["positive pion", "anti-muon", "neutrino", "decay equation", "muon neutrino", "lepton number", "charge", "equation"],
+      "keywords": [
+        "positive pion",
+        "anti-muon",
+        "neutrino",
+        "decay equation",
+        "muon neutrino",
+        "lepton number",
+        "charge",
+        "equation"
+      ],
       "question": "Write an equation for the decay of a positive pion into an anti-muon and a neutrino at point X.",
       "status": "ready",
       "answer": "pi^+ -> mu^+ + nu_mu",
       "steps": [
         "Charge: +1 on each side (pion +1, anti-muon +1, neutrino 0).",
         "Lepton number: anti-muon -1 balances the muon neutrino +1, so the neutrino is a muon neutrino."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
       ]
     },
     {
@@ -433,7 +831,16 @@
       "no": "Q16(e)(ii)",
       "marks": 5,
       "topic": "Momentum Conservation Check",
-      "keywords": ["momentum conservation", "pion", "muon", "neutrino", "vector diagram", "18 degrees", "0.54 x 10^-19 N s", "consistent"],
+      "keywords": [
+        "momentum conservation",
+        "pion",
+        "muon",
+        "neutrino",
+        "vector diagram",
+        "18 degrees",
+        "0.54 x 10^-19 N s",
+        "consistent"
+      ],
       "question": "A positive pion with momentum 1.2 x 10^-19 N s decays into a muon with momentum 0.75 x 10^-19 N s at 18 degrees to the pion direction and a neutrino with momentum 0.54 x 10^-19 N s. Deduce whether the data are consistent with conservation of momentum.",
       "status": "ready",
       "answer": "Consistent: the neutrino momentum needed to balance the pion and muon is 0.54 x 10^-19 N s, matching the given value.",
@@ -443,6 +850,11 @@
         "Neutrino must equal pion minus muon: x = 1.2 - 0.713 = 0.487, y = -0.232.",
         "Magnitude = sqrt(0.487^2 + 0.232^2) = 0.54 x 10^-19 N s, equal to the given neutrino momentum.",
         "A scaled vector diagram closes in the same way, so momentum is conserved."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
       ]
     },
     {
@@ -450,7 +862,16 @@
       "no": "Q17(a)",
       "marks": 4,
       "topic": "Linac Constant Frequency",
-      "keywords": ["linac", "constant frequency", "a.c. supply", "drift tubes", "gaps", "half period", "tube length", "accelerate"],
+      "keywords": [
+        "linac",
+        "constant frequency",
+        "a.c. supply",
+        "drift tubes",
+        "gaps",
+        "half period",
+        "tube length",
+        "accelerate"
+      ],
       "question": "Explain why a linac with drift tubes of increasing length works with a constant frequency a.c. supply.",
       "status": "ready",
       "answer": "Each tube length is chosen so the particle takes half a period to cross it; as it speeds up, longer tubes keep this timing with a fixed frequency.",
@@ -459,6 +880,11 @@
         "The particle must cross each tube in exactly one half period, so the field reverses correctly at each gap.",
         "As the particle speeds up, each tube must be longer (length = speed x half period).",
         "A constant frequency therefore works with the increasing lengths."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-14.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-15.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-16.jpg"
       ]
     },
     {
@@ -466,7 +892,16 @@
       "no": "Q17(b)(i)",
       "marks": 4,
       "topic": "Omega Baryon Mass",
-      "keywords": ["omega baryon", "electron mass", "3272 times", "MeV/c^2", "mass equivalent", "energy", "1700 MeV", "show"],
+      "keywords": [
+        "omega baryon",
+        "electron mass",
+        "3272 times",
+        "MeV/c^2",
+        "mass equivalent",
+        "energy",
+        "1700 MeV",
+        "show"
+      ],
       "question": "An omega baryon has a mass equivalent to 3272 times the electron mass. Show that its mass is about 1700 MeV/c^2.",
       "status": "ready",
       "answer": "m c^2 = 3272 x 0.511 MeV = 1672 MeV, about 1700 MeV/c^2.",
@@ -474,6 +909,11 @@
         "Electron rest energy: m_e c^2 = 9.11 x 10^-31 x (3.00 x 10^8)^2 = 8.20 x 10^-14 J = 0.511 MeV.",
         "Omega baryon rest energy = 3272 x 0.511 MeV.",
         "= 1672 MeV, which rounds to about 1700 MeV/c^2."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-14.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-15.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-16.jpg"
       ]
     },
     {
@@ -481,7 +921,16 @@
       "no": "Q17(b)(ii)",
       "marks": 3,
       "topic": "Omega Baryon Kinetic Energy",
-      "keywords": ["omega baryon", "kinetic energy", "14.5 GeV", "collider", "positron electron", "rest energy", "total energy", "GeV"],
+      "keywords": [
+        "omega baryon",
+        "kinetic energy",
+        "14.5 GeV",
+        "collider",
+        "positron electron",
+        "rest energy",
+        "total energy",
+        "GeV"
+      ],
       "question": "A positron and an electron each of energy 14.5 GeV collide and produce two omega baryons. Calculate the kinetic energy of one omega baryon.",
       "status": "ready",
       "answer": "E k = 12.8 GeV = 2.0 x 10^-9 J",
@@ -490,6 +939,11 @@
         "Rest energy of one omega baryon = 1.7 GeV (from part (i)).",
         "Kinetic energy = 14.5 - 1.7 = 12.8 GeV.",
         "12.8 x 10^9 x 1.6 x 10^-19 = 2.0 x 10^-9 J."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-14.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-15.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-16.jpg"
       ]
     },
     {
@@ -497,7 +951,16 @@
       "no": "Q17(c)",
       "marks": 3,
       "topic": "Conservation Law Discussion",
-      "keywords": ["omega baryons", "charge conservation", "baryon number", "electron positron collision", "student", "conservation laws", "discuss", "omega minus"],
+      "keywords": [
+        "omega baryons",
+        "charge conservation",
+        "baryon number",
+        "electron positron collision",
+        "student",
+        "conservation laws",
+        "discuss",
+        "omega minus"
+      ],
       "question": "A student suggests that the collision cannot produce two omega baryons because a conservation law is broken. Discuss the student's suggestion.",
       "status": "ready",
       "answer": "The student is correct: two omega baryons give baryon number +2 and charge -2 (each is -1), but the initial state has baryon number 0 and charge 0.",
@@ -506,6 +969,11 @@
         "Each omega baryon has baryon number +1 and charge -1 (standard values).",
         "Two omega baryons would give baryon number +2 and charge -2, which breaks baryon number and charge conservation.",
         "So the student's suggestion is correct."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-14.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-15.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-16.jpg"
       ]
     },
     {
@@ -513,18 +981,40 @@
       "no": "Q18",
       "marks": 1,
       "topic": "Mass In GeV",
-      "keywords": ["particle mass", "3.17 x 10^-27 kg", "GeV/c^2", "conversion", "rest energy", "mass unit", "options", "calculate"],
+      "keywords": [
+        "particle mass",
+        "3.17 x 10^-27 kg",
+        "GeV/c^2",
+        "conversion",
+        "rest energy",
+        "mass unit",
+        "options",
+        "calculate"
+      ],
       "question": "A particle has a mass of 3.17 x 10^-27 kg. Which gives the mass in GeV/c^2? (Options are not in the text.)",
       "status": "pending",
       "answer": "Pending: the options are missing. Physics: m c^2 = 3.17 x 10^-27 x 9.00 x 10^16 = 2.85 x 10^-10 J = 1.78 GeV, so the mass is 1.78 GeV/c^2.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-16.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-17.jpg"
+      ]
     },
     {
       "id": "7C-Q19",
       "no": "Q19",
       "marks": 1,
       "topic": "Fundamental Particle Identification",
-      "keywords": ["fundamental particle", "neutrino", "atom", "baryon", "pion", "standard model", "lepton", "identify"],
+      "keywords": [
+        "fundamental particle",
+        "neutrino",
+        "atom",
+        "baryon",
+        "pion",
+        "standard model",
+        "lepton",
+        "identify"
+      ],
       "question": "Which of the following is a fundamental particle? A: atom; B: baryon; C: neutrino; D: pion.",
       "status": "ready",
       "answer": "C: neutrino",
@@ -532,6 +1022,10 @@
         "An atom is made of protons, neutrons and electrons, so it is not fundamental.",
         "A baryon and a pion are made of quarks, so they are not fundamental.",
         "A neutrino is a lepton, which is fundamental."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-16.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-17.jpg"
       ]
     },
     {
@@ -539,13 +1033,26 @@
       "no": "Q20",
       "marks": 1,
       "topic": "Muon Fundamental Particle",
-      "keywords": ["fundamental particle", "muon", "antiproton", "neutron", "pion", "lepton", "standard model", "identify"],
+      "keywords": [
+        "fundamental particle",
+        "muon",
+        "antiproton",
+        "neutron",
+        "pion",
+        "lepton",
+        "standard model",
+        "identify"
+      ],
       "question": "Which of the following is a fundamental particle? A: antiproton; B: muon; C: neutron; D: pion.",
       "status": "ready",
       "answer": "B: muon",
       "steps": [
         "Antiproton, neutron and pion are composite particles made of quarks.",
         "The muon is a lepton, which is a fundamental particle in the standard model."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-17.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-18.jpg"
       ]
     },
     {
@@ -553,24 +1060,50 @@
       "no": "Q21(a)",
       "marks": 3,
       "topic": "Electric Field Sketch",
-      "keywords": ["spark chamber", "electric field lines", "parallel plates", "10.5 kV", "sketch", "field pattern", "uniform field", "plates"],
+      "keywords": [
+        "spark chamber",
+        "electric field lines",
+        "parallel plates",
+        "10.5 kV",
+        "sketch",
+        "field pattern",
+        "uniform field",
+        "plates"
+      ],
       "question": "Sketch lines to represent the electric field between the parallel plates of a spark chamber with a p.d. of 10.5 kV across two adjacent plates.",
       "status": "pending",
       "answer": "Pending: a sketch of field lines cannot be given in text. Expected: parallel, evenly spaced field lines perpendicular to the plates.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-17.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-18.jpg"
+      ]
     },
     {
       "id": "7C-Q21b1",
       "no": "Q21(b)(i)",
       "marks": 3,
       "topic": "Electric Force On Ion",
-      "keywords": ["spark chamber", "ionised atom", "force", "electric field", "10.5 kV", "6.40 mm", "charge 1.60 x 10^-19 C", "newton"],
+      "keywords": [
+        "spark chamber",
+        "ionised atom",
+        "force",
+        "electric field",
+        "10.5 kV",
+        "6.40 mm",
+        "charge 1.60 x 10^-19 C",
+        "newton"
+      ],
       "question": "Show that the force on an ionised atom (charge 1.60 x 10^-19 C) between plates 6.40 mm apart with a p.d. of 10.5 kV is about 2.6 x 10^-13 N.",
       "status": "ready",
       "answer": "F = 2.6 x 10^-13 N",
       "steps": [
         "Electric field strength: E = V / d = 10 500 / (6.40 x 10^-3) = 1.64 x 10^6 V m^-1.",
         "Force: F = q E = 1.60 x 10^-19 x 1.64 x 10^6 = 2.6 x 10^-13 N."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-17.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-18.jpg"
       ]
     },
     {
@@ -578,7 +1111,16 @@
       "no": "Q21(b)(ii)",
       "marks": 2,
       "topic": "Ionisation Energy Gain",
-      "keywords": ["ionisation", "work done", "electric force", "ionisation energy 3.9 x 10^-19 J", "further ionisation", "collision", "0.2 m", "energy"],
+      "keywords": [
+        "ionisation",
+        "work done",
+        "electric force",
+        "ionisation energy 3.9 x 10^-19 J",
+        "further ionisation",
+        "collision",
+        "0.2 m",
+        "energy"
+      ],
       "question": "The ionised atom travels 0.2 m perpendicular to the plates before colliding with another atom. Deduce whether the collision could cause further ionisation, given ionisation energy 3.9 x 10^-19 J.",
       "status": "ready",
       "answer": "Yes: the work done by the field over 0.2 m is about 5 x 10^-14 J, far more than the ionisation energy of 3.9 x 10^-19 J.",
@@ -587,6 +1129,10 @@
         "This energy far exceeds the ionisation energy 3.9 x 10^-19 J.",
         "Even over the 6.40 mm gap the work done is 1.7 x 10^-15 J, still far above 3.9 x 10^-19 J.",
         "So the atom has enough energy to ionise another atom in the collision."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-17.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-18.jpg"
       ]
     },
     {
@@ -594,7 +1140,16 @@
       "no": "Q21(c)",
       "marks": 3,
       "topic": "Muon Survival Explanation",
-      "keywords": ["muons", "time dilation", "lifetime", "upper atmosphere", "surface of earth", "speed close to c", "relativity", "reach"],
+      "keywords": [
+        "muons",
+        "time dilation",
+        "lifetime",
+        "upper atmosphere",
+        "surface of earth",
+        "speed close to c",
+        "relativity",
+        "reach"
+      ],
       "question": "Muons created in the upper atmosphere normally have a very short lifetime, yet most reach the Earth's surface. Explain why.",
       "status": "ready",
       "answer": "The muons travel at speeds close to c, so time dilation makes their lifetime in the Earth's frame much longer, letting them travel to the surface.",
@@ -602,6 +1157,10 @@
         "Muons are produced at high speed in the upper atmosphere.",
         "At speeds close to c, time dilation makes the muon lifetime longer for an observer on Earth (t = gamma tau).",
         "The longer lifetime allows the muon to travel the distance to the surface before decaying."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-17.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-18.jpg"
       ]
     },
     {
@@ -609,7 +1168,16 @@
       "no": "Q22(a)",
       "marks": 6,
       "topic": "Gold Foil Observations",
-      "keywords": ["alpha scattering", "gold foil", "observations", "conclusions", "nucleus", "deflection", "empty space", "small dense positive"],
+      "keywords": [
+        "alpha scattering",
+        "gold foil",
+        "observations",
+        "conclusions",
+        "nucleus",
+        "deflection",
+        "empty space",
+        "small dense positive"
+      ],
       "question": "State three observations and the corresponding conclusions from the alpha particle scattering experiment with thin gold foil.",
       "status": "ready",
       "answer": "Most pass straight through (atom is mostly empty space); some deflect through large angles (nucleus is small and positive); very few are reflected back (nucleus is very dense and holds most of the mass).",
@@ -617,6 +1185,11 @@
         "Observation: most alpha particles pass straight through. Conclusion: the atom is mostly empty space.",
         "Observation: a small number are deflected through large angles. Conclusion: the positive charge is concentrated in a small nucleus.",
         "Observation: very few are reflected back. Conclusion: the nucleus is very dense and contains most of the atom's mass."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-18.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-19.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-20.jpg"
       ]
     },
     {
@@ -624,7 +1197,16 @@
       "no": "Q22(b)(i)",
       "marks": 4,
       "topic": "Closest Approach Gold",
-      "keywords": ["gold nucleus", "alpha particle", "4.7 MeV", "closest distance", "head on", "electric potential energy", "5 x 10^-14 m", "gold foil"],
+      "keywords": [
+        "gold nucleus",
+        "alpha particle",
+        "4.7 MeV",
+        "closest distance",
+        "head on",
+        "electric potential energy",
+        "5 x 10^-14 m",
+        "gold foil"
+      ],
       "question": "Gold foil nuclei are struck by alpha particles of initial kinetic energy 4.7 MeV. Show that the closest distance an alpha particle gets to a gold nucleus is about 5 x 10^-14 m.",
       "status": "ready",
       "answer": "r = 4.8 x 10^-14 m (about 5 x 10^-14 m)",
@@ -633,6 +1215,11 @@
         "Kinetic energy = 4.7 x 10^6 x 1.6 x 10^-19 = 7.52 x 10^-13 J.",
         "r = k (2e)(79e) / E k = (8.99 x 10^9 x 2 x 79 x (1.6 x 10^-19)^2) / (7.52 x 10^-13).",
         "r = 3.64 x 10^-26 / 7.52 x 10^-13 = 4.8 x 10^-14 m."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-18.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-19.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-20.jpg"
       ]
     },
     {
@@ -640,7 +1227,16 @@
       "no": "Q22(b)(ii)",
       "marks": 3,
       "topic": "Electric Field Of Nucleus",
-      "keywords": ["electric field strength", "gold nucleus", "distance 4.8 x 10^-14 m", "point charge", "inverse square", "field strength", "V m^-1", "calculate"],
+      "keywords": [
+        "electric field strength",
+        "gold nucleus",
+        "distance 4.8 x 10^-14 m",
+        "point charge",
+        "inverse square",
+        "field strength",
+        "V m^-1",
+        "calculate"
+      ],
       "question": "Calculate the strength of the electric field due to the gold nucleus (charge 79e) at the closest distance found in part (b)(i).",
       "status": "ready",
       "answer": "E = 4.9 x 10^19 N C^-1 (V m^-1)",
@@ -648,6 +1244,11 @@
         "Field of a point charge: E = Q / (4 pi epsilon_0 r^2) = k Q / r^2.",
         "Q = 79 x 1.6 x 10^-19 = 1.26 x 10^-17 C; r = 4.8 x 10^-14 m.",
         "E = 8.99 x 10^9 x 1.26 x 10^-17 / (4.8 x 10^-14)^2 = 4.9 x 10^19 N C^-1."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-18.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-19.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-20.jpg"
       ]
     },
     {
@@ -655,13 +1256,26 @@
       "no": "Q23(a)",
       "marks": 2,
       "topic": "Detector Ionisation Process",
-      "keywords": ["particle detector", "charged particles", "ionisation", "bubble chamber", "track", "vapour", "detect", "process"],
+      "keywords": [
+        "particle detector",
+        "charged particles",
+        "ionisation",
+        "bubble chamber",
+        "track",
+        "vapour",
+        "detect",
+        "process"
+      ],
       "question": "Explain the process that enables a particle detector to detect charged particles.",
       "status": "ready",
       "answer": "A charged particle ionises atoms or molecules along its path, and the resulting ions seed bubbles or droplets that make the track visible.",
       "steps": [
         "A charged particle moving through the detector ionises atoms or molecules along its path.",
         "The ions act as seeds for bubbles (bubble chamber) or droplets (cloud chamber) which form a visible track."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-20.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-21.jpg"
       ]
     },
     {
@@ -669,13 +1283,26 @@
       "no": "Q23(b)(i)",
       "marks": 2,
       "topic": "Baryon And Meson Structure",
-      "keywords": ["baryon", "meson", "quarks", "three quarks", "quark antiquark", "structure", "hadron", "describe"],
+      "keywords": [
+        "baryon",
+        "meson",
+        "quarks",
+        "three quarks",
+        "quark antiquark",
+        "structure",
+        "hadron",
+        "describe"
+      ],
       "question": "Describe the structure of a baryon and of a meson.",
       "status": "ready",
       "answer": "A baryon is three quarks; a meson is a quark and an antiquark.",
       "steps": [
         "A baryon is made of three quarks.",
         "A meson is made of one quark and one antiquark."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-20.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-21.jpg"
       ]
     },
     {
@@ -683,18 +1310,40 @@
       "no": "Q23(b)(ii)",
       "marks": 1,
       "topic": "Magnetic Field Direction Detector",
-      "keywords": ["magnetic field direction", "detector", "tracks", "omega baryon", "K meson", "into page", "out of page", "state"],
+      "keywords": [
+        "magnetic field direction",
+        "detector",
+        "tracks",
+        "omega baryon",
+        "K meson",
+        "into page",
+        "out of page",
+        "state"
+      ],
       "question": "A magnetic field acts in the detector. State its direction. (Direction is shown on the track diagram, which is not in the text.)",
       "status": "pending",
       "answer": "Pending: the direction depends on the track curvature in the diagram, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-20.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-21.jpg"
+      ]
     },
     {
       "id": "7C-Q23b3",
       "no": "Q23(b)(iii)",
       "marks": 3,
       "topic": "Omega Baryon Charge And Baryon Number",
-      "keywords": ["omega baryon", "charge", "baryon number", "K minus", "proton", "K plus", "conservation", "reaction"],
+      "keywords": [
+        "omega baryon",
+        "charge",
+        "baryon number",
+        "K minus",
+        "proton",
+        "K plus",
+        "conservation",
+        "reaction"
+      ],
       "question": "A negative K meson collides with a stationary proton and produces an omega baryon and a positive K meson. Deduce the charge and baryon number of the omega particle.",
       "status": "ready",
       "answer": "Charge = -1 (i.e. -e); baryon number = +1",
@@ -702,6 +1351,10 @@
         "Charge: initial = (-1) + (+1) = 0; final = Q_omega + (+1), so Q_omega = -1.",
         "Baryon number: initial = 0 (K meson) + 1 (proton) = 1; final = B_omega, so B_omega = +1.",
         "The omega particle therefore has charge -1 and baryon number +1."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-20.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-21.jpg"
       ]
     },
     {
@@ -709,7 +1362,16 @@
       "no": "Q23(c)",
       "marks": 6,
       "topic": "Energy Momentum Conservation Collision",
-      "keywords": ["energy conservation", "momentum conservation", "omega baryon", "proton", "rest mass", "kinetic energy", "collision", "K meson"],
+      "keywords": [
+        "energy conservation",
+        "momentum conservation",
+        "omega baryon",
+        "proton",
+        "rest mass",
+        "kinetic energy",
+        "collision",
+        "K meson"
+      ],
       "question": "The rest mass of the omega baryon is much larger than that of the proton. Discuss how energy and momentum are conserved in the collision.",
       "status": "ready",
       "answer": "The kinetic energy of the incoming K meson is converted into rest mass energy of the new particles, and total momentum is the same before and after the collision.",
@@ -720,6 +1382,10 @@
         "Because the proton is at rest, the total initial momentum equals that of the incoming K meson.",
         "The vectors of the product momenta must sum to this value, so the tracks must be arranged to balance momentum.",
         "The energy needed exceeds the rest energies of the proton and K meson, so the K meson must be moving fast enough."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-20.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-21.jpg"
       ]
     },
     {
@@ -727,13 +1393,27 @@
       "no": "Q24(a)",
       "marks": 2,
       "topic": "Muon Classification",
-      "keywords": ["muon", "lepton", "second generation", "standard model", "fundamental", "electron family", "classification", "particle"],
+      "keywords": [
+        "muon",
+        "lepton",
+        "second generation",
+        "standard model",
+        "fundamental",
+        "electron family",
+        "classification",
+        "particle"
+      ],
       "question": "The muon belongs to the same family of particles as the electron. State how the muon is classified in the standard model.",
       "status": "ready",
       "answer": "A fundamental lepton of the second generation.",
       "steps": [
         "The muon is a lepton, a fundamental particle, like the electron.",
         "It belongs to the second generation of leptons (with the muon neutrino), heavier than the electron."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
       ]
     },
     {
@@ -741,18 +1421,41 @@
       "no": "Q24(b)",
       "marks": 2,
       "topic": "Muon Production Decay",
-      "keywords": ["muon", "nuclear equation", "decay", "other particles", "neutrino", "pion decay", "names", "production"],
+      "keywords": [
+        "muon",
+        "nuclear equation",
+        "decay",
+        "other particles",
+        "neutrino",
+        "pion decay",
+        "names",
+        "production"
+      ],
       "question": "A muon can be produced by a decay shown in a nuclear equation. State the names of the two other particles involved. (The equation is not in the text.)",
       "status": "pending",
       "answer": "Pending: the decay equation is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
+      ]
     },
     {
       "id": "7C-Q24c",
       "no": "Q24(c)",
       "marks": 3,
       "topic": "Muon Mass Check",
-      "keywords": ["muon mass", "106 MeV/c^2", "electron mass", "ratio", "200 times", "deduce", "rest mass", "statement"],
+      "keywords": [
+        "muon mass",
+        "106 MeV/c^2",
+        "electron mass",
+        "ratio",
+        "200 times",
+        "deduce",
+        "rest mass",
+        "statement"
+      ],
       "question": "A website states the muon rest mass is 106 MeV/c^2, a little over 200 times the electron mass. Deduce whether this statement is correct.",
       "status": "ready",
       "answer": "Correct: 106 / 0.511 = 207, which is a little over 200 times the electron mass.",
@@ -760,6 +1463,11 @@
         "Electron rest energy = 0.511 MeV (m_e c^2).",
         "Ratio = 106 / 0.511 = 207.",
         "207 is a little over 200, so the statement is correct."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
       ]
     },
     {
@@ -767,13 +1475,29 @@
       "no": "Q24(d)(i)",
       "marks": 2,
       "topic": "GeV/c Momentum Unit",
-      "keywords": ["GeV/c", "momentum unit", "energy divided by speed", "E = pc", "unit", "valid", "momentum", "GeV"],
+      "keywords": [
+        "GeV/c",
+        "momentum unit",
+        "energy divided by speed",
+        "E = pc",
+        "unit",
+        "valid",
+        "momentum",
+        "GeV"
+      ],
       "question": "Explain why GeV/c is a valid unit for momentum.",
       "status": "ready",
-      "answer": "Because p = E / c, so momentum has units of energy divided by speed (GeV/c).",
+      "answer": "GeV is a unit of energy and c is a speed, and energy / speed has the base units kg m s^-1, which are the units of momentum (as in E = pc, so p = E / c).",
       "steps": [
-        "For a relativistic particle E = p c, so p = E / c.",
-        "Energy in GeV divided by speed in m s^-1 gives momentum units, so GeV/c is a valid momentum unit."
+        "The electronvolt, and so the GeV, is a unit of energy: 1 GeV = 1.6 x 10^-10 J.",
+        "c is a speed, so GeV/c is a unit of energy divided by speed.",
+        "Base units: J / (m s^-1) = (kg m^2 s^-2) / (m s^-1) = kg m s^-1.",
+        "kg m s^-1 is the unit of momentum (p = m v), so GeV/c is a valid unit for momentum; this matches p = E / c for a relativistic particle."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
       ]
     },
     {
@@ -781,7 +1505,16 @@
       "no": "Q24(d)(ii)",
       "marks": 3,
       "topic": "Storage Ring Momentum Check",
-      "keywords": ["storage ring", "circumference 44.7 m", "magnetic flux density 1.45 T", "momentum 3.10 GeV/c", "radius", "muon charge", "confine", "deduce"],
+      "keywords": [
+        "storage ring",
+        "circumference 44.7 m",
+        "magnetic flux density 1.45 T",
+        "momentum 3.10 GeV/c",
+        "radius",
+        "muon charge",
+        "confine",
+        "deduce"
+      ],
       "question": "A storage ring has circumference 44.7 m and field 1.45 T. The website says it confines muons of momentum 3.10 GeV/c (= 1.65 x 10^-18 N s). Deduce whether the claim is correct, given muon charge -1.6 x 10^-19 C.",
       "status": "ready",
       "answer": "Correct: the radius from p = B q r is 7.1 m, which matches the circumference 44.7 m / (2 pi) = 7.1 m.",
@@ -789,6 +1522,11 @@
         "Circumference 44.7 m gives radius r = 44.7 / (2 pi) = 7.11 m.",
         "Required momentum: p = B |q| r = 1.45 x 1.6 x 10^-19 x 7.11 = 1.65 x 10^-18 N s.",
         "This equals 3.10 GeV/c (3.10 x 10^9 x 1.6 x 10^-19 / 3.00 x 10^8 = 1.65 x 10^-18 N s), so the claim is correct."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
       ]
     },
     {
@@ -796,7 +1534,16 @@
       "no": "Q24(d)(iii)",
       "marks": 2,
       "topic": "Muon Time Dilation",
-      "keywords": ["muon", "mean lifetime", "time dilation", "storage ring", "speed close to c", "relativity", "stationary", "longer lifetime"],
+      "keywords": [
+        "muon",
+        "mean lifetime",
+        "time dilation",
+        "storage ring",
+        "speed close to c",
+        "relativity",
+        "stationary",
+        "longer lifetime"
+      ],
       "question": "Stationary muons have a mean lifetime of a few microseconds, but muons in the ring have a much greater mean lifetime. Explain why.",
       "status": "ready",
       "answer": "The muons move at speeds close to c, so time dilation makes their lifetime longer for an observer in the lab.",
@@ -804,6 +1551,11 @@
         "Muons in the ring travel at speeds close to the speed of light.",
         "Time dilation: the lifetime observed in the lab is gamma times the rest lifetime, t = gamma tau.",
         "So the mean lifetime measured in the ring is much greater than for stationary muons."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
       ]
     },
     {
@@ -811,29 +1563,66 @@
       "no": "Q25(a)",
       "marks": 4,
       "topic": "Pion Momentum From Track",
-      "keywords": ["circular detector", "negative pion", "momentum", "radius", "7.0 T", "scale 1 cm 10 cm", "track", "kaon decay"],
+      "keywords": [
+        "circular detector",
+        "negative pion",
+        "momentum",
+        "radius",
+        "7.0 T",
+        "scale 1 cm 10 cm",
+        "track",
+        "kaon decay"
+      ],
       "question": "Determine the momentum of the negative pion produced in the detector, with magnetic flux density 7.0 T. (The track diagram drawn to scale is not in the text.)",
       "status": "pending",
       "answer": "Pending: the radius of the pion track must be measured from the scaled diagram, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-23.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-24.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-25.jpg"
+      ]
     },
     {
       "id": "7C-Q25b",
       "no": "Q25(b)",
       "marks": 2,
       "topic": "Kaon Neutral Evidence",
-      "keywords": ["kaon", "neutral", "no track", "circular detector", "decay", "pions", "diagram", "two ways"],
+      "keywords": [
+        "kaon",
+        "neutral",
+        "no track",
+        "circular detector",
+        "decay",
+        "pions",
+        "diagram",
+        "two ways"
+      ],
       "question": "State two ways the diagram shows that the kaon is neutral.",
       "status": "pending",
       "answer": "Pending: the track diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-23.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-24.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-25.jpg"
+      ]
     },
     {
       "id": "7C-Q25c",
       "no": "Q25(c)",
       "marks": 2,
       "topic": "Quark Structure Antiproton Pion",
-      "keywords": ["antiproton", "negative pion", "quark structure", "anti-up", "anti-down", "down up", "charge", "quarks"],
+      "keywords": [
+        "antiproton",
+        "negative pion",
+        "quark structure",
+        "anti-up",
+        "anti-down",
+        "down up",
+        "charge",
+        "quarks"
+      ],
       "question": "Deduce the quark structure of the antiproton and of the negative pion.",
       "status": "ready",
       "answer": "Antiproton: anti-up, anti-up, anti-down (u-bar u-bar d-bar). Negative pion: down and anti-up (d u-bar).",
@@ -841,6 +1630,11 @@
         "A proton is uud, so its antiproton is made of anti-up, anti-up and anti-down.",
         "Charges check: -2/3 - 2/3 + 1/3 = -1 for the antiproton.",
         "A negative pion has charge -1, so it is a down quark and an anti-up quark: -1/3 - 2/3 = -1."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-23.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-24.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-25.jpg"
       ]
     },
     {
@@ -848,7 +1642,16 @@
       "no": "Q25(d)",
       "marks": 3,
       "topic": "Proton Mass In GeV",
-      "keywords": ["proton mass", "GeV/c^2", "rest energy", "1.67 x 10^-27 kg", "mass conversion", "electronvolt", "c squared", "calculate"],
+      "keywords": [
+        "proton mass",
+        "GeV/c^2",
+        "rest energy",
+        "1.67 x 10^-27 kg",
+        "mass conversion",
+        "electronvolt",
+        "c squared",
+        "calculate"
+      ],
       "question": "Calculate the mass of a proton in GeV/c^2.",
       "status": "ready",
       "answer": "0.94 GeV/c^2",
@@ -856,6 +1659,11 @@
         "Proton mass (standard value) = 1.67 x 10^-27 kg.",
         "Rest energy: E = m c^2 = 1.67 x 10^-27 x (3.00 x 10^8)^2 = 1.50 x 10^-10 J.",
         "In GeV: 1.50 x 10^-10 / 1.6 x 10^-19 = 9.4 x 10^8 eV = 0.94 GeV, so mass = 0.94 GeV/c^2."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-23.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-24.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-25.jpg"
       ]
     },
     {
@@ -863,7 +1671,16 @@
       "no": "Q26(a)",
       "marks": 6,
       "topic": "Linac Tube Spacing",
-      "keywords": ["linac", "tube spacing", "increasing distance", "equally spaced", "speed close to c", "relativistic", "electrons", "drift"],
+      "keywords": [
+        "linac",
+        "tube spacing",
+        "increasing distance",
+        "equally spaced",
+        "speed close to c",
+        "relativistic",
+        "electrons",
+        "drift"
+      ],
       "question": "Explain why the distances between consecutive tubes increase in the first section of the linac but are almost equally spaced in the last section.",
       "status": "ready",
       "answer": "At low speed the electrons speed up a lot in each gap, so spacing must increase; at very high speed they move at almost c, so the spacing is almost constant.",
@@ -872,6 +1689,10 @@
         "In the first section the electrons are slow, and their speed increases a lot per gap, so the spacing must increase.",
         "In the last section the electrons travel at almost c, so their speed barely changes between gaps.",
         "Therefore the spacing becomes almost equal in the last section."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-25.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-26.jpg"
       ]
     },
     {
@@ -879,7 +1700,16 @@
       "no": "Q26(b)",
       "marks": 3,
       "topic": "Collision Type Mass Production",
-      "keywords": ["head-on collision", "stationary atom", "new particles", "largest mass", "centre of momentum", "colliding beams", "energy", "momentum"],
+      "keywords": [
+        "head-on collision",
+        "stationary atom",
+        "new particles",
+        "largest mass",
+        "centre of momentum",
+        "colliding beams",
+        "energy",
+        "momentum"
+      ],
       "question": "Deduce which collision is more likely to produce new particles with the largest mass: a high energy electron hitting a stationary atom, or head-on beams of electrons colliding.",
       "status": "ready",
       "answer": "Head-on colliding beams: their total momentum is zero, so all the energy is available to create mass, whereas a stationary target leaves kinetic energy in the products.",
@@ -888,6 +1718,10 @@
         "This kinetic energy cannot be used to create mass.",
         "In head-on collisions the total momentum is zero, so the products can be at rest in the centre-of-momentum frame.",
         "All the collision energy is then available for rest mass, so head-on beams produce the largest new masses."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-25.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-26.jpg"
       ]
     },
     {
@@ -895,24 +1729,49 @@
       "no": "Q27",
       "marks": 1,
       "topic": "Muon Lifetime And Mass",
-      "keywords": ["high speed muon", "lifetime", "mass", "table", "stationary muon", "relativity", "row", "compare"],
+      "keywords": [
+        "high speed muon",
+        "lifetime",
+        "mass",
+        "table",
+        "stationary muon",
+        "relativity",
+        "row",
+        "compare"
+      ],
       "question": "Which row of the table describes the lifetime and mass of a high speed muon compared with a stationary muon? (The table is not in the text.)",
       "status": "pending",
       "answer": "Pending: the table of options is missing from the text. Physics: lifetime increases (time dilation); rest mass stays the same.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-26.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-27.jpg"
+      ]
     },
     {
       "id": "7C-Q28",
       "no": "Q28",
       "marks": 1,
       "topic": "Fundamental Particle Neutrino",
-      "keywords": ["fundamental particle", "neutrino", "pion", "proton", "neutron", "lepton", "standard model", "identify"],
+      "keywords": [
+        "fundamental particle",
+        "neutrino",
+        "pion",
+        "proton",
+        "neutron",
+        "lepton",
+        "standard model",
+        "identify"
+      ],
       "question": "Which of the following is a fundamental particle? A: pion; B: proton; C: neutrino; D: neutron.",
       "status": "ready",
       "answer": "C: neutrino",
       "steps": [
         "The pion, proton and neutron are all made of quarks, so they are not fundamental.",
         "The neutrino is a lepton, which is fundamental."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-27.jpg"
       ]
     },
     {
@@ -920,7 +1779,16 @@
       "no": "Q29",
       "marks": 1,
       "topic": "Proton Antiproton Annihilation Products",
-      "keywords": ["proton antiproton", "annihilation", "pions", "conservation", "charge", "baryon number", "lepton number", "products"],
+      "keywords": [
+        "proton antiproton",
+        "annihilation",
+        "pions",
+        "conservation",
+        "charge",
+        "baryon number",
+        "lepton number",
+        "products"
+      ],
       "question": "A proton collides with an antiproton. Which could be produced? A: pi^+ + pi^+ + n (symbols partly lost); B: pi^- + p^+ (partly lost); C: pi^+ + e^- (partly lost); D: pi^+ + pi^- (symbols partly lost). Options are read as shown in the text.",
       "status": "ready",
       "answer": "D: a pi^+ and a pi^- (total charge 0, baryon number 0, lepton number 0)",
@@ -929,6 +1797,9 @@
         "Option C (pi^+ + e^-) breaks lepton number, and option B (pi^- + proton) breaks baryon number.",
         "Option D (pi^+ + pi^-) has total charge 0, baryon number 0 and lepton number 0, so it is allowed.",
         "Option A has total charge +2 from its listed charges, so it cannot be correct."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-27.jpg"
       ]
     },
     {
@@ -936,34 +1807,73 @@
       "no": "Q30",
       "marks": 1,
       "topic": "Antiproton Mass And Charge",
-      "keywords": ["antiproton", "mass", "charge", "table", "row", "proton", "antiparticle", "identify"],
+      "keywords": [
+        "antiproton",
+        "mass",
+        "charge",
+        "table",
+        "row",
+        "proton",
+        "antiparticle",
+        "identify"
+      ],
       "question": "Which row of the table describes the mass and charge of an antiproton? (The table is not in the text.)",
       "status": "pending",
       "answer": "Pending: the table of options is missing. Physics: mass equal to the proton, charge -e.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-28.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-29.jpg"
+      ]
     },
     {
       "id": "7C-Q31",
       "no": "Q31",
       "marks": 1,
       "topic": "Baryon Charge Composition",
-      "keywords": ["baryon", "charge +2e", "quark composition", "up quark", "down quark", "table", "relative charges", "uuu"],
+      "keywords": [
+        "baryon",
+        "charge +2e",
+        "quark composition",
+        "up quark",
+        "down quark",
+        "table",
+        "relative charges",
+        "uuu"
+      ],
       "question": "The table shows relative charges on up and down quarks. Which could be the quark composition for a baryon with charge +2e? (The table of options is not in the text.)",
       "status": "pending",
       "answer": "Pending: the table of quark compositions is missing. Physics: three up quarks (uuu) give +2e.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-28.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-29.jpg"
+      ]
     },
     {
       "id": "7C-Q32a",
       "no": "Q32(a)",
       "marks": 1,
       "topic": "Meson Quark Structure",
-      "keywords": ["meson", "quark structure", "quark antiquark", "pion", "hadron", "state", "composition", "mesons"],
+      "keywords": [
+        "meson",
+        "quark structure",
+        "quark antiquark",
+        "pion",
+        "hadron",
+        "state",
+        "composition",
+        "mesons"
+      ],
       "question": "State the quark structure of mesons.",
       "status": "ready",
       "answer": "A quark and an antiquark.",
       "steps": [
         "Mesons are hadrons made of one quark and one antiquark."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-28.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-29.jpg"
       ]
     },
     {
@@ -971,13 +1881,26 @@
       "no": "Q32(b)",
       "marks": 1,
       "topic": "Lepton Property",
-      "keywords": ["lepton", "property", "muon", "no quark structure", "half integer spin", "lepton number", "fundamental", "state"],
+      "keywords": [
+        "lepton",
+        "property",
+        "muon",
+        "no quark structure",
+        "half integer spin",
+        "lepton number",
+        "fundamental",
+        "state"
+      ],
       "question": "Muons are leptons. State one property of leptons.",
       "status": "ready",
       "answer": "Leptons do not experience the strong interaction (they have lepton number +1 or -1 and are not made of quarks).",
       "steps": [
         "Leptons are fundamental particles with no quark structure.",
         "They have lepton number +1 (particle) or -1 (antiparticle), and do not feel the strong interaction."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-28.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-29.jpg"
       ]
     },
     {
@@ -985,18 +1908,40 @@
       "no": "Q32(c)",
       "marks": 4,
       "topic": "Pion Decay Antineutrino Check",
-      "keywords": ["charged pion", "muon", "antineutrino", "lepton number", "decay", "particle conservation", "student", "check"],
+      "keywords": [
+        "charged pion",
+        "muon",
+        "antineutrino",
+        "lepton number",
+        "decay",
+        "particle conservation",
+        "student",
+        "check"
+      ],
       "question": "Charged pions decay into a muon and another particle X. A student suggests X is an anti-neutrino. Deduce whether the student is correct. (The decay equation signs are lost in the text.)",
       "status": "pending",
       "answer": "Pending: the charges on the pion and muon in the decay equation are lost in the text. If the decay is pi^- -> mu^- + anti-neutrino the student is correct; if pi^+ -> mu^+ + neutrino the student is wrong.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-28.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-29.jpg"
+      ]
     },
     {
       "id": "7C-Q33a",
       "no": "Q33(a)",
       "marks": 4,
       "topic": "Z Boson Mass Comparison",
-      "keywords": ["Z boson", "91 GeV/c^2", "proton mass", "ratio", "100 times", "rest energy", "mass conversion", "show"],
+      "keywords": [
+        "Z boson",
+        "91 GeV/c^2",
+        "proton mass",
+        "ratio",
+        "100 times",
+        "rest energy",
+        "mass conversion",
+        "show"
+      ],
       "question": "The mass of the Z boson is 91 GeV/c^2. Show that it is nearly 100 times the mass of a proton.",
       "status": "ready",
       "answer": "Proton mass = 0.94 GeV/c^2, so 91 / 0.94 = 97, nearly 100 times.",
@@ -1004,6 +1949,10 @@
         "Proton mass: 1.67 x 10^-27 kg x (3.00 x 10^8)^2 = 1.50 x 10^-10 J = 0.94 GeV.",
         "Ratio: 91 / 0.94 = 97.",
         "So the Z boson is nearly 100 times the mass of the proton."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-29.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-30.jpg"
       ]
     },
     {
@@ -1011,7 +1960,16 @@
       "no": "Q33(b)",
       "marks": 3,
       "topic": "High Energy For Z Boson",
-      "keywords": ["Z boson", "high energy", "proton antiproton", "mass energy", "E = mc^2", "collision energy", "accelerator", "produce"],
+      "keywords": [
+        "Z boson",
+        "high energy",
+        "proton antiproton",
+        "mass energy",
+        "E = mc^2",
+        "collision energy",
+        "accelerator",
+        "produce"
+      ],
       "question": "Explain why the protons and antiprotons needed high energies to produce the Z boson.",
       "status": "ready",
       "answer": "The collision energy must supply the rest energy of the Z boson (91 GeV), which requires high kinetic energy in the beams.",
@@ -1019,6 +1977,10 @@
         "A Z boson has rest energy 91 GeV, so the collision must supply at least this energy.",
         "Mass is created from energy via E = m c^2, so the energy must come from the kinetic energy of the colliding particles.",
         "High energy beams give the required total energy in the collision."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-29.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-30.jpg"
       ]
     },
     {
@@ -1026,7 +1988,16 @@
       "no": "Q33(c)",
       "marks": 2,
       "topic": "Time Dilation Z Boson Lifetime",
-      "keywords": ["Z boson", "lifetime", "fast moving", "time dilation", "relativity", "longest lifetime", "speed", "explain"],
+      "keywords": [
+        "Z boson",
+        "lifetime",
+        "fast moving",
+        "time dilation",
+        "relativity",
+        "longest lifetime",
+        "speed",
+        "explain"
+      ],
       "question": "Z bosons produced by high energy collisions have a range of lifetimes. Those with the longest lifetimes were moving very fast. Explain this observation.",
       "status": "ready",
       "answer": "Time dilation: a fast moving Z boson has a lifetime that is gamma times its rest lifetime in the laboratory frame.",
@@ -1034,6 +2005,10 @@
         "A Z boson moving at high speed has gamma > 1.",
         "In the laboratory frame its lifetime is t = gamma tau, which is longer than its rest lifetime.",
         "So the fastest moving Z bosons have the longest observed lifetimes."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-29.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-30.jpg"
       ]
     },
     {
@@ -1041,18 +2016,40 @@
       "no": "Q34",
       "marks": 1,
       "topic": "Antiproton Charge And Mass",
-      "keywords": ["antiproton", "charge", "mass", "table", "row", "A to D", "antiparticle", "proton"],
+      "keywords": [
+        "antiproton",
+        "charge",
+        "mass",
+        "table",
+        "row",
+        "A to D",
+        "antiparticle",
+        "proton"
+      ],
       "question": "Which row in the table gives the charge and mass of an antiproton? (The table is not in the text.)",
       "status": "pending",
       "answer": "Pending: the table of options is missing. Physics: charge -e, mass equal to the proton.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-30.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-31.jpg"
+      ]
     },
     {
       "id": "7C-Q35a",
       "no": "Q35(a)",
       "marks": 4,
       "topic": "Head On Closest Approach",
-      "keywords": ["alpha particle", "gold nucleus", "5.52 MeV", "head on", "minimum distance", "electric potential energy", "rest", "closest"],
+      "keywords": [
+        "alpha particle",
+        "gold nucleus",
+        "5.52 MeV",
+        "head on",
+        "minimum distance",
+        "electric potential energy",
+        "rest",
+        "closest"
+      ],
       "question": "An alpha particle with kinetic energy 5.52 MeV approaches a gold nucleus head on and is brought to rest. Calculate the minimum distance between them.",
       "status": "ready",
       "answer": "Minimum distance = 4.1 x 10^-14 m",
@@ -1060,6 +2057,10 @@
         "At the closest point all kinetic energy is electric potential energy: E k = k (2e)(79e) / r.",
         "E k = 5.52 x 10^6 x 1.6 x 10^-19 = 8.83 x 10^-13 J.",
         "r = (8.99 x 10^9 x 2 x 79 x (1.6 x 10^-19)^2) / (8.83 x 10^-13) = 4.1 x 10^-14 m."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-31.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-32.jpg"
       ]
     },
     {
@@ -1067,7 +2068,16 @@
       "no": "Q35(b)",
       "marks": 2,
       "topic": "Electrostatic Force Alpha Gold",
-      "keywords": ["electrostatic force", "alpha particle", "gold nucleus", "5.68 x 10^-14 m", "Coulomb law", "maximum force", "newton", "calculate"],
+      "keywords": [
+        "electrostatic force",
+        "alpha particle",
+        "gold nucleus",
+        "5.68 x 10^-14 m",
+        "Coulomb law",
+        "maximum force",
+        "newton",
+        "calculate"
+      ],
       "question": "The minimum distance between an alpha particle and a gold nucleus is 5.68 x 10^-14 m. Calculate the maximum electrostatic force between them.",
       "status": "ready",
       "answer": "F = 11 N",
@@ -1075,6 +2085,10 @@
         "Maximum force occurs at the minimum distance: F = k Q q / r^2.",
         "Q = 79 x 1.6 x 10^-19 = 1.26 x 10^-17 C; q = 2 x 1.6 x 10^-19 = 3.2 x 10^-19 C.",
         "F = 8.99 x 10^9 x 1.26 x 10^-17 x 3.2 x 10^-19 / (5.68 x 10^-14)^2 = 11 N."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-31.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-32.jpg"
       ]
     },
     {
@@ -1082,7 +2096,16 @@
       "no": "Q36(a)(i)",
       "marks": 3,
       "topic": "Prediction Of Sixth Quark",
-      "keywords": ["sixth quark", "prediction", "symmetry", "leptons", "generations", "standard model", "top quark", "bottom quark"],
+      "keywords": [
+        "sixth quark",
+        "prediction",
+        "symmetry",
+        "leptons",
+        "generations",
+        "standard model",
+        "top quark",
+        "bottom quark"
+      ],
       "question": "Explain why the existence of a sixth quark was predicted, given that five quarks were known in 1977.",
       "status": "ready",
       "answer": "The standard model has leptons in pairs (three generations), so symmetry with quarks requires six quarks.",
@@ -1090,6 +2113,11 @@
         "Leptons are known to form pairs (electron/neutrino and muon/neutrino etc.), giving six leptons.",
         "The quark-lepton model is symmetric, so quarks should also come in pairs and generations.",
         "With five quarks known, a sixth quark (the top) was predicted to complete the symmetry."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
       ]
     },
     {
@@ -1097,13 +2125,27 @@
       "no": "Q36(a)(ii)",
       "marks": 1,
       "topic": "Hadron Categories",
-      "keywords": ["hadrons", "baryons", "mesons", "categories", "quarks", "combine", "two categories", "name"],
+      "keywords": [
+        "hadrons",
+        "baryons",
+        "mesons",
+        "categories",
+        "quarks",
+        "combine",
+        "two categories",
+        "name"
+      ],
       "question": "Name the two categories of hadron.",
       "status": "ready",
       "answer": "Baryons and mesons.",
       "steps": [
         "Hadrons are composite particles made of quarks.",
         "They are divided into baryons (three quarks) and mesons (quark and antiquark)."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
       ]
     },
     {
@@ -1111,7 +2153,16 @@
       "no": "Q36(b)(i)",
       "marks": 4,
       "topic": "Advantage Of Colliding Beams",
-      "keywords": ["colliding beams", "stationary target", "momentum", "centre of momentum", "energy available", "particle creation", "head on", "advantage"],
+      "keywords": [
+        "colliding beams",
+        "stationary target",
+        "momentum",
+        "centre of momentum",
+        "energy available",
+        "particle creation",
+        "head on",
+        "advantage"
+      ],
       "question": "Explain the advantage of colliding beams of particles travelling in opposite directions rather than directing a beam at a stationary target.",
       "status": "ready",
       "answer": "In head-on collisions the total momentum is zero, so all the energy can be used to create new particles; a stationary target wastes energy on the momentum of the products.",
@@ -1120,6 +2171,11 @@
         "With colliding beams of equal momentum, the total momentum is zero.",
         "The products can then be at rest in the centre-of-momentum frame, so all the collision energy goes to rest mass.",
         "Therefore more mass can be produced for the same beam energy."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
       ]
     },
     {
@@ -1127,7 +2183,16 @@
       "no": "Q36(b)(ii)",
       "marks": 3,
       "topic": "Top Quark Maximum Kinetic Energy",
-      "keywords": ["top quark", "kinetic energy", "900 GeV", "rest energy 173 GeV", "joules", "maximum", "collision", "tevatron"],
+      "keywords": [
+        "top quark",
+        "kinetic energy",
+        "900 GeV",
+        "rest energy 173 GeV",
+        "joules",
+        "maximum",
+        "collision",
+        "tevatron"
+      ],
       "question": "Protons and antiprotons each have total energy 900 GeV in a collider. Calculate the maximum kinetic energy, in joules, of a top quark produced (rest energy 173 GeV).",
       "status": "ready",
       "answer": "Maximum kinetic energy = 727 GeV = 1.2 x 10^-7 J",
@@ -1135,6 +2200,11 @@
         "Head-on equal energy beams: total momentum zero, so the top and anti-top each share total energy 900 GeV.",
         "Maximum kinetic energy of a top quark: 900 - 173 = 727 GeV.",
         "727 x 10^9 x 1.6 x 10^-19 = 1.2 x 10^-7 J (1.16 x 10^-7 J)."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
       ]
     },
     {
@@ -1142,7 +2212,16 @@
       "no": "Q36(b)(iii)",
       "marks": 3,
       "topic": "Relativistic Top Quark Check",
-      "keywords": ["top quark", "kinetic energy 1.2 x 10^-7 J", "relativistic", "rest energy", "gamma", "173 GeV", "speed", "deduce"],
+      "keywords": [
+        "top quark",
+        "kinetic energy 1.2 x 10^-7 J",
+        "relativistic",
+        "rest energy",
+        "gamma",
+        "173 GeV",
+        "speed",
+        "deduce"
+      ],
       "question": "Deduce whether a top quark with kinetic energy 1.2 x 10^-7 J is travelling at a relativistic speed (rest mass 173 GeV/c^2).",
       "status": "ready",
       "answer": "Yes: rest energy is 2.8 x 10^-8 J, so the kinetic energy is about 4.3 times the rest energy, gamma = 5.3 and v = 0.98c.",
@@ -1151,6 +2230,11 @@
         "Ratio: E k / (m c^2) = 1.2 x 10^-7 / 2.77 x 10^-8 = 4.3.",
         "gamma = 1 + 4.3 = 5.3, so v = c sqrt(1 - 1/5.3^2) = 0.98 c.",
         "This is a relativistic speed."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
       ]
     },
     {
@@ -1158,7 +2242,16 @@
       "no": "Q36(c)",
       "marks": 2,
       "topic": "Top Quark Hadron Formation",
-      "keywords": ["top quark", "hadron formation", "lifetime 10^-25 s", "time dilation", "10^-23 s", "relativistic", "assess", "timescale"],
+      "keywords": [
+        "top quark",
+        "hadron formation",
+        "lifetime 10^-25 s",
+        "time dilation",
+        "10^-23 s",
+        "relativistic",
+        "assess",
+        "timescale"
+      ],
       "question": "Most quarks form hadrons in about 10^-23 s, but the top quark lifetime is 10^-25 s. Assess the student's suggestion that relativistic top quarks might form hadrons.",
       "status": "ready",
       "answer": "Unlikely at the speeds found: the dilation factor (gamma about 5) gives a lifetime of about 5 x 10^-25 s, far below 10^-23 s; a gamma near 100 would be needed.",
@@ -1167,6 +2260,11 @@
         "Required lifetime is about 10^-23 s, so gamma must be about 10^-23 / 10^-25 = 100.",
         "The top quark in part (b)(iii) has gamma about 5, giving lifetime about 5 x 10^-25 s, still too short.",
         "The suggestion is therefore not supported unless the top quarks move at speeds much closer to c."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
       ]
     },
     {
@@ -1174,7 +2272,16 @@
       "no": "Q37(a)",
       "marks": 2,
       "topic": "Radius Of Charged Particle Path",
-      "keywords": ["charged particle", "momentum", "radius", "magnetic field", "derive", "Q B p r", "centripetal force", "circular path"],
+      "keywords": [
+        "charged particle",
+        "momentum",
+        "radius",
+        "magnetic field",
+        "derive",
+        "Q B p r",
+        "centripetal force",
+        "circular path"
+      ],
       "question": "A particle with charge Q and momentum p follows a circular path of radius r at right angles to a magnetic field of flux density B. Derive the equation r = p / (Q B).",
       "status": "ready",
       "answer": "r = p / (Q B)",
@@ -1182,6 +2289,10 @@
         "Magnetic force provides centripetal force: Q v B = m v^2 / r.",
         "Rearrange: r = m v / (Q B).",
         "Momentum p = m v, so r = p / (Q B)."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-34.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-35.jpg"
       ]
     },
     {
@@ -1189,7 +2300,16 @@
       "no": "Q37(b)",
       "marks": 4,
       "topic": "Magnetic Flux Density Alpha",
-      "keywords": ["alpha particle", "5.4 MeV", "radius 0.096 m", "magnetic flux density", "momentum", "kinetic energy", "p = sqrt(2mE)", "calculate"],
+      "keywords": [
+        "alpha particle",
+        "5.4 MeV",
+        "radius 0.096 m",
+        "magnetic flux density",
+        "momentum",
+        "kinetic energy",
+        "p = sqrt(2mE)",
+        "calculate"
+      ],
       "question": "An alpha particle of energy 5.4 MeV follows a circular path of radius 0.096 m. Calculate B (alpha mass 6.64 x 10^-27 kg).",
       "status": "ready",
       "answer": "B = 3.5 T",
@@ -1198,6 +2318,10 @@
         "Momentum: p = sqrt(2 m E) = sqrt(2 x 6.64 x 10^-27 x 8.64 x 10^-13) = 1.07 x 10^-19 kg m s^-1.",
         "Charge Q = 2e = 3.2 x 10^-19 C.",
         "B = p / (Q r) = 1.07 x 10^-19 / (3.2 x 10^-19 x 0.096) = 3.5 T."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-34.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-35.jpg"
       ]
     },
     {
@@ -1205,24 +2329,51 @@
       "no": "Q38",
       "marks": 5,
       "topic": "Pentaquark Meson Baryon Split",
-      "keywords": ["pentaquark", "meson", "baryon", "quark combination", "charge", "table", "CERN 2022", "five quarks"],
+      "keywords": [
+        "pentaquark",
+        "meson",
+        "baryon",
+        "quark combination",
+        "charge",
+        "table",
+        "CERN 2022",
+        "five quarks"
+      ],
       "question": "A pentaquark of five quarks is made of a meson and a baryon with equal and opposite charges. Determine the quark combination and charge of a meson and of a baryon that could make up the pentaquark. (The quark table and the five quarks are not in the text.)",
       "status": "pending",
       "answer": "Pending: the quark charge table and the five quarks in the pentaquark are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-35.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-36.jpg"
+      ]
     },
     {
       "id": "7C-Q39a",
       "no": "Q39(a)",
       "marks": 1,
       "topic": "Positron Electron Difference",
-      "keywords": ["positron", "electron", "difference", "charge", "antiparticle", "positive", "negative", "lepton"],
+      "keywords": [
+        "positron",
+        "electron",
+        "difference",
+        "charge",
+        "antiparticle",
+        "positive",
+        "negative",
+        "lepton"
+      ],
       "question": "State one difference between a positron and an electron.",
       "status": "ready",
       "answer": "The positron has charge +e and the electron has charge -e.",
       "steps": [
         "The positron is the antiparticle of the electron.",
         "Its charge is +e, while the electron's charge is -e."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
       ]
     },
     {
@@ -1230,18 +2381,41 @@
       "no": "Q39(b)",
       "marks": 3,
       "topic": "Muon Decay Conservation Check",
-      "keywords": ["muon decay", "conservation of charge", "lepton number", "positron", "neutrino", "antineutrino", "possible", "decay"],
+      "keywords": [
+        "muon decay",
+        "conservation of charge",
+        "lepton number",
+        "positron",
+        "neutrino",
+        "antineutrino",
+        "possible",
+        "decay"
+      ],
       "question": "Explain whether a given muon decay would be possible, considering conservation of charge and lepton number. (The decay equation is not in the text.)",
       "status": "pending",
       "answer": "Pending: the decay equation is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
+      ]
     },
     {
       "id": "7C-Q40a",
       "no": "Q40(a)",
       "marks": 3,
       "topic": "Electron Beam Parabolic Path",
-      "keywords": ["electron beam tube", "parabolic path", "uniform electric field", "deflection", "projectile motion", "plates", "constant force", "horizontal velocity"],
+      "keywords": [
+        "electron beam tube",
+        "parabolic path",
+        "uniform electric field",
+        "deflection",
+        "projectile motion",
+        "plates",
+        "constant force",
+        "horizontal velocity"
+      ],
       "question": "Explain why electrons are deflected into a parabolic path when a potential difference is applied between plates A and B.",
       "status": "ready",
       "answer": "The electric field between the plates is uniform, giving a constant downward force, while the horizontal velocity is constant, so the path is a parabola like projectile motion.",
@@ -1250,6 +2424,11 @@
         "The force F = e E on each electron is constant, so the vertical acceleration is constant.",
         "The horizontal velocity stays constant because there is no horizontal force.",
         "Constant horizontal velocity with constant vertical acceleration gives a parabolic path."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
       ]
     },
     {
@@ -1257,7 +2436,16 @@
       "no": "Q40(b)(i)",
       "marks": 3,
       "topic": "Maximum Electron Speed",
-      "keywords": ["electron", "850 V", "maximum speed", "kinetic energy", "work done", "1.7 x 10^7 m s^-1", "accelerated", "cathode anode"],
+      "keywords": [
+        "electron",
+        "850 V",
+        "maximum speed",
+        "kinetic energy",
+        "work done",
+        "1.7 x 10^7 m s^-1",
+        "accelerated",
+        "cathode anode"
+      ],
       "question": "Show that the maximum speed of electrons accelerated through 850 V from the cathode to the anode is about 1.7 x 10^7 m s^-1.",
       "status": "ready",
       "answer": "v = 1.73 x 10^7 m s^-1 (about 1.7 x 10^7 m s^-1)",
@@ -1265,6 +2453,11 @@
         "Work done on each electron = eV = 1.6 x 10^-19 x 850 = 1.36 x 10^-16 J.",
         "This becomes kinetic energy: 0.5 m v^2 = eV, so v = sqrt(2 e V / m).",
         "v = sqrt(2 x 1.36 x 10^-16 / 9.11 x 10^-31) = 1.73 x 10^7 m s^-1."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
       ]
     },
     {
@@ -1272,7 +2465,16 @@
       "no": "Q40(b)(ii)",
       "marks": 5,
       "topic": "Vertical Deflection Electron Beam",
-      "keywords": ["vertical deflection", "electric field 1.7 x 10^4 V m^-1", "plate length 7.5 cm", "electron", "acceleration", "time between plates", "parabolic", "deflection"],
+      "keywords": [
+        "vertical deflection",
+        "electric field 1.7 x 10^4 V m^-1",
+        "plate length 7.5 cm",
+        "electron",
+        "acceleration",
+        "time between plates",
+        "parabolic",
+        "deflection"
+      ],
       "question": "The electric field between the plates is 1.7 x 10^4 V m^-1 and each plate is 7.5 cm long. Electrons enter horizontally at the maximum speed (1.7 x 10^7 m s^-1). Calculate the vertical deflection of the beam, ignoring weight.",
       "status": "ready",
       "answer": "Vertical deflection = 2.8 x 10^-2 m (about 2.8 cm)",
@@ -1280,6 +2482,11 @@
         "Vertical acceleration: a = e E / m = 1.6 x 10^-19 x 1.7 x 10^4 / 9.11 x 10^-31 = 3.0 x 10^15 m s^-2.",
         "Time between plates: t = L / v = 0.075 / 1.73 x 10^7 = 4.3 x 10^-9 s.",
         "Deflection: y = 0.5 a t^2 = 0.5 x 3.0 x 10^15 x (4.3 x 10^-9)^2 = 2.8 x 10^-2 m."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
       ]
     },
     {
@@ -1287,7 +2494,16 @@
       "no": "Q40(b)(iii)",
       "marks": 4,
       "topic": "Specific Charge Check Magnetic Field",
-      "keywords": ["specific charge", "electron", "magnetic field 3.0 mT", "radius 3.5 cm", "circular path", "standard value", "agreement", "assess"],
+      "keywords": [
+        "specific charge",
+        "electron",
+        "magnetic field 3.0 mT",
+        "radius 3.5 cm",
+        "circular path",
+        "standard value",
+        "agreement",
+        "assess"
+      ],
       "question": "The electric field is removed and a uniform magnetic field of 3.0 mT makes the beam follow a circle of radius 3.5 cm. Assess whether this gives a specific charge (e/m) in agreement with the standard value (1.76 x 10^11 C kg^-1).",
       "status": "ready",
       "answer": "e/m = 1.6 x 10^11 C kg^-1, about 7 percent below the standard 1.76 x 10^11 C kg^-1, so it is in reasonable agreement given the approximations.",
@@ -1296,6 +2512,11 @@
         "Using v = 1.73 x 10^7 m s^-1 from part (b)(i): e/m = 1.73 x 10^7 / (3.0 x 10^-3 x 0.035) = 1.65 x 10^11 C kg^-1.",
         "Standard value 1.76 x 10^11 C kg^-1 is used for comparison (not in the text).",
         "The difference is about 6 to 7 percent, which is reasonable agreement given measurement uncertainties in r and B."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
       ]
     },
     {
@@ -1303,13 +2524,26 @@
       "no": "Q41",
       "marks": 1,
       "topic": "Fundamental Particle Neutrino",
-      "keywords": ["fundamental particle", "neutrino", "neutron", "pion", "proton", "lepton", "standard model", "identify"],
+      "keywords": [
+        "fundamental particle",
+        "neutrino",
+        "neutron",
+        "pion",
+        "proton",
+        "lepton",
+        "standard model",
+        "identify"
+      ],
       "question": "Which of the following is a fundamental particle? A: neutrino; B: neutron; C: pion; D: proton.",
       "status": "ready",
       "answer": "A: neutrino",
       "steps": [
         "The neutron, pion and proton are made of quarks, so they are not fundamental.",
         "The neutrino is a lepton, which is fundamental."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-38.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-39.jpg"
       ]
     },
     {
@@ -1317,46 +2551,100 @@
       "no": "Q42",
       "marks": 1,
       "topic": "Mass Conversion MeV To Kg",
-      "keywords": ["particle mass", "6.5 MeV/c^2", "kg", "conversion", "rest energy", "speed of light", "options", "mass"],
+      "keywords": [
+        "particle mass",
+        "6.5 MeV/c^2",
+        "kg",
+        "conversion",
+        "rest energy",
+        "speed of light",
+        "options",
+        "mass"
+      ],
       "question": "A particle has mass 6.5 MeV/c^2. Which gives its mass in kg? (Options are not in the text.)",
       "status": "pending",
       "answer": "Pending: the options are missing. Physics: m = 6.5 x 10^6 x 1.6 x 10^-19 / (3.00 x 10^8)^2 = 1.2 x 10^-30 kg.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-39.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-40.jpg"
+      ]
     },
     {
       "id": "7C-Q43",
       "no": "Q43",
       "marks": 1,
       "topic": "Beta Minus Nucleon Decay",
-      "keywords": ["beta minus decay", "nucleon", "neutron decay", "electron", "antineutrino", "decay", "shows", "options"],
+      "keywords": [
+        "beta minus decay",
+        "nucleon",
+        "neutron decay",
+        "electron",
+        "antineutrino",
+        "decay",
+        "shows",
+        "options"
+      ],
       "question": "Which of the following shows the beta-minus decay of a nucleon? (Options are not in the text.)",
       "status": "pending",
       "answer": "Pending: the answer options are missing from the text. Expected: n -> p + e^- + antineutrino.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-39.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-40.jpg"
+      ]
     },
     {
       "id": "7C-Q44",
       "no": "Q44",
       "marks": 1,
       "topic": "Proton Neutron Quark Structure",
-      "keywords": ["proton", "neutron", "quark structure", "up quark", "down quark", "charges", "table", "uud udd"],
+      "keywords": [
+        "proton",
+        "neutron",
+        "quark structure",
+        "up quark",
+        "down quark",
+        "charges",
+        "table",
+        "uud udd"
+      ],
       "question": "The table shows the charges on up and down quarks. Which row shows the quark structure of protons and neutrons? (The table is not in the text.)",
       "status": "pending",
       "answer": "Pending: the table of rows is missing. Physics: proton uud, neutron udd.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-40.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-41.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-42.jpg"
+      ]
     },
     {
       "id": "7C-Q45a",
       "no": "Q45(a)",
       "marks": 1,
       "topic": "Pion Quark Structure",
-      "keywords": ["pion", "quark structure", "up antidown", "meson", "pi plus", "quark", "antiquark", "possible"],
+      "keywords": [
+        "pion",
+        "quark structure",
+        "up antidown",
+        "meson",
+        "pi plus",
+        "quark",
+        "antiquark",
+        "possible"
+      ],
       "question": "Give a possible quark structure of a pion.",
       "status": "ready",
       "answer": "pi^+ = u d-bar (up quark and anti-down quark)",
       "steps": [
         "Pions are mesons made of one quark and one antiquark.",
         "A pi^+ is an up quark and an anti-down quark: charge +2/3 + 1/3 = +1."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-40.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-41.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-42.jpg"
       ]
     },
     {
@@ -1364,7 +2652,16 @@
       "no": "Q45(b)",
       "marks": 4,
       "topic": "Charge And Lepton Conservation",
-      "keywords": ["pion decay", "muon", "antineutrino", "charge conservation", "lepton number", "baryon number", "conservation laws", "explain"],
+      "keywords": [
+        "pion decay",
+        "muon",
+        "antineutrino",
+        "charge conservation",
+        "lepton number",
+        "baryon number",
+        "conservation laws",
+        "explain"
+      ],
       "question": "A pion decays into a muon and an antineutrino. Energy and momentum are conserved. Explain two other conservation laws that apply to this decay.",
       "status": "ready",
       "answer": "Charge and lepton number are conserved (baryon number, 0 to 0, is also conserved).",
@@ -1372,6 +2669,11 @@
         "Charge: a pi^- (charge -1) decays to mu^- (-1) plus an antineutrino (0), so charge is conserved.",
         "Lepton number: the muon (+1) and antineutrino (-1) give total 0, matching the pion's lepton number 0.",
         "Baryon number is 0 on both sides, so it is conserved too."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-40.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-41.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-42.jpg"
       ]
     },
     {
@@ -1379,7 +2681,16 @@
       "no": "Q45(c)",
       "marks": 3,
       "topic": "Muon Mass In Kilograms",
-      "keywords": ["muon mass", "106 MeV/c^2", "kg", "rest energy", "conversion", "c squared", "electronvolt", "calculate"],
+      "keywords": [
+        "muon mass",
+        "106 MeV/c^2",
+        "kg",
+        "rest energy",
+        "conversion",
+        "c squared",
+        "electronvolt",
+        "calculate"
+      ],
       "question": "A muon has mass 106 MeV/c^2. Calculate its mass in kg.",
       "status": "ready",
       "answer": "Mass = 1.88 x 10^-28 kg",
@@ -1387,6 +2698,11 @@
         "Rest energy: 106 x 10^6 x 1.6 x 10^-19 = 1.70 x 10^-11 J.",
         "Mass: m = E / c^2 = 1.70 x 10^-11 / (3.00 x 10^8)^2.",
         "m = 1.88 x 10^-28 kg."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-40.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-41.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-42.jpg"
       ]
     },
     {
@@ -1394,7 +2710,16 @@
       "no": "Q45(d)",
       "marks": 2,
       "topic": "Pion Lifetime At High Speed",
-      "keywords": ["pion", "lifetime", "26 ns", "0.99c", "time dilation", "high speed", "average lifetime", "compare"],
+      "keywords": [
+        "pion",
+        "lifetime",
+        "26 ns",
+        "0.99c",
+        "time dilation",
+        "high speed",
+        "average lifetime",
+        "compare"
+      ],
       "question": "A pion at rest has an average lifetime of 26 ns. High energy pions in the atmosphere have speeds up to 0.99c. Explain how their average lifetime compares with the rest lifetime.",
       "status": "ready",
       "answer": "Their average lifetime is longer, by a factor gamma of about 7 at 0.99c, because of time dilation.",
@@ -1402,6 +2727,11 @@
         "At 0.99c the Lorentz factor gamma = 1 / sqrt(1 - 0.99^2) = 7.1.",
         "Time dilation makes the observed lifetime gamma times the rest lifetime.",
         "So the high energy pions last about 7 times longer than pions at rest."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-40.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-41.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-42.jpg"
       ]
     },
     {
@@ -1409,7 +2739,16 @@
       "no": "Q46(a)",
       "marks": 2,
       "topic": "Magnetic Field From Radius",
-      "keywords": ["bubble chamber", "positive particle", "circular path", "radius 1.99 m", "momentum 3.67 x 10^-19", "magnetic flux density", "B p r", "calculate"],
+      "keywords": [
+        "bubble chamber",
+        "positive particle",
+        "circular path",
+        "radius 1.99 m",
+        "momentum 3.67 x 10^-19",
+        "magnetic flux density",
+        "B p r",
+        "calculate"
+      ],
       "question": "A positive particle follows a circular path of radius 1.99 m with momentum 3.67 x 10^-19 kg m s^-1. Calculate the magnetic flux density B (particle charge +e).",
       "status": "ready",
       "answer": "B = 1.15 T",
@@ -1417,6 +2756,11 @@
         "Radius in a magnetic field: r = p / (q B), so B = p / (q r).",
         "q = 1.6 x 10^-19 C (positive particle).",
         "B = 3.67 x 10^-19 / (1.6 x 10^-19 x 1.99) = 1.15 T."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-42.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-43.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-44.jpg"
       ]
     },
     {
@@ -1424,13 +2768,27 @@
       "no": "Q46(b)(i)",
       "marks": 1,
       "topic": "Particle Type Uus",
-      "keywords": ["two up quarks", "one strange quark", "baryon", "particle type", "sigma plus", "three quarks", "decay", "state"],
+      "keywords": [
+        "two up quarks",
+        "one strange quark",
+        "baryon",
+        "particle type",
+        "sigma plus",
+        "three quarks",
+        "decay",
+        "state"
+      ],
       "question": "The positive particle is made of two up quarks and one strange quark. State what type of particle it is.",
       "status": "ready",
       "answer": "A baryon (it is a Sigma-plus baryon, uus).",
       "steps": [
         "Three quarks make a baryon, and two up plus one strange gives uus.",
         "So the particle is a baryon (a Sigma-plus hyperon)."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-42.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-43.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-44.jpg"
       ]
     },
     {
@@ -1438,40 +2796,91 @@
       "no": "Q46(b)(ii)",
       "marks": 4,
       "topic": "Conservation In Decay Check",
-      "keywords": ["charge conservation", "lepton number", "decay", "baryon", "neutron", "equation", "deduce", "conservation laws"],
+      "keywords": [
+        "charge conservation",
+        "lepton number",
+        "decay",
+        "baryon",
+        "neutron",
+        "equation",
+        "deduce",
+        "conservation laws"
+      ],
       "question": "Deduce whether conservation of charge and conservation of lepton number apply to the decay of the positive particle shown. (The decay equation symbols are lost in the text.)",
       "status": "pending",
       "answer": "Pending: the decay equation symbols are lost in the text, so charge and lepton number cannot be checked.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-42.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-43.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-44.jpg"
+      ]
     },
     {
       "id": "7C-Q46biii",
       "no": "Q46(b)(iii)",
       "marks": 6,
       "topic": "Neutron Momentum Vector",
-      "keywords": ["neutron momentum", "vector addition", "decay", "magnitude", "direction", "momentum conservation", "bubble chamber", "1.07 x 10^-19"],
+      "keywords": [
+        "neutron momentum",
+        "vector addition",
+        "decay",
+        "magnitude",
+        "direction",
+        "momentum conservation",
+        "bubble chamber",
+        "1.07 x 10^-19"
+      ],
       "question": "The positive particle (momentum 3.67 x 10^-19 kg m s^-1) decays and one product has momentum 1.07 x 10^-19 kg m s^-1. Determine the magnitude and direction of the neutron momentum. (The direction diagram is not in the text.)",
       "status": "pending",
       "answer": "Pending: the directions of the three particles are shown only on the diagram, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-42.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-43.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-44.jpg"
+      ]
     },
     {
       "id": "7C-Q46biv",
       "no": "Q46(b)(iv)",
       "marks": 4,
       "topic": "Bubble Chamber Decay Tracks",
-      "keywords": ["bubble chamber", "decay tracks", "labelled diagram", "neutron", "tracks after decay", "point X", "add to diagram", "label"],
+      "keywords": [
+        "bubble chamber",
+        "decay tracks",
+        "labelled diagram",
+        "neutron",
+        "tracks after decay",
+        "point X",
+        "add to diagram",
+        "label"
+      ],
       "question": "Add to the bubble chamber diagram all the tracks visible after the decay at X, and label the diagram.",
       "status": "pending",
       "answer": "Pending: the answer is a drawn and labelled diagram, which cannot be given in text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-42.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-43.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-44.jpg"
+      ]
     },
     {
       "id": "7C-Q47",
       "no": "Q47",
       "marks": 3,
       "topic": "Cosmic Ray Energy Comparison",
-      "keywords": ["cosmic ray", "2.4 x 10^20 eV", "brick", "gravitational potential energy", "2.8 kg", "1.1 m", "newspaper", "energy comparison"],
+      "keywords": [
+        "cosmic ray",
+        "2.4 x 10^20 eV",
+        "brick",
+        "gravitational potential energy",
+        "2.8 kg",
+        "1.1 m",
+        "newspaper",
+        "energy comparison"
+      ],
       "question": "Amaterasu had energy 2.4 x 10^20 eV, said to equal a 2.8 kg brick dropped from waist height 1.1 m. Deduce whether the article is correct.",
       "status": "ready",
       "answer": "Approximately correct: 2.4 x 10^20 eV = 38 J, while the brick's energy mgh = 30 J, which agree within about 25 percent.",
@@ -1479,6 +2888,12 @@
         "Energy: 2.4 x 10^20 x 1.6 x 10^-19 = 38 J.",
         "Gravitational potential energy: E = m g h = 2.8 x 9.81 x 1.1 = 30 J.",
         "38 J and 30 J are the same order of magnitude, so the article is approximately correct."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-44.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-45.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
       ]
     },
     {
@@ -1486,13 +2901,28 @@
       "no": "Q48(a)(i)",
       "marks": 2,
       "topic": "Kaon Quark Structure",
-      "keywords": ["kaon", "K meson", "quark structure", "strange quark", "anti-up quark", "charge -1", "meson", "explain"],
+      "keywords": [
+        "kaon",
+        "K meson",
+        "quark structure",
+        "strange quark",
+        "anti-up quark",
+        "charge -1",
+        "meson",
+        "explain"
+      ],
       "question": "Explain the quark structure of a K minus meson.",
       "status": "ready",
       "answer": "A K minus meson is a strange quark and an anti-up quark (s u-bar), with total charge -1.",
       "steps": [
         "A K minus is a meson, so it is one quark and one antiquark.",
         "Charge -1 = strange (-1/3) + anti-up (-2/3), so the structure is s u-bar."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-44.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-45.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
       ]
     },
     {
@@ -1500,7 +2930,16 @@
       "no": "Q48(a)(ii)",
       "marks": 3,
       "topic": "Kaon Mass In Kilograms",
-      "keywords": ["K meson mass", "494 MeV/c^2", "kg", "rest energy", "conversion", "c squared", "calculate", "kaon"],
+      "keywords": [
+        "K meson mass",
+        "494 MeV/c^2",
+        "kg",
+        "rest energy",
+        "conversion",
+        "c squared",
+        "calculate",
+        "kaon"
+      ],
       "question": "The mass of a K minus meson is 494 MeV/c^2. Calculate its mass in kg.",
       "status": "ready",
       "answer": "Mass = 8.8 x 10^-28 kg",
@@ -1508,6 +2947,12 @@
         "Rest energy: 494 x 10^6 x 1.6 x 10^-19 = 7.90 x 10^-11 J.",
         "Mass: m = E / c^2 = 7.90 x 10^-11 / (3.00 x 10^8)^2.",
         "m = 8.8 x 10^-28 kg."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-44.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-45.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
       ]
     },
     {
@@ -1515,7 +2960,16 @@
       "no": "Q48(b)(i)",
       "marks": 4,
       "topic": "Cyclotron Beam Production",
-      "keywords": ["cyclotron", "beam", "alternating potential difference", "magnetic field", "high energy particles", "dees", "spiral", "explain"],
+      "keywords": [
+        "cyclotron",
+        "beam",
+        "alternating potential difference",
+        "magnetic field",
+        "high energy particles",
+        "dees",
+        "spiral",
+        "explain"
+      ],
       "question": "Explain how the cyclotron produces a beam of high energy particles, referring to the alternating p.d. and the magnetic field.",
       "status": "ready",
       "answer": "The magnetic field makes particles move in circles, and the alternating p.d. across the dee gap accelerates them once per half turn, so they spiral outwards to high energy.",
@@ -1524,6 +2978,12 @@
         "The alternating p.d. across the gap accelerates the particles each time they cross it.",
         "The p.d. frequency matches the cyclotron frequency, which is independent of speed.",
         "Energy increases each crossing, so the radius grows and particles leave as a high energy beam."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-44.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-45.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
       ]
     },
     {
@@ -1531,7 +2991,16 @@
       "no": "Q48(b)(ii)",
       "marks": 4,
       "topic": "Lawrence Cyclotron Field",
-      "keywords": ["cyclotron", "80 keV", "protons", "diameter 0.11 m", "magnetic flux density", "radius", "Lawrence 1929", "kinetic energy"],
+      "keywords": [
+        "cyclotron",
+        "80 keV",
+        "protons",
+        "diameter 0.11 m",
+        "magnetic flux density",
+        "radius",
+        "Lawrence 1929",
+        "kinetic energy"
+      ],
       "question": "Lawrence's 1929 cyclotron (diameter 0.11 m) produced protons with maximum kinetic energy 80 keV. Calculate the magnetic flux density used.",
       "status": "ready",
       "answer": "B = 0.74 T",
@@ -1539,6 +3008,12 @@
         "Radius r = 0.11 / 2 = 0.055 m. Kinetic energy = 80 x 10^3 x 1.6 x 10^-19 = 1.28 x 10^-14 J.",
         "Speed: v = sqrt(2 E k / m) = sqrt(2 x 1.28 x 10^-14 / 1.67 x 10^-27) = 3.92 x 10^6 m s^-1.",
         "B = m v / (q r) = (1.67 x 10^-27 x 3.92 x 10^6) / (1.6 x 10^-19 x 0.055) = 0.74 T."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-44.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-45.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
       ]
     },
     {
@@ -1546,29 +3021,62 @@
       "no": "Q49",
       "marks": 1,
       "topic": "Fundamental Non Fundamental Row",
-      "keywords": ["fundamental particle", "non-fundamental particle", "table", "row", "electron", "proton", "quarks", "identify"],
+      "keywords": [
+        "fundamental particle",
+        "non-fundamental particle",
+        "table",
+        "row",
+        "electron",
+        "proton",
+        "quarks",
+        "identify"
+      ],
       "question": "Which row of the table shows a fundamental particle and a non-fundamental particle? (The table is not in the text.)",
       "status": "pending",
       "answer": "Pending: the table of rows is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
+      ]
     },
     {
       "id": "7C-Q50",
       "no": "Q50",
       "marks": 1,
       "topic": "Pion Decay Into Leptons",
-      "keywords": ["pion", "two leptons", "decay", "possible decay", "lepton number", "charge", "options", "conservation"],
+      "keywords": [
+        "pion",
+        "two leptons",
+        "decay",
+        "possible decay",
+        "lepton number",
+        "charge",
+        "options",
+        "conservation"
+      ],
       "question": "A pion can decay into two leptons. Which of the following decays is possible? (Options are not in the text.)",
       "status": "pending",
       "answer": "Pending: the options are missing from the text. A valid decay must conserve charge and lepton number (e.g. pi^- -> e^- + anti-neutrino).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
+      ]
     },
     {
       "id": "7C-Q51a",
       "no": "Q51(a)",
       "marks": 3,
       "topic": "Relativistic Electron Check",
-      "keywords": ["electron", "60 GeV", "relativistic", "gamma", "rest energy 0.511 MeV", "LHeC", "linac", "speed"],
+      "keywords": [
+        "electron",
+        "60 GeV",
+        "relativistic",
+        "gamma",
+        "rest energy 0.511 MeV",
+        "LHeC",
+        "linac",
+        "speed"
+      ],
       "question": "The high energy electrons in the LHeC have energy 60 GeV. Show that they are travelling at relativistic speeds.",
       "status": "ready",
       "answer": "gamma = 60 000 / 0.511 = 1.2 x 10^5, so the electrons travel at a speed indistinguishable from c.",
@@ -1576,6 +3084,10 @@
         "Electron rest energy: m c^2 = 0.511 MeV.",
         "Gamma = E / (m c^2) = 60 000 / 0.511 = 1.2 x 10^5.",
         "Since gamma is much greater than 1, the electrons are ultra-relativistic, with speed very close to c."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-48.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-49.jpg"
       ]
     },
     {
@@ -1583,7 +3095,16 @@
       "no": "Q51(b)",
       "marks": 6,
       "topic": "Linac Electron Acceleration",
-      "keywords": ["linac", "a.c. supply", "drift tube lengths", "high energy electrons", "accelerate", "gaps", "frequency", "start and end sections"],
+      "keywords": [
+        "linac",
+        "a.c. supply",
+        "drift tube lengths",
+        "high energy electrons",
+        "accelerate",
+        "gaps",
+        "frequency",
+        "start and end sections"
+      ],
       "question": "Explain how a linac produces high energy electrons, referring to the a.c. supply and to the lengths of the drift tubes in the start and end sections.",
       "status": "ready",
       "answer": "The alternating p.d. accelerates electrons in each gap; drift tubes are short at the start where electrons are slow and long at the end where they are fast, keeping the timing in step with the constant frequency.",
@@ -1594,6 +3115,10 @@
         "As electrons speed up, the tubes get longer, keeping the time in each tube equal to half the fixed a.c. period.",
         "So the field reverses in step with the electrons at each gap, and the electrons gain energy at every gap.",
         "Repeated acceleration gives very high energy electrons."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-48.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-49.jpg"
       ]
     },
     {
@@ -1601,7 +3126,16 @@
       "no": "Q51(c)",
       "marks": 3,
       "topic": "High Energy To Probe Protons",
-      "keywords": ["proton structure", "high energy", "de Broglie wavelength", "short wavelength", "resolution", "new particles", "protons", "probe"],
+      "keywords": [
+        "proton structure",
+        "high energy",
+        "de Broglie wavelength",
+        "short wavelength",
+        "resolution",
+        "new particles",
+        "protons",
+        "probe"
+      ],
       "question": "Explain why high energies are required to investigate the structure of protons.",
       "status": "ready",
       "answer": "High energy gives a short de Broglie wavelength, so the probe can resolve detail as small as quarks inside protons, and provides energy to create new particles.",
@@ -1610,6 +3144,10 @@
         "The de Broglie wavelength lambda = h / p is short when the momentum is high.",
         "High energy means high momentum and so a short wavelength.",
         "The energy is also needed to overcome forces and create new particles."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-48.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-49.jpg"
       ]
     },
     {
@@ -1617,13 +3155,26 @@
       "no": "Q52(a)",
       "marks": 2,
       "topic": "Baryon And Meson Quark Structure",
-      "keywords": ["baryon", "meson", "quark structure", "three quarks", "quark antiquark", "standard model", "state", "composition"],
+      "keywords": [
+        "baryon",
+        "meson",
+        "quark structure",
+        "three quarks",
+        "quark antiquark",
+        "standard model",
+        "state",
+        "composition"
+      ],
       "question": "State the quark structure of baryons and of mesons.",
       "status": "ready",
       "answer": "Baryon: three quarks. Meson: one quark and one antiquark.",
       "steps": [
         "Baryons are made of three quarks.",
         "Mesons are made of a quark and an antiquark."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-49.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-50.jpg"
       ]
     },
     {
@@ -1631,18 +3182,40 @@
       "no": "Q52(b)(i)",
       "marks": 5,
       "topic": "Leptoquark Baryon Lepton Number",
-      "keywords": ["leptoquark", "charge +5e/3", "baryon number", "lepton number", "quark", "lepton", "decay", "working"],
+      "keywords": [
+        "leptoquark",
+        "charge +5e/3",
+        "baryon number",
+        "lepton number",
+        "quark",
+        "lepton",
+        "decay",
+        "working"
+      ],
       "question": "A leptoquark has charge +5e/3 and decays to a quark and a lepton. Determine its baryon number and lepton number, including the suggested quark and lepton in your working. (The suggested quark and lepton are not in the text.)",
       "status": "pending",
       "answer": "Pending: the quark and lepton suggested in the question are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-49.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-50.jpg"
+      ]
     },
     {
       "id": "7C-Q52bii",
       "no": "Q52(b)(ii)",
       "marks": 3,
       "topic": "Maximum Mass From Collision",
-      "keywords": ["protons", "6800 GeV", "11 percent", "maximum mass", "kg", "collision energy", "new particle", "LHC"],
+      "keywords": [
+        "protons",
+        "6800 GeV",
+        "11 percent",
+        "maximum mass",
+        "kg",
+        "collision energy",
+        "new particle",
+        "LHC"
+      ],
       "question": "Two protons, each with energy 6800 GeV, collide head on, and 11% of the total energy can become mass of a new particle. Show that the maximum mass is about 3 x 10^-24 kg.",
       "status": "ready",
       "answer": "m = 2.7 x 10^-24 kg (about 3 x 10^-24 kg)",
@@ -1650,6 +3223,10 @@
         "Total energy = 2 x 6800 = 13 600 GeV.",
         "Energy converted to mass = 0.11 x 13 600 = 1496 GeV = 1496 x 10^9 x 1.6 x 10^-19 = 2.39 x 10^-7 J.",
         "m = E / c^2 = 2.39 x 10^-7 / (3.00 x 10^8)^2 = 2.7 x 10^-24 kg, about 3 x 10^-24 kg."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-49.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-50.jpg"
       ]
     },
     {
@@ -1657,13 +3234,26 @@
       "no": "Q52(b)(iii)",
       "marks": 1,
       "topic": "Why Leptoquarks Unobserved",
-      "keywords": ["leptoquarks", "not observed", "high mass", "energy", "decay", "suggest", "production", "reason"],
+      "keywords": [
+        "leptoquarks",
+        "not observed",
+        "high mass",
+        "energy",
+        "decay",
+        "suggest",
+        "production",
+        "reason"
+      ],
       "question": "Leptoquarks have not yet been observed. Suggest why.",
       "status": "ready",
       "answer": "They may be too massive to be produced with the energy available, or they decay too quickly to be detected.",
       "steps": [
         "Leptoquarks would need a large rest energy to be created.",
         "The available collision energy (part ii) may be insufficient, or they may decay before they can be detected."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-49.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-50.jpg"
       ]
     },
     {
@@ -1671,13 +3261,26 @@
       "no": "Q53(a)",
       "marks": 2,
       "topic": "Chadwick Nuclear Equation",
-      "keywords": ["Chadwick", "neutron discovery", "beryllium", "alpha particle", "carbon", "neutron", "nuclear equation", "1934"],
+      "keywords": [
+        "Chadwick",
+        "neutron discovery",
+        "beryllium",
+        "alpha particle",
+        "carbon",
+        "neutron",
+        "nuclear equation",
+        "1934"
+      ],
       "question": "In 1934 Chadwick fired alpha particles at beryllium atoms, producing carbon atoms and neutral particles. Complete the equation for this process.",
       "status": "ready",
       "answer": "4/2 He + 9/4 Be -> 12/6 C + 1/0 n",
       "steps": [
         "Alpha particle 4/2 He plus beryllium 9/4 Be gives total mass number 13 and proton number 6.",
         "Products: carbon 12/6 C plus neutron 1/0 n, which gives mass number 13 and proton number 6."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-50.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-51.jpg"
       ]
     },
     {
@@ -1685,7 +3288,16 @@
       "no": "Q53(b)",
       "marks": 2,
       "topic": "Neutron Fundamental Criticism",
-      "keywords": ["neutron", "fundamental particle", "quarks", "udd", "structure", "criticise", "composite", "Chadwick"],
+      "keywords": [
+        "neutron",
+        "fundamental particle",
+        "quarks",
+        "udd",
+        "structure",
+        "criticise",
+        "composite",
+        "Chadwick"
+      ],
       "question": "Criticise the statement that Chadwick's experiment established the neutron as a new fundamental particle and not an electron and proton joined together.",
       "status": "ready",
       "answer": "The neutron is not fundamental: it is a composite baryon made of one up and two down quarks, so the experiment did not establish that it is fundamental.",
@@ -1693,6 +3305,10 @@
         "The neutron is a baryon made of three quarks (udd), so it is not a fundamental particle.",
         "Chadwick's experiment showed that a neutral particle of about proton mass exists, but not that it is fundamental.",
         "The statement is therefore incorrect as a conclusion about the structure of the neutron."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-50.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-51.jpg"
       ]
     },
     {
@@ -1700,24 +3316,49 @@
       "no": "Q54",
       "marks": 1,
       "topic": "Maximum Pair Mass Expression",
-      "keywords": ["proton antiproton", "450 GeV", "annihilate", "particle antiparticle pair", "maximum mass", "expression", "kg", "options"],
+      "keywords": [
+        "proton antiproton",
+        "450 GeV",
+        "annihilate",
+        "particle antiparticle pair",
+        "maximum mass",
+        "expression",
+        "kg",
+        "options"
+      ],
       "question": "A proton and an antiproton, each of energy 450 GeV, annihilate to create a particle-antiparticle pair. Which expression gives the maximum mass of each particle in kg? (Options are not in the text.)",
       "status": "pending",
       "answer": "Pending: the expressions are missing from the text. Physics: total energy 900 GeV, so each particle has mass at most 900 GeV / (2 c^2) in kg.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-51.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-52.jpg"
+      ]
     },
     {
       "id": "7C-Q55a",
       "no": "Q55(a)",
       "marks": 2,
       "topic": "Muon Distance Without Dilation",
-      "keywords": ["muon", "98 percent speed of light", "lifetime 2.20 microseconds", "distance 650 m", "speed", "distance travelled", "show", "time"],
+      "keywords": [
+        "muon",
+        "98 percent speed of light",
+        "lifetime 2.20 microseconds",
+        "distance 650 m",
+        "speed",
+        "distance travelled",
+        "show",
+        "time"
+      ],
       "question": "A muon travels at 98.0% of the speed of light and has a lifetime of 2.20 microseconds (the mu is lost in the text). Show that it travels about 650 m in this time.",
       "status": "ready",
       "answer": "d = v t = 0.98 x 3.00 x 10^8 x 2.20 x 10^-6 = 650 m.",
       "steps": [
         "Speed: v = 0.980 x 3.00 x 10^8 = 2.94 x 10^8 m s^-1.",
         "Distance: d = v t = 2.94 x 10^8 x 2.20 x 10^-6 = 647 m, which rounds to about 650 m."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-52.jpg"
       ]
     },
     {
@@ -1725,7 +3366,16 @@
       "no": "Q55(b)",
       "marks": 3,
       "topic": "Muons Reach Ground Dilation",
-      "keywords": ["muons", "15000 m", "time dilation", "lifetime", "vertical", "reach ground", "speed close to c", "decay"],
+      "keywords": [
+        "muons",
+        "15000 m",
+        "time dilation",
+        "lifetime",
+        "vertical",
+        "reach ground",
+        "speed close to c",
+        "decay"
+      ],
       "question": "Some muons are produced 15 000 m above the ground and travel vertically downwards. Explain why most reach the ground before decaying.",
       "status": "ready",
       "answer": "Time dilation: at speeds close to c the lifetime seen from the ground is gamma times longer, so the muons travel many kilometres before decaying.",
@@ -1734,6 +3384,9 @@
         "At speeds close to c, gamma is large, so the ground-frame lifetime is gamma x 2.2 x 10^-6 s.",
         "For 15 000 m at 0.98c, gamma must be about 23 or more (speed about 0.999c), so the lifetime is long enough.",
         "Hence most muons reach the ground before decaying."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-52.jpg"
       ]
     },
     {
@@ -1741,18 +3394,40 @@
       "no": "Q56",
       "marks": 1,
       "topic": "Positron Electron Similarity Difference",
-      "keywords": ["positron", "electron", "similarity", "difference", "table", "mass", "charge", "row"],
+      "keywords": [
+        "positron",
+        "electron",
+        "similarity",
+        "difference",
+        "table",
+        "mass",
+        "charge",
+        "row"
+      ],
       "question": "The positron is the antiparticle of the electron. Which row of the table gives a similarity and a difference between a positron and an electron? (The table is not in the text.)",
       "status": "pending",
       "answer": "Pending: the table of rows is missing. Expected: same mass, opposite charge.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-53.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-54.jpg"
+      ]
     },
     {
       "id": "7C-Q57",
       "no": "Q57",
       "marks": 1,
       "topic": "Identifying A Meson",
-      "keywords": ["meson", "pion", "photon", "positron", "proton", "standard model", "quark antiquark", "identify"],
+      "keywords": [
+        "meson",
+        "pion",
+        "photon",
+        "positron",
+        "proton",
+        "standard model",
+        "quark antiquark",
+        "identify"
+      ],
       "question": "Which of the following is a meson? A: photon; B: pion; C: positron; D: proton.",
       "status": "ready",
       "answer": "B: pion",
@@ -1760,6 +3435,10 @@
         "A photon is a boson, a fundamental particle, not a meson.",
         "A positron is a lepton and a proton is a baryon.",
         "A pion is a meson, made of a quark and an antiquark."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-53.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-54.jpg"
       ]
     },
     {
@@ -1767,7 +3446,16 @@
       "no": "Q58",
       "marks": 1,
       "topic": "Pair Production Photon Energy",
-      "keywords": ["pair production", "photon energy", "electron positron pair", "2 m c^2", "electron mass", "joules", "high energy photon", "options"],
+      "keywords": [
+        "pair production",
+        "photon energy",
+        "electron positron pair",
+        "2 m c^2",
+        "electron mass",
+        "joules",
+        "high energy photon",
+        "options"
+      ],
       "question": "In pair production a photon creates an electron and a positron. Which gives the photon energy in joules? A: 9.11e-31 x (3e8)^2; B: 1.67e-27 x (3e8)^2; C: 2 x 1.67e-27 x (3e8)^2; D: 2 x 9.11e-31 x (3e8)^2.",
       "status": "ready",
       "answer": "D: 2 x 9.11 x 10^-31 x (3 x 10^8)^2",
@@ -1775,6 +3463,10 @@
         "Pair production needs the photon to supply the rest energy of both the electron and positron: E = 2 m_e c^2.",
         "Option D uses the electron mass (9.11 x 10^-31 kg) twice, giving the correct energy.",
         "Options A and B use only one electron or a proton mass, and C uses the proton mass."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-53.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-54.jpg"
       ]
     },
     {
@@ -1782,7 +3474,16 @@
       "no": "Q59",
       "marks": 3,
       "topic": "Conservation Laws In Solar Reaction",
-      "keywords": ["solar fusion", "p + p", "charge conservation", "baryon number", "lepton number", "electron neutrino", "positron", "conservation laws"],
+      "keywords": [
+        "solar fusion",
+        "p + p",
+        "charge conservation",
+        "baryon number",
+        "lepton number",
+        "electron neutrino",
+        "positron",
+        "conservation laws"
+      ],
       "question": "Two protons react to form a proton, a neutron, a positron and an electron neutrino. Explain how three conservation laws apply to this reaction, other than energy and momentum.",
       "status": "ready",
       "answer": "Charge (2 = 2), baryon number (2 = 2), and lepton number (0 = -1 + 1 = 0) are all conserved.",
@@ -1790,6 +3491,10 @@
         "Charge: left = +1 + 1 = +2; right = +1 (proton) + 0 (neutron) + 1 (positron) + 0 (neutrino) = +2, conserved.",
         "Baryon number: left = 1 + 1 = 2; right = 1 (proton) + 1 (neutron) = 2, conserved.",
         "Lepton number: left = 0; right = -1 (positron) + 1 (electron neutrino) = 0, conserved."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-54.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-55.jpg"
       ]
     },
     {
@@ -1797,7 +3502,16 @@
       "no": "Q60",
       "marks": 1,
       "topic": "Annihilation Photon Energy",
-      "keywords": ["annihilation", "electron positron", "two photons", "photon energy", "joules", "rest energy", "options", "electron mass"],
+      "keywords": [
+        "annihilation",
+        "electron positron",
+        "two photons",
+        "photon energy",
+        "joules",
+        "rest energy",
+        "options",
+        "electron mass"
+      ],
       "question": "An electron and a positron annihilate, producing two photons. Which gives the energy of one photon? A: 9.11e-31 x (3e8)^2; B: 9.11e-31 x 3e8; C: 2 x 9.11e-31 x (3e8)^2; D: 2 x 9.11e-31 x 3e8.",
       "status": "ready",
       "answer": "A: 9.11 x 10^-31 x (3 x 10^8)^2",
@@ -1805,6 +3519,10 @@
         "Total energy from annihilation = 2 m_e c^2, shared equally between the two photons.",
         "Each photon has energy m_e c^2 = 9.11 x 10^-31 x (3 x 10^8)^2, which is option A.",
         "Option C gives the total energy, not one photon."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-54.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-55.jpg"
       ]
     },
     {
@@ -1812,23 +3530,51 @@
       "no": "Q61",
       "marks": 1,
       "topic": "Muon Lifetime Reason",
-      "keywords": ["muon", "lifetime greater", "upper atmosphere", "average speed v", "time dilation", "speed close to c", "reason", "options"],
+      "keywords": [
+        "muon",
+        "lifetime greater",
+        "upper atmosphere",
+        "average speed v",
+        "time dilation",
+        "speed close to c",
+        "reason",
+        "options"
+      ],
       "question": "Muons produced in the upper atmosphere have an average lifetime greater than stationary muons, because they move at speed v. Which gives the reason for this increase in lifetime? (Options A-D are garbled in the text.)",
       "status": "pending",
       "answer": "Pending: the options are garbled in the text. The reason is time dilation at a speed close to c.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-55.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-56.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-57.jpg"
+      ]
     },
     {
       "id": "7C-Q62ai",
       "no": "Q62(a)(i)",
       "marks": 1,
       "topic": "Meson Quark Structure Omega",
-      "keywords": ["meson", "quark structure", "quark antiquark", "omega minus", "kaon", "state", "composition", "mesons"],
+      "keywords": [
+        "meson",
+        "quark structure",
+        "quark antiquark",
+        "omega minus",
+        "kaon",
+        "state",
+        "composition",
+        "mesons"
+      ],
       "question": "State the quark structure of a meson.",
       "status": "ready",
       "answer": "One quark and one antiquark.",
       "steps": [
         "A meson is a hadron made of a quark and an antiquark."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-55.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-56.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-57.jpg"
       ]
     },
     {
@@ -1836,7 +3582,16 @@
       "no": "Q62(a)(ii)",
       "marks": 2,
       "topic": "Baryon Number And Charge Conservation",
-      "keywords": ["omega minus", "kaon", "baryon number", "charge", "K minus proton", "conservation", "reaction", "explain"],
+      "keywords": [
+        "omega minus",
+        "kaon",
+        "baryon number",
+        "charge",
+        "K minus proton",
+        "conservation",
+        "reaction",
+        "explain"
+      ],
       "question": "Explain how conservation of baryon number and conservation of charge are obeyed in the reaction K^- + p -> Omega^- + K^+ + K^0.",
       "status": "ready",
       "answer": "Baryon number: 1 (proton) = 1 (Omega minus); charge: -1 + 1 = 0 = -1 + 1 + 0.",
@@ -1844,6 +3599,11 @@
         "Baryon number: the proton has baryon number +1; the Omega minus has +1; the kaons have 0. So 1 = 1.",
         "Charge: left = (-1) + (+1) = 0; right = (-1) + (+1) + 0 = 0.",
         "Both conservation laws are obeyed."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-55.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-56.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-57.jpg"
       ]
     },
     {
@@ -1851,7 +3611,16 @@
       "no": "Q62(b)",
       "marks": 3,
       "topic": "Percentage Difference Omega Mass",
-      "keywords": ["omega minus", "predicted mass", "2.9714 x 10^-27 kg", "accepted mass 1672 MeV", "percentage difference", "mass conversion", "calculate", "prediction"],
+      "keywords": [
+        "omega minus",
+        "predicted mass",
+        "2.9714 x 10^-27 kg",
+        "accepted mass 1672 MeV",
+        "percentage difference",
+        "mass conversion",
+        "calculate",
+        "prediction"
+      ],
       "question": "The predicted mass of the Omega minus was 2.9714 x 10^-27 kg, and the accepted value is 1672 MeV/c^2. Calculate the percentage difference between these masses.",
       "status": "ready",
       "answer": "Percentage difference = 0.04%",
@@ -1859,6 +3628,11 @@
         "Predicted mass in MeV/c^2: 2.9714 x 10^-27 x (3.00 x 10^8)^2 = 2.674 x 10^-10 J, which is 2.674 x 10^-10 / 1.6 x 10^-19 = 1.671 x 10^9 eV = 1671 MeV.",
         "Difference = 1672 - 1671.4 = 0.6 MeV.",
         "Percentage difference = (0.6 / 1672) x 100 = 0.04%."
+      ],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-55.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-56.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-57.jpg"
       ]
     },
     {
@@ -1866,11 +3640,25 @@
       "no": "Q62(c)",
       "marks": 3,
       "topic": "Evidence Of Neutral Kaon",
-      "keywords": ["K0", "neutral kaon", "photograph", "tracks", "K plus", "omega", "momentum conservation", "bubble chamber"],
+      "keywords": [
+        "K0",
+        "neutral kaon",
+        "photograph",
+        "tracks",
+        "K plus",
+        "omega",
+        "momentum conservation",
+        "bubble chamber"
+      ],
       "question": "The photograph shows the tracks of K^+ and Omega^- produced when a K^- collided with a stationary proton. Explain how evidence from the photograph shows a K^0 was also formed. (The photograph is not in the text.)",
       "status": "pending",
       "answer": "Pending: the photograph is not in the text. Expected: a neutral K0 leaves no track but its momentum is needed to balance the visible tracks, or it decays to visible charged tracks.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/28-7C-Particle-Zoo-55.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-56.jpg",
+        "papers/physics/img/28-7C-Particle-Zoo-57.jpg"
+      ]
     }
   ]
 }

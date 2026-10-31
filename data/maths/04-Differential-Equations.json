@@ -9,7 +9,16 @@
       "no": "Q1(a)",
       "marks": 7,
       "topic": "Separable Differential Equation",
-      "keywords": ["differential equation", "separation of variables", "integration", "integration by parts", "exponential", "initial condition", "y squared", "particular solution"],
+      "keywords": [
+        "differential equation",
+        "separation of variables",
+        "integration",
+        "integration by parts",
+        "exponential",
+        "initial condition",
+        "y squared",
+        "particular solution"
+      ],
       "question": "Given that y = 1 at x = 0, solve the differential equation dy/dx = 6xy^(1/3)/e^(2x), y >= 0, giving your answer in the form y^2 = g(x).",
       "status": "ready",
       "answer": "y^2 = (2 - (2x + 1)e^(-2x))^3.",
@@ -20,6 +29,10 @@
         "Use y = 1 at x = 0: 3/2 = -3/2 + C, so C = 3.",
         "Multiply by 2/3: y^(2/3) = 2 - (2x + 1)e^(-2x).",
         "Cube both sides after squaring: y^2 = (2 - (2x + 1)e^(-2x))^3."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-1.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-2.jpg"
       ]
     },
     {
@@ -27,7 +40,16 @@
       "no": "Q1(b)",
       "marks": 2,
       "topic": "Horizontal Asymptote",
-      "keywords": ["horizontal asymptote", "limit", "large x", "exponential tends to zero", "curve", "y squared", "asymptote", "behaviour"],
+      "keywords": [
+        "horizontal asymptote",
+        "limit",
+        "large x",
+        "exponential tends to zero",
+        "curve",
+        "y squared",
+        "asymptote",
+        "behaviour"
+      ],
       "question": "Hence find the equation of the horizontal asymptote to the curve with equation y^2 = g(x).",
       "status": "ready",
       "answer": "y = 2 sqrt(2).",
@@ -35,6 +57,10 @@
         "As x tends to infinity, e^(-2x) tends to 0, so (2x + 1)e^(-2x) tends to 0.",
         "So y^2 tends to 2^3 = 8.",
         "Since y >= 0, the horizontal asymptote is y = sqrt(8) = 2 sqrt(2)."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-1.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-2.jpg"
       ]
     },
     {
@@ -42,7 +68,16 @@
       "no": "Q2",
       "marks": 6,
       "topic": "Particular Solution Separable",
-      "keywords": ["differential equation", "separation of variables", "particular solution", "initial condition", "square root", "integration", "y equals f(x)", "reciprocal"],
+      "keywords": [
+        "differential equation",
+        "separation of variables",
+        "particular solution",
+        "initial condition",
+        "square root",
+        "integration",
+        "y equals f(x)",
+        "reciprocal"
+      ],
       "question": "Find the particular solution of the differential equation dy/dx = 4y^2/sqrt(4x + 5), x > -5/4, for which y = 1/3 at x = -1/4, giving your answer in the form y = f(x).",
       "status": "ready",
       "answer": "y = 1/(7 - 2 sqrt(4x + 5)).",
@@ -52,6 +87,10 @@
         "At x = -1/4, 4x + 5 = 4, so sqrt = 2; with y = 1/3: -3 = 2(2) + C, so C = -7.",
         "So -1/y = 2 sqrt(4x + 5) - 7.",
         "Hence y = 1/(7 - 2 sqrt(4x + 5))."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-1.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-2.jpg"
       ]
     },
     {
@@ -59,7 +98,16 @@
       "no": "Q3(a)",
       "marks": 3,
       "topic": "Partial Fractions",
-      "keywords": ["partial fractions", "partial fraction form", "linear factors", "differential equation", "H minus 5", "H plus 3", "decomposition", "constants"],
+      "keywords": [
+        "partial fractions",
+        "partial fraction form",
+        "linear factors",
+        "differential equation",
+        "H minus 5",
+        "H plus 3",
+        "decomposition",
+        "constants"
+      ],
       "question": "Write 1/((H - 5)(H + 3)) in partial fraction form.",
       "status": "ready",
       "answer": "1/((H - 5)(H + 3)) = 1/(8(H - 5)) - 1/(8(H + 3)).",
@@ -68,6 +116,10 @@
         "Then 1 = A(H + 3) + B(H - 5).",
         "Put H = 5: 1 = 8A, so A = 1/8. Put H = -3: 1 = -8B, so B = -1/8.",
         "So the partial fraction form is 1/(8(H - 5)) - 1/(8(H + 3))."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-2.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-3.jpg"
       ]
     },
     {
@@ -75,7 +127,16 @@
       "no": "Q3(b)",
       "marks": 7,
       "topic": "Solving Tank Depth Model",
-      "keywords": ["differential equation", "separation of variables", "partial fractions", "logarithm", "initial condition", "depth of water", "exponential", "show that"],
+      "keywords": [
+        "differential equation",
+        "separation of variables",
+        "partial fractions",
+        "logarithm",
+        "initial condition",
+        "depth of water",
+        "exponential",
+        "show that"
+      ],
       "question": "The depth H metres of water in a tank satisfies dH/dt = -(H - 5)(H + 3)/40, where t is in days. Given H = 13 when t = 0, solve the differential equation to show that H = (10 + 3e^(-0.2t))/(2 - e^(-0.2t)).",
       "status": "ready",
       "answer": "H = (10 + 3e^(-0.2t))/(2 - e^(-0.2t)).",
@@ -86,6 +147,10 @@
         "So (H - 5)/(H + 3) = (1/2)e^(-0.2t). Write E = e^(-0.2t).",
         "Rearrange: 2(H - 5) = E(H + 3), so H(2 - E) = 10 + 3E.",
         "Hence H = (10 + 3E)/(2 - E)."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-2.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-3.jpg"
       ]
     },
     {
@@ -93,7 +158,16 @@
       "no": "Q3(c)",
       "marks": 3,
       "topic": "Time to Fall to 8 m",
-      "keywords": ["time", "depth", "exponential", "solve for t", "logarithm", "substitute H equals 8", "model", "algebraic method"],
+      "keywords": [
+        "time",
+        "depth",
+        "exponential",
+        "solve for t",
+        "logarithm",
+        "substitute H equals 8",
+        "model",
+        "algebraic method"
+      ],
       "question": "Hence find the time taken for the depth of water in the tank to fall to 8 m. Solutions relying entirely on calculator technology are not acceptable.",
       "status": "ready",
       "answer": "t = 5 ln(11/6), approximately 3.03 days.",
@@ -102,6 +176,10 @@
         "Expand: 10 + 3E = 16 - 8E, so 11E = 6 and E = 6/11.",
         "So e^(-0.2t) = 6/11, giving -0.2t = ln(6/11).",
         "t = -5 ln(6/11) = 5 ln(11/6), approximately 3.03 days."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-2.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-3.jpg"
       ]
     },
     {
@@ -109,7 +187,16 @@
       "no": "Q3(d)",
       "marks": 1,
       "topic": "Limiting Depth",
-      "keywords": ["limit", "long term", "value of k", "depth tends to", "exponential tends to zero", "model", "horizontal", "steady state"],
+      "keywords": [
+        "limit",
+        "long term",
+        "value of k",
+        "depth tends to",
+        "exponential tends to zero",
+        "model",
+        "horizontal",
+        "steady state"
+      ],
       "question": "According to the model, the depth of water in the tank will eventually fall to k metres. State the value of the constant k.",
       "status": "ready",
       "answer": "k = 5.",
@@ -117,6 +204,10 @@
         "As t tends to infinity, e^(-0.2t) tends to 0.",
         "So H tends to (10 + 0)/(2 - 0) = 5.",
         "Therefore k = 5."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-2.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-3.jpg"
       ]
     },
     {
@@ -124,7 +215,16 @@
       "no": "Q4(a)",
       "marks": 2,
       "topic": "Finding Constant k in Model",
-      "keywords": ["model", "constant k", "substitute t equals 0", "initial population", "goats", "thousands", "show that", "rational model"],
+      "keywords": [
+        "model",
+        "constant k",
+        "substitute t equals 0",
+        "initial population",
+        "goats",
+        "thousands",
+        "show that",
+        "rational model"
+      ],
       "question": "The number of goats x, in thousands, is modelled by x = k(9t + 5)/(4t + 3), where t is the number of years after monitoring began and there were 3000 goats initially. Show that k = 1.8.",
       "status": "ready",
       "answer": "k = 1.8, from x = 3 at t = 0 gives 5k/3 = 3.",
@@ -132,6 +232,10 @@
         "At t = 0 there are 3000 goats, so x = 3.",
         "Substitute t = 0: x = 5k/3.",
         "So 5k/3 = 3, giving k = 9/5 = 1.8."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-2.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-3.jpg"
       ]
     },
     {
@@ -139,7 +243,16 @@
       "no": "Q4(b)",
       "marks": 1,
       "topic": "Long-Term Goat Population",
-      "keywords": ["long term", "limit", "population", "t tends to infinity", "goats", "model", "thousands", "limiting value"],
+      "keywords": [
+        "long term",
+        "limit",
+        "population",
+        "t tends to infinity",
+        "goats",
+        "model",
+        "thousands",
+        "limiting value"
+      ],
       "question": "Hence calculate the long-term population of goats predicted by this model.",
       "status": "ready",
       "answer": "x tends to 4.05 thousand, so 4050 goats.",
@@ -147,6 +260,10 @@
         "As t tends to infinity, x tends to 9k/4 (divide top and bottom by t).",
         "With k = 1.8: x tends to 9(1.8)/4 = 4.05.",
         "Since x is in thousands, the long-term population is 4050 goats."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-2.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-3.jpg"
       ]
     },
     {
@@ -154,7 +271,16 @@
       "no": "Q4(c)",
       "marks": 3,
       "topic": "Partial Fractions for Second Model",
-      "keywords": ["partial fractions", "partial fraction form", "x times 9 minus 2x", "decomposition", "second model", "goats", "constants", "linear factors"],
+      "keywords": [
+        "partial fractions",
+        "partial fraction form",
+        "x times 9 minus 2x",
+        "decomposition",
+        "second model",
+        "goats",
+        "constants",
+        "linear factors"
+      ],
       "question": "Write 3/(x(9 - 2x)) in partial fraction form.",
       "status": "ready",
       "answer": "3/(x(9 - 2x)) = 1/(3x) + 2/(3(9 - 2x)).",
@@ -163,6 +289,10 @@
         "Put x = 0: 3 = 9A, so A = 1/3.",
         "Put x = 9/2: 3 = (9/2)B, so B = 2/3.",
         "So 3/(x(9 - 2x)) = 1/(3x) + 2/(3(9 - 2x))."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-2.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-3.jpg"
       ]
     },
     {
@@ -170,7 +300,16 @@
       "no": "Q4(d)",
       "marks": 5,
       "topic": "Solving Logistic Model Equation",
-      "keywords": ["differential equation", "separation of variables", "partial fractions", "logarithm", "initial condition", "exponential", "goats", "show that"],
+      "keywords": [
+        "differential equation",
+        "separation of variables",
+        "partial fractions",
+        "logarithm",
+        "initial condition",
+        "exponential",
+        "goats",
+        "show that"
+      ],
       "question": "Solve 3 dx/dt = x(9 - 2x), with x = 3 when t = 0, to show that x = 9/(2 + e^(-3t)).",
       "status": "ready",
       "answer": "x = 9/(2 + e^(-3t)).",
@@ -180,6 +319,10 @@
         "Integrate: t = (1/3)ln x - (1/3)ln(9 - 2x) + C = (1/3)ln(x/(9 - 2x)) + C.",
         "At t = 0, x = 3: ln(3/3) = 0, so C = 0.",
         "So x/(9 - 2x) = e^(3t), giving x = 9e^(3t)/(1 + 2e^(3t)) = 9/(2 + e^(-3t))."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-2.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-3.jpg"
       ]
     },
     {
@@ -187,7 +330,16 @@
       "no": "Q4(e)",
       "marks": 1,
       "topic": "Long-Term Population Second Model",
-      "keywords": ["long term", "limit", "second model", "population", "goats", "t tends to infinity", "9/2", "limiting value"],
+      "keywords": [
+        "long term",
+        "limit",
+        "second model",
+        "population",
+        "goats",
+        "t tends to infinity",
+        "9/2",
+        "limiting value"
+      ],
       "question": "Find the long-term population of goats predicted by this second model.",
       "status": "ready",
       "answer": "x tends to 9/2 thousand, so 4500 goats.",
@@ -195,6 +347,10 @@
         "As t tends to infinity, e^(-3t) tends to 0.",
         "So x tends to 9/2 = 4.5 thousand.",
         "The long-term population is 4500 goats."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-2.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-3.jpg"
       ]
     },
     {
@@ -202,7 +358,16 @@
       "no": "Q5(a)",
       "marks": 5,
       "topic": "Melting Ice Ball Model",
-      "keywords": ["differential equation", "inverse proportion", "radius", "separation of variables", "initial condition", "ice ball", "melting", "constant of proportionality"],
+      "keywords": [
+        "differential equation",
+        "inverse proportion",
+        "radius",
+        "separation of variables",
+        "initial condition",
+        "ice ball",
+        "melting",
+        "constant of proportionality"
+      ],
       "question": "A spherical ball of ice of radius 12 cm melts in a bucket of water. In the model, t minutes after placement the radius is r cm, the rate of decrease of r is inversely proportional to the square of r, and r = 6 cm after 15 minutes. Find an equation linking r and t.",
       "status": "ready",
       "answer": "r^3 = 1728 - (504/5)t.",
@@ -212,6 +377,10 @@
         "Use r = 12 at t = 0: r^3 = 1728 - 3kt.",
         "Use r = 6 at t = 15: 216 = 1728 - 45k, so k = 33.6.",
         "Hence r^3 = 1728 - 100.8t = 1728 - (504/5)t."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-3.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-4.jpg"
       ]
     },
     {
@@ -219,7 +388,16 @@
       "no": "Q5(b)",
       "marks": 2,
       "topic": "Time to Melt Completely",
-      "keywords": ["time", "melt completely", "radius zero", "equation", "minutes", "solve", "ice", "r equals 0"],
+      "keywords": [
+        "time",
+        "melt completely",
+        "radius zero",
+        "equation",
+        "minutes",
+        "solve",
+        "ice",
+        "r equals 0"
+      ],
       "question": "Using the model, find the time taken for the ball of ice to melt completely.",
       "status": "ready",
       "answer": "t = 120/7 minutes, about 17.14 minutes.",
@@ -227,6 +405,10 @@
         "The ball has melted completely when r = 0.",
         "0 = 1728 - (504/5)t.",
         "t = 1728 x 5/504 = 8640/504 = 120/7, about 17.14 minutes."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-3.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-4.jpg"
       ]
     },
     {
@@ -234,7 +416,16 @@
       "no": "Q5(c)",
       "marks": 1,
       "topic": "Sketch of Radius Against Time",
-      "keywords": ["sketch", "graph", "radius against time", "decreasing curve", "vertical tangent", "end point", "diagram", "r against t"],
+      "keywords": [
+        "sketch",
+        "graph",
+        "radius against time",
+        "decreasing curve",
+        "vertical tangent",
+        "end point",
+        "diagram",
+        "r against t"
+      ],
       "question": "On Diagram 1, sketch a graph of r against t.",
       "status": "ready",
       "answer": "A decreasing curve from (0, 12) to (120/7, 0), concave down, with a vertical tangent where it meets the t-axis.",
@@ -243,6 +434,10 @@
         "r = (1728 - 504t/5)^(1/3) decreases as t increases.",
         "The curve reaches r = 0 at t = 120/7, about 17.1 minutes.",
         "Near r = 0 the rate dr/dt = -k/r^2 becomes very large, so the curve meets the t-axis with a vertical tangent."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-3.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-4.jpg"
       ]
     },
     {
@@ -250,7 +445,16 @@
       "no": "Q6(a)",
       "marks": 2,
       "topic": "Derivative With Respect to y",
-      "keywords": ["derivative", "chain rule", "differentiate", "ln y", "reciprocal", "with respect to y", "power rule", "function"],
+      "keywords": [
+        "derivative",
+        "chain rule",
+        "differentiate",
+        "ln y",
+        "reciprocal",
+        "with respect to y",
+        "power rule",
+        "function"
+      ],
       "question": "Find the derivative with respect to y of 1/(1 + 2 ln y)^2.",
       "status": "ready",
       "answer": "d/dy [1/(1 + 2 ln y)^2] = -4/(y(1 + 2 ln y)^3).",
@@ -259,6 +463,10 @@
         "Chain rule: -2(1 + 2 ln y)^(-3) x d/dy(1 + 2 ln y).",
         "d/dy(1 + 2 ln y) = 2/y.",
         "So the derivative is -4/(y(1 + 2 ln y)^3)."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-4.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-5.jpg"
       ]
     },
     {
@@ -266,7 +474,16 @@
       "no": "Q6(b)",
       "marks": 4,
       "topic": "General Solution Separable",
-      "keywords": ["general solution", "separation of variables", "cosec", "trigonometric", "logarithm", "integration", "differential equation", "sin 2x"],
+      "keywords": [
+        "general solution",
+        "separation of variables",
+        "cosec",
+        "trigonometric",
+        "logarithm",
+        "integration",
+        "differential equation",
+        "sin 2x"
+      ],
       "question": "Hence find a general solution to the differential equation 3 cosec(2x) dy/dx = y(1 + 2 ln y)^3, where y > 0 and -pi/2 < x < pi/2.",
       "status": "ready",
       "answer": "(1 + 2 ln y)^(-2) = (2/3)cos(2x) + K, where K is a constant.",
@@ -276,6 +493,10 @@
         "By part (a), the left side integrates to -(1/4)(1 + 2 ln y)^(-2).",
         "The right side integrates to -(1/6)cos(2x).",
         "So (1 + 2 ln y)^(-2) = (2/3)cos(2x) + K."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-4.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-5.jpg"
       ]
     },
     {
@@ -283,7 +504,16 @@
       "no": "Q6(c)",
       "marks": 5,
       "topic": "Particular Solution Form",
-      "keywords": ["particular solution", "initial condition", "show that", "irrational", "secant", "logarithm", "exponential form", "y equals 1"],
+      "keywords": [
+        "particular solution",
+        "initial condition",
+        "show that",
+        "irrational",
+        "secant",
+        "logarithm",
+        "exponential form",
+        "y equals 1"
+      ],
       "question": "Show that the particular solution of this differential equation for which y = 1 at x = pi/6 is y = e^(A sec x - 1/2), where A is an irrational number to be found.",
       "status": "ready",
       "answer": "A = sqrt(3)/4, so y = e^((sqrt(3)/4) sec x - 1/2).",
@@ -293,6 +523,10 @@
         "Hence (1 + 2 ln y)^2 = 3/(4cos^2 x), and 1 + 2 ln y = (sqrt(3)/2) sec x, taking the positive root since y = 1 gives 1 on the left.",
         "So ln y = (sqrt(3)/4) sec x - 1/2.",
         "Therefore y = e^((sqrt(3)/4) sec x - 1/2), with A = sqrt(3)/4."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-4.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-5.jpg"
       ]
     },
     {
@@ -300,7 +534,16 @@
       "no": "Q7(a)",
       "marks": 7,
       "topic": "Cooling of Car Engine",
-      "keywords": ["cooling", "differential equation", "separation of variables", "initial condition", "temperature", "engine", "show that", "rational function"],
+      "keywords": [
+        "cooling",
+        "differential equation",
+        "separation of variables",
+        "initial condition",
+        "temperature",
+        "engine",
+        "show that",
+        "rational function"
+      ],
       "question": "The temperature theta degrees C of a car engine t minutes after it is turned off satisfies dtheta/dt = -k(theta - 15)^2, where k is a constant. The temperature is 85 C when the engine is turned off and 40 C exactly 10 minutes later. Solve the differential equation to show that theta = (at + b)/(ct + d), where a, b, c and d are integers.",
       "status": "ready",
       "answer": "theta = (135t + 4250)/(9t + 50), so a = 135, b = 4250, c = 9, d = 50.",
@@ -311,6 +554,10 @@
         "At t = 10, theta = 40: 1/25 = 10k + 1/70, so k = 9/3500.",
         "So 1/(theta - 15) = (9t + 50)/3500, giving theta = 15 + 3500/(9t + 50).",
         "Therefore theta = (135t + 4250)/(9t + 50)."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-5.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-6.jpg"
       ]
     },
     {
@@ -318,7 +565,16 @@
       "no": "Q7(b)",
       "marks": 2,
       "topic": "Time to Reach 20 Degrees",
-      "keywords": ["time", "temperature", "reach 20", "solve", "nearest minute", "model", "engine", "substitute"],
+      "keywords": [
+        "time",
+        "temperature",
+        "reach 20",
+        "solve",
+        "nearest minute",
+        "model",
+        "engine",
+        "substitute"
+      ],
       "question": "According to the model, find the time taken for the temperature of the car engine to reach 20 C. Give your answer to the nearest minute.",
       "status": "ready",
       "answer": "t = 650/9, about 72.2 minutes, so 72 minutes to the nearest minute.",
@@ -327,6 +583,10 @@
         "Expand: 135t + 4250 = 180t + 1000.",
         "So 45t = 3250, giving t = 650/9 approximately 72.2.",
         "To the nearest minute, t = 72 minutes."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-5.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-6.jpg"
       ]
     },
     {
@@ -334,7 +594,16 @@
       "no": "Q8(a)",
       "marks": 7,
       "topic": "Bacteria Growth Model",
-      "keywords": ["differential equation", "separation of variables", "bacteria", "area", "initial condition", "reciprocal", "show that", "square"],
+      "keywords": [
+        "differential equation",
+        "separation of variables",
+        "bacteria",
+        "area",
+        "initial condition",
+        "reciprocal",
+        "show that",
+        "square"
+      ],
       "question": "The area A cm^2 of a dish covered by bacteria t days after growth starts is modelled by dA/dt = A^(3/2)/(5t^2), t > 0. Given A = 2.25 when t = 3, show that A = (pt/(qt + r))^2 where p, q and r are integers.",
       "status": "ready",
       "answer": "A = (30t/(19t + 3))^2, so p = 30, q = 19, r = 3.",
@@ -344,6 +613,10 @@
         "At t = 3, A = 2.25 so A^(-1/2) = 2/3: 2/3 = 1/30 + D, so D = 19/30.",
         "So A^(-1/2) = (3 + 19t)/(30t), giving A^(1/2) = 30t/(19t + 3).",
         "Square both sides: A = (30t/(19t + 3))^2."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-6.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-7.jpg"
       ]
     },
     {
@@ -351,7 +624,16 @@
       "no": "Q8(b)",
       "marks": 2,
       "topic": "Limit of Bacteria Area",
-      "keywords": ["limit", "long term", "area", "t tends to infinity", "bacteria", "limiting value", "ratio", "square"],
+      "keywords": [
+        "limit",
+        "long term",
+        "area",
+        "t tends to infinity",
+        "bacteria",
+        "limiting value",
+        "ratio",
+        "square"
+      ],
       "question": "According to the model, there is a limit to the area that will be covered by the bacteria. Find the value of this limit.",
       "status": "ready",
       "answer": "Limit = (30/19)^2 = 900/361 cm^2, about 2.49 cm^2.",
@@ -359,6 +641,10 @@
         "As t tends to infinity, 30t/(19t + 3) tends to 30/19.",
         "So A tends to (30/19)^2.",
         "(30/19)^2 = 900/361, approximately 2.49 cm^2."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-6.jpg",
+        "papers/maths/img/P4-04-Differential-Equations-7.jpg"
       ]
     },
     {
@@ -366,7 +652,16 @@
       "no": "Q9(a)",
       "marks": 8,
       "topic": "Kettle Heating Model",
-      "keywords": ["differential equation", "separation of variables", "exponential", "initial condition", "temperature", "kettle", "water heating", "show that"],
+      "keywords": [
+        "differential equation",
+        "separation of variables",
+        "exponential",
+        "initial condition",
+        "temperature",
+        "kettle",
+        "water heating",
+        "show that"
+      ],
       "question": "Water is heated in a kettle. At time t seconds the temperature is theta C, and d(theta)/dt = lambda(120 - theta) for theta <= 100, where lambda is a positive constant. Given theta = 20 when t = 0, solve the differential equation to show that theta = 120 - 100e^(-lambda t).",
       "status": "ready",
       "answer": "theta = 120 - 100e^(-lambda t).",
@@ -376,6 +671,9 @@
         "At t = 0, theta = 20: -ln(100) = C.",
         "So ln(120 - theta) = ln(100) - lambda t.",
         "Hence 120 - theta = 100e^(-lambda t), so theta = 120 - 100e^(-lambda t)."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-7.jpg"
       ]
     },
     {
@@ -383,7 +681,16 @@
       "no": "Q9(b)",
       "marks": 3,
       "topic": "Time Kettle Switches Off",
-      "keywords": ["time", "kettle", "switch off", "100 degrees", "lambda 0.01", "logarithm", "seconds", "solve"],
+      "keywords": [
+        "time",
+        "kettle",
+        "switch off",
+        "100 degrees",
+        "lambda 0.01",
+        "logarithm",
+        "seconds",
+        "solve"
+      ],
       "question": "When the temperature of the water reaches 100 C the kettle switches off. Given that lambda = 0.01, find the time, to the nearest second, when the kettle switches off.",
       "status": "ready",
       "answer": "t = 100 ln 5, about 161 seconds.",
@@ -392,6 +699,9 @@
         "So 100e^(-0.01t) = 20, giving e^(-0.01t) = 1/5.",
         "Take logs: -0.01t = ln(1/5), so t = 100 ln 5.",
         "t = 100 x 1.6094 = 160.94, so 161 seconds to the nearest second."
+      ],
+      "images": [
+        "papers/maths/img/P4-04-Differential-Equations-7.jpg"
       ]
     }
   ]

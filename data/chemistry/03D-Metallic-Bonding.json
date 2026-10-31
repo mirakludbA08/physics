@@ -9,7 +9,16 @@
       "no": "Q1(a)",
       "marks": 1,
       "topic": "Electron Density Maps",
-      "keywords": ["electron density map", "oxygen molecule", "o2", "double bond", "covalent bond", "electron density", "shared electrons", "diatomic"],
+      "keywords": [
+        "electron density map",
+        "oxygen molecule",
+        "o2",
+        "double bond",
+        "covalent bond",
+        "electron density",
+        "shared electrons",
+        "diatomic"
+      ],
       "question": "Draw an electron density map for a molecule of oxygen (O2).",
       "status": "ready",
       "answer": "Symmetrical map with highest electron density between the two O nuclei (the double bond region), falling away from the nuclei.",
@@ -18,6 +27,12 @@
         "Two O atoms share two pairs of electrons, forming a double bond (O=O).",
         "Electron density is highest in the region between the two nuclei, where the shared pairs sit.",
         "The map is symmetrical about the midpoint of the bond and falls off away from the nuclei."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-01.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-02.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-03.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-04.jpg"
       ]
     },
     {
@@ -25,7 +40,15 @@
       "no": "Q1(b)",
       "marks": 2,
       "topic": "Shape of Water",
-      "keywords": ["water molecule", "h2o", "bent shape", "v-shaped", "bond angle", "electron pair repulsion", "lone pairs"],
+      "keywords": [
+        "water molecule",
+        "h2o",
+        "bent shape",
+        "v-shaped",
+        "bond angle",
+        "electron pair repulsion",
+        "lone pairs"
+      ],
       "question": "Draw a diagram to show the shape of a water (H2O) molecule and give its bond angle.",
       "status": "ready",
       "answer": "Bent (V-shaped) with an H-O-H bond angle of 104.5 deg, with two lone pairs on O shown.",
@@ -34,6 +57,12 @@
         "There are 4 electron pairs around O, arranged tetrahedrally.",
         "Two bonding pairs and two lone pairs give a bent (V-shaped) molecule.",
         "Lone pairs repel more than bonding pairs, so the bond angle is reduced from 109.5 deg to 104.5 deg."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-01.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-02.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-03.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-04.jpg"
       ]
     },
     {
@@ -41,7 +70,16 @@
       "no": "Q1(c)(i)",
       "marks": 2,
       "topic": "Dot and Cross POCl3",
-      "keywords": ["pocl3", "dot and cross", "phosphorus", "oxygen", "chlorine", "double bond", "lone pairs", "outer electrons"],
+      "keywords": [
+        "pocl3",
+        "dot and cross",
+        "phosphorus",
+        "oxygen",
+        "chlorine",
+        "double bond",
+        "lone pairs",
+        "outer electrons"
+      ],
       "question": "Complete the dot-and-cross diagram for POCl3 (crosses for P electrons, dots for Cl electrons, circles for O electrons).",
       "status": "ready",
       "answer": "P central with one double bond to O and three single bonds to Cl; O has 2 lone pairs, each Cl has 3 lone pairs, P has no lone pairs.",
@@ -50,6 +88,12 @@
         "P forms a double bond to O (2 shared pairs) and single bonds to three Cl (3 shared pairs).",
         "Each Cl needs 3 lone pairs (6 electrons) to complete its octet.",
         "O needs 2 lone pairs; P has no lone pairs, so it has 10 electrons around it (expanded octet)."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-01.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-02.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-03.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-04.jpg"
       ]
     },
     {
@@ -57,7 +101,15 @@
       "no": "Q1(c)(ii)",
       "marks": 3,
       "topic": "Shape of POCl3",
-      "keywords": ["pocl3", "electron pair repulsion", "vsepr", "tetrahedral", "bond angle", "double bond", "shape"],
+      "keywords": [
+        "pocl3",
+        "electron pair repulsion",
+        "vsepr",
+        "tetrahedral",
+        "bond angle",
+        "double bond",
+        "shape"
+      ],
       "question": "Explain the shape of the POCl3 molecule using electron-pair repulsion theory.",
       "status": "ready",
       "answer": "Tetrahedral around P with bond angles of about 109.5 deg (no lone pairs on P).",
@@ -66,6 +118,12 @@
         "There are no lone pairs on P.",
         "Electron pairs repel each other and arrange themselves to be as far apart as possible.",
         "Four pairs with no lone pairs give a tetrahedral shape with bond angles of about 109.5 deg."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-01.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-02.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-03.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-04.jpg"
       ]
     },
     {
@@ -73,7 +131,15 @@
       "no": "Q1(d)(i)",
       "marks": 2,
       "topic": "Metallic Bonding Diagram",
-      "keywords": ["metallic bonding", "calcium", "delocalised electrons", "cations", "lattice", "sea of electrons", "labelled diagram"],
+      "keywords": [
+        "metallic bonding",
+        "calcium",
+        "delocalised electrons",
+        "cations",
+        "lattice",
+        "sea of electrons",
+        "labelled diagram"
+      ],
       "question": "Draw a labelled diagram to show the metallic bonding in calcium.",
       "status": "ready",
       "answer": "Regular lattice of Ca2+ ions surrounded by a sea of delocalised electrons, labelled.",
@@ -82,6 +148,12 @@
         "The Ca2+ ions form a regular lattice in the structure.",
         "The delocalised electrons are free to move throughout the whole structure.",
         "Label the diagram with Ca2+ ions and delocalised electrons (sea of electrons)."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-01.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-02.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-03.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-04.jpg"
       ]
     },
     {
@@ -89,7 +161,15 @@
       "no": "Q1(d)(ii)",
       "marks": 3,
       "topic": "Metal Properties Explained",
-      "keywords": ["electrical conductivity", "melting temperature", "malleability", "metallic bonding", "delocalised electrons", "layers slide", "cations"],
+      "keywords": [
+        "electrical conductivity",
+        "melting temperature",
+        "malleability",
+        "metallic bonding",
+        "delocalised electrons",
+        "layers slide",
+        "cations"
+      ],
       "question": "Explain how the electrical conductivity, high melting temperature and malleability of metals depend on their structure and bonding.",
       "status": "ready",
       "answer": "Conductivity: delocalised electrons move and carry charge. High melting point: strong electrostatic attraction between cations and electrons is hard to overcome. Malleability: layers of cations slide without breaking the bonding.",
@@ -98,6 +178,12 @@
         "High melting temperature: the strong electrostatic attraction between cations and delocalised electrons needs a lot of energy to overcome.",
         "Malleability: layers of cations can slide over each other because the electron sea keeps attracting the ions, so bonds are not broken.",
         "Metallic bonding is non-directional, so the structure deforms without fracturing."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-01.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-02.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-03.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-04.jpg"
       ]
     },
     {
@@ -105,7 +191,16 @@
       "no": "Q1(e)(i)",
       "marks": 4,
       "topic": "Diamond and Graphite",
-      "keywords": ["diamond", "graphite", "giant covalent", "delocalised electrons", "hardness", "electrical conductivity", "layers", "van der waals"],
+      "keywords": [
+        "diamond",
+        "graphite",
+        "giant covalent",
+        "delocalised electrons",
+        "hardness",
+        "electrical conductivity",
+        "layers",
+        "van der waals"
+      ],
       "question": "Explain two ways in which the physical properties of diamond and graphite differ, referring to structure and bonding.",
       "status": "ready",
       "answer": "(1) Diamond is very hard, graphite is soft and slippery. (2) Graphite conducts electricity, diamond does not.",
@@ -114,6 +209,12 @@
         "Graphite: each C bonds to 3 others in hexagonal layers; the layers are held by weak van der Waals forces, so they slide and it is soft.",
         "Graphite: each C has one spare electron that is delocalised over the layers, so graphite conducts electricity.",
         "Diamond: all four outer electrons are used in covalent bonds, so there are no delocalised electrons and it does not conduct."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-01.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-02.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-03.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-04.jpg"
       ]
     },
     {
@@ -121,7 +222,15 @@
       "no": "Q1(e)(ii)",
       "marks": 1,
       "topic": "Graphene and Graphite",
-      "keywords": ["graphene", "graphite", "single layer", "layers", "carbon", "hexagonal rings", "structure"],
+      "keywords": [
+        "graphene",
+        "graphite",
+        "single layer",
+        "layers",
+        "carbon",
+        "hexagonal rings",
+        "structure"
+      ],
       "question": "State how the structure of graphene is related to the structure of graphite.",
       "status": "ready",
       "answer": "Graphene is a single layer (one sheet) of the hexagonal carbon structure of graphite.",
@@ -129,6 +238,12 @@
         "Graphite consists of many layers of hexagonal carbon rings held together by weak forces.",
         "Graphene is one of these layers, a single sheet of carbon atoms one atom thick.",
         "So graphene is a single layer of graphite."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-01.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-02.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-03.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-04.jpg"
       ]
     },
     {
@@ -136,7 +251,15 @@
       "no": "Q1(e)(iii)",
       "marks": 2,
       "topic": "Uses of Graphene",
-      "keywords": ["graphene", "use", "electrical conductivity", "delocalised electrons", "electronics", "property", "conductor"],
+      "keywords": [
+        "graphene",
+        "use",
+        "electrical conductivity",
+        "delocalised electrons",
+        "electronics",
+        "property",
+        "conductor"
+      ],
       "question": "State a use for graphene and identify the property that makes it suitable for that use.",
       "status": "ready",
       "answer": "Use: conducting material in electronic devices (e.g. electrodes or touch screens). Property: high electrical conductivity from delocalised electrons. Any valid use linked to this property is accepted.",
@@ -145,6 +268,12 @@
         "These electrons are free to move, so graphene conducts electricity very well.",
         "Use: as a conductor in electronic devices, such as electrodes or touch screens.",
         "Property: high electrical conductivity, which makes it suitable for this use."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-01.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-02.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-03.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-04.jpg"
       ]
     },
     {
@@ -152,7 +281,14 @@
       "no": "Q2",
       "marks": 1,
       "topic": "Definition of Metallic Bonding",
-      "keywords": ["metallic bonding", "definition", "delocalised electrons", "cations", "electrostatic attraction", "multiple choice"],
+      "keywords": [
+        "metallic bonding",
+        "definition",
+        "delocalised electrons",
+        "cations",
+        "electrostatic attraction",
+        "multiple choice"
+      ],
       "question": "Which option correctly completes the definition: metallic bonding is the strong electrostatic attraction between A anions and cations, B atoms and delocalised electrons, C ions and delocalised electrons, D two nuclei and a shared pair of electrons?",
       "status": "ready",
       "answer": "C",
@@ -160,6 +296,9 @@
         "Metallic bonding is the electrostatic attraction between positive metal ions and delocalised electrons.",
         "A describes ionic bonding; B wrongly uses atoms instead of ions; D describes covalent bonding.",
         "So C is correct."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-04.jpg"
       ]
     },
     {
@@ -167,7 +306,14 @@
       "no": "Q3",
       "marks": 1,
       "topic": "Definition of Covalent Bonding",
-      "keywords": ["covalent bonding", "definition", "shared pair", "two nuclei", "electrostatic attraction", "multiple choice"],
+      "keywords": [
+        "covalent bonding",
+        "definition",
+        "shared pair",
+        "two nuclei",
+        "electrostatic attraction",
+        "multiple choice"
+      ],
       "question": "Which option best describes covalent bonding: A oppositely charged ions, B positive ions and delocalised electrons, C a shared pair of electrons, D two nuclei and a shared pair of electrons?",
       "status": "ready",
       "answer": "D",
@@ -175,6 +321,9 @@
         "Covalent bonding is the electrostatic attraction of two nuclei to a shared pair of electrons.",
         "C describes only the shared pair and leaves out the attraction to the nuclei.",
         "So D is correct."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-04.jpg"
       ]
     },
     {
@@ -182,29 +331,62 @@
       "no": "Q4(a)(i)",
       "marks": 2,
       "topic": "Atomic Radius Graph",
-      "keywords": ["atomic radius", "atomic number", "period 3", "graph", "plot", "six elements", "graph plotting"],
+      "keywords": [
+        "atomic radius",
+        "atomic number",
+        "period 3",
+        "graph",
+        "plot",
+        "six elements",
+        "graph plotting"
+      ],
       "question": "Plot a graph of atomic radius against atomic number for six Period 3 elements.",
       "status": "pending",
       "answer": "Pending: the atomic radius values (data table) and graph axes are not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-05.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-06.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-07.jpg"
+      ]
     },
     {
       "id": "Ch3D-Q4a(ii)",
       "no": "Q4(a)(ii)",
       "marks": 1,
       "topic": "Estimating Atomic Radius",
-      "keywords": ["atomic radius", "silicon", "graph", "estimate", "period 3", "atomic number"],
+      "keywords": [
+        "atomic radius",
+        "silicon",
+        "graph",
+        "estimate",
+        "period 3",
+        "atomic number"
+      ],
       "question": "Use the graph of atomic radius against atomic number to estimate the atomic radius of silicon.",
       "status": "pending",
       "answer": "Pending: needs the graph from part (a)(i), which is not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-05.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-06.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-07.jpg"
+      ]
     },
     {
       "id": "Ch3D-Q4a(iii)",
       "no": "Q4(a)(iii)",
       "marks": 3,
       "topic": "Atomic Radius Trend",
-      "keywords": ["atomic radius", "period 3", "nuclear charge", "shielding", "electron shell", "attraction", "decrease across period"],
+      "keywords": [
+        "atomic radius",
+        "period 3",
+        "nuclear charge",
+        "shielding",
+        "electron shell",
+        "attraction",
+        "decrease across period"
+      ],
       "question": "Suggest an explanation for the decrease in atomic radius as atomic number increases across a period.",
       "status": "ready",
       "answer": "Nuclear charge increases while electrons are added to the same shell with similar shielding, so the outer electrons are pulled closer to the nucleus.",
@@ -213,6 +395,11 @@
         "Electrons are added to the same outer shell, so shielding stays about the same.",
         "The increased nuclear charge attracts the outer electrons more strongly.",
         "The outer shell is pulled closer to the nucleus, so the atomic radius decreases."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-05.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-06.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-07.jpg"
       ]
     },
     {
@@ -220,40 +407,87 @@
       "no": "Q4(b)",
       "marks": 6,
       "topic": "Structure and Bonding Table",
-      "keywords": ["melting temperature", "sodium", "sodium chloride", "chlorine", "structure", "bond broken", "particles", "table"],
+      "keywords": [
+        "melting temperature",
+        "sodium",
+        "sodium chloride",
+        "chlorine",
+        "structure",
+        "bond broken",
+        "particles",
+        "table"
+      ],
       "question": "Complete the table giving the type of structure, the type of bond or force broken on melting, and the particles involved for sodium, sodium chloride and chlorine.",
       "status": "pending",
       "answer": "Pending: the table to complete is not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-05.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-06.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-07.jpg"
+      ]
     },
     {
       "id": "Ch3D-Q4c(i)",
       "no": "Q4(c)(i)",
       "marks": 1,
       "topic": "Dot and Cross Ion",
-      "keywords": ["dot and cross", "ion", "phosphorus(v) chloride", "outer shell electrons", "solid", "ionic"],
+      "keywords": [
+        "dot and cross",
+        "ion",
+        "phosphorus(v) chloride",
+        "outer shell electrons",
+        "solid",
+        "ionic"
+      ],
       "question": "Draw a dot-and-cross diagram of an ion from solid phosphorus(V) chloride, showing outer shell electrons only.",
       "status": "pending",
       "answer": "Pending: the name or formula of the ion is blank in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-05.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-06.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-07.jpg"
+      ]
     },
     {
       "id": "Ch3D-Q4c(ii)",
       "no": "Q4(c)(ii)",
       "marks": 3,
       "topic": "Shape of Ion",
-      "keywords": ["shape of ion", "vsepr", "electron pair repulsion", "justify", "phosphorus(v) chloride", "ion"],
+      "keywords": [
+        "shape of ion",
+        "vsepr",
+        "electron pair repulsion",
+        "justify",
+        "phosphorus(v) chloride",
+        "ion"
+      ],
       "question": "Predict the shape of the ion from solid phosphorus(V) chloride and justify your answer.",
       "status": "pending",
       "answer": "Pending: the ion name or formula is blank in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-05.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-06.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-07.jpg"
+      ]
     },
     {
       "id": "Ch3D-Q5",
       "no": "Q5",
       "marks": 1,
       "topic": "Electrical Conductivity",
-      "keywords": ["electrical conductivity", "mercury", "liquid metal", "delocalised electrons", "sf6", "h2o", "na2o", "multiple choice"],
+      "keywords": [
+        "electrical conductivity",
+        "mercury",
+        "liquid metal",
+        "delocalised electrons",
+        "sf6",
+        "h2o",
+        "na2o",
+        "multiple choice"
+      ],
       "question": "Which has the greatest electrical conductivity: A SF6(g), B H2O(l), C Hg(l), D Na2O(s)?",
       "status": "ready",
       "answer": "C (Hg(l))",
@@ -262,6 +496,10 @@
         "SF6 is a gas of simple molecules with no mobile charged particles.",
         "H2O is a molecular liquid with no ions, so it conducts very poorly.",
         "Na2O is ionic but solid, so its ions are fixed in place and it does not conduct."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-07.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-08.jpg"
       ]
     },
     {
@@ -269,29 +507,61 @@
       "no": "Q6(a)",
       "marks": 1,
       "topic": "Metals from Physical Properties",
-      "keywords": ["metals", "physical properties", "substances", "table", "electrical conductivity", "melting temperature", "multiple choice"],
+      "keywords": [
+        "metals",
+        "physical properties",
+        "substances",
+        "table",
+        "electrical conductivity",
+        "melting temperature",
+        "multiple choice"
+      ],
       "question": "Using a table of physical properties of five substances (letters, not element symbols), which could be metals? Options: A N only, B L and M only, C M and N only, D L, M and N only.",
       "status": "pending",
       "answer": "Pending: the table of physical properties is not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-08.jpg"
+      ]
     },
     {
       "id": "Ch3D-Q6b",
       "no": "Q6(b)",
       "marks": 1,
       "topic": "Molecular to Ionic Change",
-      "keywords": ["molecular structure", "ions", "dissolves in water", "physical properties", "solubility", "conductivity", "table", "multiple choice"],
+      "keywords": [
+        "molecular structure",
+        "ions",
+        "dissolves in water",
+        "physical properties",
+        "solubility",
+        "conductivity",
+        "table",
+        "multiple choice"
+      ],
       "question": "Using the table of physical properties, which substance changes from a molecular structure to ions when it dissolves in water? Options: A L, B M, C P, D Q.",
       "status": "pending",
       "answer": "Pending: the table of physical properties is not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-08.jpg"
+      ]
     },
     {
       "id": "Ch3D-Q7a(i)",
       "no": "Q7(a)(i)",
       "marks": 1,
       "topic": "Definition of Metallic Bonding",
-      "keywords": ["metallic bonding", "definition", "cations", "delocalised electrons", "electrostatic attraction", "sodium", "magnesium", "aluminium"],
+      "keywords": [
+        "metallic bonding",
+        "definition",
+        "cations",
+        "delocalised electrons",
+        "electrostatic attraction",
+        "sodium",
+        "magnesium",
+        "aluminium"
+      ],
       "question": "State what is meant by metallic bonding.",
       "status": "ready",
       "answer": "The electrostatic attraction between positive metal ions (cations) and delocalised electrons.",
@@ -299,6 +569,10 @@
         "Metal atoms lose outer electrons to form a lattice of positive ions.",
         "The outer electrons are delocalised and move freely through the lattice.",
         "The electrostatic attraction between the cations and this sea of electrons is metallic bonding."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-09.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-10.jpg"
       ]
     },
     {
@@ -306,7 +580,15 @@
       "no": "Q7(a)(ii)",
       "marks": 3,
       "topic": "Strength of Metallic Bonding",
-      "keywords": ["magnesium", "sodium", "metallic bonding strength", "delocalised electrons", "charge density", "ionic radius", "melting temperature"],
+      "keywords": [
+        "magnesium",
+        "sodium",
+        "metallic bonding strength",
+        "delocalised electrons",
+        "charge density",
+        "ionic radius",
+        "melting temperature"
+      ],
       "question": "Explain why metallic bonding in magnesium is much stronger than in sodium.",
       "status": "ready",
       "answer": "Mg atoms contribute 2 delocalised electrons (Na contributes 1), and Mg2+ is smaller and more highly charged than Na+, giving stronger electrostatic attraction.",
@@ -315,6 +597,10 @@
         "More delocalised electrons give a greater charge density in the electron sea.",
         "Mg2+ is smaller and has a 2+ charge, so its charge density is higher than that of Na+.",
         "The stronger electrostatic attraction needs more energy to break, giving a higher melting temperature."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-09.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-10.jpg"
       ]
     },
     {
@@ -322,7 +608,16 @@
       "no": "Q7(b)(i)",
       "marks": 1,
       "topic": "Covalent Bond Attraction",
-      "keywords": ["covalent bond", "attraction", "shared pair", "nuclei", "silicon", "phosphorus", "sulfur", "chlorine"],
+      "keywords": [
+        "covalent bond",
+        "attraction",
+        "shared pair",
+        "nuclei",
+        "silicon",
+        "phosphorus",
+        "sulfur",
+        "chlorine"
+      ],
       "question": "Describe the attraction between the atoms in a covalent bond.",
       "status": "ready",
       "answer": "Electrostatic attraction between the shared pair of electrons and the positive nuclei of both atoms.",
@@ -330,6 +625,10 @@
         "A covalent bond is a shared pair of electrons between two atoms.",
         "The shared pair is negatively charged and is attracted to the positive nuclei of both atoms.",
         "This electrostatic attraction holds the atoms together."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-09.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-10.jpg"
       ]
     },
     {
@@ -337,7 +636,15 @@
       "no": "Q7(b)(ii)",
       "marks": 3,
       "topic": "Melting Temperature and Structure",
-      "keywords": ["silicon", "phosphorus", "melting temperature", "giant covalent", "simple molecular", "intermolecular forces", "van der waals"],
+      "keywords": [
+        "silicon",
+        "phosphorus",
+        "melting temperature",
+        "giant covalent",
+        "simple molecular",
+        "intermolecular forces",
+        "van der waals"
+      ],
       "question": "Explain why silicon has a much higher melting temperature than phosphorus, by referring to their structures.",
       "status": "ready",
       "answer": "Silicon is a giant covalent lattice, so strong covalent bonds must be broken. Phosphorus is simple molecular, so only weak intermolecular forces need to be overcome.",
@@ -346,6 +653,10 @@
         "Melting silicon requires breaking these strong covalent bonds throughout the lattice, which needs a lot of energy.",
         "Phosphorus has simple molecules (P4) held in a lattice by weak van der Waals forces.",
         "Melting phosphorus only overcomes these weak intermolecular forces, not the covalent bonds, so less energy is needed."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-09.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-10.jpg"
       ]
     },
     {
@@ -353,7 +664,15 @@
       "no": "Q7(c)(i)",
       "marks": 2,
       "topic": "Dot and Cross SCl2",
-      "keywords": ["sulfur dichloride", "scl2", "dot and cross", "lone pairs", "bonding pairs", "outer shell electrons", "covalent"],
+      "keywords": [
+        "sulfur dichloride",
+        "scl2",
+        "dot and cross",
+        "lone pairs",
+        "bonding pairs",
+        "outer shell electrons",
+        "covalent"
+      ],
       "question": "Complete the dot-and-cross diagram of sulfur dichloride (SCl2), using dots for Cl electrons and crosses for S electrons, showing outer shell electrons only.",
       "status": "ready",
       "answer": "S central with two single bonds to Cl; S has 2 lone pairs and each Cl has 3 lone pairs (20 outer electrons in total).",
@@ -362,6 +681,10 @@
         "Form two S-Cl single bonds, using 2 shared pairs.",
         "Each Cl needs 3 lone pairs to complete its octet.",
         "S has 2 lone pairs left, giving it 8 electrons in its outer shell."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-09.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-10.jpg"
       ]
     },
     {
@@ -369,7 +692,15 @@
       "no": "Q7(c)(ii)",
       "marks": 3,
       "topic": "Bond Angle of SCl2",
-      "keywords": ["bond angle", "scl2", "sulfur dichloride", "lone pairs", "electron pair repulsion", "bent shape", "cl-s-cl"],
+      "keywords": [
+        "bond angle",
+        "scl2",
+        "sulfur dichloride",
+        "lone pairs",
+        "electron pair repulsion",
+        "bent shape",
+        "cl-s-cl"
+      ],
       "question": "Suggest a value for the Cl-S-Cl bond angle in SCl2 and justify your answer.",
       "status": "ready",
       "answer": "About 103 deg (any value of about 100 to 107 deg, below 109.5 deg, is accepted), because the two lone pairs on S repel more than bonding pairs.",
@@ -378,6 +709,10 @@
         "The 4 pairs are arranged tetrahedrally, but the molecule is bent because of the two lone pairs.",
         "Lone pairs repel more strongly than bonding pairs, so the Cl-S-Cl angle is less than 109.5 deg.",
         "A suggested value is about 103 deg."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-09.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-10.jpg"
       ]
     },
     {
@@ -385,7 +720,14 @@
       "no": "Q8(a)(i)",
       "marks": 1,
       "topic": "Shape of AlCl3",
-      "keywords": ["aluminium trichloride", "alcl3", "shape", "trigonal planar", "bond angle", "electron pairs"],
+      "keywords": [
+        "aluminium trichloride",
+        "alcl3",
+        "shape",
+        "trigonal planar",
+        "bond angle",
+        "electron pairs"
+      ],
       "question": "State the shape of a molecule of aluminium trichloride, AlCl3.",
       "status": "ready",
       "answer": "Trigonal planar (bond angles of 120 deg).",
@@ -393,6 +735,10 @@
         "Al has 3 bonding pairs and no lone pairs.",
         "The 3 electron pairs repel and move as far apart as possible.",
         "This gives a flat triangle with bond angles of 120 deg: trigonal planar."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-11.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-12.jpg"
       ]
     },
     {
@@ -400,7 +746,15 @@
       "no": "Q8(a)(ii)",
       "marks": 2,
       "topic": "Dimer of AlCl3",
-      "keywords": ["aluminium chloride dimer", "al2cl6", "dative covalent bond", "co-ordinate bond", "chlorine bridge", "lone pair", "diagram"],
+      "keywords": [
+        "aluminium chloride dimer",
+        "al2cl6",
+        "dative covalent bond",
+        "co-ordinate bond",
+        "chlorine bridge",
+        "lone pair",
+        "diagram"
+      ],
       "question": "Draw a diagram of the dimer formed from two AlCl3 molecules, showing the bonding between the two molecules.",
       "status": "ready",
       "answer": "Two AlCl3 units linked by two chlorine bridges (Al2Cl6); each bridging Cl donates a lone pair to the Al of the other unit, forming dative covalent bonds.",
@@ -409,6 +763,10 @@
         "A Cl atom on one molecule donates a lone pair to the Al atom of the other molecule.",
         "This forms a dative (co-ordinate) covalent bond; two such bridges link the two molecules.",
         "Each Al in the dimer is tetrahedral, with 4 bonds."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-11.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-12.jpg"
       ]
     },
     {
@@ -416,7 +774,14 @@
       "no": "Q8(b)",
       "marks": 1,
       "topic": "Reaction of AlCl3 with Water",
-      "keywords": ["aluminium chloride", "water", "aluminium hydroxide", "hydrogen chloride", "equation", "balancing"],
+      "keywords": [
+        "aluminium chloride",
+        "water",
+        "aluminium hydroxide",
+        "hydrogen chloride",
+        "equation",
+        "balancing"
+      ],
       "question": "Write the equation for aluminium trichloride reacting vigorously with water to produce hydrogen chloride and aluminium hydroxide (no state symbols).",
       "status": "ready",
       "answer": "AlCl3 + 3H2O -> Al(OH)3 + 3HCl",
@@ -425,6 +790,10 @@
         "There are 3 Cl in AlCl3, so 3 HCl are formed.",
         "3 HCl need 3 H, so 3 H2O are needed on the left.",
         "Check H: 6 on the left (3 H2O) and 6 on the right (3 HCl + 3 H in Al(OH)3)."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-11.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-12.jpg"
       ]
     },
     {
@@ -432,7 +801,16 @@
       "no": "Q8(c)",
       "marks": 3,
       "topic": "Mass of Precipitate",
-      "keywords": ["aluminium hydroxide", "sodium hydroxide", "moles", "mass", "precipitate", "excess", "mol dm-3", "molar mass"],
+      "keywords": [
+        "aluminium hydroxide",
+        "sodium hydroxide",
+        "moles",
+        "mass",
+        "precipitate",
+        "excess",
+        "mol dm-3",
+        "molar mass"
+      ],
       "question": "Calculate the maximum mass of aluminium hydroxide precipitated when excess AlCl3 reacts with 150 cm3 of 1.5 mol dm-3 NaOH.",
       "status": "ready",
       "answer": "5.85 g (5.9 g to 2 s.f.)",
@@ -441,6 +819,10 @@
         "NaOH is the limiting reagent because AlCl3 is in excess; 3 mol NaOH give 1 mol Al(OH)3.",
         "Moles Al(OH)3 = 0.225 / 3 = 0.075 mol.",
         "Mr Al(OH)3 = 27.0 + 3 x (16.0 + 1.0) = 78.0, so mass = 0.075 x 78.0 = 5.85 g."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-11.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-12.jpg"
       ]
     },
     {
@@ -448,7 +830,15 @@
       "no": "Q8(d)(i)",
       "marks": 3,
       "topic": "Metallic Bonding in Aluminium",
-      "keywords": ["aluminium", "metallic bonding", "delocalised electrons", "al3+", "lattice", "electrostatic attraction", "describe"],
+      "keywords": [
+        "aluminium",
+        "metallic bonding",
+        "delocalised electrons",
+        "al3+",
+        "lattice",
+        "electrostatic attraction",
+        "describe"
+      ],
       "question": "Describe the metallic bonding in aluminium.",
       "status": "ready",
       "answer": "A lattice of Al3+ cations surrounded by a sea of delocalised electrons (3 per atom), held together by strong electrostatic attraction.",
@@ -457,6 +847,10 @@
         "These electrons become delocalised and form a sea of electrons throughout the structure.",
         "The Al3+ cations are arranged in a regular lattice.",
         "Strong electrostatic attraction between the Al3+ cations and the delocalised electrons holds the metal together."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-11.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-12.jpg"
       ]
     },
     {
@@ -464,7 +858,15 @@
       "no": "Q8(d)(ii)",
       "marks": 2,
       "topic": "Conductivity and Malleability of Aluminium",
-      "keywords": ["aluminium", "electrical conductivity", "malleability", "delocalised electrons", "layers", "sliding", "metallic bonding"],
+      "keywords": [
+        "aluminium",
+        "electrical conductivity",
+        "malleability",
+        "delocalised electrons",
+        "layers",
+        "sliding",
+        "metallic bonding"
+      ],
       "question": "Explain how metallic bonding leads to the electrical conductivity and malleability of aluminium.",
       "status": "ready",
       "answer": "Delocalised electrons move through the structure and carry charge; layers of cations can slide over each other while the electron sea keeps them bonded.",
@@ -472,6 +874,10 @@
         "Delocalised electrons are free to move, so they carry charge through aluminium when a voltage is applied.",
         "Metallic bonds are non-directional, so layers of Al3+ ions can slide over each other.",
         "The delocalised electrons keep attracting the ions after sliding, so the bonding is not broken and the metal is malleable."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-11.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-12.jpg"
       ]
     },
     {
@@ -479,7 +885,15 @@
       "no": "Q9",
       "marks": 1,
       "topic": "Melting Temperature Explanation",
-      "keywords": ["beryllium", "barium", "melting temperature", "charge density", "ionic size", "metallic bonding", "multiple choice"],
+      "keywords": [
+        "beryllium",
+        "barium",
+        "melting temperature",
+        "charge density",
+        "ionic size",
+        "metallic bonding",
+        "multiple choice"
+      ],
       "question": "Which is the best explanation for beryllium having a greater melting temperature than barium? A beryllium ions are smaller than barium ions, B beryllium atoms have fewer outer shell electrons than barium atoms, C beryllium ions have a smaller charge density than barium ions, D beryllium atoms have a higher electronegativity than barium atoms.",
       "status": "ready",
       "answer": "A",
@@ -488,6 +902,9 @@
         "Higher charge density gives stronger metallic bonding between the cations and delocalised electrons, so a higher melting temperature.",
         "B is wrong: both Be and Ba atoms have 2 outer shell electrons.",
         "C is wrong: Be2+ has a larger charge density, not a smaller one; D does not explain melting temperature."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-12.jpg"
       ]
     },
     {
@@ -495,7 +912,15 @@
       "no": "Q10(a)",
       "marks": 1,
       "topic": "Dot and Cross MgCl2",
-      "keywords": ["magnesium chloride", "dot and cross", "ionic bonding", "electron transfer", "mg2+", "cl-", "outer shell electrons"],
+      "keywords": [
+        "magnesium chloride",
+        "dot and cross",
+        "ionic bonding",
+        "electron transfer",
+        "mg2+",
+        "cl-",
+        "outer shell electrons"
+      ],
       "question": "Draw a dot-and-cross diagram for magnesium chloride, showing outer shell electrons only.",
       "status": "ready",
       "answer": "Mg2+ with no outer electrons, and two [Cl]- ions in brackets each with 8 outer electrons and a 1- charge.",
@@ -504,6 +929,11 @@
         "Each Cl atom gains 1 electron to become Cl- with 8 outer electrons.",
         "The 2 electrons from Mg are transferred, one to each Cl atom.",
         "Draw the two Cl- ions in brackets with 1- charges and Mg2+ with a 2+ charge."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-13.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-14.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-15.jpg"
       ]
     },
     {
@@ -511,7 +941,16 @@
       "no": "Q10(b)",
       "marks": 3,
       "topic": "Electrical Conductivity Explained",
-      "keywords": ["magnesium", "magnesium chloride", "electrical conductivity", "delocalised electrons", "mobile ions", "solid state", "molten", "dissolved"],
+      "keywords": [
+        "magnesium",
+        "magnesium chloride",
+        "electrical conductivity",
+        "delocalised electrons",
+        "mobile ions",
+        "solid state",
+        "molten",
+        "dissolved"
+      ],
       "question": "Explain why magnesium conducts when solid, but magnesium chloride conducts only when molten or dissolved and not when solid.",
       "status": "ready",
       "answer": "Mg has delocalised electrons that are free to move. In solid MgCl2 the ions are fixed in a lattice, but when molten or dissolved the ions are free to move and carry charge.",
@@ -519,6 +958,11 @@
         "Solid magnesium has delocalised electrons that are free to move through the lattice and carry charge.",
         "Solid magnesium chloride has ions held in fixed positions in a lattice, so there are no mobile charge carriers.",
         "When molten or dissolved, the Mg2+ and Cl- ions are free to move and carry charge."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-13.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-14.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-15.jpg"
       ]
     },
     {
@@ -526,7 +970,15 @@
       "no": "Q10(c)(i)",
       "marks": 1,
       "topic": "Ionic Equation",
-      "keywords": ["ionic equation", "state symbols", "magnesium oxide", "hydrochloric acid", "mgo", "hydrogen ions", "spectator ions"],
+      "keywords": [
+        "ionic equation",
+        "state symbols",
+        "magnesium oxide",
+        "hydrochloric acid",
+        "mgo",
+        "hydrogen ions",
+        "spectator ions"
+      ],
       "question": "Write the ionic equation, including state symbols, for MgO(s) + 2HCl(aq) -> MgCl2(aq) + H2O(l).",
       "status": "ready",
       "answer": "MgO(s) + 2H+(aq) -> Mg2+(aq) + H2O(l)",
@@ -534,6 +986,11 @@
         "HCl and MgCl2 are strong electrolytes in aqueous solution, so they are written as ions.",
         "Cl- is a spectator ion and is cancelled from both sides.",
         "MgO(s) and H2O(l) remain as written because they are solid and liquid."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-13.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-14.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-15.jpg"
       ]
     },
     {
@@ -541,7 +998,16 @@
       "no": "Q10(c)(ii)",
       "marks": 3,
       "topic": "Volume of Hydrochloric Acid",
-      "keywords": ["magnesium oxide", "hydrochloric acid", "volume", "moles", "molar mass", "concentration", "mol dm-3", "cm3"],
+      "keywords": [
+        "magnesium oxide",
+        "hydrochloric acid",
+        "volume",
+        "moles",
+        "molar mass",
+        "concentration",
+        "mol dm-3",
+        "cm3"
+      ],
       "question": "Calculate the minimum volume of 2.00 mol dm-3 hydrochloric acid needed to react completely with 2.45 g of magnesium oxide.",
       "status": "ready",
       "answer": "60.8 cm3",
@@ -550,6 +1016,11 @@
         "From MgO + 2HCl, moles HCl = 2 x 0.06079 = 0.1216 mol.",
         "Volume = moles / concentration = 0.1216 / 2.00 = 0.06079 dm3.",
         "Convert to cm3: 0.06079 x 1000 = 60.8 cm3."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-13.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-14.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-15.jpg"
       ]
     },
     {
@@ -557,7 +1028,15 @@
       "no": "Q10(d)",
       "marks": 2,
       "topic": "Mass of Magnesium Chloride",
-      "keywords": ["magnesium carbonate", "magnesium chloride", "maximum mass", "molar mass", "moles", "excess acid", "mgco3"],
+      "keywords": [
+        "magnesium carbonate",
+        "magnesium chloride",
+        "maximum mass",
+        "molar mass",
+        "moles",
+        "excess acid",
+        "mgco3"
+      ],
       "question": "Calculate the maximum mass of magnesium chloride formed when 2.25 g of magnesium carbonate is added to excess dilute hydrochloric acid.",
       "status": "ready",
       "answer": "2.54 g",
@@ -566,6 +1045,11 @@
         "The mole ratio MgCO3 : MgCl2 is 1 : 1, and the acid is in excess, so moles MgCl2 = 0.02669 mol.",
         "Mr MgCl2 = 24.3 + 2 x 35.5 = 95.3.",
         "Mass = 0.02669 x 95.3 = 2.54 g."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-13.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-14.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-15.jpg"
       ]
     },
     {
@@ -573,7 +1057,15 @@
       "no": "Q10(e)",
       "marks": 2,
       "topic": "Atom Economy Comparison",
-      "keywords": ["atom economy", "magnesium oxide", "magnesium carbonate", "by-product", "carbon dioxide", "desired product", "waste"],
+      "keywords": [
+        "atom economy",
+        "magnesium oxide",
+        "magnesium carbonate",
+        "by-product",
+        "carbon dioxide",
+        "desired product",
+        "waste"
+      ],
       "question": "Explain, without calculation, why making magnesium chloride from magnesium oxide has a higher atom economy than making it from magnesium carbonate.",
       "status": "ready",
       "answer": "The magnesium carbonate route also produces CO2 as a waste by-product, so a smaller proportion of the reactant mass ends up in the desired MgCl2.",
@@ -582,6 +1074,11 @@
         "The magnesium oxide route produces only water as a by-product.",
         "The carbonate route produces an extra CO2 by-product (Mr 44) as well as water.",
         "More of the reactant mass is wasted in the carbonate route, so its atom economy is lower."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-13.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-14.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-15.jpg"
       ]
     },
     {
@@ -589,29 +1086,60 @@
       "no": "Q11",
       "marks": 1,
       "topic": "Bonding and Properties Table",
-      "keywords": ["bonding", "properties", "table", "row", "structure", "type of bonding", "multiple choice"],
+      "keywords": [
+        "bonding",
+        "properties",
+        "table",
+        "row",
+        "structure",
+        "type of bonding",
+        "multiple choice"
+      ],
       "question": "Which row of the table shows properties consistent with the type of bonding shown?",
       "status": "pending",
       "answer": "Pending: the table of properties and the bonding diagram are not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-15.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-16.jpg"
+      ]
     },
     {
       "id": "Ch3D-Q12",
       "no": "Q12",
       "marks": 1,
       "topic": "Bonding and Structure Options",
-      "keywords": ["bonding", "structure", "substance", "correct bonding", "multiple choice"],
+      "keywords": [
+        "bonding",
+        "structure",
+        "substance",
+        "correct bonding",
+        "multiple choice"
+      ],
       "question": "Which are the correct bonding and structure for one of the substances listed?",
       "status": "pending",
       "answer": "Pending: the substances and answer options are not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-15.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-16.jpg"
+      ]
     },
     {
       "id": "Ch3D-Q13a",
       "no": "Q13(a)",
       "marks": 2,
       "topic": "Decomposition of Silver Chloride",
-      "keywords": ["silver chloride", "decomposition", "light", "photographic", "equation", "state symbols", "silver", "chlorine"],
+      "keywords": [
+        "silver chloride",
+        "decomposition",
+        "light",
+        "photographic",
+        "equation",
+        "state symbols",
+        "silver",
+        "chlorine"
+      ],
       "question": "Write an equation, including state symbols, for the decomposition of silver chloride in light.",
       "status": "ready",
       "answer": "2AgCl(s) -> 2Ag(s) + Cl2(g)",
@@ -619,6 +1147,10 @@
         "Silver chloride decomposes into silver metal and chlorine gas.",
         "Balance: 2 AgCl gives 2 Ag and 1 Cl2 (2 Cl atoms).",
         "Ag and AgCl are solids (s); chlorine is a gas (g)."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-16.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg"
       ]
     },
     {
@@ -626,7 +1158,15 @@
       "no": "Q13(b)(i)",
       "marks": 2,
       "topic": "Displacement Observations",
-      "keywords": ["copper", "silver nitrate", "displacement", "observations", "silver", "blue solution", "colour change"],
+      "keywords": [
+        "copper",
+        "silver nitrate",
+        "displacement",
+        "observations",
+        "silver",
+        "blue solution",
+        "colour change"
+      ],
       "question": "State two observations made when copper metal is added to silver nitrate solution.",
       "status": "ready",
       "answer": "A grey (silver-coloured) solid is deposited on the copper; the colourless solution turns blue.",
@@ -634,6 +1174,10 @@
         "Copper is more reactive than silver, so it displaces silver from solution.",
         "Silver metal is deposited as a grey solid on the copper.",
         "Cu2+ ions form in solution, turning it blue."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-16.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg"
       ]
     },
     {
@@ -641,7 +1185,15 @@
       "no": "Q13(b)(ii)",
       "marks": 2,
       "topic": "Displacement Equation",
-      "keywords": ["copper", "silver", "displacement equation", "state symbols", "silver nitrate", "copper nitrate", "ionic equation"],
+      "keywords": [
+        "copper",
+        "silver",
+        "displacement equation",
+        "state symbols",
+        "silver nitrate",
+        "copper nitrate",
+        "ionic equation"
+      ],
       "question": "Write an equation, including state symbols, for the displacement reaction between copper and silver nitrate.",
       "status": "ready",
       "answer": "Cu(s) + 2AgNO3(aq) -> Cu(NO3)2(aq) + 2Ag(s)",
@@ -650,6 +1202,10 @@
         "Copper(II) has a 2+ charge, so 2 Ag+ ions are reduced for each Cu atom.",
         "Balance: Cu + 2AgNO3 gives Cu(NO3)2 + 2Ag.",
         "Add state symbols: Cu(s), AgNO3(aq), Cu(NO3)2(aq), Ag(s)."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-16.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg"
       ]
     },
     {
@@ -657,7 +1213,15 @@
       "no": "Q13(c)(i)",
       "marks": 3,
       "topic": "Bonding in Pure Silver",
-      "keywords": ["silver", "metallic bonding", "delocalised electrons", "2d diagram", "lattice", "ag+", "cations"],
+      "keywords": [
+        "silver",
+        "metallic bonding",
+        "delocalised electrons",
+        "2d diagram",
+        "lattice",
+        "ag+",
+        "cations"
+      ],
       "question": "Describe the bonding in pure silver metal, including a 2D diagram showing 12 silver particles.",
       "status": "ready",
       "answer": "Metallic bonding: a regular lattice of Ag+ cations surrounded by a sea of delocalised electrons (one per atom), held together by electrostatic attraction. 2D diagram: 12 Ag+ ions in a regular arrangement with electrons between them.",
@@ -666,6 +1230,10 @@
         "The delocalised electrons are free to move throughout the lattice.",
         "The electrostatic attraction between the Ag+ cations and the delocalised electrons is metallic bonding.",
         "The 2D diagram shows 12 Ag+ ions in a regular close-packed arrangement, with the delocalised electrons shown between them."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-16.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg"
       ]
     },
     {
@@ -673,7 +1241,16 @@
       "no": "Q13(c)(ii)",
       "marks": 2,
       "topic": "Alloys and Malleability",
-      "keywords": ["alloy", "copper", "silver", "malleability", "layers", "distortion", "sliding", "lattice"],
+      "keywords": [
+        "alloy",
+        "copper",
+        "silver",
+        "malleability",
+        "layers",
+        "distortion",
+        "sliding",
+        "lattice"
+      ],
       "question": "Explain why adding copper to silver makes the alloy less malleable.",
       "status": "ready",
       "answer": "Copper atoms are a different size from silver atoms, so they distort the regular layers of the lattice and the layers cannot slide over each other easily.",
@@ -682,6 +1259,10 @@
         "Copper atoms are a different size from silver atoms.",
         "This distorts the regular layers, so they cannot slide as easily.",
         "The alloy is therefore harder and less malleable than pure silver."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-16.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg"
       ]
     },
     {
@@ -689,18 +1270,40 @@
       "no": "Q14(a)(i)",
       "marks": 4,
       "topic": "Isotope Relative Abundance",
-      "keywords": ["relative atomic mass", "isotopes", "magnesium", "relative abundance", "mass number", "calculation", "24.32"],
+      "keywords": [
+        "relative atomic mass",
+        "isotopes",
+        "magnesium",
+        "relative abundance",
+        "mass number",
+        "calculation",
+        "24.32"
+      ],
       "question": "Calculate the relative abundance and mass number of the third magnesium isotope, given relative atomic mass 24.32 and a table of two isotopes' abundances.",
       "status": "pending",
       "answer": "Pending: the table of relative abundances is not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
+      ]
     },
     {
       "id": "Ch3D-Q14a(ii)",
       "no": "Q14(a)(ii)",
       "marks": 1,
       "topic": "Similarities of Isotopes",
-      "keywords": ["isotopes", "similarity", "difference", "neutrons", "protons", "chemical properties", "mass number"],
+      "keywords": [
+        "isotopes",
+        "similarity",
+        "difference",
+        "neutrons",
+        "protons",
+        "chemical properties",
+        "mass number"
+      ],
       "question": "State one similarity and one difference between these isotopes of magnesium.",
       "status": "ready",
       "answer": "Similarity: same number of protons (and electrons), so same chemical properties. Difference: different number of neutrons, so different mass number.",
@@ -708,6 +1311,12 @@
         "Isotopes of an element have the same atomic number (same number of protons).",
         "They have the same electron arrangement, so they have the same chemical properties.",
         "They differ in their number of neutrons, so their mass numbers differ."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
       ]
     },
     {
@@ -715,18 +1324,40 @@
       "no": "Q14(a)(iii)",
       "marks": 1,
       "topic": "Mass Spectrometer Deflection",
-      "keywords": ["mass spectrometer", "deflection", "isotopes", "mass to charge ratio", "lightest", "magnesium", "justify"],
+      "keywords": [
+        "mass spectrometer",
+        "deflection",
+        "isotopes",
+        "mass to charge ratio",
+        "lightest",
+        "magnesium",
+        "justify"
+      ],
       "question": "State which magnesium isotope would be deflected most in a mass spectrometer, and justify your answer.",
       "status": "pending",
       "answer": "Pending: the answer depends on the mass numbers of the isotopes, which come from the table and part (a)(i), not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
+      ]
     },
     {
       "id": "Ch3D-Q14b(i)",
       "no": "Q14(b)(i)",
       "marks": 2,
       "topic": "Dot and Cross MgO",
-      "keywords": ["magnesium oxide", "dot and cross", "ionic bonding", "electron transfer", "mg2+", "o2-", "outer electrons"],
+      "keywords": [
+        "magnesium oxide",
+        "dot and cross",
+        "ionic bonding",
+        "electron transfer",
+        "mg2+",
+        "o2-",
+        "outer electrons"
+      ],
       "question": "Draw a dot-and-cross diagram to show the bonding in magnesium oxide, showing outer electrons only.",
       "status": "ready",
       "answer": "Mg2+ with no outer electrons and [O]2- in brackets with 8 outer electrons, showing 2 electrons transferred from Mg to O.",
@@ -735,6 +1366,12 @@
         "O (Group 6) gains 2 electrons to form O2- with a full outer shell of 8 electrons.",
         "Mg2+ has no outer electrons, so show it with a 2+ charge.",
         "Draw O2- in brackets with a 2- charge."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
       ]
     },
     {
@@ -742,7 +1379,15 @@
       "no": "Q14(b)(ii)",
       "marks": 2,
       "topic": "Melting Temperature of Ionic Compounds",
-      "keywords": ["magnesium oxide", "magnesium sulfate", "melting temperature", "ionic lattice", "ionic radius", "charge density", "electrostatic attraction"],
+      "keywords": [
+        "magnesium oxide",
+        "magnesium sulfate",
+        "melting temperature",
+        "ionic lattice",
+        "ionic radius",
+        "charge density",
+        "electrostatic attraction"
+      ],
       "question": "Explain why the melting temperature of magnesium oxide (2852 deg C) is significantly higher than that of magnesium sulfate (1124 deg C).",
       "status": "ready",
       "answer": "O2- is much smaller than the sulfate ion, so Mg2+ and O2- are closer together, giving stronger electrostatic attraction in the lattice that needs more energy to break.",
@@ -751,6 +1396,12 @@
         "O2- is much smaller than the sulfate ion SO4 2-, so the Mg2+ and O2- ions are closer together.",
         "The shorter distance gives a stronger electrostatic attraction between the oppositely charged ions.",
         "More energy is needed to break the stronger lattice, so MgO melts at a higher temperature."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
       ]
     },
     {
@@ -758,18 +1409,41 @@
       "no": "Q14(c)",
       "marks": 2,
       "topic": "Conductivity of Mg and MgO",
-      "keywords": ["magnesium", "magnesium oxide", "electrical conductivity", "delocalised electrons", "ions", "table", "similarities", "differences"],
+      "keywords": [
+        "magnesium",
+        "magnesium oxide",
+        "electrical conductivity",
+        "delocalised electrons",
+        "ions",
+        "table",
+        "similarities",
+        "differences"
+      ],
       "question": "Explain the similarities and differences in the electrical conductivity of magnesium and magnesium oxide, using the table of conductivity data.",
       "status": "pending",
       "answer": "Pending: the conductivity data table is not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
+      ]
     },
     {
       "id": "Ch3D-Q14d(i)",
       "no": "Q14(d)(i)",
       "marks": 2,
       "topic": "Magnesium and Sulfuric Acid Equation",
-      "keywords": ["magnesium", "sulfuric acid", "equation", "state symbols", "magnesium sulfate", "hydrogen", "displacement"],
+      "keywords": [
+        "magnesium",
+        "sulfuric acid",
+        "equation",
+        "state symbols",
+        "magnesium sulfate",
+        "hydrogen",
+        "displacement"
+      ],
       "question": "Write an equation, including state symbols, for the reaction of magnesium with dilute sulfuric acid.",
       "status": "ready",
       "answer": "Mg(s) + H2SO4(aq) -> MgSO4(aq) + H2(g)",
@@ -777,6 +1451,12 @@
         "Magnesium reacts with the acid to form a salt (magnesium sulfate) and hydrogen.",
         "Magnesium sulfate is soluble, so it is (aq); hydrogen is a gas, so it is (g).",
         "Magnesium is a solid (s), and the equation balances with 1 Mg and 1 H2SO4."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
       ]
     },
     {
@@ -784,7 +1464,16 @@
       "no": "Q14(d)(ii)",
       "marks": 2,
       "topic": "Observations of the Reaction",
-      "keywords": ["magnesium", "sulfuric acid", "observations", "effervescence", "bubbles", "hydrogen", "exothermic", "solid dissolves"],
+      "keywords": [
+        "magnesium",
+        "sulfuric acid",
+        "observations",
+        "effervescence",
+        "bubbles",
+        "hydrogen",
+        "exothermic",
+        "solid dissolves"
+      ],
       "question": "Give two observations made while magnesium reacts with dilute sulfuric acid.",
       "status": "ready",
       "answer": "Bubbles (fizzing) of hydrogen gas are seen, and the magnesium solid dissolves and disappears (the mixture also becomes warm).",
@@ -793,6 +1482,12 @@
         "The hydrogen escapes as bubbles, so the mixture fizzes.",
         "The solid magnesium gradually dissolves and disappears.",
         "The reaction is exothermic, so the mixture becomes warm."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
       ]
     },
     {
@@ -800,13 +1495,26 @@
       "no": "Q14(e)(i)",
       "marks": 1,
       "topic": "Moles of Sulfuric Acid",
-      "keywords": ["sulfuric acid", "moles", "concentration", "volume", "dm3", "mol dm-3"],
+      "keywords": [
+        "sulfuric acid",
+        "moles",
+        "concentration",
+        "volume",
+        "dm3",
+        "mol dm-3"
+      ],
       "question": "Calculate the number of moles of sulfuric acid in 30.0 cm3 of 0.500 mol dm-3 sulfuric acid.",
       "status": "ready",
       "answer": "0.0150 mol",
       "steps": [
         "Convert the volume: 30.0 cm3 = 0.0300 dm3.",
         "Moles = concentration x volume = 0.500 x 0.0300 = 0.0150 mol."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
       ]
     },
     {
@@ -814,7 +1522,16 @@
       "no": "Q14(e)(ii)",
       "marks": 1,
       "topic": "Mass of Magnesium",
-      "keywords": ["magnesium", "mass", "moles", "molar mass", "ar 24.3", "sulfuric acid", "stoichiometry", "mole ratio"],
+      "keywords": [
+        "magnesium",
+        "mass",
+        "moles",
+        "molar mass",
+        "ar 24.3",
+        "sulfuric acid",
+        "stoichiometry",
+        "mole ratio"
+      ],
       "question": "Calculate the mass of magnesium needed to react with the sulfuric acid in part (e)(i).",
       "status": "ready",
       "answer": "0.36 g (0.3645 g)",
@@ -822,6 +1539,12 @@
         "Mg + H2SO4 has a 1 : 1 mole ratio, so moles Mg = 0.0150 mol.",
         "Mass = moles x Ar = 0.0150 x 24.3 = 0.3645 g.",
         "To 2 significant figures, the mass is 0.36 g."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
       ]
     },
     {
@@ -829,13 +1552,26 @@
       "no": "Q14(e)(iii)",
       "marks": 1,
       "topic": "Excess Magnesium",
-      "keywords": ["excess magnesium", "limiting reagent", "complete reaction", "sulfuric acid", "yield", "reason"],
+      "keywords": [
+        "excess magnesium",
+        "limiting reagent",
+        "complete reaction",
+        "sulfuric acid",
+        "yield",
+        "reason"
+      ],
       "question": "Give a reason why slightly more than this mass of magnesium was used.",
       "status": "ready",
       "answer": "To make sure all the sulfuric acid reacts (the acid is the limiting reagent), so the reaction goes to completion.",
       "steps": [
         "Excess magnesium ensures that all the sulfuric acid is used up.",
         "This maximises the amount of magnesium sulfate formed."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
       ]
     },
     {
@@ -843,13 +1579,26 @@
       "no": "Q14(e)(iv)",
       "marks": 1,
       "topic": "Separating the Mixture",
-      "keywords": ["filtration", "separation", "magnesium sulfate solution", "excess magnesium", "insoluble", "mixture"],
+      "keywords": [
+        "filtration",
+        "separation",
+        "magnesium sulfate solution",
+        "excess magnesium",
+        "insoluble",
+        "mixture"
+      ],
       "question": "State how the magnesium sulfate solution could be separated from the mixture produced in this experiment.",
       "status": "ready",
       "answer": "Filtration, to remove the excess insoluble magnesium.",
       "steps": [
         "Excess magnesium is an insoluble solid left in the mixture.",
         "Filtration passes the solution through filter paper, leaving the solid behind."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
       ]
     },
     {
@@ -857,7 +1606,14 @@
       "no": "Q14(e)(v)",
       "marks": 2,
       "topic": "Percentage Yield",
-      "keywords": ["percentage yield", "magnesium sulfate heptahydrate", "mr 246.4", "actual yield", "theoretical yield", "mole ratio"],
+      "keywords": [
+        "percentage yield",
+        "magnesium sulfate heptahydrate",
+        "mr 246.4",
+        "actual yield",
+        "theoretical yield",
+        "mole ratio"
+      ],
       "question": "The mass of hydrated MgSO4.7H2O crystals obtained was 2.78 g. Calculate the percentage yield.",
       "status": "ready",
       "answer": "75.2%",
@@ -866,6 +1622,12 @@
         "Theoretical mass = 0.0150 x 246.4 = 3.696 g.",
         "Percentage yield = actual / theoretical x 100 = 2.78 / 3.696 x 100.",
         "Percentage yield = 75.2%."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
       ]
     },
     {
@@ -873,7 +1635,15 @@
       "no": "Q15(a)(i)",
       "marks": 1,
       "topic": "Definition of Ionic Bonding",
-      "keywords": ["ionic bonding", "definition", "electrostatic attraction", "cations", "anions", "metal", "non-metal"],
+      "keywords": [
+        "ionic bonding",
+        "definition",
+        "electrostatic attraction",
+        "cations",
+        "anions",
+        "metal",
+        "non-metal"
+      ],
       "question": "Describe ionic bonding.",
       "status": "ready",
       "answer": "Electrostatic attraction between oppositely charged ions (metal cations and non-metal anions).",
@@ -881,6 +1651,12 @@
         "Metal atoms lose electrons to form positive cations; non-metal atoms gain electrons to form negative anions.",
         "Oppositely charged ions attract each other strongly by electrostatic forces.",
         "This electrostatic attraction is ionic bonding."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-21.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-22.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-23.jpg"
       ]
     },
     {
@@ -888,7 +1664,15 @@
       "no": "Q15(a)(ii)",
       "marks": 2,
       "topic": "Strength of Ionic Bonding",
-      "keywords": ["magnesium fluoride", "sodium fluoride", "ionic bonding", "charge density", "ionic radius", "electrostatic attraction", "stronger"],
+      "keywords": [
+        "magnesium fluoride",
+        "sodium fluoride",
+        "ionic bonding",
+        "charge density",
+        "ionic radius",
+        "electrostatic attraction",
+        "stronger"
+      ],
       "question": "Explain why the ionic bonding in magnesium fluoride might be expected to be stronger than in sodium fluoride.",
       "status": "ready",
       "answer": "Mg2+ has a higher charge (2+ compared with 1+) and a smaller radius, giving a higher charge density and stronger electrostatic attraction to F-.",
@@ -896,6 +1680,12 @@
         "Mg2+ has a 2+ charge; Na+ has only a 1+ charge.",
         "Mg2+ is also smaller, so the ions are closer together.",
         "Higher charge density gives a stronger electrostatic attraction between Mg2+ and F- than between Na+ and F-."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-21.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-22.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-23.jpg"
       ]
     },
     {
@@ -903,7 +1693,15 @@
       "no": "Q15(a)(iii)",
       "marks": 2,
       "topic": "Dot and Cross Sodium Oxide",
-      "keywords": ["sodium oxide", "dot and cross", "ionic", "ions", "na+", "o2-", "outer electrons"],
+      "keywords": [
+        "sodium oxide",
+        "dot and cross",
+        "ionic",
+        "ions",
+        "na+",
+        "o2-",
+        "outer electrons"
+      ],
       "question": "Draw a dot-and-cross diagram showing the ions present in sodium oxide (Na2O).",
       "status": "ready",
       "answer": "Two Na+ ions with no outer electrons and one [O]2- ion in brackets with 8 outer electrons and a 2- charge.",
@@ -911,6 +1709,12 @@
         "Each Na atom gives 1 electron, forming 2 Na+ ions.",
         "O gains 2 electrons to form O2- with 8 outer electrons.",
         "Show O2- in brackets with a 2- charge and each Na+ with a + charge."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-21.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-22.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-23.jpg"
       ]
     },
     {
@@ -918,7 +1722,15 @@
       "no": "Q15(a)(iv)",
       "marks": 2,
       "topic": "Ionic Lattice of Sodium Chloride",
-      "keywords": ["sodium chloride", "ionic lattice", "na+", "cl-", "cubic", "giant ionic structure", "alternating ions"],
+      "keywords": [
+        "sodium chloride",
+        "ionic lattice",
+        "na+",
+        "cl-",
+        "cubic",
+        "giant ionic structure",
+        "alternating ions"
+      ],
       "question": "Draw the ionic lattice for sodium chloride showing at least nine ions.",
       "status": "ready",
       "answer": "A regular cubic lattice of alternating Na+ and Cl- ions, each ion surrounded by six oppositely charged ions.",
@@ -926,6 +1738,12 @@
         "Na+ and Cl- ions alternate in all three directions.",
         "Each ion is surrounded by six oppositely charged neighbours.",
         "Show at least nine ions in a 3 x 3 arrangement, with Na+ and Cl- alternating."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-21.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-22.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-23.jpg"
       ]
     },
     {
@@ -933,7 +1751,14 @@
       "no": "Q15(b)(i)",
       "marks": 1,
       "topic": "Definition of Covalent Bonding",
-      "keywords": ["covalent bonding", "shared pair", "electrostatic attraction", "nuclei", "non-metals", "definition"],
+      "keywords": [
+        "covalent bonding",
+        "shared pair",
+        "electrostatic attraction",
+        "nuclei",
+        "non-metals",
+        "definition"
+      ],
       "question": "Describe covalent bonding.",
       "status": "ready",
       "answer": "Electrostatic attraction between a shared pair of electrons and the positive nuclei of the two bonded atoms.",
@@ -941,6 +1766,12 @@
         "Non-metal atoms share one or more pairs of electrons.",
         "The shared electrons are attracted to both positive nuclei.",
         "This electrostatic attraction holds the atoms together."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-21.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-22.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-23.jpg"
       ]
     },
     {
@@ -948,7 +1779,16 @@
       "no": "Q15(b)(ii)",
       "marks": 3,
       "topic": "Dot and Cross Covalent Molecules",
-      "keywords": ["methane", "ammonia", "water", "dot and cross", "covalent", "lone pairs", "bonding pairs", "outer electrons"],
+      "keywords": [
+        "methane",
+        "ammonia",
+        "water",
+        "dot and cross",
+        "covalent",
+        "lone pairs",
+        "bonding pairs",
+        "outer electrons"
+      ],
       "question": "Draw dot-and-cross diagrams for the molecules of methane (CH4), ammonia (NH3) and water (H2O).",
       "status": "ready",
       "answer": "CH4: C with 4 shared pairs to H and no lone pairs. NH3: N with 3 shared pairs to H and 1 lone pair. H2O: O with 2 shared pairs to H and 2 lone pairs.",
@@ -957,6 +1797,12 @@
         "NH3: N has 5 outer electrons; 3 are shared with H, leaving 1 lone pair.",
         "H2O: O has 6 outer electrons; 2 are shared with H, leaving 2 lone pairs.",
         "Each H shares its one electron with the central atom, giving one shared pair per bond."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-21.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-22.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-23.jpg"
       ]
     },
     {
@@ -964,18 +1810,41 @@
       "no": "Q15(b)(iii)",
       "marks": 3,
       "topic": "Shapes of Molecules",
-      "keywords": ["methane", "ammonia", "water", "molecular shape", "bond angle", "table", "lone pairs"],
+      "keywords": [
+        "methane",
+        "ammonia",
+        "water",
+        "molecular shape",
+        "bond angle",
+        "table",
+        "lone pairs"
+      ],
       "question": "The three molecules methane, ammonia and water each have a different shape. Complete the table giving the shape and bond angle of each.",
       "status": "pending",
       "answer": "Pending: the table to complete is not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-21.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-22.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-23.jpg"
+      ]
     },
     {
       "id": "Ch3D-Q15b(iv)",
       "no": "Q15(b)(iv)",
       "marks": 2,
       "topic": "Shapes of Ammonia and Water",
-      "keywords": ["ammonia", "water", "bond angle", "lone pairs", "electron pair repulsion", "shape", "trigonal pyramidal", "bent"],
+      "keywords": [
+        "ammonia",
+        "water",
+        "bond angle",
+        "lone pairs",
+        "electron pair repulsion",
+        "shape",
+        "trigonal pyramidal",
+        "bent"
+      ],
       "question": "Explain the differences between the molecular shapes and bond angles of ammonia and water.",
       "status": "ready",
       "answer": "NH3 has 1 lone pair (trigonal pyramidal, about 107 deg). H2O has 2 lone pairs (bent, about 104.5 deg). More lone pairs means greater repulsion and a smaller bond angle.",
@@ -984,6 +1853,12 @@
         "H2O has 2 bonding pairs and 2 lone pairs, giving a bent shape with a bond angle of about 104.5 deg.",
         "Lone pairs repel more strongly than bonding pairs, pushing the bonds closer together.",
         "Water has more lone pairs than ammonia, so its bond angle is smaller."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-21.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-22.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-23.jpg"
       ]
     },
     {
@@ -991,7 +1866,16 @@
       "no": "Q15(b)(v)",
       "marks": 2,
       "topic": "Melting Temperatures of Ethene and Poly(ethene)",
-      "keywords": ["ethene", "poly(ethene)", "melting temperature", "intermolecular forces", "van der waals", "polymer", "chains", "covalent bonds"],
+      "keywords": [
+        "ethene",
+        "poly(ethene)",
+        "melting temperature",
+        "intermolecular forces",
+        "van der waals",
+        "polymer",
+        "chains",
+        "covalent bonds"
+      ],
       "question": "Explain why ethene and poly(ethene) have different melting temperatures.",
       "status": "ready",
       "answer": "Ethene is small molecules held by weak intermolecular forces. Poly(ethene) has long chains with stronger intermolecular forces between them, so more energy is needed to melt it. No covalent bonds are broken.",
@@ -1000,6 +1884,12 @@
         "Poly(ethene) has very long chains, with many more electrons per molecule.",
         "The long chains have stronger van der Waals forces between them.",
         "More energy is needed to overcome these stronger forces, so poly(ethene) has the higher melting temperature (covalent bonds are not broken)."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-21.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-22.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-23.jpg"
       ]
     },
     {
@@ -1007,7 +1897,14 @@
       "no": "Q15(c)(i)",
       "marks": 1,
       "topic": "Definition of Metallic Bonding",
-      "keywords": ["metallic bonding", "definition", "cations", "delocalised electrons", "electrostatic attraction", "metals"],
+      "keywords": [
+        "metallic bonding",
+        "definition",
+        "cations",
+        "delocalised electrons",
+        "electrostatic attraction",
+        "metals"
+      ],
       "question": "Describe metallic bonding.",
       "status": "ready",
       "answer": "Electrostatic attraction between positive metal cations and a sea of delocalised electrons.",
@@ -1015,6 +1912,12 @@
         "Metal atoms lose outer electrons to form positive cations.",
         "The delocalised electrons are shared throughout the whole structure.",
         "Electrostatic attraction between the cations and the delocalised electrons holds the metal together."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-21.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-22.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-23.jpg"
       ]
     },
     {
@@ -1022,7 +1925,15 @@
       "no": "Q15(c)(ii)",
       "marks": 2,
       "topic": "Conductivity of Copper",
-      "keywords": ["copper", "electrical conductivity", "delocalised electrons", "diagram", "metallic lattice", "solid metal", "mobile electrons"],
+      "keywords": [
+        "copper",
+        "electrical conductivity",
+        "delocalised electrons",
+        "diagram",
+        "metallic lattice",
+        "solid metal",
+        "mobile electrons"
+      ],
       "question": "Explain, with the aid of a diagram, why copper conducts electricity when solid.",
       "status": "ready",
       "answer": "Copper has delocalised electrons free to move through a lattice of positive ions. When a voltage is applied they flow and carry charge. Diagram: lattice of Cu ions surrounded by a sea of electrons.",
@@ -1031,6 +1942,12 @@
         "Diagram: draw the Cu ions in a lattice with delocalised electrons shown moving freely between them.",
         "When a voltage is applied, the delocalised electrons move through the lattice towards the positive terminal.",
         "The movement of these mobile electrons carries charge, so copper conducts electricity."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-20.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-21.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-22.jpg",
+        "papers/chemistry/img/03D-Metallic-Bonding-23.jpg"
       ]
     },
     {
@@ -1038,7 +1955,16 @@
       "no": "Q16",
       "marks": 1,
       "topic": "Giant Lattice Substances",
-      "keywords": ["giant lattice", "buckminsterfullerene", "c60", "graphite", "sodium chloride", "silver", "simple molecular", "multiple choice"],
+      "keywords": [
+        "giant lattice",
+        "buckminsterfullerene",
+        "c60",
+        "graphite",
+        "sodium chloride",
+        "silver",
+        "simple molecular",
+        "multiple choice"
+      ],
       "question": "Which substance does not exist as a giant lattice? A silver (Ag), B sodium chloride (NaCl), C graphite (C), D buckminsterfullerene (C60).",
       "status": "ready",
       "answer": "D (buckminsterfullerene, C60)",
@@ -1047,6 +1973,9 @@
         "Sodium chloride is a giant ionic lattice.",
         "Graphite is a giant covalent lattice.",
         "Buckminsterfullerene (C60) is a discrete molecule held to others by van der Waals forces, so it is not a giant lattice."
+      ],
+      "images": [
+        "papers/chemistry/img/03D-Metallic-Bonding-23.jpg"
       ]
     }
   ]

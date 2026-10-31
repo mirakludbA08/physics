@@ -1,6 +1,6 @@
 {
   "code": "3C",
-  "title": "Light Waves",
+  "title": "Light waves",
   "unit": "AS Unit 2",
   "pdf": "papers/physics/17-3C-Light-Waves.pdf",
   "questions": [
@@ -26,6 +26,11 @@
         "A polarising filter transmits only one plane of vibration, whatever its orientation.",
         "Rotating the filter therefore does not change the intensity of unpolarised light passing through it.",
         "Options A and B describe polarised input, and D would need zero transmission, so C is correct."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-01.jpg",
+        "papers/physics/img/17-3C-Light-Waves-02.jpg",
+        "papers/physics/img/17-3C-Light-Waves-03.jpg"
       ]
     },
     {
@@ -50,6 +55,11 @@
         "In plane polarised light all the oscillations lie in one plane.",
         "Only transverse waves can be polarised in this way.",
         "Plane polarised light is a special case of transverse waves with a single plane of oscillation."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-01.jpg",
+        "papers/physics/img/17-3C-Light-Waves-02.jpg",
+        "papers/physics/img/17-3C-Light-Waves-03.jpg"
       ]
     },
     {
@@ -74,6 +84,11 @@
         "Reflection preferentially reflects one plane of vibration, so the reflected light is partially polarised.",
         "The remaining transmitted light is therefore enriched in the other plane.",
         "So the refracted ray is partially plane polarised, not unpolarised."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-01.jpg",
+        "papers/physics/img/17-3C-Light-Waves-02.jpg",
+        "papers/physics/img/17-3C-Light-Waves-03.jpg"
       ]
     },
     {
@@ -99,6 +114,11 @@
         "Since B + r = 90 deg, r = 90 deg - B, so sin r = sin(90 deg - B) = cos B.",
         "Substitute: n_a sin B = n_g cos B.",
         "Divide both sides by n_a cos B: tan B = n_g / n_a."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-01.jpg",
+        "papers/physics/img/17-3C-Light-Waves-02.jpg",
+        "papers/physics/img/17-3C-Light-Waves-03.jpg"
       ]
     },
     {
@@ -123,6 +143,11 @@
         "B = arctan(1.50) = 56.3 deg.",
         "Check: r = 90 - 56.3 = 33.7 deg, and sin 56.3 / sin 33.7 = 0.832 / 0.555 = 1.50, which matches Snell's law.",
         "Substitute the values and round to 3 significant figures."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-01.jpg",
+        "papers/physics/img/17-3C-Light-Waves-02.jpg",
+        "papers/physics/img/17-3C-Light-Waves-03.jpg"
       ]
     },
     {
@@ -148,6 +173,11 @@
         "Violet is refracted more because its refractive index is higher than red.",
         "A higher refractive index gives a larger tan B, and therefore a larger Brewster angle.",
         "So the Brewster angle for violet is larger than for red, and the student is wrong."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-01.jpg",
+        "papers/physics/img/17-3C-Light-Waves-02.jpg",
+        "papers/physics/img/17-3C-Light-Waves-03.jpg"
       ]
     },
     {
@@ -167,7 +197,11 @@
       "question": "Light travels at 2.3 x 10^8 m s-1 in water and 2.0 x 10^8 m s-1 in glass (n glass = 1.5). Which expression gives the refractive index of water? (Options missing.)",
       "status": "pending",
       "answer": "Pending: the list of expressions is missing from the text (expected n = c / v for water, about 1.3).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-03.jpg",
+        "papers/physics/img/17-3C-Light-Waves-04.jpg"
+      ]
     },
     {
       "id": "3C-Q4",
@@ -191,6 +225,11 @@
         "Sound waves are longitudinal, with oscillations parallel to the direction of travel, so they cannot be polarised.",
         "Diffraction, refraction and superposition all occur for sound waves (A, C and D).",
         "So B is the answer."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-04.jpg",
+        "papers/physics/img/17-3C-Light-Waves-05.jpg",
+        "papers/physics/img/17-3C-Light-Waves-06.jpg"
       ]
     },
     {
@@ -215,6 +254,11 @@
         "The angle of incidence must exceed the critical angle C, where sin C = n_less / n_denser.",
         "If the angle is smaller than C, the light refracts out of the glass instead.",
         "Glass fibres work because the core has a higher refractive index than the cladding or air around it."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-04.jpg",
+        "papers/physics/img/17-3C-Light-Waves-05.jpg",
+        "papers/physics/img/17-3C-Light-Waves-06.jpg"
       ]
     },
     {
@@ -239,6 +283,11 @@
         "At a boundary where the wave speed changes, the direction of the wave changes (refraction).",
         "If the ray is not along the normal, it bends towards the normal on entering the glass.",
         "The ray therefore bends on entry, so it no longer travels along the axis of the fibre."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-04.jpg",
+        "papers/physics/img/17-3C-Light-Waves-05.jpg",
+        "papers/physics/img/17-3C-Light-Waves-06.jpg"
       ]
     },
     {
@@ -259,7 +308,12 @@
       "question": "A ray reflects by TIR inside a glass fibre and emerges at the end into water at the critical angle C for the glass-air interface. Determine the angle between the emerging ray and the normal.",
       "status": "pending",
       "answer": "Pending: the refractive index of the glass and the geometry of the missing diagram are needed (the glass index is not given in the text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-04.jpg",
+        "papers/physics/img/17-3C-Light-Waves-05.jpg",
+        "papers/physics/img/17-3C-Light-Waves-06.jpg"
+      ]
     },
     {
       "id": "3C-Q6a",
@@ -279,7 +333,12 @@
       "question": "Sound from 900 m depth bends at 700 m because the speed of sound varies with depth (diagram A). Explain the path shown in diagram B, referring to refraction and diagram A.",
       "status": "pending",
       "answer": "Pending: diagram A (speed of sound against depth) and diagram B are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-06.jpg",
+        "papers/physics/img/17-3C-Light-Waves-07.jpg",
+        "papers/physics/img/17-3C-Light-Waves-08.jpg"
+      ]
     },
     {
       "id": "3C-Q6b",
@@ -298,7 +357,12 @@
       "question": "Sound along a straight line from source to P takes longer to arrive than sound along the path in diagram B. Suggest why.",
       "status": "pending",
       "answer": "Pending: the speed-depth relationship in diagram A and the path in diagram B are needed to explain the arrival times.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-06.jpg",
+        "papers/physics/img/17-3C-Light-Waves-07.jpg",
+        "papers/physics/img/17-3C-Light-Waves-08.jpg"
+      ]
     },
     {
       "id": "3C-Q6c",
@@ -323,6 +387,11 @@
         "Water temperature changes with depth, which changes the speed of sound.",
         "Pressure increases with depth, which also affects the speed of sound.",
         "Salinity (salt concentration) changes with depth and alters the speed of sound."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-06.jpg",
+        "papers/physics/img/17-3C-Light-Waves-07.jpg",
+        "papers/physics/img/17-3C-Light-Waves-08.jpg"
       ]
     },
     {
@@ -347,6 +416,10 @@
         "That plane is perpendicular to the direction of wave travel, which is option A.",
         "B and C describe oscillations that include or are parallel to the direction of travel, which is not possible for a transverse wave.",
         "D is close but less precise: the standard description of polarisation is a single plane, as in A."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-08.jpg",
+        "papers/physics/img/17-3C-Light-Waves-09.jpg"
       ]
     },
     {
@@ -371,6 +444,10 @@
         "Longitudinal waves oscillate parallel to their direction of travel, so they cannot be polarised (A and C are wrong).",
         "Transverse waves can be polarised, so B is wrong.",
         "Therefore D is correct."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-08.jpg",
+        "papers/physics/img/17-3C-Light-Waves-09.jpg"
       ]
     },
     {
@@ -395,6 +472,10 @@
         "sin r = (1.33 x sin 43.0 deg) / 1.52 = (1.33 x 0.6820) / 1.52.",
         "sin r = 0.9071 / 1.52 = 0.5967.",
         "r = arcsin(0.5967) = 36.7 deg."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-08.jpg",
+        "papers/physics/img/17-3C-Light-Waves-09.jpg"
       ]
     },
     {
@@ -419,6 +500,10 @@
         "sin C = n_water / n_glass = 1.33 / 1.52 = 0.875.",
         "C = arcsin(0.875) = 61.0 deg.",
         "Since 1.33 is less than 1.52, a critical angle exists for light going from glass to water."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-08.jpg",
+        "papers/physics/img/17-3C-Light-Waves-09.jpg"
       ]
     },
     {
@@ -439,7 +524,12 @@
       "question": "White light is incident on side AB of a rectangular glass block (n red = 1.513, n violet = 1.532). Determine the distance between the red and violet points on side CD.",
       "status": "pending",
       "answer": "Pending: the angle of incidence and block dimensions are shown only in the missing diagram.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-09.jpg",
+        "papers/physics/img/17-3C-Light-Waves-10.jpg",
+        "papers/physics/img/17-3C-Light-Waves-11.jpg"
+      ]
     },
     {
       "id": "3C-Q10b",
@@ -458,7 +548,12 @@
       "question": "White light is incident on a glass-air boundary. Explain what happens to the red and violet light, including calculations.",
       "status": "pending",
       "answer": "Pending: the angle of incidence at the boundary is given only in the missing diagram (critical angles are about 41.3 deg for red and 40.8 deg for violet).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-09.jpg",
+        "papers/physics/img/17-3C-Light-Waves-10.jpg",
+        "papers/physics/img/17-3C-Light-Waves-11.jpg"
+      ]
     },
     {
       "id": "3C-Q11a",
@@ -482,6 +577,11 @@
         "Plane polarised light has all its oscillations confined to a single plane.",
         "A polarising filter removes the oscillations that are not in its transmitting plane, producing plane polarised light.",
         "Unpolarised light has equal intensity in all planes; plane polarised light has its intensity concentrated in one plane."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-11.jpg",
+        "papers/physics/img/17-3C-Light-Waves-12.jpg",
+        "papers/physics/img/17-3C-Light-Waves-13.jpg"
       ]
     },
     {
@@ -508,6 +608,11 @@
         "At theta = 45 deg: I = 0.25 W m-2.",
         "At theta = 90 deg: I = 0 W m-2 (minimum).",
         "Sketch a smooth cos-squared curve falling from 0.50 at 0 deg to zero at 90 deg."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-11.jpg",
+        "papers/physics/img/17-3C-Light-Waves-12.jpg",
+        "papers/physics/img/17-3C-Light-Waves-13.jpg"
       ]
     },
     {
@@ -533,6 +638,11 @@
         "Stress rotates the plane of polarisation, so some light gets through the second filter and the region appears bright.",
         "Greater stress gives greater rotation, so more light is transmitted and the region is brighter.",
         "Comparing the brightness of different areas in the photograph therefore identifies regions of different stress."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-11.jpg",
+        "papers/physics/img/17-3C-Light-Waves-12.jpg",
+        "papers/physics/img/17-3C-Light-Waves-13.jpg"
       ]
     },
     {
@@ -557,6 +667,11 @@
         "If the light meets the boundary at an angle, its direction changes.",
         "The change in direction is refraction, which is why the coin appears in a different place.",
         "Refraction at the water surface makes the coin appear displaced from its true position."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-13.jpg",
+        "papers/physics/img/17-3C-Light-Waves-14.jpg",
+        "papers/physics/img/17-3C-Light-Waves-15.jpg"
       ]
     },
     {
@@ -577,7 +692,12 @@
       "question": "Using the simplified diagram of a ray from the edge of the coin to the eye through water, determine the refractive index of the water.",
       "status": "pending",
       "answer": "Pending: the angles on the refraction diagram are shown only in the missing figure.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-13.jpg",
+        "papers/physics/img/17-3C-Light-Waves-14.jpg",
+        "papers/physics/img/17-3C-Light-Waves-15.jpg"
+      ]
     },
     {
       "id": "3C-Q13",
@@ -596,7 +716,11 @@
       "question": "A ray travels through glass towards a glass-air boundary whose critical angle is 42 deg. Which row of the table is correct? (Table missing.)",
       "status": "pending",
       "answer": "Pending: the table of rows is missing from the text (for C = 42 deg, n glass = 1 / sin 42 deg = 1.49).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-15.jpg",
+        "papers/physics/img/17-3C-Light-Waves-16.jpg"
+      ]
     },
     {
       "id": "3C-Q14a",
@@ -616,7 +740,12 @@
       "question": "The speed of light in diamond, cubic zirconia and silicon carbide is given in a table. Deduce which material is the gemstone from the ray directed at the air boundary.",
       "status": "pending",
       "answer": "Pending: the table of speeds and the angle data from the diagram are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-16.jpg",
+        "papers/physics/img/17-3C-Light-Waves-17.jpg",
+        "papers/physics/img/17-3C-Light-Waves-18.jpg"
+      ]
     },
     {
       "id": "3C-Q14b(i)",
@@ -635,7 +764,12 @@
       "question": "A ray in a diamond is incident on a diamond-air boundary. Add to the diagram the path of the ray as it leaves the boundary, including a calculation.",
       "status": "pending",
       "answer": "Pending: the table of speeds, the angle of incidence and the diagram are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-16.jpg",
+        "papers/physics/img/17-3C-Light-Waves-17.jpg",
+        "papers/physics/img/17-3C-Light-Waves-18.jpg"
+      ]
     },
     {
       "id": "3C-Q14b(ii)",
@@ -654,7 +788,12 @@
       "question": "Explain what would happen at the boundary if silicon carbide were used instead of diamond.",
       "status": "pending",
       "answer": "Pending: the speed of light in silicon carbide is in the missing table.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-16.jpg",
+        "papers/physics/img/17-3C-Light-Waves-17.jpg",
+        "papers/physics/img/17-3C-Light-Waves-18.jpg"
+      ]
     },
     {
       "id": "3C-Q15a",
@@ -673,7 +812,11 @@
       "question": "A ray is incident on a glass block (n = 1.58). Complete the diagram to show the ray as it enters the block, with calculations.",
       "status": "pending",
       "answer": "Pending: the angle of incidence is shown only in the missing diagram.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-18.jpg",
+        "papers/physics/img/17-3C-Light-Waves-19.jpg"
+      ]
     },
     {
       "id": "3C-Q15b",
@@ -697,6 +840,10 @@
         "At the critical angle the refracted ray grazes the boundary in air, so sin C = 1 / n.",
         "sin C = 1 / 1.531 = 0.653.",
         "C = arcsin(0.653) = 40.8 deg."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-18.jpg",
+        "papers/physics/img/17-3C-Light-Waves-19.jpg"
       ]
     },
     {
@@ -716,7 +863,11 @@
       "question": "Show that the critical angle for light at the core-cladding boundary of an optical fibre is about 75 deg.",
       "status": "pending",
       "answer": "Pending: the refractive indices of the core and cladding are not given in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-19.jpg",
+        "papers/physics/img/17-3C-Light-Waves-20.jpg"
+      ]
     },
     {
       "id": "3C-Q16a(ii)",
@@ -735,7 +886,11 @@
       "question": "Explain what happens to the ray after it meets the core-cladding boundary, using a measurement from the scale diagram.",
       "status": "pending",
       "answer": "Pending: the angle measured from the scale diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-19.jpg",
+        "papers/physics/img/17-3C-Light-Waves-20.jpg"
+      ]
     },
     {
       "id": "3C-Q16b(i)",
@@ -754,7 +909,11 @@
       "question": "Calculate the time taken for light to travel in a straight line along 70.0 km of the optical fibre.",
       "status": "pending",
       "answer": "Pending: the refractive index of the core is not given in the text (t = n L / c once it is known).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-19.jpg",
+        "papers/physics/img/17-3C-Light-Waves-20.jpg"
+      ]
     },
     {
       "id": "3C-Q16b(ii)",
@@ -778,6 +937,10 @@
         "A lower n_cladding gives a smaller critical angle C.",
         "More rays then strike the boundary at angles greater than C, so they are totally internally reflected.",
         "Fewer rays escape into the cladding when the fibre is curved."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-19.jpg",
+        "papers/physics/img/17-3C-Light-Waves-20.jpg"
       ]
     },
     {
@@ -797,7 +960,11 @@
       "question": "A ray is incident on the boundary between materials x and y (refractive indices nx and ny). Which row gives the conditions for TIR? (Table missing.)",
       "status": "pending",
       "answer": "Pending: the table of conditions is missing from the text (TIR needs light passing from the higher index nx to the lower ny, at an angle beyond the critical angle).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-20.jpg",
+        "papers/physics/img/17-3C-Light-Waves-21.jpg"
+      ]
     },
     {
       "id": "3C-Q18",
@@ -816,7 +983,11 @@
       "question": "A ray refracts through substances L, M and N with speeds vL, vM and vN. Which shows the relationship between the speeds? (Diagram and options missing.)",
       "status": "pending",
       "answer": "Pending: the refraction diagram and option list are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-21.jpg",
+        "papers/physics/img/17-3C-Light-Waves-22.jpg"
+      ]
     },
     {
       "id": "3C-Q19",
@@ -835,7 +1006,11 @@
       "question": "Unpolarised light is incident on a polarising filter that transmits intensity I. The filter is rotated 90 deg. What is the transmitted intensity? (Options missing.)",
       "status": "pending",
       "answer": "Pending: the answer options are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-22.jpg",
+        "papers/physics/img/17-3C-Light-Waves-23.jpg"
+      ]
     },
     {
       "id": "3C-Q20",
@@ -854,7 +1029,11 @@
       "question": "Refraction through L, M and N is shown. Which could give total internal reflection? A L to M; B L to N; C M to L; D N to M.",
       "status": "pending",
       "answer": "Pending: the diagram that fixes the ordering of speeds or refractive indices of L, M and N is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-22.jpg",
+        "papers/physics/img/17-3C-Light-Waves-23.jpg"
+      ]
     },
     {
       "id": "3C-Q21a(i)",
@@ -873,7 +1052,11 @@
       "question": "A ray is directed at a glass prism, shown before and after entering. Determine the refractive index of the glass.",
       "status": "pending",
       "answer": "Pending: the angles on the prism diagram are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-23.jpg",
+        "papers/physics/img/17-3C-Light-Waves-24.jpg"
+      ]
     },
     {
       "id": "3C-Q21a(ii)",
@@ -892,7 +1075,11 @@
       "question": "Draw the ray as it emerges from the prism at A.",
       "status": "pending",
       "answer": "Pending: the drawing depends on the prism diagram, which is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-23.jpg",
+        "papers/physics/img/17-3C-Light-Waves-24.jpg"
+      ]
     },
     {
       "id": "3C-Q21b",
@@ -916,6 +1103,10 @@
         "c = 3.00 x 10^8 m s-1 (speed of light in a vacuum).",
         "v = 3.00 x 10^8 / 1.63 = 1.84 x 10^8 m s-1.",
         "Round to three significant figures to match the data given."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-23.jpg",
+        "papers/physics/img/17-3C-Light-Waves-24.jpg"
       ]
     },
     {
@@ -940,6 +1131,10 @@
         "TIR occurs only when the angle of incidence exceeds the critical angle C.",
         "At exactly C the refracted ray grazes the boundary, which is not full TIR (B is not the full condition).",
         "If i is less than C, the light refracts out instead (D is wrong)."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-24.jpg",
+        "papers/physics/img/17-3C-Light-Waves-25.jpg"
       ]
     },
     {
@@ -959,7 +1154,11 @@
       "question": "Two photographs X and Y of a car windscreen; Y is taken through a polarising filter. Which row of the table is correct? (Table missing.)",
       "status": "pending",
       "answer": "Pending: the table of rows is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-25.jpg",
+        "papers/physics/img/17-3C-Light-Waves-26.jpg"
+      ]
     },
     {
       "id": "3C-Q24a",
@@ -978,7 +1177,12 @@
       "question": "A ray from a fish to an observer refracts at the water-air boundary. Determine the refractive index of the water using measurements from the diagram.",
       "status": "pending",
       "answer": "Pending: the angles must be read from the missing diagram.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-26.jpg",
+        "papers/physics/img/17-3C-Light-Waves-27.jpg",
+        "papers/physics/img/17-3C-Light-Waves-28.jpg"
+      ]
     },
     {
       "id": "3C-Q24b(i)",
@@ -1002,6 +1206,11 @@
         "Plane polarised light has all its oscillations in one plane.",
         "Reflected light is partially polarised because one plane of oscillation is reflected more strongly than the other.",
         "Unpolarised light has equal amounts of all planes, whereas plane polarised light has only one plane."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-26.jpg",
+        "papers/physics/img/17-3C-Light-Waves-27.jpg",
+        "papers/physics/img/17-3C-Light-Waves-28.jpg"
       ]
     },
     {
@@ -1026,6 +1235,11 @@
         "The polarising filter transmits only one plane of vibration.",
         "Rotating the filter so that its transmission plane is perpendicular to the reflected polarisation blocks most of the reflected light.",
         "The observer then sees the fish more clearly against less glare."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-26.jpg",
+        "papers/physics/img/17-3C-Light-Waves-27.jpg",
+        "papers/physics/img/17-3C-Light-Waves-28.jpg"
       ]
     },
     {
@@ -1049,6 +1263,10 @@
         "v = 3.00 x 10^8 m s-1 / 1.33.",
         "v = 2.26 x 10^8 m s-1.",
         "Check: the speed in water is less than in air, as expected for n > 1."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-28.jpg",
+        "papers/physics/img/17-3C-Light-Waves-29.jpg"
       ]
     },
     {
@@ -1069,7 +1287,11 @@
       "question": "A swimmer looks up through water at rays A, B and C incident on the surface. Rays A and B reach the eyes, ray C mostly does not. Explain the paths of the rays after they change direction at the surface.",
       "status": "pending",
       "answer": "Pending: the angles of rays A, B and C are shown only on the missing diagram.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-28.jpg",
+        "papers/physics/img/17-3C-Light-Waves-29.jpg"
+      ]
     },
     {
       "id": "3C-Q26a",
@@ -1093,6 +1315,11 @@
         "When light crosses the boundary at an angle, its speed change causes it to change direction.",
         "So the ray refracts at surface X as shown.",
         "Air to glass means the light enters a denser medium, consistent with Snell law."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-29.jpg",
+        "papers/physics/img/17-3C-Light-Waves-30.jpg",
+        "papers/physics/img/17-3C-Light-Waves-31.jpg"
       ]
     },
     {
@@ -1112,7 +1339,12 @@
       "question": "Light must be reflected at surface Y; deduce whether a silver layer is needed, given n glass = 1.52.",
       "status": "pending",
       "answer": "Pending: the angle of incidence at surface Y is shown only on the missing diagram (critical angle for glass-air is about 41.1 deg).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-29.jpg",
+        "papers/physics/img/17-3C-Light-Waves-30.jpg",
+        "papers/physics/img/17-3C-Light-Waves-31.jpg"
+      ]
     },
     {
       "id": "3C-Q26c(i)",
@@ -1136,6 +1368,11 @@
         "The energy of each photon is E = hc / lambda, which depends on its wavelength.",
         "Counting photons per second does not give the total energy unless the photon energies are known.",
         "So the photon count alone cannot determine the intensity."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-29.jpg",
+        "papers/physics/img/17-3C-Light-Waves-30.jpg",
+        "papers/physics/img/17-3C-Light-Waves-31.jpg"
       ]
     },
     {
@@ -1156,7 +1393,12 @@
       "question": "Monochromatic light of wavelength 600 nm, power 1.0 W, is incident on the sensor, whose current is proportional to photons detected. Using the graph of current against wavelength, determine the percentage of photons detected.",
       "status": "pending",
       "answer": "Pending: the current at 600 nm must be read from the graph, which is missing from the text. The incident photon rate is about 3.0 x 10^18 per second.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-29.jpg",
+        "papers/physics/img/17-3C-Light-Waves-30.jpg",
+        "papers/physics/img/17-3C-Light-Waves-31.jpg"
+      ]
     },
     {
       "id": "3C-Q27",
@@ -1180,6 +1422,10 @@
         "The polarising sunglasses transmit light polarised in one plane only.",
         "When the phone is rotated through 90 deg, the screen's plane of polarisation is perpendicular to the sunglasses' transmission plane.",
         "The light is therefore blocked, and the screen appears completely black."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-31.jpg",
+        "papers/physics/img/17-3C-Light-Waves-32.jpg"
       ]
     },
     {
@@ -1200,7 +1446,11 @@
       "question": "A ray is incident at a boundary between oil and water (n water = 1.33). Which expression gives the refractive index of the oil? (Options and diagram missing.)",
       "status": "pending",
       "answer": "Pending: the expression options and the ray diagram are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-32.jpg",
+        "papers/physics/img/17-3C-Light-Waves-33.jpg"
+      ]
     },
     {
       "id": "3C-Q29a",
@@ -1224,6 +1474,10 @@
         "The beads and water have almost the same refractive index.",
         "There is very little change of refractive index, so little refraction or reflection at the bead surface.",
         "Little light is redirected, so the beads have little contrast and seem to disappear."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-33.jpg",
+        "papers/physics/img/17-3C-Light-Waves-34.jpg"
       ]
     },
     {
@@ -1243,7 +1497,11 @@
       "question": "A ray in air is incident on a damaged hydro-bead (n = 1.38). Calculate the angle of refraction r.",
       "status": "pending",
       "answer": "Pending: the angle of incidence is shown only on the missing diagram.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-33.jpg",
+        "papers/physics/img/17-3C-Light-Waves-34.jpg"
+      ]
     },
     {
       "id": "3C-Q29b(ii)",
@@ -1262,7 +1520,11 @@
       "question": "Complete the diagram to show what happens to the ray at position X on the damaged surface, with a calculation.",
       "status": "pending",
       "answer": "Pending: the angle of incidence at X is needed and depends on the missing diagram (critical angle for n = 1.38 is about 46.4 deg).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-33.jpg",
+        "papers/physics/img/17-3C-Light-Waves-34.jpg"
+      ]
     },
     {
       "id": "3C-Q30",
@@ -1281,7 +1543,11 @@
       "question": "Two polarising filters X and Y between a source and observer give maximum intensity. X is rotated and Y then rotated to give maximum again. Which row of the table gives possible angles? (Table missing.)",
       "status": "pending",
       "answer": "Pending: the table of angle rows is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-34.jpg",
+        "papers/physics/img/17-3C-Light-Waves-35.jpg"
+      ]
     },
     {
       "id": "3C-Q31",
@@ -1305,6 +1571,11 @@
         "Light entering glass from air is refracted towards the normal, not away from it (B is wrong).",
         "TIR is not possible for light travelling from air into glass (C is wrong).",
         "Only the transmitted light is along the normal at normal incidence, and this is not the general case (D is wrong)."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-35.jpg",
+        "papers/physics/img/17-3C-Light-Waves-36.jpg",
+        "papers/physics/img/17-3C-Light-Waves-37.jpg"
       ]
     },
     {
@@ -1324,7 +1595,12 @@
       "question": "A ray box directs a narrow ray onto the surface of a glass block. Determine the angle of incidence.",
       "status": "pending",
       "answer": "Pending: the angle of incidence is read from the missing diagram.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-35.jpg",
+        "papers/physics/img/17-3C-Light-Waves-36.jpg",
+        "papers/physics/img/17-3C-Light-Waves-37.jpg"
+      ]
     },
     {
       "id": "3C-Q32a(ii)",
@@ -1343,7 +1619,12 @@
       "question": "Calculate the angle of refraction in the glass block (n = 1.5) for the angle of incidence found in part (i).",
       "status": "pending",
       "answer": "Pending: depends on the angle of incidence from the missing diagram (use sin r = sin i / 1.5).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-35.jpg",
+        "papers/physics/img/17-3C-Light-Waves-36.jpg",
+        "papers/physics/img/17-3C-Light-Waves-37.jpg"
+      ]
     },
     {
       "id": "3C-Q32b(i)",
@@ -1367,6 +1648,11 @@
         "Polarised light has its oscillations confined to a single plane.",
         "Reflection by glass preferentially reflects one plane, so the reflected light is partially polarised.",
         "Polarised light is produced when unpolarised light is reflected or filtered."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-35.jpg",
+        "papers/physics/img/17-3C-Light-Waves-36.jpg",
+        "papers/physics/img/17-3C-Light-Waves-37.jpg"
       ]
     },
     {
@@ -1391,6 +1677,11 @@
         "When the filter's transmission plane is parallel to that dominant plane, the transmitted intensity is a maximum.",
         "As she rotates the filter, the transmitted intensity falls to a minimum when the filter is perpendicular to it.",
         "The intensity therefore rises and falls as the filter turns, with the minimum being very dark at the Brewster angle."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-35.jpg",
+        "papers/physics/img/17-3C-Light-Waves-36.jpg",
+        "papers/physics/img/17-3C-Light-Waves-37.jpg"
       ]
     },
     {
@@ -1415,6 +1706,10 @@
         "In TIR no light is refracted or transmitted into the air (A and B are wrong).",
         "All the light is reflected back into the Perspex, so C is correct.",
         "D describes partial reflection, which occurs only below the critical angle."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-37.jpg",
+        "papers/physics/img/17-3C-Light-Waves-38.jpg"
       ]
     },
     {
@@ -1439,6 +1734,10 @@
         "v = 3.00 x 10^8 / 1.47 = 2.04 x 10^8 m s-1.",
         "Option C is the speed in a vacuum, and option D is greater than c, so they are wrong.",
         "Since n > 1, v < c, which is a physically sensible result."
+      ],
+      "images": [
+        "papers/physics/img/17-3C-Light-Waves-37.jpg",
+        "papers/physics/img/17-3C-Light-Waves-38.jpg"
       ]
     }
   ]

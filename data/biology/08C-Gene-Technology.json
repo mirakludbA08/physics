@@ -24,6 +24,10 @@
         "Dopamine itself cannot cross the blood-brain barrier.",
         "L-DOPA is small enough to cross and is then converted into dopamine by enzymes in the brain.",
         "Options A, C and D are incorrect, so B is correct."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-01.jpg",
+        "papers/biology/img/08C-Gene-Technology-02.jpg"
       ]
     },
     {
@@ -48,6 +52,10 @@
         "Less dopamine means fewer dopamine molecules bind to receptors on the post-synaptic membrane.",
         "Fewer post-synaptic responses in the motor pathway (basal ganglia) disrupt control of muscle movement.",
         "This imbalance causes the tremors and rigidity seen in Parkinson disease."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-01.jpg",
+        "papers/biology/img/08C-Gene-Technology-02.jpg"
       ]
     },
     {
@@ -71,6 +79,10 @@
         "Dopamine release is triggered by Ca2+ entering the presynaptic neurone through voltage-gated channels.",
         "A drug that blocks these calcium channels prevents Ca2+ entry.",
         "Without Ca2+, synaptic vesicles do not fuse with the membrane, so exocytosis of dopamine is inhibited."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-01.jpg",
+        "papers/biology/img/08C-Gene-Technology-02.jpg"
       ]
     },
     {
@@ -95,6 +107,10 @@
         "Hybridise the cDNA to a microarray carrying probes for thousands of genes and measure fluorescence.",
         "Use bioinformatics software to compare expression levels and find genes that differ significantly.",
         "Compare the candidate sequences with genome databases to identify mutations or variants linked to the disease."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-01.jpg",
+        "papers/biology/img/08C-Gene-Technology-02.jpg"
       ]
     },
     {
@@ -120,6 +136,12 @@
         "The altered enzyme has a changed shape, so its active site cannot convert trans-retinal to cis-retinal.",
         "Without cis-retinal, rhodopsin (opsin plus retinal) cannot be formed in rod cells.",
         "Light cannot be detected and transmitted to the brain, so the person is blind."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-02.jpg",
+        "papers/biology/img/08C-Gene-Technology-03.jpg",
+        "papers/biology/img/08C-Gene-Technology-04.jpg",
+        "papers/biology/img/08C-Gene-Technology-05.jpg"
       ]
     },
     {
@@ -139,7 +161,13 @@
       "question": "Describe the conclusions from the gene therapy investigation, using the graphs of retinal levels and path-following ability.",
       "status": "pending",
       "answer": "Pending: the two graphs of trans- and cis-retinal and path-following ability for each dose are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-02.jpg",
+        "papers/biology/img/08C-Gene-Technology-03.jpg",
+        "papers/biology/img/08C-Gene-Technology-04.jpg",
+        "papers/biology/img/08C-Gene-Technology-05.jpg"
+      ]
     },
     {
       "id": "8C-Q2c",
@@ -163,6 +191,12 @@
         "Sequence the genomes or candidate genes, or use microarrays to compare gene expression in retinal cells.",
         "Use bioinformatics to find mutations or expression differences that are present only in affected people.",
         "Confirm the link with further experiments, such as gene knockout or gene therapy studies."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-02.jpg",
+        "papers/biology/img/08C-Gene-Technology-03.jpg",
+        "papers/biology/img/08C-Gene-Technology-04.jpg",
+        "papers/biology/img/08C-Gene-Technology-05.jpg"
       ]
     },
     {
@@ -188,6 +222,10 @@
         "Use the same restriction enzyme to cut a plasmid vector and join the gene in with DNA ligase, including a promoter and a marker gene.",
         "Transfer the recombinant plasmid into rice cells, for example by Agrobacterium or a gene gun.",
         "Select transformed cells using the marker gene, then regenerate whole rice plants that express beta-carotene."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-05.jpg",
+        "papers/biology/img/08C-Gene-Technology-06.jpg"
       ]
     },
     {
@@ -213,6 +251,10 @@
         "The new genes could reduce biodiversity or harm non-target organisms such as insects.",
         "Marker genes for antibiotic resistance could be transferred to bacteria.",
         "Unknown long-term effects on human health, such as allergies, may occur."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-05.jpg",
+        "papers/biology/img/08C-Gene-Technology-06.jpg"
       ]
     },
     {
@@ -229,12 +271,18 @@
         "marker gene",
         "containment"
       ],
-      "question": "Suggest how one of these risks could be reduced.",
+      "question": "Genetically modified rice plants can be produced that contain beta-carotene. Suggest how one of the possible risks of growing genetically modified rice plants could be reduced.",
       "status": "ready",
-      "answer": "Use male-sterile GM rice or plant buffer zones to stop pollen spreading genes to wild relatives.",
+      "answer": "Grow the GM rice surrounded by a buffer zone of non-GM plants, away from wild relatives (or use male-sterile GM plants), so pollen cannot carry the inserted genes to wild rice or non-GM crops.",
       "steps": [
-        "Male-sterile plants cannot release viable pollen, so genes cannot spread to wild relatives.",
-        "Alternatively, grow a buffer zone of non-GM plants around the field to reduce cross-pollination."
+        "One risk of growing GM rice is that pollen carries the inserted genes to wild relatives or non-GM rice crops (gene flow by cross-pollination).",
+        "This risk is reduced by surrounding the GM crop with a buffer zone of non-GM plants, or growing it far from wild relatives.",
+        "Alternatively, use male-sterile GM rice so that no viable pollen carrying the transgene is released.",
+        "Other creditworthy ideas: remove antibiotic-resistance marker genes before release, or run long-term field trials and monitoring before large-scale planting."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-05.jpg",
+        "papers/biology/img/08C-Gene-Technology-06.jpg"
       ]
     },
     {
@@ -254,7 +302,12 @@
       "question": "Complete the table showing which parts of the brain are responsible for memory and cognitive function, using the article.",
       "status": "pending",
       "answer": "Pending: the table and the article paragraphs 2 and 13 are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-07.jpg",
+        "papers/biology/img/08C-Gene-Technology-08.jpg",
+        "papers/biology/img/08C-Gene-Technology-09.jpg"
+      ]
     },
     {
       "id": "8C-Q4b",
@@ -279,6 +332,11 @@
         "CT uses X-rays and gives a detailed structural image, but is less sensitive for soft-tissue detail.",
         "fMRI uses strong magnetic fields and radio waves and detects changes in blood oxygenation to show brain activity.",
         "fMRI gives better soft-tissue contrast and functional information, while CT is quicker and cheaper for structural detail."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-07.jpg",
+        "papers/biology/img/08C-Gene-Technology-08.jpg",
+        "papers/biology/img/08C-Gene-Technology-09.jpg"
       ]
     },
     {
@@ -296,7 +354,12 @@
       "question": "Suggest how the amyloid protein may prevent bacterial infection in the brain, using paragraphs 7 and 22 of the article.",
       "status": "pending",
       "answer": "Pending: the answer depends on the article paragraphs 7 and 22, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-07.jpg",
+        "papers/biology/img/08C-Gene-Technology-08.jpg",
+        "papers/biology/img/08C-Gene-Technology-09.jpg"
+      ]
     },
     {
       "id": "8C-Q4d",
@@ -314,7 +377,12 @@
       "question": "Explain how the bacterium P. gingivalis may invade the brain and cause inflammation, using paragraphs 10, 20 and 21 of the article.",
       "status": "pending",
       "answer": "Pending: the answer depends on the article paragraphs 10, 20 and 21, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-07.jpg",
+        "papers/biology/img/08C-Gene-Technology-08.jpg",
+        "papers/biology/img/08C-Gene-Technology-09.jpg"
+      ]
     },
     {
       "id": "8C-Q4e",
@@ -332,7 +400,12 @@
       "question": "Suggest how gingipains may have a degrading effect on memory in Alzheimer disease, using paragraph 12 of the article.",
       "status": "pending",
       "answer": "Pending: the answer depends on article paragraph 12, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-07.jpg",
+        "papers/biology/img/08C-Gene-Technology-08.jpg",
+        "papers/biology/img/08C-Gene-Technology-09.jpg"
+      ]
     },
     {
       "id": "8C-Q4f",
@@ -356,6 +429,11 @@
         "Carry out reverse transcription to make cDNA from the mRNA.",
         "Use PCR or qPCR with primers specific to P. gingivalis genes to detect the transcripts.",
         "Detection of mRNA (not just DNA) shows the genes are being transcribed, so they are active; compare with control samples."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-07.jpg",
+        "papers/biology/img/08C-Gene-Technology-08.jpg",
+        "papers/biology/img/08C-Gene-Technology-09.jpg"
       ]
     },
     {
@@ -373,7 +451,12 @@
       "question": "Explain how toxicants in food could cause Parkinson disease, using paragraph 3 of the article.",
       "status": "pending",
       "answer": "Pending: the answer depends on article paragraph 3, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-10.jpg",
+        "papers/biology/img/08C-Gene-Technology-11.jpg",
+        "papers/biology/img/08C-Gene-Technology-12.jpg"
+      ]
     },
     {
       "id": "8C-Q5b",
@@ -396,6 +479,11 @@
         "Expose cells to the toxicant and keep control cells unexposed.",
         "Extract mRNA from both sets and use microarrays or RNA sequencing to measure expression of each gene.",
         "Use bioinformatics to identify genes whose expression changes significantly."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-10.jpg",
+        "papers/biology/img/08C-Gene-Technology-11.jpg",
+        "papers/biology/img/08C-Gene-Technology-12.jpg"
       ]
     },
     {
@@ -420,6 +508,11 @@
         "Align the sequences using bioinformatics software such as BLAST.",
         "Count identical bases or amino acids to calculate percentage similarity.",
         "High similarity shows the genes share a common ancestor and are conserved through evolution."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-10.jpg",
+        "papers/biology/img/08C-Gene-Technology-11.jpg",
+        "papers/biology/img/08C-Gene-Technology-12.jpg"
       ]
     },
     {
@@ -443,6 +536,11 @@
         "ES are reactive molecules that can form covalent bonds with nucleophilic groups (such as cysteine residues) on proteins.",
         "Binding to transcription factors can change their shape and their ability to bind DNA.",
         "Changes to histones or other regulatory proteins alter chromatin structure, switching gene expression on or off."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-10.jpg",
+        "papers/biology/img/08C-Gene-Technology-11.jpg",
+        "papers/biology/img/08C-Gene-Technology-12.jpg"
       ]
     },
     {
@@ -466,6 +564,11 @@
         "ES are reactive and form covalent adducts with the bases of mtDNA.",
         "These adducts block DNA replication and transcription and cause mutations.",
         "mtDNA is near the electron transport chain where free radicals are produced and has few histones or repair systems, so it is vulnerable."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-10.jpg",
+        "papers/biology/img/08C-Gene-Technology-11.jpg",
+        "papers/biology/img/08C-Gene-Technology-12.jpg"
       ]
     },
     {
@@ -490,6 +593,11 @@
         "Add MTT; living cells with reduced NAD produce NADH-dependent reduction, changing yellow MTT to purple formazan.",
         "Measure the absorbance of each sample with a colorimeter (spectrophotometer).",
         "Lower absorbance (less purple) means fewer viable cells, so the drug with the lower reading is more toxic."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-10.jpg",
+        "papers/biology/img/08C-Gene-Technology-11.jpg",
+        "papers/biology/img/08C-Gene-Technology-12.jpg"
       ]
     },
     {
@@ -512,6 +620,11 @@
         "Induced pluripotent stem cells can be made from adult cells without using embryos, avoiding ethical concerns.",
         "They can be made from many individuals, including patients, so tests reflect genetic variation.",
         "They can differentiate into many cell types, so toxicants can be tested on relevant tissues."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-10.jpg",
+        "papers/biology/img/08C-Gene-Technology-11.jpg",
+        "papers/biology/img/08C-Gene-Technology-12.jpg"
       ]
     },
     {
@@ -538,6 +651,11 @@
         "Cis-retinal changes shape to trans-retinal, which activates the opsin protein.",
         "This activates a G-protein and phosphodiesterase cascade that lowers cGMP levels.",
         "cGMP-gated Na+ channels close, so the rod hyperpolarises and less neurotransmitter is released to the bipolar cell."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-13.jpg",
+        "papers/biology/img/08C-Gene-Technology-14.jpg",
+        "papers/biology/img/08C-Gene-Technology-15.jpg"
       ]
     },
     {
@@ -562,6 +680,11 @@
         "Use microarrays or RNA sequencing to identify which genes are transcribed.",
         "Compare with other cell types to find genes specific to sensory neurones.",
         "Confirm individual genes with RT-PCR or in situ hybridisation."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-13.jpg",
+        "papers/biology/img/08C-Gene-Technology-14.jpg",
+        "papers/biology/img/08C-Gene-Technology-15.jpg"
       ]
     },
     {
@@ -587,6 +710,11 @@
         "The channel opens, allowing Na+ and Ca2+ to flow into the neurone down their gradients.",
         "The membrane depolarises to threshold, generating an action potential.",
         "The impulse travels to the brain and is perceived as pain."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-13.jpg",
+        "papers/biology/img/08C-Gene-Technology-14.jpg",
+        "papers/biology/img/08C-Gene-Technology-15.jpg"
       ]
     },
     {
@@ -610,6 +738,11 @@
         "The ion channel protein changes shape, opening its pore.",
         "Na+ ions flow into the neurone down their electrochemical gradient.",
         "The membrane depolarises; if it reaches threshold, an action potential is generated and travels along the neurone."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-13.jpg",
+        "papers/biology/img/08C-Gene-Technology-14.jpg",
+        "papers/biology/img/08C-Gene-Technology-15.jpg"
       ]
     },
     {
@@ -633,6 +766,11 @@
         "Pressure stretches the cell membrane and the attached mechanosensitive ion channel (e.g. Piezo).",
         "The channel opens, allowing Na+ and Ca2+ to flow into the cell.",
         "This depolarisation (receptor potential) reaches threshold and triggers action potentials in the sensory neurone."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-13.jpg",
+        "papers/biology/img/08C-Gene-Technology-14.jpg",
+        "papers/biology/img/08C-Gene-Technology-15.jpg"
       ]
     },
     {
@@ -656,6 +794,11 @@
         "Piezo 1 is a known mechanosensitive ion channel.",
         "Scientists used bioinformatics to search genome databases for genes with similar DNA sequences.",
         "The matching gene was found to code for another channel, Piezo 2, with a related structure and probably a similar function."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-13.jpg",
+        "papers/biology/img/08C-Gene-Technology-14.jpg",
+        "papers/biology/img/08C-Gene-Technology-15.jpg"
       ]
     },
     {
@@ -678,6 +821,11 @@
       "steps": [
         "TRPV1 opens when temperature rises above about 43 degrees C in thermoreceptor neurones.",
         "Signals reach the hypothalamus, which triggers heat loss responses such as sweating and vasodilation."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-13.jpg",
+        "papers/biology/img/08C-Gene-Technology-14.jpg",
+        "papers/biology/img/08C-Gene-Technology-15.jpg"
       ]
     },
     {
@@ -702,6 +850,12 @@
         "Insert the gene into a vector with a promoter that is active only in mammary gland cells, plus a marker gene.",
         "Inject the construct into a fertilised sheep egg (zygote) and implant it into a surrogate ewe.",
         "Breed transgenic sheep and select those whose milk contains rHE, then collect and purify the protein."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-15.jpg",
+        "papers/biology/img/08C-Gene-Technology-16.jpg",
+        "papers/biology/img/08C-Gene-Technology-17.jpg",
+        "papers/biology/img/08C-Gene-Technology-18.jpg"
       ]
     },
     {
@@ -722,6 +876,12 @@
       "steps": [
         "Increase = 142 - 80 = 62 g dm-3.",
         "Percentage increase = 62 / 80 x 100 = 77.5 %."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-15.jpg",
+        "papers/biology/img/08C-Gene-Technology-16.jpg",
+        "papers/biology/img/08C-Gene-Technology-17.jpg",
+        "papers/biology/img/08C-Gene-Technology-18.jpg"
       ]
     },
     {
@@ -746,6 +906,12 @@
         "B lymphocytes with receptors complementary to the rHE antigen bind it, and T helper cells release cytokines to activate them.",
         "Clonal selection leads to clonal expansion, forming plasma cells and memory cells.",
         "Plasma cells secrete anti-rHE antibodies that bind rHE and mark it for destruction."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-15.jpg",
+        "papers/biology/img/08C-Gene-Technology-16.jpg",
+        "papers/biology/img/08C-Gene-Technology-17.jpg",
+        "papers/biology/img/08C-Gene-Technology-18.jpg"
       ]
     },
     {
@@ -766,7 +932,13 @@
       "question": "Discuss the risks and benefits of genetic modification in valuable agricultural plants, using the table and the graph.",
       "status": "pending",
       "answer": "Pending: the table of GM examples and the graph of GM crop use in the United States are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-15.jpg",
+        "papers/biology/img/08C-Gene-Technology-16.jpg",
+        "papers/biology/img/08C-Gene-Technology-17.jpg",
+        "papers/biology/img/08C-Gene-Technology-18.jpg"
+      ]
     },
     {
       "id": "8C-Q8a",
@@ -790,6 +962,11 @@
         "Dopamine made in the blood cannot cross the blood-brain barrier, so less reaches the brain.",
         "Co-beneldopa blocks this peripheral conversion, so more L-dopa crosses into the brain.",
         "More dopamine is made in the brain, improving symptoms and reducing side effects of high blood dopamine."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-18.jpg",
+        "papers/biology/img/08C-Gene-Technology-19.jpg",
+        "papers/biology/img/08C-Gene-Technology-20.jpg"
       ]
     },
     {
@@ -809,7 +986,12 @@
       "question": "Explain the effects of the control gene, MYB12 and CYP76 in the tomato investigation, using the table of L-dopa concentrations.",
       "status": "pending",
       "answer": "Pending: the table of L-dopa concentrations in the tomato fruit is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-18.jpg",
+        "papers/biology/img/08C-Gene-Technology-19.jpg",
+        "papers/biology/img/08C-Gene-Technology-20.jpg"
+      ]
     },
     {
       "id": "8C-Q8b(ii)",
@@ -834,6 +1016,11 @@
         "Insert the cDNA into a plasmid vector with a suitable plant promoter and a selectable marker gene, using restriction enzymes and ligase.",
         "Transfer the recombinant plasmid into tomato cells, for example by Agrobacterium-mediated transformation.",
         "Select transformed cells and regenerate tomato plants that express CYP76 in their fruit."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-18.jpg",
+        "papers/biology/img/08C-Gene-Technology-19.jpg",
+        "papers/biology/img/08C-Gene-Technology-20.jpg"
       ]
     },
     {
@@ -857,6 +1044,11 @@
         "Air reaching alveoli per breath = VT - DS = 500 - 150 = 350 cm3.",
         "Per minute = 350 x 12 = 4200 cm3 min-1.",
         "Per hour = 4200 x 60 = 252 000 cm3 h-1, which is 2.5 x 10^5 cm3 h-1 (2 s.f.)."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-20.jpg",
+        "papers/biology/img/08C-Gene-Technology-21.jpg",
+        "papers/biology/img/08C-Gene-Technology-22.jpg"
       ]
     },
     {
@@ -877,6 +1069,11 @@
       "steps": [
         "The T wave on an ECG shows repolarisation of the ventricles.",
         "Repolarisation of the ventricles occurs as they relax, which is ventricular diastole."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-20.jpg",
+        "papers/biology/img/08C-Gene-Technology-21.jpg",
+        "papers/biology/img/08C-Gene-Technology-22.jpg"
       ]
     },
     {
@@ -894,7 +1091,12 @@
       "question": "Calculate the mean heart rate shown in the ECG trace of the patient.",
       "status": "pending",
       "answer": "Pending: the ECG trace with the time scale and R-R intervals is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-20.jpg",
+        "papers/biology/img/08C-Gene-Technology-21.jpg",
+        "papers/biology/img/08C-Gene-Technology-22.jpg"
+      ]
     },
     {
       "id": "8C-Q9b(iii)",
@@ -912,7 +1114,12 @@
       "question": "Compare and contrast the ECG trace of this patient with the normal ECG trace.",
       "status": "pending",
       "answer": "Pending: the patient ECG trace is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-20.jpg",
+        "papers/biology/img/08C-Gene-Technology-21.jpg",
+        "papers/biology/img/08C-Gene-Technology-22.jpg"
+      ]
     },
     {
       "id": "8C-Q9c",
@@ -937,6 +1144,11 @@
         "Adenovirus infects the patient's cells (such as liver cells) and delivers its DNA into the nucleus.",
         "The AAT gene is transcribed and translated, so the cells produce functional AAT protein.",
         "The virus is made non-pathogenic so it cannot replicate, reducing the risk to the patient."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-20.jpg",
+        "papers/biology/img/08C-Gene-Technology-21.jpg",
+        "papers/biology/img/08C-Gene-Technology-22.jpg"
       ]
     },
     {
@@ -960,6 +1172,12 @@
         "Ageing leads to accumulation of mutations and damage in mitochondria.",
         "Reactive oxygen species damage mtDNA and proteins, reducing oxidative phosphorylation.",
         "Reduced ATP supply makes neurones more vulnerable to death, causing neurodegeneration."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-23.jpg",
+        "papers/biology/img/08C-Gene-Technology-24.jpg",
+        "papers/biology/img/08C-Gene-Technology-25.jpg",
+        "papers/biology/img/08C-Gene-Technology-26.jpg"
       ]
     },
     {
@@ -984,6 +1202,12 @@
         "Energy from the electrons is used to pump protons from the matrix into the intermembrane space.",
         "Protons flow back through ATP synthase, driving synthesis of ATP from ADP and Pi (chemiosmosis).",
         "Oxygen is the final electron acceptor, forming water."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-23.jpg",
+        "papers/biology/img/08C-Gene-Technology-24.jpg",
+        "papers/biology/img/08C-Gene-Technology-25.jpg",
+        "papers/biology/img/08C-Gene-Technology-26.jpg"
       ]
     },
     {
@@ -1007,6 +1231,12 @@
         "ROS such as superoxide and hydroxyl radicals are produced as leaks from the electron transport chain.",
         "ROS react with and oxidise DNA bases, causing base changes and strand breaks.",
         "mtDNA lacks protective histones and has limited repair, so the damage accumulates as mutations."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-23.jpg",
+        "papers/biology/img/08C-Gene-Technology-24.jpg",
+        "papers/biology/img/08C-Gene-Technology-25.jpg",
+        "papers/biology/img/08C-Gene-Technology-26.jpg"
       ]
     },
     {
@@ -1030,6 +1260,12 @@
         "During development, different transcription factors and signals switch on different genes in each cell.",
         "Only a subset of genes is expressed, leading to different proteins and cell structures.",
         "These specialised cells then have the morphology and function suited to their role."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-23.jpg",
+        "papers/biology/img/08C-Gene-Technology-24.jpg",
+        "papers/biology/img/08C-Gene-Technology-25.jpg",
+        "papers/biology/img/08C-Gene-Technology-26.jpg"
       ]
     },
     {
@@ -1051,6 +1287,12 @@
       "steps": [
         "Proteome means all the proteins in a cell or organelle.",
         "The mitochondrial proteome includes proteins coded by nuclear DNA and by mtDNA."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-23.jpg",
+        "papers/biology/img/08C-Gene-Technology-24.jpg",
+        "papers/biology/img/08C-Gene-Technology-25.jpg",
+        "papers/biology/img/08C-Gene-Technology-26.jpg"
       ]
     },
     {
@@ -1073,6 +1315,12 @@
         "Synaptic terminals have a high and fluctuating energy demand for neurotransmitter release and recycling.",
         "High activity and Ca2+ handling in these mitochondria produce more ROS.",
         "This damages the mitochondria and mtDNA more quickly, so they age faster."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-23.jpg",
+        "papers/biology/img/08C-Gene-Technology-24.jpg",
+        "papers/biology/img/08C-Gene-Technology-25.jpg",
+        "papers/biology/img/08C-Gene-Technology-26.jpg"
       ]
     },
     {
@@ -1094,6 +1342,12 @@
       "steps": [
         "mtDNA encodes some of the polypeptide subunits of the electron transport chain complexes.",
         "It also encodes mitochondrial rRNA and tRNA needed to synthesise these proteins inside the mitochondria."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-23.jpg",
+        "papers/biology/img/08C-Gene-Technology-24.jpg",
+        "papers/biology/img/08C-Gene-Technology-25.jpg",
+        "papers/biology/img/08C-Gene-Technology-26.jpg"
       ]
     },
     {
@@ -1117,6 +1371,12 @@
         "Damaged mitochondria are tagged for removal (e.g. with ubiquitin).",
         "They are engulfed by a double-membrane autophagosome.",
         "The autophagosome fuses with a lysosome, and hydrolytic enzymes digest the mitochondria."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-23.jpg",
+        "papers/biology/img/08C-Gene-Technology-24.jpg",
+        "papers/biology/img/08C-Gene-Technology-25.jpg",
+        "papers/biology/img/08C-Gene-Technology-26.jpg"
       ]
     },
     {
@@ -1141,6 +1401,11 @@
         "Ca2+ entry causes vesicles to fuse with the membrane and release neurotransmitter by exocytosis.",
         "The neurotransmitter diffuses across the synaptic cleft and binds to receptors on the post-synaptic membrane.",
         "Ion channels open, depolarising the post-synaptic neurone so an action potential is generated if threshold is reached."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-26.jpg",
+        "papers/biology/img/08C-Gene-Technology-27.jpg",
+        "papers/biology/img/08C-Gene-Technology-28.jpg"
       ]
     },
     {
@@ -1165,6 +1430,11 @@
         "Insert each gene into a plasmid vector with a promoter and an antibiotic resistance marker, using restriction enzymes and ligase.",
         "Transform E. coli with the plasmid and select transformants using the antibiotic.",
         "Grow the bacteria with tryptophan so the enzymes convert it to serotonin, which is then purified."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-26.jpg",
+        "papers/biology/img/08C-Gene-Technology-27.jpg",
+        "papers/biology/img/08C-Gene-Technology-28.jpg"
       ]
     },
     {
@@ -1183,7 +1453,12 @@
       "question": "Discuss the changes in tryptophan and serotonin concentration shown in the graph.",
       "status": "pending",
       "answer": "Pending: the graph of tryptophan and serotonin concentrations over time is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-26.jpg",
+        "papers/biology/img/08C-Gene-Technology-27.jpg",
+        "papers/biology/img/08C-Gene-Technology-28.jpg"
+      ]
     },
     {
       "id": "8C-Q12a(i)",
@@ -1203,6 +1478,11 @@
       "steps": [
         "Restriction endonucleases cut DNA at specific palindromic sequences.",
         "They produce sticky ends that allow the gene to be inserted into a vector."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-28.jpg",
+        "papers/biology/img/08C-Gene-Technology-29.jpg",
+        "papers/biology/img/08C-Gene-Technology-30.jpg"
       ]
     },
     {
@@ -1223,6 +1503,11 @@
       "steps": [
         "Bacteria have no nucleus, so option A and D are wrong.",
         "Their main DNA is a circular chromosome in the nucleoid region of the cytoplasm, and plasmids are also in the cytoplasm."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-28.jpg",
+        "papers/biology/img/08C-Gene-Technology-29.jpg",
+        "papers/biology/img/08C-Gene-Technology-30.jpg"
       ]
     },
     {
@@ -1242,6 +1527,11 @@
       "steps": [
         "Adjacent nucleotides are joined by a bond between the sugar of one and the phosphate of the next.",
         "This is a phosphodiester bond; hydrogen bonds join bases between strands."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-28.jpg",
+        "papers/biology/img/08C-Gene-Technology-29.jpg",
+        "papers/biology/img/08C-Gene-Technology-30.jpg"
       ]
     },
     {
@@ -1264,6 +1554,11 @@
         "A repressor transcription factor binds to a specific sequence near the gene (e.g. a silencer or operator).",
         "It blocks RNA polymerase from binding to the promoter or moving along the gene.",
         "Transcription stops, so no mRNA and no protein are made from that gene."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-28.jpg",
+        "papers/biology/img/08C-Gene-Technology-29.jpg",
+        "papers/biology/img/08C-Gene-Technology-30.jpg"
       ]
     },
     {
@@ -1287,6 +1582,12 @@
         "Gut bacteria secrete extracellular enzymes such as cellulases and amylases.",
         "These enzymes hydrolyse the glycosidic bonds in complex polysaccharides, breaking them into smaller sugars.",
         "Monosaccharides and short-chain fatty acids produced can be absorbed and used by the host."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-30.jpg",
+        "papers/biology/img/08C-Gene-Technology-31.jpg",
+        "papers/biology/img/08C-Gene-Technology-32.jpg",
+        "papers/biology/img/08C-Gene-Technology-33.jpg"
       ]
     },
     {
@@ -1310,6 +1611,12 @@
         "The vagus nerve releases acetylcholine onto the sinoatrial node (SAN).",
         "Acetylcholine hyperpolarises SAN cells and slows the rate of depolarisation, decreasing heart rate.",
         "This parasympathetic effect reduces heart rate when the body is at rest."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-30.jpg",
+        "papers/biology/img/08C-Gene-Technology-31.jpg",
+        "papers/biology/img/08C-Gene-Technology-32.jpg",
+        "papers/biology/img/08C-Gene-Technology-33.jpg"
       ]
     },
     {
@@ -1328,7 +1635,13 @@
       "question": "Explain how microorganisms promote the accumulation of mature T-killer cells that enhance anti-tumour effects of drugs, using paragraph 7.",
       "status": "pending",
       "answer": "Pending: the answer depends on article paragraph 7, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-30.jpg",
+        "papers/biology/img/08C-Gene-Technology-31.jpg",
+        "papers/biology/img/08C-Gene-Technology-32.jpg",
+        "papers/biology/img/08C-Gene-Technology-33.jpg"
+      ]
     },
     {
       "id": "8C-Q13d",
@@ -1351,6 +1664,12 @@
         "Take fMRI scans of the brain before and after the subject consumes probiotics.",
         "fMRI detects changes in blood oxygenation, which reflect neural activity in each region.",
         "Compare the scans to see which memory and sensory regions show increased or decreased activity."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-30.jpg",
+        "papers/biology/img/08C-Gene-Technology-31.jpg",
+        "papers/biology/img/08C-Gene-Technology-32.jpg",
+        "papers/biology/img/08C-Gene-Technology-33.jpg"
       ]
     },
     {
@@ -1374,6 +1693,12 @@
         "Diet supplies the food (substrates) that different gut bacteria use, so changes in diet alter microbial populations.",
         "The balance of bacteria changes the amounts of metabolites such as short-chain fatty acids and neurotransmitter precursors produced.",
         "These chemicals reach the brain via the blood and the vagus nerve, altering neurotransmitter levels such as serotonin."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-30.jpg",
+        "papers/biology/img/08C-Gene-Technology-31.jpg",
+        "papers/biology/img/08C-Gene-Technology-32.jpg",
+        "papers/biology/img/08C-Gene-Technology-33.jpg"
       ]
     },
     {
@@ -1397,6 +1722,12 @@
         "Myelin insulates axons and allows saltatory conduction, making impulses fast.",
         "Demyelination slows or blocks impulse transmission along the axon.",
         "Impulses to muscles are delayed (poor coordination) and impulses from the optic nerve are blocked (loss of vision)."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-30.jpg",
+        "papers/biology/img/08C-Gene-Technology-31.jpg",
+        "papers/biology/img/08C-Gene-Technology-32.jpg",
+        "papers/biology/img/08C-Gene-Technology-33.jpg"
       ]
     },
     {
@@ -1422,6 +1753,12 @@
         "Use microarrays or RNA-seq to find genes expressed in response to LPS.",
         "Sequence the candidate gene and use bioinformatics to confirm it codes for a receptor.",
         "Confirm by knocking out the gene and checking that LPS no longer triggers a response."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-30.jpg",
+        "papers/biology/img/08C-Gene-Technology-31.jpg",
+        "papers/biology/img/08C-Gene-Technology-32.jpg",
+        "papers/biology/img/08C-Gene-Technology-33.jpg"
       ]
     },
     {
@@ -1442,6 +1779,12 @@
       "steps": [
         "Bioinformatics uses computing and statistics to analyse biological data such as DNA sequences.",
         "The other options are a scan technique, a study of gene expression and a forensic science."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-33.jpg",
+        "papers/biology/img/08C-Gene-Technology-34.jpg",
+        "papers/biology/img/08C-Gene-Technology-35.jpg",
+        "papers/biology/img/08C-Gene-Technology-36.jpg"
       ]
     },
     {
@@ -1464,6 +1807,12 @@
         "Inhibiting ACh release means no neurotransmitter crosses the synapse, so no depolarisation occurs.",
         "Blocking ion channels (e.g. Na+) stops the membrane depolarising to threshold, so no action potential forms.",
         "Blocking ACh receptors stops ACh binding, so the post-synaptic neurone is not depolarised."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-33.jpg",
+        "papers/biology/img/08C-Gene-Technology-34.jpg",
+        "papers/biology/img/08C-Gene-Technology-35.jpg",
+        "papers/biology/img/08C-Gene-Technology-36.jpg"
       ]
     },
     {
@@ -1483,7 +1832,13 @@
       "question": "Comment on the amino acid composition of these neurotoxins, using the table and graphs.",
       "status": "pending",
       "answer": "Pending: the table of mean amino acid composition and the graphs for bacteria, cnidarians and molluscs are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-33.jpg",
+        "papers/biology/img/08C-Gene-Technology-34.jpg",
+        "papers/biology/img/08C-Gene-Technology-35.jpg",
+        "papers/biology/img/08C-Gene-Technology-36.jpg"
+      ]
     },
     {
       "id": "8C-Q14c(ii)",
@@ -1505,6 +1860,12 @@
         "A different amino acid alters the primary structure of the protein.",
         "This changes the folding, so the tertiary shape of the toxin and its binding site change.",
         "The toxin may then bind less well to its receptor or ion channel, reducing its toxicity."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-33.jpg",
+        "papers/biology/img/08C-Gene-Technology-34.jpg",
+        "papers/biology/img/08C-Gene-Technology-35.jpg",
+        "papers/biology/img/08C-Gene-Technology-36.jpg"
       ]
     },
     {
@@ -1526,6 +1887,11 @@
       "steps": [
         "Naming the species (binomial name) gives a precise, universal identification.",
         "It allows other researchers to repeat the experiment on the same organism."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-37.jpg",
+        "papers/biology/img/08C-Gene-Technology-38.jpg",
+        "papers/biology/img/08C-Gene-Technology-39.jpg"
       ]
     },
     {
@@ -1547,6 +1913,11 @@
       "steps": [
         "Nematodes are living organisms and experiments may harm them.",
         "Researchers should minimise harm and use the fewest organisms needed."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-37.jpg",
+        "papers/biology/img/08C-Gene-Technology-38.jpg",
+        "papers/biology/img/08C-Gene-Technology-39.jpg"
       ]
     },
     {
@@ -1569,6 +1940,11 @@
         "In microgravity the normal mechanical forces on cells are reduced or changed.",
         "Cells detect these changes through mechanosensing, which alters intracellular signalling.",
         "Signalling changes the activity of transcription factors, so some genes are up-regulated and others down-regulated."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-37.jpg",
+        "papers/biology/img/08C-Gene-Technology-38.jpg",
+        "papers/biology/img/08C-Gene-Technology-39.jpg"
       ]
     },
     {
@@ -1587,7 +1963,12 @@
       "question": "Suggest why there was lower fat accumulation and shorter body length in nematodes grown in microgravity, using paragraph 4.",
       "status": "pending",
       "answer": "Pending: the answer depends on the findings in article paragraph 4, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-37.jpg",
+        "papers/biology/img/08C-Gene-Technology-38.jpg",
+        "papers/biology/img/08C-Gene-Technology-39.jpg"
+      ]
     },
     {
       "id": "8C-Q15e",
@@ -1604,7 +1985,12 @@
       "question": "Explain why there were reduced levels of a number of metabolic proteins in nematodes grown in microgravity, using paragraph 6.",
       "status": "pending",
       "answer": "Pending: the answer depends on article paragraph 6, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-37.jpg",
+        "papers/biology/img/08C-Gene-Technology-38.jpg",
+        "papers/biology/img/08C-Gene-Technology-39.jpg"
+      ]
     },
     {
       "id": "8C-Q15f",
@@ -1627,6 +2013,11 @@
         "mRNA from space-flown and control nematodes is extracted and converted to labelled cDNA.",
         "Each sample is hybridised to a microarray with probes for the genes; fluorescence intensity reflects mRNA amount.",
         "Lower fluorescence for electron transport genes means they are downregulated, while higher fluorescence for the sirtuin gene means it is upregulated."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-37.jpg",
+        "papers/biology/img/08C-Gene-Technology-38.jpg",
+        "papers/biology/img/08C-Gene-Technology-39.jpg"
       ]
     },
     {
@@ -1648,6 +2039,11 @@
       "steps": [
         "Sudan Black is a fat-soluble dye that dissolves in and stains lipids.",
         "Staining allows the fat stores in the nematodes to be seen and compared between groups."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-37.jpg",
+        "papers/biology/img/08C-Gene-Technology-38.jpg",
+        "papers/biology/img/08C-Gene-Technology-39.jpg"
       ]
     },
     {
@@ -1667,7 +2063,12 @@
       "question": "Comment on the reliability of the data presented in Table 1 (paragraph 9).",
       "status": "pending",
       "answer": "Pending: Table 1 and the article paragraph 9 are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-37.jpg",
+        "papers/biology/img/08C-Gene-Technology-38.jpg",
+        "papers/biology/img/08C-Gene-Technology-39.jpg"
+      ]
     },
     {
       "id": "8C-Q16a",
@@ -1689,6 +2090,11 @@
         "Extract mRNA from the cells, since only transcribed genes produce mRNA.",
         "Reverse transcribe the mRNA into cDNA.",
         "Use a microarray or RT-PCR to detect which cDNA sequences are present, showing active genes."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-40.jpg",
+        "papers/biology/img/08C-Gene-Technology-41.jpg",
+        "papers/biology/img/08C-Gene-Technology-42.jpg"
       ]
     },
     {
@@ -1709,6 +2115,11 @@
       "steps": [
         "Histones are proteins around which DNA is wound to form nucleosomes.",
         "They provide structural support and help package DNA into chromatin."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-40.jpg",
+        "papers/biology/img/08C-Gene-Technology-41.jpg",
+        "papers/biology/img/08C-Gene-Technology-42.jpg"
       ]
     },
     {
@@ -1729,6 +2140,11 @@
       "steps": [
         "Epigenetic changes (e.g. methylation, histone modification) control whether genes are switched on or off.",
         "Crossing over occurs in meiosis, not in gene regulation."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-40.jpg",
+        "papers/biology/img/08C-Gene-Technology-41.jpg",
+        "papers/biology/img/08C-Gene-Technology-42.jpg"
       ]
     },
     {
@@ -1751,6 +2167,11 @@
         "Some genes on chromosome 15 are expressed only from the paternal chromosome (imprinting).",
         "The paternal copy has deletions, so these genes are missing.",
         "The maternal copy is methylated and silenced, so none of the genes are expressed, causing the symptoms."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-40.jpg",
+        "papers/biology/img/08C-Gene-Technology-41.jpg",
+        "papers/biology/img/08C-Gene-Technology-42.jpg"
       ]
     },
     {
@@ -1775,6 +2196,11 @@
         "Insert the cDNA into a plasmid vector with a promoter and marker gene using restriction enzymes and ligase.",
         "Transform E. coli with the recombinant plasmid and select transformed bacteria using the marker.",
         "Culture the bacteria in a fermenter so they express HGH, which is then extracted and purified."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-40.jpg",
+        "papers/biology/img/08C-Gene-Technology-41.jpg",
+        "papers/biology/img/08C-Gene-Technology-42.jpg"
       ]
     },
     {
@@ -1797,6 +2223,12 @@
         "Chronic high blood pressure damages the walls of small blood vessels in the brain.",
         "Damaged vessels reduce blood flow and oxygen and glucose supply to neurones.",
         "Starved neurones lose function and die, leading to cognitive decline (vascular dementia)."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-42.jpg",
+        "papers/biology/img/08C-Gene-Technology-43.jpg",
+        "papers/biology/img/08C-Gene-Technology-44.jpg",
+        "papers/biology/img/08C-Gene-Technology-45.jpg"
       ]
     },
     {
@@ -1820,6 +2252,12 @@
         "Beta-amyloid contains many hydrophobic amino acids whose R groups stick together in water.",
         "It can fold into a misfolded beta-pleated sheet shape, which is stabilised by hydrogen bonds between chains.",
         "These sticky interactions link molecules together, so they gradually clump into plaques."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-42.jpg",
+        "papers/biology/img/08C-Gene-Technology-43.jpg",
+        "papers/biology/img/08C-Gene-Technology-44.jpg",
+        "papers/biology/img/08C-Gene-Technology-45.jpg"
       ]
     },
     {
@@ -1842,6 +2280,12 @@
         "MRI shows detailed brain structure and any shrinkage in regions.",
         "PET uses a radioactive tracer to show metabolic activity or the presence of amyloid plaques.",
         "Combining them locates abnormal activity or plaques precisely within the brain structure."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-42.jpg",
+        "papers/biology/img/08C-Gene-Technology-43.jpg",
+        "papers/biology/img/08C-Gene-Technology-44.jpg",
+        "papers/biology/img/08C-Gene-Technology-45.jpg"
       ]
     },
     {
@@ -1863,6 +2307,12 @@
       "steps": [
         "Learning of a future risk can cause psychological distress and anxiety.",
         "If there is no cure or effective treatment, the information offers no benefit."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-42.jpg",
+        "papers/biology/img/08C-Gene-Technology-43.jpg",
+        "papers/biology/img/08C-Gene-Technology-44.jpg",
+        "papers/biology/img/08C-Gene-Technology-45.jpg"
       ]
     },
     {
@@ -1885,6 +2335,12 @@
         "Blood pressure drives blood flow through the brain capillaries.",
         "Falling pressure reduces blood flow, so less oxygen and glucose reach brain cells.",
         "Without enough oxygen and glucose, aerobic respiration and ATP production fall, so neurones malfunction or die."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-42.jpg",
+        "papers/biology/img/08C-Gene-Technology-43.jpg",
+        "papers/biology/img/08C-Gene-Technology-44.jpg",
+        "papers/biology/img/08C-Gene-Technology-45.jpg"
       ]
     },
     {
@@ -1909,6 +2365,12 @@
         "Sequence or genotype the genomes to identify gene variants (such as SNPs) in each group.",
         "Use statistics and bioinformatics to find variants that occur significantly more often in people with dementia.",
         "Follow up with cohort studies to confirm the link."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-42.jpg",
+        "papers/biology/img/08C-Gene-Technology-43.jpg",
+        "papers/biology/img/08C-Gene-Technology-44.jpg",
+        "papers/biology/img/08C-Gene-Technology-45.jpg"
       ]
     },
     {
@@ -1931,6 +2393,12 @@
         "A single B cell (plasma cell) produces one specific antibody.",
         "Cloned cells (e.g. hybridomas) produce large numbers of identical antibodies.",
         "Each monoclonal antibody binds to one specific epitope on an antigen."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-42.jpg",
+        "papers/biology/img/08C-Gene-Technology-43.jpg",
+        "papers/biology/img/08C-Gene-Technology-44.jpg",
+        "papers/biology/img/08C-Gene-Technology-45.jpg"
       ]
     },
     {
@@ -1952,6 +2420,12 @@
       "steps": [
         "A placebo group receives an inactive treatment that looks the same.",
         "Comparing with it shows whether donanemab has a real effect beyond the placebo effect."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-42.jpg",
+        "papers/biology/img/08C-Gene-Technology-43.jpg",
+        "papers/biology/img/08C-Gene-Technology-44.jpg",
+        "papers/biology/img/08C-Gene-Technology-45.jpg"
       ]
     },
     {
@@ -1975,6 +2449,12 @@
         "Lecanemab is an antibody that binds amyloid and triggers immune clearance.",
         "This triggers inflammation in the brain, which increases the permeability of blood vessels.",
         "Fluid leaks out of the vessels into the brain tissue, causing swelling (oedema)."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-42.jpg",
+        "papers/biology/img/08C-Gene-Technology-43.jpg",
+        "papers/biology/img/08C-Gene-Technology-44.jpg",
+        "papers/biology/img/08C-Gene-Technology-45.jpg"
       ]
     },
     {
@@ -1995,6 +2475,12 @@
       "steps": [
         "Damage to neurones occurs years before symptoms appear.",
         "Once neurones die the damage is irreversible, so early treatment can prevent more loss."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-42.jpg",
+        "papers/biology/img/08C-Gene-Technology-43.jpg",
+        "papers/biology/img/08C-Gene-Technology-44.jpg",
+        "papers/biology/img/08C-Gene-Technology-45.jpg"
       ]
     },
     {
@@ -2015,6 +2501,13 @@
       "steps": [
         "A GM organism has had genes added from another species (transgenic).",
         "The other options describe a PCR product, a virus, and a mutation, not a GM organism."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-45.jpg",
+        "papers/biology/img/08C-Gene-Technology-46.jpg",
+        "papers/biology/img/08C-Gene-Technology-47.jpg",
+        "papers/biology/img/08C-Gene-Technology-48.jpg",
+        "papers/biology/img/08C-Gene-Technology-49.jpg"
       ]
     },
     {
@@ -2034,7 +2527,14 @@
       "question": "Describe three conclusions from the graph comparing antigen binding activity of BVZ from GM rice strains, animal cell culture and control.",
       "status": "pending",
       "answer": "Pending: the graph of antigen binding activity for the control, animal cell culture and GM rice strains A to D is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-45.jpg",
+        "papers/biology/img/08C-Gene-Technology-46.jpg",
+        "papers/biology/img/08C-Gene-Technology-47.jpg",
+        "papers/biology/img/08C-Gene-Technology-48.jpg",
+        "papers/biology/img/08C-Gene-Technology-49.jpg"
+      ]
     },
     {
       "id": "8C-Q18b(ii)",
@@ -2057,6 +2557,13 @@
         "BVZ is a monoclonal antibody that binds specifically to VEGF, a growth factor.",
         "Blocking VEGF stops new blood vessels forming, starving the tumour of oxygen and nutrients.",
         "Antibody binding can also mark cells for destruction by immune cells (e.g. by complement or phagocytes)."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-45.jpg",
+        "papers/biology/img/08C-Gene-Technology-46.jpg",
+        "papers/biology/img/08C-Gene-Technology-47.jpg",
+        "papers/biology/img/08C-Gene-Technology-48.jpg",
+        "papers/biology/img/08C-Gene-Technology-49.jpg"
       ]
     },
     {
@@ -2077,7 +2584,14 @@
       "question": "Assess the risks and benefits of genetically modifying the maize fungus for future food production in a warming world, using the tables and knowledge.",
       "status": "pending",
       "answer": "Pending: the tables of maize growth measurements, toxin concentrations and computer-model predictions are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-45.jpg",
+        "papers/biology/img/08C-Gene-Technology-46.jpg",
+        "papers/biology/img/08C-Gene-Technology-47.jpg",
+        "papers/biology/img/08C-Gene-Technology-48.jpg",
+        "papers/biology/img/08C-Gene-Technology-49.jpg"
+      ]
     },
     {
       "id": "8C-Q19a(i)",
@@ -2095,7 +2609,13 @@
       "question": "Which is the ratio of action potentials produced at 48 degrees C by nociceptors compared with thermoreceptors (options: 0.40:1, 2.0:1, 2.07:1, 2.1:1)?",
       "status": "pending",
       "answer": "Pending: the graph of action potentials against temperature is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-49.jpg",
+        "papers/biology/img/08C-Gene-Technology-50.jpg",
+        "papers/biology/img/08C-Gene-Technology-51.jpg",
+        "papers/biology/img/08C-Gene-Technology-52.jpg"
+      ]
     },
     {
       "id": "8C-Q19a(ii)",
@@ -2113,7 +2633,13 @@
       "question": "Comment on the extent to which the results of the investigation support the statement that nociceptors are better than thermoreceptors at preventing tissue damage at high temperatures.",
       "status": "pending",
       "answer": "Pending: the graph of action potentials for nociceptors and thermoreceptors across temperatures is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-49.jpg",
+        "papers/biology/img/08C-Gene-Technology-50.jpg",
+        "papers/biology/img/08C-Gene-Technology-51.jpg",
+        "papers/biology/img/08C-Gene-Technology-52.jpg"
+      ]
     },
     {
       "id": "8C-Q19b",
@@ -2131,7 +2657,13 @@
       "question": "Explain the results of the nicotine investigation in mice A, B and C, using the graph.",
       "status": "pending",
       "answer": "Pending: the graph of the results for groups A, B and C is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-49.jpg",
+        "papers/biology/img/08C-Gene-Technology-50.jpg",
+        "papers/biology/img/08C-Gene-Technology-51.jpg",
+        "papers/biology/img/08C-Gene-Technology-52.jpg"
+      ]
     },
     {
       "id": "8C-Q20a",
@@ -2153,6 +2685,12 @@
         "Sequence the BtPMaT1 gene from the whitefly DNA.",
         "Use bioinformatics (e.g. BLAST) to compare it with sequences in plant genome databases.",
         "A close match to a plant gene, and lack of similarity to other insect genes, shows it came from a plant."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-52.jpg",
+        "papers/biology/img/08C-Gene-Technology-53.jpg",
+        "papers/biology/img/08C-Gene-Technology-54.jpg",
+        "papers/biology/img/08C-Gene-Technology-55.jpg"
       ]
     },
     {
@@ -2176,6 +2714,12 @@
         "Carriers gain an advantage (for example, tolerating a plant defence or toxin), so they survive better.",
         "They reproduce more and pass the gene to their offspring (natural selection).",
         "Over generations the frequency of the allele in the population increases."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-52.jpg",
+        "papers/biology/img/08C-Gene-Technology-53.jpg",
+        "papers/biology/img/08C-Gene-Technology-54.jpg",
+        "papers/biology/img/08C-Gene-Technology-55.jpg"
       ]
     },
     {
@@ -2200,6 +2744,12 @@
         "Microinject the construct into a single-celled zebrafish embryo (zygote).",
         "The embryo develops; select fish whose germ cells carry the gene and offspring that fluoresce red.",
         "Breed selected transgenic fish, and select homozygous offspring to establish a stable population."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-52.jpg",
+        "papers/biology/img/08C-Gene-Technology-53.jpg",
+        "papers/biology/img/08C-Gene-Technology-54.jpg",
+        "papers/biology/img/08C-Gene-Technology-55.jpg"
       ]
     },
     {
@@ -2223,6 +2773,12 @@
         "Benefit: GM zebrafish can be used as models to study disease and gene function.",
         "Benefit: fluorescent fish can act as biosensors to detect pollution.",
         "Risk: GM fish escaping into the wild could compete with native species and transfer genes to wild populations."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-52.jpg",
+        "papers/biology/img/08C-Gene-Technology-53.jpg",
+        "papers/biology/img/08C-Gene-Technology-54.jpg",
+        "papers/biology/img/08C-Gene-Technology-55.jpg"
       ]
     },
     {
@@ -2245,6 +2801,12 @@
         "After damage, skin cells increase protein synthesis, enlarging their cytoplasm and organelles.",
         "Cells then move into the wound and divide by mitosis to fill the gap.",
         "This increases the total number of cells over the area of damage."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-52.jpg",
+        "papers/biology/img/08C-Gene-Technology-53.jpg",
+        "papers/biology/img/08C-Gene-Technology-54.jpg",
+        "papers/biology/img/08C-Gene-Technology-55.jpg"
       ]
     },
     {
@@ -2268,6 +2830,12 @@
         "The injected gene is inserted into the zygote genome.",
         "Mitosis of the zygote copies the gene into all daughter cells, so every cell carries it.",
         "During development, the gene is switched on in skin cells by the promoter, producing the red pigment protein."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-52.jpg",
+        "papers/biology/img/08C-Gene-Technology-53.jpg",
+        "papers/biology/img/08C-Gene-Technology-54.jpg",
+        "papers/biology/img/08C-Gene-Technology-55.jpg"
       ]
     },
     {
@@ -2288,6 +2856,13 @@
       "steps": [
         "Homeostasis keeps conditions such as blood glucose, temperature and water potential within set limits.",
         "It works through negative feedback, which reverses changes from the set point."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-55.jpg",
+        "papers/biology/img/08C-Gene-Technology-56.jpg",
+        "papers/biology/img/08C-Gene-Technology-57.jpg",
+        "papers/biology/img/08C-Gene-Technology-58.jpg",
+        "papers/biology/img/08C-Gene-Technology-59.jpg"
       ]
     },
     {
@@ -2307,7 +2882,14 @@
       "question": "Compare and contrast the changes in insulin concentration in the blood of trained and untrained individuals, using the graph.",
       "status": "pending",
       "answer": "Pending: the graph of insulin concentration over time for the two individuals is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-55.jpg",
+        "papers/biology/img/08C-Gene-Technology-56.jpg",
+        "papers/biology/img/08C-Gene-Technology-57.jpg",
+        "papers/biology/img/08C-Gene-Technology-58.jpg",
+        "papers/biology/img/08C-Gene-Technology-59.jpg"
+      ]
     },
     {
       "id": "8C-Q21c(i)",
@@ -2331,6 +2913,13 @@
         "Cut the cDNA and a plasmid with the same restriction endonuclease to produce matching sticky ends.",
         "Join them with DNA ligase to form a recombinant plasmid, then transform bacteria with it.",
         "Bacteria express the insulin genes and produce insulin, which is then purified."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-55.jpg",
+        "papers/biology/img/08C-Gene-Technology-56.jpg",
+        "papers/biology/img/08C-Gene-Technology-57.jpg",
+        "papers/biology/img/08C-Gene-Technology-58.jpg",
+        "papers/biology/img/08C-Gene-Technology-59.jpg"
       ]
     },
     {
@@ -2353,6 +2942,13 @@
       "steps": [
         "Bacterial production gives an unlimited, consistent supply that does not depend on slaughtering animals.",
         "Human insulin avoids the allergic reactions and immune responses that animal insulin can cause, and avoids disease transmission from animals."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-55.jpg",
+        "papers/biology/img/08C-Gene-Technology-56.jpg",
+        "papers/biology/img/08C-Gene-Technology-57.jpg",
+        "papers/biology/img/08C-Gene-Technology-58.jpg",
+        "papers/biology/img/08C-Gene-Technology-59.jpg"
       ]
     },
     {
@@ -2371,7 +2967,14 @@
       "question": "Give one reason why there is no bar on the graph for an insulin concentration of 0 pmol dm-3.",
       "status": "pending",
       "answer": "Pending: the graph showing the axis scale and bars is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-55.jpg",
+        "papers/biology/img/08C-Gene-Technology-56.jpg",
+        "papers/biology/img/08C-Gene-Technology-57.jpg",
+        "papers/biology/img/08C-Gene-Technology-58.jpg",
+        "papers/biology/img/08C-Gene-Technology-59.jpg"
+      ]
     },
     {
       "id": "8C-Q21d(ii)",
@@ -2394,6 +2997,13 @@
         "Each insulin concentration was set up in several independent replicate cultures.",
         "The increase in cell number was measured for every replicate.",
         "The mean and standard deviation (or range) of the replicates were calculated and plotted as error bars."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-55.jpg",
+        "papers/biology/img/08C-Gene-Technology-56.jpg",
+        "papers/biology/img/08C-Gene-Technology-57.jpg",
+        "papers/biology/img/08C-Gene-Technology-58.jpg",
+        "papers/biology/img/08C-Gene-Technology-59.jpg"
       ]
     },
     {
@@ -2414,6 +3024,13 @@
       "steps": [
         "Error bars show the spread (variation) of the results around the mean.",
         "Non-overlapping bars suggest a significant difference between the groups; overlapping bars suggest no clear difference."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-55.jpg",
+        "papers/biology/img/08C-Gene-Technology-56.jpg",
+        "papers/biology/img/08C-Gene-Technology-57.jpg",
+        "papers/biology/img/08C-Gene-Technology-58.jpg",
+        "papers/biology/img/08C-Gene-Technology-59.jpg"
       ]
     },
     {
@@ -2434,6 +3051,12 @@
       "steps": [
         "Chromosomes are visible under a light microscope after staining.",
         "Electron microscopes are not normally used for routine chromosome images."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-59.jpg",
+        "papers/biology/img/08C-Gene-Technology-60.jpg",
+        "papers/biology/img/08C-Gene-Technology-61.jpg",
+        "papers/biology/img/08C-Gene-Technology-62.jpg"
       ]
     },
     {
@@ -2451,7 +3074,13 @@
       "question": "Calculate the ratio of the length of the X chromosome to the Y chromosome in the image (1 d.p.).",
       "status": "pending",
       "answer": "Pending: the chromosome image with its lengths is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-59.jpg",
+        "papers/biology/img/08C-Gene-Technology-60.jpg",
+        "papers/biology/img/08C-Gene-Technology-61.jpg",
+        "papers/biology/img/08C-Gene-Technology-62.jpg"
+      ]
     },
     {
       "id": "8C-Q22b",
@@ -2469,7 +3098,13 @@
       "question": "Suggest why the loss of the Y chromosome may lead to higher rates of heart disease in men than women, using paragraphs 4 and 5.",
       "status": "pending",
       "answer": "Pending: the answer depends on article paragraphs 4 and 5, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-59.jpg",
+        "papers/biology/img/08C-Gene-Technology-60.jpg",
+        "papers/biology/img/08C-Gene-Technology-61.jpg",
+        "papers/biology/img/08C-Gene-Technology-62.jpg"
+      ]
     },
     {
       "id": "8C-Q22c",
@@ -2492,6 +3127,12 @@
         "The guide RNA is a nucleic acid whose sequence is complementary to the target gene on the Y chromosome.",
         "The guide RNA binds to the complementary DNA sequence and directs the enzyme to it.",
         "The Cas9 endonuclease enzyme cuts both DNA strands at the target site, allowing the gene to be removed."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-59.jpg",
+        "papers/biology/img/08C-Gene-Technology-60.jpg",
+        "papers/biology/img/08C-Gene-Technology-61.jpg",
+        "papers/biology/img/08C-Gene-Technology-62.jpg"
       ]
     },
     {
@@ -2516,6 +3157,12 @@
         "Record an ECG or imaging of the heart to check its structure and rhythm.",
         "Take blood samples to measure cholesterol and other cardiac biomarkers.",
         "Use health records and questionnaires to track cardiovascular events over time."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-59.jpg",
+        "papers/biology/img/08C-Gene-Technology-60.jpg",
+        "papers/biology/img/08C-Gene-Technology-61.jpg",
+        "papers/biology/img/08C-Gene-Technology-62.jpg"
       ]
     },
     {
@@ -2537,6 +3184,12 @@
       "steps": [
         "Antibodies have a specific binding site complementary to the shape of the signalling molecule.",
         "The antibody binds to the molecule, blocking its binding site or receptor interaction, so no inflammatory response is triggered."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-59.jpg",
+        "papers/biology/img/08C-Gene-Technology-60.jpg",
+        "papers/biology/img/08C-Gene-Technology-61.jpg",
+        "papers/biology/img/08C-Gene-Technology-62.jpg"
       ]
     },
     {
@@ -2558,6 +3211,12 @@
       "steps": [
         "In some animals, temperature during embryo development affects the expression of sex-determining genes.",
         "Temperature alters enzyme activity or epigenetic regulation, switching the pathway to male or female."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-59.jpg",
+        "papers/biology/img/08C-Gene-Technology-60.jpg",
+        "papers/biology/img/08C-Gene-Technology-61.jpg",
+        "papers/biology/img/08C-Gene-Technology-62.jpg"
       ]
     },
     {
@@ -2575,7 +3234,13 @@
       "question": "Calculate the percentage of genes that have been lost from the original Y chromosome, using paragraph 15.",
       "status": "pending",
       "answer": "Pending: the numbers of genes in the original and current Y chromosome are in article paragraph 15, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-59.jpg",
+        "papers/biology/img/08C-Gene-Technology-60.jpg",
+        "papers/biology/img/08C-Gene-Technology-61.jpg",
+        "papers/biology/img/08C-Gene-Technology-62.jpg"
+      ]
     },
     {
       "id": "8C-Q22h",
@@ -2598,6 +3263,12 @@
         "Females have two X chromosomes but males have only one.",
         "In each female cell, one X chromosome is inactivated by DNA methylation and histone modification, forming a Barr body.",
         "This balances the gene output from the X chromosomes between males and females."
+      ],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-59.jpg",
+        "papers/biology/img/08C-Gene-Technology-60.jpg",
+        "papers/biology/img/08C-Gene-Technology-61.jpg",
+        "papers/biology/img/08C-Gene-Technology-62.jpg"
       ]
     },
     {
@@ -2615,7 +3286,13 @@
       "question": "Explain why elderly men who have lost their Y chromosome have a higher risk of cancer, using paragraphs 2, 3 and 20.",
       "status": "pending",
       "answer": "Pending: the answer depends on article paragraphs 2, 3 and 20, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08C-Gene-Technology-59.jpg",
+        "papers/biology/img/08C-Gene-Technology-60.jpg",
+        "papers/biology/img/08C-Gene-Technology-61.jpg",
+        "papers/biology/img/08C-Gene-Technology-62.jpg"
+      ]
     }
   ]
 }

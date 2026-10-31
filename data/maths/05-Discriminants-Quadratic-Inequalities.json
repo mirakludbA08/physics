@@ -9,7 +9,16 @@
       "no": "Q1",
       "marks": 7,
       "topic": "Discriminant Range Of Constant",
-      "keywords": ["discriminant", "no real roots", "range", "constant c", "reciprocal", "quadratic", "inequality", "roots"],
+      "keywords": [
+        "discriminant",
+        "no real roots",
+        "range",
+        "constant c",
+        "reciprocal",
+        "quadratic",
+        "inequality",
+        "roots"
+      ],
       "question": "The equation 3/x + 5 = -2x + c, where c is a constant, has no real roots. Find the range of possible values of c.",
       "status": "ready",
       "answer": "5 - 2 sqrt(6) < c < 5 + 2 sqrt(6)",
@@ -18,6 +27,10 @@
         "Rearrange: 2x^2 + (5 - c)x + 3 = 0.",
         "No real roots needs discriminant < 0: (5 - c)^2 - 4(2)(3) < 0.",
         "(c - 5)^2 < 24, so 5 - sqrt(24) < c < 5 + sqrt(24), i.e. 5 - 2 sqrt(6) < c < 5 + 2 sqrt(6)."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-01.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-02.jpg"
       ]
     },
     {
@@ -25,7 +38,16 @@
       "no": "Q2(a)",
       "marks": 2,
       "topic": "Equation Of A Line",
-      "keywords": ["line", "intercepts", "gradient", "y-intercept", "figure", "equation", "y=mx+c", "two points"],
+      "keywords": [
+        "line",
+        "intercepts",
+        "gradient",
+        "y-intercept",
+        "figure",
+        "equation",
+        "y=mx+c",
+        "two points"
+      ],
       "question": "Line l cuts the y-axis at -12 and the x-axis at 4. Find an equation for l in the form y = mx + c.",
       "status": "ready",
       "answer": "y = 3x - 12",
@@ -33,6 +55,10 @@
         "The y-intercept is c = -12.",
         "Gradient = (0 - (-12))/(4 - 0) = 3.",
         "So y = 3x - 12."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-01.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-02.jpg"
       ]
     },
     {
@@ -40,14 +66,27 @@
       "no": "Q2(b)",
       "marks": 1,
       "topic": "Symmetry Of Quadratic Roots",
-      "keywords": ["symmetry", "roots", "minimum point", "axis of symmetry", "x-intercepts", "quadratic", "deduce", "k"],
-      "question": "Curve C has a minimum point at (7, -18) and cuts the x-axis at 4 and at k. Deduce the value of k.",
+      "keywords": [
+        "symmetry",
+        "roots",
+        "minimum point",
+        "axis of symmetry",
+        "x-intercepts",
+        "quadratic",
+        "deduce",
+        "k"
+      ],
+      "question": "Curve C has equation y = f(x), where f(x) is a quadratic expression. C has a minimum point at (7, -18) and cuts the x-axis at 4 and at k, where k is a constant. Deduce the value of k.",
       "status": "ready",
       "answer": "k = 10",
       "steps": [
         "A quadratic is symmetric about its minimum point, so the axis is x = 7.",
         "The roots are symmetric about x = 7: (4 + k)/2 = 7.",
         "4 + k = 14, so k = 10."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-01.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-02.jpg"
       ]
     },
     {
@@ -55,7 +94,16 @@
       "no": "Q2(c)",
       "marks": 3,
       "topic": "Quadratic From Roots And Turning Point",
-      "keywords": ["quadratic", "roots", "minimum point", "factorised form", "expand", "f(x)", "turning point", "curve"],
+      "keywords": [
+        "quadratic",
+        "roots",
+        "minimum point",
+        "factorised form",
+        "expand",
+        "f(x)",
+        "turning point",
+        "curve"
+      ],
       "question": "Curve C has equation y = f(x), where f(x) is a quadratic with minimum point (7, -18) and roots at x = 4 and x = k. Find f(x).",
       "status": "ready",
       "answer": "f(x) = 2x^2 - 28x + 80",
@@ -64,6 +112,10 @@
         "At x = 7, f = -18: a(3)(-3) = -18, so -9a = -18 and a = 2.",
         "f(x) = 2(x - 4)(x - 10) = 2(x^2 - 14x + 40).",
         "So f(x) = 2x^2 - 28x + 80."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-01.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-02.jpg"
       ]
     },
     {
@@ -71,7 +123,16 @@
       "no": "Q2(d)",
       "marks": 2,
       "topic": "Inequalities Defining A Region",
-      "keywords": ["inequalities", "region", "shaded", "line", "curve", "bounded", "axes", "define"],
+      "keywords": [
+        "inequalities",
+        "region",
+        "shaded",
+        "line",
+        "curve",
+        "bounded",
+        "axes",
+        "define"
+      ],
       "question": "Region R is shaded in Figure 2, bounded by the y-axis, the line l (y = 3x - 12), and the curve C (y = 2x^2 - 28x + 80). Use inequalities to define R.",
       "status": "ready",
       "answer": "0 <= x <= 4 and 3x - 12 <= y <= 2x^2 - 28x + 80",
@@ -80,6 +141,10 @@
         "So 0 <= x <= 4.",
         "For each x in this range, y is above the line y = 3x - 12 and below the curve y = 2x^2 - 28x + 80.",
         "Combine: 0 <= x <= 4, 3x - 12 <= y <= 2x^2 - 28x + 80."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-01.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-02.jpg"
       ]
     },
     {
@@ -87,7 +152,16 @@
       "no": "Q3",
       "marks": 4,
       "topic": "Discriminant Range Of Coefficient",
-      "keywords": ["discriminant", "no real roots", "range", "coefficient k", "non zero", "quadratic", "inequality", "kx^2+6kx+5"],
+      "keywords": [
+        "discriminant",
+        "no real roots",
+        "range",
+        "coefficient k",
+        "non zero",
+        "quadratic",
+        "inequality",
+        "kx^2+6kx+5"
+      ],
       "question": "Given that kx^2 + 6kx + 5 = 0, where k is a non-zero constant, has no real roots, find the range of possible values of k.",
       "status": "ready",
       "answer": "0 < k < 5/9",
@@ -96,6 +170,10 @@
         "No real roots needs 36k^2 - 20k < 0, i.e. 4k(9k - 5) < 0.",
         "Critical values are k = 0 and k = 5/9, and the quadratic in k is negative between them.",
         "So 0 < k < 5/9."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-02.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-03.jpg"
       ]
     },
     {
@@ -103,7 +181,16 @@
       "no": "Q4(a)",
       "marks": 3,
       "topic": "Completing The Square",
-      "keywords": ["complete the square", "a(x+b)^2+c", "minimum point", "integers", "express", "quadratic", "f(x)", "coefficients"],
+      "keywords": [
+        "complete the square",
+        "a(x+b)^2+c",
+        "minimum point",
+        "integers",
+        "express",
+        "quadratic",
+        "f(x)",
+        "coefficients"
+      ],
       "question": "f(x) = 2x^2 - 12x + 14. Write 2x^2 - 12x + 14 in the form a(x + b)^2 + c, where a, b and c are constants.",
       "status": "ready",
       "answer": "2(x - 3)^2 - 4 (a = 2, b = -3, c = -4)",
@@ -112,6 +199,10 @@
         "Complete the square: x^2 - 6x = (x - 3)^2 - 9.",
         "2((x - 3)^2 - 9) + 14 = 2(x - 3)^2 - 18 + 14.",
         "So f(x) = 2(x - 3)^2 - 4."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-03.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-04.jpg"
       ]
     },
     {
@@ -119,7 +210,16 @@
       "no": "Q4(b)",
       "marks": 1,
       "topic": "Minimum Point Of A Curve",
-      "keywords": ["minimum point", "turning point", "completed square", "coordinates", "state", "curve c", "p", "vertex"],
+      "keywords": [
+        "minimum point",
+        "turning point",
+        "completed square",
+        "coordinates",
+        "state",
+        "curve c",
+        "p",
+        "vertex"
+      ],
       "question": "Curve C has equation y = 2(x - 3)^2 - 4 and has a minimum at the point P. State the coordinates of P.",
       "status": "ready",
       "answer": "P = (3, -4)",
@@ -127,6 +227,10 @@
         "The minimum occurs where the squared term is zero: x = 3.",
         "At x = 3, y = -4.",
         "So P = (3, -4)."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-03.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-04.jpg"
       ]
     },
     {
@@ -134,7 +238,16 @@
       "no": "Q4(c)",
       "marks": 3,
       "topic": "Line Through Two Points",
-      "keywords": ["line", "gradient", "two points", "minimum point", "intersection", "equation", "y=mx+c", "curve"],
+      "keywords": [
+        "line",
+        "gradient",
+        "two points",
+        "minimum point",
+        "intersection",
+        "equation",
+        "y=mx+c",
+        "curve"
+      ],
       "question": "Line l passes through (-1, 28) and the minimum point P(3, -4) of C (y = 2x^2 - 12x + 14). Find the equation of l in the form y = mx + c.",
       "status": "ready",
       "answer": "y = -8x + 20",
@@ -143,6 +256,10 @@
         "Use y + 4 = -8(x - 3).",
         "y + 4 = -8x + 24, so y = -8x + 20.",
         "Check (-1, 28): 8 + 20 = 28."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-03.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-04.jpg"
       ]
     },
     {
@@ -150,7 +267,16 @@
       "no": "Q4(d)",
       "marks": 3,
       "topic": "Inequalities Defining A Region",
-      "keywords": ["inequalities", "region", "shaded", "x-axis", "y-axis", "curve", "line", "define"],
+      "keywords": [
+        "inequalities",
+        "region",
+        "shaded",
+        "x-axis",
+        "y-axis",
+        "curve",
+        "line",
+        "define"
+      ],
       "question": "Finite region R is bounded by the x-axis, line l (y = -8x + 20), the y-axis and curve C (y = 2x^2 - 12x + 14). Use inequalities to define R.",
       "status": "ready",
       "answer": "x >= 0, y >= 0, 2x^2 - 12x + 14 <= y <= 20 - 8x",
@@ -159,6 +285,10 @@
         "R lies above the curve C: y >= 2x^2 - 12x + 14.",
         "R lies below the line l: y <= 20 - 8x (l meets the x-axis at x = 5/2).",
         "Combine: x >= 0, y >= 0, 2x^2 - 12x + 14 <= y <= 20 - 8x."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-03.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-04.jpg"
       ]
     },
     {
@@ -166,7 +296,16 @@
       "no": "Q5(a)",
       "marks": 4,
       "topic": "Intersection Of Line And Curve",
-      "keywords": ["intersection", "line", "curve", "quadratic", "coordinates", "algebra", "points p and q", "solve"],
+      "keywords": [
+        "intersection",
+        "line",
+        "curve",
+        "quadratic",
+        "coordinates",
+        "algebra",
+        "points p and q",
+        "solve"
+      ],
       "question": "Line l has equation x + y = 6 and curve C has equation y = 6x - 2x^2 + 1. Using algebra, find the coordinates of P and Q, where l meets C.",
       "status": "ready",
       "answer": "P = (1, 5) and Q = (5/2, 7/2)",
@@ -175,6 +314,10 @@
         "Rearrange: 2x^2 - 7x + 5 = 0.",
         "Factorise: (2x - 5)(x - 1) = 0, so x = 5/2 or x = 1.",
         "Use y = 6 - x: P = (1, 5) and Q = (5/2, 7/2)."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-04.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-05.jpg"
       ]
     },
     {
@@ -182,7 +325,16 @@
       "no": "Q5(b)",
       "marks": 3,
       "topic": "Inequalities Defining A Region",
-      "keywords": ["inequalities", "region", "shaded", "x-axis", "curve", "line", "bounded", "define"],
+      "keywords": [
+        "inequalities",
+        "region",
+        "shaded",
+        "x-axis",
+        "curve",
+        "line",
+        "bounded",
+        "define"
+      ],
       "question": "Region R, shaded in Figure 1, is bounded by curve C (y = 6x - 2x^2 + 1), line l (x + y = 6) and the x-axis. Use inequalities to define R.",
       "status": "ready",
       "answer": "x >= 5/2, y >= 0, 6x - 2x^2 + 1 <= y <= 6 - x",
@@ -191,6 +343,10 @@
         "So x >= 5/2 (the curve C lies below l only from Q onwards), and y >= 0 for the x-axis.",
         "Above the curve C and below the line l: 6x - 2x^2 + 1 <= y <= 6 - x.",
         "Combine: x >= 5/2, y >= 0, 6x - 2x^2 + 1 <= y <= 6 - x."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-04.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-05.jpg"
       ]
     },
     {
@@ -198,7 +354,16 @@
       "no": "Q6(i)",
       "marks": 3,
       "topic": "Solving Rational Inequality",
-      "keywords": ["rational inequality", "reciprocal", "solve", "multiply by x", "sign", "cases", "positive x", "3/x>4"],
+      "keywords": [
+        "rational inequality",
+        "reciprocal",
+        "solve",
+        "multiply by x",
+        "sign",
+        "cases",
+        "positive x",
+        "3/x>4"
+      ],
       "question": "Solve 3/x > 4.",
       "status": "ready",
       "answer": "0 < x < 3/4",
@@ -206,6 +371,10 @@
         "Case x > 0: multiply by x without flipping: 3 > 4x, so x < 3/4. Together with x > 0: 0 < x < 3/4.",
         "Case x < 0: multiply by x and flip: 3 < 4x, so x > 3/4, which contradicts x < 0.",
         "So the only solution is 0 < x < 3/4."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-05.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-06.jpg"
       ]
     },
     {
@@ -213,7 +382,16 @@
       "no": "Q6(ii)",
       "marks": 3,
       "topic": "Inequalities Defining A Region",
-      "keywords": ["inequalities", "region", "quadrants", "curve", "line", "infinite region", "negative x-axis", "define"],
+      "keywords": [
+        "inequalities",
+        "region",
+        "quadrants",
+        "curve",
+        "line",
+        "infinite region",
+        "negative x-axis",
+        "define"
+      ],
       "question": "Curve C has equation y = 2x^2 - 50 and line l has gradient 3 and meets C on the negative x-axis. The infinite region R, lying in quadrants 2 and 3, is bounded by C and l only. Use inequalities to define R.",
       "status": "ready",
       "answer": "x <= -5, 3x + 15 <= y <= 2x^2 - 50",
@@ -222,6 +400,10 @@
         "R lies to the left of x = -5, so x <= -5.",
         "R lies above l and below C: 3x + 15 <= y <= 2x^2 - 50 (for x <= -5, C is above l).",
         "Combine: x <= -5 and 3x + 15 <= y <= 2x^2 - 50."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-05.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-06.jpg"
       ]
     },
     {
@@ -229,7 +411,16 @@
       "no": "Q7(a)",
       "marks": 4,
       "topic": "Area Of A Region Defined By Inequalities",
-      "keywords": ["area", "region", "trapezium", "inequalities", "constant k", "intersection", "shaded", "a and k"],
+      "keywords": [
+        "area",
+        "region",
+        "trapezium",
+        "inequalities",
+        "constant k",
+        "intersection",
+        "shaded",
+        "a and k"
+      ],
       "question": "Region R1 is defined by 0 <= y <= 2, y <= 10 - 2x and y <= kx. The line x = a passes through the intersection of y = 2 and y = kx. Given that the area of R1 is 27/4, find (i) the value of a and (ii) the value of k.",
       "status": "ready",
       "answer": "(i) a = 9/4 (ii) k = 8/9",
@@ -238,6 +429,10 @@
         "For 0 <= x <= a the top is y = kx: area = a (triangle with base a and height 2).",
         "For a <= x <= 4 the top is y = 2: area = 2(4 - a). For 4 <= x <= 5 the top is 10 - 2x: area = 1.",
         "Total area = a + 2(4 - a) + 1 = 9 - a = 27/4, so a = 9/4 and k = 2/a = 8/9."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-06.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-07.jpg"
       ]
     },
     {
@@ -245,7 +440,16 @@
       "no": "Q7(b)",
       "marks": 2,
       "topic": "Inequalities Defining A Triangle",
-      "keywords": ["inequalities", "region", "triangle", "x=a", "line", "shaded", "r2", "define"],
+      "keywords": [
+        "inequalities",
+        "region",
+        "triangle",
+        "x=a",
+        "line",
+        "shaded",
+        "r2",
+        "define"
+      ],
       "question": "Region R2, shaded in Figure 2, lies to the right of the line x = a, above y = kx and below y = 10 - 2x, where a = 9/4 and k = 8/9. Define R2 using inequalities.",
       "status": "ready",
       "answer": "x >= 9/4, 8x/9 <= y <= 10 - 2x",
@@ -254,6 +458,10 @@
         "R2 lies above the line y = kx = 8x/9.",
         "R2 lies below the line y = 10 - 2x.",
         "Combine: x >= 9/4, 8x/9 <= y <= 10 - 2x."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-06.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-07.jpg"
       ]
     },
     {
@@ -261,7 +469,16 @@
       "no": "Q8(a)",
       "marks": 3,
       "topic": "Completing The Square",
-      "keywords": ["complete the square", "a(x+b)^2+c", "half coefficient", "minimum point", "integers", "express", "curve c", "quadratic"],
+      "keywords": [
+        "complete the square",
+        "a(x+b)^2+c",
+        "half coefficient",
+        "minimum point",
+        "integers",
+        "express",
+        "curve c",
+        "quadratic"
+      ],
       "question": "Curve C has equation y = (1/2)x^2 - 10x + 22. Write (1/2)x^2 - 10x + 22 in the form a(x + b)^2 + c, where a, b and c are constants.",
       "status": "ready",
       "answer": "(1/2)(x - 10)^2 - 28 (a = 1/2, b = -10, c = -28)",
@@ -270,6 +487,10 @@
         "Complete the square: x^2 - 20x = (x - 10)^2 - 100.",
         "(1/2)((x - 10)^2 - 100) + 22 = (1/2)(x - 10)^2 - 50 + 22.",
         "So y = (1/2)(x - 10)^2 - 28."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-07.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-08.jpg"
       ]
     },
     {
@@ -277,7 +498,16 @@
       "no": "Q8(b)",
       "marks": 2,
       "topic": "Minimum Point Of A Curve",
-      "keywords": ["minimum point", "turning point", "deduce", "coordinates", "completed square", "curve c", "m", "vertex"],
+      "keywords": [
+        "minimum point",
+        "turning point",
+        "deduce",
+        "coordinates",
+        "completed square",
+        "curve c",
+        "m",
+        "vertex"
+      ],
       "question": "M is the minimum turning point of curve C, y = (1/2)(x - 10)^2 - 28. Deduce the coordinates of M.",
       "status": "ready",
       "answer": "M = (10, -28)",
@@ -285,6 +515,10 @@
         "The squared term (1/2)(x - 10)^2 is least (zero) when x = 10.",
         "At x = 10, y = -28.",
         "So M = (10, -28)."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-07.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-08.jpg"
       ]
     },
     {
@@ -292,7 +526,16 @@
       "no": "Q8(c)",
       "marks": 6,
       "topic": "Normal Line To A Curve",
-      "keywords": ["normal", "gradient", "perpendicular", "point p", "differentiate", "constant k", "tangent", "curve"],
+      "keywords": [
+        "normal",
+        "gradient",
+        "perpendicular",
+        "point p",
+        "differentiate",
+        "constant k",
+        "tangent",
+        "curve"
+      ],
       "question": "Line l is the normal to C at point P, with equation y = k - x/8, where k is a constant. Find (i) the coordinates of P and (ii) the value of k.",
       "status": "ready",
       "answer": "(i) P = (18, 4) (ii) k = 25/4",
@@ -301,6 +544,10 @@
         "x - 10 = 8 gives x = 18.",
         "y = (1/2)(18 - 10)^2 - 28 = 32 - 28 = 4, so P = (18, 4).",
         "Normal through P: 4 = k - 18/8, so k = 4 + 9/4 = 25/4."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-07.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-08.jpg"
       ]
     },
     {
@@ -308,7 +555,16 @@
       "no": "Q8(d)",
       "marks": 3,
       "topic": "Inequalities Defining A Region",
-      "keywords": ["inequalities", "region", "shaded", "normal", "vertical line", "curve", "finite region", "identify"],
+      "keywords": [
+        "inequalities",
+        "region",
+        "shaded",
+        "normal",
+        "vertical line",
+        "curve",
+        "finite region",
+        "identify"
+      ],
       "question": "Finite region R is bounded by line l, curve C and the line through M parallel to the y-axis, as shaded in Figure 4. Identify the inequalities that define R.",
       "status": "ready",
       "answer": "10 <= x <= 18, (1/2)x^2 - 10x + 22 <= y <= 25/4 - x/8",
@@ -317,6 +573,10 @@
         "R lies above the curve C: y >= (1/2)x^2 - 10x + 22.",
         "R lies below the line l: y <= 25/4 - x/8 (check at x = 18: y = 4 = P).",
         "Combine: 10 <= x <= 18 and (1/2)x^2 - 10x + 22 <= y <= 25/4 - x/8."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-07.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-08.jpg"
       ]
     },
     {
@@ -324,7 +584,16 @@
       "no": "Q9",
       "marks": 3,
       "topic": "Inequalities Defining A Region",
-      "keywords": ["inequalities", "unshaded region", "curve", "line", "parallel y-axis", "intercept", "define", "region r"],
+      "keywords": [
+        "inequalities",
+        "unshaded region",
+        "curve",
+        "line",
+        "parallel y-axis",
+        "intercept",
+        "define",
+        "region r"
+      ],
       "question": "Line l1 has equation 2y = x and curve C has equation y = 2x - (1/8)x^2. Region R is unshaded and bounded by l1, C and line l2, where l2 is parallel to the y-axis through the positive x-axis intercept of C. Identify the inequalities that define R.",
       "status": "ready",
       "answer": "12 <= x <= 16 and 2x - x^2/8 <= y <= x/2",
@@ -333,6 +602,10 @@
         "l1 and C meet where x/2 = 2x - x^2/8, giving x^2 - 12x = 0, so x = 0 or x = 12.",
         "R lies between x = 12 and x = 16, below l1 (y <= x/2) and above C (y >= 2x - x^2/8).",
         "Combine: 12 <= x <= 16 and 2x - x^2/8 <= y <= x/2."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-08.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-09.jpg"
       ]
     },
     {
@@ -340,7 +613,16 @@
       "no": "Q10(a)",
       "marks": 3,
       "topic": "Equation Of A Line Through Points",
-      "keywords": ["line", "gradient", "two points", "P and Q", "equation", "3x+y-7", "straight line", "coordinates"],
+      "keywords": [
+        "line",
+        "gradient",
+        "two points",
+        "P and Q",
+        "equation",
+        "3x+y-7",
+        "straight line",
+        "coordinates"
+      ],
       "question": "Line l passes through P(-2, 13) and Q(4, -5). Find an equation for l.",
       "status": "ready",
       "answer": "y = -3x + 7 (that is, 3x + y - 7 = 0)",
@@ -349,6 +631,10 @@
         "Use y - 13 = -3(x + 2).",
         "y - 13 = -3x - 6, so y = -3x + 7.",
         "Check Q: -12 + 7 = -5."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-09.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-10.jpg"
       ]
     },
     {
@@ -356,7 +642,16 @@
       "no": "Q10(b)",
       "marks": 3,
       "topic": "Equation Of Quadratic From Minimum",
-      "keywords": ["quadratic", "minimum point", "passes through", "vertex form", "find equation", "curve c", "coefficient", "Q"],
+      "keywords": [
+        "quadratic",
+        "minimum point",
+        "passes through",
+        "vertex form",
+        "find equation",
+        "curve c",
+        "coefficient",
+        "Q"
+      ],
       "question": "Curve C is a quadratic that passes through P(-2, 13) and has a minimum point at Q(4, -5). Find an equation for C.",
       "status": "ready",
       "answer": "y = (1/2)x^2 - 4x + 3",
@@ -365,6 +660,10 @@
         "Substitute P(-2, 13): a(36) - 5 = 13, so 36a = 18 and a = 1/2.",
         "y = (1/2)(x - 4)^2 - 5 = (1/2)(x^2 - 8x + 16) - 5.",
         "So y = (1/2)x^2 - 4x + 3."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-09.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-10.jpg"
       ]
     },
     {
@@ -372,7 +671,16 @@
       "no": "Q10(c)",
       "marks": 2,
       "topic": "Inequalities Defining A Region",
-      "keywords": ["inequalities", "second quadrant", "region", "curve", "line", "bounded", "define", "shaded"],
+      "keywords": [
+        "inequalities",
+        "second quadrant",
+        "region",
+        "curve",
+        "line",
+        "bounded",
+        "define",
+        "shaded"
+      ],
       "question": "Region R lies in the second quadrant and is bounded by curve C (y = (1/2)x^2 - 4x + 3) and line l (y = -3x + 7) only. Use inequalities to define R.",
       "status": "ready",
       "answer": "x <= -2 and -3x + 7 <= y <= (1/2)x^2 - 4x + 3",
@@ -381,6 +689,10 @@
         "For -2 < x < 4, C lies below l, so R must lie to the left: x <= -2.",
         "For x <= -2, C is above l, so -3x + 7 <= y <= (1/2)x^2 - 4x + 3.",
         "Combine: x <= -2 and -3x + 7 <= y <= (1/2)x^2 - 4x + 3."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-09.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-10.jpg"
       ]
     },
     {
@@ -388,7 +700,16 @@
       "no": "Q11",
       "marks": 4,
       "topic": "Solving Quadratic Inequality",
-      "keywords": ["quadratic inequality", "solve", "critical values", "roots", "sketch", "set of values", "algebra", "inequality"],
+      "keywords": [
+        "quadratic inequality",
+        "solve",
+        "critical values",
+        "roots",
+        "sketch",
+        "set of values",
+        "algebra",
+        "inequality"
+      ],
       "question": "Solve the inequality 4x^2 - 3x + 7 >= 4x + 9.",
       "status": "ready",
       "answer": "x <= -1/4 or x >= 2",
@@ -397,6 +718,10 @@
         "Factorise or solve 4x^2 - 7x - 2 = 0: x = (7 +/- sqrt(81))/8 = (7 +/- 9)/8.",
         "Roots are x = 2 and x = -1/4.",
         "The quadratic is positive outside the roots (positive x^2 coefficient), so x <= -1/4 or x >= 2."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-10.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-11.jpg"
       ]
     },
     {
@@ -404,7 +729,16 @@
       "no": "Q12(a)",
       "marks": 4,
       "topic": "Quadratic From Turning Point",
-      "keywords": ["quadratic", "maximum point", "roots", "find f(x)", "turning point", "vertex form", "expand", "negative x-axis"],
+      "keywords": [
+        "quadratic",
+        "maximum point",
+        "roots",
+        "find f(x)",
+        "turning point",
+        "vertex form",
+        "expand",
+        "negative x-axis"
+      ],
       "question": "Curve C has equation y = f(x), where f(x) is quadratic, with maximum turning point (-2, 12), and C cuts the negative x-axis at -5. Find f(x).",
       "status": "ready",
       "answer": "f(x) = -(4/3)x^2 - (16/3)x + 20/3",
@@ -413,6 +747,10 @@
         "Substitute (-5, 0): 9a + 12 = 0, so a = -4/3.",
         "f(x) = -(4/3)(x + 2)^2 + 12 = -(4/3)(x^2 + 4x + 4) + 12.",
         "Expand: f(x) = -(4/3)x^2 - (16/3)x + 20/3."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-11.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-12.jpg"
       ]
     },
     {
@@ -420,7 +758,16 @@
       "no": "Q12(b)",
       "marks": 3,
       "topic": "Perpendicular Line Equation",
-      "keywords": ["perpendicular", "gradient", "point", "equation", "y=mx+c", "negative reciprocal", "line l2", "(-5,0)"],
+      "keywords": [
+        "perpendicular",
+        "gradient",
+        "point",
+        "equation",
+        "y=mx+c",
+        "negative reciprocal",
+        "line l2",
+        "(-5,0)"
+      ],
       "question": "Line l1 has equation y = (4/5)x. Line l2 is perpendicular to l1 and passes through (-5, 0). Find an equation for l2 in the form y = mx + c.",
       "status": "ready",
       "answer": "y = -(5/4)x - 25/4",
@@ -428,6 +775,10 @@
         "Gradient of l1 is 4/5, so the gradient of l2 is -5/4.",
         "Use y - 0 = (-5/4)(x + 5).",
         "y = -(5/4)x - 25/4."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-11.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-12.jpg"
       ]
     },
     {
@@ -435,7 +786,16 @@
       "no": "Q12(c)",
       "marks": 2,
       "topic": "Inequalities Defining A Region",
-      "keywords": ["inequalities", "region", "shaded", "curve", "lines", "y-axis", "define", "figure 2"],
+      "keywords": [
+        "inequalities",
+        "region",
+        "shaded",
+        "curve",
+        "lines",
+        "y-axis",
+        "define",
+        "figure 2"
+      ],
       "question": "Figure 2 shows the curve C (maximum at (-2, 12)), the lines l1 (y = 4x/5) and l2 (perpendicular to l1, through (-5, 0)), and the region R shaded in the figure, which is bounded by C, l1, l2 and the y-axis. Use inequalities to define region R.",
       "status": "ready",
       "answer": "x <= 0, y <= -(4/3)x^2 - (16/3)x + 20/3, y >= (4/5)x, y >= -(5/4)x - 25/4",
@@ -444,6 +804,10 @@
         "R lies below the curve C: y <= -(4/3)x^2 - (16/3)x + 20/3.",
         "R lies above l1 (y = 4x/5) and above l2 (y = -5x/4 - 25/4), since the lines meet below the x-axis at about (-3.05, -2.44).",
         "Combine: x <= 0, y >= 4x/5, y >= -5x/4 - 25/4 and y <= -(4/3)x^2 - (16/3)x + 20/3."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-11.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-12.jpg"
       ]
     },
     {
@@ -451,7 +815,16 @@
       "no": "Q13(a)",
       "marks": 4,
       "topic": "Sketching Line And Quadratic",
-      "keywords": ["sketch", "line", "quadratic", "intercepts", "coordinates", "axes", "graph", "y=x^2-x-6"],
+      "keywords": [
+        "sketch",
+        "line",
+        "quadratic",
+        "intercepts",
+        "coordinates",
+        "axes",
+        "graph",
+        "y=x^2-x-6"
+      ],
       "question": "On the same axes, sketch the graphs of y = x + 2 and y = x^2 - x - 6, showing the coordinates of all points at which each graph crosses the coordinate axes.",
       "status": "ready",
       "answer": "Line: (0, 2) and (-2, 0). Curve: (-2, 0), (3, 0) and (0, -6).",
@@ -460,6 +833,10 @@
         "Curve y = (x + 2)(x - 3): x-intercepts (-2, 0) and (3, 0).",
         "Curve y-intercept: x = 0 gives y = -6, so (0, -6).",
         "Draw a straight line through (-2, 0) and (0, 2), and an upward U-shape through (-2, 0), (0, -6) and (3, 0)."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-12.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-13.jpg"
       ]
     },
     {
@@ -467,7 +844,16 @@
       "no": "Q13(b)",
       "marks": 1,
       "topic": "Shading Inequality Region",
-      "keywords": ["shading", "region", "inequalities", "above curve", "below line", "sketch", "y < x+2", "y > x^2-x-6"],
+      "keywords": [
+        "shading",
+        "region",
+        "inequalities",
+        "above curve",
+        "below line",
+        "sketch",
+        "y < x+2",
+        "y > x^2-x-6"
+      ],
       "question": "On your sketch from part (a), shade the region R defined by y < x + 2 and y > x^2 - x - 6.",
       "status": "ready",
       "answer": "Region below the line y = x + 2 and above the curve y = x^2 - x - 6 (between the two graphs)",
@@ -475,6 +861,10 @@
         "y < x + 2 means points below the line.",
         "y > x^2 - x - 6 means points above the curve.",
         "Shade the area between the line and the curve, which lies between x = -2 and x = 3."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-12.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-13.jpg"
       ]
     },
     {
@@ -482,7 +872,16 @@
       "no": "Q13(c)",
       "marks": 3,
       "topic": "Quadratic Inequality From Graph",
-      "keywords": ["quadratic inequality", "hence", "set of values", "factorise", "roots", "x^2-2x-8", "graph", "solve"],
+      "keywords": [
+        "quadratic inequality",
+        "hence",
+        "set of values",
+        "factorise",
+        "roots",
+        "x^2-2x-8",
+        "graph",
+        "solve"
+      ],
       "question": "Hence, or otherwise, find the set of values of x for which x^2 - 2x - 8 < 0.",
       "status": "ready",
       "answer": "-2 < x < 4",
@@ -490,6 +889,10 @@
         "Factorise: x^2 - 2x - 8 = (x - 4)(x + 2).",
         "Roots are x = -2 and x = 4; the upward parabola is negative between them.",
         "So -2 < x < 4."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-12.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-13.jpg"
       ]
     },
     {
@@ -497,7 +900,16 @@
       "no": "Q14",
       "marks": 6,
       "topic": "Discriminant Range Of Parameter",
-      "keywords": ["discriminant", "line does not meet curve", "no intersection", "set of values", "k", "quadratic", "inequality", "tangent"],
+      "keywords": [
+        "discriminant",
+        "line does not meet curve",
+        "no intersection",
+        "set of values",
+        "k",
+        "quadratic",
+        "inequality",
+        "tangent"
+      ],
       "question": "The straight line l has equation y = k(2x - 1), where k is a constant. The curve C has equation y = x^2 + 2x + 11. Find the set of values of k for which l does not cross or touch C.",
       "status": "ready",
       "answer": "-2 < k < 5",
@@ -507,6 +919,11 @@
         "No intersection needs discriminant < 0: (2 - 2k)^2 - 4(11 + k) < 0.",
         "Simplify: 4k^2 - 12k - 40 < 0, so k^2 - 3k - 10 < 0, i.e. (k - 5)(k + 2) < 0.",
         "So -2 < k < 5."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-13.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-14.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-15.jpg"
       ]
     },
     {
@@ -514,7 +931,16 @@
       "no": "Q15(a) and (b)",
       "marks": 3,
       "topic": "Minimum Point And Line Intersection",
-      "keywords": ["minimum point", "completed square", "line through origin", "intersection", "coordinates", "quadratic", "curve c", "m and n"],
+      "keywords": [
+        "minimum point",
+        "completed square",
+        "line through origin",
+        "intersection",
+        "coordinates",
+        "quadratic",
+        "curve c",
+        "m and n"
+      ],
       "question": "Curve C has equation y = x^2 - 5x + 13 with minimum point M. Line l passes through the origin O and intersects C at M and N. Find, showing working, (a) the coordinates of M and (b) the coordinates of N.",
       "status": "ready",
       "answer": "(a) M = (5/2, 27/4); (b) N = (26/5, 351/25)",
@@ -523,6 +949,11 @@
         "Line through O and M has gradient (27/4)/(5/2) = 27/10, so y = 27x/10.",
         "Substitute into C: x^2 - 5x + 13 = 27x/10, giving 10x^2 - 77x + 130 = 0.",
         "(2x - 5)(5x - 26) = 0, so x = 5/2 (M) or x = 26/5, and y = 27(26/5)/10 = 351/25, so N = (26/5, 351/25)."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-13.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-14.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-15.jpg"
       ]
     },
     {
@@ -530,7 +961,16 @@
       "no": "Q15(c)",
       "marks": 2,
       "topic": "Inequalities Defining A Region",
-      "keywords": ["inequalities", "region", "bounded by curve", "line", "y-axis", "shaded", "finite region", "define"],
+      "keywords": [
+        "inequalities",
+        "region",
+        "bounded by curve",
+        "line",
+        "y-axis",
+        "shaded",
+        "finite region",
+        "define"
+      ],
       "question": "Region R, shaded in Figure 3, is bounded by curve C (y = x^2 - 5x + 13), line l (y = 27x/10) and the y-axis. Use inequalities to define R.",
       "status": "ready",
       "answer": "0 <= x <= 5/2 and 27x/10 <= y <= x^2 - 5x + 13",
@@ -539,6 +979,11 @@
         "R stops at M, where x = 5/2.",
         "Between x = 0 and x = 5/2, the curve C lies above the line l.",
         "So 0 <= x <= 5/2 and 27x/10 <= y <= x^2 - 5x + 13."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-13.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-14.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-15.jpg"
       ]
     },
     {
@@ -546,7 +991,16 @@
       "no": "Q16",
       "marks": 5,
       "topic": "Tangency Condition Discriminant",
-      "keywords": ["tangent", "discriminant", "repeated root", "straight line", "curve", "constant c", "y=4x+c", "y=2x^2+8x+3"],
+      "keywords": [
+        "tangent",
+        "discriminant",
+        "repeated root",
+        "straight line",
+        "curve",
+        "constant c",
+        "y=4x+c",
+        "y=2x^2+8x+3"
+      ],
       "question": "The straight line y = 4x + c is a tangent to the curve y = 2x^2 + 8x + 3. Calculate the value of c.",
       "status": "ready",
       "answer": "c = 1",
@@ -555,6 +1009,10 @@
         "Rearrange: 2x^2 + 4x + (3 - c) = 0.",
         "A tangent means one repeated root, so the discriminant is zero: 16 - 8(3 - c) = 0.",
         "16 - 24 + 8c = 0, so c = 1."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-15.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-16.jpg"
       ]
     },
     {
@@ -562,7 +1020,16 @@
       "no": "Q17(a)",
       "marks": 3,
       "topic": "Perimeter Inequality",
-      "keywords": ["perimeter", "garden", "inequality", "lengths", "show that", "algebra", "L-shape", "greater than"],
+      "keywords": [
+        "perimeter",
+        "garden",
+        "inequality",
+        "lengths",
+        "show that",
+        "algebra",
+        "L-shape",
+        "greater than"
+      ],
       "question": "Figure 1 shows the plan of an L-shaped garden (lengths in metres, all angles marked are right angles). Labelled lengths are 2x - 1 (top), 5x (left side), 6x - 2 (bottom), and 2x (notch). The perimeter is greater than 29 m. Show that x > 1.5.",
       "status": "ready",
       "answer": "Shown: perimeter = 22x - 4 > 29, so x > 1.5",
@@ -571,6 +1038,10 @@
         "Perimeter = (2x - 1) + 5x + (6x - 2) + 3x + (4x - 1) + 2x = 22x - 4.",
         "22x - 4 > 29 gives 22x > 33.",
         "So x > 33/22 = 1.5."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-15.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-16.jpg"
       ]
     },
     {
@@ -578,7 +1049,16 @@
       "no": "Q17(b)",
       "marks": 5,
       "topic": "Quadratic Inequality From Area",
-      "keywords": ["area", "quadratic inequality", "garden", "72", "factorise", "roots", "form and solve", "x"],
+      "keywords": [
+        "area",
+        "quadratic inequality",
+        "garden",
+        "72",
+        "factorise",
+        "roots",
+        "form and solve",
+        "x"
+      ],
       "question": "Given also that the area of the garden is less than 72 m^2, form and solve a quadratic inequality in x.",
       "status": "ready",
       "answer": "-18/11 < x < 2",
@@ -587,6 +1067,10 @@
         "Inequality: 22x^2 - 8x < 72, so 11x^2 - 4x - 36 < 0.",
         "Factorise: (x - 2)(11x + 18) < 0 (check: 11x^2 - 4x - 36).",
         "Critical values x = 2 and x = -18/11, so -18/11 < x < 2."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-15.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-16.jpg"
       ]
     },
     {
@@ -594,7 +1078,16 @@
       "no": "Q17(c)",
       "marks": 1,
       "topic": "Combining Inequalities",
-      "keywords": ["range", "combine inequalities", "possible values", "x", "perimeter", "area", "garden", "interval"],
+      "keywords": [
+        "range",
+        "combine inequalities",
+        "possible values",
+        "x",
+        "perimeter",
+        "area",
+        "garden",
+        "interval"
+      ],
       "question": "Hence state the range of possible values of x for the garden, given x > 1.5 and the area condition.",
       "status": "ready",
       "answer": "1.5 < x < 2",
@@ -602,6 +1095,10 @@
         "From part (a): x > 1.5.",
         "From part (b): -18/11 < x < 2.",
         "Both must hold, so 1.5 < x < 2."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-15.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-16.jpg"
       ]
     },
     {
@@ -609,7 +1106,16 @@
       "no": "Q18(a)",
       "marks": 4,
       "topic": "Sketching Reciprocal Squared Curve",
-      "keywords": ["sketch", "asymptotes", "reciprocal", "intercepts", "curve", "1/x^2", "axes", "graph"],
+      "keywords": [
+        "sketch",
+        "asymptotes",
+        "reciprocal",
+        "intercepts",
+        "curve",
+        "1/x^2",
+        "axes",
+        "graph"
+      ],
       "question": "The curve C has equation y = 1/x^2 - 9. Sketch the graph of C, showing the coordinates of any points of intersection with the coordinate axes and stating the equations of any asymptotes.",
       "status": "ready",
       "answer": "Intercepts (1/3, 0) and (-1/3, 0); asymptotes x = 0 and y = -9",
@@ -618,6 +1124,10 @@
         "As x becomes large, 1/x^2 tends to 0, so y = -9 is an asymptote.",
         "x-intercepts: 1/x^2 = 9, so x = +/- 1/3. No y-intercept (x = 0 is not defined).",
         "Sketch two branches in each of the regions x > 0 and x < 0, both tending to y = -9 as |x| grows and rising steeply near x = 0."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-16.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-17.jpg"
       ]
     },
     {
@@ -625,7 +1135,16 @@
       "no": "Q18(b)",
       "marks": 5,
       "topic": "Range Of Parameter For Intersections",
-      "keywords": ["intersections", "four distinct points", "discriminant", "range", "k", "substitution", "quadratic in u", "curves"],
+      "keywords": [
+        "intersections",
+        "four distinct points",
+        "discriminant",
+        "range",
+        "k",
+        "substitution",
+        "quadratic in u",
+        "curves"
+      ],
       "question": "Curve D has equation y = kx^2, where k is a constant. Given that C (y = 1/x^2 - 9) meets D at 4 distinct points, find the range of possible values for k.",
       "status": "ready",
       "answer": "-81/4 < k < 0",
@@ -634,6 +1153,10 @@
         "Let u = x^2 > 0: ku^2 + 9u - 1 = 0 must have two distinct positive roots.",
         "Conditions: discriminant 81 + 4k > 0; product of roots -1/k > 0 and sum -9/k > 0, so k < 0.",
         "So -81/4 < k < 0 (each positive u gives two distinct x values)."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-16.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-17.jpg"
       ]
     },
     {
@@ -641,7 +1164,16 @@
       "no": "Q19(a)",
       "marks": 3,
       "topic": "Discriminant Of Rearranged Equation",
-      "keywords": ["discriminant", "two distinct roots", "show that", "multiply out", "rational equation", "quadratic", "inequality", "x+p"],
+      "keywords": [
+        "discriminant",
+        "two distinct roots",
+        "show that",
+        "multiply out",
+        "rational equation",
+        "quadratic",
+        "inequality",
+        "x+p"
+      ],
       "question": "The equation 4(p - 2x) = (12 + 15p)/(x + p), where x is not -p and p is a constant, has two distinct real roots. Show that 3p^2 - 10p - 8 > 0.",
       "status": "ready",
       "answer": "Shown: 3p^2 - 10p - 8 > 0",
@@ -650,6 +1182,10 @@
         "Expand LHS: 4(p^2 - px - 2x^2) = 4p^2 - 4px - 8x^2.",
         "Rearrange: 8x^2 + 4px - 4p^2 + 15p + 12 = 0.",
         "Discriminant > 0: 16p^2 - 32(-4p^2 + 15p + 12) > 0, i.e. 144p^2 - 480p - 384 > 0; divide by 48: 3p^2 - 10p - 8 > 0."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-17.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-18.jpg"
       ]
     },
     {
@@ -657,7 +1193,16 @@
       "no": "Q19(b)",
       "marks": 3,
       "topic": "Quadratic Inequality In P",
-      "keywords": ["quadratic inequality", "range of p", "factorise", "critical values", "exclude", "x=-p", "distinct roots", "algebra"],
+      "keywords": [
+        "quadratic inequality",
+        "range of p",
+        "factorise",
+        "critical values",
+        "exclude",
+        "x=-p",
+        "distinct roots",
+        "algebra"
+      ],
       "question": "Hence, using algebra, find the range of possible values of p for the equation in part (a) to have two distinct real roots with x not equal to -p.",
       "status": "ready",
       "answer": "p < -2/3 or p > 4, excluding p = -4/5 (so p < -4/5, -4/5 < p < -2/3, or p > 4)",
@@ -666,6 +1211,10 @@
         "Critical values p = -2/3 and p = 4, so p < -2/3 or p > 4.",
         "Check the excluded root x = -p: substituting into 8x^2 + 4px - 4p^2 + 15p + 12 = 0 gives 15p + 12, which is zero when p = -4/5.",
         "At p = -4/5 one root equals -p and is rejected, so exclude p = -4/5."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-17.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-18.jpg"
       ]
     },
     {
@@ -673,7 +1222,16 @@
       "no": "Q20(a)",
       "marks": 3,
       "topic": "Reading Inequality From Graph",
-      "keywords": ["graph", "range of x", "f(x)<6", "cubic curve", "read from graph", "intervals", "figure 1", "inequality"],
+      "keywords": [
+        "graph",
+        "range of x",
+        "f(x)<6",
+        "cubic curve",
+        "read from graph",
+        "intervals",
+        "figure 1",
+        "inequality"
+      ],
       "question": "Figure 1 shows y = f(x), passing through P(-4, 6), Q(-1, 6), R(2, 6) and S(3, 6). Using Figure 1, find the range of values of x for which f(x) < 6.",
       "status": "ready",
       "answer": "x < -4, -1 < x < 2, or x > 3",
@@ -682,6 +1240,10 @@
         "Between Q and R the curve dips below y = 6, so -1 < x < 2.",
         "To the right of S the curve falls below y = 6, so x > 3.",
         "Combine: x < -4, -1 < x < 2 or x > 3."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-17.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-18.jpg"
       ]
     },
     {
@@ -689,7 +1251,16 @@
       "no": "Q20(b)",
       "marks": 1,
       "topic": "Transformations Of Graphs",
-      "keywords": ["largest solution", "f(2x)", "transformation", "horizontal stretch", "graph", "solution", "equation", "x=3/2"],
+      "keywords": [
+        "largest solution",
+        "f(2x)",
+        "transformation",
+        "horizontal stretch",
+        "graph",
+        "solution",
+        "equation",
+        "x=3/2"
+      ],
       "question": "Using Figure 1, state the largest solution of f(2x) = 6.",
       "status": "ready",
       "answer": "x = 3/2",
@@ -697,6 +1268,10 @@
         "f(t) = 6 at t = -4, -1, 2 and 3.",
         "2x = t, so x = t/2: x = -2, -1/2, 1 and 3/2.",
         "The largest solution is x = 3/2."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-17.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-18.jpg"
       ]
     },
     {
@@ -704,7 +1279,16 @@
       "no": "Q20(c)",
       "marks": 4,
       "topic": "Reflection And Inequality Range",
-      "keywords": ["reflection", "y-axis", "f(-x)", "sketch", "transformed points", "inequality", "x<0", "coordinates"],
+      "keywords": [
+        "reflection",
+        "y-axis",
+        "f(-x)",
+        "sketch",
+        "transformed points",
+        "inequality",
+        "x<0",
+        "coordinates"
+      ],
       "question": "(i) Sketch y = f(-x) for the curve in Figure 1, stating the coordinates of the points to which P, Q, R and S are transformed. (ii) Hence find the set of values of x for which f(-x) >= 6 and x < 0.",
       "status": "ready",
       "answer": "(i) P goes to (4, 6), Q to (1, 6), R to (-2, 6), S to (-3, 6); (ii) -3 <= x <= -2",
@@ -713,6 +1297,10 @@
         "P(-4, 6) to (4, 6); Q(-1, 6) to (1, 6); R(2, 6) to (-2, 6); S(3, 6) to (-3, 6).",
         "f(-x) >= 6 with x < 0 means t = -x > 0 with f(t) >= 6.",
         "From Figure 1, f(t) >= 6 for 2 <= t <= 3, so -3 <= x <= -2."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-17.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-18.jpg"
       ]
     },
     {
@@ -720,7 +1308,16 @@
       "no": "Q21(a)",
       "marks": 5,
       "topic": "Completing The Square And Turning Point",
-      "keywords": ["complete the square", "maximum point", "turning point", "cubic", "a+b(x+c)^2", "curve c", "coordinates", "quadratic"],
+      "keywords": [
+        "complete the square",
+        "maximum point",
+        "turning point",
+        "cubic",
+        "a+b(x+c)^2",
+        "curve c",
+        "coordinates",
+        "quadratic"
+      ],
       "question": "Curve C has equation y = 4 + 12x - 3x^2 with maximum turning point M. (i) Write 4 + 12x - 3x^2 in the form a + b(x + c)^2. (ii) Hence, or otherwise, state the coordinates of M.",
       "status": "ready",
       "answer": "(i) 16 - 3(x - 2)^2 (a = 16, b = -3, c = -2); (ii) M = (2, 16)",
@@ -729,6 +1326,10 @@
         "Complete the square: x^2 - 4x = (x - 2)^2 - 4.",
         "-3((x - 2)^2 - 4) + 4 = -3(x - 2)^2 + 12 + 4 = 16 - 3(x - 2)^2.",
         "Since -3(x - 2)^2 is largest when x = 2, M = (2, 16)."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-18.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-19.jpg"
       ]
     },
     {
@@ -736,7 +1337,16 @@
       "no": "Q21(b)",
       "marks": 5,
       "topic": "Tangent Parallel To A Line",
-      "keywords": ["tangent", "parallel", "gradient", "discriminant", "line through origin", "touches curve", "equation", "y=8x+16/3"],
+      "keywords": [
+        "tangent",
+        "parallel",
+        "gradient",
+        "discriminant",
+        "line through origin",
+        "touches curve",
+        "equation",
+        "y=8x+16/3"
+      ],
       "question": "Line l1 passes through O and M (as in Figure 4). A line l2 touches C and is parallel to l1. Find an equation for l2.",
       "status": "ready",
       "answer": "y = 8x + 16/3",
@@ -745,6 +1355,10 @@
         "l2 is parallel, so y = 8x + c. Substitute into C: 4 + 12x - 3x^2 = 8x + c.",
         "Rearrange: 3x^2 - 4x + (c - 4) = 0. Touching needs discriminant 0: 16 - 12(c - 4) = 0, so c = 16/3.",
         "l2: y = 8x + 16/3 (touches C at x = 2/3)."
+      ],
+      "images": [
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-18.jpg",
+        "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-19.jpg"
       ]
     }
   ]

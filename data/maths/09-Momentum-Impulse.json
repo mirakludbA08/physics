@@ -9,7 +9,16 @@
       "no": "Q1(a)",
       "marks": 4,
       "topic": "Mass Ratio In Collision",
-      "keywords": ["momentum", "collision", "conservation of momentum", "direct collision", "impulse", "mass", "reversed direction", "speed halved"],
+      "keywords": [
+        "momentum",
+        "collision",
+        "conservation of momentum",
+        "direct collision",
+        "impulse",
+        "mass",
+        "reversed direction",
+        "speed halved"
+      ],
       "question": "Particle P has mass km and particle Q has mass m. They move towards each other along the same line and collide directly. Immediately before, P has speed 3u and Q has speed u. After the collision each direction of motion is reversed and each speed is halved. Find the value of k.",
       "status": "ready",
       "answer": "k = 1/3",
@@ -19,6 +28,10 @@
         "Conservation of momentum: km(3u) + m(-u) = km(-3u/2) + m(u/2)",
         "Divide by mu: 3k - 1 = -3k/2 + 1/2",
         "9k/2 = 3/2, so k = 1/3"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-1.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-2.jpg"
       ]
     },
     {
@@ -26,7 +39,16 @@
       "no": "Q1(b)",
       "marks": 3,
       "topic": "Impulse On Particle Q",
-      "keywords": ["impulse", "change in momentum", "collision", "particle Q", "magnitude", "momentum", "direct collision", "mass"],
+      "keywords": [
+        "impulse",
+        "change in momentum",
+        "collision",
+        "particle Q",
+        "magnitude",
+        "momentum",
+        "direct collision",
+        "mass"
+      ],
       "question": "Find, in terms of m and u, the magnitude of the impulse exerted on Q in the collision.",
       "status": "ready",
       "answer": "3mu/2 N s",
@@ -35,6 +57,10 @@
         "Q changes from -u to +u/2, a change of 3u/2 in velocity",
         "Impulse = m(3u/2) = 3mu/2 N s",
         "Check: impulse on P = (m/3)(-3u/2 - 3u) = -3mu/2, equal and opposite"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-1.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-2.jpg"
       ]
     },
     {
@@ -42,7 +68,16 @@
       "no": "Q2(a)",
       "marks": 2,
       "topic": "Impulse On Q From P",
-      "keywords": ["impulse", "change in momentum", "collision", "particle Q", "reversed direction", "magnitude", "momentum", "mass"],
+      "keywords": [
+        "impulse",
+        "change in momentum",
+        "collision",
+        "particle Q",
+        "reversed direction",
+        "magnitude",
+        "momentum",
+        "mass"
+      ],
       "question": "Particle P of mass 3m and particle Q of mass 5m move towards each other along the same line on a smooth horizontal surface and collide directly. Before the collision P has speed ku and Q has speed 2u. After the collision P has speed u and Q has speed 3u, with the direction of Q reversed. Find, in terms of m and u, the magnitude of the impulse exerted on Q by P.",
       "status": "ready",
       "answer": "25mu N s",
@@ -51,6 +86,10 @@
         "Q after has velocity +3u (direction reversed)",
         "Impulse on Q = 5m(3u - (-2u)) = 5m(5u)",
         "Magnitude = 25mu N s"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-1.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-2.jpg"
       ]
     },
     {
@@ -58,7 +97,16 @@
       "no": "Q2(b)",
       "marks": 5,
       "topic": "Possible Values Of k",
-      "keywords": ["conservation of momentum", "collision", "two possible values", "speed", "reversed direction", "impulse", "particle P", "momentum"],
+      "keywords": [
+        "conservation of momentum",
+        "collision",
+        "two possible values",
+        "speed",
+        "reversed direction",
+        "impulse",
+        "particle P",
+        "momentum"
+      ],
       "question": "Find the two possible values of k.",
       "status": "ready",
       "answer": "k = 22/3 or k = 28/3",
@@ -68,6 +116,10 @@
         "P has speed u after the collision, so v = u or v = -u",
         "v = u gives ku = 28u/3, so k = 28/3",
         "v = -u gives ku = 22u/3, so k = 22/3"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-1.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-2.jpg"
       ]
     },
     {
@@ -75,7 +127,16 @@
       "no": "Q3(a)",
       "marks": 3,
       "topic": "Speed Of P After Collision",
-      "keywords": ["impulse", "collision", "momentum", "speed after collision", "smooth horizontal plane", "particle P", "direct collision", "conservation of momentum"],
+      "keywords": [
+        "impulse",
+        "collision",
+        "momentum",
+        "speed after collision",
+        "smooth horizontal plane",
+        "particle P",
+        "direct collision",
+        "conservation of momentum"
+      ],
       "question": "Particles P (mass 2m) and Q (mass m) move towards each other along the same line on a smooth horizontal plane and collide directly. Immediately before the collision P has speed 3u and Q has speed 2u. The magnitude of the impulse exerted on Q by P is 5mu. Find the speed of P immediately after the collision.",
       "status": "ready",
       "answer": "u/2",
@@ -85,6 +146,10 @@
         "Conservation of momentum: 2m(3u) + m(-2u) = 2m v_P + m(3u)",
         "4mu = 2m v_P + 3mu, so v_P = u/2",
         "Speed of P immediately after = u/2"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-2.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-3.jpg"
       ]
     },
     {
@@ -92,7 +157,16 @@
       "no": "Q3(b)",
       "marks": 3,
       "topic": "Speed Of Q After Collision",
-      "keywords": ["impulse", "speed after collision", "momentum", "particle Q", "collision", "change in momentum", "direct collision", "velocity"],
+      "keywords": [
+        "impulse",
+        "speed after collision",
+        "momentum",
+        "particle Q",
+        "collision",
+        "change in momentum",
+        "direct collision",
+        "velocity"
+      ],
       "question": "Using the same collision as in part (a), find the speed of Q immediately after the collision.",
       "status": "ready",
       "answer": "3u",
@@ -100,6 +174,10 @@
         "Impulse on Q = m(v_Q - (-2u)) = 5mu",
         "v_Q + 2u = 5u, so v_Q = 3u",
         "Speed of Q immediately after = 3u, moving in P's original direction"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-2.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-3.jpg"
       ]
     },
     {
@@ -107,7 +185,16 @@
       "no": "Q4(a)",
       "marks": 3,
       "topic": "Speed Of Q After Impulse",
-      "keywords": ["impulse", "speed after collision", "momentum", "particle Q", "collision", "change in momentum", "direct collision", "velocity"],
+      "keywords": [
+        "impulse",
+        "speed after collision",
+        "momentum",
+        "particle Q",
+        "collision",
+        "change in momentum",
+        "direct collision",
+        "velocity"
+      ],
       "question": "Particles P and Q move towards each other in opposite directions along the same straight line and collide directly. Immediately before the collision the speed of Q is 2u. The mass of Q is 3m and the magnitude of the impulse exerted by P on Q is 4mu. Find the speed of Q immediately after the collision.",
       "status": "ready",
       "answer": "2u/3",
@@ -116,6 +203,10 @@
         "The impulse on Q acts in the direction of P's motion: 3m(v_Q + 2u) = 4mu",
         "v_Q + 2u = 4u/3, so v_Q = -2u/3",
         "Speed of Q immediately after = 2u/3"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-2.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-3.jpg"
       ]
     },
     {
@@ -123,7 +214,16 @@
       "no": "Q4(b)",
       "marks": 1,
       "topic": "Direction After Collision",
-      "keywords": ["direction of motion", "velocity sign", "collision", "particle Q", "after collision", "reversed", "impulse", "momentum"],
+      "keywords": [
+        "direction of motion",
+        "velocity sign",
+        "collision",
+        "particle Q",
+        "after collision",
+        "reversed",
+        "impulse",
+        "momentum"
+      ],
       "question": "Find the direction of motion of Q immediately after the collision, using the collision in part (a).",
       "status": "ready",
       "answer": "Q continues in its original direction (not reversed)",
@@ -131,6 +231,10 @@
         "Velocity of Q after the collision is -2u/3",
         "This is negative, the same sign as Q's velocity before the collision (-2u)",
         "So Q carries on in its original direction of motion"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-2.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-3.jpg"
       ]
     },
     {
@@ -138,7 +242,16 @@
       "no": "Q5(a)",
       "marks": 2,
       "topic": "Common Speed Of Trucks",
-      "keywords": ["common speed", "momentum", "railway trucks", "coalesce", "collision", "conservation of momentum", "mass", "impulse"],
+      "keywords": [
+        "common speed",
+        "momentum",
+        "railway trucks",
+        "coalesce",
+        "collision",
+        "conservation of momentum",
+        "mass",
+        "impulse"
+      ],
       "question": "Railway truck S of mass 20 tonnes moves at 4 m/s along a straight horizontal track and collides with truck T of mass 30 tonnes which is at rest. The trucks join together. Find the common speed immediately after the collision.",
       "status": "ready",
       "answer": "1.6 m/s",
@@ -146,6 +259,10 @@
         "Conservation of momentum with 20 tonnes = 20000 kg: 20000 x 4 = (20000 + 30000)v",
         "80000 = 50000v",
         "v = 1.6 m/s"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-3.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-4.jpg"
       ]
     },
     {
@@ -153,7 +270,16 @@
       "no": "Q5(b)",
       "marks": 3,
       "topic": "Impulse On Truck S",
-      "keywords": ["impulse", "change in momentum", "railway trucks", "units", "collision", "momentum", "mass", "newton second"],
+      "keywords": [
+        "impulse",
+        "change in momentum",
+        "railway trucks",
+        "units",
+        "collision",
+        "momentum",
+        "mass",
+        "newton second"
+      ],
       "question": "Find the magnitude of the impulse exerted on S in the collision, stating the units of your answer.",
       "status": "ready",
       "answer": "48000 N s (kg m/s)",
@@ -161,6 +287,10 @@
         "Impulse on S = change in its momentum = 20000(1.6 - 4)",
         "= -48000 kg m/s",
         "Magnitude = 48000 N s (equivalently kg m/s)"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-3.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-4.jpg"
       ]
     },
     {
@@ -168,7 +298,16 @@
       "no": "Q6(a)",
       "marks": 3,
       "topic": "Speed Of P After Collision",
-      "keywords": ["rough horizontal plane", "collision", "momentum", "speed after collision", "particle Q at rest", "direct collision", "conservation of momentum", "velocity"],
+      "keywords": [
+        "rough horizontal plane",
+        "collision",
+        "momentum",
+        "speed after collision",
+        "particle Q at rest",
+        "direct collision",
+        "conservation of momentum",
+        "velocity"
+      ],
       "question": "Particle P of mass 2m moves on a rough horizontal plane with speed 3u and collides directly with particle Q of mass 4m at rest. Immediately after the collision Q has speed 2u. Find, in terms of u, the speed of P immediately after the collision.",
       "status": "ready",
       "answer": "u",
@@ -177,6 +316,10 @@
         "Conservation of momentum: 2m(3u) = 2m v_P + 4m(2u)",
         "6mu = 2m v_P + 8mu, so 2m v_P = -2mu",
         "v_P = -u, so the speed of P after the collision is u"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-3.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-4.jpg"
       ]
     },
     {
@@ -184,7 +327,16 @@
       "no": "Q6(b)",
       "marks": 1,
       "topic": "Direction Of P After Collision",
-      "keywords": ["direction of motion", "velocity sign", "collision", "particle P", "reversed", "rough plane", "after collision", "momentum"],
+      "keywords": [
+        "direction of motion",
+        "velocity sign",
+        "collision",
+        "particle P",
+        "reversed",
+        "rough plane",
+        "after collision",
+        "momentum"
+      ],
       "question": "State clearly the direction of motion of P immediately after the collision.",
       "status": "ready",
       "answer": "P reverses, moving in the opposite direction to its original motion",
@@ -192,6 +344,10 @@
         "Velocity of P after the collision is -u",
         "The negative sign is opposite to P's original positive direction",
         "So P moves back the way it came"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-3.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-4.jpg"
       ]
     },
     {
@@ -199,7 +355,16 @@
       "no": "Q6(c)",
       "marks": 6,
       "topic": "Coefficient Of Friction",
-      "keywords": ["coefficient of friction", "deceleration", "friction", "rough plane", "stopping distance", "suvat", "particle Q", "work"],
+      "keywords": [
+        "coefficient of friction",
+        "deceleration",
+        "friction",
+        "rough plane",
+        "stopping distance",
+        "suvat",
+        "particle Q",
+        "work"
+      ],
       "question": "Following the collision, particle Q (mass 4m, speed 2u) comes to rest after travelling a distance 6u^2/g along the rough plane. The coefficient of friction between Q and the plane is mu. Find the value of mu.",
       "status": "ready",
       "answer": "mu = 1/3",
@@ -209,6 +374,10 @@
         "0 = (2u)^2 - 2(mu g)(6u^2/g)",
         "4u^2 = 12 mu u^2",
         "mu = 1/3"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-3.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-4.jpg"
       ]
     },
     {
@@ -216,7 +385,16 @@
       "no": "Q7(a)",
       "marks": 2,
       "topic": "Common Speed Of Hammer And Peg",
-      "keywords": ["hammer", "tent peg", "direct impact", "common speed", "momentum", "collision", "conservation of momentum", "impact"],
+      "keywords": [
+        "hammer",
+        "tent peg",
+        "direct impact",
+        "common speed",
+        "momentum",
+        "collision",
+        "conservation of momentum",
+        "impact"
+      ],
       "question": "A hammer of mass 1.8 kg is moving vertically downwards at 10 m/s and strikes a tent peg of mass 0.2 kg which is stationary. Immediately after the impact the hammer and peg move together vertically downwards with the same speed v m/s. Find the value of v.",
       "status": "ready",
       "answer": "v = 9 m/s",
@@ -225,6 +403,10 @@
         "1.8 x 10 = (1.8 + 0.2)v",
         "18 = 2v",
         "v = 9 m/s"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-4.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-5.jpg"
       ]
     },
     {
@@ -232,7 +414,16 @@
       "no": "Q7(b)",
       "marks": 3,
       "topic": "Impulse On Tent Peg",
-      "keywords": ["impulse", "tent peg", "hammer", "change in momentum", "units", "impact", "momentum", "mass"],
+      "keywords": [
+        "impulse",
+        "tent peg",
+        "hammer",
+        "change in momentum",
+        "units",
+        "impact",
+        "momentum",
+        "mass"
+      ],
       "question": "Find the magnitude of the impulse exerted on the tent peg by the hammer, stating the units of your answer.",
       "status": "ready",
       "answer": "1.8 N s (kg m/s)",
@@ -240,6 +431,10 @@
         "Impulse on peg = change in momentum of peg",
         "= 0.2 x (9 - 0) = 1.8",
         "Impulse = 1.8 N s (kg m/s)"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-4.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-5.jpg"
       ]
     },
     {
@@ -247,7 +442,16 @@
       "no": "Q7(c)",
       "marks": 5,
       "topic": "Resistive Force From Ground",
-      "keywords": ["resistive force", "ground", "deceleration", "newton second law", "hammer", "tent peg", "stopping distance", "impact"],
+      "keywords": [
+        "resistive force",
+        "ground",
+        "deceleration",
+        "newton second law",
+        "hammer",
+        "tent peg",
+        "stopping distance",
+        "impact"
+      ],
       "question": "The ground exerts a constant vertical resistive force of magnitude R N, bringing the hammer and tent peg to rest after they travel a distance of 12 cm. Find the value of R.",
       "status": "ready",
       "answer": "R = 2g + 675 = 694.6 N (g = 9.8)",
@@ -256,6 +460,10 @@
         "Forces on the combined 2 kg mass: R upwards and weight 2g downwards",
         "Newton's second law (upwards positive): R - 2g = 2 x 337.5",
         "R = 675 + 2g = 675 + 19.6 = 694.6 N"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-4.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-5.jpg"
       ]
     },
     {
@@ -263,7 +471,16 @@
       "no": "Q8(a)",
       "marks": 3,
       "topic": "Speed Of A After Collision",
-      "keywords": ["speed after collision", "momentum", "smooth table", "collision", "reversed direction", "particle A", "particle B", "conservation of momentum"],
+      "keywords": [
+        "speed after collision",
+        "momentum",
+        "smooth table",
+        "collision",
+        "reversed direction",
+        "particle A",
+        "particle B",
+        "conservation of momentum"
+      ],
       "question": "Particle A (mass 4 kg) and particle B (mass 2 kg) move towards each other along the same line on a smooth horizontal table and collide directly. Immediately before, A has speed 2u m/s and B has speed 3u m/s. Immediately after, B has speed 2u m/s and its direction is reversed. Find, in terms of u, the speed of A immediately after the collision.",
       "status": "ready",
       "answer": "u/2 (A reverses)",
@@ -273,6 +490,10 @@
         "Conservation of momentum: 4(2u) + 2(-3u) = 4v_A + 2(2u)",
         "2u = 4v_A + 4u, so v_A = -u/2",
         "Speed of A immediately after = u/2"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-5.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-6.jpg"
       ]
     },
     {
@@ -280,7 +501,16 @@
       "no": "Q8(b)",
       "marks": 1,
       "topic": "Direction Of A After Collision",
-      "keywords": ["direction of motion", "velocity sign", "collision", "particle A", "reversed", "smooth table", "after collision", "momentum"],
+      "keywords": [
+        "direction of motion",
+        "velocity sign",
+        "collision",
+        "particle A",
+        "reversed",
+        "smooth table",
+        "after collision",
+        "momentum"
+      ],
       "question": "State the direction of motion of A immediately after the collision.",
       "status": "ready",
       "answer": "A reverses: it moves in the opposite direction to its original motion",
@@ -288,6 +518,10 @@
         "Velocity of A after the collision is -u/2",
         "The negative sign is opposite to A's original direction",
         "So A moves back the way it came, in the same direction as B's original motion"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-5.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-6.jpg"
       ]
     },
     {
@@ -295,7 +529,16 @@
       "no": "Q8(c)",
       "marks": 3,
       "topic": "Impulse On Particle B",
-      "keywords": ["impulse", "particle B", "change in momentum", "units", "collision", "smooth table", "reversed direction", "momentum"],
+      "keywords": [
+        "impulse",
+        "particle B",
+        "change in momentum",
+        "units",
+        "collision",
+        "smooth table",
+        "reversed direction",
+        "momentum"
+      ],
       "question": "Find, in terms of u, the magnitude of the impulse received by B in the collision. State the units of your answer.",
       "status": "ready",
       "answer": "10u N s (kg m/s)",
@@ -303,6 +546,10 @@
         "B before: -3u; B after: +2u",
         "Change in B's momentum = 2(2u - (-3u)) = 2(5u) = 10u",
         "Impulse magnitude = 10u N s (kg m/s)"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-5.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-6.jpg"
       ]
     },
     {
@@ -310,7 +557,16 @@
       "no": "Q9(a)",
       "marks": 2,
       "topic": "Height Of Fall",
-      "keywords": ["height", "free fall", "speed", "energy", "constant acceleration", "block", "falling", "suvat"],
+      "keywords": [
+        "height",
+        "free fall",
+        "speed",
+        "energy",
+        "constant acceleration",
+        "block",
+        "falling",
+        "suvat"
+      ],
       "question": "Block A of mass 9 kg is released from rest at point P, a height h m above horizontal soft ground. It falls and strikes block B (mass 1.5 kg) which is on the ground vertically below P. The speed of A immediately before it strikes B is 7 m/s. Both blocks are modelled as particles. Find h.",
       "status": "ready",
       "answer": "h = 2.5 m",
@@ -318,6 +574,10 @@
         "A falls freely from rest: v^2 = 2gh",
         "49 = 2(9.8)h",
         "h = 49/19.6 = 2.5 m"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-5.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-6.jpg"
       ]
     },
     {
@@ -325,7 +585,16 @@
       "no": "Q9(b)",
       "marks": 8,
       "topic": "Resistance From Soft Ground",
-      "keywords": ["resistance", "ground", "impact", "coalesce", "deceleration", "newton second law", "momentum", "blocks"],
+      "keywords": [
+        "resistance",
+        "ground",
+        "impact",
+        "coalesce",
+        "deceleration",
+        "newton second law",
+        "momentum",
+        "blocks"
+      ],
       "question": "Immediately after the impact the blocks move downwards together with the same speed and both come to rest after sinking a vertical distance of 12 cm into the ground. The ground's resistance has constant magnitude R N. Find the value of R.",
       "status": "ready",
       "answer": "R = 1677.9 N, about 1678 N",
@@ -335,6 +604,10 @@
         "Combined mass 10.5 kg: weight 10.5g downwards, resistance R upwards",
         "R - 10.5g = 10.5 x 150",
         "R = 10.5(150 + 9.8) = 1677.9 N, about 1678 N"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-5.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-6.jpg"
       ]
     },
     {
@@ -342,7 +615,16 @@
       "no": "Q10(a)",
       "marks": 5,
       "topic": "Speeds After Collision",
-      "keywords": ["speeds after collision", "momentum", "smooth surface", "difference in speeds", "direct collision", "particles A and B", "conservation of momentum", "rebound"],
+      "keywords": [
+        "speeds after collision",
+        "momentum",
+        "smooth surface",
+        "difference in speeds",
+        "direct collision",
+        "particles A and B",
+        "conservation of momentum",
+        "rebound"
+      ],
       "question": "Particles A (mass 3m) and B (mass m) move in a straight line towards each other on a smooth horizontal surface, each with speed 1.5 m/s before colliding directly. After the collision A's direction is unchanged and the difference between the speed of A and the speed of B is 1 m/s. Find (i) the speed of A immediately after the collision, (ii) the speed of B immediately after the collision.",
       "status": "ready",
       "answer": "(i) 0.5 m/s  (ii) 1.5 m/s (B rebounds)",
@@ -352,6 +634,10 @@
         "Conservation of momentum: 3m(1.5) + m(-1.5) = 3ma + m v_B, so 3 = 3a + v_B",
         "With B rebounding (v_B = +s) and s - a = 1: 3 = 3a + (a + 1), so a = 1/2 and s = 3/2",
         "Note: a = 1 m/s with B at rest also fits the wording; the intended answer takes B to rebound"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-6.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-7.jpg"
       ]
     },
     {
@@ -359,7 +645,16 @@
       "no": "Q10(b)",
       "marks": 3,
       "topic": "Impulse On B In Terms Of m",
-      "keywords": ["impulse", "particle B", "change in momentum", "collision", "magnitude", "smooth surface", "mass m", "momentum"],
+      "keywords": [
+        "impulse",
+        "particle B",
+        "change in momentum",
+        "collision",
+        "magnitude",
+        "smooth surface",
+        "mass m",
+        "momentum"
+      ],
       "question": "Find, in terms of m, the magnitude of the impulse exerted on B in the collision.",
       "status": "ready",
       "answer": "3m N s",
@@ -367,6 +662,10 @@
         "B before: -1.5; B after: +1.5 (from part a)",
         "Impulse on B = m(1.5 - (-1.5)) = 3m",
         "Magnitude = 3m N s"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-6.jpg",
+        "papers/maths/img/M1-09-Momentum-Impulse-7.jpg"
       ]
     },
     {
@@ -374,7 +673,16 @@
       "no": "Q11(a)",
       "marks": 4,
       "topic": "Mass Ratio Reversal Collision",
-      "keywords": ["momentum", "collision", "reversed direction", "speed halved", "mass ratio", "conservation of momentum", "opposite directions", "direct collision"],
+      "keywords": [
+        "momentum",
+        "collision",
+        "reversed direction",
+        "speed halved",
+        "mass ratio",
+        "conservation of momentum",
+        "opposite directions",
+        "direct collision"
+      ],
       "question": "Particles P (mass m) and Q (mass km) move in opposite directions along the same horizontal straight line and collide directly. Immediately before the collision P has speed u and Q has speed 2u. As a result, the direction of motion of each particle is reversed and each speed is halved. Find the value of k.",
       "status": "ready",
       "answer": "k = 1/2",
@@ -384,6 +692,9 @@
         "Conservation of momentum: m(u) + km(-2u) = m(-u/2) + km(u)",
         "Divide by mu: 1 - 2k = -1/2 + k, so 3/2 = 3k",
         "k = 1/2"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-7.jpg"
       ]
     },
     {
@@ -391,7 +702,16 @@
       "no": "Q11(b)",
       "marks": 2,
       "topic": "Impulse On Q From P",
-      "keywords": ["impulse", "change in momentum", "particle Q", "collision", "magnitude", "reversed direction", "momentum", "in terms of m and u"],
+      "keywords": [
+        "impulse",
+        "change in momentum",
+        "particle Q",
+        "collision",
+        "magnitude",
+        "reversed direction",
+        "momentum",
+        "in terms of m and u"
+      ],
       "question": "Find, in terms of m and u only, the magnitude of the impulse exerted on Q by P in the collision.",
       "status": "ready",
       "answer": "3mu/2 N s",
@@ -399,6 +719,9 @@
         "Q before -2u; Q after +u",
         "Change in Q's momentum = (m/2)(u - (-2u)) = (m/2)(3u)",
         "Impulse magnitude = 3mu/2 N s"
+      ],
+      "images": [
+        "papers/maths/img/M1-09-Momentum-Impulse-7.jpg"
       ]
     }
   ]

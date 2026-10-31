@@ -22,7 +22,11 @@
       "question": "A detector measures the count rate from a source through different absorbers. Choose which radiation the source emits from options A to D (the table of results is missing from the text).",
       "status": "pending",
       "answer": "Pending: the absorber count-rate table is missing, and the radiation symbols in the options are garbled in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-01.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-02.jpg"
+      ]
     },
     {
       "id": "9-Q2",
@@ -42,7 +46,11 @@
       "question": "A graph shows binding energy per nucleon against nucleon number. Choose which conclusion the graph supports from options A to D about fusion and fission of nuclei.",
       "status": "pending",
       "answer": "Pending: the binding energy per nucleon graph is missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-01.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-02.jpg"
+      ]
     },
     {
       "id": "9-Q3",
@@ -68,6 +76,10 @@
         "At these temperatures the fuel is a plasma that would melt any solid container, so magnetic or inertial confinement is needed.",
         "Maintaining the required density and temperature for long enough to give net energy is very difficult.",
         "So far, the energy input needed has been greater than the energy output, so fusion is not yet viable."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-02.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-03.jpg"
       ]
     },
     {
@@ -88,7 +100,11 @@
       "question": "Oganesson is produced by firing calcium ions at a californium target, releasing oganesson and neutrons. Complete the nuclear equation for the reaction.",
       "status": "pending",
       "answer": "Pending: the equation with its nucleon and proton numbers is missing from the extracted text, and the target isotope of californium is not stated.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-03.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-04.jpg"
+      ]
     },
     {
       "id": "9-Q4b(i)",
@@ -112,6 +128,10 @@
         "Calcium atoms are ionised in an ion source by removing electrons.",
         "The positive ions are accelerated by electric fields in a particle accelerator.",
         "Each ion gains energy qV from the potential difference, so a large voltage or several stages gives 245 MeV."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-03.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-04.jpg"
       ]
     },
     {
@@ -139,6 +159,10 @@
         "Mass: m = 47.95 x 1.66e-27 = 7.96e-26 kg; E_k = 245 x 1.60e-13 = 3.92e-11 J.",
         "Speed: v = sqrt(2 E_k / m) = sqrt(2 x 3.92e-11 / 7.96e-26) = 3.1e7 m s-1, about 0.1c.",
         "The speed is far below c, so the claim is not valid."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-03.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-04.jpg"
       ]
     },
     {
@@ -164,6 +188,10 @@
         "Number of half-lives: t/T = 2.5 / 0.89 = 2.81.",
         "2^2.81 = 7.01.",
         "N0 = 500 x 7.01 = 3.5e3 atoms."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-03.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-04.jpg"
       ]
     },
     {
@@ -188,6 +216,10 @@
         "Alpha particles are highly ionising, so they do much damage if the source enters the body.",
         "Alpha is stopped by skin or a sheet of paper, so the risk comes mainly from ingestion or inhalation.",
         "Precaution: keep the source sealed and handle it with forceps and gloves in a controlled area to avoid contamination."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-03.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-04.jpg"
       ]
     },
     {
@@ -213,6 +245,10 @@
         "Corrections must use rates (counts per unit time), not raw counts (C is wrong).",
         "Background adds to measured readings, so it must be subtracted, not added (A and B are wrong).",
         "So each measured count rate has the background count rate subtracted: D."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-04.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-05.jpg"
       ]
     },
     {
@@ -238,6 +274,11 @@
         "0.5 cm reduces it to 0.5^0.5 = 71%, not 75% or 25%, so A and B are wrong.",
         "2.0 cm is two half-value thicknesses, giving 0.5^2 = 25%, so C is correct.",
         "Absorption never reduces the count rate to zero, so D is wrong."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
       ]
     },
     {
@@ -263,6 +304,11 @@
         "The mass number stays at 40.",
         "An electron (0 -1 e) is emitted as the beta particle.",
         "An antineutrino is also emitted to conserve lepton number."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
       ]
     },
     {
@@ -283,7 +329,12 @@
       "question": "Calculate the energy in MeV released when a nucleus of potassium-40 decays into a nucleus of calcium.",
       "status": "pending",
       "answer": "Pending: the nuclear mass data needed for K-40 and Ca-40 (given in a missing table) are not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
+      ]
     },
     {
       "id": "9-Q7a(iii)",
@@ -308,6 +359,11 @@
         "This energy is shared between the beta particle and the antineutrino (and a negligible nucleus recoil).",
         "The share varies from decay to decay.",
         "So beta particles have a continuous range of energies up to a maximum."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
       ]
     },
     {
@@ -332,6 +388,11 @@
         "Half-life in seconds: T = 1.25e9 x 3.15e7 = 3.94e16 s.",
         "Decay constant: lambda = ln2/T = 0.693 / 3.94e16 = 1.76e-17 s-1.",
         "Activity: A = lambda N = 1.76e-17 x 1.10e22 = 1.9e5 Bq."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
       ]
     },
     {
@@ -357,6 +418,11 @@
         "lambda t = 1.76e-17 x 1.58e9 = 2.8e-8, so almost no decay has occurred.",
         "Activity after 50 years is still about 1.94e5 Bq, which is greater than 1.85e5 Bq.",
         "The claim is not valid."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
       ]
     },
     {
@@ -377,7 +443,12 @@
       "question": "A student measured gamma absorption by thin iron sheets and used the gradient of a graph to estimate the half-value thickness. Deduce whether the data confirm the source energy of 1.1 MeV, given a half-value thickness of 1.5 cm for 1.1 MeV gamma rays in iron.",
       "status": "pending",
       "answer": "Pending: the student's graph and the value of the gradient are missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-07.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-08.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-09.jpg"
+      ]
     },
     {
       "id": "9-Q9",
@@ -404,6 +475,10 @@
         "Gravitational collapse produces the high pressure and density needed for frequent collisions.",
         "Gravity balances the outward radiation pressure from fusion, keeping the core stable.",
         "Energy released by fusion maintains the high temperature, so fusion is sustained."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-09.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-10.jpg"
       ]
     },
     {
@@ -424,7 +499,11 @@
       "question": "Polonium-218 has half-life 185 s and a sample contains 2.75e15 unstable nuclei. Choose the expression that gives the activity in Bq (options not present in the extracted text).",
       "status": "pending",
       "answer": "Pending: the list of expression options is missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-09.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-10.jpg"
+      ]
     },
     {
       "id": "9-Q11",
@@ -449,6 +528,11 @@
         "Because of this they have a range of only a few centimetres in air.",
         "Gamma is weakly ionising and highly penetrating (C and D are wrong).",
         "So B is the correct statement."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
       ]
     },
     {
@@ -472,6 +556,11 @@
       "steps": [
         "A heavy nucleus such as uranium splits into two smaller nuclei of similar size.",
         "The mass of the products is less than the original, and the mass difference is released as energy (E = mc^2)."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
       ]
     },
     {
@@ -497,6 +586,11 @@
         "Start at low A with a low value, rising steeply.",
         "The maximum is near A = 56 at about 8.8 MeV per nucleon.",
         "Beyond the peak, the curve falls gradually to about 7.6 MeV near A = 238."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
       ]
     },
     {
@@ -520,6 +614,11 @@
       "steps": [
         "Iron-56 has the greatest binding energy per nucleon of all nuclides.",
         "Mark the point at the maximum of the curve, at A = 56 and about 8.8 MeV."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
       ]
     },
     {
@@ -540,7 +639,12 @@
       "question": "Complete the nuclear equation for the fission reaction in the reactor core.",
       "status": "pending",
       "answer": "Pending: the nuclear equation to complete is not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
+      ]
     },
     {
       "id": "9-Q12d",
@@ -560,7 +664,12 @@
       "question": "Calculate the binding energy per nucleon, in MeV, for a nucleus whose symbol is missing from the extracted text.",
       "status": "pending",
       "answer": "Pending: the nucleus symbol and its mass data are missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
+      ]
     },
     {
       "id": "9-Q12e",
@@ -587,6 +696,11 @@
         "UV photons travel through air over large distances, so the detector can be placed away from the source.",
         "Alpha particles have a range of only a few centimetres in air and must reach a detector directly, which is hard for contaminated surfaces.",
         "Detecting UV therefore avoids contamination and exposure and is safer during decommissioning."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
       ]
     },
     {
@@ -607,7 +721,11 @@
       "question": "Thorium decays into radium; a table gives the nuclear masses. Show that the energy released in the decay is about 5.5 MeV.",
       "status": "pending",
       "answer": "Pending: the table of nuclear masses is missing from the extracted text, so the energy cannot be calculated.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-12.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-13.jpg"
+      ]
     },
     {
       "id": "9-Q13b",
@@ -627,7 +745,11 @@
       "question": "A textbook states the alpha particle from thorium-228 gains kinetic energy of 5.4 MeV. Comment on this statement with a calculation.",
       "status": "pending",
       "answer": "Pending: the table of nuclear masses needed for the calculation is missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-12.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-13.jpg"
+      ]
     },
     {
       "id": "9-Q14a(i)",
@@ -652,6 +774,11 @@
         "The mass number stays at 60.",
         "An electron (0 -1 e) is emitted as the beta particle.",
         "An antineutrino is also emitted to conserve lepton number."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-13.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-14.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-15.jpg"
       ]
     },
     {
@@ -677,6 +804,11 @@
         "The nickel nucleus is far more massive than the electron and antineutrino.",
         "Momentum is conserved, so the recoiling nucleus has small momentum and therefore very small kinetic energy (E_k = p^2 / 2m).",
         "Almost all the energy therefore goes to the beta particle and antineutrino."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-13.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-14.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-15.jpg"
       ]
     },
     {
@@ -702,6 +834,11 @@
         "So t = T log2(A0/A) = 5.27 x log2(4.07e14 / 1.85e14).",
         "log2(2.20) = 1.14, so t = 5.27 x 1.14 = 6.0 years.",
         "The source should be replaced after about 6.0 years."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-13.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-14.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-15.jpg"
       ]
     },
     {
@@ -722,7 +859,12 @@
       "question": "The source count rate must be reduced from 4.0e14 Bq to 1.2e14 Bq. Deduce whether 1.0 cm of lead shielding is sufficient, using the transmission graph.",
       "status": "pending",
       "answer": "Pending: the graph of gamma transmission against lead thickness is missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-13.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-14.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-15.jpg"
+      ]
     },
     {
       "id": "9-Q15",
@@ -747,6 +889,12 @@
         "The temperature of the Sun is highest in its core.",
         "A, B and C do not explain why fusion needs to occur in the core.",
         "So D is the reason."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-15.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-16.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-17.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-18.jpg"
       ]
     },
     {
@@ -767,7 +915,13 @@
       "question": "Pu-238 decays by alpha emission into uranium. Show that the energy released is about 5.6 MeV.",
       "status": "pending",
       "answer": "Pending: the nuclear mass data needed for the calculation are missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-15.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-16.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-17.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-18.jpg"
+      ]
     },
     {
       "id": "9-Q16b",
@@ -793,6 +947,12 @@
         "Energy per decay: E = 5.6 MeV = 5.6 x 1.60e-13 J = 8.96e-13 J.",
         "Power: P = A0 E = 9.26e10 x 8.96e-13 W = 8.3e-2 W.",
         "The power was about 0.083 W when the source was fitted."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-15.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-16.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-17.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-18.jpg"
       ]
     },
     {
@@ -813,7 +973,13 @@
       "question": "A layer of polyethylene 0.5 cm thick is suggested to absorb all the beta particles from a promethium-147 source. Comment on this suggestion, using the energy spectrum and the range graphs.",
       "status": "pending",
       "answer": "Pending: the beta energy spectrum and the range-energy graphs for each material are missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-15.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-16.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-17.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-18.jpg"
+      ]
     },
     {
       "id": "9-Q17",
@@ -837,6 +1003,10 @@
         "The binding energy per nucleon of He-4 is about 7.1 MeV (from the graph).",
         "Energy to split the nucleus into its 4 nucleons equals the total binding energy: 4 x 7.1 MeV.",
         "Total = 28.4 MeV, so the answer is D."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-18.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-19.jpg"
       ]
     },
     {
@@ -862,6 +1032,9 @@
         "A longer count collects more counts, and the relative uncertainty falls as the counts increase.",
         "A and D do not improve the statistics of the source count (adding background is wrong).",
         "C changes the apparatus rather than improving the count, so B is the best answer."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-19.jpg"
       ]
     },
     {
@@ -887,6 +1060,9 @@
         "Alpha is stopped by skin and air, so it cannot reach internal cells (A and B are wrong).",
         "Gamma radiation is highly penetrating, so it reaches the tumour from outside.",
         "Narrow beams from different directions focus the dose on the tumour, so D is the answer."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-19.jpg"
       ]
     },
     {
@@ -907,7 +1083,10 @@
       "question": "A polonium-210 nucleus decays to lead-206 by emitting an alpha particle. Using the masses in the table, show that the energy released is about 9e-13 J.",
       "status": "pending",
       "answer": "Pending: the table of particle masses is missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-20.jpg"
+      ]
     },
     {
       "id": "9-Q20a(ii)",
@@ -927,7 +1106,10 @@
       "question": "98% of the decay energy is released as kinetic energy of the alpha particle. Calculate the velocity of the alpha particle immediately after the decay.",
       "status": "pending",
       "answer": "Pending: the mass of the alpha particle (given in the missing table) is needed for the velocity calculation.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-20.jpg"
+      ]
     },
     {
       "id": "9-Q20b",
@@ -952,6 +1134,9 @@
         "The alpha particle and lead nucleus therefore have equal and opposite momenta.",
         "The recoiling lead nucleus has kinetic energy, so the alpha particle gets only part of the energy.",
         "Excited daughter nuclei can also emit gamma photons, which take some of the energy."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-20.jpg"
       ]
     },
     {
@@ -977,6 +1162,10 @@
         "Mass number: 225 - 4 = 221.",
         "Proton number: 89 - 2 = 87, which is francium.",
         "So: 225/89 Ac -> 221/87 Fr + 4/2 He."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-21.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-22.jpg"
       ]
     },
     {
@@ -1002,6 +1191,10 @@
         "Energy: E = delta m c^2 = 1.66e-27 x (3.00e8)^2 = 1.49e-10 J.",
         "Convert to MeV: 1.49e-10 J / 1.60e-13 J per MeV is about 930 MeV.",
         "This agrees with the known value of 931.5 MeV per u."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-21.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-22.jpg"
       ]
     },
     {
@@ -1027,6 +1220,10 @@
         "Momentum is conserved, so the alpha particle and francium nucleus have equal and opposite momentum.",
         "Since E_k = p^2/2m, the heavier francium nucleus takes a small share of the energy.",
         "Alpha kinetic energy = Q x m(Fr)/(m(Fr) + m(alpha)) = 5.9 x 221/225, about 5.8 MeV, just less than Q."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-21.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-22.jpg"
       ]
     },
     {
@@ -1052,6 +1249,10 @@
         "Initial number of atoms: N0 = A0/lambda = 7.4e7 / 8.10e-7 = 9.13e13.",
         "Number after 7.0 days: N = N0 (1/2)^(7.0/9.9) = 9.13e13 x 0.613.",
         "N = 5.6e13 atoms."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-21.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-22.jpg"
       ]
     },
     {
@@ -1076,6 +1277,10 @@
         "Beta-minus: a neutron becomes a proton, so proton number rises from 19 to 20.",
         "Mass number stays at 40.",
         "The beta particle is an electron (0 -1 e), with an antineutrino emitted."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-22.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-23.jpg"
       ]
     },
     {
@@ -1100,6 +1305,10 @@
         "Both particles have the same mass as an electron (about 9.1e-31 kg).",
         "Both have a charge of the same magnitude, e, with opposite signs.",
         "(Other valid similarities: both are emitted from unstable nuclei and are accompanied by a neutrino-type particle.)"
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-22.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-23.jpg"
       ]
     },
     {
@@ -1125,6 +1334,10 @@
         "Number of half-lives: n = log2(48.6 / 0.42) = log2(115.7) = 6.85.",
         "Time: t = n T = 6.85 x 1.25e9 = 8.6e9 years.",
         "8.6e9 years is less than 9e9 years, so the claim is not correct."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-22.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-23.jpg"
       ]
     },
     {
@@ -1145,7 +1358,11 @@
       "question": "Strontium-90 beta particles ionise about 250 nitrogen molecules per cm of air. 15.6 eV is needed to ionise a nitrogen molecule. Assess whether this estimate is consistent with the range of the most energetic beta particles (range-energy graph missing).",
       "status": "pending",
       "answer": "Pending: the beta energy distribution and range-energy graph are missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-23.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-24.jpg"
+      ]
     },
     {
       "id": "9-Q24",
@@ -1170,6 +1387,10 @@
         "0.5 cm of lead reduces the count to background, so all the radiation is absorbed.",
         "Gamma is not fully absorbed by 0.5 cm lead, so no gamma is present.",
         "Beta is absorbed by lead of this thickness, so the source emits beta only: C."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-24.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-25.jpg"
       ]
     },
     {
@@ -1195,6 +1416,11 @@
         "Total binding energy increases in both processes, so B is correct.",
         "Both produce radiation (A is wrong) and fission does not need high temperatures (C is wrong).",
         "Fusion needs very high temperatures and neither process happens spontaneously in practice (D is wrong)."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
       ]
     },
     {
@@ -1218,6 +1444,11 @@
       "steps": [
         "A heavy nucleus splits into two smaller nuclei of comparable size.",
         "Products are more tightly bound, so the mass lost is released as energy."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
       ]
     },
     {
@@ -1242,6 +1473,11 @@
         "Beta-minus: proton number rises from 55 to 56 (barium).",
         "Mass number stays at 137.",
         "An electron (0 -1 e) and an antineutrino are emitted."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
       ]
     },
     {
@@ -1267,6 +1503,11 @@
         "This energy is shared between the beta particle and the antineutrino (nucleus recoil is negligible).",
         "The share taken by the antineutrino varies from decay to decay.",
         "So beta particles have a continuous range of energies up to a maximum."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
       ]
     },
     {
@@ -1294,6 +1535,11 @@
         "Activity: A = lambda N = 7.29e-10 x 1.06e26 = 7.7e16 Bq.",
         "Compare: 7.7e16 / 7.33e16 = 1.05, a difference of about 5%.",
         "The statement is approximately correct."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
       ]
     },
     {
@@ -1319,6 +1565,11 @@
         "Safe level: 150 min-1 = 150/60 = 2.5 Bq.",
         "Number of half-lives: n = log2(125/2.5) = log2(50) = 5.64.",
         "Time: t = n T = 5.64 x 30.2 = 170 years."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
       ]
     },
     {
@@ -1339,7 +1590,11 @@
       "question": "Which row of the table gives the conditions required in the core of a star for fusion to be sustained?",
       "status": "pending",
       "answer": "Pending: the table of condition options is missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-27.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-28.jpg"
+      ]
     },
     {
       "id": "9-Q28",
@@ -1359,7 +1614,11 @@
       "question": "Bismuth decays to form a stable isotope of thallium. Which graph shows how the number N of thallium atoms in a sample varies with time t? (Graphs A to D are missing from the text.)",
       "status": "pending",
       "answer": "Pending: graphs A to D are missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-27.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-28.jpg"
+      ]
     },
     {
       "id": "9-Q29",
@@ -1384,6 +1643,10 @@
         "Fusion of low mass nuclei produces nuclei with greater binding energy per nucleon.",
         "Energy is released because the products are more tightly bound, so D is correct.",
         "Iron-56 is at the peak, so it does not fission with energy release (A is wrong)."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-28.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-29.jpg"
       ]
     },
     {
@@ -1408,6 +1671,10 @@
         "Number of half-lives elapsed: 25 / 12.5 = 2.",
         "Activity halves each half-life, so the original activity = 22 x 2^2 = 88 Bq.",
         "Answer C."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-28.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-29.jpg"
       ]
     },
     {
@@ -1433,6 +1700,11 @@
         "The detector type changes the efficiency of detection (D).",
         "The time interval changes the number of counts recorded, though not the true rate; it affects precision only (C).",
         "Temperature does not change background radiation or radioactive decay rates, so B is the answer."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-29.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-30.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-31.jpg"
       ]
     },
     {
@@ -1453,7 +1725,12 @@
       "question": "Alpha particles bombard aluminium to produce a radioactive isotope of phosphorus. Identify particle X in the nuclear equation.",
       "status": "pending",
       "answer": "Pending: the nuclear equation with particle X is missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-29.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-30.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-31.jpg"
+      ]
     },
     {
       "id": "9-Q32a(ii)",
@@ -1473,7 +1750,12 @@
       "question": "Calculate the energy released, in joules, in the nuclear reaction in part (a)(i).",
       "status": "pending",
       "answer": "Pending: the nuclear masses of the reactants and products are missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-29.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-30.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-31.jpg"
+      ]
     },
     {
       "id": "9-Q32b",
@@ -1499,6 +1781,11 @@
         "The half-life of about 15 days is long enough for the scan to be made.",
         "It is short enough that the activity falls and the patient receives a low dose.",
         "Phosphorus is taken up by the tumour, so the detected radiation shows where it is."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-29.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-30.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-31.jpg"
       ]
     },
     {
@@ -1524,6 +1811,10 @@
         "This probability does not depend on how long the nucleus has existed.",
         "So the decay of a single nucleus cannot be predicted: D is the reason.",
         "A, B and C do not describe the randomness of individual decays."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-31.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-32.jpg"
       ]
     },
     {
@@ -1548,6 +1839,10 @@
         "Beta-minus emission increases the proton number from 55 to 56.",
         "Mass number stays at 137.",
         "The beta particle is an electron (0 -1 e), with an antineutrino emitted."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-31.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-32.jpg"
       ]
     },
     {
@@ -1574,6 +1869,10 @@
         "Number of nuclei: N = A/lambda = 7400 / 7.29e-10 = 1.02e13.",
         "Mass of one atom: 137 x 1.66e-27 kg = 2.27e-25 kg.",
         "Mass of sample: m = N x m(atom) = 1.02e13 x 2.27e-25 = 2.3e-12 kg."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-31.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-32.jpg"
       ]
     },
     {
@@ -1598,6 +1897,10 @@
         "Osmium has proton number 76, so proton number rises from 75 to 76.",
         "Mass number stays at 187.",
         "The beta particle is an electron (0 -1 e), with an antineutrino emitted."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-32.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-33.jpg"
       ]
     },
     {
@@ -1618,7 +1921,11 @@
       "question": "Calculate the speed of the beta particle emitted in the rhenium-187 decay.",
       "status": "pending",
       "answer": "Pending: the energy of the beta particle (or the decay energy data) needed for the speed calculation is not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-32.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-33.jpg"
+      ]
     },
     {
       "id": "9-Q36a",
@@ -1638,7 +1945,11 @@
       "question": "Alpha particles are fired at nitrogen atoms. Calculate the minimum energy, in MeV, required for the reaction to take place.",
       "status": "pending",
       "answer": "Pending: the nuclear masses needed for this calculation are not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-32.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-33.jpg"
+      ]
     },
     {
       "id": "9-Q36b",
@@ -1663,6 +1974,10 @@
         "So the products must keep some kinetic energy after the reaction.",
         "Only the energy above the minimum (threshold) is available to create the new nuclei and give the products kinetic energy.",
         "So the alpha particle must exceed the minimum energy."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-32.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-33.jpg"
       ]
     },
     {
@@ -1687,6 +2002,11 @@
         "Half-life in seconds: T = 30.1 x 3.15e7 = 9.48e8 s.",
         "Decay constant: lambda = ln2 / T = 0.693 / 9.48e8.",
         "lambda = 7.3e-10 s-1."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-33.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-34.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-35.jpg"
       ]
     },
     {
@@ -1711,6 +2031,11 @@
         "Number of nuclei: N = A/lambda = 1.9e10 / 7.3e-10 = 2.6e19.",
         "Mass of one atom: 137 u = 137 x 1.66e-27 kg = 2.27e-25 kg.",
         "Mass: m = N x m(atom) = 2.6e19 x 2.27e-25 = 5.9e-6 kg."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-33.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-34.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-35.jpg"
       ]
     },
     {
@@ -1735,6 +2060,11 @@
         "Fraction remaining: (1/2)^(2/30.1) = 0.955.",
         "Activity: A = 19 x 0.955 = 18.1 GBq.",
         "So the activity after 2 years is about 18 GBq."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-33.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-34.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-35.jpg"
       ]
     },
     {
@@ -1760,6 +2090,11 @@
         "Number of decays (activity almost constant over 14 days): N = A t = 1.9e10 x 1.21e6 = 2.30e16.",
         "Energy per decay: 1.17 MeV = 1.17 x 1.60e-13 J = 1.87e-13 J.",
         "Total energy: E = 2.30e16 x 1.87e-13 = 4.3e3 J."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-33.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-34.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-35.jpg"
       ]
     },
     {
@@ -1780,7 +2115,11 @@
       "question": "Fusion reactions are the primary energy source of stars. Which row of the table gives the conditions necessary for fusion in stars?",
       "status": "pending",
       "answer": "Pending: the table of conditions is missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-35.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-36.jpg"
+      ]
     },
     {
       "id": "9-Q39a",
@@ -1800,7 +2139,11 @@
       "question": "A thorium-230 nucleus decays to radium-226 by emitting an alpha particle. Using the table of particle masses, determine the energy released in J.",
       "status": "pending",
       "answer": "Pending: the table of masses for thorium-230, radium-226 and the alpha particle is missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-35.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-36.jpg"
+      ]
     },
     {
       "id": "9-Q39b",
@@ -1823,6 +2166,10 @@
         "If 90% has decayed, 10% remains: N/N0 = 0.10.",
         "N/N0 = (1/2)^(t/T), so t/T = log2(10) = 3.32.",
         "t = 3.32 x 75 400 = 2.50e5 years."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-35.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-36.jpg"
       ]
     },
     {
@@ -1848,6 +2195,9 @@
         "Background depends on the location (B), because natural radiation varies from place to place.",
         "Background depends on the detector type (D), because detector efficiency varies.",
         "Temperature has no effect on background radiation, so C is the answer."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-36.jpg"
       ]
     },
     {
@@ -1872,6 +2222,10 @@
         "The products have a greater binding energy per nucleon than the reactant hydrogen nuclei.",
         "The total mass of the helium product is less than the total mass of the hydrogen nuclei.",
         "The mass difference is released as energy according to E = delta m c^2."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-37.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-38.jpg"
       ]
     },
     {
@@ -1897,6 +2251,10 @@
         "An extremely high temperature gives the nuclei enough kinetic energy to get close enough to fuse.",
         "High density means more nuclei per unit volume.",
         "So there are more collisions per second, which increases the fusion rate and energy output."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-37.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-38.jpg"
       ]
     },
     {
@@ -1917,7 +2275,11 @@
       "question": "Determine the energy in MeV released when a 2H nucleus fuses with a 3H nucleus to form 4He and a neutron, using the binding energy per nucleon graph.",
       "status": "pending",
       "answer": "Pending: the binding energy per nucleon graph (against proton number) is missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-37.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-38.jpg"
+      ]
     },
     {
       "id": "9-Q42",
@@ -1942,6 +2304,10 @@
         "Alpha particles are highly ionising, so they produce many droplets along their path, giving thick tracks.",
         "Beta particles are light and easily deflected by collisions with air molecules, giving twisted tracks.",
         "Beta particles ionise less per unit length, so their tracks are thin."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-38.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-39.jpg"
       ]
     },
     {
@@ -1967,6 +2333,10 @@
         "It reaches a maximum near iron-56 and then decreases slowly for heavier nuclei.",
         "So the curve has a maximum, which matches D.",
         "A, B and C do not describe the shape of the curve."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-39.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-40.jpg"
       ]
     },
     {
@@ -1987,7 +2357,11 @@
       "question": "Which row of the table gives the relative ionising power and penetration of gamma radiation?",
       "status": "pending",
       "answer": "Pending: the table of ionising power and penetration options is missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-40.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-41.jpg"
+      ]
     },
     {
       "id": "9-Q45",
@@ -2011,6 +2385,10 @@
         "Each half-value thickness halves the intensity, so 0.25 I0 is two half-value thicknesses.",
         "Half-value thickness = 0.8 / 2 = 0.4 cm.",
         "0.5 I0 needs one half-value thickness, which is 0.4 cm."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-40.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-41.jpg"
       ]
     },
     {
@@ -2031,7 +2409,11 @@
       "question": "When a nucleus of americium emits an alpha particle, 5.64 MeV is released. Which expression gives the decrease in mass in kg? (Options are missing from the extracted text.)",
       "status": "pending",
       "answer": "Pending: the answer expression options are missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-41.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-42.jpg"
+      ]
     },
     {
       "id": "9-Q47",
@@ -2056,6 +2438,10 @@
         "Iron-56 has the greatest binding energy per nucleon of all nuclei.",
         "So fusion of iron-56 cannot produce nuclei with greater binding energy per nucleon, and no energy is released.",
         "Answer D."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-41.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-42.jpg"
       ]
     },
     {
@@ -2080,6 +2466,12 @@
         "Background counts are random, so a short count has a large statistical uncertainty.",
         "Longer counting collects more counts, reducing the relative uncertainty of the rate.",
         "A and C and D do not improve the statistics of the same measurement, so B is the answer."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-42.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-43.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-44.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-45.jpg"
       ]
     },
     {
@@ -2105,6 +2497,12 @@
         "Alpha is the least penetrating, so B (beta least penetrating) is wrong.",
         "Beta is less ionising than alpha, so C is wrong.",
         "Gamma is the most penetrating, so D is wrong."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-42.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-43.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-44.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-45.jpg"
       ]
     },
     {
@@ -2130,6 +2528,12 @@
         "0.5 cm of aluminium reduces the count rate to background, so all the radiation is absorbed.",
         "Gamma radiation is only partly absorbed by 0.5 cm of aluminium, so it is not the source's radiation.",
         "Beta radiation passes through paper but is absorbed by a few millimetres of aluminium, so the source emits beta only."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-42.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-43.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-44.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-45.jpg"
       ]
     },
     {
@@ -2150,7 +2554,13 @@
       "question": "The count rate after gamma radiation passes through lead thickness x is R = R0 e^(-mu x). A graph of ln R against x and a graph of mu against photon energy are given, with a table of sources. Deduce which source was used.",
       "status": "pending",
       "answer": "Pending: the graphs of ln R against x and of mu against photon energy, and the table of sources, are missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-42.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-43.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-44.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-45.jpg"
+      ]
     },
     {
       "id": "9-Q51a",
@@ -2177,6 +2587,10 @@
         "High pressure and density from the star's own gravity give frequent collisions.",
         "Gravity balances the outward radiation pressure from fusion, so the star is in equilibrium.",
         "The energy released by fusion sustains the high core temperature."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-45.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-46.jpg"
       ]
     },
     {
@@ -2202,6 +2616,10 @@
         "Mass defect: 3755.70 - 3727.6 = 28.10 MeV/c^2, so total binding energy = 28.10 MeV.",
         "Per nucleon: 28.10 / 4 = 7.03 MeV.",
         "Convert: 7.03 MeV x 1.60e-13 J per MeV = 1.12e-12 J."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-45.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-46.jpg"
       ]
     },
     {
@@ -2226,6 +2644,10 @@
         "Binding energy per nucleon is the energy needed to remove one nucleon from the nucleus.",
         "Helium has a large value, so much energy must be supplied to break it apart.",
         "So the helium nucleus is very stable and unlikely to change."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-45.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-46.jpg"
       ]
     },
     {
@@ -2251,6 +2673,10 @@
         "Because of this, external conditions cannot change when a decay occurs.",
         "A and B describe other features, and D describes randomness.",
         "So C correctly describes the spontaneous nature."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-46.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-47.jpg"
       ]
     },
     {
@@ -2276,6 +2702,11 @@
         "Only the probability of decay per unit time is known.",
         "A, B and C describe spontaneity, not randomness.",
         "So D is the answer."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-47.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-48.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-49.jpg"
       ]
     },
     {
@@ -2300,6 +2731,11 @@
         "Alpha particles have a range of only a few centimetres in air.",
         "The source is some distance from the GM tube, so alpha is absorbed in the air.",
         "So alpha particles never reach the GM tube and cannot be counted."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-47.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-48.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-49.jpg"
       ]
     },
     {
@@ -2324,6 +2760,11 @@
         "Counting for a longer time collects more counts, reducing the statistical uncertainty.",
         "Repeating each count and calculating a mean reduces random error.",
         "Background count rate should be subtracted from each reading to give the true source rate."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-47.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-48.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-49.jpg"
       ]
     },
     {
@@ -2344,7 +2785,12 @@
       "question": "The student's graph shows count rate R against absorber thickness x, with R = 60 e^(-mu x). Determine a value for the constant mu.",
       "status": "pending",
       "answer": "Pending: the student's graph of count rate against thickness is missing from the extracted text, so the value of mu cannot be read.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-47.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-48.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-49.jpg"
+      ]
     },
     {
       "id": "9-Q55a(i)",
@@ -2368,6 +2814,10 @@
         "Beta-minus raises the proton number from 92 to 93 (neptunium).",
         "The mass number stays at 241.",
         "An electron (0 -1 e) and an antineutrino are emitted."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
       ]
     },
     {
@@ -2388,7 +2838,11 @@
       "question": "The mass of a uranium-241 nucleus is 241.06033 u and the mass of a neutron is 1.68e-27 kg. Show that the binding energy of the nucleus is about 3e-10 J.",
       "status": "pending",
       "answer": "Pending: the mass of a proton is needed with the 92 protons but is not given in the extracted text (only the neutron mass is).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
+      ]
     },
     {
       "id": "9-Q55a(iii)",
@@ -2408,7 +2862,11 @@
       "question": "Calculate the binding energy per nucleon of uranium-241 in MeV.",
       "status": "pending",
       "answer": "Pending: depends on the binding energy from part (a)(ii), which needs the proton mass that is not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
+      ]
     },
     {
       "id": "9-Q55b",
@@ -2433,6 +2891,10 @@
         "U-241 after 30 min: N241 = N0 x 2^(-30/40) = 0.595 N0.",
         "U-242 after 30 min: N242 = N0 x 2^(-30/17) = 0.294 N0.",
         "Ratio: N241/N242 = 0.595/0.294 = 2.02, which is approximately 2, so the statement is approximately true."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
       ]
     },
     {
@@ -2457,6 +2919,10 @@
         "Beta-minus raises the proton number from 53 to 54 (xenon).",
         "The mass number stays at 131.",
         "An electron (0 -1 e) and an antineutrino are emitted."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-50.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-51.jpg"
       ]
     },
     {
@@ -2483,6 +2949,10 @@
         "Number of atoms: N = A/lambda = 3.37e9 / 1.00e-6 = 3.37e15.",
         "Mass of one atom: m = 1.22e11 eV x 1.60e-19 J/eV / (3.00e8)^2 = 2.17e-25 kg.",
         "Total mass: m = 3.37e15 x 2.17e-25 = 7.3e-10 kg."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-50.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-51.jpg"
       ]
     },
     {
@@ -2507,6 +2977,10 @@
         "Half-life in hours: 8.02 x 24 = 192.5 h.",
         "Activity at preparation: A0 = A x 2^(t/T) = 2.35 x 2^(24/192.5).",
         "2^(0.125) = 1.09, so A0 = 2.35 x 1.09 = 2.56 GBq."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-50.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-51.jpg"
       ]
     },
     {
@@ -2531,6 +3005,11 @@
         "The fragments are more tightly bound (greater binding energy per nucleon) than the original heavy nucleus.",
         "So the total binding energy increases during fission.",
         "The mass decreases by the corresponding amount, and this mass difference is released as energy (E = delta m c^2)."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-51.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
       ]
     },
     {
@@ -2551,7 +3030,12 @@
       "question": "A nucleus of uranium-238 undergoes fission with one product being tin. Estimate the energy released using values from the binding energy per nucleon graph.",
       "status": "pending",
       "answer": "Pending: the binding energy per nucleon graph is missing from the extracted text, so the values for U-238 and tin cannot be read.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-51.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
+      ]
     },
     {
       "id": "9-Q57c(i)",
@@ -2575,6 +3059,11 @@
         "Beta-minus raises the proton number from 38 to 39 (yttrium).",
         "The mass number stays at 90.",
         "An electron (0 -1 e) and an antineutrino are emitted."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-51.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
       ]
     },
     {
@@ -2599,6 +3088,11 @@
         "Energy per decay: 0.546 MeV = 0.546 x 1.60e-13 J = 8.74e-14 J.",
         "Power: P = A x E = 1.295e15 x 8.74e-14 W.",
         "P = 113 W."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-51.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
       ]
     },
     {
@@ -2624,6 +3118,11 @@
         "Number of half-lives: n = log2(1/0.350) = 1.51.",
         "Age: t = n T = 1.51 x 28.8 = 44 years.",
         "After 50 years the activity would be 3.7e15 x 2^(-50/28.8) = 1.1e15 Bq, not 1.295e15 Bq, so the claim is not accurate."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-51.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
       ]
     },
     {
@@ -2644,7 +3143,11 @@
       "question": "The graph shows binding energy per nucleon against nucleon number, with isotopes P, Q and R marked. Which row of the table lists the isotopes from least stable to most stable? (The table options are missing.)",
       "status": "pending",
       "answer": "Pending: the table of isotope orderings and the graph with positions P, Q and R are missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-53.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-54.jpg"
+      ]
     },
     {
       "id": "9-Q59a(i)",
@@ -2669,6 +3172,11 @@
         "The GM tube count rate therefore depends on paper thickness.",
         "Alpha particles would be stopped by paper, giving no useful signal.",
         "Gamma radiation is absorbed too little by paper to give a sensitive reading."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-54.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-55.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-56.jpg"
       ]
     },
     {
@@ -2693,6 +3201,11 @@
         "Beta-minus raises the proton number from 61 to 62 (samarium).",
         "The mass number stays at 147.",
         "An electron (0 -1 e) and an antineutrino are emitted."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-54.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-55.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-56.jpg"
       ]
     },
     {
@@ -2717,6 +3230,11 @@
         "Fraction remaining: 0.75% = 0.0075, so the ratio initial/final = 133.3.",
         "Number of half-lives: n = log2(133.3) = 7.06.",
         "Time in use: t = n T = 7.06 x 2.62 = 18.5 years."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-54.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-55.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-56.jpg"
       ]
     },
     {
@@ -2737,7 +3255,12 @@
       "question": "Calculate the binding energy per nucleon, in MeV, for a nucleus of Pm-145. Mass of the nucleus 144.913 u, neutron mass 1.00867 u.",
       "status": "pending",
       "answer": "Pending: the mass of a proton (needed for the 61 protons) is not given in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-54.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-55.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-56.jpg"
+      ]
     },
     {
       "id": "9-Q60",
@@ -2762,6 +3285,10 @@
         "Straight tracks are caused by the large mass of the alpha, which means it is deflected very little.",
         "Alpha particles ionise far more strongly than beta particles, so the claim of similar ionisation is incorrect.",
         "Beta tracks are thin and twisted because beta particles are light and are easily deflected by collisions."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-56.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-57.jpg"
       ]
     },
     {
@@ -2786,6 +3313,10 @@
         "2.5 cm halves the intensity, so the half-value thickness is 2.5 cm.",
         "7.5 cm is 3 half-value thicknesses.",
         "Intensity = 0.5^3 I0 = 0.125 I0, which is about 0.13 I0."
+      ],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-57.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-58.jpg"
       ]
     },
     {
@@ -2806,7 +3337,11 @@
       "question": "Background is 22 counts per minute. A detector at 25 cm from a gamma source records 54 counts per minute, then is moved to 50 cm. Which is the expected number of counts per minute? (Options are missing from the extracted text.)",
       "status": "pending",
       "answer": "Pending: the answer options are missing from the extracted text. The expected value is 30 counts per minute (corrected 32 halved twice, plus 22 background).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-58.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-59.jpg"
+      ]
     },
     {
       "id": "9-Q63",
@@ -2826,7 +3361,11 @@
       "question": "Energy is released when low mass nuclei fuse and when high mass nuclei undergo fission. Which row of the table shows the change in binding energy per nucleon for fusion and fission?",
       "status": "pending",
       "answer": "Pending: the table of binding energy changes is missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/30-9-Nuclear-Decay-58.jpg",
+        "papers/physics/img/30-9-Nuclear-Decay-59.jpg"
+      ]
     }
   ]
 }

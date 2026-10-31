@@ -22,7 +22,11 @@
       "question": "Explain how to set up the thermistor potential divider circuit so the air conditioning switches on when the room is hot, using particle behaviour of an NTC thermistor.",
       "status": "pending",
       "answer": "Needs the circuit diagram (thermistor, fixed resistor, secondary circuit connection) which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-01.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-02.jpg"
+      ]
     },
     {
       "id": "Q1b",
@@ -49,6 +53,10 @@
         "Light: p.d. across fixed resistor = 12.0 - 2.16 = 9.84 V; I = 9.84 / 1200 = 8.20 x 10^-3 A.",
         "Light LDR resistance = 2.16 / 8.20 x 10^-3 = 263 ohm.",
         "Change = 263 - 775 = -512 ohm, so the resistance falls by about 510 ohm."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-01.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-02.jpg"
       ]
     },
     {
@@ -68,7 +76,13 @@
       "question": "Complete a circuit diagram to determine the e.m.f. and internal resistance of a potato cell.",
       "status": "pending",
       "answer": "Diagram-completion question; the circuit diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-02.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-03.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-04.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-05.jpg"
+      ]
     },
     {
       "id": "Q2b",
@@ -87,7 +101,13 @@
       "question": "From a graph of p.d. V against current I for a potato cell, determine its e.m.f. and internal resistance.",
       "status": "pending",
       "answer": "Needs the V-I graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-02.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-03.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-04.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-05.jpg"
+      ]
     },
     {
       "id": "Q2c",
@@ -112,6 +132,12 @@
         "Parallel: R_ext = R/2, so V_B = (R/2)E / (R/2 + r) = RE / (R + 2r).",
         "Ratio V_A / V_B = 2(R + 2r) / (2R + r) = (2R + 4r) / (2R + r), which is greater than 1 because 4r > r.",
         "So V_A > V_B: the series arrangement gives the greater terminal p.d. (more external resistance means less lost to internal resistance)."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-02.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-03.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-04.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-05.jpg"
       ]
     },
     {
@@ -131,7 +157,11 @@
       "question": "Wires P and Q are in series. P has carrier density n and diameter d, drift velocity v. Q has carrier density 2n and diameter 2d. Find the drift velocity in Q.",
       "status": "pending",
       "answer": "Multiple-choice options are missing from the text. Derived value: drift velocity in Q = v/8 (current I = nAev is equal in both wires, so v_Q = v/8); match to the option letter.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-05.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-06.jpg"
+      ]
     },
     {
       "id": "Q4",
@@ -153,6 +183,10 @@
         "EMF is energy transferred per unit charge: E = W/Q.",
         "Units: joule per coulomb (J C^-1).",
         "1 volt = 1 J C^-1, so the answer is D."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-06.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-07.jpg"
       ]
     },
     {
@@ -177,6 +211,10 @@
         "Lost p.d. inside the cell is Ir = E - V (E is split between external and internal parts).",
         "So P = I x Ir = I(E - V), which is option A.",
         "Option B uses R (external resistance), so it is not the internal power."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-06.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-07.jpg"
       ]
     },
     {
@@ -195,7 +233,11 @@
       "question": "Which graph shows how power P dissipated by an ohmic conductor varies with p.d. V across it?",
       "status": "pending",
       "answer": "Multiple-choice graphs are not in the text. Expected answer: P = V^2/R gives a parabola (curve through origin, increasing faster than linearly).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-07.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-08.jpg"
+      ]
     },
     {
       "id": "Q7a",
@@ -218,6 +260,11 @@
         "Total p.d. is the sum of the p.d.s: V = V1 + V2.",
         "Using V = IR: I RT = I R1 + I R2.",
         "Divide by I: RT = R1 + R2."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-08.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-09.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-10.jpg"
       ]
     },
     {
@@ -236,7 +283,12 @@
       "question": "A resistor combination with an ammeter reading 0.50 A (negligible internal battery resistance) is shown. Calculate resistance R.",
       "status": "pending",
       "answer": "Circuit diagram of the resistor combination and battery e.m.f. are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-08.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-09.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-10.jpg"
+      ]
     },
     {
       "id": "Q7c(i)",
@@ -255,7 +307,12 @@
       "question": "In daylight an LDR has resistance 670 ohm; the fixed resistor is 8.00 k ohm. Calculate the power in the fixed resistor.",
       "status": "pending",
       "answer": "Circuit diagram (how the LDR and fixed resistor are connected, and the battery e.m.f.) is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-08.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-09.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-10.jpg"
+      ]
     },
     {
       "id": "Q7c(ii)",
@@ -280,6 +337,11 @@
         "Fewer charge carriers (free electrons) means the LDR resistance increases.",
         "Total resistance in the series circuit increases, so the current I = E / R_total decreases.",
         "Power in the fixed resistor P = I^2 R decreases because I has decreased (R is constant)."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-08.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-09.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-10.jpg"
       ]
     },
     {
@@ -305,6 +367,10 @@
         "B is wrong: more light lowers LDR resistance, so the p.d. across the fixed resistor increases.",
         "C is wrong: light intensity changes the reading.",
         "D is correct by the series voltage rule."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-10.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-11.jpg"
       ]
     },
     {
@@ -324,7 +390,11 @@
       "question": "A negative temperature coefficient thermistor is in a circuit with meters V1, V2 and A. The thermistor temperature increases. Which table row shows the meter readings?",
       "status": "pending",
       "answer": "Table of options is missing from the text. Expected: current rises and the p.d. across the thermistor falls (its resistance falls); match to the row.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-11.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-12.jpg"
+      ]
     },
     {
       "id": "Q10a",
@@ -341,7 +411,11 @@
       "question": "Calculate the voltmeter reading for the circuit shown.",
       "status": "pending",
       "answer": "Circuit diagram (resistor values, battery e.m.f.) is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-11.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-12.jpg"
+      ]
     },
     {
       "id": "Q10b",
@@ -359,7 +433,11 @@
       "question": "A student measures a voltmeter reading lower than calculated in (a). Explain two reasons.",
       "status": "pending",
       "answer": "Depends on the circuit diagram from part (a), which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-11.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-12.jpg"
+      ]
     },
     {
       "id": "Q11",
@@ -376,7 +454,11 @@
       "question": "Two 5 ohm resistors are in series and in parallel. Which table row shows the total resistances?",
       "status": "pending",
       "answer": "Table of options is missing from the text. Derived values: series 10 ohm, parallel 2.5 ohm; match to the row.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-12.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-13.jpg"
+      ]
     },
     {
       "id": "Q12a",
@@ -397,6 +479,10 @@
       "steps": [
         "E.m.f. is the energy transferred per unit charge passing through the source.",
         "Equivalently, it is the total energy per coulomb supplied by the cell, including energy lost inside it."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-13.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-14.jpg"
       ]
     },
     {
@@ -419,6 +505,10 @@
         "Lost p.d. inside the battery = E - V = 12.00 - 11.81 = 0.19 V.",
         "Ohm's law for internal resistance: r = (E - V) / I = 0.19 / 9.83.",
         "r = 0.0193 ohm, about 0.019 ohm."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-13.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-14.jpg"
       ]
     },
     {
@@ -444,6 +534,10 @@
         "The equation V = E - Ir is a straight line with gradient -r.",
         "Find the gradient of the best-fit line and take its magnitude: this is the internal resistance r.",
         "The y-intercept (current = 0) gives the e.m.f. E."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-13.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-14.jpg"
       ]
     },
     {
@@ -469,6 +563,10 @@
         "Final: I = 9.0 / (5.0 + 0.50) = 1.636 A; P = 1.636^2 x 5.0 = 13.4 W.",
         "Ratio = 13.4 / 15.6 = 0.86, so the power is about 86% of its original value.",
         "86% is not 70%, so the student's conclusion is incorrect."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-13.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-14.jpg"
       ]
     },
     {
@@ -492,6 +590,12 @@
         "Time t = distance / speed = 1000 / 340.",
         "t = 2.94 s, which is about 3 s to one significant figure.",
         "The teacher is essentially correct; the light arrives almost instantly so the delay is due only to the sound."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-14.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
       ]
     },
     {
@@ -513,6 +617,12 @@
       "steps": [
         "Charge Q = I t (charge is current multiplied by time).",
         "Q = 25 000 A x 30 s = 7.5 x 10^5 C."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-14.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
       ]
     },
     {
@@ -534,6 +644,12 @@
       "steps": [
         "Power P = V x I (p.d. multiplied by current).",
         "P = 1.2 x 10^9 V x 2.5 x 10^4 A = 3.0 x 10^13 W."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-14.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
       ]
     },
     {
@@ -558,6 +674,12 @@
         "Cross-sectional area A = pi r^2 with r = 0.025 m: A = 1.96 x 10^-3 m^2.",
         "Resistivity rho = R A / L = (4.8 x 10^4 x 1.96 x 10^-3) / 400.",
         "rho = 94.2 / 400 = 0.24 ohm m, about 0.2 ohm m as required."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-14.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
       ]
     },
     {
@@ -580,6 +702,12 @@
         "Normal air is an almost perfect insulator, so its resistivity is very high.",
         "The strike ionises the air in the channel, producing many free electrons and ions.",
         "More charge carriers means much lower resistivity, so the calculated value is far smaller."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-14.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
       ]
     },
     {
@@ -605,6 +733,12 @@
         "Electrons then fall back to lower energy levels (de-excitation).",
         "Each fall releases a photon with energy equal to the energy difference, E = hf.",
         "Because the energy levels are discrete, only certain frequencies are emitted, giving a line spectrum."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-14.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
       ]
     },
     {
@@ -625,6 +759,12 @@
       "steps": [
         "Each element has its own set of electron energy levels.",
         "So the energy differences between levels, and hence photon frequencies, differ for each element."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-14.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
       ]
     },
     {
@@ -649,6 +789,11 @@
         "Power is derived (energy divided by time), so B is correct.",
         "The coulomb is derived (A s), so C is wrong.",
         "The volt is derived (J C^-1), so D is wrong."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-17.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-18.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-19.jpg"
       ]
     },
     {
@@ -668,7 +813,12 @@
       "question": "Four identical 2.0 ohm resistors A, B, C and D in a circuit. Determine the power dissipated in each resistor.",
       "status": "pending",
       "answer": "Circuit diagram (how the four resistors are connected and the supply) is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-17.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-18.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-19.jpg"
+      ]
     },
     {
       "id": "Q15b",
@@ -686,7 +836,12 @@
       "question": "Explain, without calculation, what happens to the power in resistor A if resistor D is disconnected.",
       "status": "pending",
       "answer": "Depends on the circuit diagram, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-17.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-18.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-19.jpg"
+      ]
     },
     {
       "id": "Q15c",
@@ -711,6 +866,11 @@
         "Greater current means more energy is transferred to the filament, so it heats up.",
         "The metal ions in the lattice vibrate with greater amplitude.",
         "Electrons collide more frequently with the vibrating ions, reducing their drift velocity for a given field, so resistance increases."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-17.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-18.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-19.jpg"
       ]
     },
     {
@@ -729,7 +889,12 @@
       "question": "With a voltmeter reading of 3.42 V in a thermistor circuit, determine the temperature of the thermistor.",
       "status": "pending",
       "answer": "Needs the thermistor resistance-temperature graph and the circuit (fixed resistor value), which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-19.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-20.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-21.jpg"
+      ]
     },
     {
       "id": "Q16b",
@@ -753,6 +918,11 @@
         "The current I = E / R_total is proportional to E for a fixed total resistance.",
         "Each p.d. V = IR is therefore proportional to E.",
         "Doubling E doubles the current and the voltmeter reading, so the student is correct, as long as the thermistor temperature (and resistance) does not change."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-19.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-20.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-21.jpg"
       ]
     },
     {
@@ -776,6 +946,10 @@
         "Total current I = I1 + I2.",
         "Using I = V/R: V/RT = V/R1 + V/R2.",
         "Divide by V: 1/RT = 1/R1 + 1/R2."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-21.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-22.jpg"
       ]
     },
     {
@@ -795,7 +969,11 @@
       "question": "Five 5.0 ohm resistors M, N, O, P, Q form a combination. Show that the resistance between A and B is about 3 ohm.",
       "status": "pending",
       "answer": "The arrangement diagram of resistors M, N, O, P, Q is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-21.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-22.jpg"
+      ]
     },
     {
       "id": "Q17b(ii)",
@@ -813,7 +991,11 @@
       "question": "Explain which 5.0 ohm resistor should be replaced with a 20.0 ohm resistor to make the resistance between A and B greater than 5.0 ohm, without the arrangement changing.",
       "status": "pending",
       "answer": "Depends on the resistor network diagram, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-21.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-22.jpg"
+      ]
     },
     {
       "id": "Q18",
@@ -831,7 +1013,10 @@
       "question": "Circuit with variable resistor R used to find internal resistance r and e.m.f. of a cell. Which expression gives the current in the cell?",
       "status": "pending",
       "answer": "Options are missing from the text. Expected expression: I = E / (R + r).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-22.jpg"
+      ]
     },
     {
       "id": "Q19",
@@ -848,7 +1033,11 @@
       "question": "A combination of three resistors X, Y, Z is shown. Which expression gives the total resistance?",
       "status": "pending",
       "answer": "Circuit diagram and options are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-23.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-24.jpg"
+      ]
     },
     {
       "id": "Q20",
@@ -872,6 +1061,10 @@
         "The gradient is -r, so B is wrong (magnitude r, sign negative).",
         "The y-intercept (I = 0) gives the e.m.f. E, so D is correct.",
         "The area under the V-I graph is power (V x I), not energy, so A is wrong."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-23.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-24.jpg"
       ]
     },
     {
@@ -890,7 +1083,10 @@
       "question": "Current carrying wire AB of length x and uniform diameter; slider S moved until voltmeter reads 0 V. Which equation is correct?",
       "status": "pending",
       "answer": "Circuit diagram and option equations are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-24.jpg"
+      ]
     },
     {
       "id": "Q22a",
@@ -914,6 +1110,10 @@
         "Cross-sectional area A = pi d^2 / 4 = pi (0.181 x 10^-3)^2 / 4 = 2.57 x 10^-8 m^2.",
         "Resistance R = rho L / A = (1.10 x 10^-6 x 0.550) / (2.57 x 10^-8).",
         "R = 6.05 x 10^-7 / 2.57 x 10^-8 = 23.5 ohm, about 24 ohm as required."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-25.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-26.jpg"
       ]
     },
     {
@@ -932,7 +1132,11 @@
       "question": "A student suggests the maximum power output from the resistors in the circuit is greater than 12 W. Assess this suggestion.",
       "status": "pending",
       "answer": "Depends on the switch and resistor arrangement diagram, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-25.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-26.jpg"
+      ]
     },
     {
       "id": "Q22c(i)",
@@ -950,7 +1154,11 @@
       "question": "With switch X open and switch Y closed, calculate the number of conduction electrons passing through the resistor each second immediately after Y is closed.",
       "status": "pending",
       "answer": "Circuit diagram and the battery e.m.f. are not in the text, so the current cannot be found.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-25.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-26.jpg"
+      ]
     },
     {
       "id": "Q22c(ii)",
@@ -968,7 +1176,11 @@
       "question": "After switch Y has been closed for a few minutes the power dissipated by the resistor decreases. Explain why.",
       "status": "pending",
       "answer": "Depends on the circuit diagram showing how the switches and resistors connect, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-25.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-26.jpg"
+      ]
     },
     {
       "id": "Q23a",
@@ -992,6 +1204,10 @@
         "Cross-sectional area A = pi (d/2)^2 = pi (0.125 x 10^-3)^2 = 4.91 x 10^-8 m^2.",
         "L = R A / rho = (2.40 x 4.91 x 10^-8) / 5.6 x 10^-8.",
         "L = 2.10 m."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-26.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-27.jpg"
       ]
     },
     {
@@ -1010,7 +1226,11 @@
       "question": "Lamps A (12 V 60 W) and B (12 V 30 W) are in a circuit; a student says both operate normally. Evaluate this.",
       "status": "pending",
       "answer": "Circuit diagram showing how the lamps are connected is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-26.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-27.jpg"
+      ]
     },
     {
       "id": "Q24a",
@@ -1027,7 +1247,11 @@
       "question": "Cell e.m.f. 1.50 V, voltmeter reads 1.19 V with lights off. Calculate the LDR resistance in the dark.",
       "status": "pending",
       "answer": "Circuit diagram (which component the voltmeter is across, and the fixed resistor value) is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-27.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-28.jpg"
+      ]
     },
     {
       "id": "Q24b",
@@ -1045,7 +1269,11 @@
       "question": "With lights on the LDR is about 9 ohm. Explain why the circuit cannot determine the LDR resistance with the lights on, given the voltmeter resolution of 0.01 V.",
       "status": "pending",
       "answer": "Needs the fixed resistor value and circuit diagram, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-27.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-28.jpg"
+      ]
     },
     {
       "id": "Q25a",
@@ -1063,7 +1291,12 @@
       "question": "Complete the circuit diagram for a nichrome resistivity experiment with ammeter, voltmeter and variable resistor.",
       "status": "pending",
       "answer": "Diagram-drawing question; the diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-28.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-29.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-30.jpg"
+      ]
     },
     {
       "id": "Q25b(i)",
@@ -1082,7 +1315,12 @@
       "question": "From a graph of p.d. against length (current 0.200 A, area 5.31 x 10^-8 m^2), determine the resistivity of nichrome.",
       "status": "pending",
       "answer": "Needs the p.d.-length graph (its gradient), which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-28.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-29.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-30.jpg"
+      ]
     },
     {
       "id": "Q25b(ii)",
@@ -1103,6 +1341,11 @@
       "steps": [
         "Once rho is known from (b)(i): R = rho L / A with L = 0.75 m.",
         "P = I^2 R with I = 0.200 A."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-28.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-29.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-30.jpg"
       ]
     },
     {
@@ -1126,6 +1369,11 @@
         "Energy transferred by cell E_total = E x I x t, so E = 50 / (0.107 x 300) = 1.56 V.",
         "Circuit equation: E = I (R + r), so R + r = 1.56 / 0.107 = 14.6 ohm.",
         "r = 14.6 - 12 = 2.6 ohm."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-30.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-31.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-32.jpg"
       ]
     },
     {
@@ -1148,6 +1396,11 @@
         "Increasing R increases total resistance, so current I = E/(R + r) decreases.",
         "The lost volts Ir inside the cell decrease.",
         "Terminal p.d. V = E - Ir therefore increases towards E."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-30.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-31.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-32.jpg"
       ]
     },
     {
@@ -1166,7 +1419,12 @@
       "question": "A voltmeter is added to the circuit. Explain how this circuit can determine r using a graph.",
       "status": "pending",
       "answer": "Depends on where the voltmeter is connected in the circuit diagram, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-30.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-31.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-32.jpg"
+      ]
     },
     {
       "id": "Q27a",
@@ -1188,6 +1446,10 @@
         "Closing the switch creates a current in the circuit.",
         "The battery's internal resistance has a current through it, so p.d. Ir is lost inside the battery.",
         "Terminal p.d. = E - Ir, which is less than the e.m.f. of 9.0 V."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-32.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-33.jpg"
       ]
     },
     {
@@ -1209,6 +1471,10 @@
         "Total resistance = 270 + 15 = 285 ohm, so I = 9.0 / 285 = 0.0316 A.",
         "Terminal p.d. = I x 270 = 0.0316 x 270 = 8.5 V.",
         "Alternatively V = E R / (R + r) = 9.0 x 270 / 285 = 8.5 V."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-32.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-33.jpg"
       ]
     },
     {
@@ -1230,6 +1496,10 @@
       "steps": [
         "Energy transferred from chemical store = charge x e.m.f. (energy per coulomb).",
         "E = Q x EMF = 12 C x 9.0 V = 108 J."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-32.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-33.jpg"
       ]
     },
     {
@@ -1248,7 +1518,12 @@
       "question": "Determine the milliammeter reading when the thermistor temperature is 54 C.",
       "status": "pending",
       "answer": "Needs the thermistor resistance-temperature graph and circuit values, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-33.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-34.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-35.jpg"
+      ]
     },
     {
       "id": "Q28b(i)",
@@ -1266,7 +1541,12 @@
       "question": "Explain how decreasing the thermistor temperature affects the voltmeter reading, without calculation.",
       "status": "pending",
       "answer": "Depends on which component the voltmeter is connected across, which is not clear from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-33.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-34.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-35.jpg"
+      ]
     },
     {
       "id": "Q28b(ii)",
@@ -1284,7 +1564,12 @@
       "question": "Explain how decreasing the thermistor temperature affects the power dissipated by the 2.0 k ohm resistor, without calculation.",
       "status": "pending",
       "answer": "Depends on the circuit diagram, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-33.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-34.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-35.jpg"
+      ]
     },
     {
       "id": "Q29a",
@@ -1302,7 +1587,11 @@
       "question": "Draw a circuit diagram to determine the e.m.f. and internal resistance of a cell using an ammeter and voltmeter.",
       "status": "pending",
       "answer": "Diagram-drawing question; the diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-35.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-36.jpg"
+      ]
     },
     {
       "id": "Q29b",
@@ -1321,7 +1610,11 @@
       "question": "Explain how the e.m.f. and internal resistance can be determined from a graph of terminal p.d. against current.",
       "status": "pending",
       "answer": "The graph itself is not in the text, though the method is standard: E is the y-intercept and r is the magnitude of the gradient.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-35.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-36.jpg"
+      ]
     },
     {
       "id": "Q30",
@@ -1345,6 +1638,10 @@
         "p.d. across R1 = V1, across R2 = IR2, lost volts = Ir.",
         "So E = V1 + IR2 + Ir, which is option D.",
         "Option A omits R2, B and C each omit one of the resistor p.d.s."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-36.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-37.jpg"
       ]
     },
     {
@@ -1364,7 +1661,11 @@
       "question": "A battery is connected to identical uniform nichrome wires PQ and RS, with a voltmeter connected as shown. Which is the voltmeter reading? A 1.0 V, B 2.0 V, C 3.0 V, D 4.0 V.",
       "status": "pending",
       "answer": "The circuit diagram showing the wires and voltmeter connections is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-37.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-38.jpg"
+      ]
     },
     {
       "id": "Q32",
@@ -1386,6 +1687,10 @@
         "Light intensity up means LDR resistance falls (D occurs).",
         "Total resistance falls, so current increases (A occurs), and p.d. across the fixed resistor increases (B occurs).",
         "Total power = E x I, and E is constant while I increases, so total power increases. C does not take place."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-37.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-38.jpg"
       ]
     },
     {
@@ -1404,7 +1709,11 @@
       "question": "Show that the power of the LED is about 0.1 W, given the ammeter reads 9.2 mA.",
       "status": "pending",
       "answer": "The battery e.m.f. (or the LED p.d.) shown in the diagram is not in the text, so P = VI cannot be completed.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-38.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-39.jpg"
+      ]
     },
     {
       "id": "Q33a(ii)",
@@ -1423,7 +1732,11 @@
       "question": "LED of wavelength 627 nm, 100% efficient, power about 0.1 W. Calculate the number of photons emitted in one minute.",
       "status": "pending",
       "answer": "Depends on the exact LED power from part (a)(i), which needs the diagram value (about 1.9 x 10^19 photons using P = 0.10 W).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-38.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-39.jpg"
+      ]
     },
     {
       "id": "Q33b",
@@ -1445,6 +1758,10 @@
         "Same current and (approximately) same p.d. means the same power output.",
         "Photon energy E = hc / lambda is higher for shorter wavelength.",
         "Number of photons per second = P / E is lower, so fewer photons are emitted per minute."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-38.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-39.jpg"
       ]
     },
     {
@@ -1467,6 +1784,10 @@
         "Intensity I = P / (4 pi r^2), assuming isotropic emission.",
         "I = 0.69 / (4 pi (5.0 x 10^-3)^2) = 0.69 / (3.14 x 10^-4) = 2.2 x 10^3 W m^-2.",
         "This is greater than 1100 W m^-2, so the student's suggestion is correct."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-38.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-39.jpg"
       ]
     },
     {
@@ -1486,7 +1807,12 @@
       "question": "Explain how current and p.d. measurements could show charge and energy are conserved in a circuit with identical resistors A, B and C.",
       "status": "pending",
       "answer": "Depends on the circuit diagram of resistors A, B and C, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-39.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-40.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-41.jpg"
+      ]
     },
     {
       "id": "Q34b(i)",
@@ -1503,7 +1829,12 @@
       "question": "Three identical 12.5 ohm resistors in the circuit shown. Calculate the total resistance.",
       "status": "pending",
       "answer": "Arrangement of the resistors (series/parallel) is not clear from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-39.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-40.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-41.jpg"
+      ]
     },
     {
       "id": "Q34b(ii)",
@@ -1521,7 +1852,12 @@
       "question": "Describe how a single ammeter reading can determine the internal resistance of the cell, showing where the ammeter goes on the diagram.",
       "status": "pending",
       "answer": "Requires adding the ammeter to the diagram, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-39.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-40.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-41.jpg"
+      ]
     },
     {
       "id": "Q35a",
@@ -1539,7 +1875,11 @@
       "question": "Cell e.m.f. 1.54 V with negligible internal resistance; ammeter reads 0.14 A. Calculate the resistance of R.",
       "status": "pending",
       "answer": "Total resistance is 11 ohm (E/I); the circuit diagram is needed to know whether the 9.0 ohm resistor is in series with R (then R = 2.0 ohm), which the text does not show.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-41.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-42.jpg"
+      ]
     },
     {
       "id": "Q35b(i)",
@@ -1559,6 +1899,10 @@
       "steps": [
         "Radius r = 0.15 / 2 = 0.075 mm = 7.5 x 10^-5 m.",
         "A = pi r^2 = pi (7.5 x 10^-5)^2 = 1.77 x 10^-8 m^2, about 2 x 10^-8 m^2."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-41.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-42.jpg"
       ]
     },
     {
@@ -1579,6 +1923,10 @@
       "steps": [
         "Rearrange R = rho L / A to give L = R A / rho.",
         "L = (9.0 x 1.77 x 10^-8) / 1.68 x 10^-8 = 9.5 m."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-41.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-42.jpg"
       ]
     },
     {
@@ -1601,6 +1949,10 @@
         "Use I = n A e v, so v = I / (n A e).",
         "Denominator: 8.49 x 10^28 x 1.77 x 10^-8 x 1.60 x 10^-19 = 2.40 x 10^2.",
         "v = 0.14 / 240 = 5.8 x 10^-4 m s^-1."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-41.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-42.jpg"
       ]
     },
     {
@@ -1619,7 +1971,12 @@
       "question": "Calculate the number of electrons passing point X each second in the circuit shown.",
       "status": "pending",
       "answer": "The circuit diagram and component values are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-42.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-43.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-44.jpg"
+      ]
     },
     {
       "id": "Q36b",
@@ -1637,7 +1994,12 @@
       "question": "Resistor Y is added to the circuit; evaluate the student's statement.",
       "status": "pending",
       "answer": "Depends on the circuit diagram and the student's statement, neither of which is in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-42.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-43.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-44.jpg"
+      ]
     },
     {
       "id": "Q37",
@@ -1655,7 +2017,11 @@
       "question": "NTC thermistor and fixed resistor in circuit; thermistor temperature increases. Which table row shows the changes to ammeter and voltmeter readings?",
       "status": "pending",
       "answer": "Table of options and circuit diagram are missing from the text. Expected: ammeter reading rises, voltmeter across the fixed resistor rises.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-44.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-45.jpg"
+      ]
     },
     {
       "id": "Q38a(i)",
@@ -1673,7 +2039,11 @@
       "question": "Ammeter reads 23 mA in a thermistor circuit with a negligible-resistance supply. Show that the voltmeter reading was about 6 V.",
       "status": "pending",
       "answer": "The circuit diagram (which resistors the voltmeter is across, and the supply e.m.f.) is not in the text, so the 6 V cannot be derived.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-45.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-46.jpg"
+      ]
     },
     {
       "id": "Q38a(ii)",
@@ -1693,6 +2063,10 @@
       "steps": [
         "Power P = V I (p.d. across the thermistor multiplied by current through it).",
         "P = 6 V x 0.023 A = 0.14 W."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-45.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-46.jpg"
       ]
     },
     {
@@ -1711,7 +2085,11 @@
       "question": "The student decreases the temperature of the thermistor. Explain the effect on the ammeter and voltmeter readings.",
       "status": "pending",
       "answer": "Depends on the circuit diagram (where the voltmeter and ammeter are), which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-45.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-46.jpg"
+      ]
     },
     {
       "id": "Q39a",
@@ -1735,6 +2113,11 @@
         "Rearrange: t = rho L / (R x w).",
         "Substitute L = 0.120 m, w = 0.042 m: t = (3.7 x 10^-5 x 0.120) / (8.8 x 0.042).",
         "t = 4.44 x 10^-6 / 0.370 = 1.2 x 10^-5 m."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-46.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-47.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-48.jpg"
       ]
     },
     {
@@ -1757,6 +2140,11 @@
         "Current I = V / R = 1.4 / 8.8 = 0.159 A.",
         "Lost volts in cell = E - V = 1.5 - 1.4 = 0.1 V.",
         "r = lost volts / I = 0.1 / 0.159 = 0.63 ohm."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-46.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-47.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-48.jpg"
       ]
     },
     {
@@ -1778,6 +2166,11 @@
       "steps": [
         "The paper is uniform, so p.d. is proportional to length along it.",
         "The p.d. across 12.0 cm is 1.4 V, so p.d. across 3.0 cm = 1.4 x 3.0 / 12.0 = 0.35 V."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-46.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-47.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-48.jpg"
       ]
     },
     {
@@ -1799,6 +2192,10 @@
       "steps": [
         "Total charge Q = n e = 4.80 x 10^20 x 1.60 x 10^-19 = 76.8 C.",
         "Current I = Q / t = 76.8 / 60 = 1.28 A, about 1.3 A."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-48.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-49.jpg"
       ]
     },
     {
@@ -1820,6 +2217,10 @@
       "steps": [
         "Same charge passes the resistor: Q = 76.8 C from part (a).",
         "Energy transferred E = V Q, so V = E / Q = 24 / 76.8 = 0.31 V."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-48.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-49.jpg"
       ]
     },
     {
@@ -1838,7 +2239,12 @@
       "question": "Intensity of light incident on an LDR decreases. Which row of the table is correct?",
       "status": "pending",
       "answer": "Table of options is not in the text. Expected: LDR resistance increases, current decreases, p.d. across fixed resistor decreases.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-49.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-50.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-51.jpg"
+      ]
     },
     {
       "id": "Q42a",
@@ -1857,7 +2263,12 @@
       "question": "A temperature sensing circuit switches on a heater when the p.d. across the thermistor exceeds 0.7 V. Using the resistance-temperature graph, deduce whether the heater switches on when temperature falls below 10 C.",
       "status": "pending",
       "answer": "Needs the thermistor resistance-temperature graph and the fixed resistor value, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-49.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-50.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-51.jpg"
+      ]
     },
     {
       "id": "Q42b",
@@ -1880,6 +2291,11 @@
         "A thermistor is a semiconductor with few free charge carriers at low temperature.",
         "As temperature increases, thermal energy frees more electrons into the conduction band.",
         "More charge carriers means lower resistance (negative temperature coefficient)."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-49.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-50.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-51.jpg"
       ]
     },
     {
@@ -1898,7 +2314,13 @@
       "question": "A headlight emits light when it dissipates at least 35 W. Using its I-V graph, determine the minimum p.d. for light emission.",
       "status": "pending",
       "answer": "Needs the I-V graph for the headlight, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-51.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-52.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-53.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-54.jpg"
+      ]
     },
     {
       "id": "Q43b(i)",
@@ -1922,6 +2344,12 @@
         "In series the p.d. would be shared, so each lamp would be too dim.",
         "Parallel branches are independent: if one headlight fails (open circuit) the other stays on.",
         "Each headlight can be switched on and off independently."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-51.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-52.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-53.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-54.jpg"
       ]
     },
     {
@@ -1940,7 +2368,13 @@
       "question": "Two headlights are connected to a 12.0 V battery. A student says the parallel combined resistance is one quarter of the series combined resistance. Deduce whether this is correct, using the graph.",
       "status": "pending",
       "answer": "Needs the I-V graph values for one headlight at 12 V, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-51.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-52.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-53.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-54.jpg"
+      ]
     },
     {
       "id": "Q43c",
@@ -1963,6 +2397,12 @@
         "Current I = n A e v, so v = I / (n A e).",
         "v = 4.60 / (8.49 x 10^28 x 9.83 x 10^-7 x 1.60 x 10^-19) = 4.60 / 1.34 x 10^4.",
         "v = 3.45 x 10^-4 m s^-1, about 3.5 x 10^-4 m s^-1."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-51.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-52.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-53.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-54.jpg"
       ]
     },
     {
@@ -1980,7 +2420,12 @@
       "question": "Two resistors are connected in a circuit with an expression given for their combined resistance. Derive this expression.",
       "status": "pending",
       "answer": "The expression and circuit diagram are not legible in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-54.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-55.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-56.jpg"
+      ]
     },
     {
       "id": "Q45a",
@@ -1998,7 +2443,12 @@
       "question": "Determine the e.m.f. and internal resistance of the cell from the student's V against I graph.",
       "status": "pending",
       "answer": "Needs the V-I graph values, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-54.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-55.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-56.jpg"
+      ]
     },
     {
       "id": "Q45b",
@@ -2020,6 +2470,11 @@
         "Two identical cells in series give total e.m.f. 2E.",
         "Total internal resistance is 2r.",
         "So the V-I line has intercept 2E and gradient magnitude 2r: higher intercept and steeper slope."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-54.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-55.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-56.jpg"
       ]
     },
     {
@@ -2039,7 +2494,12 @@
       "question": "Show that, for the circuit with variable resistor R and cell of e.m.f. E and internal resistance r, the required linear relation holds (the equation is not in the text).",
       "status": "pending",
       "answer": "The equation to be shown is not legible in the text, so the derivation cannot be checked.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-56.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-57.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-58.jpg"
+      ]
     },
     {
       "id": "Q46b",
@@ -2057,7 +2517,12 @@
       "question": "From the graph of R against the plotted quantity, determine the e.m.f. and internal resistance of the cell.",
       "status": "pending",
       "answer": "Needs the graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-56.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-57.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-58.jpg"
+      ]
     },
     {
       "id": "Q46c",
@@ -2079,6 +2544,11 @@
         "Power in the internal resistance P = I^2 r.",
         "Since r is constant and I decreases, P decreases.",
         "So the student's suggestion is correct."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-56.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-57.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-58.jpg"
       ]
     },
     {
@@ -2096,7 +2566,12 @@
       "question": "A second identical cell is added in series with the first and the experiment repeated. Add a line to the graph to show the result.",
       "status": "pending",
       "answer": "Requires drawing on the original graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-56.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-57.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-58.jpg"
+      ]
     },
     {
       "id": "Q47",
@@ -2119,6 +2594,10 @@
         "So the LDR resistance decreases.",
         "Total resistance of the series circuit falls, so the current I = E / R_total increases.",
         "Total power dissipated P = E I (e.m.f. is constant) increases."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-58.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-59.jpg"
       ]
     },
     {
@@ -2137,7 +2616,11 @@
       "question": "The current in a uniform wire is constant. Which graph shows how p.d. across the wire varies with its length? (Options are graphs.)",
       "status": "pending",
       "answer": "Graph options are not in the text. Expected: a straight line through the origin (V = I rho L / A).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-58.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-59.jpg"
+      ]
     },
     {
       "id": "Q49a",
@@ -2159,6 +2642,11 @@
         "The counterweight's weight acts in the opposite direction to the lift's weight.",
         "So the net load the motor must lift is smaller.",
         "Work done by the motor = (lift weight - counterweight weight) x height is therefore reduced."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-59.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-60.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-61.jpg"
       ]
     },
     {
@@ -2183,6 +2671,11 @@
         "Net mass moved by motor = 2250 - 1300 = 950 kg.",
         "Work done W = m g h = 950 x 9.81 x 40.0 = 3.73 x 10^5 J.",
         "Power P = W / t = 3.73 x 10^5 / 30.0 = 1.24 x 10^4 W, about 12 kW."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-59.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-60.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-61.jpg"
       ]
     },
     {
@@ -2204,6 +2697,11 @@
       "steps": [
         "Input power = useful output power + wasted power = 12.4 kW + 3.6 kW = 16.0 kW.",
         "Efficiency = output / input = 12.4 / 16.0 = 0.78, or 78%."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-59.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-60.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-61.jpg"
       ]
     },
     {
@@ -2221,7 +2719,10 @@
       "question": "A student connects four resistors between points X and Y. Which expression gives the total resistance between X and Y?",
       "status": "pending",
       "answer": "Circuit diagram and options are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-61.jpg"
+      ]
     },
     {
       "id": "Q51",
@@ -2239,7 +2740,12 @@
       "question": "A circuit includes a thermistor; the temperature increases. Which row of the table shows how the ammeter and voltmeter readings change?",
       "status": "pending",
       "answer": "Table of options and circuit diagram are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-62.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-63.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-64.jpg"
+      ]
     },
     {
       "id": "Q52a",
@@ -2261,6 +2767,11 @@
         "Voltmeter resistance is very high, so the current through the battery is almost zero.",
         "With no current, there is no p.d. (Ir) lost inside the battery.",
         "So the terminal p.d. equals the e.m.f."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-62.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-63.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-64.jpg"
       ]
     },
     {
@@ -2279,7 +2790,12 @@
       "question": "Draw a circuit diagram to investigate how p.d. V across a battery varies with current I.",
       "status": "pending",
       "answer": "Diagram-drawing question; the diagram is not in the text (expected: battery, ammeter in series, variable resistor, voltmeter across battery).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-62.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-63.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-64.jpg"
+      ]
     },
     {
       "id": "Q52c(i)",
@@ -2297,7 +2813,12 @@
       "question": "From the student's graph of V against I, determine the e.m.f. and internal resistance of the battery.",
       "status": "pending",
       "answer": "Needs the graph values, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-62.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-63.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-64.jpg"
+      ]
     },
     {
       "id": "Q52c(ii)",
@@ -2319,6 +2840,11 @@
         "Current I = E / (R + r).",
         "As the external resistance R falls towards zero, the current rises.",
         "It cannot exceed E / r because the internal resistance r always limits it."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-62.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-63.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-64.jpg"
       ]
     },
     {
@@ -2343,6 +2869,10 @@
         "Drift velocity v = I / (n A e), with the same area A for both wires (same diameter).",
         "Copper has a greater n, so v is smaller in copper.",
         "Hence the electrons in the copper move more slowly than in the nichrome."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-64.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-65.jpg"
       ]
     },
     {
@@ -2364,6 +2894,11 @@
       "steps": [
         "Resistivity is a property of the material, independent of its size.",
         "It is the resistance of a 1 m length with a 1 m^2 cross-sectional area, rho = RA / L."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-65.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-66.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-67.jpg"
       ]
     },
     {
@@ -2388,6 +2923,11 @@
         "Connect the sample to a cell, ammeter and voltmeter and measure V and I to find R = V / I.",
         "Calculate resistivity rho = R A / L.",
         "Repeat for several readings and average to reduce random error."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-65.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-66.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-67.jpg"
       ]
     },
     {
@@ -2410,6 +2950,11 @@
         "Low resistivity means copper has a very high number density of charge carriers n.",
         "Drift velocity v = I / (n A e), so for a given current v is small when n is large.",
         "So electrons in the copper electrodes drift slowly, and the electrodes carry current with little heating."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-65.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-66.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-67.jpg"
       ]
     },
     {
@@ -2431,6 +2976,11 @@
         "Panels in parallel: total resistance falls as more branches are added.",
         "For a fixed supply p.d. V, the power output P = V^2 / R_total increases.",
         "So the power output increases."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-65.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-66.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-67.jpg"
       ]
     },
     {
@@ -2450,7 +3000,12 @@
       "question": "A system uses five heating panels with resistivity 6.4 x 10^-3 ohm m and thickness 0.48 mm. Maximum power must be below 350 W. Deduce whether the design is safe.",
       "status": "pending",
       "answer": "Needs the panel dimensions (length and width) and the arrangement of the five panels, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-65.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-66.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-67.jpg"
+      ]
     },
     {
       "id": "Q55a(i)",
@@ -2473,6 +3028,11 @@
         "Power in resistor P = I^2 R, so I = sqrt(P / R).",
         "Total resistance = 4R + R = 5R, so E = I x 5R.",
         "Substitute: E = 5R sqrt(P / R) = 5 sqrt(P R)."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-67.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-68.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-69.jpg"
       ]
     },
     {
@@ -2491,7 +3051,12 @@
       "question": "Determine the potential difference across the battery given P = 0.38 W at 45 C.",
       "status": "pending",
       "answer": "Needs the resistance of the wire (or the thermistor resistance at 45 C from the graph) which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-67.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-68.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-69.jpg"
+      ]
     },
     {
       "id": "Q55b(i)",
@@ -2513,6 +3078,11 @@
         "A thermistor is a semiconductor with few free electrons at low temperature.",
         "Increasing temperature gives electrons enough thermal energy to move into the conduction band.",
         "More charge carriers means lower resistance."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-67.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-68.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-69.jpg"
       ]
     },
     {
@@ -2531,7 +3101,12 @@
       "question": "Both the wire resistor and thermistor are heated from 80 C to 90 C. Explain why the current in the circuit decreases.",
       "status": "pending",
       "answer": "Requires the thermistor resistance values at 80 C and 90 C and the wire's temperature coefficient, which are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-67.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-68.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-69.jpg"
+      ]
     },
     {
       "id": "Q56",
@@ -2548,7 +3123,11 @@
       "question": "A cell is connected to two resistors. Which expression gives the power transferred by the 20 ohm resistor?",
       "status": "pending",
       "answer": "Circuit diagram and options are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-69.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-70.jpg"
+      ]
     },
     {
       "id": "Q57a",
@@ -2570,6 +3149,11 @@
         "Electromagnetic radiation incident on a metal surface transfers energy to electrons, one photon per electron.",
         "If the photon frequency is above the threshold frequency, electrons are emitted immediately.",
         "Emission depends on frequency, not on intensity."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-70.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-71.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-72.jpg"
       ]
     },
     {
@@ -2591,6 +3175,11 @@
         "Photon energy E = hf.",
         "If hf is less than the work function of the photocathode, no electron is emitted.",
         "So low-frequency radiation is not detected."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-70.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-71.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-72.jpg"
       ]
     },
     {
@@ -2612,6 +3201,11 @@
         "Threshold wavelength: lambda = hc / phi = 1240 eV nm / 1.48 eV = 838 nm.",
         "Light is detected only if its wavelength is shorter than the threshold, i.e. below about 838 nm.",
         "The longest visible wavelength is 700 nm, which is less than 838 nm, so all visible wavelengths are detected."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-70.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-71.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-72.jpg"
       ]
     },
     {
@@ -2634,6 +3228,11 @@
         "Initial kinetic energy = 0.5 m v^2 = 0.5 x 9.11 x 10^-31 x (1.35 x 10^6)^2 = 8.30 x 10^-19 J.",
         "Work done by the field = e V = 1.60 x 10^-19 x 108 = 1.73 x 10^-17 J.",
         "Total KE = 8.30 x 10^-19 + 1.73 x 10^-17 = 1.81 x 10^-17 J."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-70.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-71.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-72.jpg"
       ]
     },
     {
@@ -2653,7 +3252,12 @@
       "question": "Four 85.0 k ohm resistors A to D apply p.d. between plates. With switch open the supply p.d. is 1960 V; with switch closed the p.d. across A is 108 V. Calculate the internal resistance of the supply.",
       "status": "pending",
       "answer": "The arrangement of the resistors when the switch is closed is not in the text, so the current through the chain cannot be determined.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-70.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-71.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-72.jpg"
+      ]
     },
     {
       "id": "Q58",
@@ -2669,7 +3273,11 @@
       "question": "Circuit with a cell of internal resistance 0.5 ohm. Which expression gives the e.m.f. of the cell?",
       "status": "pending",
       "answer": "Options and circuit diagram are not in the text. Expected form: E = I(R + 0.5).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-72.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-73.jpg"
+      ]
     },
     {
       "id": "Q59",
@@ -2686,7 +3294,11 @@
       "question": "The diagram shows part of a circuit. Which expression gives the total resistance between X and Y?",
       "status": "pending",
       "answer": "Circuit diagram and options are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-73.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-74.jpg"
+      ]
     },
     {
       "id": "Q60",
@@ -2704,7 +3316,11 @@
       "question": "Battery with negligible internal resistance; R1 and R2 identical. Which expression gives the p.d. across R1?",
       "status": "pending",
       "answer": "Circuit diagram and options are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-74.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-75.jpg"
+      ]
     },
     {
       "id": "Q61",
@@ -2721,7 +3337,11 @@
       "question": "A student connects a circuit with resistors of different resistances. Which expression gives the current in resistor R?",
       "status": "pending",
       "answer": "Circuit diagram and options are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-75.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-76.jpg"
+      ]
     },
     {
       "id": "Q62",
@@ -2739,7 +3359,11 @@
       "question": "A 1.5 V cell with negligible internal resistance is in a circuit with two resistors and a voltmeter; the switch is closed. What is the reading? A 0.15 V, B 0.50 V, C 1.00 V, D 1.50 V.",
       "status": "pending",
       "answer": "Circuit diagram is not in the text, so the ratio of resistances (and the voltmeter position) cannot be checked.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-76.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-77.jpg"
+      ]
     },
     {
       "id": "Q63",
@@ -2757,7 +3381,11 @@
       "question": "A uniform wire on a metre rule carries current; the distance d between voltmeter connections is increased. Which graph shows V against d?",
       "status": "pending",
       "answer": "Graph options and circuit are not in the text. Expected: straight line through the origin (V proportional to d).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-76.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-77.jpg"
+      ]
     },
     {
       "id": "Q64a",
@@ -2779,6 +3407,9 @@
         "Lower light intensity means the LDR resistance increases.",
         "Total resistance increases, so the current falls.",
         "p.d. across the fixed resistor = I R falls, since R is constant."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-78.jpg"
       ]
     },
     {
@@ -2801,6 +3432,9 @@
         "Fixed resistor R_f = V / I = 0.62 / 0.028 = 22.1 ohm.",
         "Ratio LDR : fixed = 3 : 2, so R_LDR = (3/2) x 22.1 = 33.2 ohm.",
         "Resistance of LDR = 33 ohm."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-78.jpg"
       ]
     },
     {
@@ -2822,6 +3456,11 @@
       "steps": [
         "Light travels slower in glass (higher refractive index) than in air.",
         "When the ray enters the glass at an angle, the change in speed causes a change in direction at surface X."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-79.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-80.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-81.jpg"
       ]
     },
     {
@@ -2840,7 +3479,12 @@
       "question": "Deduce whether a silver layer is needed on surface Y of the prism with refractive index 1.52.",
       "status": "pending",
       "answer": "Needs the angle of incidence of the ray at surface Y, which is shown only in the diagram. (Critical angle for glass n = 1.52 is 41.1 degrees.)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-79.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-80.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-81.jpg"
+      ]
     },
     {
       "id": "Q65c(i)",
@@ -2862,6 +3506,11 @@
         "Intensity = power incident per unit area.",
         "Power = (number of photons per second) x (energy per photon).",
         "Energy per photon depends on wavelength (E = hc/lambda), which is not given, so the photon count alone is not enough."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-79.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-80.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-81.jpg"
       ]
     },
     {
@@ -2880,7 +3529,12 @@
       "question": "Monochromatic light at 600 nm with power 1.0 W is incident on the sensor. Determine the percentage of photons detected by the sensor.",
       "status": "pending",
       "answer": "Needs the current-wavelength graph for the sensor, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-79.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-80.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-81.jpg"
+      ]
     },
     {
       "id": "Q66a",
@@ -2898,7 +3552,11 @@
       "question": "Draw a circuit diagram the student could use to investigate the LED's current against p.d.",
       "status": "pending",
       "answer": "Diagram-drawing question; the diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-81.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-82.jpg"
+      ]
     },
     {
       "id": "Q66b",
@@ -2915,7 +3573,11 @@
       "question": "Determine the power of the LED when the p.d. across it is 2.2 V, using the graph.",
       "status": "pending",
       "answer": "Needs the current at 2.2 V from the LED graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-81.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-82.jpg"
+      ]
     },
     {
       "id": "Q66c",
@@ -2932,7 +3594,11 @@
       "question": "Describe, without calculation, how the resistance of the LED changes as the p.d. increases from 0 V to 2.4 V.",
       "status": "pending",
       "answer": "Needs the LED I-V graph shape, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-81.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-82.jpg"
+      ]
     },
     {
       "id": "Q67a",
@@ -2953,6 +3619,10 @@
         "Cross-sectional area A = pi (d/2)^2 = pi (6.0 x 10^-3)^2 = 1.13 x 10^-4 m^2.",
         "Resistance R = rho L / A, so L = R A / rho.",
         "L = (0.078 x 1.13 x 10^-4) / (1.4 x 10^-7) = 63 m."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-82.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-83.jpg"
       ]
     },
     {
@@ -2974,6 +3644,10 @@
       "steps": [
         "Charge Q = I t = 1.2 x 10^4 x 70 = 8.4 x 10^5 C.",
         "Work done W = Q V = 8.4 x 10^5 x 1.5 x 10^8 = 1.3 x 10^14 J."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-82.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-83.jpg"
       ]
     },
     {
@@ -2993,7 +3667,11 @@
       "question": "Copper cable replaces steel with same length and diameter and same p.d.; copper has lower resistivity and more conduction electrons per volume. A student says drift velocities are the same. Assess the statement.",
       "status": "pending",
       "answer": "Needs numerical carrier densities for steel (only the qualitative comparison is given). Drift velocity v = I/(nAe), with I = V/R, so v is proportional to 1/(rho n); the statement is not correct, but the comparison needs the values.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-82.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-83.jpg"
+      ]
     },
     {
       "id": "Q68a",
@@ -3015,6 +3693,10 @@
         "Work function in joules: phi = 1.86 x 1.60 x 10^-19 = 2.98 x 10^-19 J.",
         "Minimum frequency f = phi / h = 2.98 x 10^-19 / 6.63 x 10^-34.",
         "f = 4.5 x 10^14 Hz."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-84.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-85.jpg"
       ]
     },
     {
@@ -3039,6 +3721,10 @@
         "Without layer 1, all photons above f2 reach and are absorbed by layer 2.",
         "Intensity is constant, so the number of photons absorbed per second (and so electrons released per second) is the same.",
         "Only the location of emission changes; the rate is unchanged."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-84.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-85.jpg"
       ]
     },
     {
@@ -3063,6 +3749,10 @@
         "Parallel: E = 5.0 V, r = 0.80 / 2 = 0.40 ohm; I = 5.0 / (4.0 + 0.40) = 1.14 A.",
         "P = I^2 R = 1.14^2 x 4.0 = 5.2 W.",
         "Half of 13 W is 6.5 W; 5.2 W is less than 6.5 W, so the suggestion is correct."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-84.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-85.jpg"
       ]
     },
     {
@@ -3085,6 +3775,10 @@
         "Temperature rises, so the metal ions in the lattice gain kinetic energy.",
         "They vibrate with greater amplitude.",
         "Electrons collide with the ions more often, reducing their drift, so resistance increases."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-85.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-86.jpg"
       ]
     },
     {
@@ -3107,6 +3801,10 @@
         "Cross-sectional area A = pi (d/2)^2 = pi (2.55 x 10^-4)^2 = 2.04 x 10^-7 m^2.",
         "rho = R A / L = (0.67 x 2.04 x 10^-7) / 0.14.",
         "rho = 9.8 x 10^-7 ohm m."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-85.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-86.jpg"
       ]
     },
     {
@@ -3125,7 +3823,12 @@
       "question": "Voltmeter reads 3.6 V across the lamp; use the I-V graph to show the combined resistance of lamp and resistor is about 5 ohm.",
       "status": "pending",
       "answer": "Needs the current at 3.6 V from the lamp graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-86.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-87.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-88.jpg"
+      ]
     },
     {
       "id": "Q70b",
@@ -3147,6 +3850,11 @@
         "Current I = E / R_total = 4.5 / 5.0 = 0.90 A.",
         "Power dissipated in the circuit P = E I = 4.5 x 0.90 = 4.1 W.",
         "(Check: the power is also V I = 3.6 x 0.90 in the lamp plus 0.9 x 0.90 in the resistor, totalling about 4.1 W.)"
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-86.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-87.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-88.jpg"
       ]
     },
     {
@@ -3165,7 +3873,11 @@
       "question": "Student connects a circuit; voltmeter reading is 6 V. Which expression gives the internal resistance of the battery?",
       "status": "pending",
       "answer": "Circuit diagram and options are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-88.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-89.jpg"
+      ]
     },
     {
       "id": "Q72a",
@@ -3184,6 +3896,10 @@
       "steps": [
         "E.m.f. is energy transferred per coulomb of charge passing through the cell.",
         "This includes energy used within the cell (to overcome its internal resistance)."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-88.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-89.jpg"
       ]
     },
     {
@@ -3209,6 +3925,10 @@
         "Total resistance in the circuit falls, so the current I = E / (R + r) increases.",
         "Lost volts Ir inside the cell increase.",
         "Terminal p.d. V = E - Ir therefore decreases, so the voltmeter reading falls."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-88.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-89.jpg"
       ]
     },
     {
@@ -3227,7 +3947,11 @@
       "question": "A uniform copper wire of length L is measured with an ohmmeter; a length d of the wire has resistance R. Which gives the total resistance of the wire?",
       "status": "pending",
       "answer": "Options are not in the text. Derived result: total resistance = R L / d (resistance is proportional to length).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-89.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-90.jpg"
+      ]
     },
     {
       "id": "Q74",
@@ -3244,7 +3968,11 @@
       "question": "Three identical resistors are connected in a circuit with an e.m.f. and negligible internal resistance. Which is equal to the voltmeter reading?",
       "status": "pending",
       "answer": "Circuit diagram and options are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-90.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-91.jpg"
+      ]
     },
     {
       "id": "Q75a",
@@ -3262,6 +3990,11 @@
       "answer": "Each coulomb of charge passing through the battery gains 6.00 J of energy from the chemical store.",
       "steps": [
         "An e.m.f. of 6.00 V means the battery transfers 6.00 J of energy per coulomb of charge that passes through it."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-91.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-92.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-93.jpg"
       ]
     },
     {
@@ -3279,7 +4012,12 @@
       "question": "Voltmeter reads 1.64 V; show the ammeter reads about 20 mA.",
       "status": "pending",
       "answer": "The circuit diagram (which components the voltmeter and ammeter are across) is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-91.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-92.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-93.jpg"
+      ]
     },
     {
       "id": "Q75b(ii)",
@@ -3296,7 +4034,12 @@
       "question": "Determine the resistance of resistor X.",
       "status": "pending",
       "answer": "Circuit diagram needed to know how resistor X is connected.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-91.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-92.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-93.jpg"
+      ]
     },
     {
       "id": "Q75b(iii)",
@@ -3313,7 +4056,12 @@
       "question": "Determine the power dissipated in the 100 ohm resistor.",
       "status": "pending",
       "answer": "Circuit diagram needed to know the current through the 100 ohm resistor.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-91.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-92.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-93.jpg"
+      ]
     },
     {
       "id": "Q75c",
@@ -3330,7 +4078,12 @@
       "question": "Discuss the student's prediction (shown in a missing image), without calculations.",
       "status": "pending",
       "answer": "The student's prediction is in an image that is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-91.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-92.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-93.jpg"
+      ]
     },
     {
       "id": "Q76",
@@ -3347,7 +4100,12 @@
       "question": "An NTC thermistor is connected in a circuit and its temperature is increased. Which row of the table gives the changes to the ammeter and voltmeter?",
       "status": "pending",
       "answer": "Table of options and circuit diagram are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
+      ]
     },
     {
       "id": "Q77a",
@@ -3370,6 +4128,11 @@
         "Colliding electrons transfer kinetic energy to mercury atoms.",
         "Electrons in the atoms are excited to higher energy levels.",
         "When they fall back to lower levels, they emit photons with energy equal to the level difference (E = hf)."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
       ]
     },
     {
@@ -3388,7 +4151,12 @@
       "question": "UV intensity on the screen is 50 mW cm^-2 and the glue takes 25 s to harden. Show that the total energy incident on the glass screen is 130 J.",
       "status": "pending",
       "answer": "Needs the screen area from the diagram (E = I A t gives 130 J only for an area of about 104 cm^2), which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
+      ]
     },
     {
       "id": "Q77b(ii)",
@@ -3410,6 +4178,11 @@
         "Energy per photon E = hc / lambda = (6.63 x 10^-34 x 3.00 x 10^8) / (395 x 10^-9) = 5.03 x 10^-19 J.",
         "Number of photons N = total energy / energy per photon = 130 / 5.03 x 10^-19.",
         "N = 2.6 x 10^20."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
       ]
     },
     {
@@ -3432,6 +4205,11 @@
         "Greater p.d. gives electrons more kinetic energy (E = eV) before collisions.",
         "Mercury atoms are excited to higher levels and emit photons with greater energy.",
         "Since E = hf, the frequency of the UV light increases."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
       ]
     },
     {
@@ -3453,6 +4231,11 @@
         "Intensity falls off with distance from the lamp (inverse square law).",
         "Closer lamp means higher intensity at the screen.",
         "More energy is delivered per second, so the same total energy is reached in a shorter time."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
       ]
     },
     {
@@ -3474,6 +4257,11 @@
         "Lost volts = E - V = 1.5 - 1.4 = 0.1 V.",
         "Current I = V / R = 1.4 / 10 = 0.14 A.",
         "r = lost volts / I = 0.1 / 0.14 = 0.71 ohm."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-95.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-96.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-97.jpg"
       ]
     },
     {
@@ -3498,6 +4286,11 @@
         "The battery supplies more power, so the current drawn from it increases.",
         "Power dissipated as heat in the battery's internal resistance is P = I^2 r.",
         "Since I is larger, the power wasted as heat increases sharply, so the battery warms up."
+      ],
+      "images": [
+        "papers/physics/img/20-4B-Complete-Circuits-95.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-96.jpg",
+        "papers/physics/img/20-4B-Complete-Circuits-97.jpg"
       ]
     }
   ]

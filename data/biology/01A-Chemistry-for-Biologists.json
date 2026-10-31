@@ -20,7 +20,11 @@
       "question": "Which table row gives the correct number of monosaccharides and disaccharides shown in the sweetness graph?",
       "status": "pending",
       "answer": "Pending: the sweetness graph and the answer table rows are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-01.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg"
+      ]
     },
     {
       "id": "1A-Q1a(ii)",
@@ -43,6 +47,10 @@
         "The link is a glycosidic bond, a C-O-C linkage formed between two sugar rings.",
         "Ester bonds link fatty acids to glycerol, and phosphodiester bonds link nucleotides, so A and D are wrong.",
         "Hydrogen bonds are weak and hold chains together rather than joining monomers, so C is wrong."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-01.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg"
       ]
     },
     {
@@ -61,7 +69,11 @@
       "question": "State two conclusions about the relative sweetness of monosaccharides and of disaccharides from the graph.",
       "status": "pending",
       "answer": "Pending: the values on the sweetness graph are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-01.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg"
+      ]
     },
     {
       "id": "1A-Q1a(iv)",
@@ -86,6 +98,10 @@
         "Use a blind taste panel, so the tasters do not know which sugar they are tasting.",
         "Ask tasters to rank or score sweetness, because sweet taste comes from sugar binding to receptors on taste buds.",
         "Repeat with several tasters and trials, then compare the mean scores with the graph."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-01.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg"
       ]
     },
     {
@@ -110,6 +126,10 @@
         "Similarity: both contain 1-4 glycosidic bonds in the main chain.",
         "Contrast: amylose is an unbranched chain, so it coils into a compact helix.",
         "Contrast: amylopectin has 1-6 glycosidic branches, which make it more open and branched."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-01.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg"
       ]
     },
     {
@@ -133,6 +153,11 @@
         "Glucose is C6H12O6, which fits CnH2nOn with n = 6.",
         "A has too few hydrogen atoms, and C and D have twice as many carbons as oxygens, so they are wrong.",
         "Glucose (C6H12O6) fits this formula with n = 6, confirming the general ratio."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-03.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg"
       ]
     },
     {
@@ -156,6 +181,11 @@
         "A hydroxyl group from one sugar and a hydrogen from another are lost as water.",
         "Joining molecules and releasing water is called a condensation reaction.",
         "Water is released in the reaction, so it is a condensation reaction and not hydrolysis."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-03.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg"
       ]
     },
     {
@@ -174,7 +204,12 @@
       "question": "Identify the carbohydrate described in part (i) of the diagram.",
       "status": "pending",
       "answer": "Pending: the diagram describing each carbohydrate is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-03.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg"
+      ]
     },
     {
       "id": "1A-Q2b(ii)",
@@ -192,7 +227,12 @@
       "question": "Identify the carbohydrate described in part (ii) of the diagram.",
       "status": "pending",
       "answer": "Pending: the diagram describing each carbohydrate is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-03.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg"
+      ]
     },
     {
       "id": "1A-Q2b(iii)",
@@ -210,7 +250,12 @@
       "question": "Identify the carbohydrate described in part (iii) of the diagram.",
       "status": "pending",
       "answer": "Pending: the diagram describing each carbohydrate is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-03.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg"
+      ]
     },
     {
       "id": "1A-Q2b(iv)",
@@ -228,7 +273,12 @@
       "question": "Identify the carbohydrate described in part (iv) of the diagram.",
       "status": "pending",
       "answer": "Pending: the diagram describing each carbohydrate is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-03.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg"
+      ]
     },
     {
       "id": "1A-Q3a",
@@ -251,6 +301,11 @@
         "Label the oxygen with a partial negative charge (delta-minus), because oxygen is more electronegative and pulls the shared electrons toward it.",
         "Label each hydrogen with a partial positive charge (delta-plus).",
         "Optionally show the dipole arrow pointing toward the oxygen, showing the charge separation that makes water a polar solvent."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-05.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg"
       ]
     },
     {
@@ -269,7 +324,12 @@
       "question": "Describe the effect of temperature on the solubility of salts F, G and H from the graph.",
       "status": "pending",
       "answer": "Pending: the solubility graph for salts F, G and H is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-05.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg"
+      ]
     },
     {
       "id": "1A-Q3b(ii)",
@@ -287,7 +347,12 @@
       "question": "How many times more soluble is salt G than salt H at 30 C? Options: A 15.00, B 1.67, C 1.50, D 0.60.",
       "status": "pending",
       "answer": "Pending: the solubility values read from the graph at 30 C are needed, and the graph is missing.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-05.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg"
+      ]
     },
     {
       "id": "1A-Q4a(i)",
@@ -305,7 +370,12 @@
       "question": "Compare and contrast the effect of temperature on the solubility of sodium chloride and glucose in water, using the graph.",
       "status": "pending",
       "answer": "Pending: the solubility-temperature graph for sodium chloride and glucose is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-07.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-08.jpg"
+      ]
     },
     {
       "id": "1A-Q4a(ii)",
@@ -323,7 +393,12 @@
       "question": "Using the table, calculate the molecular mass of glucose, given that the formula mass of sodium chloride is 58.44.",
       "status": "pending",
       "answer": "Pending: the table giving the glucose data is not in the text (glucose, C6H12O6, is 180).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-07.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-08.jpg"
+      ]
     },
     {
       "id": "1A-Q4a(iii)",
@@ -341,7 +416,12 @@
       "question": "Calculate how many times greater the molecular mass of glucose is than the formula mass of sodium chloride.",
       "status": "pending",
       "answer": "Pending: depends on the glucose molecular mass read from the missing table in part (ii). If 180 is used, the answer is about 3.08.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-07.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-08.jpg"
+      ]
     },
     {
       "id": "1A-Q4a(iv)",
@@ -360,7 +440,12 @@
       "question": "Suggest why sodium chloride and glucose differ in solubility in water.",
       "status": "pending",
       "answer": "Pending: the answer depends on which solute is more soluble from the graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-07.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-08.jpg"
+      ]
     },
     {
       "id": "1A-Q4b",
@@ -384,6 +469,11 @@
         "Fatty acid tails are long hydrocarbon chains made of C-H bonds, which are non-polar.",
         "Non-polar tails cannot form hydrogen bonds with water, so they repel water and stay poorly dissolved.",
         "Glucose has many polar -OH groups that form hydrogen bonds with water, and NaCl is ionic, so both dissolve well."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-07.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-08.jpg"
       ]
     },
     {
@@ -401,7 +491,7 @@
         "lactose",
         "galactose"
       ],
-      "question": "Complete the description of water: the uneven charge makes it a polar molecule; hydrogen ends are slightly positive; it is an important solvent; reactions breaking disaccharides are hydrolysis; the disaccharide that breaks into glucose and galactose is lactose.",
+      "question": "Complete the description of water by writing the most appropriate word in each gap. Water has an uneven charge distribution so it is described as a ________ molecule. The hydrogen ends of the molecule have a very slightly ________ charge. Water is involved in the transport of substances so it is an important ________ in living organisms. Water is needed in chemical reactions called ________ reactions that break down disaccharides such as ________ into glucose and galactose.",
       "status": "ready",
       "answer": "Polar; positive; solvent; hydrolysis; lactose.",
       "steps": [
@@ -410,6 +500,11 @@
         "Because it is polar it dissolves many substances, so water is an important solvent for transport.",
         "Breaking a disaccharide by adding water is hydrolysis, which cleaves the glycosidic bond.",
         "Lactose (glucose + galactose) is the disaccharide that breaks into glucose and galactose."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-09.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-10.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg"
       ]
     },
     {
@@ -434,6 +529,11 @@
         "Statement 2 is wrong: starch has 1-4 bonds in its main chains, and only amylopectin also has 1-6 branch bonds.",
         "Statement 3 is correct: starch granules are insoluble in water, so it can be stored without dissolving.",
         "Two statements are correct, so the answer is C."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-09.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-10.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg"
       ]
     },
     {
@@ -458,6 +558,11 @@
         "Both sucrose and lactose contain one glucose unit.",
         "Sucrose is glucose plus fructose.",
         "Lactose is glucose plus galactose."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-09.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-10.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg"
       ]
     },
     {
@@ -481,6 +586,11 @@
         "Each join removes a molecule of water.",
         "Joining molecules with loss of water is a condensation reaction.",
         "The product is a disaccharide made of two glucose units, so the bond formed is a glycosidic bond."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-09.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-10.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg"
       ]
     },
     {
@@ -504,6 +614,11 @@
         "Forming one glycosidic bond by condensation removes one water molecule, mass 18.",
         "Gentiobiose mass = 360 - 18 = 342, which is option C.",
         "Gentiobiose is a disaccharide, so its molecular mass is the sum of the monosaccharide masses minus the water lost."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-09.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-10.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg"
       ]
     },
     {
@@ -523,7 +638,12 @@
       "question": "Complete the diagram to show a 1-2 glycosidic bond between glucose carbon 1 and fructose carbon 2.",
       "status": "pending",
       "answer": "Pending: the glucose and fructose diagram to complete is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-12.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg"
+      ]
     },
     {
       "id": "1A-Q7a(ii)",
@@ -547,6 +667,11 @@
         "Sucrose is C12H22O11 (C6H12O6 + C6H12O6 - H2O).",
         "The glycosidic bond forms by condensation, so one water molecule is released.",
         "Balancing: 2 C6H12O6 gives C12H22O11 + H2O."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-12.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg"
       ]
     },
     {
@@ -570,6 +695,11 @@
         "Reagent is in excess, so the amount of coloured product depends on the amount of sucrose.",
         "More coloured product absorbs more light, so intensity increases in proportion to concentration.",
         "A higher concentration gives more coloured product, so absorbance rises in a straight line over the working range."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-12.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg"
       ]
     },
     {
@@ -593,6 +723,11 @@
         "This background colour gives a reading above zero at zero concentration.",
         "So the line shifts upward and does not pass through the origin.",
         "A blank correction is needed to set the zero, because the offset shows background colour."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-12.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg"
       ]
     },
     {
@@ -611,7 +746,12 @@
       "question": "State why the concentration of maltose and lactose cannot be measured using the sucrose test.",
       "status": "pending",
       "answer": "Pending: the steps of the sucrose test chart are missing, so the specific reason cannot be confirmed from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-12.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg"
+      ]
     },
     {
       "id": "1A-Q8a",
@@ -630,7 +770,13 @@
       "question": "Put one cross in each row of a table to show whether each bond is present in amylose and amylopectin.",
       "status": "pending",
       "answer": "Pending: the bonds table with the tick boxes is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-14.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-15.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-16.jpg"
+      ]
     },
     {
       "id": "1A-Q8b",
@@ -648,7 +794,13 @@
       "question": "Describe two conclusions about the effect of temperature and source of starch on the loss of amylose, from the graph.",
       "status": "pending",
       "answer": "Pending: the amylose loss graph for the four starch sources at three temperatures is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-14.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-15.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-16.jpg"
+      ]
     },
     {
       "id": "1A-Q8c(i)",
@@ -667,7 +819,13 @@
       "question": "Compare and contrast the effects of temperature on the loss of amylose and amylopectin from rice, using the graph.",
       "status": "pending",
       "answer": "Pending: the rice cooking temperature graph is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-14.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-15.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-16.jpg"
+      ]
     },
     {
       "id": "1A-Q8c(ii)",
@@ -685,7 +843,13 @@
       "question": "Comment on the effect of the replacement liquids on the hardness and stickiness of cooked rice, using the table.",
       "status": "pending",
       "answer": "Pending: the results table for hardness and stickiness of rice is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-14.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-15.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-16.jpg"
+      ]
     },
     {
       "id": "1A-Q8c(iii)",
@@ -704,7 +868,13 @@
       "question": "Suggest why rice should be cooked in a measured volume of water, with the lid on, until all the liquid is absorbed, using the table.",
       "status": "pending",
       "answer": "Pending: the table of cooking results is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-14.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-15.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-16.jpg"
+      ]
     },
     {
       "id": "1A-Q9a",
@@ -727,6 +897,11 @@
         "Label the oxygen with a partial negative charge (delta-minus), because oxygen pulls the shared electrons toward itself.",
         "Label each hydrogen with a partial positive charge (delta-plus).",
         "The uneven charge makes water a polar molecule, which is why it is a good solvent."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-17.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-18.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg"
       ]
     },
     {
@@ -745,7 +920,12 @@
       "question": "Match each statement about carbohydrates to the correct carbohydrate by putting one cross in each row of a table.",
       "status": "pending",
       "answer": "Pending: the statements table with the tick boxes is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-17.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-18.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg"
+      ]
     },
     {
       "id": "1A-Q10a(i)",
@@ -768,6 +948,11 @@
         "The bond is broken by adding a molecule of water.",
         "Breaking a molecule by adding water is hydrolysis, so the answer is D.",
         "Hydrolysis is the reverse of condensation and is catalysed by enzymes such as lactase in the gut."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-17.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-18.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg"
       ]
     },
     {
@@ -792,6 +977,11 @@
         "Energy = 9.8 g x 16 kJ per g.",
         "9.8 x 16 = 156.8 kJ.",
         "Check: 100 g gives 4.9 g, so 200 g gives double, 9.8 g, which is sensible."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-17.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-18.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg"
       ]
     },
     {
@@ -816,6 +1006,11 @@
         "Similarity: both have 1-6 glycosidic branch points.",
         "Contrast: glycogen has more frequent branches (about every 8-12 glucose units), which allows faster release of glucose.",
         "Contrast: glycogen is more compact, while starch (amylose and amylopectin) is less branched."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-17.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-18.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg"
       ]
     },
     {
@@ -839,6 +1034,11 @@
         "Unsaturated fatty acids have one or more C=C double bonds.",
         "The double bonds cause kinks, which change how the molecules pack together.",
         "Unsaturated fats are usually liquid at room temperature because kinks prevent tight packing."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-17.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-18.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg"
       ]
     },
     {
@@ -863,6 +1063,11 @@
         "Each fatty acid carboxyl (COOH) group reacts with a hydroxyl (OH) group on glycerol.",
         "Each reaction is a condensation that removes one water molecule and forms an ester bond.",
         "Three condensation reactions give one triglyceride and three water molecules."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-17.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-18.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg"
       ]
     },
     {
@@ -887,6 +1092,10 @@
         "Sulfur is only in some amino acids (e.g. cysteine), so B is wrong.",
         "Magnesium is not part of amino acids, so C and D are wrong.",
         "Carbon and oxygen are present in every amino acid, so A is correct."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-20.jpg"
       ]
     },
     {
@@ -905,7 +1114,11 @@
       "question": "Which row of the table describes how two amino acids are joined together in an enzyme molecule?",
       "status": "pending",
       "answer": "Pending: the table with the rows describing the bonding is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-20.jpg"
+      ]
     },
     {
       "id": "1A-Q11c",
@@ -929,6 +1142,10 @@
         "The sequence of R groups determines how the chain folds.",
         "Hydrogen, ionic, disulfide and hydrophobic interactions between R groups hold the chain in a specific 3D shape.",
         "This shape creates an active site with a complementary shape to the substrate, so the enzyme works as a catalyst."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-20.jpg"
       ]
     },
     {
@@ -953,6 +1170,9 @@
         "A peptide bond forms between the amino (NH2) group of one amino acid and the carboxyl (COOH) group of the next.",
         "The bond forms by a condensation reaction, releasing a molecule of water.",
         "The chain is built on the ribosome during translation, which is the stage of protein synthesis where the bonds are made."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-20.jpg"
       ]
     },
     {
@@ -972,7 +1192,10 @@
       "question": "Using the table, state which type of bonding is true for the secondary and tertiary structures of a protein.",
       "status": "pending",
       "answer": "Pending: the table of bond types for secondary and tertiary structure is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-20.jpg"
+      ]
     },
     {
       "id": "1A-Q13a(i)",
@@ -996,6 +1219,10 @@
         "They have a regular, repeating sequence of a few amino acids, so the chains pack together closely.",
         "Cross-links such as hydrogen bonds or disulfide bridges hold the chains together, giving strength.",
         "Their shape is not globular, so the molecules are insoluble in water."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-21.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg"
       ]
     },
     {
@@ -1020,6 +1247,10 @@
         "The alpha carbon is also bonded to an amino group (-NH2) and a carboxyl group (-COOH).",
         "The fourth bond is to the R group, which for cysteine is -CH2-SH (a thiol group).",
         "The thiol -SH groups of two cysteines can form a disulfide bridge (S-S), which cross-links keratin."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-21.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg"
       ]
     },
     {
@@ -1043,6 +1274,10 @@
         "The two common forms are the alpha helix (a coil) and the beta pleated sheet (folded strands).",
         "Hydrogen bonds form between the C=O group of one peptide bond and the N-H group of another.",
         "These hydrogen bonds hold the regular shape in place."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-21.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg"
       ]
     },
     {
@@ -1062,7 +1297,11 @@
       "question": "Explain the results of the investigation into the effect of two temperatures on the lengths of the primary and secondary structures of a polypeptide, using the table.",
       "status": "pending",
       "answer": "Pending: the results table of primary and secondary structure lengths at two temperatures is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-21.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg"
+      ]
     },
     {
       "id": "1A-Q14a",
@@ -1085,6 +1324,10 @@
         "Statement 2 is correct: water is a polar solvent.",
         "Statement 3 is correct: the uneven charge distribution makes oxygen slightly negative and hydrogen slightly positive.",
         "So statements 2 and 3 are correct, answer C."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg"
       ]
     },
     {
@@ -1103,7 +1346,11 @@
       "question": "Put one cross in each row of a table to show whether each structure is present in amylose and amylopectin.",
       "status": "pending",
       "answer": "Pending: the structure table with the tick boxes is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg"
+      ]
     },
     {
       "id": "1A-Q14c",
@@ -1126,6 +1373,10 @@
         "Join the carbon of the COOH to the nitrogen of the NH2 with a single C-N bond.",
         "Remove the OH from the COOH and one H from the NH2, which form a water molecule.",
         "The bond formed is a peptide bond (-CO-NH-), made by condensation."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg"
       ]
     },
     {
@@ -1150,6 +1401,13 @@
         "Insects are living organisms with their own proteins and amino acids.",
         "If they stayed in the sample, their own molecules would be measured too.",
         "Removing them ensures the results show only the plant gall tissue."
+      ],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-24.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-25.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-26.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-27.jpg"
       ]
     },
     {
@@ -1169,7 +1427,14 @@
       "question": "Which row of the table describes the solubility of alanine, aspartate and tryptophan in a non-polar organic solvent, given their R groups in a diagram?",
       "status": "pending",
       "answer": "Pending: the R group diagram and the solubility table are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-24.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-25.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-26.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-27.jpg"
+      ]
     },
     {
       "id": "1A-Q15b(ii)",
@@ -1188,7 +1453,14 @@
       "question": "Calculate how many times more soluble histidine (43.5 g per dm3) is than leucine, given the mass of leucine that dissolves in 250 cm3 of the same solvent.",
       "status": "pending",
       "answer": "Pending: the mass of leucine dissolving in 250 cm3 is garbled by a watermark in the text and cannot be read reliably.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-24.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-25.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-26.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-27.jpg"
+      ]
     },
     {
       "id": "1A-Q15c",
@@ -1208,7 +1480,14 @@
       "question": "Explain the results showing protein and amino acid concentrations in healthy leaf tissue, leaf tissue with galls and galls, using both graphs and the table of five amino acids.",
       "status": "pending",
       "answer": "Pending: the two concentration graphs and the table of five amino acid abundances are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-24.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-25.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-26.jpg",
+        "papers/biology/img/01A-Chemistry-for-Biologists-27.jpg"
+      ]
     }
   ]
 }

@@ -25,6 +25,11 @@
         "At the natural frequency the driving pushes are in phase with the motion, so energy transfer is most efficient.",
         "Options B, C and D are not terms for the driving condition needed for resonance.",
         "So the answer is A."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-01.jpg",
+        "papers/physics/img/31-10-Oscillations-02.jpg",
+        "papers/physics/img/31-10-Oscillations-03.jpg"
       ]
     },
     {
@@ -44,7 +49,12 @@
       "question": "Using the graph of energy absorbed by a water molecule against microwave frequency, comment on the website claim that water molecules absorb energy because they resonate.",
       "status": "pending",
       "answer": "Needs the energy-absorption against frequency graph from the PDF (not in the text) to check whether the peak is at 2.45 GHz.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-01.jpg",
+        "papers/physics/img/31-10-Oscillations-02.jpg",
+        "papers/physics/img/31-10-Oscillations-03.jpg"
+      ]
     },
     {
       "id": "10-Q2b(i)",
@@ -69,6 +79,11 @@
         "Rotating molecules collide with and drag on neighbouring molecules, transferring kinetic energy to them.",
         "The random kinetic energy of the molecules increases, which is an increase in the internal energy of the food.",
         "The temperature of the food rises, so the energy is spread through the food and it is cooked."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-01.jpg",
+        "papers/physics/img/31-10-Oscillations-02.jpg",
+        "papers/physics/img/31-10-Oscillations-03.jpg"
       ]
     },
     {
@@ -94,6 +109,11 @@
         "In ice the molecules are locked in a rigid lattice, so their rotation is restricted.",
         "Less rotation means fewer collisions and less energy transferred into thermal energy.",
         "So the energy transfer from the microwaves is less efficient for ice."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-01.jpg",
+        "papers/physics/img/31-10-Oscillations-02.jpg",
+        "papers/physics/img/31-10-Oscillations-03.jpg"
       ]
     },
     {
@@ -119,6 +139,11 @@
         "Useful energy to heat the water = m c dT = 0.325 x 4190 x (85.0 - 25.0) = 8.17 x 10^4 J.",
         "Efficiency = useful energy / energy input = 8.17 x 10^4 / 1.46 x 10^5 = 0.56.",
         "An efficiency of 56% is well below 90%, so the claim is not valid."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-01.jpg",
+        "papers/physics/img/31-10-Oscillations-02.jpg",
+        "papers/physics/img/31-10-Oscillations-03.jpg"
       ]
     },
     {
@@ -144,6 +169,11 @@
         "Energy lost by the hot water cooling to T: 0.325 x 4190 x (85.0 - T).",
         "Energy gained by the melted ice warming from 0 to T: 0.0625 x 4190 x T.",
         "Energy balance: 1361.75 (85.0 - T) = 2.08 x 10^4 + 261.9 T, so 1623.6 T = 94 936 and T = 58.5 deg C."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-01.jpg",
+        "papers/physics/img/31-10-Oscillations-02.jpg",
+        "papers/physics/img/31-10-Oscillations-03.jpg"
       ]
     },
     {
@@ -164,7 +194,13 @@
       "question": "A simple pendulum takes 1.00 s to swing from one extreme position to the other. Which expression gives its length? (The option list is not in the text.)",
       "status": "pending",
       "answer": "Option list not in the text. Expected: L = g T^2 / (4 pi^2) with T = 2.00 s, giving L = 0.99 m.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-03.jpg",
+        "papers/physics/img/31-10-Oscillations-04.jpg",
+        "papers/physics/img/31-10-Oscillations-05.jpg",
+        "papers/physics/img/31-10-Oscillations-06.jpg"
+      ]
     },
     {
       "id": "10-Q4a",
@@ -188,6 +224,12 @@
         "The acceleration must be directly proportional to the displacement from the equilibrium position.",
         "The acceleration must always be directed towards the equilibrium position, so a = -omega^2 x.",
         "These two conditions together give sinusoidal motion."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-03.jpg",
+        "papers/physics/img/31-10-Oscillations-04.jpg",
+        "papers/physics/img/31-10-Oscillations-05.jpg",
+        "papers/physics/img/31-10-Oscillations-06.jpg"
       ]
     },
     {
@@ -213,6 +255,12 @@
         "The amplitude is the extra 3.5 cm displacement, so A = 0.035 m.",
         "Total energy of the oscillation is E = 1/2 k A^2 = 0.5 x 14.9 x 0.035^2 = 9.1 x 10^-3 J.",
         "Energy is conserved, so the maximum kinetic energy (at equilibrium) equals this total energy: 9.1 x 10^-3 J."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-03.jpg",
+        "papers/physics/img/31-10-Oscillations-04.jpg",
+        "papers/physics/img/31-10-Oscillations-05.jpg",
+        "papers/physics/img/31-10-Oscillations-06.jpg"
       ]
     },
     {
@@ -232,7 +280,13 @@
       "question": "Add to the displacement-time graph of the oscillating mass a line showing how its kinetic energy varies over the same two cycles.",
       "status": "pending",
       "answer": "Needs the displacement-time graph and its axes from the PDF to add the line; expected KE curve is always positive with twice the frequency of the displacement.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-03.jpg",
+        "papers/physics/img/31-10-Oscillations-04.jpg",
+        "papers/physics/img/31-10-Oscillations-05.jpg",
+        "papers/physics/img/31-10-Oscillations-06.jpg"
+      ]
     },
     {
       "id": "10-Q4d",
@@ -257,6 +311,12 @@
         "This drag does negative work, transferring the oscillation energy into thermal energy in the water.",
         "With less total energy, the amplitude of each swing becomes smaller.",
         "So the oscillations are damped and die away more quickly than in air."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-03.jpg",
+        "papers/physics/img/31-10-Oscillations-04.jpg",
+        "papers/physics/img/31-10-Oscillations-05.jpg",
+        "papers/physics/img/31-10-Oscillations-06.jpg"
       ]
     },
     {
@@ -282,6 +342,11 @@
         "The period is proportional to 1/sqrt(k), so with k four times larger T becomes T / sqrt(4).",
         "The new period is T/2.",
         "So the answer is B."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-06.jpg",
+        "papers/physics/img/31-10-Oscillations-07.jpg",
+        "papers/physics/img/31-10-Oscillations-08.jpg"
       ]
     },
     {
@@ -305,6 +370,11 @@
         "SHM is oscillation in which the acceleration a is directly proportional to the displacement x from a fixed equilibrium point.",
         "The acceleration is always directed towards the equilibrium position, so a = -omega^2 x.",
         "This gives displacement, velocity and acceleration that vary sinusoidally with time."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-06.jpg",
+        "papers/physics/img/31-10-Oscillations-07.jpg",
+        "papers/physics/img/31-10-Oscillations-08.jpg"
       ]
     },
     {
@@ -330,6 +400,11 @@
         "Rearrange to give A = v_max / (2 pi f).",
         "A = 2.25 / (2 pi x 240) = 2.25 / 1508 = 1.49 x 10^-3 m.",
         "This is about 1.5 mm, as required."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-06.jpg",
+        "papers/physics/img/31-10-Oscillations-07.jpg",
+        "papers/physics/img/31-10-Oscillations-08.jpg"
       ]
     },
     {
@@ -354,6 +429,11 @@
         "Maximum acceleration a_max = omega^2 A = omega v_max.",
         "omega = 2 pi f = 2 pi x 240 = 1508 rad s-1.",
         "a_max = 1508 x 2.25 = 3.4 x 10^3 m s-2."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-06.jpg",
+        "papers/physics/img/31-10-Oscillations-07.jpg",
+        "papers/physics/img/31-10-Oscillations-08.jpg"
       ]
     },
     {
@@ -377,6 +457,11 @@
         "An elastic material deforms when a force is applied to it.",
         "When the force is removed it recovers its original shape and length.",
         "Within its limit it obeys Hooke's law, so extension is proportional to force."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-06.jpg",
+        "papers/physics/img/31-10-Oscillations-07.jpg",
+        "papers/physics/img/31-10-Oscillations-08.jpg"
       ]
     },
     {
@@ -401,6 +486,11 @@
         "When an external periodic force drives it at this same frequency, each push is in phase with the motion.",
         "Energy is transferred to the system most efficiently at this frequency.",
         "So the amplitude of oscillation becomes a maximum."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-06.jpg",
+        "papers/physics/img/31-10-Oscillations-07.jpg",
+        "papers/physics/img/31-10-Oscillations-08.jpg"
       ]
     },
     {
@@ -426,6 +516,11 @@
         "Each muscle impulse therefore occurs once every four cycles of the wing motion.",
         "If each impulse is timed to push in the direction of motion, it adds energy to the wing.",
         "This replaces the energy lost to damping, so the 240 Hz oscillation is maintained."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-06.jpg",
+        "papers/physics/img/31-10-Oscillations-07.jpg",
+        "papers/physics/img/31-10-Oscillations-08.jpg"
       ]
     },
     {
@@ -449,6 +544,10 @@
         "Force F = m a, so E = m a d.",
         "Using base units: kg x (m s-2) x m = kg m^2 s^-2, which is the joule.",
         "The joule is a derived unit, but it is expressed here in the base units kg, m and s."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-08.jpg",
+        "papers/physics/img/31-10-Oscillations-09.jpg"
       ]
     },
     {
@@ -473,6 +572,10 @@
         "One swing from one extreme to the other is half a period, so the full period T = 2.00 s.",
         "For a simple pendulum T = 2 pi sqrt(L/g), so L = g T^2 / (4 pi^2).",
         "L = 9.81 x 2.00^2 / (4 pi^2) = 39.24 / 39.48 = 0.99 m."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-08.jpg",
+        "papers/physics/img/31-10-Oscillations-09.jpg"
       ]
     },
     {
@@ -497,6 +600,10 @@
         "g varies slightly with latitude, altitude and local geology.",
         "So a seconds pendulum would have different lengths at different places.",
         "A standard of length should be the same everywhere, so this is a disadvantage."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-08.jpg",
+        "papers/physics/img/31-10-Oscillations-09.jpg"
       ]
     },
     {
@@ -521,6 +628,10 @@
         "If E increases by a factor of 4, then A^2 increases by a factor of 4.",
         "So A increases by sqrt(4) = 2.",
         "The amplitude doubles."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-09.jpg",
+        "papers/physics/img/31-10-Oscillations-10.jpg"
       ]
     },
     {
@@ -539,7 +650,11 @@
       "question": "The graph shows acceleration against time for an object in SHM. Which of graphs A to D shows displacement against time on the same x-axis scale?",
       "status": "pending",
       "answer": "Needs the acceleration-time graph and the four option graphs A to D from the PDF (they are images, not in the text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-09.jpg",
+        "papers/physics/img/31-10-Oscillations-10.jpg"
+      ]
     },
     {
       "id": "10-Q10",
@@ -557,7 +672,11 @@
       "question": "The graph shows acceleration against time for an object in SHM. Which of graphs A to D shows velocity against time?",
       "status": "pending",
       "answer": "Needs the acceleration-time graph and the four option graphs A to D from the PDF (they are images, not in the text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-10.jpg",
+        "papers/physics/img/31-10-Oscillations-11.jpg"
+      ]
     },
     {
       "id": "10-Q11",
@@ -577,7 +696,11 @@
       "question": "An object oscillates with simple harmonic motion, period 0.55 s and amplitude 0.25 m. Which option shows a correct calculation of its maximum velocity? (Option letters are not in the text.)",
       "status": "pending",
       "answer": "Option list not in the text. Expected: v_max = 2 pi A / T = 2 pi x 0.25 / 0.55 = 2.9 m s-1.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-10.jpg",
+        "papers/physics/img/31-10-Oscillations-11.jpg"
+      ]
     },
     {
       "id": "10-Q12a(i)",
@@ -596,7 +719,11 @@
       "question": "The velocity-time graph of a pendulum bob is given. Add a line showing how its displacement varies with time over the same interval.",
       "status": "pending",
       "answer": "Needs the velocity-time graph and its axes from the PDF; the displacement curve lags the velocity curve by a quarter of a cycle.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-11.jpg",
+        "papers/physics/img/31-10-Oscillations-12.jpg"
+      ]
     },
     {
       "id": "10-Q12a(ii)",
@@ -615,7 +742,11 @@
       "question": "Using the velocity-time graph of the pendulum bob, determine the length of the simple pendulum.",
       "status": "pending",
       "answer": "Needs the velocity-time graph from the PDF to read the period; then L = g T^2 / (4 pi^2).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-11.jpg",
+        "papers/physics/img/31-10-Oscillations-12.jpg"
+      ]
     },
     {
       "id": "10-Q12b",
@@ -640,6 +771,10 @@
         "It is useful when the quantity changes quickly, such as a short-period oscillation, which a person with a stopwatch cannot follow.",
         "It is also useful for recording over long periods without a person present.",
         "It gives a precise time-stamped record that can be analysed on a computer."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-11.jpg",
+        "papers/physics/img/31-10-Oscillations-12.jpg"
       ]
     },
     {
@@ -665,6 +800,11 @@
         "Resonance is specifically the condition where the driving frequency matches the natural frequency and the amplitude becomes very large.",
         "Option D describes that effect and is true only at resonance.",
         "So the answer is D."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-12.jpg",
+        "papers/physics/img/31-10-Oscillations-13.jpg",
+        "papers/physics/img/31-10-Oscillations-14.jpg"
       ]
     },
     {
@@ -689,6 +829,11 @@
         "At equilibrium the weight balances the spring force; about this point the net restoring force is -k x.",
         "Newton's second law gives a = F/m = -(k/m) x.",
         "So the acceleration is proportional to displacement and directed towards equilibrium, which is SHM."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-12.jpg",
+        "papers/physics/img/31-10-Oscillations-13.jpg",
+        "papers/physics/img/31-10-Oscillations-14.jpg"
       ]
     },
     {
@@ -714,6 +859,11 @@
         "k = m g / x = 0.200 x 9.81 / 0.0750.",
         "k = 1.962 / 0.0750 = 26.2 N m-1, about 26 N m-1.",
         "This matches the value required."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-12.jpg",
+        "papers/physics/img/31-10-Oscillations-13.jpg",
+        "papers/physics/img/31-10-Oscillations-14.jpg"
       ]
     },
     {
@@ -734,7 +884,12 @@
       "question": "Using the graph of frequency against mass for the spring, determine a value for the stiffness k and deduce whether it is consistent with the value in part (i).",
       "status": "pending",
       "answer": "Needs the frequency-against-mass graph from the PDF; at any point on the graph k = 4 pi^2 m f^2, to compare with 26 N m-1.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-12.jpg",
+        "papers/physics/img/31-10-Oscillations-13.jpg",
+        "papers/physics/img/31-10-Oscillations-14.jpg"
+      ]
     },
     {
       "id": "10-Q15",
@@ -753,7 +908,11 @@
       "question": "The graph shows acceleration against displacement for a mass in SHM. Which expression gives its period? (Graph and options A to D are not in the text.)",
       "status": "pending",
       "answer": "Needs the acceleration-displacement graph and the option list from the PDF; period is 2 pi divided by the square root of the gradient magnitude.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-14.jpg",
+        "papers/physics/img/31-10-Oscillations-15.jpg"
+      ]
     },
     {
       "id": "10-Q16",
@@ -773,7 +932,11 @@
       "question": "A mass oscillates with SHM at frequency 0.5 Hz and amplitude 0.3 m. Which expression gives its maximum velocity in m s-1? (Option list is not in the text.)",
       "status": "pending",
       "answer": "Option list not in the text. Expected: v_max = 2 pi f A = 2 pi x 0.5 x 0.3 = 0.94 m s-1.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-15.jpg",
+        "papers/physics/img/31-10-Oscillations-16.jpg"
+      ]
     },
     {
       "id": "10-Q17",
@@ -792,7 +955,12 @@
       "question": "The gravitational field strength on the Moon is one sixth of that on Earth. A pendulum has period T on Earth. What is its period on the Moon?",
       "status": "pending",
       "answer": "Option list not in the text. Expected: T_Moon = sqrt(6) T = 2.45 T.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-16.jpg",
+        "papers/physics/img/31-10-Oscillations-17.jpg",
+        "papers/physics/img/31-10-Oscillations-18.jpg"
+      ]
     },
     {
       "id": "10-Q18a",
@@ -818,6 +986,11 @@
         "A force F = BIL acts on the coil, perpendicular to both the field and the current.",
         "The alternating current reverses each half cycle, so the force reverses at the frequency of the current.",
         "The coil and cone are pushed in and out, so the cone oscillates at the frequency of the alternating current."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-16.jpg",
+        "papers/physics/img/31-10-Oscillations-17.jpg",
+        "papers/physics/img/31-10-Oscillations-18.jpg"
       ]
     },
     {
@@ -843,6 +1016,11 @@
         "The amplitude is the maximum distance from equilibrium, A = 3.5 x 10^-3 m.",
         "v_max = 2 pi x 75 x 3.5 x 10^-3 = 1.65 m s-1.",
         "So the maximum velocity is about 1.6 m s-1."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-16.jpg",
+        "papers/physics/img/31-10-Oscillations-17.jpg",
+        "papers/physics/img/31-10-Oscillations-18.jpg"
       ]
     },
     {
@@ -865,6 +1043,11 @@
         "In SHM the speed is greatest when the displacement is zero.",
         "This is the equilibrium position, where the restoring force and acceleration are zero.",
         "At the extremes of the motion the velocity is zero instead."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-16.jpg",
+        "papers/physics/img/31-10-Oscillations-17.jpg",
+        "papers/physics/img/31-10-Oscillations-18.jpg"
       ]
     },
     {
@@ -887,6 +1070,11 @@
         "The coil drives the cone at the frequency of the alternating current.",
         "At one particular frequency the driving frequency equals the natural frequency of the cone.",
         "Energy is then transferred to the cone most efficiently, so the amplitude becomes very large."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-16.jpg",
+        "papers/physics/img/31-10-Oscillations-17.jpg",
+        "papers/physics/img/31-10-Oscillations-18.jpg"
       ]
     },
     {
@@ -911,6 +1099,10 @@
         "The restoring force or acceleration must always act towards the equilibrium position.",
         "For the board, the restoring force comes from the elastic bending of the board (Hooke's law).",
         "Together these conditions give approximate SHM."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-18.jpg",
+        "papers/physics/img/31-10-Oscillations-19.jpg"
       ]
     },
     {
@@ -936,6 +1128,10 @@
         "k = m g / x = 75 x 9.81 / 0.18 = 735.75 / 0.18.",
         "k = 4.09 x 10^3 N m-1, which is about 4000 N m-1.",
         "This confirms the value required."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-18.jpg",
+        "papers/physics/img/31-10-Oscillations-19.jpg"
       ]
     },
     {
@@ -961,6 +1157,10 @@
         "Use k = 4.09 x 10^3 N m-1 from part (i) and m = 75 kg.",
         "f = (1/2 pi) sqrt(4090 / 75) = (1/2 pi) x 7.38 = 1.17 Hz.",
         "So the frequency is about 1.2 Hz."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-18.jpg",
+        "papers/physics/img/31-10-Oscillations-19.jpg"
       ]
     },
     {
@@ -986,6 +1186,10 @@
         "The contact force R acts upwards, so m g - R = m a and R = m (g - a).",
         "If a is greater than g, R would have to be negative, and a board can only push upwards.",
         "So at large amplitude the contact force falls to zero above equilibrium and the man loses contact."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-18.jpg",
+        "papers/physics/img/31-10-Oscillations-19.jpg"
       ]
     },
     {
@@ -1012,6 +1216,10 @@
         "Sliding a wet finger causes repeated stick-slip impulses on the rim, which act as a periodic driving force.",
         "If the driving frequency matches the natural frequency of the glass, resonance occurs and energy is transferred efficiently.",
         "The amplitude becomes large, giving a loud continuous sound while the finger is moved."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-19.jpg",
+        "papers/physics/img/31-10-Oscillations-20.jpg"
       ]
     },
     {
@@ -1032,7 +1240,12 @@
       "question": "The graph shows the water level in the Bay of Fundy over a 7-day period. Determine the period T of the water level, in hours.",
       "status": "pending",
       "answer": "Needs the water level against time graph from the PDF to read the period in hours (the answer is a time between successive high tides).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-20.jpg",
+        "papers/physics/img/31-10-Oscillations-21.jpg",
+        "papers/physics/img/31-10-Oscillations-22.jpg"
+      ]
     },
     {
       "id": "10-Q21b",
@@ -1057,6 +1270,11 @@
         "The natural period of water in the bay is 12 to 13 hours, close to this driving period.",
         "When the driving frequency is close to the natural frequency, resonance occurs.",
         "Energy is transferred efficiently, so the water oscillates with large amplitude, giving unusually high tides."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-20.jpg",
+        "papers/physics/img/31-10-Oscillations-21.jpg",
+        "papers/physics/img/31-10-Oscillations-22.jpg"
       ]
     },
     {
@@ -1076,7 +1294,11 @@
       "question": "The graph shows velocity against time for a mass in SHM. Which of graphs A to D shows displacement from equilibrium against time over the same interval?",
       "status": "pending",
       "answer": "Needs the velocity-time graph and the option graphs A to D from the PDF (they are images, not in the text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-22.jpg",
+        "papers/physics/img/31-10-Oscillations-23.jpg"
+      ]
     },
     {
       "id": "10-Q23",
@@ -1100,6 +1322,10 @@
         "Maximum velocity v_max = omega A doubles, so option C is doubled.",
         "Maximum acceleration omega^2 A quadruples (A is wrong), the maximum kinetic energy does not double (B is wrong), and the period halves (D is wrong).",
         "So the answer is C."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-22.jpg",
+        "papers/physics/img/31-10-Oscillations-23.jpg"
       ]
     },
     {
@@ -1120,7 +1346,11 @@
       "question": "In the Pantheon in Paris a pendulum takes 8.25 s to swing from one extreme position to the other. Which expression gives its length? (Option list is not in the text.)",
       "status": "pending",
       "answer": "Option list not in the text. Expected: L = g T^2 / (4 pi^2) with T = 16.5 s, giving L = 67.6 m.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-23.jpg",
+        "papers/physics/img/31-10-Oscillations-24.jpg"
+      ]
     },
     {
       "id": "10-Q25",
@@ -1144,6 +1374,10 @@
         "The velocity is not always towards O, since it reverses direction on each side of O, so A is false.",
         "Acceleration is proportional to displacement, not to velocity (C is false).",
         "Acceleration and velocity are not always opposite (D is false), so the answer is B."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-23.jpg",
+        "papers/physics/img/31-10-Oscillations-24.jpg"
       ]
     },
     {
@@ -1164,7 +1398,12 @@
       "question": "The suspension system of a car is forced into vertical oscillation. Which row of the table shows how the maximum amplitude A0 and its frequency f0 change as damping is reduced?",
       "status": "pending",
       "answer": "Needs the table of rows from the PDF (not in the text); expected: A0 increases and f0 stays about the same as damping is reduced.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-24.jpg",
+        "papers/physics/img/31-10-Oscillations-25.jpg",
+        "papers/physics/img/31-10-Oscillations-26.jpg"
+      ]
     },
     {
       "id": "10-Q27a",
@@ -1188,6 +1427,11 @@
         "The acceleration must always be directed towards the equilibrium position.",
         "Together these give a = -omega^2 x, which describes SHM.",
         "Both conditions must be stated for full marks."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-24.jpg",
+        "papers/physics/img/31-10-Oscillations-25.jpg",
+        "papers/physics/img/31-10-Oscillations-26.jpg"
       ]
     },
     {
@@ -1207,7 +1451,12 @@
       "question": "The bracket has a highest to lowest distance of 8.0 cm and completes 270 oscillations per minute. Sketch a velocity-time graph for the bracket, including velocity and time values.",
       "status": "pending",
       "answer": "Needs the blank axes from the PDF. Expected: sine-shaped v-t curve with peak +/-1.13 m s-1 and period 0.22 s (f = 4.5 Hz, A = 4.0 cm).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-24.jpg",
+        "papers/physics/img/31-10-Oscillations-25.jpg",
+        "papers/physics/img/31-10-Oscillations-26.jpg"
+      ]
     },
     {
       "id": "10-Q27b(ii)",
@@ -1230,6 +1479,11 @@
         "Frequency f = 270 / 60 = 4.5 Hz, and omega = 2 pi f = 28.3 rad s-1.",
         "The amplitude is half the distance between extremes, A = 4.0 x 10^-2 m.",
         "a_max = omega^2 A = 28.3^2 x 0.040 = 32 m s-2."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-24.jpg",
+        "papers/physics/img/31-10-Oscillations-25.jpg",
+        "papers/physics/img/31-10-Oscillations-26.jpg"
       ]
     },
     {
@@ -1255,6 +1509,11 @@
         "The can and paint can move as a forced system with damping and a different response.",
         "The particles may therefore have a different amplitude and phase, giving a different maximum acceleration.",
         "So the paint's acceleration is not simply omega^2 times the bracket amplitude."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-24.jpg",
+        "papers/physics/img/31-10-Oscillations-25.jpg",
+        "papers/physics/img/31-10-Oscillations-26.jpg"
       ]
     },
     {
@@ -1273,7 +1532,11 @@
       "question": "A mass displaced 5 cm from equilibrium oscillates; its acceleration against displacement graph is given. Sketch a graph of displacement against time.",
       "status": "pending",
       "answer": "Needs the acceleration-displacement graph and the blank axes from the PDF. Expected: sinusoid with amplitude 5 cm.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-26.jpg",
+        "papers/physics/img/31-10-Oscillations-27.jpg"
+      ]
     },
     {
       "id": "10-Q29",
@@ -1292,7 +1555,11 @@
       "question": "A seconds pendulum has a period of 2 s. Which expression gives its length in metres? (Option list is not in the text.)",
       "status": "pending",
       "answer": "Option list not in the text. Expected: L = g / pi^2 = 0.99 m.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-27.jpg",
+        "papers/physics/img/31-10-Oscillations-28.jpg"
+      ]
     },
     {
       "id": "10-Q30a",
@@ -1311,7 +1578,11 @@
       "question": "Add to the graph of elastic potential energy against displacement a line showing how the total energy of the mass-spring system varies with displacement.",
       "status": "pending",
       "answer": "Needs the EPE-displacement graph and its axes from the PDF; the total energy line is a horizontal, constant line.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-27.jpg",
+        "papers/physics/img/31-10-Oscillations-28.jpg"
+      ]
     },
     {
       "id": "10-Q30b",
@@ -1331,7 +1602,11 @@
       "question": "Using the EPE-displacement graph for a 150 g mass on a vertical spring, determine the speed of the mass when its displacement is 1.0 cm.",
       "status": "pending",
       "answer": "Needs the EPE values read from the graph in the PDF; then 1/2 m v^2 = total energy - EPE at 1.0 cm.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-27.jpg",
+        "papers/physics/img/31-10-Oscillations-28.jpg"
+      ]
     },
     {
       "id": "10-Q31a",
@@ -1355,6 +1630,11 @@
         "At one particular speed this driving frequency equals the natural frequency of the suspension.",
         "At resonance energy is transferred to the car body most efficiently.",
         "So the amplitude of vibration becomes very large."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-28.jpg",
+        "papers/physics/img/31-10-Oscillations-29.jpg",
+        "papers/physics/img/31-10-Oscillations-30.jpg"
       ]
     },
     {
@@ -1381,6 +1661,11 @@
         "Natural period of the car: T = 2 pi sqrt(m / k) = 2 pi sqrt(1300 / 2.55 x 10^4) = 1.42 s.",
         "At resonance the bump spacing is passed in one natural period of oscillation.",
         "Speed v = spacing / T = 25 / 1.42 = 17.6 m s-1, about 18 m s-1."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-28.jpg",
+        "papers/physics/img/31-10-Oscillations-29.jpg",
+        "papers/physics/img/31-10-Oscillations-30.jpg"
       ]
     },
     {
@@ -1406,6 +1691,11 @@
         "This converts the kinetic and potential energy of the oscillation into thermal energy.",
         "With less energy in the oscillation the amplitude decreases.",
         "Damping also reduces the peak amplitude at resonance."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-28.jpg",
+        "papers/physics/img/31-10-Oscillations-29.jpg",
+        "papers/physics/img/31-10-Oscillations-30.jpg"
       ]
     },
     {
@@ -1429,6 +1719,10 @@
         "Therefore it is always opposite in direction to the velocity.",
         "It is not necessarily opposite to the acceleration, so A is wrong.",
         "So the answer is B."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-30.jpg",
+        "papers/physics/img/31-10-Oscillations-31.jpg"
       ]
     },
     {
@@ -1453,6 +1747,10 @@
         "This large plastic deformation absorbs energy and so damps oscillations.",
         "Elastic behaviour (A), breaking stress (C) and Young modulus (D) do not define ductility.",
         "So the answer is B."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-30.jpg",
+        "papers/physics/img/31-10-Oscillations-31.jpg"
       ]
     },
     {
@@ -1472,7 +1770,10 @@
       "question": "The graph shows velocity against time for a particle in SHM. Which graph shows displacement against time over the same interval?",
       "status": "pending",
       "answer": "Needs the velocity-time graph and the displacement option graphs from the PDF (images, not in the text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-31.jpg"
+      ]
     },
     {
       "id": "10-Q35a",
@@ -1492,7 +1793,12 @@
       "question": "Using the student's timings for 30 oscillations of a mass on the springs labelled k = 21 N m-1, deduce whether the label is correct.",
       "status": "pending",
       "answer": "Needs the table of measured times for 30 oscillations from the PDF; then k = 4 pi^2 m / T^2 can be compared with 21 N m-1.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-32.jpg",
+        "papers/physics/img/31-10-Oscillations-33.jpg",
+        "papers/physics/img/31-10-Oscillations-34.jpg"
+      ]
     },
     {
       "id": "10-Q35bi",
@@ -1517,6 +1823,11 @@
         "At the natural frequency resonance occurs, so the amplitude reaches its maximum.",
         "Beyond this the driving pushes become out of phase with the motion, so less energy is transferred and the amplitude falls.",
         "Damping also removes energy, which limits the peak amplitude."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-32.jpg",
+        "papers/physics/img/31-10-Oscillations-33.jpg",
+        "papers/physics/img/31-10-Oscillations-34.jpg"
       ]
     },
     {
@@ -1541,6 +1852,11 @@
         "The hand does work on the spring-mass system, supplying energy at the driving frequency.",
         "The amplitude grows because energy input exceeds the energy lost to damping, so the mass gains energy.",
         "The energy from the hand equals the increase in stored energy plus the energy dissipated, so energy is conserved."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-32.jpg",
+        "papers/physics/img/31-10-Oscillations-33.jpg",
+        "papers/physics/img/31-10-Oscillations-34.jpg"
       ]
     },
     {
@@ -1565,6 +1881,10 @@
         "At equilibrium the spring force balances the weight, so the net force about equilibrium is -k x.",
         "Newton's second law gives a = -(k/m) x, which is proportional to displacement and directed towards equilibrium.",
         "This satisfies the conditions for SHM."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-34.jpg",
+        "papers/physics/img/31-10-Oscillations-35.jpg"
       ]
     },
     {
@@ -1590,6 +1910,10 @@
         "Angular frequency omega = sqrt(k/m) = sqrt(19.6 / 0.150) = 11.4 rad s-1.",
         "Amplitude A = 3.0 cm = 0.030 m, the displacement from equilibrium.",
         "Maximum velocity v_max = omega A = 11.4 x 0.030 = 0.34 m s-1."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-34.jpg",
+        "papers/physics/img/31-10-Oscillations-35.jpg"
       ]
     },
     {
@@ -1614,6 +1938,10 @@
         "This removes energy from the oscillation, so the total energy falls.",
         "Lower energy means a smaller amplitude.",
         "Since v_max = omega A, the maximum velocity decreases."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-34.jpg",
+        "papers/physics/img/31-10-Oscillations-35.jpg"
       ]
     },
     {
@@ -1633,7 +1961,11 @@
       "question": "A simple pendulum's frequency is determined, then its length is doubled. By what factor is the frequency multiplied? (Option list is not in the text.)",
       "status": "pending",
       "answer": "Option list not in the text. Expected: frequency multiplied by 1/sqrt(2) = 0.71.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-36.jpg",
+        "papers/physics/img/31-10-Oscillations-37.jpg"
+      ]
     },
     {
       "id": "10-Q38a",
@@ -1658,6 +1990,10 @@
         "Maximum velocity v = omega A = 2 pi f A, so A = v / (2 pi f).",
         "A = 22.0 / (2 pi x 2.37) = 22.0 / 14.9 = 1.48 mm.",
         "So the maximum displacement is about 1.5 mm."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-36.jpg",
+        "papers/physics/img/31-10-Oscillations-37.jpg"
       ]
     },
     {
@@ -1680,6 +2016,10 @@
         "SHM is oscillation in which the acceleration is proportional to the displacement from a fixed equilibrium point.",
         "The acceleration is always directed towards the equilibrium position.",
         "This gives sinusoidal variation of displacement with time."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-36.jpg",
+        "papers/physics/img/31-10-Oscillations-37.jpg"
       ]
     },
     {
@@ -1699,7 +2039,11 @@
       "question": "An object oscillates with SHM, period 0.65 s and amplitude 0.12 m. Which expression gives its maximum velocity? (Option list is not in the text.)",
       "status": "pending",
       "answer": "Option list not in the text. Expected: v_max = 2 pi A / T = 1.16 m s-1.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-37.jpg",
+        "papers/physics/img/31-10-Oscillations-38.jpg"
+      ]
     },
     {
       "id": "10-Q40",
@@ -1717,7 +2061,11 @@
       "question": "The graph shows acceleration against time for a particle in SHM. Which graph shows velocity against time over the same interval?",
       "status": "pending",
       "answer": "Needs the acceleration-time graph and the four option graphs from the PDF (images, not in the text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-37.jpg",
+        "papers/physics/img/31-10-Oscillations-38.jpg"
+      ]
     },
     {
       "id": "10-Q41",
@@ -1736,7 +2084,10 @@
       "question": "A simple pendulum in SHM has acceleration a and displacement x. Which of graphs A to D shows how a varies with x?",
       "status": "pending",
       "answer": "Needs the four option graphs A to D from the PDF; the correct graph is a straight line through the origin with negative gradient, but the letter is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-39.jpg"
+      ]
     },
     {
       "id": "10-Q42",
@@ -1761,6 +2112,9 @@
         "Ductile materials undergo large plastic deformation, converting kinetic energy into thermal energy.",
         "Elasticity, stiffness and strength do not remove energy from an oscillation.",
         "So the answer is A."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-39.jpg"
       ]
     },
     {
@@ -1786,6 +2140,10 @@
         "They have the same acceleration, so there is no contact force between them and the station.",
         "The sensation of weightlessness comes from the absence of a normal (contact) force, although gravity still acts.",
         "So the weight force exists but no reaction force is felt."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-40.jpg",
+        "papers/physics/img/31-10-Oscillations-41.jpg"
       ]
     },
     {
@@ -1811,6 +2169,10 @@
         "Empty chair mass: m0 = k T0^2 / (4 pi^2) = 605.5 x 0.858^2 / 39.48 = 11.3 kg.",
         "Chair plus astronaut: m = k T^2 / (4 pi^2) = 605.5 x 2.26^2 / 39.48 = 78.3 kg.",
         "Mass of astronaut = 78.3 - 11.3 = 67 kg."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-40.jpg",
+        "papers/physics/img/31-10-Oscillations-41.jpg"
       ]
     },
     {
@@ -1830,7 +2192,11 @@
       "question": "A mass hung on a spring oscillates with frequency f. The mass is doubled. What is the new frequency? (Option list is not in the text.)",
       "status": "pending",
       "answer": "Option list not in the text. Expected: new frequency f / sqrt(2) = 0.71 f.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-40.jpg",
+        "papers/physics/img/31-10-Oscillations-41.jpg"
+      ]
     },
     {
       "id": "10-Q45",
@@ -1854,6 +2220,9 @@
         "So the acceleration always points towards the equilibrium position.",
         "It is not always opposite to velocity or always in the same direction as velocity, so A and B are wrong.",
         "Option C is the opposite of the correct statement, so the answer is D."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-41.jpg"
       ]
     },
     {
@@ -1874,7 +2243,10 @@
       "question": "A mass in SHM has angular velocity 2 rad s-1 and maximum velocity 10 cm s-1. Which expression gives the amplitude in cm? (Option list is not in the text.)",
       "status": "pending",
       "answer": "Option list not in the text. Expected: A = v_max / omega = 5 cm.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-41.jpg"
+      ]
     },
     {
       "id": "10-Q47",
@@ -1898,6 +2270,10 @@
         "Doubling A multiplies A^2 by 4.",
         "So the new maximum kinetic energy is 4E.",
         "The answer is A."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-42.jpg",
+        "papers/physics/img/31-10-Oscillations-43.jpg"
       ]
     },
     {
@@ -1916,7 +2292,11 @@
       "question": "The graph shows velocity against time for an object in SHM. Which of the four graphs shows acceleration against time for the same period?",
       "status": "pending",
       "answer": "Needs the velocity-time graph and the four option graphs A to D from the PDF (images, not in the text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-42.jpg",
+        "papers/physics/img/31-10-Oscillations-43.jpg"
+      ]
     },
     {
       "id": "10-Q49",
@@ -1934,7 +2314,10 @@
       "question": "The graph shows velocity against time for an object in SHM. Which of the four graphs shows displacement against time for the same period?",
       "status": "pending",
       "answer": "Needs the velocity-time graph and the four option graphs A to D from the PDF (images, not in the text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-43.jpg"
+      ]
     },
     {
       "id": "10-Q50",
@@ -1957,6 +2340,11 @@
         "Amplitude and energy transfer are a maximum only at resonance, so A and D are not always true.",
         "The mass does not necessarily oscillate at its natural frequency, so B is not always true.",
         "So the answer is C."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-44.jpg",
+        "papers/physics/img/31-10-Oscillations-45.jpg",
+        "papers/physics/img/31-10-Oscillations-46.jpg"
       ]
     },
     {
@@ -1980,6 +2368,11 @@
         "SHM is oscillation in which the acceleration is directly proportional to displacement from a fixed equilibrium position.",
         "The acceleration is always directed towards the equilibrium position.",
         "This gives sinusoidal displacement, velocity and acceleration against time."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-44.jpg",
+        "papers/physics/img/31-10-Oscillations-45.jpg",
+        "papers/physics/img/31-10-Oscillations-46.jpg"
       ]
     },
     {
@@ -2004,6 +2397,11 @@
         "A damper with the same natural frequency is driven at resonance by the building.",
         "At resonance the energy transfer from the building to the damper is a maximum.",
         "So the building's amplitude is reduced effectively."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-44.jpg",
+        "papers/physics/img/31-10-Oscillations-45.jpg",
+        "papers/physics/img/31-10-Oscillations-46.jpg"
       ]
     },
     {
@@ -2024,7 +2422,12 @@
       "question": "Calculate the stiffness of the spring system for the lead box damper, given its dimensions, the density of lead 11 300 kg m-3 and the oscillation frequency 0.17 Hz.",
       "status": "pending",
       "answer": "The box dimensions in the extracted text are garbled; read them from the PDF. Then m = density x volume and k = 4 pi^2 f^2 m.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-44.jpg",
+        "papers/physics/img/31-10-Oscillations-45.jpg",
+        "papers/physics/img/31-10-Oscillations-46.jpg"
+      ]
     },
     {
       "id": "10-Q51biii",
@@ -2048,6 +2451,11 @@
         "A large inertia means a large force is needed to accelerate it.",
         "The springs are soft, so the box moves relative to the floor rather than with it.",
         "This relative motion is what allows the damper to act."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-44.jpg",
+        "papers/physics/img/31-10-Oscillations-45.jpg",
+        "papers/physics/img/31-10-Oscillations-46.jpg"
       ]
     },
     {
@@ -2073,6 +2481,11 @@
         "The oil is viscous, so forcing it through the holes produces a drag force that opposes the motion.",
         "This drag does negative work and converts oscillation energy into thermal energy (damping).",
         "With less energy the building's amplitude of oscillation is reduced."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-44.jpg",
+        "papers/physics/img/31-10-Oscillations-45.jpg",
+        "papers/physics/img/31-10-Oscillations-46.jpg"
       ]
     },
     {
@@ -2091,7 +2504,10 @@
       "question": "The graph shows force against time for an object in SHM. Which of graphs A to D shows displacement against time over the same interval?",
       "status": "pending",
       "answer": "Needs the force-time graph and the four option graphs from the PDF (images, not in the text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-46.jpg"
+      ]
     },
     {
       "id": "10-Q53",
@@ -2109,7 +2525,10 @@
       "question": "The graph shows force against time for an object in SHM. Which of the four graphs shows velocity against time?",
       "status": "pending",
       "answer": "Needs the force-time graph and the four option graphs from the PDF (images, not in the text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-47.jpg"
+      ]
     },
     {
       "id": "10-Q54",
@@ -2128,7 +2547,10 @@
       "question": "Two pendulums of equal mass, one of length L and one of another length, are given the same initial amplitude. Evaluate the student's suggestion that the maximum kinetic energy of one is four times that of the other.",
       "status": "pending",
       "answer": "The second length and the definition of amplitude are not in the extracted text (the diagram or value is missing), so the factor of four cannot be checked.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-48.jpg"
+      ]
     },
     {
       "id": "10-Q55a",
@@ -2146,7 +2568,11 @@
       "question": "The graph shows acceleration against displacement from equilibrium for an object. Explain how the graph shows that the object moves with simple harmonic motion.",
       "status": "pending",
       "answer": "Needs the a-x graph from the PDF; the answer is that the graph is a straight line through the origin with negative gradient, so a is proportional to -x.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-49.jpg",
+        "papers/physics/img/31-10-Oscillations-50.jpg"
+      ]
     },
     {
       "id": "10-Q55bi",
@@ -2165,7 +2591,11 @@
       "question": "For the object of mass 0.25 kg whose acceleration-displacement graph is shown, calculate its maximum kinetic energy.",
       "status": "pending",
       "answer": "Needs omega^2 (gradient) and amplitude read from the a-x graph in the PDF; then E_k max = 1/2 m omega^2 A^2.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-49.jpg",
+        "papers/physics/img/31-10-Oscillations-50.jpg"
+      ]
     },
     {
       "id": "10-Q55bii",
@@ -2184,7 +2614,11 @@
       "question": "Sketch a graph on the axes provided to show how the kinetic energy of the object varies with displacement x. No further calculations are needed.",
       "status": "pending",
       "answer": "Needs the blank axes from the PDF. Expected: inverted parabola, maximum at x = 0 and zero at x = +/- A.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-49.jpg",
+        "papers/physics/img/31-10-Oscillations-50.jpg"
+      ]
     },
     {
       "id": "10-Q56",
@@ -2210,6 +2644,10 @@
         "Energy was transferred efficiently into the bridge, giving a large swaying amplitude.",
         "The dampers exert a force opposing the motion of the bridge and dissipate energy as heat.",
         "Damping therefore reduces the amplitude of the swaying and the resonance effect."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-51.jpg",
+        "papers/physics/img/31-10-Oscillations-52.jpg"
       ]
     },
     {
@@ -2234,6 +2672,10 @@
         "Plastic deformation dissipates the oscillation energy as heat, which damps the motion.",
         "Elastic deformation stores and returns energy, so C is wrong.",
         "Stiffness and strength do not remove energy, so the answer is D."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-52.jpg",
+        "papers/physics/img/31-10-Oscillations-53.jpg"
       ]
     },
     {
@@ -2259,6 +2701,10 @@
         "The same air resistance acts on the heavier bob, which has more inertia, so its velocity changes more slowly.",
         "Energy is therefore lost more slowly relative to the oscillation, and the amplitude decreases more slowly.",
         "So the answer is D."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-52.jpg",
+        "papers/physics/img/31-10-Oscillations-53.jpg"
       ]
     },
     {
@@ -2284,6 +2730,10 @@
         "(T2 / T1)^2 = m_total / m1, so m_total = 0.35 x (1.15 / 0.95)^2 = 0.35 x 1.465 = 0.513 kg.",
         "Added mass = 0.513 - 0.350 = 0.16 kg.",
         "The added mass is about 0.16 kg."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-53.jpg",
+        "papers/physics/img/31-10-Oscillations-54.jpg"
       ]
     },
     {
@@ -2310,6 +2760,10 @@
         "The new total mass is m = 67 + 72 = 139 kg.",
         "T = 2 pi sqrt(m / k) = 2 pi sqrt(139 / 1176) = 2.16 s.",
         "So the period of the two people is 2.16 s."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-53.jpg",
+        "papers/physics/img/31-10-Oscillations-54.jpg"
       ]
     },
     {
@@ -2334,6 +2788,9 @@
         "The mass is driven at its natural frequency at resonance, so C is correct.",
         "The frequency of oscillation equals the driving frequency; it is not a maximum, so B is not correct.",
         "So the answer is B."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-54.jpg"
       ]
     },
     {
@@ -2352,7 +2809,11 @@
       "question": "The graph shows displacement against time for an object in SHM. Which of the four graphs shows velocity against time for the same period?",
       "status": "pending",
       "answer": "Needs the displacement-time graph and the four option graphs from the PDF (images, not in the text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-55.jpg",
+        "papers/physics/img/31-10-Oscillations-56.jpg"
+      ]
     },
     {
       "id": "10-Q63",
@@ -2370,7 +2831,11 @@
       "question": "The graph shows displacement against time for an object in SHM. Which of the four graphs shows acceleration against time?",
       "status": "pending",
       "answer": "Needs the displacement-time graph and the four option graphs from the PDF (images, not in the text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-56.jpg",
+        "papers/physics/img/31-10-Oscillations-57.jpg"
+      ]
     },
     {
       "id": "10-Q64a",
@@ -2394,6 +2859,11 @@
         "The acceleration must always be directed towards the equilibrium position.",
         "The restoring force of the suspension provides this acceleration.",
         "Together these conditions give simple harmonic motion."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-57.jpg",
+        "papers/physics/img/31-10-Oscillations-58.jpg",
+        "papers/physics/img/31-10-Oscillations-59.jpg"
       ]
     },
     {
@@ -2413,7 +2883,12 @@
       "question": "The graph shows how the vertical displacement of the car body varies with time. Determine the maximum velocity of the car body.",
       "status": "pending",
       "answer": "Needs the displacement-time graph from the PDF to read the amplitude and period; then v_max = 2 pi A / T.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-57.jpg",
+        "papers/physics/img/31-10-Oscillations-58.jpg",
+        "papers/physics/img/31-10-Oscillations-59.jpg"
+      ]
     },
     {
       "id": "10-Q64c",
@@ -2436,6 +2911,11 @@
         "Damping forces oppose the motion of the car body and do negative work on it.",
         "The energy of the oscillation is converted into thermal energy.",
         "With less energy the amplitude decreases on each cycle."
+      ],
+      "images": [
+        "papers/physics/img/31-10-Oscillations-57.jpg",
+        "papers/physics/img/31-10-Oscillations-58.jpg",
+        "papers/physics/img/31-10-Oscillations-59.jpg"
       ]
     }
   ]

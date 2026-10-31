@@ -9,7 +9,16 @@
       "no": "Q1(a)(i)",
       "marks": 1,
       "topic": "Petrol Octane Rating",
-      "keywords": ["petrol", "heptane", "octane rating", "knocking", "straight-chain", "alkane", "fuel", "engine"],
+      "keywords": [
+        "petrol",
+        "heptane",
+        "octane rating",
+        "knocking",
+        "straight-chain",
+        "alkane",
+        "fuel",
+        "engine"
+      ],
       "question": "Give a reason why petrol should not contain a high proportion of heptane.",
       "status": "ready",
       "answer": "Heptane is a straight-chain alkane with a low octane rating, so it causes knocking and poor engine performance.",
@@ -18,6 +27,10 @@
         "Straight-chain alkanes such as heptane have a low octane rating.",
         "A low octane fuel auto-ignites before the spark (knocking), reducing engine efficiency and causing damage.",
         "Branched alkanes and cycloalkanes have higher octane ratings and are preferred in petrol."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-01.jpg",
+        "papers/chemistry/img/04B-Alkanes-02.jpg"
       ]
     },
     {
@@ -25,7 +38,15 @@
       "no": "Q1(a)(ii)",
       "marks": 1,
       "topic": "Skeletal Formulae",
-      "keywords": ["skeletal formula", "2,2,3-trimethylbutane", "branched alkane", "isomer", "IUPAC name", "methyl branch", "structural formula"],
+      "keywords": [
+        "skeletal formula",
+        "2,2,3-trimethylbutane",
+        "branched alkane",
+        "isomer",
+        "IUPAC name",
+        "methyl branch",
+        "structural formula"
+      ],
       "question": "Draw the skeletal formula of 2,2,3-trimethylbutane.",
       "status": "ready",
       "answer": "A zigzag four-carbon butane chain with two methyl branches on C2 and one methyl branch on C3 (C7H16).",
@@ -34,6 +55,10 @@
         "Add two methyl (CH3) groups to C2, so C2 has four bonds in total.",
         "Add one methyl group to C3.",
         "Check the formula: 7 carbons and 16 hydrogens, giving C7H16."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-01.jpg",
+        "papers/chemistry/img/04B-Alkanes-02.jpg"
       ]
     },
     {
@@ -41,7 +66,16 @@
       "no": "Q1(a)(iii)",
       "marks": 1,
       "topic": "Reforming Equation",
-      "keywords": ["reforming", "heptane", "cycloheptane", "cycloalkane", "dehydrogenation", "hydrogen", "molecular formula", "equation"],
+      "keywords": [
+        "reforming",
+        "heptane",
+        "cycloheptane",
+        "cycloalkane",
+        "dehydrogenation",
+        "hydrogen",
+        "molecular formula",
+        "equation"
+      ],
       "question": "Write the equation for reforming heptane into cycloheptane using molecular formulae.",
       "status": "ready",
       "answer": "C7H16 -> C7H14 + H2",
@@ -50,6 +84,10 @@
         "Cycloheptane is a cycloalkane with formula CnH2n, so C7H14.",
         "Reforming forms a ring by removing hydrogen, released as H2.",
         "Check: C 7 = 7; H 16 = 14 + 2."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-01.jpg",
+        "papers/chemistry/img/04B-Alkanes-02.jpg"
       ]
     },
     {
@@ -57,7 +95,16 @@
       "no": "Q1(a)(iv)",
       "marks": 2,
       "topic": "Acid Rain From NOx",
-      "keywords": ["nitrogen oxides", "NOx", "acid rain", "nitric acid", "trees", "pollution", "combustion", "soil pH"],
+      "keywords": [
+        "nitrogen oxides",
+        "NOx",
+        "acid rain",
+        "nitric acid",
+        "trees",
+        "pollution",
+        "combustion",
+        "soil pH"
+      ],
       "question": "Explain how oxides of nitrogen formed when petrol burns in an engine damage trees.",
       "status": "ready",
       "answer": "NOx dissolve in rain to form nitric acid (acid rain), which lowers soil pH, damages roots and leaves, and stops nutrient uptake.",
@@ -66,6 +113,10 @@
         "NO2 reacts with water and oxygen in the atmosphere to form nitric acid, HNO3.",
         "The acid falls as acid rain and lowers the pH of soil.",
         "Acidic soil damages roots and leaves and stops trees taking up nutrients."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-01.jpg",
+        "papers/chemistry/img/04B-Alkanes-02.jpg"
       ]
     },
     {
@@ -73,7 +124,15 @@
       "no": "Q1(b)(i)",
       "marks": 1,
       "topic": "Initiation Step",
-      "keywords": ["initiation", "homolytic fission", "chlorine radicals", "Cl2", "UV light", "free radical mechanism", "chlorination"],
+      "keywords": [
+        "initiation",
+        "homolytic fission",
+        "chlorine radicals",
+        "Cl2",
+        "UV light",
+        "free radical mechanism",
+        "chlorination"
+      ],
       "question": "Name the first step in the mechanism Cl2 -> 2Cl.",
       "status": "ready",
       "answer": "Initiation (homolytic fission of the Cl-Cl bond).",
@@ -82,6 +141,10 @@
         "UV light supplies the energy needed to break this bond.",
         "Homolytic fission splits the bond so each Cl atom takes one electron, forming two chlorine radicals.",
         "This first step, which creates radicals, is the initiation step."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-01.jpg",
+        "papers/chemistry/img/04B-Alkanes-02.jpg"
       ]
     },
     {
@@ -89,7 +152,15 @@
       "no": "Q1(b)(ii)",
       "marks": 2,
       "topic": "Propagation Steps",
-      "keywords": ["propagation", "chloroheptane", "free radical", "chain reaction", "heptyl radical", "Cl2", "molecular formulae"],
+      "keywords": [
+        "propagation",
+        "chloroheptane",
+        "free radical",
+        "chain reaction",
+        "heptyl radical",
+        "Cl2",
+        "molecular formulae"
+      ],
       "question": "Give the two propagation steps forming chloroheptane, using molecular formulae.",
       "status": "ready",
       "answer": "C7H16 + Cl -> C7H15 + HCl; then C7H15 + Cl2 -> C7H15Cl + Cl",
@@ -98,6 +169,10 @@
         "Step 1: a Cl radical removes an H atom from heptane, giving HCl and a C7H15 radical.",
         "Step 2: the C7H15 radical reacts with Cl2, giving chloroheptane C7H15Cl and a new Cl radical.",
         "The new Cl radical returns to step 1, repeating the chain."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-01.jpg",
+        "papers/chemistry/img/04B-Alkanes-02.jpg"
       ]
     },
     {
@@ -105,7 +180,15 @@
       "no": "Q1(b)(iii)",
       "marks": 1,
       "topic": "Termination Step",
-      "keywords": ["termination", "free radical", "hydrocarbon", "C14H30", "heptyl radical", "chain reaction", "chlorination"],
+      "keywords": [
+        "termination",
+        "free radical",
+        "hydrocarbon",
+        "C14H30",
+        "heptyl radical",
+        "chain reaction",
+        "chlorination"
+      ],
       "question": "Give the termination step which forms a hydrocarbon.",
       "status": "ready",
       "answer": "2C7H15 -> C14H30",
@@ -114,6 +197,10 @@
         "Two heptyl radicals (C7H15) combine by forming a C-C bond.",
         "The product C14H30 is a hydrocarbon with no chlorine.",
         "This stops the chain reaction."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-01.jpg",
+        "papers/chemistry/img/04B-Alkanes-02.jpg"
       ]
     },
     {
@@ -121,7 +208,15 @@
       "no": "Q1(b)(iv)",
       "marks": 2,
       "topic": "Further Substitution",
-      "keywords": ["dichloroheptane", "further substitution", "multiple substitution", "chloroheptane", "free radical", "propagation", "halogenoalkane"],
+      "keywords": [
+        "dichloroheptane",
+        "further substitution",
+        "multiple substitution",
+        "chloroheptane",
+        "free radical",
+        "propagation",
+        "halogenoalkane"
+      ],
       "question": "Explain how dichloroheptane, C7H14Cl2, also forms during the reaction of heptane with chlorine.",
       "status": "ready",
       "answer": "Chloroheptane is attacked again by Cl radicals and Cl2: C7H15Cl + Cl -> C7H14Cl + HCl, then C7H14Cl + Cl2 -> C7H14Cl2 + Cl.",
@@ -130,6 +225,10 @@
         "A Cl radical removes an H atom from C7H15Cl, forming HCl and a C7H14Cl radical.",
         "This radical reacts with Cl2 to give C7H14Cl2 and regenerates a Cl radical.",
         "Repeated substitution of H by Cl gives dichloroheptane."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-01.jpg",
+        "papers/chemistry/img/04B-Alkanes-02.jpg"
       ]
     },
     {
@@ -137,7 +236,15 @@
       "no": "Q2",
       "marks": 1,
       "topic": "Homologous Series",
-      "keywords": ["homologous series", "alkanes", "general formula", "CnH2n+2", "boiling temperature", "empirical formula", "density"],
+      "keywords": [
+        "homologous series",
+        "alkanes",
+        "general formula",
+        "CnH2n+2",
+        "boiling temperature",
+        "empirical formula",
+        "density"
+      ],
       "question": "Which property do members of the alkane homologous series all share? A boiling temperature, B density, C empirical formula, D general formula.",
       "status": "ready",
       "answer": "D (general formula, CnH2n+2)",
@@ -146,6 +253,11 @@
         "Members differ by a CH2 unit, so their boiling temperatures and densities change down the series.",
         "Their empirical formulae differ, for example ethane is CH3 and propane is C3H8 (empirical C3H8).",
         "All alkanes share the general formula CnH2n+2."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-02.jpg",
+        "papers/chemistry/img/04B-Alkanes-03.jpg",
+        "papers/chemistry/img/04B-Alkanes-04.jpg"
       ]
     },
     {
@@ -153,7 +265,15 @@
       "no": "Q3(a)",
       "marks": 2,
       "topic": "Reforming Hexane",
-      "keywords": ["reforming", "hexane", "cyclohexane", "skeletal formula", "hydrogen", "cycloalkane", "equation"],
+      "keywords": [
+        "reforming",
+        "hexane",
+        "cyclohexane",
+        "skeletal formula",
+        "hydrogen",
+        "cycloalkane",
+        "equation"
+      ],
       "question": "Write the equation for reforming hexane into cyclohexane, using skeletal formulae.",
       "status": "ready",
       "answer": "Skeletal hexane (zigzag chain of six carbons) -> cyclohexane (six-membered ring) + H2; i.e. C6H14 -> C6H12 + H2",
@@ -162,6 +282,11 @@
         "Reforming joins C1 and C6 to form a six-membered ring, losing two H atoms.",
         "Cyclohexane is a six-membered ring of carbons, C6H12.",
         "The hydrogen released is H2: C6H14 -> C6H12 + H2."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-02.jpg",
+        "papers/chemistry/img/04B-Alkanes-03.jpg",
+        "papers/chemistry/img/04B-Alkanes-04.jpg"
       ]
     },
     {
@@ -169,40 +294,86 @@
       "no": "Q3(b)(i)",
       "marks": 1,
       "topic": "Naming Cycloalkanes",
-      "keywords": ["cycloalkane", "skeletal formula", "naming", "IUPAC", "ring", "cyclo prefix", "alkane"],
+      "keywords": [
+        "cycloalkane",
+        "skeletal formula",
+        "naming",
+        "IUPAC",
+        "ring",
+        "cyclo prefix",
+        "alkane"
+      ],
       "question": "Give the name of cycloalkane D, whose skeletal formula is shown.",
       "status": "pending",
       "answer": "Pending: the skeletal formula of cycloalkane D is in a diagram that is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-02.jpg",
+        "papers/chemistry/img/04B-Alkanes-03.jpg",
+        "papers/chemistry/img/04B-Alkanes-04.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q3b(ii)",
       "no": "Q3(b)(ii)",
       "marks": 1,
       "topic": "Molecular Formula of Cycloalkane",
-      "keywords": ["molecular formula", "cycloalkane", "skeletal formula", "carbon atoms", "hydrogen atoms", "ring"],
+      "keywords": [
+        "molecular formula",
+        "cycloalkane",
+        "skeletal formula",
+        "carbon atoms",
+        "hydrogen atoms",
+        "ring"
+      ],
       "question": "Give the molecular formula of cycloalkane D.",
       "status": "pending",
       "answer": "Pending: depends on the skeletal formula of D, which is in a diagram that is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-02.jpg",
+        "papers/chemistry/img/04B-Alkanes-03.jpg",
+        "papers/chemistry/img/04B-Alkanes-04.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q3c",
       "no": "Q3(c)",
       "marks": 2,
       "topic": "Isomers of C6H12",
-      "keywords": ["structural isomers", "C6H12", "cyclobutane", "skeletal formula", "dimethylcyclobutane", "ethylcyclobutane", "ring"],
+      "keywords": [
+        "structural isomers",
+        "C6H12",
+        "cyclobutane",
+        "skeletal formula",
+        "dimethylcyclobutane",
+        "ethylcyclobutane",
+        "ring"
+      ],
       "question": "Complete the skeletal formulae of the other three structural isomers of C6H12 that have a four-carbon ring.",
       "status": "pending",
       "answer": "Pending: the isomer shown in the first box is in a diagram that is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-02.jpg",
+        "papers/chemistry/img/04B-Alkanes-03.jpg",
+        "papers/chemistry/img/04B-Alkanes-04.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q3d",
       "no": "Q3(d)",
       "marks": 1,
       "topic": "Molecular Formula from Molar Mass",
-      "keywords": ["molar mass", "cycloalkane", "molecular formula", "CnH2n", "126 g mol-1", "empirical formula", "M = 14n"],
+      "keywords": [
+        "molar mass",
+        "cycloalkane",
+        "molecular formula",
+        "CnH2n",
+        "126 g mol-1",
+        "empirical formula",
+        "M = 14n"
+      ],
       "question": "Cycloalkane E has a molar mass of 126 g mol-1. Deduce its molecular formula.",
       "status": "ready",
       "answer": "C9H18 (M = 9 x 12.0 + 18 x 1.0 = 126 g mol-1)",
@@ -211,6 +382,11 @@
         "The molar mass of CnH2n is 12.0n + 2.0n = 14n.",
         "14n = 126, so n = 9.",
         "Molecular formula C9H18; check: 108 + 18 = 126 g mol-1."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-02.jpg",
+        "papers/chemistry/img/04B-Alkanes-03.jpg",
+        "papers/chemistry/img/04B-Alkanes-04.jpg"
       ]
     },
     {
@@ -218,7 +394,16 @@
       "no": "Q3(e)",
       "marks": 3,
       "topic": "Gas Volumes After Combustion",
-      "keywords": ["gas volumes", "cyclopentane", "combustion", "excess oxygen", "volume ratio", "carbon dioxide", "water vapour", "same temperature and pressure"],
+      "keywords": [
+        "gas volumes",
+        "cyclopentane",
+        "combustion",
+        "excess oxygen",
+        "volume ratio",
+        "carbon dioxide",
+        "water vapour",
+        "same temperature and pressure"
+      ],
       "question": "25 cm3 of gaseous cyclopentane is burned with 250 cm3 of oxygen (excess). Calculate the volume of each gas remaining, all at the same temperature and pressure.",
       "status": "ready",
       "answer": "O2 62.5 cm3; CO2 125 cm3; H2O (gas) 125 cm3",
@@ -227,6 +412,11 @@
         "O2 needed for 25 cm3 C5H10 = 25 x 7.5 = 187.5 cm3.",
         "O2 remaining = 250 - 187.5 = 62.5 cm3 (oxygen is in excess).",
         "CO2 formed = 25 x 5 = 125 cm3 and H2O(g) formed = 25 x 5 = 125 cm3, since volume ratios equal mole ratios at the same T and P."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-02.jpg",
+        "papers/chemistry/img/04B-Alkanes-03.jpg",
+        "papers/chemistry/img/04B-Alkanes-04.jpg"
       ]
     },
     {
@@ -234,7 +424,15 @@
       "no": "Q3(f)(i)",
       "marks": 2,
       "topic": "Free Radical Substitution",
-      "keywords": ["free radical substitution", "cyclobutane", "chlorine", "sunlight", "chain mechanism", "halogenation", "alkane"],
+      "keywords": [
+        "free radical substitution",
+        "cyclobutane",
+        "chlorine",
+        "sunlight",
+        "chain mechanism",
+        "halogenation",
+        "alkane"
+      ],
       "question": "Name the mechanism and type of reaction when cyclobutane reacts with chlorine in sunlight.",
       "status": "ready",
       "answer": "Free radical substitution, by a chain mechanism.",
@@ -243,6 +441,11 @@
         "A radical attacks a C-H bond of cyclobutane, and a C-H bond is replaced by C-Cl.",
         "The reaction proceeds by a chain of propagation steps.",
         "Type: substitution, mechanism: free radical."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-02.jpg",
+        "papers/chemistry/img/04B-Alkanes-03.jpg",
+        "papers/chemistry/img/04B-Alkanes-04.jpg"
       ]
     },
     {
@@ -250,7 +453,15 @@
       "no": "Q3(f)(ii)",
       "marks": 2,
       "topic": "Initiation Equation",
-      "keywords": ["initiation", "homolytic fission", "chlorine radicals", "Cl2", "curly arrows", "UV light", "cyclobutane"],
+      "keywords": [
+        "initiation",
+        "homolytic fission",
+        "chlorine radicals",
+        "Cl2",
+        "curly arrows",
+        "UV light",
+        "cyclobutane"
+      ],
       "question": "Complete the equation for the initiation step of the reaction of cyclobutane with chlorine, including curly arrows.",
       "status": "ready",
       "answer": "Cl2 -> 2Cl (homolytic fission of the Cl-Cl bond; curly half-arrow from the bond to each Cl)",
@@ -259,6 +470,11 @@
         "Homolytic fission: each Cl atom takes one electron from the bond.",
         "Draw a curly half-arrow from the centre of the Cl-Cl bond to each Cl atom.",
         "Products: two chlorine free radicals, Cl."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-02.jpg",
+        "papers/chemistry/img/04B-Alkanes-03.jpg",
+        "papers/chemistry/img/04B-Alkanes-04.jpg"
       ]
     },
     {
@@ -266,7 +482,15 @@
       "no": "Q3(f)(iii)",
       "marks": 2,
       "topic": "Propagation Steps Cyclobutane",
-      "keywords": ["propagation", "chlorocyclobutane", "cyclobutane", "free radical", "chain reaction", "C4H8", "chlorine radical"],
+      "keywords": [
+        "propagation",
+        "chlorocyclobutane",
+        "cyclobutane",
+        "free radical",
+        "chain reaction",
+        "C4H8",
+        "chlorine radical"
+      ],
       "question": "Write the two propagation steps forming chlorocyclobutane, using C4H8 for cyclobutane.",
       "status": "ready",
       "answer": "C4H8 + Cl -> C4H7 + HCl; C4H7 + Cl2 -> C4H7Cl + Cl",
@@ -275,6 +499,11 @@
         "Step 2: the C4H7 radical reacts with Cl2, giving chlorocyclobutane C4H7Cl and a new Cl radical.",
         "The Cl radical formed in step 2 starts step 1 again.",
         "Each propagation step keeps the chain going."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-02.jpg",
+        "papers/chemistry/img/04B-Alkanes-03.jpg",
+        "papers/chemistry/img/04B-Alkanes-04.jpg"
       ]
     },
     {
@@ -282,7 +511,15 @@
       "no": "Q3(f)(iv)",
       "marks": 2,
       "topic": "Termination Hydrocarbon",
-      "keywords": ["termination", "hydrocarbon", "cyclobutylcyclobutane", "skeletal formula", "C8H14", "radical combination", "cyclobutane"],
+      "keywords": [
+        "termination",
+        "hydrocarbon",
+        "cyclobutylcyclobutane",
+        "skeletal formula",
+        "C8H14",
+        "radical combination",
+        "cyclobutane"
+      ],
       "question": "Deduce the skeletal formula of the small amount of hydrocarbon formed in the reaction of cyclobutane with chlorine, and justify your answer.",
       "status": "ready",
       "answer": "Two cyclobutane rings joined by a single C-C bond (cyclobutylcyclobutane, C8H14), formed by combination of two cyclobutyl radicals.",
@@ -291,6 +528,11 @@
         "The radical present is the cyclobutyl radical, C4H7.",
         "Two C4H7 radicals join, giving C8H14.",
         "Skeletal formula: two square rings linked by one bond."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-02.jpg",
+        "papers/chemistry/img/04B-Alkanes-03.jpg",
+        "papers/chemistry/img/04B-Alkanes-04.jpg"
       ]
     },
     {
@@ -298,7 +540,15 @@
       "no": "Q4",
       "marks": 1,
       "topic": "Structural Isomers C6H14",
-      "keywords": ["structural isomers", "C6H14", "hexane", "methylpentane", "dimethylbutane", "isomer count", "alkane"],
+      "keywords": [
+        "structural isomers",
+        "C6H14",
+        "hexane",
+        "methylpentane",
+        "dimethylbutane",
+        "isomer count",
+        "alkane"
+      ],
       "question": "What is the total number of structural isomers with molecular formula C6H14? A 4, B 5, C 6, D 7.",
       "status": "ready",
       "answer": "B (5 structural isomers)",
@@ -307,6 +557,10 @@
         "Straight chain: hexane (1 isomer).",
         "Methylpentanes: 2-methylpentane and 3-methylpentane (2 isomers).",
         "Dimethylbutanes: 2,2-dimethylbutane and 2,3-dimethylbutane (2 isomers), giving a total of 5."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-04.jpg",
+        "papers/chemistry/img/04B-Alkanes-05.jpg"
       ]
     },
     {
@@ -314,18 +568,38 @@
       "no": "Q5(a)",
       "marks": 1,
       "topic": "Naming Halogen Compound",
-      "keywords": ["molecule X", "halogenoalkane", "CFC", "ozone", "upper atmosphere", "chlorofluorocarbon", "naming"],
+      "keywords": [
+        "molecule X",
+        "halogenoalkane",
+        "CFC",
+        "ozone",
+        "upper atmosphere",
+        "chlorofluorocarbon",
+        "naming"
+      ],
       "question": "Name molecule X, a halogen-containing compound that reacts with ozone in the upper atmosphere.",
       "status": "pending",
       "answer": "Pending: the structure of molecule X is in a diagram that is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-05.jpg",
+        "papers/chemistry/img/04B-Alkanes-06.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q5b(i)",
       "no": "Q5(b)(i)",
       "marks": 1,
       "topic": "Homolytic Fission Condition",
-      "keywords": ["homolytic fission", "C-Cl bond", "essential condition", "ultraviolet radiation", "upper atmosphere", "radicals", "ozone"],
+      "keywords": [
+        "homolytic fission",
+        "C-Cl bond",
+        "essential condition",
+        "ultraviolet radiation",
+        "upper atmosphere",
+        "radicals",
+        "ozone"
+      ],
       "question": "State the essential condition necessary for homolytic fission of the C-Cl bond in the upper atmosphere.",
       "status": "ready",
       "answer": "Ultraviolet (UV) radiation.",
@@ -334,6 +608,10 @@
         "UV radiation supplies this energy in the upper atmosphere.",
         "Each atom of the bond takes one electron, forming radicals.",
         "So the essential condition is UV radiation."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-05.jpg",
+        "papers/chemistry/img/04B-Alkanes-06.jpg"
       ]
     },
     {
@@ -341,51 +619,105 @@
       "no": "Q5(b)(ii)",
       "marks": 2,
       "topic": "Homolytic Fission Equation",
-      "keywords": ["homolytic fission", "C-Cl bond", "curly half-arrows", "molecule X", "radical", "equation"],
+      "keywords": [
+        "homolytic fission",
+        "C-Cl bond",
+        "curly half-arrows",
+        "molecule X",
+        "radical",
+        "equation"
+      ],
       "question": "Write an equation for homolytic fission of the C-Cl bond in molecule X, including curly half-arrows.",
       "status": "pending",
       "answer": "Pending: depends on the structure of molecule X, which is in a diagram not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-05.jpg",
+        "papers/chemistry/img/04B-Alkanes-06.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q5b(iii)",
       "no": "Q5(b)(iii)",
       "marks": 2,
       "topic": "Radical Reaction With X",
-      "keywords": ["chlorine radical", "molecule X", "ozone depletion", "equation", "radical reaction", "upper atmosphere"],
+      "keywords": [
+        "chlorine radical",
+        "molecule X",
+        "ozone depletion",
+        "equation",
+        "radical reaction",
+        "upper atmosphere"
+      ],
       "question": "Write an equation for the reaction of a chlorine free radical with a molecule of X.",
       "status": "pending",
       "answer": "Pending: depends on the structure of molecule X, which is in a diagram not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-05.jpg",
+        "papers/chemistry/img/04B-Alkanes-06.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q5b(iv)",
       "no": "Q5(b)(iv)",
       "marks": 2,
       "topic": "Radical Forming C4H4Cl6",
-      "keywords": ["free radical", "displayed formula", "C4H4Cl6", "molecule X", "ozone depletion", "radical sequence", "equation"],
+      "keywords": [
+        "free radical",
+        "displayed formula",
+        "C4H4Cl6",
+        "molecule X",
+        "ozone depletion",
+        "radical sequence",
+        "equation"
+      ],
       "question": "Write an equation, using displayed formulae, for a free radical formed in the sequence that gives a molecule with formula C4H4Cl6.",
       "status": "pending",
       "answer": "Pending: depends on the structure of molecule X and the earlier steps, which are not fully in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-05.jpg",
+        "papers/chemistry/img/04B-Alkanes-06.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q5b(v)",
       "no": "Q5(b)(v)",
       "marks": 2,
       "topic": "Reaction Type and Product Name",
-      "keywords": ["reaction type", "C4H4Cl6", "product name", "radical addition", "chain reaction", "ozone depletion", "halogenoalkane"],
+      "keywords": [
+        "reaction type",
+        "C4H4Cl6",
+        "product name",
+        "radical addition",
+        "chain reaction",
+        "ozone depletion",
+        "halogenoalkane"
+      ],
       "question": "State the type of reaction occurring in (b)(iv) and name the product with formula C4H4Cl6.",
       "status": "pending",
       "answer": "Pending: depends on the structure of molecule X and the sequence in (b)(iv), which are not fully in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-05.jpg",
+        "papers/chemistry/img/04B-Alkanes-06.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q6",
       "no": "Q6",
       "marks": 1,
       "topic": "Empirical Formula",
-      "keywords": ["empirical formula", "butane", "C4H10", "C2H5", "simplest ratio", "whole number ratio", "general formula"],
+      "keywords": [
+        "empirical formula",
+        "butane",
+        "C4H10",
+        "C2H5",
+        "simplest ratio",
+        "whole number ratio",
+        "general formula"
+      ],
       "question": "What is the empirical formula of butane? A C4H10, B C2H5, C CH2.5, D CnH2n+2.",
       "status": "ready",
       "answer": "B (C2H5)",
@@ -394,6 +726,11 @@
         "Butane is C4H10; the ratio C:H is 4:10.",
         "Dividing both by 2 gives 2:5, so C2H5.",
         "CH2.5 is not a whole-number ratio and CnH2n+2 is a general formula."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-06.jpg",
+        "papers/chemistry/img/04B-Alkanes-07.jpg",
+        "papers/chemistry/img/04B-Alkanes-08.jpg"
       ]
     },
     {
@@ -401,7 +738,15 @@
       "no": "Q7(a)(i)",
       "marks": 1,
       "topic": "Incomplete Combustion Reason",
-      "keywords": ["incomplete combustion", "heptane", "limited oxygen", "carbon monoxide", "carbon particulates", "air supply", "combustion"],
+      "keywords": [
+        "incomplete combustion",
+        "heptane",
+        "limited oxygen",
+        "carbon monoxide",
+        "carbon particulates",
+        "air supply",
+        "combustion"
+      ],
       "question": "Give a reason why incomplete combustion of heptane sometimes occurs.",
       "status": "ready",
       "answer": "There is an insufficient (limited) supply of oxygen, so carbon forms CO or carbon instead of CO2.",
@@ -410,6 +755,11 @@
         "If the air supply is limited, some carbon is only partly oxidised.",
         "This forms carbon monoxide (CO) or carbon particulates (soot).",
         "So incomplete combustion occurs when oxygen is in short supply."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-06.jpg",
+        "papers/chemistry/img/04B-Alkanes-07.jpg",
+        "papers/chemistry/img/04B-Alkanes-08.jpg"
       ]
     },
     {
@@ -417,7 +767,15 @@
       "no": "Q7(a)(ii)",
       "marks": 1,
       "topic": "Incomplete Combustion Equation",
-      "keywords": ["incomplete combustion", "heptane", "carbon monoxide", "water", "balancing equation", "C7H16", "oxygen"],
+      "keywords": [
+        "incomplete combustion",
+        "heptane",
+        "carbon monoxide",
+        "water",
+        "balancing equation",
+        "C7H16",
+        "oxygen"
+      ],
       "question": "Write the equation for the incomplete combustion of heptane forming only carbon monoxide and water.",
       "status": "ready",
       "answer": "C7H16 + 7.5O2 -> 7CO + 8H2O (or 2C7H16 + 15O2 -> 14CO + 16H2O)",
@@ -426,6 +784,11 @@
         "Hydrogen: 16 H atoms give 8 H2O.",
         "Oxygen on the right: 7 (from CO) + 8 (from H2O) = 15 O atoms, so 7.5 O2 are needed.",
         "Doubling for whole numbers gives 2C7H16 + 15O2 -> 14CO + 16H2O."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-06.jpg",
+        "papers/chemistry/img/04B-Alkanes-07.jpg",
+        "papers/chemistry/img/04B-Alkanes-08.jpg"
       ]
     },
     {
@@ -433,7 +796,15 @@
       "no": "Q7(b)(i)",
       "marks": 2,
       "topic": "Branched and Cyclic Alkanes",
-      "keywords": ["branched alkane", "cycloalkane", "skeletal formula", "seven carbon atoms", "2-methylhexane", "methylcyclohexane", "isomer"],
+      "keywords": [
+        "branched alkane",
+        "cycloalkane",
+        "skeletal formula",
+        "seven carbon atoms",
+        "2-methylhexane",
+        "methylcyclohexane",
+        "isomer"
+      ],
       "question": "Draw skeletal formulae of a branched-chain alkane and a cycloalkane, each containing seven carbon atoms.",
       "status": "ready",
       "answer": "Branched alkane: 2-methylhexane (six-carbon chain with one CH3 on C2); cycloalkane: methylcyclohexane (six-carbon ring with one CH3 attached).",
@@ -442,6 +813,11 @@
         "Cycloalkane: a six-membered ring with one methyl group attached gives seven carbons, C7H14.",
         "Each skeletal line represents a C-C bond; carbons at corners are implied.",
         "Both structures satisfy the alkane formula for their type."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-06.jpg",
+        "papers/chemistry/img/04B-Alkanes-07.jpg",
+        "papers/chemistry/img/04B-Alkanes-08.jpg"
       ]
     },
     {
@@ -449,7 +825,15 @@
       "no": "Q7(b)(ii)",
       "marks": 1,
       "topic": "Reforming Heptane",
-      "keywords": ["reforming", "heptane", "cycloalkane", "molecular formulae", "hydrogen", "C7H14", "equation"],
+      "keywords": [
+        "reforming",
+        "heptane",
+        "cycloalkane",
+        "molecular formulae",
+        "hydrogen",
+        "C7H14",
+        "equation"
+      ],
       "question": "Write the equation for the reforming of heptane into a cycloalkane, using molecular formulae.",
       "status": "ready",
       "answer": "C7H16 -> C7H14 + H2",
@@ -458,6 +842,11 @@
         "A cycloalkane with seven carbons is C7H14.",
         "Reforming removes H2 as the ring forms.",
         "Check: C 7 = 7; H 16 = 14 + 2."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-06.jpg",
+        "papers/chemistry/img/04B-Alkanes-07.jpg",
+        "papers/chemistry/img/04B-Alkanes-08.jpg"
       ]
     },
     {
@@ -465,7 +854,15 @@
       "no": "Q7(b)(iii)",
       "marks": 1,
       "topic": "Octane Rating Reason",
-      "keywords": ["cycloalkanes", "petrol", "octane rating", "knocking", "additive", "engine performance", "branched alkanes"],
+      "keywords": [
+        "cycloalkanes",
+        "petrol",
+        "octane rating",
+        "knocking",
+        "additive",
+        "engine performance",
+        "branched alkanes"
+      ],
       "question": "Give a reason for adding cycloalkanes to petrol.",
       "status": "ready",
       "answer": "Cycloalkanes have high octane ratings, which reduces knocking and improves engine performance.",
@@ -474,6 +871,11 @@
         "Cycloalkanes and branched alkanes burn more smoothly than straight-chain alkanes.",
         "Smoother burning reduces knocking in the engine.",
         "So cycloalkanes are added to improve the octane rating."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-06.jpg",
+        "papers/chemistry/img/04B-Alkanes-07.jpg",
+        "papers/chemistry/img/04B-Alkanes-08.jpg"
       ]
     },
     {
@@ -481,7 +883,15 @@
       "no": "Q7(c)(i)",
       "marks": 2,
       "topic": "Type and Mechanism of Chlorination",
-      "keywords": ["free radical substitution", "heptane", "chlorine", "ultraviolet", "chain mechanism", "type of reaction", "alkane"],
+      "keywords": [
+        "free radical substitution",
+        "heptane",
+        "chlorine",
+        "ultraviolet",
+        "chain mechanism",
+        "type of reaction",
+        "alkane"
+      ],
       "question": "State the type and mechanism of the reaction of heptane with chlorine in ultraviolet radiation.",
       "status": "ready",
       "answer": "Free radical substitution, by a chain (radical) mechanism.",
@@ -490,6 +900,11 @@
         "Radicals attack C-H bonds in heptane, replacing H with Cl.",
         "The reaction is a chain of propagation steps.",
         "Type: substitution; mechanism: free radical."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-06.jpg",
+        "papers/chemistry/img/04B-Alkanes-07.jpg",
+        "papers/chemistry/img/04B-Alkanes-08.jpg"
       ]
     },
     {
@@ -497,7 +912,16 @@
       "no": "Q7(c)(ii)",
       "marks": 7,
       "topic": "Chlorination Mechanism Steps",
-      "keywords": ["free radical mechanism", "initiation", "propagation", "termination", "C7H15Cl", "C14H30", "HCl", "heptane"],
+      "keywords": [
+        "free radical mechanism",
+        "initiation",
+        "propagation",
+        "termination",
+        "C7H15Cl",
+        "C14H30",
+        "HCl",
+        "heptane"
+      ],
       "question": "Give the mechanism for the reaction of heptane with chlorine giving C7H15Cl, C14H30 and HCl as the only products, naming each step.",
       "status": "ready",
       "answer": "Initiation: Cl2 -> 2Cl. Propagation: C7H16 + Cl -> C7H15 + HCl, then C7H15 + Cl2 -> C7H15Cl + Cl. Termination: C7H15 + C7H15 -> C14H30.",
@@ -508,6 +932,11 @@
         "The Cl radical from step 2 repeats propagation step 1, so the chain continues.",
         "Termination: two C7H15 radicals combine, C7H15 + C7H15 -> C14H30.",
         "Name each step: initiation, propagation (two steps), termination."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-06.jpg",
+        "papers/chemistry/img/04B-Alkanes-07.jpg",
+        "papers/chemistry/img/04B-Alkanes-08.jpg"
       ]
     },
     {
@@ -515,7 +944,15 @@
       "no": "Q8(a)",
       "marks": 1,
       "topic": "Overall Equation Substitution",
-      "keywords": ["cyclopentane", "bromine", "free radical substitution", "overall equation", "HBr", "monobromocyclopentane", "substitution"],
+      "keywords": [
+        "cyclopentane",
+        "bromine",
+        "free radical substitution",
+        "overall equation",
+        "HBr",
+        "monobromocyclopentane",
+        "substitution"
+      ],
       "question": "Which is an overall equation for free radical substitution of cyclopentane with bromine? A C5H8 + Br2 -> C5H8Br2; B C5H10 + Br2 -> C5H10Br2; C C5H10 + Br2 -> C5H8Br2 + H2; D C5H10 + Br2 -> C5H9Br + HBr.",
       "status": "ready",
       "answer": "D (C5H10 + Br2 -> C5H9Br + HBr)",
@@ -524,6 +961,10 @@
         "Option A uses the wrong starting formula (C5H8) for cyclopentane.",
         "Option B adds Br2 across all bonds with no HBr, which is not substitution.",
         "Option C releases H2 instead of HBr, which is not a substitution product."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-08.jpg",
+        "papers/chemistry/img/04B-Alkanes-09.jpg"
       ]
     },
     {
@@ -531,7 +972,15 @@
       "no": "Q8(b)",
       "marks": 1,
       "topic": "Radical Mechanism Statements",
-      "keywords": ["free radical", "bromine", "initiation", "propagation", "termination", "homolytic fission", "chain reaction"],
+      "keywords": [
+        "free radical",
+        "bromine",
+        "initiation",
+        "propagation",
+        "termination",
+        "homolytic fission",
+        "chain reaction"
+      ],
       "question": "Which statement is not correct about this reaction system? A only the initiation step involves homolytic fission; B only some bromine is converted to radicals in initiation; C propagation forms more product than termination; D further substitution is likely.",
       "status": "ready",
       "answer": "A",
@@ -540,6 +989,10 @@
         "Statement C is correct: each termination removes radicals while many propagation cycles give product.",
         "Statement D is correct: the bromoalkane still has C-H bonds that can be substituted again.",
         "Statement A is wrong: in propagation, a Br2 bond is broken homolytically by a radical, so homolytic fission is not limited to initiation."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-08.jpg",
+        "papers/chemistry/img/04B-Alkanes-09.jpg"
       ]
     },
     {
@@ -547,29 +1000,60 @@
       "no": "Q8(c)",
       "marks": 1,
       "topic": "Least Likely Radical",
-      "keywords": ["free radical", "propagation step", "cyclopentyl radical", "radical stability", "bromine", "options"],
+      "keywords": [
+        "free radical",
+        "propagation step",
+        "cyclopentyl radical",
+        "radical stability",
+        "bromine",
+        "options"
+      ],
       "question": "Which free radical is least likely to form in a propagation step in this reaction system?",
       "status": "pending",
       "answer": "Pending: the answer options for this question are not present in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-08.jpg",
+        "papers/chemistry/img/04B-Alkanes-09.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q8d",
       "no": "Q8(d)",
       "marks": 1,
       "topic": "Termination Alkane",
-      "keywords": ["termination", "alkane", "cyclopentane", "bromine", "free radical", "options", "radical combination"],
+      "keywords": [
+        "termination",
+        "alkane",
+        "cyclopentane",
+        "bromine",
+        "free radical",
+        "options",
+        "radical combination"
+      ],
       "question": "Which alkane could be formed in a termination step in this reaction system?",
       "status": "pending",
       "answer": "Pending: the answer options for this question are not present in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-08.jpg",
+        "papers/chemistry/img/04B-Alkanes-09.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q9a",
       "no": "Q9(a)",
       "marks": 1,
       "topic": "Initiation Process",
-      "keywords": ["initiation", "methane", "chlorine", "UV light", "homolytic fission", "Cl2", "free radical"],
+      "keywords": [
+        "initiation",
+        "methane",
+        "chlorine",
+        "UV light",
+        "homolytic fission",
+        "Cl2",
+        "free radical"
+      ],
       "question": "Which process occurs in the initiation step of the reaction of methane with excess chlorine in UV light?",
       "status": "ready",
       "answer": "Homolytic fission of the Cl-Cl bond, forming two chlorine radicals (Cl2 -> 2Cl).",
@@ -578,6 +1062,10 @@
         "UV light supplies the energy to break the Cl-Cl bond.",
         "The bond breaks homolytically, each Cl atom taking one electron.",
         "Result: two Cl radicals."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-09.jpg",
+        "papers/chemistry/img/04B-Alkanes-10.jpg"
       ]
     },
     {
@@ -585,7 +1073,16 @@
       "no": "Q9(b)",
       "marks": 1,
       "topic": "Termination Products",
-      "keywords": ["termination", "methane", "chlorination", "HCl", "C2H6", "CH3Cl", "CH2Cl2", "radical combination"],
+      "keywords": [
+        "termination",
+        "methane",
+        "chlorination",
+        "HCl",
+        "C2H6",
+        "CH3Cl",
+        "CH2Cl2",
+        "radical combination"
+      ],
       "question": "Which of these molecules could not be formed in a termination step? A C2H6, B CH3Cl, C CH2Cl2, D HCl.",
       "status": "ready",
       "answer": "D (HCl)",
@@ -594,6 +1091,10 @@
         "C2H6 forms from CH3 + CH3; CH3Cl from CH3 + Cl; CH2Cl2 from CH2Cl + Cl.",
         "HCl needs an H radical, which is not present in termination.",
         "HCl is formed in propagation steps, so it cannot form in termination."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-09.jpg",
+        "papers/chemistry/img/04B-Alkanes-10.jpg"
       ]
     },
     {
@@ -601,18 +1102,39 @@
       "no": "Q10(a)",
       "marks": 2,
       "topic": "Group 3 From Ionisation Energies",
-      "keywords": ["ionisation energies", "aluminium", "Group 3", "successive ionisation", "electron shell", "periodic table", "table"],
+      "keywords": [
+        "ionisation energies",
+        "aluminium",
+        "Group 3",
+        "successive ionisation",
+        "electron shell",
+        "periodic table",
+        "table"
+      ],
       "question": "Explain how the first four ionisation energies of aluminium show that it is in Group 3.",
       "status": "pending",
       "answer": "Pending: the table of the first four ionisation energies of aluminium is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-10.jpg",
+        "papers/chemistry/img/04B-Alkanes-11.jpg",
+        "papers/chemistry/img/04B-Alkanes-12.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q10b(i)",
       "no": "Q10(b)(i)",
       "marks": 2,
       "topic": "Ionisation Energy Trend",
-      "keywords": ["first ionisation energy", "period 3", "sodium", "argon", "nuclear charge", "atomic radius", "shielding"],
+      "keywords": [
+        "first ionisation energy",
+        "period 3",
+        "sodium",
+        "argon",
+        "nuclear charge",
+        "atomic radius",
+        "shielding"
+      ],
       "question": "Explain the general increase in first ionisation energy from sodium to argon across Period 3.",
       "status": "ready",
       "answer": "Nuclear charge increases across the period while the outer electrons are in the same shell, so atomic radius falls and the electrons are held more strongly.",
@@ -621,6 +1143,11 @@
         "Outer electrons are added to the same shell, so shielding changes little.",
         "The atomic radius decreases, so the attraction between nucleus and outer electrons increases.",
         "More energy is needed to remove an outer electron, so ionisation energy rises."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-10.jpg",
+        "papers/chemistry/img/04B-Alkanes-11.jpg",
+        "papers/chemistry/img/04B-Alkanes-12.jpg"
       ]
     },
     {
@@ -628,7 +1155,15 @@
       "no": "Q10(b)(ii)",
       "marks": 2,
       "topic": "Aluminium Versus Magnesium",
-      "keywords": ["first ionisation energy", "aluminium", "magnesium", "3p subshell", "3s subshell", "shielding", "sub-shell energy"],
+      "keywords": [
+        "first ionisation energy",
+        "aluminium",
+        "magnesium",
+        "3p subshell",
+        "3s subshell",
+        "shielding",
+        "sub-shell energy"
+      ],
       "question": "Explain why the first ionisation energy of aluminium is less than that of magnesium.",
       "status": "ready",
       "answer": "The outer electron of Al is in a 3p orbital, which is higher in energy than the 3s orbital holding the outer electron of Mg, so it is removed more easily.",
@@ -637,6 +1172,11 @@
         "Aluminium's outer electron is in the 3p sub-shell, which is higher in energy.",
         "The 3p electron is shielded by the 3s electrons and is held less tightly.",
         "So less energy is needed to remove it, despite Al having more protons."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-10.jpg",
+        "papers/chemistry/img/04B-Alkanes-11.jpg",
+        "papers/chemistry/img/04B-Alkanes-12.jpg"
       ]
     },
     {
@@ -644,7 +1184,15 @@
       "no": "Q10(c)(i)",
       "marks": 2,
       "topic": "Metallic Bonding",
-      "keywords": ["metallic bonding", "aluminium", "delocalised electrons", "positive ions", "electrostatic attraction", "metal lattice", "bonding"],
+      "keywords": [
+        "metallic bonding",
+        "aluminium",
+        "delocalised electrons",
+        "positive ions",
+        "electrostatic attraction",
+        "metal lattice",
+        "bonding"
+      ],
       "question": "Describe the bonding in aluminium metal.",
       "status": "ready",
       "answer": "Metallic bonding: a lattice of positive Al3+ ions in a sea of delocalised electrons, held together by electrostatic attraction.",
@@ -653,6 +1201,11 @@
         "These electrons become delocalised and move throughout the metal.",
         "The positive Al3+ ions form a regular lattice.",
         "Strong electrostatic attraction between the ions and the delocalised electrons holds the metal together."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-10.jpg",
+        "papers/chemistry/img/04B-Alkanes-11.jpg",
+        "papers/chemistry/img/04B-Alkanes-12.jpg"
       ]
     },
     {
@@ -660,7 +1213,15 @@
       "no": "Q10(c)(ii)",
       "marks": 2,
       "topic": "Properties of Aluminium",
-      "keywords": ["aluminium", "overhead power cables", "low density", "electrical conductivity", "corrosion resistance", "malleable", "ductile"],
+      "keywords": [
+        "aluminium",
+        "overhead power cables",
+        "low density",
+        "electrical conductivity",
+        "corrosion resistance",
+        "malleable",
+        "ductile"
+      ],
       "question": "Give two possible reasons why aluminium is used for overhead power cables.",
       "status": "ready",
       "answer": "Aluminium has a low density, so the cables are light, and it is a good electrical conductor.",
@@ -669,6 +1230,11 @@
         "Delocalised electrons allow aluminium to conduct electricity well.",
         "It is ductile, so it can be drawn into wire.",
         "A thin oxide layer also resists corrosion (any two valid reasons)."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-10.jpg",
+        "papers/chemistry/img/04B-Alkanes-11.jpg",
+        "papers/chemistry/img/04B-Alkanes-12.jpg"
       ]
     },
     {
@@ -676,7 +1242,15 @@
       "no": "Q10(d)(i)",
       "marks": 1,
       "topic": "Aluminium Water Equation",
-      "keywords": ["aluminium nanoparticles", "water", "aluminium oxide", "hydrogen", "balancing equation", "2Al", "H2"],
+      "keywords": [
+        "aluminium nanoparticles",
+        "water",
+        "aluminium oxide",
+        "hydrogen",
+        "balancing equation",
+        "2Al",
+        "H2"
+      ],
       "question": "Complete the equation for aluminium nanoparticles reacting with water to form aluminium oxide and hydrogen (no state symbols).",
       "status": "ready",
       "answer": "2Al + 3H2O -> Al2O3 + 3H2",
@@ -685,6 +1259,11 @@
         "Oxygen: Al2O3 has 3 O, so 3 H2O are needed.",
         "Hydrogen: 3 H2O gives 6 H, which forms 3 H2.",
         "Check: 2 Al, 6 H, 3 O on each side."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-10.jpg",
+        "papers/chemistry/img/04B-Alkanes-11.jpg",
+        "papers/chemistry/img/04B-Alkanes-12.jpg"
       ]
     },
     {
@@ -692,7 +1271,15 @@
       "no": "Q10(d)(ii)",
       "marks": 2,
       "topic": "Hydrogen From Aluminium",
-      "keywords": ["hydrogen fuel", "aluminium cans", "recycling", "fossil fuels", "renewable", "carbon dioxide", "greenhouse gases"],
+      "keywords": [
+        "hydrogen fuel",
+        "aluminium cans",
+        "recycling",
+        "fossil fuels",
+        "renewable",
+        "carbon dioxide",
+        "greenhouse gases"
+      ],
       "question": "Give two possible reasons for producing hydrogen from aluminium rather than from fossil fuels.",
       "status": "ready",
       "answer": "Aluminium can be obtained from recycled cans, so the source is renewable and not limited like fossil fuels; the reaction gives no carbon dioxide.",
@@ -701,6 +1288,11 @@
         "Producing hydrogen from fossil fuels releases CO2 and other greenhouse gases.",
         "Aluminium reacting with water produces hydrogen with no carbon dioxide.",
         "Any two of these reasons give full marks."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-10.jpg",
+        "papers/chemistry/img/04B-Alkanes-11.jpg",
+        "papers/chemistry/img/04B-Alkanes-12.jpg"
       ]
     },
     {
@@ -708,7 +1300,15 @@
       "no": "Q11",
       "marks": 1,
       "topic": "Cracking Mass Balance",
-      "keywords": ["cracking", "C20H42", "ethene", "butane", "hydrocarbon E", "mass balance", "molecular formula"],
+      "keywords": [
+        "cracking",
+        "C20H42",
+        "ethene",
+        "butane",
+        "hydrocarbon E",
+        "mass balance",
+        "molecular formula"
+      ],
       "question": "When C20H42 is cracked, each molecule gives one ethene, one butane and two molecules of hydrocarbon E. What is the molecular formula of E? A C7H13, B C7H14, C C14H26, D C14H28.",
       "status": "ready",
       "answer": "B (C7H14)",
@@ -717,6 +1317,9 @@
         "Hydrogen: 42 - 4 (ethene) - 10 (butane) = 28 H atoms for two E molecules, so 14 H each.",
         "E is C7H14.",
         "Check: C2H4 + C4H10 + 2C7H14 = C20H42."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-12.jpg"
       ]
     },
     {
@@ -724,18 +1327,38 @@
       "no": "Q12",
       "marks": 1,
       "topic": "Fuels and Sustainability",
-      "keywords": ["petrol", "bioethanol", "hydrogen", "carbon neutral", "greenhouse gases", "sustainable", "biodegrade"],
+      "keywords": [
+        "petrol",
+        "bioethanol",
+        "hydrogen",
+        "carbon neutral",
+        "greenhouse gases",
+        "sustainable",
+        "biodegrade"
+      ],
       "question": "Petrol, bioethanol and hydrogen are fuels. All three of these fuels: A burn to produce greenhouse gases; B are overall carbon neutral; C are overall sustainable; D biodegrade rapidly.",
       "status": "pending",
       "answer": "Pending: no single option is clearly true for all three fuels from the text alone; check against the mark scheme.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-13.jpg",
+        "papers/chemistry/img/04B-Alkanes-14.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q13",
       "no": "Q13",
       "marks": 1,
       "topic": "Isomers of C3H6Cl2",
-      "keywords": ["structural isomers", "C3H6Cl2", "dichloropropane", "propane", "chlorine positions", "isomer count", "halogenoalkane"],
+      "keywords": [
+        "structural isomers",
+        "C3H6Cl2",
+        "dichloropropane",
+        "propane",
+        "chlorine positions",
+        "isomer count",
+        "halogenoalkane"
+      ],
       "question": "How many structural isomers have the formula C3H6Cl2? A 2, B 3, C 4, D 5.",
       "status": "ready",
       "answer": "C (4 isomers)",
@@ -744,6 +1367,10 @@
         "The isomers are 1,1-dichloropropane, 1,2-dichloropropane, 1,3-dichloropropane and 2,2-dichloropropane.",
         "Each isomer places the two Cl atoms on different carbon positions of propane.",
         "Total: 4 structural isomers."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-13.jpg",
+        "papers/chemistry/img/04B-Alkanes-14.jpg"
       ]
     },
     {
@@ -751,7 +1378,15 @@
       "no": "Q14",
       "marks": 1,
       "topic": "Alkane General Formula",
-      "keywords": ["alkanes", "general formula", "CnH2n+2", "homologous series", "empirical formula", "molecular formula", "structural formula"],
+      "keywords": [
+        "alkanes",
+        "general formula",
+        "CnH2n+2",
+        "homologous series",
+        "empirical formula",
+        "molecular formula",
+        "structural formula"
+      ],
       "question": "All alkanes have the same: A empirical formula, B general formula, C molecular formula, D structural formula.",
       "status": "ready",
       "answer": "B (general formula, CnH2n+2)",
@@ -760,6 +1395,10 @@
         "Empirical formulae differ, for example C2H6 and C3H8 have different ratios.",
         "Molecular and structural formulae differ between members of the series.",
         "So only the general formula is common to all alkanes."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-13.jpg",
+        "papers/chemistry/img/04B-Alkanes-14.jpg"
       ]
     },
     {
@@ -767,7 +1406,15 @@
       "no": "Q15",
       "marks": 1,
       "topic": "Combustion Pollutants",
-      "keywords": ["atmospheric pollutants", "car engine", "combustion", "nitrogen dioxide", "sulfur dioxide", "ammonia", "alkane fuels"],
+      "keywords": [
+        "atmospheric pollutants",
+        "car engine",
+        "combustion",
+        "nitrogen dioxide",
+        "sulfur dioxide",
+        "ammonia",
+        "alkane fuels"
+      ],
       "question": "Which atmospheric pollutant is not emitted during the combustion of alkane car fuels? A ammonia, B nitrogen dioxide, C sulfur dioxide, D octane.",
       "status": "ready",
       "answer": "A (ammonia)",
@@ -776,6 +1423,10 @@
         "Sulfur dioxide forms from sulfur impurities in the fuel.",
         "Ammonia is not formed by combustion of alkanes or by the reaction of air in the engine.",
         "Octane is a fuel component, not a pollutant, so the pollutant that is not emitted is ammonia."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-14.jpg",
+        "papers/chemistry/img/04B-Alkanes-15.jpg"
       ]
     },
     {
@@ -783,7 +1434,15 @@
       "no": "Q16",
       "marks": 1,
       "topic": "Cracking Mixtures",
-      "keywords": ["cracking", "decane", "C10H22", "alkene", "mass balance", "carbon atoms", "hydrogen atoms"],
+      "keywords": [
+        "cracking",
+        "decane",
+        "C10H22",
+        "alkene",
+        "mass balance",
+        "carbon atoms",
+        "hydrogen atoms"
+      ],
       "question": "A single molecule of decane, C10H22, is cracked. Which mixture could not be formed? A pentene and pentane; B ethene, butene and butane; C propene, propane and butene; D hexene and propane.",
       "status": "ready",
       "answer": "D (hexene and propane)",
@@ -792,6 +1451,10 @@
         "B: C2H4 + C4H8 + C4H10 = C10H22, possible.",
         "C: C3H6 + C3H8 + C4H8 = C10H22, possible.",
         "D: C6H12 + C3H8 = C9H20, which does not balance C10H22, so it cannot form."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-14.jpg",
+        "papers/chemistry/img/04B-Alkanes-15.jpg"
       ]
     },
     {
@@ -799,7 +1462,15 @@
       "no": "Q17",
       "marks": 1,
       "topic": "Hazard and Risk",
-      "keywords": ["hazard", "risk", "chemical hazards", "risk assessment", "fixed property", "varies", "laboratory safety"],
+      "keywords": [
+        "hazard",
+        "risk",
+        "chemical hazards",
+        "risk assessment",
+        "fixed property",
+        "varies",
+        "laboratory safety"
+      ],
       "question": "When carrying out chemical experiments, for a given chemical: A the hazard is fixed but the risk varies; B the hazard varies but the risk is fixed; C both hazard and risk are fixed; D both hazard and risk vary.",
       "status": "ready",
       "answer": "A (hazard fixed, risk varies)",
@@ -808,6 +1479,10 @@
         "The hazard of a given chemical does not change.",
         "A risk is the likelihood of harm, which depends on how and how much the chemical is used.",
         "So the hazard is fixed while the risk varies."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-14.jpg",
+        "papers/chemistry/img/04B-Alkanes-15.jpg"
       ]
     },
     {
@@ -815,7 +1490,15 @@
       "no": "Q18(a)",
       "marks": 4,
       "topic": "Molar Mass From Gas Volume",
-      "keywords": ["molar mass", "ideal gas", "pV = nRT", "gas syringe", "volatile liquid", "moles", "hydrocarbon"],
+      "keywords": [
+        "molar mass",
+        "ideal gas",
+        "pV = nRT",
+        "gas syringe",
+        "volatile liquid",
+        "moles",
+        "hydrocarbon"
+      ],
       "question": "A 0.210 g sample of volatile liquid C gives 72.5 cm3 of gas at 100 kPa and 358 K. Calculate the molar mass of C (pV = nRT, R = 8.31 J mol-1 K-1).",
       "status": "ready",
       "answer": "86.2 g mol-1",
@@ -824,6 +1507,9 @@
         "Moles: n = pV/RT = (1.00 x 10^5 x 7.25 x 10^-5)/(8.31 x 358) = 7.25/2975 = 2.44 x 10^-3 mol.",
         "Molar mass M = mass/moles = 0.210 g / 2.437 x 10^-3 mol.",
         "M = 86.2 g mol-1."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-15.jpg"
       ]
     },
     {
@@ -831,7 +1517,15 @@
       "no": "Q18(b)",
       "marks": 1,
       "topic": "Hydrocarbon Identity",
-      "keywords": ["hydrocarbon", "molar mass", "C6H14", "hexane", "alkane", "formula", "identify compound"],
+      "keywords": [
+        "hydrocarbon",
+        "molar mass",
+        "C6H14",
+        "hexane",
+        "alkane",
+        "formula",
+        "identify compound"
+      ],
       "question": "Using the molar mass from (a), give a possible name or formula for hydrocarbon C.",
       "status": "ready",
       "answer": "C6H14 (hexane or another C6H14 isomer; M = 86.0 g mol-1)",
@@ -840,6 +1534,9 @@
         "C6H14: 6 x 12.0 + 14 x 1.0 = 86.0 g mol-1, which matches.",
         "C6H12 (an alkene or cycloalkane) has M = 84.0 g mol-1, which does not match.",
         "So C is hexane, C6H14, or one of its isomers."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-15.jpg"
       ]
     },
     {
@@ -847,7 +1544,15 @@
       "no": "Q19(a)",
       "marks": 1,
       "topic": "Ethane Bromination Equation",
-      "keywords": ["ethane", "bromine", "ultraviolet", "substitution", "bromoethane", "HBr", "equation"],
+      "keywords": [
+        "ethane",
+        "bromine",
+        "ultraviolet",
+        "substitution",
+        "bromoethane",
+        "HBr",
+        "equation"
+      ],
       "question": "Ethane reacts with bromine in UV radiation. Which is the equation? A C2H6 + Br2 -> C2H4Br2 + H2; B C2H6 + Br2 -> C2H5Br + HBr; C C2H6 + Br2 -> 2CH3Br; D C2H6 + Br2 -> CH4 + CH2Br2.",
       "status": "ready",
       "answer": "B (C2H6 + Br2 -> C2H5Br + HBr)",
@@ -856,6 +1561,10 @@
         "Option B shows exactly this: C2H5Br and HBr.",
         "Option A releases H2, which is not a substitution product.",
         "Options C and D involve breaking the C-C bond, which does not happen in this substitution."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-16.jpg",
+        "papers/chemistry/img/04B-Alkanes-17.jpg"
       ]
     },
     {
@@ -863,7 +1572,15 @@
       "no": "Q19(b)",
       "marks": 1,
       "topic": "Role of UV Radiation",
-      "keywords": ["ultraviolet radiation", "initiation", "homolytic fission", "Br-Br bond", "bromine radicals", "free radical", "chain reaction"],
+      "keywords": [
+        "ultraviolet radiation",
+        "initiation",
+        "homolytic fission",
+        "Br-Br bond",
+        "bromine radicals",
+        "free radical",
+        "chain reaction"
+      ],
       "question": "The ultraviolet radiation is needed for: A homolytic breaking of a Br-Br bond; B heterolytic breaking of a Br-Br bond; C homolytic breaking of a C-H bond; D heterolytic breaking of a C-H bond.",
       "status": "ready",
       "answer": "A (homolytic breaking of a Br-Br bond)",
@@ -872,6 +1589,10 @@
         "Initiation splits Br2 into two Br radicals.",
         "Splitting gives radicals, so the fission is homolytic (one electron to each atom).",
         "C-H bonds are not broken in initiation, so option A is correct."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-16.jpg",
+        "papers/chemistry/img/04B-Alkanes-17.jpg"
       ]
     },
     {
@@ -879,18 +1600,38 @@
       "no": "Q20",
       "marks": 1,
       "topic": "Propagation Step Methane",
-      "keywords": ["propagation step", "methane", "chlorine", "free radical", "chain reaction", "options", "chlorination"],
+      "keywords": [
+        "propagation step",
+        "methane",
+        "chlorine",
+        "free radical",
+        "chain reaction",
+        "options",
+        "chlorination"
+      ],
       "question": "Which of these occurs in a propagation step in the reaction of methane with chlorine?",
       "status": "pending",
       "answer": "Pending: the answer options for this question are not present in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-16.jpg",
+        "papers/chemistry/img/04B-Alkanes-17.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q21",
       "no": "Q21",
       "marks": 1,
       "topic": "Pollutants From Car Engines",
-      "keywords": ["pollutant", "car engines", "alkane fuels", "hydrogen chloride", "sulfur dioxide", "carbon monoxide", "particulates"],
+      "keywords": [
+        "pollutant",
+        "car engines",
+        "alkane fuels",
+        "hydrogen chloride",
+        "sulfur dioxide",
+        "carbon monoxide",
+        "particulates"
+      ],
       "question": "Which pollutant cannot form when alkane fuels are burned in car engines? A hydrogen chloride, B sulfur dioxide, C carbon particulates, D carbon monoxide.",
       "status": "ready",
       "answer": "A (hydrogen chloride)",
@@ -899,6 +1640,10 @@
         "Sulfur dioxide forms from sulfur impurities in the fuel.",
         "Incomplete combustion produces carbon monoxide and carbon particulates (soot).",
         "Without chlorine in the fuel, hydrogen chloride cannot form."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-17.jpg",
+        "papers/chemistry/img/04B-Alkanes-18.jpg"
       ]
     },
     {
@@ -906,7 +1651,15 @@
       "no": "Q22(a)",
       "marks": 1,
       "topic": "Hazard of Carbon Monoxide",
-      "keywords": ["carbon monoxide", "hazard", "toxic", "haemoglobin", "oxygen transport", "pollutant", "CO gas"],
+      "keywords": [
+        "carbon monoxide",
+        "hazard",
+        "toxic",
+        "haemoglobin",
+        "oxygen transport",
+        "pollutant",
+        "CO gas"
+      ],
       "question": "What is the most significant hazard associated with the pollutant CO(g)? A major contributor to acid rain; B strongly absorbs infrared radiation; C toxic at low concentrations; D main cause of ozone depletion.",
       "status": "ready",
       "answer": "C (toxic at low concentrations)",
@@ -915,6 +1668,10 @@
         "This reduces the amount of oxygen carried in the blood.",
         "CO is toxic even at low concentrations and has no smell or colour.",
         "Options A, B and D describe other gases (acid rain, greenhouse effect, ozone depletion), not the main hazard of CO."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-17.jpg",
+        "papers/chemistry/img/04B-Alkanes-18.jpg"
       ]
     },
     {
@@ -922,7 +1679,15 @@
       "no": "Q22(b)",
       "marks": 1,
       "topic": "Gas Volume Partial Oxidation",
-      "keywords": ["partial oxidation", "butane", "oxygen", "carbon monoxide", "hydrogen", "limiting reagent", "gas volumes"],
+      "keywords": [
+        "partial oxidation",
+        "butane",
+        "oxygen",
+        "carbon monoxide",
+        "hydrogen",
+        "limiting reagent",
+        "gas volumes"
+      ],
       "question": "40 cm3 of butane and 20 cm3 of oxygen react in a sealed system to form CO and H2 (C4H10 + 2O2 -> 4CO + 5H2). What is the total gas volume at the end, in cm3? A 30, B 60, C 90, D 120.",
       "status": "ready",
       "answer": "D (120 cm3)",
@@ -931,6 +1696,10 @@
         "Products from 10 cm3 butane: 40 cm3 CO (4 x 10) and 50 cm3 H2 (5 x 10).",
         "Unreacted butane = 40 - 10 = 30 cm3.",
         "Total gas = 30 + 40 + 50 = 120 cm3."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-17.jpg",
+        "papers/chemistry/img/04B-Alkanes-18.jpg"
       ]
     },
     {
@@ -938,29 +1707,60 @@
       "no": "Q23",
       "marks": 1,
       "topic": "Chlorination of Propane Steps",
-      "keywords": ["propane", "chlorine", "ultraviolet", "free radical", "reaction steps", "initiation", "propagation"],
+      "keywords": [
+        "propane",
+        "chlorine",
+        "ultraviolet",
+        "free radical",
+        "reaction steps",
+        "initiation",
+        "propagation"
+      ],
       "question": "Which is not a step in the reaction of chlorine with propane in ultraviolet radiation?",
       "status": "pending",
       "answer": "Pending: the answer options for this question are not present in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-18.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q24a(i)",
       "no": "Q24(a)(i)",
       "marks": 2,
       "topic": "Formula and Name of X",
-      "keywords": ["molecular formula", "IUPAC name", "compound X", "petrol", "branched alkane", "structure", "skeletal formula"],
+      "keywords": [
+        "molecular formula",
+        "IUPAC name",
+        "compound X",
+        "petrol",
+        "branched alkane",
+        "structure",
+        "skeletal formula"
+      ],
       "question": "Give the molecular formula and IUPAC name for compound X, whose structure is shown and which is present in petrol.",
       "status": "pending",
       "answer": "Pending: the structure of compound X is shown in a diagram that is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-19.jpg",
+        "papers/chemistry/img/04B-Alkanes-20.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q24a(ii)",
       "no": "Q24(a)(ii)",
       "marks": 1,
       "topic": "Isomerisation Process",
-      "keywords": ["isomerisation", "straight-chain alkane", "branched alkane", "catalyst", "octane rating", "industrial process", "petrol"],
+      "keywords": [
+        "isomerisation",
+        "straight-chain alkane",
+        "branched alkane",
+        "catalyst",
+        "octane rating",
+        "industrial process",
+        "petrol"
+      ],
       "question": "Name the industrial process used to produce compound X from its straight-chain isomer.",
       "status": "ready",
       "answer": "Isomerisation (catalytic isomerisation).",
@@ -969,6 +1769,10 @@
         "Isomerisation uses a catalyst and heat.",
         "Branched alkanes have higher octane ratings, which is why the process is used for petrol.",
         "The process type is isomerisation."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-19.jpg",
+        "papers/chemistry/img/04B-Alkanes-20.jpg"
       ]
     },
     {
@@ -976,7 +1780,15 @@
       "no": "Q24(b)(i)",
       "marks": 2,
       "topic": "Complete Combustion Heptane",
-      "keywords": ["complete combustion", "heptane", "state symbols", "carbon dioxide", "water", "balancing", "equation"],
+      "keywords": [
+        "complete combustion",
+        "heptane",
+        "state symbols",
+        "carbon dioxide",
+        "water",
+        "balancing",
+        "equation"
+      ],
       "question": "Write an equation for the complete combustion of heptane, including state symbols.",
       "status": "ready",
       "answer": "C7H16(l) + 11O2(g) -> 7CO2(g) + 8H2O(l)",
@@ -985,6 +1797,10 @@
         "Carbon: 7 C gives 7 CO2.",
         "Hydrogen: 16 H gives 8 H2O; oxygen on the right = 14 + 8 = 22 O atoms, so 11 O2.",
         "Heptane is a liquid at room temperature and water is liquid, so (l) for both; CO2 is (g) and O2 is (g)."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-19.jpg",
+        "papers/chemistry/img/04B-Alkanes-20.jpg"
       ]
     },
     {
@@ -992,7 +1808,15 @@
       "no": "Q24(b)(ii)",
       "marks": 1,
       "topic": "Incomplete Combustion Pollutant",
-      "keywords": ["incomplete combustion", "heptane", "carbon monoxide", "carbon particulates", "pollutant", "soot", "petrol"],
+      "keywords": [
+        "incomplete combustion",
+        "heptane",
+        "carbon monoxide",
+        "carbon particulates",
+        "pollutant",
+        "soot",
+        "petrol"
+      ],
       "question": "Identify, by name or formula, a pollutant that may result from incomplete combustion of heptane.",
       "status": "ready",
       "answer": "Carbon monoxide (CO), or carbon particulates (soot).",
@@ -1001,6 +1825,10 @@
         "Carbon is then only partly oxidised, forming carbon monoxide.",
         "Some carbon also forms soot, which is carbon particulates.",
         "Either CO or carbon particulates is a valid answer."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-19.jpg",
+        "papers/chemistry/img/04B-Alkanes-20.jpg"
       ]
     },
     {
@@ -1008,7 +1836,15 @@
       "no": "Q24(c)",
       "marks": 2,
       "topic": "Environmental Benefits of Electric Cars",
-      "keywords": ["electric cars", "environmental benefits", "carbon dioxide", "nitrogen oxides", "air pollution", "greenhouse effect", "acid rain"],
+      "keywords": [
+        "electric cars",
+        "environmental benefits",
+        "carbon dioxide",
+        "nitrogen oxides",
+        "air pollution",
+        "greenhouse effect",
+        "acid rain"
+      ],
       "question": "Give two environmental benefits of using electric cars, and justify each answer.",
       "status": "ready",
       "answer": "No CO2 (greenhouse gas) is emitted at the car, and no NOx, SO2 or particulates are emitted, reducing acid rain and smog.",
@@ -1017,6 +1853,10 @@
         "This reduces the greenhouse effect and global warming (if the electricity is low-carbon).",
         "Electric cars emit no NOx, SO2 or particulates from the exhaust.",
         "This reduces acid rain and urban air pollution."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-19.jpg",
+        "papers/chemistry/img/04B-Alkanes-20.jpg"
       ]
     },
     {
@@ -1024,7 +1864,15 @@
       "no": "Q25",
       "marks": 1,
       "topic": "Isomers of C5H12",
-      "keywords": ["structural isomers", "C5H12", "pentane", "methylbutane", "dimethylpropane", "isomer count", "alkane"],
+      "keywords": [
+        "structural isomers",
+        "C5H12",
+        "pentane",
+        "methylbutane",
+        "dimethylpropane",
+        "isomer count",
+        "alkane"
+      ],
       "question": "What is the number of structural isomers with molecular formula C5H12? A six, B five, C four, D three.",
       "status": "ready",
       "answer": "D (three isomers)",
@@ -1033,6 +1881,10 @@
         "Straight chain: pentane.",
         "One methyl branch: 2-methylbutane.",
         "Two methyl branches on one carbon: 2,2-dimethylpropane. Total = 3."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-19.jpg",
+        "papers/chemistry/img/04B-Alkanes-20.jpg"
       ]
     },
     {
@@ -1040,18 +1892,39 @@
       "no": "Q26",
       "marks": 1,
       "topic": "Termination Step Methane",
-      "keywords": ["termination", "methane", "chlorine", "free radical substitution", "termination step", "options", "radical combination"],
+      "keywords": [
+        "termination",
+        "methane",
+        "chlorine",
+        "free radical substitution",
+        "termination step",
+        "options",
+        "radical combination"
+      ],
       "question": "The reaction of methane with chlorine is a free radical substitution. Which termination step does not occur?",
       "status": "pending",
       "answer": "Pending: the answer options for this question are not present in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-20.jpg",
+        "papers/chemistry/img/04B-Alkanes-21.jpg",
+        "papers/chemistry/img/04B-Alkanes-22.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q27a",
       "no": "Q27(a)",
       "marks": 3,
       "topic": "Graphite Electrodes",
-      "keywords": ["graphite", "electrode", "delocalised electrons", "conducts electricity", "layer structure", "melting point", "aluminium extraction"],
+      "keywords": [
+        "graphite",
+        "electrode",
+        "delocalised electrons",
+        "conducts electricity",
+        "layer structure",
+        "melting point",
+        "aluminium extraction"
+      ],
       "question": "Explain how the structure and bonding in graphite make it suitable for use as an electrode in the extraction of aluminium (refer to the diagram).",
       "status": "ready",
       "answer": "Graphite has layers of covalently bonded carbon atoms with delocalised electrons that conduct electricity, and its high melting point means it withstands the 950 deg C electrolysis.",
@@ -1060,6 +1933,11 @@
         "Each carbon has one delocalised electron, which moves along the layers.",
         "The delocalised electrons carry the current, so graphite conducts electricity.",
         "The high melting point (giant covalent layers) means it does not melt at 950 deg C."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-20.jpg",
+        "papers/chemistry/img/04B-Alkanes-21.jpg",
+        "papers/chemistry/img/04B-Alkanes-22.jpg"
       ]
     },
     {
@@ -1067,7 +1945,15 @@
       "no": "Q27(b)(i)",
       "marks": 4,
       "topic": "CO2 Volume From Aluminium",
-      "keywords": ["aluminium extraction", "electrolysis", "carbon dioxide", "molar volume", "r.t.p.", "graphite electrode", "moles"],
+      "keywords": [
+        "aluminium extraction",
+        "electrolysis",
+        "carbon dioxide",
+        "molar volume",
+        "r.t.p.",
+        "graphite electrode",
+        "moles"
+      ],
       "question": "Calculate the maximum volume of CO2 at r.t.p. produced when 1.00 kg of aluminium is extracted by electrolysis of Al2O3, where the oxygen produced reacts with the graphite electrode (molar volume 24.0 dm3 mol-1).",
       "status": "ready",
       "answer": "667 dm3 (about 6.67 x 10^2 dm3)",
@@ -1076,6 +1962,11 @@
         "Each Al needs 3 electrons; each O2 released at the anode gives 4 electrons, so 4 Al produce 3 O2.",
         "The O2 reacts with graphite: C + O2 -> CO2, so 4 Al give 3 CO2 (overall 2Al2O3 + 3C -> 4Al + 3CO2).",
         "Moles CO2 = 0.75 x 37.0 = 27.8 mol; volume = 27.8 x 24.0 = 667 dm3."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-20.jpg",
+        "papers/chemistry/img/04B-Alkanes-21.jpg",
+        "papers/chemistry/img/04B-Alkanes-22.jpg"
       ]
     },
     {
@@ -1083,7 +1974,15 @@
       "no": "Q27(b)(ii)",
       "marks": 3,
       "topic": "Energy Savings From Recycling",
-      "keywords": ["recycling aluminium", "energy consumption", "electrolysis", "bauxite", "mining", "energy saving", "aluminium cans"],
+      "keywords": [
+        "recycling aluminium",
+        "energy consumption",
+        "electrolysis",
+        "bauxite",
+        "mining",
+        "energy saving",
+        "aluminium cans"
+      ],
       "question": "Suggest three ways that recycling about 7.2 billion aluminium cans per year reduces energy consumption.",
       "status": "ready",
       "answer": "Avoids the energy-intensive electrolysis of Al2O3 (at about 950 deg C); avoids mining and transporting bauxite; melting scrap needs much less energy than extraction.",
@@ -1092,6 +1991,11 @@
         "Recycling avoids this electrolysis step, which is the main energy cost.",
         "Recycling avoids mining and transporting bauxite, saving the energy used for those.",
         "Melting scrap aluminium needs much less energy than extracting it from ore."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-20.jpg",
+        "papers/chemistry/img/04B-Alkanes-21.jpg",
+        "papers/chemistry/img/04B-Alkanes-22.jpg"
       ]
     },
     {
@@ -1099,7 +2003,15 @@
       "no": "Q28",
       "marks": 1,
       "topic": "Limitations of Free Radical Substitution",
-      "keywords": ["free radical substitution", "industrial chemistry", "further substitution", "product mixture", "limitation", "halogenoalkanes", "yield"],
+      "keywords": [
+        "free radical substitution",
+        "industrial chemistry",
+        "further substitution",
+        "product mixture",
+        "limitation",
+        "halogenoalkanes",
+        "yield"
+      ],
       "question": "Why does free radical substitution have limited use in industrial chemistry? A reactions only occur in the upper atmosphere; B initiation requires UV radiation; C further substitution products are formed; D termination reactions produce unwanted products.",
       "status": "ready",
       "answer": "C (further substitution products are formed)",
@@ -1108,6 +2020,11 @@
         "The product still has C-H bonds, which react further with chlorine or bromine.",
         "This makes it hard to obtain a single pure product in good yield.",
         "Options A and B are not true or not limiting, and D is minor."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-22.jpg",
+        "papers/chemistry/img/04B-Alkanes-23.jpg",
+        "papers/chemistry/img/04B-Alkanes-24.jpg"
       ]
     },
     {
@@ -1115,7 +2032,15 @@
       "no": "Q29(a)",
       "marks": 1,
       "topic": "Fractional Distillation Differences",
-      "keywords": ["fractional distillation", "air", "crude oil", "liquefied air", "hydrocarbon fractions", "boiling temperature", "separation"],
+      "keywords": [
+        "fractional distillation",
+        "air",
+        "crude oil",
+        "liquefied air",
+        "hydrocarbon fractions",
+        "boiling temperature",
+        "separation"
+      ],
       "question": "Suggest one difference between the fractional distillation of air and of crude oil.",
       "status": "ready",
       "answer": "Air is cooled until it liquefies and gases are separated by boiling points; crude oil is heated and vaporised, and separated into hydrocarbon fractions.",
@@ -1124,6 +2049,11 @@
         "Crude oil is separated by heating it so that the hydrocarbons vaporise.",
         "Crude oil separates into fractions of hydrocarbon chains of similar length.",
         "Any one valid difference gains the mark."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-22.jpg",
+        "papers/chemistry/img/04B-Alkanes-23.jpg",
+        "papers/chemistry/img/04B-Alkanes-24.jpg"
       ]
     },
     {
@@ -1131,7 +2061,15 @@
       "no": "Q29(b)(i)",
       "marks": 2,
       "topic": "Volume of Air Needed",
-      "keywords": ["zeolite", "oxygen concentration", "dry air", "21.0% oxygen", "volume of air", "percentage by volume", "dm3"],
+      "keywords": [
+        "zeolite",
+        "oxygen concentration",
+        "dry air",
+        "21.0% oxygen",
+        "volume of air",
+        "percentage by volume",
+        "dm3"
+      ],
       "question": "Dry air contains 21.0% oxygen by volume. Calculate the volume of air, in dm3, that must pass over zeolite to obtain 500 cm3 of gas containing 90% oxygen by volume (zeolite adsorbs nitrogen).",
       "status": "ready",
       "answer": "2.14 dm3",
@@ -1140,6 +2078,11 @@
         "Zeolite removes nitrogen, so all the oxygen in the air passes through.",
         "Air volume = 450 / 0.210 = 2143 cm3.",
         "2143 cm3 = 2.14 dm3."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-22.jpg",
+        "papers/chemistry/img/04B-Alkanes-23.jpg",
+        "papers/chemistry/img/04B-Alkanes-24.jpg"
       ]
     },
     {
@@ -1147,7 +2090,15 @@
       "no": "Q29(b)(ii)",
       "marks": 2,
       "topic": "Dot and Cross Nitrogen",
-      "keywords": ["dot-and-cross diagram", "nitrogen molecule", "triple bond", "outer electrons", "lone pair", "covalent bonding", "N2"],
+      "keywords": [
+        "dot-and-cross diagram",
+        "nitrogen molecule",
+        "triple bond",
+        "outer electrons",
+        "lone pair",
+        "covalent bonding",
+        "N2"
+      ],
       "question": "Draw a dot-and-cross diagram of the bonding in a nitrogen molecule, showing outer electrons only.",
       "status": "ready",
       "answer": "N triple bond N: three shared pairs of electrons between the two N atoms, with one lone pair on each N atom (10 outer electrons).",
@@ -1156,6 +2107,11 @@
         "Three electrons from each N form three shared pairs, a triple covalent bond.",
         "The remaining two electrons on each N form one lone pair.",
         "Total outer electrons shown: 6 shared + 4 lone = 10."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-22.jpg",
+        "papers/chemistry/img/04B-Alkanes-23.jpg",
+        "papers/chemistry/img/04B-Alkanes-24.jpg"
       ]
     },
     {
@@ -1163,7 +2119,15 @@
       "no": "Q29(c)(i)",
       "marks": 4,
       "topic": "Volume of Oxygen From Liquid",
-      "keywords": ["liquid oxygen", "density", "moles", "molar volume", "r.t.p.", "volume of gas", "m3"],
+      "keywords": [
+        "liquid oxygen",
+        "density",
+        "moles",
+        "molar volume",
+        "r.t.p.",
+        "volume of gas",
+        "m3"
+      ],
       "question": "Liquid oxygen has density 1140 g dm-3. Calculate the volume in m3 of gas at r.t.p. obtained from a bottle containing 13.9 dm3 of liquid oxygen (molar volume 24.0 dm3 mol-1).",
       "status": "ready",
       "answer": "11.9 m3",
@@ -1172,6 +2136,11 @@
         "Moles of O2 = 15 846 g / 32.0 g mol-1 = 495.2 mol.",
         "Volume of gas = 495.2 mol x 24.0 dm3 mol-1 = 11 885 dm3.",
         "11 885 dm3 = 11.9 m3 (1 m3 = 1000 dm3)."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-22.jpg",
+        "papers/chemistry/img/04B-Alkanes-23.jpg",
+        "papers/chemistry/img/04B-Alkanes-24.jpg"
       ]
     },
     {
@@ -1179,7 +2148,15 @@
       "no": "Q29(c)(ii)",
       "marks": 1,
       "topic": "Mass of Empty Bottle",
-      "keywords": ["empty bottle", "mass of oxygen", "significant figures", "mass difference", "liquid oxygen", "80.0 kg", "bottle mass"],
+      "keywords": [
+        "empty bottle",
+        "mass of oxygen",
+        "significant figures",
+        "mass difference",
+        "liquid oxygen",
+        "80.0 kg",
+        "bottle mass"
+      ],
       "question": "The full bottle has a total mass of 80.0 kg. Calculate the mass of the empty bottle, using the working from (c)(i), to an appropriate number of significant figures.",
       "status": "ready",
       "answer": "64.2 kg",
@@ -1188,6 +2165,11 @@
         "Mass of empty bottle = 80.0 kg - 15.846 kg = 64.154 kg.",
         "The total mass 80.0 kg has 3 significant figures, so give 3 s.f.",
         "Answer: 64.2 kg."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-22.jpg",
+        "papers/chemistry/img/04B-Alkanes-23.jpg",
+        "papers/chemistry/img/04B-Alkanes-24.jpg"
       ]
     },
     {
@@ -1195,7 +2177,15 @@
       "no": "Q29(c)(iii)",
       "marks": 2,
       "topic": "Container Mass Reasons",
-      "keywords": ["liquid oxygen container", "high pressure", "thick walls", "insulation", "strength", "storage", "transport"],
+      "keywords": [
+        "liquid oxygen container",
+        "high pressure",
+        "thick walls",
+        "insulation",
+        "strength",
+        "storage",
+        "transport"
+      ],
       "question": "Explain why the container needs to have such a large mass.",
       "status": "ready",
       "answer": "The walls must be thick and strong to withstand the high pressure of the stored oxygen and to insulate the liquid oxygen, which is kept very cold.",
@@ -1204,6 +2194,11 @@
         "Thick, strong walls are needed so the container does not rupture.",
         "The liquid oxygen is stored at very low temperature, so the walls are insulated.",
         "This extra material adds mass."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-22.jpg",
+        "papers/chemistry/img/04B-Alkanes-23.jpg",
+        "papers/chemistry/img/04B-Alkanes-24.jpg"
       ]
     },
     {
@@ -1211,18 +2206,39 @@
       "no": "Q30(a)(i)",
       "marks": 2,
       "topic": "Mean Energy Density",
-      "keywords": ["energy density", "E10 fuel", "ethanol", "hydrocarbons", "mean energy density", "MJ kg-1", "mass percentage"],
+      "keywords": [
+        "energy density",
+        "E10 fuel",
+        "ethanol",
+        "hydrocarbons",
+        "mean energy density",
+        "MJ kg-1",
+        "mass percentage"
+      ],
       "question": "Calculate the mean energy density, in MJ kg-1, of an E10 fuel containing 92.2% hydrocarbons and 7.80% ethanol by mass, using the energy densities of the two components shown.",
       "status": "pending",
       "answer": "Pending: the energy densities of the two components are in a table that is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-24.jpg",
+        "papers/chemistry/img/04B-Alkanes-25.jpg",
+        "papers/chemistry/img/04B-Alkanes-26.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q30a(ii)",
       "no": "Q30(a)(ii)",
       "marks": 1,
       "topic": "Mass From Density",
-      "keywords": ["density", "mass", "E10 fuel", "1500 cm3", "0.729 g cm-3", "volume to mass", "fuel"],
+      "keywords": [
+        "density",
+        "mass",
+        "E10 fuel",
+        "1500 cm3",
+        "0.729 g cm-3",
+        "volume to mass",
+        "fuel"
+      ],
       "question": "The density of E10 fuel is 0.729 g cm-3. Calculate the mass of 1500 cm3 of the fuel.",
       "status": "ready",
       "answer": "1.09 x 10^3 g (1.09 kg)",
@@ -1231,6 +2247,11 @@
         "Mass = 0.729 g cm-3 x 1500 cm3 = 1093.5 g.",
         "To 3 significant figures: 1090 g.",
         "Answer: 1.09 x 10^3 g, or 1.09 kg."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-24.jpg",
+        "papers/chemistry/img/04B-Alkanes-25.jpg",
+        "papers/chemistry/img/04B-Alkanes-26.jpg"
       ]
     },
     {
@@ -1238,7 +2259,15 @@
       "no": "Q30(a)(iii)",
       "marks": 1,
       "topic": "Energy Released by Fuel",
-      "keywords": ["energy released", "combustion", "energy density", "38.1 MJ kg-1", "E10 fuel", "mass", "excess oxygen"],
+      "keywords": [
+        "energy released",
+        "combustion",
+        "energy density",
+        "38.1 MJ kg-1",
+        "E10 fuel",
+        "mass",
+        "excess oxygen"
+      ],
       "question": "Calculate the energy released when 1500 cm3 of E10 fuel is burned in excess oxygen, using the answers from (a)(i) and (a)(ii). If (a)(i) was not calculated, use 38.1 MJ kg-1.",
       "status": "ready",
       "answer": "About 41.7 MJ (using mass 1.09 kg and the given value 38.1 MJ kg-1)",
@@ -1247,6 +2276,11 @@
         "The energy density (a)(i) is not available here, so the given fallback 38.1 MJ kg-1 is used.",
         "Energy = mass x energy density = 1.0935 kg x 38.1 MJ kg-1 = 41.7 MJ.",
         "If a mean energy density is calculated in (a)(i), replace 38.1 with that value."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-24.jpg",
+        "papers/chemistry/img/04B-Alkanes-25.jpg",
+        "papers/chemistry/img/04B-Alkanes-26.jpg"
       ]
     },
     {
@@ -1254,7 +2288,16 @@
       "no": "Q30(b)",
       "marks": 3,
       "topic": "Sustainability of E10 Fuel",
-      "keywords": ["E10", "E5", "ethanol", "sustainable fuel", "renewable", "carbon neutral", "crude oil", "biofuel"],
+      "keywords": [
+        "E10",
+        "E5",
+        "ethanol",
+        "sustainable fuel",
+        "renewable",
+        "carbon neutral",
+        "crude oil",
+        "biofuel"
+      ],
       "question": "Explain how replacing E5 fuel with E10 fuel might result in a more sustainable fuel.",
       "status": "ready",
       "answer": "Ethanol is made from renewable plant material, so less crude oil is used; the CO2 released is taken in by plants as they grow, so overall CO2 emissions are lower.",
@@ -1263,6 +2306,11 @@
         "Ethanol comes from plant material (fermented sugars), which is renewable.",
         "Less crude oil is used, which is a finite resource.",
         "The CO2 released on burning ethanol is taken up by plants as they grow, so the net CO2 is lower (carbon neutral)."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-24.jpg",
+        "papers/chemistry/img/04B-Alkanes-25.jpg",
+        "papers/chemistry/img/04B-Alkanes-26.jpg"
       ]
     },
     {
@@ -1270,7 +2318,15 @@
       "no": "Q30(c)(i)",
       "marks": 1,
       "topic": "Reforming Equation Hexane",
-      "keywords": ["reforming", "hexane", "cyclic hydrocarbon", "hydrogen", "molecular formulae", "methylcyclopentane", "equation"],
+      "keywords": [
+        "reforming",
+        "hexane",
+        "cyclic hydrocarbon",
+        "hydrogen",
+        "molecular formulae",
+        "methylcyclopentane",
+        "equation"
+      ],
       "question": "Write the equation, using molecular formulae, for the reforming of hexane into a cyclic hydrocarbon with a five-carbon ring and hydrogen as the only products.",
       "status": "ready",
       "answer": "C6H14 -> C6H12 + H2",
@@ -1279,6 +2335,11 @@
         "The cyclic product has a five-carbon ring with one CH3 group, which is methylcyclopentane, C6H12.",
         "Reforming releases H2 as the ring forms.",
         "Check: C 6 = 6; H 14 = 12 + 2."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-24.jpg",
+        "papers/chemistry/img/04B-Alkanes-25.jpg",
+        "papers/chemistry/img/04B-Alkanes-26.jpg"
       ]
     },
     {
@@ -1286,7 +2347,15 @@
       "no": "Q30(c)(ii)",
       "marks": 1,
       "topic": "Structure of Methylcyclopentane",
-      "keywords": ["methylcyclopentane", "cyclic hydrocarbon", "skeletal formula", "five-carbon ring", "structure", "C6H12", "reforming"],
+      "keywords": [
+        "methylcyclopentane",
+        "cyclic hydrocarbon",
+        "skeletal formula",
+        "five-carbon ring",
+        "structure",
+        "C6H12",
+        "reforming"
+      ],
       "question": "Draw the structure of the cyclic hydrocarbon formed in (c)(i).",
       "status": "ready",
       "answer": "Methylcyclopentane: a skeletal five-membered ring with one CH3 group attached to one ring carbon.",
@@ -1295,6 +2364,11 @@
         "The sixth carbon from hexane is a methyl (CH3) group attached to the ring.",
         "Draw a pentagon with one line leaving it to represent the methyl group.",
         "Formula check: C6H12."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-24.jpg",
+        "papers/chemistry/img/04B-Alkanes-25.jpg",
+        "papers/chemistry/img/04B-Alkanes-26.jpg"
       ]
     },
     {
@@ -1302,7 +2376,15 @@
       "no": "Q30(d)(i)",
       "marks": 2,
       "topic": "Role of UV in Initiation",
-      "keywords": ["ultraviolet light", "initiation", "chlorine", "homolytic fission", "radicals", "hexane", "energy"],
+      "keywords": [
+        "ultraviolet light",
+        "initiation",
+        "chlorine",
+        "homolytic fission",
+        "radicals",
+        "hexane",
+        "energy"
+      ],
       "question": "Describe the role of ultraviolet light in the initiation step of the reaction of hexane with chlorine.",
       "status": "ready",
       "answer": "UV light provides the energy to break the Cl-Cl bond by homolytic fission, forming chlorine radicals that start the chain reaction.",
@@ -1311,6 +2393,11 @@
         "The energy absorbed is enough to break the Cl-Cl bond.",
         "The bond breaks homolytically, giving two Cl radicals.",
         "These radicals start the chain of propagation steps."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-24.jpg",
+        "papers/chemistry/img/04B-Alkanes-25.jpg",
+        "papers/chemistry/img/04B-Alkanes-26.jpg"
       ]
     },
     {
@@ -1318,7 +2405,15 @@
       "no": "Q30(d)(ii)",
       "marks": 2,
       "topic": "Dodecane Formation Equations",
-      "keywords": ["dodecane", "C12H26", "propagation", "termination", "hexyl radical", "hexane chlorination", "molecular formulae"],
+      "keywords": [
+        "dodecane",
+        "C12H26",
+        "propagation",
+        "termination",
+        "hexyl radical",
+        "hexane chlorination",
+        "molecular formulae"
+      ],
       "question": "Write equations for the propagation step and the termination step forming dodecane, C12H26, using molecular formulae.",
       "status": "ready",
       "answer": "Propagation: C6H14 + Cl -> C6H13 + HCl; Termination: 2C6H13 -> C12H26",
@@ -1327,6 +2422,11 @@
         "Check propagation: C 6 = 6; H 14 = 13 + 1; Cl balanced.",
         "Termination: two hexyl radicals combine to form C12H26.",
         "Check termination: C 12 = 12; H 26 = 26."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-24.jpg",
+        "papers/chemistry/img/04B-Alkanes-25.jpg",
+        "papers/chemistry/img/04B-Alkanes-26.jpg"
       ]
     },
     {
@@ -1334,7 +2434,15 @@
       "no": "Q31(a)",
       "marks": 3,
       "topic": "Isomers of C5H12 Drawn",
-      "keywords": ["displayed formulae", "C5H12", "pentane", "2-methylbutane", "2,2-dimethylpropane", "structural isomers", "alkanes"],
+      "keywords": [
+        "displayed formulae",
+        "C5H12",
+        "pentane",
+        "2-methylbutane",
+        "2,2-dimethylpropane",
+        "structural isomers",
+        "alkanes"
+      ],
       "question": "Draw the displayed formulae of the three alkanes with molecular formula C5H12.",
       "status": "ready",
       "answer": "Pentane (straight chain C-C-C-C-C); 2-methylbutane (CH3CH(CH3)CH2CH3); 2,2-dimethylpropane (C(CH3)4).",
@@ -1343,6 +2451,11 @@
         "2-methylbutane: four carbons in a chain with a CH3 on the second carbon.",
         "2,2-dimethylpropane: a central carbon bonded to four CH3 groups.",
         "Each structure has 12 H atoms and 5 C atoms."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-26.jpg",
+        "papers/chemistry/img/04B-Alkanes-27.jpg",
+        "papers/chemistry/img/04B-Alkanes-28.jpg"
       ]
     },
     {
@@ -1350,29 +2463,63 @@
       "no": "Q31(b)",
       "marks": 1,
       "topic": "Systematic Name of P",
-      "keywords": ["systematic name", "compound P", "alkane", "IUPAC", "naming", "branched alkane", "structure"],
+      "keywords": [
+        "systematic name",
+        "compound P",
+        "alkane",
+        "IUPAC",
+        "naming",
+        "branched alkane",
+        "structure"
+      ],
       "question": "Give the systematic name of compound P, whose structure is shown.",
       "status": "pending",
       "answer": "Pending: the structure of compound P is in a diagram that is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-26.jpg",
+        "papers/chemistry/img/04B-Alkanes-27.jpg",
+        "papers/chemistry/img/04B-Alkanes-28.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q31c",
       "no": "Q31(c)",
       "marks": 2,
       "topic": "Predicting Boiling Temperature",
-      "keywords": ["boiling temperature", "straight-chain alkanes", "pentane", "trend", "molecular formula", "homologous series", "prediction"],
+      "keywords": [
+        "boiling temperature",
+        "straight-chain alkanes",
+        "pentane",
+        "trend",
+        "molecular formula",
+        "homologous series",
+        "prediction"
+      ],
       "question": "The table shows boiling temperatures of the first four straight-chain alkanes. Predict the molecular formula and boiling temperature of the straight-chain alkane with five carbon atoms.",
       "status": "pending",
       "answer": "Pending: the table of boiling temperatures is not in the text (expected C5H12, pentane, boiling temperature about 36 deg C).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-26.jpg",
+        "papers/chemistry/img/04B-Alkanes-27.jpg",
+        "papers/chemistry/img/04B-Alkanes-28.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q31d(i)",
       "no": "Q31(d)(i)",
       "marks": 1,
       "topic": "Incomplete Combustion of Propane",
-      "keywords": ["incomplete combustion", "propane", "carbon", "carbon monoxide", "carbon dioxide", "water", "balancing equation"],
+      "keywords": [
+        "incomplete combustion",
+        "propane",
+        "carbon",
+        "carbon monoxide",
+        "carbon dioxide",
+        "water",
+        "balancing equation"
+      ],
       "question": "Write the equation for the incomplete combustion of propane, C3H8, forming carbon, carbon monoxide, carbon dioxide and water (no state symbols).",
       "status": "ready",
       "answer": "2C3H8 + 7O2 -> 2C + 2CO + 2CO2 + 8H2O",
@@ -1381,6 +2528,11 @@
         "Hydrogen: 16 H gives 8 H2O.",
         "Carbon: 2 C + 2 CO + 2 CO2 uses 6 C atoms.",
         "Oxygen: 2 CO (2) + 2 CO2 (4) + 8 H2O (8) = 14 O atoms, so 7 O2."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-26.jpg",
+        "papers/chemistry/img/04B-Alkanes-27.jpg",
+        "papers/chemistry/img/04B-Alkanes-28.jpg"
       ]
     },
     {
@@ -1388,7 +2540,15 @@
       "no": "Q31(d)(ii)",
       "marks": 2,
       "topic": "Toxicity of Carbon Monoxide",
-      "keywords": ["carbon monoxide", "toxicity", "haemoglobin", "carboxyhaemoglobin", "oxygen transport", "toxic gas", "incomplete combustion"],
+      "keywords": [
+        "carbon monoxide",
+        "toxicity",
+        "haemoglobin",
+        "carboxyhaemoglobin",
+        "oxygen transport",
+        "toxic gas",
+        "incomplete combustion"
+      ],
       "question": "Explain the toxicity of carbon monoxide.",
       "status": "ready",
       "answer": "CO binds to haemoglobin more strongly than O2, forming carboxyhaemoglobin, so less oxygen is carried in the blood.",
@@ -1397,6 +2557,11 @@
         "It binds to the haemoglobin in red blood cells.",
         "It binds more strongly than oxygen, forming carboxyhaemoglobin.",
         "Less oxygen is transported to tissues, which can cause headaches, unconsciousness or death."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-26.jpg",
+        "papers/chemistry/img/04B-Alkanes-27.jpg",
+        "papers/chemistry/img/04B-Alkanes-28.jpg"
       ]
     },
     {
@@ -1404,7 +2569,15 @@
       "no": "Q31(e)(i)",
       "marks": 2,
       "topic": "Propagation Steps Propane",
-      "keywords": ["propagation", "propane", "C3H7Cl", "chlorine radicals", "free radical", "chain reaction", "substitution"],
+      "keywords": [
+        "propagation",
+        "propane",
+        "C3H7Cl",
+        "chlorine radicals",
+        "free radical",
+        "chain reaction",
+        "substitution"
+      ],
       "question": "Write the two propagating steps showing how C3H7Cl is formed in the reaction of propane with chlorine (curly arrows not required).",
       "status": "ready",
       "answer": "C3H8 + Cl -> C3H7 + HCl; C3H7 + Cl2 -> C3H7Cl + Cl",
@@ -1413,6 +2586,11 @@
         "Step 2: the C3H7 radical reacts with Cl2, forming C3H7Cl and a new Cl radical.",
         "The new Cl radical repeats step 1.",
         "Check: C 3 = 3; H 8 = 7 + 1 in step 1."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-26.jpg",
+        "papers/chemistry/img/04B-Alkanes-27.jpg",
+        "papers/chemistry/img/04B-Alkanes-28.jpg"
       ]
     },
     {
@@ -1420,7 +2598,15 @@
       "no": "Q31(e)(ii)",
       "marks": 1,
       "topic": "Isomers of Chloropropane",
-      "keywords": ["chloropropane", "C3H7Cl", "1-chloropropane", "2-chloropropane", "structural isomers", "propane chlorination", "products"],
+      "keywords": [
+        "chloropropane",
+        "C3H7Cl",
+        "1-chloropropane",
+        "2-chloropropane",
+        "structural isomers",
+        "propane chlorination",
+        "products"
+      ],
       "question": "Identify the different C3H7Cl molecules produced in this reaction.",
       "status": "ready",
       "answer": "1-chloropropane (CH3CH2CH2Cl) and 2-chloropropane (CH3CHClCH3).",
@@ -1429,6 +2615,11 @@
         "Replacing H on an end carbon gives 1-chloropropane.",
         "Replacing H on the middle carbon gives 2-chloropropane.",
         "Both have the formula C3H7Cl."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-26.jpg",
+        "papers/chemistry/img/04B-Alkanes-27.jpg",
+        "papers/chemistry/img/04B-Alkanes-28.jpg"
       ]
     },
     {
@@ -1436,7 +2627,15 @@
       "no": "Q31(e)(iii)",
       "marks": 1,
       "topic": "Mixture of Chloropropanes",
-      "keywords": ["propane", "primary hydrogen", "secondary hydrogen", "chlorine radical", "mixture", "C3H7Cl", "substitution"],
+      "keywords": [
+        "propane",
+        "primary hydrogen",
+        "secondary hydrogen",
+        "chlorine radical",
+        "mixture",
+        "C3H7Cl",
+        "substitution"
+      ],
       "question": "Give a reason why a mixture of C3H7Cl molecules is formed.",
       "status": "ready",
       "answer": "Propane has two different types of hydrogen (on CH3 and on CH2 groups), and a chlorine radical can attack either.",
@@ -1445,6 +2644,11 @@
         "A chlorine radical can remove either type of H atom.",
         "Removing different H atoms gives different C3H7 radicals, and so different products.",
         "So a mixture of isomeric C3H7Cl is formed."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-26.jpg",
+        "papers/chemistry/img/04B-Alkanes-27.jpg",
+        "papers/chemistry/img/04B-Alkanes-28.jpg"
       ]
     },
     {
@@ -1452,7 +2656,15 @@
       "no": "Q31(e)(iv)",
       "marks": 1,
       "topic": "Termination Forming Hexane",
-      "keywords": ["termination", "hexane", "propyl radical", "C3H7", "radical combination", "propane", "chlorination"],
+      "keywords": [
+        "termination",
+        "hexane",
+        "propyl radical",
+        "C3H7",
+        "radical combination",
+        "propane",
+        "chlorination"
+      ],
       "question": "Give a reason why some hexane is formed in this reaction.",
       "status": "ready",
       "answer": "Two propyl radicals (C3H7) combine in a termination step: C3H7 + C3H7 -> C6H14.",
@@ -1461,6 +2673,11 @@
         "Two C3H7 radicals are present in the reaction mixture.",
         "They combine to form a C-C bond, giving C6H14.",
         "So hexane is a termination product."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-26.jpg",
+        "papers/chemistry/img/04B-Alkanes-27.jpg",
+        "papers/chemistry/img/04B-Alkanes-28.jpg"
       ]
     },
     {
@@ -1468,7 +2685,15 @@
       "no": "Q31(e)(v)",
       "marks": 2,
       "topic": "Product of Molar Mass 113",
-      "keywords": ["molar mass 113", "C3H6Cl2", "dichloropropane", "structure", "1,2-dichloropropane", "name", "propane chlorination"],
+      "keywords": [
+        "molar mass 113",
+        "C3H6Cl2",
+        "dichloropropane",
+        "structure",
+        "1,2-dichloropropane",
+        "name",
+        "propane chlorination"
+      ],
       "question": "A small amount of a product with molar mass 113 g mol-1 is formed. Deduce the structure and name of a possible product.",
       "status": "ready",
       "answer": "C3H6Cl2 (M = 113): for example CH3CHClCH2Cl, 1,2-dichloropropane.",
@@ -1477,6 +2702,11 @@
         "This is propane with two H atoms replaced by Cl (a dichloropropane).",
         "Example structure: CH3-CHCl-CH2Cl.",
         "Name: 1,2-dichloropropane (other isomers such as 1,1- or 1,3-dichloropropane are also valid)."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-26.jpg",
+        "papers/chemistry/img/04B-Alkanes-27.jpg",
+        "papers/chemistry/img/04B-Alkanes-28.jpg"
       ]
     },
     {
@@ -1484,7 +2714,15 @@
       "no": "Q32",
       "marks": 1,
       "topic": "Biofuel From Sugar Cane",
-      "keywords": ["fermented sugar cane", "ethanol", "biofuel", "hydrogen", "petrol", "propane", "fuel source"],
+      "keywords": [
+        "fermented sugar cane",
+        "ethanol",
+        "biofuel",
+        "hydrogen",
+        "petrol",
+        "propane",
+        "fuel source"
+      ],
       "question": "Which of these fuels is obtained from fermented sugar cane? A ethanol, B hydrogen, C petrol, D propane.",
       "status": "ready",
       "answer": "A (ethanol)",
@@ -1493,6 +2731,9 @@
         "Ethanol is a biofuel and is renewable.",
         "Hydrogen, petrol and propane are not made by fermentation.",
         "So the answer is ethanol."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-28.jpg"
       ]
     },
     {
@@ -1500,7 +2741,15 @@
       "no": "Q33",
       "marks": 1,
       "topic": "Isomers of C6H14",
-      "keywords": ["structural isomers", "C6H14", "hexane", "methylpentane", "dimethylbutane", "isomer count", "alkane"],
+      "keywords": [
+        "structural isomers",
+        "C6H14",
+        "hexane",
+        "methylpentane",
+        "dimethylbutane",
+        "isomer count",
+        "alkane"
+      ],
       "question": "How many structural isomers have the formula C6H14? A 3, B 4, C 5, D 6.",
       "status": "ready",
       "answer": "C (5 isomers)",
@@ -1509,6 +2758,9 @@
         "Methylpentanes: 2-methylpentane and 3-methylpentane.",
         "Dimethylbutanes: 2,2-dimethylbutane and 2,3-dimethylbutane.",
         "Total: 1 + 2 + 2 = 5."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-29.jpg"
       ]
     },
     {
@@ -1516,7 +2768,15 @@
       "no": "Q34",
       "marks": 1,
       "topic": "Petrol Combustion Products",
-      "keywords": ["petrol combustion", "car engine", "water", "carbon dioxide", "sulfur dioxide", "products", "pollutants"],
+      "keywords": [
+        "petrol combustion",
+        "car engine",
+        "water",
+        "carbon dioxide",
+        "sulfur dioxide",
+        "products",
+        "pollutants"
+      ],
       "question": "Which substances are formed from the combustion of petrol in car engines? A water, carbon dioxide and hydrogen; B water, carbon monoxide and hydrogen chloride; C water, carbon dioxide and sulfur dioxide; D water, carbon particulates and hydrogen.",
       "status": "ready",
       "answer": "C (water, carbon dioxide and sulfur dioxide)",
@@ -1525,6 +2785,9 @@
         "Sulfur impurities in petrol are oxidised to sulfur dioxide.",
         "Hydrogen and hydrogen chloride are not formed in combustion of petrol.",
         "So option C is correct."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-29.jpg"
       ]
     },
     {
@@ -1532,7 +2795,15 @@
       "no": "Q35",
       "marks": 1,
       "topic": "Cracking Mixtures C12H26",
-      "keywords": ["cracking", "C12H26", "mixture", "carbon balance", "hydrogen balance", "alkenes", "alkanes"],
+      "keywords": [
+        "cracking",
+        "C12H26",
+        "mixture",
+        "carbon balance",
+        "hydrogen balance",
+        "alkenes",
+        "alkanes"
+      ],
       "question": "Which mixture could be formed when a single molecule of C12H26 is cracked? A butene, pentane and propene; B hexane, butene and ethane; C nonane and ethene; D propene and decane.",
       "status": "ready",
       "answer": "A (butene, pentane and propene)",
@@ -1541,6 +2812,9 @@
         "B: C6H14 + C4H8 + C2H6 gives H 28, which does not balance.",
         "C: C9H20 + C2H4 gives C11H24, which does not balance.",
         "D: C3H6 + C10H22 gives C13H28, which does not balance."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-29.jpg"
       ]
     },
     {
@@ -1548,7 +2822,15 @@
       "no": "Q36(a)",
       "marks": 3,
       "topic": "Formulae and Name of Isooctane",
-      "keywords": ["isooctane", "molecular formula", "empirical formula", "IUPAC name", "2,2,4-trimethylpentane", "C8H18", "alkane"],
+      "keywords": [
+        "isooctane",
+        "molecular formula",
+        "empirical formula",
+        "IUPAC name",
+        "2,2,4-trimethylpentane",
+        "C8H18",
+        "alkane"
+      ],
       "question": "Give the molecular formula, empirical formula and IUPAC name of isooctane, which has eight carbon atoms and the skeletal formula shown.",
       "status": "ready",
       "answer": "Molecular formula C8H18; empirical formula C4H9; IUPAC name 2,2,4-trimethylpentane.",
@@ -1557,6 +2839,10 @@
         "Empirical formula: divide 8:18 by 2 to give 4:9, so C4H9.",
         "Isooctane is the branched isomer 2,2,4-trimethylpentane: a pentane chain with two methyl groups on C2 and one on C4.",
         "Check the carbons: 5 in the chain + 3 methyl groups = 8."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-30.jpg",
+        "papers/chemistry/img/04B-Alkanes-31.jpg"
       ]
     },
     {
@@ -1564,7 +2850,15 @@
       "no": "Q36(b)(i)",
       "marks": 1,
       "topic": "Separating Isomers",
-      "keywords": ["fractional distillation", "isooctane", "octane", "boiling temperature", "separation technique", "laboratory", "crude oil"],
+      "keywords": [
+        "fractional distillation",
+        "isooctane",
+        "octane",
+        "boiling temperature",
+        "separation technique",
+        "laboratory",
+        "crude oil"
+      ],
       "question": "Name the technique used to separate isooctane from octane in a laboratory, based on their boiling temperatures.",
       "status": "ready",
       "answer": "Fractional distillation.",
@@ -1573,6 +2867,10 @@
         "The technique that separates liquids by boiling point is distillation.",
         "The same technique is used for crude oil.",
         "Use a fractionating column for a clean separation: fractional distillation."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-30.jpg",
+        "papers/chemistry/img/04B-Alkanes-31.jpg"
       ]
     },
     {
@@ -1580,7 +2878,15 @@
       "no": "Q36(b)(ii)",
       "marks": 2,
       "topic": "Fractional Distillation Process",
-      "keywords": ["fractional distillation", "fractionating column", "boiling temperature", "vaporisation", "condensation", "isooctane", "octane"],
+      "keywords": [
+        "fractional distillation",
+        "fractionating column",
+        "boiling temperature",
+        "vaporisation",
+        "condensation",
+        "isooctane",
+        "octane"
+      ],
       "question": "Describe how fractional distillation separates isooctane from octane.",
       "status": "ready",
       "answer": "The mixture is heated and vapour rises up a fractionating column; isooctane (lower boiling temperature) condenses and is collected first, while octane condenses lower down the column.",
@@ -1589,6 +2895,10 @@
         "The column is hotter at the bottom and cooler at the top.",
         "Repeated vaporisation and condensation enriches the vapour in the lower-boiling isooctane.",
         "Isooctane (99 deg C) reaches the top and is collected first; octane (125 deg C) stays lower in the column."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-30.jpg",
+        "papers/chemistry/img/04B-Alkanes-31.jpg"
       ]
     },
     {
@@ -1596,7 +2906,15 @@
       "no": "Q36(c)(i)",
       "marks": 1,
       "topic": "Complete Combustion of Isooctane",
-      "keywords": ["complete combustion", "isooctane", "C8H18", "carbon dioxide", "water", "balancing equation", "octane rating"],
+      "keywords": [
+        "complete combustion",
+        "isooctane",
+        "C8H18",
+        "carbon dioxide",
+        "water",
+        "balancing equation",
+        "octane rating"
+      ],
       "question": "Write the equation for the complete combustion of isooctane (state symbols not required).",
       "status": "ready",
       "answer": "C8H18 + 12.5O2 -> 8CO2 + 9H2O (or 2C8H18 + 25O2 -> 16CO2 + 18H2O)",
@@ -1605,6 +2923,10 @@
         "Carbon: 8 C gives 8 CO2.",
         "Hydrogen: 18 H gives 9 H2O.",
         "Oxygen on the right: 16 + 9 = 25 O atoms, so 12.5 O2."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-30.jpg",
+        "papers/chemistry/img/04B-Alkanes-31.jpg"
       ]
     },
     {
@@ -1612,7 +2934,15 @@
       "no": "Q36(c)(ii)",
       "marks": 4,
       "topic": "Formation of CO and NO",
-      "keywords": ["carbon monoxide", "nitrogen monoxide", "car engines", "incomplete combustion", "high temperature", "NO formation", "pollutants"],
+      "keywords": [
+        "carbon monoxide",
+        "nitrogen monoxide",
+        "car engines",
+        "incomplete combustion",
+        "high temperature",
+        "NO formation",
+        "pollutants"
+      ],
       "question": "Describe how carbon monoxide and nitrogen monoxide are formed in car engines, including the conditions required (equations may be included).",
       "status": "ready",
       "answer": "CO forms from incomplete combustion when oxygen is limited, e.g. C8H18 + 8.5O2 -> 8CO + 9H2O; NO forms when N2 and O2 from air react at the high temperature of the engine: N2 + O2 -> 2NO.",
@@ -1621,6 +2951,10 @@
         "Example: C8H18 + 8.5O2 -> 8CO + 9H2O.",
         "NO forms when N2 and O2 from the air react at the high temperature and pressure in the engine cylinder.",
         "Equation: N2 + O2 -> 2NO; high temperature is needed to break the strong N-N triple bond."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-30.jpg",
+        "papers/chemistry/img/04B-Alkanes-31.jpg"
       ]
     },
     {
@@ -1628,7 +2962,15 @@
       "no": "Q36(c)(iii)",
       "marks": 1,
       "topic": "Other Engine Pollutant",
-      "keywords": ["pollutant", "car engine", "sulfur dioxide", "unburnt hydrocarbons", "particulates", "lead", "combustion products"],
+      "keywords": [
+        "pollutant",
+        "car engine",
+        "sulfur dioxide",
+        "unburnt hydrocarbons",
+        "particulates",
+        "lead",
+        "combustion products"
+      ],
       "question": "Identify another pollutant, other than carbon dioxide, carbon monoxide and nitrogen monoxide, produced in car engines.",
       "status": "ready",
       "answer": "Sulfur dioxide (SO2), from sulfur impurities in the fuel (unburnt hydrocarbons or carbon particulates are also valid).",
@@ -1637,6 +2979,10 @@
         "On combustion these form sulfur dioxide, SO2.",
         "SO2 causes acid rain.",
         "Any one valid pollutant, such as unburnt hydrocarbons or particulates, gains the mark."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-30.jpg",
+        "papers/chemistry/img/04B-Alkanes-31.jpg"
       ]
     },
     {
@@ -1644,7 +2990,15 @@
       "no": "Q36(d)(i)",
       "marks": 1,
       "topic": "Chlorination of Isooctane",
-      "keywords": ["free radical substitution", "isooctane", "excess chlorine", "chain mechanism", "chlorinated compounds", "alkane", "substitution"],
+      "keywords": [
+        "free radical substitution",
+        "isooctane",
+        "excess chlorine",
+        "chain mechanism",
+        "chlorinated compounds",
+        "alkane",
+        "substitution"
+      ],
       "question": "State the type and mechanism of the reaction of isooctane with excess chlorine.",
       "status": "ready",
       "answer": "Free radical substitution (chain mechanism).",
@@ -1653,6 +3007,10 @@
         "A C-H bond is replaced by C-Cl, giving chlorinated products.",
         "The reaction proceeds through a chain of propagation steps.",
         "Type: substitution; mechanism: free radical."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-30.jpg",
+        "papers/chemistry/img/04B-Alkanes-31.jpg"
       ]
     },
     {
@@ -1660,7 +3018,15 @@
       "no": "Q36(d)(ii)",
       "marks": 1,
       "topic": "Essential Condition for Chlorination",
-      "keywords": ["chlorination", "essential condition", "ultraviolet light", "free radicals", "isooctane", "initiation", "UV"],
+      "keywords": [
+        "chlorination",
+        "essential condition",
+        "ultraviolet light",
+        "free radicals",
+        "isooctane",
+        "initiation",
+        "UV"
+      ],
       "question": "Give the essential condition required for the reaction of isooctane with chlorine.",
       "status": "ready",
       "answer": "Ultraviolet (UV) light.",
@@ -1669,6 +3035,10 @@
         "This homolytic fission forms chlorine radicals.",
         "The radicals start the free radical chain reaction.",
         "Without UV light, the reaction does not start readily."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-30.jpg",
+        "papers/chemistry/img/04B-Alkanes-31.jpg"
       ]
     },
     {
@@ -1676,7 +3046,15 @@
       "no": "Q36(d)(iii)",
       "marks": 3,
       "topic": "Empirical and Molecular Formula",
-      "keywords": ["percentage composition", "chlorinated compound", "C8H15Cl3", "molecular formula", "mass percent", "empirical formula", "C H Cl"],
+      "keywords": [
+        "percentage composition",
+        "chlorinated compound",
+        "C8H15Cl3",
+        "molecular formula",
+        "mass percent",
+        "empirical formula",
+        "C H Cl"
+      ],
       "question": "One chlorinated compound contains 44.1% carbon and 6.9% hydrogen by mass. Calculate its molecular formula.",
       "status": "ready",
       "answer": "C8H15Cl3",
@@ -1685,6 +3063,10 @@
         "Moles: C 44.1/12.0 = 3.675; H 6.9/1.0 = 6.9; Cl 49.0/35.5 = 1.380.",
         "Divide by 1.380: C 2.66; H 5.00; Cl 1.00. Multiply by 3: C 8 : H 15 : Cl 3.",
         "Formula C8H15Cl3 (M = 217.5 g mol-1), consistent with 44.1% C and 6.9% H."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-30.jpg",
+        "papers/chemistry/img/04B-Alkanes-31.jpg"
       ]
     },
     {
@@ -1692,7 +3074,15 @@
       "no": "Q37",
       "marks": 1,
       "topic": "Definition of Hydrocarbon",
-      "keywords": ["hydrocarbon", "definition", "carbon and hydrogen only", "compound", "organic", "alkane", "chemistry"],
+      "keywords": [
+        "hydrocarbon",
+        "definition",
+        "carbon and hydrogen only",
+        "compound",
+        "organic",
+        "alkane",
+        "chemistry"
+      ],
       "question": "What is the best definition of a hydrocarbon? A a compound containing carbon, hydrogen and oxygen; B a compound containing carbon and hydrogen only; C a compound that contains single carbon to carbon bonds; D a mixture containing carbon and hydrogen only.",
       "status": "ready",
       "answer": "B (a compound containing carbon and hydrogen only)",
@@ -1701,6 +3091,10 @@
         "Option A includes oxygen, so it is not a hydrocarbon.",
         "Option C describes alkanes only, not all hydrocarbons.",
         "Option D describes a mixture, and a hydrocarbon is a single compound."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-31.jpg",
+        "papers/chemistry/img/04B-Alkanes-32.jpg"
       ]
     },
     {
@@ -1708,29 +3102,61 @@
       "no": "Q38",
       "marks": 1,
       "topic": "Monochlorination of Cycloalkanes",
-      "keywords": ["cycloalkanes", "isomers", "monochlorinated products", "free radical substitution", "chlorine", "isomer X Y Z", "products"],
+      "keywords": [
+        "cycloalkanes",
+        "isomers",
+        "monochlorinated products",
+        "free radical substitution",
+        "chlorine",
+        "isomer X Y Z",
+        "products"
+      ],
       "question": "Three isomeric cycloalkanes X, Y and Z are shown. Which react with chlorine to produce four different monochlorinated products? A all 3; B X and Z only; C Y and Z only; D X only.",
       "status": "pending",
       "answer": "Pending: the structures of isomers X, Y and Z are in a diagram that is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-32.jpg",
+        "papers/chemistry/img/04B-Alkanes-33.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q39",
       "no": "Q39",
       "marks": 1,
       "topic": "Initiation in Polymerisation",
-      "keywords": ["initiation", "free radical polymerisation", "peroxide", "R-O-O-R", "alkene polymerisation", "radical mechanism", "initiator"],
+      "keywords": [
+        "initiation",
+        "free radical polymerisation",
+        "peroxide",
+        "R-O-O-R",
+        "alkene polymerisation",
+        "radical mechanism",
+        "initiator"
+      ],
       "question": "Polymerisation of alkenes is started by a peroxide, R-O-O-R. Which step in the mechanism is an initiation step?",
       "status": "pending",
       "answer": "Pending: the answer options and the structure of R are not present in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-32.jpg",
+        "papers/chemistry/img/04B-Alkanes-33.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q40",
       "no": "Q40",
       "marks": 1,
       "topic": "Cracking Definition",
-      "keywords": ["cracking", "crude oil", "large hydrocarbons", "smaller molecules", "carbon atoms per molecule", "fractions", "thermal decomposition"],
+      "keywords": [
+        "cracking",
+        "crude oil",
+        "large hydrocarbons",
+        "smaller molecules",
+        "carbon atoms per molecule",
+        "fractions",
+        "thermal decomposition"
+      ],
       "question": "Which statement about the cracking of crude oil is true? A separates the mixture into pure compounds; B separates the mixture into fractions; C separates saturated from unsaturated compounds; D decreases the average number of carbon atoms per molecule.",
       "status": "ready",
       "answer": "D",
@@ -1739,6 +3165,10 @@
         "Shorter molecules have fewer carbon atoms, so the average falls.",
         "Separation into fractions is done by fractional distillation, not cracking (option B).",
         "So option D is correct."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-33.jpg",
+        "papers/chemistry/img/04B-Alkanes-34.jpg"
       ]
     },
     {
@@ -1746,18 +3176,38 @@
       "no": "Q41",
       "marks": 1,
       "topic": "Pair of Isomers",
-      "keywords": ["isomers", "structural formulae", "pair of isomers", "same molecular formula", "different structures", "alkanes", "identify"],
+      "keywords": [
+        "isomers",
+        "structural formulae",
+        "pair of isomers",
+        "same molecular formula",
+        "different structures",
+        "alkanes",
+        "identify"
+      ],
       "question": "Which structures represent a pair of isomers?",
       "status": "pending",
       "answer": "Pending: the structures are shown in a diagram that is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-33.jpg",
+        "papers/chemistry/img/04B-Alkanes-34.jpg"
+      ]
     },
     {
       "id": "Ch4B-Q42a",
       "no": "Q42(a)",
       "marks": 1,
       "topic": "Halogenation Mechanism",
-      "keywords": ["halogenation", "alkanes", "free radical substitution", "mechanism", "halogenoalkanes", "chlorine", "type of reaction"],
+      "keywords": [
+        "halogenation",
+        "alkanes",
+        "free radical substitution",
+        "mechanism",
+        "halogenoalkanes",
+        "chlorine",
+        "type of reaction"
+      ],
       "question": "Name the type and mechanism of the reaction between halogens and alkanes.",
       "status": "ready",
       "answer": "Free radical substitution (chain mechanism).",
@@ -1766,6 +3216,11 @@
         "The reaction is started by UV light, forming halogen radicals.",
         "Radicals attack alkane C-H bonds in a chain of steps.",
         "Mechanism: free radical."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-34.jpg",
+        "papers/chemistry/img/04B-Alkanes-35.jpg",
+        "papers/chemistry/img/04B-Alkanes-36.jpg"
       ]
     },
     {
@@ -1773,7 +3228,15 @@
       "no": "Q42(b)(i)",
       "marks": 2,
       "topic": "Initiation of Butane Chlorination",
-      "keywords": ["initiation", "butane", "chlorine", "homolytic fission", "curly arrows", "Cl radicals", "UV light"],
+      "keywords": [
+        "initiation",
+        "butane",
+        "chlorine",
+        "homolytic fission",
+        "curly arrows",
+        "Cl radicals",
+        "UV light"
+      ],
       "question": "Give the equation for the initiation step when chlorine reacts with butane, including arrows and electrons.",
       "status": "ready",
       "answer": "Cl-Cl -> 2Cl (homolytic fission; a curly half-arrow from the Cl-Cl bond to each Cl atom).",
@@ -1782,6 +3245,11 @@
         "Homolytic fission: each Cl atom takes one electron from the bond.",
         "Draw a curly half-arrow (fish-hook) from the bond to each Cl atom.",
         "Products: two chlorine radicals."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-34.jpg",
+        "papers/chemistry/img/04B-Alkanes-35.jpg",
+        "papers/chemistry/img/04B-Alkanes-36.jpg"
       ]
     },
     {
@@ -1789,7 +3257,15 @@
       "no": "Q42(b)(ii)",
       "marks": 2,
       "topic": "Propagation Steps Butane",
-      "keywords": ["propagation", "butane", "chlorine", "butyl radical", "HCl", "chloroalkane", "chain reaction"],
+      "keywords": [
+        "propagation",
+        "butane",
+        "chlorine",
+        "butyl radical",
+        "HCl",
+        "chloroalkane",
+        "chain reaction"
+      ],
       "question": "Give an equation for each of the first two propagation steps in the reaction of chlorine with butane.",
       "status": "ready",
       "answer": "C4H10 + Cl -> C4H9 + HCl; C4H9 + Cl2 -> C4H9Cl + Cl",
@@ -1798,6 +3274,11 @@
         "Second propagation: the C4H9 radical reacts with Cl2, giving C4H9Cl and a new Cl radical.",
         "The Cl radical from the second step repeats the first step.",
         "Check: C 4 = 4; H 10 = 9 + 1."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-34.jpg",
+        "papers/chemistry/img/04B-Alkanes-35.jpg",
+        "papers/chemistry/img/04B-Alkanes-36.jpg"
       ]
     },
     {
@@ -1805,7 +3286,15 @@
       "no": "Q42(b)(iii)",
       "marks": 1,
       "topic": "Termination Forming Octane",
-      "keywords": ["termination", "butane", "butyl radical", "octane", "C8H18", "radical combination", "chain termination"],
+      "keywords": [
+        "termination",
+        "butane",
+        "butyl radical",
+        "octane",
+        "C8H18",
+        "radical combination",
+        "chain termination"
+      ],
       "question": "Give the equation for a termination step that forms an alkane in the reaction of chlorine with butane.",
       "status": "ready",
       "answer": "2C4H9 -> C8H18",
@@ -1814,6 +3303,11 @@
         "Two butyl radicals (C4H9) combine.",
         "The product is C8H18, an alkane (octane).",
         "Check: C 8 = 8; H 18 = 18."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-34.jpg",
+        "papers/chemistry/img/04B-Alkanes-35.jpg",
+        "papers/chemistry/img/04B-Alkanes-36.jpg"
       ]
     },
     {
@@ -1821,7 +3315,15 @@
       "no": "Q42(c)",
       "marks": 3,
       "topic": "Percentage Yield",
-      "keywords": ["percentage yield", "trichlorobutane", "butane", "moles", "molar mass", "C4H7Cl3", "stoichiometry"],
+      "keywords": [
+        "percentage yield",
+        "trichlorobutane",
+        "butane",
+        "moles",
+        "molar mass",
+        "C4H7Cl3",
+        "stoichiometry"
+      ],
       "question": "Calculate the percentage yield if 1.00 g of trichlorobutane is produced from 10.0 g of butane, using C4H10 + 3Cl2 -> C4H7Cl3 + 3HCl.",
       "status": "ready",
       "answer": "3.59%",
@@ -1830,6 +3332,11 @@
         "The mole ratio butane : C4H7Cl3 is 1 : 1, so the theoretical moles of C4H7Cl3 = 0.172 mol.",
         "M(C4H7Cl3) = 48.0 + 7.0 + 106.5 = 161.5 g mol-1, so the theoretical mass = 0.172 x 161.5 = 27.8 g.",
         "Percentage yield = 1.00 / 27.8 x 100 = 3.59%."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-34.jpg",
+        "papers/chemistry/img/04B-Alkanes-35.jpg",
+        "papers/chemistry/img/04B-Alkanes-36.jpg"
       ]
     },
     {
@@ -1837,7 +3344,16 @@
       "no": "Q42(d)",
       "marks": 2,
       "topic": "Mass Spectrum of Chlorine",
-      "keywords": ["mass spectrum", "chlorine", "Cl2", "molecular ion peaks", "isotopes", "35Cl", "37Cl", "relative abundance"],
+      "keywords": [
+        "mass spectrum",
+        "chlorine",
+        "Cl2",
+        "molecular ion peaks",
+        "isotopes",
+        "35Cl",
+        "37Cl",
+        "relative abundance"
+      ],
       "question": "Draw the mass spectrum showing the molecular ion peaks of Cl2, given isotopic abundances of 35Cl 75% and 37Cl 25%.",
       "status": "ready",
       "answer": "Three peaks at m/z 70, 72 and 74 in the ratio approximately 9:6:1 (m/z 70 tallest).",
@@ -1846,6 +3362,11 @@
         "Probabilities: 0.75 x 0.75 = 0.5625; 2 x 0.75 x 0.25 = 0.375; 0.25 x 0.25 = 0.0625.",
         "These are in the ratio 9 : 6 : 1.",
         "Draw peaks at m/z 70, 72 and 74 with heights in ratio 9 : 6 : 1."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-34.jpg",
+        "papers/chemistry/img/04B-Alkanes-35.jpg",
+        "papers/chemistry/img/04B-Alkanes-36.jpg"
       ]
     },
     {
@@ -1853,7 +3374,15 @@
       "no": "Q43",
       "marks": 1,
       "topic": "Cracking Reaction Type",
-      "keywords": ["cracking", "alkane", "thermal decomposition", "reaction type", "combustion", "hydrolysis", "neutralisation"],
+      "keywords": [
+        "cracking",
+        "alkane",
+        "thermal decomposition",
+        "reaction type",
+        "combustion",
+        "hydrolysis",
+        "neutralisation"
+      ],
       "question": "Which type of reaction occurs when an alkane is cracked? A combustion; B hydrolysis; C neutralisation; D thermal decomposition.",
       "status": "ready",
       "answer": "D (thermal decomposition)",
@@ -1862,6 +3391,10 @@
         "Breaking a larger molecule into smaller ones by heat is thermal decomposition.",
         "Combustion needs oxygen and forms CO2 and H2O, which is not cracking.",
         "Hydrolysis and neutralisation are not types of cracking."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-36.jpg",
+        "papers/chemistry/img/04B-Alkanes-37.jpg"
       ]
     },
     {
@@ -1869,7 +3402,15 @@
       "no": "Q44",
       "marks": 1,
       "topic": "Cracking Molecular Formula",
-      "keywords": ["cracking", "hydrocarbon", "ethene", "propene", "propane", "molecular formula", "mass balance"],
+      "keywords": [
+        "cracking",
+        "hydrocarbon",
+        "ethene",
+        "propene",
+        "propane",
+        "molecular formula",
+        "mass balance"
+      ],
       "question": "One molecule of a hydrocarbon is cracked to form two molecules of ethene, two molecules of propene and one molecule of propane. What is the molecular formula of the hydrocarbon? A C8H18, B C10H22, C C11H24, D C13H28.",
       "status": "ready",
       "answer": "D (C13H28)",
@@ -1878,6 +3419,10 @@
         "Hydrogen: 2 x 4 (ethene) + 2 x 6 (propene) + 8 (propane) = 28.",
         "The hydrocarbon has 13 C and 28 H atoms.",
         "So its formula is C13H28 (option D)."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-36.jpg",
+        "papers/chemistry/img/04B-Alkanes-37.jpg"
       ]
     },
     {
@@ -1885,7 +3430,15 @@
       "no": "Q45(a)",
       "marks": 4,
       "topic": "Moles of CO2 in Air",
-      "keywords": ["carbon dioxide", "moles", "ideal gas equation", "ppm", "1.00 m3 air", "20.0 deg C", "101 kPa"],
+      "keywords": [
+        "carbon dioxide",
+        "moles",
+        "ideal gas equation",
+        "ppm",
+        "1.00 m3 air",
+        "20.0 deg C",
+        "101 kPa"
+      ],
       "question": "Calculate the moles of carbon dioxide in 1.00 m3 of air at 20.0 deg C and 101 kPa, given 415 ppm of CO2 by volume (pV = nRT, R = 8.31 J mol-1 K-1).",
       "status": "ready",
       "answer": "1.72 x 10^-2 mol",
@@ -1894,6 +3447,11 @@
         "Total moles of air: n = pV/RT = (1.01 x 10^5 x 1.00)/(8.31 x 293) = 41.5 mol.",
         "CO2 is 415 ppm by volume, which equals a mole fraction of 415 x 10^-6.",
         "n(CO2) = 41.5 x 415 x 10^-6 = 1.72 x 10^-2 mol."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-37.jpg",
+        "papers/chemistry/img/04B-Alkanes-38.jpg",
+        "papers/chemistry/img/04B-Alkanes-39.jpg"
       ]
     },
     {
@@ -1901,7 +3459,15 @@
       "no": "Q45(b)(i)",
       "marks": 1,
       "topic": "Complete Combustion Definition",
-      "keywords": ["complete combustion", "definition", "excess oxygen", "carbon dioxide", "water", "hydrocarbon", "combustion"],
+      "keywords": [
+        "complete combustion",
+        "definition",
+        "excess oxygen",
+        "carbon dioxide",
+        "water",
+        "hydrocarbon",
+        "combustion"
+      ],
       "question": "State what is meant by complete combustion.",
       "status": "ready",
       "answer": "Combustion of a fuel in excess oxygen, where the only products are carbon dioxide and water.",
@@ -1910,6 +3476,11 @@
         "All carbon is fully oxidised to CO2.",
         "All hydrogen is oxidised to H2O.",
         "No carbon monoxide, carbon or other pollutants are formed."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-37.jpg",
+        "papers/chemistry/img/04B-Alkanes-38.jpg",
+        "papers/chemistry/img/04B-Alkanes-39.jpg"
       ]
     },
     {
@@ -1917,7 +3488,15 @@
       "no": "Q45(b)(ii)",
       "marks": 2,
       "topic": "Combustion Equation Dodecane",
-      "keywords": ["complete combustion", "dodecane", "C12H26", "state symbols", "carbon dioxide", "balancing equation", "kerosene"],
+      "keywords": [
+        "complete combustion",
+        "dodecane",
+        "C12H26",
+        "state symbols",
+        "carbon dioxide",
+        "balancing equation",
+        "kerosene"
+      ],
       "question": "Write a balanced equation for the complete combustion of dodecane, C12H26, including state symbols.",
       "status": "ready",
       "answer": "C12H26(l) + 18.5O2(g) -> 12CO2(g) + 13H2O(l)",
@@ -1926,6 +3505,11 @@
         "Hydrogen: 26 H gives 13 H2O.",
         "Oxygen on the right: 24 + 13 = 37 O atoms, so 18.5 O2 (doubling gives 2C12H26 + 37O2 -> 24CO2 + 26H2O).",
         "Dodecane and water are liquid at room temperature; CO2 and O2 are gases."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-37.jpg",
+        "papers/chemistry/img/04B-Alkanes-38.jpg",
+        "papers/chemistry/img/04B-Alkanes-39.jpg"
       ]
     },
     {
@@ -1933,7 +3517,16 @@
       "no": "Q45(b)(iii)",
       "marks": 6,
       "topic": "CO2 Mass Per Passenger",
-      "keywords": ["jet fuel", "kerosene", "dodecane", "carbon dioxide mass", "density", "per passenger", "flight", "3 significant figures"],
+      "keywords": [
+        "jet fuel",
+        "kerosene",
+        "dodecane",
+        "carbon dioxide mass",
+        "density",
+        "per passenger",
+        "flight",
+        "3 significant figures"
+      ],
       "question": "A jet uses 11 400 dm3 of kerosene (assumed C12H26, density 0.749 g cm-3) per hour. For a 9 hour 15 minute flight carrying 800 passengers, calculate the mass of CO2 emitted per passenger, in kg, to 3 significant figures.",
       "status": "ready",
       "answer": "307 kg of CO2 per passenger (3 s.f.)",
@@ -1943,6 +3536,11 @@
         "Moles of C12H26 = 7.898 x 10^7 g / 170.0 g mol-1 = 4.646 x 10^5 mol.",
         "Moles CO2 = 12 x 4.646 x 10^5 = 5.575 x 10^6 mol; mass = 5.575 x 10^6 x 44.0 = 2.453 x 10^8 g = 2.453 x 10^5 kg.",
         "Per passenger: 2.453 x 10^5 kg / 800 = 306.6 kg, so 307 kg to 3 s.f."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-37.jpg",
+        "papers/chemistry/img/04B-Alkanes-38.jpg",
+        "papers/chemistry/img/04B-Alkanes-39.jpg"
       ]
     },
     {
@@ -1950,7 +3548,15 @@
       "no": "Q45(b)(iv)",
       "marks": 2,
       "topic": "Isomers of Diethyloctane",
-      "keywords": ["diethyloctane", "skeletal formulae", "structural isomers", "C12H26", "branched alkane", "4,4-diethyloctane", "4,5-diethyloctane"],
+      "keywords": [
+        "diethyloctane",
+        "skeletal formulae",
+        "structural isomers",
+        "C12H26",
+        "branched alkane",
+        "4,4-diethyloctane",
+        "4,5-diethyloctane"
+      ],
       "question": "Draw the skeletal formulae of the two remaining diethyloctane isomers, given the names 3,3-; 3,4-; 3,5-; and 3,6-diethyloctane.",
       "status": "ready",
       "answer": "4,4-diethyloctane (both ethyl groups on C4) and 4,5-diethyloctane (one ethyl on C4 and one on C5).",
@@ -1959,6 +3565,11 @@
         "The possible pairs are 3,3; 3,4; 3,5; 3,6; 4,4; 4,5 (others are mirror images of these).",
         "The two not yet drawn are 4,4 and 4,5.",
         "Draw an eight-carbon chain with two ethyl (CH2CH3) branches on C4 (4,4) and on C4 and C5 (4,5)."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-37.jpg",
+        "papers/chemistry/img/04B-Alkanes-38.jpg",
+        "papers/chemistry/img/04B-Alkanes-39.jpg"
       ]
     },
     {
@@ -1966,7 +3577,15 @@
       "no": "Q46",
       "marks": 1,
       "topic": "Hydrogen Atoms in Methane",
-      "keywords": ["methane", "hydrogen atoms", "moles", "Avogadro constant", "14 g", "molar mass", "CH4"],
+      "keywords": [
+        "methane",
+        "hydrogen atoms",
+        "moles",
+        "Avogadro constant",
+        "14 g",
+        "molar mass",
+        "CH4"
+      ],
       "question": "How many hydrogen atoms are in 14 g of methane? [L = 6.02 x 10^23] A 5.268 x 10^23; B 6.880 x 10^23; C 2.107 x 10^24; D 2.752 x 10^24.",
       "status": "ready",
       "answer": "C (2.107 x 10^24)",
@@ -1975,6 +3594,9 @@
         "Moles of CH4 = 14 g / 16.0 g mol-1 = 0.875 mol.",
         "Each CH4 has 4 H atoms, so H atoms = 4 x 0.875 = 3.5 mol.",
         "Number of H atoms = 3.5 x 6.02 x 10^23 = 2.107 x 10^24."
+      ],
+      "images": [
+        "papers/chemistry/img/04B-Alkanes-39.jpg"
       ]
     }
   ]

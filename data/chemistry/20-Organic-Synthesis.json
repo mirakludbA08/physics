@@ -20,7 +20,12 @@
       "question": "A student drew a mechanism for nitrobenzene formation. Describe the three changes needed to correct it. The student's diagram is only in the PDF.",
       "status": "pending",
       "answer": "Needs the student's mechanism diagram from the PDF to identify the three errors.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-001.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-002.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-003.jpg"
+      ]
     },
     {
       "id": "Ch20-Q1a(ii)",
@@ -42,6 +47,11 @@
         "Nitrobenzene is reduced to phenylamine, so the NO2 group becomes NH2.",
         "Sn and concentrated HCl are the standard reducing system.",
         "NaOH is added at the end to neutralise the acid and release free phenylamine."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-001.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-002.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-003.jpg"
       ]
     },
     {
@@ -65,6 +75,11 @@
         "This delocalisation spreads the electron density, so the lone pair is held less tightly on N.",
         "Less electron density is available on N to accept a proton.",
         "NH3 has a localised lone pair, so it is the stronger base."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-001.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-002.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-003.jpg"
       ]
     },
     {
@@ -87,6 +102,11 @@
         "Phenylamine is a weak base and produces a small amount of OH- in water.",
         "Cu2+ + 2OH- gives Cu(OH)2.",
         "Cu(OH)2 is an insoluble pale blue precipitate."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-001.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-002.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-003.jpg"
       ]
     },
     {
@@ -109,6 +129,11 @@
         "The primary aromatic amine is converted to a diazonium ion.",
         "NaNO2 reacts with HCl to form nitrous acid in situ.",
         "The temperature is kept at 0-5 C so the diazonium ion does not decompose."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-001.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-002.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-003.jpg"
       ]
     },
     {
@@ -127,7 +152,12 @@
       "question": "Deduce the structure of the organic compound that reacts with the diazonium ion in Step 2 to form azo violet.",
       "status": "pending",
       "answer": "Needs the azo violet structure from the PDF to identify the coupling partner.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-001.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-002.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-003.jpg"
+      ]
     },
     {
       "id": "Ch20-Q1c(iii)",
@@ -149,6 +179,11 @@
         "The N=N double bond cannot rotate freely.",
         "Each nitrogen in the N=N bond is bonded to a different group.",
         "So the groups can be arranged on the same side (Z) or opposite sides (E)."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-001.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-002.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-003.jpg"
       ]
     },
     {
@@ -167,7 +202,12 @@
       "question": "Complete the diagram to show the other optical isomer of phenylalanine.",
       "status": "pending",
       "answer": "Needs the partial diagram from the PDF to draw the mirror-image enantiomer.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-001.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-002.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-003.jpg"
+      ]
     },
     {
       "id": "Ch20-Q2",
@@ -185,7 +225,15 @@
       "question": "A solution contains 19.6 g dm-3 of Cr2(SO4)3 (Mr 392). Options A 0.05, B 0.10, C 0.15, D 0.25 are given. The question wording is missing from the text.",
       "status": "pending",
       "answer": "Question stem missing from the text. Concentration of Cr2(SO4)3 is 0.05 mol dm-3; check which species the PDF asks for.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-004.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-005.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-006.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-007.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
+      ]
     },
     {
       "id": "Ch20-Q3",
@@ -208,6 +256,14 @@
         "Chromium's common compounds include Cr(VI) in chromate and dichromate.",
         "Maximum oxidation state is +6; +7 is not seen for chromium.",
         "Answer C."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-004.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-005.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-006.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-007.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
       ]
     },
     {
@@ -231,6 +287,14 @@
         "Balance F: 6 F on the left, so 3CaF2 is needed.",
         "Balance Ca: 3 Ca on the left.",
         "Balance Ho: 2 Ho on the right."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-004.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-005.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-006.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-007.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
       ]
     },
     {
@@ -253,6 +317,14 @@
         "The 4f7 sub-shell is exactly half-filled.",
         "Half-filled sub-shells have extra stability from exchange energy.",
         "This stability outweighs the cost of promoting one electron to 5d."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-004.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-005.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-006.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-007.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
       ]
     },
     {
@@ -275,6 +347,14 @@
         "Sm (Z = 62) has configuration [Xe]4f6 6s2.",
         "Sm3+ loses 3 electrons: both 6s electrons and one 4f electron.",
         "So Sm3+ is [Xe]4f5."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-004.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-005.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-006.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-007.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
       ]
     },
     {
@@ -298,6 +378,14 @@
         "Added 4f electrons shield each other poorly.",
         "The effective nuclear charge on the outer electrons increases, so the ion shrinks.",
         "Tm3+ therefore has a smaller radius than Ce3+."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-004.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-005.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-006.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-007.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
       ]
     },
     {
@@ -320,6 +408,14 @@
         "Lanthanide ions have large radii, leaving room for more ligands around them.",
         "The 4f orbitals are buried and do not form strong directional bonds.",
         "So bonding is mainly electrostatic, and more ligands can pack around the ion."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-004.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-005.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-006.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-007.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
       ]
     },
     {
@@ -338,7 +434,15 @@
       "question": "Explain why solutions containing [La(H2O)9]3+ ... (the question is cut off in the text).",
       "status": "pending",
       "answer": "Question wording is cut off in the text; needs the full question from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-004.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-005.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-006.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-007.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
+      ]
     },
     {
       "id": "Ch20-Q4e(i)",
@@ -361,6 +465,14 @@
         "Divide by 0.1711: Ce 1, N 8, H 12, O 20, so the empirical formula is CeN8H12O20.",
         "Two NH4+ give N2H8, the six NO3- give N6O18, so the remaining H4O2 is two H2O.",
         "Overall formula: (NH4)2[Ce(NO3)6].2H2O."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-004.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-005.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-006.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-007.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
       ]
     },
     {
@@ -384,6 +496,14 @@
         "CAN gives a red colour with tertiary alcohols, consistent with X being an alcohol.",
         "Optical isomers need a chiral carbon with four different groups.",
         "In 3-methylhexan-3-ol, C3 carries OH, CH3, ethyl and propyl, all different, so it is chiral."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-004.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-005.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-006.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-007.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
       ]
     },
     {
@@ -409,6 +529,14 @@
         "In 100.0 cm3 there is 4.340 x 10^-3 mol, equal to paracetamol moles (1:1 hydrolysis).",
         "Mass paracetamol = 4.340 x 10^-3 x 151.2 = 0.656 g.",
         "Percentage = 0.656 / 0.800 x 100 = 82.0%."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-004.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-005.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-006.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-007.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
       ]
     },
     {
@@ -427,7 +555,14 @@
       "question": "Which of the following species will not act as a ligand in the formation of a complex ion? The options are in the PDF and are not present in the text.",
       "status": "pending",
       "answer": "Needs the list of species from the PDF options.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-010.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-011.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
+      ]
     },
     {
       "id": "Ch20-Q6a",
@@ -450,6 +585,13 @@
         "Bromine water is decolourised by C=C bonds (addition reaction).",
         "Benzene has delocalised electrons and does not decolourise bromine water at room temperature.",
         "Result: orange bromine water turns colourless with Dewar benzene only."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-010.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-011.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
       ]
     },
     {
@@ -473,6 +615,13 @@
         "Benzene's H are on sp2 carbons in an aromatic ring: 6.0-9.0 ppm in the Data Booklet.",
         "Ladenburg H are on sp3 carbons, so they appear at lower shift, around 0.5-2 ppm.",
         "So the peak appears at a different chemical shift."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-010.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-011.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
       ]
     },
     {
@@ -496,6 +645,13 @@
         "All C-C bonds in benzene are the same length.",
         "This length lies between a C-C single bond (0.154 nm) and a C=C double bond (0.134 nm).",
         "A Kekule structure would show alternating long and short bonds, which is not observed."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-010.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-011.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
       ]
     },
     {
@@ -519,6 +675,13 @@
         "Dewar isomerises with -297 kJ mol-1, so Dewar lies 297 kJ mol-1 above benzene.",
         "Ladenburg isomerises with -376 kJ mol-1, so it lies 376 kJ mol-1 above benzene.",
         "Label each level with its value; Ladenburg is least stable."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-010.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-011.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
       ]
     },
     {
@@ -541,6 +704,13 @@
         "Dewar benzene has strained bonds and is less stable than benzene.",
         "Its starting energy is higher, so the energy barrier to rearrangement is lower.",
         "Ladenburg is more strained still, but the barrier to its conversion is higher in this comparison."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-010.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-011.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
       ]
     },
     {
@@ -559,7 +729,14 @@
       "question": "Use benzene thermochemistry to explain both enthalpy changes of hydrogenation in the table, relative to hex-3-ene (-118 kJ mol-1). The table values are in the PDF.",
       "status": "pending",
       "answer": "Needs the table of two alkene hydrogenation enthalpy values from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-010.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-011.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
+      ]
     },
     {
       "id": "Ch20-Q6f(i)",
@@ -582,6 +759,13 @@
         "Ortho: CH3 and COCH3 on adjacent carbons.",
         "Meta: one carbon between them.",
         "Para: opposite carbons on the ring."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-010.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-011.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
       ]
     },
     {
@@ -600,7 +784,14 @@
       "question": "Identify compound X from its 13C NMR spectrum, using the number of peaks to justify.",
       "status": "pending",
       "answer": "Needs the 13C NMR spectrum from the PDF to count the peaks.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-010.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-011.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
+      ]
     },
     {
       "id": "Ch20-Q6f(iii)",
@@ -624,6 +815,13 @@
         "An arenium (sigma) ion forms, with positive charge delocalised over the ring.",
         "AlCl4- removes H+ from the ring (curly arrow from C-H to the base), restoring the aromatic ring.",
         "Catalyst regeneration: AlCl4- + H+ gives AlCl3 + HCl."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-009.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-010.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-011.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
       ]
     },
     {
@@ -646,6 +844,11 @@
         "Butanone is CH3COCH2CH3 (M = 72).",
         "Alpha-cleavage on one side of C=O gives the acylium ion CH3CO+ (43).",
         "Cleavage on the other side gives CH3CH2CO+ (57)."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-014.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-015.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-016.jpg"
       ]
     },
     {
@@ -668,6 +871,11 @@
         "Any fragment with a different mass is acceptable.",
         "CH3CH2+ has m/z 29 from cleavage of the C-C bond next to C=O.",
         "The molecular ion has m/z 72."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-014.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-015.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-016.jpg"
       ]
     },
     {
@@ -691,6 +899,11 @@
         "Step 1: I2 with NaOH(aq), warm, gives sodium propanoate, CH3CH2COO- Na+, plus CHI3.",
         "Step 2: acidify with dilute HCl to give propanoic acid, CH3CH2COOH.",
         "Step 3: reduce with LiAlH4 in dry ether, then add water, to give propan-1-ol, CH3CH2CH2OH."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-014.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-015.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-016.jpg"
       ]
     },
     {
@@ -715,6 +928,11 @@
         "Step 2: heat with concentrated H2SO4 or H3PO4 (acid-catalysed elimination), losing water.",
         "Major product 2-methylbut-2-ene (Saytzeff product); 2-methylbut-1-ene is a minor product.",
         "Distil off the alkene as it forms to shift the equilibrium."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-014.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-015.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-016.jpg"
       ]
     },
     {
@@ -733,7 +951,15 @@
       "question": "Explain what the alternative diagram of caffeine indicates about its bonding and the effect on its structure.",
       "status": "pending",
       "answer": "Needs the alternative caffeine diagram from the PDF to identify the bonding shown.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-016.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-017.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-018.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-019.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-020.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-021.jpg"
+      ]
     },
     {
       "id": "Ch20-Q8a(ii)",
@@ -756,6 +982,14 @@
         "Their lone pairs overlap with pi electrons in the ring and with C=O groups.",
         "This delocalisation makes the lone pairs less available for protonation.",
         "Ethylamine has a localised lone pair on a simple alkyl amine, so it is much more basic."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-016.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-017.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-018.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-019.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-020.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-021.jpg"
       ]
     },
     {
@@ -779,6 +1013,14 @@
         "Moles = 0.085 g / 194.2 g mol-1 = 4.38 x 10^-4 mol.",
         "Volume = 0.200 dm3.",
         "Concentration = 4.38 x 10^-4 / 0.200 = 2.19 x 10^-3, i.e. 2.2 x 10^-3 mol dm-3 to 2 significant figures."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-016.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-017.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-018.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-019.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-020.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-021.jpg"
       ]
     },
     {
@@ -801,6 +1043,14 @@
         "160 mg to 20 mg is a factor of 8, so 3 half-lives are needed.",
         "The minimum time uses the shortest half-life, 3 h.",
         "Minimum time = 3 x 3 = 9 hours."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-016.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-017.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-018.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-019.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-020.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-021.jpg"
       ]
     },
     {
@@ -819,7 +1069,15 @@
       "question": "Draw the mechanism of the proposed electrophilic substitution of 1,2-dihydroxybenzene to give caffeic acid, including formation of the electrophile.",
       "status": "pending",
       "answer": "Needs the caffeic acid and electrophile structures from the PDF to draw the mechanism.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-016.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-017.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-018.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-019.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-020.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-021.jpg"
+      ]
     },
     {
       "id": "Ch20-Q8c(ii)",
@@ -837,7 +1095,15 @@
       "question": "Deduce the structure of quinic acid that combines with caffeic acid to form chlorogenic acid.",
       "status": "pending",
       "answer": "Needs the quinic acid structure from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-016.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-017.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-018.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-019.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-020.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-021.jpg"
+      ]
     },
     {
       "id": "Ch20-Q8d(i)",
@@ -855,7 +1121,15 @@
       "question": "Identify and label the other proton environments on the acetoin structure, labelling them B, C etc.",
       "status": "pending",
       "answer": "Needs the acetoin structure from the PDF to label the other environments.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-016.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-017.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-018.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-019.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-020.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-021.jpg"
+      ]
     },
     {
       "id": "Ch20-Q8d(ii)",
@@ -873,7 +1147,15 @@
       "question": "Complete the table to show the splitting pattern in the high resolution proton NMR spectrum of acetoin.",
       "status": "pending",
       "answer": "Needs the table layout from the PDF to fill in splitting patterns.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-016.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-017.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-018.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-019.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-020.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-021.jpg"
+      ]
     },
     {
       "id": "Ch20-Q9",
@@ -894,6 +1176,9 @@
         "Impurities disrupt the crystal lattice.",
         "This weakens the intermolecular forces, so less energy is needed to melt.",
         "The melting range is lowered and broadened, so the measured value is lower."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-021.jpg"
       ]
     },
     {
@@ -917,6 +1202,10 @@
         "Methanal gives primary alcohols, so not all aldehydes give secondary alcohols (B wrong).",
         "Ketones give tertiary alcohols, not secondary (C wrong).",
         "RMgBr + CO2 gives RCOO- MgBr, which gives RCOOH on acidification (D correct)."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-022.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-023.jpg"
       ]
     },
     {
@@ -940,6 +1229,10 @@
         "The CH proton couples to six CH3 protons, giving a heptet.",
         "The OH proton does not split and appears as a singlet.",
         "Answer A."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-022.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-023.jpg"
       ]
     },
     {
@@ -962,6 +1255,10 @@
         "KOH absorbs CO2: 100 cm3 CO2 from 25 cm3 hydrocarbon, so x = 4.",
         "Cooling condenses water: contraction = 25(1 + y/4) = 75, so 1 + y/4 = 3, y = 8.",
         "Molecular formula C4H8."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-022.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-023.jpg"
       ]
     },
     {
@@ -984,6 +1281,10 @@
         "Bromine water is decolourised by C=C double bonds.",
         "No decolourisation means no alkene, so the C4H8 must be cyclic.",
         "Two cyclic C4H8 isomers are cyclobutane and methylcyclopropane."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-022.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-023.jpg"
       ]
     },
     {
@@ -1002,7 +1303,11 @@
       "question": "How many peaks will the 13C NMR spectrum of the hydrocarbon shown have? Options: four, five, seven, eight.",
       "status": "pending",
       "answer": "Needs the hydrocarbon structure from the PDF to count carbon environments.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-023.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-024.jpg"
+      ]
     },
     {
       "id": "Ch20-Q14",
@@ -1019,7 +1324,11 @@
       "question": "What are the bond stretches responsible for peaks P and Q in the IR spectrum of an aliphatic compound?",
       "status": "pending",
       "answer": "Needs the IR spectrum and option list from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-024.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-025.jpg"
+      ]
     },
     {
       "id": "Ch20-Q15",
@@ -1042,6 +1351,10 @@
         "Moles H2O = 0.81/18 = 0.045 mol, so H = 0.090 mol.",
         "C:H = 0.060:0.090 = 2:3, so the empirical formula is C2H3.",
         "C2H3 has an odd number of H and is a radical, so it cannot be a stable molecule; C4H6 (2 x C2H3) is the stable option. Answer C."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-025.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-026.jpg"
       ]
     },
     {
@@ -1063,6 +1376,10 @@
         "Carbon environments: CH3 (1), C1 bearing the methyl (1), C2/C6 pair (1), C3/C5 pair (1), C4 (1).",
         "That gives five distinct environments.",
         "Answer C."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-025.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-026.jpg"
       ]
     },
     {
@@ -1086,6 +1403,11 @@
         "Mr FeCl2 = 55.8 + 70.9 = 126.7.",
         "Remaining mass 198.8 - 126.7 = 72.1, which is 4 x 18.0 (H2O).",
         "Formula FeCl2.4H2O."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-026.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-027.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg"
       ]
     },
     {
@@ -1106,6 +1428,11 @@
       "steps": [
         "Fe2+ in water is surrounded by six H2O ligands.",
         "The aqua ion is pale green, matching the description."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-026.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-027.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg"
       ]
     },
     {
@@ -1127,6 +1454,11 @@
         "Fe2+ with six CN- ligands gives [Fe(CN)6]4- (charge: 2 + 6(-1) = -4).",
         "Six-coordinate complexes are octahedral with bond angles of 90 degrees.",
         "Cyanide binds through carbon, so each ligand is drawn C-bonded to Fe."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-026.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-027.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg"
       ]
     },
     {
@@ -1148,6 +1480,11 @@
         "Moles: K 35.6/39.1 = 0.910; Fe 17.0/55.8 = 0.305; C 21.9/12.0 = 1.82; N 25.5/14.0 = 1.82.",
         "Divide by 0.305: K 3.0, Fe 1.0, C 6.0, N 6.0.",
         "Empirical formula K3FeC6N6."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-026.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-027.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg"
       ]
     },
     {
@@ -1170,6 +1507,11 @@
         "Fe changes from +2 to +3, so each Fe loses one electron.",
         "Cl2 gains two electrons to form 2Cl-.",
         "Balance: 2 complex ions oxidised, 2 electrons taken by Cl2."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-026.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-027.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg"
       ]
     },
     {
@@ -1188,7 +1530,12 @@
       "question": "Complete the table to identify the type of each reaction in the iron scheme.",
       "status": "pending",
       "answer": "Needs the table layout from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-026.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-027.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg"
+      ]
     },
     {
       "id": "Ch20-Q18a",
@@ -1205,7 +1552,16 @@
       "question": "Complete the left-hand side of the equation for the reaction of a free radical with curcumin by adding curly half-arrows.",
       "status": "pending",
       "answer": "Needs the equation diagram from the PDF to add the half-arrows.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-030.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-031.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-032.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
+      ]
     },
     {
       "id": "Ch20-Q18b",
@@ -1223,7 +1579,16 @@
       "question": "Complete the mechanism for one step of the nucleophilic addition of selenide anions to curcumin, adding curly arrows.",
       "status": "pending",
       "answer": "Needs the simplified structures from the PDF to add the curly arrows.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-030.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-031.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-032.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
+      ]
     },
     {
       "id": "Ch20-Q18c",
@@ -1241,7 +1606,16 @@
       "question": "Complete the table relating to two M-curc complexes, in which curcumin anions act as ligands.",
       "status": "pending",
       "answer": "Needs the table from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-030.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-031.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-032.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
+      ]
     },
     {
       "id": "Ch20-Q18d(i)",
@@ -1259,7 +1633,16 @@
       "question": "State the reagents and conditions needed in Step X of the methyl red synthesis.",
       "status": "pending",
       "answer": "Needs the synthesis scheme from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-030.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-031.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-032.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
+      ]
     },
     {
       "id": "Ch20-Q18d(ii)",
@@ -1276,7 +1659,16 @@
       "question": "Draw the structure of compound A in the methyl red synthesis.",
       "status": "pending",
       "answer": "Needs the scheme from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-030.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-031.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-032.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
+      ]
     },
     {
       "id": "Ch20-Q18d(iii)",
@@ -1293,7 +1685,16 @@
       "question": "State the reagents needed in Step Y of the methyl red synthesis.",
       "status": "pending",
       "answer": "Needs the scheme from the PDF (expected NaNO2 with dilute HCl for diazotisation).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-030.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-031.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-032.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
+      ]
     },
     {
       "id": "Ch20-Q18d(iv)",
@@ -1310,7 +1711,16 @@
       "question": "Draw the structure of compound B in the methyl red synthesis.",
       "status": "pending",
       "answer": "Needs the scheme from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-030.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-031.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-032.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
+      ]
     },
     {
       "id": "Ch20-Q18d(v)",
@@ -1333,6 +1743,15 @@
         "This would reduce the yield of the azo dye.",
         "Below about 5 C the rate of reaction is too slow to be practical.",
         "So 5 C is the best compromise between stability and rate."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-030.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-031.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-032.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
       ]
     },
     {
@@ -1356,6 +1775,15 @@
         "Propanone supplies the remaining C3, so one carbon leaves as CO2.",
         "Balancing H and O gives 3 H2O as the other by-product.",
         "Check: C 17 = 16 + 1; H 16 = 10 + 6; O 7 = 2 + 2 + 3; N 2 = 2."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-030.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-031.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-032.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
       ]
     },
     {
@@ -1379,6 +1807,15 @@
         "Two 2-nitrobenzaldehyde (Mr 151.1) per indigotin: theoretical 0.0763 mol.",
         "Corrected for 85.0% yield: 0.0763/0.850 = 0.0897 mol.",
         "Mass = 0.0897 x 151.1 = 13.6 g."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-030.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-031.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-032.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
       ]
     },
     {
@@ -1396,7 +1833,16 @@
       "question": "Give the structure of the organic product of hydrolysis of coumarin 440 with excess aqueous NaOH.",
       "status": "pending",
       "answer": "Needs the coumarin 440 structure from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-030.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-031.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-032.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
+      ]
     },
     {
       "id": "Ch20-Q18f(ii)",
@@ -1413,7 +1859,16 @@
       "question": "Give the structure of the organic product of condensation of coumarin 440 with ethanoyl chloride.",
       "status": "pending",
       "answer": "Needs the coumarin 440 structure from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-030.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-031.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-032.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
+      ]
     },
     {
       "id": "Ch20-Q19",
@@ -1436,6 +1891,11 @@
         "Equation: C3H8O3 + 3.5 O2 to 3 CO2 + 4 H2O.",
         "O2 needed = 3.5 x 0.100 = 0.350 mol.",
         "Volume = 0.350 x 24.0 = 8.4 dm3."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-034.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-035.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-036.jpg"
       ]
     },
     {
@@ -1459,6 +1919,11 @@
         "Moles H2O = 3.30/18.02 = 0.1831 mol, so H = 0.3663 mol.",
         "Mass C + H = 4.93 + 0.37 = 5.30 g; O = 6.02 - 5.30 = 0.72 g, i.e. 0.0450 mol.",
         "C:H:O = 0.4106 : 0.3663 : 0.0450 = 9.1 : 8.1 : 1, giving C9H8O."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-034.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-035.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-036.jpg"
       ]
     },
     {
@@ -1484,6 +1949,11 @@
         "Decolourises bromine water: a C=C double bond.",
         "Geometric (E/Z) isomers: the C=C has two different groups on each carbon.",
         "Together: C6H5-CH=CH-CHO, cinnamaldehyde."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-034.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-035.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-036.jpg"
       ]
     },
     {
@@ -1507,6 +1977,10 @@
         "Step 2: KCN in ethanol under reflux (nucleophilic substitution) adds one carbon: CH3CH2CH(CH3)CN.",
         "Step 3: heat under reflux with dilute HCl (hydrolysis of nitrile) gives 2-methylbutanoic acid.",
         "Step 4: heat with ethanol and conc. H2SO4 (esterification) gives ethyl 2-methylbutanoate."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-036.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-037.jpg"
       ]
     },
     {
@@ -1530,6 +2004,10 @@
         "Moles H2O = 3.58/18.02 = 0.1987 mol, so H = 0.3973 mol (0.400 g).",
         "O mass = 4.91 - 3.98 - 0.40 = 0.53 g, i.e. 0.0328 mol.",
         "C:H:O = 0.3318 : 0.3973 : 0.0328 = 10.1 : 12.1 : 1, so C10H12O (Mr 148 confirmed)."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-036.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-037.jpg"
       ]
     },
     {
@@ -1548,7 +2026,11 @@
       "question": "Deduce the structure of Q from its high resolution proton NMR spectrum, using peak areas, chemical shifts and splitting.",
       "status": "pending",
       "answer": "Needs the NMR spectrum from the PDF to read peak areas and splitting.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-036.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-037.jpg"
+      ]
     },
     {
       "id": "Ch20-Q23a(i)",
@@ -1565,7 +2047,12 @@
       "question": "A student proposed a mechanism for Step 1. Identify two errors by circling them.",
       "status": "pending",
       "answer": "Needs the student's mechanism diagram from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-038.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-039.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-040.jpg"
+      ]
     },
     {
       "id": "Ch20-Q23a(ii)",
@@ -1582,7 +2069,12 @@
       "question": "State how the errors identified in (a)(i) should be corrected, justifying in terms of the structures.",
       "status": "pending",
       "answer": "Depends on the errors identified in the PDF diagram (a)(i).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-038.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-039.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-040.jpg"
+      ]
     },
     {
       "id": "Ch20-Q23b",
@@ -1599,7 +2091,12 @@
       "question": "Give a reason why it is important to keep the temperature below 30 C in Step 2.",
       "status": "pending",
       "answer": "Needs the Step 2 reaction from the PDF scheme.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-038.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-039.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-040.jpg"
+      ]
     },
     {
       "id": "Ch20-Q23c",
@@ -1615,7 +2112,12 @@
       "question": "State the type of reaction in Step 3.",
       "status": "pending",
       "answer": "Needs the Step 3 reaction from the PDF scheme.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-038.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-039.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-040.jpg"
+      ]
     },
     {
       "id": "Ch20-Q23d",
@@ -1632,7 +2134,12 @@
       "question": "Identify, by name or formula, the reagents needed for Step 4.",
       "status": "pending",
       "answer": "Needs the Step 4 reaction from the PDF scheme.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-038.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-039.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-040.jpg"
+      ]
     },
     {
       "id": "Ch20-Q23e",
@@ -1655,6 +2162,11 @@
         "The C of C=O in ethanoyl chloride is delta+ because O and Cl are electronegative.",
         "The N lone pair attacks this carbon, forming a tetrahedral intermediate.",
         "Cl- is eliminated, reforming C=O and giving the amide with HCl."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-038.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-039.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-040.jpg"
       ]
     },
     {
@@ -1678,6 +2190,11 @@
         "Theoretical product = 0.0330/0.282 = 0.117 mol.",
         "One benzene ring per product, so 0.117 mol benzene (Mr 78.1), i.e. 9.15 g.",
         "Volume = 9.15/0.879 = 10.4 cm3 (3 significant figures)."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-038.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-039.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-040.jpg"
       ]
     },
     {
@@ -1700,6 +2217,10 @@
         "Ethanol and propanone react with the Grignard reagent.",
         "Ether is a dry aprotic solvent that dissolves the reagent.",
         "Answer B."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-040.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-041.jpg"
       ]
     },
     {
@@ -1720,6 +2241,10 @@
         "Anti-bumping granules provide nucleation sites for bubbles.",
         "This prevents superheating and sudden violent boiling (bumping).",
         "Answer D."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-040.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-041.jpg"
       ]
     },
     {
@@ -1741,6 +2266,10 @@
         "Magnesium is less electronegative than carbon, so the C-Mg bond is polarised with C delta-.",
         "A carbanion-like carbon with a lone pair is nucleophilic.",
         "Answer D."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-040.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-041.jpg"
       ]
     },
     {
@@ -1763,6 +2292,10 @@
         "The carbonyl carbon must carry the ethyl and propyl groups: CH3CH2-C(=O)-CH2CH2CH3.",
         "That ketone is hexan-3-one.",
         "Grignard addition then acid work-up gives the tertiary alcohol, option A."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-040.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-041.jpg"
       ]
     },
     {
@@ -1780,7 +2313,11 @@
       "question": "The infrared spectrum of compound X is shown. Which could be compound X? Options are in the PDF.",
       "status": "pending",
       "answer": "Needs the IR spectrum and options from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-041.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-042.jpg"
+      ]
     },
     {
       "id": "Ch20-Q26",
@@ -1797,7 +2334,11 @@
       "question": "The high resolution mass spectrum of a compound is shown. What is the m/z of its molecular ion? Options A 92.0261, B 92.0312, C 93.0339, D 93.0390. The compound structure is in the PDF.",
       "status": "pending",
       "answer": "Needs the compound structure from the PDF to calculate the exact mass.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-042.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-043.jpg"
+      ]
     },
     {
       "id": "Ch20-Q27",
@@ -1814,7 +2355,14 @@
       "question": "How many peaks will the 13C NMR spectrum of the hydrocarbon shown have? Options: four, five, six, seven.",
       "status": "pending",
       "answer": "Needs the hydrocarbon structure from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-043.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-044.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-045.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-046.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-047.jpg"
+      ]
     },
     {
       "id": "Ch20-Q28a",
@@ -1831,7 +2379,14 @@
       "question": "Calculate the percentage composition by mass of the elements in salicin.",
       "status": "pending",
       "answer": "Needs the salicin structure or molecular formula from the PDF (expected C13H18O7, not printed in the text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-043.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-044.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-045.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-046.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-047.jpg"
+      ]
     },
     {
       "id": "Ch20-Q28b(i)",
@@ -1852,6 +2407,13 @@
         "Salicyl alcohol is a primary alcohol.",
         "Excess oxidising agent with heat under reflux oxidises it fully to the carboxylic acid.",
         "Acidified K2Cr2O7 (orange to green) is the oxidant."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-043.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-044.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-045.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-046.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-047.jpg"
       ]
     },
     {
@@ -1874,6 +2436,13 @@
         "Distilling it off requires temperatures near 197 C, close to the boiling point of the alcohol.",
         "The alcohol and aldehyde therefore distil together, so separation is poor.",
         "Some aldehyde is lost as the acid, lowering the yield."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-043.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-044.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-045.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-046.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-047.jpg"
       ]
     },
     {
@@ -1895,6 +2464,13 @@
         "AlCl3 accepts a chloride ion from HCOCl.",
         "This produces the formyl cation [H-C≡O]+ (the electrophile) and AlCl4-.",
         "Show displayed formulae with the C-Cl bond breaking."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-043.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-044.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-045.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-046.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-047.jpg"
       ]
     },
     {
@@ -1918,6 +2494,13 @@
         "An arenium ion forms with positive charge delocalised over the ring.",
         "AlCl4- removes H+ from the ring, with the C-H electrons returning to restore aromaticity.",
         "Products: benzaldehyde, AlCl3 and HCl."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-043.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-044.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-045.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-046.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-047.jpg"
       ]
     },
     {
@@ -1936,7 +2519,14 @@
       "question": "Devise a synthesis of intermediate F from salicylaldehyde and bromoethane as the only organic starting materials, with reagents, intermediates and conditions.",
       "status": "pending",
       "answer": "Needs the structure of F from the PDF scheme to devise the route.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-043.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-044.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-045.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-046.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-047.jpg"
+      ]
     },
     {
       "id": "Ch20-Q28e(i)",
@@ -1959,6 +2549,13 @@
         "All four donor atoms bond to Ni2+ through dative (coordinate) covalent bonds from lone pairs.",
         "The complex is square planar with the two O atoms and two N atoms in one plane.",
         "Draw two chelate rings, each including Ni."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-043.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-044.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-045.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-046.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-047.jpg"
       ]
     },
     {
@@ -1981,6 +2578,13 @@
         "Salen binds through four donor atoms, forming chelate rings.",
         "Each salen ligand replaces four water molecules, increasing the number of particles in solution.",
         "This gives a large positive entropy change, making the complex more stable (chelate effect)."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-043.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-044.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-045.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-046.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-047.jpg"
       ]
     },
     {
@@ -2002,6 +2606,10 @@
         "The PET repeat unit is -OCC6H4COOCH2CH2-, formula C10H8O4 (M = 192.2).",
         "Mass of C = 10 x 12.0 = 120.1.",
         "%C = 120.1/192.2 x 100 = 62.5%."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-047.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-048.jpg"
       ]
     },
     {
@@ -2023,6 +2631,10 @@
         "Two equivalent C-COOH ring carbons (C1 and C4) give one peak.",
         "The four equivalent ring C-H carbons give one peak.",
         "The two equivalent COOH carbons give one peak; total 3."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-047.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-048.jpg"
       ]
     },
     {
@@ -2041,7 +2653,11 @@
       "question": "The repeat unit of another polymer is shown. The polymer is formed from: A single monomer by addition, B single monomer by condensation, C two monomers by addition, D two monomers by condensation.",
       "status": "pending",
       "answer": "Needs the repeat unit diagram from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-047.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-048.jpg"
+      ]
     },
     {
       "id": "Ch20-Q30a",
@@ -2062,6 +2678,10 @@
         "Ring carbons: ipso C (1), ortho pair (1), meta pair (1), para C (1) = 4 environments.",
         "CH3 carbon (1).",
         "Total 5, option C."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-048.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-049.jpg"
       ]
     },
     {
@@ -2082,6 +2702,10 @@
         "The NO2+ ion is the electrophile.",
         "It attacks the aromatic ring, which keeps its delocalised system.",
         "An H atom is replaced by NO2, so it is substitution, not addition."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-048.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-049.jpg"
       ]
     },
     {
@@ -2103,6 +2727,10 @@
         "Theoretical mass = 10 x 227/92.",
         "Actual mass = theoretical x yield/100 = theoretical x 85/100.",
         "Combined: (10 x 85 x 227)/(92 x 100), option A."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-048.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-049.jpg"
       ]
     },
     {
@@ -2127,6 +2755,13 @@
         "Step 3: add the Grignard to solid CO2 (dry ice), which forms C6H5COOMgBr.",
         "Step 4: add dilute acid (H3O+) to give benzoic acid, C6H5COOH.",
         "The dry conditions are needed to stop the Grignard reacting with water."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-049.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-050.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-051.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-052.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-053.jpg"
       ]
     },
     {
@@ -2151,6 +2786,13 @@
         "The COOH group is electron-withdrawing and directs meta, so attack at C3 gives the most stable arenium ion.",
         "HSO4- (or H2O) removes H+ from the arenium ion (curly arrow from C-H to base).",
         "Regeneration: H3O+ + HSO4- gives H2SO4 + H2O, so the sulfuric acid catalyst is regenerated."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-049.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-050.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-051.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-052.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-053.jpg"
       ]
     },
     {
@@ -2171,6 +2813,13 @@
       "steps": [
         "The nitro group is reduced to an amine.",
         "Sn with concentrated HCl is the standard reagent, with NaOH added to release the free amine."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-049.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-050.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-051.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-052.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-053.jpg"
       ]
     },
     {
@@ -2192,6 +2841,13 @@
         "Sodium nitrite and dilute HCl form nitrous acid.",
         "Diazonium ions are unstable and decompose at higher temperatures, releasing N2.",
         "So the reaction is kept at 0-5 C."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-049.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-050.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-051.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-052.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-053.jpg"
       ]
     },
     {
@@ -2214,6 +2870,13 @@
         "The diazonium group sits meta to COOH on the benzoic acid ring.",
         "Phenol couples at the para position to its OH group.",
         "The product has N=N linking the two rings."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-049.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-050.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-051.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-052.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-053.jpg"
       ]
     },
     {
@@ -2238,6 +2901,13 @@
         "Molar mass = 2.60/8.66 x 10^-3 = 300.3 g mol-1.",
         "Anhydrous Ca(C6H5COO)2 Mr = 40.1 + 242.2 = 282.3.",
         "Difference = 18.0 = 1 x H2O, so x = 1."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-049.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-050.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-051.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-052.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-053.jpg"
       ]
     },
     {
@@ -2256,7 +2926,11 @@
       "question": "How would the solubility of cocaine in water and the pH of its aqueous solution compare with benzoylecgonine? Options are in the PDF.",
       "status": "pending",
       "answer": "Needs the option list from the PDF and the two structures.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-053.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-054.jpg"
+      ]
     },
     {
       "id": "Ch20-Q33",
@@ -2273,7 +2947,10 @@
       "question": "How should the solubility of a compound depend on temperature for recrystallisation? Options are in the PDF.",
       "status": "pending",
       "answer": "Needs the option list from the PDF (expected answer: solubility increases with temperature).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-054.jpg"
+      ]
     },
     {
       "id": "Ch20-Q34a(i)",
@@ -2295,6 +2972,11 @@
         "T = 185 + 273 = 458 K; V = 67.1 x 10^-6 m3.",
         "n = pV/RT = (105 000 x 67.1 x 10^-6)/(8.31 x 458) = 1.85 x 10^-3 mol.",
         "M = 0.235 g / 1.85 x 10^-3 mol = 127 g mol-1."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-055.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-056.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-057.jpg"
       ]
     },
     {
@@ -2318,6 +3000,11 @@
         "The rest of the molecule (ring plus NH) is C5H10N, Mr = 84.",
         "R = 127 - 84 = 43, which is C3H7 (propyl).",
         "Coniine is therefore C8H17N."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-055.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-056.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-057.jpg"
       ]
     },
     {
@@ -2335,7 +3022,12 @@
       "question": "Explain why only one of the two possible structures of R can give the low-resolution NMR data in the table.",
       "status": "pending",
       "answer": "Needs the NMR data table from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-055.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-056.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-057.jpg"
+      ]
     },
     {
       "id": "Ch20-Q34b(ii)",
@@ -2352,7 +3044,12 @@
       "question": "In the high resolution NMR data for R, proton environment 2 is a sextet. Deduce the splitting patterns for environments 1 and 3.",
       "status": "pending",
       "answer": "Needs the NMR data table from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-055.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-056.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-057.jpg"
+      ]
     },
     {
       "id": "Ch20-Q34c",
@@ -2375,6 +3072,11 @@
         "So C2 is a chiral centre.",
         "Two mirror-image forms (enantiomers) are non-superimposable, shown by drawing one as the mirror image of the other with R at the same position.",
         "This is optical isomerism; the two forms rotate plane-polarised light in opposite directions."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-055.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-056.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-057.jpg"
       ]
     },
     {
@@ -2400,6 +3102,11 @@
         "An arenium ion forms with positive charge delocalised over the ring.",
         "FeBr4- removes H+ from the ring (curly arrow from C-H to FeBr4-).",
         "Products: bromobenzene, HBr and FeBr3 regenerated."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-057.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-058.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-059.jpg"
       ]
     },
     {
@@ -2425,6 +3132,11 @@
         "Benzene's delocalised pi system is stable, so it needs a catalyst (FeBr3) and undergoes substitution to keep the ring.",
         "Phenol: the lone pair on O is donated into the ring, making it very reactive, so it substitutes at 2,4,6 without a catalyst (white precipitate of tribromophenol).",
         "Reasons: delocalisation makes benzene less reactive; the OH group activates the ring; substitution retains aromaticity."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-057.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-058.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-059.jpg"
       ]
     },
     {
@@ -2448,6 +3160,11 @@
         "Step 2: add solid CO2, then dilute acid, to give benzoic acid.",
         "Step 3: benzoic acid + SOCl2 (reflux) gives benzoyl chloride, C6H5COCl.",
         "Step 4: benzoyl chloride + excess concentrated NH3 (aq or alcoholic) gives benzamide, C6H5CONH2 + NH4Cl."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-057.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-058.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-059.jpg"
       ]
     },
     {
@@ -2465,7 +3182,12 @@
       "question": "Draw the repeat unit of the polyamide formed from the monomers shown.",
       "status": "pending",
       "answer": "Needs the monomer structures from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-057.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-058.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-059.jpg"
+      ]
     },
     {
       "id": "Ch20-Q35c(ii)",
@@ -2487,6 +3209,11 @@
         "Hydrogen bonds form between neighbouring chains.",
         "Polyalkenes only have London (instantaneous dipole) forces between chains.",
         "Breaking hydrogen bonds needs more energy, so polyamides melt at higher temperatures."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-057.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-058.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-059.jpg"
       ]
     },
     {
@@ -2504,7 +3231,11 @@
       "question": "Which carbonyl compound and Grignard reagent would not react to form compound Y? Options are in the PDF.",
       "status": "pending",
       "answer": "Needs the options and the structure of Y from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-060.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-061.jpg"
+      ]
     },
     {
       "id": "Ch20-Q37",
@@ -2522,7 +3253,11 @@
       "question": "When 10 cm3 of but-1-ene is burned in excess oxygen, the volume decreases by x cm3; NaOH then removes CO2 causing a further decrease of y cm3. What are x and y? Options are in the PDF.",
       "status": "pending",
       "answer": "Needs the option list from the PDF. Calculated: x = 30 cm3 (70 - 40), y = 40 cm3 (CO2 removed).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-060.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-061.jpg"
+      ]
     },
     {
       "id": "Ch20-Q38a",
@@ -2542,6 +3277,10 @@
         "The carbanion-like C of the Grignard reagent is a nucleophile.",
         "It attacks the electrophilic C of a C=O bond.",
         "This is nucleophilic addition."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-061.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-062.jpg"
       ]
     },
     {
@@ -2563,6 +3302,10 @@
         "The product PhCH(OH)-CH(CH3)CH2CH3 has the carbinol C bonded to the phenyl group and to the CH(CH3)CH2CH3 group.",
         "The Grignard supplies the carbon group that becomes the alkyl part, CH(CH3)CH2CH3.",
         "So the Grignard is CH3CH2CH(CH3)MgBr, option B."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-061.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-062.jpg"
       ]
     },
     {
@@ -2586,6 +3329,10 @@
         "It has a C=O in the COOH group (1725-1700).",
         "It has no C=C or aromatic C-H, which would absorb at 3095-3010 cm-1.",
         "Answer B."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-062.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-063.jpg"
       ]
     },
     {
@@ -2604,7 +3351,11 @@
       "question": "What are the expected splitting patterns in the high resolution proton NMR spectrum of valine for the protons shown in bold?",
       "status": "pending",
       "answer": "Needs the bold protons shown in the PDF structure.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-062.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-063.jpg"
+      ]
     },
     {
       "id": "Ch20-Q40",
@@ -2622,7 +3373,13 @@
       "question": "Compound J reacts with NaOH to form an ionic compound, with H2/Ni, and with ethanol/H2SO4. Which could be its structure? Options are in the PDF.",
       "status": "pending",
       "answer": "Needs the options from the PDF. Expected: an unsaturated carboxylic acid (C=C and COOH).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-063.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-064.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-065.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-066.jpg"
+      ]
     },
     {
       "id": "Ch20-Q41a",
@@ -2645,6 +3402,12 @@
         "Moles H2O = 4.18/18.02 = 0.2320 mol, so H = 0.4639 mol (0.468 g).",
         "O = 5.26 - 4.17 - 0.47 = 0.62 g, i.e. 0.0386 mol.",
         "C:H:O = 0.3477 : 0.4639 : 0.0386 = 9.0 : 12.0 : 1, so C9H12O."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-063.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-064.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-065.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-066.jpg"
       ]
     },
     {
@@ -2668,6 +3431,12 @@
         "B with I2/NaOH gives the iodoform reaction, giving yellow CHI3 (C).",
         "Dehydration of A gives C6H5CH=CHCH3 (D, has E/Z isomers) and C6H5CH2CH=CH2 (E, no E/Z isomers).",
         "Both alkenes decolourise bromine water."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-063.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-064.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-065.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-066.jpg"
       ]
     },
     {
@@ -2690,6 +3459,12 @@
         "C6H5C(CH3)2OH: ring has 4 environments (ipso, ortho, meta, para).",
         "Quaternary C-OH (1) and the two equivalent CH3 groups (1).",
         "Total 6 peaks."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-063.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-064.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-065.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-066.jpg"
       ]
     },
     {
@@ -2713,6 +3488,12 @@
         "Cleavage of the C-C bond next to the benzylic carbon gives C6H5CH=OH+ at m/z 107.",
         "So the side chain is -CH(OH)CH2CH3 attached to the ring.",
         "G = 1-phenylpropan-1-ol."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-063.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-064.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-065.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-066.jpg"
       ]
     },
     {
@@ -2730,7 +3511,11 @@
       "question": "What is formed when 4-aminophenol reacts with hydrochloric acid? Options are in the PDF.",
       "status": "pending",
       "answer": "Needs the option structures from the PDF (expected: the protonated amine, 4-hydroxyphenylammonium chloride).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-066.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-067.jpg"
+      ]
     },
     {
       "id": "Ch20-Q43a(i)",
@@ -2751,6 +3536,13 @@
         "Acrylamide is CH2=CHCONH2, a three-carbon chain with a C=C at C2.",
         "The amide ends the name in -amide; the C=C is -2-en-.",
         "Name: prop-2-enamide."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-067.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-068.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-069.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
       ]
     },
     {
@@ -2774,6 +3566,13 @@
         "Water molecules form hydrogen bonds with these groups along the chains.",
         "The polymer swells as water enters and the chains spread apart.",
         "Diagram: show C=O...H-O and N-H...O hydrogen bonds between chain and water."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-067.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-068.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-069.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
       ]
     },
     {
@@ -2796,6 +3595,13 @@
         "Above pH 8 the carboxylic acid groups lose H+ to form carboxylate ions COO-.",
         "Negatively charged groups repel each other along the chain.",
         "The chain straightens into an open coil, and the intramolecular hydrogen bonds are broken."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-067.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-068.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-069.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
       ]
     },
     {
@@ -2818,6 +3624,13 @@
         "Pyrrolidone is a five-membered ring with N and a C=O next to it.",
         "A vinyl group CH=CH2 is attached to the ring N.",
         "Formula C6H9NO, the monomer of PVP."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-067.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-068.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-069.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
       ]
     },
     {
@@ -2839,6 +3652,13 @@
         "Mr of C6H9NO = 111.1.",
         "Number = 90 000 / 111.1 = 810.",
         "Nearest whole number: 810."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-067.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-068.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-069.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
       ]
     },
     {
@@ -2861,6 +3681,13 @@
         "Mass PVP = 0.740 g x 0.040 = 0.0296 g.",
         "Moles = 0.0296/90 000 = 3.29 x 10^-7 mol.",
         "Molecules = 3.29 x 10^-7 x 6.02 x 10^23 = 1.98 x 10^17, i.e. 2.0 x 10^17 to 2 significant figures."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-067.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-068.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-069.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
       ]
     },
     {
@@ -2883,6 +3710,13 @@
         "Monomers each have two (or more) functional groups.",
         "Each link forms a new bond (e.g. amide) by eliminating a small molecule.",
         "Examples: water in polyesters and polyamides, HCl from acyl chlorides."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-067.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-068.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-069.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
       ]
     },
     {
@@ -2904,6 +3738,13 @@
         "The repeat unit -NH(CH2)6NH-CO(CH2)4CO- shows six carbons in each part.",
         "The diamine is H2N(CH2)6NH2.",
         "The diacid is HOOC(CH2)4COOH (six carbons including the two COOH)."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-067.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-068.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-069.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
       ]
     },
     {
@@ -2924,6 +3765,13 @@
         "Caprolactam is a six-membered ring with NH and C=O (C6H11NO).",
         "Ring opening gives -NH-(CH2)5-CO- as the repeat unit.",
         "Two repeat units: -[NH(CH2)5CO]2-, i.e. -NH(CH2)5CO-NH(CH2)5CO-."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-067.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-068.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-069.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
       ]
     },
     {
@@ -2943,6 +3791,13 @@
       "steps": [
         "Salicylic acid is a benzoic acid with an OH group on the carbon next to the COOH.",
         "The COOH carbon is C1 of the ring, the OH is on C2."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-072.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-073.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-074.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-075.jpg"
       ]
     },
     {
@@ -2964,6 +3819,13 @@
         "The -OCOCH3 group is an ester.",
         "The -COOH group is a carboxylic acid.",
         "The benzene ring is an arene."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-072.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-073.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-074.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-075.jpg"
       ]
     },
     {
@@ -2985,6 +3847,13 @@
         "The phenolic OH group attacks one C=O of the anhydride.",
         "An ethanoyl group is transferred to O, forming an ester.",
         "Ethanoic acid is the by-product."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-072.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-073.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-074.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-075.jpg"
       ]
     },
     {
@@ -3006,6 +3875,13 @@
         "Moles salicylic acid = 2.00/138 = 0.01449 mol.",
         "Theoretical acetylsalicylic acid = 0.01449 x 180 = 2.609 g.",
         "Actual mass = 2.609 x 0.748 = 1.95 g."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-072.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-073.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-074.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-075.jpg"
       ]
     },
     {
@@ -3027,6 +3903,13 @@
         "The COOH group loses H+ in water.",
         "This gives the carboxylate anion and H+.",
         "The reaction is reversible (equilibrium)."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-072.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-073.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-074.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-075.jpg"
       ]
     },
     {
@@ -3050,6 +3933,13 @@
         "The neutral molecule stays mostly undissociated and can be absorbed.",
         "Intestine: OH- removes H+, so [H+] is low and the equilibrium shifts right.",
         "More of the ionised anion forms, which is more soluble in water."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-072.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-073.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-074.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-075.jpg"
       ]
     },
     {
@@ -3070,6 +3960,13 @@
       "steps": [
         "Methyl salicylate is the methyl ester of salicylic acid.",
         "Esterification uses an alcohol (methanol) with an acid catalyst (conc. H2SO4)."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-072.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-073.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-074.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-075.jpg"
       ]
     },
     {
@@ -3088,7 +3985,14 @@
       "question": "Complete the table giving the chemical shift ranges expected for the side-chain protons (OH and CH3) of acetylsalicylic acid and methyl salicylate.",
       "status": "pending",
       "answer": "Needs the table layout from the PDF (values expected from the Data Booklet).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-072.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-073.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-074.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-075.jpg"
+      ]
     },
     {
       "id": "Ch20-Q44f",
@@ -3107,7 +4011,14 @@
       "question": "0.760 g of aspirin tablets is hydrolysed with 25.0 cm3 of 1.00 mol dm-3 NaOH; 25.0 cm3 of 250.0 cm3 solution is back-titrated with 0.100 mol dm-3 HCl (mean titre 16.95 cm3). Determine which brand was analysed from the table.",
       "status": "pending",
       "answer": "Calculated 95.3% acetylsalicylic acid; needs the table of four brands from the PDF to identify the brand.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-071.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-072.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-073.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-074.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-075.jpg"
+      ]
     },
     {
       "id": "Ch20-Q45",
@@ -3129,6 +4040,10 @@
         "CH4 + 2O2 to CO2 + 2H2O, so 1 cm3 CH4 needs 2 cm3 O2.",
         "4 cm3 O2 needs 2 cm3 CH4.",
         "Argon = 10 - 2 = 8 cm3."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-075.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-076.jpg"
       ]
     },
     {
@@ -3150,6 +4065,11 @@
         "Steam distillation lets the compound distil below its boiling point, because the mixture boils at a temperature below 100 C.",
         "So heat-sensitive organic compounds are not decomposed.",
         "Answer D."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-076.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-077.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-078.jpg"
       ]
     },
     {
@@ -3174,6 +4094,11 @@
         "Step 3: C2H5I + Mg in dry ether gives ethylmagnesium iodide, C2H5MgI.",
         "Step 4: add CH3CHO to C2H5MgI in dry ether, then dilute acid, giving CH3CH(OH)CH2CH3 (butan-2-ol) as a secondary alcohol.",
         "Equations are given in each step; dry conditions are needed for the Grignard step."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-076.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-077.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-078.jpg"
       ]
     },
     {
@@ -3196,6 +4121,11 @@
         "Mr of C4H10O = 74.1; moles = 1.850/74.1 = 0.02496 mol.",
         "C4H10O + 6O2 to 4CO2 + 5H2O: CO2 = 0.09984 mol (4.39 g); H2O = 0.1248 mol (2.25 g).",
         "X (water) gains 2.25 g; Y (CO2) gains 4.39 g."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-076.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-077.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-078.jpg"
       ]
     },
     {
@@ -3217,6 +4147,11 @@
         "An isomer has the same formula C4H10O and molar mass.",
         "It gives the same moles of CO2 and H2O on complete combustion.",
         "So the masses absorbed by X and Y are identical."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-076.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-077.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-078.jpg"
       ]
     },
     {
@@ -3239,6 +4174,11 @@
         "Four equivalent ring CH carbons: 1 peak.",
         "Two equivalent CH3 carbons: 1 peak.",
         "Total 3."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-078.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-079.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-080.jpg"
       ]
     },
     {
@@ -3259,6 +4199,11 @@
       "steps": [
         "Turning damp red litmus blue indicates an alkaline compound.",
         "Organic compounds that are alkaline contain an amine (-NH2) group."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-078.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-079.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-080.jpg"
       ]
     },
     {
@@ -3282,6 +4227,11 @@
         "T = 288 K; V = 157 x 10^-6 m3; p = 103 000 Pa.",
         "n = pV/RT = (103 000 x 157 x 10^-6)/(8.31 x 288) = 6.76 x 10^-3 mol.",
         "M = 0.493/6.76 x 10^-3 = 73.0 g mol-1."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-078.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-079.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-080.jpg"
       ]
     },
     {
@@ -3302,6 +4252,11 @@
       "steps": [
         "Ethanoyl chloride reacts with X, releasing HCl.",
         "HCl fumes in moist air, forming steamy fumes of hydrochloric acid."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-078.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-079.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-080.jpg"
       ]
     },
     {
@@ -3321,6 +4276,11 @@
       "steps": [
         "Amines react with acyl chlorides to form amides.",
         "So Y contains the -CONH- group."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-078.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-079.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-080.jpg"
       ]
     },
     {
@@ -3342,6 +4302,11 @@
         "Moles per 100 g: C 5.212; H 11.21; N 0.871; O 0.869.",
         "Divide by 0.869: C 6.0; H 12.9; N 1.0; O 1.0.",
         "Empirical formula C6H13NO."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-078.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-079.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-080.jpg"
       ]
     },
     {
@@ -3359,7 +4324,12 @@
       "question": "Deduce the structure of Y using the simplified high resolution proton NMR spectrum (peak areas shown in PDF) and the other information.",
       "status": "pending",
       "answer": "Needs the NMR spectrum and peak areas from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-078.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-079.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-080.jpg"
+      ]
     },
     {
       "id": "Ch20-Q49d",
@@ -3377,7 +4347,12 @@
       "question": "Draw the structure of compound X.",
       "status": "pending",
       "answer": "Depends on the structure of Y from part (c); needs the NMR result from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-078.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-079.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-080.jpg"
+      ]
     },
     {
       "id": "Ch20-Q50a",
@@ -3394,7 +4369,11 @@
       "question": "Which of the four isomeric esters P, Q, R and S have five peaks in their 13C NMR spectrum? Structures are in the PDF.",
       "status": "pending",
       "answer": "Needs the four ester structures from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-080.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-081.jpg"
+      ]
     },
     {
       "id": "Ch20-Q50b",
@@ -3410,7 +4389,11 @@
       "question": "Which of the esters will not have a doublet in its high resolution proton NMR spectrum? Structures are in the PDF.",
       "status": "pending",
       "answer": "Needs the four ester structures from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-080.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-081.jpg"
+      ]
     },
     {
       "id": "Ch20-Q50c",
@@ -3426,7 +4409,11 @@
       "question": "Which of the esters could rotate the plane of plane-polarised monochromatic light? Structures are in the PDF.",
       "status": "pending",
       "answer": "Needs the four ester structures from the PDF to find the chiral ones.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-080.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-081.jpg"
+      ]
     },
     {
       "id": "Ch20-Q51a(i)",
@@ -3446,6 +4433,11 @@
       "steps": [
         "Sulfonation of benzene uses concentrated H2SO4 (or SO3 in H2SO4).",
         "Phenol is sulfonated similarly, giving 4-phenolsulfonic acid."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-081.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-082.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-083.jpg"
       ]
     },
     {
@@ -3467,6 +4459,11 @@
         "Cl atoms enter at the two positions ortho to the activating OH group.",
         "The SO3H group remains at position 4 (para to OH).",
         "Hydrolysis then removes SO3H to give 2,6-dichlorophenol."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-081.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-082.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-083.jpg"
       ]
     },
     {
@@ -3490,6 +4487,11 @@
         "This increases electron density on the ring, activating it.",
         "The ring is more readily attacked by the electrophile (Cl2 is polarised more easily).",
         "So chlorination of phenol needs no catalyst, unlike benzene."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-081.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-082.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-083.jpg"
       ]
     },
     {
@@ -3510,6 +4512,11 @@
       "steps": [
         "Decarboxylation removes CO2 from a carboxyl group.",
         "So C contains -COOH, which is lost as CO2."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-081.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-082.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-083.jpg"
       ]
     },
     {
@@ -3532,6 +4539,11 @@
         "Yield and atom economy: how much of the reactant ends up in the product.",
         "Number of steps and time: fewer steps are more efficient.",
         "Cost, availability and hazards of reagents and waste, including environmental impact."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-081.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-082.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-083.jpg"
       ]
     },
     {
@@ -3553,6 +4565,11 @@
         "Chlorine has isotopes 35Cl (75%) and 37Cl (25%).",
         "With two Cl atoms, combinations are 35Cl35Cl (m/z 162), 35Cl37Cl (164) and 37Cl37Cl (166).",
         "Probabilities give approximately 9 : 6 : 1 relative intensity."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-081.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-082.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-083.jpg"
       ]
     },
     {
@@ -3574,6 +4591,11 @@
         "Carbon has a 13C isotope of about 1.1% natural abundance.",
         "A molecule with one 13C atom is one mass unit heavier.",
         "So peaks appear at M+1 positions."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-081.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-082.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-083.jpg"
       ]
     },
     {
@@ -3600,6 +4622,10 @@
         "Advantages: continuous supply, high efficiency, only water produced, quiet.",
         "Disadvantages: expensive catalysts (Pt), hydrogen storage and transport are difficult, and H2 is flammable.",
         "Another suitable fuel: methanol (CH3OH) or other small alcohols."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-084.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-085.jpg"
       ]
     },
     {
@@ -3618,6 +4644,10 @@
       "answer": "C: magnesium.",
       "steps": [
         "Grignard reagents are RMgX, formed by reacting an alkyl halide with magnesium metal in dry ether."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-084.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-085.jpg"
       ]
     },
     {
@@ -3638,6 +4668,10 @@
       "steps": [
         "The carbon bonded to Mg is delta-, so it attacks electron-deficient carbons.",
         "Grignard reagents act as nucleophiles toward C=O and CO2."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-084.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-085.jpg"
       ]
     },
     {
@@ -3656,7 +4690,13 @@
       "question": "Identify the hazard symbol(s) that should be displayed on a box of liquitabs, using ticks. The symbols are shown in the PDF.",
       "status": "pending",
       "answer": "Needs the hazard symbol options from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-085.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-086.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-087.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-088.jpg"
+      ]
     },
     {
       "id": "Ch20-Q54b(i)",
@@ -3677,6 +4717,12 @@
         "Each repeat unit is -CH2-CH(OH)-.",
         "Join three units head to tail along the carbon chain.",
         "Show the OH on each second carbon."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-085.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-086.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-087.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-088.jpg"
       ]
     },
     {
@@ -3698,6 +4744,12 @@
         "Repeat unit C2H4O has Mr = 44.05.",
         "One OH group = 17.01.",
         "Percentage = 17.01/44.05 x 100 = 38.6%."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-085.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-086.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-087.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-088.jpg"
       ]
     },
     {
@@ -3719,6 +4771,12 @@
         "Each repeat unit has an -OH group, so the chain is polar.",
         "OH groups are about 38.6% of the mass, a high proportion.",
         "These OH groups hydrogen bond with water, so the polymer dissolves."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-085.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-086.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-087.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-088.jpg"
       ]
     },
     {
@@ -3737,6 +4795,12 @@
       "steps": [
         "Glycerol is CH2OH-CHOH-CH2OH, a three-carbon chain with three OH groups.",
         "Name: propane-1,2,3-triol."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-085.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-086.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-087.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-088.jpg"
       ]
     },
     {
@@ -3758,6 +4822,12 @@
         "Glycerol molecules fit between poly(ethenol) chains.",
         "They reduce the strong hydrogen bonding between chains.",
         "The polymer becomes more flexible and less brittle."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-085.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-086.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-087.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-088.jpg"
       ]
     },
     {
@@ -3781,6 +4851,12 @@
         "Volume of glycerol = 0.110% x 8.40 x 10^5 = 924 cm3.",
         "Mass of glycerol = 924 x 1.26 = 1164 g.",
         "Moles = 1164/92.1 = 12.6 mol."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-085.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-086.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-087.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-088.jpg"
       ]
     },
     {
@@ -3799,7 +4875,13 @@
       "question": "Monomer X (intermediate for poly(ethenol)) gives 95.6 dm3 CO2 (r.t.p.) and 54.1 g H2O per mole burned. Use the IR spectrum (in PDF) to deduce the displayed structure of X.",
       "status": "pending",
       "answer": "Needs the IR spectrum from the PDF. Combustion data suggest C4H6O2; expected answer vinyl ethanoate, CH2=CHOCOCH3.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-085.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-086.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-087.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-088.jpg"
+      ]
     },
     {
       "id": "Ch20-Q54e",
@@ -3821,6 +4903,12 @@
         "Soluble bags dissolve in the wash, so no handling of contaminated bags is needed.",
         "This reduces the risk of infection and skin contact for staff.",
         "No need to collect, wash and re-use bags, so less labour and waste."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-085.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-086.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-087.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-088.jpg"
       ]
     },
     {
@@ -3842,6 +4930,12 @@
         "Concentrated H2SO4 protonates HNO3, which loses water.",
         "HNO3 + 2H2SO4 gives NO2+ + H3O+ + 2HSO4-.",
         "So the electrophile is NO2+."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-088.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-089.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-090.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-091.jpg"
       ]
     },
     {
@@ -3865,6 +4959,12 @@
         "An arenium ion forms with positive charge delocalised over the ring.",
         "A base (HSO4- or H2O) removes H+ from the carbon bearing NO2 (curly arrow from C-H to base).",
         "The C-H electrons restore the aromatic ring, giving nitrobenzene."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-088.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-089.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-090.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-091.jpg"
       ]
     },
     {
@@ -3885,6 +4985,12 @@
       "steps": [
         "The nitro group is reduced to NH2 by Sn/conc. HCl.",
         "NaOH is added at the end to liberate the free amine."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-088.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-089.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-090.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-091.jpg"
       ]
     },
     {
@@ -3904,6 +5010,12 @@
       "steps": [
         "The nitro group gains electrons/hydrogen and is converted into an amine.",
         "So it is a reduction."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-088.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-089.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-090.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-091.jpg"
       ]
     },
     {
@@ -3928,6 +5040,12 @@
         "Atom economy: C8H9NO product (135.2) from C6H7N + C4H6O3 (195.2 total) gives about 69%.",
         "From C6H7N + C2H3ClO (171.6 total) the atom economy is about 79%, so the anhydride route is less atom-economical.",
         "Ethanoic acid by-product is less hazardous than HCl but is still a waste product."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-088.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-089.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-090.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-091.jpg"
       ]
     },
     {
@@ -3950,6 +5068,12 @@
         "Theoretical benzene = 0.0740/0.352 = 0.210 mol (one benzene per product).",
         "Mass benzene = 0.210 x 78.1 = 16.4 g.",
         "Volume = 16.4/0.879 = 18.7 cm3."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-088.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-089.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-090.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-091.jpg"
       ]
     },
     {
@@ -3971,6 +5095,12 @@
         "The O lone pair is delocalised into the benzene ring.",
         "This increases the ring's electron density and reactivity.",
         "So dilute HNO3 at room temperature is enough."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-088.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-089.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-090.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-091.jpg"
       ]
     },
     {
@@ -3994,6 +5124,11 @@
         "The pi electrons of benzene attack CH3+ (curly arrow from C=C to C).",
         "An arenium ion forms.",
         "AlCl4- removes H+ from the ring, regenerating the aromatic ring and AlCl3 (with HCl)."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-091.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-092.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-093.jpg"
       ]
     },
     {
@@ -4012,7 +5147,12 @@
       "question": "Explain, with reference to the mechanism, why this step will not produce a single isomer. The step is shown in the PDF.",
       "status": "pending",
       "answer": "Needs the step shown in the PDF; expected answer: the CH3 group directs substitution to ortho and para positions.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-091.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-092.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-093.jpg"
+      ]
     },
     {
       "id": "Ch20-Q56c",
@@ -4029,7 +5169,12 @@
       "question": "State the type of reaction, and the reagents and conditions, for the final step of the phenylglycine synthesis. The step is shown in the PDF.",
       "status": "pending",
       "answer": "Needs the final step scheme from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-091.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-092.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-093.jpg"
+      ]
     },
     {
       "id": "Ch20-Q57a",
@@ -4045,7 +5190,11 @@
       "question": "What is the structure of the amide formed from propanoyl chloride and N-methylpropylamine? Structures are in the PDF.",
       "status": "pending",
       "answer": "Needs the reactant structures from the PDF; expected N-methyl-N-propylpropanamide, C7H15NO.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-093.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-094.jpg"
+      ]
     },
     {
       "id": "Ch20-Q57b",
@@ -4066,6 +5215,10 @@
         "Amide C7H15NO has Mr = 129.2.",
         "Moles = 64.3/129.2 = 0.498 mol, so 0.498 mol HCl.",
         "Volume = 0.498 x 24.0 = 11.9 dm3, i.e. 12.0 dm3 (option A)."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-093.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-094.jpg"
       ]
     },
     {
@@ -4081,7 +5234,14 @@
       "question": "Give the empirical formula of raspberry ketone.",
       "status": "pending",
       "answer": "Needs the raspberry ketone structure from the PDF (expected C10H12O2, empirical C5H6O).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-094.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-095.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-096.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-097.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-098.jpg"
+      ]
     },
     {
       "id": "Ch20-Q58b(i)",
@@ -4099,7 +5259,14 @@
       "question": "Draw the mechanism of the Friedel-Crafts reaction of phenol to make raspberry ketone, including electrophile formation and catalyst regeneration.",
       "status": "pending",
       "answer": "Needs the overall reaction from the PDF to identify the electrophile and product.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-094.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-095.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-096.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-097.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-098.jpg"
+      ]
     },
     {
       "id": "Ch20-Q58b(ii)",
@@ -4121,6 +5288,13 @@
         "Phenol's OH group (lone pair) bonds to the Lewis acid AlCl3, reducing its activity.",
         "Acylation can occur on O (giving an ester) instead of on the ring.",
         "Polysubstitution and other by-products also reduce the yield of the desired ketone."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-094.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-095.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-096.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-097.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-098.jpg"
       ]
     },
     {
@@ -4139,7 +5313,14 @@
       "question": "Devise a multi-step Grignard synthesis of raspberry ketone, giving reagents, conditions and intermediates, including formation of the Grignard reagent.",
       "status": "pending",
       "answer": "Needs the overall reaction shown in the PDF to design the route.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-094.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-095.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-096.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-097.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-098.jpg"
+      ]
     },
     {
       "id": "Ch20-Q58d",
@@ -4156,7 +5337,14 @@
       "question": "Suggest why the choice of reducing agent is particularly important in the reduction step of the industrial preparation of raspberry ketone.",
       "status": "pending",
       "answer": "Needs the reduction scheme from the PDF (expected: the reagent must reduce only the target group, leaving others unchanged).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-094.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-095.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-096.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-097.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-098.jpg"
+      ]
     },
     {
       "id": "Ch20-Q58e(i)",
@@ -4174,7 +5362,14 @@
       "question": "Compare and contrast the stereoisomerism of alpha-ionone and beta-ionone, circling features that give stereoisomerism.",
       "status": "pending",
       "answer": "Needs the ionone structures from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-094.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-095.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-096.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-097.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-098.jpg"
+      ]
     },
     {
       "id": "Ch20-Q58e(ii)",
@@ -4191,7 +5386,14 @@
       "question": "Identify with an asterisk the carbon environment in alpha-ionone expected to give a quartet in the high resolution proton NMR.",
       "status": "pending",
       "answer": "Needs the alpha-ionone structure from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-094.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-095.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-096.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-097.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-098.jpg"
+      ]
     },
     {
       "id": "Ch20-Q58e(iii)",
@@ -4208,7 +5410,14 @@
       "question": "Predict the number of peaks in the 13C NMR spectrum of the ionone (C13H20O) and justify.",
       "status": "pending",
       "answer": "Needs the ionone structure from the PDF to count carbon environments.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-094.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-095.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-096.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-097.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-098.jpg"
+      ]
     },
     {
       "id": "Ch20-Q59",
@@ -4229,6 +5438,10 @@
         "Complex ion [Cr(H2O)4Cl2]+ mass = 52.0 + 4(18.0) + 2(35.5) = 195.0.",
         "Chlorine in the complex ion = 2 x 35.5 = 71.0 (excludes the outer Cl-).",
         "Percentage = 71.0/195.0 x 100 = 36.4%."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-098.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-099.jpg"
       ]
     },
     {
@@ -4250,6 +5463,10 @@
         "The bath must be heated to about 135 C.",
         "Water, ethanol and hexane boil below this temperature.",
         "Mineral oil has a high boiling point, so it is suitable."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-098.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-099.jpg"
       ]
     },
     {
@@ -4271,6 +5488,10 @@
         "Aspirin is made from salicylic acid (2-hydroxybenzoic acid) and ethanoic anhydride.",
         "Incomplete reaction leaves unreacted salicylic acid as the main impurity.",
         "Impurities lower and broaden the melting point, matching the observed 125 C range."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-098.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-099.jpg"
       ]
     },
     {
@@ -4287,7 +5508,13 @@
       "question": "Give the molecular formula of gingerol from its skeletal formula.",
       "status": "pending",
       "answer": "Needs the skeletal formula from the PDF (expected C17H26O4 for 6-gingerol; check against drawing).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-099.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-100.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-101.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-102.jpg"
+      ]
     },
     {
       "id": "Ch20-Q61a(ii)",
@@ -4310,6 +5537,12 @@
         "A wedge shows the bond projects out of the plane of the paper.",
         "This specifies one enantiomer (the natural form) rather than a racemic mixture.",
         "So the wedge conveys the 3D configuration of the molecule."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-099.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-100.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-101.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-102.jpg"
       ]
     },
     {
@@ -4328,7 +5561,13 @@
       "question": "Complete the four-step synthesis of zingerone from coniferyl alcohol, with completed intermediate structures and reagents/conditions (Step 2 uses a Grignard reagent; Steps 1, 3 and 4 are redox).",
       "status": "pending",
       "answer": "Needs the partially drawn intermediates and scheme from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-099.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-100.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-101.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-102.jpg"
+      ]
     },
     {
       "id": "Ch20-Q62a",
@@ -4345,7 +5584,12 @@
       "question": "What is the structure of asparagine in aqueous solution at pH 2? Options are in the PDF.",
       "status": "pending",
       "answer": "Needs the option structures from the PDF (expected H3N+ with COOH, side chain CONH2 unchanged).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-102.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-103.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-104.jpg"
+      ]
     },
     {
       "id": "Ch20-Q62b",
@@ -4363,7 +5607,12 @@
       "question": "In the high resolution proton NMR of asparagine, what is the splitting pattern for the protons indicated by the arrow? A singlet, B doublet, C triplet, D quartet.",
       "status": "pending",
       "answer": "Needs the arrowed proton shown in the PDF structure.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-102.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-103.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-104.jpg"
+      ]
     },
     {
       "id": "Ch20-Q63",
@@ -4386,6 +5635,10 @@
         "Filter while hot to remove insoluble impurities.",
         "Cool the solution so the pure compound crystallises, then filter to collect crystals.",
         "Answer C."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-104.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-105.jpg"
       ]
     },
     {
@@ -4404,7 +5657,11 @@
       "question": "Complete the table for the outline synthesis of propanoic acid from ethanoic acid, which uses Grignard reagents to lengthen the chain.",
       "status": "pending",
       "answer": "Needs the table and outline scheme from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-104.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-105.jpg"
+      ]
     },
     {
       "id": "Ch20-Q65",
@@ -4426,6 +5683,10 @@
         "H mass = 8.4 - 7.2 = 1.2 g; C:H = 0.600 : 1.20 = 1:2, so the empirical formula is CH2.",
         "8.4 g of CH2 units corresponds to 0.100 mol if M = 84 (C6H12), which gives 0.600 mol CO2 = 26.4 g.",
         "Answer D."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-105.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-106.jpg"
       ]
     },
     {
@@ -4444,7 +5705,12 @@
       "question": "What are the volumes of oxygen required and carbon dioxide produced at r.t.p. on complete combustion of 5.8 g of butane (Mr 58.0)? Options are in the PDF.",
       "status": "pending",
       "answer": "Needs the option list from the PDF. Calculated: 0.1 mol butane needs 0.65 mol O2 (15.6 dm3) and gives 0.4 mol CO2 (9.6 dm3).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-106.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-107.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-108.jpg"
+      ]
     },
     {
       "id": "Ch20-Q67a",
@@ -4466,6 +5732,11 @@
         "Compound A is a primary aromatic amine.",
         "NaNO2 + HCl forms nitrous acid in situ.",
         "Kept at 0-5 C to stop the diazonium ion decomposing."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-106.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-107.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-108.jpg"
       ]
     },
     {
@@ -4483,7 +5754,12 @@
       "question": "Draw the structure of the diazonium ion formed from compound A.",
       "status": "pending",
       "answer": "Needs compound A's structure from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-106.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-107.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-108.jpg"
+      ]
     },
     {
       "id": "Ch20-Q67c",
@@ -4501,7 +5777,12 @@
       "question": "Circle the functional group, other than the diazonium group, that is essential for the coupling reaction to occur in sunset yellow.",
       "status": "pending",
       "answer": "Needs the sunset yellow structure from the PDF (expected: the OH group of the phenol/naphthol coupling partner).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-106.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-107.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-108.jpg"
+      ]
     },
     {
       "id": "Ch20-Q67d(i)",
@@ -4520,6 +5801,11 @@
       "steps": [
         "Solid organic products are purified by recrystallisation from a suitable solvent.",
         "This removes impurities such as unreacted starting materials."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-106.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-107.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-108.jpg"
       ]
     },
     {
@@ -4537,7 +5823,12 @@
       "question": "The yield of sunset yellow is 67.9%. Calculate the mass produced from 5.00 g of compound A (Mr of sunset yellow 452.2).",
       "status": "pending",
       "answer": "Needs the Mr of compound A from the PDF structure (expected sulfanilic acid, Mr about 173, giving about 8.9 g).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-106.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-107.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-108.jpg"
+      ]
     },
     {
       "id": "Ch20-Q68a",
@@ -4557,6 +5848,10 @@
         "The four CH3 carbons are equivalent: one peak.",
         "The central quaternary C is unique: one peak.",
         "Total 2."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-108.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-109.jpg"
       ]
     },
     {
@@ -4574,7 +5869,11 @@
       "question": "Four students sketched the high-resolution proton NMR spectrum of 2,3-dimethylbutane. Which sketch is most likely correct? The sketches are in the PDF.",
       "status": "pending",
       "answer": "Needs the four sketches from the PDF (expected: two peak environments, a doublet and a multiplet, with 12:2 area ratio).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-108.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-109.jpg"
+      ]
     },
     {
       "id": "Ch20-Q69",
@@ -4595,6 +5894,10 @@
         "Moles CO2 = 11.0/44.0 = 0.250 mol.",
         "Carbon per molecule = 0.250/0.025 = 10, so n = 10.",
         "Formula C10H14: Mr = 10(12.0) + 14(1.0) = 134."
+      ],
+      "images": [
+        "papers/chemistry/img/20-Organic-Synthesis-108.jpg",
+        "papers/chemistry/img/20-Organic-Synthesis-109.jpg"
       ]
     }
   ]

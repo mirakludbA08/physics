@@ -1,0 +1,4 @@
+# Design-checker cache (local tooling, not part of the site)
+.impeccable/
+# Stray empty file created by a malformed shell command (its name ends in a space)
+/..\ 

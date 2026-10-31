@@ -1,6 +1,6 @@
 {
   "code": "6A",
-  "title": "Electric Fields",
+  "title": "Electric fields",
   "unit": "A2 Unit 4",
   "pdf": "papers/physics/23-6A-Electric-Fields.pdf",
   "questions": [
@@ -9,40 +9,84 @@
       "no": "Q1",
       "marks": 1,
       "topic": "Oil Drop Charge",
-      "keywords": ["oil drop", "stationary", "charge", "potential difference", "plates", "separation", "multiple choice", "electric force"],
+      "keywords": [
+        "oil drop",
+        "stationary",
+        "charge",
+        "potential difference",
+        "plates",
+        "separation",
+        "multiple choice",
+        "electric force"
+      ],
       "question": "An oil drop of charge q and mass m stays stationary between two metal plates separated by d, with potential difference V. Select the charge on the drop from the options.",
       "status": "pending",
       "answer": "Pending: the multiple-choice options are missing from the text extraction (the answer is q = mgd / V).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-01.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-02.jpg"
+      ]
     },
     {
       "id": "6A-Q2",
       "no": "Q2",
       "marks": 1,
       "topic": "Field Between Two Charges",
-      "keywords": ["two positive charges", "equidistant point", "electric field direction", "field diagram", "multiple choice", "point X"],
+      "keywords": [
+        "two positive charges",
+        "equidistant point",
+        "electric field direction",
+        "field diagram",
+        "multiple choice",
+        "point X"
+      ],
       "question": "Two equal positive charges are at Y and Z, and X is equidistant from them. Select the diagram showing the direction of the electric field at X.",
       "status": "pending",
       "answer": "Pending: the diagrams A to D are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-01.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-02.jpg"
+      ]
     },
     {
       "id": "6A-Q3",
       "no": "Q3",
       "marks": 1,
       "topic": "Coulomb Force Scaling",
-      "keywords": ["coulomb force", "point charges", "inverse square law", "force scaling", "distance doubled", "charge increase", "multiple choice"],
+      "keywords": [
+        "coulomb force",
+        "point charges",
+        "inverse square law",
+        "force scaling",
+        "distance doubled",
+        "charge increase",
+        "multiple choice"
+      ],
       "question": "A force F acts between +Q and +2Q separated by d. The charges become +2Q and +4Q and the distance becomes 2d. Select the new force from the options.",
       "status": "pending",
       "answer": "Pending: the multiple-choice options are missing from the text extraction (the new force equals F).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-02.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-03.jpg"
+      ]
     },
     {
       "id": "6A-Q4",
       "no": "Q4",
       "marks": 1,
       "topic": "Balance Of Point Charges",
-      "keywords": ["point charges", "resultant force zero", "charge at Z", "equal spacing", "electric force", "+q", "-q"],
+      "keywords": [
+        "point charges",
+        "resultant force zero",
+        "charge at Z",
+        "equal spacing",
+        "electric force",
+        "+q",
+        "-q"
+      ],
       "question": "Charges +q at X and -q at Y are separated by d, with Z a distance d beyond Y. The resultant force on the charge at X is zero when a charge is placed at Z. Select the charge at Z (options include C 2q and D 4q).",
       "status": "ready",
       "answer": "D: 4q (charge at Z is +4q).",
@@ -52,6 +96,10 @@
         "For zero resultant, the force from the charge at Z must have magnitude k q Q / (4d^2) and point away from Y.",
         "Setting k q Q / (4 d^2) = k q^2 / d^2 gives Q = 4q.",
         "The charge at Z is +4q, which is option D."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-02.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-03.jpg"
       ]
     },
     {
@@ -59,40 +107,82 @@
       "no": "Q5",
       "marks": 1,
       "topic": "Field Between Parallel Plates",
-      "keywords": ["parallel plates", "potential difference", "electric field", "midway", "direction", "V m^-1", "multiple choice"],
+      "keywords": [
+        "parallel plates",
+        "potential difference",
+        "electric field",
+        "midway",
+        "direction",
+        "V m^-1",
+        "multiple choice"
+      ],
       "question": "A potential difference is applied across two parallel plates. Point X is midway between the plates. Select its electric field strength and direction from options A to D.",
       "status": "pending",
       "answer": "Pending: the potential difference value and plate polarity from the diagram are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-03.jpg"
+      ]
     },
     {
       "id": "6A-Q6",
       "no": "Q6",
       "marks": 1,
       "topic": "Equipotentials Of Point Charge",
-      "keywords": ["equipotential lines", "point charge", "field lines", "polarity", "pattern", "multiple choice"],
+      "keywords": [
+        "equipotential lines",
+        "point charge",
+        "field lines",
+        "polarity",
+        "pattern",
+        "multiple choice"
+      ],
       "question": "Equipotential lines about a point charge are shown. Select the diagram of field lines and polarity that could produce this pattern.",
       "status": "pending",
       "answer": "Pending: the diagrams of field lines and charge polarity are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-04.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-05.jpg"
+      ]
     },
     {
       "id": "6A-Q7",
       "no": "Q7",
       "marks": 1,
       "topic": "Potential Of Point Charge",
-      "keywords": ["potential", "point charge", "distance", "charge magnitude", "V = kq/r", "scaling", "multiple choice"],
+      "keywords": [
+        "potential",
+        "point charge",
+        "distance",
+        "charge magnitude",
+        "V = kq/r",
+        "scaling",
+        "multiple choice"
+      ],
       "question": "At distance d from a point charge q the potential is V. Select the potential at distance 4d from a charge 2q.",
       "status": "pending",
       "answer": "Pending: options A and B are missing from the text extraction (the answer is V/2, which is not among the visible options C and D).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-04.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-05.jpg"
+      ]
     },
     {
       "id": "6A-Q8a",
       "no": "Q8(a)",
       "marks": 1,
       "topic": "Charge Polarity On Web",
-      "keywords": ["spider", "web strands", "electric field", "downwards", "polarity", "force opposite field", "negative charge"],
+      "keywords": [
+        "spider",
+        "web strands",
+        "electric field",
+        "downwards",
+        "polarity",
+        "force opposite field",
+        "negative charge"
+      ],
       "question": "The Earth's electric field is 120 V m^-1 downwards and the spider is pulled upwards by its charged web strands. State, with a reason, the polarity of the charge on the strands.",
       "status": "ready",
       "answer": "Negative: the electric force on the strands is upwards, opposite to the downward field, and a negative charge experiences force opposite to the field.",
@@ -101,6 +191,10 @@
         "The Earth's field points downwards.",
         "A negative charge experiences a force opposite to the field direction.",
         "So the strands carry negative charge."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-05.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-06.jpg"
       ]
     },
     {
@@ -108,7 +202,16 @@
       "no": "Q8(b)",
       "marks": 5,
       "topic": "Spider Initial Acceleration",
-      "keywords": ["spider", "acceleration", "electric force", "weight", "web strand", "charge 3.00e-7 C", "mass 3.00e-6 kg", "field 120 V/m"],
+      "keywords": [
+        "spider",
+        "acceleration",
+        "electric force",
+        "weight",
+        "web strand",
+        "charge 3.00e-7 C",
+        "mass 3.00e-6 kg",
+        "field 120 V/m"
+      ],
       "question": "A spider of mass 3.00 x 10^-6 kg is pulled upwards by a strand of web carrying total charge magnitude 3.00 x 10^-7 C, in the Earth's field of 120 V m^-1 downwards. Determine the initial upward acceleration of the spider.",
       "status": "ready",
       "answer": "Acceleration = 2.2 m s^-2 upwards.",
@@ -118,6 +221,10 @@
         "Net upward force = 3.60 x 10^-5 - 2.94 x 10^-5 = 6.57 x 10^-6 N.",
         "Acceleration a = F / m = 6.57 x 10^-6 / 3.00 x 10^-6 = 2.19 m s^-2.",
         "The initial upward acceleration is about 2.2 m s^-2."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-05.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-06.jpg"
       ]
     },
     {
@@ -125,7 +232,15 @@
       "no": "Q8(c)",
       "marks": 3,
       "topic": "Surface Charge Density Of Earth",
-      "keywords": ["earth", "surface charge", "electric field 120 V/m", "charge per square metre", "radius 6400 km", "permittivity", "uniform charge"],
+      "keywords": [
+        "earth",
+        "surface charge",
+        "electric field 120 V/m",
+        "charge per square metre",
+        "radius 6400 km",
+        "permittivity",
+        "uniform charge"
+      ],
       "question": "Determine the charge on 1 m^2 of the Earth's surface, assuming it is evenly distributed, that would produce a field of 120 V m^-1. Earth's radius is 6400 km.",
       "status": "ready",
       "answer": "Charge per square metre = 1.1 x 10^-9 C (equal to epsilon0 E).",
@@ -134,6 +249,10 @@
         "Therefore sigma = epsilon0 E = 8.85 x 10^-12 x 120.",
         "sigma = 1.06 x 10^-9 C m^-2, so 1 m^2 carries about 1.1 x 10^-9 C.",
         "The radius of the Earth cancels, because the charge per unit area is independent of the radius."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-05.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-06.jpg"
       ]
     },
     {
@@ -141,7 +260,15 @@
       "no": "Q9(a)",
       "marks": 5,
       "topic": "Alpha Particle Maximum Acceleration",
-      "keywords": ["alpha particle", "gold nucleus", "closest approach", "maximum acceleration", "Coulomb force", "kinetic energy", "reflected 180 degrees"],
+      "keywords": [
+        "alpha particle",
+        "gold nucleus",
+        "closest approach",
+        "maximum acceleration",
+        "Coulomb force",
+        "kinetic energy",
+        "reflected 180 degrees"
+      ],
       "question": "An alpha particle of speed 1.74 x 10^7 m s^-1, mass 6.64 x 10^-27 kg, is reflected back through 180 degrees by a gold nucleus (atomic number 79). Calculate the maximum acceleration of the alpha particle at the point of minimum separation, with the nucleus at rest.",
       "status": "ready",
       "answer": "Maximum acceleration = 4.2 x 10^27 m s^-2.",
@@ -152,6 +279,10 @@
         "Minimum separation r = k Q q / KE = (8.99 x 10^9 x 1.26 x 10^-17 x 3.2 x 10^-19) / 1.01 x 10^-12 = 3.6 x 10^-14 m.",
         "Force at this separation F = k Q q / r^2 = KE / r = 1.01 x 10^-12 / 3.6 x 10^-14 = 27.8 N.",
         "a = F / m = 27.8 / 6.64 x 10^-27 = 4.2 x 10^27 m s^-2."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-06.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-07.jpg"
       ]
     },
     {
@@ -159,7 +290,15 @@
       "no": "Q9(b)",
       "marks": 4,
       "topic": "Acceleration For Smaller Deflection",
-      "keywords": ["alpha particle", "smaller deflection", "maximum acceleration", "closest approach", "inverse square law", "impact parameter", "Coulomb force"],
+      "keywords": [
+        "alpha particle",
+        "smaller deflection",
+        "maximum acceleration",
+        "closest approach",
+        "inverse square law",
+        "impact parameter",
+        "Coulomb force"
+      ],
       "question": "An alpha particle with the same initial speed is deflected through a smaller angle. Explain whether its maximum acceleration would be the same as for the particle reflected back through 180 degrees.",
       "status": "ready",
       "answer": "No: the smaller deflection means a larger distance of closest approach, so the Coulomb force and hence the maximum acceleration are smaller.",
@@ -168,6 +307,10 @@
         "A smaller deflection means the particle passes further from the nucleus, so its distance of closest approach is larger.",
         "The Coulomb force is proportional to 1 / r^2, so a larger separation gives a smaller force.",
         "Since a = F / m, the maximum acceleration is smaller than for the particle reflected through 180 degrees."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-06.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-07.jpg"
       ]
     },
     {
@@ -175,7 +318,16 @@
       "no": "Q10(a)(i)",
       "marks": 3,
       "topic": "Stokes Law Radius Formula",
-      "keywords": ["Millikan", "oil drop", "Stokes law", "terminal velocity", "viscosity of air", "density of oil", "radius", "upthrust ignored"],
+      "keywords": [
+        "Millikan",
+        "oil drop",
+        "Stokes law",
+        "terminal velocity",
+        "viscosity of air",
+        "density of oil",
+        "radius",
+        "upthrust ignored"
+      ],
       "question": "The terminal velocity v of an oil droplet falling in air is measured with the plates uncharged, and upthrust is ignored. Show that the radius r is given by r = sqrt(9 eta v / (2 rho g)), where eta is the viscosity of air and rho is the density of oil. (The formula is not fully reproduced in the text extraction.)",
       "status": "ready",
       "answer": "r = sqrt(9 eta v / (2 rho g)).",
@@ -184,6 +336,12 @@
         "Cancel common factors: 6 eta v = (4/3) r^2 rho g.",
         "Rearrange: r^2 = 9 eta v / (2 rho g).",
         "Therefore r = sqrt(9 eta v / (2 rho g))."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-07.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-08.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-09.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-10.jpg"
       ]
     },
     {
@@ -191,7 +349,14 @@
       "no": "Q10(a)(ii)",
       "marks": 2,
       "topic": "Oil Droplet Radius",
-      "keywords": ["oil droplet", "terminal velocity 5.35e-4 m/s", "viscosity 1.86e-5 Pa s", "density 904 kg/m3", "radius", "Stokes law"],
+      "keywords": [
+        "oil droplet",
+        "terminal velocity 5.35e-4 m/s",
+        "viscosity 1.86e-5 Pa s",
+        "density 904 kg/m3",
+        "radius",
+        "Stokes law"
+      ],
       "question": "A droplet has terminal velocity 5.35 x 10^-4 m s^-1, with air viscosity 1.86 x 10^-5 Pa s and oil density 904 kg m^-3. Calculate the radius of the droplet.",
       "status": "ready",
       "answer": "Radius = 2.25 x 10^-6 m.",
@@ -201,6 +366,12 @@
         "Denominator: 2 x 904 x 9.81 = 1.774 x 10^4.",
         "r^2 = 8.96 x 10^-8 / 1.774 x 10^4 = 5.05 x 10^-12 m^2.",
         "r = 2.25 x 10^-6 m."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-07.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-08.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-09.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-10.jpg"
       ]
     },
     {
@@ -208,7 +379,16 @@
       "no": "Q10(a)(iii)",
       "marks": 4,
       "topic": "Charge On Stationary Oil Drop",
-      "keywords": ["oil drop", "stationary", "charge", "p.d. 9910 V", "plate separation 1.60 cm", "mass 3.03e-14 kg", "electric field", "Millikan"],
+      "keywords": [
+        "oil drop",
+        "stationary",
+        "charge",
+        "p.d. 9910 V",
+        "plate separation 1.60 cm",
+        "mass 3.03e-14 kg",
+        "electric field",
+        "Millikan"
+      ],
       "question": "A charged oil droplet of mass 3.03 x 10^-14 kg is stationary between plates with a potential difference of 9910 V, separated by 1.60 cm. Calculate the charge on the droplet.",
       "status": "ready",
       "answer": "Charge = 4.80 x 10^-19 C (magnitude).",
@@ -217,6 +397,12 @@
         "Field E = V / d = 9910 / 0.0160 = 6.19 x 10^5 V m^-1.",
         "Weight mg = 3.03 x 10^-14 x 9.81 = 2.97 x 10^-13 N.",
         "q = mg / E = 2.97 x 10^-13 / 6.19 x 10^5 = 4.80 x 10^-19 C."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-07.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-08.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-09.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-10.jpg"
       ]
     },
     {
@@ -224,18 +410,41 @@
       "no": "Q10(b)",
       "marks": 3,
       "topic": "Quantisation Of Charge",
-      "keywords": ["quantisation of charge", "integer multiples", "1.6e-19 C", "oil drop charges", "bar chart", "Millikan", "elementary charge"],
+      "keywords": [
+        "quantisation of charge",
+        "integer multiples",
+        "1.6e-19 C",
+        "oil drop charges",
+        "bar chart",
+        "Millikan",
+        "elementary charge"
+      ],
       "question": "The teacher says charge can only change in integer multiples of 1.6 x 10^-19 C. Explain the extent to which the students' results (a graph of number of droplets against charge) support this.",
       "status": "pending",
       "answer": "Pending: the graph of number of droplets against measured charge is not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-07.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-08.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-09.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-10.jpg"
+      ]
     },
     {
       "id": "6A-Q10c",
       "no": "Q10(c)",
       "marks": 3,
       "topic": "Viscosity Error In Millikan",
-      "keywords": ["Millikan", "viscosity", "too large", "too small", "charge of electron", "1.592e-19 C", "Stokes law", "error"],
+      "keywords": [
+        "Millikan",
+        "viscosity",
+        "too large",
+        "too small",
+        "charge of electron",
+        "1.592e-19 C",
+        "Stokes law",
+        "error"
+      ],
       "question": "Millikan's value for the electron charge was 1.592 x 10^-19 C, versus the accepted 1.602 x 10^-19 C, due to an incorrect viscosity of air. Deduce whether the viscosity he used was too large or too small.",
       "status": "ready",
       "answer": "Too large: a larger viscosity gives a larger radius and mass, so the calculated charge is larger; Millikan's charge was too small, so his viscosity was too large.",
@@ -245,6 +454,12 @@
         "The charge from qE = mg is q = mg / E, so q is proportional to eta^(3/2).",
         "Millikan's charge (1.592) is less than the accepted value (1.602), so his calculated mass was too small.",
         "Therefore the viscosity he used was too large."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-07.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-08.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-09.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-10.jpg"
       ]
     },
     {
@@ -252,40 +467,82 @@
       "no": "Q11",
       "marks": 1,
       "topic": "Field Strength Graph",
-      "keywords": ["electric field strength", "distance", "point charge", "graph", "inverse square", "positive charge", "multiple choice"],
+      "keywords": [
+        "electric field strength",
+        "distance",
+        "point charge",
+        "graph",
+        "inverse square",
+        "positive charge",
+        "multiple choice"
+      ],
       "question": "Select the graph showing how the electric field strength E varies with distance r from a positive point charge.",
       "status": "pending",
       "answer": "Pending: the graphs A to D are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-10.jpg"
+      ]
     },
     {
       "id": "6A-Q12",
       "no": "Q12",
       "marks": 1,
       "topic": "Field Between Two Charges",
-      "keywords": ["point charges", "2 C", "3 C", "1.2 m apart", "electric field strength", "point X", "superposition"],
+      "keywords": [
+        "point charges",
+        "2 C",
+        "3 C",
+        "1.2 m apart",
+        "electric field strength",
+        "point X",
+        "superposition"
+      ],
       "question": "Point charges of 2 C and 3 C are placed 1.2 m apart. Find the electric field strength at the point X shown.",
       "status": "pending",
       "answer": "Pending: the position of point X relative to the charges is shown in the diagram and is not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-11.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-12.jpg"
+      ]
     },
     {
       "id": "6A-Q13",
       "no": "Q13",
       "marks": 1,
       "topic": "Parallel Plate Field Lines",
-      "keywords": ["6 V battery", "parallel plates", "field lines", "equipotentials", "uniform field", "multiple choice"],
+      "keywords": [
+        "6 V battery",
+        "parallel plates",
+        "field lines",
+        "equipotentials",
+        "uniform field",
+        "multiple choice"
+      ],
       "question": "A 6 V battery is connected across two parallel metal plates. Select the diagram showing the electric field lines and equipotentials between the plates.",
       "status": "pending",
       "answer": "Pending: the diagrams A to D are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-11.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-12.jpg"
+      ]
     },
     {
       "id": "6A-Q14a",
       "no": "Q14(a)",
       "marks": 2,
       "topic": "Kinetic Energy And Momentum",
-      "keywords": ["kinetic energy", "momentum", "non-relativistic", "derive", "E k = p^2 / 2m", "linac", "mercury ion"],
+      "keywords": [
+        "kinetic energy",
+        "momentum",
+        "non-relativistic",
+        "derive",
+        "E k = p^2 / 2m",
+        "linac",
+        "mercury ion"
+      ],
       "question": "Derive the formula for the kinetic energy of a non-relativistic particle of mass m with momentum p.",
       "status": "ready",
       "answer": "E_k = p^2 / (2m).",
@@ -293,6 +550,10 @@
         "Kinetic energy E_k = 0.5 m v^2 for a non-relativistic particle.",
         "Momentum p = m v, so v = p / m.",
         "Substitute: E_k = 0.5 m (p / m)^2 = p^2 / (2m)."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-12.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-13.jpg"
       ]
     },
     {
@@ -300,7 +561,16 @@
       "no": "Q14(b)",
       "marks": 4,
       "topic": "Momentum Of Mercury Ion",
-      "keywords": ["linac", "mercury ion", "momentum", "drift tube", "work done", "electric field", "kinetic energy", "6.42e-15 J"],
+      "keywords": [
+        "linac",
+        "mercury ion",
+        "momentum",
+        "drift tube",
+        "work done",
+        "electric field",
+        "kinetic energy",
+        "6.42e-15 J"
+      ],
       "question": "A mercury ion with kinetic energy 6.42 x 10^-15 J leaves a drift tube. The field between drift tubes is 7.64 x 10^6 V m^-1 over 5.50 x 10^-3 m, the ion's mass is 3.32 x 10^-25 kg and its charge is 1.60 x 10^-19 C. Calculate its momentum when it reaches the next drift tube.",
       "status": "ready",
       "answer": "Momentum = 9.34 x 10^-20 kg m s^-1 (N s).",
@@ -309,6 +579,10 @@
         "Kinetic energy at the next tube = 6.42 x 10^-15 + 6.72 x 10^-15 = 1.314 x 10^-14 J.",
         "Momentum p = sqrt(2 m E_k) = sqrt(2 x 3.32 x 10^-25 x 1.314 x 10^-14).",
         "p = sqrt(8.73 x 10^-39) = 9.34 x 10^-20 kg m s^-1."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-12.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-13.jpg"
       ]
     },
     {
@@ -316,51 +590,106 @@
       "no": "Q15",
       "marks": 1,
       "topic": "Maximum Field From V-r Graph",
-      "keywords": ["electric potential", "distance", "maximum field strength", "gradient", "V-r graph", "charged object", "multiple choice"],
+      "keywords": [
+        "electric potential",
+        "distance",
+        "maximum field strength",
+        "gradient",
+        "V-r graph",
+        "charged object",
+        "multiple choice"
+      ],
       "question": "The electric potential V varies with distance r from a charged object. Select the distance (A, B, C or D) at which the electric field strength has its maximum value.",
       "status": "pending",
       "answer": "Pending: the V against r graph and the marked positions A to D are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-13.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-14.jpg"
+      ]
     },
     {
       "id": "6A-Q16",
       "no": "Q16",
       "marks": 3,
       "topic": "Field Lines Of Negative Charge",
-      "keywords": ["negative point charge", "field lines", "radial", "inwards", "arrows", "electric field pattern", "draw"],
+      "keywords": [
+        "negative point charge",
+        "field lines",
+        "radial",
+        "inwards",
+        "arrows",
+        "electric field pattern",
+        "draw"
+      ],
       "question": "A negative point charge is shown in a diagram. Draw field lines to show the electric field around the charge.",
       "status": "pending",
       "answer": "Pending: the drawing is not in the text extraction; the answer is radial field lines pointing inwards towards the charge with arrows.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-14.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-15.jpg"
+      ]
     },
     {
       "id": "6A-Q17",
       "no": "Q17",
       "marks": 1,
       "topic": "Charge From Field Pattern",
-      "keywords": ["field pattern", "charges X and Y", "minus Q", "electric field lines", "charge of Y", "multiple choice"],
+      "keywords": [
+        "field pattern",
+        "charges X and Y",
+        "minus Q",
+        "electric field lines",
+        "charge of Y",
+        "multiple choice"
+      ],
       "question": "The field pattern between charges X (charge -Q) and Y is shown. Select the possible charge of Y from -Q, -2Q, +Q or +2Q.",
       "status": "pending",
       "answer": "Pending: the field pattern diagram is not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-14.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-15.jpg"
+      ]
     },
     {
       "id": "6A-Q18",
       "no": "Q18",
       "marks": 1,
       "topic": "Charge From Coulomb Force",
-      "keywords": ["coulomb force", "ions", "4.0e-9 N", "separation 2.4e-10 m", "charge on each ion", "elementary charge", "multiple choice"],
+      "keywords": [
+        "coulomb force",
+        "ions",
+        "4.0e-9 N",
+        "separation 2.4e-10 m",
+        "charge on each ion",
+        "elementary charge",
+        "multiple choice"
+      ],
       "question": "Two equally charged ions exert a force of 4.0 x 10^-9 N on each other with centres 2.4 x 10^-10 m apart. Select the charge on each ion from the options.",
       "status": "pending",
       "answer": "Pending: the multiple-choice options are missing from the text extraction (the charge is about 1.6 x 10^-19 C).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-15.jpg"
+      ]
     },
     {
       "id": "6A-Q19",
       "no": "Q19",
       "marks": 1,
       "topic": "Cathode Ray Tube Deflection",
-      "keywords": ["cathode ray tube", "deflection", "parallel plates", "electron", "potential difference", "plate separation", "plate length", "filament current"],
+      "keywords": [
+        "cathode ray tube",
+        "deflection",
+        "parallel plates",
+        "electron",
+        "potential difference",
+        "plate separation",
+        "plate length",
+        "filament current"
+      ],
       "question": "Which change would decrease the deflection of electrons in a cathode ray tube? A: increase filament current; B: increase distance between plates; C: increase length of plates; D: increase potential difference.",
       "status": "ready",
       "answer": "B: increasing the distance between the plates.",
@@ -369,6 +698,10 @@
         "Increasing the plate separation d reduces the field E = V / d, so the sideways force and deflection decrease.",
         "Increasing the plate length L or the p.d. V increases the deflection, so C and D are wrong.",
         "The filament current controls beam intensity, not the deflection, so A is wrong."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-16.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-17.jpg"
       ]
     },
     {
@@ -376,29 +709,61 @@
       "no": "Q20",
       "marks": 1,
       "topic": "Field Pattern Of Two Charges",
-      "keywords": ["point charges", "equal magnitude", "field pattern", "close together", "electric field lines", "multiple choice"],
+      "keywords": [
+        "point charges",
+        "equal magnitude",
+        "field pattern",
+        "close together",
+        "electric field lines",
+        "multiple choice"
+      ],
       "question": "Point charges of equal magnitude are placed close together. Select the diagram showing the electric field around the charges.",
       "status": "pending",
       "answer": "Pending: the field diagrams A to D are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-16.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-17.jpg"
+      ]
     },
     {
       "id": "6A-Q21a",
       "no": "Q21(a)",
       "marks": 3,
       "topic": "Field Around Charged Sphere",
-      "keywords": ["charged sphere", "electric field lines", "positive sphere", "radial", "diagram", "conducting sphere"],
+      "keywords": [
+        "charged sphere",
+        "electric field lines",
+        "positive sphere",
+        "radial",
+        "diagram",
+        "conducting sphere"
+      ],
       "question": "Complete the diagram to show the electric field around a positively charged conducting sphere.",
       "status": "pending",
       "answer": "Pending: the drawing is not in the text extraction; the answer is radial lines pointing outwards from the sphere.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-17.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-18.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-19.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-20.jpg"
+      ]
     },
     {
       "id": "6A-Q21b(i)",
       "no": "Q21(b)(i)",
       "marks": 2,
       "topic": "Charge On Conducting Sphere",
-      "keywords": ["conducting sphere", "potential", "radius 20 mm", "charge", "10 nC", "epsilon0", "surface potential"],
+      "keywords": [
+        "conducting sphere",
+        "potential",
+        "radius 20 mm",
+        "charge",
+        "10 nC",
+        "epsilon0",
+        "surface potential"
+      ],
       "question": "The sphere has potential 5000 V at its surface and radius 20 mm. Show that the charge on the sphere is about 10 nC.",
       "status": "ready",
       "answer": "Q = 4 pi epsilon0 r V = 1.1 x 10^-8 C, about 10 nC.",
@@ -407,6 +772,12 @@
         "Rearrange: Q = 4 pi epsilon0 r V = r V / k, with k = 8.99 x 10^9 N m^2 C^-2.",
         "Q = 0.020 x 5000 / 8.99 x 10^9 = 1.1 x 10^-8 C.",
         "This is about 10 nC, as required."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-17.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-18.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-19.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-20.jpg"
       ]
     },
     {
@@ -414,7 +785,16 @@
       "no": "Q21(b)(ii)",
       "marks": 3,
       "topic": "Horizontal Electric Force",
-      "keywords": ["electric force", "sphere", "plates", "10.5 cm", "field strength", "5000 V", "horizontal force", "5e-4 N"],
+      "keywords": [
+        "electric force",
+        "sphere",
+        "plates",
+        "10.5 cm",
+        "field strength",
+        "5000 V",
+        "horizontal force",
+        "5e-4 N"
+      ],
       "question": "The plates are 10.5 cm apart with 5000 V across them. Using the charge of about 10 nC on the sphere, show that the horizontal force on the sphere is about 5 x 10^-4 N.",
       "status": "ready",
       "answer": "F = QE = 1.1 x 10^-8 x 4.8 x 10^4 = 5.3 x 10^-4 N, about 5 x 10^-4 N.",
@@ -423,6 +803,12 @@
         "The horizontal force on the charged sphere is F = Q E.",
         "F = 1.11 x 10^-8 x 4.76 x 10^4 = 5.3 x 10^-4 N.",
         "This is about 5 x 10^-4 N, as required."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-17.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-18.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-19.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-20.jpg"
       ]
     },
     {
@@ -430,7 +816,16 @@
       "no": "Q21(b)(iii)",
       "marks": 3,
       "topic": "Angle Of Thread To Vertical",
-      "keywords": ["sphere", "thread", "angle to vertical", "equilibrium", "tan theta", "electric force", "weight", "2.7 g"],
+      "keywords": [
+        "sphere",
+        "thread",
+        "angle to vertical",
+        "equilibrium",
+        "tan theta",
+        "electric force",
+        "weight",
+        "2.7 g"
+      ],
       "question": "The sphere (mass 2.7 g) is at rest at an angle theta to the vertical under a horizontal electric force of about 5 x 10^-4 N. Show that theta is about 1 degree.",
       "status": "ready",
       "answer": "tan(theta) = F / (mg) = 5.3 x 10^-4 / 0.0265 = 0.020, so theta = 1.1 degrees, about 1 degree.",
@@ -439,6 +834,12 @@
         "In equilibrium the tension's vertical component balances mg and its horizontal component balances F.",
         "tan(theta) = F / (mg) = 5.3 x 10^-4 / (2.7 x 10^-3 x 9.81) = 5.3 x 10^-4 / 0.0265 = 0.020.",
         "theta = arctan(0.020) = 1.1 degrees, which is about 1 degree."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-17.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-18.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-19.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-20.jpg"
       ]
     },
     {
@@ -446,7 +847,15 @@
       "no": "Q21(c)",
       "marks": 3,
       "topic": "Separation Of Two Spheres",
-      "keywords": ["coulomb force", "repulsive force", "5.0e-4 N", "charge 12 nC", "separation", "spheres", "distance between centres"],
+      "keywords": [
+        "coulomb force",
+        "repulsive force",
+        "5.0e-4 N",
+        "charge 12 nC",
+        "separation",
+        "spheres",
+        "distance between centres"
+      ],
       "question": "Two identical spheres each carry 12 nC and repel with a force of 5.0 x 10^-4 N. Calculate the distance between their centres.",
       "status": "ready",
       "answer": "Distance between centres = 0.051 m (about 5.1 cm).",
@@ -455,6 +864,12 @@
         "k q^2 = 8.99 x 10^9 x (12 x 10^-9)^2 = 1.29 x 10^-6 N m^2.",
         "r^2 = 1.29 x 10^-6 / 5.0 x 10^-4 = 2.59 x 10^-3 m^2.",
         "r = 0.051 m, which is about 5.1 cm."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-17.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-18.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-19.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-20.jpg"
       ]
     },
     {
@@ -462,7 +877,15 @@
       "no": "Q22(a)",
       "marks": 3,
       "topic": "Field Midway Between Charges",
-      "keywords": ["dipole", "midpoint", "electric field strength", "+2.5e-7 C", "-2.5e-7 C", "8.0 cm", "superposition"],
+      "keywords": [
+        "dipole",
+        "midpoint",
+        "electric field strength",
+        "+2.5e-7 C",
+        "-2.5e-7 C",
+        "8.0 cm",
+        "superposition"
+      ],
       "question": "A charge of +2.5 x 10^-7 C at X and -2.5 x 10^-7 C at Y are 8.0 cm apart. Calculate the magnitude of the electric field strength midway between X and Y.",
       "status": "ready",
       "answer": "E = 2.8 x 10^6 V m^-1 (N C^-1).",
@@ -471,6 +894,11 @@
         "Field from one charge: E1 = k q / r^2 = 8.99 x 10^9 x 2.5 x 10^-7 / (0.040)^2 = 1.40 x 10^6 V m^-1.",
         "Both fields point the same way (from X towards Y), so they add.",
         "E = 2 x 1.40 x 10^6 = 2.8 x 10^6 V m^-1."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-20.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-21.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-22.jpg"
       ]
     },
     {
@@ -478,62 +906,129 @@
       "no": "Q22(b)(i)",
       "marks": 3,
       "topic": "Equipotentials For Dipole",
-      "keywords": ["equipotentials", "dashed lines", "field diagram", "dipole", "charges X and Y", "electric field"],
+      "keywords": [
+        "equipotentials",
+        "dashed lines",
+        "field diagram",
+        "dipole",
+        "charges X and Y",
+        "electric field"
+      ],
       "question": "Add dashed lines to the electric field diagram of the two charges to show equipotentials.",
       "status": "pending",
       "answer": "Pending: the field diagram is not in the text extraction, so the equipotentials cannot be drawn on it.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-20.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-21.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-22.jpg"
+      ]
     },
     {
       "id": "6A-Q22b(ii)",
       "no": "Q22(b)(ii)",
       "marks": 4,
       "topic": "Field Lines And Test Charges",
-      "keywords": ["field lines", "test charge", "path", "free positive charge", "points A and B", "curved field lines", "accuracy"],
+      "keywords": [
+        "field lines",
+        "test charge",
+        "path",
+        "free positive charge",
+        "points A and B",
+        "curved field lines",
+        "accuracy"
+      ],
       "question": "A textbook says an electric field line shows the path a free positive test charge follows. Discuss the accuracy of this for free positive test charges placed at points A and B on the diagram.",
       "status": "pending",
       "answer": "Pending: the positions of A and B relative to the field lines are in the diagram, which is not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-20.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-21.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-22.jpg"
+      ]
     },
     {
       "id": "6A-Q22c",
       "no": "Q22(c)",
       "marks": 4,
       "topic": "Potential Difference Between Points",
-      "keywords": ["potential difference", "points C and D", "charges doubled", "5.0e-7 C", "dipole", "between charges", "equipotential"],
+      "keywords": [
+        "potential difference",
+        "points C and D",
+        "charges doubled",
+        "5.0e-7 C",
+        "dipole",
+        "between charges",
+        "equipotential"
+      ],
       "question": "The charges are replaced by charges of twice the magnitude (+5.0 x 10^-7 C and -5.0 x 10^-7 C). Determine the potential difference between points C and D, which lie between the charges.",
       "status": "pending",
       "answer": "Pending: the positions of C and D between the charges are shown in the diagram and are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-20.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-21.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-22.jpg"
+      ]
     },
     {
       "id": "6A-Q23",
       "no": "Q23",
       "marks": 1,
       "topic": "Proton And Helium Acceleration",
-      "keywords": ["proton", "helium nucleus", "uniform electric field", "change in speed", "acceleration", "charge to mass ratio", "time", "multiple choice"],
+      "keywords": [
+        "proton",
+        "helium nucleus",
+        "uniform electric field",
+        "change in speed",
+        "acceleration",
+        "charge to mass ratio",
+        "time",
+        "multiple choice"
+      ],
       "question": "A proton and then a helium nucleus are accelerated by the same uniform field. The proton's speed increases by v after time t. Select the time for the helium nucleus to achieve the same change in speed.",
       "status": "pending",
       "answer": "Pending: the multiple-choice options are missing from the text extraction (the answer is 2t).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-22.jpg"
+      ]
     },
     {
       "id": "6A-Q24a",
       "no": "Q24(a)",
       "marks": 2,
       "topic": "Equipotentials Of Point Charge",
-      "keywords": ["equipotential lines", "point charge", "equal potential difference", "field diagram", "X"],
+      "keywords": [
+        "equipotential lines",
+        "point charge",
+        "equal potential difference",
+        "field diagram",
+        "X"
+      ],
       "question": "Add equipotential lines, at intervals of equal potential difference, to the diagram of a point charge at X.",
       "status": "pending",
       "answer": "Pending: the diagram is not in the text extraction; the answer is concentric circles around X with spacing increasing outwards.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-23.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-24.jpg"
+      ]
     },
     {
       "id": "6A-Q24b",
       "no": "Q24(b)",
       "marks": 2,
       "topic": "Coulomb Force Between Charges",
-      "keywords": ["coulomb force", "charge -4.5 nC", "charge +7.0 nC", "4.0 cm", "magnitude of force", "point charges"],
+      "keywords": [
+        "coulomb force",
+        "charge -4.5 nC",
+        "charge +7.0 nC",
+        "4.0 cm",
+        "magnitude of force",
+        "point charges"
+      ],
       "question": "A charge of -4.5 nC is placed 4.0 cm from a charge of +7.0 nC at X. Calculate the magnitude of the force on the -4.5 nC charge.",
       "status": "ready",
       "answer": "F = 1.8 x 10^-4 N (attractive).",
@@ -541,6 +1036,10 @@
         "Coulomb's law: F = k |Q q| / r^2.",
         "|Q q| = 7.0 x 10^-9 x 4.5 x 10^-9 = 3.15 x 10^-17 C^2.",
         "F = 8.99 x 10^9 x 3.15 x 10^-17 / (0.040)^2 = 2.83 x 10^-7 / 1.6 x 10^-3 = 1.8 x 10^-4 N."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-23.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-24.jpg"
       ]
     },
     {
@@ -548,7 +1047,16 @@
       "no": "Q24(c)",
       "marks": 3,
       "topic": "Work Done Moving Charge",
-      "keywords": ["work done", "electric potential energy", "point charge", "4.0 cm", "9.0 cm", "-4.5 nC", "+7.0 nC", "moved"],
+      "keywords": [
+        "work done",
+        "electric potential energy",
+        "point charge",
+        "4.0 cm",
+        "9.0 cm",
+        "-4.5 nC",
+        "+7.0 nC",
+        "moved"
+      ],
       "question": "The -4.5 nC charge is moved from 4.0 cm to 9.0 cm from the +7.0 nC charge at X. Calculate the work done on the -4.5 nC charge.",
       "status": "ready",
       "answer": "Work done = +3.9 x 10^-6 J.",
@@ -557,6 +1065,10 @@
         "Qq = (7.0 x 10^-9)(-4.5 x 10^-9) = -3.15 x 10^-17 C^2; k Qq = -2.83 x 10^-7 J m.",
         "1/r2 - 1/r1 = 1/0.090 - 1/0.040 = 11.1 - 25.0 = -13.9 m^-1.",
         "W = (-2.83 x 10^-7)(-13.9) = +3.9 x 10^-6 J, so energy must be supplied because the charges attract."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-23.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-24.jpg"
       ]
     },
     {
@@ -564,7 +1076,15 @@
       "no": "Q25(a)",
       "marks": 2,
       "topic": "Initial Force On Helonium Ions",
-      "keywords": ["helium ion", "proton", "separation 7.9e-11 m", "coulomb force", "helonium", "repulsive force", "initial force"],
+      "keywords": [
+        "helium ion",
+        "proton",
+        "separation 7.9e-11 m",
+        "coulomb force",
+        "helonium",
+        "repulsive force",
+        "initial force"
+      ],
       "question": "A helium ion (charge 2e) and a proton (charge e) are initially 7.9 x 10^-11 m apart. Calculate the initial force between them.",
       "status": "ready",
       "answer": "F = 7.4 x 10^-8 N (repulsive).",
@@ -573,6 +1093,10 @@
         "F = k q1 q2 / r^2 = 8.99 x 10^9 x 3.2 x 10^-19 x 1.6 x 10^-19 / (7.9 x 10^-11)^2.",
         "F = 4.60 x 10^-28 / 6.24 x 10^-21 = 7.4 x 10^-8 N.",
         "Both are positive so the force is repulsive."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-24.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-25.jpg"
       ]
     },
     {
@@ -580,7 +1104,14 @@
       "no": "Q25(b)",
       "marks": 2,
       "topic": "Field Of Helium Ion",
-      "keywords": ["electric field strength", "helium ion", "proton position", "7.9e-11 m", "field due to point charge", "V m^-1"],
+      "keywords": [
+        "electric field strength",
+        "helium ion",
+        "proton position",
+        "7.9e-11 m",
+        "field due to point charge",
+        "V m^-1"
+      ],
       "question": "Calculate the electric field strength due to the helium ion at the initial position of the proton (separation 7.9 x 10^-11 m).",
       "status": "ready",
       "answer": "E = 4.6 x 10^11 V m^-1 (N C^-1), directed away from the helium ion.",
@@ -589,6 +1120,10 @@
         "E = 8.99 x 10^9 x 3.2 x 10^-19 / (7.9 x 10^-11)^2 = 2.88 x 10^-9 / 6.24 x 10^-21.",
         "E = 4.6 x 10^11 V m^-1.",
         "The field points away from the positive helium ion."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-24.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-25.jpg"
       ]
     },
     {
@@ -596,29 +1131,61 @@
       "no": "Q26(a)(i)",
       "marks": 3,
       "topic": "Equipotentials Of Two Spheres",
-      "keywords": ["spacecraft", "satellite", "equipotentials", "opposite charges", "dashed lines", "equal potential difference", "dipole"],
+      "keywords": [
+        "spacecraft",
+        "satellite",
+        "equipotentials",
+        "opposite charges",
+        "dashed lines",
+        "equal potential difference",
+        "dipole"
+      ],
       "question": "The diagram shows the electric field of a spacecraft X and satellite Y with equal and opposite charge. Add dashed equipotentials at equal potential intervals.",
       "status": "pending",
       "answer": "Pending: the field diagram is not in the text extraction, so the equipotentials cannot be drawn on it.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-25.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-26.jpg"
+      ]
     },
     {
       "id": "6A-Q26a(ii)",
       "no": "Q26(a)(ii)",
       "marks": 1,
       "topic": "Zero Potential Equipotential",
-      "keywords": ["zero potential", "equipotential", "label", "spacecraft", "satellite", "equal opposite charges"],
+      "keywords": [
+        "zero potential",
+        "equipotential",
+        "label",
+        "spacecraft",
+        "satellite",
+        "equal opposite charges"
+      ],
       "question": "Label the equipotential that represents 0 V on the diagram of the spacecraft and satellite.",
       "status": "pending",
       "answer": "Pending: the diagram is not in the text extraction; the 0 V equipotential is the perpendicular bisector between the two spheres.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-25.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-26.jpg"
+      ]
     },
     {
       "id": "6A-Q26b(i)",
       "no": "Q26(b)(i)",
       "marks": 3,
       "topic": "Energy For Electron To Cross",
-      "keywords": ["electron", "spacecraft", "satellite", "potential energy", "surface potential", "1.5e-6 C", "2.5 m radius", "minimum energy"],
+      "keywords": [
+        "electron",
+        "spacecraft",
+        "satellite",
+        "potential energy",
+        "surface potential",
+        "1.5e-6 C",
+        "2.5 m radius",
+        "minimum energy"
+      ],
       "question": "The spacecraft has charge +1.5 x 10^-6 C and the satellite -1.5 x 10^-6 C, both of radius 2.5 m. Calculate the minimum energy for an electron leaving the spacecraft surface to reach the satellite surface, ignoring mutual influence of the charges on the surface potentials.",
       "status": "ready",
       "answer": "Minimum energy = 1.7 x 10^-15 J.",
@@ -627,6 +1194,10 @@
         "Potential at the satellite surface V2 = -5390 V, since its charge is negative.",
         "Change in electron potential energy = q (V2 - V1) = (-1.6 x 10^-19)(-5390 - 5390) = +1.7 x 10^-15 J.",
         "The electron is repelled by the negative satellite, so energy must be supplied: minimum energy = 1.7 x 10^-15 J."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-25.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-26.jpg"
       ]
     },
     {
@@ -634,7 +1205,16 @@
       "no": "Q26(b)(ii)",
       "marks": 4,
       "topic": "Constant Force Travel Time",
-      "keywords": ["electrostatic force", "satellite", "300 km", "60 days", "constant acceleration", "distance 20 m", "mass 2500 kg", "time estimate"],
+      "keywords": [
+        "electrostatic force",
+        "satellite",
+        "300 km",
+        "60 days",
+        "constant acceleration",
+        "distance 20 m",
+        "mass 2500 kg",
+        "time estimate"
+      ],
       "question": "The electrostatic force is constant with the centres 20 m apart. The satellite (mass 2500 kg, initially at rest) could be moved 300 km in about 60 days. Deduce whether this estimate is correct, ignoring gravity.",
       "status": "ready",
       "answer": "The time is about 63 days, so the estimate of about 60 days is reasonable.",
@@ -643,6 +1223,10 @@
         "Acceleration a = F / m = 5.06 x 10^-5 / 2500 = 2.02 x 10^-8 m s^-2.",
         "Constant acceleration from rest: s = 0.5 a t^2, so t = sqrt(2 s / a) = sqrt(2 x 3.0 x 10^5 / 2.02 x 10^-8) = 5.45 x 10^6 s.",
         "5.45 x 10^6 s is about 63 days, close to the estimate of 60 days, so the estimate is reasonable."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-25.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-26.jpg"
       ]
     },
     {
@@ -650,7 +1234,15 @@
       "no": "Q26(c)",
       "marks": 1,
       "topic": "Unequal Charges In Practice",
-      "keywords": ["spacecraft", "satellite", "unequal charge", "electrons", "beam", "charge loss", "real charges"],
+      "keywords": [
+        "spacecraft",
+        "satellite",
+        "unequal charge",
+        "electrons",
+        "beam",
+        "charge loss",
+        "real charges"
+      ],
       "question": "In reality the positive charge on the spacecraft may be greater than the negative charge on the satellite. Suggest why.",
       "status": "ready",
       "answer": "Not all the electrons in the beam land on the satellite, and charge can leak away from the satellite, so its negative charge can be smaller than the spacecraft's positive charge.",
@@ -658,6 +1250,10 @@
         "The electron beam from the spacecraft does not all strike the satellite, so less negative charge is deposited on it.",
         "Charge can also leak from the satellite into the surrounding space, reducing its negative charge.",
         "The spacecraft is not affected in the same way, so its positive charge can be larger."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-25.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-26.jpg"
       ]
     },
     {
@@ -665,29 +1261,60 @@
       "no": "Q27",
       "marks": 1,
       "topic": "Alpha Particle Path",
-      "keywords": ["alpha particle", "gold nucleus", "path", "same kinetic energy", "deflection", "dotted line", "multiple choice"],
+      "keywords": [
+        "alpha particle",
+        "gold nucleus",
+        "path",
+        "same kinetic energy",
+        "deflection",
+        "dotted line",
+        "multiple choice"
+      ],
       "question": "The solid line shows an alpha particle's path near a gold nucleus. A second alpha particle with the same kinetic energy approaches. Select the dotted line showing a possible path.",
       "status": "pending",
       "answer": "Pending: the path diagrams A to D are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-26.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-27.jpg"
+      ]
     },
     {
       "id": "6A-Q28",
       "no": "Q28",
       "marks": 1,
       "topic": "Field Between Parallel Plates Graph",
-      "keywords": ["parallel plates", "electric field strength", "distance from positive plate", "graph", "uniform field", "multiple choice"],
+      "keywords": [
+        "parallel plates",
+        "electric field strength",
+        "distance from positive plate",
+        "graph",
+        "uniform field",
+        "multiple choice"
+      ],
       "question": "A potential difference is applied across parallel plates. Select the graph showing how the field strength E varies with distance d from the positive plate.",
       "status": "pending",
       "answer": "Pending: the graphs A to D are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-27.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-28.jpg"
+      ]
     },
     {
       "id": "6A-Q29a(i)",
       "no": "Q29(a)(i)",
       "marks": 2,
       "topic": "Ball Acceleration On Track",
-      "keywords": ["acceleration", "conducting ball", "track", "2.0 cm gap", "0.22 s", "uniform acceleration", "electric model"],
+      "keywords": [
+        "acceleration",
+        "conducting ball",
+        "track",
+        "2.0 cm gap",
+        "0.22 s",
+        "uniform acceleration",
+        "electric model"
+      ],
       "question": "The ball accelerates uniformly across the 2.0 cm gap between strips in 0.22 s. Show that its acceleration is about 0.8 m s^-2.",
       "status": "ready",
       "answer": "a = 2s / t^2 = 0.83 m s^-2, about 0.8 m s^-2.",
@@ -695,6 +1322,11 @@
         "The ball starts from rest on the first strip, so s = 0.5 a t^2.",
         "a = 2 s / t^2 = 2 x 0.020 / (0.22)^2.",
         "a = 0.040 / 0.0484 = 0.83 m s^-2, which is about 0.8 m s^-2."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-28.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-29.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-30.jpg"
       ]
     },
     {
@@ -702,7 +1334,14 @@
       "no": "Q29(a)(ii)",
       "marks": 2,
       "topic": "Charge On Conducting Ball",
-      "keywords": ["charge on ball", "potential 1800 V", "radius 0.95 cm", "conducting sphere", "2e-9 C", "capacitance of sphere"],
+      "keywords": [
+        "charge on ball",
+        "potential 1800 V",
+        "radius 0.95 cm",
+        "conducting sphere",
+        "2e-9 C",
+        "capacitance of sphere"
+      ],
       "question": "The ball, radius 0.95 cm, is charged to a potential of 1800 V on the first strip. Show that its charge is about 2 x 10^-9 C.",
       "status": "ready",
       "answer": "Q = 4 pi epsilon0 r V = 1.9 x 10^-9 C, about 2 x 10^-9 C.",
@@ -710,6 +1349,11 @@
         "Potential of a charged conducting sphere at its surface: V = Q / (4 pi epsilon0 r).",
         "Q = r V / k = 0.0095 x 1800 / 8.99 x 10^9.",
         "Q = 1.9 x 10^-9 C, which is about 2 x 10^-9 C."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-28.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-29.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-30.jpg"
       ]
     },
     {
@@ -717,7 +1361,16 @@
       "no": "Q29(a)(iii)",
       "marks": 4,
       "topic": "Other Forces On Ball",
-      "keywords": ["electric force", "ball", "acceleration", "resistive force", "friction", "air resistance", "net force", "0.18 g"],
+      "keywords": [
+        "electric force",
+        "ball",
+        "acceleration",
+        "resistive force",
+        "friction",
+        "air resistance",
+        "net force",
+        "0.18 g"
+      ],
       "question": "The electric force on the ball in the uniform field between the strips is 1.9 x 10^-9 C charge at 1800 V over 2.0 cm. The ball (mass 0.18 g) accelerates at about 0.8 m s^-2. Deduce whether the electric force is the only force acting to accelerate the ball.",
       "status": "ready",
       "answer": "No: the electric force alone would give about 0.95 m s^-2, more than 0.8 m s^-2, so an opposing (resistive) force of about 2 x 10^-5 N must also act.",
@@ -728,6 +1381,11 @@
         "The observed 0.8 m s^-2 needs a net force m a = 1.8 x 10^-4 x 0.83 = 1.5 x 10^-4 N.",
         "The difference, 1.7 x 10^-4 - 1.5 x 10^-4 = 2 x 10^-5 N, must be an opposing force such as friction or air resistance.",
         "So the electric force is not the only force acting on the ball."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-28.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-29.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-30.jpg"
       ]
     },
     {
@@ -735,7 +1393,16 @@
       "no": "Q29(b)(i)",
       "marks": 3,
       "topic": "Model Compared With Linac",
-      "keywords": ["linac", "drift tube", "model", "similarity", "differences", "alternating potential", "constant speed", "charging discharging"],
+      "keywords": [
+        "linac",
+        "drift tube",
+        "model",
+        "similarity",
+        "differences",
+        "alternating potential",
+        "constant speed",
+        "charging discharging"
+      ],
       "question": "The shaded section of the model between X and Y corresponds to a drift tube in a linac. Give one similarity and two differences between how this section of the model works and how a linac drift tube works.",
       "status": "ready",
       "answer": "Similarity: the ball moves at constant speed through the section with no accelerating field, as a particle does inside a drift tube. Differences: the linac uses an alternating potential, whereas the model uses a fixed 1800 V / 0 V supply; the model ball is charged and discharged by contact with the strips, whereas in the linac particles are accelerated in the gaps between tubes.",
@@ -743,6 +1410,11 @@
         "Similarity: inside the section the ball moves at constant speed because there is no accelerating field, as inside a drift tube.",
         "Difference 1: a linac drift tube is supplied with an alternating (oscillating) potential, while the model uses a fixed 1800 V and 0 V supply.",
         "Difference 2: in the model the ball is charged and discharged by contact with the strips, whereas in a linac the particles are accelerated across the gaps between the tubes by the field, without contact."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-28.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-29.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-30.jpg"
       ]
     },
     {
@@ -750,7 +1422,15 @@
       "no": "Q29(b)(ii)",
       "marks": 3,
       "topic": "Drift Tube Length Increase",
-      "keywords": ["linac", "drift tube lengths", "increasing speed", "alternating voltage", "half period", "synchronised", "particles accelerate"],
+      "keywords": [
+        "linac",
+        "drift tube lengths",
+        "increasing speed",
+        "alternating voltage",
+        "half period",
+        "synchronised",
+        "particles accelerate"
+      ],
       "question": "In the model the drift tube lengths are constant. Explain why the lengths of the drift tubes in a linac are not constant.",
       "status": "ready",
       "answer": "The particles speed up along the linac, so each tube must be longer to keep the particle inside it for half a cycle of the alternating voltage.",
@@ -758,6 +1438,11 @@
         "The alternating voltage must reverse each time the particle crosses a gap, so the particle must spend exactly half a period inside each drift tube.",
         "As the particle gains energy its speed increases, so it covers more distance in the same time.",
         "Each successive tube must therefore be longer, which is why the lengths are not constant."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-28.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-29.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-30.jpg"
       ]
     },
     {
@@ -765,29 +1450,59 @@
       "no": "Q30(a)",
       "marks": 3,
       "topic": "Field Lines Of Positive Charge",
-      "keywords": ["positive point charge", "field lines", "radial", "outwards", "draw", "arrows"],
+      "keywords": [
+        "positive point charge",
+        "field lines",
+        "radial",
+        "outwards",
+        "draw",
+        "arrows"
+      ],
       "question": "A positive point charge is shown. Draw field lines to show the electric field around the charge.",
       "status": "pending",
       "answer": "Pending: the drawing is not in the text extraction; the answer is radial lines pointing outwards from the charge.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-30.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-31.jpg"
+      ]
     },
     {
       "id": "6A-Q30b",
       "no": "Q30(b)",
       "marks": 3,
       "topic": "Field At Point Between Charges",
-      "keywords": ["electric field strength", "point R", "charges +14 nC and -14 nC", "4.0 cm", "magnitude", "superposition", "position of Q"],
+      "keywords": [
+        "electric field strength",
+        "point R",
+        "charges +14 nC and -14 nC",
+        "4.0 cm",
+        "magnitude",
+        "superposition",
+        "position of Q"
+      ],
       "question": "A +14 nC charge at P and a -14 nC charge at Q are shown, with R 4.0 cm from P. Calculate the magnitude of the electric field strength at R.",
       "status": "pending",
       "answer": "Pending: the distance of R from Q is shown in the diagram and is not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-30.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-31.jpg"
+      ]
     },
     {
       "id": "6A-Q31",
       "no": "Q31",
       "marks": 1,
       "topic": "Potential From Field Graph",
-      "keywords": ["electric potential", "area under graph", "field strength graph", "charged sphere", "infinity", "potential at distance"],
+      "keywords": [
+        "electric potential",
+        "area under graph",
+        "field strength graph",
+        "charged sphere",
+        "infinity",
+        "potential at distance"
+      ],
       "question": "The graph shows how the field strength from a charged conducting sphere varies with distance. Which expression gives the electric potential at 0.5 m: A the area under the graph from 0 to 0.5 m; B the area under the graph from 0.5 m to infinity; C the gradient at 0.5 m; D E at 0.5 m divided by 0.5 m?",
       "status": "ready",
       "answer": "B: the area under the graph from 0.5 m to infinity.",
@@ -796,6 +1511,10 @@
         "V(r) = integral of E dr from r to infinity, which is the area under the E-r graph between r and infinity.",
         "The gradient gives the field (not the potential), and E/r has no meaning for the potential.",
         "So the potential at 0.5 m is the area from 0.5 m to infinity, option B."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-31.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-32.jpg"
       ]
     },
     {
@@ -803,7 +1522,14 @@
       "no": "Q32(a)",
       "marks": 2,
       "topic": "Charge On Van De Graaff Sphere",
-      "keywords": ["van de graaff", "conducting sphere", "potential 1.75e4 V", "radius 22.5 cm", "charge", "4.4e-7 C"],
+      "keywords": [
+        "van de graaff",
+        "conducting sphere",
+        "potential 1.75e4 V",
+        "radius 22.5 cm",
+        "charge",
+        "4.4e-7 C"
+      ],
       "question": "The conducting sphere of a Van de Graaff generator has radius 22.5 cm and surface potential 1.75 x 10^4 V. Show that its charge is about 4.4 x 10^-7 C.",
       "status": "ready",
       "answer": "Q = V r / k = 4.4 x 10^-7 C.",
@@ -811,6 +1537,10 @@
         "Surface potential of a charged sphere V = Q / (4 pi epsilon0 r), so Q = V r / k.",
         "Q = 1.75 x 10^4 x 0.225 / 8.99 x 10^9.",
         "Q = 4.38 x 10^-7 C, which is about 4.4 x 10^-7 C."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-31.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-32.jpg"
       ]
     },
     {
@@ -818,7 +1548,14 @@
       "no": "Q32(b)",
       "marks": 2,
       "topic": "Field Outside Van De Graaff Sphere",
-      "keywords": ["van de graaff", "electric field strength", "distance 32.5 cm", "charged sphere", "neon bulb", "inverse square"],
+      "keywords": [
+        "van de graaff",
+        "electric field strength",
+        "distance 32.5 cm",
+        "charged sphere",
+        "neon bulb",
+        "inverse square"
+      ],
       "question": "A neon bulb lights at 32.5 cm from the centre of the charged sphere. Determine the electric field strength at this position.",
       "status": "ready",
       "answer": "E = 3.7 x 10^4 V m^-1.",
@@ -826,6 +1563,10 @@
         "Outside a charged sphere the field is that of a point charge at its centre: E = k Q / r^2.",
         "E = 8.99 x 10^9 x 4.4 x 10^-7 / (0.325)^2 = 3.96 x 10^3 / 0.1056.",
         "E = 3.7 x 10^4 V m^-1."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-31.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-32.jpg"
       ]
     },
     {
@@ -833,29 +1574,63 @@
       "no": "Q33",
       "marks": 1,
       "topic": "Force Between Identical Particles",
-      "keywords": ["coulomb force", "two particles", "vacuum", "0.020 m", "+8.0e-6 C", "magnitude of force", "multiple choice"],
+      "keywords": [
+        "coulomb force",
+        "two particles",
+        "vacuum",
+        "0.020 m",
+        "+8.0e-6 C",
+        "magnitude of force",
+        "multiple choice"
+      ],
       "question": "Two identical +8.0 x 10^-6 C particles are 0.020 m apart in a vacuum. Select the magnitude of the force on each particle from the options.",
       "status": "pending",
       "answer": "Pending: the multiple-choice options are missing from the text extraction (the force is about 1.4 x 10^3 N).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-32.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-33.jpg"
+      ]
     },
     {
       "id": "6A-Q34a",
       "no": "Q34(a)",
       "marks": 2,
       "topic": "Field Lines Between Plates",
-      "keywords": ["parallel plates", "field lines", "uniform field", "Millikan", "oil drops", "diagram", "draw"],
+      "keywords": [
+        "parallel plates",
+        "field lines",
+        "uniform field",
+        "Millikan",
+        "oil drops",
+        "diagram",
+        "draw"
+      ],
       "question": "Add to the diagram the field lines between two parallel charged plates in Millikan's experiment.",
       "status": "pending",
       "answer": "Pending: the diagram is not in the text extraction; the answer is parallel straight lines, evenly spaced, from the positive plate to the negative plate.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-33.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-34.jpg"
+      ]
     },
     {
       "id": "6A-Q34b",
       "no": "Q34(b)",
       "marks": 5,
       "topic": "Quantisation Test For Oil Drop",
-      "keywords": ["oil drop", "stationary", "charge", "whole number multiple", "electronic charge", "1.5 cm", "85 V", "density 920", "volume 5.0e-19 m3"],
+      "keywords": [
+        "oil drop",
+        "stationary",
+        "charge",
+        "whole number multiple",
+        "electronic charge",
+        "1.5 cm",
+        "85 V",
+        "density 920",
+        "volume 5.0e-19 m3"
+      ],
       "question": "A charged oil drop (volume 5.0 x 10^-19 m^3, density 920 kg m^-3) is brought to rest between plates 1.5 cm apart with a potential difference of 85 V. Deduce whether its charge is a whole number multiple of the electronic charge.",
       "status": "ready",
       "answer": "q = 8.0 x 10^-19 C, which is about 5 times 1.6 x 10^-19 C, so the charge is a whole-number multiple of e.",
@@ -865,6 +1640,10 @@
         "For equilibrium qE = mg, so q = mg / E = 4.6 x 10^-16 x 9.81 / 5.67 x 10^3 = 8.0 x 10^-19 C.",
         "q / e = 8.0 x 10^-19 / 1.6 x 10^-19 = 5.0, a whole number.",
         "The charge is therefore a whole-number multiple (5) of the electronic charge."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-33.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-34.jpg"
       ]
     },
     {
@@ -872,29 +1651,64 @@
       "no": "Q35",
       "marks": 1,
       "topic": "Distance From Proton Field",
-      "keywords": ["proton", "electric field strength", "0.77 N C^-1", "distance", "vacuum", "inverse square", "multiple choice"],
+      "keywords": [
+        "proton",
+        "electric field strength",
+        "0.77 N C^-1",
+        "distance",
+        "vacuum",
+        "inverse square",
+        "multiple choice"
+      ],
       "question": "A proton in a vacuum produces an electric field of 0.77 N C^-1 at distance r. Select the distance r in metres from the options.",
       "status": "pending",
       "answer": "Pending: the multiple-choice options are missing from the text extraction (r = 4.3 x 10^-5 m).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-34.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-35.jpg"
+      ]
     },
     {
       "id": "6A-Q36a",
       "no": "Q36(a)",
       "marks": 2,
       "topic": "Field Lines Plate And Panel",
-      "keywords": ["solar panel", "sand removal", "negative plate", "positive panel", "field lines", "electric field", "diagram"],
+      "keywords": [
+        "solar panel",
+        "sand removal",
+        "negative plate",
+        "positive panel",
+        "field lines",
+        "electric field",
+        "diagram"
+      ],
       "question": "A negatively charged plate is above a positively charged solar panel. Add the electric field lines between the plate and the panel.",
       "status": "pending",
       "answer": "Pending: the diagram is not in the text extraction; the answer is straight field lines from the panel up to the plate.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-35.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-36.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-37.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-38.jpg"
+      ]
     },
     {
       "id": "6A-Q36b(i)",
       "no": "Q36(b)(i)",
       "marks": 2,
       "topic": "Why Sand Particle Moves",
-      "keywords": ["sand particle", "positive charge", "negative plate", "solar panel", "electric force", "repelled", "attracted", "removal"],
+      "keywords": [
+        "sand particle",
+        "positive charge",
+        "negative plate",
+        "solar panel",
+        "electric force",
+        "repelled",
+        "attracted",
+        "removal"
+      ],
       "question": "Explain why a positively charged sand particle moves off the solar panel as shown when the negatively charged plate moves across it.",
       "status": "ready",
       "answer": "The positive particle is repelled by the positively charged panel and attracted to the negatively charged plate, so the electric force pulls it off the panel.",
@@ -902,6 +1716,12 @@
         "The sand particle carries positive charge, and the panel is also positive.",
         "Like charges repel, so the panel pushes the positive particle away from its surface.",
         "The negatively charged plate attracts the positive particle, so the net electric force moves it towards the plate and off the panel."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-35.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-36.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-37.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-38.jpg"
       ]
     },
     {
@@ -909,7 +1729,15 @@
       "no": "Q36(b)(ii)",
       "marks": 2,
       "topic": "Field Strength Between Plate And Panel",
-      "keywords": ["electric field strength", "solar panel", "1.50 cm", "12.2 kV", "8.1e5 V/m", "plate", "potential difference"],
+      "keywords": [
+        "electric field strength",
+        "solar panel",
+        "1.50 cm",
+        "12.2 kV",
+        "8.1e5 V/m",
+        "plate",
+        "potential difference"
+      ],
       "question": "The plate and panel are 1.50 cm apart with a potential difference of 12.2 kV. Show that the electric field strength between them is about 8.1 x 10^5 V m^-1.",
       "status": "ready",
       "answer": "E = V / d = 12 200 / 0.0150 = 8.1 x 10^5 V m^-1.",
@@ -917,6 +1745,12 @@
         "For a uniform field between parallel plates, E = V / d.",
         "E = 12 200 V / 0.0150 m = 8.13 x 10^5 V m^-1.",
         "This is about 8.1 x 10^5 V m^-1, as required."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-35.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-36.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-37.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-38.jpg"
       ]
     },
     {
@@ -924,29 +1758,66 @@
       "no": "Q36(b)(iii)",
       "marks": 6,
       "topic": "Largest Liftable Sand Particle",
-      "keywords": ["sand particles", "diameter", "electric force", "weight", "maximum charge 4.0e-12 C", "density 2600 kg/m3", "field 8.1e5 V/m", "largest diameter"],
+      "keywords": [
+        "sand particles",
+        "diameter",
+        "electric force",
+        "weight",
+        "maximum charge 4.0e-12 C",
+        "density 2600 kg/m3",
+        "field 8.1e5 V/m",
+        "largest diameter"
+      ],
       "question": "The maximum positive charge on a sand particle is 4.0 x 10^-12 C, and the field is 8.1 x 10^5 V m^-1. Density of sand is 2600 kg m^-3. Deduce the largest diameter of sand particles from the table that could be lifted from the panel.",
       "status": "pending",
       "answer": "Pending: the table of sand particle diameters is not in the text extraction. The threshold is about 0.62 mm: particles larger than this cannot be lifted.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-35.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-36.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-37.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-38.jpg"
+      ]
     },
     {
       "id": "6A-Q36c(i)",
       "no": "Q36(c)(i)",
       "marks": 2,
       "topic": "Forces On Sand On Inclined Panel",
-      "keywords": ["sand particle", "inclined panel", "free body diagram", "electric force", "weight", "normal force", "angle"],
+      "keywords": [
+        "sand particle",
+        "inclined panel",
+        "free body diagram",
+        "electric force",
+        "weight",
+        "normal force",
+        "angle"
+      ],
       "question": "The solar panel is inclined at an angle to the horizontal. Add to the diagram the forces acting on a charged sand particle.",
       "status": "pending",
       "answer": "Pending: the inclined panel diagram is not in the text extraction; the forces are weight vertically down, the electric force from the plate, and a normal reaction from the panel.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-35.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-36.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-37.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-38.jpg"
+      ]
     },
     {
       "id": "6A-Q36c(ii)",
       "no": "Q36(c)(ii)",
       "marks": 2,
       "topic": "Inclining Panel To Remove Sand",
-      "keywords": ["inclined panel", "sand removal", "weight component", "slope", "gravity", "electric force", "angle"],
+      "keywords": [
+        "inclined panel",
+        "sand removal",
+        "weight component",
+        "slope",
+        "gravity",
+        "electric force",
+        "angle"
+      ],
       "question": "Explain how inclining the solar panel at an angle to the horizontal would improve the removal of sand particles.",
       "status": "ready",
       "answer": "On an incline the weight of each sand particle has a component down the slope, which helps it slide off the panel, and this adds to the electric force in removing it.",
@@ -955,6 +1826,12 @@
         "This component pulls the particle down and away from the panel surface, helping it leave.",
         "The electric force from the moving plate then acts on particles that are loosened, so less force is needed to lift them off.",
         "Gravity and the electric force act together, so the removal is more effective than on a horizontal panel."
+      ],
+      "images": [
+        "papers/physics/img/23-6A-Electric-Fields-35.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-36.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-37.jpg",
+        "papers/physics/img/23-6A-Electric-Fields-38.jpg"
       ]
     }
   ]

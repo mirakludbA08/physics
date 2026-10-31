@@ -27,6 +27,10 @@
         "Number of 10 K steps = 60 / 10 = 6",
         "Each 10 K step doubles the rate, so the factor = 2^6",
         "2^6 = 64, so the answer is D"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-01.jpg",
+        "papers/chemistry/img/09A-Kinetics-02.jpg"
       ]
     },
     {
@@ -46,7 +50,11 @@
       "question": "A graph shows how the concentration of a reactant changes with time. Which expression gives the best estimate of the rate at time b?",
       "status": "pending",
       "answer": "Needs the concentration-time graph and the option symbols (a to e) from the PDF to check the gradient at time b",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-01.jpg",
+        "papers/chemistry/img/09A-Kinetics-02.jpg"
+      ]
     },
     {
       "id": "Q3",
@@ -70,6 +78,12 @@
         "Pressure only affects rate when gaseous reactants are involved",
         "Calcium carbonate is a solid and hydrochloric acid is aqueous, so pressure has no effect",
         "The answer is B"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-02.jpg",
+        "papers/chemistry/img/09A-Kinetics-03.jpg",
+        "papers/chemistry/img/09A-Kinetics-04.jpg",
+        "papers/chemistry/img/09A-Kinetics-05.jpg"
       ]
     },
     {
@@ -89,7 +103,13 @@
       "question": "A student wrote a mechanism for ethene reacting with chlorine to form 1,2-dichloroethane. Identify the two mistakes in the mechanism and give the correction for each.",
       "status": "pending",
       "answer": "Needs the student's mechanism diagram from the PDF to identify the two mistakes",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-02.jpg",
+        "papers/chemistry/img/09A-Kinetics-03.jpg",
+        "papers/chemistry/img/09A-Kinetics-04.jpg",
+        "papers/chemistry/img/09A-Kinetics-05.jpg"
+      ]
     },
     {
       "id": "Q4a(ii)",
@@ -116,6 +136,12 @@
         "Mr of desired product C2H3Cl = 2(12.0) + 3(1.0) + 35.5 = 62.5",
         "Total Mr of reactants = 28.0 + 71.0 = 99.0",
         "Atom economy = 62.5 / 99.0 x 100 = 63.1%"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-02.jpg",
+        "papers/chemistry/img/09A-Kinetics-03.jpg",
+        "papers/chemistry/img/09A-Kinetics-04.jpg",
+        "papers/chemistry/img/09A-Kinetics-05.jpg"
       ]
     },
     {
@@ -141,6 +167,12 @@
         "Atom economy of Process B is 100%, higher than Process A (about 63%)",
         "Process A produces HCl as a waste by-product, lowering its atom economy",
         "Process B uses mercury(II) chloride, which is highly toxic and vaporises, so it has the greater environmental impact"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-02.jpg",
+        "papers/chemistry/img/09A-Kinetics-03.jpg",
+        "papers/chemistry/img/09A-Kinetics-04.jpg",
+        "papers/chemistry/img/09A-Kinetics-05.jpg"
       ]
     },
     {
@@ -168,6 +200,12 @@
         "A catalyst provides an alternative route with a lower activation energy, shown by Ea moving left",
         "More molecules now have E >= Ea, the area beyond Ea increases, so more successful collisions occur",
         "The catalyst is unchanged at the end and the total number of molecules (area under curve) is the same, so the rate increases"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-02.jpg",
+        "papers/chemistry/img/09A-Kinetics-03.jpg",
+        "papers/chemistry/img/09A-Kinetics-04.jpg",
+        "papers/chemistry/img/09A-Kinetics-05.jpg"
       ]
     },
     {
@@ -192,6 +230,10 @@
         "Lower concentration of a reactant reduces collision frequency, so rate falls",
         "Increasing HCl concentration, increasing temperature and adding a catalyst all increase the rate and shorten the time",
         "So decreasing the thiosulfate concentration lengthens the time: answer B"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-05.jpg",
+        "papers/chemistry/img/09A-Kinetics-06.jpg"
       ]
     },
     {
@@ -217,6 +259,10 @@
         "0.100 mol HCl needs only 0.050 mol MgCO3, so HCl is the limiting reagent",
         "Moles of CO2 = 0.100 / 2 = 0.050 mol",
         "Volume = 0.050 x 24.0 = 1.20 dm3, answer B"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-06.jpg",
+        "papers/chemistry/img/09A-Kinetics-07.jpg"
       ]
     },
     {
@@ -235,7 +281,11 @@
       "question": "Which sketch graph shows the volume of carbon dioxide (y-axis) against time (x-axis) for the reaction in Q6?",
       "status": "pending",
       "answer": "Needs the option sketch graphs from the PDF; they are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-06.jpg",
+        "papers/chemistry/img/09A-Kinetics-07.jpg"
+      ]
     },
     {
       "id": "Q6c",
@@ -253,7 +303,11 @@
       "question": "Which sketch graph shows the rate of reaction (y-axis) against time (x-axis) for the reaction in Q6?",
       "status": "pending",
       "answer": "Needs the option sketch graphs from the PDF; they are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-06.jpg",
+        "papers/chemistry/img/09A-Kinetics-07.jpg"
+      ]
     },
     {
       "id": "Q7a",
@@ -271,7 +325,11 @@
       "question": "A reaction profile for a reversible reaction is shown. Which symbol represents the enthalpy change for R to P? Options: u, v, w, x.",
       "status": "pending",
       "answer": "Needs the reaction profile diagram from the PDF to label u, v, w and x",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-07.jpg",
+        "papers/chemistry/img/09A-Kinetics-08.jpg"
+      ]
     },
     {
       "id": "Q7b",
@@ -288,7 +346,11 @@
       "question": "Using the reaction profile for a reversible reaction, which symbol represents the activation energy of the reverse reaction P to R? Options: u, v, w, x.",
       "status": "pending",
       "answer": "Needs the reaction profile diagram from the PDF to label u, v, w and x",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-07.jpg",
+        "papers/chemistry/img/09A-Kinetics-08.jpg"
+      ]
     },
     {
       "id": "Q7c",
@@ -305,7 +367,11 @@
       "question": "Using Hess's Law on the reaction profile in Q7, which expression is correct? A v+x=u+w, B w+x=u, C u-w=v, D u-v=x.",
       "status": "pending",
       "answer": "Needs the labelled reaction profile from the PDF to check which Hess expression holds",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-07.jpg",
+        "papers/chemistry/img/09A-Kinetics-08.jpg"
+      ]
     },
     {
       "id": "Q8",
@@ -323,7 +389,11 @@
       "question": "The energy profile for a reaction is shown. What is the minimum energy needed for the reaction to occur? Options: A X, B Y, C X-Y, D X+Y.",
       "status": "pending",
       "answer": "Needs the energy profile diagram from the PDF to identify which labelled energy is the activation energy",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-08.jpg",
+        "papers/chemistry/img/09A-Kinetics-09.jpg"
+      ]
     },
     {
       "id": "Q9",
@@ -342,7 +412,11 @@
       "question": "A graph shows how the concentration of iodine changes with time. What is the rate of reaction in mol dm-3 s-1 at 8 seconds? Options: A 0.01, B 0.02, C 0.03, D 0.25.",
       "status": "pending",
       "answer": "Needs the iodine concentration-time graph from the PDF to measure the gradient at 8 s",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-09.jpg",
+        "papers/chemistry/img/09A-Kinetics-10.jpg"
+      ]
     },
     {
       "id": "Q10",
@@ -360,7 +434,11 @@
       "question": "The Maxwell-Boltzmann curve for an uncatalysed reaction is shown with activation energy Ea. Which row shows the correct curve and activation energy for the reaction at a higher temperature with a catalyst?",
       "status": "pending",
       "answer": "Needs the table of curve and Ea rows from the PDF to choose the correct row",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-09.jpg",
+        "papers/chemistry/img/09A-Kinetics-10.jpg"
+      ]
     },
     {
       "id": "Q11a(i)",
@@ -379,7 +457,14 @@
       "question": "Write the overall equation for the Liebig Process that makes potassium chlorate(V), KClO3. State symbols are not required.",
       "status": "pending",
       "answer": "Needs the Stage 2 equation (not in the text) to combine with Stage 1 into the overall equation",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-10.jpg",
+        "papers/chemistry/img/09A-Kinetics-11.jpg",
+        "papers/chemistry/img/09A-Kinetics-12.jpg",
+        "papers/chemistry/img/09A-Kinetics-13.jpg",
+        "papers/chemistry/img/09A-Kinetics-14.jpg"
+      ]
     },
     {
       "id": "Q11a(ii)",
@@ -397,7 +482,14 @@
       "question": "Using your overall equation for the Liebig Process, calculate the overall atom economy by mass for the production of KClO3.",
       "status": "pending",
       "answer": "Depends on the overall equation in Q11(a)(i), which needs the Stage 2 equation from the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-10.jpg",
+        "papers/chemistry/img/09A-Kinetics-11.jpg",
+        "papers/chemistry/img/09A-Kinetics-12.jpg",
+        "papers/chemistry/img/09A-Kinetics-13.jpg",
+        "papers/chemistry/img/09A-Kinetics-14.jpg"
+      ]
     },
     {
       "id": "Q11b",
@@ -423,6 +515,13 @@
         "Cl in CaCl2 has oxidation number -1, so Cl is reduced (gains 1 electron per Cl)",
         "Ca, H and O keep the same oxidation numbers in every species",
         "The same element is both oxidised and reduced, so this is a disproportionation (redox) reaction"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-10.jpg",
+        "papers/chemistry/img/09A-Kinetics-11.jpg",
+        "papers/chemistry/img/09A-Kinetics-12.jpg",
+        "papers/chemistry/img/09A-Kinetics-13.jpg",
+        "papers/chemistry/img/09A-Kinetics-14.jpg"
       ]
     },
     {
@@ -448,6 +547,13 @@
         "Chloride ions form a white precipitate of silver chloride, AgCl",
         "Bromide ions would form a cream precipitate of silver bromide, AgBr",
         "A white precipitate confirms chloride impurity (optionally, it dissolves in dilute ammonia while cream AgBr does not)"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-10.jpg",
+        "papers/chemistry/img/09A-Kinetics-11.jpg",
+        "papers/chemistry/img/09A-Kinetics-12.jpg",
+        "papers/chemistry/img/09A-Kinetics-13.jpg",
+        "papers/chemistry/img/09A-Kinetics-14.jpg"
       ]
     },
     {
@@ -474,6 +580,13 @@
         "Mass of KClO3 = 0.0104 x 122.6 = 1.28 g (Mr: K 39.1, Cl 35.5, O 16.0)",
         "Purity = 1.28 / 1.52 x 100 = 84%",
         "Limit to 2 s.f. because the mass loss (0.50 g) has 2 s.f."
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-10.jpg",
+        "papers/chemistry/img/09A-Kinetics-11.jpg",
+        "papers/chemistry/img/09A-Kinetics-12.jpg",
+        "papers/chemistry/img/09A-Kinetics-13.jpg",
+        "papers/chemistry/img/09A-Kinetics-14.jpg"
       ]
     },
     {
@@ -495,6 +608,13 @@
         "KClO4 contains the chlorate ion with chlorine in oxidation state +7",
         "Roman numeral (VII) shows the oxidation state of chlorine",
         "Name: potassium chlorate(VII)"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-10.jpg",
+        "papers/chemistry/img/09A-Kinetics-11.jpg",
+        "papers/chemistry/img/09A-Kinetics-12.jpg",
+        "papers/chemistry/img/09A-Kinetics-13.jpg",
+        "papers/chemistry/img/09A-Kinetics-14.jpg"
       ]
     },
     {
@@ -514,7 +634,14 @@
       "question": "A student investigated the role of the catalyst in the thermal decomposition of KClO3. Explain how each step of the procedure shows the catalyst is not used up.",
       "status": "pending",
       "answer": "Needs the list of procedure steps shown in the PDF, which are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-10.jpg",
+        "papers/chemistry/img/09A-Kinetics-11.jpg",
+        "papers/chemistry/img/09A-Kinetics-12.jpg",
+        "papers/chemistry/img/09A-Kinetics-13.jpg",
+        "papers/chemistry/img/09A-Kinetics-14.jpg"
+      ]
     },
     {
       "id": "Q11e",
@@ -537,6 +664,13 @@
         "On the Maxwell-Boltzmann curve, Ea moves to the left, so more molecules have energy >= Ea",
         "More successful collisions occur per second, so the rate increases",
         "The catalyst is regenerated and is not used up"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-10.jpg",
+        "papers/chemistry/img/09A-Kinetics-11.jpg",
+        "papers/chemistry/img/09A-Kinetics-12.jpg",
+        "papers/chemistry/img/09A-Kinetics-13.jpg",
+        "papers/chemistry/img/09A-Kinetics-14.jpg"
       ]
     },
     {
@@ -555,7 +689,11 @@
       "question": "Which is the correctly labelled reaction profile for an exothermic reaction?",
       "status": "pending",
       "answer": "Needs the reaction profile options from the PDF; they are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-14.jpg",
+        "papers/chemistry/img/09A-Kinetics-15.jpg"
+      ]
     },
     {
       "id": "Q13",
@@ -574,7 +712,11 @@
       "question": "The results of an experiment to determine the rate of magnesium with hydrochloric acid are shown. What is the approximate rate in cm3 s-1 at 40 seconds? A 0.75, B 1.3, C 2.2, D 6.0.",
       "status": "pending",
       "answer": "Needs the results graph from the PDF to measure the gradient at 40 s",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-15.jpg",
+        "papers/chemistry/img/09A-Kinetics-16.jpg"
+      ]
     },
     {
       "id": "Q14a",
@@ -598,6 +740,11 @@
         "Ca2+ has a larger ionic radius than Mg2+, so its charge density is lower",
         "A low charge density cation distorts (polarises) the carbonate ion less",
         "Less distortion of the carbonate ion means the C-O bonds are less weakened, so more heat is needed to decompose it"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-16.jpg",
+        "papers/chemistry/img/09A-Kinetics-17.jpg",
+        "papers/chemistry/img/09A-Kinetics-18.jpg"
       ]
     },
     {
@@ -623,6 +770,11 @@
         "CaCO3 + 2HCl -> CaCl2 + CO2 + H2O, so moles of HCl = 2 x 4.17 x 10^-3 = 8.33 x 10^-3 mol",
         "Volume = moles / concentration = 8.33 x 10^-3 / 0.500 = 1.67 x 10^-2 dm3",
         "Volume = 16.7 cm3"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-16.jpg",
+        "papers/chemistry/img/09A-Kinetics-17.jpg",
+        "papers/chemistry/img/09A-Kinetics-18.jpg"
       ]
     },
     {
@@ -642,7 +794,12 @@
       "question": "Using the graph of gas volume against time for the CaCO3 and HCl experiment, calculate the initial rate of reaction, showing working on the graph and including units.",
       "status": "pending",
       "answer": "Needs the volume-time graph from the PDF to draw the initial tangent and read values",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-16.jpg",
+        "papers/chemistry/img/09A-Kinetics-17.jpg",
+        "papers/chemistry/img/09A-Kinetics-18.jpg"
+      ]
     },
     {
       "id": "Q14b(iii)",
@@ -661,7 +818,12 @@
       "question": "The experiment is repeated with 0.250 mol dm-3 HCl, all else the same. State what happens to the initial rate and to the final volume of CO2 collected.",
       "status": "pending",
       "answer": "Needs the final-volume plateau shown on the PDF graph to confirm whether the acid is limiting",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-16.jpg",
+        "papers/chemistry/img/09A-Kinetics-17.jpg",
+        "papers/chemistry/img/09A-Kinetics-18.jpg"
+      ]
     },
     {
       "id": "Q15a",
@@ -684,6 +846,10 @@
         "It does not change the average kinetic energy of molecules, so A and B are wrong",
         "Raising the activation energy would slow the reaction, so C is wrong",
         "The answer is D"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-19.jpg",
+        "papers/chemistry/img/09A-Kinetics-20.jpg"
       ]
     },
     {
@@ -708,6 +874,10 @@
         "From 2H2O2 -> 2H2O + O2, moles H2O2 = 2 x 4.17 x 10^-4 = 8.33 x 10^-4 mol",
         "This amount is in 1 cm3 = 0.001 dm3",
         "Concentration = 8.33 x 10^-4 / 0.001 = 0.833 mol dm-3, answer D"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-19.jpg",
+        "papers/chemistry/img/09A-Kinetics-20.jpg"
       ]
     },
     {
@@ -731,6 +901,10 @@
         "These particles have enough energy to react",
         "Ea is not the mean energy, so A and B are wrong",
         "A catalyst lowers Ea (moves it left), so D is wrong"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-19.jpg",
+        "papers/chemistry/img/09A-Kinetics-20.jpg"
       ]
     },
     {
@@ -754,6 +928,10 @@
         "The peak shifts to lower energy (left)",
         "The curve becomes taller and narrower at the peak",
         "The total area under the curve is unchanged because the number of molecules is the same, and fewer molecules now have E >= Ea"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-19.jpg",
+        "papers/chemistry/img/09A-Kinetics-20.jpg"
       ]
     },
     {
@@ -773,7 +951,10 @@
       "question": "The volume of O2 from hydrogen peroxide decomposition is plotted against time. What is the rate of formation of oxygen at point X? Options: A 1.3, B 2.5, C 4.4, D 25 cm3 min-1.",
       "status": "pending",
       "answer": "Needs the volume-time graph from the PDF to measure the gradient at point X",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-21.jpg"
+      ]
     },
     {
       "id": "Q18",
@@ -793,7 +974,11 @@
       "question": "The time for iron(III) sulfate and sodium thiosulfate to react is measured with one drop of different solutions added. Which ion speeds up the reaction? A copper(II), B lead(II), C nitrate, D sulfate.",
       "status": "pending",
       "answer": "Needs the results table from the PDF to confirm which ion reduced the time",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-22.jpg",
+        "papers/chemistry/img/09A-Kinetics-23.jpg"
+      ]
     },
     {
       "id": "Q19a",
@@ -817,6 +1002,10 @@
         "Lowering temperature shifts equilibrium to the exothermic side, so yield of SO3 increases",
         "Lower temperature means lower average kinetic energy and fewer collisions with E >= Ea, so rate decreases",
         "The answer is D"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-22.jpg",
+        "papers/chemistry/img/09A-Kinetics-23.jpg"
       ]
     },
     {
@@ -841,6 +1030,10 @@
         "There are 3 mol of gas on the left and 2 mol on the right",
         "Increasing pressure shifts equilibrium to the side with fewer gas moles, which is the right",
         "Yield of SO3 increases, so the answer is B"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-22.jpg",
+        "papers/chemistry/img/09A-Kinetics-23.jpg"
       ]
     },
     {
@@ -866,6 +1059,10 @@
         "NaOH reacts with H+ ions, removing them from the mixture",
         "Lower H+ concentration shifts the equilibrium to the left (Le Chatelier)",
         "More yellow chromate(VI) ions form, so the mixture becomes more yellow"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-23.jpg",
+        "papers/chemistry/img/09A-Kinetics-24.jpg"
       ]
     },
     {
@@ -889,6 +1086,10 @@
         "Every molecule has some energy, so the number of molecules at zero energy is zero",
         "Option A is wrong, since the molecules are not without energy",
         "The answer is B"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-23.jpg",
+        "papers/chemistry/img/09A-Kinetics-24.jpg"
       ]
     },
     {
@@ -912,6 +1113,10 @@
         "Removing gas reduces the number of molecules, so the area under the curve falls",
         "Cooling lowers the average molecular energy, so the peak shifts to the left",
         "The curve becomes narrower and taller at the peak"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-23.jpg",
+        "papers/chemistry/img/09A-Kinetics-24.jpg"
       ]
     },
     {
@@ -933,6 +1138,10 @@
         "Lower temperature gives lower average kinetic energy",
         "The peak therefore shifts to lower energy (left)",
         "Because the total area is constant, the peak becomes higher and narrower"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-24.jpg",
+        "papers/chemistry/img/09A-Kinetics-25.jpg"
       ]
     },
     {
@@ -956,6 +1165,10 @@
         "More molecules now have energy above the new Ea, so the area on the reacting side increases",
         "The same amount of area is lost from the non-reacting side",
         "The total area under the curve stays the same because the number of molecules and temperature are unchanged"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-24.jpg",
+        "papers/chemistry/img/09A-Kinetics-25.jpg"
       ]
     },
     {
@@ -980,6 +1193,10 @@
         "Changing the volume of acid, with the same concentration, does not change the number of particles per unit volume",
         "Decreasing temperature, increasing surface area and decreasing concentration all change the rate",
         "The answer is A"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-25.jpg",
+        "papers/chemistry/img/09A-Kinetics-26.jpg"
       ]
     },
     {
@@ -1002,6 +1219,10 @@
         "Ea is set by the reaction, not the temperature, so it does not change",
         "Raising the temperature increases the most probable energy and the mean energy",
         "The answer is C"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-26.jpg",
+        "papers/chemistry/img/09A-Kinetics-27.jpg"
       ]
     },
     {
@@ -1025,6 +1246,10 @@
         "Lower pressure at constant temperature means fewer particles in the same volume",
         "The whole Maxwell-Boltzmann curve scales down, so the number of particles at each energy value falls",
         "This applies to Ea, Emode and Emean, so the answer is D"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-26.jpg",
+        "papers/chemistry/img/09A-Kinetics-27.jpg"
       ]
     },
     {
@@ -1047,6 +1272,10 @@
         "A catalyst lowers the activation energy only",
         "The temperature is unchanged, so Emode and Emean stay the same",
         "The answer is A"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-26.jpg",
+        "papers/chemistry/img/09A-Kinetics-27.jpg"
       ]
     },
     {
@@ -1069,6 +1298,10 @@
         "Higher temperature gives higher average kinetic energy, so the peak moves to the right",
         "The curve spreads out, so the peak becomes lower",
         "The total area is constant, so a lower and wider curve results"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-27.jpg",
+        "papers/chemistry/img/09A-Kinetics-28.jpg"
       ]
     },
     {
@@ -1091,6 +1324,10 @@
         "A catalyst lowers the activation energy, moving Ea to the left",
         "The catalyst does not change the temperature, so the distribution curve and peak stay the same",
         "The answer is C"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-27.jpg",
+        "papers/chemistry/img/09A-Kinetics-28.jpg"
       ]
     },
     {
@@ -1115,6 +1352,10 @@
         "The number of collisions increases only slightly, so B is not the best explanation",
         "The key effect is that more collisions have energy at least Ea",
         "The answer is D"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-28.jpg",
+        "papers/chemistry/img/09A-Kinetics-29.jpg"
       ]
     },
     {
@@ -1134,7 +1375,11 @@
       "question": "An experiment measures the concentration of a reactant over time. What is the approximate initial rate? A 4.5 x 10^-5, B 1.8 x 10^-5, C 1.3 x 10^-5, D 2.0 x 10^-6.",
       "status": "pending",
       "answer": "Needs the concentration-time graph from the PDF to measure the initial gradient",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-28.jpg",
+        "papers/chemistry/img/09A-Kinetics-29.jpg"
+      ]
     },
     {
       "id": "Q27b",
@@ -1155,6 +1400,10 @@
         "Rate = change in concentration / time",
         "Concentration is in mol dm-3 and time in s",
         "Units = mol dm-3 s-1, answer B"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-28.jpg",
+        "papers/chemistry/img/09A-Kinetics-29.jpg"
       ]
     },
     {
@@ -1174,7 +1423,11 @@
       "question": "Magnesium ribbon (0.24 g) in 25 cm3 of 1.00 mol dm-3 sulfuric acid is compared with magnesium powder (0.24 g) in 50 cm3 of the same acid. What are the expected differences in observations in the second experiment?",
       "status": "pending",
       "answer": "Needs the answer options from the PDF, which are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-29.jpg",
+        "papers/chemistry/img/09A-Kinetics-30.jpg"
+      ]
     },
     {
       "id": "Q29",
@@ -1197,6 +1450,12 @@
         "Raising temperature shifts the Maxwell-Boltzmann curve right, increasing the proportion above Ea",
         "Changing concentration alters the number of particles, not the proportion with enough energy",
         "The answer is A"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-30.jpg",
+        "papers/chemistry/img/09A-Kinetics-31.jpg",
+        "papers/chemistry/img/09A-Kinetics-32.jpg",
+        "papers/chemistry/img/09A-Kinetics-33.jpg"
       ]
     },
     {
@@ -1219,6 +1478,12 @@
       "steps": [
         "In MnO4- manganese is +7, and in Mn2+ it is +2, so Mn is reduced",
         "In ethanedioic acid, C is +3, and in CO2 it is +4, so C is oxidised"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-30.jpg",
+        "papers/chemistry/img/09A-Kinetics-31.jpg",
+        "papers/chemistry/img/09A-Kinetics-32.jpg",
+        "papers/chemistry/img/09A-Kinetics-33.jpg"
       ]
     },
     {
@@ -1242,6 +1507,12 @@
         "MnO4- is reduced from +7 to +2, gaining 5 electrons",
         "Balance oxygen with 4H2O on the right and hydrogen with 8H+ on the left",
         "Charge: -1 + 8 - 5 = +2, which matches Mn2+"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-30.jpg",
+        "papers/chemistry/img/09A-Kinetics-31.jpg",
+        "papers/chemistry/img/09A-Kinetics-32.jpg",
+        "papers/chemistry/img/09A-Kinetics-33.jpg"
       ]
     },
     {
@@ -1264,6 +1535,12 @@
         "Each carbon goes from +3 to +4, losing 1 electron each, so 2 electrons in total",
         "Each ethanedioic acid gives 2 CO2",
         "Charge and atoms balance with 2H+ and 2e- on the right"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-30.jpg",
+        "papers/chemistry/img/09A-Kinetics-31.jpg",
+        "papers/chemistry/img/09A-Kinetics-32.jpg",
+        "papers/chemistry/img/09A-Kinetics-33.jpg"
       ]
     },
     {
@@ -1283,7 +1560,13 @@
       "question": "Complete the table of rate indicator (1/t) for each volume of rhubarb juice used in the manganate(VII) experiment.",
       "status": "pending",
       "answer": "Needs the table values from the PDF; the times are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-30.jpg",
+        "papers/chemistry/img/09A-Kinetics-31.jpg",
+        "papers/chemistry/img/09A-Kinetics-32.jpg",
+        "papers/chemistry/img/09A-Kinetics-33.jpg"
+      ]
     },
     {
       "id": "Q30b(ii)",
@@ -1302,7 +1585,13 @@
       "question": "Plot a graph of the rate of reaction, (1/t) x 10^3, against the volume of rhubarb juice.",
       "status": "pending",
       "answer": "Needs the data table from the PDF; plotting cannot be checked from the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-30.jpg",
+        "papers/chemistry/img/09A-Kinetics-31.jpg",
+        "papers/chemistry/img/09A-Kinetics-32.jpg",
+        "papers/chemistry/img/09A-Kinetics-33.jpg"
+      ]
     },
     {
       "id": "Q30b(iii)",
@@ -1324,6 +1613,12 @@
         "At higher concentration there are more particles in the same volume",
         "This increases the frequency of collisions per second",
         "A greater proportion of these collisions have energy at least Ea, so more successful collisions occur"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-30.jpg",
+        "papers/chemistry/img/09A-Kinetics-31.jpg",
+        "papers/chemistry/img/09A-Kinetics-32.jpg",
+        "papers/chemistry/img/09A-Kinetics-33.jpg"
       ]
     },
     {
@@ -1348,6 +1643,12 @@
         "Titrate with a standard solution of potassium manganate(VII) of known concentration from a burette",
         "The end point is the first permanent pale pink colour (manganate(VII) is self-indicating)",
         "Repeat for concordant titres and use the 2:5 mole ratio (MnO4- : H2C2O4) to find the concentration"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-30.jpg",
+        "papers/chemistry/img/09A-Kinetics-31.jpg",
+        "papers/chemistry/img/09A-Kinetics-32.jpg",
+        "papers/chemistry/img/09A-Kinetics-33.jpg"
       ]
     },
     {
@@ -1365,7 +1666,13 @@
       "question": "Draw a curve on the Maxwell-Boltzmann distribution to represent the distribution at a higher temperature.",
       "status": "pending",
       "answer": "Drawing task; the diagram is in the PDF and cannot be checked from the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-30.jpg",
+        "papers/chemistry/img/09A-Kinetics-31.jpg",
+        "papers/chemistry/img/09A-Kinetics-32.jpg",
+        "papers/chemistry/img/09A-Kinetics-33.jpg"
+      ]
     },
     {
       "id": "Q30d(ii)",
@@ -1388,6 +1695,12 @@
         "The Maxwell-Boltzmann curve shifts to the right and a larger proportion of particles has energy >= Ea",
         "Collisions occur more frequently because particles move faster",
         "More collisions have energy at least Ea, so more successful collisions occur per second and the rate increases"
+      ],
+      "images": [
+        "papers/chemistry/img/09A-Kinetics-30.jpg",
+        "papers/chemistry/img/09A-Kinetics-31.jpg",
+        "papers/chemistry/img/09A-Kinetics-32.jpg",
+        "papers/chemistry/img/09A-Kinetics-33.jpg"
       ]
     }
   ]

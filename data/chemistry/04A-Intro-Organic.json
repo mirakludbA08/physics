@@ -1,6 +1,6 @@
 {
   "code": "Ch4A",
-  "title": "Intro organic",
+  "title": "Introduction to organic chemistry",
   "unit": "AS Unit 1",
   "pdf": "papers/chemistry/04A-Intro-Organic.pdf",
   "questions": [
@@ -9,7 +9,16 @@
       "no": "Q1",
       "marks": 1,
       "topic": "Electrophiles",
-      "keywords": ["electrophile", "electron pair acceptor", "electron-deficient", "lone pair", "nucleophile", "reaction mechanism", "organic chemistry", "charge"],
+      "keywords": [
+        "electrophile",
+        "electron pair acceptor",
+        "electron-deficient",
+        "lone pair",
+        "nucleophile",
+        "reaction mechanism",
+        "organic chemistry",
+        "charge"
+      ],
       "question": "Which statement correctly describes an electrophile? Options: A accepts a pair of electrons; B always negative; C always positive; D donates a pair of electrons.",
       "status": "ready",
       "answer": "A (accepts a pair of electrons)",
@@ -19,6 +28,10 @@
         "C is wrong: electrophiles are not always positive, since BF3 is neutral.",
         "D describes a nucleophile, which donates a lone pair, so it is wrong.",
         "Answer A."
+      ],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-01.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-02.jpg"
       ]
     },
     {
@@ -26,7 +39,16 @@
       "no": "Q2",
       "marks": 1,
       "topic": "Bond Fission",
-      "keywords": ["heterolytic fission", "homolytic fission", "bond breaking", "H2O", "ions", "covalent bond", "H+ OH-", "dissociation"],
+      "keywords": [
+        "heterolytic fission",
+        "homolytic fission",
+        "bond breaking",
+        "H2O",
+        "ions",
+        "covalent bond",
+        "H+ OH-",
+        "dissociation"
+      ],
       "question": "For the process H2O -> H+ + OH-, what type of bond breaking occurs? Options: A electrophilic; B heterolytic; C homolytic; D ionic.",
       "status": "ready",
       "answer": "B (heterolytic)",
@@ -36,6 +58,10 @@
         "When one atom takes both electrons of the bond, the fission is heterolytic.",
         "Homolytic fission gives radicals, not ions, and electrophilic and ionic are not types of bond breaking here.",
         "Answer B."
+      ],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-01.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-02.jpg"
       ]
     },
     {
@@ -43,29 +69,66 @@
       "no": "Q3",
       "marks": 1,
       "topic": "Molecular Formula",
-      "keywords": ["molecular formula", "skeletal formula", "carbon atoms", "hydrogen atoms", "oxygen atoms", "structure", "compound shown", "counting atoms"],
+      "keywords": [
+        "molecular formula",
+        "skeletal formula",
+        "carbon atoms",
+        "hydrogen atoms",
+        "oxygen atoms",
+        "structure",
+        "compound shown",
+        "counting atoms"
+      ],
       "question": "What is the molecular formula of the compound shown? Options: A C2HO2; B C4H2O4; C C4H4O4; D C4H6O4.",
       "status": "pending",
       "answer": "PENDING: the structure of the compound (diagram) is missing from the text, so the formula cannot be counted.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-01.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-02.jpg"
+      ]
     },
     {
       "id": "Ch4A-Q4a",
       "no": "Q4(a)",
       "marks": 1,
       "topic": "Homologous Series",
-      "keywords": ["homologous series", "molecular formula", "sequence", "general formula", "CH2 increase", "carbon atoms", "hydrogen atoms", "fifth molecule"],
+      "keywords": [
+        "homologous series",
+        "molecular formula",
+        "sequence",
+        "general formula",
+        "CH2 increase",
+        "carbon atoms",
+        "hydrogen atoms",
+        "fifth molecule"
+      ],
       "question": "A sequence of four molecules is shown. Give the molecular formula of the fifth molecule. Options: A CH4O; B C6H11O; C C6H14O; D C7H16O.",
       "status": "pending",
       "answer": "PENDING: the four-molecule sequence (diagram) is missing from the text, so the pattern cannot be continued.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-02.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-03.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-04.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-05.jpg"
+      ]
     },
     {
       "id": "Ch4A-Q4b",
       "no": "Q4(b)",
       "marks": 1,
       "topic": "Homologous Series",
-      "keywords": ["homologous series", "general formula", "functional group", "CH2 difference", "same chemical properties", "gradual change", "series name", "organic families"],
+      "keywords": [
+        "homologous series",
+        "general formula",
+        "functional group",
+        "CH2 difference",
+        "same chemical properties",
+        "gradual change",
+        "series name",
+        "organic families"
+      ],
       "question": "What is the name of this type of sequence? Options: A functional group; B homologous series; C homolytic series; D skeletal formulae.",
       "status": "ready",
       "answer": "B (homologous series)",
@@ -74,6 +137,12 @@
         "Members share the same general formula and the same functional group.",
         "They have similar chemical properties and a gradual change in physical properties.",
         "This family of compounds is a homologous series, so the answer is B."
+      ],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-02.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-03.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-04.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-05.jpg"
       ]
     },
     {
@@ -81,7 +150,16 @@
       "no": "Q5(a)(i)",
       "marks": 2,
       "topic": "Thermal Decomposition",
-      "keywords": ["ammonium dichromate", "equation", "balancing", "chromium(III) oxide", "nitrogen", "water", "decomposition", "atom balancing"],
+      "keywords": [
+        "ammonium dichromate",
+        "equation",
+        "balancing",
+        "chromium(III) oxide",
+        "nitrogen",
+        "water",
+        "decomposition",
+        "atom balancing"
+      ],
       "question": "Write a balanced equation for the thermal decomposition of (NH4)2Cr2O7 at about 180 deg C, giving an oxide of chromium, nitrogen and water as the only products.",
       "status": "ready",
       "answer": "(NH4)2Cr2O7 -> Cr2O3 + N2 + 4H2O",
@@ -91,6 +169,12 @@
         "Cr: 2 on the left, so 1 Cr2O3 on the right.",
         "H: 8 on the left, so 4 H2O on the right (4 x 2 = 8 H).",
         "O: 7 on the left (7 O in the salt), and 3 + 4 = 7 on the right, so the equation balances."
+      ],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-02.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-03.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-04.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-05.jpg"
       ]
     },
     {
@@ -98,7 +182,16 @@
       "no": "Q5(a)(ii)",
       "marks": 1,
       "topic": "Reaction Types",
-      "keywords": ["thermal decomposition", "redox reaction", "oxidation state", "chromium", "nitrogen", "heating", "breaking down", "single reactant"],
+      "keywords": [
+        "thermal decomposition",
+        "redox reaction",
+        "oxidation state",
+        "chromium",
+        "nitrogen",
+        "heating",
+        "breaking down",
+        "single reactant"
+      ],
       "question": "Give a name for the type of reaction in part (a)(i).",
       "status": "ready",
       "answer": "Thermal decomposition (it is also a redox reaction)",
@@ -107,6 +200,12 @@
         "Cr falls from +6 to +3 in Cr2O3, so it is reduced.",
         "N rises from -3 in NH4+ to 0 in N2, so it is oxidised.",
         "The reaction is therefore also a redox reaction."
+      ],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-02.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-03.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-04.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-05.jpg"
       ]
     },
     {
@@ -114,7 +213,16 @@
       "no": "Q5(b)",
       "marks": 4,
       "topic": "Ideal Gas Equation",
-      "keywords": ["ideal gas equation", "PV = nRT", "moles", "pressure kPa", "volume cm3", "temperature", "degrees Celsius", "nitrogen gas"],
+      "keywords": [
+        "ideal gas equation",
+        "PV = nRT",
+        "moles",
+        "pressure kPa",
+        "volume cm3",
+        "temperature",
+        "degrees Celsius",
+        "nitrogen gas"
+      ],
       "question": "0.00100 mol of (NH4)2Cr2O7 is heated and 25.2 cm^3 of N2 is formed at laboratory temperature. Using pressure 101 kPa and PV = nRT, find the laboratory temperature in deg C.",
       "status": "ready",
       "answer": "About 33 deg C (about 306 K)",
@@ -125,6 +233,12 @@
         "Rearrange PV = nRT: T = PV / nR = (101000 x 2.52 x 10^-5) / (0.00100 x 8.31).",
         "T = 2.5452 / 0.00831 = 306 K.",
         "Convert to Celsius: 306 - 273 = 33 deg C."
+      ],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-02.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-03.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-04.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-05.jpg"
       ]
     },
     {
@@ -132,7 +246,16 @@
       "no": "Q5(c)(i)",
       "marks": 2,
       "topic": "Dot-and-Cross Diagrams",
-      "keywords": ["dot-and-cross diagram", "ammonium ion", "NH4+", "covalent bond", "lone pair", "shared pair", "dative bond", "electron count"],
+      "keywords": [
+        "dot-and-cross diagram",
+        "ammonium ion",
+        "NH4+",
+        "covalent bond",
+        "lone pair",
+        "shared pair",
+        "dative bond",
+        "electron count"
+      ],
       "question": "Draw a dot-and-cross diagram of the ammonium ion, using dots for nitrogen electrons and crosses for hydrogen electrons.",
       "status": "ready",
       "answer": "Nitrogen at the centre with four N-H single bonds; each bond is one shared pair (one dot from N, one cross from H); no lone pair on N; whole ion in square brackets with +.",
@@ -142,6 +265,12 @@
         "Each bond is shown as one dot (from N) and one cross (from H).",
         "N has no lone pair in NH4+, so there are no extra dots on nitrogen.",
         "Enclose the ion in square brackets and write + at the top right."
+      ],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-02.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-03.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-04.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-05.jpg"
       ]
     },
     {
@@ -149,7 +278,16 @@
       "no": "Q5(c)(ii)",
       "marks": 2,
       "topic": "Molecular Shape",
-      "keywords": ["electron-pair repulsion", "VSEPR", "ammonium ion", "tetrahedral", "bond angle 109.5", "bonding pairs", "lone pairs", "shape"],
+      "keywords": [
+        "electron-pair repulsion",
+        "VSEPR",
+        "ammonium ion",
+        "tetrahedral",
+        "bond angle 109.5",
+        "bonding pairs",
+        "lone pairs",
+        "shape"
+      ],
       "question": "Explain the shape of the ammonium ion using electron-pair repulsion theory.",
       "status": "ready",
       "answer": "Tetrahedral: four bonding pairs and no lone pairs repel equally, giving bond angles of 109.5 deg.",
@@ -158,6 +296,12 @@
         "Electron pairs repel each other and move as far apart as possible to minimise repulsion.",
         "Four equal repulsions give a tetrahedral arrangement.",
         "The H-N-H bond angles are 109.5 deg."
+      ],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-02.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-03.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-04.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-05.jpg"
       ]
     },
     {
@@ -165,18 +309,42 @@
       "no": "Q5(d)(i)",
       "marks": 2,
       "topic": "Hazard Symbols",
-      "keywords": ["hazard symbols", "ammonium dichromate", "oxidising", "toxic", "carcinogenic", "environmental hazard", "GHS pictograms", "tick box"],
+      "keywords": [
+        "hazard symbols",
+        "ammonium dichromate",
+        "oxidising",
+        "toxic",
+        "carcinogenic",
+        "environmental hazard",
+        "GHS pictograms",
+        "tick box"
+      ],
       "question": "Tick the hazard symbols that apply to ammonium dichromate(VI) from the symbols shown on the packaging.",
       "status": "pending",
       "answer": "PENDING: the hazard symbol images are not in the text, so the ticks cannot be checked. The hazards expected are oxidising, toxic and environmental.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-02.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-03.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-04.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-05.jpg"
+      ]
     },
     {
       "id": "Ch4A-Q5d(ii)",
       "no": "Q5(d)(ii)",
       "marks": 1,
       "topic": "Chemical Storage",
-      "keywords": ["storage", "oxidising agent", "alkanes", "flammable", "fire risk", "incompatible chemicals", "safety", "dichromate"],
+      "keywords": [
+        "storage",
+        "oxidising agent",
+        "alkanes",
+        "flammable",
+        "fire risk",
+        "incompatible chemicals",
+        "safety",
+        "dichromate"
+      ],
       "question": "Suggest why ammonium dichromate(VI) must not be stored in the same cupboard as alkanes.",
       "status": "ready",
       "answer": "Ammonium dichromate(VI) is an oxidising agent and alkanes are flammable, so storing them together could cause a fire or explosion.",
@@ -185,6 +353,12 @@
         "Alkanes are flammable and are oxidised readily.",
         "If the two are stored together, a leak or spill could let them react.",
         "The reaction could start a fire or explosion, so they must be kept apart."
+      ],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-02.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-03.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-04.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-05.jpg"
       ]
     },
     {
@@ -192,29 +366,64 @@
       "no": "Q6",
       "marks": 1,
       "topic": "Alkane Nomenclature",
-      "keywords": ["IUPAC name", "alkane", "heptane", "octane", "branched chain", "alkyl groups", "numbering", "structure"],
+      "keywords": [
+        "IUPAC name",
+        "alkane",
+        "heptane",
+        "octane",
+        "branched chain",
+        "alkyl groups",
+        "numbering",
+        "structure"
+      ],
       "question": "Give the IUPAC name of the alkane shown. Options: A 2-ethyl-4,5-dimethylheptane; B 6-ethyl-3,4-dimethylheptane; C 3,4,6-trimethyloctane; D 3,5,6-trimethyloctane.",
       "status": "pending",
       "answer": "PENDING: the structure of the alkane (diagram) is missing from the text, so the IUPAC name cannot be matched to an option.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-05.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-06.jpg"
+      ]
     },
     {
       "id": "Ch4A-Q7",
       "no": "Q7",
       "marks": 1,
       "topic": "Hazard Symbols",
-      "keywords": ["hazard symbol", "meaning", "corrosive", "oxidising", "flammable", "gloves", "warning label", "CLP"],
+      "keywords": [
+        "hazard symbol",
+        "meaning",
+        "corrosive",
+        "oxidising",
+        "flammable",
+        "gloves",
+        "warning label",
+        "CLP"
+      ],
       "question": "A substance is labelled with a hazard symbol (image, not in text). What does the symbol mean? Options: A gloves must be worn; B corrosive; C do not store with flammable substances; D oxidising.",
       "status": "pending",
       "answer": "PENDING: the hazard symbol image is not in the text, so the meaning cannot be matched to an option.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-05.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-06.jpg"
+      ]
     },
     {
       "id": "Ch4A-Q8",
       "no": "Q8",
       "marks": 1,
       "topic": "Bond Fission",
-      "keywords": ["heterolytic fission", "homolytic fission", "ions", "free radicals", "positive ion", "negative ion", "bond breaking", "products"],
+      "keywords": [
+        "heterolytic fission",
+        "homolytic fission",
+        "ions",
+        "free radicals",
+        "positive ion",
+        "negative ion",
+        "bond breaking",
+        "products"
+      ],
       "question": "What do heterolytic fission products consist of? Options: A free radicals only; B ions only; C free radicals and positive ions only; D free radicals and negative ions only.",
       "status": "ready",
       "answer": "B (ions only)",
@@ -223,6 +432,10 @@
         "This gives a positive ion (cation) and a negative ion (anion).",
         "Free radicals form only in homolytic fission, where each atom gets one electron.",
         "So heterolytic fission produces ions only, answer B."
+      ],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-06.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-07.jpg"
       ]
     },
     {
@@ -230,7 +443,16 @@
       "no": "Q9",
       "marks": 1,
       "topic": "Homologous Series",
-      "keywords": ["homologous series", "series", "general formula", "functional group", "addition", "heterolytic", "homolytic", "organic families"],
+      "keywords": [
+        "homologous series",
+        "series",
+        "general formula",
+        "functional group",
+        "addition",
+        "heterolytic",
+        "homolytic",
+        "organic families"
+      ],
       "question": "What is the name of a series such as the one shown? Options: A addition; B heterolytic; C homologous; D homolytic.",
       "status": "ready",
       "answer": "C (homologous)",
@@ -239,6 +461,10 @@
         "Members differ by CH2 and show a gradual change in physical properties.",
         "Addition, heterolytic and homolytic describe reaction or bond types, not families of compounds.",
         "Answer C."
+      ],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-06.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-07.jpg"
       ]
     },
     {
@@ -246,84 +472,183 @@
       "no": "Q10",
       "marks": 1,
       "topic": "Skeletal Formulae",
-      "keywords": ["skeletal formula", "3,4-dichloro-2,2-dimethylpentane", "pentane", "chloro", "methyl", "IUPAC name", "structure", "stereo drawing"],
+      "keywords": [
+        "skeletal formula",
+        "3,4-dichloro-2,2-dimethylpentane",
+        "pentane",
+        "chloro",
+        "methyl",
+        "IUPAC name",
+        "structure",
+        "stereo drawing"
+      ],
       "question": "Which skeletal structure matches 3,4-dichloro-2,2-dimethylpentane? The options are skeletal structures (images) not in the text.",
       "status": "pending",
       "answer": "PENDING: the skeletal structure options (images) are not in the text. Expected: a pentane chain with two CH3 on C2 and Cl on C3 and C4.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-07.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-08.jpg"
+      ]
     },
     {
       "id": "Ch4A-Q11",
       "no": "Q11",
       "marks": 1,
       "topic": "Hazard Labels",
-      "keywords": ["hazard labels", "chemical storage", "incompatible", "reagent bottles", "hazard symbols", "store together", "safety"],
+      "keywords": [
+        "hazard labels",
+        "chemical storage",
+        "incompatible",
+        "reagent bottles",
+        "hazard symbols",
+        "store together",
+        "safety"
+      ],
       "question": "Four reagent bottles W, X, Y and Z have hazard labels (images, not in text). Which two should never be stored together? Options: A W and Z; B Y and Z; C W and X; D Y and X.",
       "status": "pending",
       "answer": "PENDING: the hazard labels on bottles W, X, Y and Z are images not present in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-08.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-09.jpg"
+      ]
     },
     {
       "id": "Ch4A-Q12",
       "no": "Q12",
       "marks": 1,
       "topic": "Hazard Symbols",
-      "keywords": ["hazard symbols", "prop-2-en-1-ol", "allyl alcohol", "flammable", "toxic", "environmental hazard", "container labels", "GHS"],
+      "keywords": [
+        "hazard symbols",
+        "prop-2-en-1-ol",
+        "allyl alcohol",
+        "flammable",
+        "toxic",
+        "environmental hazard",
+        "container labels",
+        "GHS"
+      ],
       "question": "Prop-2-en-1-ol is flammable, toxic and an environmental hazard. Which hazard symbols should be on its container? The options are symbol images not in the text.",
       "status": "pending",
       "answer": "PENDING: the hazard symbol options (images) are not in the text. Expected: flame, skull and crossbones (or toxic) and environment symbols.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-09.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-10.jpg"
+      ]
     },
     {
       "id": "Ch4A-Q13",
       "no": "Q13",
       "marks": 1,
       "topic": "Empirical Formula",
-      "keywords": ["empirical formula", "molecule", "simplest ratio", "chlorine", "hydrocarbon", "molecular formula", "ratio of atoms", "structure"],
+      "keywords": [
+        "empirical formula",
+        "molecule",
+        "simplest ratio",
+        "chlorine",
+        "hydrocarbon",
+        "molecular formula",
+        "ratio of atoms",
+        "structure"
+      ],
       "question": "What is the empirical formula of the molecule shown? Options: A C4H4Cl; B C4H7Cl; C C8H11Cl2; D C8H14Cl2.",
       "status": "pending",
       "answer": "PENDING: the structure of the molecule (diagram) is missing from the text, so the empirical formula cannot be found.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-11.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-12.jpg"
+      ]
     },
     {
       "id": "Ch4A-Q14",
       "no": "Q14",
       "marks": 1,
       "topic": "Alkane Nomenclature",
-      "keywords": ["IUPAC name", "alkane", "nonane", "decane", "alkyl branches", "hydrocarbon", "naming", "structure"],
+      "keywords": [
+        "IUPAC name",
+        "alkane",
+        "nonane",
+        "decane",
+        "alkyl branches",
+        "hydrocarbon",
+        "naming",
+        "structure"
+      ],
       "question": "What is the IUPAC name of the hydrocarbon shown? Options: A 2-ethyl-3-methylnonane; B 3,4-dimethyldecane; C 8-ethyl-7-methylnonane; D 7,8-dimethyldecane.",
       "status": "pending",
       "answer": "PENDING: the structure of the hydrocarbon (diagram) is missing from the text, so the name cannot be matched to an option.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-11.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-12.jpg"
+      ]
     },
     {
       "id": "Ch4A-Q15",
       "no": "Q15",
       "marks": 1,
       "topic": "Hazard Symbols",
-      "keywords": ["hexane", "hazard symbol", "flammable", "highly flammable", "solvent", "warning symbol", "bottle label", "alkane"],
+      "keywords": [
+        "hexane",
+        "hazard symbol",
+        "flammable",
+        "highly flammable",
+        "solvent",
+        "warning symbol",
+        "bottle label",
+        "alkane"
+      ],
       "question": "Which hazard warning symbol would be found on a bottle of hexane? The symbol options are images not in the text.",
       "status": "pending",
       "answer": "PENDING: the symbol images are not in the text. Hexane is highly flammable, so the flame symbol is expected.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-11.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-12.jpg"
+      ]
     },
     {
       "id": "Ch4A-Q16a",
       "no": "Q16(a)",
       "marks": 1,
       "topic": "Hazard Symbols",
-      "keywords": ["hydrogen peroxide", "hazard symbols", "corrosive", "oxidising", "harmful", "eye damage", "hairdressers", "pictograms"],
+      "keywords": [
+        "hydrogen peroxide",
+        "hazard symbols",
+        "corrosive",
+        "oxidising",
+        "harmful",
+        "eye damage",
+        "hairdressers",
+        "pictograms"
+      ],
       "question": "Hydrogen peroxide solution causes serious eye damage, is harmful if swallowed and is an oxidising agent. Which hazard symbols should be on its containers? The symbols are images not in the text.",
       "status": "pending",
       "answer": "PENDING: the symbol images are not in the text. Expected: corrosion, oxidising and exclamation mark (harmful) symbols.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-12.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-13.jpg"
+      ]
     },
     {
       "id": "Ch4A-Q16b",
       "no": "Q16(b)",
       "marks": 1,
       "topic": "Reducing Risk",
-      "keywords": ["risk reduction", "hydrogen peroxide", "decomposition rate", "smaller scale", "alternative method", "precautions", "hazard", "experiment"],
+      "keywords": [
+        "risk reduction",
+        "hydrogen peroxide",
+        "decomposition rate",
+        "smaller scale",
+        "alternative method",
+        "precautions",
+        "hazard",
+        "experiment"
+      ],
       "question": "In an experiment using hydrogen peroxide to measure rate of decomposition, which of these reduce the risk: (I) an alternative method with less hazardous materials, (II) working on a smaller scale, (III) taking precautions specific to the hazard? Options: A (I) only; B (III) only; C (II) and (III); D (I), (II) and (III).",
       "status": "ready",
       "answer": "D ((I), (II) and (III))",
@@ -332,6 +657,10 @@
         "(II) A smaller scale reduces the amount of hazardous material used and the exposure risk.",
         "(III) Precautions specific to the hazard, such as eye protection, reduce the risk directly.",
         "All three reduce risk, so the answer is D."
+      ],
+      "images": [
+        "papers/chemistry/img/04A-Intro-Organic-12.jpg",
+        "papers/chemistry/img/04A-Intro-Organic-13.jpg"
       ]
     }
   ]

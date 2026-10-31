@@ -9,29 +9,62 @@
       "no": "Q1(a)",
       "marks": 4,
       "topic": "Night Light Capacitor Choice",
-      "keywords": ["night light", "LED", "capacitor", "time constant", "discharge", "resistor", "1.4 V", "capacitance choice"],
+      "keywords": [
+        "night light",
+        "LED",
+        "capacitor",
+        "time constant",
+        "discharge",
+        "resistor",
+        "1.4 V",
+        "capacitance choice"
+      ],
       "question": "A night light uses an LED (constant resistance 340 ohm) and a resistor R = 860 ohm. The light goes out when the LED p.d. falls to 1.4 V, and the time should be as close to 10 minutes as possible but not less. Choose the capacitance from 0.50, 0.51, 0.54, 0.58 and 0.60 F.",
       "status": "pending",
       "answer": "Pending: the circuit diagram (the e.m.f. or starting p.d. across the capacitor and the arrangement of the LED and R) is not in the text extraction, so the discharge time cannot be calculated.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-01.jpg",
+        "papers/physics/img/24-6B-Capacitors-02.jpg"
+      ]
     },
     {
       "id": "6B-Q1b",
       "no": "Q1(b)",
       "marks": 3,
       "topic": "LED Non-Constant Resistance",
-      "keywords": ["LED", "current against p.d. graph", "non-ohmic", "resistance", "discharge time", "night light", "intensity"],
+      "keywords": [
+        "LED",
+        "current against p.d. graph",
+        "non-ohmic",
+        "resistance",
+        "discharge time",
+        "night light",
+        "intensity"
+      ],
       "question": "The LED's resistance is not constant. Using its current against p.d. graph, explain how this behaviour affects the time for the light intensity to decrease to zero.",
       "status": "pending",
       "answer": "Pending: the current against p.d. graph for the LED is not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-01.jpg",
+        "papers/physics/img/24-6B-Capacitors-02.jpg"
+      ]
     },
     {
       "id": "6B-Q1c",
       "no": "Q1(c)",
       "marks": 3,
       "topic": "Full Function Of Capacitor",
-      "keywords": ["capacitor function", "store energy", "release energy", "time constant", "RC", "discharge", "charge storage incomplete"],
+      "keywords": [
+        "capacitor function",
+        "store energy",
+        "release energy",
+        "time constant",
+        "RC",
+        "discharge",
+        "charge storage incomplete"
+      ],
       "question": "A student says the function of a capacitor in the circuit is to store electric charge. Explain why this is not a complete description of its function.",
       "status": "ready",
       "answer": "A capacitor also stores energy and releases it over time; with the resistor it controls the rate at which the p.d. and current decay, through the time constant RC.",
@@ -40,6 +73,10 @@
         "When the supply is removed, the stored energy is released as a current through the resistor.",
         "The rate of release is set by the time constant RC, so the p.d. decays gradually rather than instantly.",
         "This controlled release is what gives the night light its slow fade, so the complete function is to store and release energy at a controlled rate."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-01.jpg",
+        "papers/physics/img/24-6B-Capacitors-02.jpg"
       ]
     },
     {
@@ -47,73 +84,152 @@
       "no": "Q2",
       "marks": 1,
       "topic": "Parallel Capacitors Total Charge",
-      "keywords": ["capacitors in parallel", "total capacitance", "charge stored", "same p.d.", "multiple choice", "2C"],
+      "keywords": [
+        "capacitors in parallel",
+        "total capacitance",
+        "charge stored",
+        "same p.d.",
+        "multiple choice",
+        "2C"
+      ],
       "question": "A capacitor of capacitance C with p.d. V stores charge Q. It is replaced by two capacitors of capacitance 2C in parallel. Select the total charge stored from the options.",
       "status": "pending",
       "answer": "Pending: the multiple-choice options are missing from the text extraction (the total charge is 4Q for the same p.d.).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-02.jpg"
+      ]
     },
     {
       "id": "6B-Q3",
       "no": "Q3",
       "marks": 1,
       "topic": "Work Done And Energy Stored",
-      "keywords": ["battery", "work done", "energy stored", "charge transferred", "final p.d.", "table row", "capacitor"],
+      "keywords": [
+        "battery",
+        "work done",
+        "energy stored",
+        "charge transferred",
+        "final p.d.",
+        "table row",
+        "capacitor"
+      ],
       "question": "A battery of e.m.f. V charges an initially uncharged capacitor, transferring charge Q with final p.d. V. Select the row giving the work done by the battery and the energy stored.",
       "status": "pending",
       "answer": "Pending: the table of rows is not in the text extraction (the work done is QV and the stored energy is QV/2).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-03.jpg",
+        "papers/physics/img/24-6B-Capacitors-04.jpg"
+      ]
     },
     {
       "id": "6B-Q4a",
       "no": "Q4(a)",
       "marks": 2,
       "topic": "Total Charge On Capacitors",
-      "keywords": ["two capacitors", "32 uF", "6.0 V battery", "total charge", "diagram arrangement", "charge"],
+      "keywords": [
+        "two capacitors",
+        "32 uF",
+        "6.0 V battery",
+        "total charge",
+        "diagram arrangement",
+        "charge"
+      ],
       "question": "Two capacitors, each of capacitance 32 uF, are connected to a 6.0 V battery as shown. Calculate the total charge stored.",
       "status": "pending",
       "answer": "Pending: the arrangement of the two capacitors (series or parallel) is shown in the diagram, which is not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-04.jpg",
+        "papers/physics/img/24-6B-Capacitors-05.jpg"
+      ]
     },
     {
       "id": "6B-Q4b",
       "no": "Q4(b)",
       "marks": 2,
       "topic": "Total Energy Stored",
-      "keywords": ["two capacitors", "energy stored", "6.0 V", "32 uF", "total energy", "arrangement"],
+      "keywords": [
+        "two capacitors",
+        "energy stored",
+        "6.0 V",
+        "32 uF",
+        "total energy",
+        "arrangement"
+      ],
       "question": "Calculate the total energy stored by the two 32 uF capacitors connected to the 6.0 V battery as shown.",
       "status": "pending",
       "answer": "Pending: the arrangement of the capacitors is shown in the diagram, which is not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-04.jpg",
+        "papers/physics/img/24-6B-Capacitors-05.jpg"
+      ]
     },
     {
       "id": "6B-Q5a",
       "no": "Q5(a)",
       "marks": 3,
       "topic": "Charging Discharging Circuit",
-      "keywords": ["capacitor", "resistor", "charging", "discharging", "voltmeter", "circuit diagram", "switch", "measure p.d."],
+      "keywords": [
+        "capacitor",
+        "resistor",
+        "charging",
+        "discharging",
+        "voltmeter",
+        "circuit diagram",
+        "switch",
+        "measure p.d."
+      ],
       "question": "Add to the diagram a suitable circuit for charging and discharging the capacitor through the resistor while measuring the p.d. across the capacitor.",
       "status": "pending",
       "answer": "Pending: the diagram is not in the text extraction; the answer is a two-way switch to the 6.0 V battery and to a discharge path, with a voltmeter across the capacitor.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-05.jpg",
+        "papers/physics/img/24-6B-Capacitors-06.jpg",
+        "papers/physics/img/24-6B-Capacitors-07.jpg"
+      ]
     },
     {
       "id": "6B-Q5b(i)",
       "no": "Q5(b)(i)",
       "marks": 2,
       "topic": "Resistor P.D. Sketch",
-      "keywords": ["resistor p.d.", "sketch graph", "charging", "capacitor p.d.", "exponential", "6.0 V"],
+      "keywords": [
+        "resistor p.d.",
+        "sketch graph",
+        "charging",
+        "capacitor p.d.",
+        "exponential",
+        "6.0 V"
+      ],
       "question": "On the same axes as the capacitor p.d. against time graph, sketch how the p.d. across the resistor varies with time during charging.",
       "status": "pending",
       "answer": "Pending: the drawing is not in the text extraction; the sketch is an exponential decrease from 6.0 V to zero, the mirror image of the capacitor curve.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-05.jpg",
+        "papers/physics/img/24-6B-Capacitors-06.jpg",
+        "papers/physics/img/24-6B-Capacitors-07.jpg"
+      ]
     },
     {
       "id": "6B-Q5b(ii)",
       "no": "Q5(b)(ii)",
       "marks": 3,
       "topic": "Charging Equation Derivation",
-      "keywords": ["charging", "capacitor", "exponential", "V0", "time constant RC", "Kirchhoff", "derive", "p.d. across capacitor"],
+      "keywords": [
+        "charging",
+        "capacitor",
+        "exponential",
+        "V0",
+        "time constant RC",
+        "Kirchhoff",
+        "derive",
+        "p.d. across capacitor"
+      ],
       "question": "Show that the p.d. V across the capacitor during charging is V = V0 - V0 e^(-t/RC), where V0 is the e.m.f., R the resistance and C the capacitance.",
       "status": "ready",
       "answer": "V = V0 (1 - e^(-t/RC)).",
@@ -122,6 +238,11 @@
         "The current is I = dq / dt, so V0 = R dq/dt + q / C.",
         "Rearranging: dq/dt = (C V0 - q) / (RC), which has solution q = C V0 (1 - e^(-t/RC)).",
         "The capacitor p.d. is V = q / C = V0 (1 - e^(-t/RC)) = V0 - V0 e^(-t/RC)."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-05.jpg",
+        "papers/physics/img/24-6B-Capacitors-06.jpg",
+        "papers/physics/img/24-6B-Capacitors-07.jpg"
       ]
     },
     {
@@ -129,62 +250,129 @@
       "no": "Q5(b)(iii)",
       "marks": 4,
       "topic": "Identify Capacitor From Data",
-      "keywords": ["capacitance", "resistance 330 kohm", "p.d. data", "charging", "time constant", "10 uF 15 uF 47 uF 100 uF 150 uF", "recorded values"],
+      "keywords": [
+        "capacitance",
+        "resistance 330 kohm",
+        "p.d. data",
+        "charging",
+        "time constant",
+        "10 uF 15 uF 47 uF 100 uF 150 uF",
+        "recorded values"
+      ],
       "question": "The student recorded the p.d. across the capacitor and the resistance (330 kohm) during charging. From the list of 10, 15, 47, 100 and 150 uF capacitors, deduce the capacitance used.",
       "status": "pending",
       "answer": "Pending: the recorded p.d. and time values (or graph) are not in the text extraction, so the capacitance cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-05.jpg",
+        "papers/physics/img/24-6B-Capacitors-06.jpg",
+        "papers/physics/img/24-6B-Capacitors-07.jpg"
+      ]
     },
     {
       "id": "6B-Q5b(iv)",
       "no": "Q5(b)(iv)",
       "marks": 2,
       "topic": "Charge On Fully Charged Capacitor",
-      "keywords": ["fully charged capacitor", "charge", "Q = CV", "6.0 V", "capacitance"],
+      "keywords": [
+        "fully charged capacitor",
+        "charge",
+        "Q = CV",
+        "6.0 V",
+        "capacitance"
+      ],
       "question": "Calculate the charge on the fully charged capacitor, using the capacitance found in part (iii).",
       "status": "pending",
       "answer": "Pending: depends on the capacitance from part (iii), which is not determined from the text; the method is Q = CV0 = C x 6.0 V.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-05.jpg",
+        "papers/physics/img/24-6B-Capacitors-06.jpg",
+        "papers/physics/img/24-6B-Capacitors-07.jpg"
+      ]
     },
     {
       "id": "6B-Q5b(v)",
       "no": "Q5(b)(v)",
       "marks": 2,
       "topic": "Energy Of Fully Charged Capacitor",
-      "keywords": ["energy stored", "fully charged capacitor", "0.5 C V^2", "6.0 V", "capacitance"],
+      "keywords": [
+        "energy stored",
+        "fully charged capacitor",
+        "0.5 C V^2",
+        "6.0 V",
+        "capacitance"
+      ],
       "question": "Calculate the energy stored by the fully charged capacitor, using the capacitance found in part (iii).",
       "status": "pending",
       "answer": "Pending: depends on the capacitance from part (iii), which is not determined from the text; the method is E = 0.5 C V0^2.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-05.jpg",
+        "papers/physics/img/24-6B-Capacitors-06.jpg",
+        "papers/physics/img/24-6B-Capacitors-07.jpg"
+      ]
     },
     {
       "id": "6B-Q6",
       "no": "Q6",
       "marks": 1,
       "topic": "Charge And Resistor P.D. Graphs",
-      "keywords": ["uncharged capacitor", "resistor", "switch closed", "charge against time", "p.d. across resistor", "graphs", "multiple choice"],
+      "keywords": [
+        "uncharged capacitor",
+        "resistor",
+        "switch closed",
+        "charge against time",
+        "p.d. across resistor",
+        "graphs",
+        "multiple choice"
+      ],
       "question": "An uncharged capacitor, resistor, switch and cell are connected. Select the graphs showing how the charge on the capacitor and the p.d. across the resistor vary with time after the switch is closed.",
       "status": "pending",
       "answer": "Pending: the graphs A to D are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-07.jpg",
+        "papers/physics/img/24-6B-Capacitors-08.jpg"
+      ]
     },
     {
       "id": "6B-Q7",
       "no": "Q7",
       "marks": 1,
       "topic": "Capacitance From ln I Gradient",
-      "keywords": ["ln current", "gradient", "discharge", "capacitance", "resistance R", "time constant", "multiple choice"],
+      "keywords": [
+        "ln current",
+        "gradient",
+        "discharge",
+        "capacitance",
+        "resistance R",
+        "time constant",
+        "multiple choice"
+      ],
       "question": "A charged capacitor discharges through a resistor of resistance R. A graph of ln(current) against time has gradient g. Select the expression giving the capacitance.",
       "status": "pending",
       "answer": "Pending: the multiple-choice expressions are missing from the text extraction (the answer is C = -1 / (R x gradient)).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-08.jpg"
+      ]
     },
     {
       "id": "6B-Q8a",
       "no": "Q8(a)",
       "marks": 3,
       "topic": "Capacitor Backup Power",
-      "keywords": ["backup power", "capacitor", "switch opened", "electronic controller", "discharge", "power maintained", "train", "time constant"],
+      "keywords": [
+        "backup power",
+        "capacitor",
+        "switch opened",
+        "electronic controller",
+        "discharge",
+        "power maintained",
+        "train",
+        "time constant"
+      ],
       "question": "Explain how the circuit can maintain power to the electronic controller when the switch (the contact with the rails) is opened for a short time.",
       "status": "ready",
       "answer": "While the switch is closed the capacitor is charged; when it opens, the capacitor discharges through the resistor and supplies the controller, so the p.d. falls only slowly.",
@@ -193,6 +381,10 @@
         "When the switch opens, the capacitor becomes the source of power for the controller.",
         "It discharges through the resistor, so the p.d. across the controller falls gradually rather than dropping to zero at once.",
         "The discharge time is set by the time constant RC, so a large capacitance keeps the controller powered for a short break in contact."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-09.jpg",
+        "papers/physics/img/24-6B-Capacitors-10.jpg"
       ]
     },
     {
@@ -200,73 +392,150 @@
       "no": "Q8(b)",
       "marks": 2,
       "topic": "Discharge Time To 4.0 V",
-      "keywords": ["discharge time", "capacitor 47 mF", "resistor 470 ohm", "4.0 V", "time constant", "exponential decay", "initial p.d."],
+      "keywords": [
+        "discharge time",
+        "capacitor 47 mF",
+        "resistor 470 ohm",
+        "4.0 V",
+        "time constant",
+        "exponential decay",
+        "initial p.d."
+      ],
       "question": "With the switch opened, the capacitor (47 mF) discharges through a 470 ohm resistor, the controller having infinite resistance. Calculate the time for the capacitor p.d. to fall to 4.0 V.",
       "status": "pending",
       "answer": "Pending: the starting p.d. across the capacitor (the battery or supply e.m.f. in the diagram) is not in the text extraction; the method is t = RC ln(V0 / 4.0) with RC = 22.1 s.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-09.jpg",
+        "papers/physics/img/24-6B-Capacitors-10.jpg"
+      ]
     },
     {
       "id": "6B-Q8c",
       "no": "Q8(c)",
       "marks": 4,
       "topic": "Current Sketch With Switch Times",
-      "keywords": ["current against time", "switch closed at 0 s", "opened at 20 s", "sketch", "resistor current", "capacitor discharge"],
+      "keywords": [
+        "current against time",
+        "switch closed at 0 s",
+        "opened at 20 s",
+        "sketch",
+        "resistor current",
+        "capacitor discharge"
+      ],
       "question": "The switch is closed at t = 0 and opened at t = 20 s. Sketch a graph of the current through the resistor against time.",
       "status": "pending",
       "answer": "Pending: the sketch is not in the text extraction; the answer is a decaying charging current from t = 0, then a negative decaying current after 20 s.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-09.jpg",
+        "papers/physics/img/24-6B-Capacitors-10.jpg"
+      ]
     },
     {
       "id": "6B-Q9",
       "no": "Q9",
       "marks": 1,
       "topic": "Energy From Charge-Voltage Graph",
-      "keywords": ["energy stored", "Q against V graph", "area under graph", "12 V", "capacitor energy", "multiple choice"],
+      "keywords": [
+        "energy stored",
+        "Q against V graph",
+        "area under graph",
+        "12 V",
+        "capacitor energy",
+        "multiple choice"
+      ],
       "question": "The graph shows charge Q against p.d. V for a capacitor. Select the expression giving the energy stored when V is 12 V.",
       "status": "pending",
       "answer": "Pending: the multiple-choice options and the graph are not in the text extraction (the energy is the area under the Q-V graph, E = 0.5 Q V).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-10.jpg",
+        "papers/physics/img/24-6B-Capacitors-11.jpg"
+      ]
     },
     {
       "id": "6B-Q10a",
       "no": "Q10(a)",
       "marks": 4,
       "topic": "Defibrillator Charging Current Graph",
-      "keywords": ["defibrillator", "current against time", "charging capacitor", "exponential decay", "switch S1", "body resistance", "graph"],
+      "keywords": [
+        "defibrillator",
+        "current against time",
+        "charging capacitor",
+        "exponential decay",
+        "switch S1",
+        "body resistance",
+        "graph"
+      ],
       "question": "The capacitor in the defibrillator is discharged, then the switch is moved to S1 at t = 0. Complete the graph to show how the current varies with time until the capacitor is fully charged.",
       "status": "pending",
       "answer": "Pending: the graph axes and circuit values are not in the text extraction; the answer is an exponential decrease from the maximum current at t = 0 to zero.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-11.jpg",
+        "papers/physics/img/24-6B-Capacitors-12.jpg",
+        "papers/physics/img/24-6B-Capacitors-13.jpg"
+      ]
     },
     {
       "id": "6B-Q10b",
       "no": "Q10(b)",
       "marks": 4,
       "topic": "Defibrillator Discharge Requirement",
-      "keywords": ["defibrillator", "discharge current 30 A", "2.0 ms", "body resistance 150 ohm", "capacitor values", "requirement check"],
+      "keywords": [
+        "defibrillator",
+        "discharge current 30 A",
+        "2.0 ms",
+        "body resistance 150 ohm",
+        "capacitor values",
+        "requirement check"
+      ],
       "question": "The defibrillator must deliver a discharge current of at least 30 A for 2.0 ms through a body resistance of 150 ohm. Deduce whether the design meets this requirement.",
       "status": "pending",
       "answer": "Pending: the capacitance and charging p.d. of the defibrillator capacitor are in the diagram and are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-11.jpg",
+        "papers/physics/img/24-6B-Capacitors-12.jpg",
+        "papers/physics/img/24-6B-Capacitors-13.jpg"
+      ]
     },
     {
       "id": "6B-Q11a(i)",
       "no": "Q11(a)(i)",
       "marks": 2,
       "topic": "Capacitor P.D. Sketch",
-      "keywords": ["RC circuit", "capacitor p.d.", "time constant", "sketch graph", "switch closed", "integrated circuit input"],
+      "keywords": [
+        "RC circuit",
+        "capacitor p.d.",
+        "time constant",
+        "sketch graph",
+        "switch closed",
+        "integrated circuit input"
+      ],
       "question": "Sketch a graph of the p.d. VC across the capacitor against time after the switch is closed, marking the time constant T on the time axis.",
       "status": "pending",
       "answer": "Pending: the sketch is not in the text extraction; the answer is a curve rising from zero to the supply p.d., reaching about 63 percent at t = T.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-13.jpg",
+        "papers/physics/img/24-6B-Capacitors-14.jpg"
+      ]
     },
     {
       "id": "6B-Q11a(ii)",
       "no": "Q11(a)(ii)",
       "marks": 2,
       "topic": "Resistor P.D. After Switching",
-      "keywords": ["resistor p.d.", "VR", "capacitor charging", "decreases exponentially", "switch closed", "RC circuit"],
+      "keywords": [
+        "resistor p.d.",
+        "VR",
+        "capacitor charging",
+        "decreases exponentially",
+        "switch closed",
+        "RC circuit"
+      ],
       "question": "Explain how the p.d. VR across the resistor varies with time after the switch is closed.",
       "status": "ready",
       "answer": "VR starts at the full supply p.d. and falls exponentially to zero as the capacitor charges, because VR = V0 - VC.",
@@ -275,6 +544,10 @@
         "By Kirchhoff's voltage law the whole supply p.d. appears across the resistor at t = 0.",
         "As the capacitor charges, VC rises, so VR = V0 - VC falls.",
         "VR decreases exponentially to zero, with the time constant RC controlling the rate."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-13.jpg",
+        "papers/physics/img/24-6B-Capacitors-14.jpg"
       ]
     },
     {
@@ -282,7 +555,15 @@
       "no": "Q11(a)(iii)",
       "marks": 2,
       "topic": "Derive RC Charging Equation",
-      "keywords": ["RC circuit", "capacitor p.d.", "exponential", "integrated circuit", "infinite resistance", "derive", "time constant"],
+      "keywords": [
+        "RC circuit",
+        "capacitor p.d.",
+        "exponential",
+        "integrated circuit",
+        "infinite resistance",
+        "derive",
+        "time constant"
+      ],
       "question": "Show that the p.d. VC across the capacitor is given by VC = V0 (1 - e^(-t/RC)), where R is the resistance and C the capacitance. The integrated circuit has infinite resistance.",
       "status": "ready",
       "answer": "VC = V0 (1 - e^(-t/RC)).",
@@ -291,6 +572,10 @@
         "Kirchhoff: V0 = I R + q / C with I = dq / dt, giving dq/dt = (C V0 - q) / (RC).",
         "Solving with q = 0 at t = 0 gives q = C V0 (1 - e^(-t/RC)).",
         "So VC = q / C = V0 (1 - e^(-t/RC))."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-13.jpg",
+        "papers/physics/img/24-6B-Capacitors-14.jpg"
       ]
     },
     {
@@ -298,73 +583,150 @@
       "no": "Q11(b)",
       "marks": 3,
       "topic": "Choosing Capacitor For Input",
-      "keywords": ["capacitor choice", "3.3 V at 3.5 s", "68 kohm", "RC circuit", "time constant", "supply voltage", "4.7 uF to 150 uF"],
+      "keywords": [
+        "capacitor choice",
+        "3.3 V at 3.5 s",
+        "68 kohm",
+        "RC circuit",
+        "time constant",
+        "supply voltage",
+        "4.7 uF to 150 uF"
+      ],
       "question": "The input to an integrated circuit should be 3.3 V at 3.5 s after the switch is closed, with R = 68 kohm. Choose a capacitor from 4.7, 10, 15, 47 and 150 uF.",
       "status": "pending",
       "answer": "Pending: the supply p.d. V0 in the circuit diagram is not in the text extraction, so the capacitor cannot be selected.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-13.jpg",
+        "papers/physics/img/24-6B-Capacitors-14.jpg"
+      ]
     },
     {
       "id": "6B-Q12a",
       "no": "Q12(a)",
       "marks": 2,
       "topic": "Initial Current Consistency",
-      "keywords": ["initial current", "ammeter A1", "circuit values", "capacitor uncharged", "consistency", "graph"],
+      "keywords": [
+        "initial current",
+        "ammeter A1",
+        "circuit values",
+        "capacitor uncharged",
+        "consistency",
+        "graph"
+      ],
       "question": "Determine whether the initial value of current on the graph is consistent with the values stated on the circuit diagram.",
       "status": "pending",
       "answer": "Pending: the circuit diagram values and the current-time graph are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-14.jpg",
+        "papers/physics/img/24-6B-Capacitors-15.jpg",
+        "papers/physics/img/24-6B-Capacitors-16.jpg"
+      ]
     },
     {
       "id": "6B-Q12b",
       "no": "Q12(b)",
       "marks": 2,
       "topic": "Ammeter A2 Current Variation",
-      "keywords": ["ammeter A2", "current variation", "capacitor charging", "decreases", "circuit diagram"],
+      "keywords": [
+        "ammeter A2",
+        "current variation",
+        "capacitor charging",
+        "decreases",
+        "circuit diagram"
+      ],
       "question": "Explain how the current on ammeter A2 would vary over the same time interval.",
       "status": "pending",
       "answer": "Pending: the position of ammeter A2 in the circuit diagram is not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-14.jpg",
+        "papers/physics/img/24-6B-Capacitors-15.jpg",
+        "papers/physics/img/24-6B-Capacitors-16.jpg"
+      ]
     },
     {
       "id": "6B-Q12c",
       "no": "Q12(c)",
       "marks": 3,
       "topic": "Capacitance From Current Graph",
-      "keywords": ["capacitance", "current-time graph", "time constant", "resistance", "ammeter A1", "determine C"],
+      "keywords": [
+        "capacitance",
+        "current-time graph",
+        "time constant",
+        "resistance",
+        "ammeter A1",
+        "determine C"
+      ],
       "question": "Using the current-time graph and the circuit values, determine the capacitance of the capacitor.",
       "status": "pending",
       "answer": "Pending: the graph values and circuit resistance are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-14.jpg",
+        "papers/physics/img/24-6B-Capacitors-15.jpg",
+        "papers/physics/img/24-6B-Capacitors-16.jpg"
+      ]
     },
     {
       "id": "6B-Q12d",
       "no": "Q12(d)",
       "marks": 2,
       "topic": "Charge After 30 Seconds",
-      "keywords": ["charge", "capacitor", "after 30 s", "capacitance", "p.d.", "charging"],
+      "keywords": [
+        "charge",
+        "capacitor",
+        "after 30 s",
+        "capacitance",
+        "p.d.",
+        "charging"
+      ],
       "question": "Determine the charge stored on the capacitor after 30 s.",
       "status": "pending",
       "answer": "Pending: depends on the capacitance and p.d. from the diagram and graph, which are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-14.jpg",
+        "papers/physics/img/24-6B-Capacitors-15.jpg",
+        "papers/physics/img/24-6B-Capacitors-16.jpg"
+      ]
     },
     {
       "id": "6B-Q12e",
       "no": "Q12(e)",
       "marks": 2,
       "topic": "Maximum Capacitor Energy",
-      "keywords": ["maximum energy", "fully charged capacitor", "0.5 C V^2", "energy stored", "capacitor"],
+      "keywords": [
+        "maximum energy",
+        "fully charged capacitor",
+        "0.5 C V^2",
+        "energy stored",
+        "capacitor"
+      ],
       "question": "Determine the maximum energy stored by the capacitor.",
       "status": "pending",
       "answer": "Pending: depends on the capacitance and supply p.d. from the diagram and graph, which are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-14.jpg",
+        "papers/physics/img/24-6B-Capacitors-15.jpg",
+        "papers/physics/img/24-6B-Capacitors-16.jpg"
+      ]
     },
     {
       "id": "6B-Q13",
       "no": "Q13",
       "marks": 1,
       "topic": "Units Of Farad",
-      "keywords": ["farad", "units", "coulomb per volt", "C V^-1", "capacitance unit", "multiple choice"],
+      "keywords": [
+        "farad",
+        "units",
+        "coulomb per volt",
+        "C V^-1",
+        "capacitance unit",
+        "multiple choice"
+      ],
       "question": "Which of the following units is equivalent to the farad? A: C V^-1; B: J V^-1; C: s^-1; D: s J^-1.",
       "status": "ready",
       "answer": "A: C V^-1 (coulomb per volt).",
@@ -372,6 +734,9 @@
         "Capacitance is defined as C = Q / V.",
         "Charge is measured in coulombs and potential difference in volts.",
         "So the farad is equivalent to C V^-1, which is option A."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-16.jpg"
       ]
     },
     {
@@ -379,7 +744,14 @@
       "no": "Q14",
       "marks": 1,
       "topic": "Energy Stored At Double P.D.",
-      "keywords": ["energy stored", "potential difference doubled", "W = 0.5 C V^2", "proportional to V squared", "capacitor", "multiple choice"],
+      "keywords": [
+        "energy stored",
+        "potential difference doubled",
+        "W = 0.5 C V^2",
+        "proportional to V squared",
+        "capacitor",
+        "multiple choice"
+      ],
       "question": "When the p.d. across a capacitor is V, the energy stored is W. Select the energy stored when the p.d. is 2V.",
       "status": "ready",
       "answer": "D: 4W.",
@@ -387,6 +759,11 @@
         "Energy stored by a capacitor is W = 0.5 C V^2, which depends on V squared.",
         "With the p.d. doubled, the energy becomes 0.5 C (2V)^2 = 4 x (0.5 C V^2) = 4W.",
         "So the answer is option D, 4W."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-17.jpg",
+        "papers/physics/img/24-6B-Capacitors-18.jpg",
+        "papers/physics/img/24-6B-Capacitors-19.jpg"
       ]
     },
     {
@@ -394,7 +771,14 @@
       "no": "Q15",
       "marks": 1,
       "topic": "Time For Charge To Halve",
-      "keywords": ["time constant 5 s", "discharge", "charge halves", "half life", "natural logarithm", "exponential decay"],
+      "keywords": [
+        "time constant 5 s",
+        "discharge",
+        "charge halves",
+        "half life",
+        "natural logarithm",
+        "exponential decay"
+      ],
       "question": "A capacitor discharges through a resistor with time constant 5 s. Select the time for the charge on the plates to halve.",
       "status": "ready",
       "answer": "D: 5 ln2 s (about 3.5 s).",
@@ -402,6 +786,11 @@
         "Charge decays as Q = Q0 e^(-t/RC) = Q0 e^(-t/5).",
         "Halving the charge requires e^(-t/5) = 0.5.",
         "Taking logarithms gives t / 5 = ln 2, so t = 5 ln2 s, which is option D."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-17.jpg",
+        "papers/physics/img/24-6B-Capacitors-18.jpg",
+        "papers/physics/img/24-6B-Capacitors-19.jpg"
       ]
     },
     {
@@ -409,7 +798,16 @@
       "no": "Q16(a)",
       "marks": 5,
       "topic": "Electrostatic Force On Gordon Sphere",
-      "keywords": ["electrostatic force", "conducting sphere", "capacitance 4 pi epsilon0 r", "parallel plates", "4500 V", "5.0 cm", "3.5 cm", "charge on sphere"],
+      "keywords": [
+        "electrostatic force",
+        "conducting sphere",
+        "capacitance 4 pi epsilon0 r",
+        "parallel plates",
+        "4500 V",
+        "5.0 cm",
+        "3.5 cm",
+        "charge on sphere"
+      ],
       "question": "A light conducting sphere of radius r = 3.5 cm is charged by touching one of two plates separated by d = 5.0 cm with a potential difference of 4500 V. The sphere has capacitance C = 4 pi epsilon0 r. Calculate the electrostatic force on the sphere.",
       "status": "ready",
       "answer": "Electrostatic force = 1.6 x 10^-3 N.",
@@ -418,6 +816,11 @@
         "On touching the 4500 V plate the sphere takes the plate potential, so Q = C V = 3.89 x 10^-12 x 4500 = 1.75 x 10^-8 C.",
         "The field between the plates is E = V / d = 4500 / 0.050 = 9.0 x 10^4 V m^-1.",
         "The electrostatic force on the sphere is F = Q E = 1.75 x 10^-8 x 9.0 x 10^4 = 1.6 x 10^-3 N."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-17.jpg",
+        "papers/physics/img/24-6B-Capacitors-18.jpg",
+        "papers/physics/img/24-6B-Capacitors-19.jpg"
       ]
     },
     {
@@ -425,7 +828,15 @@
       "no": "Q16(b)",
       "marks": 3,
       "topic": "Oscillation Between Plates",
-      "keywords": ["conducting sphere", "oscillates", "charge transfer", "repelled", "attracted", "plates", "contact charging"],
+      "keywords": [
+        "conducting sphere",
+        "oscillates",
+        "charge transfer",
+        "repelled",
+        "attracted",
+        "plates",
+        "contact charging"
+      ],
       "question": "After charging, the conducting sphere oscillates between the two plates, touching each alternately. Explain why it oscillates.",
       "status": "ready",
       "answer": "On touching a plate the sphere takes that plate's charge, is then repelled by it and attracted to the opposite plate, where it loses charge and repeats the cycle.",
@@ -434,6 +845,11 @@
         "The sphere is then attracted to the negative plate across the gap.",
         "On contact with the negative plate, it gains negative charge (neutralising its positive charge), so it is repelled back.",
         "The sequence of attraction, contact and repulsion repeats, so the sphere oscillates between the plates."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-17.jpg",
+        "papers/physics/img/24-6B-Capacitors-18.jpg",
+        "papers/physics/img/24-6B-Capacitors-19.jpg"
       ]
     },
     {
@@ -441,7 +857,15 @@
       "no": "Q16(c)",
       "marks": 2,
       "topic": "Sphere Moves Between Bells",
-      "keywords": ["electrical storm", "lightning conductor", "induced charge", "earthed bell", "sphere oscillates", "charging by contact", "Franklin"],
+      "keywords": [
+        "electrical storm",
+        "lightning conductor",
+        "induced charge",
+        "earthed bell",
+        "sphere oscillates",
+        "charging by contact",
+        "Franklin"
+      ],
       "question": "In Franklin's version, one bell is earthed and the other is connected to a positively charged lightning conductor. The sphere is initially uncharged. Explain why the sphere starts to move between the bells.",
       "status": "ready",
       "answer": "The positive bell induces a negative charge on the near side of the uncharged sphere, so it is attracted; on contact it becomes positive and is then repelled to the earthed bell, and the cycle repeats.",
@@ -450,6 +874,11 @@
         "The sphere is attracted towards the positive bell and touches it.",
         "Charge is transferred, the sphere becomes positive, and it is repelled towards the earthed bell.",
         "On reaching the earthed bell it discharges and the cycle repeats, so the sphere moves between the bells."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-17.jpg",
+        "papers/physics/img/24-6B-Capacitors-18.jpg",
+        "papers/physics/img/24-6B-Capacitors-19.jpg"
       ]
     },
     {
@@ -457,26 +886,53 @@
       "no": "Q17(a)",
       "marks": 4,
       "topic": "Capacitance Tolerance Check",
-      "keywords": ["capacitance tolerance", "470 uF", "10 percent", "discharge graph", "150 kohm", "voltmeter", "evaluate"],
+      "keywords": [
+        "capacitance tolerance",
+        "470 uF",
+        "10 percent",
+        "discharge graph",
+        "150 kohm",
+        "voltmeter",
+        "evaluate"
+      ],
       "question": "The capacitor is labelled 470 uF with a tolerance of 10 percent. Using the discharge graph through 150 kohm, evaluate whether the capacitance is within the stated tolerance.",
       "status": "pending",
       "answer": "Pending: the V-t discharge graph readings are not in the text extraction, so the measured capacitance cannot be evaluated.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-19.jpg",
+        "papers/physics/img/24-6B-Capacitors-20.jpg",
+        "papers/physics/img/24-6B-Capacitors-21.jpg"
+      ]
     },
     {
       "id": "6B-Q17b",
       "no": "Q17(b)",
       "marks": 3,
       "topic": "Ultracapacitor Energy Claim",
-      "keywords": ["ultracapacitor", "47 F", "56 C", "maximum energy", "1000 times", "470 uF", "12 V", "energy comparison"],
+      "keywords": [
+        "ultracapacitor",
+        "47 F",
+        "56 C",
+        "maximum energy",
+        "1000 times",
+        "470 uF",
+        "12 V",
+        "energy comparison"
+      ],
       "question": "An ultracapacitor of capacitance 47 F can store a maximum charge of 56 C. It is suggested it can store 1000 times the energy of a 470 uF capacitor at 12 V. Assess the validity of this suggestion.",
       "status": "ready",
-      "answer": "Approximately valid: the maximum energy is about 33 J against about 0.034 J, a ratio of about 990, close to 1000 (but the ultracapacitor cannot be charged to 12 V, as its maximum p.d. is only 1.2 V).",
+      "answer": "Valid: the ultracapacitor can store up to about 33 J, while a 470 uF capacitor at 12 V stores about 0.034 J, a ratio of about 990, which is close to 1000.",
       "steps": [
-        "Energy of the 470 uF capacitor at 12 V: E = 0.5 C V^2 = 0.5 x 470 x 10^-6 x 12^2 = 0.0338 J.",
-        "Maximum energy of the ultracapacitor: E = Q^2 / (2C) = 56^2 / (2 x 47) = 33.4 J.",
-        "Ratio = 33.4 / 0.0338 = 990, which is close to 1000, so the suggestion is approximately valid.",
-        "However the ultracapacitor's maximum p.d. is V = Q / C = 56 / 47 = 1.2 V, so it cannot store energy at 12 V; the comparison is of maximum energies only."
+        "Energy stored by the 470 uF capacitor at 12 V: W = 0.5 C V^2 = 0.5 x 470 x 10^-6 x 12^2 = 0.0338 J.",
+        "Maximum energy stored by the ultracapacitor: W = Q^2 / (2C) = 56^2 / (2 x 47) = 33.4 J.",
+        "Ratio = 33.4 / 0.0338 = 990, which is about 1000.",
+        "So the suggestion is valid: the ultracapacitor stores about 1000 times as much energy (the 12 V applies only to the 470 uF capacitor)."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-19.jpg",
+        "papers/physics/img/24-6B-Capacitors-20.jpg",
+        "papers/physics/img/24-6B-Capacitors-21.jpg"
       ]
     },
     {
@@ -484,29 +940,63 @@
       "no": "Q18",
       "marks": 1,
       "topic": "Charge On Capacitor",
-      "keywords": ["charge", "capacitor", "6 V", "220 uF", "Q = CV", "multiple choice"],
+      "keywords": [
+        "charge",
+        "capacitor",
+        "6 V",
+        "220 uF",
+        "Q = CV",
+        "multiple choice"
+      ],
       "question": "There is a p.d. of 6 V across a 220 uF capacitor. Select the expression giving the charge stored.",
       "status": "pending",
       "answer": "Pending: the multiple-choice expressions are missing from the text extraction (the charge is Q = CV = 1.32 mC).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-21.jpg",
+        "papers/physics/img/24-6B-Capacitors-22.jpg",
+        "papers/physics/img/24-6B-Capacitors-23.jpg",
+        "papers/physics/img/24-6B-Capacitors-24.jpg"
+      ]
     },
     {
       "id": "6B-Q19a",
       "no": "Q19(a)",
       "marks": 4,
       "topic": "Verify Capacitance From Graph",
-      "keywords": ["capacitor 22 uF", "240 kohm", "time constant", "current-time graph", "verify capacitance", "charging"],
+      "keywords": [
+        "capacitor 22 uF",
+        "240 kohm",
+        "time constant",
+        "current-time graph",
+        "verify capacitance",
+        "charging"
+      ],
       "question": "The capacitor is marked 22 uF and is charged through a 240 kohm resistor while the current is measured. Using the graph of current against time, show that the marked value is correct.",
       "status": "pending",
       "answer": "Pending: the current-time graph is not in the text extraction, so the time constant cannot be read.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-21.jpg",
+        "papers/physics/img/24-6B-Capacitors-22.jpg",
+        "papers/physics/img/24-6B-Capacitors-23.jpg",
+        "papers/physics/img/24-6B-Capacitors-24.jpg"
+      ]
     },
     {
       "id": "6B-Q19b(i)",
       "no": "Q19(b)(i)",
       "marks": 3,
       "topic": "Maximum Speed After Collision",
-      "keywords": ["collision", "sphere B", "maximum height", "speed after collision", "energy conservation", "1.1 cm", "pendulum"],
+      "keywords": [
+        "collision",
+        "sphere B",
+        "maximum height",
+        "speed after collision",
+        "energy conservation",
+        "1.1 cm",
+        "pendulum"
+      ],
       "question": "Sphere B rises to a maximum height h = 1.1 cm after the collision. Calculate its maximum speed immediately after the collision.",
       "status": "ready",
       "answer": "Maximum speed = 0.46 m s^-1.",
@@ -514,6 +1004,12 @@
         "After the collision, sphere B rises to height h, so all its kinetic energy becomes gravitational potential energy at the top.",
         "0.5 m v^2 = m g h, so v = sqrt(2 g h).",
         "v = sqrt(2 x 9.81 x 0.011) = sqrt(0.216) = 0.46 m s^-1."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-21.jpg",
+        "papers/physics/img/24-6B-Capacitors-22.jpg",
+        "papers/physics/img/24-6B-Capacitors-23.jpg",
+        "papers/physics/img/24-6B-Capacitors-24.jpg"
       ]
     },
     {
@@ -521,7 +1017,16 @@
       "no": "Q19(b)(ii)",
       "marks": 2,
       "topic": "Contact Time Of Spheres",
-      "keywords": ["contact time", "capacitor discharge", "resistance 49 ohm", "22 uF", "6.18 V", "5.43 V", "time constant", "collision"],
+      "keywords": [
+        "contact time",
+        "capacitor discharge",
+        "resistance 49 ohm",
+        "22 uF",
+        "6.18 V",
+        "5.43 V",
+        "time constant",
+        "collision"
+      ],
       "question": "During contact the capacitor (22 uF) discharges through a circuit of resistance 49 ohm, with p.d. falling from 6.18 V to 5.43 V. Calculate the time the spheres were in contact.",
       "status": "ready",
       "answer": "Time in contact = 1.4 x 10^-4 s (0.14 ms).",
@@ -530,6 +1035,12 @@
         "RC = 49 x 22 x 10^-6 = 1.08 x 10^-3 s.",
         "ln(6.18 / 5.43) = ln(1.138) = 0.129.",
         "t = 1.08 x 10^-3 x 0.129 = 1.4 x 10^-4 s."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-21.jpg",
+        "papers/physics/img/24-6B-Capacitors-22.jpg",
+        "papers/physics/img/24-6B-Capacitors-23.jpg",
+        "papers/physics/img/24-6B-Capacitors-24.jpg"
       ]
     },
     {
@@ -537,7 +1048,15 @@
       "no": "Q19(b)(iii)",
       "marks": 4,
       "topic": "Average Force On Sphere B",
-      "keywords": ["average force", "impulse", "momentum change", "contact time", "weight of sphere", "collision", "statement check"],
+      "keywords": [
+        "average force",
+        "impulse",
+        "momentum change",
+        "contact time",
+        "weight of sphere",
+        "collision",
+        "statement check"
+      ],
       "question": "The student states the average force on sphere B cannot be more than the weight of sphere A. Each sphere has mass 28 g. Deduce whether this statement is correct, using the contact time from part (ii).",
       "status": "ready",
       "answer": "Incorrect: the average force on B is about 93 N, far more than the weight of A (0.27 N).",
@@ -546,6 +1065,12 @@
         "Average force F = change in momentum / contact time = 1.3 x 10^-2 / 1.4 x 10^-4 = 93 N.",
         "Weight of sphere A = m g = 0.028 x 9.81 = 0.27 N.",
         "93 N is much greater than 0.27 N, so the statement is incorrect."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-21.jpg",
+        "papers/physics/img/24-6B-Capacitors-22.jpg",
+        "papers/physics/img/24-6B-Capacitors-23.jpg",
+        "papers/physics/img/24-6B-Capacitors-24.jpg"
       ]
     },
     {
@@ -553,51 +1078,108 @@
       "no": "Q20(a)",
       "marks": 2,
       "topic": "Faults In Capacitor Circuit",
-      "keywords": ["capacitor circuit", "did not operate", "two reasons", "voltmeter", "circuit fault", "measurement"],
+      "keywords": [
+        "capacitor circuit",
+        "did not operate",
+        "two reasons",
+        "voltmeter",
+        "circuit fault",
+        "measurement"
+      ],
       "question": "Give two reasons why the circuit did not operate as the student intended.",
       "status": "pending",
       "answer": "Pending: the circuit diagram showing the components is not in the text extraction, so the faults cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-24.jpg",
+        "papers/physics/img/24-6B-Capacitors-25.jpg",
+        "papers/physics/img/24-6B-Capacitors-26.jpg"
+      ]
     },
     {
       "id": "6B-Q20b(i)",
       "no": "Q20(b)(i)",
       "marks": 3,
       "topic": "Circuit Resistance From Graph",
-      "keywords": ["resistance", "capacitor 2.2 uF", "V-t graph", "time constant", "switch position Y", "discharge"],
+      "keywords": [
+        "resistance",
+        "capacitor 2.2 uF",
+        "V-t graph",
+        "time constant",
+        "switch position Y",
+        "discharge"
+      ],
       "question": "The capacitance is 2.2 uF. Using the V against t graph, determine the resistance in the circuit when the switch was at position Y.",
       "status": "pending",
       "answer": "Pending: the V against t graph is not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-24.jpg",
+        "papers/physics/img/24-6B-Capacitors-25.jpg",
+        "papers/physics/img/24-6B-Capacitors-26.jpg"
+      ]
     },
     {
       "id": "6B-Q20b(ii)",
       "no": "Q20(b)(ii)",
       "marks": 4,
       "topic": "Average Current 0 To 30 s",
-      "keywords": ["average current", "0 to 30 s", "charge transferred", "capacitor 2.2 uF", "graph", "discharge"],
+      "keywords": [
+        "average current",
+        "0 to 30 s",
+        "charge transferred",
+        "capacitor 2.2 uF",
+        "graph",
+        "discharge"
+      ],
       "question": "Determine the average current in the circuit between t = 0 s and t = 30 s, for the capacitor of 2.2 uF.",
       "status": "pending",
       "answer": "Pending: requires the p.d. values read from the graph, which are not in the text extraction (average current = C (V0 - V30) / 30 s).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-24.jpg",
+        "papers/physics/img/24-6B-Capacitors-25.jpg",
+        "papers/physics/img/24-6B-Capacitors-26.jpg"
+      ]
     },
     {
       "id": "6B-Q20b(iii)",
       "no": "Q20(b)(iii)",
       "marks": 3,
       "topic": "Energy Dissipated 0 To 30 s",
-      "keywords": ["energy dissipated", "resistor", "0 to 30 s", "capacitor energy", "graph", "2.2 uF"],
+      "keywords": [
+        "energy dissipated",
+        "resistor",
+        "0 to 30 s",
+        "capacitor energy",
+        "graph",
+        "2.2 uF"
+      ],
       "question": "Calculate the energy dissipated by the current in the circuit between t = 0 s and t = 30 s.",
       "status": "pending",
       "answer": "Pending: requires the p.d. values from the graph, which are not in the text extraction (energy dissipated = 0.5 C (V0^2 - V30^2)).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-24.jpg",
+        "papers/physics/img/24-6B-Capacitors-25.jpg",
+        "papers/physics/img/24-6B-Capacitors-26.jpg"
+      ]
     },
     {
       "id": "6B-Q21",
       "no": "Q21",
       "marks": 6,
       "topic": "Charging Curve Explanation",
-      "keywords": ["charging capacitor", "V against t", "charge on capacitor", "current decreases", "exponential", "cell e.m.f.", "resistor", "explain"],
+      "keywords": [
+        "charging capacitor",
+        "V against t",
+        "charge on capacitor",
+        "current decreases",
+        "exponential",
+        "cell e.m.f.",
+        "resistor",
+        "explain"
+      ],
       "question": "A cell of p.d. V0, a capacitor, a resistor and a switch are connected, with the capacitor initially uncharged. Explain the variation of the capacitor p.d. V with time shown in the graph, referring to the charge on the capacitor and the current in the circuit.",
       "status": "ready",
       "answer": "The capacitor p.d. rises from zero and approaches V0 asymptotically: as charge builds up the current falls, so the rate of charging falls and the gradient decreases to zero.",
@@ -608,6 +1190,10 @@
         "As V rises, the p.d. across the resistor (V0 - V) falls, so the current falls.",
         "A smaller current means charge arrives more slowly, so the gradient of the V-t graph decreases from its maximum at t = 0 towards zero.",
         "The capacitor p.d. therefore approaches the cell e.m.f. V0 exponentially, with the time constant RC controlling how fast."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-26.jpg",
+        "papers/physics/img/24-6B-Capacitors-27.jpg"
       ]
     },
     {
@@ -615,40 +1201,84 @@
       "no": "Q22",
       "marks": 3,
       "topic": "Maximum Energy With Tolerance",
-      "keywords": ["capacitor tolerance 20 percent", "maximum energy", "capacitor value", "shown capacitor", "upper tolerance", "energy"],
+      "keywords": [
+        "capacitor tolerance 20 percent",
+        "maximum energy",
+        "capacitor value",
+        "shown capacitor",
+        "upper tolerance",
+        "energy"
+      ],
       "question": "A student selects a capacitor (value shown in the diagram) with tolerance of 20 percent. Calculate the maximum energy such a capacitor can store.",
       "status": "pending",
       "answer": "Pending: the capacitor value and rated p.d. are shown in the diagram, which is not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-27.jpg",
+        "papers/physics/img/24-6B-Capacitors-28.jpg"
+      ]
     },
     {
       "id": "6B-Q23a(i)",
       "no": "Q23(a)(i)",
       "marks": 4,
       "topic": "Capacitance From Charging Graph",
-      "keywords": ["capacitance", "charging graph", "V against t", "10 s intervals", "time constant", "voltmeter", "determine C"],
+      "keywords": [
+        "capacitance",
+        "charging graph",
+        "V against t",
+        "10 s intervals",
+        "time constant",
+        "voltmeter",
+        "determine C"
+      ],
       "question": "The student recorded V every 10 s while the capacitor charged through a resistor. Using the graph of V against t, determine a value for the capacitance C.",
       "status": "pending",
       "answer": "Pending: the V against t graph and resistor value are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-28.jpg",
+        "papers/physics/img/24-6B-Capacitors-29.jpg",
+        "papers/physics/img/24-6B-Capacitors-30.jpg"
+      ]
     },
     {
       "id": "6B-Q23a(ii)",
       "no": "Q23(a)(ii)",
       "marks": 3,
       "topic": "Current Against Time Sketch",
-      "keywords": ["current against time", "maximum current", "charging", "sketch", "exponential decrease", "capacitor"],
+      "keywords": [
+        "current against time",
+        "maximum current",
+        "charging",
+        "sketch",
+        "exponential decrease",
+        "capacitor"
+      ],
       "question": "Sketch on the axes how the current I in the circuit varies with time, including the maximum value of current.",
       "status": "pending",
       "answer": "Pending: the axes and maximum current values are not in the text extraction; the answer is a curve starting at the maximum current V0/R and decaying exponentially to zero.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-28.jpg",
+        "papers/physics/img/24-6B-Capacitors-29.jpg",
+        "papers/physics/img/24-6B-Capacitors-30.jpg"
+      ]
     },
     {
       "id": "6B-Q23b",
       "no": "Q23(b)",
       "marks": 3,
       "topic": "Parallel Resistor Charging Time",
-      "keywords": ["parallel resistor", "time to charge", "lower resistance", "time constant", "168 kohm", "explain", "faster charging"],
+      "keywords": [
+        "parallel resistor",
+        "time to charge",
+        "lower resistance",
+        "time constant",
+        "168 kohm",
+        "explain",
+        "faster charging"
+      ],
       "question": "A second 168 kohm resistor is connected in parallel with the first. Explain how the time taken to charge the capacitor changes, without further calculations.",
       "status": "ready",
       "answer": "The time decreases: the parallel combination has a lower resistance, so the time constant RC is smaller and the capacitor charges faster.",
@@ -657,6 +1287,11 @@
         "A lower total resistance gives a smaller time constant RC.",
         "A smaller time constant means the capacitor charges to a given p.d. more quickly.",
         "So the time taken to charge the capacitor decreases."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-28.jpg",
+        "papers/physics/img/24-6B-Capacitors-29.jpg",
+        "papers/physics/img/24-6B-Capacitors-30.jpg"
       ]
     },
     {
@@ -664,73 +1299,150 @@
       "no": "Q24",
       "marks": 1,
       "topic": "Charge In Parallel Capacitors",
-      "keywords": ["parallel capacitors", "total charge", "same p.d.", "2C", "Q = CV", "multiple choice"],
+      "keywords": [
+        "parallel capacitors",
+        "total charge",
+        "same p.d.",
+        "2C",
+        "Q = CV",
+        "multiple choice"
+      ],
       "question": "A capacitor of capacitance C with p.d. V stores charge Q. It is replaced by two capacitors of capacitance C each, connected in parallel. Select the total charge stored in the parallel circuit.",
       "status": "pending",
       "answer": "Pending: the multiple-choice options are missing from the text extraction (the total charge is 2Q).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-30.jpg",
+        "papers/physics/img/24-6B-Capacitors-31.jpg"
+      ]
     },
     {
       "id": "6B-Q25a",
       "no": "Q25(a)",
       "marks": 1,
       "topic": "Ammeter In Charging Circuit",
-      "keywords": ["ammeter", "current measurement", "charging circuit", "resistor", "series", "diagram"],
+      "keywords": [
+        "ammeter",
+        "current measurement",
+        "charging circuit",
+        "resistor",
+        "series",
+        "diagram"
+      ],
       "question": "Add to the diagram a suitable circuit to measure the current as the capacitor charges through the resistor.",
       "status": "pending",
       "answer": "Pending: the diagram is not in the text extraction; the answer is an ammeter placed in series with the resistor and capacitor.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-31.jpg",
+        "papers/physics/img/24-6B-Capacitors-32.jpg",
+        "papers/physics/img/24-6B-Capacitors-33.jpg"
+      ]
     },
     {
       "id": "6B-Q25b(i)",
       "no": "Q25(b)(i)",
       "marks": 3,
       "topic": "Show Capacitance From Current Graph",
-      "keywords": ["capacitance 0.02 F", "resistor 5.1 kohm", "current-time graph", "time constant", "charging", "show that"],
+      "keywords": [
+        "capacitance 0.02 F",
+        "resistor 5.1 kohm",
+        "current-time graph",
+        "time constant",
+        "charging",
+        "show that"
+      ],
       "question": "The resistance is 5.1 kohm. Using the current against time graph, show that the capacitance of the capacitor is about 0.02 F.",
       "status": "pending",
       "answer": "Pending: the current against time graph is not in the text extraction, so the time constant cannot be read.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-31.jpg",
+        "papers/physics/img/24-6B-Capacitors-32.jpg",
+        "papers/physics/img/24-6B-Capacitors-33.jpg"
+      ]
     },
     {
       "id": "6B-Q25b(ii)",
       "no": "Q25(b)(ii)",
       "marks": 3,
       "topic": "Charge On Fully Charged Capacitor",
-      "keywords": ["fully charged capacitor", "charge", "Q = CV", "0.02 F", "supply p.d.", "current graph"],
+      "keywords": [
+        "fully charged capacitor",
+        "charge",
+        "Q = CV",
+        "0.02 F",
+        "supply p.d.",
+        "current graph"
+      ],
       "question": "Calculate the charge on the capacitor when it is fully charged, using capacitance about 0.02 F and the supply p.d. from the graph.",
       "status": "pending",
       "answer": "Pending: the supply p.d. from the graph (or initial current times resistance) is not in the text extraction (the method is Q = C V0).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-31.jpg",
+        "papers/physics/img/24-6B-Capacitors-32.jpg",
+        "papers/physics/img/24-6B-Capacitors-33.jpg"
+      ]
     },
     {
       "id": "6B-Q25b(iii)",
       "no": "Q25(b)(iii)",
       "marks": 2,
       "topic": "Energy Of Fully Charged Capacitor",
-      "keywords": ["energy stored", "fully charged", "0.5 Q V", "capacitance", "charge"],
+      "keywords": [
+        "energy stored",
+        "fully charged",
+        "0.5 Q V",
+        "capacitance",
+        "charge"
+      ],
       "question": "Calculate the energy stored by the capacitor when it is fully charged.",
       "status": "pending",
       "answer": "Pending: depends on the charge from part (ii), which depends on graph values not in the text extraction (method E = 0.5 Q V = 0.5 C V0^2).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-31.jpg",
+        "papers/physics/img/24-6B-Capacitors-32.jpg",
+        "papers/physics/img/24-6B-Capacitors-33.jpg"
+      ]
     },
     {
       "id": "6B-Q26",
       "no": "Q26",
       "marks": 1,
       "topic": "Time Constant Expression",
-      "keywords": ["time constant", "discharge", "resistor", "capacitor", "RC", "multiple choice", "charged to V0"],
+      "keywords": [
+        "time constant",
+        "discharge",
+        "resistor",
+        "capacitor",
+        "RC",
+        "multiple choice",
+        "charged to V0"
+      ],
       "question": "A capacitor of capacitance C charged to V0 discharges through a resistor of resistance R. After time t the p.d. is V. Select the expression for the time constant.",
       "status": "pending",
       "answer": "Pending: the multiple-choice expressions are missing from the text extraction (the time constant is RC).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-33.jpg",
+        "papers/physics/img/24-6B-Capacitors-34.jpg"
+      ]
     },
     {
       "id": "6B-Q27a(i)",
       "no": "Q27(a)(i)",
       "marks": 4,
       "topic": "Current During Charging",
-      "keywords": ["charging current", "switch position X", "maximum current", "decreases exponentially", "capacitor charges", "p.d. across resistor"],
+      "keywords": [
+        "charging current",
+        "switch position X",
+        "maximum current",
+        "decreases exponentially",
+        "capacitor charges",
+        "p.d. across resistor"
+      ],
       "question": "Explain how the current in the circuit varies when the switch is connected to position X to charge the capacitor. No calculations are needed.",
       "status": "ready",
       "answer": "The current is at its maximum at the instant the switch closes and then falls exponentially to zero as the capacitor charges and its p.d. approaches the supply p.d.",
@@ -739,6 +1451,11 @@
         "As charge accumulates on the plates, the capacitor p.d. increases and the p.d. across the resistor falls.",
         "The current therefore decreases continuously as the capacitor charges.",
         "Once the capacitor p.d. equals the supply p.d., the current is zero."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-34.jpg",
+        "papers/physics/img/24-6B-Capacitors-35.jpg",
+        "papers/physics/img/24-6B-Capacitors-36.jpg"
       ]
     },
     {
@@ -746,29 +1463,60 @@
       "no": "Q27(a)(ii)",
       "marks": 3,
       "topic": "Current Against Time Graph",
-      "keywords": ["current against time", "charging", "maximum current", "sketch", "exponential decay", "switch X"],
+      "keywords": [
+        "current against time",
+        "charging",
+        "maximum current",
+        "sketch",
+        "exponential decay",
+        "switch X"
+      ],
       "question": "Sketch a graph of the variation of current in the circuit as the capacitor is charged, including the maximum value of current.",
       "status": "pending",
       "answer": "Pending: the sketch is not in the text extraction; the answer is an exponential decay curve starting at the maximum current V0/R at t = 0.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-34.jpg",
+        "papers/physics/img/24-6B-Capacitors-35.jpg",
+        "papers/physics/img/24-6B-Capacitors-36.jpg"
+      ]
     },
     {
       "id": "6B-Q27b(i)",
       "no": "Q27(b)(i)",
       "marks": 2,
       "topic": "Show Time Constant About 60 s",
-      "keywords": ["time constant", "60 s", "discharge", "resistor", "capacitor", "switch position Y"],
+      "keywords": [
+        "time constant",
+        "60 s",
+        "discharge",
+        "resistor",
+        "capacitor",
+        "switch position Y"
+      ],
       "question": "Show that the time constant of the discharge circuit is about 60 s.",
       "status": "pending",
       "answer": "Pending: the resistance and capacitance values are in the diagram, which is not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-34.jpg",
+        "papers/physics/img/24-6B-Capacitors-35.jpg",
+        "papers/physics/img/24-6B-Capacitors-36.jpg"
+      ]
     },
     {
       "id": "6B-Q27b(ii)",
       "no": "Q27(b)(ii)",
       "marks": 3,
       "topic": "Percentage P.D. Remaining",
-      "keywords": ["percentage remaining", "3 minutes", "time constant 60 s", "discharge", "exponential", "p.d. fraction"],
+      "keywords": [
+        "percentage remaining",
+        "3 minutes",
+        "time constant 60 s",
+        "discharge",
+        "exponential",
+        "p.d. fraction"
+      ],
       "question": "The switch is connected to position Y for 3 minutes. Using a time constant of 60 s, determine the percentage of the original p.d. remaining across the capacitor.",
       "status": "ready",
       "answer": "About 5.0 percent of the original p.d. remains (e^-3 = 0.050).",
@@ -776,6 +1524,11 @@
         "Time t = 3 minutes = 180 s.",
         "V / V0 = e^(-t/RC) = e^(-180 / 60) = e^(-3).",
         "e^(-3) = 0.0498, so the p.d. remaining is about 5.0 percent of the original."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-34.jpg",
+        "papers/physics/img/24-6B-Capacitors-35.jpg",
+        "papers/physics/img/24-6B-Capacitors-36.jpg"
       ]
     },
     {
@@ -783,18 +1536,38 @@
       "no": "Q27(c)",
       "marks": 4,
       "topic": "Intersection Of Voltage Traces",
-      "keywords": ["data logger", "intersection", "VC and VR", "p.d. value", "time value", "recharge", "voltage sensors"],
+      "keywords": [
+        "data logger",
+        "intersection",
+        "VC and VR",
+        "p.d. value",
+        "time value",
+        "recharge",
+        "voltage sensors"
+      ],
       "question": "The data logger output shows VC and VR against time during recharging. Determine the p.d. and the time at which the two lines intersect.",
       "status": "pending",
       "answer": "Pending: the data logger graph is not in the text extraction; at the intersection VC = VR, which is half the supply p.d.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-34.jpg",
+        "papers/physics/img/24-6B-Capacitors-35.jpg",
+        "papers/physics/img/24-6B-Capacitors-36.jpg"
+      ]
     },
     {
       "id": "6B-Q27d",
       "no": "Q27(d)",
       "marks": 2,
       "topic": "Charge In Series Capacitors",
-      "keywords": ["series capacitors", "charge on each capacitor", "identical capacitors", "single capacitor", "half the charge", "charging"],
+      "keywords": [
+        "series capacitors",
+        "charge on each capacitor",
+        "identical capacitors",
+        "single capacitor",
+        "half the charge",
+        "charging"
+      ],
       "question": "A second identical capacitor is connected in series with the first, and both are charged through switch position X. Explain how the charge on each capacitor compares with the charge on the single capacitor.",
       "status": "ready",
       "answer": "Each capacitor stores half the charge that the single capacitor stores, because the series combination has half the capacitance.",
@@ -802,6 +1575,11 @@
         "In series the same charge flows onto each capacitor, and the total capacitance is C/2.",
         "The charge on the combination is Q = (C/2) V0, which is half the charge CV0 on the single capacitor.",
         "Each capacitor in the series pair therefore carries half the charge of the single capacitor."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-34.jpg",
+        "papers/physics/img/24-6B-Capacitors-35.jpg",
+        "papers/physics/img/24-6B-Capacitors-36.jpg"
       ]
     },
     {
@@ -809,51 +1587,110 @@
       "no": "Q28",
       "marks": 1,
       "topic": "Ratio Of Stored Energies",
-      "keywords": ["energy ratio", "capacitance half", "p.d. half", "W = 0.5 C V^2", "ratio W1 to W2", "multiple choice"],
+      "keywords": [
+        "energy ratio",
+        "capacitance half",
+        "p.d. half",
+        "W = 0.5 C V^2",
+        "ratio W1 to W2",
+        "multiple choice"
+      ],
       "question": "Capacitor C1 has half the capacitance of C2 and is charged to half the p.d. of C2. Select the ratio of the energy stored in C1 to that in C2.",
       "status": "pending",
       "answer": "Pending: the ratio expression is missing from the text extraction (the ratio W1 / W2 = 1/8).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-37.jpg",
+        "papers/physics/img/24-6B-Capacitors-38.jpg",
+        "papers/physics/img/24-6B-Capacitors-39.jpg",
+        "papers/physics/img/24-6B-Capacitors-40.jpg"
+      ]
     },
     {
       "id": "6B-Q29a",
       "no": "Q29(a)",
       "marks": 1,
       "topic": "Capacitor P.D. At End Of Discharge",
-      "keywords": ["power supply output", "smoothing", "capacitor", "end of discharge", "minimum p.d.", "graph"],
+      "keywords": [
+        "power supply output",
+        "smoothing",
+        "capacitor",
+        "end of discharge",
+        "minimum p.d.",
+        "graph"
+      ],
       "question": "State the p.d. across the capacitor at the end of a period of discharge, using the graph of the modified output.",
       "status": "pending",
       "answer": "Pending: the output graphs are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-37.jpg",
+        "papers/physics/img/24-6B-Capacitors-38.jpg",
+        "papers/physics/img/24-6B-Capacitors-39.jpg",
+        "papers/physics/img/24-6B-Capacitors-40.jpg"
+      ]
     },
     {
       "id": "6B-Q29b(i)",
       "no": "Q29(b)(i)",
       "marks": 5,
       "topic": "Resistor Tolerance Consistency",
-      "keywords": ["resistor tolerance 5 percent", "6.8 kohm", "3.3 uF", "discharge graph", "output consistency", "time constant range"],
+      "keywords": [
+        "resistor tolerance 5 percent",
+        "6.8 kohm",
+        "3.3 uF",
+        "discharge graph",
+        "output consistency",
+        "time constant range"
+      ],
       "question": "The capacitor (3.3 uF) discharges through a 6.8 kohm resistor with tolerance 5 percent. Deduce whether the output shown in the graph is consistent with this tolerance.",
       "status": "pending",
       "answer": "Pending: the output graph with the capacitor is not in the text extraction, so the measured discharge cannot be compared with the expected range (RC = 22.4 ms plus or minus 5 percent).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-37.jpg",
+        "papers/physics/img/24-6B-Capacitors-38.jpg",
+        "papers/physics/img/24-6B-Capacitors-39.jpg",
+        "papers/physics/img/24-6B-Capacitors-40.jpg"
+      ]
     },
     {
       "id": "6B-Q29b(ii)",
       "no": "Q29(b)(ii)",
       "marks": 3,
       "topic": "Energy Change During Discharge",
-      "keywords": ["energy change", "discharge", "3.3 uF", "p.d. values", "capacitor energy", "graph"],
+      "keywords": [
+        "energy change",
+        "discharge",
+        "3.3 uF",
+        "p.d. values",
+        "capacitor energy",
+        "graph"
+      ],
       "question": "Calculate the change in energy stored in the capacitor during the discharging process shown.",
       "status": "pending",
       "answer": "Pending: requires the start and end p.d. values from the graph, which are not in the text extraction (change = 0.5 C (V1^2 - V2^2)).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-37.jpg",
+        "papers/physics/img/24-6B-Capacitors-38.jpg",
+        "papers/physics/img/24-6B-Capacitors-39.jpg",
+        "papers/physics/img/24-6B-Capacitors-40.jpg"
+      ]
     },
     {
       "id": "6B-Q29b(iii)",
       "no": "Q29(b)(iii)",
       "marks": 3,
       "topic": "Low Resistance Follows Supply",
-      "keywords": ["bulb", "low resistance", "time constant", "discharge rate", "output follows supply", "capacitor discharges quickly"],
+      "keywords": [
+        "bulb",
+        "low resistance",
+        "time constant",
+        "discharge rate",
+        "output follows supply",
+        "capacitor discharges quickly"
+      ],
       "question": "The resistor is replaced by a bulb of much lower resistance than 6.8 kohm. Explain why the output is now very similar to the original output of the power supply.",
       "status": "ready",
       "answer": "With a much lower resistance the time constant RC is very short, so the capacitor discharges and recharges quickly and its p.d. follows the supply output closely.",
@@ -862,6 +1699,12 @@
         "The capacitor now discharges almost immediately after the supply falls, so its p.d. drops with the supply.",
         "It recharges quickly as the supply rises, so the p.d. across the capacitor tracks the supply output.",
         "The smoothing effect is therefore lost and the output resembles the original supply output."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-37.jpg",
+        "papers/physics/img/24-6B-Capacitors-38.jpg",
+        "papers/physics/img/24-6B-Capacitors-39.jpg",
+        "papers/physics/img/24-6B-Capacitors-40.jpg"
       ]
     },
     {
@@ -869,7 +1712,14 @@
       "no": "Q30",
       "marks": 1,
       "topic": "Capacitance From V-Q Graph",
-      "keywords": ["V against Q graph", "capacitance", "gradient", "inverse of gradient", "charging capacitor", "multiple choice"],
+      "keywords": [
+        "V against Q graph",
+        "capacitance",
+        "gradient",
+        "inverse of gradient",
+        "charging capacitor",
+        "multiple choice"
+      ],
       "question": "A capacitor is charging and a graph of potential difference against charge is shown. Select the expression giving the capacitance: A the area between the line and the p.d. axis; B the area between the line and the charge axis; C the gradient of the line; D the inverse of the gradient of the line.",
       "status": "ready",
       "answer": "D: the inverse of the gradient of the line.",
@@ -877,6 +1727,10 @@
         "Capacitance is C = Q / V, so V = Q / C.",
         "On a V against Q graph the gradient is dV / dQ = 1 / C.",
         "So the capacitance is the inverse of the gradient, option D."
+      ],
+      "images": [
+        "papers/physics/img/24-6B-Capacitors-40.jpg",
+        "papers/physics/img/24-6B-Capacitors-41.jpg"
       ]
     }
   ]

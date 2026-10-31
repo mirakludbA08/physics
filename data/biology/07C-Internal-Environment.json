@@ -1,6 +1,6 @@
 {
   "code": "7C",
-  "title": "Internal environment",
+  "title": "Control of the internal environment",
   "unit": "A2 Unit 4",
   "pdf": "papers/biology/07C-Internal-Environment.pdf",
   "questions": [
@@ -21,7 +21,12 @@
       "question": "In which part of the kidney are structures W and X on the nephron diagram located (options: cortex, inner medulla, outer medulla, renal pelvis)?",
       "status": "pending",
       "answer": "Pending: the labelled nephron diagram (structures W and X) is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-01.jpg",
+        "papers/biology/img/07C-Internal-Environment-02.jpg",
+        "papers/biology/img/07C-Internal-Environment-03.jpg"
+      ]
     },
     {
       "id": "7C-Q1a(ii)",
@@ -39,7 +44,12 @@
       "question": "In which labelled structure of the nephron diagram does ultrafiltration take place (options W, X, Y, Z)?",
       "status": "pending",
       "answer": "Pending: the labelled nephron diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-01.jpg",
+        "papers/biology/img/07C-Internal-Environment-02.jpg",
+        "papers/biology/img/07C-Internal-Environment-03.jpg"
+      ]
     },
     {
       "id": "7C-Q1a(iii)",
@@ -56,7 +66,12 @@
       "question": "Which labelled structures on the nephron diagram form part of the loop of Henle (options: X only, X and Y, Y only, Y and Z)?",
       "status": "pending",
       "answer": "Pending: the labelled nephron diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-01.jpg",
+        "papers/biology/img/07C-Internal-Environment-02.jpg",
+        "papers/biology/img/07C-Internal-Environment-03.jpg"
+      ]
     },
     {
       "id": "7C-Q1b",
@@ -80,6 +95,11 @@
         "Small soluble molecules such as urea pass through the capillary endothelium and basement membrane.",
         "Urea enters the Bowman capsule as part of the glomerular filtrate, then flows into the nephron.",
         "Urea is not reabsorbed in significant amounts, so it leaves the body in urine."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-01.jpg",
+        "papers/biology/img/07C-Internal-Environment-02.jpg",
+        "papers/biology/img/07C-Internal-Environment-03.jpg"
       ]
     },
     {
@@ -99,7 +119,12 @@
       "question": "Deduce why the kangaroo rat is more successful than the brown rat at living in desert habitats, using the table of kidney adaptations.",
       "status": "pending",
       "answer": "Pending: the table comparing the two small mammals is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-01.jpg",
+        "papers/biology/img/07C-Internal-Environment-02.jpg",
+        "papers/biology/img/07C-Internal-Environment-03.jpg"
+      ]
     },
     {
       "id": "7C-Q2a(i)",
@@ -121,6 +146,11 @@
         "The receptor is stimulated and sends the impulse into the reflex arc.",
         "The next component is the sensory neurone, which carries the impulse to the CNS.",
         "Relay neurones come later in the CNS, and Schwann cells only insulate axons."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-03.jpg",
+        "papers/biology/img/07C-Internal-Environment-04.jpg",
+        "papers/biology/img/07C-Internal-Environment-05.jpg"
       ]
     },
     {
@@ -140,7 +170,12 @@
       "question": "Which pathway shows a reflex arc (options AW, BX, CY, DZ)?",
       "status": "pending",
       "answer": "Pending: the pathway options AW, BX, CY, DZ are not described in the text, so the diagram is needed.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-03.jpg",
+        "papers/biology/img/07C-Internal-Environment-04.jpg",
+        "papers/biology/img/07C-Internal-Environment-05.jpg"
+      ]
     },
     {
       "id": "7C-Q2b(i)",
@@ -164,6 +199,11 @@
         "This creates a higher concentration of Na+ outside and of K+ inside.",
         "The membrane is more permeable to K+ (K+ leak channels), so K+ diffuses out down its gradient.",
         "K+ leaving with no balancing anion leaves the inside negative, giving the resting potential of about -70 mV."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-03.jpg",
+        "papers/biology/img/07C-Internal-Environment-04.jpg",
+        "papers/biology/img/07C-Internal-Environment-05.jpg"
       ]
     },
     {
@@ -188,6 +228,11 @@
         "This stretches the membrane of the sensory neurone at its end, opening stretch-mediated sodium channels.",
         "Na+ diffuses into the axon, making the inside less negative (a generator potential).",
         "If the depolarisation reaches threshold, voltage-gated Na+ channels open and an action potential is generated."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-03.jpg",
+        "papers/biology/img/07C-Internal-Environment-04.jpg",
+        "papers/biology/img/07C-Internal-Environment-05.jpg"
       ]
     },
     {
@@ -212,6 +257,11 @@
         "An action potential is all-or-nothing: once threshold is reached it has the same size (about +40 mV).",
         "Higher pressure makes action potentials more frequent rather than bigger.",
         "So the membrane potential measured at Y is the same at medium and high pressure."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-03.jpg",
+        "papers/biology/img/07C-Internal-Environment-04.jpg",
+        "papers/biology/img/07C-Internal-Environment-05.jpg"
       ]
     },
     {
@@ -235,6 +285,10 @@
         "A nerve impulse releases Ca2+ from the sarcoplasmic reticulum.",
         "Ca2+ binds to troponin, which changes shape.",
         "This moves tropomyosin away from the myosin binding sites on actin, so cross bridges can form and the muscle contracts."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-06.jpg",
+        "papers/biology/img/07C-Internal-Environment-07.jpg"
       ]
     },
     {
@@ -254,7 +308,11 @@
       "question": "Explain how the features of slow twitch fibres, shown in the table, benefit an Olympic marathon runner.",
       "status": "pending",
       "answer": "Pending: the table listing the features of slow and fast twitch fibres is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-06.jpg",
+        "papers/biology/img/07C-Internal-Environment-07.jpg"
+      ]
     },
     {
       "id": "7C-Q3c",
@@ -273,7 +331,11 @@
       "question": "Comment on the rate of heat loss during exercise, using the graph of heat loss at rest and during exercise.",
       "status": "pending",
       "answer": "Pending: the graph of the rate of heat loss at rest and during exercise is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-06.jpg",
+        "papers/biology/img/07C-Internal-Environment-07.jpg"
+      ]
     },
     {
       "id": "7C-Q4a",
@@ -296,6 +358,12 @@
         "Negative feedback: a change triggers a response that opposes and reverses the change, returning conditions to normal (homeostasis).",
         "Positive feedback: a change triggers a response that increases the change further, pushing it away from the set point.",
         "Negative feedback is the common homeostatic control; positive feedback is rarer, for example in blood clotting or childbirth."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-07.jpg",
+        "papers/biology/img/07C-Internal-Environment-08.jpg",
+        "papers/biology/img/07C-Internal-Environment-09.jpg",
+        "papers/biology/img/07C-Internal-Environment-10.jpg"
       ]
     },
     {
@@ -318,6 +386,12 @@
         "Thermoregulation is always required to keep temperature steady.",
         "The body always generates heat and loses heat, so statement B is false.",
         "Heat production and loss are balanced (dynamic equilibrium), so D is correct."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-07.jpg",
+        "papers/biology/img/07C-Internal-Environment-08.jpg",
+        "papers/biology/img/07C-Internal-Environment-09.jpg",
+        "papers/biology/img/07C-Internal-Environment-10.jpg"
       ]
     },
     {
@@ -342,6 +416,12 @@
         "Small molecules such as creatinine can pass through the gaps (fenestrations) in the capillary endothelium.",
         "They then pass through the basement membrane, where larger molecules such as proteins and blood cells are retained.",
         "Podocytes and the filtration slits prevent the filtrate from reaching the cells, so the filtrate contains only small molecules."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-07.jpg",
+        "papers/biology/img/07C-Internal-Environment-08.jpg",
+        "papers/biology/img/07C-Internal-Environment-09.jpg",
+        "papers/biology/img/07C-Internal-Environment-10.jpg"
       ]
     },
     {
@@ -361,7 +441,13 @@
       "question": "Calculate the GFR of a person who excreted 1960 mg of creatinine in urine over 15 hours (3 s.f.).",
       "status": "pending",
       "answer": "Pending: GFR needs the plasma creatinine concentration as well as the urine data, and this value is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-07.jpg",
+        "papers/biology/img/07C-Internal-Environment-08.jpg",
+        "papers/biology/img/07C-Internal-Environment-09.jpg",
+        "papers/biology/img/07C-Internal-Environment-10.jpg"
+      ]
     },
     {
       "id": "7C-Q4d(i)",
@@ -381,7 +467,13 @@
       "question": "Comment on the results of the clinical trial of surgery on glucose uptake in the presence of insulin.",
       "status": "pending",
       "answer": "Pending: the trial results (graph or table of glucose uptake for each group) are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-07.jpg",
+        "papers/biology/img/07C-Internal-Environment-08.jpg",
+        "papers/biology/img/07C-Internal-Environment-09.jpg",
+        "papers/biology/img/07C-Internal-Environment-10.jpg"
+      ]
     },
     {
       "id": "7C-Q4d(ii)",
@@ -400,7 +492,13 @@
       "question": "Calculate the difference that surgery makes to the mean glucose uptake in the non-diabetic group and the type II diabetic group.",
       "status": "pending",
       "answer": "Pending: the mean glucose uptake values from the trial data are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-07.jpg",
+        "papers/biology/img/07C-Internal-Environment-08.jpg",
+        "papers/biology/img/07C-Internal-Environment-09.jpg",
+        "papers/biology/img/07C-Internal-Environment-10.jpg"
+      ]
     },
     {
       "id": "7C-Q5a(i)",
@@ -422,6 +520,11 @@
         "tRNA carries a specific amino acid to the ribosome.",
         "Its anticodon pairs with the mRNA codon during translation.",
         "It does not act as a template for DNA or RNA polymerase, so A is correct."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-10.jpg",
+        "papers/biology/img/07C-Internal-Environment-11.jpg",
+        "papers/biology/img/07C-Internal-Environment-12.jpg"
       ]
     },
     {
@@ -443,6 +546,11 @@
       "steps": [
         "Proteins made on rough ER are transported to the Golgi apparatus.",
         "The Golgi modifies proteins (for example by adding carbohydrate groups) and packages them into vesicles for secretion."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-10.jpg",
+        "papers/biology/img/07C-Internal-Environment-11.jpg",
+        "papers/biology/img/07C-Internal-Environment-12.jpg"
       ]
     },
     {
@@ -465,6 +573,11 @@
         "DNA polymerase binds to each template strand at the replication fork.",
         "It adds free nucleotides that are complementary to the bases on the template strand (A-T, G-C).",
         "It forms phosphodiester bonds between adjacent nucleotides, building the new strand in the 5 to 3 direction."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-10.jpg",
+        "papers/biology/img/07C-Internal-Environment-11.jpg",
+        "papers/biology/img/07C-Internal-Environment-12.jpg"
       ]
     },
     {
@@ -490,6 +603,11 @@
         "These bind to the promoter region of the cytokine gene, allowing RNA polymerase to bind.",
         "RNA polymerase transcribes the gene into pre-mRNA, which is processed and exported from the nucleus.",
         "Ribosomes translate the mRNA into cytokine protein, which is modified and secreted."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-10.jpg",
+        "papers/biology/img/07C-Internal-Environment-11.jpg",
+        "papers/biology/img/07C-Internal-Environment-12.jpg"
       ]
     },
     {
@@ -514,6 +632,11 @@
         "Target cells have membrane receptor proteins with complementary shapes.",
         "Only a cell with the matching receptor binds the cytokine and is activated.",
         "Different cytokines therefore bind different receptors, so T killer cells and B cells are activated separately."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-10.jpg",
+        "papers/biology/img/07C-Internal-Environment-11.jpg",
+        "papers/biology/img/07C-Internal-Environment-12.jpg"
       ]
     },
     {
@@ -538,6 +661,11 @@
         "Different exons are included or excluded when the introns are removed (alternative splicing).",
         "Each different mRNA is translated into a different form of the CD45 protein.",
         "Different lymphocytes express different splicing patterns, so their CD45 forms differ."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-10.jpg",
+        "papers/biology/img/07C-Internal-Environment-11.jpg",
+        "papers/biology/img/07C-Internal-Environment-12.jpg"
       ]
     },
     {
@@ -556,7 +684,13 @@
       "question": "Draw an arrow on the diagram of part of a human kidney to show the location of a single Bowman capsule.",
       "status": "pending",
       "answer": "Pending: the kidney diagram is not in the text, so the arrow cannot be placed.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-12.jpg",
+        "papers/biology/img/07C-Internal-Environment-13.jpg",
+        "papers/biology/img/07C-Internal-Environment-14.jpg",
+        "papers/biology/img/07C-Internal-Environment-15.jpg"
+      ]
     },
     {
       "id": "7C-Q6a(ii)",
@@ -579,6 +713,12 @@
         "Almost all amino acids and glucose are reabsorbed from the filtrate in the proximal convoluted tubule.",
         "This is done by sodium co-transport and the proximal tubule has many microvilli for this.",
         "The other parts reabsorb only small amounts of amino acids."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-12.jpg",
+        "papers/biology/img/07C-Internal-Environment-13.jpg",
+        "papers/biology/img/07C-Internal-Environment-14.jpg",
+        "papers/biology/img/07C-Internal-Environment-15.jpg"
       ]
     },
     {
@@ -598,7 +738,13 @@
       "question": "Which row shows the correct pathway taken by a water molecule through the kidney nephron?",
       "status": "pending",
       "answer": "Pending: the table of pathways is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-12.jpg",
+        "papers/biology/img/07C-Internal-Environment-13.jpg",
+        "papers/biology/img/07C-Internal-Environment-14.jpg",
+        "papers/biology/img/07C-Internal-Environment-15.jpg"
+      ]
     },
     {
       "id": "7C-Q6b",
@@ -622,6 +768,12 @@
         "This makes the interstitial fluid of the medulla very concentrated (hypertonic).",
         "The descending limb is permeable to water, so water leaves it by osmosis into the medulla, concentrating the filtrate further.",
         "Filtrate reaching the collecting duct is more concentrated, so with ADH more water is reabsorbed and urine becomes concentrated."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-12.jpg",
+        "papers/biology/img/07C-Internal-Environment-13.jpg",
+        "papers/biology/img/07C-Internal-Environment-14.jpg",
+        "papers/biology/img/07C-Internal-Environment-15.jpg"
       ]
     },
     {
@@ -647,6 +799,12 @@
         "They stimulate the posterior pituitary to release more ADH into the blood.",
         "ADH binds to receptors on collecting duct cells, causing aquaporins to be inserted into the membrane.",
         "More water is reabsorbed by osmosis, so the blood water potential rises and urine becomes more concentrated."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-12.jpg",
+        "papers/biology/img/07C-Internal-Environment-13.jpg",
+        "papers/biology/img/07C-Internal-Environment-14.jpg",
+        "papers/biology/img/07C-Internal-Environment-15.jpg"
       ]
     },
     {
@@ -672,6 +830,12 @@
         "A long loop of Henle sets up a larger medulla gradient, so it counts.",
         "Reduced ADH release produces more dilute urine and more water loss, so it does not count.",
         "Two adaptations reduce water loss, so the answer is C."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-15.jpg",
+        "papers/biology/img/07C-Internal-Environment-16.jpg",
+        "papers/biology/img/07C-Internal-Environment-17.jpg",
+        "papers/biology/img/07C-Internal-Environment-18.jpg"
       ]
     },
     {
@@ -691,7 +855,13 @@
       "question": "Calculate the difference in the volume of water used in a day by a buffalo and a camel, in dm3 (2 s.f.).",
       "status": "pending",
       "answer": "Pending: the table of daily water use for the five species is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-15.jpg",
+        "papers/biology/img/07C-Internal-Environment-16.jpg",
+        "papers/biology/img/07C-Internal-Environment-17.jpg",
+        "papers/biology/img/07C-Internal-Environment-18.jpg"
+      ]
     },
     {
       "id": "7C-Q7b(ii)",
@@ -709,7 +879,13 @@
       "question": "Suggest two reasons why there is no correlation between water use and mean mass for the species in the table.",
       "status": "pending",
       "answer": "Pending: the table of water use and mean mass for the five species is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-15.jpg",
+        "papers/biology/img/07C-Internal-Environment-16.jpg",
+        "papers/biology/img/07C-Internal-Environment-17.jpg",
+        "papers/biology/img/07C-Internal-Environment-18.jpg"
+      ]
     },
     {
       "id": "7C-Q7c",
@@ -728,7 +904,13 @@
       "question": "Determine the effect of the type of water given on the mean mass of kangaroo rats, using the graph.",
       "status": "pending",
       "answer": "Pending: the graph of mean body mass over 16 days for each water treatment is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-15.jpg",
+        "papers/biology/img/07C-Internal-Environment-16.jpg",
+        "papers/biology/img/07C-Internal-Environment-17.jpg",
+        "papers/biology/img/07C-Internal-Environment-18.jpg"
+      ]
     },
     {
       "id": "7C-Q7d",
@@ -750,6 +932,12 @@
       "steps": [
         "The long loop of Henle sets up a steep salt gradient in the medulla by countercurrent multiplication.",
         "High ADH makes the collecting duct very permeable to water, so water is reabsorbed down this gradient, producing very concentrated urine."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-15.jpg",
+        "papers/biology/img/07C-Internal-Environment-16.jpg",
+        "papers/biology/img/07C-Internal-Environment-17.jpg",
+        "papers/biology/img/07C-Internal-Environment-18.jpg"
       ]
     },
     {
@@ -768,7 +956,11 @@
       "question": "Complete the diagram of the Bowman capsule showing its blood supply and label two structures.",
       "status": "pending",
       "answer": "Pending: the partially drawn Bowman capsule diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-18.jpg",
+        "papers/biology/img/07C-Internal-Environment-19.jpg"
+      ]
     },
     {
       "id": "7C-Q8a(ii)",
@@ -790,6 +982,10 @@
         "Ultrafiltration lets small molecules through the capillary wall, while large molecules are retained.",
         "Glucose and sodium chloride are small and are filtered.",
         "Haemoglobin and prothrombin are large plasma or blood proteins and are not filtered; amylose is not in blood."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-18.jpg",
+        "papers/biology/img/07C-Internal-Environment-19.jpg"
       ]
     },
     {
@@ -808,7 +1004,11 @@
       "question": "Which row shows the route taken by a water molecule through a nephron in the kidney?",
       "status": "pending",
       "answer": "Pending: the table of routes is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-18.jpg",
+        "papers/biology/img/07C-Internal-Environment-19.jpg"
+      ]
     },
     {
       "id": "7C-Q8b",
@@ -830,6 +1030,10 @@
         "Na+ is actively pumped out of the proximal tubule cell into the blood by the Na+/K+ pump (using ATP).",
         "This lowers Na+ inside the cell, so Na+ moves in down its gradient with glucose (sodium co-transport) via carrier proteins.",
         "Glucose accumulates inside the cell and leaves across the basolateral membrane by facilitated diffusion into the blood."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-18.jpg",
+        "papers/biology/img/07C-Internal-Environment-19.jpg"
       ]
     },
     {
@@ -852,6 +1056,10 @@
         "Urea is made in the liver by the ornithine cycle.",
         "Excess amino acids are deaminated in the liver, releasing the amine group used to make urea.",
         "Glycogen is not a source of urea, so C is correct."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-18.jpg",
+        "papers/biology/img/07C-Internal-Environment-19.jpg"
       ]
     },
     {
@@ -869,7 +1077,12 @@
       "question": "Which row in the table shows the energy use in muscle contraction?",
       "status": "pending",
       "answer": "Pending: the table with rows of energy use is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-20.jpg",
+        "papers/biology/img/07C-Internal-Environment-21.jpg",
+        "papers/biology/img/07C-Internal-Environment-22.jpg"
+      ]
     },
     {
       "id": "7C-Q9a(ii)",
@@ -894,6 +1107,11 @@
         "Myosin heads bind to exposed actin binding sites, forming cross bridges.",
         "Myosin heads swivel (power stroke), pulling actin filaments towards the centre of the sarcomere.",
         "ATP binds to myosin to break the cross bridge and is hydrolysed to re-cock the head; the sarcomere shortens as the filaments slide."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-20.jpg",
+        "papers/biology/img/07C-Internal-Environment-21.jpg",
+        "papers/biology/img/07C-Internal-Environment-22.jpg"
       ]
     },
     {
@@ -912,7 +1130,12 @@
       "question": "State two conclusions about the mean masses of the three ostrich muscles shown in the table.",
       "status": "pending",
       "answer": "Pending: the table of mean muscle masses for the two ostrich types is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-20.jpg",
+        "papers/biology/img/07C-Internal-Environment-21.jpg",
+        "papers/biology/img/07C-Internal-Environment-22.jpg"
+      ]
     },
     {
       "id": "7C-Q9b(ii)",
@@ -930,7 +1153,12 @@
       "question": "Comment on the validity of conclusions drawn from the data for the two ostrich groups.",
       "status": "pending",
       "answer": "Pending: the data for the two ostrich groups (table) is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-20.jpg",
+        "papers/biology/img/07C-Internal-Environment-21.jpg",
+        "papers/biology/img/07C-Internal-Environment-22.jpg"
+      ]
     },
     {
       "id": "7C-Q9b(iii)",
@@ -948,7 +1176,12 @@
       "question": "Calculate the percentage difference in the mean mass of muscle G between the South African Black and Zimbabwean Blue ostriches (2 d.p.).",
       "status": "pending",
       "answer": "Pending: the mean mass values for muscle G and the full equation are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-20.jpg",
+        "papers/biology/img/07C-Internal-Environment-21.jpg",
+        "papers/biology/img/07C-Internal-Environment-22.jpg"
+      ]
     },
     {
       "id": "7C-Q9c",
@@ -971,6 +1204,11 @@
         "The hypothalamus acts as the thermostat, comparing the temperature with the set point (about 37 degrees C in mammals).",
         "If too hot, it triggers vasodilation and sweating; if too cold, it triggers vasoconstriction, shivering and raised metabolism.",
         "These responses are negative feedback that keeps body temperature steady."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-20.jpg",
+        "papers/biology/img/07C-Internal-Environment-21.jpg",
+        "papers/biology/img/07C-Internal-Environment-22.jpg"
       ]
     },
     {
@@ -992,6 +1230,12 @@
       "steps": [
         "Glucose and urea are small molecules that pass through the filter.",
         "Prothrombin and glycogen are large plasma proteins or stored polysaccharide, so they are not filtered."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-22.jpg",
+        "papers/biology/img/07C-Internal-Environment-23.jpg",
+        "papers/biology/img/07C-Internal-Environment-24.jpg",
+        "papers/biology/img/07C-Internal-Environment-25.jpg"
       ]
     },
     {
@@ -1012,6 +1256,12 @@
       "steps": [
         "The basement membrane is a mesh of collagen and glycoproteins that acts as a size-selective filter.",
         "Plasma proteins are too large to pass through this mesh and so are retained in the blood."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-22.jpg",
+        "papers/biology/img/07C-Internal-Environment-23.jpg",
+        "papers/biology/img/07C-Internal-Environment-24.jpg",
+        "papers/biology/img/07C-Internal-Environment-25.jpg"
       ]
     },
     {
@@ -1034,6 +1284,12 @@
         "Glucose enters proximal tubule cells together with Na+ through carrier proteins.",
         "The Na+ gradient is maintained by the Na+/K+ pump, so the uptake is co-transport.",
         "Osmosis is water movement, and endocytosis and exocytosis move bulk material, so D is correct."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-22.jpg",
+        "papers/biology/img/07C-Internal-Environment-23.jpg",
+        "papers/biology/img/07C-Internal-Environment-24.jpg",
+        "papers/biology/img/07C-Internal-Environment-25.jpg"
       ]
     },
     {
@@ -1058,6 +1314,12 @@
         "Filtrate flows up the ascending limb, which is impermeable to water, and Na+ and Cl- are actively pumped out.",
         "Each stage adds to the concentration gradient in the medulla, so the gradient is multiplied along the length of the loop.",
         "This gradient allows water to be reabsorbed from the collecting duct, producing concentrated urine."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-22.jpg",
+        "papers/biology/img/07C-Internal-Environment-23.jpg",
+        "papers/biology/img/07C-Internal-Environment-24.jpg",
+        "papers/biology/img/07C-Internal-Environment-25.jpg"
       ]
     },
     {
@@ -1077,7 +1339,13 @@
       "question": "Calculate the ratio of mean urine production rate for females in the nothing, water and salt solution groups (1 s.f.).",
       "status": "pending",
       "answer": "Pending: the mean urine production rates for females in each group are read from the graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-22.jpg",
+        "papers/biology/img/07C-Internal-Environment-23.jpg",
+        "papers/biology/img/07C-Internal-Environment-24.jpg",
+        "papers/biology/img/07C-Internal-Environment-25.jpg"
+      ]
     },
     {
       "id": "7C-Q10c(ii)",
@@ -1096,7 +1364,13 @@
       "question": "Describe two conclusions from the results of the urine production investigation.",
       "status": "pending",
       "answer": "Pending: the graph of mean urine production for males and females in each group is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-22.jpg",
+        "papers/biology/img/07C-Internal-Environment-23.jpg",
+        "papers/biology/img/07C-Internal-Environment-24.jpg",
+        "papers/biology/img/07C-Internal-Environment-25.jpg"
+      ]
     },
     {
       "id": "7C-Q10c(iii)",
@@ -1119,6 +1393,12 @@
         "Osmoreceptors detect this and reduce ADH secretion.",
         "Less ADH means the collecting duct is less permeable, so less water is reabsorbed.",
         "More dilute urine is produced, so the urine output increases."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-22.jpg",
+        "papers/biology/img/07C-Internal-Environment-23.jpg",
+        "papers/biology/img/07C-Internal-Environment-24.jpg",
+        "papers/biology/img/07C-Internal-Environment-25.jpg"
       ]
     },
     {
@@ -1141,6 +1421,11 @@
         "A mutation is a random change in the base sequence of DNA.",
         "This can be a substitution, deletion or insertion of one or more bases.",
         "It may alter the amino acid sequence of a protein."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-25.jpg",
+        "papers/biology/img/07C-Internal-Environment-26.jpg",
+        "papers/biology/img/07C-Internal-Environment-27.jpg"
       ]
     },
     {
@@ -1162,6 +1447,11 @@
       "steps": [
         "A tumour forms when cells divide uncontrollably.",
         "Body cells divide by mitosis, producing genetically identical daughter cells."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-25.jpg",
+        "papers/biology/img/07C-Internal-Environment-26.jpg",
+        "papers/biology/img/07C-Internal-Environment-27.jpg"
       ]
     },
     {
@@ -1185,6 +1475,11 @@
         "Histone modification (e.g. acetylation) and DNA methylation are epigenetic, so statements 2 and 4 are correct.",
         "Altered gene expression can change the phenotype, so statement 3 is correct.",
         "Three statements are correct, so the answer is C."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-25.jpg",
+        "papers/biology/img/07C-Internal-Environment-26.jpg",
+        "papers/biology/img/07C-Internal-Environment-27.jpg"
       ]
     },
     {
@@ -1210,6 +1505,11 @@
         "It binds to a specific receptor in the cytoplasm or nucleus, forming a hormone-receptor complex.",
         "The complex acts as a transcription factor, binding to DNA and switching on (up-regulating) genes.",
         "Genes for proteins such as cyclins are expressed, promoting the cell cycle and so proliferation of cancer cells."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-25.jpg",
+        "papers/biology/img/07C-Internal-Environment-26.jpg",
+        "papers/biology/img/07C-Internal-Environment-27.jpg"
       ]
     },
     {
@@ -1233,6 +1533,11 @@
         "Histones are positively charged proteins that bind tightly to negatively charged DNA.",
         "Adding acetyl groups neutralises this positive charge, so DNA is less tightly wound around the histones.",
         "The DNA is exposed, so transcription factors and RNA polymerase can access the gene and expression increases."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-25.jpg",
+        "papers/biology/img/07C-Internal-Environment-26.jpg",
+        "papers/biology/img/07C-Internal-Environment-27.jpg"
       ]
     },
     {
@@ -1254,6 +1559,12 @@
       "steps": [
         "Glucose and urea are small molecules that pass through the filter.",
         "Fibrinogen and prothrombin are large plasma proteins that are retained in the blood."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-27.jpg",
+        "papers/biology/img/07C-Internal-Environment-28.jpg",
+        "papers/biology/img/07C-Internal-Environment-29.jpg",
+        "papers/biology/img/07C-Internal-Environment-30.jpg"
       ]
     },
     {
@@ -1275,6 +1586,12 @@
       "steps": [
         "Blood is filtered through the capillary endothelium and the basement membrane.",
         "The basement membrane is the main size-selective filter that holds back large molecules."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-27.jpg",
+        "papers/biology/img/07C-Internal-Environment-28.jpg",
+        "papers/biology/img/07C-Internal-Environment-29.jpg",
+        "papers/biology/img/07C-Internal-Environment-30.jpg"
       ]
     },
     {
@@ -1296,6 +1613,12 @@
       "steps": [
         "Glucose is taken up together with Na+ through carrier proteins (co-transport).",
         "This is driven by the Na+ gradient maintained by the Na+/K+ pump."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-27.jpg",
+        "papers/biology/img/07C-Internal-Environment-28.jpg",
+        "papers/biology/img/07C-Internal-Environment-29.jpg",
+        "papers/biology/img/07C-Internal-Environment-30.jpg"
       ]
     },
     {
@@ -1318,6 +1641,12 @@
         "Water and many solutes are reabsorbed from the proximal tubule.",
         "This leaves urea more concentrated in the tubule fluid than in the blood.",
         "Urea, a small uncharged molecule, therefore diffuses down its concentration gradient back into the blood."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-27.jpg",
+        "papers/biology/img/07C-Internal-Environment-28.jpg",
+        "papers/biology/img/07C-Internal-Environment-29.jpg",
+        "papers/biology/img/07C-Internal-Environment-30.jpg"
       ]
     },
     {
@@ -1337,7 +1666,13 @@
       "question": "Calculate the percentage decrease in the rate of urine production 10 minutes after the injection (2 d.p.).",
       "status": "pending",
       "answer": "Pending: the table of urine production rates after the injection is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-27.jpg",
+        "papers/biology/img/07C-Internal-Environment-28.jpg",
+        "papers/biology/img/07C-Internal-Environment-29.jpg",
+        "papers/biology/img/07C-Internal-Environment-30.jpg"
+      ]
     },
     {
       "id": "7C-Q12b(ii)",
@@ -1355,7 +1690,13 @@
       "question": "At what times should more measurements be taken to find the lowest rate of urine production (options A to D)?",
       "status": "pending",
       "answer": "Pending: the table of urine production results is needed to choose the correct interval.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-27.jpg",
+        "papers/biology/img/07C-Internal-Environment-28.jpg",
+        "papers/biology/img/07C-Internal-Environment-29.jpg",
+        "papers/biology/img/07C-Internal-Environment-30.jpg"
+      ]
     },
     {
       "id": "7C-Q12b(iii)",
@@ -1374,7 +1715,13 @@
       "question": "Explain the results of the investigation in which salt solution was injected into the carotid artery, using the table.",
       "status": "pending",
       "answer": "Pending: the answer must be supported by the results table, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-27.jpg",
+        "papers/biology/img/07C-Internal-Environment-28.jpg",
+        "papers/biology/img/07C-Internal-Environment-29.jpg",
+        "papers/biology/img/07C-Internal-Environment-30.jpg"
+      ]
     },
     {
       "id": "7C-Q13a(i)",
@@ -1392,7 +1739,12 @@
       "question": "Calculate the magnification of the photograph of the Bowman capsule, given the diameter from X to Y (standard form).",
       "status": "pending",
       "answer": "Pending: the length of the X to Y line on the photograph (image size) is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-30.jpg",
+        "papers/biology/img/07C-Internal-Environment-31.jpg",
+        "papers/biology/img/07C-Internal-Environment-32.jpg"
+      ]
     },
     {
       "id": "7C-Q13a(ii)",
@@ -1415,6 +1767,11 @@
         "Radius = 70 / 2 = 35 nm.",
         "Volume of a sphere = (4/3) x pi x r^3 = (4/3) x pi x 35^3.",
         "35^3 = 42 875, so V = 4.18879 x 42 875 = 179 594 nm3, which is 1.8 x 10^5 nm3 (2 s.f.)."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-30.jpg",
+        "papers/biology/img/07C-Internal-Environment-31.jpg",
+        "papers/biology/img/07C-Internal-Environment-32.jpg"
       ]
     },
     {
@@ -1436,6 +1793,11 @@
       "steps": [
         "Osmoreceptors in the hypothalamus detect changes in solute concentration (water potential).",
         "Baroreceptors detect pressure, chemoreceptors detect gases and pH, and thermoreceptors detect temperature."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-30.jpg",
+        "papers/biology/img/07C-Internal-Environment-31.jpg",
+        "papers/biology/img/07C-Internal-Environment-32.jpg"
       ]
     },
     {
@@ -1458,6 +1820,11 @@
         "Cells gain water by osmosis if plasma is too dilute, and may swell or burst.",
         "Cells lose water if plasma is too concentrated, and may shrink.",
         "A narrow range keeps cell volume and enzyme function stable."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-30.jpg",
+        "papers/biology/img/07C-Internal-Environment-31.jpg",
+        "papers/biology/img/07C-Internal-Environment-32.jpg"
       ]
     },
     {
@@ -1482,6 +1849,11 @@
         "Less ADH is released from the posterior pituitary.",
         "The collecting ducts become less permeable, so less water is reabsorbed and more dilute urine is produced.",
         "Stretch receptors detect the higher blood volume, reducing aldosterone and ADH further so the volume falls back to normal."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-30.jpg",
+        "papers/biology/img/07C-Internal-Environment-31.jpg",
+        "papers/biology/img/07C-Internal-Environment-32.jpg"
       ]
     },
     {
@@ -1503,6 +1875,11 @@
       "steps": [
         "Glucose is taken up into cells with Na+ by co-transport.",
         "Osmosis is water movement and endocytosis and exocytosis handle bulk material, so A is correct."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-30.jpg",
+        "papers/biology/img/07C-Internal-Environment-31.jpg",
+        "papers/biology/img/07C-Internal-Environment-32.jpg"
       ]
     },
     {
@@ -1525,6 +1902,11 @@
         "7.5 g = 7500 mg.",
         "Divide by 3600 seconds in an hour: 7500 / 3600 = 2.08 mg per second.",
         "To 2 s.f. the rate is 2.1 mg s-1."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-30.jpg",
+        "papers/biology/img/07C-Internal-Environment-31.jpg",
+        "papers/biology/img/07C-Internal-Environment-32.jpg"
       ]
     },
     {
@@ -1550,6 +1932,12 @@
         "The hypothalamus triggers vasodilation of arterioles near the skin, increasing heat loss by radiation.",
         "Sweating (or panting, in some mammals) increases evaporative heat loss.",
         "Once temperature falls back, these responses are reduced by negative feedback."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-32.jpg",
+        "papers/biology/img/07C-Internal-Environment-33.jpg",
+        "papers/biology/img/07C-Internal-Environment-34.jpg",
+        "papers/biology/img/07C-Internal-Environment-35.jpg"
       ]
     },
     {
@@ -1574,6 +1962,12 @@
         "Kangaroo rat kidneys have long loops of Henle, which produce very concentrated urine.",
         "High ADH levels make the collecting ducts highly permeable to water, reducing water loss.",
         "Metabolic water from the breakdown of dry seeds provides additional water."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-32.jpg",
+        "papers/biology/img/07C-Internal-Environment-33.jpg",
+        "papers/biology/img/07C-Internal-Environment-34.jpg",
+        "papers/biology/img/07C-Internal-Environment-35.jpg"
       ]
     },
     {
@@ -1593,7 +1987,13 @@
       "question": "Calculate the difference in urine produced over seven days by the kangaroo rat and the human, in standard form.",
       "status": "pending",
       "answer": "Pending: the daily water balance values in the diagram are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-32.jpg",
+        "papers/biology/img/07C-Internal-Environment-33.jpg",
+        "papers/biology/img/07C-Internal-Environment-34.jpg",
+        "papers/biology/img/07C-Internal-Environment-35.jpg"
+      ]
     },
     {
       "id": "7C-Q14c(ii)",
@@ -1613,7 +2013,13 @@
       "question": "Comment on the differences in water gain and water loss between the kangaroo rat and the human, using the diagram.",
       "status": "pending",
       "answer": "Pending: the water balance diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-32.jpg",
+        "papers/biology/img/07C-Internal-Environment-33.jpg",
+        "papers/biology/img/07C-Internal-Environment-34.jpg",
+        "papers/biology/img/07C-Internal-Environment-35.jpg"
+      ]
     },
     {
       "id": "7C-Q15a(i)",
@@ -1630,7 +2036,14 @@
       "question": "Which labelled structure on the nephron and blood supply diagram transports blood to the renal vein (options Q, R, S, U)?",
       "status": "pending",
       "answer": "Pending: the labelled kidney tubule and blood supply diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-35.jpg",
+        "papers/biology/img/07C-Internal-Environment-36.jpg",
+        "papers/biology/img/07C-Internal-Environment-37.jpg",
+        "papers/biology/img/07C-Internal-Environment-38.jpg",
+        "papers/biology/img/07C-Internal-Environment-39.jpg"
+      ]
     },
     {
       "id": "7C-Q15a(ii)",
@@ -1648,7 +2061,14 @@
       "question": "Which labelled structures would be found in the medulla region of the kidney?",
       "status": "pending",
       "answer": "Pending: the labelled diagram of the kidney tubule and blood supply is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-35.jpg",
+        "papers/biology/img/07C-Internal-Environment-36.jpg",
+        "papers/biology/img/07C-Internal-Environment-37.jpg",
+        "papers/biology/img/07C-Internal-Environment-38.jpg",
+        "papers/biology/img/07C-Internal-Environment-39.jpg"
+      ]
     },
     {
       "id": "7C-Q15a(iii)",
@@ -1666,7 +2086,14 @@
       "question": "Explain how structures A and B and their locations in the proximal convoluted tubule enable reabsorption of solutes, using the micrograph.",
       "status": "pending",
       "answer": "Pending: the electron micrograph with labelled structures A and B is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-35.jpg",
+        "papers/biology/img/07C-Internal-Environment-36.jpg",
+        "papers/biology/img/07C-Internal-Environment-37.jpg",
+        "papers/biology/img/07C-Internal-Environment-38.jpg",
+        "papers/biology/img/07C-Internal-Environment-39.jpg"
+      ]
     },
     {
       "id": "7C-Q15b",
@@ -1685,7 +2112,14 @@
       "question": "Comment on the results of the investigation in which individuals drank 1000 cm3 of water, using the table and graph.",
       "status": "pending",
       "answer": "Pending: the table and graph of urine volume and composition are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-35.jpg",
+        "papers/biology/img/07C-Internal-Environment-36.jpg",
+        "papers/biology/img/07C-Internal-Environment-37.jpg",
+        "papers/biology/img/07C-Internal-Environment-38.jpg",
+        "papers/biology/img/07C-Internal-Environment-39.jpg"
+      ]
     },
     {
       "id": "7C-Q15c",
@@ -1708,6 +2142,13 @@
         "Excess ADH increases the permeability of the collecting duct to water.",
         "More water is reabsorbed by osmosis from the filtrate into the blood.",
         "The blood volume increases and the sodium ion concentration is diluted, so it falls below normal."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-35.jpg",
+        "papers/biology/img/07C-Internal-Environment-36.jpg",
+        "papers/biology/img/07C-Internal-Environment-37.jpg",
+        "papers/biology/img/07C-Internal-Environment-38.jpg",
+        "papers/biology/img/07C-Internal-Environment-39.jpg"
       ]
     },
     {
@@ -1728,6 +2169,11 @@
       "steps": [
         "A wider afferent arteriole lets more blood in, and the narrower efferent arteriole restricts outflow.",
         "This raises hydrostatic pressure in the glomerulus, driving ultrafiltration."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-39.jpg",
+        "papers/biology/img/07C-Internal-Environment-40.jpg",
+        "papers/biology/img/07C-Internal-Environment-41.jpg"
       ]
     },
     {
@@ -1749,6 +2195,11 @@
       "steps": [
         "Blood filtered in 24 hours = 6000 cm3 x 24 = 144 000 cm3.",
         "Convert: 144 000 / 1000 = 144 dm3, so C is correct."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-39.jpg",
+        "papers/biology/img/07C-Internal-Environment-40.jpg",
+        "papers/biology/img/07C-Internal-Environment-41.jpg"
       ]
     },
     {
@@ -1767,7 +2218,12 @@
       "question": "Calculate the volume of urine produced in one day with an ADH concentration of 75%, assuming ADH stays constant (standard form).",
       "status": "pending",
       "answer": "Pending: the urine production rate at 75% ADH is in the table, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-39.jpg",
+        "papers/biology/img/07C-Internal-Environment-40.jpg",
+        "papers/biology/img/07C-Internal-Environment-41.jpg"
+      ]
     },
     {
       "id": "7C-Q16b(ii)",
@@ -1789,6 +2245,11 @@
         "ADH increases the permeability of the collecting duct to water.",
         "More water is reabsorbed, so the urine becomes more concentrated.",
         "Less water remains in the filtrate, so the rate of urine production falls as ADH concentration rises."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-39.jpg",
+        "papers/biology/img/07C-Internal-Environment-40.jpg",
+        "papers/biology/img/07C-Internal-Environment-41.jpg"
       ]
     },
     {
@@ -1812,6 +2273,11 @@
         "ADH binds to receptors on collecting duct cells, triggering a cAMP second messenger pathway.",
         "Aquaporin water channels are inserted into the cell membrane, increasing its water permeability.",
         "Water moves out of the collecting duct lumen by osmosis into the hypertonic medulla and then into the blood."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-39.jpg",
+        "papers/biology/img/07C-Internal-Environment-40.jpg",
+        "papers/biology/img/07C-Internal-Environment-41.jpg"
       ]
     },
     {
@@ -1829,7 +2295,11 @@
       "question": "Complete the diagram to show the molecule formed when the two amino acids join together (dipeptide).",
       "status": "pending",
       "answer": "Pending: the diagram of the two amino acids is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-41.jpg",
+        "papers/biology/img/07C-Internal-Environment-42.jpg"
+      ]
     },
     {
       "id": "7C-Q17a(ii)",
@@ -1851,6 +2321,10 @@
         "Two amino acids join with a peptide bond.",
         "A water molecule is removed in the process, which is a condensation reaction.",
         "Hydrolysis is the reverse, breaking the bond by adding water."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-41.jpg",
+        "papers/biology/img/07C-Internal-Environment-42.jpg"
       ]
     },
     {
@@ -1874,6 +2348,10 @@
         "Excess amino acids cannot be stored, so they are deaminated in the liver.",
         "The amine group is removed and converted to urea, which is excreted by the kidney.",
         "The remaining keto acid is used in respiration or converted to glucose, glycogen or fat for storage."
+      ],
+      "images": [
+        "papers/biology/img/07C-Internal-Environment-41.jpg",
+        "papers/biology/img/07C-Internal-Environment-42.jpg"
       ]
     }
   ]

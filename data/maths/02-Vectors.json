@@ -9,7 +9,16 @@
       "no": "Q1(a)",
       "marks": 2,
       "topic": "Vector Equation of Line",
-      "keywords": ["vector equation", "line", "position vector", "direction vector", "two points", "r = p + lambda q", "parametric", "vectors"],
+      "keywords": [
+        "vector equation",
+        "line",
+        "position vector",
+        "direction vector",
+        "two points",
+        "r = p + lambda q",
+        "parametric",
+        "vectors"
+      ],
       "question": "Points A and B have position vectors (6, 6, 2) and (6, 0, 7) relative to fixed origin O. Line l1 passes through A and B. Write down an equation for l1 in the form r = p + lambda q.",
       "status": "ready",
       "answer": "r = (6, 6, 2) + lambda(0, -6, 5), so p = (6, 6, 2) and q = (0, -6, 5).",
@@ -17,6 +26,10 @@
         "Use the position vector of A as p: p = (6, 6, 2).",
         "Direction vector q = AB = OB - OA = (6 - 6, 0 - 6, 7 - 2) = (0, -6, 5).",
         "So r = (6, 6, 2) + lambda(0, -6, 5)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-1.jpg",
+        "papers/maths/img/P4-02-Vectors-2.jpg"
       ]
     },
     {
@@ -24,7 +37,16 @@
       "no": "Q1(b)",
       "marks": 4,
       "topic": "Showing Lines Do Not Meet",
-      "keywords": ["vector equation", "lines", "intersection", "do not meet", "parameters", "simultaneous equations", "components", "non-intersecting"],
+      "keywords": [
+        "vector equation",
+        "lines",
+        "intersection",
+        "do not meet",
+        "parameters",
+        "simultaneous equations",
+        "components",
+        "non-intersecting"
+      ],
       "question": "Line l2 has equation r = (3, 1, 4) + mu(1, 5, 9). Show that l1 and l2 do not meet.",
       "status": "ready",
       "answer": "The x-component gives mu = 3, then the y-component gives lambda = -5/3 and the z-component gives lambda = 29/5; these disagree, so the lines do not meet.",
@@ -34,6 +56,10 @@
         "Equate y-components: 6 - 6lambda = 1 + 15 = 16, so lambda = -5/3.",
         "Equate z-components: 2 + 5lambda = 4 + 27 = 31, so lambda = 29/5.",
         "The two values of lambda differ, so no values satisfy all three equations and the lines do not meet."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-1.jpg",
+        "papers/maths/img/P4-02-Vectors-2.jpg"
       ]
     },
     {
@@ -41,7 +67,16 @@
       "no": "Q1(c)",
       "marks": 5,
       "topic": "Angle Between Line and Vector",
-      "keywords": ["angle", "scalar product", "dot product", "direction vector", "acute angle", "magnitude", "point on line", "vectors"],
+      "keywords": [
+        "angle",
+        "scalar product",
+        "dot product",
+        "direction vector",
+        "acute angle",
+        "magnitude",
+        "point on line",
+        "vectors"
+      ],
       "question": "Point C is on l2 where mu = -1. Find the acute angle between AC and l2, in degrees to one decimal place.",
       "status": "ready",
       "answer": "C = (2, -4, -5), AC = (-4, -10, -7), cos theta = 117/sqrt(17655), so theta = 28.3 degrees.",
@@ -52,6 +87,10 @@
         "AC . d = -4 - 50 - 63 = -117, so the modulus of the scalar product is 117.",
         "|AC| = sqrt(165) and |d| = sqrt(107), so cos theta = 117/sqrt(17655) = 0.8805.",
         "theta = arccos(0.8805) = 28.3 degrees (acute)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-1.jpg",
+        "papers/maths/img/P4-02-Vectors-2.jpg"
       ]
     },
     {
@@ -59,7 +98,16 @@
       "no": "Q2",
       "marks": 5,
       "topic": "Skew Lines Proof",
-      "keywords": ["skew lines", "vector equation", "direction vector", "intersection", "not parallel", "parameters", "proof", "lines"],
+      "keywords": [
+        "skew lines",
+        "vector equation",
+        "direction vector",
+        "intersection",
+        "not parallel",
+        "parameters",
+        "proof",
+        "lines"
+      ],
       "question": "With respect to a fixed origin O, l1 is r = (2i + 8j + 10k) + lambda(-i + 2j + 3k) and l2 is r = (-4i - j + 2k) + mu(5i + 4j + 8k), where lambda and mu are scalar parameters. Prove that l1 and l2 are skew.",
       "status": "ready",
       "answer": "Directions are not parallel and the equations give lambda = -3/2, mu = 3/2, which fail the third component, so the lines do not meet: they are skew.",
@@ -69,6 +117,10 @@
         "From the first two equations: mu = 3/2 and lambda = -3/2.",
         "Check the third: 10 + 3(-3/2) = 5.5, but 2 + 8(3/2) = 14, so it fails.",
         "The lines are not parallel and do not meet, so they are skew."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-2.jpg",
+        "papers/maths/img/P4-02-Vectors-3.jpg"
       ]
     },
     {
@@ -76,7 +128,16 @@
       "no": "Q3(a)",
       "marks": 2,
       "topic": "Unit Vector Parallel to Line",
-      "keywords": ["unit vector", "direction vector", "magnitude", "vector equation", "parallel", "modulus", "normalise", "line"],
+      "keywords": [
+        "unit vector",
+        "direction vector",
+        "magnitude",
+        "vector equation",
+        "parallel",
+        "modulus",
+        "normalise",
+        "line"
+      ],
       "question": "Relative to origin O, line l has equation r = (1, -10, -9) + lambda(4, 4, 2). Given that vector OA is a unit vector parallel to l, find OA.",
       "status": "ready",
       "answer": "OA = (2/3, 2/3, 1/3), or its negative (-2/3, -2/3, -1/3) since either direction is parallel to l.",
@@ -85,6 +146,10 @@
         "A unit vector parallel to l is d/6 = (2/3, 2/3, 1/3).",
         "The negative of this is also a unit vector parallel to l.",
         "So OA = (2/3, 2/3, 1/3) or (-2/3, -2/3, -1/3)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-2.jpg",
+        "papers/maths/img/P4-02-Vectors-3.jpg"
       ]
     },
     {
@@ -92,7 +157,16 @@
       "no": "Q3(b)",
       "marks": 5,
       "topic": "Closest Point on Line",
-      "keywords": ["closest point", "perpendicular", "foot of perpendicular", "scalar product", "position vector", "minimum distance", "origin", "line"],
+      "keywords": [
+        "closest point",
+        "perpendicular",
+        "foot of perpendicular",
+        "scalar product",
+        "position vector",
+        "minimum distance",
+        "origin",
+        "line"
+      ],
       "question": "The point X lies on l and is the point on l that is closest to the origin. Find the coordinates of X.",
       "status": "ready",
       "answer": "X = (7, -4, -6), at lambda = 3/2.",
@@ -102,6 +176,10 @@
         "Expand: 4(1 + 4lambda) + 4(-10 + 4lambda) + 2(-9 + 2lambda) = 0, so 36lambda - 54 = 0.",
         "Therefore lambda = 3/2.",
         "Substitute: X = (1 + 6, -10 + 6, -9 + 3) = (7, -4, -6)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-2.jpg",
+        "papers/maths/img/P4-02-Vectors-3.jpg"
       ]
     },
     {
@@ -109,7 +187,16 @@
       "no": "Q3(c)",
       "marks": 3,
       "topic": "Area of Triangle Using Vector Product",
-      "keywords": ["area", "triangle", "vector product", "cross product", "magnitude", "exact", "origin", "position vectors"],
+      "keywords": [
+        "area",
+        "triangle",
+        "vector product",
+        "cross product",
+        "magnitude",
+        "exact",
+        "origin",
+        "position vectors"
+      ],
       "question": "The points O, X and A form triangle OXA. Find the exact area of triangle OXA.",
       "status": "ready",
       "answer": "Area = (1/2)|OX x OA| = sqrt(101)/2.",
@@ -119,6 +206,10 @@
         "Its magnitude is sqrt(64 + 361 + 484)/3 = sqrt(909)/3 = sqrt(101).",
         "Area = (1/2) x sqrt(101) = sqrt(101)/2.",
         "Using OA = -(2/3, 2/3, 1/3) gives the same area."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-2.jpg",
+        "papers/maths/img/P4-02-Vectors-3.jpg"
       ]
     },
     {
@@ -126,7 +217,16 @@
       "no": "Q4(a)",
       "marks": 1,
       "topic": "Point of Intersection",
-      "keywords": ["intersection", "meet", "point of intersection", "vector equation", "lines", "position vector", "coordinates", "common point"],
+      "keywords": [
+        "intersection",
+        "meet",
+        "point of intersection",
+        "vector equation",
+        "lines",
+        "position vector",
+        "coordinates",
+        "common point"
+      ],
       "question": "Lines l1: r = (2, 3, -7) + lambda(1, 2, 2) and l2: r = (2, 3, -7) + mu(4, -1, 8) meet at point P. State the coordinates of P.",
       "status": "ready",
       "answer": "P = (2, 3, -7).",
@@ -134,6 +234,10 @@
         "Both lines pass through the point with position vector (2, 3, -7), at lambda = 0 and mu = 0.",
         "Since the lines meet at P, P is this common point.",
         "So P = (2, 3, -7)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-3.jpg",
+        "papers/maths/img/P4-02-Vectors-4.jpg"
       ]
     },
     {
@@ -141,7 +245,16 @@
       "no": "Q4(b)",
       "marks": 3,
       "topic": "Angle Between Two Lines",
-      "keywords": ["angle between lines", "scalar product", "direction vectors", "cos theta", "fraction", "magnitude", "acute", "dot product"],
+      "keywords": [
+        "angle between lines",
+        "scalar product",
+        "direction vectors",
+        "cos theta",
+        "fraction",
+        "magnitude",
+        "acute",
+        "dot product"
+      ],
       "question": "The angle between lines l1 and l2 is theta. Find the value of cos theta, giving the answer as a fully simplified fraction.",
       "status": "ready",
       "answer": "cos theta = 2/3.",
@@ -150,6 +263,10 @@
         "d1 . d2 = 4 - 2 + 16 = 18.",
         "|d1| = sqrt(1 + 4 + 4) = 3 and |d2| = sqrt(16 + 1 + 64) = 9.",
         "cos theta = 18/(3 x 9) = 18/27 = 2/3."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-3.jpg",
+        "papers/maths/img/P4-02-Vectors-4.jpg"
       ]
     },
     {
@@ -157,7 +274,16 @@
       "no": "Q4(c)",
       "marks": 3,
       "topic": "Area of Isosceles Triangle",
-      "keywords": ["area", "triangle", "isosceles", "vector product", "sine", "magnitude", "point on line", "exact"],
+      "keywords": [
+        "area",
+        "triangle",
+        "isosceles",
+        "vector product",
+        "sine",
+        "magnitude",
+        "point on line",
+        "exact"
+      ],
       "question": "Point Q lies on l1 where lambda = 6. Point R lies on l2 such that triangle QPR is isosceles with PQ = PR. Find the exact area of triangle QPR.",
       "status": "ready",
       "answer": "Area = 54 sqrt(5).",
@@ -167,6 +293,10 @@
         "For mu = 2, PR = (8, -2, 16) and PQ . PR = 216, so cos(QPR) = 216/324 = 2/3; for mu = -2 the cosine is -2/3.",
         "In both cases sin(QPR) = sqrt(5)/3.",
         "Area = (1/2)(18)(18)(sqrt(5)/3) = 54 sqrt(5)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-3.jpg",
+        "papers/maths/img/P4-02-Vectors-4.jpg"
       ]
     },
     {
@@ -174,7 +304,16 @@
       "no": "Q4(d)",
       "marks": 3,
       "topic": "Possible Positions of Point",
-      "keywords": ["isosceles", "point on line", "position vector", "parameter", "magnitude", "two possible positions", "vector equation", "PR equals PQ"],
+      "keywords": [
+        "isosceles",
+        "point on line",
+        "position vector",
+        "parameter",
+        "magnitude",
+        "two possible positions",
+        "vector equation",
+        "PR equals PQ"
+      ],
       "question": "Find the coordinates of the possible positions of point R, where R lies on l2 and triangle QPR is isosceles with PQ = PR.",
       "status": "ready",
       "answer": "R = (10, 1, 9) or R = (-6, 5, -23).",
@@ -183,6 +322,10 @@
         "|PR| = 9|mu| must equal |PQ| = 18, so |mu| = 2.",
         "mu = 2 gives R = (2 + 8, 3 - 2, -7 + 16) = (10, 1, 9).",
         "mu = -2 gives R = (2 - 8, 3 + 2, -7 - 16) = (-6, 5, -23)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-3.jpg",
+        "papers/maths/img/P4-02-Vectors-4.jpg"
       ]
     },
     {
@@ -190,13 +333,26 @@
       "no": "Q5(a)",
       "marks": 1,
       "topic": "Point on Line",
-      "keywords": ["point on line", "vector equation", "parameter", "coordinates", "position vector", "substitute", "line l1", "mu"],
+      "keywords": [
+        "point on line",
+        "vector equation",
+        "parameter",
+        "coordinates",
+        "position vector",
+        "substitute",
+        "line l1",
+        "mu"
+      ],
       "question": "Line l1 has equation r = (8, 1, -3) + mu(-5, 4, 3). Point A lies on l1 where mu = 1. Find the coordinates of A.",
       "status": "ready",
       "answer": "A = (3, 5, 0).",
       "steps": [
         "Substitute mu = 1 into the equation of l1.",
         "A = (8 - 5, 1 + 4, -3 + 3) = (3, 5, 0)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-4.jpg",
+        "papers/maths/img/P4-02-Vectors-5.jpg"
       ]
     },
     {
@@ -204,7 +360,16 @@
       "no": "Q5(b)",
       "marks": 2,
       "topic": "Vector Equation of Parallel Line",
-      "keywords": ["vector equation", "parallel lines", "direction vector", "point on line", "position vector", "line through point", "point P", "l2"],
+      "keywords": [
+        "vector equation",
+        "parallel lines",
+        "direction vector",
+        "point on line",
+        "position vector",
+        "line through point",
+        "point P",
+        "l2"
+      ],
       "question": "Point P has position vector (1, 5, 2). Line l2 passes through P and is parallel to l1. Write down a vector equation for l2.",
       "status": "ready",
       "answer": "r = (1, 5, 2) + t(-5, 4, 3).",
@@ -212,6 +377,10 @@
         "A line parallel to l1 has the same direction vector (-5, 4, 3).",
         "Use P as the point on l2.",
         "So r = (1, 5, 2) + t(-5, 4, 3)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-4.jpg",
+        "papers/maths/img/P4-02-Vectors-5.jpg"
       ]
     },
     {
@@ -219,7 +388,16 @@
       "no": "Q5(c)",
       "marks": 2,
       "topic": "Exact Distance Between Points",
-      "keywords": ["distance", "magnitude", "vector", "exact", "surd", "position vector", "AP", "k root 2"],
+      "keywords": [
+        "distance",
+        "magnitude",
+        "vector",
+        "exact",
+        "surd",
+        "position vector",
+        "AP",
+        "k root 2"
+      ],
       "question": "Find the exact value of the distance AP, giving your answer in the form k sqrt(2), where k is a constant to be found.",
       "status": "ready",
       "answer": "AP = 2 sqrt(2), so k = 2.",
@@ -227,6 +405,10 @@
         "AP = P - A = (1 - 3, 5 - 5, 2 - 0) = (-2, 0, 2).",
         "|AP| = sqrt(4 + 0 + 4) = sqrt(8).",
         "sqrt(8) = 2 sqrt(2), so k = 2."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-4.jpg",
+        "papers/maths/img/P4-02-Vectors-5.jpg"
       ]
     },
     {
@@ -234,7 +416,16 @@
       "no": "Q5(d)",
       "marks": 3,
       "topic": "Angle Using Scalar Product",
-      "keywords": ["angle", "scalar product", "dot product", "cos theta", "acute angle", "direction vector", "magnitude", "line"],
+      "keywords": [
+        "angle",
+        "scalar product",
+        "dot product",
+        "cos theta",
+        "acute angle",
+        "direction vector",
+        "magnitude",
+        "line"
+      ],
       "question": "The acute angle between AP and l2 is theta. Find the value of cos theta.",
       "status": "ready",
       "answer": "cos theta = 4/5.",
@@ -243,6 +434,10 @@
         "AP . d = 10 + 0 + 6 = 16.",
         "|AP| = 2 sqrt(2) and |d| = sqrt(50) = 5 sqrt(2).",
         "cos theta = 16/(2 sqrt(2) x 5 sqrt(2)) = 16/20 = 4/5."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-4.jpg",
+        "papers/maths/img/P4-02-Vectors-5.jpg"
       ]
     },
     {
@@ -250,7 +445,16 @@
       "no": "Q5(e)",
       "marks": 2,
       "topic": "Area of Triangle APE",
-      "keywords": ["area", "triangle", "sine rule", "isosceles", "point E", "line", "area formula", "vectors"],
+      "keywords": [
+        "area",
+        "triangle",
+        "sine rule",
+        "isosceles",
+        "point E",
+        "line",
+        "area formula",
+        "vectors"
+      ],
       "question": "A point E lies on l2 with AP = PE. Find the area of triangle APE.",
       "status": "ready",
       "answer": "Area = 12/5.",
@@ -260,6 +464,10 @@
         "The angle between AP and l2 has cos 4/5, so sin = 3/5; the angle APE is theta or 180 - theta, so its sine is also 3/5.",
         "Area = (1/2)(2 sqrt(2))(2 sqrt(2))(3/5) = (1/2)(8)(3/5).",
         "Area = 12/5."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-4.jpg",
+        "papers/maths/img/P4-02-Vectors-5.jpg"
       ]
     },
     {
@@ -267,7 +475,16 @@
       "no": "Q5(f)",
       "marks": 5,
       "topic": "Coordinates of Point on Line",
-      "keywords": ["point on line", "coordinates", "distance", "parameter", "position vector", "two possible positions", "AP equals PE", "modulus"],
+      "keywords": [
+        "point on line",
+        "coordinates",
+        "distance",
+        "parameter",
+        "position vector",
+        "two possible positions",
+        "AP equals PE",
+        "modulus"
+      ],
       "question": "Find the coordinates of the two possible positions of E, where E lies on l2 and AP = PE.",
       "status": "ready",
       "answer": "E = (-1, 33/5, 16/5) or E = (3, 17/5, 4/5).",
@@ -277,6 +494,10 @@
         "Set |PE| = |AP| = 2 sqrt(2), so |t| = 2/5.",
         "t = 2/5 gives E = (-1, 33/5, 16/5).",
         "t = -2/5 gives E = (3, 17/5, 4/5)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-4.jpg",
+        "papers/maths/img/P4-02-Vectors-5.jpg"
       ]
     },
     {
@@ -284,7 +505,16 @@
       "no": "Q6(a)",
       "marks": 5,
       "topic": "Intersection of Two Lines",
-      "keywords": ["intersection", "meet", "position vector", "simultaneous equations", "parameters", "lines", "vector equation", "point X"],
+      "keywords": [
+        "intersection",
+        "meet",
+        "position vector",
+        "simultaneous equations",
+        "parameters",
+        "lines",
+        "vector equation",
+        "point X"
+      ],
       "question": "Lines l1: r = (4, -3, 2) + lambda(3, -2, -1) and l2: r = (2, 0, -9) + mu(2, -1, -3) meet at point X. Find the position vector of X.",
       "status": "ready",
       "answer": "OX = -8i + 5j + 6k.",
@@ -294,6 +524,10 @@
         "Substitute into the first: 4 + 3lambda = 8 + 4lambda, so lambda = -4 and mu = -5.",
         "Check the third: 2 + 4 = 6 and -9 + 15 = 6, which is consistent.",
         "X = (4 - 12, -3 + 8, 2 + 4) = (-8, 5, 6)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-5.jpg",
+        "papers/maths/img/P4-02-Vectors-6.jpg"
       ]
     },
     {
@@ -301,7 +535,16 @@
       "no": "Q6(b)",
       "marks": 5,
       "topic": "Perpendicular Foot Point",
-      "keywords": ["perpendicular", "scalar product", "coordinates", "position vector", "line", "point on line", "dot product", "zero"],
+      "keywords": [
+        "perpendicular",
+        "scalar product",
+        "coordinates",
+        "position vector",
+        "line",
+        "point on line",
+        "dot product",
+        "zero"
+      ],
       "question": "Point P(10, -7, 0) lies on l1. Point Q lies on l2 and PQ is perpendicular to l2. Calculate the coordinates of Q.",
       "status": "ready",
       "answer": "Q = (10/7, 2/7, -57/7).",
@@ -311,6 +554,10 @@
         "PQ . (2, -1, -3) = 0 gives 2(2mu - 8) - (7 - mu) - 3(-9 - 3mu) = 0.",
         "Expand: 14mu + 4 = 0, so mu = -2/7.",
         "Q = (2 - 4/7, 2/7, -9 + 6/7) = (10/7, 2/7, -57/7)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-5.jpg",
+        "papers/maths/img/P4-02-Vectors-6.jpg"
       ]
     },
     {
@@ -318,7 +565,16 @@
       "no": "Q7(a)",
       "marks": 7,
       "topic": "Nearest Point and Distance",
-      "keywords": ["nearest point", "perpendicular", "shortest distance", "line", "point to line", "scalar product", "sqrt d", "position vector"],
+      "keywords": [
+        "nearest point",
+        "perpendicular",
+        "shortest distance",
+        "line",
+        "point to line",
+        "scalar product",
+        "sqrt d",
+        "position vector"
+      ],
       "question": "Line l has equation r = (4, 2, -3) + lambda(-4, -3, 5). Point A has position vector (9, -3, 2). X is the point on l nearest to A. Find (i) the coordinates of X, and (ii) the shortest distance from A to l, in the form sqrt(d) with d an integer.",
       "status": "ready",
       "answer": "(i) X = (12/5, 4/5, -1); (ii) shortest distance = sqrt(67).",
@@ -329,6 +585,10 @@
         "X = (4 - 8/5, 2 - 6/5, -3 + 2) = (12/5, 4/5, -1).",
         "AX = X - A = (-33/5, 19/5, -3), so |AX|^2 = (1089 + 361 + 225)/25 = 67.",
         "The shortest distance is sqrt(67)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-6.jpg",
+        "papers/maths/img/P4-02-Vectors-7.jpg"
       ]
     },
     {
@@ -336,7 +596,16 @@
       "no": "Q7(b)",
       "marks": 2,
       "topic": "Reflection of Point in Line",
-      "keywords": ["reflection", "image", "midpoint", "position vector", "nearest point", "line", "reflect", "point B"],
+      "keywords": [
+        "reflection",
+        "image",
+        "midpoint",
+        "position vector",
+        "nearest point",
+        "line",
+        "reflect",
+        "point B"
+      ],
       "question": "Point B is the image of A after reflection in l. Find the position vector of B.",
       "status": "ready",
       "answer": "OB = (-21/5)i + (23/5)j - 4k.",
@@ -344,6 +613,10 @@
         "X is the midpoint of A and B, so OB = 2OX - OA.",
         "2OX = (24/5, 8/5, -2).",
         "OB = (24/5 - 9, 8/5 + 3, -2 - 2) = (-21/5, 23/5, -4)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-6.jpg",
+        "papers/maths/img/P4-02-Vectors-7.jpg"
       ]
     },
     {
@@ -351,7 +624,16 @@
       "no": "Q8(a)",
       "marks": 3,
       "topic": "Angle in Parallelogram",
-      "keywords": ["parallelogram", "angle", "scalar product", "vectors", "angle ABC", "degrees", "dot product", "cosine"],
+      "keywords": [
+        "parallelogram",
+        "angle",
+        "scalar product",
+        "vectors",
+        "angle ABC",
+        "degrees",
+        "dot product",
+        "cosine"
+      ],
       "question": "Figure 1 shows parallelogram ABCD with AB = 6i - 2j + 3k and BC = 2i + 5j + 8k. Find the size of angle ABC in degrees to 2 decimal places.",
       "status": "ready",
       "answer": "Angle ABC = 112.65 degrees.",
@@ -361,6 +643,10 @@
         "|BA| = sqrt(36 + 4 + 9) = 7 and |BC| = sqrt(4 + 25 + 64) = sqrt(93).",
         "cos(ABC) = -26/(7 sqrt(93)) = -0.38516.",
         "Angle ABC = arccos(-0.38516) = 112.65 degrees."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-6.jpg",
+        "papers/maths/img/P4-02-Vectors-7.jpg"
       ]
     },
     {
@@ -368,7 +654,16 @@
       "no": "Q8(b)",
       "marks": 2,
       "topic": "Area of Parallelogram",
-      "keywords": ["area", "parallelogram", "vector product", "cross product", "magnitude", "one decimal place", "vectors", "modulus"],
+      "keywords": [
+        "area",
+        "parallelogram",
+        "vector product",
+        "cross product",
+        "magnitude",
+        "one decimal place",
+        "vectors",
+        "modulus"
+      ],
       "question": "Find the area of parallelogram ABCD, giving your answer to one decimal place (AB = 6i - 2j + 3k, BC = 2i + 5j + 8k).",
       "status": "ready",
       "answer": "Area = sqrt(3881) = 62.3 (1 dp).",
@@ -377,6 +672,10 @@
         "AB x BC = (6, -2, 3) x (2, 5, 8) = (-31, -42, 34).",
         "Magnitude = sqrt(961 + 1764 + 1156) = sqrt(3881) = 62.30 (2 dp).",
         "So the area is 62.3 to one decimal place."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-6.jpg",
+        "papers/maths/img/P4-02-Vectors-7.jpg"
       ]
     },
     {
@@ -384,13 +683,26 @@
       "no": "Q9(a)",
       "marks": 2,
       "topic": "Vector Between Points",
-      "keywords": ["vector", "triangle", "position vector", "subtract", "RQ", "PQ", "PR", "displacement"],
+      "keywords": [
+        "vector",
+        "triangle",
+        "position vector",
+        "subtract",
+        "RQ",
+        "PQ",
+        "PR",
+        "displacement"
+      ],
       "question": "Triangle PQR has PQ = 2i - 3j + 4k and PR = 8i - 5j + 3k. Find RQ.",
       "status": "ready",
       "answer": "RQ = -6i + 2j + k.",
       "steps": [
         "RQ = RP + PQ = PQ - PR.",
         "RQ = (2 - 8, -3 + 5, 4 - 3) = (-6, 2, 1)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-7.jpg",
+        "papers/maths/img/P4-02-Vectors-8.jpg"
       ]
     },
     {
@@ -398,7 +710,16 @@
       "no": "Q9(b)",
       "marks": 3,
       "topic": "Angle in Triangle",
-      "keywords": ["angle", "triangle", "scalar product", "dot product", "degrees", "significant figures", "vectors", "cosine"],
+      "keywords": [
+        "angle",
+        "triangle",
+        "scalar product",
+        "dot product",
+        "degrees",
+        "significant figures",
+        "vectors",
+        "cosine"
+      ],
       "question": "Triangle PQR has PQ = 2i - 3j + 4k and PR = 8i - 5j + 3k. Find the size of angle PQR, in degrees, to three significant figures.",
       "status": "ready",
       "answer": "Angle PQR = 114 degrees (3 s.f.).",
@@ -408,6 +729,10 @@
         "|QP| = sqrt(29) and |QR| = sqrt(41).",
         "cos(PQR) = -14/sqrt(1189) = -0.40600.",
         "Angle PQR = arccos(-0.406) = 113.95 degrees, which is 114 degrees to 3 s.f."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-7.jpg",
+        "papers/maths/img/P4-02-Vectors-8.jpg"
       ]
     },
     {
@@ -415,13 +740,26 @@
       "no": "Q10(a)",
       "marks": 2,
       "topic": "Vector Equation Through Two Points",
-      "keywords": ["vector equation", "line through two points", "direction vector", "position vector", "line", "points A and B", "straight line", "vectors"],
+      "keywords": [
+        "vector equation",
+        "line through two points",
+        "direction vector",
+        "position vector",
+        "line",
+        "points A and B",
+        "straight line",
+        "vectors"
+      ],
       "question": "Relative to fixed origin O, A has position vector 4i + 8j + k and B has position vector 5i + 6j + 3k. The straight line l passes through A and B. Find a vector equation for l.",
       "status": "ready",
       "answer": "r = 4i + 8j + k + t(i - 2j + 2k).",
       "steps": [
         "Direction AB = OB - OA = (1, -2, 2).",
         "Use A as the point on the line: r = (4, 8, 1) + t(1, -2, 2)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-8.jpg",
+        "papers/maths/img/P4-02-Vectors-9.jpg"
       ]
     },
     {
@@ -429,7 +767,16 @@
       "no": "Q10(b)",
       "marks": 4,
       "topic": "Foot of Perpendicular",
-      "keywords": ["perpendicular", "foot of perpendicular", "scalar product", "point on line", "coordinates", "zero dot product", "line", "point C"],
+      "keywords": [
+        "perpendicular",
+        "foot of perpendicular",
+        "scalar product",
+        "point on line",
+        "coordinates",
+        "zero dot product",
+        "line",
+        "point C"
+      ],
       "question": "Point P has position vector 2i - 2j + k. Point C lies on l so that PC is perpendicular to l. Find the coordinates of C.",
       "status": "ready",
       "answer": "C = (6, 4, 5).",
@@ -439,6 +786,10 @@
         "PC . (1, -2, 2) = 0: (2 + t) - 2(10 - 2t) + 2(2t) = 0.",
         "Expand: 9t - 18 = 0, so t = 2.",
         "C = (6, 4, 5)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-8.jpg",
+        "papers/maths/img/P4-02-Vectors-9.jpg"
       ]
     },
     {
@@ -446,7 +797,16 @@
       "no": "Q10(c)",
       "marks": 2,
       "topic": "Reflection of Point in Line",
-      "keywords": ["reflection", "image", "midpoint", "perpendicular foot", "position vector", "line", "P dash", "coordinates"],
+      "keywords": [
+        "reflection",
+        "image",
+        "midpoint",
+        "perpendicular foot",
+        "position vector",
+        "line",
+        "P dash",
+        "coordinates"
+      ],
       "question": "Point P' is the reflection of P in line l. Find the coordinates of P'.",
       "status": "ready",
       "answer": "P' = (10, 10, 9).",
@@ -454,6 +814,10 @@
         "C is the foot of the perpendicular from P, so C is the midpoint of P and P'.",
         "OP' = 2OC - OP = (12, 8, 10) - (2, -2, 1).",
         "So P' = (10, 10, 9)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-8.jpg",
+        "papers/maths/img/P4-02-Vectors-9.jpg"
       ]
     },
     {
@@ -461,7 +825,16 @@
       "no": "Q10(d)",
       "marks": 2,
       "topic": "Length of Reflection Segment",
-      "keywords": ["length", "magnitude", "modulus", "PP dash", "surd", "simplified surd", "distance", "reflection"],
+      "keywords": [
+        "length",
+        "magnitude",
+        "modulus",
+        "PP dash",
+        "surd",
+        "simplified surd",
+        "distance",
+        "reflection"
+      ],
       "question": "Hence find |PP'|, giving your answer as a simplified surd.",
       "status": "ready",
       "answer": "|PP'| = 4 sqrt(17).",
@@ -469,6 +842,10 @@
         "PP' = OP' - OP = (10 - 2, 10 + 2, 9 - 1) = (8, 12, 8).",
         "|PP'| = sqrt(64 + 144 + 64) = sqrt(272).",
         "272 = 16 x 17, so |PP'| = 4 sqrt(17)."
+      ],
+      "images": [
+        "papers/maths/img/P4-02-Vectors-8.jpg",
+        "papers/maths/img/P4-02-Vectors-9.jpg"
       ]
     }
   ]

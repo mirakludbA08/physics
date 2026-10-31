@@ -1,6 +1,6 @@
 {
   "code": "CP1",
-  "title": "Freefall",
+  "title": "Free fall (core practical)",
   "unit": "AS Unit 1",
   "pdf": "papers/physics/01-CP1-Freefall.pdf",
   "questions": [
@@ -9,7 +9,16 @@
       "no": "Q1",
       "marks": 5,
       "topic": "Freefall Graph Method",
-      "keywords": ["freefall", "acceleration of free fall", "g", "graph", "distance", "time squared", "gradient", "sketch"],
+      "keywords": [
+        "freefall",
+        "acceleration of free fall",
+        "g",
+        "graph",
+        "distance",
+        "time squared",
+        "gradient",
+        "sketch"
+      ],
       "question": "A ball bearing is released from rest and falls a distance l. The time t is measured for several decreasing values of l. Explain how these measurements give g in m s-2, and sketch the graph the student expects.",
       "status": "ready",
       "answer": "Plot l against t^2; the straight line through the origin has gradient 0.5g, so g = 2 x gradient.",
@@ -20,6 +29,9 @@
         "Plot l (y-axis, m) against t^2 (x-axis, s^2) and draw the best-fit straight line through the origin.",
         "Sketch: a straight line through the origin with positive gradient (a curve would show that the acceleration is not constant).",
         "Gradient = 0.5g, so g = 2 x gradient, in m s-2."
+      ],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-01.jpg"
       ]
     },
     {
@@ -27,18 +39,39 @@
       "no": "Q2",
       "marks": 1,
       "topic": "Stroboscopic Images",
-      "keywords": ["falling sphere", "camera images", "constant time intervals", "positions", "free fall", "image 3"],
+      "keywords": [
+        "falling sphere",
+        "camera images",
+        "constant time intervals",
+        "positions",
+        "free fall",
+        "image 3"
+      ],
       "question": "A sphere released from rest is photographed at constant time intervals. Image 1 shows the release position. Which of the positions P, Q, R or S is the sphere in Image 3? (A P, B Q, C R, D S)",
       "status": "pending",
       "answer": "Needs the positions P, Q, R and S shown in the PDF diagram; for release from rest, Image 3 is 4 times as far from Image 1 as Image 2 is.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-02.jpg",
+        "papers/physics/img/01-CP1-Freefall-03.jpg",
+        "papers/physics/img/01-CP1-Freefall-04.jpg"
+      ]
     },
     {
       "id": "CP1-Q3a",
       "no": "Q3(a)",
       "marks": 2,
       "topic": "Light Gate Measurements",
-      "keywords": ["light gate", "wooden rod", "release distance", "rod length", "distance fallen", "velocity", "suvat", "v squared"],
+      "keywords": [
+        "light gate",
+        "wooden rod",
+        "release distance",
+        "rod length",
+        "distance fallen",
+        "velocity",
+        "suvat",
+        "v squared"
+      ],
       "question": "A short wooden rod is released from rest above a light gate. The student uses v^2 = u^2 + 2as with u = 0 and a graph. State the additional measurements needed.",
       "status": "ready",
       "answer": "The distance s from the release point to the light gate, and the length d of the rod (to find v = d/t).",
@@ -46,6 +79,11 @@
         "With u = 0, v^2 = 2as, so the distance s fallen from rest to the light gate must be measured.",
         "Measure s from the release point of the rod to the light gate with a metre rule.",
         "The velocity at the gate is found from v = d/t, so the length d of the rod must also be measured with a ruler or calipers."
+      ],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-02.jpg",
+        "papers/physics/img/01-CP1-Freefall-03.jpg",
+        "papers/physics/img/01-CP1-Freefall-04.jpg"
       ]
     },
     {
@@ -53,7 +91,15 @@
       "no": "Q3(b)",
       "marks": 2,
       "topic": "Velocity From Light Gate",
-      "keywords": ["light gate", "velocity", "rod length", "time", "average speed", "timer", "accuracy"],
+      "keywords": [
+        "light gate",
+        "velocity",
+        "rod length",
+        "time",
+        "average speed",
+        "timer",
+        "accuracy"
+      ],
       "question": "Describe how the velocity of the rod as it passes through the light gate can be determined accurately.",
       "status": "ready",
       "answer": "Measure the rod length d, then v = d / t, where t is the time the light gate records for the rod to block the beam; use a short rod and repeat.",
@@ -62,6 +108,11 @@
         "While blocking the beam the rod moves its own length d, so the distance moved during the timed interval is d.",
         "Use v = d / t; for a short rod this average speed through the gate is close to the speed at the gate.",
         "Measure d accurately with a ruler or micrometer, and repeat the release to obtain a mean value."
+      ],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-02.jpg",
+        "papers/physics/img/01-CP1-Freefall-03.jpg",
+        "papers/physics/img/01-CP1-Freefall-04.jpg"
       ]
     },
     {
@@ -69,7 +120,15 @@
       "no": "Q3(c)",
       "marks": 3,
       "topic": "Graphical Method For G",
-      "keywords": ["v squared", "distance", "gradient", "graph", "g", "straight line", "suvat"],
+      "keywords": [
+        "v squared",
+        "distance",
+        "gradient",
+        "graph",
+        "g",
+        "straight line",
+        "suvat"
+      ],
       "question": "Describe how the student can determine g using a graphical method, with v^2 = 2as and u = 0.",
       "status": "ready",
       "answer": "Plot v^2 (y-axis) against s (x-axis); the straight line through the origin has gradient 2g, so g = gradient / 2.",
@@ -78,6 +137,11 @@
         "For each release position s, calculate v = d/t and then v^2.",
         "Plot v^2 on the y-axis against s on the x-axis and draw the best-fit straight line through the origin.",
         "The gradient is 2g, so g = gradient / 2."
+      ],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-02.jpg",
+        "papers/physics/img/01-CP1-Freefall-03.jpg",
+        "papers/physics/img/01-CP1-Freefall-04.jpg"
       ]
     },
     {
@@ -85,7 +149,15 @@
       "no": "Q4",
       "marks": 1,
       "topic": "Choosing Measurements",
-      "keywords": ["fewest measurements", "freefall", "displacement", "time", "final velocity", "initial velocity", "suvat"],
+      "keywords": [
+        "fewest measurements",
+        "freefall",
+        "displacement",
+        "time",
+        "final velocity",
+        "initial velocity",
+        "suvat"
+      ],
       "question": "A sphere is released from rest to determine g. Which two quantities need the fewest measurements? A displacement and initial velocity; B displacement and time; C final velocity and displacement; D final velocity and time.",
       "status": "ready",
       "answer": "B - displacement and time.",
@@ -94,6 +166,10 @@
         "Using s = ut + 0.5gt^2 with u = 0 gives g = 2s / t^2, so one displacement and one time are enough.",
         "A is wrong because the initial velocity is zero and is not a useful measurement.",
         "C and D need the final velocity, which cannot be measured directly without extra measurements."
+      ],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-04.jpg",
+        "papers/physics/img/01-CP1-Freefall-05.jpg"
       ]
     },
     {
@@ -101,18 +177,38 @@
       "no": "Q5",
       "marks": 1,
       "topic": "Graph With Gradient G",
-      "keywords": ["gradient equal to g", "table", "ball bearing", "distance", "time", "graph", "free fall"],
+      "keywords": [
+        "gradient equal to g",
+        "table",
+        "ball bearing",
+        "distance",
+        "time",
+        "graph",
+        "free fall"
+      ],
       "question": "A student times a ball bearing falling from rest through distance s, for a range of values of s. Which row of the table shows the graph whose gradient is g?",
       "status": "pending",
       "answer": "Needs the table rows from the PDF; a gradient of g comes from velocity against time (v = gt), not from s against t^2 (gradient 0.5g).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-04.jpg",
+        "papers/physics/img/01-CP1-Freefall-05.jpg"
+      ]
     },
     {
       "id": "CP1-Q6a",
       "no": "Q6(a)",
       "marks": 2,
       "topic": "Strobe Flash Duration",
-      "keywords": ["strobe", "flash duration", "uncertainty", "distance fallen", "blurred image", "laboratory strobe", "mobile phone"],
+      "keywords": [
+        "strobe",
+        "flash duration",
+        "uncertainty",
+        "distance fallen",
+        "blurred image",
+        "laboratory strobe",
+        "mobile phone"
+      ],
       "question": "A laboratory strobe has a shorter flash duration than a strobe app, with the same time between flashes. Explain how the shorter duration affects the uncertainty in the distance fallen measured from the photograph.",
       "status": "ready",
       "answer": "A shorter flash gives a sharper image with less blur, so the ball position is read more precisely and the uncertainty in distance is reduced.",
@@ -120,6 +216,11 @@
         "A longer flash lets the ball move during the flash, so its image is smeared over a range of positions.",
         "A shorter flash freezes the motion, so the image of the ball is sharper.",
         "The edges of the ball can be located more precisely, so each distance measurement has a smaller uncertainty."
+      ],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-05.jpg",
+        "papers/physics/img/01-CP1-Freefall-06.jpg",
+        "papers/physics/img/01-CP1-Freefall-07.jpg"
       ]
     },
     {
@@ -127,7 +228,15 @@
       "no": "Q6(b)(i)",
       "marks": 2,
       "topic": "Linear S Against T Squared",
-      "keywords": ["s against t squared", "straight line", "free fall", "constant acceleration", "u equals zero", "gradient", "proportional"],
+      "keywords": [
+        "s against t squared",
+        "straight line",
+        "free fall",
+        "constant acceleration",
+        "u equals zero",
+        "gradient",
+        "proportional"
+      ],
       "question": "Explain why a graph of s against t^2 gives a straight line for a ball falling from rest.",
       "status": "ready",
       "answer": "With u = 0 and constant a = g, s = 0.5gt^2, so s is directly proportional to t^2 and the graph is a straight line through the origin.",
@@ -136,6 +245,11 @@
         "The equation s = ut + 0.5at^2 becomes s = 0.5gt^2.",
         "This has the form y = mx with y = s, x = t^2 and gradient m = 0.5g, which is constant.",
         "A constant gradient passing through the origin gives a straight line."
+      ],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-05.jpg",
+        "papers/physics/img/01-CP1-Freefall-06.jpg",
+        "papers/physics/img/01-CP1-Freefall-07.jpg"
       ]
     },
     {
@@ -143,29 +257,61 @@
       "no": "Q6(b)(ii)",
       "marks": 2,
       "topic": "Finding G From Graph",
-      "keywords": ["s against t squared", "gradient", "g", "student graph", "straight line", "freefall"],
+      "keywords": [
+        "s against t squared",
+        "gradient",
+        "g",
+        "student graph",
+        "straight line",
+        "freefall"
+      ],
       "question": "Using the student's graph of s against t^2, determine the acceleration of free fall g.",
       "status": "pending",
       "answer": "Needs the student's s against t^2 graph from the PDF to read the gradient; then g = 2 x gradient.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-05.jpg",
+        "papers/physics/img/01-CP1-Freefall-06.jpg",
+        "papers/physics/img/01-CP1-Freefall-07.jpg"
+      ]
     },
     {
       "id": "CP1-Q7",
       "no": "Q7",
       "marks": 1,
       "topic": "Graph With Gradient G",
-      "keywords": ["gradient equal to g", "table", "ball bearing", "time", "distance", "graph type", "freefall"],
+      "keywords": [
+        "gradient equal to g",
+        "table",
+        "ball bearing",
+        "time",
+        "distance",
+        "graph type",
+        "freefall"
+      ],
       "question": "A student measures the time t for a ball bearing to fall different distances s from rest and plots a graph with gradient equal to g. Which row of the table shows this graph?",
       "status": "pending",
       "answer": "Needs the table rows from the PDF; the row must be velocity against time (gradient g), not s against t^2 (gradient 0.5g).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-07.jpg",
+        "papers/physics/img/01-CP1-Freefall-08.jpg"
+      ]
     },
     {
       "id": "CP1-Q8",
       "no": "Q8",
       "marks": 1,
       "topic": "Acceleration From Displacement",
-      "keywords": ["acceleration", "displacement 50 cm", "time 0.32 s", "suvat", "metres", "expression", "freefall"],
+      "keywords": [
+        "acceleration",
+        "displacement 50 cm",
+        "time 0.32 s",
+        "suvat",
+        "metres",
+        "expression",
+        "freefall"
+      ],
       "question": "A ball bearing falls from rest through 50 cm in 0.32 s. Which expression gives its acceleration in m s-2? A 1 divided by 0.32^2; B 0.5 x 0.32; C 100 divided by 0.32^2; D 50 x 0.32. (The operator symbols in the text are partly garbled; A and C are divisions.)",
       "status": "ready",
       "answer": "A - 1 divided by 0.32^2 (about 9.8 m s-2).",
@@ -174,6 +320,9 @@
         "Convert the distance to metres: 50 cm = 0.50 m.",
         "a = 2 x 0.50 / 0.32^2 = 1 / 0.32^2 = 9.77 m s-2, which matches option A.",
         "C gives 100 / 0.32^2, which would be in cm s-2 when s is in cm, so it is not in m s-2."
+      ],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-08.jpg"
       ]
     },
     {
@@ -181,7 +330,15 @@
       "no": "Q9",
       "marks": 1,
       "topic": "Conditions For Accurate G",
-      "keywords": ["accurate g", "air resistance", "upthrust", "freefall", "terminal velocity", "laminar flow", "timer"],
+      "keywords": [
+        "accurate g",
+        "air resistance",
+        "upthrust",
+        "freefall",
+        "terminal velocity",
+        "laminar flow",
+        "timer"
+      ],
       "question": "A steel ball bearing falls a measured distance in air to determine g. Which condition is needed for an accurate value? A air flow is laminar; B time to reach terminal velocity is short; C the ball starts to fall before the timer starts; D air resistance and upthrust are both negligible.",
       "status": "ready",
       "answer": "D - air resistance and upthrust are both negligible.",
@@ -191,6 +348,9 @@
         "A is not needed: laminar flow only matters if drag is significant.",
         "B is wrong: reaching terminal velocity quickly means drag is significant, so the acceleration is no longer g.",
         "C is wrong: the timer must start when the ball is released."
+      ],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-08.jpg"
       ]
     },
     {
@@ -198,7 +358,15 @@
       "no": "Q10",
       "marks": 1,
       "topic": "Sources Of Error In G",
-      "keywords": ["systematic error", "g 11.2", "too large", "distance measured", "time", "sphere", "air resistance"],
+      "keywords": [
+        "systematic error",
+        "g 11.2",
+        "too large",
+        "distance measured",
+        "time",
+        "sphere",
+        "air resistance"
+      ],
       "question": "A student gets g = 11.2 m s-2 by dropping a metal sphere and measuring distance and time. Which could explain the difference from the accepted value? A air resistance not negligible; B measured distance greater than actual distance; C sphere did not fall vertically; D measured time greater than actual time.",
       "status": "ready",
       "answer": "B - the measured distance was greater than the actual distance.",
@@ -207,6 +375,9 @@
         "11.2 m s-2 is larger than 9.81 m s-2, so the measured distance is too large or the measured time is too small.",
         "A would reduce the acceleration, giving a smaller g.",
         "D makes t too large, giving a smaller g; C does not make the calculated g too large."
+      ],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-08.jpg"
       ]
     },
     {
@@ -214,7 +385,14 @@
       "no": "Q11",
       "marks": 1,
       "topic": "Stopwatch Timing Error",
-      "keywords": ["stopwatch", "timing error", "g greater than 9.81", "ball bearing", "start time", "reaction time"],
+      "keywords": [
+        "stopwatch",
+        "timing error",
+        "g greater than 9.81",
+        "ball bearing",
+        "start time",
+        "reaction time"
+      ],
       "question": "A student uses a stopwatch to time a ball bearing falling a measured distance and calculates g greater than 9.81 m s-2. Which could explain this? A ball bearing moving downwards when the stopwatch starts; B ball bearing moving upwards when the stopwatch starts; C stopwatch started before the ball is dropped; D stopwatch stopped after the ball lands.",
       "status": "ready",
       "answer": "A - the ball is already moving downwards when the stopwatch starts.",
@@ -223,6 +401,10 @@
         "A: if the ball is already falling when timing starts, the timed interval is shorter than the true fall time, so g is too large.",
         "B: if the ball is moving upwards at the start, the timed interval is longer, so g is too small.",
         "C and D both make the timed interval longer, so g would be too small."
+      ],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-09.jpg",
+        "papers/physics/img/01-CP1-Freefall-10.jpg"
       ]
     },
     {
@@ -230,22 +412,45 @@
       "no": "Q12",
       "marks": 1,
       "topic": "Moon Freefall Expression",
-      "keywords": ["moon", "gravitational field strength", "vertical distance 0.32 m", "time 0.63 s", "expression", "acceleration"],
+      "keywords": [
+        "moon",
+        "gravitational field strength",
+        "vertical distance 0.32 m",
+        "time 0.63 s",
+        "expression",
+        "acceleration"
+      ],
       "question": "An object on the Moon falls 0.32 m from rest in a time of 0.63 s. Which expression gives the acceleration due to gravity on the Moon? Options A to D are not in the extracted text.",
       "status": "pending",
       "answer": "Needs the four expression options from the PDF; the correct expression is 2 x 0.32 / 0.63^2, which is about 1.6 m s-2.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-09.jpg",
+        "papers/physics/img/01-CP1-Freefall-10.jpg"
+      ]
     },
     {
       "id": "CP1-Q13",
       "no": "Q13",
       "marks": 1,
       "topic": "Height Against Time Graph",
-      "keywords": ["height", "time to reach ground", "graph", "y-axis", "gradient", "g", "table"],
+      "keywords": [
+        "height",
+        "time to reach ground",
+        "graph",
+        "y-axis",
+        "gradient",
+        "g",
+        "table"
+      ],
       "question": "A student drops a ball from several heights, measures the time to reach the ground, and plots height on the y-axis to find g using a graph. Which row of the table is correct for the graph?",
       "status": "pending",
       "answer": "Needs the table rows from the PDF; with height on the y-axis the x-axis must be t^2 (gradient 0.5g).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/01-CP1-Freefall-10.jpg",
+        "papers/physics/img/01-CP1-Freefall-11.jpg"
+      ]
     }
   ]
 }

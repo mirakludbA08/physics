@@ -26,6 +26,11 @@
         "Area of a sector = (1/2) r^2 theta.",
         "15 = (1/2) r^2 (1.25) = 0.625 r^2.",
         "r^2 = 24, so r = sqrt(24) = 2sqrt(6) (positive root)."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-01.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-02.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-03.jpg"
       ]
     },
     {
@@ -50,6 +55,11 @@
         "Arc = r theta = 2sqrt(6) x 1.25 = 2.5sqrt(6).",
         "Perimeter = 4sqrt(6) + 2.5sqrt(6) = 6.5sqrt(6) = 13sqrt(6)/2.",
         "Decimal value is about 15.9 cm."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-01.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-02.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-03.jpg"
       ]
     },
     {
@@ -74,6 +84,11 @@
         "Angle AOB = arc AB / radius = 15/9 = 5/3 radians.",
         "Angle COD = AOD - AOB = 2pi/3 - 5/3 = (2pi - 5)/3, about 0.4277 radians.",
         "Arc CD = 84 x 0.4277 = 35.93 cm, so 35.9 cm to 1 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-01.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-02.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-03.jpg"
       ]
     },
     {
@@ -97,6 +112,11 @@
         "Outer boundary of one section: arc AB (15 cm), radial edge BC (84 - 9 = 75 cm), arc CD (35.93 cm), and the exposed part of radial edge DO beyond the 9 cm mark (84 - 9 = 75 cm).",
         "Per section: 15 + 75 + 35.93 + 75 = 200.93 cm.",
         "Three sections: 3 x 200.93 = 602.8 cm, so 603 cm to the nearest cm."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-01.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-02.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-03.jpg"
       ]
     },
     {
@@ -121,6 +141,11 @@
         "Large sector OCD (radius 84, angle 2pi/3 - 5/3): (1/2)(84^2)(0.42773) = 1509.0 cm^2.",
         "One section = 67.5 + 1509.0 = 1576.5 cm^2.",
         "Three sections: 3 x 1576.5 = 4729.6 cm^2, so 4730 cm^2 (3 s.f.)."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-01.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-02.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-03.jpg"
       ]
     },
     {
@@ -144,6 +169,10 @@
         "Sector area = (1/2) r^2 alpha.",
         "7.2 = (1/2)(3^2) alpha = 4.5 alpha.",
         "alpha = 7.2 / 4.5 = 1.6 radians."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-03.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-04.jpg"
       ]
     },
     {
@@ -170,6 +199,10 @@
         "(i) Badge area = sector 7.2 + 10.76 = 17.96 cm^2, so 18 cm^2 to 2 s.f.",
         "Cosine rule in triangle AOC: AC^2 = 9 + 25 - 30 cos(pi - 0.8) = 34 + 30 cos(0.8) = 54.90, so AC = 7.409 cm.",
         "(ii) Perimeter = arc AB + AC + BC = 3(1.6) + 2(7.409) = 4.8 + 14.82 = 19.6 cm."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-03.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-04.jpg"
       ]
     },
     {
@@ -193,6 +226,10 @@
         "Cosine rule: YZ^2 = XY^2 + XZ^2 - 2(XY)(XZ) cos(alpha).",
         "81 = 36 + 16 - 48 cos(alpha), so cos(alpha) = -29/48 = -0.6042.",
         "alpha = arccos(-0.6042) = 2.2195 radians, so 2.22 to 3 s.f."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-04.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-05.jpg"
       ]
     },
     {
@@ -216,6 +253,10 @@
         "W lies on the circle, so XW = 4 cm.",
         "Angle ZXW = alpha, so the major sector angle is 2pi - alpha = 4.0637 radians.",
         "Area = (1/2)(4^2)(4.0637) = 32.51 cm^2, so 32.5 cm^2."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-04.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-05.jpg"
       ]
     },
     {
@@ -240,6 +281,10 @@
         "sin(alpha) = 0.7969, so triangle area = 9.562 cm^2.",
         "Major sector area = 32.51 cm^2 (from part (b)).",
         "Logo area = 9.562 + 32.51 = 42.07, so 42.1 cm^2."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-04.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-05.jpg"
       ]
     },
     {
@@ -264,6 +309,10 @@
         "Major arc ZW = 4(2pi - alpha) = 4(4.0637) = 16.25 cm.",
         "ZY = 9 cm; YW = XY - XW = 6 - 4 = 2 cm.",
         "Perimeter = 16.25 + 9 + 2 = 27.25, so 27.3 cm to 1 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-04.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-05.jpg"
       ]
     },
     {
@@ -287,6 +336,10 @@
         "Sector area = (1/2) r^2 (2.4) = 1.2 r^2 = 40.",
         "r^2 = 33.33, so r = 5.7735.",
         "r = 5.77 m to 2 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-05.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-06.jpg"
       ]
     },
     {
@@ -310,6 +363,10 @@
         "A, O and D lie on a straight line, so AOB + BOC + COD = pi.",
         "The triangles are congruent with O the midpoint of AD, so AOB = COD.",
         "AOB = (pi - 2.4)/2 = 0.3708 radians, so 0.37 to 2 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-05.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-06.jpg"
       ]
     },
     {
@@ -334,6 +391,10 @@
         "Area of OAB = (1/2)(6.25)(5.7735) sin(0.3708) = 18.042 x 0.36236 = 6.537 m^2.",
         "Two triangles give 13.07 m^2.",
         "Total area = 40 + 13.07 = 53.07, so 53.1 m^2 to 1 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-05.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-06.jpg"
       ]
     },
     {
@@ -358,6 +419,10 @@
         "Arc BC = 5.7735 x 2.4 = 13.856 m.",
         "Perimeter = AD + arc BC + AB + CD = 12.5 + 13.856 + 2(2.265) = 30.89 m.",
         "So the perimeter is 30.9 m to 1 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-05.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-06.jpg"
       ]
     },
     {
@@ -382,6 +447,10 @@
         "Cosine rule for angle AOB: cos(AOB) = (0.36 + 3.019 - 1.96) / (2 x 0.6 x 1.7376) = 0.6806.",
         "Angle AOB = arccos(0.6806) = 0.8222 radians.",
         "The kite is symmetric about OB, so theta = angle AOC = 2 x 0.8222 = 1.644, so 1.64 to 3 s.f."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-06.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-07.jpg"
       ]
     },
     {
@@ -406,6 +475,10 @@
         "Major arc = 0.6 x (2pi - 1.6444) = 0.6 x 4.6387 = 2.7832 m.",
         "AB + BC = 1.4 + 1.4 = 2.8 m.",
         "Perimeter = 2.7832 + 2.8 = 5.583, so 5.6 m to 2 s.f."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-06.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-07.jpg"
       ]
     },
     {
@@ -430,6 +503,10 @@
         "Sector OCXA area = (1/2)(0.6^2)(2pi - 1.6444) = 0.18 x 4.6387 = 0.8350 m^2.",
         "Total area = 0.7638 + 0.8350 = 1.599 m^2.",
         "So the area is 1.6 m^2 to 2 s.f."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-06.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-07.jpg"
       ]
     },
     {
@@ -454,6 +531,10 @@
         "BC is parallel to OD and CD is perpendicular to OD, so B is 1.5 m above OD.",
         "In triangle OBP (P the foot on OD): sin(BOD) = 1.5 / 4 = 0.375, so BOD = 0.3844 radians.",
         "Angle AOB = pi/2 - BOD = 1.5708 - 0.3844 = 1.1864 radians, so 1.186 to 4 s.f."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-07.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-08.jpg"
       ]
     },
     {
@@ -478,6 +559,10 @@
         "Arc AB = 4 x 1.1864 = 4.7456 m.",
         "B is at x = 4 cos(0.3844) = 3.7081, so BC = 6 - 3.7081 = 2.2919 m.",
         "Perimeter = 4 + 4.7456 + 2.2919 + 1.5 + 6 = 18.537, so 18.5 m to 3 s.f."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-07.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-08.jpg"
       ]
     },
     {
@@ -502,6 +587,10 @@
         "Sector OAB = (1/2)(4^2)(1.1864) = 9.491 m^2.",
         "OBCD is a trapezium with parallel sides BC = 2.2919 and OD = 6, height 1.5: (2.2919 + 6)/2 x 1.5 = 6.219 m^2.",
         "Total = 9.491 + 6.219 = 15.71, so 15.7 m^2 to 3 s.f."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-07.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-08.jpg"
       ]
     },
     {
@@ -525,6 +614,10 @@
         "B and D are symmetric about the perpendicular through O, so angle BOA = angle DOE = 0.7.",
         "Angle BOD = pi - 2 x 0.7 = 3.14159 - 1.4 = 1.7416.",
         "So angle BOD = 1.742 radians to 4 s.f."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-08.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-09.jpg"
       ]
     },
     {
@@ -550,6 +643,10 @@
         "Sector BOD = (1/2)(3^2)(1.7416) = 7.847 m^2.",
         "Triangle BOD = (1/2)(3^2) sin(1.7416) = 4.5 x sin(1.4) = 4.5 x 0.9854 = 4.445 m^2.",
         "Area = 7.847 - 4.445 = 3.40, so 3.4 m^2 to 1 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-08.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-09.jpg"
       ]
     },
     {
@@ -574,6 +671,10 @@
         "Arc BCD = 3 x 1.7416 = 5.2248 m.",
         "Chord BD = 2 x 3 x sin(1.7416/2) = 6 sin(0.8708) = 6 x 0.7648 = 4.589 m.",
         "Perimeter = 5.2248 + 4.589 = 9.814, so 9.8 m to 1 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-08.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-09.jpg"
       ]
     },
     {
@@ -598,6 +699,10 @@
         "Perimeter: 2r + r theta = 10, so r = 10/(2 + theta).",
         "Substitute: 100 theta / (2 + theta)^2 = 12, so 100 theta = 12(4 + 4 theta + theta^2).",
         "Expand and simplify: 12 theta^2 - 52 theta + 48 = 0, divide by 4: 3theta^2 - 13theta + 12 = 0."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-08.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-09.jpg"
       ]
     },
     {
@@ -622,6 +727,10 @@
         "theta = 4/3 or theta = 3.",
         "r = 10/(2 + theta): theta = 4/3 gives r = 3; theta = 3 gives r = 2.",
         "Check: (1/2)(9)(4/3) = 6 and (1/2)(4)(3) = 6, both correct."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-08.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-09.jpg"
       ]
     },
     {
@@ -646,6 +755,10 @@
         "So ACB is 52.5 degrees or 127.5 degrees.",
         "In the figure C lies between A and D with ACB obtuse, so ACB = 127.5 degrees.",
         "Check: angle ABC = 180 - 35 - 127.5 = 17.5 degrees, and 6.5/sin(127.5) = 4.7/sin(35) = 8.19."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-09.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-10.jpg"
       ]
     },
     {
@@ -670,6 +783,10 @@
         "AF = 6.5 cos(35) = 5.3245 m and BF = 6.5 sin(35) = 3.7282 m.",
         "FD = sqrt(4.7^2 - 3.7282^2) = 2.862 m, so AD = AF + FD = 8.186 m.",
         "Total = AB + BD + BC + AD = 6.5 + 4.7 + 4.7 + 8.186 = 24.09 m, so 24 m to the nearest metre."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-09.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-10.jpg"
       ]
     },
     {
@@ -693,6 +810,10 @@
         "Area of parallelogram = AB x AD sin(DAB) with AD = BC = 6: 40 = 60 sin(DAB).",
         "sin(DAB) = 2/3, so the acute angle is arcsin(2/3) = 41.81 degrees.",
         "DAB is obtuse, so DAB = 180 - 41.81 = 138.19 degrees."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-10.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-11.jpg"
       ]
     },
     {
@@ -717,6 +838,10 @@
         "cos(138.19 degrees) = -sqrt(5)/3 = -0.7454.",
         "BD^2 = 100 + 36 + 120 x 0.7454 = 225.44, so BD = 15.01 cm.",
         "So BD = 15.0 cm to 1 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-10.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-11.jpg"
       ]
     },
     {
@@ -740,6 +865,10 @@
         "Sine rule: AB / sin(ACB) = BC / sin(BAC).",
         "sin(x) = AB sin(25) / BC = 21 x 0.42262 / 13.",
         "sin(x) = 8.8750 / 13 = 0.6827 to 4 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-10.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-11.jpg"
       ]
     },
     {
@@ -764,6 +893,10 @@
         "AB is the longest side, so angle ACB (opposite AB) is the largest angle.",
         "Angle B = 180 - 25 - 43.05 = 111.95 would be bigger than C, so x = 43.05 is rejected.",
         "Hence x = 180 - 43.05 = 136.95 degrees to 2 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-10.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-11.jpg"
       ]
     },
     {
@@ -787,6 +920,10 @@
         "The sector ABCOA is the major sector, so its angle is 2pi - 0.7 = 5.5832 radians.",
         "Area = (1/2)(6^2)(5.5832) = 18 x 5.5832.",
         "Area = 100.5 cm^2 to 1 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-11.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-12.jpg"
       ]
     },
     {
@@ -810,6 +947,10 @@
         "Sine rule: sin(ADO) / OA = sin(AOD) / AD, so sin(ADO) = 6 sin(0.7) / 5 = 0.7731.",
         "arcsin(0.7731) = 0.8836 radians.",
         "ADO is obtuse, so ADO = pi - 0.8836 = 2.258 radians to 3 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-11.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-12.jpg"
       ]
     },
     {
@@ -834,6 +975,10 @@
         "Sine rule: OD = AD sin(OAD) / sin(AOD) = 5 x 0.1826 / 0.6442 = 1.417 cm, so CD = 6 - 1.417 = 4.583 cm.",
         "Arc ABC = 6 x 5.5832 = 33.499 cm.",
         "Perimeter = arc ABC + CD + DA = 33.499 + 4.583 + 5 = 43.08, so 43.1 cm to 1 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-11.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-12.jpg"
       ]
     },
     {
@@ -858,6 +1003,10 @@
         "Sine rule: sin(AOD) = AD sin(ADO) / OA = 14 sin(0.43) / 6 = 14 x 0.41687 / 6 = 0.97270.",
         "arcsin(0.97270) = 1.3366 radians.",
         "AOD is obtuse, so AOD = pi - 1.3366 = 1.805 radians to 3 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-12.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-13.jpg"
       ]
     },
     {
@@ -881,6 +1030,10 @@
         "Angle AOC = angle AOD = 1.805 radians, and arc ABC is the major arc on the other side.",
         "Major angle = 2pi - 1.805 = 4.4782 radians.",
         "Arc ABC = 6 x 4.4782 = 26.87, so 26.9 m to 1 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-12.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-13.jpg"
       ]
     },
     {
@@ -905,6 +1058,10 @@
         "Angle OAD = pi - 1.805 - 0.43 = 0.9066 radians.",
         "Triangle AOD area = (1/2)(OA)(AD) sin(OAD) = (1/2)(6)(14)(0.7874) = 33.07 m^2.",
         "Total = 80.61 + 33.07 = 113.68, so 113.7 m^2 to 1 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-12.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-13.jpg"
       ]
     },
     {
@@ -929,6 +1086,10 @@
         "Leading coefficient is 3 x 1 x 2 = 6 > 0, so f(x) > 0 for x > 3/2.",
         "The sign alternates between roots, so f(x) > 0 for -20/3 < x < -6.",
         "So f(x) > 0 when -20/3 < x < -6 or x > 3/2."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-13.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-14.jpg"
       ]
     },
     {
@@ -952,6 +1113,10 @@
         "(3x + 20)(x + 6) = 3x^2 + 38x + 120.",
         "Multiply by (2x - 3): 6x^3 - 9x^2 + 76x^2 - 114x + 240x - 360.",
         "Collect terms: 6x^3 + 67x^2 + 126x - 360."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-13.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-14.jpg"
       ]
     },
     {
@@ -978,6 +1143,10 @@
         "Set f(x) = 126x - 360: 6x^3 + 67x^2 + 126x - 360 = 126x - 360.",
         "So 6x^3 + 67x^2 = 0, i.e. x^2(6x + 67) = 0.",
         "x = 0 is the repeated root (tangent point), so P has x = -67/6."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-13.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-14.jpg"
       ]
     },
     {
@@ -999,6 +1168,10 @@
       "steps": [
         "On the y-axis, x = 0.",
         "4y = 48, so y = 12."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-14.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-15.jpg"
       ]
     },
     {
@@ -1023,6 +1196,10 @@
         "Perpendicular gradient for l2 = 4/3. Line l2 through (8, 6): y - 6 = (4/3)(x - 8).",
         "y = (4/3)x - 32/3 + 6 = (4/3)x - 14/3.",
         "At x = 0: y = -14/3, as required."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-14.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-15.jpg"
       ]
     },
     {
@@ -1046,6 +1223,10 @@
         "Radius = CE = 12 - (-14/3) = 50/3, since C = (0, 12) and E = (0, -14/3).",
         "Arc BE = r theta = (50/3)(1.8) = 30.",
         "So the arc length BE is 30."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-14.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-15.jpg"
       ]
     },
     {
@@ -1070,6 +1251,10 @@
         "Triangle CDE has base CE = 50/3 on the y-axis and height equal to the x coordinate of D, which is 8.",
         "Triangle area = (1/2)(50/3)(8) = 200/3.",
         "Total area = 250 + 200/3 = 950/3."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-14.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-15.jpg"
       ]
     },
     {
@@ -1094,6 +1279,10 @@
         "DC = AB = 16 m and OC = 12 m (radius), so DO = 16 - 12 = 4 m.",
         "In the right-angled triangle AOD (right angle at D), cos(AOD) = DO / OA = 4/12 = 1/3.",
         "AOD = arccos(1/3) = 1.231 radians to 3 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-15.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-16.jpg"
       ]
     },
     {
@@ -1118,6 +1307,10 @@
         "Sector area = (1/2)(12^2)(4.3726) = 314.88 m^2.",
         "The house part of the sector is triangle AOD, with area (1/2)(DO)(AD) = (1/2)(4)(sqrt(144 - 16)) = 22.63 m^2.",
         "Lawn = 314.88 - 22.63 = 292.26, so 292.3 m^2 to 1 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-15.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-16.jpg"
       ]
     },
     {
@@ -1142,6 +1335,10 @@
         "Major arc = 12 x 4.3726 = 52.47 m.",
         "CD = 16 m, and DA = sqrt(12^2 - 4^2) = sqrt(128) = 11.31 m.",
         "Perimeter = 52.47 + 16 + 11.31 = 79.78, so 79.8 m to 1 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-15.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-16.jpg"
       ]
     },
     {
@@ -1166,6 +1363,10 @@
         "(i) Area = (1/2)(3^2)(4pi/3) = 6pi m^2.",
         "(ii) Arc length = 3 x 4pi/3 = 4pi m, and two radii add 3 + 3 = 6 m.",
         "Perimeter = 4pi + 6 m."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-16.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-17.jpg"
       ]
     },
     {
@@ -1189,6 +1390,10 @@
         "Area = (1/2)(OA)(OB) sin(AOB) = (1/2)(3)(3) sin(2pi/3).",
         "sin(2pi/3) = sqrt(3)/2.",
         "Area = (9/2)(sqrt(3)/2) = 9sqrt(3)/4 m^2."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-16.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-17.jpg"
       ]
     },
     {
@@ -1212,6 +1417,10 @@
         "Cosine rule in triangle AOB: AB^2 = OA^2 + OB^2 - 2(OA)(OB) cos(2pi/3).",
         "cos(2pi/3) = -1/2, so AB^2 = 9 + 9 + 9 = 27.",
         "AB = sqrt(27) = 3sqrt(3) m."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-16.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-17.jpg"
       ]
     },
     {
@@ -1238,6 +1447,10 @@
         "Triangle ABC: area = (1/2)(BC)(AC) sin(30 degrees) with AC from cosine rule: 27 = AC^2 + 64 - 8sqrt(3) AC, giving AC = 4sqrt(3) + sqrt(11) = 10.245 m (the valid root for this layout).",
         "Triangle ABC area = (1/2)(8)(10.245)(1/2) = 20.49 m^2.",
         "Total = 18.85 + 3.897 + 20.49 = 43.24, so 43 m^2 to 2 s.f."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-16.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-17.jpg"
       ]
     },
     {
@@ -1260,6 +1473,10 @@
       "steps": [
         "Arc PS = r theta, so 0.72 = OP x 0.6.",
         "OP = 0.72 / 0.6 = 1.2 m."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-17.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-18.jpg"
       ]
     },
     {
@@ -1284,6 +1501,10 @@
         "Target area = (1/2)(0.6)[(1.2 + x)^2 - 1.2^2] = 0.3[x^2 + 2.4x] = 90.",
         "So x^2 + 2.4x = 300.",
         "Multiply by 5: 5x^2 + 12x - 1500 = 0, as required."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-17.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-18.jpg"
       ]
     },
     {
@@ -1308,6 +1529,10 @@
         "Outer radius OQ = 1.2 + 16.16 = 17.36 m, so arc QR = 0.6 x 17.36 = 10.42 m.",
         "Perimeter = PQ + arc QR + RS + arc SP = 16.16 + 10.42 + 16.16 + 0.72 = 43.46 m.",
         "So the perimeter is 43 m to the nearest metre."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-17.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-18.jpg"
       ]
     },
     {
@@ -1332,6 +1557,10 @@
         "x^2 = 25 + (1 + x)^2 - 10(1 + x) cos(theta) = 26 + 2x + x^2 - 10(1 + x) cos(theta).",
         "So 10(1 + x) cos(theta) = 26 + 2x.",
         "cos(theta) = (26 + 2x) / (10 + 10x) = (13 + x)/(5 + 5x), as required."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-18.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-19.jpg"
       ]
     },
     {
@@ -1356,6 +1585,10 @@
         "Angle ACB = theta (since A, D, C are collinear), so angle ABC = 180 - 30 - 42.5 = 107.5 degrees.",
         "Sine rule in triangle ABC: AC = BC sin(ABC) / sin(BAC) = 5 sin(107.5) / 0.5 = 5 x 0.9536 / 0.5 = 9.536 m.",
         "Area = (1/2)(BC)(AC) sin(ACB) = (1/2)(5)(9.536)(0.6752) = 16.10 m^2, so 16.1 m^2 to 1 d.p."
+      ],
+      "images": [
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-18.jpg",
+        "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-19.jpg"
       ]
     }
   ]

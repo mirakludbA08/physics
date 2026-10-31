@@ -1,6 +1,6 @@
 {
   "code": "Ch12B",
-  "title": "Lattice Energy",
+  "title": "Lattice energy",
   "unit": "A2 Unit 4",
   "pdf": "papers/chemistry/12B-Lattice-Energy.pdf",
   "questions": [
@@ -9,29 +9,60 @@
       "no": "Q1(a)(i)",
       "marks": 4,
       "topic": "Born-Haber Cycle For CaCl2",
-      "keywords": ["Born-Haber cycle", "calcium chloride", "formulae", "state symbols", "electrons", "enthalpy cycle"],
+      "keywords": [
+        "Born-Haber cycle",
+        "calcium chloride",
+        "formulae",
+        "state symbols",
+        "electrons",
+        "enthalpy cycle"
+      ],
       "question": "Complete the Born-Haber cycle for CaCl2 by writing the formulae, with state symbols and relevant electrons, on the horizontal lines. The cycle diagram is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the Born-Haber cycle diagram from the PDF to be checked; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-01.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-02.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-03.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q1(a)(ii)",
       "no": "Q1(a)(ii)",
       "marks": 3,
       "topic": "Second Ionisation Energy Of Calcium",
-      "keywords": ["second ionisation energy", "calcium", "Born-Haber", "enthalpy values", "sign and units", "CaCl2"],
+      "keywords": [
+        "second ionisation energy",
+        "calcium",
+        "Born-Haber",
+        "enthalpy values",
+        "sign and units",
+        "CaCl2"
+      ],
       "question": "Using the cycle and the table of values, calculate the second ionisation energy of calcium, including sign and units. The table values are not in the extracted text.",
       "status": "pending",
       "answer": "Needs the energy values table and cycle from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-01.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-02.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-03.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q1(b)",
       "no": "Q1(b)",
       "marks": 3,
       "topic": "Experimental Versus Theoretical Lattice Energy",
-      "keywords": ["experimental lattice energy", "theoretical lattice energy", "covalent character", "polarisation", "calcium chloride", "more exothermic"],
+      "keywords": [
+        "experimental lattice energy",
+        "theoretical lattice energy",
+        "covalent character",
+        "polarisation",
+        "calcium chloride",
+        "more exothermic"
+      ],
       "question": "The theoretical lattice energy of CaCl2 is -2223 kJ mol-1. Explain why the experimental (Born-Haber) lattice energy is more exothermic than this theoretical value.",
       "status": "ready",
       "answer": "The theoretical value assumes purely ionic bonding; the real compound has covalent character from polarisation of Cl- by Ca2+, giving a more exothermic experimental value",
@@ -40,6 +71,11 @@
         "Calcium ions have a high charge density (2+ and small), so they polarise the large chloride ions.",
         "This polarisation gives the bonding some covalent character, which the ionic model does not include.",
         "The extra covalent bonding makes the lattice more stable, so the experimental lattice energy is more exothermic than -2223 kJ mol-1."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-01.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-02.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-03.jpg"
       ]
     },
     {
@@ -47,7 +83,14 @@
       "no": "Q1(c)",
       "marks": 3,
       "topic": "Trend In Group 2 Lattice Energy",
-      "keywords": ["lattice energy trend", "Group 2 chlorides", "descending group", "ionic radius", "charge density", "electrostatic attraction"],
+      "keywords": [
+        "lattice energy trend",
+        "Group 2 chlorides",
+        "descending group",
+        "ionic radius",
+        "charge density",
+        "electrostatic attraction"
+      ],
       "question": "Explain the trend in theoretical lattice energies of the Group 2 chlorides on descending Group 2.",
       "status": "ready",
       "answer": "Lattice energy becomes less exothermic down the group because the cations get larger, so charge density falls and the electrostatic attraction weakens",
@@ -56,6 +99,11 @@
         "The 2+ charge stays the same, so the charge density (charge/radius) decreases.",
         "Weaker attraction between the larger cation and the chloride ions means less energy is released when the lattice forms.",
         "So the lattice energy becomes less exothermic on descending the group."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-01.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-02.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-03.jpg"
       ]
     },
     {
@@ -63,73 +111,143 @@
       "no": "Q1(d)",
       "marks": 2,
       "topic": "Enthalpy Change Of Solution Of CaCl2",
-      "keywords": ["enthalpy change of solution", "CaCl2", "hydration enthalpy", "lattice energy", "Hess cycle", "experimental lattice energy"],
+      "keywords": [
+        "enthalpy change of solution",
+        "CaCl2",
+        "hydration enthalpy",
+        "lattice energy",
+        "Hess cycle",
+        "experimental lattice energy"
+      ],
       "question": "Calculate the enthalpy change of solution of CaCl2 using the experimental lattice energy of -2258 kJ mol-1. The hydration enthalpies needed are not in the extracted text.",
       "status": "pending",
       "answer": "Needs the hydration enthalpies of Ca2+ and Cl- from the PDF table; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-01.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-02.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-03.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q2",
       "no": "Q2",
       "marks": 1,
       "topic": "Born-Haber Cycle Labelling",
-      "keywords": ["Born-Haber cycle", "LiCl", "labelled energy change", "formation", "lattice energy", "solution"],
+      "keywords": [
+        "Born-Haber cycle",
+        "LiCl",
+        "labelled energy change",
+        "formation",
+        "lattice energy",
+        "solution"
+      ],
       "question": "In a Born-Haber cycle for LiCl, what does the labelled energy change X represent? Options: A sum of hydration enthalpies of gaseous ions, B enthalpy change of formation of LiCl, C enthalpy change of solution of LiCl, D lattice energy of LiCl. The diagram is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the LiCl cycle diagram from the PDF to identify X; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-03.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-04.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q3(a)",
       "no": "Q3(a)",
       "marks": 1,
       "topic": "Electron Affinity Of Chlorine From Cycle",
-      "keywords": ["electron affinity", "chlorine", "Born-Haber cycle", "magnesium chloride", "cycle letters w x y"],
+      "keywords": [
+        "electron affinity",
+        "chlorine",
+        "Born-Haber cycle",
+        "magnesium chloride",
+        "cycle letters w x y"
+      ],
       "question": "For the Born-Haber cycle for MgCl2 (energy changes labelled w, x, y, etc.), which expression gives the electron affinity of chlorine? Options: A y, B y/2, C (w + y), D (w + y)/2. The diagram is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the labelled cycle diagram from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-04.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-05.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q3(b)",
       "no": "Q3(b)",
       "marks": 1,
       "topic": "Lattice Energy Expression From Cycle",
-      "keywords": ["lattice energy", "magnesium chloride", "Born-Haber", "expression", "labelled cycle"],
+      "keywords": [
+        "lattice energy",
+        "magnesium chloride",
+        "Born-Haber",
+        "expression",
+        "labelled cycle"
+      ],
       "question": "Which expression gives the lattice energy of magnesium chloride from the labelled cycle? Options: A LE = u - (v + w + x + y), B LE = v + w + x + y - u, C LE = y - u - (v + w + x), D LE = v + w + x - y + u.",
       "status": "pending",
       "answer": "Needs the labelled cycle diagram from the PDF to be checked; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-04.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-05.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q3(c)",
       "no": "Q3(c)",
       "marks": 1,
       "topic": "Enthalpy Change x In Cycle",
-      "keywords": ["atomisation", "ionisation energy", "magnesium", "Born-Haber", "energy change x"],
+      "keywords": [
+        "atomisation",
+        "ionisation energy",
+        "magnesium",
+        "Born-Haber",
+        "energy change x"
+      ],
       "question": "Which energy change in the MgCl2 cycle does x represent? Options: A first ionisation energy of Mg, B second ionisation energy of Mg, C sum of first and second ionisation energies of Mg, D sum of the enthalpy change of atomisation and the first and second ionisation energies of Mg. The diagram is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the labelled cycle diagram from the PDF to identify x; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-04.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-05.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q4",
       "no": "Q4",
       "marks": 1,
       "topic": "Enthalpy Of Atomisation Of Bromine",
-      "keywords": ["enthalpy change of atomisation", "bromine", "equation", "Br2", "gaseous atoms"],
+      "keywords": [
+        "enthalpy change of atomisation",
+        "bromine",
+        "equation",
+        "Br2",
+        "gaseous atoms"
+      ],
       "question": "Which equation represents the standard enthalpy change of atomisation of bromine? The four options are not in the extracted text.",
       "status": "pending",
       "answer": "Equation options are missing from the extracted text; the correct form is 1/2 Br2(g) -> Br(g), check against the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-06.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-07.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q5",
       "no": "Q5",
       "marks": 1,
       "topic": "Data Not Needed For Solution Enthalpy",
-      "keywords": ["enthalpy change of solution", "sodium sulfate", "lattice energy", "hydration enthalpy", "enthalpy change of formation", "not required"],
+      "keywords": [
+        "enthalpy change of solution",
+        "sodium sulfate",
+        "lattice energy",
+        "hydration enthalpy",
+        "enthalpy change of formation",
+        "not required"
+      ],
       "question": "The enthalpy change of solution of Na2SO4 is calculated from three pieces of data. Which is NOT required? Options: A lattice energy of Na2SO4, B enthalpy change of hydration of Na+, C enthalpy change of formation of Na2SO4, D enthalpy change of hydration of SO4^2- (text partly missing).",
       "status": "ready",
       "answer": "C - enthalpy change of formation of Na2SO4",
@@ -138,6 +256,10 @@
         "Lattice energy (A) is needed to break the solid lattice.",
         "Hydration enthalpies of Na+ (B) and SO4^2- (D) are needed for the ions in solution.",
         "The enthalpy change of formation of Na2SO4 (C) is not part of the solution cycle, so it is not required."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-06.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-07.jpg"
       ]
     },
     {
@@ -145,7 +267,15 @@
       "no": "Q6(a)",
       "marks": 1,
       "topic": "Least Exothermic Lattice Energy",
-      "keywords": ["lattice energy", "least exothermic", "calcium chloride", "magnesium chloride", "potassium bromide", "sodium bromide", "ionic charge and radius"],
+      "keywords": [
+        "lattice energy",
+        "least exothermic",
+        "calcium chloride",
+        "magnesium chloride",
+        "potassium bromide",
+        "sodium bromide",
+        "ionic charge and radius"
+      ],
       "question": "Which compound would be expected to have the least exothermic lattice energy? Options: A calcium chloride, B magnesium chloride, C potassium bromide, D sodium bromide.",
       "status": "ready",
       "answer": "C - potassium bromide",
@@ -155,6 +285,10 @@
         "KBr and NaBr have 1+ and 1- ions, so they are much less exothermic.",
         "K+ is larger than Na+, so its charge density is lower and the lattice energy is less exothermic.",
         "So potassium bromide has the least exothermic lattice energy, option C."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-06.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-07.jpg"
       ]
     },
     {
@@ -162,7 +296,14 @@
       "no": "Q6(b)",
       "marks": 1,
       "topic": "Largest Born-Haber Discrepancy",
-      "keywords": ["Born-Haber", "theoretical lattice energy", "covalent character", "polarising power", "magnesium chloride", "charge density"],
+      "keywords": [
+        "Born-Haber",
+        "theoretical lattice energy",
+        "covalent character",
+        "polarising power",
+        "magnesium chloride",
+        "charge density"
+      ],
       "question": "Which compound would be expected to have the largest difference between experimental (Born-Haber) and theoretical lattice energies? Options: A calcium chloride, B magnesium chloride, C potassium bromide, D sodium bromide.",
       "status": "ready",
       "answer": "B - magnesium chloride",
@@ -171,6 +312,10 @@
         "Covalent character increases with the polarising power of the cation (high charge and small size).",
         "Mg2+ is the smallest and most highly charged cation of the four, so it has the greatest polarising power.",
         "So MgCl2 has the most covalent character and the largest difference, option B."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-06.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-07.jpg"
       ]
     },
     {
@@ -178,7 +323,14 @@
       "no": "Q7",
       "marks": 1,
       "topic": "Solubility Of Potassium Chloride",
-      "keywords": ["solubility", "potassium chloride", "enthalpy change of solution", "entropy change positive", "dissolving", "feasible"],
+      "keywords": [
+        "solubility",
+        "potassium chloride",
+        "enthalpy change of solution",
+        "entropy change positive",
+        "dissolving",
+        "feasible"
+      ],
       "question": "The standard enthalpy change of solution of KCl is +17 kJ mol-1 and its solubility is 359 g dm-3 at 298 K. Which explains the solubility? Options: A hydration enthalpy of K+ and lattice energy of KCl are exothermic, B (garbled option about enthalpy values), C total entropy change on dissolving is positive, D total entropy change on dissolving is negative.",
       "status": "ready",
       "answer": "C - the total entropy change when KCl dissolves is positive",
@@ -187,6 +339,10 @@
         "Dissolving disperses the ions into solution, which increases the entropy of the system.",
         "The entropy of the surroundings also changes as the solution cools, so the total entropy change can be positive.",
         "A positive total entropy change makes dissolving feasible, so option C is the explanation."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-07.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-08.jpg"
       ]
     },
     {
@@ -194,18 +350,37 @@
       "no": "Q8",
       "marks": 6,
       "topic": "Bonding In NaCl And MgI2",
-      "keywords": ["sodium chloride", "magnesium iodide", "theoretical lattice energy", "experimental lattice energy", "covalent character", "bonding type", "polarisation"],
+      "keywords": [
+        "sodium chloride",
+        "magnesium iodide",
+        "theoretical lattice energy",
+        "experimental lattice energy",
+        "covalent character",
+        "bonding type",
+        "polarisation"
+      ],
       "question": "Using the theoretical and experimental (Born-Haber) lattice energies of NaCl and MgI2 in the table, compare and contrast the type and strength of bonding in the two compounds, giving reasons. The table is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the lattice energy table from the PDF to check the comparison; the data are not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-07.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-08.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q9(a)",
       "no": "Q9(a)",
       "marks": 1,
       "topic": "Enthalpy Of Atomisation Of Iodine Equation",
-      "keywords": ["enthalpy change of atomisation", "iodine", "lithium iodide", "equation", "gaseous atoms", "1/2 I2"],
+      "keywords": [
+        "enthalpy change of atomisation",
+        "iodine",
+        "lithium iodide",
+        "equation",
+        "gaseous atoms",
+        "1/2 I2"
+      ],
       "question": "The enthalpy change of atomisation of iodine (+107 kJ mol-1) is given by which equation? Options: A 1/2 I2(g) -> I(g), B 1/2 I2(s) -> I(g), C I2(g) -> 2I(g), D I2(s) -> 2I(g).",
       "status": "ready",
       "answer": "A - 1/2 I2(g) -> I(g)",
@@ -214,6 +389,10 @@
         "Atomisation is written from the gaseous element, so the starting species is I2(g) for this cycle.",
         "The equation is per mole of atoms, so 1/2 I2 gives 1 mole of I(g).",
         "This matches option A."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-08.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-09.jpg"
       ]
     },
     {
@@ -221,29 +400,60 @@
       "no": "Q9(b)",
       "marks": 1,
       "topic": "Electron Affinity Of Iodine From Cycle",
-      "keywords": ["electron affinity", "iodine", "lithium iodide", "Born-Haber", "enthalpy level", "-298", "-242"],
+      "keywords": [
+        "electron affinity",
+        "iodine",
+        "lithium iodide",
+        "Born-Haber",
+        "enthalpy level",
+        "-298",
+        "-242"
+      ],
       "question": "Using the simplified Born-Haber cycle for LiI, calculate the electron affinity of iodine. Options: A -298, B -242, C +242, D +298 kJ mol-1. The cycle values are not in the extracted text.",
       "status": "pending",
       "answer": "Needs the cycle values from the PDF diagram; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-08.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-09.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q10",
       "no": "Q10",
       "marks": 1,
       "topic": "Enthalpy Of Hydration Of Ca2+",
-      "keywords": ["enthalpy change of hydration", "calcium ion", "Ca2+", "energy changes table", "Born-Haber", "-1410", "-3106"],
+      "keywords": [
+        "enthalpy change of hydration",
+        "calcium ion",
+        "Ca2+",
+        "energy changes table",
+        "Born-Haber",
+        "-1410",
+        "-3106"
+      ],
       "question": "Using a table of energy changes, calculate the enthalpy change of hydration of Ca2+(g). Options: A -1410, B -1650, C -2014, D -3106 kJ mol-1. The table is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the energy changes table from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-09.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-10.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q11",
       "no": "Q11",
       "marks": 1,
       "topic": "True Statement About Hydration And Solution",
-      "keywords": ["enthalpy change of hydration", "always negative", "enthalpy change of solution", "solubility", "lattice energy", "true statement"],
+      "keywords": [
+        "enthalpy change of hydration",
+        "always negative",
+        "enthalpy change of solution",
+        "solubility",
+        "lattice energy",
+        "true statement"
+      ],
       "question": "Which statement is true? A The enthalpy change of hydration of an ion is always negative; B the enthalpy change of solution of an ionic compound is always negative; C an endothermic enthalpy change of solution means the compound is insoluble; D the more exothermic the lattice energy, the more soluble the compound.",
       "status": "ready",
       "answer": "A - the enthalpy change of hydration of an ion is always negative",
@@ -252,6 +462,10 @@
         "So the enthalpy change of hydration is always exothermic, i.e. negative (option A is true).",
         "The enthalpy change of solution can be positive (endothermic), as for KCl, so B is false.",
         "An endothermic solution does not mean insoluble, so C is false; a more exothermic lattice energy makes solubility less likely, so D is false."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-09.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-10.jpg"
       ]
     },
     {
@@ -259,51 +473,113 @@
       "no": "Q12",
       "marks": 1,
       "topic": "Largest Percentage Lattice Energy Difference",
-      "keywords": ["percentage difference", "ionic radii", "ionic charges", "experimental lattice energy", "theoretical lattice energy", "P Q R S"],
+      "keywords": [
+        "percentage difference",
+        "ionic radii",
+        "ionic charges",
+        "experimental lattice energy",
+        "theoretical lattice energy",
+        "P Q R S"
+      ],
       "question": "Which compound would show the largest percentage difference between experimental and theoretical lattice energies? The ionic radii and charges are in a table not in the extracted text. Options: A PR, B PS, C QR, D QS.",
       "status": "pending",
       "answer": "Needs the ionic radii and charge table from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-12.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q13(a)(i)",
       "no": "Q13(a)(i)",
       "marks": 2,
       "topic": "Standard Enthalpy Change Of Reduction",
-      "keywords": ["enthalpy change of reaction", "iron(III) oxide", "carbon reduction", "Hess cycle", "standard enthalpy", "data table"],
+      "keywords": [
+        "enthalpy change of reaction",
+        "iron(III) oxide",
+        "carbon reduction",
+        "Hess cycle",
+        "standard enthalpy",
+        "data table"
+      ],
       "question": "Calculate the standard enthalpy change of the reduction of iron(III) oxide by carbon, Fe2O3(s) + 3C(s) -> 2Fe(s) + 3CO(g), using the data given.",
       "status": "pending",
       "answer": "Needs the data table from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-12.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q13(a)(ii)",
       "no": "Q13(a)(ii)",
       "marks": 3,
       "topic": "Entropy Change Of Reduction",
-      "keywords": ["entropy change of system", "iron(III) oxide", "carbon monoxide", "standard molar entropy", "data table"],
+      "keywords": [
+        "entropy change of system",
+        "iron(III) oxide",
+        "carbon monoxide",
+        "standard molar entropy",
+        "data table"
+      ],
       "question": "Calculate the entropy change of the system for the reduction of iron(III) oxide by carbon using the given data.",
       "status": "pending",
       "answer": "Needs the standard entropy data from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-12.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q13(a)(iii)",
       "no": "Q13(a)(iii)",
       "marks": 3,
       "topic": "Temperature For Feasibility",
-      "keywords": ["feasible temperature", "deltaG = 0", "deltaH", "deltaS", "iron oxide reduction", "carbon"],
+      "keywords": [
+        "feasible temperature",
+        "deltaG = 0",
+        "deltaH",
+        "deltaS",
+        "iron oxide reduction",
+        "carbon"
+      ],
       "question": "Using your answers from (a)(i) and (a)(ii), calculate the temperature at which the reduction of iron(III) oxide by carbon becomes feasible.",
       "status": "pending",
       "answer": "Depends on the answers to (a)(i) and (a)(ii), which need the PDF data",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-12.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q13(b)(i)",
       "no": "Q13(b)(i)",
       "marks": 2,
       "topic": "Feasibility At Any Temperature",
-      "keywords": ["feasible at any temperature", "deltaG", "enthalpy negative", "entropy positive", "iron(III) oxide", "carbon monoxide"],
+      "keywords": [
+        "feasible at any temperature",
+        "deltaG",
+        "enthalpy negative",
+        "entropy positive",
+        "iron(III) oxide",
+        "carbon monoxide"
+      ],
       "question": "The reduction of iron(III) oxide by carbon monoxide has deltaH = -24.8 kJ mol-1 and deltaS = +15.2 J mol-1 K-1. Explain why the reaction should be feasible at any temperature.",
       "status": "ready",
       "answer": "deltaH is negative and deltaS is positive, so deltaG = deltaH - T deltaS is negative at all temperatures",
@@ -312,6 +588,13 @@
         "deltaH = -24.8 kJ mol-1 is negative, so the first term always makes deltaG negative.",
         "deltaS = +15.2 J mol-1 K-1 is positive, so -T deltaS is also negative for any temperature above 0 K.",
         "Both terms are negative, so deltaG is negative at all temperatures and the reaction is feasible at any temperature."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-12.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
       ]
     },
     {
@@ -319,7 +602,14 @@
       "no": "Q13(b)(ii)",
       "marks": 3,
       "topic": "Effect Of Temperature On Total Entropy",
-      "keywords": ["total entropy change", "temperature increase", "surroundings entropy", "deltaH negative", "iron(III) oxide", "carbon monoxide"],
+      "keywords": [
+        "total entropy change",
+        "temperature increase",
+        "surroundings entropy",
+        "deltaH negative",
+        "iron(III) oxide",
+        "carbon monoxide"
+      ],
       "question": "Explain how an increase in temperature would affect the total entropy change of the reduction of iron(III) oxide by carbon monoxide. No calculation is required.",
       "status": "ready",
       "answer": "The total entropy change decreases with rising temperature, because the surroundings term (-deltaH/T) gets smaller while the system term stays constant",
@@ -328,6 +618,13 @@
         "deltaSsystem = +15.2 J K-1 mol-1 is constant with temperature.",
         "deltaSsurroundings = -deltaH / T = +24 800 / T, which is positive but gets smaller as T increases.",
         "So deltaStotal falls as T increases, although it stays positive and the reaction remains feasible."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-12.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
       ]
     },
     {
@@ -335,29 +632,62 @@
       "no": "Q13(c)(i)",
       "marks": 3,
       "topic": "Born-Haber Cycle For FeO Labelling",
-      "keywords": ["Born-Haber cycle", "iron(II) oxide", "labelling energy changes", "letters", "boxes"],
+      "keywords": [
+        "Born-Haber cycle",
+        "iron(II) oxide",
+        "labelling energy changes",
+        "letters",
+        "boxes"
+      ],
       "question": "Complete the Born-Haber cycle for iron(II) oxide by putting letters in the boxes to label the energy changes. The diagram is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the cycle diagram from the PDF to be labelled; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-12.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q13(c)(ii)",
       "no": "Q13(c)(ii)",
       "marks": 2,
       "topic": "Second Ionisation Energy Of Iron",
-      "keywords": ["second ionisation energy", "iron", "Born-Haber cycle", "FeO", "value C"],
+      "keywords": [
+        "second ionisation energy",
+        "iron",
+        "Born-Haber cycle",
+        "FeO",
+        "value C"
+      ],
       "question": "Calculate the value for the second ionisation energy of iron, C, from the Born-Haber cycle for FeO. The data are in a table not in the extracted text.",
       "status": "pending",
       "answer": "Needs the data and labelled cycle from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-12.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q13(c)(iii)",
       "no": "Q13(c)(iii)",
       "marks": 2,
       "topic": "Positive Second Electron Affinity Of Oxygen",
-      "keywords": ["second electron affinity", "oxygen", "positive value", "repulsion", "O2- ion", "endothermic"],
+      "keywords": [
+        "second electron affinity",
+        "oxygen",
+        "positive value",
+        "repulsion",
+        "O2- ion",
+        "endothermic"
+      ],
       "question": "Suggest why the second electron affinity of oxygen is positive.",
       "status": "ready",
       "answer": "The added electron is repelled by the negative O- ion, so energy must be supplied to add it",
@@ -366,6 +696,13 @@
         "The second electron must be added to the negatively charged O- ion.",
         "The O- ion repels the incoming electron electrostatically.",
         "Energy must be supplied to overcome this repulsion, so the second electron affinity is positive (endothermic)."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-10.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-11.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-12.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-13.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-14.jpg"
       ]
     },
     {
@@ -373,62 +710,123 @@
       "no": "Q14(a)",
       "marks": 1,
       "topic": "Born-Haber Statement For SrI2",
-      "keywords": ["strontium iodide", "Born-Haber cycle", "electron affinity", "second ionisation energy", "atomisation", "not true statement"],
+      "keywords": [
+        "strontium iodide",
+        "Born-Haber cycle",
+        "electron affinity",
+        "second ionisation energy",
+        "atomisation",
+        "not true statement"
+      ],
       "question": "For the Born-Haber cycle of SrI2 (values in kJ mol-1, not to scale), which statement is not true? Options: A lattice energy is exothermic, B first electron affinity of iodine is -295, C second ionisation energy of strontium is +1614, D standard enthalpy change of atomisation of strontium is +164. The cycle diagram is not in the extracted text.",
       "status": "pending",
       "answer": "The cycle diagram values must be checked against the PDF to identify which statement does not match; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-14.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-15.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q14(b)",
       "no": "Q14(b)",
       "marks": 1,
       "topic": "Atomisation Of Iodine From Cycle",
-      "keywords": ["atomisation of iodine", "strontium iodide", "Born-Haber cycle", "+107", "kJ mol-1"],
+      "keywords": [
+        "atomisation of iodine",
+        "strontium iodide",
+        "Born-Haber cycle",
+        "+107",
+        "kJ mol-1"
+      ],
       "question": "Using the Born-Haber cycle for SrI2, calculate the standard enthalpy change of atomisation of iodine. Options: A +542, B +271, C +214, D +107 kJ mol-1.",
       "status": "pending",
       "answer": "Needs the SrI2 cycle values from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-14.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-15.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q14(c)",
       "no": "Q14(c)",
       "marks": 1,
       "topic": "Theoretical Lattice Energy Of SrI2",
-      "keywords": ["theoretical lattice energy", "strontium iodide", "ionic bonding only", "options", "kJ mol-1"],
+      "keywords": [
+        "theoretical lattice energy",
+        "strontium iodide",
+        "ionic bonding only",
+        "options",
+        "kJ mol-1"
+      ],
       "question": "Which is most likely to be the theoretical lattice energy of strontium iodide, calculated assuming only ionic bonding? Options: A -561, B -1937, C -1963, D -1989 kJ mol-1.",
       "status": "pending",
       "answer": "Needs the Born-Haber comparison values from the PDF; the choice cannot be fully checked from the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-14.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-15.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q15(a)",
       "no": "Q15(a)",
       "marks": 1,
       "topic": "Enthalpy Of Atomisation Of Calcium",
-      "keywords": ["enthalpy change of atomisation", "calcium", "Born-Haber cycle", "CaCl2", "value"],
+      "keywords": [
+        "enthalpy change of atomisation",
+        "calcium",
+        "Born-Haber cycle",
+        "CaCl2",
+        "value"
+      ],
       "question": "State the value of the standard enthalpy change of atomisation of calcium from the Born-Haber cycle for calcium chloride. The cycle is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the cycle diagram from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-15.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-16.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-17.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q15(b)",
       "no": "Q15(b)",
       "marks": 2,
       "topic": "Enthalpy Of Formation Of CaCl2",
-      "keywords": ["enthalpy change of formation", "calcium chloride", "Born-Haber cycle", "Hess cycle", "CaCl2"],
+      "keywords": [
+        "enthalpy change of formation",
+        "calcium chloride",
+        "Born-Haber cycle",
+        "Hess cycle",
+        "CaCl2"
+      ],
       "question": "Calculate the enthalpy change of formation of calcium chloride from the Born-Haber cycle. The values are in the diagram, not in the extracted text.",
       "status": "pending",
       "answer": "Needs the cycle values from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-15.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-16.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-17.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q15(c)",
       "no": "Q15(c)",
       "marks": 4,
       "topic": "Covalent Character Of Calcium Iodide",
-      "keywords": ["calcium iodide", "calcium chloride", "difference theoretical experimental", "polarisation", "iodide ion", "covalent character", "lattice energy"],
+      "keywords": [
+        "calcium iodide",
+        "calcium chloride",
+        "difference theoretical experimental",
+        "polarisation",
+        "iodide ion",
+        "covalent character",
+        "lattice energy"
+      ],
       "question": "Explain why the difference between theoretical and experimental lattice energy is much greater for calcium iodide than for calcium chloride.",
       "status": "ready",
       "answer": "The large iodide ion is easily polarised by Ca2+, so CaI2 has much more covalent character than CaCl2, which the ionic model does not include",
@@ -438,6 +836,11 @@
         "Iodide is a very large anion with a diffuse electron cloud, so it is highly polarisable.",
         "Chloride is smaller and less polarisable, so CaCl2 is much closer to ionic.",
         "CaI2 therefore has far more covalent character, giving a much larger difference between the theoretical and experimental values."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-15.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-16.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-17.jpg"
       ]
     },
     {
@@ -445,84 +848,173 @@
       "no": "Q15(d)(i)",
       "marks": 2,
       "topic": "Energy Cycle For Dissolving CaCl2",
-      "keywords": ["energy cycle", "dissolving", "calcium chloride", "labelled arrows", "solution", "hydration"],
+      "keywords": [
+        "energy cycle",
+        "dissolving",
+        "calcium chloride",
+        "labelled arrows",
+        "solution",
+        "hydration"
+      ],
       "question": "Complete the energy cycle for dissolving calcium chloride in water, including the labelled arrows. The cycle diagram is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the energy cycle diagram from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-15.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-16.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-17.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q15(d)(ii)",
       "no": "Q15(d)(ii)",
       "marks": 2,
       "topic": "Enthalpy Change Of Solution Of CaCl2",
-      "keywords": ["enthalpy change of solution", "calcium chloride", "energy cycle", "lattice energy", "hydration enthalpy", "calculation"],
+      "keywords": [
+        "enthalpy change of solution",
+        "calcium chloride",
+        "energy cycle",
+        "lattice energy",
+        "hydration enthalpy",
+        "calculation"
+      ],
       "question": "Calculate the enthalpy change of solution of calcium chloride using the completed energy cycle in (d)(i).",
       "status": "pending",
       "answer": "Needs the completed cycle and the data from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-15.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-16.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-17.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q16",
       "no": "Q16",
       "marks": 1,
       "topic": "Covalency And Lattice Energy Discrepancy",
-      "keywords": ["covalent bonding", "ionic compound", "Born-Haber", "theoretical lattice energy", "electrostatic theory", "cause of covalency"],
+      "keywords": [
+        "covalent bonding",
+        "ionic compound",
+        "Born-Haber",
+        "theoretical lattice energy",
+        "electrostatic theory",
+        "cause of covalency"
+      ],
       "question": "An ionic compound has some covalent bonding. What causes the covalency, and how does the lattice energy from a Born-Haber cycle differ from the theoretical electrostatic value? The option list is not in the extracted text.",
       "status": "pending",
       "answer": "Options are missing from the extracted text; the expected answer is polarisation of the anion, with the Born-Haber value more exothermic, check against the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-17.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-18.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q17(a)",
       "no": "Q17(a)",
       "marks": 1,
       "topic": "Energy Change Y In Sodium Oxide Cycle",
-      "keywords": ["sodium oxide", "electron affinity", "oxygen", "Born-Haber cycle", "energy change y", "atomisation"],
+      "keywords": [
+        "sodium oxide",
+        "electron affinity",
+        "oxygen",
+        "Born-Haber cycle",
+        "energy change y",
+        "atomisation"
+      ],
       "question": "Which energy change in the Born-Haber cycle for sodium oxide does y represent? Options: A first electron affinity of oxygen, B second electron affinity of oxygen, C sum of the first and second electron affinities of oxygen, D sum of the enthalpy change of atomisation of oxygen and the first and second electron affinities of oxygen. The diagram is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the labelled sodium oxide cycle from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-18.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-19.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q17(b)",
       "no": "Q17(b)",
       "marks": 1,
       "topic": "Enthalpy Of Formation Expression For Sodium Oxide",
-      "keywords": ["enthalpy of formation", "sodium oxide", "Born-Haber", "expression", "labelled cycle"],
+      "keywords": [
+        "enthalpy of formation",
+        "sodium oxide",
+        "Born-Haber",
+        "expression",
+        "labelled cycle"
+      ],
       "question": "Which expression gives the enthalpy change of formation of sodium oxide? Options: A v + w + x - y - z, B v + w + x + y - z, C v + w + x - y + z, D v + w + x + y + z.",
       "status": "pending",
       "answer": "Needs the labelled sodium oxide cycle from the PDF to be checked; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-18.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-19.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q18(a)(i)",
       "no": "Q18(a)(i)",
       "marks": 2,
       "topic": "Identifying Missing Cycle Details",
-      "keywords": ["barium oxide", "Born-Haber cycle", "missing detail", "R", "W", "labels"],
+      "keywords": [
+        "barium oxide",
+        "Born-Haber cycle",
+        "missing detail",
+        "R",
+        "W",
+        "labels"
+      ],
       "question": "Identify the missing details represented by the letters R and W in the Born-Haber cycle for barium oxide. The cycle diagram is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the BaO cycle diagram from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-19.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-20.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-21.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-22.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q18(a)(ii)",
       "no": "Q18(a)(ii)",
       "marks": 3,
       "topic": "Calculating Value Z In BaO Cycle",
-      "keywords": ["barium oxide", "Z value", "Born-Haber", "sign and units", "lattice energy", "enthalpy change"],
+      "keywords": [
+        "barium oxide",
+        "Z value",
+        "Born-Haber",
+        "sign and units",
+        "lattice energy",
+        "enthalpy change"
+      ],
       "question": "Use the data given to calculate a value for quantity Z in the Born-Haber cycle for barium oxide, including sign and units. The data are not in the extracted text.",
       "status": "pending",
       "answer": "Needs the data table from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-19.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-20.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-21.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-22.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q18(a)(iii)",
       "no": "Q18(a)(iii)",
       "marks": 3,
       "topic": "Agreement Of Theoretical And Experimental Values",
-      "keywords": ["barium oxide", "magnesium iodide", "percentage difference", "polarisation", "small highly charged anion", "covalent character"],
+      "keywords": [
+        "barium oxide",
+        "magnesium iodide",
+        "percentage difference",
+        "polarisation",
+        "small highly charged anion",
+        "covalent character"
+      ],
       "question": "The table gives lattice energies of barium oxide and magnesium iodide and the percentage difference between theoretical and experimental values. Explain why there is closer agreement for barium oxide than for magnesium iodide.",
       "status": "ready",
       "answer": "BaO is more ionic: the oxide ion is small and highly charged but not very polarisable, while MgI2 has a small cation and a large polarisable iodide ion, giving more covalent character",
@@ -532,6 +1024,12 @@
         "Magnesium iodide has a small, highly polarising Mg2+ ion and a large, easily polarised I- ion.",
         "Polarisation adds covalent character to MgI2, so the real lattice energy differs much more from the ionic theoretical value.",
         "Hence agreement is closer for barium oxide than for magnesium iodide."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-19.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-20.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-21.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-22.jpg"
       ]
     },
     {
@@ -539,18 +1037,38 @@
       "no": "Q18(b)(i)",
       "marks": 4,
       "topic": "Enthalpy Of Solution Of Ba(OH)2 By Hess Cycle",
-      "keywords": ["enthalpy change of solution", "barium hydroxide", "Hess cycle", "hydration of hydroxide ion", "-460", "lattice energy"],
+      "keywords": [
+        "enthalpy change of solution",
+        "barium hydroxide",
+        "Hess cycle",
+        "hydration of hydroxide ion",
+        "-460",
+        "lattice energy"
+      ],
       "question": "Using a fully labelled Hess cycle and the hydration enthalpy of OH- (-460 kJ mol-1), calculate the enthalpy change of solution of Ba(OH)2. The table data are not in the extracted text.",
       "status": "pending",
       "answer": "Needs the table of Group 2 ion and hydroxide data from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-19.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-20.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-21.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-22.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q18(b)(ii)",
       "no": "Q18(b)(ii)",
       "marks": 2,
       "topic": "Slight Solubility Despite Endothermic Solution",
-      "keywords": ["strontium hydroxide", "slightly soluble", "endothermic", "entropy", "total entropy change", "feasibility"],
+      "keywords": [
+        "strontium hydroxide",
+        "slightly soluble",
+        "endothermic",
+        "entropy",
+        "total entropy change",
+        "feasibility"
+      ],
       "question": "Explain why strontium hydroxide is slightly soluble in water even though its enthalpy change of solution is endothermic.",
       "status": "ready",
       "answer": "Dissolving increases the entropy of the system as ions disperse, so the total entropy change can be positive and dissolving is feasible despite the endothermic enthalpy change",
@@ -559,6 +1077,12 @@
         "Dissolving disperses the ions through the solution, so the entropy of the system increases.",
         "The total entropy change (system plus surroundings) can therefore be positive, so the process is feasible to a small extent.",
         "Because the solubility is only slight, the favourable entropy term is limited by the endothermic enthalpy term."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-19.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-20.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-21.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-22.jpg"
       ]
     },
     {
@@ -566,51 +1090,107 @@
       "no": "Q19(a)",
       "marks": 1,
       "topic": "True Statement About Lead Nitrate Cycle",
-      "keywords": ["lead(II) nitrate", "enthalpy cycle", "enthalpy of formation", "hydration", "solution", "entropy of surroundings"],
+      "keywords": [
+        "lead(II) nitrate",
+        "enthalpy cycle",
+        "enthalpy of formation",
+        "hydration",
+        "solution",
+        "entropy of surroundings"
+      ],
       "question": "For the enthalpy cycle of lead(II) nitrate, which statement is true? Options: A enthalpy change of formation is -2151 kJ mol-1, B enthalpy change of solution is exothermic, C hydration of Pb2+ is more exothermic than that of NO3-, D entropy change of surroundings for dissolving is positive. The cycle values are not in the extracted text.",
       "status": "pending",
       "answer": "Needs the enthalpy cycle values from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-22.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-23.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q19(b)",
       "no": "Q19(b)",
       "marks": 1,
       "topic": "Hydration Enthalpy Of Nitrate Ion",
-      "keywords": ["hydration enthalpy", "nitrate ion", "lead(II) nitrate", "enthalpy cycle", "calculation", "-314"],
+      "keywords": [
+        "hydration enthalpy",
+        "nitrate ion",
+        "lead(II) nitrate",
+        "enthalpy cycle",
+        "calculation",
+        "-314"
+      ],
       "question": "Using the enthalpy cycle for lead(II) nitrate, calculate the enthalpy change of hydration of a nitrate ion. Options: A -3598, B -1799, C -628, D -314 kJ mol-1.",
       "status": "pending",
       "answer": "Needs the enthalpy cycle values from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-22.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-23.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q20(a)(i)",
       "no": "Q20(a)(i)",
       "marks": 2,
       "topic": "Entropy Change For Barium Carbonate Decomposition",
-      "keywords": ["barium carbonate", "decomposition", "entropy change of system", "BaO", "CO2", "standard entropy data"],
+      "keywords": [
+        "barium carbonate",
+        "decomposition",
+        "entropy change of system",
+        "BaO",
+        "CO2",
+        "standard entropy data"
+      ],
       "question": "Calculate the standard entropy change of the system for BaCO3(s) -> BaO(s) + CO2(g). The standard entropy data are not in the extracted text.",
       "status": "pending",
       "answer": "Needs the standard entropy data from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q20(a)(ii)",
       "no": "Q20(a)(ii)",
       "marks": 3,
       "topic": "Enthalpy Change From Decomposition Temperature",
-      "keywords": ["barium carbonate", "712 C", "enthalpy change", "entropy change", "decomposition temperature", "Gibbs energy zero"],
+      "keywords": [
+        "barium carbonate",
+        "712 C",
+        "enthalpy change",
+        "entropy change",
+        "decomposition temperature",
+        "Gibbs energy zero"
+      ],
       "question": "The lowest temperature at which barium carbonate decomposes is 712 C. Using this and your answer to (a)(i), calculate the standard enthalpy change of the reaction, with an appropriate number of significant figures.",
       "status": "pending",
       "answer": "Depends on the entropy change from (a)(i), which needs the PDF data",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q20(b)",
       "no": "Q20(b)",
       "marks": 3,
       "topic": "Enthalpy Of Solution Of MgCl2 From Calorimetry",
-      "keywords": ["enthalpy change of solution", "magnesium chloride", "calorimetry", "temperature rise", "specific heat capacity", "polystyrene cup", "MgCl2"],
+      "keywords": [
+        "enthalpy change of solution",
+        "magnesium chloride",
+        "calorimetry",
+        "temperature rise",
+        "specific heat capacity",
+        "polystyrene cup",
+        "MgCl2"
+      ],
       "question": "4.26 g of anhydrous MgCl2 is dissolved in 200 cm3 of deionised water in a polystyrene cup. The temperature rises by 6.8 C. Calculate the enthalpy change of solution of MgCl2, with sign and units. Specific heat capacity of the solution = 4.18 J g-1 C-1.",
       "status": "ready",
       "answer": "deltaH(sol) = about -130 kJ mol-1 (taking the solution mass as 204.26 g; about -127 kJ mol-1 if only 200 g is used)",
@@ -620,6 +1200,12 @@
         "Heat released by dissolving = 5806 J (the solution warmed, so the process is exothermic).",
         "Molar mass of MgCl2 = 95.3 g mol-1, so moles = 4.26 / 95.3 = 0.0447 mol.",
         "deltaH(sol) = -5806 / 0.0447 = -1.30 x 10^5 J mol-1 = -130 kJ mol-1."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
       ]
     },
     {
@@ -627,29 +1213,60 @@
       "no": "Q20(c)(i)",
       "marks": 1,
       "topic": "Hess Cycle For MgCl2 Solution",
-      "keywords": ["Hess cycle", "magnesium chloride", "state symbols", "enthalpy change of solution", "formulae"],
+      "keywords": [
+        "Hess cycle",
+        "magnesium chloride",
+        "state symbols",
+        "enthalpy change of solution",
+        "formulae"
+      ],
       "question": "Complete the Hess cycle for the enthalpy change of solution of anhydrous MgCl2 by adding formulae with state symbols to the empty boxes. The cycle diagram is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the Hess cycle diagram from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q20(c)(ii)",
       "no": "Q20(c)(ii)",
       "marks": 3,
       "topic": "Hydration Enthalpy Of Chloride Ion",
-      "keywords": ["enthalpy change of hydration", "chloride ion", "Hess cycle", "magnesium chloride", "-155 kJ mol-1"],
+      "keywords": [
+        "enthalpy change of hydration",
+        "chloride ion",
+        "Hess cycle",
+        "magnesium chloride",
+        "-155 kJ mol-1"
+      ],
       "question": "Calculate the standard enthalpy change of hydration of chloride ions, using the Hess cycle in (c)(i) and your answer to (b). If (b) was not obtained, use -155 kJ mol-1.",
       "status": "pending",
       "answer": "Needs the Hess cycle from (c)(i) and the hydration enthalpy of Mg2+ from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q20(d)(i)",
       "no": "Q20(d)(i)",
       "marks": 2,
       "topic": "Assumptions In Theoretical Lattice Energy",
-      "keywords": ["theoretical lattice energy", "assumptions", "point charges", "purely ionic", "spherical ions", "electrostatic"],
+      "keywords": [
+        "theoretical lattice energy",
+        "assumptions",
+        "point charges",
+        "purely ionic",
+        "spherical ions",
+        "electrostatic"
+      ],
       "question": "Give two assumptions used in theoretical calculations of lattice energy.",
       "status": "ready",
       "answer": "Ions are perfect spheres (point charges) and the bonding is purely ionic with no covalent character",
@@ -657,6 +1274,12 @@
         "Theoretical lattice energy is calculated electrostatically.",
         "Assumption 1: the ions are perfect spheres with charge concentrated at the centre (point charges).",
         "Assumption 2: the bonding is purely ionic, so there is no covalent character from polarisation."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
       ]
     },
     {
@@ -664,7 +1287,14 @@
       "no": "Q20(d)(ii)",
       "marks": 3,
       "topic": "Theoretical Versus Experimental Lattice Energy For MgCl2",
-      "keywords": ["magnesium chloride", "theoretical lattice energy", "experimental lattice energy", "covalent character", "polarisation", "-2326"],
+      "keywords": [
+        "magnesium chloride",
+        "theoretical lattice energy",
+        "experimental lattice energy",
+        "covalent character",
+        "polarisation",
+        "-2326"
+      ],
       "question": "Explain the difference between the theoretical lattice energy of MgCl2 (-2326 kJ mol-1) and the experimental (Born-Haber) value.",
       "status": "ready",
       "answer": "The real MgCl2 has covalent character from polarisation of Cl- by the small, highly charged Mg2+, which the ionic theoretical value ignores",
@@ -673,6 +1303,12 @@
         "Mg2+ is small and highly charged, so it has a high polarising power.",
         "It distorts the electron cloud of the large Cl- ions, giving the bonds covalent character.",
         "The covalent character adds extra stability, so the experimental lattice energy is more exothermic than the theoretical value."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
       ]
     },
     {
@@ -680,7 +1316,15 @@
       "no": "Q20(e)(i)",
       "marks": 2,
       "topic": "Hydrochloric Acid In Excess",
-      "keywords": ["excess reagent", "barium carbonate", "hydrochloric acid", "moles", "stoichiometry", "5.00 g", "120 cm3"],
+      "keywords": [
+        "excess reagent",
+        "barium carbonate",
+        "hydrochloric acid",
+        "moles",
+        "stoichiometry",
+        "5.00 g",
+        "120 cm3"
+      ],
       "question": "A 5.00 g sample of barium carbonate reacts with 120 cm3 of 0.500 mol dm-3 HCl. Show that the hydrochloric acid is in excess. BaCO3 + 2HCl + nH2O -> BaCl2.nH2O + CO2 + H2O.",
       "status": "ready",
       "answer": "0.0253 mol BaCO3 needs 0.0507 mol HCl; 0.0600 mol HCl is available, so HCl is in excess",
@@ -690,6 +1334,12 @@
         "Moles HCl needed = 2 x 0.0253 = 0.0507 mol.",
         "Moles HCl supplied = 0.120 dm3 x 0.500 mol dm-3 = 0.0600 mol.",
         "0.0600 mol is more than 0.0507 mol, so HCl is in excess."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
       ]
     },
     {
@@ -697,7 +1347,14 @@
       "no": "Q20(e)(ii)",
       "marks": 3,
       "topic": "Relative Formula Mass And Water Of Crystallisation",
-      "keywords": ["relative formula mass", "BaCl2.nH2O", "water of crystallisation", "value of n", "6.19 g", "moles"],
+      "keywords": [
+        "relative formula mass",
+        "BaCl2.nH2O",
+        "water of crystallisation",
+        "value of n",
+        "6.19 g",
+        "moles"
+      ],
       "question": "All the barium carbonate reacted to give 6.19 g of hydrated barium chloride, BaCl2.nH2O. Calculate the relative formula mass of BaCl2.nH2O and hence deduce n.",
       "status": "ready",
       "answer": "Mr = 244 (about 244.2); n = 2",
@@ -707,6 +1364,12 @@
         "Mr(BaCl2) = 137.3 + 2 x 35.5 = 208.3 g mol-1.",
         "Mass of water = 244.3 - 208.3 = 36.0 g mol-1, which is 2 x 18.0.",
         "So n = 2."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-24.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-25.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-26.jpg"
       ]
     },
     {
@@ -714,29 +1377,59 @@
       "no": "Q21(a)(i)",
       "marks": 3,
       "topic": "Born-Haber Cycle For MgCl2 Labels",
-      "keywords": ["magnesium chloride", "Born-Haber cycle", "labels", "formulae", "energy changes", "empty boxes"],
+      "keywords": [
+        "magnesium chloride",
+        "Born-Haber cycle",
+        "labels",
+        "formulae",
+        "energy changes",
+        "empty boxes"
+      ],
       "question": "Complete the Born-Haber cycle for MgCl2 by adding labels for the four energy changes and writing formulae in the two empty boxes. The table and cycle are not in the extracted text.",
       "status": "pending",
       "answer": "Needs the cycle diagram and table from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-26.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-27.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-28.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q21(a)(ii)",
       "no": "Q21(a)(ii)",
       "marks": 2,
       "topic": "Electron Affinity Of Chlorine From Cycle",
-      "keywords": ["electron affinity of chlorine", "magnesium chloride", "Born-Haber", "kJ mol-1", "completed cycle"],
+      "keywords": [
+        "electron affinity of chlorine",
+        "magnesium chloride",
+        "Born-Haber",
+        "kJ mol-1",
+        "completed cycle"
+      ],
       "question": "Calculate the electron affinity of chlorine, in kJ mol-1, using the data in the table and the completed Born-Haber cycle for MgCl2.",
       "status": "pending",
       "answer": "Needs the energy values from the PDF table; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-26.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-27.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-28.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q21(a)(iii)",
       "no": "Q21(a)(iii)",
       "marks": 2,
       "topic": "Why MgCl2 And Not MgCl3",
-      "keywords": ["magnesium chloride", "MgCl3", "third ionisation energy", "magnesium", "ionic charge", "electron configuration"],
+      "keywords": [
+        "magnesium chloride",
+        "MgCl3",
+        "third ionisation energy",
+        "magnesium",
+        "ionic charge",
+        "electron configuration"
+      ],
       "question": "Explain why, when magnesium reacts with chlorine, MgCl2 is formed rather than MgCl3.",
       "status": "ready",
       "answer": "Magnesium loses two electrons to form Mg2+ with a noble gas configuration; removing a third electron needs a very large amount of energy that is not recovered in lattice formation",
@@ -745,6 +1438,11 @@
         "Removing a third electron would require a very large third ionisation energy, from a stable inner shell.",
         "The energy released by forming the extra lattice bonds is not large enough to pay for this third ionisation.",
         "So the most stable product is MgCl2, not MgCl3."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-26.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-27.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-28.jpg"
       ]
     },
     {
@@ -752,62 +1450,125 @@
       "no": "Q21(a)(iv)",
       "marks": 2,
       "topic": "Enthalpy Of Solution Of MgCl2 From Cycle",
-      "keywords": ["enthalpy change of solution", "magnesium chloride", "lattice energy", "LE MgCl2", "hydration", "Hess"],
+      "keywords": [
+        "enthalpy change of solution",
+        "magnesium chloride",
+        "lattice energy",
+        "LE MgCl2",
+        "hydration",
+        "Hess"
+      ],
       "question": "Calculate the standard molar enthalpy change of solution of MgCl2 using the data shown and the lattice energy LE[MgCl2] from the table.",
       "status": "pending",
       "answer": "Needs the hydration data and table from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-26.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-27.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-28.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q21(b)",
       "no": "Q21(b)",
       "marks": 6,
       "topic": "Structure And Bonding Versus Lattice Energy",
-      "keywords": ["theoretical lattice energy", "experimental lattice energy", "structure", "bonding", "covalent character", "three crystal lattices", "six values"],
+      "keywords": [
+        "theoretical lattice energy",
+        "experimental lattice energy",
+        "structure",
+        "bonding",
+        "covalent character",
+        "three crystal lattices",
+        "six values"
+      ],
       "question": "Discuss the reasons for the differences between the experimental and theoretical lattice energies of three crystal lattices, in terms of their structure and bonding. The six values are in a table not in the extracted text.",
       "status": "pending",
       "answer": "Needs the six lattice energy values from the PDF table to discuss each compound; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-26.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-27.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-28.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q22",
       "no": "Q22",
       "marks": 1,
       "topic": "Greatest Covalency In Ionic Bonds",
-      "keywords": ["covalency", "polarisation", "lattice energy data", "NaI", "AgBr", "Rb2S", "Li2O"],
+      "keywords": [
+        "covalency",
+        "polarisation",
+        "lattice energy data",
+        "NaI",
+        "AgBr",
+        "Rb2S",
+        "Li2O"
+      ],
       "question": "Which compound has the greatest degree of covalency within its ionic bonds? Options: A NaI, B AgBr, C Rb2S, D Li2O. The lattice energy data table is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the lattice energy data from the PDF to confirm; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-28.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-29.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q23",
       "no": "Q23",
       "marks": 1,
       "topic": "Enthalpy Of Atomisation Of Iodine Equation",
-      "keywords": ["enthalpy change of atomisation", "iodine", "equation", "gaseous atoms"],
+      "keywords": [
+        "enthalpy change of atomisation",
+        "iodine",
+        "equation",
+        "gaseous atoms"
+      ],
       "question": "Which equation represents the standard enthalpy change of atomisation of iodine? The options are not in the extracted text.",
       "status": "pending",
       "answer": "Equation options are missing from the extracted text; the correct form is 1/2 I2(g) -> I(g), check against the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-29.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-30.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q24",
       "no": "Q24",
       "marks": 1,
       "topic": "Second Electron Affinity Of Oxygen Equation",
-      "keywords": ["second electron affinity", "oxygen", "equation", "O-", "O2-"],
+      "keywords": [
+        "second electron affinity",
+        "oxygen",
+        "equation",
+        "O-",
+        "O2-"
+      ],
       "question": "Which equation represents the second electron affinity of oxygen? The options are not in the extracted text.",
       "status": "pending",
       "answer": "Equation options are missing from the extracted text; the correct form is O-(g) + e- -> O2-(g), check against the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-29.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-30.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q25(a)",
       "no": "Q25(a)",
       "marks": 2,
       "topic": "Entropy Reasons For Effervescent Reaction",
-      "keywords": ["effervescent tablet", "citric acid", "sodium hydrogencarbonate", "entropy of system", "carbon dioxide gas", "feasible"],
+      "keywords": [
+        "effervescent tablet",
+        "citric acid",
+        "sodium hydrogencarbonate",
+        "entropy of system",
+        "carbon dioxide gas",
+        "feasible"
+      ],
       "question": "Give two reasons why the reaction of citric acid with sodium hydrogencarbonate is thermodynamically feasible when considering the entropy of the system.",
       "status": "ready",
       "answer": "CO2 gas is formed (gas has high entropy), and the number of moles of gas/particles increases from 4 to 7",
@@ -815,6 +1576,10 @@
         "Three moles of CO2 gas are formed, and gases have much higher entropy than solids or liquids.",
         "The number of product particles (3 H2O + 3 CO2 + 1 Na3C6H5O7 = 7 mol) is greater than reactant particles (1 + 3 = 4 mol).",
         "More particles give more ways of arranging energy and matter, so the entropy of the system increases."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-30.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-31.jpg"
       ]
     },
     {
@@ -822,7 +1587,14 @@
       "no": "Q25(b)",
       "marks": 3,
       "topic": "Why Reaction Needs Dissolving",
-      "keywords": ["effervescent tablet", "solid particles", "mobility", "collisions", "dissolved in water", "reaction does not occur"],
+      "keywords": [
+        "effervescent tablet",
+        "solid particles",
+        "mobility",
+        "collisions",
+        "dissolved in water",
+        "reaction does not occur"
+      ],
       "question": "Describe, in terms of the particles involved, why the reaction does not occur until the tablets are dissolved in water.",
       "status": "ready",
       "answer": "In the solid the particles are fixed in position and cannot move to collide; dissolving frees the ions and molecules so they can move and collide",
@@ -831,6 +1603,10 @@
         "They cannot move freely, so reactant particles rarely come into contact and collide.",
         "When the tablet dissolves, the ions and molecules become mobile and disperse through the water.",
         "Mobile particles collide frequently and with enough energy, so the reaction can then take place."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-30.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-31.jpg"
       ]
     },
     {
@@ -838,29 +1614,59 @@
       "no": "Q25(c)",
       "marks": 2,
       "topic": "Enthalpy Change From Surroundings Entropy",
-      "keywords": ["enthalpy change of reaction", "surroundings entropy", "25 C", "sign and units", "deltaS surroundings", "effervescent"],
+      "keywords": [
+        "enthalpy change of reaction",
+        "surroundings entropy",
+        "25 C",
+        "sign and units",
+        "deltaS surroundings",
+        "effervescent"
+      ],
       "question": "For the reaction at 25 C, the standard entropy change of the surroundings is given in a value not shown in the extracted text. Calculate the enthalpy change of the reaction, including sign and units.",
       "status": "pending",
       "answer": "Needs the value of the entropy change of the surroundings from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-30.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-31.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q25(d)",
       "no": "Q25(d)",
       "marks": 3,
       "topic": "Enthalpy Level Diagram For Dissolving",
-      "keywords": ["enthalpy level diagram", "enthalpy change of solution", "lattice energy", "enthalpies of hydration", "sodium hydrogencarbonate", "+18.6 kJ mol-1"],
+      "keywords": [
+        "enthalpy level diagram",
+        "enthalpy change of solution",
+        "lattice energy",
+        "enthalpies of hydration",
+        "sodium hydrogencarbonate",
+        "+18.6 kJ mol-1"
+      ],
       "question": "Sketch an enthalpy level diagram showing the relationship between the enthalpy change of solution (+18.6 kJ mol-1 for NaHCO3), lattice energy and enthalpies of hydration, fully labelled.",
       "status": "pending",
       "answer": "A labelled diagram must be drawn and checked against the PDF; it cannot be verified from the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-30.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-31.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q26",
       "no": "Q26",
       "marks": 1,
       "topic": "Greatest Covalent Character",
-      "keywords": ["covalent character", "polarisation", "MgI2", "CaBr2", "CaI2", "MgBr2", "small cation large anion"],
+      "keywords": [
+        "covalent character",
+        "polarisation",
+        "MgI2",
+        "CaBr2",
+        "CaI2",
+        "MgBr2",
+        "small cation large anion"
+      ],
       "question": "Which compound has the greatest covalent character? Options: A CaBr2, B CaI2, C MgBr2, D MgI2.",
       "status": "ready",
       "answer": "D - MgI2",
@@ -869,6 +1675,9 @@
         "Mg2+ is smaller and more polarising than Ca2+.",
         "I- is the largest and most polarisable halide of the options.",
         "So MgI2 has the greatest covalent character, option D."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-31.jpg"
       ]
     },
     {
@@ -876,40 +1685,83 @@
       "no": "Q27(a)(i)",
       "marks": 2,
       "topic": "Enthalpy Change Of Dehydration Of CuSO4.5H2O",
-      "keywords": ["copper(II) sulfate", "hydrated", "dehydration", "enthalpy change", "data table", "CuSO4.5H2O"],
+      "keywords": [
+        "copper(II) sulfate",
+        "hydrated",
+        "dehydration",
+        "enthalpy change",
+        "data table",
+        "CuSO4.5H2O"
+      ],
       "question": "Using the data in the table, calculate the standard enthalpy change for CuSO4.5H2O(s) -> CuSO4(s) + 5H2O(l).",
       "status": "pending",
       "answer": "Needs the data table from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q27(a)(ii)",
       "no": "Q27(a)(ii)",
       "marks": 2,
       "topic": "Entropy Change Of Dehydration Of CuSO4.5H2O",
-      "keywords": ["copper(II) sulfate", "entropy change", "dehydration", "standard molar entropy", "data table"],
+      "keywords": [
+        "copper(II) sulfate",
+        "entropy change",
+        "dehydration",
+        "standard molar entropy",
+        "data table"
+      ],
       "question": "Using the data in the table, calculate the standard molar entropy change for CuSO4.5H2O(s) -> CuSO4(s) + 5H2O(l).",
       "status": "pending",
       "answer": "Needs the data table from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q27(a)(iii)",
       "no": "Q27(a)(iii)",
       "marks": 3,
       "topic": "Lowest Temperature For Dehydration",
-      "keywords": ["copper(II) sulfate", "lowest temperature", "deltaG zero", "deltaH", "deltaS", "decomposition"],
+      "keywords": [
+        "copper(II) sulfate",
+        "lowest temperature",
+        "deltaG zero",
+        "deltaH",
+        "deltaS",
+        "decomposition"
+      ],
       "question": "Using your answers to (a)(i) and (a)(ii), calculate the lowest temperature at which hydrated copper(II) sulfate will decompose.",
       "status": "pending",
       "answer": "Depends on the answers to (a)(i) and (a)(ii), which need the PDF table",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q27(b)",
       "no": "Q27(b)",
       "marks": 4,
       "topic": "Temperature Change In Solution Calorimetry",
-      "keywords": ["copper sulfate solution", "temperature change", "calorimetry", "enthalpy change of solution", "+12.3 kJ mol-1", "specific heat capacity 3.7", "molar mass 249.6"],
+      "keywords": [
+        "copper sulfate solution",
+        "temperature change",
+        "calorimetry",
+        "enthalpy change of solution",
+        "+12.3 kJ mol-1",
+        "specific heat capacity 3.7",
+        "molar mass 249.6"
+      ],
       "question": "A student dissolves 21.36 g of CuSO4.5H2O in 100 g of water and measures an enthalpy change of solution of +12.3 kJ mol-1. Using specific heat capacity 3.7 J g-1 C-1, total mass 121.36 g and molar mass 249.6 g mol-1, calculate the temperature change.",
       "status": "ready",
       "answer": "The temperature falls by 2.3 C (deltaT = -2.3 C) because the process is endothermic",
@@ -918,6 +1770,11 @@
         "Heat taken in = 12.3 kJ mol-1 x 0.0856 mol = 1.05 kJ = 1053 J (endothermic).",
         "q = m c deltaT, so deltaT = q / (m c) = 1053 / (121.36 x 3.7) = 1053 / 449.0.",
         "deltaT = 2.3 C, and because the solution absorbs heat, the temperature falls by 2.3 C."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
       ]
     },
     {
@@ -925,7 +1782,13 @@
       "no": "Q27(c)(i)",
       "marks": 2,
       "topic": "Definition Of Enthalpy Change Of Hydration",
-      "keywords": ["enthalpy change of hydration", "definition", "gaseous ion", "water", "infinite dilution"],
+      "keywords": [
+        "enthalpy change of hydration",
+        "definition",
+        "gaseous ion",
+        "water",
+        "infinite dilution"
+      ],
       "question": "Explain what is meant by the term enthalpy change of hydration.",
       "status": "ready",
       "answer": "The enthalpy change when one mole of gaseous ions dissolves in water to form an infinitely dilute solution (hydrated ions)",
@@ -933,6 +1796,11 @@
         "It is the enthalpy change when 1 mole of gaseous ions is hydrated (surrounded by water molecules).",
         "The process is done under standard conditions and forms an infinitely dilute solution.",
         "It is always exothermic because bonds form between the ions and water molecules."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
       ]
     },
     {
@@ -940,18 +1808,36 @@
       "no": "Q27(c)(ii)",
       "marks": 1,
       "topic": "Hess Cycle For CuCl2 Solution",
-      "keywords": ["Hess cycle", "copper(II) chloride", "enthalpy change of solution", "lattice energy", "hydration"],
+      "keywords": [
+        "Hess cycle",
+        "copper(II) chloride",
+        "enthalpy change of solution",
+        "lattice energy",
+        "hydration"
+      ],
       "question": "Complete the Hess cycle for the enthalpy change of solution of CuCl2 by filling in the empty boxes. The cycle diagram is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the Hess cycle diagram from the PDF; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q27(c)(iii)",
       "no": "Q27(c)(iii)",
       "marks": 1,
       "topic": "Expression For Enthalpy Change Of Solution",
-      "keywords": ["enthalpy change of solution", "copper(II) chloride", "lattice energy", "hydration enthalpies", "expression", "Hess"],
+      "keywords": [
+        "enthalpy change of solution",
+        "copper(II) chloride",
+        "lattice energy",
+        "hydration enthalpies",
+        "expression",
+        "Hess"
+      ],
       "question": "Complete the expression for the enthalpy change of solution of CuCl2 using the enthalpy changes of hydration and the lattice energy: deltaH(sol) = ?",
       "status": "ready",
       "answer": "deltaH(sol) = -LE + deltaH(hyd, Cu2+) + 2 deltaH(hyd, Cl-)",
@@ -959,6 +1845,11 @@
         "Dissolving breaks the lattice: this takes in energy equal to -LE, since LE is negative.",
         "Hydrating the ions releases energy: deltaH(hyd) for Cu2+ and for each Cl- (two Cl- ions).",
         "So deltaH(sol) = -LE + deltaH(hyd, Cu2+) + 2 x deltaH(hyd, Cl-)."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
       ]
     },
     {
@@ -966,18 +1857,36 @@
       "no": "Q27(c)(iv)",
       "marks": 2,
       "topic": "Enthalpy Change Of Solution Of CuCl2",
-      "keywords": ["enthalpy change of solution", "copper(II) chloride", "lattice energy -2811", "hydration data", "calculation"],
+      "keywords": [
+        "enthalpy change of solution",
+        "copper(II) chloride",
+        "lattice energy -2811",
+        "hydration data",
+        "calculation"
+      ],
       "question": "The lattice energy of CuCl2 is -2811 kJ mol-1. Using this value, the data in the table and your expression in (c)(iii), calculate the enthalpy change of solution.",
       "status": "pending",
       "answer": "Needs the hydration enthalpies from the PDF table; not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
+      ]
     },
     {
       "id": "Ch12B-Q27(c)(v)",
       "no": "Q27(c)(v)",
       "marks": 2,
       "topic": "Hydration Of Cu+ Less Exothermic",
-      "keywords": ["hydration enthalpy", "Cu+", "Cu2+", "charge density", "less exothermic", "ion size and charge"],
+      "keywords": [
+        "hydration enthalpy",
+        "Cu+",
+        "Cu2+",
+        "charge density",
+        "less exothermic",
+        "ion size and charge"
+      ],
       "question": "The enthalpy change of hydration of Cu+ is -593 kJ mol-1. Explain why the hydration enthalpy of Cu+ is much less exothermic than that of Cu2+.",
       "status": "ready",
       "answer": "Cu+ has a lower charge (1+) than Cu2+ (2+), so it has a lower charge density and attracts water molecules less strongly",
@@ -986,6 +1895,11 @@
         "Cu2+ has twice the charge of Cu+ for a similar size, so it has a much higher charge density.",
         "Cu2+ therefore attracts water molecules more strongly and releases more energy on hydration.",
         "Cu+ has a lower charge density, so its hydration enthalpy is much less exothermic."
+      ],
+      "images": [
+        "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-33.jpg",
+        "papers/chemistry/img/12B-Lattice-Energy-34.jpg"
       ]
     }
   ]

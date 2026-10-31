@@ -28,6 +28,10 @@
         "B: decreasing d (lines closer together) increases x, so correct.",
         "C: intensity does not change the position of maxima.",
         "D: decreasing lambda reduces x, so wrong."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-01.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-02.jpg"
       ]
     },
     {
@@ -54,6 +58,10 @@
         "A threshold frequency f0 = phi/h exists; below it no emission whatever the intensity.",
         "Max KE = hf - phi depends on frequency; intensity only changes the number of photons, so number of electrons.",
         "Emission is observed to be instantaneous, which matches the photon model."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-01.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-02.jpg"
       ]
     },
     {
@@ -73,7 +81,11 @@
       "question": "Using the hydrogen energy level diagram, determine the transition that releases a photon of frequency 7.48e13 Hz.",
       "status": "pending",
       "answer": "Pending: hydrogen energy level diagram is missing from the text (the photon energy works out to about 0.31 eV).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-02.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-03.jpg"
+      ]
     },
     {
       "id": "3D-Q4a",
@@ -98,6 +110,9 @@
         "r = sqrt(P / (4 pi I)) = sqrt(3.83e26 / (4 pi x 1410)).",
         "4 pi x 1410 = 1.77e4, so P / (4 pi I) = 2.16e22 m^2.",
         "r = sqrt(2.16e22) = 1.47e11 m."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-03.jpg"
       ]
     },
     {
@@ -124,6 +139,9 @@
         "Difference 1: Mars has a larger variation in distance, so its orbit is more elliptical.",
         "Difference 2: Mars's closest approach has intensity 711 vs Earth's 1410 W m^-2, giving r = 1.47e11 x sqrt(1410/711) = 2.07e11 m.",
         "So Mars orbits further from the Sun than Earth."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-03.jpg"
       ]
     },
     {
@@ -142,7 +160,12 @@
       "question": "Which expression calculates the maximum efficiency of a solar panel of area 1.54 m^2, incident intensity 1050 W m^-2 and maximum output 250 W?",
       "status": "pending",
       "answer": "Pending: answer options (A to D) are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-04.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-06.jpg"
+      ]
     },
     {
       "id": "3D-Q6",
@@ -167,6 +190,11 @@
         "A: electron momentum = 9.11e-31 x 3.0e5 = 2.73e-25 kg m s-1.",
         "B, C and D all have larger momentum (B 3.64e-25; C about 5.0e-22; D about 6.7e-22 kg m s-1).",
         "So A has the largest wavelength."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-04.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-06.jpg"
       ]
     },
     {
@@ -192,6 +220,11 @@
         "The excited electron is unstable and falls back to a lower level.",
         "Each fall emits a photon with E = hf equal to the energy difference between the two levels.",
         "Fixed level differences give a specific frequency, so a line of 589 nm is seen."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-04.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-06.jpg"
       ]
     },
     {
@@ -215,6 +248,11 @@
         "lambda = 589e-9 m, so E = (6.63e-34 x 3.00e8) / 589e-9 = 3.38e-19 J.",
         "1 eV = 1.60e-19 J, so convert the energy.",
         "E = 3.38e-19 / 1.60e-19 = 2.11 eV."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-04.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-06.jpg"
       ]
     },
     {
@@ -240,6 +278,11 @@
         "d = lambda / sin(theta) = 589e-9 / 0.177 = 3.32e-6 m.",
         "Lines per mm = 1 / (3.32e-6 m) = 1 / (3.32e-3 mm) = 301 lines/mm.",
         "Difference from 300 is about 0.3%, within measurement error, so the label is correct."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-04.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-06.jpg"
       ]
     },
     {
@@ -259,7 +302,11 @@
       "question": "Which pair of graphs shows how photoelectron emission rate N and maximum KE Ek vary with intensity I of UV light on a metal?",
       "status": "pending",
       "answer": "Pending: the graph options are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-06.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-07.jpg"
+      ]
     },
     {
       "id": "3D-Q9a",
@@ -278,7 +325,11 @@
       "question": "Determine whether the student's statement about the speed of the car is mathematically correct, given electron speed 1.5e7 m/s and car mass 900 kg.",
       "status": "pending",
       "answer": "Pending: the student's statement is missing from the text, so it cannot be checked.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-07.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-08.jpg"
+      ]
     },
     {
       "id": "3D-Q9b",
@@ -301,6 +352,10 @@
         "A car's mass (900 kg) is enormous compared with an electron.",
         "Example: lambda = 6.63e-34 / (900 x 1.5e7) = 4.9e-44 m.",
         "Such a wavelength is far too small to show diffraction or be detected."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-07.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-08.jpg"
       ]
     },
     {
@@ -324,6 +379,10 @@
         "The electron must escape the attraction of the metal's positive lattice.",
         "A photon with hf >= phi can release a photoelectron.",
         "It is quoted in eV or J and is specific to each metal."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-08.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-09.jpg"
       ]
     },
     {
@@ -343,7 +402,11 @@
       "question": "Light of frequency 6.32e15 Hz gives photoelectrons with maximum KE 3.60e-18 J. Determine which of four metals (work function table) is illuminated.",
       "status": "pending",
       "answer": "Pending: the work function table is missing from the text. Calculated work function is 5.90e-19 J (3.69 eV).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-08.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-09.jpg"
+      ]
     },
     {
       "id": "3D-Q10c(i)",
@@ -362,7 +425,11 @@
       "question": "UV intensity 38.0 mW m^-2 is absorbed over 8.10e-20 m^2 by a potassium atom. Calculate the time for the atom to absorb enough energy to release an electron.",
       "status": "pending",
       "answer": "Pending: the work function of potassium is in the missing table. Use t = phi / (I x A), where I x A = 3.08e-21 W.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-08.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-09.jpg"
+      ]
     },
     {
       "id": "3D-Q10c(ii)",
@@ -385,6 +452,10 @@
         "Electrons are observed to be emitted immediately when UV is incident.",
         "This means each electron absorbs enough energy in one interaction.",
         "That energy arrives as a single photon, which is evidence of the particle nature of light."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-08.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-09.jpg"
       ]
     },
     {
@@ -409,6 +480,10 @@
         "Diffraction is a wave property, so it shows electrons behave as waves.",
         "Polarisation only occurs for transverse waves and is not used as electron evidence.",
         "Reflection and refraction occur for particles too, so they do not show wave nature."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-09.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-10.jpg"
       ]
     },
     {
@@ -432,6 +507,10 @@
         "Points at the edges of the gap emit wavelets that spread around the edges into the shadow region.",
         "When the gap is comparable to the wavelength, these wavelets spread significantly.",
         "The new wavefront beyond the gap is curved, so the wave spreads out (diffraction)."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-10.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-11.jpg"
       ]
     },
     {
@@ -450,7 +529,11 @@
       "question": "Sketch a graph of intensity against position along line AB across the circular diffraction pattern.",
       "status": "pending",
       "answer": "Pending: the diffraction pattern close-up and line AB are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-10.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-11.jpg"
+      ]
     },
     {
       "id": "3D-Q13a(i)",
@@ -474,6 +557,11 @@
         "Power received P = I x A = 1100 x 9.2e12 = 1.01e16 W.",
         "Time t = 1 hour = 3600 s.",
         "E = 1.012e16 x 3600 = 3.64e19 J."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-12.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-13.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-14.jpg"
       ]
     },
     {
@@ -498,6 +586,11 @@
         "Maximum energy in one hour (3.64e19 J) is already about 0.43 of this.",
         "Over one year at maximum intensity (8760 h): 8760 x 3.64e19 = 3.19e23 J.",
         "This is about 3700 times world annual use, so even allowing for night, angle and efficiency the margin is large."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-12.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-13.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-14.jpg"
       ]
     },
     {
@@ -522,6 +615,11 @@
         "They absorb or scatter incident sunlight, so less radiation reaches the solar cells.",
         "Lower incident intensity means less power input to the cells.",
         "Hence the electrical output power is reduced."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-12.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-13.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-14.jpg"
       ]
     },
     {
@@ -548,6 +646,11 @@
         "Denominator: 8 k^2 h^2 = 8 x (8.85e-12)^2 x (6.63e-34)^2 = 2.75e-88.",
         "E = 5.97e-106 / 2.75e-88 = 2.17e-18 J.",
         "Convert: E = 2.17e-18 / 1.60e-19 = 13.5 eV."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-12.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-13.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-14.jpg"
       ]
     },
     {
@@ -574,6 +677,11 @@
         "lambda = 6.63e-34 / 2.34e-20 = 2.84e-14 m.",
         "Ratio r / lambda = 5.31e-11 / 2.84e-14 = about 1900.",
         "The wavelength is far smaller than the atom, so the student is incorrect."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-12.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-13.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-14.jpg"
       ]
     },
     {
@@ -598,6 +706,10 @@
         "B is correct: KE max = hf - phi increases with frequency.",
         "C is wrong: intensity does not change max KE, only the number of electrons.",
         "D is wrong: emission needs frequency above a threshold, so wavelength must be below a threshold."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-14.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-15.jpg"
       ]
     },
     {
@@ -622,6 +734,10 @@
         "This predicts a delay before electrons are released, especially at low intensity.",
         "The gold leaf began falling back immediately, so electrons were emitted instantly.",
         "This matches a photon model in which one photon is absorbed by one electron."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-14.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-15.jpg"
       ]
     },
     {
@@ -646,6 +762,10 @@
         "Max KE = hf - phi = 9.3e-19 - 6.88e-19 = 2.42e-19 J.",
         "KE = (1/2) m v^2, so v = sqrt(2 KE / m) = sqrt(2 x 2.42e-19 / 9.11e-31).",
         "v = sqrt(5.31e11) = 7.29e5 m s-1."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-14.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-15.jpg"
       ]
     },
     {
@@ -670,6 +790,10 @@
         "A longer wavelength means lower frequency and lower photon energy E = hc/lambda.",
         "This lowers KE max (second part incorrect).",
         "The two changes oppose each other, so speed increases only if the work function fall exceeds the photon energy fall."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-14.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-15.jpg"
       ]
     },
     {
@@ -694,6 +818,10 @@
         "r = 0.25 m, so 4 pi r^2 = 4 pi x 0.0625 = 0.785 m^2.",
         "I = 1.00 / 0.785 = 1.27 W m^-2.",
         "This is below the dangerous limit of 4.5 W m^-2, so not dangerous (assuming uniform spreading)."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-16.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-17.jpg"
       ]
     },
     {
@@ -718,6 +846,10 @@
         "f = 902 MHz = 9.02e8 Hz.",
         "E = 6.63e-34 x 9.02e8 = 5.98e-25 J.",
         "Convert: 5.98e-25 / 1.60e-19 = 3.74e-6 eV."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-16.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-17.jpg"
       ]
     },
     {
@@ -737,7 +869,11 @@
       "question": "Assess whether one kettle boil (1200 W for 125 s) uses less than 1% of the total energy shown on the smart meter display.",
       "status": "pending",
       "answer": "Pending: the smart meter display value is missing. Kettle energy = 1200 x 125 = 1.5e5 J = 0.0417 kWh.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-16.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-17.jpg"
+      ]
     },
     {
       "id": "3D-Q18a",
@@ -764,6 +900,10 @@
         "Each fall emits a photon with E = hf = energy difference between levels.",
         "Different level pairs give different frequencies, so only some visible wavelengths are emitted.",
         "This gives a line spectrum with discrete wavelengths."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-17.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-18.jpg"
       ]
     },
     {
@@ -788,6 +928,10 @@
         "Each species has its own set of energy levels.",
         "Many atoms are excited, so many different transitions can occur.",
         "Each transition gives a photon of different energy, so many wavelengths are produced."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-17.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-18.jpg"
       ]
     },
     {
@@ -807,7 +951,11 @@
       "question": "A bulb of efficiency 12% is 2.0 m above a sensor reading 0.14 W m^-2. Which expression gives the bulb's power?",
       "status": "pending",
       "answer": "Pending: the answer options are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-18.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-19.jpg"
+      ]
     },
     {
       "id": "3D-Q20a",
@@ -831,6 +979,10 @@
         "Work function = 3.68 x 1.60e-19 = 5.89e-19 J.",
         "Max KE = E - phi = 9.95e-18 - 5.89e-19 = 9.36e-18 J.",
         "v = sqrt(2 KE / m) = sqrt(2 x 9.36e-18 / 9.11e-31) = 4.53e6 m s-1."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-18.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-19.jpg"
       ]
     },
     {
@@ -855,6 +1007,10 @@
         "Increasing intensity only increases the number of photons, so more electrons, not faster ones.",
         "Increasing wavelength lowers the frequency and so the photon energy.",
         "Lower photon energy means lower max KE, so the combined suggestion is incorrect."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-18.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-19.jpg"
       ]
     },
     {
@@ -874,7 +1030,11 @@
       "question": "Which wavefront diagram (A to D, gaps of different sizes) shows diffracted wavefronts that are not semicircular?",
       "status": "pending",
       "answer": "Pending: the wavefront diagrams A to D are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-19.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-20.jpg"
+      ]
     },
     {
       "id": "3D-Q22",
@@ -898,6 +1058,10 @@
         "Cascade via -0.85 eV gives 0.31 eV (A possible) and then 12.75 eV; via -1.51 eV gives 0.97 eV then 12.09 eV (C possible).",
         "A single photon of 0.54 eV would need levels separated by 0.54 eV, and no such pair exists in hydrogen.",
         "Hydrogen levels are -13.6/n^2 eV, and no pair differs by 0.54 eV, so B is impossible."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-20.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-21.jpg"
       ]
     },
     {
@@ -921,6 +1085,11 @@
         "Substitute r = 1.50e11 m: r^2 = 2.25e22 m^2.",
         "Area = 4 pi r^2 = 2.83e23 m^2.",
         "I = 3.83e26 / 2.83e23 = 1.35e3 W m^-2."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-21.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-22.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-23.jpg"
       ]
     },
     {
@@ -945,6 +1114,11 @@
         "lambda = 532e-9 m.",
         "E = (6.63e-34 x 3.00e8) / 532e-9.",
         "E = 3.74e-19 J."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-21.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-22.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-23.jpg"
       ]
     },
     {
@@ -969,6 +1143,11 @@
         "Total distance = c t = 3.00e8 x 3.20e-3 = 9.60e5 m.",
         "The distance covers up and back, so height = total / 2.",
         "Height = 4.80e5 m (480 km)."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-21.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-22.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-23.jpg"
       ]
     },
     {
@@ -993,6 +1172,11 @@
         "The laser emits one wavelength (532 nm) only.",
         "Filtering to 532 nm removes most of the background signal.",
         "This improves the signal-to-noise ratio of the detected photons."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-21.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-22.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-23.jpg"
       ]
     },
     {
@@ -1017,6 +1201,11 @@
         "If the return time is the same at every point along the sheet, the surface is flat.",
         "Sea level is 1000 m further, so the extra round trip time is 2 x 1000 / 3.00e8 = 6.7e-6 s.",
         "The ice returns the pulse sooner than sea level would, so the ice is higher than sea level."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-21.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-22.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-23.jpg"
       ]
     },
     {
@@ -1041,6 +1230,10 @@
         "An electron collision can transfer any amount up to its KE (12.3 eV), keeping the remaining 0.2 eV.",
         "A photon is absorbed only if its energy exactly equals a level difference.",
         "A 12.3 eV photon does not match 12.1 eV, so it is not absorbed and the electron stays at -13.6 eV."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-23.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-24.jpg"
       ]
     },
     {
@@ -1065,6 +1258,10 @@
         "Photoelectric effect: one photon ejects one electron above threshold frequency.",
         "Diffraction, Huygens construction and plane polarisation are wave evidence.",
         "So C is the only demonstration of the photon model."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-24.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-25.jpg"
       ]
     },
     {
@@ -1089,6 +1286,10 @@
         "This applies to photons too, giving photon momentum p = h / lambda.",
         "A is wrong: lambda depends on mass through p = mv.",
         "C is wrong: p is momentum mv. D is wrong: h is a universal constant."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-24.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-25.jpg"
       ]
     },
     {
@@ -1107,7 +1308,11 @@
       "question": "A moving electron has de Broglie wavelength 656 nm. Which expression could be used to find its speed?",
       "status": "pending",
       "answer": "Pending: the answer options are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-24.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-25.jpg"
+      ]
     },
     {
       "id": "3D-Q28a",
@@ -1132,6 +1337,11 @@
         "Move the microphone along the line from the speaker until the traces are in phase again.",
         "The distance d moved over n complete cycles gives lambda = d / n.",
         "Speed v = f x lambda; the time scale on the oscilloscope can also give the period T = 1/f."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-25.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-26.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-27.jpg"
       ]
     },
     {
@@ -1151,7 +1361,12 @@
       "question": "Explain what change the student made to the microphone position between Photograph 2 and Photograph 3.",
       "status": "pending",
       "answer": "Pending: Photographs 2 and 3 (oscilloscope traces) are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-25.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-26.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-27.jpg"
+      ]
     },
     {
       "id": "3D-Q29a",
@@ -1175,6 +1390,10 @@
         "lambda = 280 nm = 2.80e-7 m.",
         "E = (6.63e-34 x 3.00e8) / 2.80e-7 = 7.10e-19 J.",
         "Convert: 7.10e-19 / 1.60e-19 = 4.44 eV, about 4.4 eV."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-27.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-28.jpg"
       ]
     },
     {
@@ -1194,7 +1413,11 @@
       "question": "Explain the conclusions that can be drawn from the student's statements about photoelectric emission from copper and zinc with sources A (2.0 eV) and B (4.4 eV).",
       "status": "pending",
       "answer": "Pending: the student's statements are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-27.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-28.jpg"
+      ]
     },
     {
       "id": "3D-Q30",
@@ -1212,7 +1435,11 @@
       "question": "Which of four electron transitions (A to D) emits a photon with the longest wavelength?",
       "status": "pending",
       "answer": "Pending: the transition diagram and options are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-28.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-29.jpg"
+      ]
     },
     {
       "id": "3D-Q31",
@@ -1230,7 +1457,11 @@
       "question": "Explain how the pattern produced when electrons pass through a thin metal foil is evidence for wave rather than particle behaviour.",
       "status": "pending",
       "answer": "Pending: the pattern image is missing from the text (expected: concentric rings from diffraction, as in Q55).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-29.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-30.jpg"
+      ]
     },
     {
       "id": "3D-Q32a",
@@ -1249,7 +1480,11 @@
       "question": "A grating of 450 lines/mm produces the next bright dot at X. Determine the laser wavelength from the diagram.",
       "status": "pending",
       "answer": "Pending: the diagram giving the position of X and screen distance is missing. Grating spacing d = 1/450 mm = 2.22e-6 m.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-30.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-31.jpg"
+      ]
     },
     {
       "id": "3D-Q32b",
@@ -1273,6 +1508,10 @@
         "Light from all slits interferes at the screen.",
         "Constructive interference (maxima) occurs where d sin(theta) = n lambda.",
         "Destructive interference between maxima gives dark regions, so separate bright dots appear."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-30.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-31.jpg"
       ]
     },
     {
@@ -1297,6 +1536,10 @@
         "The central maximum is white, as all wavelengths are at zero angle.",
         "On either side, the colours separate into spectra, with violet closest to the centre.",
         "Higher orders overlap, so the dots become coloured spectra."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-30.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-31.jpg"
       ]
     },
     {
@@ -1320,6 +1563,11 @@
         "Photons must have energy hf >= phi to release electrons.",
         "Work function is a property of the metal, measured in eV or J.",
         "At threshold the emitted electron has zero kinetic energy."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-31.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-32.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-33.jpg"
       ]
     },
     {
@@ -1339,7 +1587,12 @@
       "question": "Electrons released from zinc have minimum de Broglie wavelength 1.50e-9 m; zinc work function 4.30 eV. Deduce whether the UV is UVA, UVB or UVC (band table missing).",
       "status": "pending",
       "answer": "Pending: the UV band wavelength table is missing. Calculated photon wavelength is about 250 nm (max KE 0.67 eV, photon energy 4.97 eV).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-31.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-32.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-33.jpg"
+      ]
     },
     {
       "id": "3D-Q33c",
@@ -1358,7 +1611,12 @@
       "question": "Describe two ways the student's graph of KE max against frequency for zinc is inconsistent with known zinc values (work function 4.30 eV).",
       "status": "pending",
       "answer": "Pending: the graph is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-31.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-32.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-33.jpg"
+      ]
     },
     {
       "id": "3D-Q34",
@@ -1384,6 +1642,10 @@
         "Each electron absorbs one photon of energy hf in a single interaction.",
         "Intensity only changes the number of photons, hence the number of electrons.",
         "A wave model cannot explain these results, so light behaves as photons."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-33.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-34.jpg"
       ]
     },
     {
@@ -1407,6 +1669,11 @@
         "Electrons were diffracted by the nickel crystal lattice, giving a pattern.",
         "So electrons must behave as waves.",
         "The observation gives no evidence of particle-only behaviour, so A, C and D are not concluded."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-34.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-35.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-36.jpg"
       ]
     },
     {
@@ -1426,7 +1693,12 @@
       "question": "Deduce the colour of visible light absorbed when an electron is excited from -3.40 eV to -1.50 eV in hydrogen (colour wavelength table missing).",
       "status": "pending",
       "answer": "Pending: the colour wavelength table is missing. Energy 1.90 eV gives wavelength about 654 nm.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-34.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-35.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-36.jpg"
+      ]
     },
     {
       "id": "3D-Q36b",
@@ -1450,6 +1722,11 @@
         "Distance d = 8.60 x 9.47e15 = 8.14e16 m.",
         "Power P = I x 4 pi d^2 = 1.17e-7 x 4 pi x (8.14e16)^2.",
         "P = 1.17e-7 x 8.33e34 = 9.7e27 W."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-34.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-35.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-36.jpg"
       ]
     },
     {
@@ -1474,6 +1751,11 @@
         "Transitions between levels have fixed energy differences.",
         "Each transition emits a photon with E = hf equal to that difference.",
         "So only certain frequencies and wavelengths appear in the line spectrum."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-34.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-35.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-36.jpg"
       ]
     },
     {
@@ -1493,7 +1775,11 @@
       "question": "Sun-Mercury distance 4.60e10 m, intensity 1.45e4 W m^-2. Which expression gives the Sun's power?",
       "status": "pending",
       "answer": "Pending: the answer options are missing from the text. Expected form: P = 4 pi r^2 I.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-36.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-37.jpg"
+      ]
     },
     {
       "id": "3D-Q38",
@@ -1512,7 +1798,11 @@
       "question": "Which could NOT have caused the electron transition shown in the hydrogen diagram (A: absorb 13.6 eV photon; B: absorb 10.2 eV photon; C: 13.6 eV electron collision; D: 10.2 eV electron collision)?",
       "status": "pending",
       "answer": "Pending: the energy level diagram showing the transition is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-36.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-37.jpg"
+      ]
     },
     {
       "id": "3D-Q39",
@@ -1530,7 +1820,11 @@
       "question": "The de Broglie wavelength of a moving electron is 5.47e-10 m. Which expression gives its speed?",
       "status": "pending",
       "answer": "Pending: the answer options are missing from the text. Expected: v = h / (m lambda), which gives 1.33e6 m s-1.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-37.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-38.jpg"
+      ]
     },
     {
       "id": "3D-Q40a",
@@ -1553,6 +1847,10 @@
         "The electron must use energy phi (the work function) to escape the surface.",
         "The remaining energy becomes kinetic energy: KE max = hf - phi.",
         "Since phi is greater than zero, KE max is less than hf."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-38.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-39.jpg"
       ]
     },
     {
@@ -1572,7 +1870,11 @@
       "question": "Electrons from magnesium (work function 3.68 eV) have speed 5.70e5 m/s. Deduce which of sources A, B, C (frequency table missing) was used.",
       "status": "pending",
       "answer": "Pending: the source frequency table is missing. Calculated photon energy is 4.61 eV (about 1.11e15 Hz).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-38.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-39.jpg"
+      ]
     },
     {
       "id": "3D-Q41a",
@@ -1598,6 +1900,10 @@
         "At a path difference of half a wavelength, the waves arrive out of phase.",
         "Destructive interference means the amplitudes cancel, so the sound becomes quieter.",
         "At path difference lambda/2 the cancellation is complete and no sound is heard."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-39.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-40.jpg"
       ]
     },
     {
@@ -1622,6 +1928,10 @@
         "Each filament emits light randomly from many atoms, so the phase changes continuously.",
         "The phase difference between the two lamps is therefore not constant.",
         "So the interference pattern is not stable on the screen."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-39.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-40.jpg"
       ]
     },
     {
@@ -1646,6 +1956,10 @@
         "Input power = I x A = 1040 x 0.960 = 998 W.",
         "Efficiency = output power / input power = 140 / 998.",
         "Efficiency = 0.140, i.e. 14.0%."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-40.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-41.jpg"
       ]
     },
     {
@@ -1669,6 +1983,10 @@
         "The calculation uses the maximum intensity of 1040 W m^-2 over the whole area.",
         "Cloud, sun angle or dust reduce the incident intensity, so a higher efficiency would be needed.",
         "Reflection and temperature losses also reduce real panel efficiency."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-40.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-41.jpg"
       ]
     },
     {
@@ -1692,6 +2010,10 @@
         "In unpolarised light the oscillations occur in all planes/directions at random.",
         "In plane polarised light the oscillations are confined to one fixed plane.",
         "So unpolarised light has no preferred plane, while plane polarised light does."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-40.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-41.jpg"
       ]
     },
     {
@@ -1715,6 +2037,10 @@
         "Rotate the filter through 360 degrees and observe the transmitted intensity.",
         "For unpolarised light the intensity stays constant and does not drop to zero.",
         "Plane polarised light would show maxima and zero transmission as the filter turns."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-40.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-41.jpg"
       ]
     },
     {
@@ -1738,6 +2064,10 @@
         "lambda v = 7.37e-10 x 9.89e5 = 7.29e-4 kg m s-1.",
         "m = 6.63e-34 / 7.29e-4 = 9.10e-31 kg.",
         "This matches the electron mass (9.11e-31 kg) within rounding, so yes."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-41.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-42.jpg"
       ]
     },
     {
@@ -1756,7 +2086,10 @@
       "question": "Which expression equals the lowest frequency of light possible from a transition between the hydrogen levels shown?",
       "status": "pending",
       "answer": "Pending: the energy level diagram and options are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-42.jpg"
+      ]
     },
     {
       "id": "3D-Q45a(i)",
@@ -1779,6 +2112,10 @@
         "v^2 = (3.51e5)^2 = 1.23e11 m^2 s-2.",
         "KE = 0.5 x 9.11e-31 x 1.23e11 = 5.61e-20 J.",
         "Convert: 5.61e-20 / 1.60e-19 = 0.351 eV."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-43.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-44.jpg"
       ]
     },
     {
@@ -1798,7 +2135,11 @@
       "question": "UV of wavelength 310 nm released electrons with KE max 0.351 eV. Deduce which metal (work function table missing) was most likely used.",
       "status": "pending",
       "answer": "Pending: the work function table is missing. Photon energy is 4.01 eV, so the work function is 3.66 eV.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-43.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-44.jpg"
+      ]
     },
     {
       "id": "3D-Q45b",
@@ -1822,6 +2163,10 @@
         "The electron must gain at least the work function phi to escape the metal.",
         "So hf must be greater than or equal to phi, giving a threshold frequency f0 = phi/h.",
         "Below f0 no single photon has enough energy, however many photons (intensity) there are."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-43.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-44.jpg"
       ]
     },
     {
@@ -1846,6 +2191,10 @@
         "Each photon transfers hf to one electron.",
         "If hf is less than the work function, no electron is released however intense the light.",
         "So the statement is wrong: frequency must exceed the threshold for the metal."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-43.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-44.jpg"
       ]
     },
     {
@@ -1870,6 +2219,11 @@
         "Light reflected from the top and bottom coating surfaces travels different path lengths.",
         "For some wavelengths the two reflected waves arrive out of phase (path difference and phase change).",
         "These wavelengths interfere destructively and are cancelled from the reflected beam."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-44.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-45.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-46.jpg"
       ]
     },
     {
@@ -1894,6 +2248,11 @@
         "Destructive interference occurs when 2nd = (m + 1/2) lambda, for m = 0, 1, 2 ...",
         "2nd = 2 x 2.3 x 6.5e-8 = 2.99e-7 m.",
         "For m = 0: lambda = 2.99e-7 / 0.5 = 5.98e-7 m = 598 nm (visible); for m = 1 the wavelength is 199 nm (UV)."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-44.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-45.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-46.jpg"
       ]
     },
     {
@@ -1918,6 +2277,11 @@
         "Power input = 550 x 8.7 = 4785 W.",
         "Energy input per hour = 4785 x 3600 = 1.72e7 J.",
         "Efficiency = 5.4e6 / 1.72e7 = 0.31, i.e. 31%."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-44.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-45.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-46.jpg"
       ]
     },
     {
@@ -1942,6 +2306,11 @@
         "Absorption raises the electron to an excited (unstable) energy level.",
         "The electron falls back to a lower level.",
         "The fall emits a photon with energy equal to the level difference."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-46.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-47.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-48.jpg"
       ]
     },
     {
@@ -1966,6 +2335,11 @@
         "E = (6.63e-34 x 3.00e8) / 2.18e-7 = 9.12e-19 J.",
         "Use 1 eV = 1.60e-19 J.",
         "E = 9.12e-19 / 1.60e-19 = 5.70 eV."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-46.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-47.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-48.jpg"
       ]
     },
     {
@@ -1989,6 +2363,11 @@
         "Hydrogen levels (standard values): -13.6, -3.40, -1.51, -0.85, -0.54 eV.",
         "Pairwise differences: 10.2, 12.1, 12.75, 13.06, 1.89, 2.55, 2.86, 0.66, 0.97, 0.31 eV.",
         "None equals 5.70 eV, so no single transition can emit this photon."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-46.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-47.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-48.jpg"
       ]
     },
     {
@@ -2012,6 +2391,11 @@
         "KE = (1/2) m v^2, so v = sqrt(2 KE / m).",
         "v = sqrt(2 x 1.04e-18 / 9.11e-31) = sqrt(2.28e12).",
         "v = 1.51e6 m s-1."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-46.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-47.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-48.jpg"
       ]
     },
     {
@@ -2036,6 +2420,11 @@
         "Emission needs a threshold frequency; intensity alone cannot release electrons.",
         "Each photon transfers its whole energy hf to one electron.",
         "Max KE depends on frequency only, which a wave model could not explain."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-46.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-47.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-48.jpg"
       ]
     },
     {
@@ -2060,6 +2449,10 @@
         "They can fall 3 to 1 directly, or cascade 3 to 2 and then 2 to 1.",
         "Transitions possible: 3 to 1, 3 to 2 and 2 to 1.",
         "Each has a different energy, so 3 different frequencies are emitted: answer C."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-48.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-49.jpg"
       ]
     },
     {
@@ -2078,7 +2471,11 @@
       "question": "An electron has de Broglie wavelength 1.55e-9 m. Which expression gives its speed in m/s?",
       "status": "pending",
       "answer": "Pending: the answer options are missing from the text. Expected: v = h / (m lambda), giving about 4.7e5 m s-1.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-48.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-49.jpg"
+      ]
     },
     {
       "id": "3D-Q50",
@@ -2102,6 +2499,10 @@
         "Interference is the combining of two or more waves.",
         "Reflection is bouncing off a surface; refraction is change in direction on entering a new medium.",
         "So A is the correct process."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-49.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-50.jpg"
       ]
     },
     {
@@ -2121,7 +2522,11 @@
       "question": "Earth is 1.49e11 m from the Sun and Jupiter 7.78e11 m. Jupiter's sunlight intensity is IJ. Which expression gives the intensity at Earth?",
       "status": "pending",
       "answer": "Pending: the answer options are missing from the text. Expected: I_E = I_J x (7.78e11 / 1.49e11)^2.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-49.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-50.jpg"
+      ]
     },
     {
       "id": "3D-Q52",
@@ -2145,6 +2550,10 @@
         "Partial polarisation can occur at reflection from the glass surface.",
         "Diffraction needs an aperture or edge, which the flat glass block does not provide.",
         "So diffraction does not occur."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-50.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-51.jpg"
       ]
     },
     {
@@ -2168,6 +2577,10 @@
         "Use h = 6.63e-34 J s.",
         "f = 3.44e-19 / 6.63e-34.",
         "f = 5.19e14 Hz."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-51.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-52.jpg"
       ]
     },
     {
@@ -2194,6 +2607,10 @@
         "Excited electrons fall back to lower levels.",
         "Each fall emits a photon with E = hf equal to the level difference.",
         "Discrete level differences give a line spectrum of specific frequencies."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-51.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-52.jpg"
       ]
     },
     {
@@ -2218,6 +2635,10 @@
         "Max KE = 7.60e-19 - 6.30e-19 = 1.30e-19 J.",
         "v = sqrt(2 KE / m) = sqrt(2 x 1.30e-19 / 9.11e-31) = sqrt(2.85e11).",
         "v = 5.34e5 m s-1, i.e. about 5.3e5 m s-1."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-51.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-52.jpg"
       ]
     },
     {
@@ -2241,6 +2662,10 @@
         "Use m = 9.11e-31 kg and v = 5.3e5 m s-1.",
         "m v = 9.11e-31 x 5.3e5 = 4.83e-25 kg m s-1.",
         "lambda = 6.63e-34 / 4.83e-25 = 1.37e-9 m."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-51.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-52.jpg"
       ]
     },
     {
@@ -2265,6 +2690,10 @@
         "Total distance = 1500 x 0.037 = 55.5 m.",
         "Distance to the fish is half the total distance.",
         "Distance = 55.5 / 2 = 27.8 m."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-53.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-54.jpg"
       ]
     },
     {
@@ -2289,6 +2718,10 @@
         "Round trip time for a fish at distance d is 2d / v, which must not exceed T.",
         "So maximum distance d_max = vT / 2.",
         "A longer T allows a greater maximum distance."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-53.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-54.jpg"
       ]
     },
     {
@@ -2313,6 +2746,10 @@
         "A shorter wavelength gives better resolution of small features.",
         "Better resolution means the fish's position can be located more accurately.",
         "So the frequency should be increased."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-53.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-54.jpg"
       ]
     },
     {
@@ -2337,6 +2774,10 @@
         "Electron waves diffract at the lattice planes, producing concentric rings.",
         "A diffraction pattern is a wave property.",
         "So electrons have wave properties (de Broglie)."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-53.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-54.jpg"
       ]
     },
     {
@@ -2361,6 +2802,11 @@
         "At threshold hf = phi.",
         "f = phi / h = 2.98e-19 / 6.63e-34.",
         "f = 4.49e14 Hz."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-54.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-55.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-56.jpg"
       ]
     },
     {
@@ -2387,6 +2833,11 @@
         "Photons above f1 are no longer absorbed in layer 1 but are absorbed in layer 2 instead.",
         "Total photons absorbed per second is the same in both cases, so the total rate of emission is unchanged.",
         "The electrons now come from layer 2 with greater kinetic energy."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-54.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-55.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-56.jpg"
       ]
     },
     {
@@ -2413,6 +2864,11 @@
         "Parallel current I = 5.0 / (4.0 + 0.40) = 1.14 A.",
         "Parallel power P = 1.14^2 x 4.0 = 5.2 W.",
         "Half of 13 W is 6.5 W; 5.2 W is less, so the student is correct."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-54.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-55.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-56.jpg"
       ]
     },
     {
@@ -2436,6 +2892,10 @@
         "Each fall emits a photon with energy equal to the level difference.",
         "Moving up (absorption) gives absorption lines, not emission lines.",
         "So D is correct."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-56.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-57.jpg"
       ]
     },
     {
@@ -2455,7 +2915,11 @@
       "question": "An electron drops from E2 to E1 emitting a photon of wavelength lambda. Which expression gives E2?",
       "status": "pending",
       "answer": "Pending: the answer options are missing from the text. Expected: E2 = E1 + hc / lambda.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-56.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-57.jpg"
+      ]
     },
     {
       "id": "3D-Q59",
@@ -2478,6 +2942,10 @@
         "Electrons diffracted by thin graphite show wave behaviour.",
         "A (attraction to charge) is an electrostatic effect, not a wave property.",
         "B and D show particle-like energy exchange with photons, so C is the correct answer."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-57.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-58.jpg"
       ]
     },
     {
@@ -2501,6 +2969,10 @@
         "Below f0 a photon lacks enough energy to free an electron.",
         "Option A describes maximum KE, B describes line emission and D describes absorption.",
         "Option C matches the definition."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-57.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-58.jpg"
       ]
     },
     {
@@ -2519,7 +2991,11 @@
       "question": "An electron has de Broglie wavelength 3.5e-10 m. Which expression gives its velocity in m/s?",
       "status": "pending",
       "answer": "Pending: the answer options are missing from the text. Expected: v = h / (m lambda), giving about 2.08e6 m s-1.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-58.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-59.jpg"
+      ]
     },
     {
       "id": "3D-Q62",
@@ -2538,7 +3014,11 @@
       "question": "Which statement shows how the gradient of the graph of 1/lambda against KE gives Planck's constant h? (graph and options missing)",
       "status": "pending",
       "answer": "Pending: the graph and option list are missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-58.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-59.jpg"
+      ]
     },
     {
       "id": "3D-Q63",
@@ -2562,6 +3042,9 @@
         "A: 1 C through 1 V gives 1 J, not 1 eV.",
         "B and D describe charge flow (current), not energy change.",
         "C: an electron (charge 1.60e-19 C) through 1 V gains 1 eV."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-59.jpg"
       ]
     },
     {
@@ -2585,6 +3068,11 @@
         "If the photon energy hf is at least the work function, the electron is emitted.",
         "Emission is effectively instantaneous.",
         "The KE of emitted electrons depends on frequency, not intensity."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-60.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-61.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-62.jpg"
       ]
     },
     {
@@ -2608,6 +3096,11 @@
         "Radiation below threshold frequency has photon energy below the work function.",
         "Such photons cannot release electrons.",
         "So the photomultiplier cannot detect these frequencies."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-60.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-61.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-62.jpg"
       ]
     },
     {
@@ -2633,6 +3126,11 @@
         "Photons with lambda below 840 nm have energy above the work function.",
         "The longest visible wavelength is 700 nm, so its energy is 1.78 eV, above 1.48 eV.",
         "Therefore all visible wavelengths (380 to 700 nm) are detected."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-60.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-61.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-62.jpg"
       ]
     },
     {
@@ -2657,6 +3155,11 @@
         "Work done by the p.d. = eV = 1.60e-19 x 108 = 1.73e-17 J.",
         "The electron gains this energy as it accelerates, so final KE = initial KE + work done.",
         "Final KE = 8.30e-19 + 1.73e-17 = 1.81e-17 J."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-60.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-61.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-62.jpg"
       ]
     },
     {
@@ -2676,7 +3179,12 @@
       "question": "Four 85.0 kohm resistors in a circuit with a switch: supply p.d. 1960 V when open, and 108 V across resistor A when closed. Calculate the internal resistance of the supply.",
       "status": "pending",
       "answer": "Pending: the circuit diagram showing how the resistors and switch are connected is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-60.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-61.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-62.jpg"
+      ]
     },
     {
       "id": "3D-Q65",
@@ -2695,7 +3203,11 @@
       "question": "Particle X (mass m, velocity v) has de Broglie wavelength lambda; particle Y has wavelength 0.25 lambda. Which table row could give Y's mass and velocity?",
       "status": "pending",
       "answer": "Pending: the table of mass and velocity options is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-62.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-63.jpg"
+      ]
     },
     {
       "id": "3D-Q66",
@@ -2714,7 +3226,11 @@
       "question": "A student a distance d from a wall hears an echo after time t. Which expression gives the speed of sound?",
       "status": "pending",
       "answer": "Pending: the answer options are missing from the text. Expected: v = 2d / t.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-62.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-63.jpg"
+      ]
     },
     {
       "id": "3D-Q67a",
@@ -2739,6 +3255,11 @@
         "Electrons from deeper inside lose energy in collisions before reaching the surface.",
         "Electrons escaping from the surface keep the maximum KE = hf - phi.",
         "So KE values range from zero up to the maximum."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-63.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-64.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-65.jpg"
       ]
     },
     {
@@ -2764,6 +3285,11 @@
         "Low-intensity UV gave a current, so its photons have frequency above threshold.",
         "Even a few photons above threshold eject electrons, so the energy of each photon matters.",
         "This supports a particle (photon) model of light, with energy E = hf."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-63.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-64.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-65.jpg"
       ]
     },
     {
@@ -2783,7 +3309,12 @@
       "question": "With the battery reversed, UV of wavelength 250 nm is incident on the photocell (work function 6.9e-19 J). Deduce whether there is a current.",
       "status": "pending",
       "answer": "Pending: the battery's e.m.f. is not given in the text. Max KE is 1.06e-19 J, so the stopping p.d. is 0.66 V; a current needs the battery p.d. to be below 0.66 V.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-63.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-64.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-65.jpg"
+      ]
     },
     {
       "id": "3D-Q68",
@@ -2806,6 +3337,10 @@
         "Distance to the object is half the total: v t / 2 = 0.5 vt.",
         "Options A and B give double the distance; B and D include an extra -1 term with no physical meaning.",
         "So C is correct."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-65.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-66.jpg"
       ]
     },
     {
@@ -2825,7 +3360,11 @@
       "question": "Photons transfer 8.74e-19 J to electrons in the ground state of mercury atoms. How many different frequencies of light could be emitted? (energy level diagram missing)",
       "status": "pending",
       "answer": "Pending: the mercury energy level diagram and options are missing from the text. Photon energy transferred = 5.46 eV.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-66.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-67.jpg"
+      ]
     },
     {
       "id": "3D-Q70",
@@ -2848,6 +3387,10 @@
         "m v = 9.11e-31 x 3.6e7 = 3.28e-23 kg m s-1.",
         "lambda = 6.63e-34 / 3.28e-23 = 2.02e-11 m.",
         "The speed is about 0.12c, so the non-relativistic formula is valid."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-66.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-67.jpg"
       ]
     },
     {
@@ -2867,7 +3410,11 @@
       "question": "Determine whether the transducer can detect ultrasound reflected from a crack 4.0 cm away in concrete at 23 C, pulse duration 200 us (speed-temperature graph missing).",
       "status": "pending",
       "answer": "Pending: the speed of ultrasound against temperature graph is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-67.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-68.jpg"
+      ]
     },
     {
       "id": "3D-Q71b",
@@ -2891,6 +3438,10 @@
         "A wave can only detect features comparable to or larger than its wavelength.",
         "A shorter wavelength therefore resolves smaller cracks.",
         "Hence the higher frequency is used for shorter cracks."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-67.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-68.jpg"
       ]
     },
     {
@@ -2915,6 +3466,11 @@
         "The spreading is greatest when the gap size is comparable to the wavelength.",
         "Electron diffraction through graphite is an example, producing a pattern on the screen.",
         "This shows electrons behave as waves."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-68.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-69.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-70.jpg"
       ]
     },
     {
@@ -2939,6 +3495,11 @@
         "Momentum p = sqrt(2 m KE) = sqrt(2 x 9.11e-31 x 7.84e-16) = 3.78e-23 kg m s-1.",
         "de Broglie wavelength lambda = h / p = 6.63e-34 / 3.78e-23.",
         "lambda = 1.75e-11 m, about 1.8e-11 m."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-68.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-69.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-70.jpg"
       ]
     },
     {
@@ -2963,6 +3524,11 @@
         "Second order: sin(theta) = 2 lambda / d = 2 x 1.8e-11 / 2.0e-6 = 1.8e-5.",
         "Position on screen x = D tan(theta) = 1.0 x 1.8e-5 = 1.8e-5 m.",
         "This is only about 18 micrometres from the central maximum, too small to be seen clearly."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-68.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-69.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-70.jpg"
       ]
     },
     {
@@ -2987,6 +3553,11 @@
         "Mercury electrons are excited to higher energy levels.",
         "The excited electrons fall back to lower levels.",
         "Each fall emits a photon with energy equal to the level difference."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-70.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-71.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-72.jpg"
       ]
     },
     {
@@ -3006,7 +3577,12 @@
       "question": "Show that the total energy of UV incident on the glass screen in 25 s is about 130 J, given intensity 50 mW cm^-2 (screen dimensions in diagram).",
       "status": "pending",
       "answer": "Pending: the screen dimensions are in the missing diagram. The implied area is about 104 cm^2 (0.0104 m^2).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-70.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-71.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-72.jpg"
+      ]
     },
     {
       "id": "3D-Q73b(ii)",
@@ -3030,6 +3606,11 @@
         "E = (6.63e-34 x 3.00e8) / 395e-9 = 5.04e-19 J.",
         "Use the total energy of 130 J from part (i).",
         "N = 130 / 5.04e-19 = 2.58e20 photons, about 2.6e20."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-70.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-71.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-72.jpg"
       ]
     },
     {
@@ -3054,6 +3635,11 @@
         "More energetic electrons can excite atoms to higher energy levels.",
         "Transitions between higher levels release photons of greater energy.",
         "Greater photon energy means higher frequency UV is produced."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-70.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-71.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-72.jpg"
       ]
     },
     {
@@ -3078,6 +3664,11 @@
         "A higher intensity delivers more UV energy per second to the glue.",
         "The total energy required is fixed at about 130 J.",
         "So the hardening time is reduced."
+      ],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-70.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-71.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-72.jpg"
       ]
     },
     {
@@ -3097,7 +3688,11 @@
       "question": "Which statement about photoelectric emission from a metal is correct? (Options A and B given; options C and D missing from the text.)",
       "status": "pending",
       "answer": "Pending: options C and D are missing from the text. Option B is wrong as written, because the number emitted per second depends on intensity, not work function.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-72.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-73.jpg"
+      ]
     },
     {
       "id": "3D-Q75",
@@ -3116,7 +3711,11 @@
       "question": "Which transition (arrows A to D on the hydrogen energy level diagram) would emit a photon with the shortest wavelength?",
       "status": "pending",
       "answer": "Pending: the energy level diagram with arrows A to D is missing from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/18-3D-Quantum-Physics-72.jpg",
+        "papers/physics/img/18-3D-Quantum-Physics-73.jpg"
+      ]
     }
   ]
 }

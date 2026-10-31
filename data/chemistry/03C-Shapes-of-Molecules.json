@@ -1,6 +1,6 @@
 {
   "code": "Ch3C",
-  "title": "Shapes of Molecules",
+  "title": "Shapes of molecules",
   "unit": "AS Unit 1",
   "pdf": "papers/chemistry/03C-Shapes-of-Molecules.pdf",
   "questions": [
@@ -9,7 +9,16 @@
       "no": "Q1(a)",
       "marks": 2,
       "topic": "Ionic Equations",
-      "keywords": ["ionic equation", "silver chloride", "silver ion charge", "precipitate", "silver nitrate", "sodium chloride", "balanced equation", "state symbols"],
+      "keywords": [
+        "ionic equation",
+        "silver chloride",
+        "silver ion charge",
+        "precipitate",
+        "silver nitrate",
+        "sodium chloride",
+        "balanced equation",
+        "state symbols"
+      ],
       "question": "A student wrote the ionic equation Ag2+(l) + 2Cl-(l) gives AgCl2(s) for the precipitation of silver chloride. Explain why this equation is incorrect even though it is balanced.",
       "status": "ready",
       "answer": "Silver is Ag+, not Ag2+, and silver chloride is AgCl, not AgCl2; correct ionic equation is Ag+(aq) + Cl-(aq) gives AgCl(s)",
@@ -18,6 +27,11 @@
         "Silver chloride contains Ag+ and Cl- in a 1:1 ratio, so the formula is AgCl, and AgCl2 would need Ag2+",
         "The equation balances only because the wrong charges and formula were chosen consistently",
         "Correct ionic equation: Ag+(aq) + Cl-(aq) gives AgCl(s), with state symbols for the ions in solution and the precipitate as solid"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-01.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-02.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-03.jpg"
       ]
     },
     {
@@ -25,7 +39,15 @@
       "no": "Q1(b)",
       "marks": 3,
       "topic": "Empirical And Molecular Formula",
-      "keywords": ["empirical formula", "molecular formula", "molar mass", "mass percentage", "carbon hydrogen chlorine", "mole ratio", "C2H2Cl2"],
+      "keywords": [
+        "empirical formula",
+        "molecular formula",
+        "molar mass",
+        "mass percentage",
+        "carbon hydrogen chlorine",
+        "mole ratio",
+        "C2H2Cl2"
+      ],
       "question": "A compound contains 3.09 g C, 0.26 g H and 9.15 g Cl. Its molar mass is 97.0 g mol-1. Find its molecular formula.",
       "status": "ready",
       "answer": "C2H2Cl2",
@@ -34,6 +56,11 @@
         "Divide by the smallest (0.2575): C : H : Cl = 1 : 1 : 1, so empirical formula CHCl",
         "Empirical formula mass = 12.0 + 1.0 + 35.5 = 48.5 g mol-1",
         "n = 97.0/48.5 = 2, so the molecular formula is (CHCl)2 = C2H2Cl2"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-01.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-02.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-03.jpg"
       ]
     },
     {
@@ -41,7 +68,15 @@
       "no": "Q1(c)(i)",
       "marks": 2,
       "topic": "Mass Spectrometry Isotopes",
-      "keywords": ["mass spectrum", "molecular ion", "NCl3", "chlorine isotopes", "mass to charge ratio", "isotope pattern", "nitrogen trichloride"],
+      "keywords": [
+        "mass spectrum",
+        "molecular ion",
+        "NCl3",
+        "chlorine isotopes",
+        "mass to charge ratio",
+        "isotope pattern",
+        "nitrogen trichloride"
+      ],
       "question": "Nitrogen trichloride NCl3 contains only 14N and chlorine atoms of mass 35 and 37. Give the formula and m/z of the four molecular ion peaks.",
       "status": "ready",
       "answer": "14N35Cl3+ (m/z 119), 14N35Cl2(37Cl)+ (m/z 121), 14N35Cl(37Cl)2+ (m/z 123), 14N37Cl3+ (m/z 125)",
@@ -50,6 +85,11 @@
         "Mass of N = 14; each 35Cl adds 35 and each 37Cl adds 37",
         "All three 35Cl: 14 + 105 = 119; two 35Cl and one 37Cl: 121; one 35Cl and two 37Cl: 123; all 37Cl: 125",
         "Give the four ions with their m/z values as listed in the answer"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-01.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-02.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-03.jpg"
       ]
     },
     {
@@ -57,18 +97,40 @@
       "no": "Q1(c)(ii)",
       "marks": 3,
       "topic": "Shape Of NCl3",
-      "keywords": ["NCl3 shape", "trigonal pyramidal", "bond angle", "lone pair", "electron pair repulsion", "VSEPR", "nitrogen trichloride"],
+      "keywords": [
+        "NCl3 shape",
+        "trigonal pyramidal",
+        "bond angle",
+        "lone pair",
+        "electron pair repulsion",
+        "VSEPR",
+        "nitrogen trichloride"
+      ],
       "question": "Complete the table to predict the shape and Cl-N-Cl bond angle of nitrogen trichloride. The table is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the table from the PDF to check the expected entries (expected: trigonal pyramidal, bond angle slightly less than 107 degrees)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-01.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-02.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-03.jpg"
+      ]
     },
     {
       "id": "Ch3C-Q1d(i)",
       "no": "Q1(d)(i)",
       "marks": 2,
       "topic": "Covalent Character",
-      "keywords": ["aluminium chloride", "covalent character", "polarisation", "charge density", "ionic lattice", "Fajans", "small cation", "large anion"],
+      "keywords": [
+        "aluminium chloride",
+        "covalent character",
+        "polarisation",
+        "charge density",
+        "ionic lattice",
+        "Fajans",
+        "small cation",
+        "large anion"
+      ],
       "question": "Explain why solid aluminium chloride, which is ionic, has significant covalent character.",
       "status": "ready",
       "answer": "The small, highly charged Al3+ ion has high charge density, so it polarises the large Cl- ion and distorts its electron cloud",
@@ -76,6 +138,11 @@
         "Al3+ is small and has a 3+ charge, so its charge density is high",
         "High charge density polarises the large, easily distorted Cl- anion",
         "Polarisation draws the electron density of Cl- towards Al3+, giving the Al-Cl bond shared-electron (covalent) character"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-01.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-02.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-03.jpg"
       ]
     },
     {
@@ -83,7 +150,15 @@
       "no": "Q1(d)(ii)",
       "marks": 2,
       "topic": "Dimer Formation",
-      "keywords": ["Al2Cl6 dimer", "dative covalent bond", "bridging chlorine", "lone pair donation", "aluminium chloride dimer", "electron deficient", "diagram"],
+      "keywords": [
+        "Al2Cl6 dimer",
+        "dative covalent bond",
+        "bridging chlorine",
+        "lone pair donation",
+        "aluminium chloride dimer",
+        "electron deficient",
+        "diagram"
+      ],
       "question": "Describe how two AlCl3 molecules are joined in the dimer Al2Cl6, including a diagram.",
       "status": "ready",
       "answer": "Each AlCl3 has an empty orbital on Al; a lone pair on a Cl of the other molecule forms a dative covalent bond to Al, giving two bridging Cl atoms",
@@ -92,6 +167,11 @@
         "A chlorine atom on one molecule uses a lone pair to form a dative covalent bond to Al of the other molecule",
         "Two such bridging Cl atoms link the two Al atoms, giving a four-membered Al2Cl2 ring with Cl bridges",
         "Diagram: draw two AlCl3 units with two bridging Cl atoms, each Cl bonded to both Al atoms, with an arrow from the bridging Cl to Al for the dative bonds"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-01.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-02.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-03.jpg"
       ]
     },
     {
@@ -99,18 +179,36 @@
       "no": "Q2",
       "marks": 1,
       "topic": "Tetrahedral Species",
-      "keywords": ["tetrahedral", "molecular shape", "species not tetrahedral", "VSEPR", "shapes of ions"],
+      "keywords": [
+        "tetrahedral",
+        "molecular shape",
+        "species not tetrahedral",
+        "VSEPR",
+        "shapes of ions"
+      ],
       "question": "Which species is not tetrahedral? The answer options are missing from the extracted text.",
       "status": "pending",
       "answer": "Needs the answer options from the PDF to identify the non-tetrahedral species",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-03.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg"
+      ]
     },
     {
       "id": "Ch3C-Q3a(i)",
       "no": "Q3(a)(i)",
       "marks": 1,
       "topic": "Electron Configuration",
-      "keywords": ["electronic configuration", "phosphorus", "electrons in boxes", "atomic number 15", "3p orbitals", "Hund's rule", "unpaired electrons"],
+      "keywords": [
+        "electronic configuration",
+        "phosphorus",
+        "electrons in boxes",
+        "atomic number 15",
+        "3p orbitals",
+        "Hund's rule",
+        "unpaired electrons"
+      ],
       "question": "Complete the electronic configuration of phosphorus (atomic number 15) using electrons-in-boxes notation.",
       "status": "ready",
       "answer": "1s2 2s2 2p6 3s2 3p3, with the three 3p electrons in separate boxes (one each)",
@@ -118,6 +216,11 @@
         "Phosphorus has 15 electrons: 2 in 1s, 2 in 2s, 6 in 2p, 2 in 3s and 3 in 3p",
         "The 3p subshell has three boxes; by Hund's rule, the three electrons go into separate boxes with parallel spins",
         "Result: 1s2 2s2 2p6 3s2 3p3 with three unpaired electrons"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-05.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg"
       ]
     },
     {
@@ -125,7 +228,15 @@
       "no": "Q3(a)(ii)",
       "marks": 2,
       "topic": "First Ionisation Energy",
-      "keywords": ["first ionisation energy", "phosphorus", "sulfur", "half-filled subshell", "electron repulsion", "period 3 trend", "nuclear charge"],
+      "keywords": [
+        "first ionisation energy",
+        "phosphorus",
+        "sulfur",
+        "half-filled subshell",
+        "electron repulsion",
+        "period 3 trend",
+        "nuclear charge"
+      ],
       "question": "Explain why the first ionisation energy of phosphorus is greater than that of sulfur.",
       "status": "ready",
       "answer": "P has a half-filled, stable 3p3 subshell; S removes an electron from a 3p4 orbital that is destabilised by repulsion between paired electrons",
@@ -133,6 +244,11 @@
         "Phosphorus 3p3 has a half-filled subshell, which is extra stable",
         "Sulfur 3p4 has one orbital with two paired electrons, so they repel each other",
         "The electron removed from sulfur is therefore easier to lose, so its ionisation energy is lower"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-05.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg"
       ]
     },
     {
@@ -140,7 +256,16 @@
       "no": "Q3(b)",
       "marks": 3,
       "topic": "Melting Temperature Comparison",
-      "keywords": ["melting temperature", "phosphorus", "silicon", "simple molecular", "giant covalent", "van der Waals forces", "intermolecular forces", "covalent network"],
+      "keywords": [
+        "melting temperature",
+        "phosphorus",
+        "silicon",
+        "simple molecular",
+        "giant covalent",
+        "van der Waals forces",
+        "intermolecular forces",
+        "covalent network"
+      ],
       "question": "Phosphorus melts at 44 degrees C and silicon at 1410 degrees C. Explain why phosphorus has a much lower melting temperature.",
       "status": "ready",
       "answer": "Phosphorus is simple molecular with weak van der Waals forces between molecules; silicon is giant covalent with many strong covalent bonds to break",
@@ -149,6 +274,11 @@
         "The forces between these molecules are weak van der Waals (London) forces, which need little energy to overcome",
         "Silicon is a giant covalent lattice in which every atom is joined by strong covalent bonds",
         "Melting silicon requires breaking many strong covalent bonds, so it needs a much higher temperature"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-05.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg"
       ]
     },
     {
@@ -156,18 +286,39 @@
       "no": "Q3(c)(i)",
       "marks": 3,
       "topic": "PCl5 Molecule",
-      "keywords": ["PCl5", "phosphorus pentachloride", "dot and cross", "shape", "bond angle", "trigonal bipyramidal", "table"],
+      "keywords": [
+        "PCl5",
+        "phosphorus pentachloride",
+        "dot and cross",
+        "shape",
+        "bond angle",
+        "trigonal bipyramidal",
+        "table"
+      ],
       "question": "Complete the table for a PCl5 molecule. The table is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the table from the PDF to check entries (expected: 5 bonding pairs, no lone pairs, trigonal bipyramidal, 90 and 120 degree angles)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-05.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg"
+      ]
     },
     {
       "id": "Ch3C-Q3c(ii)",
       "no": "Q3(c)(ii)",
       "marks": 2,
       "topic": "Ionic PCl5 Structure",
-      "keywords": ["PCl5 solid", "PCl4+", "PCl6-", "tetrahedral cation", "octahedral anion", "ion formula", "charge"],
+      "keywords": [
+        "PCl5 solid",
+        "PCl4+",
+        "PCl6-",
+        "tetrahedral cation",
+        "octahedral anion",
+        "ion formula",
+        "charge"
+      ],
       "question": "Solid PCl5 is ionic. The cation is tetrahedral and the anion is octahedral, each with one P atom and a different number of Cl atoms. Give the formula and charge of each ion.",
       "status": "ready",
       "answer": "Cation PCl4+ (tetrahedral); anion PCl6- (octahedral)",
@@ -175,6 +326,11 @@
         "Tetrahedral cation with one P has 4 Cl atoms (4 bonding pairs, no lone pairs)",
         "P has 5 valence electrons; with 4 Cl atoms and one positive charge, the cation is PCl4+",
         "Octahedral anion with one P has 6 Cl atoms (6 bonding pairs), and the extra electron makes it PCl6-"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-05.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg"
       ]
     },
     {
@@ -182,7 +338,16 @@
       "no": "Q3(d)",
       "marks": 3,
       "topic": "Acid-Base Titration Equation",
-      "keywords": ["sodium hydroxide", "phosphoric acid", "titration", "mole ratio", "balanced equation", "moles", "neutralisation", "H3PO4"],
+      "keywords": [
+        "sodium hydroxide",
+        "phosphoric acid",
+        "titration",
+        "mole ratio",
+        "balanced equation",
+        "moles",
+        "neutralisation",
+        "H3PO4"
+      ],
       "question": "8.00 cm3 of 0.250 mol dm-3 NaOH reacts completely with 10.0 cm3 of 0.100 mol dm-3 H3PO4. Deduce the balanced equation.",
       "status": "ready",
       "answer": "2NaOH + H3PO4 gives Na2HPO4 + 2H2O",
@@ -191,6 +356,11 @@
         "Moles H3PO4 = 0.100 x 10.0/1000 = 1.00 x 10^-3 mol",
         "Ratio NaOH : H3PO4 = 2 : 1, so two of the three acidic H+ ions are neutralised",
         "Balanced equation: 2NaOH + H3PO4 gives Na2HPO4 + 2H2O"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-05.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg"
       ]
     },
     {
@@ -198,7 +368,15 @@
       "no": "Q3(e)",
       "marks": 2,
       "topic": "Water Of Crystallisation",
-      "keywords": ["hydrated magnesium phosphate", "water of crystallisation", "percentage by mass", "molar mass", "value of y", "Mg3(PO4)2", "hydrate"],
+      "keywords": [
+        "hydrated magnesium phosphate",
+        "water of crystallisation",
+        "percentage by mass",
+        "molar mass",
+        "value of y",
+        "Mg3(PO4)2",
+        "hydrate"
+      ],
       "question": "Hydrated magnesium phosphate Mg3(PO4)2.yH2O is 78.5% anhydrous Mg3(PO4)2 by mass. Find y. Molar mass of Mg3(PO4)2 = 262.9 g mol-1.",
       "status": "ready",
       "answer": "y = 4",
@@ -207,6 +385,11 @@
         "Mass of water in one mole of hydrate = 334.9 - 262.9 = 72.0 g",
         "Moles of water = 72.0/18.0 = 4.0",
         "So y = 4"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-05.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg"
       ]
     },
     {
@@ -214,7 +397,14 @@
       "no": "Q4",
       "marks": 1,
       "topic": "Lone Pairs In H2S",
-      "keywords": ["lone pairs", "H2S", "sulfur", "outer shell", "electron pairs", "multiple choice"],
+      "keywords": [
+        "lone pairs",
+        "H2S",
+        "sulfur",
+        "outer shell",
+        "electron pairs",
+        "multiple choice"
+      ],
       "question": "How many lone pairs of electrons are in the outer shell of the sulfur atom in H2S? Options: A zero, B one, C two, D four.",
       "status": "ready",
       "answer": "C (two lone pairs)",
@@ -222,6 +412,10 @@
         "Sulfur has 6 outer electrons",
         "Two of these form S-H bonds (one electron from each atom), using 2 electrons",
         "The remaining 4 electrons form two lone pairs"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg"
       ]
     },
     {
@@ -229,7 +423,16 @@
       "no": "Q5",
       "marks": 1,
       "topic": "Bond Angle Order",
-      "keywords": ["bond angle", "BeCl2", "BCl3", "CH4", "NH3", "decreasing order", "VSEPR", "lone pairs"],
+      "keywords": [
+        "bond angle",
+        "BeCl2",
+        "BCl3",
+        "CH4",
+        "NH3",
+        "decreasing order",
+        "VSEPR",
+        "lone pairs"
+      ],
       "question": "In which sequence are the molecules in order of decreasing bond angle? Options: A BeCl2 > BCl3 > CH4, B BeCl2 > NH3 > CH4, C CH4 > BCl3 > BeCl2, D CH4 > NH3 > BeCl2.",
       "status": "ready",
       "answer": "A (BeCl2 180 deg > BCl3 120 deg > CH4 109.5 deg)",
@@ -238,6 +441,10 @@
         "BCl3 is trigonal planar with three bonding pairs: 120 degrees",
         "CH4 is tetrahedral with four bonding pairs: 109.5 degrees",
         "Order: BeCl2 > BCl3 > CH4, which is option A"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg"
       ]
     },
     {
@@ -245,7 +452,16 @@
       "no": "Q6",
       "marks": 1,
       "topic": "Planar Molecules",
-      "keywords": ["planar molecule", "CF4", "C2F4", "PF5", "SF6", "shape", "trigonal planar", "ethene"],
+      "keywords": [
+        "planar molecule",
+        "CF4",
+        "C2F4",
+        "PF5",
+        "SF6",
+        "shape",
+        "trigonal planar",
+        "ethene"
+      ],
       "question": "Which molecule is planar? Options: A CF4, B C2F4, C PF5, D SF6.",
       "status": "ready",
       "answer": "B (C2F4)",
@@ -253,6 +469,10 @@
         "CF4 is tetrahedral and not planar",
         "C2F4 is like ethene: each C has three bonding pairs and no lone pairs, so it is trigonal planar and flat",
         "PF5 is trigonal bipyramidal and SF6 is octahedral; neither is planar"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg"
       ]
     },
     {
@@ -260,18 +480,37 @@
       "no": "Q7(a)",
       "marks": 3,
       "topic": "Shape Of NCl3",
-      "keywords": ["NCl3", "displayed formula", "lone pair", "bond angle", "trigonal pyramidal", "shape table"],
+      "keywords": [
+        "NCl3",
+        "displayed formula",
+        "lone pair",
+        "bond angle",
+        "trigonal pyramidal",
+        "shape table"
+      ],
       "question": "Complete the table for a molecule of NCl3 (molecular structure, shape and bond angle). The table is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the table from the PDF to check entries (expected: trigonal pyramidal, 3 bonding pairs and 1 lone pair, bond angle slightly less than 107 degrees)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg"
+      ]
     },
     {
       "id": "Ch3C-Q7b(i)",
       "no": "Q7(b)(i)",
       "marks": 2,
       "topic": "Melting Temperature Of Halides",
-      "keywords": ["PCl5", "SbCl5", "melting temperature", "ionic lattice", "simple molecular", "van der Waals forces", "electrostatic forces"],
+      "keywords": [
+        "PCl5",
+        "SbCl5",
+        "melting temperature",
+        "ionic lattice",
+        "simple molecular",
+        "van der Waals forces",
+        "electrostatic forces"
+      ],
       "question": "Explain why PCl5, a solid of ions, has a higher melting temperature than SbCl5, which is made of molecules.",
       "status": "ready",
       "answer": "PCl5 has strong electrostatic attraction between ions in a lattice; SbCl5 has only weak van der Waals forces between molecules",
@@ -280,6 +519,10 @@
         "Melting PCl5 requires a large amount of energy to overcome these ionic bonds",
         "SbCl5 is molecular, so only weak van der Waals forces between molecules need to be overcome",
         "Less energy is needed, so SbCl5 melts at a lower temperature"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg"
       ]
     },
     {
@@ -287,7 +530,14 @@
       "no": "Q7(b)(ii)",
       "marks": 2,
       "topic": "Dot And Cross SbCl5",
-      "keywords": ["SbCl5", "dot and cross", "antimony pentachloride", "bonding diagram", "outer electrons", "five bonds"],
+      "keywords": [
+        "SbCl5",
+        "dot and cross",
+        "antimony pentachloride",
+        "bonding diagram",
+        "outer electrons",
+        "five bonds"
+      ],
       "question": "Draw a dot-and-cross diagram of a molecule of SbCl5, showing outer electrons only.",
       "status": "ready",
       "answer": "Sb in the centre with five single covalent bonds to five Cl atoms, each bond one shared pair (Sb electron dot, Cl electron cross), no lone pairs on Sb",
@@ -296,6 +546,10 @@
         "Each Cl shares one electron with Sb, forming five Sb-Cl single bonds",
         "Sb uses all five outer electrons in bonds, so there are no lone pairs on Sb",
         "Each Cl has three lone pairs (6 electrons) plus the shared pair"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg"
       ]
     },
     {
@@ -303,7 +557,14 @@
       "no": "Q7(c)(i)",
       "marks": 1,
       "topic": "Dative Covalent Bond",
-      "keywords": ["dative covalent bond", "definition", "coordinate bond", "lone pair", "shared pair", "Sb2Cl10"],
+      "keywords": [
+        "dative covalent bond",
+        "definition",
+        "coordinate bond",
+        "lone pair",
+        "shared pair",
+        "Sb2Cl10"
+      ],
       "question": "State what is meant by the term dative covalent bond.",
       "status": "ready",
       "answer": "A shared pair of electrons in which both electrons come from the same atom (one atom donates the lone pair)",
@@ -311,6 +572,10 @@
         "A covalent bond is a shared pair of electrons between two atoms",
         "In a dative covalent bond, both electrons of the shared pair come from one atom",
         "The donor atom has a lone pair and the acceptor atom has an empty orbital"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg"
       ]
     },
     {
@@ -318,7 +583,14 @@
       "no": "Q7(c)(ii)",
       "marks": 1,
       "topic": "Dative Bonds In Sb2Cl10",
-      "keywords": ["Sb2Cl10", "dative bonds", "bridging chlorine", "lone pair donation", "diagram", "dimer"],
+      "keywords": [
+        "Sb2Cl10",
+        "dative bonds",
+        "bridging chlorine",
+        "lone pair donation",
+        "diagram",
+        "dimer"
+      ],
       "question": "Complete the diagram to show the dative covalent bonds in Sb2Cl10.",
       "status": "ready",
       "answer": "Two bridging Cl atoms, each donating a lone pair to an Sb atom of the other SbCl5 unit (arrows from Cl to Sb)",
@@ -326,6 +598,10 @@
         "Sb2Cl10 is two SbCl5 units joined together",
         "Two terminal Cl atoms of one unit each use a lone pair to bond to the Sb of the other unit",
         "Draw an arrow from each bridging Cl to the Sb it bonds to, giving two dative bonds"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg"
       ]
     },
     {
@@ -333,7 +609,15 @@
       "no": "Q7(d)",
       "marks": 1,
       "topic": "Nitrogen Pentachloride",
-      "keywords": ["nitrogen", "pentachloride", "Group 5", "no d orbitals", "octet", "period 2", "expanded octet"],
+      "keywords": [
+        "nitrogen",
+        "pentachloride",
+        "Group 5",
+        "no d orbitals",
+        "octet",
+        "period 2",
+        "expanded octet"
+      ],
       "question": "Give one reason why nitrogen does not form a pentachloride, unlike the other Group 5 elements.",
       "status": "ready",
       "answer": "Nitrogen has no empty d orbitals in its outer shell, so it cannot expand its octet to form five bonds",
@@ -341,6 +625,10 @@
         "Nitrogen is in period 2 with only 2s and 2p orbitals in its outer shell",
         "Five bonds need ten electrons in the outer shell (an expanded octet)",
         "Without d orbitals, nitrogen cannot expand its octet; it is also too small to fit five Cl atoms"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg"
       ]
     },
     {
@@ -348,7 +636,13 @@
       "no": "Q8(a)",
       "marks": 2,
       "topic": "Electronic Configuration Of Be And Ca",
-      "keywords": ["electronic configuration", "beryllium", "calcium", "s p d notation", "shell structure"],
+      "keywords": [
+        "electronic configuration",
+        "beryllium",
+        "calcium",
+        "s p d notation",
+        "shell structure"
+      ],
       "question": "Complete the electronic configurations of beryllium and calcium using s, p, d notation.",
       "status": "ready",
       "answer": "Be: 1s2 2s2; Ca: 1s2 2s2 2p6 3s2 3p6 4s2",
@@ -356,6 +650,11 @@
         "Beryllium has 4 electrons: 1s2 2s2",
         "Calcium has 20 electrons: fill 1s2, 2s2, 2p6, 3s2, 3p6, then 4s2",
         "Result: Be 1s2 2s2; Ca 1s2 2s2 2p6 3s2 3p6 4s2"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-09.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-10.jpg"
       ]
     },
     {
@@ -363,7 +662,14 @@
       "no": "Q8(b)",
       "marks": 2,
       "topic": "Dot And Cross BeCl2",
-      "keywords": ["beryllium chloride", "BeCl2", "dot and cross", "gaseous molecule", "linear", "covalent bonds"],
+      "keywords": [
+        "beryllium chloride",
+        "BeCl2",
+        "dot and cross",
+        "gaseous molecule",
+        "linear",
+        "covalent bonds"
+      ],
       "question": "Draw a dot-and-cross diagram showing the bonding in a gaseous molecule of beryllium chloride, BeCl2.",
       "status": "ready",
       "answer": "Be in the centre with two single covalent bonds to two Cl atoms, each bond one shared pair; no lone pairs on Be",
@@ -372,6 +678,11 @@
         "Each Cl shares one electron with Be, forming two Be-Cl bonds",
         "Be uses both its outer electrons in bonds, so there are no lone pairs on Be",
         "Each Cl has three lone pairs plus the shared pair"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-09.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-10.jpg"
       ]
     },
     {
@@ -379,7 +690,14 @@
       "no": "Q8(c)",
       "marks": 2,
       "topic": "Dative And Covalent Bonds In BeCl2",
-      "keywords": ["beryllium chloride polymer", "dative covalent bond", "covalent bond", "lone pair", "shared pair", "solid state"],
+      "keywords": [
+        "beryllium chloride polymer",
+        "dative covalent bond",
+        "covalent bond",
+        "lone pair",
+        "shared pair",
+        "solid state"
+      ],
       "question": "In solid BeCl2, a polymer uses two types of covalent bond shown by lines and arrows. Describe how each type of bond is formed.",
       "status": "ready",
       "answer": "Normal covalent bond: one electron from each atom forms a shared pair. Dative covalent bond: a Cl lone pair is donated to an empty orbital on Be",
@@ -387,6 +705,11 @@
         "A normal covalent bond forms when each atom contributes one electron to a shared pair",
         "A dative covalent bond forms when a Cl atom donates a lone pair to an electron-deficient Be atom",
         "In the polymer, the arrows show the dative bonds and the plain lines show normal covalent bonds"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-09.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-10.jpg"
       ]
     },
     {
@@ -394,7 +717,17 @@
       "no": "Q8(d)",
       "marks": 4,
       "topic": "Bond Angles In BeCl2 Forms",
-      "keywords": ["BeCl2 bond angle", "linear", "tetrahedral", "electron pair repulsion", "VSEPR", "monomer", "polymer", "180 degrees", "109.5 degrees"],
+      "keywords": [
+        "BeCl2 bond angle",
+        "linear",
+        "tetrahedral",
+        "electron pair repulsion",
+        "VSEPR",
+        "monomer",
+        "polymer",
+        "180 degrees",
+        "109.5 degrees"
+      ],
       "question": "Predict the Cl-Be-Cl bond angle in gaseous (monomer) BeCl2 and in the solid polymer, justifying each using electron pair repulsion theory.",
       "status": "ready",
       "answer": "Monomer: 180 degrees (linear). Polymer: about 109.5 degrees (tetrahedral around each Be)",
@@ -403,6 +736,11 @@
         "Two bonding pairs repel equally and get maximum separation, so the molecule is linear with a 180 degree angle",
         "In the polymer, each Be is bonded to four Cl atoms (two normal, two dative), with four bonding pairs",
         "Four bonding pairs repel to a tetrahedral arrangement, giving bond angles of about 109.5 degrees"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-09.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-10.jpg"
       ]
     },
     {
@@ -410,7 +748,16 @@
       "no": "Q8(e)",
       "marks": 2,
       "topic": "Ionic Bonding In CaCl2",
-      "keywords": ["calcium chloride", "CaCl2", "dot and cross", "ionic", "electron transfer", "Ca2+", "Cl-", "outer electrons"],
+      "keywords": [
+        "calcium chloride",
+        "CaCl2",
+        "dot and cross",
+        "ionic",
+        "electron transfer",
+        "Ca2+",
+        "Cl-",
+        "outer electrons"
+      ],
       "question": "Draw a dot-and-cross diagram for anhydrous calcium chloride, which is ionic, showing outer electrons only.",
       "status": "ready",
       "answer": "Ca2+ with no outer electrons, and two Cl- ions each with a complete octet (8 electrons), with the Ca electrons transferred to the Cl atoms",
@@ -419,6 +766,11 @@
         "Ca transfers one electron to each of two Cl atoms, forming Ca2+ and two Cl-",
         "Each Cl- has a full outer shell of 8 electrons; Ca2+ has none",
         "Draw the ions with square brackets and charges: [Cl]- [Ca]2+ [Cl]-"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-09.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-10.jpg"
       ]
     },
     {
@@ -426,7 +778,16 @@
       "no": "Q8(f)",
       "marks": 3,
       "topic": "Covalent Versus Ionic Bonding",
-      "keywords": ["beryllium chloride", "calcium chloride", "covalent", "ionic", "polarisation", "charge density", "electronegativity", "small cation"],
+      "keywords": [
+        "beryllium chloride",
+        "calcium chloride",
+        "covalent",
+        "ionic",
+        "polarisation",
+        "charge density",
+        "electronegativity",
+        "small cation"
+      ],
       "question": "Explain why gaseous beryllium chloride and solid calcium chloride have different types of bonding.",
       "status": "ready",
       "answer": "Be2+ is very small with high charge density, so it polarises Cl and gives covalent character; Ca2+ is larger with lower charge density, so bonding is ionic",
@@ -435,6 +796,11 @@
         "High charge density distorts (polarises) the electron cloud of Cl, giving shared-electron character",
         "Ca2+ is larger with a lower charge density, so it polarises Cl less",
         "CaCl2 therefore remains largely ionic, held in a lattice by electrostatic attraction"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-09.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-10.jpg"
       ]
     },
     {
@@ -442,7 +808,14 @@
       "no": "Q9(a)",
       "marks": 2,
       "topic": "Isotopes",
-      "keywords": ["isotopes", "germanium", "mass number", "neutrons", "protons", "same element"],
+      "keywords": [
+        "isotopes",
+        "germanium",
+        "mass number",
+        "neutrons",
+        "protons",
+        "same element"
+      ],
       "question": "Explain what is meant by the term isotopes.",
       "status": "ready",
       "answer": "Atoms of the same element with the same number of protons but different numbers of neutrons (different mass numbers)",
@@ -450,6 +823,11 @@
         "Isotopes are atoms of the same element",
         "They have the same number of protons, so the same atomic number",
         "They have different numbers of neutrons, so different mass numbers"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
       ]
     },
     {
@@ -457,18 +835,37 @@
       "no": "Q9(b)",
       "marks": 2,
       "topic": "Relative Atomic Mass From Mass Spectrum",
-      "keywords": ["relative atomic mass", "mass spectrum", "germanium", "isotope abundance", "weighted mean", "Ar"],
+      "keywords": [
+        "relative atomic mass",
+        "mass spectrum",
+        "germanium",
+        "isotope abundance",
+        "weighted mean",
+        "Ar"
+      ],
       "question": "Calculate the relative atomic mass of germanium from the mass spectrum shown. The spectrum is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the mass spectrum peak masses and abundances from the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
+      ]
     },
     {
       "id": "Ch3C-Q9c",
       "no": "Q9(c)",
       "marks": 1,
       "topic": "Electronic Configuration Of Germanium",
-      "keywords": ["germanium", "electronic configuration", "Ge", "Group 4", "d block filled", "4p2"],
+      "keywords": [
+        "germanium",
+        "electronic configuration",
+        "Ge",
+        "Group 4",
+        "d block filled",
+        "4p2"
+      ],
       "question": "Give the electronic configuration of a germanium atom (atomic number 32).",
       "status": "ready",
       "answer": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p2 (or [Ar] 3d10 4s2 4p2)",
@@ -476,6 +873,11 @@
         "Germanium has 32 electrons",
         "Fill in order: 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p2",
         "Write the subshells in order of number: 1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p2"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
       ]
     },
     {
@@ -483,7 +885,16 @@
       "no": "Q9(d)(i)",
       "marks": 2,
       "topic": "Atom Economy",
-      "keywords": ["atom economy", "germane", "GeH4", "Na2GeO3", "NaBH4", "molar mass", "percentage", "reaction equation"],
+      "keywords": [
+        "atom economy",
+        "germane",
+        "GeH4",
+        "Na2GeO3",
+        "NaBH4",
+        "molar mass",
+        "percentage",
+        "reaction equation"
+      ],
       "question": "Calculate the atom economy by mass for the formation of GeH4 from Na2GeO3 + NaBH4 + H2O gives GeH4 + 2NaOH + NaBO2. Ar of Ge = 72.6.",
       "status": "ready",
       "answer": "34.4%",
@@ -492,6 +903,11 @@
         "Molar masses of reactants: Na2GeO3 = 166.6, NaBH4 = 37.8, H2O = 18.0 (using Ar Na = 23.0, B = 10.8, O = 16.0, H = 1.0); total = 222.4 g mol-1",
         "Atom economy = mass of desired product / total mass of reactants x 100",
         "= 76.6 / 222.4 x 100 = 34.4%"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
       ]
     },
     {
@@ -499,7 +915,15 @@
       "no": "Q9(d)(ii)",
       "marks": 2,
       "topic": "Germyl Ion Dot And Cross",
-      "keywords": ["germane", "proton donation", "GeH3-", "dot and cross", "ammonia", "ion", "outer electrons"],
+      "keywords": [
+        "germane",
+        "proton donation",
+        "GeH3-",
+        "dot and cross",
+        "ammonia",
+        "ion",
+        "outer electrons"
+      ],
       "question": "Germane donates a proton to ammonia to form an ion. Draw a dot-and-cross diagram of this ion, showing outer electrons only.",
       "status": "ready",
       "answer": "GeH3- ion: Ge with three Ge-H bonds and one lone pair, overall charge -1",
@@ -508,6 +932,11 @@
         "Ge has 4 outer electrons; the 3 Ge-H bonds use 3 of them, and the H+ lost from GeH4 leaves its bonding pair behind on Ge",
         "So the 8 electrons of the ion are 3 bonding pairs plus 1 lone pair on Ge, and the extra electron gives the -1 charge",
         "Show the ion in square brackets with charge -1"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
       ]
     },
     {
@@ -515,7 +944,14 @@
       "no": "Q9(d)(iii)",
       "marks": 2,
       "topic": "Shape Of GeH3-",
-      "keywords": ["GeH3- shape", "trigonal pyramidal", "bond angle", "lone pair", "electron pair repulsion", "germyl ion"],
+      "keywords": [
+        "GeH3- shape",
+        "trigonal pyramidal",
+        "bond angle",
+        "lone pair",
+        "electron pair repulsion",
+        "germyl ion"
+      ],
       "question": "Using the answer to (d)(ii) and electron pair repulsion theory, name the shape and give the bond angle of the GeH3- ion.",
       "status": "ready",
       "answer": "Trigonal pyramidal; bond angle less than 109.5 degrees",
@@ -523,6 +959,11 @@
         "GeH3- has three bonding pairs and one lone pair on Ge",
         "The lone pair repels bonding pairs more strongly than bonding pairs repel each other",
         "The shape is trigonal pyramidal, with H-Ge-H angles less than the tetrahedral 109.5 degrees"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
       ]
     },
     {
@@ -530,7 +971,16 @@
       "no": "Q9(d)(iv)",
       "marks": 4,
       "topic": "Maximum Number Of Molecules",
-      "keywords": ["germane", "GeH4", "toxic", "concentration", "mg m-3", "volume", "Avogadro constant", "number of molecules"],
+      "keywords": [
+        "germane",
+        "GeH4",
+        "toxic",
+        "concentration",
+        "mg m-3",
+        "volume",
+        "Avogadro constant",
+        "number of molecules"
+      ],
       "question": "Germane has a maximum permitted concentration of 0.640 mg m-3 in air. Calculate the maximum number of GeH4 molecules in a laboratory of volume 231 m3. Avogadro constant = 6.02 x 10^23 mol-1.",
       "status": "ready",
       "answer": "1.16 x 10^21 molecules",
@@ -539,6 +989,11 @@
         "Molar mass of GeH4 = 76.6 g mol-1, so moles = 0.1478/76.6 = 1.93 x 10^-3 mol",
         "Number of molecules = 1.93 x 10^-3 x 6.02 x 10^23",
         "= 1.16 x 10^21 molecules"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
       ]
     },
     {
@@ -546,7 +1001,14 @@
       "no": "Q9(e)(i)",
       "marks": 1,
       "topic": "Moles Of Carbon Dioxide",
-      "keywords": ["moles of CO2", "molar volume", "r.t.p.", "magnesium carbonate", "gas volume", "germanium halide"],
+      "keywords": [
+        "moles of CO2",
+        "molar volume",
+        "r.t.p.",
+        "magnesium carbonate",
+        "gas volume",
+        "germanium halide"
+      ],
       "question": "335.5 cm3 of CO2 is formed at r.t.p. (molar volume 24 000 cm3 mol-1). Calculate the moles of CO2 formed.",
       "status": "ready",
       "answer": "0.0140 mol",
@@ -554,6 +1016,11 @@
         "Moles = volume / molar volume",
         "= 335.5 / 24 000 = 0.01398 mol",
         "Give to 3 significant figures: 0.0140 mol"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
       ]
     },
     {
@@ -561,13 +1028,25 @@
       "no": "Q9(e)(ii)",
       "marks": 1,
       "topic": "Moles Of HX Formed",
-      "keywords": ["HX moles", "magnesium carbonate", "hydrogen halide", "mole ratio", "CO2", "MgCO3 + 2HX"],
+      "keywords": [
+        "HX moles",
+        "magnesium carbonate",
+        "hydrogen halide",
+        "mole ratio",
+        "CO2",
+        "MgCO3 + 2HX"
+      ],
       "question": "Deduce the moles of HX formed when GeX4 reacted with excess water, using MgCO3 + 2HX gives MgX2 + CO2 + H2O.",
       "status": "ready",
       "answer": "0.0280 mol HX",
       "steps": [
         "From the equation, 2 mol HX react with 1 mol MgCO3 to give 1 mol CO2",
         "So moles of HX = 2 x moles of CO2 = 2 x 0.01398 = 0.0280 mol"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
       ]
     },
     {
@@ -575,13 +1054,25 @@
       "no": "Q9(e)(iii)",
       "marks": 1,
       "topic": "Moles Of GeX4",
-      "keywords": ["GeX4", "hydrolysis", "mole ratio", "HX", "germanium halide", "water"],
+      "keywords": [
+        "GeX4",
+        "hydrolysis",
+        "mole ratio",
+        "HX",
+        "germanium halide",
+        "water"
+      ],
       "question": "Deduce the moles of GeX4 that reacted with excess water, given GeX4 + 2H2O gives GeO2 + 4HX.",
       "status": "ready",
       "answer": "0.00699 mol GeX4",
       "steps": [
         "From the equation, 1 mol GeX4 gives 4 mol HX",
         "Moles of GeX4 = 0.0280/4 = 0.00699 mol"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
       ]
     },
     {
@@ -589,7 +1080,14 @@
       "no": "Q9(e)(iv)",
       "marks": 2,
       "topic": "Molar Mass And Identity Of Halogen",
-      "keywords": ["molar mass", "GeX4", "halogen identity", "germanium tetrahalide", "chlorine", "mass divided by moles"],
+      "keywords": [
+        "molar mass",
+        "GeX4",
+        "halogen identity",
+        "germanium tetrahalide",
+        "chlorine",
+        "mass divided by moles"
+      ],
       "question": "1.50 g of GeX4 reacted with water. Calculate the molar mass of GeX4 and identify X.",
       "status": "ready",
       "answer": "Molar mass 214.6 g mol-1; X = Cl (GeCl4)",
@@ -597,6 +1095,11 @@
         "Molar mass = mass / moles = 1.50 / 0.00699 = 214.6 g mol-1",
         "Mass of 4 X atoms = 214.6 - 72.6 = 142.0 g mol-1, so Ar of X = 142.0/4 = 35.5",
         "Ar 35.5 corresponds to chlorine, so X = Cl and the compound is GeCl4"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
       ]
     },
     {
@@ -604,13 +1107,25 @@
       "no": "Q10(a)(i)",
       "marks": 1,
       "topic": "Ionisation In Mass Spectrometer",
-      "keywords": ["mass spectrometer", "ionisation", "electron bombardment", "vaporised atoms", "positive ions"],
+      "keywords": [
+        "mass spectrometer",
+        "ionisation",
+        "electron bombardment",
+        "vaporised atoms",
+        "positive ions"
+      ],
       "question": "State how vaporised atoms are ionised in a mass spectrometer.",
       "status": "ready",
       "answer": "By bombardment with high-energy electrons, which knock out an electron to form positive ions",
       "steps": [
         "Vaporised atoms pass through a stream of high-energy electrons",
         "Collision removes an outer electron, giving a positive ion X+"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
       ]
     },
     {
@@ -618,13 +1133,25 @@
       "no": "Q10(a)(ii)",
       "marks": 1,
       "topic": "Acceleration In Mass Spectrometer",
-      "keywords": ["mass spectrometer", "acceleration", "electric field", "positive ions", "accelerating plates"],
+      "keywords": [
+        "mass spectrometer",
+        "acceleration",
+        "electric field",
+        "positive ions",
+        "accelerating plates"
+      ],
       "question": "State how the ions formed in a mass spectrometer are accelerated.",
       "status": "ready",
       "answer": "By an electric field, using accelerating (electrostatic) plates at a high voltage",
       "steps": [
         "The positive ions are attracted to a negatively charged plate",
         "An electric field across the accelerating plates gives the ions kinetic energy"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
       ]
     },
     {
@@ -632,7 +1159,14 @@
       "no": "Q10(a)(iii)",
       "marks": 2,
       "topic": "Isotopes In Mass Spectrometry",
-      "keywords": ["isotopes", "same chemical reactions", "deflection", "mass to charge", "electron configuration", "mass spectrometer"],
+      "keywords": [
+        "isotopes",
+        "same chemical reactions",
+        "deflection",
+        "mass to charge",
+        "electron configuration",
+        "mass spectrometer"
+      ],
       "question": "Explain why isotopes of an element have the same chemical reactions but their ions are deflected differently in a mass spectrometer.",
       "status": "ready",
       "answer": "Isotopes have the same electron configuration, so same chemical behaviour; they have different masses, so their ions have different m/z and are deflected differently",
@@ -641,6 +1175,12 @@
         "Chemical reactions depend on electron configuration, which is the same",
         "Isotopes have different masses, so their ions have different mass-to-charge ratios",
         "A magnetic field deflects ions by an amount that depends on m/z, so the isotopes are deflected differently"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
       ]
     },
     {
@@ -648,13 +1188,25 @@
       "no": "Q10(b)(i)",
       "marks": 2,
       "topic": "Relative Atomic Mass Definition",
-      "keywords": ["relative atomic mass", "definition", "carbon-12", "weighted mean", "isotopes"],
+      "keywords": [
+        "relative atomic mass",
+        "definition",
+        "carbon-12",
+        "weighted mean",
+        "isotopes"
+      ],
       "question": "State what is meant by relative atomic mass.",
       "status": "ready",
       "answer": "The weighted mean mass of an atom of an element compared with one twelfth of the mass of a carbon-12 atom",
       "steps": [
         "Relative atomic mass is the average mass of the isotopes of an element, weighted by their abundance",
         "It is compared with one twelfth of the mass of one carbon-12 atom, so it has no units"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
       ]
     },
     {
@@ -662,7 +1214,15 @@
       "no": "Q10(b)(ii)",
       "marks": 2,
       "topic": "Relative Atomic Mass Of Chlorine",
-      "keywords": ["relative atomic mass", "chlorine", "35Cl", "37Cl", "isotope abundance", "weighted mean", "four significant figures"],
+      "keywords": [
+        "relative atomic mass",
+        "chlorine",
+        "35Cl",
+        "37Cl",
+        "isotope abundance",
+        "weighted mean",
+        "four significant figures"
+      ],
       "question": "A sample of chlorine contains 75.53% 35Cl and 24.47% 37Cl. Calculate its relative atomic mass to four significant figures.",
       "status": "ready",
       "answer": "35.49",
@@ -671,6 +1231,12 @@
         "= 2643.55 + 905.39 = 3548.94",
         "Divide by 100 to get the weighted mean: 35.4894",
         "To 4 significant figures: 35.49"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
       ]
     },
     {
@@ -678,29 +1244,63 @@
       "no": "Q10(c)(i)",
       "marks": 2,
       "topic": "Ions In PCl3 Mass Spectrum",
-      "keywords": ["PCl3", "mass spectrum", "isotope peaks", "m/z 101-105", "phosphorus 31", "ion formulae", "table"],
+      "keywords": [
+        "PCl3",
+        "mass spectrum",
+        "isotope peaks",
+        "m/z 101-105",
+        "phosphorus 31",
+        "ion formulae",
+        "table"
+      ],
       "question": "Three peaks lie between m/z 101 and 105 in the mass spectrum of PCl3. Complete the table giving the ions responsible. The table is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the table and relative peak heights from the PDF to check the ion assignments",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
+      ]
     },
     {
       "id": "Ch3C-Q10c(ii)",
       "no": "Q10(c)(ii)",
       "marks": 2,
       "topic": "Isotope Ratio In PCl3",
-      "keywords": ["isotope ratio", "35Cl 37Cl", "peak heights", "3:1", "PCl3 mass spectrum", "relative peak heights"],
+      "keywords": [
+        "isotope ratio",
+        "35Cl 37Cl",
+        "peak heights",
+        "3:1",
+        "PCl3 mass spectrum",
+        "relative peak heights"
+      ],
       "question": "Show that the relative peak heights in the table are consistent with a 35Cl : 37Cl ratio of 3 : 1. The table values are not in the extracted text.",
       "status": "pending",
       "answer": "Needs the relative peak heights from the table in the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
+      ]
     },
     {
       "id": "Ch3C-Q10d(i)",
       "no": "Q10(d)(i)",
       "marks": 2,
       "topic": "Dot And Cross PCl3",
-      "keywords": ["PCl3", "dot and cross", "phosphorus trichloride", "lone pair", "outer electrons", "bonding pairs"],
+      "keywords": [
+        "PCl3",
+        "dot and cross",
+        "phosphorus trichloride",
+        "lone pair",
+        "outer electrons",
+        "bonding pairs"
+      ],
       "question": "Draw a dot-and-cross diagram of a PCl3 molecule, showing outer electrons only.",
       "status": "ready",
       "answer": "P in the centre with three single bonds to Cl atoms and one lone pair on P; each Cl has three lone pairs",
@@ -708,6 +1308,12 @@
         "P has 5 outer electrons and each Cl has 7",
         "Each Cl shares one electron with P, forming three P-Cl bonds (three shared pairs)",
         "The remaining two P electrons form one lone pair on P"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
       ]
     },
     {
@@ -715,7 +1321,14 @@
       "no": "Q10(d)(ii)",
       "marks": 3,
       "topic": "Shape Of PCl3",
-      "keywords": ["PCl3 shape", "trigonal pyramidal", "lone pair", "bond angle", "electron pair repulsion", "VSEPR"],
+      "keywords": [
+        "PCl3 shape",
+        "trigonal pyramidal",
+        "lone pair",
+        "bond angle",
+        "electron pair repulsion",
+        "VSEPR"
+      ],
       "question": "Explain the shape of a PCl3 molecule using electron pair repulsion theory.",
       "status": "ready",
       "answer": "Trigonal pyramidal: three bonding pairs and one lone pair; the lone pair repels more strongly, so the Cl-P-Cl angle is less than 109.5 degrees",
@@ -724,6 +1337,12 @@
         "The four pairs arrange tetrahedrally to minimise repulsion",
         "Only the three bonding pairs are seen in the molecular shape, giving a trigonal pyramidal shape",
         "The lone pair repels bonding pairs more than bonding pairs repel each other, pushing the Cl-P-Cl angle below 109.5 degrees"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
       ]
     },
     {
@@ -731,7 +1350,15 @@
       "no": "Q11",
       "marks": 1,
       "topic": "Largest Bond Angle",
-      "keywords": ["bond angle", "BF3", "CF4", "H2O", "NH3", "largest bond angle", "VSEPR"],
+      "keywords": [
+        "bond angle",
+        "BF3",
+        "CF4",
+        "H2O",
+        "NH3",
+        "largest bond angle",
+        "VSEPR"
+      ],
       "question": "Which molecule has the largest bond angle? Options: A BF3, B CF4, C H2O, D NH3.",
       "status": "ready",
       "answer": "A (BF3, 120 degrees)",
@@ -740,6 +1367,11 @@
         "CF4 is tetrahedral: 109.5 degrees",
         "NH3 is trigonal pyramidal: about 107 degrees",
         "H2O is bent with two lone pairs: about 104.5 degrees"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
       ]
     },
     {
@@ -747,7 +1379,15 @@
       "no": "Q12(a)(i)",
       "marks": 2,
       "topic": "Period 2 Ionisation Trend",
-      "keywords": ["first ionisation energy", "period 2", "trend", "nuclear charge", "atomic radius", "shielding", "increases across period"],
+      "keywords": [
+        "first ionisation energy",
+        "period 2",
+        "trend",
+        "nuclear charge",
+        "atomic radius",
+        "shielding",
+        "increases across period"
+      ],
       "question": "Explain the general trend in first ionisation energy across Period 2.",
       "status": "ready",
       "answer": "First ionisation energy generally increases across Period 2 because nuclear charge increases while shielding stays similar, so the outer electrons are held more strongly and atomic radius decreases",
@@ -756,6 +1396,11 @@
         "Electrons are added to the same shell, so shielding stays similar",
         "The outer electrons feel a greater attraction and the atomic radius decreases",
         "More energy is needed to remove an electron, so the first ionisation energy increases"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
       ]
     },
     {
@@ -763,18 +1408,38 @@
       "no": "Q12(a)(ii)",
       "marks": 3,
       "topic": "Predicting Oxygen Ionisation Energy",
-      "keywords": ["first ionisation energy", "oxygen", "prediction", "period 2", "graph", "electron repulsion", "paired electrons"],
+      "keywords": [
+        "first ionisation energy",
+        "oxygen",
+        "prediction",
+        "period 2",
+        "graph",
+        "electron repulsion",
+        "paired electrons"
+      ],
       "question": "Predict a value for the first ionisation energy of oxygen and justify it. The graph of first ionisation energies is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the graph values of the Period 2 ionisation energies from the PDF to give a predicted value",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
+      ]
     },
     {
       "id": "Ch3C-Q12b(i)",
       "no": "Q12(b)(i)",
       "marks": 2,
       "topic": "Second Ionisation Equation",
-      "keywords": ["second ionisation energy", "lithium", "Li+", "state symbols", "equation", "ionisation"],
+      "keywords": [
+        "second ionisation energy",
+        "lithium",
+        "Li+",
+        "state symbols",
+        "equation",
+        "ionisation"
+      ],
       "question": "Write the equation for the second ionisation energy of lithium, including state symbols.",
       "status": "ready",
       "answer": "Li+(g) gives Li2+(g) + e-",
@@ -782,6 +1447,11 @@
         "Second ionisation removes one electron from the 1+ ion",
         "Li+ has lost its first electron; the second ionisation gives Li2+ and one electron",
         "Both species are gases: Li+(g) gives Li2+(g) + e-"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
       ]
     },
     {
@@ -789,7 +1459,14 @@
       "no": "Q12(b)(ii)",
       "marks": 2,
       "topic": "Large Jump In Ionisation Energy",
-      "keywords": ["lithium", "second ionisation energy", "1s shell", "full shell", "nuclear attraction", "ionisation energy jump"],
+      "keywords": [
+        "lithium",
+        "second ionisation energy",
+        "1s shell",
+        "full shell",
+        "nuclear attraction",
+        "ionisation energy jump"
+      ],
       "question": "Explain the large difference between the first and second ionisation energies of lithium (second is 7298 kJ mol-1).",
       "status": "ready",
       "answer": "The second electron is removed from the full, inner 1s shell, which is close to the nucleus and strongly held, so much more energy is needed",
@@ -797,6 +1474,11 @@
         "Lithium's first electron is removed from the 2s subshell, which is outside the full 1s shell",
         "After this, Li2+ has a full 1s2 shell, so the second electron comes from a stable, full inner shell",
         "The inner shell is close to the nucleus and well shielded from outer electrons, so it is held very strongly"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
       ]
     },
     {
@@ -804,7 +1486,13 @@
       "no": "Q12(c)(i)",
       "marks": 1,
       "topic": "Dot And Cross BeCl2",
-      "keywords": ["BeCl2", "dot and cross", "beryllium chloride", "gas phase molecule", "outer electrons"],
+      "keywords": [
+        "BeCl2",
+        "dot and cross",
+        "beryllium chloride",
+        "gas phase molecule",
+        "outer electrons"
+      ],
       "question": "Draw a dot-and-cross diagram of the molecule BeCl2, showing outer electrons.",
       "status": "ready",
       "answer": "Be in the centre with two single bonds to two Cl atoms, each Cl with three lone pairs; no lone pairs on Be",
@@ -812,6 +1500,11 @@
         "Be has 2 outer electrons, each Cl has 7",
         "Each Cl shares one electron with Be, giving two Be-Cl bonds",
         "Be has no lone pairs, and each Cl has three lone pairs"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
       ]
     },
     {
@@ -819,7 +1512,15 @@
       "no": "Q12(c)(ii)",
       "marks": 4,
       "topic": "Shape Of BeCl2",
-      "keywords": ["BeCl2 shape", "linear", "bond angle", "180 degrees", "electron pair repulsion", "VSEPR", "beryllium chloride"],
+      "keywords": [
+        "BeCl2 shape",
+        "linear",
+        "bond angle",
+        "180 degrees",
+        "electron pair repulsion",
+        "VSEPR",
+        "beryllium chloride"
+      ],
       "question": "Explain the shape and bond angle of the BeCl2 molecule.",
       "status": "ready",
       "answer": "Shape: linear. Bond angle: 180 degrees. Explanation: two bonding pairs on Be repel each other equally and get maximum separation",
@@ -828,6 +1529,11 @@
         "Two electron pairs repel each other as far apart as possible",
         "They point in opposite directions, so the molecule is linear",
         "The Cl-Be-Cl bond angle is 180 degrees"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
       ]
     },
     {
@@ -835,7 +1541,14 @@
       "no": "Q12(c)(iii)",
       "marks": 2,
       "topic": "Dimer Of BeCl2",
-      "keywords": ["Be2Cl4 dimer", "dative bond", "bridging chlorine", "beryllium chloride dimer", "diagram", "lone pair donation"],
+      "keywords": [
+        "Be2Cl4 dimer",
+        "dative bond",
+        "bridging chlorine",
+        "beryllium chloride dimer",
+        "diagram",
+        "lone pair donation"
+      ],
       "question": "Draw a diagram showing two BeCl2 molecules bonding together to form the dimer Be2Cl4, and state the type of bond involved.",
       "status": "ready",
       "answer": "Two bridging Cl atoms, each donating a lone pair to the Be of the other molecule; bond type: dative covalent",
@@ -844,6 +1557,11 @@
         "A Cl atom on one molecule donates a lone pair to the Be of the other molecule",
         "Two such bridging Cl atoms form a four-membered Be2Cl2 ring",
         "Diagram: draw two BeCl2 units joined by two Cl bridges with arrows from Cl to Be; the bond type is dative covalent"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
       ]
     },
     {
@@ -851,7 +1569,15 @@
       "no": "Q13",
       "marks": 1,
       "topic": "Largest Bond Angle",
-      "keywords": ["bond angle", "BCl3", "CO2", "H2O", "NH3", "largest bond angle", "VSEPR"],
+      "keywords": [
+        "bond angle",
+        "BCl3",
+        "CO2",
+        "H2O",
+        "NH3",
+        "largest bond angle",
+        "VSEPR"
+      ],
       "question": "Which molecule has the largest bond angle? Options: A BCl3, B CO2, C H2O, D NH3.",
       "status": "ready",
       "answer": "B (CO2, 180 degrees)",
@@ -859,6 +1585,10 @@
         "CO2 is linear with two bonding regions: 180 degrees",
         "BCl3 is trigonal planar: 120 degrees",
         "NH3 is about 107 degrees and H2O about 104.5 degrees"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-19.jpg"
       ]
     },
     {
@@ -866,18 +1596,38 @@
       "no": "Q14",
       "marks": 1,
       "topic": "Shapes Of AlCl3 And PH3",
-      "keywords": ["AlCl3 shape", "PH3 shape", "trigonal planar", "trigonal pyramidal", "molecular shapes", "options"],
+      "keywords": [
+        "AlCl3 shape",
+        "PH3 shape",
+        "trigonal planar",
+        "trigonal pyramidal",
+        "molecular shapes",
+        "options"
+      ],
       "question": "What are the shapes of the AlCl3 and PH3 molecules? The answer options are missing from the extracted text.",
       "status": "pending",
       "answer": "Needs the answer options from the PDF (expected: AlCl3 trigonal planar, PH3 trigonal pyramidal)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-19.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-20.jpg"
+      ]
     },
     {
       "id": "Ch3C-Q15a",
       "no": "Q15(a)",
       "marks": 4,
       "topic": "Empirical Formula Of Boric Acid",
-      "keywords": ["boric acid", "H3BO3", "percentage composition", "molar mass", "empirical formula", "boron", "oxygen", "hydrogen"],
+      "keywords": [
+        "boric acid",
+        "H3BO3",
+        "percentage composition",
+        "molar mass",
+        "empirical formula",
+        "boron",
+        "oxygen",
+        "hydrogen"
+      ],
       "question": "Boric acid contains 17.48% B, 77.67% O and the rest H. Its molar mass is 61.8 g mol-1. Show that its molecular formula is H3BO3. Ar: H = 1, B = 10.8, O = 16.",
       "status": "ready",
       "answer": "H3BO3 (B : O : H = 1 : 3 : 3)",
@@ -886,6 +1636,10 @@
         "Moles: B = 17.48/10.8 = 1.618; O = 77.67/16 = 4.854; H = 4.85/1 = 4.85",
         "Divide by 1.618: B = 1.00, O = 3.00, H = 3.00",
         "Empirical formula BH3O3 has mass 61.8, equal to the molar mass, so the molecular formula is H3BO3"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-19.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-20.jpg"
       ]
     },
     {
@@ -893,7 +1647,14 @@
       "no": "Q15(b)(i)",
       "marks": 3,
       "topic": "Dot And Cross B(OH)3",
-      "keywords": ["boric acid", "B(OH)3", "dot and cross", "boron", "hydroxyl groups", "outer electrons"],
+      "keywords": [
+        "boric acid",
+        "B(OH)3",
+        "dot and cross",
+        "boron",
+        "hydroxyl groups",
+        "outer electrons"
+      ],
       "question": "Draw a dot-and-cross diagram of B(OH)3, showing outer electrons only.",
       "status": "ready",
       "answer": "B in the centre bonded to three O atoms by single bonds, each O bonded to one H; no lone pairs on B; each O has two lone pairs",
@@ -902,6 +1663,10 @@
         "Each O-H bond is one shared pair; each B-O bond is one shared pair",
         "B forms three B-O bonds using its three electrons, so it has no lone pairs and no octet is needed",
         "Each O has two lone pairs in addition to its two bonds"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-19.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-20.jpg"
       ]
     },
     {
@@ -909,7 +1674,14 @@
       "no": "Q15(b)(ii)",
       "marks": 2,
       "topic": "O-B-O Bond Angle",
-      "keywords": ["bond angle", "O-B-O", "boric acid", "trigonal planar", "120 degrees", "electron pair repulsion"],
+      "keywords": [
+        "bond angle",
+        "O-B-O",
+        "boric acid",
+        "trigonal planar",
+        "120 degrees",
+        "electron pair repulsion"
+      ],
       "question": "Suggest a value for the O-B-O bond angle in B(OH)3 and justify it.",
       "status": "ready",
       "answer": "About 120 degrees",
@@ -917,6 +1689,10 @@
         "B has three bonding pairs and no lone pairs",
         "Three bonding pairs repel equally and spread to maximum separation in a plane",
         "The shape is trigonal planar, so the O-B-O angle is 120 degrees"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-19.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-20.jpg"
       ]
     },
     {
@@ -924,13 +1700,22 @@
       "no": "Q16(a)",
       "marks": 1,
       "topic": "Bond Angle In BCl3",
-      "keywords": ["BCl3", "bond angle", "trigonal planar", "120 degrees", "multiple choice"],
+      "keywords": [
+        "BCl3",
+        "bond angle",
+        "trigonal planar",
+        "120 degrees",
+        "multiple choice"
+      ],
       "question": "What is the expected bond angle in boron trichloride, BCl3? Options: A 90 degrees, B 107 degrees, C 109.5 degrees, D 120 degrees.",
       "status": "ready",
       "answer": "D (120 degrees)",
       "steps": [
         "BCl3 has three bonding pairs and no lone pairs on B",
         "This gives a trigonal planar shape with 120 degree angles"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-20.jpg"
       ]
     },
     {
@@ -938,13 +1723,23 @@
       "no": "Q16(b)",
       "marks": 1,
       "topic": "Bond Angle In Ammonium Ion",
-      "keywords": ["ammonium ion", "NH4+", "bond angle", "tetrahedral", "109.5 degrees", "multiple choice"],
+      "keywords": [
+        "ammonium ion",
+        "NH4+",
+        "bond angle",
+        "tetrahedral",
+        "109.5 degrees",
+        "multiple choice"
+      ],
       "question": "What is the expected bond angle in an ammonium ion? Options: A 90 degrees, B 104.5 degrees, C 107 degrees, D 109.5 degrees.",
       "status": "ready",
       "answer": "D (109.5 degrees)",
       "steps": [
         "NH4+ has four bonding pairs and no lone pairs on N",
         "Four bonding pairs repel to a tetrahedral shape with 109.5 degree angles"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-20.jpg"
       ]
     },
     {
@@ -952,7 +1747,15 @@
       "no": "Q16(c)",
       "marks": 1,
       "topic": "Bond Angle In OF2",
-      "keywords": ["OF2", "oxygen difluoride", "bond angle", "bent", "lone pairs", "104.5 degrees", "multiple choice"],
+      "keywords": [
+        "OF2",
+        "oxygen difluoride",
+        "bond angle",
+        "bent",
+        "lone pairs",
+        "104.5 degrees",
+        "multiple choice"
+      ],
       "question": "What is the expected bond angle in oxygen difluoride, OF2? Options: A 90 degrees, B 104.5 degrees, C 109.5 degrees, D 180 degrees.",
       "status": "ready",
       "answer": "B (104.5 degrees)",
@@ -960,6 +1763,9 @@
         "O has two bonding pairs and two lone pairs",
         "Two lone pairs push the bonding pairs together, giving a bent shape",
         "The F-O-F angle is about 104.5 degrees"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-20.jpg"
       ]
     },
     {
@@ -967,13 +1773,23 @@
       "no": "Q17(a)(i)",
       "marks": 1,
       "topic": "Electronic Configuration Of Aluminium",
-      "keywords": ["aluminium", "electronic configuration", "Group 3", "3p1", "atomic number 13"],
+      "keywords": [
+        "aluminium",
+        "electronic configuration",
+        "Group 3",
+        "3p1",
+        "atomic number 13"
+      ],
       "question": "Give the electronic configuration of aluminium (atomic number 13).",
       "status": "ready",
       "answer": "1s2 2s2 2p6 3s2 3p1",
       "steps": [
         "Aluminium has 13 electrons",
         "Fill the subshells: 1s2 2s2 2p6 3s2 3p1"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-21.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-22.jpg"
       ]
     },
     {
@@ -981,7 +1797,15 @@
       "no": "Q17(a)(ii)",
       "marks": 2,
       "topic": "Electronic Structures Of Group 3",
-      "keywords": ["boron", "aluminium", "thallium", "Group 3", "outer electrons", "electron shells", "electronic structure"],
+      "keywords": [
+        "boron",
+        "aluminium",
+        "thallium",
+        "Group 3",
+        "outer electrons",
+        "electron shells",
+        "electronic structure"
+      ],
       "question": "Compare and contrast the electronic structures of boron, aluminium and thallium.",
       "status": "ready",
       "answer": "All three have three outer electrons (ns2 np1), but B has 2 shells, Al has 3 and Tl has 6 shells; Tl also has filled 4f and 5d subshells",
@@ -989,6 +1813,10 @@
         "Similarity: all three have an outer configuration ns2 np1, giving three outer electrons",
         "Difference: boron has only two shells, aluminium has three and thallium has six",
         "Thallium has filled 4f and 5d subshells between its core and outer shell, which boron and aluminium do not have"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-21.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-22.jpg"
       ]
     },
     {
@@ -996,7 +1824,15 @@
       "no": "Q17(a)(iii)",
       "marks": 3,
       "topic": "Shapes Of Group 3 Chlorides",
-      "keywords": ["BCl3", "AlCl3", "TlCl3", "trigonal planar", "electron pair repulsion", "bond angle", "shape"],
+      "keywords": [
+        "BCl3",
+        "AlCl3",
+        "TlCl3",
+        "trigonal planar",
+        "electron pair repulsion",
+        "bond angle",
+        "shape"
+      ],
       "question": "Using electron pair repulsion theory, deduce the expected shape of BCl3, AlCl3 and TlCl3 and justify your answer.",
       "status": "ready",
       "answer": "All three are trigonal planar with Cl-M-Cl angles of 120 degrees, because each has three bonding pairs and no lone pairs on the central atom",
@@ -1005,6 +1841,10 @@
         "So each has three bonding pairs and no lone pairs",
         "Three bonding pairs repel equally and spread out in a plane",
         "The shape is trigonal planar with bond angles of 120 degrees for all three"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-21.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-22.jpg"
       ]
     },
     {
@@ -1012,7 +1852,15 @@
       "no": "Q17(b)(i)",
       "marks": 3,
       "topic": "Molar Mass Of AlCl3 Vapour",
-      "keywords": ["AlCl3", "sublimation", "ideal gas equation", "pV = nRT", "molar mass", "Al2Cl6", "dimer check"],
+      "keywords": [
+        "AlCl3",
+        "sublimation",
+        "ideal gas equation",
+        "pV = nRT",
+        "molar mass",
+        "Al2Cl6",
+        "dimer check"
+      ],
       "question": "A 5.00 g sample of AlCl3 is vaporised at 455 K and 1.01 x 10^5 Pa, giving 700 cm3 of gas. Show the data are consistent with Al2Cl6 in the gas phase. R = 8.31 J mol-1 K-1.",
       "status": "ready",
       "answer": "n = 0.0187 mol, molar mass = 267 g mol-1, consistent with Al2Cl6 (M = 267.0)",
@@ -1021,6 +1869,10 @@
         "n = pV/RT = (1.01 x 10^5 x 7.00 x 10^-4)/(8.31 x 455) = 70.7/3781 = 0.0187 mol",
         "Molar mass = mass/n = 5.00/0.0187 = 267 g mol-1",
         "AlCl3 has M = 133.5 and Al2Cl6 has M = 267.0, so the vapour is Al2Cl6"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-21.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-22.jpg"
       ]
     },
     {
@@ -1028,7 +1880,14 @@
       "no": "Q17(b)(ii)",
       "marks": 3,
       "topic": "Dot And Cross Al2Cl6",
-      "keywords": ["Al2Cl6", "dot and cross", "dimer", "dative bonds", "bridging chlorine", "aluminium chloride"],
+      "keywords": [
+        "Al2Cl6",
+        "dot and cross",
+        "dimer",
+        "dative bonds",
+        "bridging chlorine",
+        "aluminium chloride"
+      ],
       "question": "Draw a dot-and-cross diagram of Al2Cl6 using dots for aluminium electrons and crosses for chlorine electrons.",
       "status": "ready",
       "answer": "Two Al atoms, each bonded to four Cl atoms: two terminal Cl with normal shared pairs, and two bridging Cl atoms donating a lone pair to Al (dative bonds); each Al has 8 electrons",
@@ -1036,6 +1895,10 @@
         "Each Al forms two normal Al-Cl bonds to terminal Cl atoms",
         "Each Al also accepts a lone pair from a bridging Cl, giving two dative bonds",
         "Each Al then has 8 electrons around it, and each bridging Cl has a lone pair shared to Al"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-21.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-22.jpg"
       ]
     },
     {
@@ -1043,18 +1906,38 @@
       "no": "Q17(c)",
       "marks": 3,
       "topic": "Shape Of TlCl4 3- Ion",
-      "keywords": ["TlCl4 ion", "thallium", "ion shape", "lone pair", "bond angles", "10 electrons", "PCl5 comparison"],
+      "keywords": [
+        "TlCl4 ion",
+        "thallium",
+        "ion shape",
+        "lone pair",
+        "bond angles",
+        "10 electrons",
+        "PCl5 comparison"
+      ],
       "question": "Draw the shape of the TlCl4^3- ion, which has 10 electrons in the outer shell of thallium, and predict the bond angles, including any lone pairs that affect the shape.",
       "status": "pending",
       "answer": "Needs the answer or mark scheme to confirm the expected shape and bond angles, since the electron count and ion geometry are ambiguous from the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-21.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-22.jpg"
+      ]
     },
     {
       "id": "Ch3C-Q18",
       "no": "Q18",
       "marks": 1,
       "topic": "Polar Molecule",
-      "keywords": ["polar molecule", "permanent dipole", "CO2", "CCl4", "BeCl2", "NH3", "dipole moment"],
+      "keywords": [
+        "polar molecule",
+        "permanent dipole",
+        "CO2",
+        "CCl4",
+        "BeCl2",
+        "NH3",
+        "dipole moment"
+      ],
       "question": "Which molecule is polar? Options: A CO2(g), B CCl4(g), C BeCl2(g), D NH3(g).",
       "status": "ready",
       "answer": "D (NH3)",
@@ -1062,6 +1945,10 @@
         "CO2, CCl4 and BeCl2 are symmetrical, so their bond dipoles cancel",
         "NH3 is trigonal pyramidal with a lone pair, so its bond dipoles do not cancel",
         "NH3 therefore has a permanent dipole"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-22.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-23.jpg"
       ]
     },
     {
@@ -1069,7 +1956,15 @@
       "no": "Q19",
       "marks": 1,
       "topic": "Dipoles In PCl5 Substitution",
-      "keywords": ["PCl5", "trigonal bipyramidal", "fluorine substitution", "axial", "equatorial", "permanent dipole", "PCl3F2"],
+      "keywords": [
+        "PCl5",
+        "trigonal bipyramidal",
+        "fluorine substitution",
+        "axial",
+        "equatorial",
+        "permanent dipole",
+        "PCl3F2"
+      ],
       "question": "PCl5 is trigonal bipyramidal. Chlorine atoms are replaced by fluorine one at a time, axial positions first. Which product has no permanent dipole? Options: A PCl4F, B PCl3F2, C PCl2F3, D PClF4.",
       "status": "ready",
       "answer": "B (PCl3F2)",
@@ -1078,6 +1973,12 @@
         "Its three Cl atoms occupy the equatorial plane, so the two axial F atoms are opposite each other",
         "The bond dipoles are symmetrical and cancel, so PCl3F2 has no permanent dipole",
         "The other three products have unsymmetrical arrangements with a net dipole"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-23.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-24.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
       ]
     },
     {
@@ -1085,13 +1986,25 @@
       "no": "Q20(a)",
       "marks": 1,
       "topic": "Naming S2F10",
-      "keywords": ["S2F10", "disulfur decafluoride", "naming", "sulfur fluoride", "nomenclature"],
+      "keywords": [
+        "S2F10",
+        "disulfur decafluoride",
+        "naming",
+        "sulfur fluoride",
+        "nomenclature"
+      ],
       "question": "Give the name of the compound S2F10.",
       "status": "ready",
       "answer": "Disulfur decafluoride",
       "steps": [
         "Prefix di means two sulfur atoms",
         "Prefix deca means ten fluorine atoms"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-23.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-24.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
       ]
     },
     {
@@ -1099,7 +2012,14 @@
       "no": "Q20(b)",
       "marks": 2,
       "topic": "Dot And Cross S2F10",
-      "keywords": ["S2F10", "dot and cross", "S-S bond", "SF5 units", "outer electrons", "sulfur fluoride"],
+      "keywords": [
+        "S2F10",
+        "dot and cross",
+        "S-S bond",
+        "SF5 units",
+        "outer electrons",
+        "sulfur fluoride"
+      ],
       "question": "S2F10 consists of two SF5 units linked by an S-S bond. Complete the dot-and-cross diagram showing outer electrons only.",
       "status": "ready",
       "answer": "Two S atoms joined by one S-S shared pair; each S bonded to five F atoms by single bonds; no lone pairs on S; each F has three lone pairs",
@@ -1107,6 +2027,12 @@
         "Each S has 6 outer electrons and uses all of them in bonds",
         "Each S forms five S-F bonds and one S-S bond, giving six bonds per S",
         "Each F has one bond and three lone pairs"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-23.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-24.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
       ]
     },
     {
@@ -1114,7 +2040,13 @@
       "no": "Q20(c)",
       "marks": 2,
       "topic": "Dot And Cross SF4",
-      "keywords": ["SF4", "dot and cross", "sulfur tetrafluoride", "lone pair", "outer electrons"],
+      "keywords": [
+        "SF4",
+        "dot and cross",
+        "sulfur tetrafluoride",
+        "lone pair",
+        "outer electrons"
+      ],
       "question": "Draw a dot-and-cross diagram of SF4 showing all outer shell electrons.",
       "status": "ready",
       "answer": "S in the centre with four single bonds to F atoms and one lone pair on S; each F has three lone pairs",
@@ -1122,6 +2054,12 @@
         "S has 6 outer electrons; four are used in S-F bonds",
         "The remaining two S electrons form one lone pair",
         "Each F has one bond and three lone pairs"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-23.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-24.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
       ]
     },
     {
@@ -1129,18 +2067,40 @@
       "no": "Q20(d)",
       "marks": 4,
       "topic": "Shapes And F-S-F Angles",
-      "keywords": ["SF4 shape", "S2F10 shape", "F-S-F angle", "see-saw", "square pyramidal", "table", "bond angles"],
+      "keywords": [
+        "SF4 shape",
+        "S2F10 shape",
+        "F-S-F angle",
+        "see-saw",
+        "square pyramidal",
+        "table",
+        "bond angles"
+      ],
       "question": "Complete the table showing the shapes of S2F10 and SF4 and their F-S-F bond angles. The table is not in the extracted text.",
       "status": "pending",
       "answer": "Needs the table from the PDF to check the entries",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-23.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-24.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
+      ]
     },
     {
       "id": "Ch3C-Q20e",
       "no": "Q20(e)",
       "marks": 3,
       "topic": "Shape Around Sulfur",
-      "keywords": ["SF6", "SF4", "octahedral", "see-saw", "electron pairs", "lone pair", "electron pair repulsion"],
+      "keywords": [
+        "SF6",
+        "SF4",
+        "octahedral",
+        "see-saw",
+        "electron pairs",
+        "lone pair",
+        "electron pair repulsion"
+      ],
       "question": "Justify the shape around the sulfur atom in SF6 and in SF4.",
       "status": "ready",
       "answer": "SF6 is octahedral (six bonding pairs, no lone pairs, 90 degree angles); SF4 is see-saw (four bonding pairs and one lone pair)",
@@ -1149,6 +2109,12 @@
         "Six pairs repel to an octahedral arrangement with 90 degree F-S-F angles",
         "SF4: S has four bonding pairs and one lone pair in a trigonal bipyramidal arrangement",
         "The lone pair occupies an equatorial position, giving a see-saw shape with distorted angles"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-23.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-24.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
       ]
     },
     {
@@ -1156,7 +2122,16 @@
       "no": "Q20(f)",
       "marks": 3,
       "topic": "Reactivity Of Sulfur Fluorides",
-      "keywords": ["SF6", "SF4", "S2F10", "reactivity", "lone pair", "S-S bond", "shielding", "unreactive"],
+      "keywords": [
+        "SF6",
+        "SF4",
+        "S2F10",
+        "reactivity",
+        "lone pair",
+        "S-S bond",
+        "shielding",
+        "unreactive"
+      ],
       "question": "Suggest reasons why SF4 and S2F10 are reactive but SF6 is unreactive, considering shape and bonding.",
       "status": "ready",
       "answer": "SF6 has six S-F bonds around S in a symmetrical octahedron, shielding S from attack; SF4 has an exposed lone pair on S; S2F10 has a weak, reactive S-S bond",
@@ -1164,6 +2139,12 @@
         "In SF6, the sulfur is fully surrounded by six F atoms in a symmetrical octahedron, so it is shielded from attack",
         "SF4 has a lone pair on S that is not shielded, so it can be attacked by reagents",
         "S2F10 contains a weaker, more reactive S-S bond that can break in reactions"
+      ],
+      "images": [
+        "papers/chemistry/img/03C-Shapes-of-Molecules-23.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-24.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
+        "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
       ]
     }
   ]

@@ -9,7 +9,16 @@
       "no": "Q1(a)",
       "marks": 7,
       "topic": "Pulley On Rough Table",
-      "keywords": ["pulley", "tension", "friction", "rough table", "coefficient of friction", "string", "particle", "newton second law"],
+      "keywords": [
+        "pulley",
+        "tension",
+        "friction",
+        "rough table",
+        "coefficient of friction",
+        "string",
+        "particle",
+        "newton second law"
+      ],
       "question": "Particle P of mass m hangs vertically below a small smooth light pulley fixed at the edge of a rough horizontal table. Particle Q of mass m is on the table, joined to P by a light inextensible string passing over the pulley. The coefficient of friction between Q and the table is mu, where mu < 1. Q is released from rest, and the tension in the string before Q hits the pulley is kmg. Find k in terms of mu.",
       "status": "ready",
       "answer": "k = (1 + mu)/2",
@@ -19,6 +28,10 @@
         "Add the two equations: m*g - mu*m*g = 2*m*a, so a = g(1 - mu)/2",
         "Substitute into P: T = m*g - m*g(1 - mu)/2",
         "T = m*g(1 + mu)/2, so k = (1 + mu)/2"
+      ],
+      "images": [
+        "papers/maths/img/M1-06-Pulleys-1.jpg",
+        "papers/maths/img/M1-06-Pulleys-2.jpg"
       ]
     },
     {
@@ -26,7 +39,16 @@
       "no": "Q1(b)",
       "marks": 4,
       "topic": "Time To Reach Pulley",
-      "keywords": ["pulley", "acceleration", "suvat", "time", "rough table", "displacement", "constant acceleration", "string"],
+      "keywords": [
+        "pulley",
+        "acceleration",
+        "suvat",
+        "time",
+        "rough table",
+        "displacement",
+        "constant acceleration",
+        "string"
+      ],
       "question": "Q is initially a distance d from the pulley. Find, in terms of d, g and mu, the time taken by Q after release to reach the pulley.",
       "status": "ready",
       "answer": "t = 2*sqrt(d/(g(1 - mu)))",
@@ -35,6 +57,10 @@
         "Using s = ut + (1/2)at^2 with u = 0 and s = d: d = (1/2)*a*t^2",
         "t^2 = 2d/a = 4d/(g(1 - mu))",
         "t = 2*sqrt(d/(g(1 - mu)))"
+      ],
+      "images": [
+        "papers/maths/img/M1-06-Pulleys-1.jpg",
+        "papers/maths/img/M1-06-Pulleys-2.jpg"
       ]
     },
     {
@@ -42,7 +68,16 @@
       "no": "Q1(c)",
       "marks": 2,
       "topic": "Friction Holds Particle",
-      "keywords": ["friction", "limiting friction", "pulley", "rough table", "equilibrium", "coefficient of friction", "tension", "string"],
+      "keywords": [
+        "friction",
+        "limiting friction",
+        "pulley",
+        "rough table",
+        "equilibrium",
+        "coefficient of friction",
+        "tension",
+        "string"
+      ],
       "question": "Describe what would happen if mu >= 1, giving a reason for your answer.",
       "status": "ready",
       "answer": "Q stays at rest, because the maximum friction mu*m*g is at least m*g, which balances the pull of P.",
@@ -51,6 +86,10 @@
         "The maximum friction on Q is mu*m*g",
         "If mu >= 1 then mu*m*g >= m*g",
         "Friction can hold Q, so Q does not move and the system stays at rest"
+      ],
+      "images": [
+        "papers/maths/img/M1-06-Pulleys-1.jpg",
+        "papers/maths/img/M1-06-Pulleys-2.jpg"
       ]
     },
     {
@@ -58,7 +97,16 @@
       "no": "Q2(a)",
       "marks": 9,
       "topic": "Block On Inclined Plane",
-      "keywords": ["pulley", "inclined plane", "friction", "tension", "acceleration", "block", "string", "newton second law"],
+      "keywords": [
+        "pulley",
+        "inclined plane",
+        "friction",
+        "tension",
+        "acceleration",
+        "block",
+        "string",
+        "newton second law"
+      ],
       "question": "Block A of mass m is on a rough plane inclined at angle alpha to the horizontal, with tan alpha = 7/24 and coefficient of friction mu = 1/3. A light inextensible string runs from A up the line of greatest slope to a small smooth pulley at the top, then vertically down to block B of mass km. The system is released from rest, A moves up the plane and the tension is 4mg/3. (i) Find the magnitude of the acceleration of A in terms of g. (ii) Find k.",
       "status": "ready",
       "answer": "(i) a = 11g/15  (ii) k = 5",
@@ -69,6 +117,10 @@
         "With T = 4mg/3: a = (4/3 - 3/5)g = 11g/15",
         "B (down): km*g - T = km*a, so km(g - a) = T",
         "g - a = 4g/15, so km(4g/15) = 4mg/3, giving k = 5"
+      ],
+      "images": [
+        "papers/maths/img/M1-06-Pulleys-2.jpg",
+        "papers/maths/img/M1-06-Pulleys-3.jpg"
       ]
     },
     {
@@ -76,7 +128,16 @@
       "no": "Q2(b)",
       "marks": 4,
       "topic": "Force On Pulley",
-      "keywords": ["pulley", "resultant force", "tension", "string", "inclined plane", "vector", "force on pulley", "magnitude"],
+      "keywords": [
+        "pulley",
+        "resultant force",
+        "tension",
+        "string",
+        "inclined plane",
+        "vector",
+        "force on pulley",
+        "magnitude"
+      ],
       "question": "Find the magnitude of the resultant force exerted on the pulley by the string, giving your answer in terms of m and g.",
       "status": "ready",
       "answer": "32mg/15",
@@ -85,6 +146,10 @@
         "Part to A is down the plane, direction (-cos alpha, -sin alpha); part to B is vertically down, direction (0, -1)",
         "Resultant = T(-24/25, -32/25), with magnitude T*sqrt(576 + 1024)/25 = 8T/5",
         "Magnitude = (8/5)(4mg/3) = 32mg/15"
+      ],
+      "images": [
+        "papers/maths/img/M1-06-Pulleys-2.jpg",
+        "papers/maths/img/M1-06-Pulleys-3.jpg"
       ]
     },
     {
@@ -92,7 +157,16 @@
       "no": "Q3(a)",
       "marks": 4,
       "topic": "Equations Of Motion Two Particles",
-      "keywords": ["pulley", "equation of motion", "inclined plane", "friction", "tension", "particle", "string", "newton second law"],
+      "keywords": [
+        "pulley",
+        "equation of motion",
+        "inclined plane",
+        "friction",
+        "tension",
+        "particle",
+        "string",
+        "newton second law"
+      ],
       "question": "Particle A of mass 2m rests on a rough plane inclined at alpha with tan alpha = 3/4. A light inextensible string runs from A parallel to a line of greatest slope up to a small smooth light pulley P at the top, then vertically down to particle B of mass 3m, which hangs freely. The coefficient of friction between A and the plane is 1/2. A is released and moves up the plane. For the motion before A reaches the pulley: (i) write down an equation of motion for A, (ii) write down an equation of motion for B.",
       "status": "ready",
       "answer": "(i) T - 2mg = 2ma  (ii) 3mg - T = 3ma",
@@ -101,6 +175,10 @@
         "A (up the plane): T - 2mg(3/5) - (1/2)(2mg)(4/5) = 2ma",
         "Simplify: T - 6mg/5 - 4mg/5 = 2ma, so T - 2mg = 2ma (i)",
         "B (vertically down): 3mg - T = 3ma (ii)"
+      ],
+      "images": [
+        "papers/maths/img/M1-06-Pulleys-3.jpg",
+        "papers/maths/img/M1-06-Pulleys-4.jpg"
       ]
     },
     {
@@ -108,7 +186,16 @@
       "no": "Q3(b)",
       "marks": 5,
       "topic": "Acceleration Of Two Particles",
-      "keywords": ["pulley", "acceleration", "inclined plane", "friction", "tension", "newton second law", "string", "particle"],
+      "keywords": [
+        "pulley",
+        "acceleration",
+        "inclined plane",
+        "friction",
+        "tension",
+        "newton second law",
+        "string",
+        "particle"
+      ],
       "question": "Find, in terms of g, the acceleration of A.",
       "status": "ready",
       "answer": "a = g/5",
@@ -116,6 +203,10 @@
         "Add equations (i) and (ii) to remove T: 3mg - 2mg = 2ma + 3ma",
         "mg = 5ma",
         "a = g/5"
+      ],
+      "images": [
+        "papers/maths/img/M1-06-Pulleys-3.jpg",
+        "papers/maths/img/M1-06-Pulleys-4.jpg"
       ]
     },
     {
@@ -123,7 +214,16 @@
       "no": "Q3(c)",
       "marks": 4,
       "topic": "Force On Pulley P",
-      "keywords": ["pulley", "force on pulley", "tension", "resultant force", "string", "inclined plane", "magnitude", "vector"],
+      "keywords": [
+        "pulley",
+        "force on pulley",
+        "tension",
+        "resultant force",
+        "string",
+        "inclined plane",
+        "magnitude",
+        "vector"
+      ],
       "question": "Find the magnitude of the force exerted on the pulley by the string.",
       "status": "ready",
       "answer": "48 sqrt(5) mg/25, about 4.29 mg",
@@ -132,6 +232,10 @@
         "Part AP points down the plane, direction (-4/5, -3/5); part PB points vertically down, direction (0, -1)",
         "Resultant = T(-4/5, -8/5), magnitude T*sqrt(16 + 64)/5 = 4 sqrt(5) T/5",
         "Magnitude = (12mg/5)(4 sqrt(5)/5) = 48 sqrt(5) mg/25"
+      ],
+      "images": [
+        "papers/maths/img/M1-06-Pulleys-3.jpg",
+        "papers/maths/img/M1-06-Pulleys-4.jpg"
       ]
     },
     {
@@ -139,7 +243,16 @@
       "no": "Q3(d)",
       "marks": 1,
       "topic": "Smooth Pulley Assumption",
-      "keywords": ["smooth pulley", "tension", "pulley", "string", "friction", "modelling", "same tension", "assumption"],
+      "keywords": [
+        "smooth pulley",
+        "tension",
+        "pulley",
+        "string",
+        "friction",
+        "modelling",
+        "same tension",
+        "assumption"
+      ],
       "question": "State how you have used the information that P is a smooth pulley.",
       "status": "ready",
       "answer": "A smooth pulley gives no friction, so the tension T is the same on both sides and the same T appears in both equations.",
@@ -147,6 +260,10 @@
         "A smooth pulley exerts no frictional force on the string",
         "So the tension is unchanged as the string passes over P",
         "Hence the same T is used in equations (i) and (ii)"
+      ],
+      "images": [
+        "papers/maths/img/M1-06-Pulleys-3.jpg",
+        "papers/maths/img/M1-06-Pulleys-4.jpg"
       ]
     },
     {
@@ -154,7 +271,16 @@
       "no": "Q4(a)",
       "marks": 1,
       "topic": "Equation Of Motion For Q",
-      "keywords": ["equation of motion", "tension", "smooth horizontal plane", "pulley", "string", "particle", "newton second law", "inclined plane"],
+      "keywords": [
+        "equation of motion",
+        "tension",
+        "smooth horizontal plane",
+        "pulley",
+        "string",
+        "particle",
+        "newton second law",
+        "inclined plane"
+      ],
       "question": "Write down an equation of motion for Q, where Q (mass m) lies on a smooth horizontal plane and is joined by a string over a smooth pulley to particle P (mass 4m) on a rough inclined plane.",
       "status": "ready",
       "answer": "T = m*a (Q accelerates towards the pulley)",
@@ -162,6 +288,10 @@
         "The only horizontal force on Q is the tension T, directed towards the pulley",
         "Q has mass m and acceleration a towards the pulley",
         "So T = m*a"
+      ],
+      "images": [
+        "papers/maths/img/M1-06-Pulleys-4.jpg",
+        "papers/maths/img/M1-06-Pulleys-5.jpg"
       ]
     },
     {
@@ -169,7 +299,16 @@
       "no": "Q4(b)",
       "marks": 7,
       "topic": "Tension Connected Particles",
-      "keywords": ["tension", "rough inclined plane", "friction", "pulley", "particle", "string", "newton second law", "acceleration"],
+      "keywords": [
+        "tension",
+        "rough inclined plane",
+        "friction",
+        "pulley",
+        "particle",
+        "string",
+        "newton second law",
+        "acceleration"
+      ],
       "question": "For P (mass 4m) on a fixed rough plane inclined at alpha with tan alpha = 3/4 and coefficient of friction 1/4, and Q (mass m) on a smooth horizontal plane, the system is released from rest with P moving down the plane. Find, in terms of m and g, the tension in the string.",
       "status": "ready",
       "answer": "T = 8mg/25",
@@ -179,6 +318,10 @@
         "P (down the plane): 4mg(3/5) - 4mg/5 - T = 4ma, so 8mg/5 - T = 4ma",
         "Q: T = m*a, so 8mg/5 = 5ma",
         "a = 8g/25, so T = m(8g/25) = 8mg/25"
+      ],
+      "images": [
+        "papers/maths/img/M1-06-Pulleys-4.jpg",
+        "papers/maths/img/M1-06-Pulleys-5.jpg"
       ]
     },
     {
@@ -186,7 +329,16 @@
       "no": "Q4(c)",
       "marks": 4,
       "topic": "Force On Pulley Q4",
-      "keywords": ["pulley", "force on pulley", "tension", "resultant force", "string", "inclined plane", "magnitude", "vector"],
+      "keywords": [
+        "pulley",
+        "force on pulley",
+        "tension",
+        "resultant force",
+        "string",
+        "inclined plane",
+        "magnitude",
+        "vector"
+      ],
       "question": "Find the magnitude of the force exerted on the pulley by the string.",
       "status": "ready",
       "answer": "8 sqrt(10) mg/125, about 0.202 mg",
@@ -195,6 +347,10 @@
         "Part to P: down the plane, direction (-4/5, -3/5); part to Q: horizontal towards Q, direction (1, 0)",
         "Resultant = T(1 - 4/5, -3/5) = T(1/5, -3/5)",
         "Magnitude = T*sqrt(1 + 9)/5 = T sqrt(10)/5 = (8mg/25)(sqrt(10)/5) = 8 sqrt(10) mg/125"
+      ],
+      "images": [
+        "papers/maths/img/M1-06-Pulleys-4.jpg",
+        "papers/maths/img/M1-06-Pulleys-5.jpg"
       ]
     },
     {
@@ -202,7 +358,16 @@
       "no": "Q4(d)",
       "marks": 1,
       "topic": "Light String Assumption",
-      "keywords": ["light string", "tension", "string", "modelling", "mass", "same tension", "pulley", "assumption"],
+      "keywords": [
+        "light string",
+        "tension",
+        "string",
+        "modelling",
+        "mass",
+        "same tension",
+        "pulley",
+        "assumption"
+      ],
       "question": "State where in your working you have used the information that the string is light.",
       "status": "ready",
       "answer": "The tension is the same throughout the string, so the same T acts on P and on Q.",
@@ -210,6 +375,10 @@
         "A light string has no mass, so there is no net force on the string itself",
         "Hence the tension is the same at both ends of the string",
         "So the same T appears in the equation for P and the equation for Q"
+      ],
+      "images": [
+        "papers/maths/img/M1-06-Pulleys-4.jpg",
+        "papers/maths/img/M1-06-Pulleys-5.jpg"
       ]
     },
     {
@@ -217,7 +386,16 @@
       "no": "Q5(a)",
       "marks": 9,
       "topic": "Tension With Friction",
-      "keywords": ["tension", "rough plane", "friction", "pulley", "particle", "string", "newton second law", "acceleration"],
+      "keywords": [
+        "tension",
+        "rough plane",
+        "friction",
+        "pulley",
+        "particle",
+        "string",
+        "newton second law",
+        "acceleration"
+      ],
       "question": "Particle A (2 kg) rests on a rough plane inclined at alpha with tan alpha = 3/4, and coefficient of friction 1/4. A light inextensible string runs from A parallel to a line of greatest slope over a small smooth pulley at the top of the plane, then down to particle B (4 kg) hanging vertically below the pulley. The system is released from rest with the string taut and B descends. Find the tension in the string as B descends.",
       "status": "ready",
       "answer": "T = 12g/5 N (about 23.5 N with g = 9.8)",
@@ -227,6 +405,10 @@
         "B (down): 4g - T = 4a",
         "Add: 4g - 8g/5 = 6a, so a = 2g/5",
         "T = 4g - 4(2g/5) = 12g/5"
+      ],
+      "images": [
+        "papers/maths/img/M1-06-Pulleys-5.jpg",
+        "papers/maths/img/M1-06-Pulleys-6.jpg"
       ]
     },
     {
@@ -234,7 +416,16 @@
       "no": "Q5(b)",
       "marks": 7,
       "topic": "Range Of Distance",
-      "keywords": ["range", "deceleration", "friction", "pulley", "string slack", "inclined plane", "distance", "particle"],
+      "keywords": [
+        "range",
+        "deceleration",
+        "friction",
+        "pulley",
+        "string slack",
+        "inclined plane",
+        "distance",
+        "particle"
+      ],
       "question": "On hitting the ground, B immediately comes to rest. Given that A comes to rest before reaching the pulley, find in terms of h the range of possible values of d, where A is initially d m from the pulley and B is h m above the ground.",
       "status": "ready",
       "answer": "d > 3h/2",
@@ -244,6 +435,10 @@
         "Further distance up the plane = (4gh/5)/(2 x 4g/5) = h/2",
         "Total distance up the plane before A is at rest = h + h/2 = 3h/2",
         "A must stop before reaching the pulley, so d > 3h/2"
+      ],
+      "images": [
+        "papers/maths/img/M1-06-Pulleys-5.jpg",
+        "papers/maths/img/M1-06-Pulleys-6.jpg"
       ]
     },
     {
@@ -251,7 +446,16 @@
       "no": "Q5(c)",
       "marks": 1,
       "topic": "Realistic Model Factor",
-      "keywords": ["modelling", "realistic", "pulley friction", "string mass", "air resistance", "model assumption", "pulley", "string"],
+      "keywords": [
+        "modelling",
+        "realistic",
+        "pulley friction",
+        "string mass",
+        "air resistance",
+        "model assumption",
+        "pulley",
+        "string"
+      ],
       "question": "State one physical factor, other than air resistance, that could be taken into account to make the model described above more realistic.",
       "status": "ready",
       "answer": "Friction at the pulley axle (the pulley is modelled as smooth), or the mass of the string (modelled as light).",
@@ -260,6 +464,10 @@
         "Friction at the pulley bearing would reduce the effective tension",
         "Alternatively, the mass of the string would change the forces on A and B",
         "Any one such factor is an acceptable answer"
+      ],
+      "images": [
+        "papers/maths/img/M1-06-Pulleys-5.jpg",
+        "papers/maths/img/M1-06-Pulleys-6.jpg"
       ]
     }
   ]

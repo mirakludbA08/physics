@@ -26,6 +26,10 @@
         "In the peripheral nervous system, myelin is made by Schwann cells, which wrap round the axon many times.",
         "Neurones carry impulses but do not make myelin, rod cells are light receptors and lymphocytes are immune cells.",
         "So the correct option is C, Schwann cell."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-001.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-002.jpg"
       ]
     },
     {
@@ -44,7 +48,11 @@
       "question": "Which row of a table correctly compares impulse conduction along a myelinated neurone with a non-myelinated neurone?",
       "status": "pending",
       "answer": "Pending: the table of rows (options) is not in the text, so the correct row cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-001.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-002.jpg"
+      ]
     },
     {
       "id": "8AB-Q1b",
@@ -68,6 +76,10 @@
         "This keeps Na+ concentrated outside and K+ concentrated inside the axon.",
         "The membrane is more permeable to K+ (K+ leak channels), so K+ diffuses out down its gradient more than Na+ diffuses in.",
         "Loss of positive ions from inside leaves the inside negative relative to the outside, giving a resting potential of about -70 mV."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-001.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-002.jpg"
       ]
     },
     {
@@ -87,7 +99,11 @@
       "question": "Using the graph of the effect of TTX on the nerve impulse in an axon, deduce how TTX inhibits nerve impulses (3 marks).",
       "status": "pending",
       "answer": "Pending: the graph of the nerve impulse with and without TTX is not in the text, so the deduction cannot be checked.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-001.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-002.jpg"
+      ]
     },
     {
       "id": "8AB-Q2a",
@@ -111,6 +127,12 @@
         "Gene variants (alleles) are different versions of the same gene.",
         "They differ in their base sequence, for example through substitution or deletion mutations.",
         "This means they can produce versions of a protein with different structure or effects."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-002.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
       ]
     },
     {
@@ -136,6 +158,12 @@
         "These altered proteins act as antigens that the immune system recognises as non-self.",
         "More different antigens give more targets, so more lymphocytes (T cells) can be activated against the tumour.",
         "Immunotherapy boosts these lymphocytes, and a tumour with many targets is less likely to escape all of them."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-002.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
       ]
     },
     {
@@ -155,7 +183,13 @@
       "question": "Explain why a CT scan was used to show that Judy Perkins was free of tumours (paragraph 10 and Figure 1) (2 marks).",
       "status": "pending",
       "answer": "Pending: Figure 1 and paragraph 10 of the source article are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-002.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
+      ]
     },
     {
       "id": "8AB-Q2d",
@@ -179,6 +213,12 @@
         "Tumour cells can use checkpoints to avoid being attacked by the immune system.",
         "A checkpoint inhibitor blocks these proteins, so the lymphocytes are not switched off.",
         "The activated lymphocytes can keep destroying the tumour cells."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-002.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
       ]
     },
     {
@@ -203,6 +243,12 @@
         "The change is catalysed by a specific liver enzyme (CYP2C19 in the real drug).",
         "A gene variant produces a defective enzyme, with a changed active site, so the enzyme works less well.",
         "Less active drug is formed, so fewer platelets are inhibited and the protective effect of the drug is reduced."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-002.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
       ]
     },
     {
@@ -228,6 +274,12 @@
         "Blood vessels (capillaries) deliver these substances to the cells.",
         "Aerobic respiration in mitochondria releases the ATP needed to maintain membrane potentials and transmit impulses.",
         "Blood vessels also remove carbon dioxide and other waste products from the tissue."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-002.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
       ]
     },
     {
@@ -252,6 +304,12 @@
         "This triggers a signal transduction pathway inside the cell.",
         "The pathway activates transcription factors that switch on particular genes.",
         "The genes expressed make the cells differentiate into the specialised cells, such as neurones and blood vessel cells, that the tissue needs."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-002.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
       ]
     },
     {
@@ -271,7 +329,12 @@
       "question": "From the graph, estimate how long the MDMA concentration in the blood takes to become 0.0 g dm-3 (1 mark).",
       "status": "pending",
       "answer": "Pending: the graph of MDMA and ADH concentrations is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-005.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-006.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-007.jpg"
+      ]
     },
     {
       "id": "8AB-Q3a(ii)",
@@ -290,7 +353,12 @@
       "question": "Calculate the rate of removal of ADH from the blood between 4 and 8 hours, from the graph (2 marks).",
       "status": "pending",
       "answer": "Pending: the ADH concentration values from the graph are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-005.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-006.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-007.jpg"
+      ]
     },
     {
       "id": "8AB-Q3b",
@@ -310,7 +378,12 @@
       "question": "Comment on the role of ADH in MDMA-induced brain swelling, using the graph and the laboratory results table (6 marks).",
       "status": "pending",
       "answer": "Pending: the laboratory results table and the graph are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-005.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-006.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-007.jpg"
+      ]
     },
     {
       "id": "8AB-Q4a(i)",
@@ -328,7 +401,13 @@
       "question": "Describe the relationship between light intensity and pupil diameter, using the table of results (2 marks).",
       "status": "pending",
       "answer": "Pending: the table of pupil diameters at different light intensities is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-007.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-008.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
+      ]
     },
     {
       "id": "8AB-Q4a(ii)",
@@ -347,7 +426,13 @@
       "question": "Calculate the amount of incandescent light passing through the pupil at 1400 a.u. per m2, using pi = 3.14 (3 marks).",
       "status": "pending",
       "answer": "Pending: the pupil diameter at this intensity comes from the table, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-007.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-008.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
+      ]
     },
     {
       "id": "8AB-Q4a(iii)",
@@ -372,6 +457,12 @@
         "The photopigment changes shape, changing the receptor's membrane potential and reducing or increasing neurotransmitter release.",
         "Impulses pass along the optic nerve to the brain, which runs the pupil reflex.",
         "Parasympathetic impulses reach the iris, so circular muscles contract and radial muscles relax, and the pupil constricts in bright light."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-007.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-008.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
       ]
     },
     {
@@ -395,6 +486,12 @@
         "Pluripotent stem cells can differentiate into many different cell types.",
         "They can form almost every cell type in the body, but not the extra-embryonic tissue such as the placenta.",
         "So the definition is a stem cell that can differentiate into almost any cell type of the body."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-007.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-008.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
       ]
     },
     {
@@ -419,6 +516,12 @@
         "Any undifferentiated stem cells left in the graft could keep dividing in the eye.",
         "This could form a tumour or a mass of unwanted cell types.",
         "So the check makes sure only the correct retinal epithelial cells are transplanted."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-007.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-008.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
       ]
     },
     {
@@ -444,6 +547,11 @@
         "Impulses are sent to the brain and then to the iris along parasympathetic neurones.",
         "The circular muscles of the iris contract while the radial muscles relax.",
         "The pupil diameter decreases, reducing the light entering the eye and protecting the retina."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-010.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-011.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-012.jpg"
       ]
     },
     {
@@ -469,6 +577,11 @@
         "Light is absorbed by retinal, which changes from cis to trans form, changing the shape of rhodopsin.",
         "This activates a G-protein cascade that closes sodium ion channels in the membrane.",
         "Fewer Na+ ions enter, so the rod cell becomes hyperpolarised and releases less neurotransmitter."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-010.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-011.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-012.jpg"
       ]
     },
     {
@@ -488,7 +601,12 @@
       "question": "Comment on the effect of red and far-red light on germination of plantain seeds and the processes in their cells, using the table of results (6 marks).",
       "status": "pending",
       "answer": "Pending: the table of germination percentages for the red and far-red light periods is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-010.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-011.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-012.jpg"
+      ]
     },
     {
       "id": "8AB-Q6a(i)",
@@ -512,6 +630,11 @@
         "A decreasing response to a repeated, non-harmful stimulus is called habituation.",
         "Adaptation (B) describes structures adjusting to an environment over time, not a decreasing response.",
         "Absorption and sensitivity do not describe a response that decreases with repeated stimuli."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-012.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-013.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-014.jpg"
       ]
     },
     {
@@ -536,6 +659,11 @@
         "This saves energy and time that would otherwise be spent on unimportant stimuli.",
         "The animal can then respond to important stimuli, such as a real threat.",
         "Options B, C and D describe speed, habitat and feeding, which habituation does not provide."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-012.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-013.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-014.jpg"
       ]
     },
     {
@@ -556,7 +684,12 @@
       "question": "Comment on the results of the fiddler crab predator experiment, using the two graphs (3 marks).",
       "status": "pending",
       "answer": "Pending: the two graphs of percentage of crabs running home are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-012.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-013.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-014.jpg"
+      ]
     },
     {
       "id": "8AB-Q6b(ii)",
@@ -580,6 +713,11 @@
         "A correlation coefficient measures the strength and direction of a relationship between two numerical variables.",
         "Hardy-Weinberg tests genetic equilibrium and index of diversity measures species variety, so B and C are wrong.",
         "A Student's t-test compares means between two groups, so D is not the best choice here."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-012.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-013.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-014.jpg"
       ]
     },
     {
@@ -604,6 +742,11 @@
         "Depolarisation occurs only at the nodes of Ranvier, the gaps in the myelin.",
         "Local currents flow between nodes, so the impulse jumps from node to node (saltatory conduction).",
         "Fewer depolarisations are needed along the axon, so the impulse travels faster than in a non-myelinated axon."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-014.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-015.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-016.jpg"
       ]
     },
     {
@@ -628,6 +771,11 @@
         "Impulses travel more slowly, or ions leak so that the impulse is lost.",
         "Fewer action potentials reach the neuromuscular junction, so less acetylcholine is released.",
         "Fewer muscle fibres are stimulated to contract, so the muscle is weaker."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-014.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-015.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-016.jpg"
       ]
     },
     {
@@ -647,7 +795,12 @@
       "question": "Comment on the validity of a student's conclusion that myelin quantity is related to whether a person has dementia, using the table of results (2 marks).",
       "status": "pending",
       "answer": "Pending: the table of mean myelin quantities for the dementia groups and the control group is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-014.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-015.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-016.jpg"
+      ]
     },
     {
       "id": "8AB-Q8a(i)",
@@ -666,7 +819,13 @@
       "question": "Using the labelled heart diagram (P, Q, R), which statement correctly identifies the SAN, AVN and Purkinje fibres? (1 mark)",
       "status": "pending",
       "answer": "Pending: the heart diagram with labels P, Q and R is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-016.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
+      ]
     },
     {
       "id": "8AB-Q8a(ii)",
@@ -689,6 +848,12 @@
         "This self-generated contraction is described as myogenic.",
         "Diastole and systole are phases of the cardiac cycle (relaxation and contraction), not the origin of the impulse.",
         "Polarisation describes the charge across a membrane, not the start of the heartbeat."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-016.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
       ]
     },
     {
@@ -714,6 +879,12 @@
         "Chemoreceptors detect this and send impulses to the medulla oblongata.",
         "The medulla increases sympathetic impulses to the SAN, and adrenaline is also released.",
         "The SAN fires more often, so heart rate increases and the duration of each cardiac cycle decreases."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-016.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
       ]
     },
     {
@@ -732,7 +903,13 @@
       "question": "Calculate the stroke volume of the football player after training, using the table of cardiac output and resting heart rate (1 mark).",
       "status": "pending",
       "answer": "Pending: the table of cardiac output and resting heart rate is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-016.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
+      ]
     },
     {
       "id": "8AB-Q8b(iii)",
@@ -750,7 +927,13 @@
       "question": "Using the ECG trace in the diagram, calculate the footballer's heart rate (1 mark).",
       "status": "pending",
       "answer": "Pending: the ECG trace diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-016.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
+      ]
     },
     {
       "id": "8AB-Q8b(iv)",
@@ -769,7 +952,13 @@
       "question": "Comment on the changes in heart activity shown by two ECG traces recorded two hours apart (3 marks).",
       "status": "pending",
       "answer": "Pending: the two ECG traces are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-016.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
+      ]
     },
     {
       "id": "8AB-Q9a(i)",
@@ -793,6 +982,11 @@
         "Absorption of light changes cis-retinal into trans-retinal, which changes the shape of the molecule.",
         "So trans-retinal is the chemical formed after light absorption.",
         "Rhodopsin is the photopigment itself, not the product, so C is not the answer."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
       ]
     },
     {
@@ -812,7 +1006,12 @@
       "question": "Which row of the table shows the effects of light absorption on cells in the retina?",
       "status": "pending",
       "answer": "Pending: the table of rows is not in the text, so the correct row cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
+      ]
     },
     {
       "id": "8AB-Q9b(i)",
@@ -830,7 +1029,12 @@
       "question": "Describe the effect of light intensity on the mean potential difference of bipolar neurones, using the table of results (2 marks).",
       "status": "pending",
       "answer": "Pending: the table of mean potential differences at each light intensity is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
+      ]
     },
     {
       "id": "8AB-Q9b(ii)",
@@ -848,7 +1052,12 @@
       "question": "Calculate the percentage change in mean potential difference when light intensity increases from 4 to 12 a.u. (2 marks).",
       "status": "pending",
       "answer": "Pending: the mean potential difference values at 4 and 12 a.u. are in the table, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
+      ]
     },
     {
       "id": "8AB-Q9b(iii)",
@@ -872,6 +1081,11 @@
         "Many people object on animal welfare grounds, because the animals may suffer.",
         "Others object on ethical grounds, because animals are used for research that does not benefit them directly.",
         "Some people believe animals should not be used for research at all."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
       ]
     },
     {
@@ -896,6 +1110,11 @@
         "Constriction needs the circular muscles to contract, reducing the pupil diameter.",
         "At the same time the radial muscles relax.",
         "Option D describes the opposite (dilation), so C is correct."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
       ]
     },
     {
@@ -914,7 +1133,11 @@
       "question": "From the oscilloscope trace, which is the resting potential of the axon? A -70 mV, B -78 mV, C 38 mV, D 108 mV (1 mark).",
       "status": "pending",
       "answer": "Pending: the oscilloscope trace is not in the text, so the resting potential cannot be read from it.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
+      ]
     },
     {
       "id": "8AB-Q10a(ii)",
@@ -932,7 +1155,11 @@
       "question": "Which voltage-gated ion channels are open at point Y on the action potential trace? (1 mark)",
       "status": "pending",
       "answer": "Pending: point Y on the trace is not in the text, so the open channels cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
+      ]
     },
     {
       "id": "8AB-Q10a(iii)",
@@ -950,7 +1177,11 @@
       "question": "What is the state of polarisation of the membrane at point Z on the trace? A depolarised, B hyperpolarised, C hypopolarised, D unpolarised (1 mark).",
       "status": "pending",
       "answer": "Pending: point Z on the trace is not in the text, so the polarisation state cannot be read.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
+      ]
     },
     {
       "id": "8AB-Q10a(iv)",
@@ -974,6 +1205,10 @@
         "Action potentials spread away from the point of stimulation in both directions along the axon; statement 2 is correct.",
         "A refractory period follows each action potential, when a new one cannot be generated; statement 3 is correct.",
         "Two statements are correct, so the answer is C."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
       ]
     },
     {
@@ -998,6 +1233,10 @@
         "Ions must move against their concentration gradients to keep this difference.",
         "The sodium-potassium pump uses ATP (active transport) to move 3 Na+ out and 2 K+ in.",
         "Without ATP, ions would diffuse back down their gradients and the resting potential would be lost."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
       ]
     },
     {
@@ -1023,6 +1262,11 @@
         "Voltage-gated Ca2+ channels open and Ca2+ diffuses into the knob.",
         "Ca2+ causes vesicles of neurotransmitter to fuse with the presynaptic membrane and release it into the synaptic cleft.",
         "The neurotransmitter diffuses across the cleft and binds to receptors on the postsynaptic membrane, opening Na+ channels so a new action potential is generated."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-023.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-024.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-025.jpg"
       ]
     },
     {
@@ -1047,6 +1291,11 @@
         "L-DOPA can cross the blood-brain barrier, but dopamine cannot.",
         "In the brain L-DOPA is converted to dopamine by the enzyme decarboxylase.",
         "Extra dopamine restores transmission across synapses, improving movement control and reducing symptoms."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-023.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-024.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-025.jpg"
       ]
     },
     {
@@ -1071,6 +1320,11 @@
         "This switches on transcription of the genes coding for enzymes in the dopamine pathway.",
         "mRNA is made and translated into those enzymes.",
         "The enzymes catalyse the steps that produce dopamine."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-023.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-024.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-025.jpg"
       ]
     },
     {
@@ -1090,7 +1344,12 @@
       "question": "Comment on the graphs showing the effect of the LRRK2 mutation on dendrites of dopamine neurones made from stem cells of three groups (3 marks).",
       "status": "pending",
       "answer": "Pending: the graphs of dendrite results for the three groups are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-023.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-024.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-025.jpg"
+      ]
     },
     {
       "id": "8AB-Q12a",
@@ -1109,7 +1368,12 @@
       "question": "Complete the table with the name and function of each of three labelled brain regions (2 marks).",
       "status": "pending",
       "answer": "Pending: the labelled brain diagram and the table are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-025.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-026.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-027.jpg"
+      ]
     },
     {
       "id": "8AB-Q12b(i)",
@@ -1132,6 +1396,11 @@
         "The result is a cross-sectional image of a thin slice of the body.",
         "Option A describes MRI and option B describes the MRI signal from deoxyhaemoglobin, not CT.",
         "Option D describes functional imaging such as fMRI, so the answer is C."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-025.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-026.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-027.jpg"
       ]
     },
     {
@@ -1156,6 +1425,11 @@
         "Overactive neurones take up more glucose because they respire more.",
         "The tracer emits positrons that annihilate with electrons to produce gamma rays, which the scanner detects.",
         "A computer builds an image showing where the tracer is most concentrated, which marks the overactive region."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-025.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-026.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-027.jpg"
       ]
     },
     {
@@ -1180,6 +1454,11 @@
         "Uncontrolled muscle contractions use more energy, and much of it is released as heat.",
         "The extra respiration releases heat as a by-product, raising body temperature.",
         "If the seizure affects the hypothalamus, the thermoregulatory control of heat loss may be disrupted, so temperature rises further."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-025.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-026.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-027.jpg"
       ]
     },
     {
@@ -1204,6 +1483,12 @@
         "It has a sarcolemma (cell membrane) enclosing sarcoplasm (cytoplasm) with many mitochondria.",
         "Within the sarcoplasm are myofibrils, which contain repeating sarcomeres made of thick myosin and thin actin filaments.",
         "The sarcoplasmic reticulum surrounds the myofibrils and stores Ca2+ needed for contraction."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-027.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
       ]
     },
     {
@@ -1228,6 +1513,12 @@
         "Because they are carried in the blood, they reach distant organs such as the liver.",
         "They bind to specific receptors on the membrane of liver cells, starting a signal transduction pathway.",
         "This changes the activity of enzymes or gene expression in the liver, altering its metabolism."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-027.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
       ]
     },
     {
@@ -1252,6 +1543,12 @@
         "Fast-twitch fibres, which produce the most force quickly, decline in number more than slow-twitch fibres.",
         "Less force can be generated by the quadriceps and other leg muscles.",
         "The body weight cannot be lifted from the chair as easily, so rising becomes harder."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-027.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
       ]
     },
     {
@@ -1276,6 +1573,12 @@
         "Ca2+ binds to troponin C, causing troponin to change shape.",
         "This moves tropomyosin away from the binding sites on the actin filament.",
         "Myosin heads can now bind actin to form cross-bridges, and ATP hydrolysis powers the power stroke that shortens the sarcomere."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-027.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
       ]
     },
     {
@@ -1300,6 +1603,12 @@
         "Hydrolysis of ATP to ADP and inorganic phosphate releases energy.",
         "This energy is used to change the shape of the myosin head for the power stroke and to detach it from actin.",
         "It also powers ion pumps such as the Ca2+ pump that restores the muscle to rest."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-027.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
       ]
     },
     {
@@ -1324,6 +1633,12 @@
         "A less stiff tendon stretches more before the bone moves, so force is lost as elastic deformation.",
         "The joint therefore moves more slowly and with less power for the same muscle contraction.",
         "Movement may also be less precise, since the tendon responds less quickly to changes in muscle force."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-027.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
       ]
     },
     {
@@ -1348,6 +1663,12 @@
         "This starts an intracellular signalling pathway, such as the SMAD pathway.",
         "The pathway inhibits transcription of genes that promote muscle growth and protein synthesis.",
         "Less muscle protein is made, so muscle growth is limited."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-027.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
       ]
     },
     {
@@ -1367,7 +1688,12 @@
       "question": "Complete the table by filling in the names of each labelled part of the relay neurone diagram (2 marks).",
       "status": "pending",
       "answer": "Pending: the labelled relay neurone diagram and table are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
+      ]
     },
     {
       "id": "8AB-Q14a(ii)",
@@ -1391,6 +1717,11 @@
         "With Na+ channels blocked, Na+ cannot enter and depolarisation cannot occur.",
         "Action potentials are therefore not generated or conducted, so pain signals are not sent.",
         "Options A and B concern the synapse and C concerns potassium channels, so D is correct."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
       ]
     },
     {
@@ -1410,7 +1741,12 @@
       "question": "State the type of microscope used to produce the photograph of a nerve with an outer layer of connective tissue (1 mark).",
       "status": "pending",
       "answer": "Pending: the photograph is not in the text, and the magnification and scale needed to decide the microscope type cannot be checked.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
+      ]
     },
     {
       "id": "8AB-Q14b(ii)",
@@ -1429,7 +1765,12 @@
       "question": "Calculate the thickness of the connective tissue layer between points X and Y on the photograph, in micrometres (2 marks).",
       "status": "pending",
       "answer": "Pending: the photograph with points X and Y and its scale are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
+      ]
     },
     {
       "id": "8AB-Q14b(iii)",
@@ -1453,6 +1794,11 @@
         "Depolarisation happens only at the nodes of Ranvier.",
         "Local currents spread between nodes, so the impulse jumps from node to node (saltatory conduction).",
         "Fewer depolarisations are needed along the axon, so the impulse travels faster than in a non-myelinated axon."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
       ]
     },
     {
@@ -1477,6 +1823,12 @@
         "Photoreceptors are located in the retina at the back of the eye.",
         "The iris and pupil are parts of the front of the eye that control light entry.",
         "The spinal cord is part of the central nervous system and does not contain photoreceptors, so C is correct."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-032.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-033.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-034.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-035.jpg"
       ]
     },
     {
@@ -1501,6 +1853,12 @@
         "Light is absorbed by retinal, which changes shape (cis to trans), changing rhodopsin.",
         "This triggers a cascade that closes sodium channels in the rod cell membrane.",
         "The rod cell hyperpolarises and releases less neurotransmitter, changing the impulses sent in the optic nerve."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-032.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-033.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-034.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-035.jpg"
       ]
     },
     {
@@ -1520,7 +1878,13 @@
       "question": "Discuss how the results of the phototropism experiments (shown in the drawing of a coleoptile) support the role of a plant growth substance in the phototropic response (6 marks).",
       "status": "pending",
       "answer": "Pending: the drawings of the coleoptile experiments and their results are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-032.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-033.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-034.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-035.jpg"
+      ]
     },
     {
       "id": "8AB-Q16a",
@@ -1538,7 +1902,11 @@
       "question": "Label the diagram of a section through the human brain to show the pituitary gland, medulla oblongata and cerebral hemisphere (3 marks).",
       "status": "pending",
       "answer": "Pending: the brain section diagram is not in the text, so the labels cannot be placed.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-035.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-036.jpg"
+      ]
     },
     {
       "id": "8AB-Q16b",
@@ -1557,7 +1925,11 @@
       "question": "Complete the table to show the parts of the brain and their functions (2 marks).",
       "status": "pending",
       "answer": "Pending: the table to complete is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-035.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-036.jpg"
+      ]
     },
     {
       "id": "8AB-Q17a",
@@ -1581,6 +1953,12 @@
         "At rest, chemoreceptors detect normal blood carbon dioxide and pH.",
         "The medulla sends impulses at a low rate via parasympathetic activity, so breathing stays slow.",
         "The diaphragm and intercostal muscles contract less frequently, so each breath is shallow and the rate is low."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-036.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
       ]
     },
     {
@@ -1605,6 +1983,12 @@
         "Each receptor is linked to a particular ion channel or second messenger system.",
         "Binding of the neurotransmitter to its receptor opens the linked channel, causing excitation or inhibition.",
         "So the same neurone can respond differently depending on which neurotransmitter binds."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-036.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
       ]
     },
     {
@@ -1629,6 +2013,12 @@
         "Noradrenaline binds to adrenergic receptors on immune cells such as macrophages.",
         "This reduces the release of pro-inflammatory cytokines.",
         "Less inflammation occurs, so sympathetic activity can act to reduce inflammation."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-036.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
       ]
     },
     {
@@ -1648,7 +2038,13 @@
       "question": "Explain how an electrocardiogram could be used to show that a person has postural orthostatic tachycardia syndrome (POTS) (Box 1) (2 marks).",
       "status": "pending",
       "answer": "Pending: Box 1 of the source article, which gives the diagnostic criteria for POTS, is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-036.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
+      ]
     },
     {
       "id": "8AB-Q17e",
@@ -1672,6 +2068,12 @@
         "Sensory neurones send impulses to enteric neurones (the local reflex circuit).",
         "Motor neurones cause the circular muscles behind the bolus to contract, and the longitudinal muscles in front to relax.",
         "This pushes the bolus forward along the gut (peristalsis)."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-036.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
       ]
     },
     {
@@ -1696,6 +2098,12 @@
         "Less oxygen and glucose reach the cells.",
         "Aerobic respiration in those cells is reduced.",
         "Cells may be damaged if the blood supply is not restored."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-036.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
       ]
     },
     {
@@ -1720,6 +2128,12 @@
         "Migration depends on chemical signals and receptors that guide the cells.",
         "A mutation in genes controlling migration, or a lack of these signals, can stop the cells reaching the bowel.",
         "So the cells may fail to colonise the bowel."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-036.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
       ]
     },
     {
@@ -1739,7 +2153,13 @@
       "question": "Explain how the interaction of microbial and other factors could result in gastrointestinal inflammation such as IBD (Box 2) (3 marks).",
       "status": "pending",
       "answer": "Pending: Box 2 of the source article, which describes the factors involved in IBD, is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-036.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
+      ]
     },
     {
       "id": "8AB-Q18a(i)",
@@ -1763,6 +2183,10 @@
         "The axon is part of the neurone itself, not the space between neurones.",
         "The cell body is the part of the neurone containing the nucleus.",
         "The postsynaptic membrane is the membrane on the far side of the cleft, not the space itself."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-039.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-040.jpg"
       ]
     },
     {
@@ -1787,6 +2211,10 @@
         "Sensory neurones carry impulses from receptors towards the CNS.",
         "Motor neurones carry impulses away from the CNS to effectors such as muscles or glands.",
         "Sensory neurones have a cell body in a dorsal root ganglion and motor neurones have their cell body in the CNS, which is a structural contrast."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-039.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-040.jpg"
       ]
     },
     {
@@ -1811,6 +2239,10 @@
         "Sensory impulses from the limbs cannot reach the brain, so sensation is lost.",
         "Motor impulses cannot reach the muscles efficiently, so steadiness when walking is lost.",
         "Reflex arcs cannot transmit impulses quickly enough, so reflexes such as the knee jerk are lost."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-039.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-040.jpg"
       ]
     },
     {
@@ -1835,6 +2267,10 @@
         "Ca2+ entry triggers vesicles to fuse with the membrane and release neurotransmitter.",
         "A mutation can change the channel so it opens less or more than normal, or fails to close.",
         "Abnormal Ca2+ entry changes neurotransmitter release, disrupting synaptic transmission and causing the condition."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-039.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-040.jpg"
       ]
     },
     {
@@ -1854,7 +2290,14 @@
       "question": "Which row of the table shows the action of the two forms of phytochrome, Pr (P660) and Pfr (P730)? (1 mark)",
       "status": "pending",
       "answer": "Pending: the table of rows is not in the text, so the correct row cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-040.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-041.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-042.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-043.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-044.jpg"
+      ]
     },
     {
       "id": "8AB-Q19b",
@@ -1873,7 +2316,14 @@
       "question": "Explain the role of auxins in the phototropic response of a shoot, using the diagram of auxin molecules (3 marks).",
       "status": "pending",
       "answer": "Pending: the diagram of auxin molecules producing the phototropic response is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-040.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-041.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-042.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-043.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-044.jpg"
+      ]
     },
     {
       "id": "8AB-Q19c",
@@ -1897,6 +2347,13 @@
         "This causes DELLA repressor proteins to be broken down.",
         "Transcription factors are then free to switch on genes for alpha-amylase, which is made and secreted.",
         "Amylase hydrolyses starch into maltose and glucose, which are used in respiration for growth."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-040.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-041.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-042.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-043.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-044.jpg"
       ]
     },
     {
@@ -1916,7 +2373,14 @@
       "question": "Comment on the effect of IAA and the synthetic auxin NAA on the growth of Chlorella, using the graphs of different concentrations (4 marks).",
       "status": "pending",
       "answer": "Pending: the graphs of Chlorella growth at different auxin concentrations are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-040.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-041.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-042.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-043.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-044.jpg"
+      ]
     },
     {
       "id": "8AB-Q20a(i)",
@@ -1940,6 +2404,12 @@
         "Habituation occurs in many animals, not only mammals, so statement 2 is wrong.",
         "Habituation develops only after repeated exposure to the same harmless stimulus, so statement 3 is correct.",
         "One statement is correct, so the answer is B."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-044.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-045.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-046.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-047.jpg"
       ]
     },
     {
@@ -1959,7 +2429,13 @@
       "question": "Which row of the table is correct about a beluga whale responding to a stimulus using a spinal reflex arc? (1 mark)",
       "status": "pending",
       "answer": "Pending: the table of rows is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-044.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-045.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-046.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-047.jpg"
+      ]
     },
     {
       "id": "8AB-Q20b(i)",
@@ -1978,7 +2454,13 @@
       "question": "Comment on the changes in heart rate of the whale when diving, using the graph of heart rate against dive duration (3 marks).",
       "status": "pending",
       "answer": "Pending: the graph of heart rate for different dive durations is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-044.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-045.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-046.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-047.jpg"
+      ]
     },
     {
       "id": "8AB-Q20b(ii)",
@@ -2002,6 +2484,12 @@
         "These impulses are sent to the medulla oblongata in the brainstem.",
         "The medulla increases sympathetic impulses to the SAN, and adrenaline is released from the adrenal glands.",
         "The SAN fires faster, so the heart rate rises quickly to supply oxygen to the tissues."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-044.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-045.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-046.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-047.jpg"
       ]
     },
     {
@@ -2026,6 +2514,11 @@
         "It travels along axons to the posterior pituitary, where it is stored.",
         "The pituitary gland releases ADH into the blood but does not produce it.",
         "So the best answer for 'produces' is B, the hypothalamus."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
       ]
     },
     {
@@ -2050,6 +2543,11 @@
         "It binds to receptors on cells of the collecting ducts.",
         "This increases the insertion of aquaporins, so more water is reabsorbed.",
         "Capillaries, proximal tubules and ureters are not the target of ADH."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
       ]
     },
     {
@@ -2074,6 +2572,11 @@
         "The response reduces the original change, so it is negative feedback.",
         "Positive feedback increases a change, so D is wrong.",
         "Countercurrent multiplier and habituation are not homeostatic control of plasma concentration."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
       ]
     },
     {
@@ -2098,6 +2601,11 @@
         "Osmoreceptors are specialised receptors that detect these changes in water potential.",
         "They are located in the hypothalamus of the brain.",
         "When they detect a change, they signal the release or inhibition of ADH."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
       ]
     },
     {
@@ -2117,7 +2625,12 @@
       "question": "Comment on the effect of the gibberellin on the growth of cereal plants, using the table of mean internode lengths (2 marks).",
       "status": "pending",
       "answer": "Pending: the table of mean lengths of IN1, IN2 and IN3 at each gibberellin concentration is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
+      ]
     },
     {
       "id": "8AB-Q21b(ii)",
@@ -2141,6 +2654,11 @@
         "This leads to breakdown of DELLA repressor proteins.",
         "Transcription factors are then free to switch on genes involved in cell elongation and division.",
         "More cell growth in the internodes makes them longer."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
       ]
     },
     {
@@ -2165,6 +2683,12 @@
         "It binds to receptors on the postsynaptic membrane and triggers a new impulse.",
         "ADP and NADP are coenzyme/energy molecules and cholesterol is a lipid, none of which transmit impulses.",
         "So the answer is A, acetylcholine."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-049.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-050.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
       ]
     },
     {
@@ -2184,7 +2708,13 @@
       "question": "Explain why the membrane potential changes between points 1 and 2 on the diagram of an action potential in a motor neurone (2 marks).",
       "status": "pending",
       "answer": "Pending: the diagram of the membrane potential with points 1 and 2 is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-049.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-050.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
+      ]
     },
     {
       "id": "8AB-Q22c(i)",
@@ -2203,7 +2733,13 @@
       "question": "Calculate the percentage difference in the gradient of the myelinated and non-myelinated neurones; the non-myelinated gradient is 0.5 (3 marks).",
       "status": "pending",
       "answer": "Pending: the gradient for the myelinated neurone must be read from the graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-049.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-050.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
+      ]
     },
     {
       "id": "8AB-Q22c(ii)",
@@ -2227,6 +2763,12 @@
         "Depolarisation occurs only at the nodes of Ranvier.",
         "The impulse therefore jumps from node to node (saltatory conduction), which is faster.",
         "A non-myelinated axon depolarises along its whole length, so conduction is slower."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-049.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-050.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
       ]
     },
     {
@@ -2251,6 +2793,12 @@
         "Active neurones take up more tracer because they respire more.",
         "The emitted positrons produce gamma rays that the scanner detects, showing where the tracer is concentrated.",
         "Comparing the control scan with the scan after cocaine shows regions where activity has increased or decreased."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-049.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-050.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
       ]
     },
     {
@@ -2275,6 +2823,10 @@
         "Use the volume of a sphere: V = 4/3 x pi x r^3.",
         "r^3 = 0.985 x 0.985 x 0.985 = 0.95567 cm3.",
         "V = 4.18879 x 0.95567 = 4.0031 cm3, which is 4.00 cm3 to 2 decimal places."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-052.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-053.jpg"
       ]
     },
     {
@@ -2294,7 +2846,11 @@
       "question": "Calculate the actual width of lesion B between points X and Y on the MRI scan, to 2 significant figures (2 marks).",
       "status": "pending",
       "answer": "Pending: the MRI scan with its scale bar and points X and Y is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-052.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-053.jpg"
+      ]
     },
     {
       "id": "8AB-Q23b",
@@ -2318,6 +2874,10 @@
         "Tumours and surrounding tissue can look similar on an ordinary scan.",
         "A contrast agent (dye) changes the signal and accumulates in tumour tissue or blood vessels.",
         "This increases the contrast, so the tumour is easier to identify and locate."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-052.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-053.jpg"
       ]
     },
     {
@@ -2342,6 +2902,10 @@
         "Without myelin, impulses along motor neurones are slowed or lost.",
         "Lesions in the brain disrupt the coordination of movement, such as balance and timing of leg movements.",
         "So signals to the leg muscles are poorly coordinated, causing difficulty walking."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-052.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-053.jpg"
       ]
     },
     {
@@ -2361,7 +2925,14 @@
       "question": "Which row in the table shows the effect of an increase in adrenaline in a mammal? (1 mark)",
       "status": "pending",
       "answer": "Pending: the table of rows is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-053.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-054.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-055.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-056.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-057.jpg"
+      ]
     },
     {
       "id": "8AB-Q24a(ii)",
@@ -2380,7 +2951,14 @@
       "question": "Deduce the effect of the combination of nicotine and adrenaline on the mean heart rate of Daphnia, using the table of results (3 marks).",
       "status": "pending",
       "answer": "Pending: the table of mean heart rates for the nicotine and adrenaline concentrations is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-053.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-054.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-055.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-056.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-057.jpg"
+      ]
     },
     {
       "id": "8AB-Q24b",
@@ -2403,6 +2981,13 @@
         "They bind receptors and cause DELLA repressors to break down, freeing transcription factors to act.",
         "Option A describes amylase, B describes an enzyme-like process of phytochrome, and D describes histones.",
         "So the correct answer is C."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-053.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-054.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-055.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-056.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-057.jpg"
       ]
     },
     {
@@ -2423,7 +3008,14 @@
       "question": "Discuss how phytochromes and gibberellins affect flowering in plants, using the flashes of red and far-red light investigation and the graph of gibberellin concentration (6 marks).",
       "status": "pending",
       "answer": "Pending: the diagram of the long-day and short-day plant results and the graph of gibberellin concentration against flowering are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-053.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-054.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-055.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-056.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-057.jpg"
+      ]
     },
     {
       "id": "8AB-Q25a",
@@ -2448,6 +3040,11 @@
         "In bright light parasympathetic impulses make the circular muscles of the iris contract, and the pupil constricts.",
         "In dim light sympathetic impulses make the radial muscles contract while the circular muscles relax, so the pupil dilates.",
         "Constriction limits the light entering the eye and dilation allows more light in, protecting the retina and improving vision in dim light."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-057.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-058.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-059.jpg"
       ]
     },
     {
@@ -2472,6 +3069,11 @@
         "Auxin and retinol are not photoreceptors, and lysozyme and ribose are not involved in light detection.",
         "Phytochrome is a plant photoreceptor, not an animal one, so D is wrong.",
         "So the correct pair is C, opsin and retinal."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-057.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-058.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-059.jpg"
       ]
     },
     {
@@ -2496,6 +3098,11 @@
         "Nicotine mimics acetylcholine and binds its receptors, so it increases transmission.",
         "Lidocaine blocks voltage-gated sodium channels, which decreases transmission.",
         "So the pair that increases nerve transmission is ecstasy and nicotine, option B."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-057.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-058.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-059.jpg"
       ]
     },
     {
@@ -2520,6 +3127,11 @@
         "r = sqrt(12.334) = 3.512 mm, so the diameter in darkness = 2 x 3.512 = 7.02 mm.",
         "The diameter in direct sunlight is 4 mm.",
         "Increase in diameter = 7.02 - 4 = 3.02 mm."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-057.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-058.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-059.jpg"
       ]
     },
     {
@@ -2539,7 +3151,11 @@
       "question": "Calculate the percentage increase in mean pupil diameter when a person moves from bright light into darkness, using the table of mean pupil diameters (1 mark).",
       "status": "pending",
       "answer": "Pending: the table of mean pupil diameters at each light intensity is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-059.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-060.jpg"
+      ]
     },
     {
       "id": "8AB-Q26b(i)",
@@ -2563,6 +3179,10 @@
         "Adrenaline is released from the adrenal medulla into the blood.",
         "Antidiuretic hormone controls water reabsorption, not the fight or flight response.",
         "Thromboplastin is involved in blood clotting and uracil is a base in RNA, so the answer is A."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-059.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-060.jpg"
       ]
     },
     {
@@ -2587,6 +3207,10 @@
         "The radial muscles of the iris contract, pulling the edge of the pupil outward.",
         "The circular muscles relax, so they no longer narrow the pupil.",
         "The pupil diameter increases, letting more light into the eye."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-059.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-060.jpg"
       ]
     },
     {
@@ -2611,6 +3235,11 @@
         "CT scans give structural images, not changes in function as they happen.",
         "An ECG records the electrical activity of the heart, not the brain.",
         "PCR is a technique for amplifying DNA, so it is not an imaging technique."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-060.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-061.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-062.jpg"
       ]
     },
     {
@@ -2635,6 +3264,11 @@
         "The drawback of PET is that the patient is exposed to radiation and the tracer must be made in a cyclotron.",
         "MRI uses magnetic fields and radio waves, so it avoids radiation and gives detailed structural images.",
         "The drawbacks of MRI are that it is expensive, takes time, and cannot be used with patients who have metal implants."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-060.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-061.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-062.jpg"
       ]
     },
     {
@@ -2654,7 +3288,12 @@
       "question": "Complete the table to show one function for each labelled part of the section through the human brain (3 marks).",
       "status": "pending",
       "answer": "Pending: the diagram of the brain section with labels and the table are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-060.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-061.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-062.jpg"
+      ]
     },
     {
       "id": "8AB-Q28a(i)",
@@ -2678,6 +3317,10 @@
         "Na+ ions diffuse into the axon down their electrochemical gradient, depolarising the membrane.",
         "K+ movement out of the axon occurs during repolarisation, not to start the action potential.",
         "So the correct answer is C."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-062.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-063.jpg"
       ]
     },
     {
@@ -2697,7 +3340,11 @@
       "question": "Which row describes the events that occur during repolarisation of a neurone? (1 mark) (table of rows not in text)",
       "status": "pending",
       "answer": "Pending: the table of rows is not in the text, so the correct row cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-062.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-063.jpg"
+      ]
     },
     {
       "id": "8AB-Q28b",
@@ -2721,6 +3368,10 @@
         "A sensory neurone carries the impulse from the receptor to the spinal cord, with its cell body in the dorsal root ganglion.",
         "A relay neurone in the grey matter of the spinal cord connects the sensory and motor neurones.",
         "A motor neurone carries the impulse out to an effector, such as a muscle or gland, which responds."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-062.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-063.jpg"
       ]
     },
     {
@@ -2745,6 +3396,10 @@
         "Voltage-gated Ca2+ channels open and Ca2+ diffuses into the knob.",
         "Ca2+ causes vesicles to fuse with the presynaptic membrane, releasing neurotransmitter into the synaptic cleft.",
         "The neurotransmitter diffuses across and binds to receptors on the postsynaptic membrane, opening Na+ channels and starting a new action potential."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-062.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-063.jpg"
       ]
     },
     {
@@ -2768,6 +3423,12 @@
         "A sensory organ is a group of receptors (and supporting tissue) in one structure, such as the eye or skin.",
         "The receptors convert the stimulus into nerve impulses.",
         "These impulses are sent to the brain or spinal cord for processing."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-063.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
       ]
     },
     {
@@ -2786,7 +3447,13 @@
       "question": "Use ticks and crosses to complete the table comparing types of connective tissue in the human body, from paragraphs 3 to 7 (2 marks).",
       "status": "pending",
       "answer": "Pending: the comparison table of connective tissue types is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-063.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
+      ]
     },
     {
       "id": "8AB-Q29c",
@@ -2810,6 +3477,12 @@
         "These mediators sensitise nociceptors (pain receptors) spread across the wide sheet of fascia.",
         "Many sensory neurones send impulses to the spinal cord and brain at the same time.",
         "The pain is felt over a wide area and is poorly localised, which is described as diffuse pain."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-063.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
       ]
     },
     {
@@ -2834,6 +3507,12 @@
         "The mediators cause vasodilation and increase the permeability of capillaries.",
         "Plasma proteins and white blood cells move into the surrounding tissue.",
         "The fluid and cells cause swelling, redness and heat, which is inflammation."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-063.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
       ]
     },
     {
@@ -2858,6 +3537,12 @@
         "This starts a signal transduction pathway inside the cell.",
         "Transcription factors switch on genes for contractile proteins such as alpha-smooth muscle actin.",
         "The fibroblast develops a contractile cytoskeleton and becomes a myofibroblast."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-063.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
       ]
     },
     {
@@ -2882,6 +3567,12 @@
         "When skeletal muscles contract they squeeze the lymph vessels, raising the pressure of the lymph.",
         "The valves close when the pressure pushes backwards, so lymph cannot flow back.",
         "Lymph therefore moves forward towards the veins, where it re-enters the blood."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-063.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
       ]
     },
     {
@@ -2906,6 +3597,12 @@
         "Valves in the vessels may weaken or become less effective, allowing backflow.",
         "The number and function of lymph nodes can decline with age.",
         "As a result, lymph flow is slowed and the structure of the system is impaired."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-063.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
       ]
     },
     {
@@ -2930,6 +3627,11 @@
         "Serotonin is a neurotransmitter released at synapses, so statement 2 is correct.",
         "Serotonin is made and released by presynaptic neurones, not post-synaptic neurones, so statement 3 is wrong.",
         "One statement is correct, so the answer is B."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-066.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-067.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-068.jpg"
       ]
     },
     {
@@ -2954,6 +3656,11 @@
         "During RNA processing, introns are removed and exons are joined in different combinations (alternative splicing).",
         "Different mRNA molecules from the same gene therefore code for different polypeptide sequences.",
         "Each different mRNA is translated into a different receptor protein, giving many more receptor types than genes."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-066.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-067.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-068.jpg"
       ]
     },
     {
@@ -2973,7 +3680,12 @@
       "question": "Determine the effect of MDMA on the serotonin level in cerebrospinal fluid, using the graph (2 marks).",
       "status": "pending",
       "answer": "Pending: the graph of serotonin concentration against MDMA dose is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-066.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-067.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-068.jpg"
+      ]
     },
     {
       "id": "8AB-Q30c(ii)",
@@ -2992,7 +3704,12 @@
       "question": "Predict the serotonin concentration for a dose of 17.5 mg per kg MDMA, using the line of best fit, in g cm-3 (2 marks).",
       "status": "pending",
       "answer": "Pending: the graph with the line of best fit is not in the text, so the value cannot be read.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-066.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-067.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-068.jpg"
+      ]
     },
     {
       "id": "8AB-Q30c(iii)",
@@ -3016,6 +3733,11 @@
         "It is carried in the blood and crosses the blood-brain barrier into the brain.",
         "In the brain it increases release of serotonin from presynaptic neurones and blocks serotonin reuptake transporters.",
         "Serotonin stays in the synaptic cleft longer, so the serotonin level in the brain rises."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-066.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-067.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-068.jpg"
       ]
     },
     {
@@ -3035,7 +3757,14 @@
       "question": "Comment on the results shown in the bar chart of dopamine release in rats given different sucrose concentrations, and how they support the conclusion (4 marks).",
       "status": "pending",
       "answer": "Pending: the bar chart of dopamine release for different sucrose concentrations is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-068.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-069.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-070.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-071.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-072.jpg"
+      ]
     },
     {
       "id": "8AB-Q31a(ii)",
@@ -3054,7 +3783,14 @@
       "question": "Complete the table to calculate the standard deviation of the results for sucrose at 0.4 mol dm-3, giving the answer to two significant figures (2 marks).",
       "status": "pending",
       "answer": "Pending: the table of results for the 0.4 mol dm-3 sucrose group is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-068.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-069.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-070.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-071.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-072.jpg"
+      ]
     },
     {
       "id": "8AB-Q31b",
@@ -3078,6 +3814,13 @@
         "It binds to receptors on target cells, such as heart muscle and liver cells.",
         "In the liver and muscles it activates glycogen breakdown, releasing glucose for respiration.",
         "It increases heart rate and stroke volume and redirects blood flow to the skeletal muscles, preparing the body for action."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-068.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-069.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-070.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-071.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-072.jpg"
       ]
     },
     {
@@ -3097,7 +3840,14 @@
       "question": "Discuss how negative feedback is involved in controlling blood glucose concentration, using the diagram and graphs of daily changes in insulin, glucagon and glucose (6 marks).",
       "status": "pending",
       "answer": "Pending: the diagram of blood glucose control and the graphs of daily insulin, glucagon and glucose changes are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-068.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-069.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-070.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-071.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-072.jpg"
+      ]
     },
     {
       "id": "8AB-Q32a",
@@ -3116,7 +3866,13 @@
       "question": "The actual length of the brain shown on the MRI scan is 15 cm. Calculate the actual diameter, in mm, of the lesion between X and Y (2 marks).",
       "status": "pending",
       "answer": "Pending: the MRI photograph with points X and Y and the brain length on the image are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-072.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-073.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-074.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-075.jpg"
+      ]
     },
     {
       "id": "8AB-Q32b(i)",
@@ -3135,7 +3891,13 @@
       "question": "Show that the effect of axon diameter on conduction speed is six times greater in a myelinated neurone than in a non-myelinated neurone, using the table (2 marks).",
       "status": "pending",
       "answer": "Pending: the table of conduction speeds for each axon diameter is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-072.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-073.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-074.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-075.jpg"
+      ]
     },
     {
       "id": "8AB-Q32b(ii)",
@@ -3159,6 +3921,12 @@
         "The impulse jumps between nodes (saltatory conduction), which is faster than continuous conduction.",
         "A larger axon diameter has less resistance to the flow of ions along the axon, so local currents spread further.",
         "Larger diameters therefore increase conduction speed, and the effect is larger when the axon is myelinated."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-072.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-073.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-074.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-075.jpg"
       ]
     },
     {
@@ -3183,6 +3951,12 @@
         "Demyelination of the optic nerve from one eye slows or blocks impulses, so vision in that eye is lost.",
         "Lesions in the cerebellum or brain pathways disrupt the coordination of movements.",
         "Impulses for balance and movement are therefore poorly timed, causing lack of coordination."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-072.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-073.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-074.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-075.jpg"
       ]
     },
     {
@@ -3202,7 +3976,12 @@
       "question": "In an investigation with 350 insects, calculate the mean decrease in the number of insects showing PER each time the procedure was repeated, using the graph (3 marks).",
       "status": "pending",
       "answer": "Pending: the graph of the number of insects showing PER at each repeat is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-075.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-076.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-077.jpg"
+      ]
     },
     {
       "id": "8AB-Q33b",
@@ -3221,7 +4000,12 @@
       "question": "Explain the results of the investigation into the proboscis extension response to a heat stimulus (3 marks).",
       "status": "pending",
       "answer": "Pending: the graph of the investigation results is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-075.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-076.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-077.jpg"
+      ]
     },
     {
       "id": "8AB-Q33c",
@@ -3245,6 +4029,11 @@
         "If the insect habituates, it stops responding to repeated harmless heat stimuli.",
         "This saves energy that would otherwise be spent on unnecessary proboscis extension.",
         "The insect can concentrate its feeding on real hosts and avoid exposing itself to predators."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-075.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-076.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-077.jpg"
       ]
     },
     {
@@ -3269,6 +4058,12 @@
         "Fast-twitch fibres contract quickly and generate high force.",
         "They rely more on anaerobic respiration, so they produce lactate.",
         "So the main fibre type is fast-twitch (type II)."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-077.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-078.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-079.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-080.jpg"
       ]
     },
     {
@@ -3293,6 +4088,12 @@
         "Lactate diffuses into the blood and is carried to the liver.",
         "In the liver it is converted back to pyruvate, which can be used to make glucose (gluconeogenesis) or be oxidised.",
         "Extra oxygen taken in after exercise is used to repay the oxygen debt and oxidise the lactate."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-077.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-078.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-079.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-080.jpg"
       ]
     },
     {
@@ -3317,6 +4118,12 @@
         "Aerobic endurance needs many mitochondria to produce ATP, so statement 2 is correct.",
         "Myoglobin stores oxygen, so endurance fibres have a high (not low) concentration of it; statement 3 is wrong.",
         "Only statement 2 is correct, so the answer is B."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-077.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-078.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-079.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-080.jpg"
       ]
     },
     {
@@ -3340,6 +4147,12 @@
         "Fick's law describes diffusion rates, not muscle contraction.",
         "The fluid mosaic model describes the structure of cell membranes.",
         "The lock and key hypothesis describes enzyme action, so the answer is D."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-077.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-078.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-079.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-080.jpg"
       ]
     },
     {
@@ -3359,7 +4172,13 @@
       "question": "Discuss the differences between athletes and non-athletes in two investigations, using the table of measurements and the graph of power against oxygen used (6 marks).",
       "status": "pending",
       "answer": "Pending: the table of mean measurements and the graph of power against oxygen use are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-077.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-078.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-079.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-080.jpg"
+      ]
     },
     {
       "id": "8AB-Q35a(i)",
@@ -3377,7 +4196,11 @@
       "question": "Which labelled part of the brain section contains the cardiovascular control centre? A P, B Q, C R, D S (1 mark)",
       "status": "pending",
       "answer": "Pending: the labelled brain section diagram (P, Q, R, S, T) is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-080.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-081.jpg"
+      ]
     },
     {
       "id": "8AB-Q35a(ii)",
@@ -3395,7 +4218,11 @@
       "question": "Which labelled part of the brain section would control balance and coordinate movement? A P, B Q, C R, D T (1 mark)",
       "status": "pending",
       "answer": "Pending: the labelled brain section diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-080.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-081.jpg"
+      ]
     },
     {
       "id": "8AB-Q35a(iii)",
@@ -3413,7 +4240,11 @@
       "question": "Which labelled parts of the brain section would be involved in controlling the solute concentration of blood plasma? A P and Q, B Q and R, C P and R, D S and T (1 mark)",
       "status": "pending",
       "answer": "Pending: the labelled brain section diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-080.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-081.jpg"
+      ]
     },
     {
       "id": "8AB-Q35b(i)",
@@ -3437,6 +4268,10 @@
         "It cannot pass from the blood into neurones, as it does not cross the blood-brain barrier, so A is wrong.",
         "Low dopamine is linked to Parkinson's disease and depression, not high levels, so C is wrong.",
         "Low dopamine does not cause breakdown of myelin, so D is wrong."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-080.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-081.jpg"
       ]
     },
     {
@@ -3461,6 +4296,10 @@
         "SSRIs block these serotonin transporters, so reabsorption is reduced.",
         "Serotonin remains in the synapse longer and binds to postsynaptic receptors for longer.",
         "Increased serotonin signalling is thought to improve mood in depression."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-080.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-081.jpg"
       ]
     },
     {
@@ -3484,6 +4323,12 @@
         "It also involves loss of muscle strength and function.",
         "It is caused by reduced muscle fibre number and size.",
         "It increases the risk of falls and reduced mobility in older people."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-081.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
       ]
     },
     {
@@ -3508,6 +4353,12 @@
         "Signals from the environment cause transcription factors to be activated in some daughter cells.",
         "These transcription factors switch on the genes for muscle-specific proteins such as myosin and actin.",
         "The cell differentiates into a specialised muscle cell that contains those proteins."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-081.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
       ]
     },
     {
@@ -3532,6 +4383,12 @@
         "It binds to intracellular androgen receptors, forming a hormone-receptor complex.",
         "The complex acts as a transcription factor that binds to DNA and switches on genes for muscle proteins.",
         "With less testosterone, less transcription occurs, so less muscle protein is synthesised."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-081.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
       ]
     },
     {
@@ -3556,6 +4413,12 @@
         "The control system triggers a response, such as insulin release, which reverses the change.",
         "As the level returns to normal, the stimulus for the response is removed.",
         "So the level stays within a narrow range around the set point."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-081.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
       ]
     },
     {
@@ -3580,6 +4443,12 @@
         "This triggers signalling that moves vesicles containing GLUT4 glucose transporters to the membrane.",
         "The transporters fuse with the membrane, so more glucose can enter by facilitated diffusion.",
         "More glucose is taken up, so blood glucose falls."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-081.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
       ]
     },
     {
@@ -3604,6 +4473,12 @@
         "The muscle appears clearly against surrounding tissue because tissues absorb X-rays differently.",
         "The cross-sectional area of the muscle is measured on the scans.",
         "Scans taken before and after aerobic exercise are compared to show the increase in size."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-081.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
       ]
     },
     {
@@ -3628,6 +4503,12 @@
         "Signals from the exercise activate transcription of genes for mitochondrial proteins.",
         "More mitochondria are made (mitochondrial biogenesis), increasing their density in the muscle.",
         "More aerobic respiration then takes place in the mitochondria, producing more ATP for contraction."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-081.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
       ]
     },
     {
@@ -3647,7 +4528,13 @@
       "question": "Explain why diets rich in whey and egg protein may not be ideal for prolonged treatment of a protein-poor diet (paragraph 11 of the source) (3 marks).",
       "status": "pending",
       "answer": "Pending: paragraph 11 of the source article, which gives the reasons for the limits of whey and egg protein diets, is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-081.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
+      ]
     },
     {
       "id": "8AB-Q37a(i)",
@@ -3671,6 +4558,12 @@
         "A change in light intensity changes their membrane potential and triggers action potentials.",
         "Baroreceptors detect pressure, chemoreceptors detect chemicals and osmoreceptors detect water potential.",
         "So the correct answer is D, photoreceptors."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-084.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-085.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-086.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-087.jpg"
       ]
     },
     {
@@ -3695,6 +4588,12 @@
         "The impulse travels along a sensory neurone, whose cell body lies in the dorsal root ganglion.",
         "The impulse enters the spinal cord through the dorsal root of the spinal nerve.",
         "It then passes to a relay neurone in the grey matter of the spinal cord, before the CNS processes it."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-084.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-085.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-086.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-087.jpg"
       ]
     },
     {
@@ -3714,7 +4613,13 @@
       "question": "Calculate the percentage difference between the number of roundworms in group 1 and group 2 that changed direction 30 minutes after habituation (2 marks), using the graph.",
       "status": "pending",
       "answer": "Pending: the numbers of roundworms that changed direction at 30 minutes are read from the graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-084.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-085.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-086.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-087.jpg"
+      ]
     },
     {
       "id": "8AB-Q37b(ii)",
@@ -3733,7 +4638,13 @@
       "question": "Describe three conclusions about recovery times after habituation, using the graph of results (3 marks).",
       "status": "pending",
       "answer": "Pending: the graph of the percentage of roundworms changing direction over time for each group is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-084.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-085.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-086.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-087.jpg"
+      ]
     },
     {
       "id": "8AB-Q38a(i)",
@@ -3757,6 +4668,11 @@
         "A decreased glomerular filtration rate and a smaller cardiac output would reduce the supply of oxygen and blood to muscles, which is not an advantage.",
         "Narrower airways would increase resistance to airflow and reduce gas exchange during running.",
         "So the answer is B."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-087.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-088.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-089.jpg"
       ]
     },
     {
@@ -3782,6 +4698,11 @@
         "Sympathetic impulses and adrenaline increase the rate of firing of the SAN, so heart rate rises.",
         "Muscles produce more CO2, which is detected by chemoreceptors that send impulses to the medulla.",
         "The medulla increases the rate of impulses to the diaphragm and intercostal muscles, so ventilation rate and depth increase."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-087.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-088.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-089.jpg"
       ]
     },
     {
@@ -3801,7 +4722,12 @@
       "question": "Describe the relationships between mass, resting metabolic rate and pulse rate shown in the table of five mammals (3 marks).",
       "status": "pending",
       "answer": "Pending: the table of mass, resting metabolic rate and pulse rate for the five mammals is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-087.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-088.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-089.jpg"
+      ]
     },
     {
       "id": "8AB-Q38b(ii)",
@@ -3825,6 +4751,11 @@
         "It sends impulses to sweat glands, which secrete sweat that evaporates from the skin, removing heat.",
         "Arterioles in the skin vasodilate, so more blood flows near the surface and heat is lost by radiation.",
         "Heat loss balances the heat produced by respiration, so body temperature stays at 37 C."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-087.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-088.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-089.jpg"
       ]
     },
     {
@@ -3844,7 +4775,12 @@
       "question": "A section of squirrel monkey retina contains 5000 photoreceptors. Calculate how many would be rod cells, assuming an even distribution (2 marks), using the table of photoreceptor numbers.",
       "status": "pending",
       "answer": "Pending: the table giving the rod and cone numbers for the squirrel monkey is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-089.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-090.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-091.jpg"
+      ]
     },
     {
       "id": "8AB-Q39a(ii)",
@@ -3868,6 +4804,11 @@
         "Cone cells need higher light intensities and give colour vision.",
         "The grey-bellied night monkey is active at night, so it needs many rod cells to see in dim light.",
         "The squirrel monkey is active in the day, so it has more cone cells for colour vision and detailed sight in bright light."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-089.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-090.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-091.jpg"
       ]
     },
     {
@@ -3887,7 +4828,12 @@
       "question": "Deduce the effect of each treatment on seedlings that have had their apical buds removed, using the table of treatments and their appearance after exposure to light (3 marks).",
       "status": "pending",
       "answer": "Pending: the table of treatments and seedling appearances is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-089.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-090.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-091.jpg"
+      ]
     },
     {
       "id": "8AB-Q40a",
@@ -3906,7 +4852,12 @@
       "question": "Explain why the symptoms of Parkinson's disease increase with age, using the graph of the number of dopamine-producing cells against age (4 marks).",
       "status": "pending",
       "answer": "Pending: the graph of dopamine-producing cell numbers against age is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-092.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-093.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-094.jpg"
+      ]
     },
     {
       "id": "8AB-Q40b",
@@ -3930,6 +4881,11 @@
         "If dopamine is made in the gut, it cannot cross the blood-brain barrier, so it is wasted.",
         "Carbidopa inhibits the enzyme in the digestive system, so more L-DOPA stays intact.",
         "More L-DOPA then crosses into the brain to be converted to dopamine, and dopamine in the gut (causing side effects such as nausea) is reduced."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-092.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-093.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-094.jpg"
       ]
     },
     {
@@ -3949,7 +4905,12 @@
       "question": "Comment on the results of an investigation in which different concentrations of dopamine were given to Drosophila, showing their mean heart rates (4 marks), using the graph.",
       "status": "pending",
       "answer": "Pending: the graph of mean heart rate of Drosophila at each dopamine concentration is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-092.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-093.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-094.jpg"
+      ]
     },
     {
       "id": "8AB-Q41a",
@@ -3968,7 +4929,12 @@
       "question": "Draw an arrow on the neurone diagram to show the direction of a nerve impulse (1 mark).",
       "status": "pending",
       "answer": "Pending: the neurone diagram to annotate is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-094.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-095.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-096.jpg"
+      ]
     },
     {
       "id": "8AB-Q41b(i)",
@@ -3986,7 +4952,12 @@
       "question": "Which is the resting potential for this neurone? A -90 mV, B -70 mV, C +48 mV, D +70 mV (1 mark) (graph not in text).",
       "status": "pending",
       "answer": "Pending: the action potential graph is not in the text, so the resting potential cannot be read from it.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-094.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-095.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-096.jpg"
+      ]
     },
     {
       "id": "8AB-Q41b(ii)",
@@ -4004,7 +4975,12 @@
       "question": "Which letter on the action potential graph shows where the neurone is hyperpolarised? A U, B V, C W, D X (1 mark).",
       "status": "pending",
       "answer": "Pending: the graph with points U, V, W and X is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-094.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-095.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-096.jpg"
+      ]
     },
     {
       "id": "8AB-Q41b(iii)",
@@ -4023,7 +4999,12 @@
       "question": "What is the difference in membrane potential between points V and W on the graph? A 40 mV, B 50 mV, C 90 mV, D 140 mV (1 mark).",
       "status": "pending",
       "answer": "Pending: the graph values at points V and W are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-094.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-095.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-096.jpg"
+      ]
     },
     {
       "id": "8AB-Q41c",
@@ -4047,6 +5028,11 @@
         "Motor neurones carry impulses away from the central nervous system to effectors.",
         "Sensory neurones detect stimuli, whereas motor neurones cause a response in muscles or glands.",
         "So the two differences are the direction of the impulse and the type of target structure."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-094.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-095.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-096.jpg"
       ]
     },
     {
@@ -4066,7 +5052,13 @@
       "question": "Calculate the percentage increase in BMAA per gram from the seeds of the cycad trees to the flying foxes, to two significant figures (1 mark), using the table.",
       "status": "pending",
       "answer": "Pending: the table of BMAA amounts per gram at each stage of the food chain is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-096.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-097.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-098.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-099.jpg"
+      ]
     },
     {
       "id": "8AB-Q42b(i)",
@@ -4085,7 +5077,13 @@
       "question": "Explain the results of the graph of the flying fox population and the number of men diagnosed with ALS (4 marks).",
       "status": "pending",
       "answer": "Pending: the graph of flying fox population against ALS diagnoses is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-096.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-097.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-098.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-099.jpg"
+      ]
     },
     {
       "id": "8AB-Q42b(ii)",
@@ -4110,6 +5108,12 @@
         "Both involve radiation, from a radioactive tracer for PET and from X-rays for CT.",
         "PET shows function by detecting metabolic activity (glucose uptake), so it shows how tissues are working.",
         "CT shows structure in cross-section using differences in X-ray absorption, so it shows anatomy rather than activity."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-096.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-097.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-098.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-099.jpg"
       ]
     },
     {
@@ -4129,7 +5133,13 @@
       "question": "Draw a myelinated motor neurone and label two structures (3 marks).",
       "status": "pending",
       "answer": "Pending: this needs a drawn diagram by the student, which cannot be given in text; expected labels include cell body, dendrites, axon, myelin sheath and nodes of Ranvier.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-096.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-097.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-098.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-099.jpg"
+      ]
     },
     {
       "id": "8AB-Q42c(ii)",
@@ -4153,6 +5163,12 @@
         "Na+ cannot diffuse into the axon, so the membrane is not depolarised.",
         "Without depolarisation, the threshold is not reached and no action potential is generated.",
         "So the impulse is not transmitted along the axon, as seen by the absence of a change in potential difference."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-096.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-097.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-098.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-099.jpg"
       ]
     },
     {
@@ -4177,6 +5193,11 @@
         "The anterior cruciate ligament runs inside the knee joint between the femur and tibia.",
         "Tendons connect muscle to bone, so D is wrong; cartilage covers bone surfaces, so B is wrong.",
         "So the answer is A, bone."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-099.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-100.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-101.jpg"
       ]
     },
     {
@@ -4201,6 +5222,11 @@
         "Radio waves are applied, and the nuclei emit radio signals as they return to alignment.",
         "Damaged ligament contains different amounts of water and tissue structure, giving a different signal.",
         "The computer builds an image in which the damaged area shows a different contrast from healthy tissue."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-099.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-100.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-101.jpg"
       ]
     },
     {
@@ -4225,6 +5251,11 @@
         "Males = 0.44 x 67 000 000 = 29 480 000.",
         "Repairs per male = 77 / 100 000 = 0.00077.",
         "Repairs in males = 29 480 000 x 0.00077 = 22 699.6, which is about 22 700."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-099.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-100.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-101.jpg"
       ]
     },
     {
@@ -4244,7 +5275,12 @@
       "question": "Name the two types of skeletal muscle that are contracted when the arm is held in the position shown in the diagram of arm muscles (1 mark).",
       "status": "pending",
       "answer": "Pending: the diagram of the arm and its muscles is not in the text, so the two muscles cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-099.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-100.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-101.jpg"
+      ]
     },
     {
       "id": "8AB-Q43b(ii)",
@@ -4263,7 +5299,12 @@
       "question": "Describe how the arm could be straightened by the muscles labelled A and B in the diagram (2 marks).",
       "status": "pending",
       "answer": "Pending: the diagram that identifies muscles A and B is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-099.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-100.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-101.jpg"
+      ]
     },
     {
       "id": "8AB-Q44a(i)",
@@ -4287,6 +5328,12 @@
         "So they regulate transcription of genes, such as those for amylase and cell elongation.",
         "Gibberellins promote cell elongation, so B is wrong.",
         "Gibberellins do not hydrolyse starch or regulate translation directly, so A and C are wrong."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-101.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-102.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-103.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-104.jpg"
       ]
     },
     {
@@ -4311,6 +5358,12 @@
         "Adenine is a base in DNA and ATP, not a stress hormone.",
         "Amylopectin is a component of starch, and antihypertensive drugs lower blood pressure.",
         "So the answer is B, adrenaline."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-101.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-102.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-103.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-104.jpg"
       ]
     },
     {
@@ -4330,7 +5383,13 @@
       "question": "Describe three conclusions from the investigation of TBT's effect on blood testosterone and oestradiol in male mice, using the graphs (3 marks).",
       "status": "pending",
       "answer": "Pending: the graphs of blood testosterone and oestradiol against TBT concentration are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-101.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-102.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-103.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-104.jpg"
+      ]
     },
     {
       "id": "8AB-Q44b(ii)",
@@ -4354,6 +5413,12 @@
         "They bind to a specific intracellular receptor in the cytoplasm or nucleus.",
         "The hormone-receptor complex moves to the nucleus and binds to a specific site on DNA, acting as a transcription factor.",
         "This switches on transcription of the target gene, so mRNA and then the protein are made."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-101.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-102.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-103.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-104.jpg"
       ]
     },
     {
@@ -4373,7 +5438,13 @@
       "question": "Which row shows the events that happen during depolarisation of a neurone? (1 mark) (table not in text)",
       "status": "pending",
       "answer": "Pending: the table of rows is not in the text, so the correct row cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-104.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-105.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-106.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-107.jpg"
+      ]
     },
     {
       "id": "8AB-Q45a(ii)",
@@ -4397,6 +5468,12 @@
         "Voltage-gated K+ channels open, so K+ ions diffuse out of the axon.",
         "The loss of positive charge makes the inside of the membrane negative again.",
         "The membrane potential returns towards its resting value, ready for the next action potential."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-104.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-105.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-106.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-107.jpg"
       ]
     },
     {
@@ -4416,7 +5493,13 @@
       "question": "Calculate the magnification of the photograph of a cross-section of part of a sciatic nerve, in standard form (2 marks).",
       "status": "pending",
       "answer": "Pending: the photograph's image size and scale bar are not in the text, so the magnification cannot be calculated.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-104.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-105.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-106.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-107.jpg"
+      ]
     },
     {
       "id": "8AB-Q45b(ii)",
@@ -4435,7 +5518,13 @@
       "question": "Name a type of microscope that would be used to obtain the image of the sciatic nerve cross-section (1 mark).",
       "status": "pending",
       "answer": "Pending: the magnification of the photograph is needed to decide the microscope type, and it cannot be calculated from the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-104.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-105.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-106.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-107.jpg"
+      ]
     },
     {
       "id": "8AB-Q45b(iii)",
@@ -4459,6 +5548,12 @@
         "Depolarisation occurs only at the nodes of Ranvier.",
         "Local currents spread between the nodes, so the impulse jumps from node to node.",
         "Fewer depolarisations are needed along the axon, so transmission is faster than in a non-myelinated neurone."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-104.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-105.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-106.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-107.jpg"
       ]
     },
     {
@@ -4478,7 +5573,11 @@
       "question": "Label the diagram of a cross-section of the human brain to show the pituitary gland (P), cerebellum (C) and hypothalamus (H) (3 marks).",
       "status": "pending",
       "answer": "Pending: the cross-section diagram is not in the text, so the labels cannot be placed.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-107.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-108.jpg"
+      ]
     },
     {
       "id": "8AB-Q46b",
@@ -4497,7 +5596,11 @@
       "question": "Complete the table to show one function of each of the brain parts P, C and H (3 marks).",
       "status": "pending",
       "answer": "Pending: the table to complete is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-107.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-108.jpg"
+      ]
     },
     {
       "id": "8AB-Q47a",
@@ -4521,6 +5624,11 @@
         "The inside becomes positive, depolarising the membrane to around +40 mV.",
         "Na+ channels then close and voltage-gated K+ channels open, so K+ diffuses out.",
         "The membrane repolarises and briefly hyperpolarises before the Na+/K+ pump restores the resting potential."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-108.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-109.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-110.jpg"
       ]
     },
     {
@@ -4540,7 +5648,12 @@
       "question": "Calculate the maximum rate of increase in permeability of the axon membrane to potassium ions, to two significant figures with units (2 marks), using the graph.",
       "status": "pending",
       "answer": "Pending: the permeability graph after the start of the action potential is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-108.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-109.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-110.jpg"
+      ]
     },
     {
       "id": "8AB-Q47c",
@@ -4559,7 +5672,12 @@
       "question": "Which is the ratio of potassium ion concentration outside and inside an axon? A 0.026:1, B 0.3:1, C 0.083:1, D 30:1 (1 mark), using the table of ion concentrations.",
       "status": "pending",
       "answer": "Pending: the table of ion concentrations inside and outside the axon is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-108.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-109.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-110.jpg"
+      ]
     },
     {
       "id": "8AB-Q47d(i)",
@@ -4583,6 +5701,11 @@
         "Ion channels and pumps open and close more quickly, so depolarisation and repolarisation happen faster.",
         "Faster channel activity and diffusion mean an action potential is regenerated more quickly along the axon.",
         "So the speed of the nerve impulse increases (up to a point before proteins denature)."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-108.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-109.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-110.jpg"
       ]
     },
     {
@@ -4602,7 +5725,12 @@
       "question": "Describe two conclusions about the effect of axon diameter and myelination on the speed of an impulse, using the table of results for four neurones (2 marks).",
       "status": "pending",
       "answer": "Pending: the table of speeds for four neurones is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-108.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-109.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-110.jpg"
+      ]
     },
     {
       "id": "8AB-Q48a",
@@ -4626,6 +5754,11 @@
         "Adequate water keeps blood volume and blood pressure normal.",
         "This allows efficient transport of oxygen, glucose and other substances to tissues.",
         "It also supports thermoregulation through sweating and normal metabolic reactions."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
       ]
     },
     {
@@ -4650,6 +5783,11 @@
         "Caffeine binds to adenosine receptors on the membranes of brain neurones without activating them.",
         "This blocks adenosine from binding, so its inhibitory effect is prevented.",
         "The neurones remain more active, which causes the stimulant effect."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
       ]
     },
     {
@@ -4674,6 +5812,11 @@
         "Greater mass and muscle activity mean a higher metabolic rate.",
         "A higher metabolic rate produces more heat and water loss by sweating and breathing.",
         "Therefore men need more water to replace these losses."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
       ]
     },
     {
@@ -4698,6 +5841,11 @@
         "The posterior pituitary releases more ADH, which increases water reabsorption in the collecting ducts.",
         "The adrenal cortex releases aldosterone, which increases sodium reabsorption in the distal convoluted tubule.",
         "Thirst increases water intake, and the blood concentration is restored to its normal narrow range by negative feedback."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
       ]
     },
     {
@@ -4722,6 +5870,11 @@
         "Water moves out of the cells by osmosis, down the water potential gradient.",
         "Cells lose water and so shrink slightly.",
         "This is why cells are affected when the solute concentration of the blood rises."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
       ]
     },
     {
@@ -4746,6 +5899,11 @@
         "Nitric oxide diffuses into the smooth muscle of arteriole walls.",
         "It causes the smooth muscle to relax, so the arterioles dilate (vasodilation).",
         "Blood flow to the muscles increases, supplying more oxygen during exercise."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
       ]
     },
     {
@@ -4770,6 +5928,11 @@
         "Give one group an energy drink and a control group a similar drink without caffeine.",
         "Record ECGs at intervals after drinking and look for irregular rhythms (arrhythmias) such as extra beats.",
         "Compare the frequency of irregular rhythms between the groups, using statistics, to see if the energy drink causes the effect."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
       ]
     },
     {
@@ -4794,6 +5957,11 @@
         "People who do not produce enough lactase cannot digest lactose.",
         "Undigested lactose moves into the large intestine, where bacteria ferment it.",
         "Fermentation produces gas and osmotic effects that cause the symptoms of intolerance."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
       ]
     },
     {
@@ -4818,6 +5986,12 @@
         "Binding opens ion channels that depolarise the membrane, making an impulse more likely.",
         "Auxin and gibberellin are plant growth substances and statins are cholesterol-lowering drugs, so A, C and D are not neurotransmitters.",
         "So the answer is B."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-113.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-114.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-115.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-116.jpg"
       ]
     },
     {
@@ -4837,7 +6011,13 @@
       "question": "Assess the effects of lidocaine on cell survival of heart muscle cells cultured in low oxygen, using the graph (3 marks).",
       "status": "pending",
       "answer": "Pending: the graph of cell survival at different lidocaine concentrations is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-113.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-114.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-115.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-116.jpg"
+      ]
     },
     {
       "id": "8AB-Q49b(ii)",
@@ -4861,6 +6041,12 @@
         "Heart muscle is myogenic because the SAN generates its own rhythm.",
         "Option A describes a hormone, option C describes the AVN and option D describes antagonistic muscles.",
         "So the answer is B."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-113.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-114.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-115.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-116.jpg"
       ]
     },
     {
@@ -4885,6 +6071,12 @@
         "Normally Na+ leaks in and the Na+/K+ pump uses ATP to remove it.",
         "Lidocaine blocks the movement of Na+ through the membrane, so less Na+ enters.",
         "Less ATP is used by the pump, so the cells keep their ion balance and survive longer."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-113.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-114.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-115.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-116.jpg"
       ]
     },
     {
@@ -4904,7 +6096,13 @@
       "question": "Discuss how exercise reduces the risk of death from cardiovascular disease, using Graph 1 (heart rate and exercise) and Graph 2 (risk of death with and without CVD) (6 marks).",
       "status": "pending",
       "answer": "Pending: Graph 1 and Graph 2 are not in the text, so the data needed to support the discussion cannot be checked.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-113.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-114.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-115.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-116.jpg"
+      ]
     },
     {
       "id": "8AB-Q50a(i)",
@@ -4927,6 +6125,13 @@
         "Light microscopes cannot resolve organelles such as mitochondria at this magnification.",
         "The electron microscope used to see internal structures of mitochondria is a transmission electron microscope.",
         "So the answer is a transmission electron microscope."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-116.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-117.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
       ]
     },
     {
@@ -4946,7 +6151,14 @@
       "question": "Calculate the actual width of the mitochondrion between points A and B on the photograph, in metres to three significant figures, with magnification x23 500 (2 marks).",
       "status": "pending",
       "answer": "Pending: the measured image width between points A and B is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-116.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-117.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
+      ]
     },
     {
       "id": "8AB-Q50b(i)",
@@ -4970,6 +6182,13 @@
         "H+ then diffuse back down the gradient through ATP synthase in the inner membrane.",
         "The energy released drives ADP + Pi to ATP in the matrix.",
         "Option C mentions the stroma (chloroplasts) and option D is not a process of mitochondria, so B is correct."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-116.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-117.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
       ]
     },
     {
@@ -4989,7 +6208,14 @@
       "question": "Amytal inhibits the electron transport chain in respiration. Which row of the table shows the changes caused by amytal in a cell? (1 mark)",
       "status": "pending",
       "answer": "Pending: the table of rows is not in the text, so the correct row cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-116.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-117.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
+      ]
     },
     {
       "id": "8AB-Q50b(iii)",
@@ -5013,6 +6239,13 @@
         "Oxidation removes hydrogen, which is accepted by NAD+ (oxidised NAD) to form reduced NAD.",
         "So oxidised NAD is needed as the hydrogen acceptor.",
         "Reduced NAD and NADP are products or the wrong form, so the answer is A."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-116.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-117.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
       ]
     },
     {
@@ -5037,6 +6270,13 @@
         "Hydrogen is transferred to NAD+ and FAD, producing reduced NAD and reduced FAD.",
         "A small amount of ATP (or GTP) is made by substrate-level phosphorylation.",
         "Any three of these products give the answer."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-116.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-117.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
       ]
     },
     {
@@ -5056,7 +6296,14 @@
       "question": "Comment on the conclusions that can be made from the graphs of mitochondrial number and ATP quantity after cell division and during differentiation of brain cells (4 marks).",
       "status": "pending",
       "answer": "Pending: the graphs of mitochondrial number and ATP quantity are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-116.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-117.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
+      ]
     },
     {
       "id": "8AB-Q51a(i)",
@@ -5074,7 +6321,13 @@
       "question": "Which label on the brain cross-section identifies the pituitary gland? A J, B K, C L, D M (1 mark).",
       "status": "pending",
       "answer": "Pending: the labelled cross-section diagram (J, K, L, M) is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-120.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
+      ]
     },
     {
       "id": "8AB-Q51a(ii)",
@@ -5098,6 +6351,12 @@
         "Binding activates a signal transduction pathway inside the cell (such as JAK/STAT).",
         "The pathway increases transcription of genes for muscle proteins and for IGF-1, which stimulates further growth.",
         "Increased mRNA is translated on ribosomes, so more muscle protein is synthesised."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-120.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
       ]
     },
     {
@@ -5117,7 +6376,13 @@
       "question": "Comment on the changes in the concentration of growth hormone in the blood of males of different ages, using the graph (3 marks).",
       "status": "pending",
       "answer": "Pending: the graph of GH concentration against age for males is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-120.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
+      ]
     },
     {
       "id": "8AB-Q51c",
@@ -5141,6 +6406,12 @@
         "Amylopectin is a component of starch, not a hormone.",
         "Cholesterol is a lipid precursor of steroid hormones, and statins are cholesterol-lowering drugs.",
         "So the answer is A, adrenaline."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-120.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
       ]
     },
     {
@@ -5165,6 +6436,12 @@
         "Insert the gene into a vector such as a plasmid, using restriction enzymes and ligase, with a suitable promoter.",
         "Transfer the vector into the mouse cells, for example by transfection or electroporation.",
         "Select and culture the modified cells, which express the human GH gene and secrete the hormone into the medium."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-120.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
       ]
     },
     {
@@ -5189,6 +6466,12 @@
         "E. coli cannot always carry out these modifications, so its protein may be inactive.",
         "Mouse cell culture is slower, needs more expensive growth media and has lower yields than E. coli.",
         "So one advantage and one disadvantage are given."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-120.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
       ]
     },
     {
@@ -5208,7 +6491,11 @@
       "question": "Complete the diagram of a motor neurone by naming the parts labelled A to C (2 marks).",
       "status": "pending",
       "answer": "Pending: the motor neurone diagram with labels A to C is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-123.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-124.jpg"
+      ]
     },
     {
       "id": "8AB-Q52b",
@@ -5232,6 +6519,10 @@
         "Ca2+ enters and causes vesicles to release neurotransmitter into the synaptic cleft.",
         "The neurotransmitter diffuses across the cleft and binds to receptors on the postsynaptic membrane.",
         "This opens Na+ channels, depolarising the postsynaptic membrane and generating a new action potential."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-123.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-124.jpg"
       ]
     },
     {
@@ -5256,6 +6547,11 @@
         "Dopamine itself cannot cross the blood-brain barrier, but L-DOPA can.",
         "Once in the brain, L-DOPA is converted to dopamine by the enzyme decarboxylase.",
         "The extra dopamine restores transmission at synapses in the motor pathways, reducing symptoms."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-125.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-126.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-127.jpg"
       ]
     },
     {
@@ -5280,6 +6576,11 @@
         "It contains the cardiac control centre, which changes heart rate via the autonomic nervous system.",
         "Long-term memory is a function of the cerebrum, and voluntary movement is controlled by the motor cortex.",
         "ADH is released by the posterior pituitary, so the answer is A."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-125.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-126.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-127.jpg"
       ]
     },
     {
@@ -5299,7 +6600,12 @@
       "question": "Discuss the role of bacteria, inflammation and lifestyle in ageing, using the graphs of the changes in bacteria and inflammation during healthy and unhealthy ageing (6 marks).",
       "status": "pending",
       "answer": "Pending: the two graphs of bacteria types and inflammation during healthy and unhealthy ageing are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-125.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-126.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-127.jpg"
+      ]
     },
     {
       "id": "8AB-Q54a",
@@ -5323,6 +6629,13 @@
         "It controls germination and other light-dependent responses in seeds.",
         "Chlorophyll absorbs light for photosynthesis, not for detecting germination signals.",
         "Retinal and rhodopsin are animal photoreceptor molecules, so the answer is B."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-127.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-128.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-129.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-130.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-131.jpg"
       ]
     },
     {
@@ -5342,7 +6655,14 @@
       "question": "Determine the effect of light (red, blue and white light at low and high intensities) on the growth of peanut seedlings, using the graphs (4 marks).",
       "status": "pending",
       "answer": "Pending: the graphs of seedling growth under each light condition are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-127.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-128.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-129.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-130.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-131.jpg"
+      ]
     },
     {
       "id": "8AB-Q54c",
@@ -5366,6 +6686,13 @@
         "The lower pH activates enzymes (expansins) that break bonds between cellulose microfibrils, loosening the wall.",
         "Auxin also stimulates uptake of K+ into the cell, lowering the water potential inside.",
         "Water enters by osmosis, the vacuole and cell enlarge, and the wall stretches as the cell increases in size."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-127.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-128.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-129.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-130.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-131.jpg"
       ]
     },
     {
@@ -5385,7 +6712,14 @@
       "question": "Calculate the percentage change in germination between 200 ppm and 400 ppm gibberellin, as a whole number, using the table of results (2 marks).",
       "status": "pending",
       "answer": "Pending: the table of germination percentages at each gibberellin concentration is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-127.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-128.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-129.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-130.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-131.jpg"
+      ]
     },
     {
       "id": "8AB-Q54d(ii)",
@@ -5409,6 +6743,13 @@
         "This switches on genes for amylase, which is produced and secreted.",
         "Amylase hydrolyses starch in the endosperm to maltose and glucose, supplying the embryo with energy.",
         "The energy supports respiration and growth of the embryo, so the seed germinates."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-127.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-128.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-129.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-130.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-131.jpg"
       ]
     },
     {
@@ -5433,6 +6774,12 @@
         "Without Na+ entry, depolarisation and action potentials are prevented.",
         "Lidocaine does not increase action potentials or open potassium channels, so B and C are wrong.",
         "Opening Na+ channels would cause the opposite effect to lidocaine, so D is wrong."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-131.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-132.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-133.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-134.jpg"
       ]
     },
     {
@@ -5457,6 +6804,12 @@
         "This increases the effect of the neurotransmitters at synapses.",
         "It is not known to damage myelin directly, and it does not slow action potentials, so A and C are wrong.",
         "Decreasing release (B) is the opposite of what MDMA does, so D is the answer."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-131.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-132.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-133.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-134.jpg"
       ]
     },
     {
@@ -5481,6 +6834,12 @@
         "Na+ cannot enter, so depolarisation and action potentials are not produced.",
         "Neurones of the medulla that control breathing cannot send impulses to the respiratory muscles.",
         "The diaphragm and intercostal muscles are not stimulated, so breathing is reduced or stops."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-131.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-132.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-133.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-134.jpg"
       ]
     },
     {
@@ -5505,6 +6864,12 @@
         "On the graph, the percentage dying reaches 50% at a dose of 8.4 g per kg.",
         "So 8.4 g per kg of TTX is the dose that kills half of the mice.",
         "This is a measure of the toxicity of the substance."
+      ],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-131.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-132.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-133.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-134.jpg"
       ]
     },
     {
@@ -5524,7 +6889,13 @@
       "question": "Comment on the toxicity of TTX in mice, using the graph of percentage of mice dying at each dose (3 marks).",
       "status": "pending",
       "answer": "Pending: the graph of percentage of mice dying at each TTX dose is needed and is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/08AB-Nervous-Coordination-131.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-132.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-133.jpg",
+        "papers/biology/img/08AB-Nervous-Coordination-134.jpg"
+      ]
     }
   ]
 }

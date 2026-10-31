@@ -1,6 +1,6 @@
 {
   "code": "2B",
-  "title": "Density and Upthrust",
+  "title": "Density and upthrust",
   "unit": "AS Unit 2",
   "pdf": "papers/physics/12-2B-Density-Upthrust.pdf",
   "questions": [
@@ -9,18 +9,41 @@
       "no": "Q1",
       "marks": 1,
       "topic": "Density Calculation",
-      "keywords": ["density", "weight", "volume", "aluminium", "kg m-3", "mass", "gravitational field strength", "calculation"],
+      "keywords": [
+        "density",
+        "weight",
+        "volume",
+        "aluminium",
+        "kg m-3",
+        "mass",
+        "gravitational field strength",
+        "calculation"
+      ],
       "question": "A cylinder of aluminium has weight 35.0 N and volume 1.32 x 10^-3 m^3. Which calculation gives its density in kg m^-3? The options A to D are not in the extracted text.",
       "status": "pending",
       "answer": "Pending: the answer options A to D are missing from the text (they appear only as an image in the PDF).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-01.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-02.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-03.jpg"
+      ]
     },
     {
       "id": "2B-Q2a(i)",
       "no": "Q2(a)(i)",
       "marks": 2,
       "topic": "Upthrust and Equilibrium",
-      "keywords": ["buoy", "upthrust", "horizontal force", "resolving forces", "angle to vertical", "chain tension", "equilibrium", "vector components"],
+      "keywords": [
+        "buoy",
+        "upthrust",
+        "horizontal force",
+        "resolving forces",
+        "angle to vertical",
+        "chain tension",
+        "equilibrium",
+        "vector components"
+      ],
       "question": "A buoy is held still by a chain at 33 degrees to the vertical. A horizontal water force of 260 N acts on the buoy. Show that the chain force F is about 500 N.",
       "status": "ready",
       "answer": "F = 260 / sin 33 degrees = 477 N, about 500 N to 1 s.f.",
@@ -29,6 +52,11 @@
         "The horizontal component of F is F sin 33 degrees, which balances the 260 N water force.",
         "So F sin 33 degrees = 260 N, giving F = 260 / sin 33 degrees.",
         "sin 33 degrees = 0.5446, so F = 260 / 0.5446 = 477 N, about 500 N."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-01.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-02.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-03.jpg"
       ]
     },
     {
@@ -36,7 +64,15 @@
       "no": "Q2(a)(ii)",
       "marks": 3,
       "topic": "Upthrust and Equilibrium",
-      "keywords": ["buoy", "upthrust", "weight of displaced water", "vertical equilibrium", "chain", "weight of buoy", "newton"],
+      "keywords": [
+        "buoy",
+        "upthrust",
+        "weight of displaced water",
+        "vertical equilibrium",
+        "chain",
+        "weight of buoy",
+        "newton"
+      ],
       "question": "The buoy floats because of upthrust. The weight of water displaced is 2.9 kN. Determine the weight of the buoy, given the chain force of about 477 N at 33 degrees to the vertical pulls the buoy downwards.",
       "status": "ready",
       "answer": "Weight of buoy = 2500 N (about 2.5 kN)",
@@ -45,6 +81,11 @@
         "The chain pulls the buoy downwards, with vertical component F cos 33 degrees = 477 x 0.8387 = 400 N.",
         "Vertical equilibrium: U = W + F cos 33 degrees, so W = U - F cos 33 degrees.",
         "W = 2900 - 400 = 2500 N, about 2.5 kN."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-01.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-02.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-03.jpg"
       ]
     },
     {
@@ -52,7 +93,15 @@
       "no": "Q2(b)",
       "marks": 3,
       "topic": "Upthrust and Equilibrium",
-      "keywords": ["buoy", "horizontal force", "chain force", "angle to vertical", "upthrust constant", "equilibrium", "resolving forces"],
+      "keywords": [
+        "buoy",
+        "horizontal force",
+        "chain force",
+        "angle to vertical",
+        "upthrust constant",
+        "equilibrium",
+        "resolving forces"
+      ],
       "question": "The horizontal water force on the buoy increases, while the weight of displaced water stays the same. Explain how F and the angle theta to the vertical change.",
       "status": "ready",
       "answer": "F increases and the angle theta to the vertical increases.",
@@ -62,6 +111,11 @@
         "Horizontally: F sin theta equals the horizontal force, which increases.",
         "Dividing gives tan theta = (F sin theta) / (F cos theta), which increases, so theta increases.",
         "F cos theta is constant and F sin theta increases, so F = sqrt((F sin theta)^2 + (F cos theta)^2) increases."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-01.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-02.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-03.jpg"
       ]
     },
     {
@@ -69,7 +123,15 @@
       "no": "Q3(a)(i)",
       "marks": 2,
       "topic": "Upthrust Calculation",
-      "keywords": ["submarine", "upthrust", "seawater density", "volume", "weight of displaced fluid", "archimedes principle", "newton"],
+      "keywords": [
+        "submarine",
+        "upthrust",
+        "seawater density",
+        "volume",
+        "weight of displaced fluid",
+        "archimedes principle",
+        "newton"
+      ],
       "question": "A submarine has volume 5.83 x 10^3 m^3 and is stationary in seawater of density 1.03 x 10^3 kg m^-3. Calculate the upthrust on it.",
       "status": "ready",
       "answer": "Upthrust = 5.89 x 10^7 N",
@@ -78,6 +140,11 @@
         "The submarine is fully submerged, so the displaced volume equals its volume, 5.83 x 10^3 m^3.",
         "U = 1.03 x 10^3 x 5.83 x 10^3 x 9.81.",
         "U = 5.89 x 10^7 N."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-03.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-04.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-05.jpg"
       ]
     },
     {
@@ -85,7 +152,15 @@
       "no": "Q3(a)(ii)",
       "marks": 2,
       "topic": "Floating and Equilibrium",
-      "keywords": ["submarine", "stationary", "mass", "weight", "upthrust", "equilibrium", "newton first law"],
+      "keywords": [
+        "submarine",
+        "stationary",
+        "mass",
+        "weight",
+        "upthrust",
+        "equilibrium",
+        "newton first law"
+      ],
       "question": "Explain why the submarine's mass must be 6.0 x 10^6 kg, given it is stationary in the seawater.",
       "status": "ready",
       "answer": "It is stationary, so weight = upthrust; m = U/g = 6.0 x 10^6 kg.",
@@ -93,6 +168,11 @@
         "The submarine is stationary, so the resultant force on it is zero (equilibrium).",
         "The only vertical forces are its weight (down) and the upthrust (up), so W = U.",
         "mg = 5.89 x 10^7 N, so m = 5.89 x 10^7 / 9.81 = 6.0 x 10^6 kg."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-03.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-04.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-05.jpg"
       ]
     },
     {
@@ -100,7 +180,14 @@
       "no": "Q3(b)(i)",
       "marks": 3,
       "topic": "Floating and Equilibrium",
-      "keywords": ["submarine", "lower density water", "upthrust decreases", "resultant force", "sinks", "weight greater than upthrust"],
+      "keywords": [
+        "submarine",
+        "lower density water",
+        "upthrust decreases",
+        "resultant force",
+        "sinks",
+        "weight greater than upthrust"
+      ],
       "question": "The submarine moves into water of density 1.01 x 10^3 kg m^-3. Explain what happens to it.",
       "status": "ready",
       "answer": "Upthrust falls below its weight, so the submarine sinks (accelerates downwards).",
@@ -109,6 +196,11 @@
         "Lower density gives a smaller upthrust (about 5.78 x 10^7 N).",
         "Its weight (about 5.89 x 10^7 N) is now greater than the upthrust.",
         "The resultant force is downwards, so the submarine sinks (accelerates downwards)."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-03.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-04.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-05.jpg"
       ]
     },
     {
@@ -116,7 +208,16 @@
       "no": "Q3(b)(ii)",
       "marks": 2,
       "topic": "Ballast and Equilibrium",
-      "keywords": ["submarine", "pump water", "tanks", "mass of water", "density", "upthrust", "maintain depth", "equilibrium"],
+      "keywords": [
+        "submarine",
+        "pump water",
+        "tanks",
+        "mass of water",
+        "density",
+        "upthrust",
+        "maintain depth",
+        "equilibrium"
+      ],
       "question": "The submarine is in water of density 1.01 x 10^3 kg m^-3 and must keep its depth. Determine the mass of water to pump in or out of its tanks.",
       "status": "ready",
       "answer": "About 1.2 x 10^5 kg of water pumped OUT of the tanks.",
@@ -125,6 +226,11 @@
         "Mass needed = rho V = 1.01 x 10^3 x 5.83 x 10^3 = 5.89 x 10^6 kg, versus 6.00 x 10^6 kg originally.",
         "Change in mass = (1.03 - 1.01) x 10^3 x 5.83 x 10^3 = 1.17 x 10^5 kg.",
         "The mass must fall, so water is pumped out: mass of water = 1.2 x 10^5 kg."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-03.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-04.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-05.jpg"
       ]
     },
     {
@@ -132,7 +238,16 @@
       "no": "Q4(a)(i)",
       "marks": 4,
       "topic": "Fluid Flow and Speed",
-      "keywords": ["fireboat", "seawater", "mass flow rate", "density", "pipe diameter", "speed", "volume flow rate", "cross-sectional area"],
+      "keywords": [
+        "fireboat",
+        "seawater",
+        "mass flow rate",
+        "density",
+        "pipe diameter",
+        "speed",
+        "volume flow rate",
+        "cross-sectional area"
+      ],
       "question": "Seawater of density 1030 kg m^-3 is pumped at 300 kg per second through a pipe of diameter 10.0 cm. Show that the speed of the water leaving the pipe is about 37 m s^-1.",
       "status": "ready",
       "answer": "v = 37 m s^-1",
@@ -141,6 +256,11 @@
         "Pipe radius = 0.0500 m, so cross-sectional area A = pi x (0.0500)^2 = 7.85 x 10^-3 m^2.",
         "Volume flow rate = A v, so v = 0.291 / (7.85 x 10^-3).",
         "v = 37.1 m s^-1, which is about 37 m s^-1."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-05.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-06.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-07.jpg"
       ]
     },
     {
@@ -148,7 +268,15 @@
       "no": "Q4(a)(ii)",
       "marks": 2,
       "topic": "Momentum and Force",
-      "keywords": ["fireboat", "rate of change of momentum", "seawater", "force", "newton second law", "mass per second", "velocity"],
+      "keywords": [
+        "fireboat",
+        "rate of change of momentum",
+        "seawater",
+        "force",
+        "newton second law",
+        "mass per second",
+        "velocity"
+      ],
       "question": "Seawater is initially stationary and is projected at about 37 m s^-1, at a mass rate of 300 kg per second. Determine the rate of change of momentum of the seawater caused by the pump.",
       "status": "ready",
       "answer": "Rate of change of momentum = 1.1 x 10^4 kg m s^-2 (N)",
@@ -157,6 +285,11 @@
         "Initial velocity = 0 (water is stationary); final velocity = 37 m s^-1 forwards.",
         "Rate of change of momentum = 300 x 37 = 1.1 x 10^4 kg m s^-2.",
         "This equals the net force on the water (Newton's second law), so it is 1.1 x 10^4 N."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-05.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-06.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-07.jpg"
       ]
     },
     {
@@ -164,7 +297,15 @@
       "no": "Q4(b)",
       "marks": 2,
       "topic": "Newton's Third Law",
-      "keywords": ["fireboat", "pump", "force on pump", "reaction force", "newton third law", "water projected", "direction"],
+      "keywords": [
+        "fireboat",
+        "pump",
+        "force on pump",
+        "reaction force",
+        "newton third law",
+        "water projected",
+        "direction"
+      ],
       "question": "Projecting water from the pipe causes a force on the pump. Explain the direction of this force.",
       "status": "ready",
       "answer": "Backwards, opposite to the direction in which the water is projected.",
@@ -173,6 +314,11 @@
         "The pump gives the water a forward force (Newton's second law).",
         "By Newton's third law, the water exerts an equal and opposite force on the pump.",
         "So the force on the pump acts backwards, opposite to the direction the water is projected."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-05.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-06.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-07.jpg"
       ]
     },
     {
@@ -180,7 +326,16 @@
       "no": "Q4(c)",
       "marks": 3,
       "topic": "Forces and Constant Speed",
-      "keywords": ["fireboat", "constant speed", "engine force", "drag", "reaction force", "resultant force", "horizontal forces", "pump"],
+      "keywords": [
+        "fireboat",
+        "constant speed",
+        "engine force",
+        "drag",
+        "reaction force",
+        "resultant force",
+        "horizontal forces",
+        "pump"
+      ],
       "question": "The boat moves at constant speed with the pump off. When the pump is on, water is projected forwards and the boat settles at a lower constant speed. Explain why, referring to all the horizontal forces on the boat.",
       "status": "ready",
       "answer": "The extra backward reaction force from the water means the drag must be smaller at constant speed, which requires a lower speed.",
@@ -191,6 +346,11 @@
         "The extra backward reaction force adds to the backward forces.",
         "For the forces to balance again, the drag must be smaller.",
         "Drag increases with speed, so the boat settles at a lower constant speed."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-05.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-06.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-07.jpg"
       ]
     },
     {
@@ -198,29 +358,63 @@
       "no": "Q5",
       "marks": 6,
       "topic": "Density and Floating Eggs",
-      "keywords": ["egg", "floating", "air cell", "density", "upthrust", "decomposition", "gases", "assess statements"],
+      "keywords": [
+        "egg",
+        "floating",
+        "air cell",
+        "density",
+        "upthrust",
+        "decomposition",
+        "gases",
+        "assess statements"
+      ],
       "question": "Assess which of two internet statements explains why old eggs float: Statement 1 says decomposition produces gases that escape through the shell; Statement 2 says air enters the egg and enlarges the air cell.",
       "status": "pending",
       "answer": "Pending: the wording of Statement 1 and Statement 2 is in boxes in the PDF and is missing from the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-07.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-08.jpg"
+      ]
     },
     {
       "id": "2B-Q6a",
       "no": "Q6(a)",
       "marks": 3,
       "topic": "Free-Body Diagrams",
-      "keywords": ["free body diagram", "sphere", "thread", "weight", "upthrust", "tension", "suspended in water"],
+      "keywords": [
+        "free body diagram",
+        "sphere",
+        "thread",
+        "weight",
+        "upthrust",
+        "tension",
+        "suspended in water"
+      ],
       "question": "Draw a free-body force diagram for the uniform sphere when it is suspended in water by a thread, as in the apparatus.",
       "status": "pending",
       "answer": "Pending: the answer is a drawn free-body diagram, which is not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-08.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-09.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-10.jpg"
+      ]
     },
     {
       "id": "2B-Q6b(i)",
       "no": "Q6(b)(i)",
       "marks": 3,
       "topic": "Newton's Third Law and Upthrust",
-      "keywords": ["balance reading", "sphere in water", "upthrust", "newton third law", "reaction force", "water displaced", "increase in reading"],
+      "keywords": [
+        "balance reading",
+        "sphere in water",
+        "upthrust",
+        "newton third law",
+        "reaction force",
+        "water displaced",
+        "increase in reading"
+      ],
       "question": "As the sphere is lowered into the water, the balance reading increases from 315 g to 465 g. Explain this increase, referring to Newton's third law.",
       "status": "ready",
       "answer": "The sphere pushes the water down with a force equal to the upthrust; by Newton's third law this extra downward force adds to the balance reading.",
@@ -229,6 +423,11 @@
         "By Newton's third law, the sphere exerts an equal and opposite downward force on the water.",
         "This extra downward force is transmitted through the water and container to the balance.",
         "So the balance reading increases by an amount equal to upthrust / g."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-08.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-09.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-10.jpg"
       ]
     },
     {
@@ -236,7 +435,15 @@
       "no": "Q6(b)(ii)",
       "marks": 4,
       "topic": "Upthrust and Density",
-      "keywords": ["sphere mass", "balance reading", "upthrust", "density of sphere", "density of water", "fully submerged", "volume"],
+      "keywords": [
+        "sphere mass",
+        "balance reading",
+        "upthrust",
+        "density of sphere",
+        "density of water",
+        "fully submerged",
+        "volume"
+      ],
       "question": "The balance reading rises from 315 g to 465 g when the uniform sphere is fully submerged in water. Density of water is 1000 kg m^-3 and density of the sphere is 2000 kg m^-3. Determine the mass of the sphere.",
       "status": "ready",
       "answer": "Mass of sphere = 0.30 kg",
@@ -245,6 +452,11 @@
         "Increase in mass = 0.465 - 0.315 = 0.150 kg, which is the mass of water displaced.",
         "Volume of sphere = mass of displaced water / density of water = 0.150 / 1000 = 1.5 x 10^-4 m^3.",
         "Mass of sphere = density of sphere x volume = 2000 x 1.5 x 10^-4 = 0.30 kg."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-08.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-09.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-10.jpg"
       ]
     },
     {
@@ -252,7 +464,15 @@
       "no": "Q6(b)(iii)",
       "marks": 2,
       "topic": "Upthrust and Density",
-      "keywords": ["oil", "water", "balance reading", "upthrust", "density", "less dense liquid", "final reading"],
+      "keywords": [
+        "oil",
+        "water",
+        "balance reading",
+        "upthrust",
+        "density",
+        "less dense liquid",
+        "final reading"
+      ],
       "question": "The water is replaced by the same mass of oil, which is less dense than water. Explain what happens to the final balance reading.",
       "status": "ready",
       "answer": "The final reading is lower than 0.465 kg (but still above 0.315 kg), because the upthrust in oil is smaller.",
@@ -261,6 +481,11 @@
         "The sphere displaces the same volume, but the oil is less dense, so the upthrust rho_oil V g is smaller.",
         "By Newton's third law, the increase in balance reading equals this smaller upthrust divided by g.",
         "So the final reading is less than 0.465 kg."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-08.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-09.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-10.jpg"
       ]
     },
     {
@@ -268,7 +493,16 @@
       "no": "Q7(a)",
       "marks": 4,
       "topic": "Resultant Force on Balloon",
-      "keywords": ["balloon", "helium", "upthrust", "weight", "resultant force", "air density", "volume", "released"],
+      "keywords": [
+        "balloon",
+        "helium",
+        "upthrust",
+        "weight",
+        "resultant force",
+        "air density",
+        "volume",
+        "released"
+      ],
       "question": "A child releases a helium balloon. Mass of balloon and string is 9.20 x 10^-3 kg, volume is 5.00 x 10^-2 m^3 and air density is 1.20 kg m^-3. Calculate the resultant force on the balloon immediately after release.",
       "status": "ready",
       "answer": "Resultant force = 0.498 N (about 0.50 N) upwards",
@@ -277,6 +511,10 @@
         "Weight = m g = 9.20 x 10^-3 x 9.81 = 0.0903 N downwards.",
         "Resultant force = upthrust - weight = 0.589 - 0.090 = 0.498 N.",
         "The resultant is upwards, about 0.50 N (the helium mass is not given, so it is not included)."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-10.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-11.jpg"
       ]
     },
     {
@@ -284,7 +522,16 @@
       "no": "Q7(b)",
       "marks": 6,
       "topic": "Balloon Motion and Drag",
-      "keywords": ["balloon", "upthrust", "weight", "resultant force", "acceleration", "viscous drag", "terminal velocity", "velocity"],
+      "keywords": [
+        "balloon",
+        "upthrust",
+        "weight",
+        "resultant force",
+        "acceleration",
+        "viscous drag",
+        "terminal velocity",
+        "velocity"
+      ],
       "question": "Explain how the forces on the balloon affect its upward motion from the moment it is released, given that the air density is constant and there is no wind.",
       "status": "ready",
       "answer": "It accelerates upwards from rest with a decreasing acceleration as drag increases, until drag balances the net upthrust and it moves at constant (terminal) velocity.",
@@ -294,6 +541,10 @@
         "As the balloon speeds up, viscous drag acts downwards and increases with speed.",
         "The resultant force (upthrust - weight - drag) falls, so the acceleration decreases; the speed still increases but more slowly.",
         "When drag equals the net upthrust (0.498 N), the resultant force is zero, acceleration is zero and the balloon moves at constant (terminal) velocity."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-10.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-11.jpg"
       ]
     },
     {
@@ -301,7 +552,16 @@
       "no": "Q8",
       "marks": 6,
       "topic": "Density and Floating Bulbs",
-      "keywords": ["galilean thermometer", "bulbs", "liquid density", "temperature", "upthrust", "weight", "average density", "float"],
+      "keywords": [
+        "galilean thermometer",
+        "bulbs",
+        "liquid density",
+        "temperature",
+        "upthrust",
+        "weight",
+        "average density",
+        "float"
+      ],
       "question": "In a Galilean thermometer the liquid density falls as temperature rises, and each sealed bulb carries a metal disc of different mass. Explain why a particular bulb floats until the liquid temperature exceeds a certain value.",
       "status": "ready",
       "answer": "The bulb floats while its upthrust equals its weight, so its average density matches the liquid; when the liquid density falls below this, the weight exceeds the upthrust and it sinks.",
@@ -311,6 +571,10 @@
         "As temperature rises, liquid density falls, so upthrust decreases.",
         "Until the liquid density drops to the bulb's average density, the bulb stays at its level, supported by upthrust.",
         "Once the liquid density falls below the bulb's average density, its weight exceeds the upthrust and it sinks."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-11.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-12.jpg"
       ]
     },
     {
@@ -318,7 +582,15 @@
       "no": "Q9(a)",
       "marks": 2,
       "topic": "Floating and Equilibrium",
-      "keywords": ["brass cylinder", "floating", "upthrust", "weight", "displaced water", "equilibrium", "average density"],
+      "keywords": [
+        "brass cylinder",
+        "floating",
+        "upthrust",
+        "weight",
+        "displaced water",
+        "equilibrium",
+        "average density"
+      ],
       "question": "A hollow brass cylinder with closed ends floats on water. Explain why it floats.",
       "status": "ready",
       "answer": "Upthrust equals the cylinder's weight, which equals the weight of water displaced by the submerged part.",
@@ -327,6 +599,10 @@
         "Upthrust is the weight of water displaced by the submerged part of the cylinder.",
         "The submerged volume adjusts until the displaced water weight equals the cylinder's weight.",
         "The cylinder's average density is less than that of water, so only part of it is submerged."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-13.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-14.jpg"
       ]
     },
     {
@@ -334,7 +610,15 @@
       "no": "Q9(b)(i)",
       "marks": 4,
       "topic": "Upthrust and Density",
-      "keywords": ["brass cylinder", "mass", "upthrust", "submerged volume", "density of water", "cylinder volume", "floating"],
+      "keywords": [
+        "brass cylinder",
+        "mass",
+        "upthrust",
+        "submerged volume",
+        "density of water",
+        "cylinder volume",
+        "floating"
+      ],
       "question": "A hollow brass cylinder is 4.0 cm long with external diameter 2.1 cm, and 63% of its volume is submerged in water of density 1.0 x 10^3 kg m^-3. Show that the mass of the cylinder is about 9 x 10^-3 kg.",
       "status": "ready",
       "answer": "Mass = 8.7 x 10^-3 kg, about 9 x 10^-3 kg",
@@ -343,6 +627,10 @@
         "Submerged volume = 0.63 x 1.385 x 10^-5 = 8.73 x 10^-6 m^3.",
         "Floating: mass = mass of displaced water = rho V_sub = 1.0 x 10^3 x 8.73 x 10^-6 kg.",
         "Mass = 8.7 x 10^-3 kg, which is about 9 x 10^-3 kg."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-13.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-14.jpg"
       ]
     },
     {
@@ -350,7 +638,16 @@
       "no": "Q9(b)(ii)",
       "marks": 4,
       "topic": "Density and Floating",
-      "keywords": ["gold cylinder", "brass cylinder", "density", "average density", "floating", "maximum upthrust", "mass", "volume"],
+      "keywords": [
+        "gold cylinder",
+        "brass cylinder",
+        "density",
+        "average density",
+        "floating",
+        "maximum upthrust",
+        "mass",
+        "volume"
+      ],
       "question": "Deduce whether an identical hollow cylinder made of gold would float, assuming the volume of gold equals the volume of brass. Density of gold is 19.3 x 10^3 kg m^-3 and of brass is 8.7 x 10^3 kg m^-3.",
       "status": "ready",
       "answer": "The gold cylinder would not float: its weight (about 0.19 N) exceeds the maximum upthrust (about 0.14 N).",
@@ -359,6 +656,10 @@
         "Mass of gold cylinder = 19.3 x 10^3 x 1.00 x 10^-6 = 0.0194 kg, weight = 0.190 N.",
         "Maximum upthrust (fully submerged) = rho g V_total = 1.0 x 10^3 x 9.81 x 1.385 x 10^-5 = 0.136 N.",
         "Weight (0.190 N) is greater than the maximum upthrust (0.136 N), so the gold cylinder sinks."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-13.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-14.jpg"
       ]
     },
     {
@@ -366,7 +667,16 @@
       "no": "Q10(a)(i)",
       "marks": 2,
       "topic": "Moments and Stability",
-      "keywords": ["boat", "stability", "moment", "upthrust", "weight", "couple", "restoring moment", "tilt"],
+      "keywords": [
+        "boat",
+        "stability",
+        "moment",
+        "upthrust",
+        "weight",
+        "couple",
+        "restoring moment",
+        "tilt"
+      ],
       "question": "A gust tilts the boat so that the lines of action of weight W and upthrust U are a distance d apart. Explain the effect of the moment Ud.",
       "status": "ready",
       "answer": "Ud is a restoring (righting) moment that turns the boat back towards the upright position.",
@@ -375,6 +685,11 @@
         "The moment Ud is the turning effect of this couple about the boat.",
         "It acts in the direction that rotates the boat back towards the upright position.",
         "So the boat tends to return to its upright position (righting moment)."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-14.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-15.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-16.jpg"
       ]
     },
     {
@@ -382,7 +697,16 @@
       "no": "Q10(a)(ii)",
       "marks": 3,
       "topic": "Moments and Stability",
-      "keywords": ["boat", "centre of gravity", "stability", "restoring moment", "windy weather", "capsize", "tilt", "higher G"],
+      "keywords": [
+        "boat",
+        "centre of gravity",
+        "stability",
+        "restoring moment",
+        "windy weather",
+        "capsize",
+        "tilt",
+        "higher G"
+      ],
       "question": "Explain what would happen to the boat in windy weather if the centre of gravity G were higher.",
       "status": "ready",
       "answer": "With G higher the restoring moment is smaller for a given tilt, so the boat is less stable and may tilt further or capsize.",
@@ -391,6 +715,11 @@
         "So the restoring moment Ud is smaller.",
         "A smaller restoring moment means a gust tilts the boat further before it recovers.",
         "The boat is less stable and may capsize in strong winds."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-14.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-15.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-16.jpg"
       ]
     },
     {
@@ -398,7 +727,15 @@
       "no": "Q10(b)(i)",
       "marks": 4,
       "topic": "Ballast and Centre of Buoyancy",
-      "keywords": ["ballast tank", "centre of buoyancy", "X", "displaced water", "full ballast", "boat stability", "submerged volume"],
+      "keywords": [
+        "ballast tank",
+        "centre of buoyancy",
+        "X",
+        "displaced water",
+        "full ballast",
+        "boat stability",
+        "submerged volume"
+      ],
       "question": "Explain why the position of X (the centre of the displaced water) is lower when a boat's ballast tank is full than when it is empty.",
       "status": "ready",
       "answer": "A full tank adds mass low down, so the boat sits lower and more of its lower hull is submerged, moving the centre of the displaced volume X down.",
@@ -407,6 +744,11 @@
         "More of the lower, rounded part of the hull is now below the water surface.",
         "X is the centre of the displaced volume, so the displaced shape now extends lower and X moves down.",
         "The water in the base also lowers G, which improves stability."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-14.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-15.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-16.jpg"
       ]
     },
     {
@@ -414,7 +756,15 @@
       "no": "Q10(b)(ii)",
       "marks": 2,
       "topic": "Ballast and Drag",
-      "keywords": ["ballast tank", "full ballast", "drag", "moving boat", "water resistance", "power", "disadvantage"],
+      "keywords": [
+        "ballast tank",
+        "full ballast",
+        "drag",
+        "moving boat",
+        "water resistance",
+        "power",
+        "disadvantage"
+      ],
       "question": "Explain a disadvantage of using a full ballast tank when the boat is moving through the water.",
       "status": "ready",
       "answer": "The extra weight and deeper hull increase water resistance (drag), so more power is needed to move at the same speed.",
@@ -422,6 +772,11 @@
         "A full ballast tank increases the boat's weight and how deep it sits in the water.",
         "More of the hull is in contact with the water, which increases the drag (water resistance).",
         "More drag needs a larger forward driving force, so more engine power or fuel is needed for the same speed."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-14.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-15.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-16.jpg"
       ]
     },
     {
@@ -429,29 +784,60 @@
       "no": "Q11",
       "marks": 1,
       "topic": "Density of Cubes",
-      "keywords": ["density", "cube", "balance reading", "same mass", "side length", "volume scaling", "ratio"],
+      "keywords": [
+        "density",
+        "cube",
+        "balance reading",
+        "same mass",
+        "side length",
+        "volume scaling",
+        "ratio"
+      ],
       "question": "A small cube of side x and a larger cube of side 1.5x are weighed on a balance. Which option gives the density of the larger cube in terms of the density of the smaller cube?",
       "status": "pending",
       "answer": "Pending: the two balance readings (both shown as 50.00 g in the figures) are not in the extracted text, so the mass ratio cannot be confirmed from the text alone.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-16.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-17.jpg"
+      ]
     },
     {
       "id": "2B-Q12",
       "no": "Q12",
       "marks": 1,
       "topic": "Upthrust and Floating Sphere",
-      "keywords": ["sphere", "upthrust", "weight 2.5 N", "submerged fraction", "minimum force", "floating", "immersed"],
+      "keywords": [
+        "sphere",
+        "upthrust",
+        "weight 2.5 N",
+        "submerged fraction",
+        "minimum force",
+        "floating",
+        "immersed"
+      ],
       "question": "A sphere of weight 2.5 N floats with a fraction of its volume beneath the water surface. A force F is applied to completely immerse it. Which option gives the minimum value of F?",
       "status": "pending",
       "answer": "Pending: the fraction of the volume beneath the surface and the options C and D are garbled or missing in the extracted text; they are readable only from the PDF image.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-16.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-17.jpg"
+      ]
     },
     {
       "id": "2B-Q13a",
       "no": "Q13(a)",
       "marks": 1,
       "topic": "Definition of Upthrust",
-      "keywords": ["upthrust", "definition", "fluid", "pressure difference", "resultant force", "weather balloon"],
+      "keywords": [
+        "upthrust",
+        "definition",
+        "fluid",
+        "pressure difference",
+        "resultant force",
+        "weather balloon"
+      ],
       "question": "State what is meant by upthrust.",
       "status": "ready",
       "answer": "Upthrust is the resultant upward force on an object in a fluid, due to the greater pressure on its underside than on its top.",
@@ -460,6 +846,11 @@
         "The pressure at the bottom of the object is greater than at the top.",
         "This pressure difference gives a net upward force on the object.",
         "This upward resultant force is the upthrust."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-17.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-18.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-19.jpg"
       ]
     },
     {
@@ -467,7 +858,15 @@
       "no": "Q13(b)(i)",
       "marks": 3,
       "topic": "Upthrust and Newton's Second Law",
-      "keywords": ["weather balloon", "upthrust", "acceleration", "mass", "air density", "volume", "newton second law"],
+      "keywords": [
+        "weather balloon",
+        "upthrust",
+        "acceleration",
+        "mass",
+        "air density",
+        "volume",
+        "newton second law"
+      ],
       "question": "The balloon and equipment have volume 1.63 m^3, and air density at ground level is 1.23 kg m^-3. On release the initial upward acceleration is 4.80 m s^-2. Calculate the mass of the balloon and equipment. (The question prompt is not printed in the source text; this is inferred from the data given.)",
       "status": "ready",
       "answer": "Mass of balloon and equipment = 1.35 kg",
@@ -476,6 +875,11 @@
         "Newton's second law: U - mg = m a, so U = m (g + a).",
         "m = U / (g + a) = 19.7 / (9.81 + 4.80) = 19.7 / 14.61.",
         "m = 1.35 kg."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-17.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-18.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-19.jpg"
       ]
     },
     {
@@ -483,18 +887,41 @@
       "no": "Q13(b)(ii)",
       "marks": 4,
       "topic": "Air Density and Balloon Equilibrium",
-      "keywords": ["weather balloon", "air density", "height", "density graph", "25 km", "expansion", "burst", "upthrust"],
+      "keywords": [
+        "weather balloon",
+        "air density",
+        "height",
+        "density graph",
+        "25 km",
+        "expansion",
+        "burst",
+        "upthrust"
+      ],
       "question": "Using a graph of air density against height, deduce whether the balloon could support the equipment at 25 km without its volume exceeding 50 m^3.",
       "status": "pending",
       "answer": "Pending: the air density at 25 km must be read from the density-height graph, which is not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-17.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-18.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-19.jpg"
+      ]
     },
     {
       "id": "2B-Q13c",
       "no": "Q13(c)",
       "marks": 6,
       "topic": "Balloon Velocity Changes",
-      "keywords": ["weather balloon", "velocity", "upthrust", "weight", "air density decreases", "maximum height", "acceleration", "expansion"],
+      "keywords": [
+        "weather balloon",
+        "velocity",
+        "upthrust",
+        "weight",
+        "air density decreases",
+        "maximum height",
+        "acceleration",
+        "expansion"
+      ],
       "question": "A strong weather balloon rises and stops expanding, then continues to its maximum height. Explain how and why its velocity changes from release to maximum height, ignoring viscous drag.",
       "status": "ready",
       "answer": "Velocity rises from zero to a maximum where upthrust equals weight, then falls to zero at the maximum height.",
@@ -505,6 +932,11 @@
         "Velocity is greatest when upthrust has fallen to equal weight (resultant force and acceleration zero).",
         "Above this height weight exceeds upthrust, so the resultant force is downwards and the balloon decelerates.",
         "With no drag, kinetic energy is converted to gravitational potential energy, so velocity falls to zero at the maximum height."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-17.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-18.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-19.jpg"
       ]
     },
     {
@@ -512,7 +944,15 @@
       "no": "Q14(a)",
       "marks": 3,
       "topic": "Floating Iceberg",
-      "keywords": ["iceberg", "weight", "upthrust", "seawater density", "cross-sectional area", "submerged height", "floating"],
+      "keywords": [
+        "iceberg",
+        "weight",
+        "upthrust",
+        "seawater density",
+        "cross-sectional area",
+        "submerged height",
+        "floating"
+      ],
       "question": "An iceberg is modelled as a block of ice with horizontal cross-sectional area 3500 m^2 and 6.7 m of its height below the seawater surface. Seawater density is 1.03 x 10^3 kg m^-3. Calculate the weight of the block.",
       "status": "ready",
       "answer": "Weight of block = 2.37 x 10^8 N",
@@ -521,6 +961,11 @@
         "Displaced volume = area x submerged height = 3500 x 6.7 = 2.35 x 10^4 m^3.",
         "Weight = rho_sea x V x g = 1.03 x 10^3 x 2.35 x 10^4 x 9.81.",
         "Weight = 2.37 x 10^8 N."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-19.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-20.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-21.jpg"
       ]
     },
     {
@@ -528,7 +973,14 @@
       "no": "Q14(b)",
       "marks": 2,
       "topic": "Floating and Density",
-      "keywords": ["iceberg", "lower density", "submerged volume", "upthrust", "weight", "floating"],
+      "keywords": [
+        "iceberg",
+        "lower density",
+        "submerged volume",
+        "upthrust",
+        "weight",
+        "floating"
+      ],
       "question": "The same block floats in water of lower density than seawater. Explain why a larger volume of it is below the surface.",
       "status": "ready",
       "answer": "The weight is unchanged, so upthrust must still equal it; with lower density the submerged volume must be larger.",
@@ -536,6 +988,11 @@
         "The block floats, so its weight equals the upthrust in both liquids.",
         "Upthrust = rho V_sub g, and the weight is the same.",
         "Lower density means V_sub must increase to keep the upthrust equal to the weight."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-19.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-20.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-21.jpg"
       ]
     },
     {
@@ -543,7 +1000,16 @@
       "no": "Q15",
       "marks": 3,
       "topic": "Cartesian Diver",
-      "keywords": ["cartesian diver", "trapped air", "compression", "density", "upthrust", "weight", "accelerates downwards", "pressure"],
+      "keywords": [
+        "cartesian diver",
+        "trapped air",
+        "compression",
+        "density",
+        "upthrust",
+        "weight",
+        "accelerates downwards",
+        "pressure"
+      ],
       "question": "A cartesian diver with trapped air in a tube is inside a sealed bottle. When the bottle is squeezed, more water enters the tube and the trapped air volume decreases. Explain why the diver accelerates downwards.",
       "status": "ready",
       "answer": "The compressed air shrinks, so the diver's upthrust falls while its weight rises, giving a net downward force.",
@@ -553,6 +1019,10 @@
         "The diver's weight increases because it now contains more water.",
         "Its volume, and so the upthrust (weight of water displaced), decreases.",
         "Weight is now greater than upthrust, so the resultant force is downwards and the diver accelerates downwards."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-21.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-22.jpg"
       ]
     },
     {
@@ -560,18 +1030,40 @@
       "no": "Q16(a)",
       "marks": 2,
       "topic": "Free-Body Diagrams",
-      "keywords": ["hydrometer", "free body diagram", "weight", "upthrust", "equilibrium", "floating", "forces"],
+      "keywords": [
+        "hydrometer",
+        "free body diagram",
+        "weight",
+        "upthrust",
+        "equilibrium",
+        "floating",
+        "forces"
+      ],
       "question": "Complete the free-body diagram showing the forces on a hydrometer floating vertically in pure water at equilibrium.",
       "status": "pending",
       "answer": "Pending: the answer is a completed free-body diagram; the diagram is not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-22.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-23.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-24.jpg"
+      ]
     },
     {
       "id": "2B-Q16b(i)",
       "no": "Q16(b)(i)",
       "marks": 3,
       "topic": "Hydrometer and Density",
-      "keywords": ["hydrometer", "seawater", "pure water", "upthrust", "weight", "submerged volume", "density", "higher position"],
+      "keywords": [
+        "hydrometer",
+        "seawater",
+        "pure water",
+        "upthrust",
+        "weight",
+        "submerged volume",
+        "density",
+        "higher position"
+      ],
       "question": "A hydrometer floats higher in seawater than in pure water. Explain why.",
       "status": "ready",
       "answer": "Seawater is denser, so the same upthrust (equal to the weight) is produced by a smaller submerged volume, so the hydrometer rises.",
@@ -580,6 +1072,11 @@
         "The weight is the same in both, so the upthrust must be the same.",
         "Upthrust = rho V_sub g; seawater is denser, so the submerged volume V_sub is smaller.",
         "A smaller submerged volume means the hydrometer sits higher in the seawater."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-22.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-23.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-24.jpg"
       ]
     },
     {
@@ -587,7 +1084,16 @@
       "no": "Q16(b)(ii)",
       "marks": 5,
       "topic": "Hydrometer Calculation",
-      "keywords": ["hydrometer", "change in position", "submerged volume", "pure water", "seawater", "weight 0.324 N", "diameter", "cross-sectional area"],
+      "keywords": [
+        "hydrometer",
+        "change in position",
+        "submerged volume",
+        "pure water",
+        "seawater",
+        "weight 0.324 N",
+        "diameter",
+        "cross-sectional area"
+      ],
       "question": "A hydrometer of weight 0.324 N and diameter x = 1.23 cm floats in pure water (density 997 kg m^-3) and then in seawater (density 1025 kg m^-3). Calculate the change in its vertical position when moved from pure water into seawater.",
       "status": "ready",
       "answer": "The hydrometer rises by about 0.76 cm (7.6 x 10^-3 m).",
@@ -598,6 +1104,11 @@
         "Cross-sectional area A = pi (x/2)^2 = pi x (0.00615)^2 = 1.188 x 10^-4 m^2.",
         "Change in submerged length = (V1 - V2) / A = (9.05 x 10^-7) / (1.188 x 10^-4) = 7.6 x 10^-3 m.",
         "The hydrometer rises by 0.76 cm in seawater."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-22.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-23.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-24.jpg"
       ]
     },
     {
@@ -605,18 +1116,40 @@
       "no": "Q17",
       "marks": 1,
       "topic": "Cube Dimensions",
-      "keywords": ["cube", "weight", "density", "side length", "volume", "cube root", "rho g"],
+      "keywords": [
+        "cube",
+        "weight",
+        "density",
+        "side length",
+        "volume",
+        "cube root",
+        "rho g"
+      ],
       "question": "A solid cube of weight W is made from material of density rho. Which expression gives the length of each side of the cube? The options A to D are not in the extracted text.",
       "status": "pending",
       "answer": "Pending: the four expression options A to D are missing from the text (they appear only as images in the PDF).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-24.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-25.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-26.jpg"
+      ]
     },
     {
       "id": "2B-Q18a",
       "no": "Q18(a)",
       "marks": 5,
       "topic": "Gravitational Power",
-      "keywords": ["hydroelectric", "gravitational potential energy", "power", "density of water", "volume per minute", "pipe inclined", "mass flow rate", "efficiency"],
+      "keywords": [
+        "hydroelectric",
+        "gravitational potential energy",
+        "power",
+        "density of water",
+        "volume per minute",
+        "pipe inclined",
+        "mass flow rate",
+        "efficiency"
+      ],
       "question": "Water of density 1100 kg m^-3 flows down an inclined pipe of length 350 m at 55 degrees to the horizontal. Each pipe transfers 1700 m^3 of water in one minute. Show that the power transferred by the water in each pipe is about 88 MW.",
       "status": "ready",
       "answer": "Power = 8.8 x 10^7 W, about 88 MW.",
@@ -625,6 +1158,11 @@
         "Vertical drop h = 350 sin 55 degrees = 350 x 0.8192 = 286.7 m.",
         "Power = rate of loss of gravitational potential energy = m g h / t.",
         "Power = 3.12 x 10^4 x 9.81 x 286.7 = 8.77 x 10^7 W, which is about 88 MW."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-24.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-25.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-26.jpg"
       ]
     },
     {
@@ -632,7 +1170,15 @@
       "no": "Q18(b)",
       "marks": 2,
       "topic": "Efficiency",
-      "keywords": ["efficiency", "power wasted", "input power", "output power", "hydroelectric", "four pipes", "power station"],
+      "keywords": [
+        "efficiency",
+        "power wasted",
+        "input power",
+        "output power",
+        "hydroelectric",
+        "four pipes",
+        "power station"
+      ],
       "question": "Water flows from the lake to the generator through 4 identical pipes, and the total power wasted is 256 MW. Calculate the efficiency of the power station.",
       "status": "ready",
       "answer": "Efficiency = 27%",
@@ -640,6 +1186,11 @@
         "Total input power from the lake = 4 x 88 MW = 351 MW.",
         "Useful output power = input - wasted = 351 - 256 = 95 MW.",
         "Efficiency = useful output / input = 95 / 351 = 0.27, which is 27%."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-24.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-25.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-26.jpg"
       ]
     },
     {
@@ -647,7 +1198,14 @@
       "no": "Q19",
       "marks": 1,
       "topic": "Archimedes Principle",
-      "keywords": ["upthrust", "cube", "displaced liquid", "weight of displaced liquid", "archimedes principle", "liquid density"],
+      "keywords": [
+        "upthrust",
+        "cube",
+        "displaced liquid",
+        "weight of displaced liquid",
+        "archimedes principle",
+        "liquid density"
+      ],
       "question": "A cube of volume V is placed in a liquid of density rho and displaces a weight W of liquid. Which expression gives the magnitude of the upthrust? Options: A V x W, B V, C V x rho, D W.",
       "status": "ready",
       "answer": "D, the upthrust equals W, the weight of liquid displaced.",
@@ -655,6 +1213,11 @@
         "Upthrust equals the weight of fluid displaced (Archimedes' principle).",
         "The cube displaces a weight W of liquid.",
         "So the upthrust is W, which is option D."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-26.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-27.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-28.jpg"
       ]
     },
     {
@@ -662,18 +1225,41 @@
       "no": "Q20(a)",
       "marks": 5,
       "topic": "Resultant of Two Forces",
-      "keywords": ["submarine", "resultant force", "vector diagram", "engine force", "drag", "components", "magnitude", "angle"],
+      "keywords": [
+        "submarine",
+        "resultant force",
+        "vector diagram",
+        "engine force",
+        "drag",
+        "components",
+        "magnitude",
+        "angle"
+      ],
       "question": "A submarine has a horizontal engine force of 70 N and a drag force of 43 N at 25 degrees to the horizontal. Find the magnitude and direction of the resultant force.",
       "status": "pending",
       "answer": "Pending: the direction of the 43 N drag force (below the horizontal and towards the front) is shown only in the diagram, not in the extracted text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-26.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-27.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-28.jpg"
+      ]
     },
     {
       "id": "2B-Q20b",
       "no": "Q20(b)",
       "marks": 6,
       "topic": "Tension and Upthrust",
-      "keywords": ["submarine", "cable tension", "upthrust", "constant speed", "submerged volume", "leaving water", "crane", "weight"],
+      "keywords": [
+        "submarine",
+        "cable tension",
+        "upthrust",
+        "constant speed",
+        "submerged volume",
+        "leaving water",
+        "crane",
+        "weight"
+      ],
       "question": "A crane lifts a submarine at constant speed from fully underwater, just below the surface, until it is completely out of the water. Drag is negligible. Explain how the tension in the cable changes.",
       "status": "ready",
       "answer": "The tension is constant at (W - U) while fully submerged, then increases steadily to W when the submarine is completely out of the water.",
@@ -683,6 +1269,11 @@
         "As the submarine leaves the water, the submerged volume decreases, so U decreases.",
         "Therefore the tension T = W - U increases.",
         "When completely out of the water, U = 0, so T = W, its maximum value."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-26.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-27.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-28.jpg"
       ]
     },
     {
@@ -690,7 +1281,15 @@
       "no": "Q21(a)",
       "marks": 3,
       "topic": "Density and Mass of Sphere",
-      "keywords": ["newton cradle", "steel sphere", "radius", "volume", "density", "mass", "sphere"],
+      "keywords": [
+        "newton cradle",
+        "steel sphere",
+        "radius",
+        "volume",
+        "density",
+        "mass",
+        "sphere"
+      ],
       "question": "Each steel sphere has radius 7.0 x 10^-3 m and steel has density 7.8 x 10^3 kg m^-3. Calculate the mass of one sphere.",
       "status": "ready",
       "answer": "Mass of one sphere = 0.0112 kg",
@@ -698,6 +1297,11 @@
         "Volume of sphere V = (4/3) pi r^3 = 4.189 x (7.0 x 10^-3)^3 = 1.437 x 10^-6 m^3.",
         "Mass m = rho V = 7.8 x 10^3 x 1.437 x 10^-6 kg.",
         "m = 0.0112 kg."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-28.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-29.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-30.jpg"
       ]
     },
     {
@@ -705,7 +1309,15 @@
       "no": "Q21(b)",
       "marks": 2,
       "topic": "Pendulum Acceleration",
-      "keywords": ["newton cradle", "pendulum", "initial acceleration", "angle 38 degrees", "gravity component", "tangential", "sphere A"],
+      "keywords": [
+        "newton cradle",
+        "pendulum",
+        "initial acceleration",
+        "angle 38 degrees",
+        "gravity component",
+        "tangential",
+        "sphere A"
+      ],
       "question": "Sphere A is pulled so that its string is at 38 degrees to the vertical and then released. Determine its initial acceleration.",
       "status": "ready",
       "answer": "Initial acceleration = 6.0 m s^-2, along the arc towards the lowest point.",
@@ -713,6 +1325,11 @@
         "When released from rest the string tension acts along the string, so it does not contribute to the tangential force.",
         "The tangential component of weight is mg sin 38 degrees, which gives the resultant force.",
         "a = g sin 38 degrees = 9.81 x 0.6157 = 6.04 m s^-2, directed along the arc towards the lowest point."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-28.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-29.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-30.jpg"
       ]
     },
     {
@@ -720,7 +1337,17 @@
       "no": "Q21(c)",
       "marks": 6,
       "topic": "Energy and Momentum in Collisions",
-      "keywords": ["newton cradle", "energy", "momentum", "collision", "sphere A", "sphere E", "gravitational potential energy", "kinetic energy", "conservation"],
+      "keywords": [
+        "newton cradle",
+        "energy",
+        "momentum",
+        "collision",
+        "sphere A",
+        "sphere E",
+        "gravitational potential energy",
+        "kinetic energy",
+        "conservation"
+      ],
       "question": "Sphere A is released, hits sphere B, and comes to rest; B, C and D stay at rest and sphere E swings up to its highest point. Describe the changes in energy and momentum of spheres A and E until E reaches its highest point, ignoring air resistance.",
       "status": "ready",
       "answer": "A converts gravitational potential energy to kinetic energy and loses its momentum in the collision; E gains the same momentum and kinetic energy, then converts them back to gravitational potential energy at its highest point.",
@@ -731,6 +1358,11 @@
         "E receives the same momentum and kinetic energy, so its momentum increases from zero as it starts moving.",
         "As E swings up, gravity reduces its kinetic energy and momentum, which transfer into gravitational potential energy.",
         "At its highest point E has zero speed, momentum and kinetic energy; total energy and momentum are conserved in the cradle."
+      ],
+      "images": [
+        "papers/physics/img/12-2B-Density-Upthrust-28.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-29.jpg",
+        "papers/physics/img/12-2B-Density-Upthrust-30.jpg"
       ]
     }
   ]

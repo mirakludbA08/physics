@@ -9,40 +9,83 @@
       "no": "Q1",
       "marks": 1,
       "topic": "Carbon-13 NMR Peaks",
-      "keywords": ["13C NMR", "carbon environments", "C6H14", "four peaks", "structural isomer", "symmetry"],
+      "keywords": [
+        "13C NMR",
+        "carbon environments",
+        "C6H14",
+        "four peaks",
+        "structural isomer",
+        "symmetry"
+      ],
       "question": "A compound C6H14 gives a 13C NMR spectrum with four peaks. Which compound gives this spectrum? The options are structures in the PDF.",
       "status": "pending",
       "answer": "Needs the structural options from the PDF to pick the C6H14 isomer with four carbon environments.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-01.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-02.jpg"
+      ]
     },
     {
       "id": "Ch19-Q2",
       "no": "Q2",
       "marks": 1,
       "topic": "Molecular Formula",
-      "keywords": ["molecular formula", "cuminone", "flavouring", "structure", "carbon count", "hydrogen count"],
+      "keywords": [
+        "molecular formula",
+        "cuminone",
+        "flavouring",
+        "structure",
+        "carbon count",
+        "hydrogen count"
+      ],
       "question": "Cuminone, a flavouring, is shown as a structure. What is its molecular formula? Options A to D are given.",
       "status": "pending",
       "answer": "Needs the cuminone structure from the PDF to count C, H and O atoms.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-01.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-02.jpg"
+      ]
     },
     {
       "id": "Ch19-Q3",
       "no": "Q3",
       "marks": 1,
       "topic": "Redox Reactions",
-      "keywords": ["redox reaction", "oxidation number", "reduction", "oxidation", "equation", "identify"],
+      "keywords": [
+        "redox reaction",
+        "oxidation number",
+        "reduction",
+        "oxidation",
+        "equation",
+        "identify"
+      ],
       "question": "Which of the listed reactions is a redox reaction? The reactions are shown only in the PDF.",
       "status": "pending",
       "answer": "Needs the list of reactions from the PDF (options are not in the text).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-02.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-03.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-04.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-05.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-06.jpg"
+      ]
     },
     {
       "id": "Ch19-Q4",
       "no": "Q4",
       "marks": 1,
       "topic": "Oxidation Numbers",
-      "keywords": ["oxidation number", "KBrO3", "bromine", "N2O5", "same oxidation state", "multiple choice"],
+      "keywords": [
+        "oxidation number",
+        "KBrO3",
+        "bromine",
+        "N2O5",
+        "same oxidation state",
+        "multiple choice"
+      ],
       "question": "Which species contains an element with the same oxidation number as bromine in KBrO3? A N2O5, B KMnO4, C K2FeO4, D Na2SO3.",
       "status": "ready",
       "answer": "A (N2O5): nitrogen is +5, the same as bromine in KBrO3.",
@@ -51,6 +94,13 @@
         "In N2O5, 2N + 5(-2) = 0, so each N = +5.",
         "KMnO4 has Mn = +7; K2FeO4 has Fe = +6; Na2SO3 has S = +4.",
         "Only N2O5 matches +5, so the answer is A."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-02.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-03.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-04.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-05.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-06.jpg"
       ]
     },
     {
@@ -58,73 +108,165 @@
       "no": "Q5(a)(i)",
       "marks": 2,
       "topic": "Iron(III) Aqua Ion Reactions",
-      "keywords": ["[Fe(H2O)6]3+", "Reaction 1", "complete equation", "hexaaqua iron", "transition metal", "reagent"],
+      "keywords": [
+        "[Fe(H2O)6]3+",
+        "Reaction 1",
+        "complete equation",
+        "hexaaqua iron",
+        "transition metal",
+        "reagent"
+      ],
       "question": "Complete the equation for Reaction 1 of the [Fe(H2O)6]3+ ion. The reagent for Reaction 1 is shown only in the diagram.",
       "status": "pending",
       "answer": "Needs the reagent for Reaction 1 from the scheme in the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-02.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-03.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-04.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-05.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-06.jpg"
+      ]
     },
     {
       "id": "Ch19-Q5a(ii)",
       "no": "Q5(a)(ii)",
       "marks": 1,
       "topic": "Reaction Type",
-      "keywords": ["reaction type", "Reaction 2", "iron(III)", "transition metal", "ligand", "equation"],
+      "keywords": [
+        "reaction type",
+        "Reaction 2",
+        "iron(III)",
+        "transition metal",
+        "ligand",
+        "equation"
+      ],
       "question": "State the type of reaction occurring in Reaction 2 on the [Fe(H2O)6]3+ solution.",
       "status": "pending",
       "answer": "Needs the reagent for Reaction 2 shown in the PDF diagram.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-02.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-03.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-04.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-05.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-06.jpg"
+      ]
     },
     {
       "id": "Ch19-Q5a(iii)",
       "no": "Q5(a)(iii)",
       "marks": 2,
       "topic": "Complex Ion Structure",
-      "keywords": ["complex ion", "Reaction 3", "structure", "ligand", "three-dimensional", "iron"],
+      "keywords": [
+        "complex ion",
+        "Reaction 3",
+        "structure",
+        "ligand",
+        "three-dimensional",
+        "iron"
+      ],
       "question": "Draw the structure of the complex ion formed in Reaction 3, showing all atoms. The reagent is shown in the PDF.",
       "status": "pending",
       "answer": "Needs the Reaction 3 reagent from the PDF to identify the complex ion to draw.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-02.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-03.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-04.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-05.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-06.jpg"
+      ]
     },
     {
       "id": "Ch19-Q5b(i)",
       "no": "Q5(b)(i)",
       "marks": 2,
       "topic": "Vanadium Ion Colours",
-      "keywords": ["vanadium", "oxidation states", "colour", "aqueous ions", "table", "V2+ V3+ V4+ V5+"],
+      "keywords": [
+        "vanadium",
+        "oxidation states",
+        "colour",
+        "aqueous ions",
+        "table",
+        "V2+ V3+ V4+ V5+"
+      ],
       "question": "Complete the table giving the colours of vanadium ions in oxidation states +2, +3, +4 and +5 in aqueous solution.",
       "status": "pending",
       "answer": "Needs the table layout from the PDF to fill in the colours in the correct cells.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-02.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-03.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-04.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-05.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-06.jpg"
+      ]
     },
     {
       "id": "Ch19-Q5b(ii)",
       "no": "Q5(b)(ii)",
       "marks": 1,
       "topic": "Redox and Oxidation Numbers",
-      "keywords": ["vanadium", "equilibrium", "redox", "oxidation number", "justify", "aqueous species"],
+      "keywords": [
+        "vanadium",
+        "equilibrium",
+        "redox",
+        "oxidation number",
+        "justify",
+        "aqueous species"
+      ],
       "question": "Two vanadium species are in equilibrium in aqueous solution. Deduce whether this is a redox reaction and justify using oxidation numbers.",
       "status": "pending",
       "answer": "Needs the two vanadium species named in the PDF scheme to decide whether oxidation numbers change.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-02.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-03.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-04.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-05.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-06.jpg"
+      ]
     },
     {
       "id": "Ch19-Q5b(iii)",
       "no": "Q5(b)(iii)",
       "marks": 5,
       "topic": "Choosing an Oxidising Agent",
-      "keywords": ["oxidising agent", "vanadium(II)", "standard electrode potential", "vanadium systems", "E values", "equations"],
+      "keywords": [
+        "oxidising agent",
+        "vanadium(II)",
+        "standard electrode potential",
+        "vanadium systems",
+        "E values",
+        "equations"
+      ],
       "question": "Predict an oxidising agent that converts V2+ to V3+ and then to V4+ but not to V5+, using only the data tables shown. Include equations and E values for the two reactions.",
       "status": "pending",
       "answer": "Needs the vanadium systems and oxidising agents E-value table from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-02.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-03.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-04.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-05.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-06.jpg"
+      ]
     },
     {
       "id": "Ch19-Q5c",
       "no": "Q5(c)",
       "marks": 6,
       "topic": "Heterogeneous and Homogeneous Catalysis",
-      "keywords": ["heterogeneous catalyst", "homogeneous catalyst", "transition metal", "Haber process", "iron", "iodide persulfate", "compare and contrast"],
+      "keywords": [
+        "heterogeneous catalyst",
+        "homogeneous catalyst",
+        "transition metal",
+        "Haber process",
+        "iron",
+        "iodide persulfate",
+        "compare and contrast"
+      ],
       "question": "Compare and contrast heterogeneous and homogeneous catalysis. Include one transition metal example of each type and a reaction in which it is used.",
       "status": "ready",
       "answer": "Heterogeneous: different phase, reactants adsorb on a solid surface (e.g. Fe in the Haber process). Homogeneous: same phase, catalyst forms intermediates via changing oxidation state (e.g. Fe2+ in iodide and peroxodisulfate reaction).",
@@ -135,6 +277,13 @@
         "Homogeneous catalyst: in the same phase as the reactants, so it mixes fully and forms intermediates.",
         "Homogeneous mechanism: the transition metal changes oxidation state, e.g. S2O8^2- + 2Fe2+ gives 2SO4^2- + 2Fe3+, then 2Fe3+ + 2I- gives I2 + 2Fe2+.",
         "Both types lower the activation energy and are regenerated, but heterogeneous rates depend on surface area and can be poisoned."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-02.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-03.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-04.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-05.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-06.jpg"
       ]
     },
     {
@@ -142,18 +291,36 @@
       "no": "Q6(a)",
       "marks": 1,
       "topic": "Amino Acid Structure at High pH",
-      "keywords": ["alanine", "amino acid", "high pH", "structure", "deprotonated", "zwitterion"],
+      "keywords": [
+        "alanine",
+        "amino acid",
+        "high pH",
+        "structure",
+        "deprotonated",
+        "zwitterion"
+      ],
       "question": "Which structure best represents alanine at high pH? The options are structures in the PDF.",
       "status": "pending",
       "answer": "Needs the four alanine structures from the PDF to choose the correct one.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-06.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-07.jpg"
+      ]
     },
     {
       "id": "Ch19-Q6b",
       "no": "Q6(b)",
       "marks": 1,
       "topic": "Intermolecular Forces in Amino Acids",
-      "keywords": ["alanine", "melting", "crystalline solid", "ionic bonds", "zwitterion", "forces broken"],
+      "keywords": [
+        "alanine",
+        "melting",
+        "crystalline solid",
+        "ionic bonds",
+        "zwitterion",
+        "forces broken"
+      ],
       "question": "Alanine is a crystalline solid at room temperature. What are the main forces broken when alanine melts? A London forces, B hydrogen bonds, C covalent bonds, D ionic bonds.",
       "status": "ready",
       "answer": "D (ionic bonds): the solid is a lattice of zwitterions held by electrostatic attraction.",
@@ -164,6 +331,10 @@
         "Covalent bonds inside each molecule are not broken on melting.",
         "London forces and hydrogen bonds are weaker, so they are not the main forces here.",
         "Answer D."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-06.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-07.jpg"
       ]
     },
     {
@@ -171,51 +342,103 @@
       "no": "Q7",
       "marks": 1,
       "topic": "Polymer Classification",
-      "keywords": ["repeat unit", "polypeptide", "polyamide", "polymer", "structure", "classification"],
+      "keywords": [
+        "repeat unit",
+        "polypeptide",
+        "polyamide",
+        "polymer",
+        "structure",
+        "classification"
+      ],
       "question": "The repeat unit of a polymer is shown. Which statement is correct? A both a polypeptide and a polyamide, B neither, C polypeptide but not polyamide, D polyamide but not polypeptide.",
       "status": "pending",
       "answer": "Needs the repeat unit diagram from the PDF to check for peptide and amide links.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-07.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-08.jpg"
+      ]
     },
     {
       "id": "Ch19-Q8",
       "no": "Q8",
       "marks": 1,
       "topic": "Hydrogen Bonding",
-      "keywords": ["hydrogen bond", "methylamine", "water", "lone pair", "structure", "intermolecular"],
+      "keywords": [
+        "hydrogen bond",
+        "methylamine",
+        "water",
+        "lone pair",
+        "structure",
+        "intermolecular"
+      ],
       "question": "Which structure best represents a hydrogen bond between methylamine and water? The options are diagrams in the PDF.",
       "status": "pending",
       "answer": "Needs the diagram options from the PDF to choose the correct hydrogen bond.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-08.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-09.jpg"
+      ]
     },
     {
       "id": "Ch19-Q9",
       "no": "Q9",
       "marks": 1,
       "topic": "Naming Amides",
-      "keywords": ["IUPAC name", "amide", "methylbutanamide", "structure", "naming", "compound"],
+      "keywords": [
+        "IUPAC name",
+        "amide",
+        "methylbutanamide",
+        "structure",
+        "naming",
+        "compound"
+      ],
       "question": "Name the compound shown. Options: 1-methylpropanamide, 3-methylpropanamide, 2-methylbutanamide, 3-methylbutanamide.",
       "status": "pending",
       "answer": "Needs the structure from the PDF to number the carbon chain.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-09.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-10.jpg"
+      ]
     },
     {
       "id": "Ch19-Q10",
       "no": "Q10",
       "marks": 1,
       "topic": "Monomer from Repeat Unit",
-      "keywords": ["repeat unit", "monomer", "addition polymer", "structure", "polymer", "monomer structure"],
+      "keywords": [
+        "repeat unit",
+        "monomer",
+        "addition polymer",
+        "structure",
+        "polymer",
+        "monomer structure"
+      ],
       "question": "The repeat unit of a polymer is shown. What is the structure of the monomer? Options are in the PDF.",
       "status": "pending",
       "answer": "Needs the repeat unit diagram and options from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-10.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-11.jpg"
+      ]
     },
     {
       "id": "Ch19-Q11",
       "no": "Q11",
       "marks": 1,
       "topic": "Base Strength and pH",
-      "keywords": ["pH", "ammonia", "butylamine", "phenylamine", "0.1 mol dm-3", "base strength", "increasing pH"],
+      "keywords": [
+        "pH",
+        "ammonia",
+        "butylamine",
+        "phenylamine",
+        "0.1 mol dm-3",
+        "base strength",
+        "increasing pH"
+      ],
       "question": "Equal 0.1 mol dm-3 solutions of ammonia, butylamine and phenylamine are prepared. Which sequence shows them in order of increasing pH? A butylamine, phenylamine, ammonia; B ammonia, butylamine, phenylamine; C phenylamine, ammonia, butylamine; D ammonia, phenylamine, butylamine.",
       "status": "ready",
       "answer": "C (phenylamine, ammonia, butylamine): the weakest base gives the lowest pH.",
@@ -224,6 +447,10 @@
         "Butylamine is therefore the strongest base and gives the highest pH.",
         "In phenylamine the N lone pair is delocalised into the benzene ring, so it is the weakest base and gives the lowest pH.",
         "Ammonia lies between the two, so increasing pH is phenylamine, ammonia, butylamine: option C."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-11.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-12.jpg"
       ]
     },
     {
@@ -231,29 +458,59 @@
       "no": "Q12",
       "marks": 1,
       "topic": "Reduction of Nitriles",
-      "keywords": ["nitrile reduction", "amine", "primary amine", "LiAlH4", "amine structure", "cannot be prepared"],
+      "keywords": [
+        "nitrile reduction",
+        "amine",
+        "primary amine",
+        "LiAlH4",
+        "amine structure",
+        "cannot be prepared"
+      ],
       "question": "Which amine could not be prepared by reduction of a nitrile? The amine options are shown only in the PDF.",
       "status": "pending",
       "answer": "Needs the amine options from the PDF. Note that nitrile reduction only gives primary amines.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-12.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-13.jpg"
+      ]
     },
     {
       "id": "Ch19-Q13",
       "no": "Q13",
       "marks": 1,
       "topic": "Amino Acid Repeat Units",
-      "keywords": ["polymer", "repeat unit", "amino acids", "polypeptide", "number of amino acids", "different"],
+      "keywords": [
+        "polymer",
+        "repeat unit",
+        "amino acids",
+        "polypeptide",
+        "number of amino acids",
+        "different"
+      ],
       "question": "How many different amino acids form the repeat unit of the polymer shown? Options are 3, 4, 5 and 6.",
       "status": "pending",
       "answer": "Needs the polymer structure from the PDF to count distinct amino acid residues.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-12.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-13.jpg"
+      ]
     },
     {
       "id": "Ch19-Q14",
       "no": "Q14",
       "marks": 1,
       "topic": "Polyamide Monomers",
-      "keywords": ["polyamide", "monomer", "amides", "amino acids", "diacyl chlorides", "diamines", "condensation"],
+      "keywords": [
+        "polyamide",
+        "monomer",
+        "amides",
+        "amino acids",
+        "diacyl chlorides",
+        "diamines",
+        "condensation"
+      ],
       "question": "Which type of compound cannot be a monomer in the formation of polyamides? A amides, B amino acids, C diacyl chlorides, D diamines.",
       "status": "ready",
       "answer": "A (amides): an amide has no pair of reactive groups to link in a chain.",
@@ -263,6 +520,11 @@
         "Amino acids have both an amine and a carboxylic acid group, so they can link to form polyamides.",
         "An amide already contains the C(=O)N group and does not have two reactive groups to join in a chain.",
         "Answer A."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-13.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-14.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-15.jpg"
       ]
     },
     {
@@ -270,7 +532,14 @@
       "no": "Q15",
       "marks": 1,
       "topic": "Basicity of Amines",
-      "keywords": ["basicity", "phenylamine", "propylamine", "ammonia", "decreasing basicity", "amines"],
+      "keywords": [
+        "basicity",
+        "phenylamine",
+        "propylamine",
+        "ammonia",
+        "decreasing basicity",
+        "amines"
+      ],
       "question": "Which sequence shows C6H5NH2, CH3CH2CH2NH2 and NH3 in order of decreasing basicity? Options A to D are given.",
       "status": "ready",
       "answer": "C: CH3CH2CH2NH2 > NH3 > C6H5NH2.",
@@ -279,6 +548,11 @@
         "So propylamine is more basic than ammonia.",
         "Phenylamine is the weakest base because its N lone pair is delocalised into the ring.",
         "Decreasing basicity: CH3CH2CH2NH2 > NH3 > C6H5NH2, which is option C."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-13.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-14.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-15.jpg"
       ]
     },
     {
@@ -286,18 +560,36 @@
       "no": "Q16(a)",
       "marks": 1,
       "topic": "Classifying Amines",
-      "keywords": ["chlorpheniramine", "amine classification", "primary secondary tertiary", "labelled amine", "structure"],
+      "keywords": [
+        "chlorpheniramine",
+        "amine classification",
+        "primary secondary tertiary",
+        "labelled amine",
+        "structure"
+      ],
       "question": "Deduce the classification (primary, secondary or tertiary) of the labelled amine group in chlorpheniramine.",
       "status": "pending",
       "answer": "Needs the chlorpheniramine structure with the label from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-13.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-14.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-15.jpg"
+      ]
     },
     {
       "id": "Ch19-Q16b",
       "no": "Q16(b)",
       "marks": 4,
       "topic": "Properties of Pyridine",
-      "keywords": ["pyridine", "miscible with water", "alkaline solution", "hydrogen bonding", "lone pair", "proton acceptor"],
+      "keywords": [
+        "pyridine",
+        "miscible with water",
+        "alkaline solution",
+        "hydrogen bonding",
+        "lone pair",
+        "proton acceptor"
+      ],
       "question": "Pyridine is miscible with water and its solution is alkaline. Explain each of these properties.",
       "status": "ready",
       "answer": "Miscible: the N lone pair hydrogen-bonds with water. Alkaline: the lone pair accepts H+ from water, giving OH- ions (C5H5N + H2O to C5H5NH+ + OH-).",
@@ -308,6 +600,11 @@
         "So the lone pair is available to accept a proton from water.",
         "C5H5N + H2O to C5H5NH+ + OH- produces hydroxide ions.",
         "The OH- ions make the solution alkaline (pH above 7)."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-13.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-14.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-15.jpg"
       ]
     },
     {
@@ -315,84 +612,173 @@
       "no": "Q16(c)",
       "marks": 4,
       "topic": "Amine Alkylation Mechanism",
-      "keywords": ["mechanism", "chloromethane", "ammonia", "curly arrows", "lone pair", "nucleophilic substitution", "chlorpheniramine"],
+      "keywords": [
+        "mechanism",
+        "chloromethane",
+        "ammonia",
+        "curly arrows",
+        "lone pair",
+        "nucleophilic substitution",
+        "chlorpheniramine"
+      ],
       "question": "Complete the mechanism for the proposed reaction of monodesmethylchlorpheniramine with chloromethane, assuming it is similar to ammonia with chloromethane. Include curly arrows, dipoles and lone pairs.",
       "status": "pending",
       "answer": "Needs the structures of the amine and product from the PDF to draw the mechanism with curly arrows.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-13.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-14.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-15.jpg"
+      ]
     },
     {
       "id": "Ch19-Q17",
       "no": "Q17",
       "marks": 1,
       "topic": "Diazonium Ion Formation",
-      "keywords": ["diazonium ion", "sodium nitrite", "phenylamine", "5 C", "hydrochloric acid", "benzenediazonium"],
+      "keywords": [
+        "diazonium ion",
+        "sodium nitrite",
+        "phenylamine",
+        "5 C",
+        "hydrochloric acid",
+        "benzenediazonium"
+      ],
       "question": "Which ion forms when sodium nitrite and dilute HCl react with phenylamine at 5 C? The options are shown in the PDF.",
       "status": "pending",
       "answer": "Needs the option list from the PDF. The expected ion is the benzenediazonium ion, C6H5N2+.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-15.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-16.jpg"
+      ]
     },
     {
       "id": "Ch19-Q18a",
       "no": "Q18(a)",
       "marks": 2,
       "topic": "Polyamide Monomers",
-      "keywords": ["polypeptide", "condensation polymer", "amino acids", "monomers", "structures", "polymer segment"],
+      "keywords": [
+        "polypeptide",
+        "condensation polymer",
+        "amino acids",
+        "monomers",
+        "structures",
+        "polymer segment"
+      ],
       "question": "Predict the structures of the two amino acid monomers that produce the part of a polymer shown in the diagram.",
       "status": "pending",
       "answer": "Needs the polymer diagram from the PDF to deduce the two monomers.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-16.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-17.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-18.jpg"
+      ]
     },
     {
       "id": "Ch19-Q18b",
       "no": "Q18(b)",
       "marks": 2,
       "topic": "Addition Polymer Monomers",
-      "keywords": ["addition polymer", "food wrap", "repeat unit", "two monomers", "alkenes", "structure"],
+      "keywords": [
+        "addition polymer",
+        "food wrap",
+        "repeat unit",
+        "two monomers",
+        "alkenes",
+        "structure"
+      ],
       "question": "A repeat unit of an addition polymer used in food wraps is shown. Deduce the structures of the two monomers.",
       "status": "pending",
       "answer": "Needs the repeat unit diagram from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-16.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-17.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-18.jpg"
+      ]
     },
     {
       "id": "Ch19-Q18c",
       "no": "Q18(c)",
       "marks": 2,
       "topic": "Repeat Units from Molar Mass",
-      "keywords": ["synthetic rubber", "molar mass", "repeat units", "300000", "calculation", "polymer"],
+      "keywords": [
+        "synthetic rubber",
+        "molar mass",
+        "repeat units",
+        "300000",
+        "calculation",
+        "polymer"
+      ],
       "question": "A synthetic rubber has an approximate molar mass of 300 000 g mol-1. Calculate the approximate number of repeat units. The repeat unit structure is in the PDF.",
       "status": "pending",
       "answer": "Needs the rubber repeat unit structure from the PDF to find its molar mass.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-16.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-17.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-18.jpg"
+      ]
     },
     {
       "id": "Ch19-Q19",
       "no": "Q19",
       "marks": 1,
       "topic": "Polymer Repeat Unit",
-      "keywords": ["crotonamide", "repeat unit", "addition polymer", "polymer", "structure", "but-2-enamide"],
+      "keywords": [
+        "crotonamide",
+        "repeat unit",
+        "addition polymer",
+        "polymer",
+        "structure",
+        "but-2-enamide"
+      ],
       "question": "The structure of crotonamide is shown. What is the repeat unit of the polymer formed from it? Options are in the PDF.",
       "status": "pending",
       "answer": "Needs the crotonamide structure and the options from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-18.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-19.jpg"
+      ]
     },
     {
       "id": "Ch19-Q20a",
       "no": "Q20(a)",
       "marks": 1,
       "topic": "Amino Acid Ions in Alkali",
-      "keywords": ["serine", "sodium carbonate", "ion", "deprotonation", "amino acid", "alkaline solution"],
+      "keywords": [
+        "serine",
+        "sodium carbonate",
+        "ion",
+        "deprotonation",
+        "amino acid",
+        "alkaline solution"
+      ],
       "question": "Which ion is most likely to form when serine is dissolved in sodium carbonate solution? The options are structures in the PDF.",
       "status": "pending",
       "answer": "Needs the option structures from the PDF. The expected ion has its NH3+ deprotonated and COOH converted to COO-.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-19.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-20.jpg"
+      ]
     },
     {
       "id": "Ch19-Q20b",
       "no": "Q20(b)",
       "marks": 1,
       "topic": "Melting Temperature of Amino Acids",
-      "keywords": ["serine", "melting temperature", "ionic bonds", "zwitterion", "high melting point", "amino acid"],
+      "keywords": [
+        "serine",
+        "melting temperature",
+        "ionic bonds",
+        "zwitterion",
+        "high melting point",
+        "amino acid"
+      ],
       "question": "Serine melts at about 200 to 300 C. This high melting temperature is mainly due to the formation of: A hydrogen bonds, B ionic bonds, C London forces, D peptide bonds.",
       "status": "ready",
       "answer": "B (ionic bonds): serine exists as a zwitterion, and the ionic lattice needs a lot of energy to break.",
@@ -402,6 +788,10 @@
         "Melting requires breaking these electrostatic attractions, which needs a high temperature.",
         "London forces are weak and peptide bonds are within molecules, so they are not the main cause.",
         "Answer B."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-19.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-20.jpg"
       ]
     },
     {
@@ -409,7 +799,14 @@
       "no": "Q21",
       "marks": 1,
       "topic": "Salt Formation from Amines",
-      "keywords": ["butylamine", "dilute hydrochloric acid", "white solid", "salt", "evaporate", "ammonium chloride"],
+      "keywords": [
+        "butylamine",
+        "dilute hydrochloric acid",
+        "white solid",
+        "salt",
+        "evaporate",
+        "ammonium chloride"
+      ],
       "question": "Dilute HCl is added to butylamine and the solution is evaporated to dryness, giving a white solid. What is its formula? A CH3CH2CH2CH2Cl, B CH3CH2CH2CH2NH3Cl, C CH3CH2CH2CONH2, D CH3CH2CH2COOH.",
       "status": "ready",
       "answer": "B (CH3CH2CH2CH2NH3Cl): butylamine is neutralised to its ionic salt.",
@@ -419,6 +816,10 @@
         "This ionic salt is a solid that remains when the solution is evaporated.",
         "Option A is an alkyl chloride, C is an amide and D is a carboxylic acid, none of which form here.",
         "Answer B."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-20.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-21.jpg"
       ]
     },
     {
@@ -426,7 +827,14 @@
       "no": "Q22",
       "marks": 1,
       "topic": "Preparing Amines from Nitriles",
-      "keywords": ["nitrile", "reduction", "butylamine", "LiAlH4", "reducing agent", "butanenitrile"],
+      "keywords": [
+        "nitrile",
+        "reduction",
+        "butylamine",
+        "LiAlH4",
+        "reducing agent",
+        "butanenitrile"
+      ],
       "question": "Amines can be prepared by reducing nitriles. Identify the nitrile and the reducing agent used to prepare butylamine.",
       "status": "ready",
       "answer": "Butanenitrile, CH3CH2CH2CN, reduced by LiAlH4 in dry ether (or H2 with a nickel catalyst).",
@@ -436,6 +844,10 @@
         "That nitrile is CH3CH2CH2CN, called butanenitrile.",
         "Strong reducing agent: LiAlH4 in dry ether, followed by water work-up.",
         "Alternative: hydrogen with a nickel catalyst."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-21.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-22.jpg"
       ]
     },
     {
@@ -443,7 +855,14 @@
       "no": "Q23",
       "marks": 1,
       "topic": "Zwitterion pH Dependence",
-      "keywords": ["2-aminopropanoic acid", "alanine", "zwitterion", "pH 9", "alkaline", "structure"],
+      "keywords": [
+        "2-aminopropanoic acid",
+        "alanine",
+        "zwitterion",
+        "pH 9",
+        "alkaline",
+        "structure"
+      ],
       "question": "2-aminopropanoic acid exists as a zwitterion at pH 6.0. What is its structure at pH 9.0? Options: A H2NCH(CH3)COOH, B H2NCH(CH3)COO-, C H3N+CH(CH3)COOH, D H3N+CH(CH3)COO-.",
       "status": "ready",
       "answer": "B (H2NCH(CH3)COO-): at pH 9 the NH3+ loses H+ and the COOH is ionised.",
@@ -453,6 +872,10 @@
         "The NH3+ group loses a proton to become NH2.",
         "The COO- group is already ionised, so it stays as COO-.",
         "The species is H2NCH(CH3)COO-, option B."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-21.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-22.jpg"
       ]
     },
     {
@@ -460,7 +883,14 @@
       "no": "Q24(a)",
       "marks": 1,
       "topic": "IUPAC Naming of Amino Acids",
-      "keywords": ["isoleucine", "systematic name", "2-amino", "3-methylpentanoic acid", "IUPAC", "amino acid"],
+      "keywords": [
+        "isoleucine",
+        "systematic name",
+        "2-amino",
+        "3-methylpentanoic acid",
+        "IUPAC",
+        "amino acid"
+      ],
       "question": "What is the systematic name of isoleucine? A 2-amino-3-ethylbutanoic acid, B 2-amino-3-methylpentanoic acid, C 3-amino-2-ethylbutanoic acid, D 3-amino-2-methylpentanoic acid.",
       "status": "ready",
       "answer": "B: 2-amino-3-methylpentanoic acid.",
@@ -469,6 +899,10 @@
         "The COOH carbon is C1 and the NH2 group is on C2.",
         "The CH3 branch sits on C3, giving 3-methyl.",
         "Name: 2-amino-3-methylpentanoic acid, option B."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-22.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-23.jpg"
       ]
     },
     {
@@ -476,7 +910,14 @@
       "no": "Q24(b)",
       "marks": 1,
       "topic": "Amino Acid Ion at Low pH",
-      "keywords": ["isoleucine", "pH 2", "protonated amine", "cation", "structure", "acidic solution"],
+      "keywords": [
+        "isoleucine",
+        "pH 2",
+        "protonated amine",
+        "cation",
+        "structure",
+        "acidic solution"
+      ],
       "question": "What is the structure of isoleucine in a solution of pH 2?",
       "status": "ready",
       "answer": "CH3CH2CH(CH3)CH(NH3+)COOH, a cation with the amine protonated and the carboxylic acid un-ionised.",
@@ -485,6 +926,10 @@
         "The amine group accepts a proton, forming NH3+.",
         "The carboxylic acid is protonated, so it stays as COOH.",
         "The overall charge is +1, giving CH3CH2CH(CH3)CH(NH3+)COOH."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-22.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-23.jpg"
       ]
     },
     {
@@ -492,7 +937,14 @@
       "no": "Q25(a)",
       "marks": 1,
       "topic": "Diazotisation Conditions",
-      "keywords": ["azo dye", "phenylamine", "sodium nitrite", "hydrochloric acid", "5 C", "step 1"],
+      "keywords": [
+        "azo dye",
+        "phenylamine",
+        "sodium nitrite",
+        "hydrochloric acid",
+        "5 C",
+        "step 1"
+      ],
       "question": "What are the reagents and conditions for Step 1 in the preparation of an azo dye from phenylamine? A NaNO2 and HCl at 5 C, B NaNO3 and HCl at 5 C, C NaNO2 and HCl at 50 C, D NaNO3 and HCl at 50 C.",
       "status": "ready",
       "answer": "A: NaNO2 and HCl at 5 C.",
@@ -501,6 +953,11 @@
         "Nitrate (NaNO3) cannot form nitrous acid, so options B and D are wrong.",
         "The diazonium ion is unstable above about 5 C, so 50 C is wrong.",
         "Answer A."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-23.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-24.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-25.jpg"
       ]
     },
     {
@@ -508,18 +965,37 @@
       "no": "Q25(b)",
       "marks": 1,
       "topic": "Azo Coupling Reagent",
-      "keywords": ["azo dye", "Step 2", "coupling", "reagent", "condition", "diazonium"],
+      "keywords": [
+        "azo dye",
+        "Step 2",
+        "coupling",
+        "reagent",
+        "condition",
+        "diazonium"
+      ],
       "question": "Which reagent and condition are used for Step 2 in the azo dye scheme?",
       "status": "pending",
       "answer": "Needs the reaction scheme from the PDF to identify Step 2 reagents and conditions.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-23.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-24.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-25.jpg"
+      ]
     },
     {
       "id": "Ch19-Q26a",
       "no": "Q26(a)",
       "marks": 1,
       "topic": "Nitration Temperature",
-      "keywords": ["nitration", "nitrobenzene", "80 C", "dinitration", "temperature", "azo dye"],
+      "keywords": [
+        "nitration",
+        "nitrobenzene",
+        "80 C",
+        "dinitration",
+        "temperature",
+        "azo dye"
+      ],
       "question": "Step 1 uses concentrated nitric and sulfuric acids at 55 C. Why is the reaction not carried out at 80 C? A further substitution by a nitro group occurs, B nitrobenzene decomposes, C substitution by SO3H occurs, D the nitric acid decomposes.",
       "status": "ready",
       "answer": "A: higher temperature allows a further nitro group to substitute (dinitration).",
@@ -528,6 +1004,11 @@
         "A nitro group is deactivating, but at higher temperatures a second nitration still occurs.",
         "So a second nitro group is added to the ring at 80 C, giving dinitro compounds.",
         "Temperature control at 55 C keeps the product as mononitrobenzene: answer A."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-25.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-26.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-27.jpg"
       ]
     },
     {
@@ -535,7 +1016,14 @@
       "no": "Q26(b)",
       "marks": 1,
       "topic": "Reduction of Nitro Group",
-      "keywords": ["nitrobenzene", "tin", "concentrated hydrochloric acid", "sodium hydroxide", "phenylamine", "reduction"],
+      "keywords": [
+        "nitrobenzene",
+        "tin",
+        "concentrated hydrochloric acid",
+        "sodium hydroxide",
+        "phenylamine",
+        "reduction"
+      ],
       "question": "How is Step 2 carried out (reduction of nitrobenzene to phenylamine)? A Sn, concentrated HCl(aq) and NaOH(aq) added together, B Sn, dilute HCl(aq) and NaOH(aq) added together, C Sn and concentrated HCl(aq) added first, then NaOH(aq) at the end, D Sn and dilute HCl(aq) added first, then NaOH(aq) at the end.",
       "status": "ready",
       "answer": "C: Sn and concentrated HCl first, then NaOH added at the end.",
@@ -545,6 +1033,11 @@
         "NaOH is added only at the end to neutralise the acid and release free phenylamine.",
         "Adding NaOH first would stop the reduction, so options A and B are wrong.",
         "Answer C."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-25.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-26.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-27.jpg"
       ]
     },
     {
@@ -552,18 +1045,37 @@
       "no": "Q26(c)",
       "marks": 1,
       "topic": "Diazonium Intermediate",
-      "keywords": ["intermediate L", "sodium nitrite", "5 C", "diazonium salt", "benzenediazonium chloride", "structure"],
+      "keywords": [
+        "intermediate L",
+        "sodium nitrite",
+        "5 C",
+        "diazonium salt",
+        "benzenediazonium chloride",
+        "structure"
+      ],
       "question": "Step 3 uses sodium nitrite and dilute HCl at 5 C. Which is the structure of intermediate L? Options are structures in the PDF.",
       "status": "pending",
       "answer": "Needs the option structures from the PDF. Expected answer is benzenediazonium chloride, C6H5N2+ Cl-.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-25.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-26.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-27.jpg"
+      ]
     },
     {
       "id": "Ch19-Q26d",
       "no": "Q26(d)",
       "marks": 1,
       "topic": "Coupling Conditions with Phenol",
-      "keywords": ["phenol", "alkaline", "coupling", "azo dye", "phenoxide", "condition"],
+      "keywords": [
+        "phenol",
+        "alkaline",
+        "coupling",
+        "azo dye",
+        "phenoxide",
+        "condition"
+      ],
       "question": "The reactant in Step 4 is phenol. What condition is needed for this reaction? A acidic, B alkaline, C ethanolic, D neutral.",
       "status": "ready",
       "answer": "B (alkaline): phenol is converted to phenoxide ion, which couples with the diazonium ion.",
@@ -572,6 +1084,11 @@
         "In alkaline solution phenol is deprotonated to the phenoxide ion, which is much more reactive.",
         "Acidic or neutral conditions leave phenol unionised and coupling is slow.",
         "Answer B."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-25.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-26.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-27.jpg"
       ]
     },
     {
@@ -579,117 +1096,266 @@
       "no": "Q27(a)",
       "marks": 2,
       "topic": "Functional Groups in Benzocaine",
-      "keywords": ["benzocaine", "functional groups", "ester", "amine", "local anaesthetic", "caine"],
+      "keywords": [
+        "benzocaine",
+        "functional groups",
+        "ester",
+        "amine",
+        "local anaesthetic",
+        "caine"
+      ],
       "question": "Name the three functional groups present in benzocaine.",
       "status": "pending",
       "answer": "Needs the benzocaine structure from the PDF to name the groups (expected: ester, amine, benzene ring).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-27.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-28.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-29.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-30.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-31.jpg"
+      ]
     },
     {
       "id": "Ch19-Q27b(i)",
       "no": "Q27(b)(i)",
       "marks": 2,
       "topic": "Acid-Base Reaction of Procaine",
-      "keywords": ["procaine", "hydrochloric acid", "monohydrochloride", "equation", "molecular formula", "salt"],
+      "keywords": [
+        "procaine",
+        "hydrochloric acid",
+        "monohydrochloride",
+        "equation",
+        "molecular formula",
+        "salt"
+      ],
       "question": "Write an equation, using molecular formulae, for procaine reacting with hydrochloric acid to form a monohydrochloride salt.",
       "status": "pending",
       "answer": "Needs the molecular formula of procaine from the PDF structure.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-27.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-28.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-29.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-30.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-31.jpg"
+      ]
     },
     {
       "id": "Ch19-Q27b(ii)",
       "no": "Q27(b)(ii)",
       "marks": 2,
       "topic": "Protonation of Amine Nitrogen",
-      "keywords": ["procaine", "protonation", "nitrogen atoms", "basicity", "lone pair", "delocalised"],
+      "keywords": [
+        "procaine",
+        "protonation",
+        "nitrogen atoms",
+        "basicity",
+        "lone pair",
+        "delocalised"
+      ],
       "question": "Explain, by considering both nitrogen atoms in procaine, which is more likely to be protonated by HCl.",
       "status": "pending",
       "answer": "Needs the procaine structure from the PDF to identify the aromatic NH2 and the tertiary amine nitrogen.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-27.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-28.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-29.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-30.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-31.jpg"
+      ]
     },
     {
       "id": "Ch19-Q27c",
       "no": "Q27(c)",
       "marks": 1,
       "topic": "Hydrolysis Product",
-      "keywords": ["benzocaine", "procaine", "hydrolysis", "common product", "4-aminobenzoic acid", "ester"],
+      "keywords": [
+        "benzocaine",
+        "procaine",
+        "hydrolysis",
+        "common product",
+        "4-aminobenzoic acid",
+        "ester"
+      ],
       "question": "When benzocaine and procaine are hydrolysed, one product is the same in both reactions. Give its structure.",
       "status": "pending",
       "answer": "Needs both structures from the PDF to identify the shared hydrolysis product (expected 4-aminobenzoic acid).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-27.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-28.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-29.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-30.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-31.jpg"
+      ]
     },
     {
       "id": "Ch19-Q27d(i)",
       "no": "Q27(d)(i)",
       "marks": 4,
       "topic": "Electrophilic Nitration Mechanism",
-      "keywords": ["lidocaine", "mechanism", "nitration", "electrophile", "NO2+", "Step 1", "arenium ion"],
+      "keywords": [
+        "lidocaine",
+        "mechanism",
+        "nitration",
+        "electrophile",
+        "NO2+",
+        "Step 1",
+        "arenium ion"
+      ],
       "question": "Give the mechanism for Step 1 of the lidocaine synthesis, including an equation for formation of the electrophile.",
       "status": "pending",
       "answer": "Needs the Step 1 reactant and product from the PDF scheme to draw the mechanism with curly arrows.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-27.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-28.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-29.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-30.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-31.jpg"
+      ]
     },
     {
       "id": "Ch19-Q27d(ii)",
       "no": "Q27(d)(ii)",
       "marks": 2,
       "topic": "Side Products of Nitration",
-      "keywords": ["lidocaine", "side products", "nitration", "isomers", "2,6-dimethylnitrobenzene", "low yield"],
+      "keywords": [
+        "lidocaine",
+        "side products",
+        "nitration",
+        "isomers",
+        "2,6-dimethylnitrobenzene",
+        "low yield"
+      ],
       "question": "A low yield of 2,6-dimethylnitrobenzene forms in Step 1 due to additional organic products. Give possible structures for two of them.",
       "status": "pending",
       "answer": "Needs the Step 1 starting material structure from the PDF to draw the isomers.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-27.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-28.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-29.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-30.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-31.jpg"
+      ]
     },
     {
       "id": "Ch19-Q27d(iii)",
       "no": "Q27(d)(iii)",
       "marks": 1,
       "topic": "Reagents for Nitro Reduction",
-      "keywords": ["lidocaine", "Step 2", "reagents", "reduction", "tin", "nitro group"],
+      "keywords": [
+        "lidocaine",
+        "Step 2",
+        "reagents",
+        "reduction",
+        "tin",
+        "nitro group"
+      ],
       "question": "Give the reagents for Step 2 in the lidocaine synthesis.",
       "status": "pending",
       "answer": "Needs the Step 2 scheme from the PDF to confirm the transformation (expected tin with concentrated HCl).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-27.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-28.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-29.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-30.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-31.jpg"
+      ]
     },
     {
       "id": "Ch19-Q27d(iv)",
       "no": "Q27(d)(iv)",
       "marks": 1,
       "topic": "Reagent for Acylation",
-      "keywords": ["lidocaine", "Step 3", "skeletal formula", "reagent", "acyl chloride", "amide"],
+      "keywords": [
+        "lidocaine",
+        "Step 3",
+        "skeletal formula",
+        "reagent",
+        "acyl chloride",
+        "amide"
+      ],
       "question": "Deduce the skeletal formula of the reagent for Step 3 in the lidocaine synthesis.",
       "status": "pending",
       "answer": "Needs the Step 3 scheme from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-27.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-28.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-29.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-30.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-31.jpg"
+      ]
     },
     {
       "id": "Ch19-Q27d(v)",
       "no": "Q27(d)(v)",
       "marks": 1,
       "topic": "Type of Reaction in Step 4",
-      "keywords": ["lidocaine", "Step 4", "nucleophilic substitution", "mechanism", "reaction type", "amine"],
+      "keywords": [
+        "lidocaine",
+        "Step 4",
+        "nucleophilic substitution",
+        "mechanism",
+        "reaction type",
+        "amine"
+      ],
       "question": "State the type and mechanism of the reaction in Step 4 of the lidocaine synthesis.",
       "status": "pending",
       "answer": "Needs the Step 4 reactants from the PDF scheme.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-27.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-28.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-29.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-30.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-31.jpg"
+      ]
     },
     {
       "id": "Ch19-Q27e",
       "no": "Q27(e)",
       "marks": 1,
       "topic": "Chiral Centres",
-      "keywords": ["articaine", "chiral centre", "chiral molecule", "asymmetric carbon", "structure", "stereocentre"],
+      "keywords": [
+        "articaine",
+        "chiral centre",
+        "chiral molecule",
+        "asymmetric carbon",
+        "structure",
+        "stereocentre"
+      ],
       "question": "Indicate any chiral centres on the structure of articaine.",
       "status": "pending",
       "answer": "Needs the articaine structure from the PDF to mark the asymmetric carbon atoms.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-27.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-28.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-29.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-30.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-31.jpg"
+      ]
     },
     {
       "id": "Ch19-Q27f",
       "no": "Q27(f)",
       "marks": 3,
       "topic": "Half-Life Calculation",
-      "keywords": ["half-life", "articaine", "20 minutes", "first order", "decay", "micrograms", "4 hours"],
+      "keywords": [
+        "half-life",
+        "articaine",
+        "20 minutes",
+        "first order",
+        "decay",
+        "micrograms",
+        "4 hours"
+      ],
       "question": "Articaine has a half-life of 20 minutes. A 100 mg dose is given. Calculate the mass in micrograms remaining after 4 hours. Use 1 mg = 10^-3 g.",
       "status": "ready",
       "answer": "24.4 micrograms (about 2.44 x 10^-2 mg remains after 12 half-lives).",
@@ -698,6 +1364,13 @@
         "Number of half-lives = 240 / 20 = 12.",
         "Mass remaining = 100 mg x (1/2)^12 = 100 / 4096 = 0.02441 mg.",
         "Convert to micrograms: 0.02441 mg = 24.4 micrograms (1 microgram = 10^-6 g)."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-27.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-28.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-29.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-30.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-31.jpg"
       ]
     },
     {
@@ -705,40 +1378,80 @@
       "no": "Q28",
       "marks": 1,
       "topic": "Rf Value from Chromatogram",
-      "keywords": ["Rf value", "chromatogram", "amino acid", "thin-layer chromatography", "TLC", "spot X"],
+      "keywords": [
+        "Rf value",
+        "chromatogram",
+        "amino acid",
+        "thin-layer chromatography",
+        "TLC",
+        "spot X"
+      ],
       "question": "A protein was hydrolysed and analysed by thin-layer chromatography. What is the best estimate of the Rf value of amino acid X? Options 0.2, 0.4, 0.6, 0.8.",
       "status": "pending",
       "answer": "Needs the chromatogram from the PDF to measure the Rf of spot X.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-31.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-32.jpg"
+      ]
     },
     {
       "id": "Ch19-Q29",
       "no": "Q29",
       "marks": 1,
       "topic": "Secondary Amine Formation",
-      "keywords": ["secondary amine", "reaction", "alkyl halide", "amine", "ammonia", "options"],
+      "keywords": [
+        "secondary amine",
+        "reaction",
+        "alkyl halide",
+        "amine",
+        "ammonia",
+        "options"
+      ],
       "question": "Which reaction can form a secondary amine? The options are reaction schemes in the PDF.",
       "status": "pending",
       "answer": "Needs the reaction options from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-32.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-33.jpg"
+      ]
     },
     {
       "id": "Ch19-Q30",
       "no": "Q30",
       "marks": 1,
       "topic": "pH of Amino Acid Solutions",
-      "keywords": ["amino acid", "lowest pH", "0.05 mol dm-3", "acidic amino acid", "aspartic acid", "solution pH"],
+      "keywords": [
+        "amino acid",
+        "lowest pH",
+        "0.05 mol dm-3",
+        "acidic amino acid",
+        "aspartic acid",
+        "solution pH"
+      ],
       "question": "Four amino acids are dissolved to give separate 0.05 mol dm-3 solutions. Which gives the lowest pH? The amino acid options are shown in the PDF.",
       "status": "pending",
       "answer": "Needs the four amino acid structures from the PDF (the lowest pH expected for an acidic amino acid such as aspartic acid).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-33.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-34.jpg"
+      ]
     },
     {
       "id": "Ch19-Q31a(i)",
       "no": "Q31(a)(i)",
       "marks": 1,
       "topic": "Electron Configuration of Manganese",
-      "keywords": ["manganese", "electronic configuration", "Mn2+", "electrons in boxes", "3d5", "4s2"],
+      "keywords": [
+        "manganese",
+        "electronic configuration",
+        "Mn2+",
+        "electrons in boxes",
+        "3d5",
+        "4s2"
+      ],
       "question": "Complete the electronic configurations for a manganese atom and a manganese(II) ion, using electron-in-box notation.",
       "status": "ready",
       "answer": "Mn: 1s2 2s2 2p6 3s2 3p6 3d5 4s2; Mn2+: 1s2 2s2 2p6 3s2 3p6 3d5 (5 unpaired electrons in 3d).",
@@ -747,6 +1460,14 @@
         "In boxes: the five 3d orbitals each hold one electron (parallel spins), and 4s holds a pair.",
         "Mn2+ loses both 4s electrons first, leaving 3d5 with five unpaired electrons.",
         "The half-filled 3d5 sub-shell is especially stable."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-34.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-35.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-36.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-37.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-38.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg"
       ]
     },
     {
@@ -754,7 +1475,14 @@
       "no": "Q31(a)(ii)",
       "marks": 3,
       "topic": "Electrode Potentials and Electron Configuration",
-      "keywords": ["standard electrode potential", "Mn3+ Mn2+", "Fe3+ Fe2+", "half-filled", "3d5", "electron configuration"],
+      "keywords": [
+        "standard electrode potential",
+        "Mn3+ Mn2+",
+        "Fe3+ Fe2+",
+        "half-filled",
+        "3d5",
+        "electron configuration"
+      ],
       "question": "Explain, in terms of electron configurations, why the E value for the Mn2+/Mn3+ half-cell is much higher than that for the Fe2+/Fe3+ half-cell.",
       "status": "ready",
       "answer": "Mn2+ (3d5) is a stable half-filled sub-shell, so Mn3+ (3d4) is readily reduced to it. Fe3+ (3d5) is already stable and resists reduction, so the Fe3+/Fe2+ potential is lower.",
@@ -764,6 +1492,14 @@
         "Mn3+ is 3d4, so gaining one electron to reach 3d5 is favourable.",
         "Fe3+ is 3d5 (already stable), so it is less willing to gain an electron.",
         "Hence the Fe3+/Fe2+ potential is lower than the Mn3+/Mn2+ potential."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-34.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-35.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-36.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-37.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-38.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg"
       ]
     },
     {
@@ -771,7 +1507,15 @@
       "no": "Q31(b)(i)",
       "marks": 2,
       "topic": "Redox by Oxidation Numbers",
-      "keywords": ["MnO2", "HCl", "chlorine", "oxidation numbers", "redox", "reduction", "oxidation"],
+      "keywords": [
+        "MnO2",
+        "HCl",
+        "chlorine",
+        "oxidation numbers",
+        "redox",
+        "reduction",
+        "oxidation"
+      ],
       "question": "Chlorine is made by MnO2 + 4HCl to MnCl2 + Cl2 + 2H2O. Explain, in terms of oxidation numbers, why this is a redox reaction.",
       "status": "ready",
       "answer": "Mn falls from +4 to +2 (reduced); Cl rises from -1 to 0 (oxidised).",
@@ -780,6 +1524,14 @@
         "In MnCl2, Mn = +2, so Mn gains electrons and is reduced.",
         "In HCl, Cl = -1; in Cl2 the oxidation number is 0, so Cl loses electrons and is oxidised.",
         "A change in oxidation numbers of both species shows a redox reaction."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-34.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-35.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-36.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-37.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-38.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg"
       ]
     },
     {
@@ -787,7 +1539,15 @@
       "no": "Q31(b)(ii)",
       "marks": 2,
       "topic": "Titration-Free Concentration from Gas Volume",
-      "keywords": ["hydrogen peroxide", "concentration", "oxygen", "molar volume", "r.t.p.", "mol dm-3", "decomposition"],
+      "keywords": [
+        "hydrogen peroxide",
+        "concentration",
+        "oxygen",
+        "molar volume",
+        "r.t.p.",
+        "mol dm-3",
+        "decomposition"
+      ],
       "question": "100 cm3 of hydrogen peroxide solution decomposes to give 86.0 cm3 of oxygen at r.t.p. (molar volume 24.0 dm3 mol-1). Calculate the concentration in mol dm-3. Equation: 2H2O2 to 2H2O + O2.",
       "status": "ready",
       "answer": "0.0717 mol dm-3",
@@ -796,6 +1556,14 @@
         "From 2H2O2 to O2, moles of H2O2 = 2 x 3.58 x 10^-3 = 7.17 x 10^-3 mol.",
         "Volume of solution = 0.100 dm3.",
         "Concentration = 7.17 x 10^-3 / 0.100 = 0.0717 mol dm-3."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-34.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-35.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-36.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-37.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-38.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg"
       ]
     },
     {
@@ -803,7 +1571,14 @@
       "no": "Q31(c)",
       "marks": 1,
       "topic": "Disproportionation Ionic Equation",
-      "keywords": ["manganate(VI)", "disproportionation", "acidic solution", "MnO4-", "MnO2", "ionic equation"],
+      "keywords": [
+        "manganate(VI)",
+        "disproportionation",
+        "acidic solution",
+        "MnO4-",
+        "MnO2",
+        "ionic equation"
+      ],
       "question": "In acid, manganate(VI) ions disproportionate to manganate(VII) ions and manganese(IV) oxide. Write the ionic equation (state symbols not required).",
       "status": "ready",
       "answer": "3MnO4^2- + 4H+ to 2MnO4- + MnO2 + 2H2O",
@@ -812,6 +1587,14 @@
         "Oxidation: 2MnO4^2- to 2MnO4- + 2e-.",
         "Reduction: MnO4^2- + 4H+ + 2e- to MnO2 + 2H2O.",
         "Adding them gives 3MnO4^2- + 4H+ to 2MnO4- + MnO2 + 2H2O; charges (-2 each side) and atoms balance."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-34.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-35.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-36.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-37.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-38.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg"
       ]
     },
     {
@@ -819,18 +1602,41 @@
       "no": "Q31(d)",
       "marks": 3,
       "topic": "Autocatalysis and Catalysts",
-      "keywords": ["manganate(VII)", "ethanedioate", "autocatalysis", "manganese(II) catalyst", "rate graph", "catalysis"],
+      "keywords": [
+        "manganate(VII)",
+        "ethanedioate",
+        "autocatalysis",
+        "manganese(II) catalyst",
+        "rate graph",
+        "catalysis"
+      ],
       "question": "Explain, in terms of catalysis, why the two concentration-time graphs for the manganate(VII) and ethanedioate reaction have different shapes (Experiment 2 adds manganese(II) sulfate).",
       "status": "pending",
       "answer": "Needs the two concentration-time graphs from the PDF to confirm the shapes before explaining autocatalysis by Mn2+.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-34.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-35.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-36.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-37.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-38.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg"
+      ]
     },
     {
       "id": "Ch19-Q31e(i)",
       "no": "Q31(e)(i)",
       "marks": 3,
       "topic": "Excess Reagent Calculation",
-      "keywords": ["methylbenzene", "potassium manganate(VII)", "excess", "molar mass", "oxidation", "benzoic acid", "moles"],
+      "keywords": [
+        "methylbenzene",
+        "potassium manganate(VII)",
+        "excess",
+        "molar mass",
+        "oxidation",
+        "benzoic acid",
+        "moles"
+      ],
       "question": "1.73 g of methylbenzene (Mr 92) is heated with 7.00 g of KMnO4 (Mr 158) and excess KOH. Show that KMnO4 is in excess.",
       "status": "ready",
       "answer": "0.0443 mol KMnO4 is available but only 0.0376 mol is needed, so KMnO4 is in excess.",
@@ -840,6 +1646,14 @@
         "Oxidising CH3 to COO- takes 6 electrons per molecule, while each MnO4- to MnO2 takes 3, so 2 mol KMnO4 per mol methylbenzene.",
         "KMnO4 needed = 2 x 0.0188 = 0.0376 mol.",
         "0.0443 mol is more than 0.0376 mol, so KMnO4 is in excess."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-34.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-35.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-36.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-37.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-38.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg"
       ]
     },
     {
@@ -847,7 +1661,14 @@
       "no": "Q31(e)(ii)",
       "marks": 1,
       "topic": "Acidification of Benzoate",
-      "keywords": ["benzoate ion", "benzoic acid", "acidify", "dilute acid", "protonation", "conversion"],
+      "keywords": [
+        "benzoate ion",
+        "benzoic acid",
+        "acidify",
+        "dilute acid",
+        "protonation",
+        "conversion"
+      ],
       "question": "State how benzoate ions, C6H5COO-, can be converted into benzoic acid.",
       "status": "ready",
       "answer": "Acidify the solution with dilute acid such as HCl(aq) or H2SO4(aq): C6H5COO- + H+ to C6H5COOH.",
@@ -856,6 +1677,14 @@
         "Adding a dilute strong acid supplies H+ ions.",
         "The benzoate ion is protonated to form C6H5COOH.",
         "Benzoic acid is only slightly soluble in cold water, so it separates out as a solid."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-34.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-35.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-36.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-37.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-38.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg"
       ]
     },
     {
@@ -863,7 +1692,15 @@
       "no": "Q31(f)(i)",
       "marks": 2,
       "topic": "Alkaline Battery Half-Equations",
-      "keywords": ["alkaline battery", "zinc anode", "MnO2 cathode", "half-equation", "KOH", "Mn2O3", "ZnO"],
+      "keywords": [
+        "alkaline battery",
+        "zinc anode",
+        "MnO2 cathode",
+        "half-equation",
+        "KOH",
+        "Mn2O3",
+        "ZnO"
+      ],
       "question": "Write the half-equations for the anode (zinc alloy) and the cathode (manganese(IV) oxide) of an alkaline cell with KOH electrolyte.",
       "status": "ready",
       "answer": "Anode: Zn + 2OH- to ZnO + H2O + 2e-. Cathode: 2MnO2 + H2O + 2e- to Mn2O3 + 2OH-.",
@@ -873,6 +1710,14 @@
         "Cathode: Mn falls from +4 to +3 in Mn2O3, gaining one electron per Mn, so 2 electrons overall for 2 MnO2.",
         "2MnO2 + H2O + 2e- to Mn2O3 + 2OH- balances O, H and charge.",
         "Adding the half-equations gives Zn + 2MnO2 to ZnO + Mn2O3."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-34.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-35.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-36.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-37.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-38.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg"
       ]
     },
     {
@@ -880,18 +1725,40 @@
       "no": "Q31(f)(ii)",
       "marks": 1,
       "topic": "Standard Electrode Potential Calculation",
-      "keywords": ["standard electrode potential", "MnO2 Mn2O3", "Zn ZnO", "cell EMF", "-1.28 V", "calculation"],
+      "keywords": [
+        "standard electrode potential",
+        "MnO2 Mn2O3",
+        "Zn ZnO",
+        "cell EMF",
+        "-1.28 V",
+        "calculation"
+      ],
       "question": "The standard electrode potential for the Zn/ZnO half-cell is -1.28 V. Calculate the standard electrode potential for the MnO2/Mn2O3 half-cell.",
       "status": "pending",
       "answer": "Needs the overall cell EMF given in the PDF (not in the text) to calculate the MnO2/Mn2O3 potential.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-34.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-35.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-36.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-37.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-38.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg"
+      ]
     },
     {
       "id": "Ch19-Q32a(i)",
       "no": "Q32(a)(i)",
       "marks": 3,
       "topic": "Electrophilic Nitration of Phenol",
-      "keywords": ["phenol", "2-nitrophenol", "electrophilic substitution", "NO2+", "arenium ion", "mechanism"],
+      "keywords": [
+        "phenol",
+        "2-nitrophenol",
+        "electrophilic substitution",
+        "NO2+",
+        "arenium ion",
+        "mechanism"
+      ],
       "question": "Draw a mechanism for the reaction of phenol with dilute nitric acid to form 2-nitrophenol, assuming NO2+ is the electrophile.",
       "status": "ready",
       "answer": "NO2+ attacks the ring at the position ortho to OH, forming an arenium ion; H+ is lost to restore the aromatic ring.",
@@ -901,6 +1768,13 @@
         "The positive charge is delocalised over the ring and stabilised by the lone pair on the OH oxygen.",
         "A base (e.g. H2O or NO3-) removes H+ from the carbon bearing NO2.",
         "The C-H electrons return to the ring, restoring aromaticity and giving 2-nitrophenol."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-40.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-41.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-42.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-43.jpg"
       ]
     },
     {
@@ -908,7 +1782,15 @@
       "no": "Q32(a)(ii)",
       "marks": 2,
       "topic": "Activation by the OH Group",
-      "keywords": ["phenol", "benzene", "milder conditions", "activating group", "lone pair", "electron donation", "nitration"],
+      "keywords": [
+        "phenol",
+        "benzene",
+        "milder conditions",
+        "activating group",
+        "lone pair",
+        "electron donation",
+        "nitration"
+      ],
       "question": "Explain why phenol requires milder conditions for nitration than benzene, which needs concentrated HNO3 and H2SO4 at 60 C.",
       "status": "ready",
       "answer": "The O lone pair on the OH group donates electron density into the ring, activating it towards electrophilic attack, so milder conditions are enough.",
@@ -917,6 +1799,13 @@
         "This increases electron density in the ring, making it more nucleophilic.",
         "The ring is therefore more readily attacked by the weak electrophile NO2+.",
         "So dilute nitric acid at room temperature is sufficient, unlike benzene."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-40.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-41.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-42.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-43.jpg"
       ]
     },
     {
@@ -924,7 +1813,15 @@
       "no": "Q32(b)",
       "marks": 5,
       "topic": "Synthesis Without Grignard",
-      "keywords": ["synthesis", "bromomethylbenzene", "nitrile", "reduction", "amide", "N-phenylethylethanamide", "ethanoyl chloride"],
+      "keywords": [
+        "synthesis",
+        "bromomethylbenzene",
+        "nitrile",
+        "reduction",
+        "amide",
+        "N-phenylethylethanamide",
+        "ethanoyl chloride"
+      ],
       "question": "Devise a synthesis of N-phenylethylethanamide from (bromomethyl)benzene without a Grignard reagent, including reagents, conditions and intermediates. Interpreted as CH3CONHCH2CH2C6H5.",
       "status": "ready",
       "answer": "C6H5CH2Br to C6H5CH2CN (KCN, ethanol, reflux) to C6H5CH2CH2NH2 (LiAlH4, dry ether) to CH3CONHCH2CH2C6H5 (CH3COCl).",
@@ -934,6 +1831,13 @@
         "Step 3: react the primary amine with ethanoyl chloride, CH3COCl, at room temperature.",
         "This is nucleophilic addition-elimination, forming the amide CH3CONHCH2CH2C6H5 and HCl.",
         "Use a base or excess amine to neutralise the HCl formed."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-40.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-41.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-42.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-43.jpg"
       ]
     },
     {
@@ -941,7 +1845,14 @@
       "no": "Q32(c)(i)",
       "marks": 1,
       "topic": "Zwitterion of Phenylalanine",
-      "keywords": ["phenylalanine", "zwitterion", "NH3+", "COO-", "amino acid", "structure"],
+      "keywords": [
+        "phenylalanine",
+        "zwitterion",
+        "NH3+",
+        "COO-",
+        "amino acid",
+        "structure"
+      ],
       "question": "Complete the structure of the zwitterion of phenylalanine.",
       "status": "ready",
       "answer": "C6H5CH2CH(NH3+)COO-, with the COOH proton transferred to the NH2 group.",
@@ -950,6 +1861,13 @@
         "In the zwitterion, the acidic COOH loses its proton to the basic NH2.",
         "This gives NH3+ and COO-, with no overall charge.",
         "Zwitterion: C6H5CH2CH(NH3+)COO-."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-40.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-41.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-42.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-43.jpg"
       ]
     },
     {
@@ -957,7 +1875,14 @@
       "no": "Q32(c)(ii)",
       "marks": 1,
       "topic": "Dipeptide Formation",
-      "keywords": ["dipeptide", "phenylalanine", "peptide bond", "condensation", "amide link", "structure"],
+      "keywords": [
+        "dipeptide",
+        "phenylalanine",
+        "peptide bond",
+        "condensation",
+        "amide link",
+        "structure"
+      ],
       "question": "Draw the structure of the dipeptide formed from phenylalanine.",
       "status": "ready",
       "answer": "C6H5CH2CH(NH2)CONHCH(CH2C6H5)COOH (phenylalanylphenylalanine).",
@@ -966,6 +1891,13 @@
         "Water is eliminated (condensation).",
         "The C=O carbon of one residue bonds to the N of the other, giving -CO-NH-.",
         "The result is C6H5CH2CH(NH2)CONHCH(CH2C6H5)COOH."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-40.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-41.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-42.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-43.jpg"
       ]
     },
     {
@@ -973,7 +1905,13 @@
       "no": "Q32(c)(iii)",
       "marks": 1,
       "topic": "Molecular Formula of Aspartame",
-      "keywords": ["aspartame", "molecular formula", "molar mass 294", "C14H18N2O5", "atoms count"],
+      "keywords": [
+        "aspartame",
+        "molecular formula",
+        "molar mass 294",
+        "C14H18N2O5",
+        "atoms count"
+      ],
       "question": "Give the molecular formula of aspartame.",
       "status": "ready",
       "answer": "C14H18N2O5 (molar mass 294 g mol-1).",
@@ -982,6 +1920,13 @@
         "Check against the molar mass of 294 g mol-1 given later in the question.",
         "C: 14 x 12.0 = 168; H: 18 x 1.0 = 18; N: 2 x 14.0 = 28; O: 5 x 16.0 = 80.",
         "Total = 294, so the formula C14H18N2O5 is consistent."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-40.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-41.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-42.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-43.jpg"
       ]
     },
     {
@@ -989,29 +1934,64 @@
       "no": "Q32(c)(iv)",
       "marks": 1,
       "topic": "Chiral Carbons in Aspartame",
-      "keywords": ["aspartame", "chiral carbon", "circle", "asymmetric carbon", "stereocentre", "structure"],
+      "keywords": [
+        "aspartame",
+        "chiral carbon",
+        "circle",
+        "asymmetric carbon",
+        "stereocentre",
+        "structure"
+      ],
       "question": "Circle the two chiral carbon atoms in aspartame on the structure shown.",
       "status": "pending",
       "answer": "Needs the aspartame structure from the PDF to circle the two chiral (alpha) carbons.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-40.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-41.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-42.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-43.jpg"
+      ]
     },
     {
       "id": "Ch19-Q32c(v)",
       "no": "Q32(c)(v)",
       "marks": 3,
       "topic": "Hydrolysis Products of Aspartame",
-      "keywords": ["aspartame", "acid hydrolysis", "products", "aspartic acid", "phenylalanine", "methanol"],
+      "keywords": [
+        "aspartame",
+        "acid hydrolysis",
+        "products",
+        "aspartic acid",
+        "phenylalanine",
+        "methanol"
+      ],
       "question": "Aspartame is hydrolysed by hydrochloric acid in the stomach. Draw the structures of the three organic products of complete acid hydrolysis.",
       "status": "pending",
       "answer": "Needs the aspartame structure from the PDF. Expected products: aspartic acid, phenylalanine and methanol.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-40.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-41.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-42.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-43.jpg"
+      ]
     },
     {
       "id": "Ch19-Q32c(vi)",
       "no": "Q32(c)(vi)",
       "marks": 3,
       "topic": "Number of Molecules from Concentration",
-      "keywords": ["aspartame", "molecules", "mg per 100 cm3", "330 cm3", "Avogadro constant", "significant figures"],
+      "keywords": [
+        "aspartame",
+        "molecules",
+        "mg per 100 cm3",
+        "330 cm3",
+        "Avogadro constant",
+        "significant figures"
+      ],
       "question": "A fizzy drink contains 53 mg of aspartame per 100 cm3. Calculate the number of aspartame molecules in a 330 cm3 can. Molar mass 294 g mol-1; Avogadro constant 6.02 x 10^23 mol-1.",
       "status": "ready",
       "answer": "3.6 x 10^20 molecules",
@@ -1020,6 +2000,13 @@
         "Moles = 0.1749 / 294 = 5.95 x 10^-4 mol.",
         "Molecules = 5.95 x 10^-4 x 6.02 x 10^23 = 3.58 x 10^20.",
         "Limited by 2 significant figures (53 and 330), so the answer is 3.6 x 10^20 molecules."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-39.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-40.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-41.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-42.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-43.jpg"
       ]
     },
     {
@@ -1027,29 +2014,57 @@
       "no": "Q33",
       "marks": 1,
       "topic": "Polyamide Monomers",
-      "keywords": ["polyamide", "repeat unit", "monomers", "condensation", "amide link", "structure"],
+      "keywords": [
+        "polyamide",
+        "repeat unit",
+        "monomers",
+        "condensation",
+        "amide link",
+        "structure"
+      ],
       "question": "A polyamide has the repeat unit shown. Which monomers can form it? Options are in the PDF.",
       "status": "pending",
       "answer": "Needs the repeat unit and monomer options from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-43.jpg"
+      ]
     },
     {
       "id": "Ch19-Q34",
       "no": "Q34",
       "marks": 1,
       "topic": "Azo Dye Structure",
-      "keywords": ["azo dye", "compound X", "nitrous acid", "phenol", "coupling", "structure"],
+      "keywords": [
+        "azo dye",
+        "compound X",
+        "nitrous acid",
+        "phenol",
+        "coupling",
+        "structure"
+      ],
       "question": "Compound X reacts with excess nitrous acid, then couples with excess phenol to form an azo dye. What is the structure of the dye? Options are in the PDF.",
       "status": "pending",
       "answer": "Needs the structure of compound X and the dye options from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-44.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-45.jpg"
+      ]
     },
     {
       "id": "Ch19-Q35",
       "no": "Q35",
       "marks": 1,
       "topic": "Weakest Base",
-      "keywords": ["weakest base", "phenylamine", "ammonia", "butylamine", "ethylamine", "base strength"],
+      "keywords": [
+        "weakest base",
+        "phenylamine",
+        "ammonia",
+        "butylamine",
+        "ethylamine",
+        "base strength"
+      ],
       "question": "Which of these is the weakest base? A ammonia, B butylamine, C ethylamine, D phenylamine.",
       "status": "ready",
       "answer": "D (phenylamine).",
@@ -1057,6 +2072,10 @@
         "Alkylamines (butylamine, ethylamine) are stronger bases than ammonia, because alkyl groups donate electron density to N.",
         "In phenylamine the N lone pair is delocalised into the benzene ring, making it much less available to accept H+.",
         "So phenylamine is the weakest base."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-45.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-46.jpg"
       ]
     },
     {
@@ -1064,7 +2083,14 @@
       "no": "Q36(a)",
       "marks": 1,
       "topic": "Amino Acid Reaction with Alkali",
-      "keywords": ["glycine", "sodium hydroxide", "neutralisation", "carboxylic acid", "equation", "amino acid"],
+      "keywords": [
+        "glycine",
+        "sodium hydroxide",
+        "neutralisation",
+        "carboxylic acid",
+        "equation",
+        "amino acid"
+      ],
       "question": "Write the equation for the reaction of glycine with sodium hydroxide (state symbols not required).",
       "status": "ready",
       "answer": "H2NCH2COOH + NaOH to H2NCH2COONa + H2O",
@@ -1072,6 +2098,11 @@
         "The COOH group of glycine is acidic and is neutralised by NaOH.",
         "Products: the sodium salt of the carboxylate and water.",
         "The amine group is not affected by NaOH."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-46.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-47.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-48.jpg"
       ]
     },
     {
@@ -1079,7 +2110,15 @@
       "no": "Q36(b)",
       "marks": 2,
       "topic": "Acid-Base Titration Volume",
-      "keywords": ["lysine", "hydrochloric acid", "volume", "0.100 mol dm-3", "moles", "titration", "two amine groups"],
+      "keywords": [
+        "lysine",
+        "hydrochloric acid",
+        "volume",
+        "0.100 mol dm-3",
+        "moles",
+        "titration",
+        "two amine groups"
+      ],
       "question": "Calculate the volume, in cm3, of 0.100 mol dm-3 HCl that completely reacts with 1.825 g of lysine (Mr = 146).",
       "status": "ready",
       "answer": "250 cm3",
@@ -1088,6 +2127,11 @@
         "Lysine has two amine groups, each reacting with one H+, so 2 mol HCl per mol lysine.",
         "Moles of HCl = 2 x 0.0125 = 0.0250 mol.",
         "Volume = 0.0250 / 0.100 = 0.250 dm3 = 250 cm3."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-46.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-47.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-48.jpg"
       ]
     },
     {
@@ -1095,18 +2139,37 @@
       "no": "Q36(c)(i)",
       "marks": 2,
       "topic": "Enantiomers of Lysine",
-      "keywords": ["lysine", "enantiomers", "3D diagrams", "chiral centre", "optically active", "stereoisomer"],
+      "keywords": [
+        "lysine",
+        "enantiomers",
+        "3D diagrams",
+        "chiral centre",
+        "optically active",
+        "stereoisomer"
+      ],
       "question": "Draw three-dimensional diagrams of the two optically active enantiomers of lysine.",
       "status": "pending",
       "answer": "Needs the drawn 3D diagrams checked against the PDF; the two enantiomers are mirror images about the chiral alpha carbon.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-46.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-47.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-48.jpg"
+      ]
     },
     {
       "id": "Ch19-Q36c(ii)",
       "no": "Q36(c)(ii)",
       "marks": 2,
       "topic": "Distinguishing Enantiomers",
-      "keywords": ["enantiomers", "optical activity", "polarimetry", "plane-polarised light", "distinguish", "lysine"],
+      "keywords": [
+        "enantiomers",
+        "optical activity",
+        "polarimetry",
+        "plane-polarised light",
+        "distinguish",
+        "lysine"
+      ],
       "question": "Describe how the two optically active enantiomers of lysine could be distinguished (practical details not required).",
       "status": "ready",
       "answer": "Use polarimetry: each enantiomer rotates the plane of plane-polarised light by the same amount but in opposite directions.",
@@ -1114,6 +2177,11 @@
         "Pass plane-polarised light through a sample of each enantiomer in a polarimeter.",
         "One enantiomer rotates the plane clockwise (+) and the other anticlockwise (-).",
         "The rotation angles are equal in size and opposite in direction, so the two are distinguished by their sign of rotation."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-46.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-47.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-48.jpg"
       ]
     },
     {
@@ -1121,7 +2189,14 @@
       "no": "Q36(c)(iii)",
       "marks": 1,
       "topic": "Achiral Glycine",
-      "keywords": ["glycine", "enantiomers", "chiral centre", "CH2", "achiral", "no optical activity"],
+      "keywords": [
+        "glycine",
+        "enantiomers",
+        "chiral centre",
+        "CH2",
+        "achiral",
+        "no optical activity"
+      ],
       "question": "State why glycine does not exist as enantiomers.",
       "status": "ready",
       "answer": "Glycine has no chiral centre: its alpha carbon carries two H atoms, so the molecule is not asymmetric.",
@@ -1129,6 +2204,11 @@
         "A chiral centre needs four different groups attached to one carbon.",
         "The alpha carbon of glycine is CH2, with two identical H atoms.",
         "Its mirror image is superimposable on it, so there are no enantiomers."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-46.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-47.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-48.jpg"
       ]
     },
     {
@@ -1136,18 +2216,38 @@
       "no": "Q36(d)",
       "marks": 1,
       "topic": "Chromatogram Spots",
-      "keywords": ["chromatography", "Rf value", "glycine", "lysine", "spots", "chromatogram", "separation"],
+      "keywords": [
+        "chromatography",
+        "Rf value",
+        "glycine",
+        "lysine",
+        "spots",
+        "chromatogram",
+        "separation"
+      ],
       "question": "Draw spots on the chromatogram to show glycine (Rf 0.26) and lysine (Rf 0.14).",
       "status": "pending",
       "answer": "Needs the chromatogram from the PDF; glycine spot at Rf 0.26 and lysine spot at Rf 0.14 from the origin.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-46.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-47.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-48.jpg"
+      ]
     },
     {
       "id": "Ch19-Q36e",
       "no": "Q36(e)",
       "marks": 1,
       "topic": "Dipeptide Formation",
-      "keywords": ["dipeptide", "glycine", "lysine", "peptide bond", "structure", "different dipeptide"],
+      "keywords": [
+        "dipeptide",
+        "glycine",
+        "lysine",
+        "peptide bond",
+        "structure",
+        "different dipeptide"
+      ],
       "question": "Draw a different dipeptide of glycine and lysine from the one shown in the PDF.",
       "status": "ready",
       "answer": "Example: Gly-Lys, H2NCH2CONH-CH[(CH2)4NH2]COOH (or Lys-Gly if Gly-Lys is the one drawn).",
@@ -1156,6 +2256,11 @@
         "Glycine-lysine: the COOH of glycine links to the alpha NH2 of lysine.",
         "The alpha COOH of lysine is left free, and the side-chain NH2 is unchanged.",
         "A different dipeptide is the reverse order, lysine-glycine, if the drawn one is glycine-lysine."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-46.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-47.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-48.jpg"
       ]
     },
     {
@@ -1163,7 +2268,14 @@
       "no": "Q37",
       "marks": 1,
       "topic": "Trend in Base Strength",
-      "keywords": ["base strength", "phenylamine", "ammonia", "methylamine", "trend", "increasing strength"],
+      "keywords": [
+        "base strength",
+        "phenylamine",
+        "ammonia",
+        "methylamine",
+        "trend",
+        "increasing strength"
+      ],
       "question": "Identify the correct trend of increasing strength as a base. A C6H5NH2 < NH3 < CH3NH2, B C6H5NH2 < CH3NH2 < NH3, C NH3 < CH3NH2 < C6H5NH2, D NH3 < C6H5NH2 < CH3NH2.",
       "status": "ready",
       "answer": "A: C6H5NH2 < NH3 < CH3NH2.",
@@ -1171,6 +2283,10 @@
         "Methylamine is more basic than ammonia, because the CH3 group donates electrons to N.",
         "Phenylamine is the weakest, because its lone pair is delocalised into the ring.",
         "So increasing strength is C6H5NH2 < NH3 < CH3NH2, option A."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-48.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-49.jpg"
       ]
     },
     {
@@ -1178,40 +2294,79 @@
       "no": "Q38(a)",
       "marks": 1,
       "topic": "Making Benzenediazonium Ions",
-      "keywords": ["benzenediazonium", "azo dye", "preparation", "phenylamine", "nitrous acid", "reagents"],
+      "keywords": [
+        "benzenediazonium",
+        "azo dye",
+        "preparation",
+        "phenylamine",
+        "nitrous acid",
+        "reagents"
+      ],
       "question": "State the starting materials that can be used to make benzenediazonium ions. The options are shown in the PDF.",
       "status": "pending",
       "answer": "Needs the options from the PDF. Expected: phenylamine with NaNO2 and HCl at 5 C.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-49.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-50.jpg"
+      ]
     },
     {
       "id": "Ch19-Q38b",
       "no": "Q38(b)",
       "marks": 1,
       "topic": "Azo Dye from Phenol",
-      "keywords": ["azo dye", "phenol", "benzenediazonium", "coupling", "structure", "4-phenyldiazenylphenol"],
+      "keywords": [
+        "azo dye",
+        "phenol",
+        "benzenediazonium",
+        "coupling",
+        "structure",
+        "4-phenyldiazenylphenol"
+      ],
       "question": "Draw the structure of the azo dye formed when benzenediazonium ions react with phenol.",
       "status": "pending",
       "answer": "Needs the drawn answer checked against the PDF; expected 4-(phenyldiazenyl)phenol.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-49.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-50.jpg"
+      ]
     },
     {
       "id": "Ch19-Q39",
       "no": "Q39",
       "marks": 1,
       "topic": "Primary Aliphatic Amine Synthesis",
-      "keywords": ["primary aliphatic amine", "combination of reactants", "amine preparation", "reaction", "options"],
+      "keywords": [
+        "primary aliphatic amine",
+        "combination of reactants",
+        "amine preparation",
+        "reaction",
+        "options"
+      ],
       "question": "Which combination of reactants will produce a primary aliphatic amine as the product? The options are shown in the PDF.",
       "status": "pending",
       "answer": "Needs the reactant combinations from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-50.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-51.jpg"
+      ]
     },
     {
       "id": "Ch19-Q40",
       "no": "Q40",
       "marks": 1,
       "topic": "Making an Amide in One Step",
-      "keywords": ["ethanamide", "ethanoyl chloride", "ammonia", "amide", "single step", "acyl chloride"],
+      "keywords": [
+        "ethanamide",
+        "ethanoyl chloride",
+        "ammonia",
+        "amide",
+        "single step",
+        "acyl chloride"
+      ],
       "question": "Which equation shows the two compounds that react to produce ethanamide, CH3CONH2, in a single step? A CH4 + HCONH2, B CH3COOH + NH3, C CH3COCl + NH3, D CH3CHO + NH3.",
       "status": "ready",
       "answer": "C: CH3COCl + NH3 to CH3CONH2 + HCl.",
@@ -1220,6 +2375,9 @@
         "Ammonia attacks the C of C=O, and chloride is eliminated (addition-elimination), giving CH3CONH2 and HCl.",
         "Option B needs heating and forms a salt first, and option A and D are not balanced correctly.",
         "Answer C."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-51.jpg"
       ]
     },
     {
@@ -1227,29 +2385,58 @@
       "no": "Q41(a)",
       "marks": 1,
       "topic": "Aspartic Acid at High pH",
-      "keywords": ["aspartic acid", "pH 12", "ionic form", "amino acid", "structure", "alkaline"],
+      "keywords": [
+        "aspartic acid",
+        "pH 12",
+        "ionic form",
+        "amino acid",
+        "structure",
+        "alkaline"
+      ],
       "question": "Which form of aspartic acid is formed at pH 12? The options are structures in the PDF.",
       "status": "pending",
       "answer": "Needs the option structures from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-52.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-53.jpg"
+      ]
     },
     {
       "id": "Ch19-Q41b(i)",
       "no": "Q41(b)(i)",
       "marks": 1,
       "topic": "Dipeptide Structure",
-      "keywords": ["aspartic acid", "glutamine", "dipeptide", "correct structure", "peptide bond", "options"],
+      "keywords": [
+        "aspartic acid",
+        "glutamine",
+        "dipeptide",
+        "correct structure",
+        "peptide bond",
+        "options"
+      ],
       "question": "Which is a correct structure when aspartic acid forms a dipeptide with glutamine? Options are structures in the PDF.",
       "status": "pending",
       "answer": "Needs the structure options from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-52.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-53.jpg"
+      ]
     },
     {
       "id": "Ch19-Q41b(ii)",
       "no": "Q41(b)(ii)",
       "marks": 1,
       "topic": "Chiral Centres in Dipeptides",
-      "keywords": ["chiral centres", "dipeptide", "aspartic acid", "glutamine", "maximum number", "alpha carbon"],
+      "keywords": [
+        "chiral centres",
+        "dipeptide",
+        "aspartic acid",
+        "glutamine",
+        "maximum number",
+        "alpha carbon"
+      ],
       "question": "What is the maximum number of chiral centres in the dipeptides in (b)(i) formed from aspartic acid and glutamine? A 0, B 1, C 2, D 3.",
       "status": "ready",
       "answer": "C (2): one chiral alpha carbon in each residue.",
@@ -1258,6 +2445,10 @@
         "Each amino acid except glycine has a chiral alpha carbon: aspartic acid and glutamine each contribute one.",
         "The side chains (CH2COOH and CH2CH2CONH2) have no chiral carbons.",
         "The peptide link does not create a new chiral centre, so the maximum is 2."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-52.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-53.jpg"
       ]
     },
     {
@@ -1265,7 +2456,15 @@
       "no": "Q42(a)",
       "marks": 2,
       "topic": "Hydrogen Bonding of Butylamine to Water",
-      "keywords": ["butylamine", "water", "hydrogen bond", "lone pair", "dipole", "miscible", "diagram"],
+      "keywords": [
+        "butylamine",
+        "water",
+        "hydrogen bond",
+        "lone pair",
+        "dipole",
+        "miscible",
+        "diagram"
+      ],
       "question": "Butylamine is miscible with water. Draw a labelled diagram of one intermolecular interaction between butylamine and water, including lone pairs and dipoles.",
       "status": "ready",
       "answer": "A hydrogen bond between the N lone pair of butylamine (delta-) and an O-H hydrogen of water (delta+), drawn as a dotted line, with lone pairs and dipoles labelled.",
@@ -1274,6 +2473,11 @@
         "The O-H hydrogen of water is partially positive (delta+).",
         "Draw the N lone pair pointing towards the H of O-H (or the O lone pair of water to an N-H hydrogen of butylamine).",
         "Label the dipoles and lone pairs and show the hydrogen bond as a dotted line."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-53.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-54.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-55.jpg"
       ]
     },
     {
@@ -1281,7 +2485,14 @@
       "no": "Q42(b)",
       "marks": 2,
       "topic": "Exposure Limit in Molecules",
-      "keywords": ["butylamine", "exposure limit", "15 mg m-3", "molecules per cubic metre", "Avogadro", "molar mass"],
+      "keywords": [
+        "butylamine",
+        "exposure limit",
+        "15 mg m-3",
+        "molecules per cubic metre",
+        "Avogadro",
+        "molar mass"
+      ],
       "question": "The exposure limit for butylamine is 15 mg m-3. Calculate the maximum number of butylamine molecules allowed per cubic metre (L = 6.02 x 10^23 mol-1).",
       "status": "ready",
       "answer": "1.2 x 10^20 molecules per m3",
@@ -1290,6 +2501,11 @@
         "Mr of C4H9NH2 = (4 x 12.0) + (11 x 1.0) + 14.0 = 73.0 g mol-1.",
         "Moles per m3 = 0.015 / 73.0 = 2.05 x 10^-4 mol.",
         "Molecules = 2.05 x 10^-4 x 6.02 x 10^23 = 1.24 x 10^20, i.e. 1.2 x 10^20 to 2 significant figures."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-53.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-54.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-55.jpg"
       ]
     },
     {
@@ -1297,7 +2513,14 @@
       "no": "Q42(c)",
       "marks": 2,
       "topic": "Amide Formation from Acyl Chloride",
-      "keywords": ["butylamine", "ethanoyl chloride", "N-butylethanamide", "equation", "amide", "displayed formula"],
+      "keywords": [
+        "butylamine",
+        "ethanoyl chloride",
+        "N-butylethanamide",
+        "equation",
+        "amide",
+        "displayed formula"
+      ],
       "question": "Butylamine reacts with ethanoyl chloride to form N-butylethanamide. Write the equation using displayed formulae.",
       "status": "ready",
       "answer": "CH3CH2CH2CH2NH2 + CH3COCl to CH3CONHCH2CH2CH2CH3 + HCl (show displayed formulae in the answer).",
@@ -1306,6 +2529,11 @@
         "The Cl- leaves, and a proton is lost from N, giving the amide.",
         "Products: N-butylethanamide and hydrogen chloride.",
         "Write the displayed formulae for each species, with the N-H and C=O shown."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-53.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-54.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-55.jpg"
       ]
     },
     {
@@ -1313,7 +2541,15 @@
       "no": "Q42(d)",
       "marks": 3,
       "topic": "Basicity of Butylamine vs Ammonia",
-      "keywords": ["butylamine", "ammonia", "stronger base", "inductive effect", "alkyl group", "lone pair", "basicity"],
+      "keywords": [
+        "butylamine",
+        "ammonia",
+        "stronger base",
+        "inductive effect",
+        "alkyl group",
+        "lone pair",
+        "basicity"
+      ],
       "question": "Explain why butylamine is a stronger base than ammonia.",
       "status": "ready",
       "answer": "The butyl group is electron-donating (positive inductive effect), raising the electron density on N, so its lone pair accepts H+ more readily.",
@@ -1322,6 +2558,11 @@
         "This makes the N lone pair more available to accept a proton.",
         "The butylammonium ion is a weaker acid than NH4+, since the alkyl group stabilises the positive charge less favourably for losing H+.",
         "So the equilibrium C4H9NH2 + H2O to C4H9NH3+ + OH- lies further to the right than for NH3: butylamine is the stronger base."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-53.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-54.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-55.jpg"
       ]
     },
     {
@@ -1329,51 +2570,102 @@
       "no": "Q43",
       "marks": 1,
       "topic": "Dipeptide Hydrolysis Product",
-      "keywords": ["dipeptide", "C7H12N2O3", "chiral centre", "glycine", "hydrolysis", "amino acid structure"],
+      "keywords": [
+        "dipeptide",
+        "C7H12N2O3",
+        "chiral centre",
+        "glycine",
+        "hydrolysis",
+        "amino acid structure"
+      ],
       "question": "A dipeptide has molecular formula C7H12N2O3 and forms two amino acids on hydrolysis, one without a chiral centre. What is the structure of the other amino acid, which has a chiral centre? Options are structures in the PDF.",
       "status": "pending",
       "answer": "Needs the option structures from the PDF. Working suggests glycine plus C5H9NO2, which points to proton-type proline.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-55.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-56.jpg"
+      ]
     },
     {
       "id": "Ch19-Q44",
       "no": "Q44",
       "marks": 1,
       "topic": "Addition Polymerisation",
-      "keywords": ["addition polymer", "polymer structures", "X Y Z", "addition", "condensation", "classification"],
+      "keywords": [
+        "addition polymer",
+        "polymer structures",
+        "X Y Z",
+        "addition",
+        "condensation",
+        "classification"
+      ],
       "question": "Which of the synthetic polymers X, Y and Z are made by addition polymerisation? Formulae of X, Y and Z are shown in the PDF.",
       "status": "pending",
       "answer": "Needs the polymer formulae from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-56.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-57.jpg"
+      ]
     },
     {
       "id": "Ch19-Q45",
       "no": "Q45",
       "marks": 1,
       "topic": "Amino Acids in a Peptide",
-      "keywords": ["octapeptide", "amino acids", "peptide", "different types", "sequence", "peptide bonds"],
+      "keywords": [
+        "octapeptide",
+        "amino acids",
+        "peptide",
+        "different types",
+        "sequence",
+        "peptide bonds"
+      ],
       "question": "How many different types of amino acid have joined to form the octapeptide? Options: 4, 5, 6, 8.",
       "status": "pending",
       "answer": "Needs the octapeptide sequence from the PDF diagram.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-57.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-58.jpg"
+      ]
     },
     {
       "id": "Ch19-Q46",
       "no": "Q46",
       "marks": 1,
       "topic": "Functional Groups in Theobromine",
-      "keywords": ["theobromine", "functional groups", "alkyl", "amide", "amine", "ketone", "skeletal formula"],
+      "keywords": [
+        "theobromine",
+        "functional groups",
+        "alkyl",
+        "amide",
+        "amine",
+        "ketone",
+        "skeletal formula"
+      ],
       "question": "Which functional group listed is not present in theobromine? A alkyl, B amide, C amine, D ketone. The skeletal structure is in the PDF.",
       "status": "pending",
       "answer": "Needs the theobromine skeletal structure from the PDF to check each functional group.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-58.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-59.jpg"
+      ]
     },
     {
       "id": "Ch19-Q47a",
       "no": "Q47(a)",
       "marks": 1,
       "topic": "IUPAC Name of Serine",
-      "keywords": ["serine", "IUPAC name", "2-amino-3-hydroxypropanoic acid", "amino acid", "naming"],
+      "keywords": [
+        "serine",
+        "IUPAC name",
+        "2-amino-3-hydroxypropanoic acid",
+        "amino acid",
+        "naming"
+      ],
       "question": "What is the IUPAC name of serine? A 2-amino-2-carboxyethanol, B 2-amino-1-hydroxyethanoic acid, C 2-amino-1-hydroxypropanoic acid, D 2-amino-3-hydroxypropanoic acid.",
       "status": "ready",
       "answer": "D: 2-amino-3-hydroxypropanoic acid.",
@@ -1382,6 +2674,10 @@
         "The NH2 group is on C2, next to the COOH.",
         "The OH group is on C3, the CH2OH carbon.",
         "Answer D."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-59.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-60.jpg"
       ]
     },
     {
@@ -1389,29 +2685,58 @@
       "no": "Q47(b)",
       "marks": 1,
       "topic": "Serine with Sodium Hydroxide",
-      "keywords": ["serine", "sodium hydroxide", "organic product", "salt", "carboxylate", "neutralisation"],
+      "keywords": [
+        "serine",
+        "sodium hydroxide",
+        "organic product",
+        "salt",
+        "carboxylate",
+        "neutralisation"
+      ],
       "question": "Which is the organic product of the reaction between serine and sodium hydroxide solution? The options are structures in the PDF.",
       "status": "pending",
       "answer": "Needs the option structures from the PDF. Expected product: the sodium salt of serine with COO-Na+.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-59.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-60.jpg"
+      ]
     },
     {
       "id": "Ch19-Q48",
       "no": "Q48",
       "marks": 1,
       "topic": "Repeat Unit of Nylon 6-10",
-      "keywords": ["nylon 6-10", "repeat unit", "hexanediamine", "decanedioic acid", "polyamide", "options"],
+      "keywords": [
+        "nylon 6-10",
+        "repeat unit",
+        "hexanediamine",
+        "decanedioic acid",
+        "polyamide",
+        "options"
+      ],
       "question": "Nylon 6-10 is made from a six-carbon diamine and a ten-carbon dicarboxylic acid. Which is its repeat unit? Options are in the PDF.",
       "status": "pending",
       "answer": "Needs the repeat unit options from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-60.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-61.jpg"
+      ]
     },
     {
       "id": "Ch19-Q49a",
       "no": "Q49(a)",
       "marks": 1,
       "topic": "Formation of Nitrous Acid",
-      "keywords": ["nitrous acid", "sodium nitrite", "hydrochloric acid", "chrysoidine", "equation", "azo dye"],
+      "keywords": [
+        "nitrous acid",
+        "sodium nitrite",
+        "hydrochloric acid",
+        "chrysoidine",
+        "equation",
+        "azo dye"
+      ],
       "question": "Which equation shows the formation of nitrous acid from sodium nitrite? A NaNO2 + HCl to HNO2 + NaCl, B NaNO3 + HCl to HNO3 + NaCl, C NaNO3 + HCl to HNO2 + NaClO, D NaNO2 + HCl to HNO2 + Na + Cl2.",
       "status": "ready",
       "answer": "A: NaNO2 + HCl to HNO2 + NaCl.",
@@ -1420,6 +2745,11 @@
         "NaNO2 + HCl to HNO2 + NaCl is balanced: Na, N, O, H and Cl on both sides.",
         "Options B and C use nitrate, which gives HNO3 or the wrong product.",
         "Option D is not balanced and gives chlorine, which is incorrect. Answer A."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-61.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-62.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-63.jpg"
       ]
     },
     {
@@ -1427,150 +2757,316 @@
       "no": "Q49(b)",
       "marks": 1,
       "topic": "Benzenediazonium Structure",
-      "keywords": ["benzenediazonium ion", "phenylamine", "nitrous acid", "structure", "N2+", "chrysoidine"],
+      "keywords": [
+        "benzenediazonium ion",
+        "phenylamine",
+        "nitrous acid",
+        "structure",
+        "N2+",
+        "chrysoidine"
+      ],
       "question": "Which is the structure of the benzenediazonium ion formed from phenylamine and nitrous acid? Options are structures in the PDF.",
       "status": "pending",
       "answer": "Needs the option structures from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-61.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-62.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-63.jpg"
+      ]
     },
     {
       "id": "Ch19-Q49c",
       "no": "Q49(c)",
       "marks": 1,
       "topic": "Coupling Reactant for Chrysoidine",
-      "keywords": ["chrysoidine", "coupling reaction", "benzenediazonium", "reactant", "m-phenylenediamine", "azo dye"],
+      "keywords": [
+        "chrysoidine",
+        "coupling reaction",
+        "benzenediazonium",
+        "reactant",
+        "m-phenylenediamine",
+        "azo dye"
+      ],
       "question": "Which reactant is required for the coupling reaction with the benzenediazonium ion to form chrysoidine?",
       "status": "pending",
       "answer": "Needs the structure of chrysoidine from the PDF to name the coupling partner.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-61.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-62.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-63.jpg"
+      ]
     },
     {
       "id": "Ch19-Q50",
       "no": "Q50",
       "marks": 1,
       "topic": "Lysine Structure",
-      "keywords": ["lysine", "solid", "high pH", "zwitterion", "structure", "amino acid"],
+      "keywords": [
+        "lysine",
+        "solid",
+        "high pH",
+        "zwitterion",
+        "structure",
+        "amino acid"
+      ],
       "question": "Which shows the structure of lysine as a solid, and in solution at high pH? Options are structures in the PDF.",
       "status": "pending",
       "answer": "Needs the option structures from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-63.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-64.jpg"
+      ]
     },
     {
       "id": "Ch19-Q51",
       "no": "Q51",
       "marks": 1,
       "topic": "Polyamide Monomer Pair",
-      "keywords": ["polyamide", "monomers", "repeat unit", "diamine", "dicarboxylic acid", "nylon"],
+      "keywords": [
+        "polyamide",
+        "monomers",
+        "repeat unit",
+        "diamine",
+        "dicarboxylic acid",
+        "nylon"
+      ],
       "question": "A repeat unit for a polyamide is shown. Which pair of monomers makes this polymer? Options are in the PDF.",
       "status": "pending",
       "answer": "Needs the repeat unit diagram from the PDF to match the monomer pair.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-65.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-66.jpg"
+      ]
     },
     {
       "id": "Ch19-Q52a",
       "no": "Q52(a)",
       "marks": 1,
       "topic": "Optically Active Amino Acid",
-      "keywords": ["optically active", "amino acid", "chiral", "compounds W X Y Z", "NMR", "structures"],
+      "keywords": [
+        "optically active",
+        "amino acid",
+        "chiral",
+        "compounds W X Y Z",
+        "NMR",
+        "structures"
+      ],
       "question": "Four compounds W, X, Y and Z are shown. Which is an optically active amino acid?",
       "status": "pending",
       "answer": "Needs the structures of W, X, Y and Z from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-65.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-66.jpg"
+      ]
     },
     {
       "id": "Ch19-Q52b",
       "no": "Q52(b)",
       "marks": 1,
       "topic": "NMR Peak Counts",
-      "keywords": ["proton NMR", "13C NMR", "peaks", "compounds W X Y Z", "number of peaks", "symmetry"],
+      "keywords": [
+        "proton NMR",
+        "13C NMR",
+        "peaks",
+        "compounds W X Y Z",
+        "number of peaks",
+        "symmetry"
+      ],
       "question": "Which compound does not have the same number of peaks in the low-resolution proton NMR and the 13C NMR spectrum? Options: W, X, Y, Z.",
       "status": "pending",
       "answer": "Needs the structures of W, X, Y and Z from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-65.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-66.jpg"
+      ]
     },
     {
       "id": "Ch19-Q53a",
       "no": "Q53(a)",
       "marks": 1,
       "topic": "Molecular Formula of Procaine",
-      "keywords": ["procaine", "molecular formula", "local anaesthetic", "structure", "atoms count"],
+      "keywords": [
+        "procaine",
+        "molecular formula",
+        "local anaesthetic",
+        "structure",
+        "atoms count"
+      ],
       "question": "Deduce the molecular formula of procaine.",
       "status": "pending",
       "answer": "Needs the procaine structure from the PDF to count atoms.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-66.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-67.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-68.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-69.jpg"
+      ]
     },
     {
       "id": "Ch19-Q53b(i)",
       "no": "Q53(b)(i)",
       "marks": 2,
       "topic": "Reagents for Step 1",
-      "keywords": ["procaine synthesis", "Step 1", "reagents", "nitration", "benzene ring", "scheme"],
+      "keywords": [
+        "procaine synthesis",
+        "Step 1",
+        "reagents",
+        "nitration",
+        "benzene ring",
+        "scheme"
+      ],
       "question": "Identify, by name or formula, the two reagents needed for Step 1 of the procaine synthesis.",
       "status": "pending",
       "answer": "Needs the reaction scheme from the PDF to identify Step 1 reagents.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-66.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-67.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-68.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-69.jpg"
+      ]
     },
     {
       "id": "Ch19-Q53b(ii)",
       "no": "Q53(b)(ii)",
       "marks": 5,
       "topic": "Electrophilic Substitution Mechanism",
-      "keywords": ["procaine", "Step 2", "mechanism", "electrophile", "catalyst regeneration", "curly arrows"],
+      "keywords": [
+        "procaine",
+        "Step 2",
+        "mechanism",
+        "electrophile",
+        "catalyst regeneration",
+        "curly arrows"
+      ],
       "question": "For Step 2 of the procaine synthesis, draw the mechanism, including formation of a suitable electrophile and regeneration of the catalyst, with curly arrows.",
       "status": "pending",
       "answer": "Needs the Step 2 reactants from the PDF scheme to draw the mechanism.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-66.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-67.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-68.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-69.jpg"
+      ]
     },
     {
       "id": "Ch19-Q53b(iii)",
       "no": "Q53(b)(iii)",
       "marks": 2,
       "topic": "Type of Reaction in Step 5",
-      "keywords": ["procaine", "Step 5", "reaction type", "skeletal formula", "reagent", "acylation"],
+      "keywords": [
+        "procaine",
+        "Step 5",
+        "reaction type",
+        "skeletal formula",
+        "reagent",
+        "acylation"
+      ],
       "question": "For Step 5 of the procaine synthesis, name the type of reaction and draw the skeletal formula of the reagent.",
       "status": "pending",
       "answer": "Needs the Step 5 scheme from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-66.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-67.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-68.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-69.jpg"
+      ]
     },
     {
       "id": "Ch19-Q53b(iv)",
       "no": "Q53(b)(iv)",
       "marks": 1,
       "topic": "Reagents for Step 6",
-      "keywords": ["procaine", "Step 6", "reagents", "hydrolysis", "scheme", "by name or formula"],
+      "keywords": [
+        "procaine",
+        "Step 6",
+        "reagents",
+        "hydrolysis",
+        "scheme",
+        "by name or formula"
+      ],
       "question": "Identify, by name or formula, the reagents required for Step 6 of the procaine synthesis.",
       "status": "pending",
       "answer": "Needs the Step 6 scheme from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-66.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-67.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-68.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-69.jpg"
+      ]
     },
     {
       "id": "Ch19-Q53c(i)",
       "no": "Q53(c)(i)",
       "marks": 3,
       "topic": "Basicity of Nitrogen Atoms",
-      "keywords": ["procaine", "basicity", "nitrogen atoms", "lone pair", "delocalised", "aromatic amine", "tertiary amine"],
+      "keywords": [
+        "procaine",
+        "basicity",
+        "nitrogen atoms",
+        "lone pair",
+        "delocalised",
+        "aromatic amine",
+        "tertiary amine"
+      ],
       "question": "Explain why the two nitrogen atoms in procaine have different basicity.",
       "status": "pending",
       "answer": "Needs the procaine structure from the PDF to identify the aromatic NH2 and the diethylamino N.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-66.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-67.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-68.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-69.jpg"
+      ]
     },
     {
       "id": "Ch19-Q53c(ii)",
       "no": "Q53(c)(ii)",
       "marks": 1,
       "topic": "Structure of Procaine Hydrochloride",
-      "keywords": ["procaine hydrochloride", "1:1 ratio", "hydrogen ion", "structure", "protonation", "salt"],
+      "keywords": [
+        "procaine hydrochloride",
+        "1:1 ratio",
+        "hydrogen ion",
+        "structure",
+        "protonation",
+        "salt"
+      ],
       "question": "Draw the structure of procaine hydrochloride, showing how the hydrogen ion attaches to the molecule.",
       "status": "pending",
       "answer": "Needs the procaine structure from the PDF to show which N is protonated.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-66.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-67.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-68.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-69.jpg"
+      ]
     },
     {
       "id": "Ch19-Q53c(iii)",
       "no": "Q53(c)(iii)",
       "marks": 2,
       "topic": "Solubility of Salts",
-      "keywords": ["procaine hydrochloride", "solubility", "aqueous", "ionic salt", "ion-dipole", "blood plasma"],
+      "keywords": [
+        "procaine hydrochloride",
+        "solubility",
+        "aqueous",
+        "ionic salt",
+        "ion-dipole",
+        "blood plasma"
+      ],
       "question": "Explain why procaine hydrochloride is more soluble in aqueous solutions such as blood plasma than procaine.",
       "status": "ready",
       "answer": "Procaine hydrochloride is an ionic salt, so its ions form strong ion-dipole attractions with polar water molecules and dissolve more readily than neutral procaine.",
@@ -1579,6 +3075,12 @@
         "Ions are attracted to the partial charges of water molecules (ion-dipole attraction) and are hydrated.",
         "Neutral procaine interacts with water only through weaker dipole and hydrogen-bond interactions.",
         "So the hydrochloride dissolves more readily in aqueous blood plasma."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-66.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-67.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-68.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-69.jpg"
       ]
     },
     {
@@ -1586,7 +3088,15 @@
       "no": "Q53(d)",
       "marks": 3,
       "topic": "Number of Molecules in a Dose",
-      "keywords": ["lidocaine", "molecules", "44 mg", "2.2 cm3", "1.5 cm3", "234 g mol-1", "Avogadro"],
+      "keywords": [
+        "lidocaine",
+        "molecules",
+        "44 mg",
+        "2.2 cm3",
+        "1.5 cm3",
+        "234 g mol-1",
+        "Avogadro"
+      ],
       "question": "Lidocaine cartridges are 2.2 cm3 and contain 44 mg. Calculate the number of lidocaine molecules in a 1.5 cm3 dose (molar mass 234 g mol-1).",
       "status": "ready",
       "answer": "7.7 x 10^19 molecules",
@@ -1595,6 +3105,12 @@
         "Moles = 0.030 / 234 = 1.28 x 10^-4 mol.",
         "Molecules = 1.28 x 10^-4 x 6.02 x 10^23 = 7.7 x 10^19.",
         "Answer to 2 significant figures: 7.7 x 10^19 molecules."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-66.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-67.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-68.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-69.jpg"
       ]
     },
     {
@@ -1602,7 +3118,14 @@
       "no": "Q54(a)",
       "marks": 1,
       "topic": "Reagents for Benzenediazonium Ion",
-      "keywords": ["benzenediazonium ion", "aniline", "sodium nitrite", "hydrochloric acid", "reagents", "C6H5NH2"],
+      "keywords": [
+        "benzenediazonium ion",
+        "aniline",
+        "sodium nitrite",
+        "hydrochloric acid",
+        "reagents",
+        "C6H5NH2"
+      ],
       "question": "Which reagents are mixed with hydrochloric acid to produce the benzenediazonium ion? A C6H5NH2 and NaNO2, B C6H5NO2 and NaNO2, C C6H5NO2 and NaNO3, D C6H5NH2 and NaNO3.",
       "status": "ready",
       "answer": "A: C6H5NH2 (phenylamine) and NaNO2.",
@@ -1611,6 +3134,10 @@
         "Sodium nitrite with HCl forms nitrous acid in situ, which diazotises the amine.",
         "Nitrobenzene (C6H5NO2) is not an amine, and nitrate (NaNO3) cannot form nitrous acid.",
         "Answer A."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-70.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-71.jpg"
       ]
     },
     {
@@ -1618,7 +3145,14 @@
       "no": "Q54(b)",
       "marks": 1,
       "topic": "Coupling Conditions for Azo Dye",
-      "keywords": ["4-phenyldiazenylphenol", "yellow dye", "phenol", "alkaline solution", "5 C", "coupling"],
+      "keywords": [
+        "4-phenyldiazenylphenol",
+        "yellow dye",
+        "phenol",
+        "alkaline solution",
+        "5 C",
+        "coupling"
+      ],
       "question": "Which reagents and conditions prepare the yellow dye 4-phenyldiazenylphenol from benzenediazonium ion? A phenol in acid at 25 C, B phenol in alkaline at 25 C, C phenol in acid at 5 C, D phenol in alkaline at 5 C.",
       "status": "ready",
       "answer": "D: phenol dissolved in alkaline solution at 5 C.",
@@ -1627,6 +3161,10 @@
         "Acidic conditions leave phenol unionised, so coupling is slow.",
         "The diazonium ion is kept cold (about 5 C) to avoid decomposition.",
         "Answer D."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-70.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-71.jpg"
       ]
     },
     {
@@ -1634,18 +3172,36 @@
       "no": "Q55",
       "marks": 1,
       "topic": "Repeat Unit of Poly(ethenol)",
-      "keywords": ["poly(ethenol)", "poly(vinyl alcohol)", "repeat unit", "water-soluble", "polymer", "options"],
+      "keywords": [
+        "poly(ethenol)",
+        "poly(vinyl alcohol)",
+        "repeat unit",
+        "water-soluble",
+        "polymer",
+        "options"
+      ],
       "question": "What is the repeat unit of the water-soluble polymer poly(ethenol)? Options are structures in the PDF.",
       "status": "pending",
       "answer": "Needs the option structures from the PDF. Expected repeat unit: -CH2-CH(OH)-.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-70.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-71.jpg"
+      ]
     },
     {
       "id": "Ch19-Q56a(i)",
       "no": "Q56(a)(i)",
       "marks": 1,
       "topic": "Structure of Trimethylamine",
-      "keywords": ["trimethylamine", "C3H9N", "skeletal structure", "N(CH3)3", "amine", "lone pair"],
+      "keywords": [
+        "trimethylamine",
+        "C3H9N",
+        "skeletal structure",
+        "N(CH3)3",
+        "amine",
+        "lone pair"
+      ],
       "question": "Draw the skeletal structure of trimethylamine, C3H9N.",
       "status": "ready",
       "answer": "(CH3)3N: a central N atom bonded to three CH3 groups, with one lone pair on N.",
@@ -1654,6 +3210,12 @@
         "All three CH3 groups are bonded to a single N atom.",
         "N has a lone pair, so it has three bonds plus one lone pair (trigonal pyramidal).",
         "Draw the N with three lines to C atoms and the lone pair shown."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-71.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-72.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-73.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-74.jpg"
       ]
     },
     {
@@ -1661,7 +3223,13 @@
       "no": "Q56(a)(ii)",
       "marks": 1,
       "topic": "Classifying Trimethylamine",
-      "keywords": ["trimethylamine", "tertiary amine", "amine class", "alkyl groups", "classification"],
+      "keywords": [
+        "trimethylamine",
+        "tertiary amine",
+        "amine class",
+        "alkyl groups",
+        "classification"
+      ],
       "question": "Identify the class of amine to which trimethylamine belongs.",
       "status": "ready",
       "answer": "Tertiary amine: the N is bonded to three alkyl groups.",
@@ -1669,6 +3237,12 @@
         "Primary amines have one alkyl group on N, secondary have two, tertiary have three.",
         "Trimethylamine has three CH3 groups bonded to N.",
         "So it is a tertiary amine."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-71.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-72.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-73.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-74.jpg"
       ]
     },
     {
@@ -1676,7 +3250,15 @@
       "no": "Q56(a)(iii)",
       "marks": 2,
       "topic": "Hydrogen Bonding to Water",
-      "keywords": ["trimethylamine", "solubility", "water", "hydrogen bond", "lone pair", "dipoles", "diagram"],
+      "keywords": [
+        "trimethylamine",
+        "solubility",
+        "water",
+        "hydrogen bond",
+        "lone pair",
+        "dipoles",
+        "diagram"
+      ],
       "question": "Trimethylamine is a gas at room temperature but readily dissolves in water. Draw a diagram of the intermolecular force that leads to its solubility, including dipoles and lone pairs.",
       "status": "ready",
       "answer": "Hydrogen bonding between the lone pair on N of trimethylamine (delta-) and an O-H hydrogen of water (delta+), shown as a dotted line.",
@@ -1685,6 +3267,12 @@
         "The H atoms of water are partially positive (delta+) because O-H bonds are polar.",
         "Draw the N lone pair pointing to the H of an O-H group of water with a dotted hydrogen bond line.",
         "Show dipoles on N-H, O-H and the lone pairs, labelled delta- and delta+."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-71.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-72.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-73.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-74.jpg"
       ]
     },
     {
@@ -1692,7 +3280,14 @@
       "no": "Q56(a)(iv)",
       "marks": 1,
       "topic": "Trimethylamine as a Base",
-      "keywords": ["trimethylamine", "alkaline", "ionic equation", "base", "proton acceptor", "water"],
+      "keywords": [
+        "trimethylamine",
+        "alkaline",
+        "ionic equation",
+        "base",
+        "proton acceptor",
+        "water"
+      ],
       "question": "Write an ionic equation to show how trimethylamine acts as a base in aqueous solution (state symbols not required).",
       "status": "ready",
       "answer": "(CH3)3N + H2O to (CH3)3NH+ + OH-",
@@ -1700,6 +3295,12 @@
         "Trimethylamine accepts a proton from water using its N lone pair.",
         "Water loses H+ and forms OH- ions.",
         "This produces the alkaline solution: (CH3)3N + H2O to (CH3)3NH+ + OH-."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-71.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-72.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-73.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-74.jpg"
       ]
     },
     {
@@ -1707,7 +3308,14 @@
       "no": "Q56(b)",
       "marks": 2,
       "topic": "Mass from Concentration and Volume",
-      "keywords": ["trimethylamine N-oxide", "concentration", "blood volume", "mass", "mol dm-3", "C3H9NO"],
+      "keywords": [
+        "trimethylamine N-oxide",
+        "concentration",
+        "blood volume",
+        "mass",
+        "mol dm-3",
+        "C3H9NO"
+      ],
       "question": "Trimethylamine N-oxide (C3H9NO) has a concentration of 3.90 x 10^-6 mol dm-3 in blood. An adult has 5.00 dm3 of blood. Calculate the mass in grams of trimethylamine N-oxide in the blood.",
       "status": "ready",
       "answer": "1.46 x 10^-3 g",
@@ -1716,6 +3324,12 @@
         "Mr of C3H9NO = (3 x 12.0) + (9 x 1.0) + 14.0 + 16.0 = 75.0 g mol-1.",
         "Mass = 1.95 x 10^-5 x 75.0 = 1.46 x 10^-3 g.",
         "Three significant figures, as in the data."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-71.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-72.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-73.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-74.jpg"
       ]
     },
     {
@@ -1723,7 +3337,14 @@
       "no": "Q56(c)(i)",
       "marks": 2,
       "topic": "Separation by Gas Chromatography",
-      "keywords": ["gas chromatography", "separation", "mobile phase", "stationary phase", "retention time", "volatility"],
+      "keywords": [
+        "gas chromatography",
+        "separation",
+        "mobile phase",
+        "stationary phase",
+        "retention time",
+        "volatility"
+      ],
       "question": "Briefly describe how trimethylamine is separated from other chemicals in an air sample by gas chromatography.",
       "status": "ready",
       "answer": "The sample is vaporised and carried by an inert gas through a column with a stationary liquid phase; components partition between the two phases and separate by their different affinities and volatilities.",
@@ -1732,6 +3353,12 @@
         "Components distribute between the gas phase and the stationary liquid phase coating the column.",
         "Compounds with weaker interaction with the stationary phase, or higher volatility, move faster.",
         "Each component elutes at a characteristic retention time, so trimethylamine is separated from the others."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-71.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-72.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-73.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-74.jpg"
       ]
     },
     {
@@ -1739,7 +3366,14 @@
       "no": "Q56(c)(ii)",
       "marks": 1,
       "topic": "Chromatogram Axis Label",
-      "keywords": ["HPLC", "chromatogram", "x-axis", "retention time", "label", "trimethylamine N-oxide"],
+      "keywords": [
+        "HPLC",
+        "chromatogram",
+        "x-axis",
+        "retention time",
+        "label",
+        "trimethylamine N-oxide"
+      ],
       "question": "Label the x-axis on the HPLC chromatogram used to measure trimethylamine and trimethylamine N-oxide.",
       "status": "ready",
       "answer": "Retention time (min).",
@@ -1747,6 +3381,12 @@
         "In a chromatogram the x-axis shows the time each compound takes to elute (retention time).",
         "The unit is minutes.",
         "The y-axis shows the detector response (peak height)."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-71.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-72.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-73.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-74.jpg"
       ]
     },
     {
@@ -1754,13 +3394,26 @@
       "no": "Q56(c)(iii)",
       "marks": 1,
       "topic": "Identifying Peaks by Mass Spectrometry",
-      "keywords": ["identify peak", "chromatography", "mass spectrometry", "GC-MS", "LC-MS", "compound identification"],
+      "keywords": [
+        "identify peak",
+        "chromatography",
+        "mass spectrometry",
+        "GC-MS",
+        "LC-MS",
+        "compound identification"
+      ],
       "question": "Name the analytical technique that can be used with either GC or HPLC to identify the compound responsible for each peak.",
       "status": "ready",
       "answer": "Mass spectrometry (GC-MS or LC-MS).",
       "steps": [
         "Mass spectrometry measures the mass-to-charge ratio of ions from each separated compound.",
         "Coupling it to GC or HPLC (GC-MS or LC-MS) identifies the compound eluting at each retention time."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-71.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-72.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-73.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-74.jpg"
       ]
     },
     {
@@ -1768,29 +3421,58 @@
       "no": "Q57",
       "marks": 1,
       "topic": "Repeat Unit from Monomers",
-      "keywords": ["repeat unit", "polymer", "monomers", "condensation", "addition", "structure"],
+      "keywords": [
+        "repeat unit",
+        "polymer",
+        "monomers",
+        "condensation",
+        "addition",
+        "structure"
+      ],
       "question": "Which is the repeat unit of the polymer formed from the monomers shown? Options are in the PDF.",
       "status": "pending",
       "answer": "Needs the monomer structures and options from the PDF.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-74.jpg"
+      ]
     },
     {
       "id": "Ch19-Q58",
       "no": "Q58",
       "marks": 1,
       "topic": "Reagents for a Reduction",
-      "keywords": ["reagents", "conditions", "reaction shown", "reduction", "K2Cr2O7", "LiAlH4", "Sn HCl"],
+      "keywords": [
+        "reagents",
+        "conditions",
+        "reaction shown",
+        "reduction",
+        "K2Cr2O7",
+        "LiAlH4",
+        "Sn HCl"
+      ],
       "question": "Which are the reagents and conditions for the reaction shown? A K2Cr2O7 with H+ and reflux, B LiAlH4 in dry ether, C H2 gas at high temperature, D Sn, concentrated HCl and reflux.",
       "status": "pending",
       "answer": "Needs the reaction shown in the PDF to match the reagents.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-75.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-76.jpg"
+      ]
     },
     {
       "id": "Ch19-Q59",
       "no": "Q59",
       "marks": 1,
       "topic": "Product of Amine with Acyl Chloride",
-      "keywords": ["butylamine", "ethanoyl chloride", "product", "N-butylethanamide", "amide", "acylation"],
+      "keywords": [
+        "butylamine",
+        "ethanoyl chloride",
+        "product",
+        "N-butylethanamide",
+        "amide",
+        "acylation"
+      ],
       "question": "Which product forms when butylamine reacts with ethanoyl chloride? A ethanamide, B butanamide, C N-butylethanamide, D N-ethylbutanamide.",
       "status": "ready",
       "answer": "C: N-butylethanamide.",
@@ -1799,6 +3481,10 @@
         "Cl- is eliminated and the N-H proton is lost (addition-elimination).",
         "The butyl group stays on N and the ethanoyl group forms the C=O: CH3CONHC4H9.",
         "This is N-butylethanamide, option C."
+      ],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-75.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-76.jpg"
       ]
     },
     {
@@ -1806,11 +3492,22 @@
       "no": "Q60",
       "marks": 1,
       "topic": "pH for Amino Acid Structure",
-      "keywords": ["phenylalanine", "pH", "structure", "zwitterion", "isoelectric point", "options"],
+      "keywords": [
+        "phenylalanine",
+        "pH",
+        "structure",
+        "zwitterion",
+        "isoelectric point",
+        "options"
+      ],
       "question": "At what pH would phenylalanine have the structure shown? Options: pH 2, pH 6, pH 10, pH 14. The structure is shown in the PDF.",
       "status": "pending",
       "answer": "Needs the structure shown in the PDF to identify its charge state and the matching pH.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/19-Organic-Nitrogen-75.jpg",
+        "papers/chemistry/img/19-Organic-Nitrogen-76.jpg"
+      ]
     }
   ]
 }

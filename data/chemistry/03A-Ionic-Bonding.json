@@ -1,5 +1,5 @@
 {
-  "code": "03A",
+  "code": "Ch3A",
   "title": "Ionic bonding",
   "unit": "AS Unit 1",
   "pdf": "papers/chemistry/03A-Ionic-Bonding.pdf",
@@ -9,7 +9,15 @@
       "no": "Q1",
       "marks": 1,
       "topic": "Ionic Radius Comparison",
-      "keywords": ["ionic radius", "Al3+", "N3-", "protons", "electrons", "isoelectronic", "nuclear charge"],
+      "keywords": [
+        "ionic radius",
+        "Al3+",
+        "N3-",
+        "protons",
+        "electrons",
+        "isoelectronic",
+        "nuclear charge"
+      ],
       "question": "The ionic radius of Al3+ is smaller than that of N3-. This is because Al3+ has: A fewer protons but more electrons than N3-; B more protons but fewer electrons than N3-; C more protons than N3- but the same number of electrons as N3-; D the same number of protons as N3- but fewer electrons.",
       "status": "ready",
       "answer": "C (more protons, same 10 electrons)",
@@ -17,6 +25,9 @@
         "Al3+ has 13 protons and 10 electrons; N3- has 7 protons and 10 electrons.",
         "Both ions are isoelectronic (10 electrons), so the difference is nuclear charge.",
         "Al3+ has more protons, so it pulls its electrons in more strongly and has a smaller radius."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-01.jpg"
       ]
     },
     {
@@ -24,29 +35,54 @@
       "no": "Q2",
       "marks": 1,
       "topic": "Electron Density Map Of HCl",
-      "keywords": ["electron density map", "hydrogen chloride", "HCl", "diagram", "polar bond"],
+      "keywords": [
+        "electron density map",
+        "hydrogen chloride",
+        "HCl",
+        "diagram",
+        "polar bond"
+      ],
       "question": "Which diagram best represents the electron density map of a hydrogen chloride molecule? (The diagram options are not included in the extracted text.)",
       "status": "pending",
       "answer": "Needs the electron density map options, which are missing from the extracted text; the expected map is asymmetric with more density near Cl (check the PDF)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-01.jpg"
+      ]
     },
     {
       "id": "03A-Q3",
       "no": "Q3",
       "marks": 1,
       "topic": "Dot And Cross Diagram Magnesium Chloride",
-      "keywords": ["dot-and-cross", "magnesium chloride", "outer shell electrons", "ionic bonding", "MgCl2"],
+      "keywords": [
+        "dot-and-cross",
+        "magnesium chloride",
+        "outer shell electrons",
+        "ionic bonding",
+        "MgCl2"
+      ],
       "question": "Which is the dot-and-cross diagram for magnesium chloride, showing only outer shell electrons? (The diagram options are not included in the extracted text.)",
       "status": "pending",
       "answer": "Needs the dot-and-cross diagram options, which are missing from the extracted text; the correct diagram has Mg2+ with no electrons and two Cl- ions each with 8 electrons (check the PDF)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-01.jpg"
+      ]
     },
     {
       "id": "03A-Q4",
       "no": "Q4",
       "marks": 1,
       "topic": "Polarising Power",
-      "keywords": ["polarising power", "cation", "small radius", "high charge", "Mg2+", "greatest"],
+      "keywords": [
+        "polarising power",
+        "cation",
+        "small radius",
+        "high charge",
+        "Mg2+",
+        "greatest"
+      ],
       "question": "Which ion has the greatest polarising power? A Cl-, B Mg2+, C Na+, D S2-.",
       "status": "ready",
       "answer": "B (Mg2+)",
@@ -54,6 +90,10 @@
         "Polarising power is highest for a small, highly charged cation.",
         "Mg2+ is small (for a 2+ ion) and has a 2+ charge, giving high charge density.",
         "Cl- and S2- are anions, and Na+ is a smaller charge than Mg2+ with a larger radius."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-02.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-03.jpg"
       ]
     },
     {
@@ -61,7 +101,14 @@
       "no": "Q5",
       "marks": 1,
       "topic": "Strength Of Ionic Bonding",
-      "keywords": ["ionic bonding", "strongest", "sodium fluoride", "ionic radius", "lattice", "small ions"],
+      "keywords": [
+        "ionic bonding",
+        "strongest",
+        "sodium fluoride",
+        "ionic radius",
+        "lattice",
+        "small ions"
+      ],
       "question": "Some ionic radii are shown (not included in the extracted text). Which compound has the strongest ionic bonding? A sodium fluoride; B sodium chloride; C potassium fluoride; D potassium chloride.",
       "status": "ready",
       "answer": "A (sodium fluoride)",
@@ -69,6 +116,10 @@
         "Stronger ionic bonding comes from smaller ions with higher charge, giving a stronger attraction.",
         "Of these ions, Na+ and F- are the smallest, so NaF has the strongest attraction.",
         "Chloride and potassium ions are larger, giving weaker bonding."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-02.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-03.jpg"
       ]
     },
     {
@@ -76,13 +127,23 @@
       "no": "Q6",
       "marks": 1,
       "topic": "Isoelectronic Ions",
-      "keywords": ["isoelectronic", "Ca2+", "S2-", "same electrons", "ions", "electron count"],
+      "keywords": [
+        "isoelectronic",
+        "Ca2+",
+        "S2-",
+        "same electrons",
+        "ions",
+        "electron count"
+      ],
       "question": "In which pair are the ions isoelectronic? A Ca2+ and S2-; B K+ and Br-; C Li+ and F-; D Mg2+ and Cl-.",
       "status": "ready",
       "answer": "A (Ca2+ and S2-, both 18 electrons)",
       "steps": [
         "Ca2+ has 20 - 2 = 18 electrons; S2- has 16 + 2 = 18 electrons.",
         "K+ (18) and Br- (36) differ; Li+ (2) and F- (10) differ; Mg2+ (10) and Cl- (18) differ."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-03.jpg"
       ]
     },
     {
@@ -90,7 +151,14 @@
       "no": "Q7",
       "marks": 1,
       "topic": "Strongest Ionic Bonding Pair",
-      "keywords": ["strongest ionic bonding", "ion pair", "charge", "small ions", "lattice energy", "MgO"],
+      "keywords": [
+        "strongest ionic bonding",
+        "ion pair",
+        "charge",
+        "small ions",
+        "lattice energy",
+        "MgO"
+      ],
       "question": "Which pair of ions gives the strongest ionic bonding? A Na+ and F-; B K+ and Br-; C Mg2+ and O2-; D Ca2+ and S2-.",
       "status": "ready",
       "answer": "C (Mg2+ and O2-)",
@@ -98,6 +166,9 @@
         "Strongest ionic bonding needs high charges and small ions.",
         "Mg2+ and O2- both have high charges (2+ and 2-), and both are small ions.",
         "The other pairs have either lower charges or larger ions (for example Ca2+ and S2- are larger)."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-03.jpg"
       ]
     },
     {
@@ -105,7 +176,14 @@
       "no": "Q8",
       "marks": 1,
       "topic": "Properties Of Sodium Chloride",
-      "keywords": ["sodium chloride", "giant ionic lattice", "conducts electricity", "molten", "aqueous", "molecular structure"],
+      "keywords": [
+        "sodium chloride",
+        "giant ionic lattice",
+        "conducts electricity",
+        "molten",
+        "aqueous",
+        "molecular structure"
+      ],
       "question": "Which statement is not true for sodium chloride? A conducts electricity in aqueous solution; B conducts electricity when molten; C has a molecular structure; D has a giant structure.",
       "status": "ready",
       "answer": "C (sodium chloride has a molecular structure)",
@@ -113,6 +191,10 @@
         "Sodium chloride is an ionic compound with a giant ionic lattice, so D is true.",
         "Ions are free to move when molten or dissolved, so A and B are true.",
         "It does not have discrete molecules, so C is the false statement."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-04.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-05.jpg"
       ]
     },
     {
@@ -120,7 +202,14 @@
       "no": "Q9",
       "marks": 1,
       "topic": "Covalent Character",
-      "keywords": ["covalent character", "polarisation", "small cation", "large anion", "Li+ I-", "ionic compound"],
+      "keywords": [
+        "covalent character",
+        "polarisation",
+        "small cation",
+        "large anion",
+        "Li+ I-",
+        "ionic compound"
+      ],
       "question": "Which pair of ions will form the compound with the most covalent character? A Li+ and I-; B Na+ and Br-; C K+ and Cl-; D Rb+ and F-.",
       "status": "ready",
       "answer": "A (Li+ and I-)",
@@ -128,6 +217,10 @@
         "Covalent character increases when a small, highly charged cation polarises a large, easily distorted anion.",
         "Li+ is the smallest cation here, and I- is the largest and most polarisable anion.",
         "So Li+ and I- give the most covalent character."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-04.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-05.jpg"
       ]
     },
     {
@@ -135,7 +228,15 @@
       "no": "Q10",
       "marks": 1,
       "topic": "Smallest Ionic Radius",
-      "keywords": ["ionic radius", "smallest", "Al3+", "Ga3+", "Mg2+", "F-", "periodic trends"],
+      "keywords": [
+        "ionic radius",
+        "smallest",
+        "Al3+",
+        "Ga3+",
+        "Mg2+",
+        "F-",
+        "periodic trends"
+      ],
       "question": "Which of these ions has the smallest ionic radius? A Al3+; B Ga3+; C Mg2+; D F-.",
       "status": "ready",
       "answer": "A (Al3+)",
@@ -143,6 +244,10 @@
         "Al3+ has 10 electrons and 13 protons, giving a small radius (about 54 pm).",
         "Ga3+ has more electron shells (3d10 inner shell), so it is larger than Al3+.",
         "Mg2+ and F- have 10 electrons with lower nuclear charge, so they are larger than Al3+."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-04.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-05.jpg"
       ]
     },
     {
@@ -150,7 +255,15 @@
       "no": "Q11",
       "marks": 1,
       "topic": "Greatest Ionic Radius",
-      "keywords": ["ionic radius", "greatest", "N3-", "F-", "Na+", "Al3+", "isoelectronic"],
+      "keywords": [
+        "ionic radius",
+        "greatest",
+        "N3-",
+        "F-",
+        "Na+",
+        "Al3+",
+        "isoelectronic"
+      ],
       "question": "Which of these ions has the greatest ionic radius? A N3-; B F-; C Na+; D Al3+.",
       "status": "ready",
       "answer": "A (N3-)",
@@ -158,6 +271,10 @@
         "All four ions have 10 electrons (isoelectronic).",
         "Radius decreases as nuclear charge increases: N3- (7 protons) is the largest, then F-, Na+, Al3+.",
         "So N3- has the greatest radius."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-05.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-06.jpg"
       ]
     },
     {
@@ -165,7 +282,14 @@
       "no": "Q12",
       "marks": 1,
       "topic": "Electronic Configuration Of Anion",
-      "keywords": ["p-block", "Period 3", "ionic compound", "electronic configuration", "ion", "noble gas"],
+      "keywords": [
+        "p-block",
+        "Period 3",
+        "ionic compound",
+        "electronic configuration",
+        "ion",
+        "noble gas"
+      ],
       "question": "A p-block element in Period 3 reacts to form an ionic compound. What could be the electronic configuration of the ion formed? A 1s2 2s2 2p6 3s2; B 1s2 2s2 2p6 3s2 3p6; C 1s2 2s2 2p6 3s2 3p6 3d10; D 1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6.",
       "status": "ready",
       "answer": "B (1s2 2s2 2p6 3s2 3p6)",
@@ -173,6 +297,10 @@
         "A p-block Period 3 element (such as Cl or S) forms an anion by gaining electrons into 3p.",
         "Cl- or S2- gives 1s2 2s2 2p6 3s2 3p6.",
         "A is Mg2+ (s-block), and C and D involve 3d or 4p, which do not fit a Period 3 p-block ion."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-05.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-06.jpg"
       ]
     },
     {
@@ -180,7 +308,13 @@
       "no": "Q13",
       "marks": 1,
       "topic": "Polarisability Of Ions",
-      "keywords": ["polarisability", "most polarisable", "iodide", "large anion", "electron cloud"],
+      "keywords": [
+        "polarisability",
+        "most polarisable",
+        "iodide",
+        "large anion",
+        "electron cloud"
+      ],
       "question": "Which ion is the most polarisable? A Mg2+; B Ca2+; C Cl-; D I-.",
       "status": "ready",
       "answer": "D (I-)",
@@ -188,6 +322,10 @@
         "Polarisability is greatest for large anions with many electrons and a diffuse electron cloud.",
         "I- is the largest ion here, so its electron cloud is most easily distorted.",
         "The cations are small and highly charged, so they are least polarisable."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-05.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-06.jpg"
       ]
     },
     {
@@ -195,7 +333,15 @@
       "no": "Q14",
       "marks": 1,
       "topic": "Polarising Power Of Ions",
-      "keywords": ["polarising power", "greatest", "Ca2+", "S2-", "K+", "Cl-", "cation"],
+      "keywords": [
+        "polarising power",
+        "greatest",
+        "Ca2+",
+        "S2-",
+        "K+",
+        "Cl-",
+        "cation"
+      ],
       "question": "Which of these ions has the greatest polarising power? A S2-; B Cl-; C K+; D Ca2+.",
       "status": "ready",
       "answer": "D (Ca2+)",
@@ -203,6 +349,10 @@
         "Polarising power is a property of cations: small size and high charge.",
         "Ca2+ is a small 2+ ion, with higher charge density than K+.",
         "S2- and Cl- are anions and do not polarise other ions in this sense."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-06.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-07.jpg"
       ]
     },
     {
@@ -210,7 +360,14 @@
       "no": "Q15",
       "marks": 1,
       "topic": "Largest Radius Of Isoelectronic Ions",
-      "keywords": ["isoelectronic", "largest radius", "Na+", "Mg2+", "O2-", "F-"],
+      "keywords": [
+        "isoelectronic",
+        "largest radius",
+        "Na+",
+        "Mg2+",
+        "O2-",
+        "F-"
+      ],
       "question": "Which of these isoelectronic ions has the largest radius? A Na+; B Mg2+; C O2-; D F-.",
       "status": "ready",
       "answer": "C (O2-)",
@@ -219,6 +376,10 @@
         "Radius increases as the number of protons decreases, since nuclear attraction on the same 10 electrons is weaker.",
         "Protons: O2- 8, F- 9, Na+ 11, Mg2+ 12.",
         "O2- has the fewest protons, so it has the largest radius."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-06.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-07.jpg"
       ]
     },
     {
@@ -226,7 +387,13 @@
       "no": "Q16",
       "marks": 1,
       "topic": "Order Of Ionic Radii",
-      "keywords": ["decreasing ionic radius", "series", "N3- O2- F-", "isoelectronic", "nuclear charge"],
+      "keywords": [
+        "decreasing ionic radius",
+        "series",
+        "N3- O2- F-",
+        "isoelectronic",
+        "nuclear charge"
+      ],
       "question": "In which series are the ions in order of decreasing ionic radius? A Al3+ > Mg2+ > Na+; B Li+ > Na+ > K+; C N3- > O2- > F-; D O2- > S2- > Se2-.",
       "status": "ready",
       "answer": "C (N3- > O2- > F-)",
@@ -234,6 +401,10 @@
         "N3-, O2- and F- are isoelectronic (10 electrons), with 7, 8 and 9 protons.",
         "Radius decreases as nuclear charge increases, so N3- > O2- > F-.",
         "A and B are reversed, and D is in increasing radius down a group (S2- and Se2- are larger than O2-)."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-06.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-07.jpg"
       ]
     },
     {
@@ -241,7 +412,13 @@
       "no": "Q17",
       "marks": 1,
       "topic": "Polarisation Of Anions",
-      "keywords": ["anion", "easily polarised", "large radius", "large charge", "polarisation"],
+      "keywords": [
+        "anion",
+        "easily polarised",
+        "large radius",
+        "large charge",
+        "polarisation"
+      ],
       "question": "Which properties of an anion result in it being most easily polarised? A large radius and large charge; B large radius and small charge; C small radius and small charge; D small radius and large charge.",
       "status": "ready",
       "answer": "A (large radius and large charge)",
@@ -249,6 +426,9 @@
         "An anion is polarised when its electron cloud is distorted by a cation.",
         "A large radius means outer electrons are far from the nucleus and easily distorted.",
         "A large negative charge increases electron-electron repulsion, so the electron cloud is more easily distorted."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-07.jpg"
       ]
     },
     {
@@ -256,7 +436,15 @@
       "no": "Q18",
       "marks": 1,
       "topic": "Electrophoresis Of Copper Chromate",
-      "keywords": ["copper(II) chromate(VI)", "DC power supply", "filter paper", "ion migration", "electrophoresis", "chromate", "copper ion"],
+      "keywords": [
+        "copper(II) chromate(VI)",
+        "DC power supply",
+        "filter paper",
+        "ion migration",
+        "electrophoresis",
+        "chromate",
+        "copper ion"
+      ],
       "question": "A drop of aqueous copper(II) chromate(VI) is placed on damp filter paper connected to a DC supply. What is observed after a few minutes? A green colour moved to negative end; B green colour moved to positive end; C yellow colour moved to positive end and blue colour to negative end; D blue colour moved to positive end and yellow colour to negative end.",
       "status": "ready",
       "answer": "C (yellow chromate to positive end, blue Cu2+ to negative end)",
@@ -264,6 +452,9 @@
         "Copper(II) ions are positive (Cu2+) and move to the negative electrode, giving a blue colour there.",
         "Chromate(VI) ions are negative (CrO4 2-) and are yellow, so they move to the positive electrode.",
         "So the yellow colour moves to the positive end and the blue colour to the negative end (option C)."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-07.jpg"
       ]
     },
     {
@@ -271,13 +462,24 @@
       "no": "Q19(a)(i)",
       "marks": 1,
       "topic": "Third Ionisation Equation Barium",
-      "keywords": ["barium", "third ionisation energy", "Ba2+", "Ba3+", "state symbols", "equation"],
+      "keywords": [
+        "barium",
+        "third ionisation energy",
+        "Ba2+",
+        "Ba3+",
+        "state symbols",
+        "equation"
+      ],
       "question": "Write an equation, including state symbols, for the third ionisation energy of barium.",
       "status": "ready",
       "answer": "Ba2+(g) -> Ba3+(g) + e-",
       "steps": [
         "The third IE removes one electron from Ba2+(g).",
         "Products are Ba3+(g) and one electron, with gaseous species."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-08.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-09.jpg"
       ]
     },
     {
@@ -285,7 +487,13 @@
       "no": "Q19(a)(ii)",
       "marks": 1,
       "topic": "Evidence Of Group 2 From Ionisation Energies",
-      "keywords": ["barium", "Group 2", "ionisation energy graph", "large jump", "two outer electrons"],
+      "keywords": [
+        "barium",
+        "Group 2",
+        "ionisation energy graph",
+        "large jump",
+        "two outer electrons"
+      ],
       "question": "State how the graph of the first eight ionisation energies of barium confirms that barium is in Group 2.",
       "status": "ready",
       "answer": "There is a large jump in ionisation energy after the second electron is removed, showing barium has two outer electrons.",
@@ -293,6 +501,10 @@
         "The first two ionisation energies are relatively low.",
         "The third ionisation energy is much larger, because the next electron comes from a full inner shell.",
         "A large jump after 2 electrons confirms 2 outer electrons, so Group 2."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-08.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-09.jpg"
       ]
     },
     {
@@ -300,7 +512,14 @@
       "no": "Q19(b)(i)",
       "marks": 2,
       "topic": "Dot And Cross Barium Chloride",
-      "keywords": ["barium chloride", "dot-and-cross", "ionic bonding", "electron transfer", "outer electrons", "BaCl2"],
+      "keywords": [
+        "barium chloride",
+        "dot-and-cross",
+        "ionic bonding",
+        "electron transfer",
+        "outer electrons",
+        "BaCl2"
+      ],
       "question": "Draw a dot-and-cross diagram for barium chloride, showing outer electrons only.",
       "status": "ready",
       "answer": "Ba2+ with no outer electrons, and two Cl- ions each with a complete octet (8 electrons), with the two electrons from Ba transferred to the two Cl atoms.",
@@ -308,6 +527,10 @@
         "Barium (2 outer electrons) transfers both outer electrons, one to each chlorine.",
         "Ba becomes Ba2+ with no outer electrons, shown in square brackets with 2+ charge.",
         "Each Cl gains one electron and becomes Cl- with 8 outer electrons, shown in square brackets with a 1- charge."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-08.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-09.jpg"
       ]
     },
     {
@@ -315,7 +538,14 @@
       "no": "Q19(b)(ii)",
       "marks": 2,
       "topic": "Mass Of Barium Chloride From Concentration",
-      "keywords": ["barium chloride", "mass", "150 cm3", "0.200 mol dm-3", "moles", "molar mass"],
+      "keywords": [
+        "barium chloride",
+        "mass",
+        "150 cm3",
+        "0.200 mol dm-3",
+        "moles",
+        "molar mass"
+      ],
       "question": "Calculate the mass of barium chloride needed to form 150 cm3 of BaCl2(aq) with concentration 0.200 mol dm-3. Ar: Ba 137.3, Cl 35.5.",
       "status": "ready",
       "answer": "6.25 g",
@@ -323,6 +553,10 @@
         "Moles BaCl2 = 0.200 x 0.150 = 0.0300 mol.",
         "Mr(BaCl2) = 137.3 + 2 x 35.5 = 208.3.",
         "Mass = 0.0300 x 208.3 = 6.25 g (3 s.f.)."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-08.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-09.jpg"
       ]
     },
     {
@@ -330,7 +564,14 @@
       "no": "Q19(b)(iii)",
       "marks": 1,
       "topic": "Ionic Equation Carbonate And Acid",
-      "keywords": ["carbonate ions", "hydrochloric acid", "ionic equation", "carbon dioxide", "water", "acidified"],
+      "keywords": [
+        "carbonate ions",
+        "hydrochloric acid",
+        "ionic equation",
+        "carbon dioxide",
+        "water",
+        "acidified"
+      ],
       "question": "Write the ionic equation for the reaction of hydrochloric acid with carbonate ions. State symbols are not required.",
       "status": "ready",
       "answer": "CO3 2- + 2H+ -> CO2 + H2O",
@@ -338,6 +579,10 @@
         "Carbonate ions react with hydrogen ions from the acid.",
         "They form carbon dioxide and water.",
         "Charges balance: left 2- + 2+ = 0, and the products are neutral."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-08.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-09.jpg"
       ]
     },
     {
@@ -345,7 +590,13 @@
       "no": "Q19(c)",
       "marks": 1,
       "topic": "Non-Conduction Of Solid Ionic Compound",
-      "keywords": ["solid barium chloride", "does not conduct", "ions fixed", "lattice", "mobile charge carriers"],
+      "keywords": [
+        "solid barium chloride",
+        "does not conduct",
+        "ions fixed",
+        "lattice",
+        "mobile charge carriers"
+      ],
       "question": "Give a reason why solid barium chloride does not conduct electricity.",
       "status": "ready",
       "answer": "The ions are held in fixed positions in the lattice and cannot move to carry the charge.",
@@ -353,6 +604,10 @@
         "Electrical conduction needs charged particles that are free to move.",
         "In the solid, the Ba2+ and Cl- ions are fixed in a giant lattice.",
         "Ions only move when molten or dissolved."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-08.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-09.jpg"
       ]
     },
     {
@@ -360,7 +615,13 @@
       "no": "Q20",
       "marks": 1,
       "topic": "Polarising Power Of Cations",
-      "keywords": ["polarising power", "cation", "small radius", "large charge", "properties"],
+      "keywords": [
+        "polarising power",
+        "cation",
+        "small radius",
+        "large charge",
+        "properties"
+      ],
       "question": "Which properties of a cation result in the greatest polarising power? A large radius and large charge; B large radius and small charge; C small radius and small charge; D small radius and large charge.",
       "status": "ready",
       "answer": "D (small radius and large charge)",
@@ -368,6 +629,9 @@
         "Polarising power depends on charge density, charge divided by volume.",
         "A small radius and large charge gives the highest charge density.",
         "This maximises the distortion of the anion's electron cloud."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-09.jpg"
       ]
     },
     {
@@ -375,18 +639,36 @@
       "no": "Q21",
       "marks": 1,
       "topic": "Forces In Lithium Iodide Crystal",
-      "keywords": ["lithium iodide", "crystal", "forces", "ionic bonds", "intermolecular forces", "table"],
+      "keywords": [
+        "lithium iodide",
+        "crystal",
+        "forces",
+        "ionic bonds",
+        "intermolecular forces",
+        "table"
+      ],
       "question": "Which row in the table shows the correct forces in a crystal of lithium iodide? (The table is not included in the extracted text.)",
       "status": "pending",
       "answer": "Needs the table of forces, which is missing from the extracted text; the correct forces are strong electrostatic attraction between Li+ and I- ions (check the PDF)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-10.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-11.jpg"
+      ]
     },
     {
       "id": "03A-Q22",
       "no": "Q22",
       "marks": 1,
       "topic": "Smallest Ionic Radius Isoelectronic",
-      "keywords": ["isoelectronic", "smallest ionic radius", "Al3+", "N3-", "F-", "Na+"],
+      "keywords": [
+        "isoelectronic",
+        "smallest ionic radius",
+        "Al3+",
+        "N3-",
+        "F-",
+        "Na+"
+      ],
       "question": "Which of these isoelectronic ions has the smallest ionic radius? A N3-; B F-; C Na+; D Al3+.",
       "status": "ready",
       "answer": "D (Al3+)",
@@ -394,6 +676,10 @@
         "All four ions have 10 electrons.",
         "Radius falls as nuclear charge increases: N3- (7), F- (9), Na+ (11), Al3+ (13).",
         "Al3+ with 13 protons has the strongest attraction on its electrons, so it is smallest."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-10.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-11.jpg"
       ]
     },
     {
@@ -401,7 +687,15 @@
       "no": "Q23",
       "marks": 1,
       "topic": "Melting Temperature Of Ionic Compounds",
-      "keywords": ["melting temperature", "NaF", "NaCl", "KCl", "KF", "highest", "lattice energy"],
+      "keywords": [
+        "melting temperature",
+        "NaF",
+        "NaCl",
+        "KCl",
+        "KF",
+        "highest",
+        "lattice energy"
+      ],
       "question": "Which of these compounds would you expect to have the highest melting temperature? A NaCl; B NaF; C KCl; D KF.",
       "status": "ready",
       "answer": "B (NaF)",
@@ -409,6 +703,9 @@
         "Higher melting temperature needs stronger ionic lattice, so high charge and small ions.",
         "All four have 1+ and 1- ions, so the size of the ions decides.",
         "Na+ and F- are the smallest ions here, giving the strongest attraction and highest melting temperature."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-11.jpg"
       ]
     },
     {
@@ -416,7 +713,15 @@
       "no": "Q24(a)",
       "marks": 1,
       "topic": "Formula Of Ionic Compound",
-      "keywords": ["Group 2", "Group 7", "formula", "ionic compound", "X2+", "Y-", "XY2"],
+      "keywords": [
+        "Group 2",
+        "Group 7",
+        "formula",
+        "ionic compound",
+        "X2+",
+        "Y-",
+        "XY2"
+      ],
       "question": "Element X is in Group 2 and element Y is in Group 7. What is the formula of the compound formed? A XY; B X2Y; C XY2; D X2Y2.",
       "status": "ready",
       "answer": "C (XY2)",
@@ -424,6 +729,9 @@
         "X is in Group 2, so it forms X2+.",
         "Y is in Group 7, so it forms Y-.",
         "Two Y- ions balance one X2+ ion, giving XY2."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-11.jpg"
       ]
     },
     {
@@ -431,7 +739,14 @@
       "no": "Q24(b)",
       "marks": 1,
       "topic": "Electrical Conduction Of Ionic Compounds",
-      "keywords": ["conduct electricity", "ionic compound", "molten", "aqueous", "solid state", "ions free to move"],
+      "keywords": [
+        "conduct electricity",
+        "ionic compound",
+        "molten",
+        "aqueous",
+        "solid state",
+        "ions free to move"
+      ],
       "question": "Under what conditions does the compound formed from X and Y conduct electricity? A solid, liquid and aqueous; B solid and aqueous only; C solid and liquid only; D liquid and aqueous only.",
       "status": "ready",
       "answer": "D (liquid and aqueous solution only)",
@@ -439,6 +754,9 @@
         "Ionic compounds conduct when their ions are free to move.",
         "In the solid state the ions are fixed in a lattice, so no conduction.",
         "When molten or dissolved in water, the ions can move, so conduction occurs."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-11.jpg"
       ]
     },
     {
@@ -446,7 +764,15 @@
       "no": "Q25",
       "marks": 1,
       "topic": "Smallest Ionic Radius Of Ions",
-      "keywords": ["ionic radius", "smallest", "F-", "Mg2+", "Na+", "O2-", "isoelectronic"],
+      "keywords": [
+        "ionic radius",
+        "smallest",
+        "F-",
+        "Mg2+",
+        "Na+",
+        "O2-",
+        "isoelectronic"
+      ],
       "question": "Which has the smallest ionic radius? A F-; B Mg2+; C Na+; D O2-.",
       "status": "ready",
       "answer": "B (Mg2+)",
@@ -454,6 +780,10 @@
         "F-, Mg2+, Na+ and O2- all have 10 electrons (isoelectronic).",
         "Radius decreases as nuclear charge increases: O2- (8), F- (9), Na+ (11), Mg2+ (12).",
         "Mg2+ has the most protons, so it is the smallest."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-12.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-13.jpg"
       ]
     },
     {
@@ -461,7 +791,14 @@
       "no": "Q26",
       "marks": 1,
       "topic": "Electrolysis Of Copper Chromate Colours",
-      "keywords": ["copper(II) chromate(VI)", "direct current", "electrode colours", "negative electrode", "positive electrode", "migration"],
+      "keywords": [
+        "copper(II) chromate(VI)",
+        "direct current",
+        "electrode colours",
+        "negative electrode",
+        "positive electrode",
+        "migration"
+      ],
       "question": "A direct current is passed through a green solution of copper(II) chromate(VI). Which colours would be seen at each electrode after several minutes? (The options are not included in the extracted text.)",
       "status": "ready",
       "answer": "Blue at the negative electrode (Cu2+ ions); yellow at the positive electrode (chromate ions)",
@@ -469,6 +806,10 @@
         "Cu2+ ions are blue and positive, so they move towards the negative electrode.",
         "Chromate(VI) ions, CrO4 2-, are yellow and negative, so they move to the positive electrode.",
         "So blue collects at the negative electrode and yellow at the positive electrode."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-12.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-13.jpg"
       ]
     },
     {
@@ -476,7 +817,15 @@
       "no": "Q27",
       "marks": 1,
       "topic": "Smallest Number Of Ions In Solution",
-      "keywords": ["number of ions", "smallest", "moles", "Ca(NO3)2", "KI", "BaCl2", "(NH4)2SO4"],
+      "keywords": [
+        "number of ions",
+        "smallest",
+        "moles",
+        "Ca(NO3)2",
+        "KI",
+        "BaCl2",
+        "(NH4)2SO4"
+      ],
       "question": "Which solution contains the smallest number of ions? A 500 cm3 of 0.06 mol dm-3 Ca(NO3)2; B 500 cm3 of 0.09 mol dm-3 KI; C 250 cm3 of 0.12 mol dm-3 BaCl2; D 250 cm3 of 0.09 mol dm-3 (NH4)2SO4.",
       "status": "ready",
       "answer": "D (0.0675 mol of ions)",
@@ -485,6 +834,10 @@
         "B: 0.045 mol KI x 2 ions = 0.090 mol ions.",
         "C: 0.030 mol BaCl2 x 3 ions = 0.090 mol ions.",
         "D: 0.0225 mol (NH4)2SO4 x 3 ions (2 NH4+ and SO4 2-) = 0.0675 mol ions, the smallest number."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-13.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-14.jpg"
       ]
     },
     {
@@ -492,7 +845,15 @@
       "no": "Q28",
       "marks": 1,
       "topic": "Greatest Covalent Character",
-      "keywords": ["covalent character", "MgBr2", "MgF2", "NaBr", "NaF", "polarisation", "large anion"],
+      "keywords": [
+        "covalent character",
+        "MgBr2",
+        "MgF2",
+        "NaBr",
+        "NaF",
+        "polarisation",
+        "large anion"
+      ],
       "question": "Which compound has the greatest covalent character? A MgBr2; B MgF2; C NaBr; D NaF.",
       "status": "ready",
       "answer": "A (MgBr2)",
@@ -500,6 +861,10 @@
         "Covalent character is greatest with a small, highly charged cation and a large anion.",
         "Mg2+ is more highly charged and polarising than Na+, and Br- is larger and more polarisable than F-.",
         "So MgBr2 has the greatest covalent character."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-13.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-14.jpg"
       ]
     },
     {
@@ -507,7 +872,14 @@
       "no": "Q29",
       "marks": 1,
       "topic": "Highest Melting Temperature Ionic Pair",
-      "keywords": ["melting temperature", "highest", "Mg2+ O2-", "Sr2+ S2-", "lattice energy", "ion charge"],
+      "keywords": [
+        "melting temperature",
+        "highest",
+        "Mg2+ O2-",
+        "Sr2+ S2-",
+        "lattice energy",
+        "ion charge"
+      ],
       "question": "Which combination of ions would be expected to form the compound with the highest melting temperature? A Li+ and Br-; B Mg2+ and O2-; C Sr2+ and S2-; D Rb+ and Cl-.",
       "status": "ready",
       "answer": "B (Mg2+ and O2-)",
@@ -515,6 +887,10 @@
         "Highest melting temperature needs the highest charges and smallest ions (strongest lattice).",
         "Mg2+ and O2- both have 2+ and 2- charges and are small ions.",
         "Sr2+ and S2- have higher charges but larger ions; Li+ and Rb+ compounds have 1+ ions."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-13.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-14.jpg"
       ]
     },
     {
@@ -522,7 +898,14 @@
       "no": "Q30",
       "marks": 1,
       "topic": "Electrophoresis Colours On Filter Paper",
-      "keywords": ["filter paper", "copper(II) chromate(VI)", "DC supply 20 V", "colours", "migration", "electrophoresis"],
+      "keywords": [
+        "filter paper",
+        "copper(II) chromate(VI)",
+        "DC supply 20 V",
+        "colours",
+        "migration",
+        "electrophoresis"
+      ],
       "question": "A piece of filter paper soaked in water has green copper(II) chromate(VI) crystals placed in the centre and is connected to a 20 V DC supply. What colours are observed on the paper after a few minutes? (The options are not included in the extracted text.)",
       "status": "ready",
       "answer": "Blue towards the negative electrode and yellow towards the positive electrode",
@@ -530,6 +913,12 @@
         "Cu2+ ions (blue) are positive and migrate to the negative electrode.",
         "Chromate(VI) ions (yellow) are negative and migrate to the positive electrode.",
         "So a blue band forms near the negative end and a yellow band near the positive end."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-14.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-15.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-16.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-17.jpg"
       ]
     },
     {
@@ -537,29 +926,62 @@
       "no": "Q31(a)(i)",
       "marks": 2,
       "topic": "Graph Of Ionic Radii",
-      "keywords": ["ionic radii", "graph", "plot", "successive elements", "nitride to aluminium", "data table"],
+      "keywords": [
+        "ionic radii",
+        "graph",
+        "plot",
+        "successive elements",
+        "nitride to aluminium",
+        "data table"
+      ],
       "question": "Plot a graph of the ionic radii data for the ions of successive elements (the data table is not included in the extracted text).",
       "status": "pending",
       "answer": "Needs the ionic radius data table, which is missing from the extracted text; check against the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-14.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-15.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-16.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-17.jpg"
+      ]
     },
     {
       "id": "03A-Q31a(ii)",
       "no": "Q31(a)(ii)",
       "marks": 2,
       "topic": "Predicting Ionic Radius From Graph",
-      "keywords": ["magnesium ion", "radius", "line of best fit", "prediction", "graph", "ionic radius"],
+      "keywords": [
+        "magnesium ion",
+        "radius",
+        "line of best fit",
+        "prediction",
+        "graph",
+        "ionic radius"
+      ],
       "question": "Predict the radius of the magnesium ion using a straight line of best fit on your graph.",
       "status": "pending",
       "answer": "Needs the graph from (a)(i) built from the missing data table; check against the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-14.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-15.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-16.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-17.jpg"
+      ]
     },
     {
       "id": "03A-Q31a(iii)",
       "no": "Q31(a)(iii)",
       "marks": 3,
       "topic": "Trend In Ionic Radii Nitride To Aluminium",
-      "keywords": ["ionic radii trend", "nitride ion", "aluminium ion", "isoelectronic", "nuclear charge", "electron shielding"],
+      "keywords": [
+        "ionic radii trend",
+        "nitride ion",
+        "aluminium ion",
+        "isoelectronic",
+        "nuclear charge",
+        "electron shielding"
+      ],
       "question": "Explain the trend in the ionic radii from the nitride ion to the aluminium ion.",
       "status": "ready",
       "answer": "The ions N3-, O2-, F-, Na+, Mg2+ and Al3+ are isoelectronic (10 electrons), so the radius decreases as the number of protons increases, which pulls the same electrons more strongly.",
@@ -567,6 +989,12 @@
         "All these ions have 10 electrons, so electron-electron repulsion is the same across the series.",
         "Going from N3- to Al3+, the number of protons increases from 7 to 13.",
         "Greater nuclear charge attracts the electrons more strongly, so the ionic radius decreases."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-14.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-15.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-16.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-17.jpg"
       ]
     },
     {
@@ -574,7 +1002,13 @@
       "no": "Q31(b)(i)",
       "marks": 1,
       "topic": "Structure Of Sodium Fluoride",
-      "keywords": ["sodium fluoride", "structure", "bonding", "giant ionic lattice", "electrostatic attraction"],
+      "keywords": [
+        "sodium fluoride",
+        "structure",
+        "bonding",
+        "giant ionic lattice",
+        "electrostatic attraction"
+      ],
       "question": "State the structure and bonding of sodium fluoride.",
       "status": "ready",
       "answer": "A giant ionic lattice of Na+ and F- ions held together by strong electrostatic attraction between oppositely charged ions (ionic bonding).",
@@ -582,6 +1016,12 @@
         "Sodium fluoride is an ionic compound.",
         "It has a regular giant lattice of alternating Na+ and F- ions.",
         "The bonding is strong electrostatic attraction between the oppositely charged ions."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-14.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-15.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-16.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-17.jpg"
       ]
     },
     {
@@ -589,7 +1029,15 @@
       "no": "Q31(b)(ii)",
       "marks": 3,
       "topic": "Conductivity Evidence For Ions",
-      "keywords": ["electrical conductivity", "sodium fluoride", "evidence for ions", "molten", "aqueous", "solid does not conduct", "mobile charge"],
+      "keywords": [
+        "electrical conductivity",
+        "sodium fluoride",
+        "evidence for ions",
+        "molten",
+        "aqueous",
+        "solid does not conduct",
+        "mobile charge"
+      ],
       "question": "Explain how the electrical conductivity of sodium fluoride provides evidence for the existence of ions.",
       "status": "ready",
       "answer": "Solid NaF does not conduct because its ions are fixed in the lattice, but it conducts when molten or dissolved because the ions are then free to move and carry charge.",
@@ -597,6 +1045,12 @@
         "Conduction needs charged particles that can move freely.",
         "In the solid, the Na+ and F- ions are fixed in the lattice, so it does not conduct.",
         "When molten or in solution, the ions are free to move towards the electrodes, showing that charged ions are present."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-14.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-15.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-16.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-17.jpg"
       ]
     },
     {
@@ -604,7 +1058,14 @@
       "no": "Q31(b)(iii)",
       "marks": 2,
       "topic": "Difficulty Of Polarising Fluoride",
-      "keywords": ["fluoride ion", "difficult to polarise", "small anion", "high charge density", "electron cloud", "polarisation"],
+      "keywords": [
+        "fluoride ion",
+        "difficult to polarise",
+        "small anion",
+        "high charge density",
+        "electron cloud",
+        "polarisation"
+      ],
       "question": "Explain why the fluoride ion is difficult to polarise.",
       "status": "ready",
       "answer": "F- is small, so its outer electrons are close to a relatively high nuclear charge and held tightly, making the electron cloud hard to distort.",
@@ -612,6 +1073,12 @@
         "Polarisation of an anion depends on how easily its electron cloud can be distorted.",
         "F- is a small ion with only two shells, so its outer electrons are close to the nucleus.",
         "The electrons are held tightly by the nucleus, so the cloud is hard to distort."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-14.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-15.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-16.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-17.jpg"
       ]
     },
     {
@@ -619,84 +1086,156 @@
       "no": "Q32(a)",
       "marks": 1,
       "topic": "s-Block Elements From Periodic Table",
-      "keywords": ["s-block", "periodic table outline", "letters", "elements R T U V W X Y Z"],
+      "keywords": [
+        "s-block",
+        "periodic table outline",
+        "letters",
+        "elements R T U V W X Y Z"
+      ],
       "question": "An outline of part of the Periodic Table is shown with letters that are not element symbols. Which elements are in the s-block? A R and U; B T and Y; C V and W; D X and Z. (The table outline is not included in the extracted text.)",
       "status": "pending",
       "answer": "Needs the outline of the Periodic Table with the letters, which is missing from the extracted text; check against the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
+      ]
     },
     {
       "id": "03A-Q32b",
       "no": "Q32(b)",
       "marks": 1,
       "topic": "Element With Four Shells And Six Outer Electrons",
-      "keywords": ["quantum shells", "six outer electrons", "periodic table outline", "letters V X Y Z"],
+      "keywords": [
+        "quantum shells",
+        "six outer electrons",
+        "periodic table outline",
+        "letters V X Y Z"
+      ],
       "question": "Which element has four occupied quantum shells, with six electrons in the outermost shell? A V; B X; C Y; D Z. (The table outline is not included in the extracted text.)",
       "status": "pending",
       "answer": "Needs the outline of the Periodic Table with the letters, which is missing from the extracted text; check against the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
+      ]
     },
     {
       "id": "03A-Q32c",
       "no": "Q32(c)",
       "marks": 1,
       "topic": "Ions With Same Electronic Configuration",
-      "keywords": ["electronic configuration", "same ions", "R+ T2- U2+ W- Y2-", "periodic table outline"],
+      "keywords": [
+        "electronic configuration",
+        "same ions",
+        "R+ T2- U2+ W- Y2-",
+        "periodic table outline"
+      ],
       "question": "In which pair do the ions have the same electronic configuration? A R+ and T2-; B T2- and Y2-; C U2+ and T2-; D U2+ and W-. (The table outline is not included in the extracted text.)",
       "status": "pending",
       "answer": "Needs the outline of the Periodic Table with the letters, which is missing from the extracted text; check against the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
+      ]
     },
     {
       "id": "03A-Q33a",
       "no": "Q33(a)",
       "marks": 1,
       "topic": "Element With Full Outer Shell",
-      "keywords": ["first ionisation energies", "full outer shell", "noble gas", "elements P Q R S", "graph"],
+      "keywords": [
+        "first ionisation energies",
+        "full outer shell",
+        "noble gas",
+        "elements P Q R S",
+        "graph"
+      ],
       "question": "The first ionisation energies of four successive elements P, Q, R and S are shown (data not included in the extracted text). Which element has atoms with a full outer shell of electrons? A P; B Q; C R; D S.",
       "status": "pending",
       "answer": "Needs the first ionisation energy data for P, Q, R and S, which is missing from the extracted text; check against the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
+      ]
     },
     {
       "id": "03A-Q33b",
       "no": "Q33(b)",
       "marks": 1,
       "topic": "Element Forming Covalent HX",
-      "keywords": ["covalent compound HX", "gaseous", "first ionisation energies", "element P Q R S", "non-metal"],
+      "keywords": [
+        "covalent compound HX",
+        "gaseous",
+        "first ionisation energies",
+        "element P Q R S",
+        "non-metal"
+      ],
       "question": "Which element could be X in a gaseous covalent compound with the formula HX? A P; B Q; C R; D S. (The first ionisation energy data are not included in the extracted text.)",
       "status": "pending",
       "answer": "Needs the first ionisation energy data for P, Q, R and S, which is missing from the extracted text; check against the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
+      ]
     },
     {
       "id": "03A-Q33c",
       "no": "Q33(c)",
       "marks": 1,
       "topic": "Element Forming Ionic YF2",
-      "keywords": ["ionic compound YF2", "first ionisation energies", "element P Q R S", "group 2"],
+      "keywords": [
+        "ionic compound YF2",
+        "first ionisation energies",
+        "element P Q R S",
+        "group 2"
+      ],
       "question": "Which element could be Y in an ionic compound with the formula YF2? A P; B Q; C R; D S. (The first ionisation energy data are not included in the extracted text.)",
       "status": "pending",
       "answer": "Needs the first ionisation energy data for P, Q, R and S, which is missing from the extracted text; check against the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
+      ]
     },
     {
       "id": "03A-Q33d",
       "no": "Q33(d)",
       "marks": 1,
       "topic": "Largest Atomic Radius",
-      "keywords": ["atomic radius", "largest", "first ionisation energies", "elements P Q R S"],
+      "keywords": [
+        "atomic radius",
+        "largest",
+        "first ionisation energies",
+        "elements P Q R S"
+      ],
       "question": "Which element has atoms with the largest atomic radius? A P; B Q; C R; D S. (The first ionisation energy data are not included in the extracted text.)",
       "status": "pending",
       "answer": "Needs the first ionisation energy data for P, Q, R and S, which is missing from the extracted text; check against the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
+      ]
     },
     {
       "id": "03A-Q34",
       "no": "Q34",
       "marks": 1,
       "topic": "Greatest Polarisation In Compounds",
-      "keywords": ["polarisation", "magnesium iodide", "magnesium chloride", "sodium iodide", "sodium chloride", "greatest"],
+      "keywords": [
+        "polarisation",
+        "magnesium iodide",
+        "magnesium chloride",
+        "sodium iodide",
+        "sodium chloride",
+        "greatest"
+      ],
       "question": "Which compound shows the greatest degree of polarisation? A sodium chloride; B sodium iodide; C magnesium chloride; D magnesium iodide.",
       "status": "ready",
       "answer": "D (magnesium iodide)",
@@ -704,6 +1243,10 @@
         "Greatest polarisation needs a small, highly charged cation and a large, polarisable anion.",
         "Mg2+ is more highly charged than Na+, and I- is larger than Cl-.",
         "So magnesium iodide is the most polarised."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-18.jpg",
+        "papers/chemistry/img/03A-Ionic-Bonding-19.jpg"
       ]
     },
     {
@@ -711,7 +1254,12 @@
       "no": "Q35(a)",
       "marks": 1,
       "topic": "Decreasing Ionic Radius Order",
-      "keywords": ["isoelectronic ions", "decreasing ionic radius", "Na+ Mg2+ Al3+", "order"],
+      "keywords": [
+        "isoelectronic ions",
+        "decreasing ionic radius",
+        "Na+ Mg2+ Al3+",
+        "order"
+      ],
       "question": "The isoelectronic ions N3-, O2-, F-, Na+, Mg2+ and Al3+ are considered. Which is shown in order of decreasing ionic radius? A Na+ > Mg2+ > Al3+; B Mg2+ > Na+ > Al3+; C Al3+ > Na+ > Mg2+; D Al3+ > Mg2+ > Na+.",
       "status": "ready",
       "answer": "A (Na+ > Mg2+ > Al3+)",
@@ -719,6 +1267,9 @@
         "All six ions have 10 electrons.",
         "Radius decreases as nuclear charge rises: Na+ (11) > Mg2+ (12) > Al3+ (13) in protons.",
         "So A is in decreasing radius order."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-19.jpg"
       ]
     },
     {
@@ -726,18 +1277,36 @@
       "no": "Q35(b)",
       "marks": 1,
       "topic": "Increasing Ionic Radius Order",
-      "keywords": ["isoelectronic ions", "increasing ionic radius", "F- O2- N3-", "order", "options inconsistent"],
+      "keywords": [
+        "isoelectronic ions",
+        "increasing ionic radius",
+        "F- O2- N3-",
+        "order",
+        "options inconsistent"
+      ],
       "question": "Which ions are shown in order of increasing ionic radius? A F- > O2- > N3-; B F- > N3- > O2-; C O2- > N3- > F-; D N3- > O2- > F-.",
       "status": "pending",
       "answer": "The correct increasing order is F- < O2- < N3-, but none of the options as printed in the extracted text shows this (they use '>' throughout); check the PDF for the intended symbols",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-19.jpg"
+      ]
     },
     {
       "id": "03A-Q36",
       "no": "Q36",
       "marks": 1,
       "topic": "Ion Isoelectronic With Noble Gas",
-      "keywords": ["isoelectronic", "noble gas", "Sc3+", "argon", "18 electrons", "H+", "O-", "Zn2+"],
+      "keywords": [
+        "isoelectronic",
+        "noble gas",
+        "Sc3+",
+        "argon",
+        "18 electrons",
+        "H+",
+        "O-",
+        "Zn2+"
+      ],
       "question": "Which ion is isoelectronic with a noble gas atom (Group 0)? A H+; B O-; C Sc3+; D Zn2+.",
       "status": "ready",
       "answer": "C (Sc3+, 18 electrons, isoelectronic with Ar)",
@@ -745,6 +1314,9 @@
         "Sc has 21 electrons, so Sc3+ has 18 electrons, the same as argon.",
         "H+ has 0 electrons, O- has 9 and Zn2+ has 28.",
         "Only Sc3+ matches a noble gas (Ar)."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-19.jpg"
       ]
     },
     {
@@ -752,7 +1324,15 @@
       "no": "Q37",
       "marks": 1,
       "topic": "Order Of Increasing Radius",
-      "keywords": ["increasing radius", "K+", "Ar", "Cl-", "Br-", "isoelectronic", "18 electrons"],
+      "keywords": [
+        "increasing radius",
+        "K+",
+        "Ar",
+        "Cl-",
+        "Br-",
+        "isoelectronic",
+        "18 electrons"
+      ],
       "question": "Which species are arranged in order of increasing radius? A K+ < Ar < Cl- < Br-; B Cl- < Ar < K+ < Br-; C Br- < Cl- < Ar < K+; D Cl- < Br- < Ar < K+.",
       "status": "ready",
       "answer": "A (K+ < Ar < Cl- < Br-)",
@@ -760,6 +1340,9 @@
         "K+, Ar and Cl- are isoelectronic (18 electrons).",
         "Among them, radius increases as nuclear charge decreases: K+ (19) < Ar (18) < Cl- (17).",
         "Br- has the largest radius (extra shell), so the order is K+ < Ar < Cl- < Br-."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-20.jpg"
       ]
     },
     {
@@ -767,7 +1350,13 @@
       "no": "Q38",
       "marks": 1,
       "topic": "Most Polarising Cation",
-      "keywords": ["most polarising", "cation", "small radius", "large charge", "polarising power"],
+      "keywords": [
+        "most polarising",
+        "cation",
+        "small radius",
+        "large charge",
+        "polarising power"
+      ],
       "question": "Which cation would be the most polarising? Options: A small radius, large charge; B small radius, small charge; C large radius, small charge; D large radius, large charge.",
       "status": "ready",
       "answer": "A (small radius, large charge)",
@@ -775,6 +1364,9 @@
         "Polarising power is highest for the highest charge density (charge over size).",
         "Small radius and large charge gives the greatest charge density.",
         "So option A is the most polarising cation."
+      ],
+      "images": [
+        "papers/chemistry/img/03A-Ionic-Bonding-20.jpg"
       ]
     }
   ]

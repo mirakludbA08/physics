@@ -9,7 +9,16 @@
       "no": "Q1(a)",
       "marks": 6,
       "topic": "Friction On Block",
-      "keywords": ["friction", "limiting friction", "resolving forces", "block", "rough horizontal plane", "force at angle", "equilibrium", "coefficient of friction"],
+      "keywords": [
+        "friction",
+        "limiting friction",
+        "resolving forces",
+        "block",
+        "rough horizontal plane",
+        "force at angle",
+        "equilibrium",
+        "coefficient of friction"
+      ],
       "question": "A block of mass 5 kg lies at rest on a rough horizontal plane with coefficient of friction 3/7. A force of magnitude P N acts at 30 degrees above the horizontal. Given P = 14, find the magnitude of the frictional force and describe what happens to the block.",
       "status": "ready",
       "answer": "Friction = 7 sqrt(3) = 12.1 N; the block stays at rest because 12.1 N is less than the limiting friction 18 N.",
@@ -19,6 +28,11 @@
         "Horizontally, the applied force component is 14 cos 30 = 7 sqrt(3) = 12.12 N.",
         "12.12 N < 18 N, so the block is in equilibrium and the friction is 12.1 N (7 sqrt(3) N).",
         "The block remains at rest."
+      ],
+      "images": [
+        "papers/maths/img/M1-04-F-ma-Slope-1.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-2.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-3.jpg"
       ]
     },
     {
@@ -26,7 +40,16 @@
       "no": "Q1(b)",
       "marks": 6,
       "topic": "Force On Point Of Slipping",
-      "keywords": ["limiting friction", "point of slipping", "resolving forces", "block", "rough plane", "coefficient of friction", "force at angle", "equilibrium"],
+      "keywords": [
+        "limiting friction",
+        "point of slipping",
+        "resolving forces",
+        "block",
+        "rough plane",
+        "coefficient of friction",
+        "force at angle",
+        "equilibrium"
+      ],
       "question": "The block (mass 5 kg, mu = 3/7) on the rough horizontal plane is now on the point of slipping along the plane under a force P N at 30 degrees above the horizontal. Find the value of P.",
       "status": "ready",
       "answer": "P = 294/(7 sqrt(3) + 3) = 19.4 N (3 s.f.)",
@@ -36,6 +59,11 @@
         "Horizontally, limiting: P cos 30 = F, so (sqrt(3)/2)P = 21 - 3P/14.",
         "P (sqrt(3)/2 + 3/14) = 21, so P (7 sqrt(3) + 3) = 294.",
         "P = 294/(7 sqrt(3) + 3) = 19.4 N (3 s.f.)."
+      ],
+      "images": [
+        "papers/maths/img/M1-04-F-ma-Slope-1.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-2.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-3.jpg"
       ]
     },
     {
@@ -43,7 +71,16 @@
       "no": "Q2(a)",
       "marks": 8,
       "topic": "Acceleration Up Rough Incline",
-      "keywords": ["inclined plane", "friction", "newton's second law", "parcel", "acceleration", "force at angle", "rough plane", "resolving forces"],
+      "keywords": [
+        "inclined plane",
+        "friction",
+        "newton's second law",
+        "parcel",
+        "acceleration",
+        "force at angle",
+        "rough plane",
+        "resolving forces"
+      ],
       "question": "A parcel of mass 2 kg is pulled up a rough plane inclined at 30 degrees to the horizontal by a constant 18 N force acting at 40 degrees to the plane, in a vertical plane containing a line of greatest slope. The coefficient of friction is 0.3. The parcel is a particle P. Find the acceleration of P.",
       "status": "ready",
       "answer": "a = 1.18 m s^-2 up the plane (3 s.f.)",
@@ -52,6 +89,11 @@
         "Friction (opposing the upward motion): F = 0.3R = 1.62 N, acting down the plane.",
         "Along the plane (up positive): 18 cos 40 - 2 x 9.8 sin 30 - F = 2a.",
         "13.79 - 9.8 - 1.62 = 2.37 = 2a, so a = 1.18 m s^-2 up the plane."
+      ],
+      "images": [
+        "papers/maths/img/M1-04-F-ma-Slope-1.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-2.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-3.jpg"
       ]
     },
     {
@@ -59,7 +101,16 @@
       "no": "Q2(b)",
       "marks": 3,
       "topic": "Speed At B",
-      "keywords": ["suvat", "constant acceleration", "inclined plane", "speed", "displacement", "parcel", "line of greatest slope", "velocity"],
+      "keywords": [
+        "suvat",
+        "constant acceleration",
+        "inclined plane",
+        "speed",
+        "displacement",
+        "parcel",
+        "line of greatest slope",
+        "velocity"
+      ],
       "question": "Points A and B lie on a line of greatest slope with AB = 5 m, B above A. P passes A with speed 2 m s^-1 up the plane, with the acceleration found in part (a). Find the speed of P as it passes B.",
       "status": "ready",
       "answer": "3.98 m s^-1 (3 s.f.)",
@@ -67,6 +118,11 @@
         "Use v^2 = u^2 + 2as with u = 2, a = 1.184, s = 5.",
         "v^2 = 4 + 2(1.184)(5) = 4 + 11.84 = 15.84.",
         "v = sqrt(15.84) = 3.98 m s^-1 (3 s.f.)."
+      ],
+      "images": [
+        "papers/maths/img/M1-04-F-ma-Slope-1.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-2.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-3.jpg"
       ]
     },
     {
@@ -74,7 +130,16 @@
       "no": "Q2(c)",
       "marks": 4,
       "topic": "Rest Or Slide On Incline",
-      "keywords": ["friction", "limiting friction", "inclined plane", "come to rest", "parcel", "gravity component", "show working", "rough plane"],
+      "keywords": [
+        "friction",
+        "limiting friction",
+        "inclined plane",
+        "come to rest",
+        "parcel",
+        "gravity component",
+        "show working",
+        "rough plane"
+      ],
       "question": "At B the 18 N force is removed and P comes to rest at C. Determine whether P will remain at rest at C, showing all working.",
       "status": "ready",
       "answer": "No: the gravity component 9.8 N exceeds the maximum friction 5.09 N, so P slides back down.",
@@ -83,6 +148,11 @@
         "Maximum friction (limiting) = mu R = 0.3 x 16.97 = 5.09 N.",
         "Component of weight down the plane = 2 x 9.8 sin 30 = 9.8 N.",
         "Since 9.8 N > 5.09 N, friction cannot hold P, so P will not remain at rest and slides back down the plane."
+      ],
+      "images": [
+        "papers/maths/img/M1-04-F-ma-Slope-1.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-2.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-3.jpg"
       ]
     },
     {
@@ -90,7 +160,16 @@
       "no": "Q3(a)",
       "marks": 4,
       "topic": "Show Trailer Resistance",
-      "keywords": ["newton's second law", "car and trailer", "inclined road", "resistance", "tow bar", "driving force", "system", "show that"],
+      "keywords": [
+        "newton's second law",
+        "car and trailer",
+        "inclined road",
+        "resistance",
+        "tow bar",
+        "driving force",
+        "system",
+        "show that"
+      ],
       "question": "A car of mass 1200 kg tows a trailer of mass 600 kg up a road inclined at alpha to the horizontal, where sin alpha = 1/12. The driving force is 3000 N, the car accelerates at 0.75 m s^-2. Resistances: car 2R N, trailer R N. Show that R = 60.",
       "status": "ready",
       "answer": "R = 60 (shown)",
@@ -99,6 +178,10 @@
         "1800 x 9.8 / 12 = 1470, and 1800 x 0.75 = 1350.",
         "3000 - 3R - 1470 = 1350, so 3R = 180.",
         "R = 60 (shown)."
+      ],
+      "images": [
+        "papers/maths/img/M1-04-F-ma-Slope-3.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-4.jpg"
       ]
     },
     {
@@ -106,7 +189,16 @@
       "no": "Q3(b)",
       "marks": 3,
       "topic": "Tension In Tow Bar",
-      "keywords": ["tension", "tow bar", "newton's second law", "trailer", "inclined road", "car and trailer", "connected particles", "resistance"],
+      "keywords": [
+        "tension",
+        "tow bar",
+        "newton's second law",
+        "trailer",
+        "inclined road",
+        "car and trailer",
+        "connected particles",
+        "resistance"
+      ],
       "question": "Using R = 60, find the tension in the tow bar between the car (1200 kg, driving force 3000 N, resistance 120 N) and the trailer (600 kg, resistance 60 N) on the incline with sin alpha = 1/12.",
       "status": "ready",
       "answer": "1000 N",
@@ -114,6 +206,10 @@
         "Trailer, up the road positive: T - 60 - 600 x 9.8 sin alpha = 600 x 0.75.",
         "600 x 9.8/12 = 490, and 600 x 0.75 = 450.",
         "T = 450 + 60 + 490 = 1000 N."
+      ],
+      "images": [
+        "papers/maths/img/M1-04-F-ma-Slope-3.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-4.jpg"
       ]
     },
     {
@@ -121,7 +217,16 @@
       "no": "Q3(c)",
       "marks": 4,
       "topic": "Trailer Stopping Distance",
-      "keywords": ["deceleration", "trailer", "tow bar breaks", "inclined road", "stopping distance", "suvat", "resistance", "gravity component"],
+      "keywords": [
+        "deceleration",
+        "trailer",
+        "tow bar breaks",
+        "inclined road",
+        "stopping distance",
+        "suvat",
+        "resistance",
+        "gravity component"
+      ],
       "question": "The car and trailer move at 12 m s^-1 when the tow bar breaks. The trailer's resistance stays at R = 60 N, the trailer has mass 600 kg and the road has sin alpha = 1/12. Find the further distance moved by the trailer before it first comes to rest.",
       "status": "ready",
       "answer": "78.5 m (864/11 m)",
@@ -130,6 +235,10 @@
         "Retarding force: 60 + 600 x 9.8/12 = 60 + 490 = 550 N.",
         "Deceleration = 550/600 = 11/12 m s^-2.",
         "Using v^2 = u^2 - 2as with v = 0, u = 12: distance = 144/(2 x 11/12) = 864/11 = 78.5 m (3 s.f.)."
+      ],
+      "images": [
+        "papers/maths/img/M1-04-F-ma-Slope-3.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-4.jpg"
       ]
     },
     {
@@ -137,7 +246,16 @@
       "no": "Q4(a)",
       "marks": 3,
       "topic": "Friction Moving Up Plane",
-      "keywords": ["friction", "inclined plane", "normal reaction", "particle", "rough plane", "tan theta", "coefficient of friction", "projected"],
+      "keywords": [
+        "friction",
+        "inclined plane",
+        "normal reaction",
+        "particle",
+        "rough plane",
+        "tan theta",
+        "coefficient of friction",
+        "projected"
+      ],
       "question": "A fixed rough plane is inclined at theta to the horizontal with tan theta = 5/12. A particle of mass 6 kg is projected up a line of greatest slope with speed 5 m s^-1 from A. The coefficient of friction is 1/4. Find the magnitude of the frictional force acting on the particle as it moves up the plane.",
       "status": "ready",
       "answer": "F = 13.6 N (3 s.f.)",
@@ -145,6 +263,10 @@
         "From tan theta = 5/12: sin theta = 5/13 and cos theta = 12/13.",
         "Normal reaction R = 6 x 9.8 x 12/13 = 54.28 N.",
         "Friction F = mu R = (1/4)(54.28) = 13.6 N (3 s.f.), acting down the plane while moving up."
+      ],
+      "images": [
+        "papers/maths/img/M1-04-F-ma-Slope-4.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-5.jpg"
       ]
     },
     {
@@ -152,7 +274,16 @@
       "no": "Q4(b)",
       "marks": 5,
       "topic": "Distance Up Rough Plane",
-      "keywords": ["deceleration", "inclined plane", "friction", "distance", "suvat", "particle", "rough plane", "come to rest"],
+      "keywords": [
+        "deceleration",
+        "inclined plane",
+        "friction",
+        "distance",
+        "suvat",
+        "particle",
+        "rough plane",
+        "come to rest"
+      ],
       "question": "The particle (mass 6 kg, projected up the plane from A with speed 5 m s^-1, tan theta = 5/12, mu = 1/4) comes to instantaneous rest at B. Find the distance AB.",
       "status": "ready",
       "answer": "AB = 2.07 m (3 s.f.)",
@@ -161,6 +292,10 @@
         "Gravity component = 6 x 9.8 x 5/13 = 22.62 N; friction = 13.57 N.",
         "Deceleration a = (22.62 + 13.57)/6 = 6.03 m s^-2.",
         "Using v^2 = u^2 - 2as with v = 0: AB = 25/(2 x 6.03) = 2.07 m (3 s.f.)."
+      ],
+      "images": [
+        "papers/maths/img/M1-04-F-ma-Slope-4.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-5.jpg"
       ]
     },
     {
@@ -168,7 +303,16 @@
       "no": "Q4(c)",
       "marks": 5,
       "topic": "Distance Down Rough Plane",
-      "keywords": ["acceleration down plane", "friction", "inclined plane", "distance", "suvat", "particle", "rough plane", "slides down"],
+      "keywords": [
+        "acceleration down plane",
+        "friction",
+        "inclined plane",
+        "distance",
+        "suvat",
+        "particle",
+        "rough plane",
+        "slides down"
+      ],
       "question": "The particle slides down from B and passes through C on the plane with speed again 5 m s^-1. The particle has mass 6 kg, tan theta = 5/12 and mu = 1/4. Find the distance BC.",
       "status": "ready",
       "answer": "BC = 8.29 m (3 s.f.)",
@@ -177,6 +321,10 @@
         "Net force down the plane = 22.62 - 13.57 = 9.05 N, so a = 9.05/6 = 1.51 m s^-2.",
         "Using v^2 = 2as with v = 5: 25 = 2(1.508)(BC).",
         "BC = 25/3.015 = 8.29 m (3 s.f.)."
+      ],
+      "images": [
+        "papers/maths/img/M1-04-F-ma-Slope-4.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-5.jpg"
       ]
     },
     {
@@ -184,7 +332,16 @@
       "no": "Q5(a)",
       "marks": 3,
       "topic": "Show No Friction",
-      "keywords": ["equilibrium", "friction", "horizontal force", "inclined plane", "particle", "resolving forces", "show that", "rough plane"],
+      "keywords": [
+        "equilibrium",
+        "friction",
+        "horizontal force",
+        "inclined plane",
+        "particle",
+        "resolving forces",
+        "show that",
+        "rough plane"
+      ],
       "question": "A rough plane is inclined at alpha to the horizontal, where tan alpha = 3/4. A particle P of mass 2 kg is held in equilibrium on the plane by a horizontal force of magnitude X N in a vertical plane containing a line of greatest slope. Show that when X = 14.7 there is no frictional force acting on P.",
       "status": "ready",
       "answer": "With X = 14.7, the force component up the plane (0.8 x 14.7 = 11.76 N) equals the weight component (19.6 x 0.6 = 11.76 N), so F = 0.",
@@ -194,6 +351,10 @@
         "Weight component down the plane: 19.6 x 3/5 = 11.76 N.",
         "Force component up the plane: 14.7 x 4/5 = 11.76 N.",
         "These are equal, so F = 0 (no friction), as required."
+      ],
+      "images": [
+        "papers/maths/img/M1-04-F-ma-Slope-4.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-5.jpg"
       ]
     },
     {
@@ -201,7 +362,16 @@
       "no": "Q5(b)",
       "marks": 8,
       "topic": "Smallest Horizontal Force",
-      "keywords": ["friction", "limiting equilibrium", "smallest force", "inclined plane", "particle", "horizontal force", "coefficient of friction", "resolving forces"],
+      "keywords": [
+        "friction",
+        "limiting equilibrium",
+        "smallest force",
+        "inclined plane",
+        "particle",
+        "horizontal force",
+        "coefficient of friction",
+        "resolving forces"
+      ],
       "question": "Particle P (mass 2 kg) on the rough plane (tan alpha = 3/4) is held in equilibrium by a horizontal force X N. With coefficient of friction 0.5, find the smallest possible value of X.",
       "status": "ready",
       "answer": "X = 196/55 = 3.56 N (3 s.f.)",
@@ -211,6 +381,10 @@
         "Along the plane: 0.8X + 0.5(15.68 + 0.6X) = 11.76.",
         "0.8X + 7.84 + 0.3X = 11.76, so 1.1X = 3.92.",
         "X = 3.92/1.1 = 196/55 = 3.56 N (3 s.f.)."
+      ],
+      "images": [
+        "papers/maths/img/M1-04-F-ma-Slope-4.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-5.jpg"
       ]
     },
     {
@@ -218,7 +392,16 @@
       "no": "Q6",
       "marks": 8,
       "topic": "Coefficient Of Friction Value",
-      "keywords": ["limiting friction", "inclined plane", "coefficient of friction", "sliding up", "sliding down", "equilibrium", "particle", "tan alpha"],
+      "keywords": [
+        "limiting friction",
+        "inclined plane",
+        "coefficient of friction",
+        "sliding up",
+        "sliding down",
+        "equilibrium",
+        "particle",
+        "tan alpha"
+      ],
       "question": "A particle of mass m rests in equilibrium on a fixed rough plane inclined at alpha to the horizontal, tan alpha = 3/4, under a force X acting up a line of greatest slope. The coefficient of friction is mu. When X = 2P the particle is on the point of sliding up the plane; when X = P it is on the point of sliding down. Find mu.",
       "status": "ready",
       "answer": "mu = 1/4 (0.25)",
@@ -228,6 +411,10 @@
         "Sliding down (X = P, friction up the plane): P = (3/5)mg - mu(4/5)mg.",
         "Substitute P into the first: 2[(3/5) - (4/5)mu] = (3/5) + (4/5)mu.",
         "6/5 - 8mu/5 = 3/5 + 4mu/5, so 3/5 = 12mu/5 and mu = 1/4."
+      ],
+      "images": [
+        "papers/maths/img/M1-04-F-ma-Slope-5.jpg",
+        "papers/maths/img/M1-04-F-ma-Slope-6.jpg"
       ]
     }
   ]

@@ -9,7 +9,16 @@
       "no": "Q1(a)",
       "marks": 2,
       "topic": "Evaluate Profit Model",
-      "keywords": ["numerical methods", "logarithm", "model", "profit", "loss", "substitute", "show", "approximately"],
+      "keywords": [
+        "numerical methods",
+        "logarithm",
+        "model",
+        "profit",
+        "loss",
+        "substitute",
+        "show",
+        "approximately"
+      ],
       "question": "The profit P (GBP million) made by a company t years after it started trading is modelled by P = (4t - 1)/10 + (3/4)ln[(t+1)/(2t+1)^2]. Show that exactly one year after it started trading the company had made a loss of approximately GBP 830 000.",
       "status": "ready",
       "answer": "P(1) = -0.828, a loss of about GBP 828 000 (approximately GBP 830 000)",
@@ -18,6 +27,10 @@
         "Second term: (3/4)ln(2/9) = (3/4)(-1.50408) = -1.12806.",
         "P(1) = 0.3 - 1.12806 = -0.82806.",
         "So P is about -0.828 (million pounds), a loss of approximately GBP 830 000."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-01.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-02.jpg"
       ]
     },
     {
@@ -25,7 +38,16 @@
       "no": "Q1(b)",
       "marks": 2,
       "topic": "Locate Root Interval",
-      "keywords": ["numerical methods", "sign change", "root", "interval", "continuous", "profit model", "show", "location of roots"],
+      "keywords": [
+        "numerical methods",
+        "sign change",
+        "root",
+        "interval",
+        "continuous",
+        "profit model",
+        "show",
+        "location of roots"
+      ],
       "question": "Show that the value of t for which P = 0 lies in the interval [6, 7].",
       "status": "ready",
       "answer": "P(6) = -0.088 < 0 and P(7) = 0.198 > 0, so there is a root in [6, 7].",
@@ -34,6 +56,10 @@
         "P(7) = 2.7 + (3/4)ln(8/225) = 2.7 - 2.50157 = 0.19843.",
         "P is continuous for t > 0, since the logarithm argument is positive.",
         "P changes sign between t = 6 and t = 7, so a root lies in [6, 7]."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-01.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-02.jpg"
       ]
     },
     {
@@ -41,7 +67,16 @@
       "no": "Q1(c)",
       "marks": 2,
       "topic": "Rearrange To Iteration Form",
-      "keywords": ["numerical methods", "rearrange", "logarithm", "iteration", "show", "P = 0", "root", "fixed point"],
+      "keywords": [
+        "numerical methods",
+        "rearrange",
+        "logarithm",
+        "iteration",
+        "show",
+        "P = 0",
+        "root",
+        "fixed point"
+      ],
       "question": "Show that the equation P = 0 can be expressed in the form t = 1/4 + (15/8)ln[(2t+1)^2/(t+1)].",
       "status": "ready",
       "answer": "Shown.",
@@ -50,6 +85,10 @@
         "Use -ln(a) = ln(1/a): (4t - 1)/10 = (3/4)ln[(2t+1)^2/(t+1)].",
         "Multiply by 10: 4t - 1 = (15/2)ln[(2t+1)^2/(t+1)].",
         "Divide by 4: t = 1/4 + (15/8)ln[(2t+1)^2/(t+1)]."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-01.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-02.jpg"
       ]
     },
     {
@@ -57,7 +96,16 @@
       "no": "Q1(d)",
       "marks": 3,
       "topic": "Fixed Point Iteration",
-      "keywords": ["numerical methods", "iteration", "fixed point", "logarithm", "decimal places", "t2", "t6", "root"],
+      "keywords": [
+        "numerical methods",
+        "iteration",
+        "fixed point",
+        "logarithm",
+        "decimal places",
+        "t2",
+        "t6",
+        "root"
+      ],
       "question": "Using the iteration t(n+1) = 1/4 + (15/8)ln[(2t_n + 1)^2/(t_n + 1)] with t1 = 6, find the values of t2 and t6, giving your answers to 3 decimal places.",
       "status": "ready",
       "answer": "t2 = 6.220 and t6 = 6.314",
@@ -67,6 +115,10 @@
         "Apply the same formula to t2 to get t3 = 6.2868.",
         "Continue: t4 = 6.3066 and t5 = 6.3124.",
         "t6 = 6.3142, so t6 = 6.314 (3 dp)."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-01.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-02.jpg"
       ]
     },
     {
@@ -74,7 +126,16 @@
       "no": "Q1(e)",
       "marks": 2,
       "topic": "Months Until Profit",
-      "keywords": ["numerical methods", "profit", "root", "months", "convert years", "interpret", "model", "time"],
+      "keywords": [
+        "numerical methods",
+        "profit",
+        "root",
+        "months",
+        "convert years",
+        "interpret",
+        "model",
+        "time"
+      ],
       "question": "Hence find, according to the model, how many months it takes in total, from when the company started trading, for it to make a profit.",
       "status": "ready",
       "answer": "About 75.8 months, so 76 whole months.",
@@ -83,6 +144,10 @@
         "Iterating to convergence gives t = 6.3149 years (agrees with the sign change in [6, 7]).",
         "Convert to months: 12 x 6.3149 = 75.78 months.",
         "The profit is positive after 75.78 months, so it takes 76 whole months in total."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-01.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-02.jpg"
       ]
     },
     {
@@ -90,7 +155,16 @@
       "no": "Q2(a)",
       "marks": 2,
       "topic": "Locate Negative Root",
-      "keywords": ["numerical methods", "sign change", "root", "interval", "logarithm", "negative x-axis", "show", "curve"],
+      "keywords": [
+        "numerical methods",
+        "sign change",
+        "root",
+        "interval",
+        "logarithm",
+        "negative x-axis",
+        "show",
+        "curve"
+      ],
       "question": "Figure 1 shows part of the curve y = 6ln(2x + 3) - (1/2)x^2 + 4, x > -3/2. The curve cuts the negative x-axis at P. Show that the x coordinate of P lies in the interval [-1.25, -1.2].",
       "status": "ready",
       "answer": "y(-1.25) = -0.940 < 0 and y(-1.2) = 0.215 > 0, so P lies in [-1.25, -1.2].",
@@ -99,6 +173,10 @@
         "y(-1.25) = 6ln(0.5) - 0.78125 + 4 = -4.15888 - 0.78125 + 4 = -0.94013.",
         "y(-1.2) = 6ln(0.6) - 0.72 + 4 = -3.06495 - 0.72 + 4 = 0.21505.",
         "y is continuous on the interval and changes sign, so the root P lies in [-1.25, -1.2]."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-02.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-03.jpg"
       ]
     },
     {
@@ -106,7 +184,16 @@
       "no": "Q2(b)",
       "marks": 3,
       "topic": "Iteration For Positive Root",
-      "keywords": ["numerical methods", "iteration", "square root", "logarithm", "root", "continued iteration", "decimal places", "x-axis"],
+      "keywords": [
+        "numerical methods",
+        "iteration",
+        "square root",
+        "logarithm",
+        "root",
+        "continued iteration",
+        "decimal places",
+        "x-axis"
+      ],
       "question": "The curve cuts the positive x-axis at Q. Using the iterative formula x(n+1) = sqrt(12ln(2x_n + 3) + 8) with x1 = 6, (i) find x2 to 4 decimal places; (ii) find, by continued iteration, the x coordinate of Q to 4 decimal places.",
       "status": "ready",
       "answer": "(i) x2 = 6.3637; (ii) x coordinate of Q = 6.4142",
@@ -116,6 +203,10 @@
         "x3 = 6.4082 using the same formula with x2.",
         "Keep iterating until consecutive values agree to 4 decimal places.",
         "The converged value is x = 6.4142, the x coordinate of Q."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-02.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-03.jpg"
       ]
     },
     {
@@ -123,7 +214,16 @@
       "no": "Q2(c)",
       "marks": 4,
       "topic": "Maximum Point Using Calculus",
-      "keywords": ["calculus", "differentiate", "stationary point", "maximum", "logarithm", "quadratic", "turning point", "exact"],
+      "keywords": [
+        "calculus",
+        "differentiate",
+        "stationary point",
+        "maximum",
+        "logarithm",
+        "quadratic",
+        "turning point",
+        "exact"
+      ],
       "question": "The curve y = 6ln(2x + 3) - (1/2)x^2 + 4 has a maximum turning point at M. Using calculus and showing each stage, find the x coordinate of M.",
       "status": "ready",
       "answer": "x = (sqrt(105) - 3)/4 = 1.812 (3 dp)",
@@ -133,6 +233,10 @@
         "Rearrange: 2x^2 + 3x - 12 = 0.",
         "x = (-3 +/- sqrt(9 + 96))/4 = (-3 +/- sqrt(105))/4.",
         "The positive root (sqrt(105) - 3)/4 = 1.812 is the maximum (the other root is negative and outside the domain)."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-02.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-03.jpg"
       ]
     },
     {
@@ -140,7 +244,16 @@
       "no": "Q3(a)",
       "marks": 2,
       "topic": "Product Rule Differentiation",
-      "keywords": ["calculus", "differentiate", "product rule", "exponential", "e^(-x/2)", "curve", "f'(x)", "factorise"],
+      "keywords": [
+        "calculus",
+        "differentiate",
+        "product rule",
+        "exponential",
+        "e^(-x/2)",
+        "curve",
+        "f'(x)",
+        "factorise"
+      ],
       "question": "Figure 3 shows part of the curve y = f(x), where f(x) = x(x^2 - 4)e^(-x/2). Find f'(x).",
       "status": "ready",
       "answer": "f'(x) = -(1/2)e^(-x/2)(x^3 - 6x^2 - 4x + 8)",
@@ -149,6 +262,10 @@
         "Product rule: f'(x) = (3x^2 - 4)e^(-x/2) + (x^3 - 4x)(-1/2)e^(-x/2).",
         "Combine: f'(x) = (3x^2 - 4 - x^3/2 + 2x)e^(-x/2).",
         "Factorise: f'(x) = -(1/2)e^(-x/2)(x^3 - 6x^2 - 4x + 8)."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-03.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-04.jpg"
       ]
     },
     {
@@ -156,7 +273,16 @@
       "no": "Q3(b)",
       "marks": 4,
       "topic": "Normal Line Intersection",
-      "keywords": ["numerical methods", "normal", "gradient", "show", "root", "exponential", "third quadrant", "curve"],
+      "keywords": [
+        "numerical methods",
+        "normal",
+        "gradient",
+        "show",
+        "root",
+        "exponential",
+        "third quadrant",
+        "curve"
+      ],
       "question": "The line l is the normal to the curve y = f(x) at O and meets the curve again at P, which lies in the 3rd quadrant. Show that the x coordinate of P is a solution of x = -(1/2)sqrt(16 + e^(x/2)).",
       "status": "ready",
       "answer": "Shown.",
@@ -166,6 +292,10 @@
         "At P: x(x^2 - 4)e^(-x/2) = x/4. Since x is not 0 at P, (x^2 - 4)e^(-x/2) = 1/4.",
         "Multiply by e^(x/2): x^2 - 4 = e^(x/2)/4, so x^2 = (16 + e^(x/2))/4.",
         "P is in the 3rd quadrant, so x < 0 and x = -(1/2)sqrt(16 + e^(x/2))."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-03.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-04.jpg"
       ]
     },
     {
@@ -173,7 +303,16 @@
       "no": "Q3(c)",
       "marks": 3,
       "topic": "Iteration For Negative Root",
-      "keywords": ["numerical methods", "iteration", "negative root", "exponential", "square root", "decimal places", "x2", "point P"],
+      "keywords": [
+        "numerical methods",
+        "iteration",
+        "negative root",
+        "exponential",
+        "square root",
+        "decimal places",
+        "x2",
+        "point P"
+      ],
       "question": "Using the iterative formula x(n+1) = -(1/2)sqrt(16 + e^(x_n/2)) with x1 = -2, find, to 4 decimal places, (i) the value of x2; (ii) the x coordinate of P.",
       "status": "ready",
       "answer": "(i) x2 = -2.0229; (ii) x coordinate of P = -2.0226",
@@ -182,6 +321,10 @@
         "Each further step uses the previous value x_n inside e^(x_n/2).",
         "Keep iterating until consecutive values agree to 4 decimal places.",
         "The converged value is x = -2.0226, the x coordinate of P."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-03.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-04.jpg"
       ]
     },
     {
@@ -189,7 +332,16 @@
       "no": "Q4(a)",
       "marks": 2,
       "topic": "Locate Root Interval",
-      "keywords": ["numerical methods", "sign change", "root", "interval", "polynomial", "show", "g(x)", "change of sign"],
+      "keywords": [
+        "numerical methods",
+        "sign change",
+        "root",
+        "interval",
+        "polynomial",
+        "show",
+        "g(x)",
+        "change of sign"
+      ],
       "question": "The function g(x) = x^6 + 2x - 1000. Show that g(x) = 0 has a root a in the interval [3, 4].",
       "status": "ready",
       "answer": "g(3) = -265 < 0 and g(4) = 3104 > 0, so a root a lies in [3, 4].",
@@ -198,6 +350,10 @@
         "g(4) = 4096 + 8 - 1000 = 3104.",
         "g is a polynomial, so it is continuous, and it changes sign on [3, 4].",
         "Hence g(x) = 0 has a root a in [3, 4]."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-04.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-05.jpg"
       ]
     },
     {
@@ -205,7 +361,16 @@
       "no": "Q4(b)",
       "marks": 3,
       "topic": "Iteration For Polynomial Root",
-      "keywords": ["numerical methods", "iteration", "sixth root", "repeated iteration", "root", "decimal places", "rearrange", "x2"],
+      "keywords": [
+        "numerical methods",
+        "iteration",
+        "sixth root",
+        "repeated iteration",
+        "root",
+        "decimal places",
+        "rearrange",
+        "x2"
+      ],
       "question": "Using the iteration formula x(n+1) = (1000 - 2x_n)^(1/6) with x1 = 3, (i) find, to 4 decimal places, the value of x2; (ii) find, by repeated iteration, the value of the root a, giving your answer to 4 decimal places.",
       "status": "ready",
       "answer": "(i) x2 = 3.1591; (ii) a = 3.1589",
@@ -215,6 +380,10 @@
         "x3 = (1000 - 2 x 3.1591)^(1/6) = 3.1589.",
         "Continue until consecutive values agree to 4 decimal places.",
         "So a = 3.1589 to 4 decimal places."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-04.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-05.jpg"
       ]
     },
     {
@@ -222,7 +391,16 @@
       "no": "Q5(a)",
       "marks": 3,
       "topic": "Rearrange Cubic To Iteration",
-      "keywords": ["numerical methods", "rearrange", "cubic", "iteration", "square root", "show", "rational function", "root"],
+      "keywords": [
+        "numerical methods",
+        "rearrange",
+        "cubic",
+        "iteration",
+        "square root",
+        "show",
+        "rational function",
+        "root"
+      ],
       "question": "The function f(x) = x^3 + 3x^2 + 4x - 12. Show that the equation f(x) = 0 can be written as x = sqrt(4(3 - x)/(3 + x)), x not equal to -3.",
       "status": "ready",
       "answer": "Shown.",
@@ -231,6 +409,10 @@
         "Rearrange: x^2(x + 3) = 12 - 4x = 4(3 - x).",
         "Divide by (x + 3), which is non-zero since x is not -3: x^2 = 4(3 - x)/(3 + x).",
         "Take the positive square root (the root is positive): x = sqrt(4(3 - x)/(3 + x))."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-05.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-06.jpg"
       ]
     },
     {
@@ -238,7 +420,16 @@
       "no": "Q5(b)",
       "marks": 3,
       "topic": "Fixed Point Iteration",
-      "keywords": ["numerical methods", "iteration", "fixed point", "cubic root", "decimal places", "x1 x2 x3", "starting value", "square root"],
+      "keywords": [
+        "numerical methods",
+        "iteration",
+        "fixed point",
+        "cubic root",
+        "decimal places",
+        "x1 x2 x3",
+        "starting value",
+        "square root"
+      ],
       "question": "Use the iteration x(n+1) = sqrt(4(3 - x_n)/(3 + x_n)), n >= 0, with x0 = 1 to find, to 2 decimal places, the values of x1, x2 and x3.",
       "status": "ready",
       "answer": "x1 = 1.41, x2 = 1.20, x3 = 1.31",
@@ -247,6 +438,10 @@
         "x2 = sqrt(4(3 - 1.4142)/(3 + 1.4142)) = sqrt(1.43694) = 1.1987.",
         "x3 = sqrt(4(3 - 1.1987)/(3 + 1.1987)) = sqrt(1.71613) = 1.3100.",
         "Rounded to 2 decimal places: x1 = 1.41, x2 = 1.20, x3 = 1.31."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-05.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-06.jpg"
       ]
     },
     {
@@ -254,7 +449,16 @@
       "no": "Q5(c)",
       "marks": 2,
       "topic": "Prove Root To 3 Decimal Places",
-      "keywords": ["numerical methods", "sign change", "root", "interval", "decimal places", "prove", "cubic", "alpha"],
+      "keywords": [
+        "numerical methods",
+        "sign change",
+        "root",
+        "interval",
+        "decimal places",
+        "prove",
+        "cubic",
+        "alpha"
+      ],
       "question": "The root of f(x) = 0 is alpha. By choosing a suitable interval, prove that alpha = 1.272 to 3 decimal places.",
       "status": "ready",
       "answer": "f(1.2715) < 0 and f(1.2725) > 0, so alpha = 1.272 to 3 dp.",
@@ -263,6 +467,10 @@
         "f(1.2715) = -0.00821 < 0.",
         "f(1.2725) = 0.00827 > 0.",
         "There is a sign change on [1.2715, 1.2725], so alpha = 1.272 to 3 decimal places."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-05.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-06.jpg"
       ]
     },
     {
@@ -270,7 +478,16 @@
       "no": "Q6(a)",
       "marks": 2,
       "topic": "Locate Root Interval",
-      "keywords": ["numerical methods", "sign change", "exponential", "root", "interval", "show", "quadratic", "continuous"],
+      "keywords": [
+        "numerical methods",
+        "sign change",
+        "exponential",
+        "root",
+        "interval",
+        "show",
+        "quadratic",
+        "continuous"
+      ],
       "question": "A curve has equation y = f(x), where f(x) = x^2 - 5x + e^x, x real. Show that the equation f(x) = 0 has a root alpha in the interval [1, 2].",
       "status": "ready",
       "answer": "f(1) = -1.282 < 0 and f(2) = 1.389 > 0, so there is a root alpha in [1, 2].",
@@ -279,6 +496,10 @@
         "f(2) = 4 - 10 + e^2 = -6 + 7.38906 = 1.38906.",
         "f is continuous and changes sign on [1, 2].",
         "Therefore f(x) = 0 has a root alpha in [1, 2]."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-05.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-06.jpg"
       ]
     },
     {
@@ -286,7 +507,16 @@
       "no": "Q6(b)",
       "marks": 3,
       "topic": "Iteration With Exponential",
-      "keywords": ["numerical methods", "iteration", "square root", "exponential", "root", "decimal places", "x2", "repeated iteration"],
+      "keywords": [
+        "numerical methods",
+        "iteration",
+        "square root",
+        "exponential",
+        "root",
+        "decimal places",
+        "x2",
+        "repeated iteration"
+      ],
       "question": "The iterative formula x(n+1) = sqrt(5x_n - e^(x_n)) with x1 = 1 is used to find an approximate value for the root alpha. (i) Find the value of x2 to 4 decimal places. (ii) Find, by repeated iteration, the value of alpha to 4 decimal places.",
       "status": "ready",
       "answer": "(i) x2 = 1.5105; (ii) alpha = 1.7340",
@@ -296,6 +526,10 @@
         "Apply the same formula to x2 and then to each new value.",
         "The sequence settles near 1.734 after repeated iteration.",
         "Consecutive values agree to 4 decimal places at alpha = 1.7340."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-05.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-06.jpg"
       ]
     },
     {
@@ -303,7 +537,16 @@
       "no": "Q7(a)",
       "marks": 2,
       "topic": "Differentiate Cosine Product",
-      "keywords": ["calculus", "differentiate", "product rule", "chain rule", "cosine", "x cos(x/3)", "f'(x)", "derivative"],
+      "keywords": [
+        "calculus",
+        "differentiate",
+        "product rule",
+        "chain rule",
+        "cosine",
+        "x cos(x/3)",
+        "f'(x)",
+        "derivative"
+      ],
       "question": "The function f(x) = x cos(x/3), x > 0. Find f'(x).",
       "status": "ready",
       "answer": "f'(x) = cos(x/3) - (x/3)sin(x/3)",
@@ -312,6 +555,10 @@
         "u' = 1 and v' = -(1/3)sin(x/3) (chain rule).",
         "f'(x) = cos(x/3) + x(-(1/3)sin(x/3)).",
         "So f'(x) = cos(x/3) - (x/3)sin(x/3)."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-06.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-07.jpg"
       ]
     },
     {
@@ -319,7 +566,16 @@
       "no": "Q7(b)",
       "marks": 2,
       "topic": "Rearrange Derivative To Iteration",
-      "keywords": ["numerical methods", "rearrange", "arctan", "stationary point", "integer k", "show", "iteration", "derivative"],
+      "keywords": [
+        "numerical methods",
+        "rearrange",
+        "arctan",
+        "stationary point",
+        "integer k",
+        "show",
+        "iteration",
+        "derivative"
+      ],
       "question": "Show that the equation f'(x) = 0 can be written as x = k arctan(k/x), where k is an integer to be found.",
       "status": "ready",
       "answer": "k = 3, so x = 3arctan(3/x).",
@@ -328,6 +584,10 @@
         "cos(x/3) is not zero at a root (otherwise sin(x/3) would have to be 0, impossible for x > 0), so divide by cos(x/3): 1 = (x/3)tan(x/3).",
         "So tan(x/3) = 3/x.",
         "Taking arctan: x/3 = arctan(3/x), so x = 3arctan(3/x) and k = 3."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-06.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-07.jpg"
       ]
     },
     {
@@ -335,7 +595,16 @@
       "no": "Q7(c)",
       "marks": 2,
       "topic": "Iteration With Arctan",
-      "keywords": ["numerical methods", "iteration", "arctan", "x2 x6", "starting value", "decimal places", "stationary point", "3dp"],
+      "keywords": [
+        "numerical methods",
+        "iteration",
+        "arctan",
+        "x2 x6",
+        "starting value",
+        "decimal places",
+        "stationary point",
+        "3dp"
+      ],
       "question": "Starting with x1 = 2.5, use the iteration x(n+1) = k arctan(k/x_n) with k = 3 to calculate x2 and x6, giving your answers to 3 decimal places.",
       "status": "ready",
       "answer": "x2 = 2.628 and x6 = 2.586",
@@ -344,6 +613,10 @@
         "Apply the formula to x2 to get x3, then continue in the same way.",
         "Successive values: x3 = 2.5541, x4 = 2.5965, x5 = 2.5721 (values oscillate towards 2.58).",
         "x6 = 2.586 to 3 decimal places."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-06.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-07.jpg"
       ]
     },
     {
@@ -351,7 +624,16 @@
       "no": "Q7(d)",
       "marks": 2,
       "topic": "Verify Stationary Point Root",
-      "keywords": ["numerical methods", "sign change", "root", "stationary point", "arctan", "interval", "3 decimal places", "suitable function"],
+      "keywords": [
+        "numerical methods",
+        "sign change",
+        "root",
+        "stationary point",
+        "arctan",
+        "interval",
+        "3 decimal places",
+        "suitable function"
+      ],
       "question": "Using a suitable interval and a suitable function that should be stated, show that a root of f'(x) = 0 is 2.581 correct to 3 decimal places.",
       "status": "ready",
       "answer": "With g(x) = x - 3arctan(3/x): g(2.5805) < 0 and g(2.5815) > 0, so the root is 2.581 to 3 dp.",
@@ -360,6 +642,10 @@
         "g(2.5805) = -0.00079 < 0.",
         "g(2.5815) = +0.00079 > 0.",
         "There is a sign change on [2.5805, 2.5815], so the root is 2.581 to 3 decimal places."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-06.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-07.jpg"
       ]
     },
     {
@@ -367,7 +653,16 @@
       "no": "Q8(a)",
       "marks": 5,
       "topic": "Maximum Velocity Using Calculus",
-      "keywords": ["calculus", "maximum", "velocity", "exponential", "differentiate", "sprinter", "stationary point", "model"],
+      "keywords": [
+        "calculus",
+        "maximum",
+        "velocity",
+        "exponential",
+        "differentiate",
+        "sprinter",
+        "stationary point",
+        "model"
+      ],
       "question": "A sprinter's velocity v m/s is modelled by v = 12 - e^(t-10) - 12e^(-0.75t), t >= 0. Using calculus, find the sprinter's maximum velocity during the race.",
       "status": "ready",
       "answer": "Maximum at t = (10 + ln 9)/1.75 = 6.970 s, with v = 11.89 m/s (2 dp).",
@@ -377,6 +672,10 @@
         "1.75t = 10 + ln 9, so t = (10 + ln 9)/1.75 = 6.970.",
         "dv/dt changes from positive to negative here, so this is a maximum.",
         "Substitute e^(t-10) = 9e^(-0.75t): v = 12 - 21e^(-0.75t) = 11.89 m/s to 2 dp."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-07.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-08.jpg"
       ]
     },
     {
@@ -384,7 +683,16 @@
       "no": "Q8(b)",
       "marks": 4,
       "topic": "Show Race Time Equation",
-      "keywords": ["integration", "race", "velocity", "exponential", "show", "time T", "100 m", "rearrange"],
+      "keywords": [
+        "integration",
+        "race",
+        "velocity",
+        "exponential",
+        "show",
+        "time T",
+        "100 m",
+        "rearrange"
+      ],
       "question": "The sprinter runs 100 m in T seconds, so the integral from 0 to T of v dt = 100. Show that T = (1/12)(116 - 16e^(-0.75T) + e^(T-10) - e^(-10)).",
       "status": "ready",
       "answer": "Shown.",
@@ -393,6 +701,10 @@
         "Set this equal to 100: 12T - e^(T-10) + e^(-10) - 16 + 16e^(-0.75T) = 100.",
         "Rearrange: 12T = 116 - 16e^(-0.75T) + e^(T-10) - e^(-10).",
         "Divide by 12: T = (1/12)(116 - 16e^(-0.75T) + e^(T-10) - e^(-10))."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-07.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-08.jpg"
       ]
     },
     {
@@ -400,7 +712,16 @@
       "no": "Q8(c)",
       "marks": 3,
       "topic": "Iteration For Race Time",
-      "keywords": ["numerical methods", "iteration", "race time", "exponential", "T2", "decimal places", "100 m", "repeated iteration"],
+      "keywords": [
+        "numerical methods",
+        "iteration",
+        "race time",
+        "exponential",
+        "T2",
+        "decimal places",
+        "100 m",
+        "repeated iteration"
+      ],
       "question": "Using the iteration T(n+1) = (1/12)(116 - 16e^(-0.75T_n) + e^(T_n - 10) - e^(-10)) with T1 = 10, find, to 4 decimal places, (i) the value of T2; (ii) the time taken by the sprinter to run the race, according to the model.",
       "status": "ready",
       "answer": "(i) T2 = 9.7493 s; (ii) T = 9.7293 s",
@@ -410,6 +731,10 @@
         "T2 = (116 - 0.00885 + 1 - 0.0000454)/12 = 116.99110/12 = 9.7493.",
         "Continue: T3 = 9.7306, then repeat until values agree to 4 decimal places.",
         "The converged value is T = 9.7293, so the race takes 9.7293 s."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-07.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-08.jpg"
       ]
     },
     {
@@ -417,7 +742,16 @@
       "no": "Q9(a)",
       "marks": 3,
       "topic": "Exponential Equation Log Form",
-      "keywords": ["numerical methods", "exponential", "logarithm", "curve", "coordinate", "ln k", "solve", "C1"],
+      "keywords": [
+        "numerical methods",
+        "exponential",
+        "logarithm",
+        "curve",
+        "coordinate",
+        "ln k",
+        "solve",
+        "C1"
+      ],
       "question": "Figure 3 shows curve C1 with equation y = 5e^(x-1) + 3 and curve C2 with equation y = 10 - x^2. The point P lies on C1 and has y coordinate 18. Find the x coordinate of P, writing your answer in the form ln k, where k is a constant to be found.",
       "status": "ready",
       "answer": "x = ln(3e) = 1 + ln 3 = 2.0986, so k = 3e",
@@ -426,6 +760,10 @@
         "So e^(x-1) = 3.",
         "x - 1 = ln 3, so x = 1 + ln 3.",
         "Since 1 = ln e, x = ln e + ln 3 = ln(3e), so k = 3e (about 8.155)."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-08.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-09.jpg"
       ]
     },
     {
@@ -433,7 +771,16 @@
       "no": "Q9(b)",
       "marks": 3,
       "topic": "Prove Intersection Root",
-      "keywords": ["numerical methods", "sign change", "intersection", "root", "curves", "decimal places", "exponential", "alpha"],
+      "keywords": [
+        "numerical methods",
+        "sign change",
+        "intersection",
+        "root",
+        "curves",
+        "decimal places",
+        "exponential",
+        "alpha"
+      ],
       "question": "The curve C1 meets the curve C2 at x = alpha and at x = beta. Using a suitable interval and a suitable function that should be stated, show that alpha = 1.134 to 3 decimal places.",
       "status": "ready",
       "answer": "With h(x) = 5e^(x-1) + x^2 - 7: h(1.1335) < 0 and h(1.1345) > 0, so alpha = 1.134.",
@@ -443,6 +790,10 @@
         "h(1.1335) = -0.00107 < 0.",
         "h(1.1345) = +0.00691 > 0.",
         "Sign change on [1.1335, 1.1345], so alpha = 1.134 to 3 decimal places."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-08.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-09.jpg"
       ]
     },
     {
@@ -450,7 +801,16 @@
       "no": "Q9(c)",
       "marks": 3,
       "topic": "Iteration For Negative Intersection",
-      "keywords": ["numerical methods", "iteration", "intersection", "negative root", "exponential", "beta", "6 decimal places", "square root"],
+      "keywords": [
+        "numerical methods",
+        "iteration",
+        "intersection",
+        "negative root",
+        "exponential",
+        "beta",
+        "6 decimal places",
+        "square root"
+      ],
       "question": "The iterative equation x(n+1) = -sqrt(7 - 5e^(x_n - 1)) is used to find an approximation to beta. Using this formula with x1 = -3, find, to 6 decimal places, the value of x2 and the value of beta.",
       "status": "ready",
       "answer": "x2 = -2.628388 and beta = -2.620330",
@@ -460,6 +820,10 @@
         "Each further step uses the previous value x_n in the exponent.",
         "Iterate until consecutive values agree to 6 decimal places.",
         "The converged value is beta = -2.620330."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-08.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-09.jpg"
       ]
     },
     {
@@ -467,7 +831,16 @@
       "no": "Q10(a)",
       "marks": 2,
       "topic": "Composite Function Evaluation",
-      "keywords": ["functions", "modulus", "composite", "ff", "evaluate", "piecewise", "graph", "f(x)"],
+      "keywords": [
+        "functions",
+        "modulus",
+        "composite",
+        "ff",
+        "evaluate",
+        "piecewise",
+        "graph",
+        "f(x)"
+      ],
       "question": "Figure 2 shows part of the graph of y = f(x), where f(x) = 21 - 2|2 - x|, x >= 0. Find ff(6).",
       "status": "ready",
       "answer": "ff(6) = -1",
@@ -475,6 +848,11 @@
         "f(6) = 21 - 2|2 - 6| = 21 - 2(4) = 13.",
         "f(13) = 21 - 2|2 - 13| = 21 - 2(11) = -1.",
         "So ff(6) = -1."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-09.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-10.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-11.jpg"
       ]
     },
     {
@@ -482,7 +860,16 @@
       "no": "Q10(b)",
       "marks": 2,
       "topic": "Solve Modulus Equation",
-      "keywords": ["functions", "modulus", "solve", "piecewise", "linear equation", "f(x) = 5x", "intersection", "domain"],
+      "keywords": [
+        "functions",
+        "modulus",
+        "solve",
+        "piecewise",
+        "linear equation",
+        "f(x) = 5x",
+        "intersection",
+        "domain"
+      ],
       "question": "Solve the equation f(x) = 5x for f(x) = 21 - 2|2 - x|, x >= 0.",
       "status": "ready",
       "answer": "x = 25/7 (about 3.571)",
@@ -491,6 +878,11 @@
         "For x >= 2: f(x) = 21 - 2(x - 2) = 25 - 2x.",
         "25 - 2x = 5x gives 7x = 25, so x = 25/7 = 3.571.",
         "This value is at least 2, so it is valid: x = 25/7."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-09.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-10.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-11.jpg"
       ]
     },
     {
@@ -498,7 +890,16 @@
       "no": "Q10(c)",
       "marks": 2,
       "topic": "Range For Two Roots",
-      "keywords": ["functions", "range", "horizontal line", "two roots", "modulus", "graph", "set of values", "k"],
+      "keywords": [
+        "functions",
+        "range",
+        "horizontal line",
+        "two roots",
+        "modulus",
+        "graph",
+        "set of values",
+        "k"
+      ],
       "question": "Given that the equation f(x) = k, where k is a constant, has exactly two roots, state the set of possible values of k, for f(x) = 21 - 2|2 - x|, x >= 0.",
       "status": "ready",
       "answer": "17 <= k < 21, i.e. k in [17, 21)",
@@ -507,6 +908,11 @@
         "For x >= 2: f(x) = 25 - 2x, which has maximum 21 at x = 2 and decreases.",
         "k = 21 gives one root (x = 2); k > 21 gives no roots; k < 17 gives one root (x > 2).",
         "For 17 <= k < 21 there is one root in [0, 2) and one root with x > 2 (for k = 17 the roots are x = 0 and x = 4)."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-09.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-10.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-11.jpg"
       ]
     },
     {
@@ -514,7 +920,16 @@
       "no": "Q10(d)",
       "marks": 2,
       "topic": "Transformation Of Graph",
-      "keywords": ["functions", "transformation", "vertex", "stretch", "translation", "maximum point", "a f(x-b)", "graph"],
+      "keywords": [
+        "functions",
+        "transformation",
+        "vertex",
+        "stretch",
+        "translation",
+        "maximum point",
+        "a f(x-b)",
+        "graph"
+      ],
       "question": "The graph with equation y = f(x) is transformed onto the graph with equation y = a f(x - b). The vertex of the transformed graph is (6, 3). Given that a and b are constants, find the value of a and the value of b.",
       "status": "ready",
       "answer": "a = 1/7, b = 4",
@@ -523,6 +938,11 @@
         "Under y = a f(x - b) this point maps to (b + 2, 21a).",
         "b + 2 = 6, so b = 4.",
         "21a = 3, so a = 1/7."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-09.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-10.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-11.jpg"
       ]
     },
     {
@@ -530,7 +950,16 @@
       "no": "Q11(a)",
       "marks": 4,
       "topic": "Stationary Point Using Calculus",
-      "keywords": ["calculus", "stationary point", "product rule", "chain rule", "arctan", "show", "cosine", "iteration"],
+      "keywords": [
+        "calculus",
+        "stationary point",
+        "product rule",
+        "chain rule",
+        "arctan",
+        "show",
+        "cosine",
+        "iteration"
+      ],
       "question": "The curve C has equation y = x^2 cos(x/2), 0 < x <= pi, and has a stationary point at P. Show, using calculus, that the x coordinate of P is a solution of x = 2 arctan(4/x).",
       "status": "ready",
       "answer": "Shown.",
@@ -539,6 +968,11 @@
         "Factorise: dy/dx = x[2cos(x/2) - (x/2)sin(x/2)].",
         "At a stationary point with x not 0: 2cos(x/2) = (x/2)sin(x/2), so tan(x/2) = 4/x.",
         "Hence x/2 = arctan(4/x), i.e. x = 2 arctan(4/x)."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-11.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-12.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-13.jpg"
       ]
     },
     {
@@ -546,7 +980,16 @@
       "no": "Q11(b)",
       "marks": 3,
       "topic": "Iteration With Arctan",
-      "keywords": ["numerical methods", "iteration", "arctan", "x2 x6", "decimal places", "starting value", "stationary point", "repeated"],
+      "keywords": [
+        "numerical methods",
+        "iteration",
+        "arctan",
+        "x2 x6",
+        "decimal places",
+        "starting value",
+        "stationary point",
+        "repeated"
+      ],
       "question": "Using the iteration x(n+1) = 2 arctan(4/x_n) with x1 = 2, find the value of x2 and the value of x6, giving your answers to 3 decimal places.",
       "status": "ready",
       "answer": "x2 = 2.214 and x6 = 2.155",
@@ -555,6 +998,11 @@
         "Apply the formula to x2 to get x3, and so on.",
         "Continue to x6, applying the same formula each time.",
         "x6 = 2.155 to 3 decimal places."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-11.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-12.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-13.jpg"
       ]
     },
     {
@@ -562,7 +1010,16 @@
       "no": "Q12(a)",
       "marks": 2,
       "topic": "Locate Root Interval",
-      "keywords": ["numerical methods", "sign change", "cosine", "root", "interval", "show", "alpha", "x-axis"],
+      "keywords": [
+        "numerical methods",
+        "sign change",
+        "cosine",
+        "root",
+        "interval",
+        "show",
+        "alpha",
+        "x-axis"
+      ],
       "question": "Figure 3 shows part of the curve y = 2cos(3x) - 3x + 4, x > 0, where x is in radians. The curve crosses the x-axis at P, and the x coordinate of P is alpha. Show that alpha lies between 0.8 and 0.9.",
       "status": "ready",
       "answer": "y(0.8) = 0.125 > 0 and y(0.9) = -0.508 < 0, so alpha is between 0.8 and 0.9.",
@@ -571,6 +1028,11 @@
         "y(0.9) = 2cos(2.7) - 2.7 + 4 = 2(-0.90407) + 1.3 = -0.50814.",
         "y is continuous and changes sign on [0.8, 0.9].",
         "So alpha lies between 0.8 and 0.9."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-11.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-12.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-13.jpg"
       ]
     },
     {
@@ -578,7 +1040,16 @@
       "no": "Q12(b)",
       "marks": 3,
       "topic": "Iteration With Arccos",
-      "keywords": ["numerical methods", "iteration", "arccos", "cosine", "x2 x5", "4 decimal places", "root", "starting value"],
+      "keywords": [
+        "numerical methods",
+        "iteration",
+        "arccos",
+        "cosine",
+        "x2 x5",
+        "4 decimal places",
+        "root",
+        "starting value"
+      ],
       "question": "The iteration x(n+1) = (1/3)arccos(1.5x_n - 2) can be used to find an approximate value for alpha. Using this iteration with x1 = 0.8, find, to 4 decimal places, the value of (i) x2; (ii) x5.",
       "status": "ready",
       "answer": "(i) x2 = 0.8327; (ii) x5 = 0.8110",
@@ -587,6 +1058,11 @@
         "Apply the formula to x2 to get x3 = 0.8068, then x4 = 0.8271.",
         "Apply it once more to get x5.",
         "x5 = 0.8110 to 4 decimal places."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-11.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-12.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-13.jpg"
       ]
     },
     {
@@ -594,7 +1070,16 @@
       "no": "Q12(c)",
       "marks": 6,
       "topic": "Exact Local Minima Points",
-      "keywords": ["calculus", "stationary point", "local minimum", "cosine", "exact value", "second derivative", "trigonometric equation", "pi"],
+      "keywords": [
+        "calculus",
+        "stationary point",
+        "local minimum",
+        "cosine",
+        "exact value",
+        "second derivative",
+        "trigonometric equation",
+        "pi"
+      ],
       "question": "Figure 3 shows the curve y = 2cos(3x) - 3x + 4, x > 0. The points Q and R are local minimum points with x coordinates beta and lambda, the two smallest values of x at which local minima occur. Using calculus and showing each stage, find the exact value of beta and the exact value of lambda.",
       "status": "ready",
       "answer": "beta = 7pi/18 (about 1.222) and lambda = 19pi/18 (about 3.316)",
@@ -604,6 +1089,11 @@
         "The first solution with cos(3x) < 0 is 3x = 7pi/6, so beta = 7pi/18.",
         "3x = 11pi/6 has cos(3x) > 0, so it is a maximum and is not used.",
         "The next minimum is at 3x = 7pi/6 + 2pi = 19pi/6, so lambda = 19pi/18."
+      ],
+      "images": [
+        "papers/maths/img/P3-05-Numerical-Methods-11.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-12.jpg",
+        "papers/maths/img/P3-05-Numerical-Methods-13.jpg"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 {
   "code": "Ch15D",
-  "title": "Acid Derivatives",
+  "title": "Acid derivatives",
   "unit": "A2 (inferred from organic chemistry content; unit number not stated in text)",
   "pdf": "papers/chemistry/15D-Acid-Derivatives.pdf",
   "questions": [
@@ -9,7 +9,16 @@
       "no": "Q1",
       "marks": 1,
       "topic": "Ester Percentage Composition",
-      "keywords": ["ester", "percentage by mass", "carbon", "molar mass", "methyl ethanoate", "ethyl ethanoate", "mr", "composition"],
+      "keywords": [
+        "ester",
+        "percentage by mass",
+        "carbon",
+        "molar mass",
+        "methyl ethanoate",
+        "ethyl ethanoate",
+        "mr",
+        "composition"
+      ],
       "question": "Which ester has 54.5% carbon by mass? Options: A methyl methanoate, B methyl ethanoate, C ethyl ethanoate, D ethyl methanoate.",
       "status": "ready",
       "answer": "C - ethyl ethanoate (54.5% C)",
@@ -19,6 +28,11 @@
         "C, CH3COOC2H5 = C4H8O2, Mr 88.0: %C = 48.0/88.0 = 54.5%",
         "D, HCOOC2H5 = C3H6O2, Mr 74.0: %C = 48.6%",
         "Only option C gives 54.5% carbon"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-01.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-02.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-03.jpg"
       ]
     },
     {
@@ -26,7 +40,15 @@
       "no": "Q2(a)(i)",
       "marks": 1,
       "topic": "Ester Naming",
-      "keywords": ["isoamyl acetate", "systematic name", "ester nomenclature", "ethanoate", "3-methylbutyl", "alkyl group", "iupac name"],
+      "keywords": [
+        "isoamyl acetate",
+        "systematic name",
+        "ester nomenclature",
+        "ethanoate",
+        "3-methylbutyl",
+        "alkyl group",
+        "iupac name"
+      ],
       "question": "Give the systematic name for isoamyl acetate, an ester of ethanoic acid (CH3COOCH2CH2CH(CH3)2).",
       "status": "ready",
       "answer": "3-methylbutyl ethanoate",
@@ -34,6 +56,11 @@
         "Acid part CH3COO- is ethanoate (from ethanoic acid)",
         "Alkyl part CH2CH2CH(CH3)2 is a 5-carbon chain with a methyl branch on C3",
         "Name the alkyl group first: 3-methylbutyl, then ethanoate"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-01.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-02.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-03.jpg"
       ]
     },
     {
@@ -41,7 +68,16 @@
       "no": "Q2(a)(ii)",
       "marks": 3,
       "topic": "Ester Mass Percentage",
-      "keywords": ["isoamyl acetate", "percentage by mass", "hydrolysis", "sodium hydroxide", "molar mass", "mole ratio", "flavouring", "ester"],
+      "keywords": [
+        "isoamyl acetate",
+        "percentage by mass",
+        "hydrolysis",
+        "sodium hydroxide",
+        "molar mass",
+        "mole ratio",
+        "flavouring",
+        "ester"
+      ],
       "question": "6.06 x 10^-3 mol NaOH reacted with the ester in 1.07 g of banana flavouring. Find the percentage by mass of the ester (isoamyl acetate).",
       "status": "ready",
       "answer": "73.7% (about 74%)",
@@ -50,6 +86,11 @@
         "Ester hydrolysis is 1:1, so moles of ester = moles of NaOH = 6.06 x 10^-3 mol",
         "Mass of ester = 6.06 x 10^-3 x 130.2 = 0.789 g",
         "Percentage = 0.789 / 1.07 x 100 = 73.7%"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-01.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-02.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-03.jpg"
       ]
     },
     {
@@ -57,7 +98,16 @@
       "no": "Q2(a)(iii)",
       "marks": 3,
       "topic": "pH After Hydrolysis",
-      "keywords": ["ph", "excess sodium hydroxide", "hydroxide concentration", "hydrolysis complete", "strong base", "poh", "titration", "isoamyl acetate"],
+      "keywords": [
+        "ph",
+        "excess sodium hydroxide",
+        "hydroxide concentration",
+        "hydrolysis complete",
+        "strong base",
+        "poh",
+        "titration",
+        "isoamyl acetate"
+      ],
       "question": "25.0 cm^3 of 0.980 mol dm^-3 NaOH was used to hydrolyse the ester; 6.06 x 10^-3 mol of NaOH reacted with the ester. Find the pH of the mixture at completion, assuming total volume 25.0 cm^3.",
       "status": "ready",
       "answer": "pH = 13.9 (about 13.87)",
@@ -67,6 +117,11 @@
         "[OH-] = 0.01844 / 0.0250 = 0.738 mol dm^-3 (strong base, fully dissociated)",
         "pOH = -log(0.738) = 0.132",
         "pH = 14.00 - 0.132 = 13.87, about 13.9"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-01.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-02.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-03.jpg"
       ]
     },
     {
@@ -74,7 +129,16 @@
       "no": "Q2(a)(iv)",
       "marks": 2,
       "topic": "Titration Indicator Choice",
-      "keywords": ["indicator", "methyl orange", "phenolphthalein", "end point", "titration", "sodium ethanoate", "excess sodium hydroxide", "hydrochloric acid"],
+      "keywords": [
+        "indicator",
+        "methyl orange",
+        "phenolphthalein",
+        "end point",
+        "titration",
+        "sodium ethanoate",
+        "excess sodium hydroxide",
+        "hydrochloric acid"
+      ],
       "question": "Which student is correct about using methyl orange and/or phenolphthalein to titrate the excess NaOH (mixture also contains sodium ethanoate) with HCl? Student A: only methyl orange; B: only phenolphthalein; C: either.",
       "status": "ready",
       "answer": "Student B is correct: only phenolphthalein gives the right end point",
@@ -84,6 +148,11 @@
         "Methyl orange changes at pH 3.1-4.4, only reached after the ethanoate ion is also protonated",
         "Using methyl orange would include the ethanoate, giving a titre that is too large",
         "Students A and C are wrong"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-01.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-02.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-03.jpg"
       ]
     },
     {
@@ -91,7 +160,16 @@
       "no": "Q2(a)(v)",
       "marks": 1,
       "topic": "Sodium Ethanoate Conversion",
-      "keywords": ["sodium ethanoate", "ethanoic acid", "acidify", "distil", "hydrochloric acid", "salt", "boiling point", "conversion"],
+      "keywords": [
+        "sodium ethanoate",
+        "ethanoic acid",
+        "acidify",
+        "distil",
+        "hydrochloric acid",
+        "salt",
+        "boiling point",
+        "conversion"
+      ],
       "question": "Describe how the sodium ethanoate in the final reaction mixture could be converted into ethanoic acid.",
       "status": "ready",
       "answer": "Add dilute strong acid (e.g. HCl) to protonate the ethanoate, then distil off the ethanoic acid",
@@ -99,6 +177,11 @@
         "CH3COONa + HCl -> CH3COOH + NaCl",
         "A strong acid protonates the weak-acid conjugate base ethanoate",
         "Ethanoic acid (bp 118 deg C) is volatile enough to be separated from the salt solution by distillation"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-01.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-02.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-03.jpg"
       ]
     },
     {
@@ -106,7 +189,16 @@
       "no": "Q2(b)(i)",
       "marks": 5,
       "topic": "Buffer pH Calculation",
-      "keywords": ["buffer", "ph", "ethanoic acid", "sodium hydroxide", "pka", "henderson equation", "neutralisation", "mixed solutions"],
+      "keywords": [
+        "buffer",
+        "ph",
+        "ethanoic acid",
+        "sodium hydroxide",
+        "pka",
+        "henderson equation",
+        "neutralisation",
+        "mixed solutions"
+      ],
       "question": "Find the pH of the buffer made by mixing 50.0 cm^3 of 0.150 mol dm^-3 ethanoic acid with 30.0 cm^3 of 0.142 mol dm^-3 NaOH.",
       "status": "ready",
       "answer": "pH = 4.88 (Ka of ethanoic acid = 1.74 x 10^-5 mol dm^-3)",
@@ -117,6 +209,11 @@
         "Acid left = 7.50 - 4.26 = 3.24 x 10^-3 mol; salt CH3COONa formed = 4.26 x 10^-3 mol",
         "pKa = -log(1.74 x 10^-5) = 4.76",
         "pH = pKa + log(salt/acid) = 4.76 + log(4.26/3.24) = 4.76 + 0.12 = 4.88 (volumes cancel)"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-01.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-02.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-03.jpg"
       ]
     },
     {
@@ -124,7 +221,16 @@
       "no": "Q2(b)(ii)",
       "marks": 5,
       "topic": "Buffer Action Explained",
-      "keywords": ["buffer", "sodium hydroxide", "hydrochloric acid", "equilibrium", "le chatelier", "weak acid", "conjugate base", "ph change"],
+      "keywords": [
+        "buffer",
+        "sodium hydroxide",
+        "hydrochloric acid",
+        "equilibrium",
+        "le chatelier",
+        "weak acid",
+        "conjugate base",
+        "ph change"
+      ],
       "question": "Explain why small amounts of NaOH and HCl added to the buffer in (b)(i) cause little change in pH. Illustrate with at least two equations.",
       "status": "ready",
       "answer": "The buffer holds a large amount of weak acid (CH3COOH) and its conjugate base (CH3COO-), which remove added OH- and H+ so pH barely changes",
@@ -135,6 +241,11 @@
         "Equilibrium shifts to replace the lost H+ (left or right, Le Chatelier)",
         "Both species are present in large amounts, so the [acid]/[salt] ratio changes only slightly",
         "pH = pKa + log([A-]/[HA]) therefore changes very little"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-01.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-02.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-03.jpg"
       ]
     },
     {
@@ -142,40 +253,82 @@
       "no": "Q3(a)",
       "marks": 1,
       "topic": "Acid Strength of Compounds",
-      "keywords": ["lowest ph", "acid", "carboxylic acid", "functional groups", "five carbon compounds", "water solution", "compounds 1-4"],
+      "keywords": [
+        "lowest ph",
+        "acid",
+        "carboxylic acid",
+        "functional groups",
+        "five carbon compounds",
+        "water solution",
+        "compounds 1-4"
+      ],
       "question": "Which of four C5 compounds (options A-D, compounds 1-4), when mixed with water, gives the solution with lowest pH?",
       "status": "pending",
       "answer": "Pending: structures of compounds 1-4 are missing from the text (diagrams not extracted)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-04.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-05.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q3b",
       "no": "Q3(b)",
       "marks": 1,
       "topic": "Amide Formation",
-      "keywords": ["ethylamine", "n-substituted amide", "acyl chloride", "amine", "functional groups", "compounds 1-4"],
+      "keywords": [
+        "ethylamine",
+        "n-substituted amide",
+        "acyl chloride",
+        "amine",
+        "functional groups",
+        "compounds 1-4"
+      ],
       "question": "Which of compounds 1-4 (options A-D) reacts with ethylamine, CH3CH2NH2, to form an N-substituted amide?",
       "status": "pending",
       "answer": "Pending: structures of compounds 1-4 are missing from the text (diagrams not extracted)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-04.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-05.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q3c",
       "no": "Q3(c)",
       "marks": 1,
       "topic": "Iodoform Test",
-      "keywords": ["iodine", "sodium hydroxide", "pale yellow precipitate", "iodoform", "ch3co group", "compounds 1-4"],
+      "keywords": [
+        "iodine",
+        "sodium hydroxide",
+        "pale yellow precipitate",
+        "iodoform",
+        "ch3co group",
+        "compounds 1-4"
+      ],
       "question": "Which of compounds 1-4 (options A-D) reacts with iodine and sodium hydroxide to give a pale yellow precipitate?",
       "status": "pending",
       "answer": "Pending: structures of compounds 1-4 are missing from the text (diagrams not extracted)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-04.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-05.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q4",
       "no": "Q4",
       "marks": 1,
       "topic": "Polymerisation Type",
-      "keywords": ["polymerisation", "condensation", "hexanedioyl dichloride", "hexane-1,6-diamine", "nylon", "hcl elimination", "acyl chloride"],
+      "keywords": [
+        "polymerisation",
+        "condensation",
+        "hexanedioyl dichloride",
+        "hexane-1,6-diamine",
+        "nylon",
+        "hcl elimination",
+        "acyl chloride"
+      ],
       "question": "A polymer is made from hexanedioyl dichloride and hexane-1,6-diamine. What type of polymerisation occurs? Options: A addition, B condensation, C hydrolysis, D substitution.",
       "status": "ready",
       "answer": "B - condensation",
@@ -184,6 +337,10 @@
         "A small molecule (HCl) is eliminated at each linkage",
         "Loss of a small molecule when linking monomers means condensation polymerisation",
         "Addition needs a C=C double bond; hydrolysis needs water to split a bond"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-05.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-06.jpg"
       ]
     },
     {
@@ -191,18 +348,36 @@
       "no": "Q5",
       "marks": 1,
       "topic": "Amide Products With Methylamine",
-      "keywords": ["methylamine", "ethanoyl chloride", "products", "amide", "nucleophilic substitution", "not formed"],
+      "keywords": [
+        "methylamine",
+        "ethanoyl chloride",
+        "products",
+        "amide",
+        "nucleophilic substitution",
+        "not formed"
+      ],
       "question": "Which of the following could not be formed when methylamine is added to ethanoyl chloride? (Options A-D)",
       "status": "pending",
       "answer": "Pending: answer options A-D are missing from the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-05.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-06.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q6",
       "no": "Q6",
       "marks": 1,
       "topic": "Acid Hydrolysis Products",
-      "keywords": ["butanoic acid", "acid hydrolysis", "ester", "nitrile", "alkyl halide", "ethyl butanoate"],
+      "keywords": [
+        "butanoic acid",
+        "acid hydrolysis",
+        "ester",
+        "nitrile",
+        "alkyl halide",
+        "ethyl butanoate"
+      ],
       "question": "Butanoic acid may be prepared by acid hydrolysis of: A butyl ethanoate, B 1-chlorobutane, C ethyl butanoate, D propanenitrile.",
       "status": "ready",
       "answer": "C - ethyl butanoate",
@@ -211,6 +386,10 @@
         "CH3CH2CH2COOC2H5 + H2O -> CH3CH2CH2COOH + C2H5OH",
         "Butyl ethanoate gives ethanoic acid; propanenitrile gives propanoic acid",
         "1-chlorobutane gives butan-1-ol, not an acid"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-05.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-06.jpg"
       ]
     },
     {
@@ -218,18 +397,35 @@
       "no": "Q7",
       "marks": 1,
       "topic": "Catalysts For Esters",
-      "keywords": ["ester formation", "ester hydrolysis", "catalyst", "reaction rate", "acid catalyst", "laboratory conditions"],
+      "keywords": [
+        "ester formation",
+        "ester hydrolysis",
+        "catalyst",
+        "reaction rate",
+        "acid catalyst",
+        "laboratory conditions"
+      ],
       "question": "What speeds up the slow formation and hydrolysis of esters under normal laboratory conditions? (Options A-D)",
       "status": "pending",
       "answer": "Pending: answer options A-D are missing from the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-06.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q8",
       "no": "Q8",
       "marks": 1,
       "topic": "Amide Formation Reagent",
-      "keywords": ["methylamine", "n-methylethanamide", "acyl chloride", "room temperature", "amide", "reagent"],
+      "keywords": [
+        "methylamine",
+        "n-methylethanamide",
+        "acyl chloride",
+        "room temperature",
+        "amide",
+        "reagent"
+      ],
       "question": "Which reagent reacts at room temperature with methylamine to form N-methylethanamide? Options: A CH3COCH3, B CH3COOH, C CH3COOCH3, D CH3COCl.",
       "status": "ready",
       "answer": "D - CH3COCl (ethanoyl chloride)",
@@ -238,6 +434,9 @@
         "Acyl chlorides react with amines rapidly at room temperature",
         "Ethanoic acid only forms a salt with the amine at room temperature",
         "Methyl ethanoate needs heating; propanone (ketone) does not acylate amines"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-06.jpg"
       ]
     },
     {
@@ -245,18 +444,37 @@
       "no": "Q9(a)",
       "marks": 1,
       "topic": "PHBV Repeat Unit",
-      "keywords": ["phbv", "repeat unit", "3-hydroxybutanoic acid", "3-hydroxypentanoic acid", "polyester", "biodegradable polymer"],
+      "keywords": [
+        "phbv",
+        "repeat unit",
+        "3-hydroxybutanoic acid",
+        "3-hydroxypentanoic acid",
+        "polyester",
+        "biodegradable polymer"
+      ],
       "question": "Which structure is the repeat unit of PHBV, a polymer formed from 3-hydroxybutanoic acid and 3-hydroxypentanoic acid?",
       "status": "pending",
       "answer": "Pending: repeat-unit options A-D are structure diagrams, not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-07.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-08.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q9b",
       "no": "Q9(b)",
       "marks": 1,
       "topic": "Biodegradation Reaction",
-      "keywords": ["biodegradation", "phbv", "monomers", "hydrolysis", "condensation", "polyester", "ester bonds"],
+      "keywords": [
+        "biodegradation",
+        "phbv",
+        "monomers",
+        "hydrolysis",
+        "condensation",
+        "polyester",
+        "ester bonds"
+      ],
       "question": "What reaction occurs when PHBV biodegrades to its monomers? Options: A condensation, B hydrolysis, C hydration, D hydrogenation.",
       "status": "ready",
       "answer": "B - hydrolysis",
@@ -264,6 +482,10 @@
         "PHBV is a polyester containing ester links",
         "Biodegradation splits the ester links by reaction with water",
         "Splitting a bond with water is hydrolysis; condensation is the reverse, joining monomers with loss of water"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-07.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-08.jpg"
       ]
     },
     {
@@ -271,7 +493,14 @@
       "no": "Q10",
       "marks": 1,
       "topic": "Alkaline Ester Hydrolysis",
-      "keywords": ["propyl ethanoate", "sodium hydroxide", "alkaline hydrolysis", "saponification", "sodium ethanoate", "propan-1-ol"],
+      "keywords": [
+        "propyl ethanoate",
+        "sodium hydroxide",
+        "alkaline hydrolysis",
+        "saponification",
+        "sodium ethanoate",
+        "propan-1-ol"
+      ],
       "question": "Propyl ethanoate, CH3COOCH2CH2CH3, is hydrolysed with aqueous NaOH. Which products form? Options: A CH3COOH and CH3CH2CH2OH, B CH3COOH and CH3CH2CH2ONa, C CH3COONa and CH3CH2CH2OH, D CH3COONa and CH3CH2CH2ONa.",
       "status": "ready",
       "answer": "C - CH3COONa and CH3CH2CH2OH",
@@ -279,6 +508,10 @@
         "Alkaline hydrolysis of an ester gives a carboxylate salt and an alcohol",
         "CH3COOCH2CH2CH3 + NaOH -> CH3COONa + CH3CH2CH2OH",
         "The acid is formed as its sodium salt, not free ethanoic acid, in NaOH"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-08.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-09.jpg"
       ]
     },
     {
@@ -286,18 +519,37 @@
       "no": "Q11",
       "marks": 1,
       "topic": "Terylene Repeat Unit",
-      "keywords": ["terylene", "polyester", "repeat unit", "ethane-1,2-diol", "terephthalic acid", "structure"],
+      "keywords": [
+        "terylene",
+        "polyester",
+        "repeat unit",
+        "ethane-1,2-diol",
+        "terephthalic acid",
+        "structure"
+      ],
       "question": "Terylene is made from ethane-1,2-diol and terephthalic acid. Which structure is its repeat unit? (Options A-D)",
       "status": "pending",
       "answer": "Pending: repeat-unit options are structure diagrams, not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-08.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-09.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q12",
       "no": "Q12",
       "marks": 1,
       "topic": "Miscibility And Boiling Point",
-      "keywords": ["miscible", "boiling point", "ethanoic acid", "acetone", "butanal", "ethyl propanoate", "hydrogen bonding"],
+      "keywords": [
+        "miscible",
+        "boiling point",
+        "ethanoic acid",
+        "acetone",
+        "butanal",
+        "ethyl propanoate",
+        "hydrogen bonding"
+      ],
       "question": "Which compound is completely miscible with water and has a higher boiling point than water? Options: A CH3COOH, B CH3COCH3, C CH3CH2CH2CHO, D CH3CH2COOCH2CH3.",
       "status": "ready",
       "answer": "A - CH3COOH (ethanoic acid)",
@@ -306,6 +558,9 @@
         "Its boiling point is 118 deg C, above water at 100 deg C",
         "Acetone is miscible but boils at 56 deg C",
         "Butanal (bp 76 deg C) and ethyl propanoate (bp 99 deg C, 5 carbons) are not miscible with water"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-09.jpg"
       ]
     },
     {
@@ -313,7 +568,15 @@
       "no": "Q13(a)(i)",
       "marks": 4,
       "topic": "Esterification Equilibrium Kc",
-      "keywords": ["kc", "equilibrium constant", "ethanoic acid", "ethanol", "esterification", "sodium hydroxide titration", "equilibrium mixture"],
+      "keywords": [
+        "kc",
+        "equilibrium constant",
+        "ethanoic acid",
+        "ethanol",
+        "esterification",
+        "sodium hydroxide titration",
+        "equilibrium mixture"
+      ],
       "question": "0.200 mol ethanoic acid and 0.150 mol ethanol reach equilibrium at 25 deg C. The equilibrium mixture needs 34.8 cm^3 of 2.50 mol dm^-3 NaOH to neutralise its ethanoic acid. Calculate Kc.",
       "status": "ready",
       "answer": "Kc = 3.97 (dimensionless)",
@@ -323,6 +586,10 @@
         "Ethanol at equilibrium = 0.150 - 0.113 = 0.0370 mol",
         "Kc = [ester][water] / ([acid][ethanol]) = (0.113 x 0.113) / (0.0870 x 0.0370)",
         "Volume cancels (2 mol on each side), so Kc = 0.012769 / 0.003219 = 3.97"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-10.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-11.jpg"
       ]
     },
     {
@@ -330,7 +597,15 @@
       "no": "Q13(a)(ii)",
       "marks": 2,
       "topic": "Enthalpy From Bond Types",
-      "keywords": ["enthalpy change", "small", "bonds broken", "bonds made", "esterification", "c-o bond", "o-h bond"],
+      "keywords": [
+        "enthalpy change",
+        "small",
+        "bonds broken",
+        "bonds made",
+        "esterification",
+        "c-o bond",
+        "o-h bond"
+      ],
       "question": "Explain, using the types and numbers of bonds broken and made, why the enthalpy change for esterification is small.",
       "status": "ready",
       "answer": "The same number and types of bonds are broken (C-O and O-H) and made (C-O and O-H), so the energy changes nearly cancel",
@@ -339,6 +614,10 @@
         "Bonds broken: one C-O and one O-H (from the acid and alcohol)",
         "Bonds made: one C-O (ester) and one O-H (water)",
         "Same types and numbers of bonds broken and made, so the enthalpy change is small"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-10.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-11.jpg"
       ]
     },
     {
@@ -346,29 +625,60 @@
       "no": "Q13(b)(i)",
       "marks": 2,
       "topic": "Raspberry Ester Synthesis",
-      "keywords": ["raspberry ester", "reaction 1", "carboxylic acid", "alcohol", "catalyst", "esterification", "ester synthesis"],
+      "keywords": [
+        "raspberry ester",
+        "reaction 1",
+        "carboxylic acid",
+        "alcohol",
+        "catalyst",
+        "esterification",
+        "ester synthesis"
+      ],
       "question": "Name the carboxylic acid, alcohol and catalyst used in Reaction 1 for making an ester that smells of raspberries.",
       "status": "pending",
       "answer": "Pending: Reaction 1 and Reaction 2 are shown as diagrams/reagents not present in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-10.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-11.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q13b(ii)",
       "no": "Q13(b)(ii)",
       "marks": 4,
       "topic": "Comparing Ester Routes",
-      "keywords": ["reaction 2", "reaction 1", "advantage", "disadvantage", "ester synthesis", "yield", "acyl chloride"],
+      "keywords": [
+        "reaction 2",
+        "reaction 1",
+        "advantage",
+        "disadvantage",
+        "ester synthesis",
+        "yield",
+        "acyl chloride"
+      ],
       "question": "Explain one advantage and one disadvantage of Reaction 2 compared with Reaction 1 for making the raspberry ester.",
       "status": "pending",
       "answer": "Pending: Reaction 1 and Reaction 2 are shown as diagrams/reagents not present in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-10.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-11.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q14",
       "no": "Q14",
       "marks": 1,
       "topic": "Alkaline Hydrolysis Products",
-      "keywords": ["alkaline hydrolysis", "sodium hydroxide", "propyl ethanoate", "propan-1-ol", "sodium ethanoate", "ester"],
+      "keywords": [
+        "alkaline hydrolysis",
+        "sodium hydroxide",
+        "propyl ethanoate",
+        "propan-1-ol",
+        "sodium ethanoate",
+        "ester"
+      ],
       "question": "Which compound is a product of hydrolysing CH3COOC3H7 (ester formula partly garbled in text) with aqueous NaOH? Options: A CH3OH, B C3H7OH, C C3H7COOH, D C3H7COO-Na+.",
       "status": "ready",
       "answer": "B - C3H7OH (propanol)",
@@ -377,6 +687,10 @@
         "NaOH hydrolysis gives CH3COO-Na+ and C3H7OH",
         "C3H7OH is the alcohol product",
         "CH3OH, C3H7COOH and C3H7COO-Na+ are not products of this ester"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-11.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-12.jpg"
       ]
     },
     {
@@ -384,7 +698,16 @@
       "no": "Q15",
       "marks": 6,
       "topic": "Acyl Chloride Reactions Compared",
-      "keywords": ["ethanoyl chloride", "water", "ethanol", "ammonia", "nucleophilic addition-elimination", "products", "equations", "comparison"],
+      "keywords": [
+        "ethanoyl chloride",
+        "water",
+        "ethanol",
+        "ammonia",
+        "nucleophilic addition-elimination",
+        "products",
+        "equations",
+        "comparison"
+      ],
       "question": "Compare and contrast the reactions of ethanoyl chloride with water, with ethanol and with ammonia. Refer to structural features, identify products and include equations as needed.",
       "status": "ready",
       "answer": "Water: CH3COOH + HCl; ethanol: CH3COOC2H5 + HCl; ammonia: CH3CONH2 + NH4Cl (2 mol NH3 needed)",
@@ -395,6 +718,10 @@
         "Ethanol (O lone pair) gives an ester: CH3COCl + C2H5OH -> CH3COOC2H5 + HCl",
         "Ammonia (N lone pair) gives an amide: CH3COCl + 2NH3 -> CH3CONH2 + NH4Cl",
         "Ammonia needs two moles because the second NH3 neutralises the HCl; water and ethanol give HCl directly"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-11.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-12.jpg"
       ]
     },
     {
@@ -402,7 +729,15 @@
       "no": "Q16",
       "marks": 1,
       "topic": "Tertiary Alcohol Products",
-      "keywords": ["tertiary alcohol", "secondary alcohol", "lialh4", "reduction", "hydration", "hydrolysis", "ketone"],
+      "keywords": [
+        "tertiary alcohol",
+        "secondary alcohol",
+        "lialh4",
+        "reduction",
+        "hydration",
+        "hydrolysis",
+        "ketone"
+      ],
       "question": "Which reaction does not produce a tertiary alcohol as one of the products? Options: A (CH3)2C=CH2 + H2O, B (CH3)3CBr + H2O, C (CH3)3CCOC(CH3)3 + LiAlH4, D (CH3)3CCOOC(CH3)3 + NaOH.",
       "status": "ready",
       "answer": "C - reduction of the ketone gives a secondary alcohol",
@@ -411,6 +746,9 @@
         "B: hydrolysis of (CH3)3CBr gives (CH3)3COH, a tertiary alcohol",
         "D: alkaline hydrolysis of the ester gives (CH3)3COH as the alcohol product",
         "C: LiAlH4 reduces the ketone C=O to a CH-OH group, giving a secondary alcohol"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-12.jpg"
       ]
     },
     {
@@ -418,7 +756,14 @@
       "no": "Q17",
       "marks": 1,
       "topic": "Carboxylic Acid Formation",
-      "keywords": ["carboxylic acid", "oxidation", "nitrile hydrolysis", "ester hydrolysis", "acyl chloride", "carboxylate salt"],
+      "keywords": [
+        "carboxylic acid",
+        "oxidation",
+        "nitrile hydrolysis",
+        "ester hydrolysis",
+        "acyl chloride",
+        "carboxylate salt"
+      ],
       "question": "Which reaction cannot form a carboxylic acid? Options: A oxidation of a primary alcohol, B acidic hydrolysis of a nitrile, C alkaline hydrolysis of an ester, D acyl chloride reacting with water.",
       "status": "ready",
       "answer": "C - alkaline hydrolysis of an ester gives a carboxylate salt, not the free acid",
@@ -427,6 +772,9 @@
         "B: acid hydrolysis of a nitrile gives the carboxylic acid and an ammonium salt",
         "D: acyl chloride + water gives the carboxylic acid and HCl",
         "C: NaOH gives the carboxylate salt (e.g. CH3COO-Na+) and alcohol; the free acid appears only after adding acid"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-12.jpg"
       ]
     },
     {
@@ -434,29 +782,58 @@
       "no": "Q18",
       "marks": 1,
       "topic": "Polyester Hydrolysis Products",
-      "keywords": ["polyester", "excess sodium hydroxide", "hydrolysis", "benzene-1,4-dicarboxylic acid", "ethane-1,2-diol", "terylene"],
+      "keywords": [
+        "polyester",
+        "excess sodium hydroxide",
+        "hydrolysis",
+        "benzene-1,4-dicarboxylic acid",
+        "ethane-1,2-diol",
+        "terylene"
+      ],
       "question": "Which is produced after the polyester shown is hydrolysed with excess NaOH? Options: A benzene-1,4-dicarboxylic acid, B ethane-1,2-diol, C sodium ethanedioate, D water.",
       "status": "pending",
       "answer": "Pending: the polyester structure shown is a diagram and is not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-13.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-14.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q19a",
       "no": "Q19(a)",
       "marks": 1,
       "topic": "Curly Arrows In Mechanism",
-      "keywords": ["curly arrows", "mechanism", "ethanoyl chloride", "ammonia", "nucleophilic addition-elimination", "proton transfer"],
+      "keywords": [
+        "curly arrows",
+        "mechanism",
+        "ethanoyl chloride",
+        "ammonia",
+        "nucleophilic addition-elimination",
+        "proton transfer"
+      ],
       "question": "How many curly arrows are needed to complete the mechanism of ethanoyl chloride with concentrated aqueous ammonia? Options: A 4, B 5, C 6, D 8.",
       "status": "pending",
       "answer": "Pending: the partial mechanism diagram is not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-13.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-14.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q19b",
       "no": "Q19(b)",
       "marks": 1,
       "topic": "IUPAC Naming Of Amide",
-      "keywords": ["iupac name", "ethanamide", "amide", "ethanoyl chloride", "ammonia", "organic product"],
+      "keywords": [
+        "iupac name",
+        "ethanamide",
+        "amide",
+        "ethanoyl chloride",
+        "ammonia",
+        "organic product"
+      ],
       "question": "What is the IUPAC name of the organic product of ethanoyl chloride with concentrated ammonia? Options: A amino ethanone, B ethanamide, C ethanoyl amine, D methanamide.",
       "status": "ready",
       "answer": "B - ethanamide",
@@ -464,6 +841,10 @@
         "Product is CH3CONH2, an amide with two carbons",
         "Amides take the -amide ending from the -oic acid parent: ethanoic acid gives ethanamide",
         "Amino ethanone is a ketone name; ethanoyl amine is not IUPAC; methanamide has one carbon"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-13.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-14.jpg"
       ]
     },
     {
@@ -471,29 +852,59 @@
       "no": "Q20",
       "marks": 1,
       "topic": "Polymer Repeat Unit",
-      "keywords": ["polymer", "repeat unit", "monomers", "condensation polymer", "addition polymer", "structure"],
+      "keywords": [
+        "polymer",
+        "repeat unit",
+        "monomers",
+        "condensation polymer",
+        "addition polymer",
+        "structure"
+      ],
       "question": "Two monomers react to form a polymer. Which structure is a repeat unit of the polymer? (Options A-D)",
       "status": "pending",
       "answer": "Pending: monomer structures and repeat-unit options are diagrams, not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-14.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-15.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-16.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q21",
       "no": "Q21",
       "marks": 1,
       "topic": "Ester Synthesis From Acyl Chloride",
-      "keywords": ["ester structure", "acyl chloride", "alcohol", "butanoyl chloride", "propanoyl chloride", "methylbutanol"],
+      "keywords": [
+        "ester structure",
+        "acyl chloride",
+        "alcohol",
+        "butanoyl chloride",
+        "propanoyl chloride",
+        "methylbutanol"
+      ],
       "question": "The structure of an ester is shown. Which two compounds react to form it? Options: A butanoyl chloride and 2-methylbutan-2-ol, B butanoyl chloride and 3-methylbutan-2-ol, C propanoyl chloride and 2-methylbutan-2-ol, D propanoyl chloride and 3-methylbutan-2-ol.",
       "status": "pending",
       "answer": "Pending: the ester structure is a diagram and is not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-16.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-17.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q22",
       "no": "Q22",
       "marks": 1,
       "topic": "Polyester Formation",
-      "keywords": ["polyester", "dicarboxylic acid", "diol", "condensation", "diprotic acid", "monomers"],
+      "keywords": [
+        "polyester",
+        "dicarboxylic acid",
+        "diol",
+        "condensation",
+        "diprotic acid",
+        "monomers"
+      ],
       "question": "Polyesters are made by reacting: A diprotic carboxylic acids with a primary alcohol, B diprotic carboxylic acids with diols, C monoprotic carboxylic acids with triols, D monoprotic carboxylic acids with a secondary alcohol.",
       "status": "ready",
       "answer": "B - diprotic carboxylic acids with diols",
@@ -501,6 +912,10 @@
         "Polyesters need two reactive groups on each monomer to build a chain",
         "A diprotic acid has two -COOH groups; a diol has two -OH groups",
         "Each ester link forms with loss of water (condensation)"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-17.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-18.jpg"
       ]
     },
     {
@@ -508,7 +923,15 @@
       "no": "Q23",
       "marks": 1,
       "topic": "Acyl Chloride Ester Yield",
-      "keywords": ["acyl chloride", "carboxylic acid", "ester yield", "reversible", "equilibrium", "alcohol", "hydrogen chloride"],
+      "keywords": [
+        "acyl chloride",
+        "carboxylic acid",
+        "ester yield",
+        "reversible",
+        "equilibrium",
+        "alcohol",
+        "hydrogen chloride"
+      ],
       "question": "Why is the ester yield usually higher from an acyl chloride than from a carboxylic acid with an alcohol? Options: A acyl chlorides react to remove any water produced, B the reaction is not reversible, C the reaction is less exothermic, D the reaction has a higher atom economy.",
       "status": "ready",
       "answer": "B - the acyl chloride reaction is not reversible",
@@ -516,6 +939,10 @@
         "Esterification from a carboxylic acid is reversible and reaches an equilibrium",
         "Acyl chloride + alcohol -> ester + HCl goes effectively to completion",
         "Because the reaction does not reach equilibrium, the yield is higher"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-17.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-18.jpg"
       ]
     },
     {
@@ -523,7 +950,14 @@
       "no": "Q24",
       "marks": 1,
       "topic": "Reactions Not Giving Acid",
-      "keywords": ["carboxylic acid", "nitrile hydrolysis", "potassium hydroxide", "acyl chloride", "ester hydrolysis", "dichromate oxidation"],
+      "keywords": [
+        "carboxylic acid",
+        "nitrile hydrolysis",
+        "potassium hydroxide",
+        "acyl chloride",
+        "ester hydrolysis",
+        "dichromate oxidation"
+      ],
       "question": "Which reaction does not produce a carboxylic acid? Options: A acyl chloride with cold water, B ester refluxed with dilute HCl, C nitrile refluxed with aqueous KOH, D primary alcohol oxidised with excess acidified dichromate.",
       "status": "ready",
       "answer": "C - nitrile refluxed with aqueous KOH gives a potassium carboxylate salt",
@@ -532,6 +966,12 @@
         "B: acid-catalysed ester hydrolysis gives the carboxylic acid and alcohol",
         "D: excess acidified dichromate oxidises the primary alcohol to a carboxylic acid",
         "C: alkaline hydrolysis gives the carboxylate salt (and NH3); the free acid needs a further acidification step"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-18.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-19.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-20.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-21.jpg"
       ]
     },
     {
@@ -539,7 +979,14 @@
       "no": "Q25",
       "marks": 1,
       "topic": "Acyl Chloride With Ammonia",
-      "keywords": ["ethanoyl chloride", "ammonia gas", "ethanamide", "amide", "organic product", "nitrile"],
+      "keywords": [
+        "ethanoyl chloride",
+        "ammonia gas",
+        "ethanamide",
+        "amide",
+        "organic product",
+        "nitrile"
+      ],
       "question": "What is the organic product of ethanoyl chloride reacting with ammonia gas? Options: A ammonium ethanoate, B ethanamide, C ethanenitrile, D methanenitrile.",
       "status": "ready",
       "answer": "B - ethanamide (CH3CONH2)",
@@ -547,6 +994,12 @@
         "CH3COCl + 2NH3 -> CH3CONH2 + NH4Cl",
         "The organic product is the amide ethanamide",
         "Ammonium ethanoate is an ionic salt, not the organic product; nitriles are not formed"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-18.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-19.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-20.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-21.jpg"
       ]
     },
     {
@@ -554,7 +1007,15 @@
       "no": "Q26(a)(i)",
       "marks": 4,
       "topic": "Hydrolysis Equilibrium Kc",
-      "keywords": ["kc", "ethyl propanoate", "hydrolysis", "equilibrium constant", "propanoic acid", "significant figures", "equilibrium moles"],
+      "keywords": [
+        "kc",
+        "ethyl propanoate",
+        "hydrolysis",
+        "equilibrium constant",
+        "propanoic acid",
+        "significant figures",
+        "equilibrium moles"
+      ],
       "question": "0.100 mol ethyl propanoate and 0.200 mol water with HCl catalyst reach equilibrium at 25 deg C; 0.0440 mol propanoic acid is present. Calculate Kc to an appropriate number of significant figures.",
       "status": "ready",
       "answer": "Kc = 0.222 (dimensionless)",
@@ -564,6 +1025,12 @@
         "Water remaining = 0.200 - 0.0440 = 0.156 mol",
         "Kc = [acid][ethanol] / ([ester][water]) = (0.0440 x 0.0440) / (0.0560 x 0.156)",
         "Volume cancels (2 mol each side); Kc = 0.001936 / 0.008736 = 0.222 (3 s.f.)"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-18.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-19.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-20.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-21.jpg"
       ]
     },
     {
@@ -571,7 +1038,16 @@
       "no": "Q26(a)(ii)",
       "marks": 2,
       "topic": "Near-Zero Enthalpy Change",
-      "keywords": ["enthalpy change", "hydrolysis", "bonds broken", "bonds made", "c-o bond", "o-h bond", "ester", "close to zero"],
+      "keywords": [
+        "enthalpy change",
+        "hydrolysis",
+        "bonds broken",
+        "bonds made",
+        "c-o bond",
+        "o-h bond",
+        "ester",
+        "close to zero"
+      ],
       "question": "Explain, using bonds broken and made and without calculations, why the enthalpy change for ethyl propanoate hydrolysis is close to but not exactly zero.",
       "status": "ready",
       "answer": "Same types and numbers of bonds are broken (C-O, O-H) and made (C-O, O-H), so the enthalpy change is small but not exactly zero because bond strengths differ slightly",
@@ -581,6 +1057,12 @@
         "Bonds made: one C-O (acid) and one O-H (alcohol)",
         "Same bond types and numbers, so bond energies nearly cancel",
         "Bond strengths in different environments differ slightly, so the value is not exactly zero"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-18.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-19.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-20.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-21.jpg"
       ]
     },
     {
@@ -588,18 +1070,40 @@
       "no": "Q26(a)(iii)",
       "marks": 3,
       "topic": "Temperature Effect On Entropy",
-      "keywords": ["temperature", "total entropy change", "kc", "enthalpy change sign", "entropy", "equilibrium constant", "hydrolysis"],
+      "keywords": [
+        "temperature",
+        "total entropy change",
+        "kc",
+        "enthalpy change sign",
+        "entropy",
+        "equilibrium constant",
+        "hydrolysis"
+      ],
       "question": "Deduce the effect of increasing temperature on the total entropy change and on Kc for the hydrolysis of ethyl propanoate. Assume the enthalpy change does not change with temperature.",
       "status": "pending",
       "answer": "Pending: the sign of the enthalpy change is not stated in the text (only that it is close to zero), so the effect cannot be deduced from the text alone",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-18.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-19.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-20.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-21.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q26b(i)",
       "no": "Q26(b)(i)",
       "marks": 1,
       "topic": "Weak Versus Strong Acid",
-      "keywords": ["weak acid", "strong acid", "dissociation", "ionisation", "hydrochloric acid", "propanoic acid", "equilibrium"],
+      "keywords": [
+        "weak acid",
+        "strong acid",
+        "dissociation",
+        "ionisation",
+        "hydrochloric acid",
+        "propanoic acid",
+        "equilibrium"
+      ],
       "question": "State the difference between a weak acid and a strong acid such as hydrochloric acid.",
       "status": "ready",
       "answer": "A strong acid is fully dissociated in water; a weak acid is only partly dissociated (an equilibrium)",
@@ -607,6 +1111,12 @@
         "Strong acid: HCl -> H+ + Cl-, essentially complete dissociation",
         "Weak acid: HA <=> H+ + A-, equilibrium lies well to the left",
         "So at equal concentration a strong acid gives a much higher [H+]"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-18.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-19.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-20.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-21.jpg"
       ]
     },
     {
@@ -614,13 +1124,26 @@
       "no": "Q26(b)(ii)",
       "marks": 1,
       "topic": "pH Of Strong Acid",
-      "keywords": ["ph", "hydrochloric acid", "strong acid", "hydrogen ion concentration", "logarithm", "0.500 mol dm-3"],
+      "keywords": [
+        "ph",
+        "hydrochloric acid",
+        "strong acid",
+        "hydrogen ion concentration",
+        "logarithm",
+        "0.500 mol dm-3"
+      ],
       "question": "Calculate the pH of 0.500 mol dm^-3 hydrochloric acid at 25 deg C.",
       "status": "ready",
       "answer": "pH = 0.30",
       "steps": [
         "HCl is fully dissociated, so [H+] = 0.500 mol dm^-3",
         "pH = -log(0.500) = 0.30"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-18.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-19.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-20.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-21.jpg"
       ]
     },
     {
@@ -628,7 +1151,15 @@
       "no": "Q26(b)(iii)",
       "marks": 3,
       "topic": "pH Of Weak Acid",
-      "keywords": ["ph", "propanoic acid", "weak acid", "ka", "dissociation", "0.500 mol dm-3", "square root"],
+      "keywords": [
+        "ph",
+        "propanoic acid",
+        "weak acid",
+        "ka",
+        "dissociation",
+        "0.500 mol dm-3",
+        "square root"
+      ],
       "question": "Calculate the pH of 0.500 mol dm^-3 propanoic acid at 25 deg C, given Ka = 1.30 x 10^-5 mol dm^-3.",
       "status": "ready",
       "answer": "pH = 2.59",
@@ -636,6 +1167,12 @@
         "Ka = [H+]^2 / c, with [H+] = [A-] and c approximately [HA] (dissociation is small)",
         "[H+] = sqrt(Ka x c) = sqrt(1.30 x 10^-5 x 0.500) = sqrt(6.50 x 10^-6) = 2.55 x 10^-3 mol dm^-3",
         "pH = -log(2.55 x 10^-3) = 2.59"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-18.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-19.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-20.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-21.jpg"
       ]
     },
     {
@@ -643,7 +1180,15 @@
       "no": "Q26(c)(i)",
       "marks": 2,
       "topic": "Half Neutralisation pH",
-      "keywords": ["half neutralised", "pka", "buffer", "propanoic acid", "ph", "titration", "ka"],
+      "keywords": [
+        "half neutralised",
+        "pka",
+        "buffer",
+        "propanoic acid",
+        "ph",
+        "titration",
+        "ka"
+      ],
       "question": "Calculate the pH at the point in the titration of propanoic acid with NaOH where half the acid has been neutralised. Show working.",
       "status": "ready",
       "answer": "pH = 4.89 (pH equals pKa)",
@@ -651,6 +1196,12 @@
         "At half neutralisation [HA] = [A-]",
         "Henderson equation gives [H+] = Ka, so pH = pKa",
         "pKa = -log(1.30 x 10^-5) = 4.89"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-18.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-19.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-20.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-21.jpg"
       ]
     },
     {
@@ -658,7 +1209,15 @@
       "no": "Q26(c)(ii)",
       "marks": 3,
       "topic": "Titration Curve Sketch",
-      "keywords": ["titration curve", "propanoic acid", "sodium hydroxide", "equivalence point", "half neutralisation", "ph", "sketch"],
+      "keywords": [
+        "titration curve",
+        "propanoic acid",
+        "sodium hydroxide",
+        "equivalence point",
+        "half neutralisation",
+        "ph",
+        "sketch"
+      ],
       "question": "Sketch the titration curve for adding 50 cm^3 of 0.500 mol dm^-3 NaOH to 25.0 cm^3 of 0.500 mol dm^-3 propanoic acid, using answers to (b)(iii) and (c)(i).",
       "status": "ready",
       "answer": "Curve from pH 2.59 (0 cm^3), pH 4.89 (12.5 cm^3), equivalence pH 9.14 (25.0 cm^3), to pH 13.22 (50.0 cm^3)",
@@ -668,6 +1227,12 @@
         "Equivalence at 25.0 cm^3 (0.0125 mol each): propanoate 0.250 mol dm^-3 in 50.0 cm^3; Kb = Kw/Ka = 7.7 x 10^-10; [OH-] = sqrt(Kb x 0.250) = 1.39 x 10^-5; pH = 9.14",
         "Curve rises steeply through the equivalence point",
         "At 50.0 cm^3 excess NaOH = 0.0125 mol in 75.0 cm^3, [OH-] = 0.167 mol dm^-3, pH = 13.22, curve levels off at high pH"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-18.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-19.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-20.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-21.jpg"
       ]
     },
     {
@@ -675,7 +1240,15 @@
       "no": "Q26(c)(iii)",
       "marks": 2,
       "topic": "Choosing Titration Indicator",
-      "keywords": ["indicator", "phenolphthalein", "methyl orange", "equivalence point", "ph range", "titration curve", "data booklet"],
+      "keywords": [
+        "indicator",
+        "phenolphthalein",
+        "methyl orange",
+        "equivalence point",
+        "ph range",
+        "titration curve",
+        "data booklet"
+      ],
       "question": "Suggest a suitable indicator for the propanoic acid and NaOH titration, justifying the choice using the titration curve. Use the Data Booklet.",
       "status": "ready",
       "answer": "Phenolphthalein (pH range 8.3-10.0), because it changes colour within the steep part of the curve near pH 9.1",
@@ -683,6 +1256,12 @@
         "Equivalence point is at pH 9.14, on the steep rise of the curve",
         "Phenolphthalein changes colour over pH 8.3-10.0, which contains the equivalence point",
         "Methyl orange (pH 3.1-4.4) changes around half neutralisation, long before the equivalence point, so it would give a wrong end point"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-18.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-19.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-20.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-21.jpg"
       ]
     },
     {
@@ -690,29 +1269,60 @@
       "no": "Q27",
       "marks": 1,
       "topic": "Self-Condensing Monomer",
-      "keywords": ["condensation polymer", "monomer", "second monomer", "hydroxy acid", "amino acid", "polymer"],
+      "keywords": [
+        "condensation polymer",
+        "monomer",
+        "second monomer",
+        "hydroxy acid",
+        "amino acid",
+        "polymer"
+      ],
       "question": "Which monomer could form a condensation polymer without needing a second type of monomer? (Options A-D)",
       "status": "pending",
       "answer": "Pending: monomer options are structure diagrams, not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-21.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-22.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q28",
       "no": "Q28",
       "marks": 1,
       "topic": "Mechanism Electron Pair Movement",
-      "keywords": ["mechanism", "ethanamide", "ethanoyl chloride", "ammonia", "curly arrows", "tetrahedral intermediate", "electron pairs"],
+      "keywords": [
+        "mechanism",
+        "ethanamide",
+        "ethanoyl chloride",
+        "ammonia",
+        "curly arrows",
+        "tetrahedral intermediate",
+        "electron pairs"
+      ],
       "question": "Ethanoyl chloride reacts with ammonia to form ethanamide. Which diagram shows the electron-pair movement when ethanamide forms from the tetrahedral intermediate?",
       "status": "pending",
       "answer": "Pending: the mechanism diagram options are not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-22.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-23.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q29",
       "no": "Q29",
       "marks": 1,
       "topic": "Amide Formation With Amines",
-      "keywords": ["propanoyl chloride", "methylamine", "dimethylamine", "trimethylamine", "amide", "tertiary amine", "statements"],
+      "keywords": [
+        "propanoyl chloride",
+        "methylamine",
+        "dimethylamine",
+        "trimethylamine",
+        "amide",
+        "tertiary amine",
+        "statements"
+      ],
       "question": "CH3CH2COCl reacts with (1) CH3NH2 to give CH3CH2CONHCH3, (2) (CH3)2NH to give CH3CH2CON(CH3)2, (3) (CH3)3N to give CH3CH2CON(CH3)3. Which statements are correct? Options: A 1, 2 and 3; B 1 and 2 only; C 2 and 3 only; D 1 only.",
       "status": "ready",
       "answer": "B - statements 1 and 2 only",
@@ -720,6 +1330,10 @@
         "Statement 1: primary amine CH3NH2 gives an N-substituted amide, correct",
         "Statement 2: secondary amine (CH3)2NH gives a tertiary amide, correct",
         "Statement 3: tertiary amine (CH3)3N has no N-H and cannot form a neutral amide by substitution, so it is wrong"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-23.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-24.jpg"
       ]
     },
     {
@@ -727,29 +1341,59 @@
       "no": "Q30",
       "marks": 1,
       "topic": "Ester Reactant Pair",
-      "keywords": ["ester structure", "butanoic acid", "propanoyl chloride", "butan-2-ol", "propan-1-ol", "reactant pair"],
+      "keywords": [
+        "ester structure",
+        "butanoic acid",
+        "propanoyl chloride",
+        "butan-2-ol",
+        "propan-1-ol",
+        "reactant pair"
+      ],
       "question": "An ester has the structure shown (diagram). Which pair of reactants forms it? Options: A butanoic acid and propan-2-ol, B butanoyl chloride and propan-1-ol, C propanoic acid and butan-1-ol, D propanoyl chloride and butan-2-ol.",
       "status": "pending",
       "answer": "Pending: the ester structure shown is a diagram and is not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-24.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-25.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q31",
       "no": "Q31",
       "marks": 1,
       "topic": "Skeletal Formula Of Diester",
-      "keywords": ["propanedioic acid", "ethanol", "ester hydrolysis", "skeletal formula", "diethyl propanedioate", "dilute hydrochloric acid"],
+      "keywords": [
+        "propanedioic acid",
+        "ethanol",
+        "ester hydrolysis",
+        "skeletal formula",
+        "diethyl propanedioate",
+        "dilute hydrochloric acid"
+      ],
       "question": "An ester is hydrolysed in excess dilute HCl to form ethanol and propanedioic acid. What is the skeletal formula of this ester? (Options shown as diagrams)",
       "status": "pending",
       "answer": "Pending: the skeletal formula options are diagrams not in the extracted text (expected diethyl propanedioate, CH2(COOC2H5)2)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-24.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-25.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q32",
       "no": "Q32",
       "marks": 1,
       "topic": "Choosing Ester Reactants",
-      "keywords": ["ester", "pentyl butanoate", "butanoic acid", "pentan-1-ol", "acyl chloride", "alcohol", "reactant pair"],
+      "keywords": [
+        "ester",
+        "pentyl butanoate",
+        "butanoic acid",
+        "pentan-1-ol",
+        "acyl chloride",
+        "alcohol",
+        "reactant pair"
+      ],
       "question": "From which two reactants could CH3(CH2)2COO(CH2)4CH3 be made? Options: A butanoic acid and pentan-1-ol, B butanoyl chloride and butan-1-ol, C butanal and pentan-1-ol, D pentanoic acid and butan-1-ol.",
       "status": "ready",
       "answer": "A - butanoic acid and pentan-1-ol",
@@ -757,6 +1401,10 @@
         "The ester is pentyl butanoate: acyl part from butanoic acid (4 C), alkyl part pentyl (5 C)",
         "Butanoic acid and pentan-1-ol give the ester by esterification",
         "B gives butyl butanoate; C uses an aldehyde; D gives pentyl pentanoate"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-25.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-26.jpg"
       ]
     },
     {
@@ -764,18 +1412,38 @@
       "no": "Q33",
       "marks": 1,
       "topic": "Polyester Repeat Unit",
-      "keywords": ["polyester", "pentane-1,5-diol", "pentanedioic acid", "repeat unit", "condensation polymer", "structure"],
+      "keywords": [
+        "polyester",
+        "pentane-1,5-diol",
+        "pentanedioic acid",
+        "repeat unit",
+        "condensation polymer",
+        "structure"
+      ],
       "question": "A polyester is made from pentane-1,5-diol and pentanedioic acid. Which is the repeat unit of this polyester? (Options shown as diagrams)",
       "status": "pending",
       "answer": "Pending: repeat-unit options are structure diagrams, not in the extracted text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-25.jpg",
+        "papers/chemistry/img/15D-Acid-Derivatives-26.jpg"
+      ]
     },
     {
       "id": "Ch15D-Q34",
       "no": "Q34",
       "marks": 1,
       "topic": "Observations Of Acyl Chloride Reaction",
-      "keywords": ["ethanoyl chloride", "ammonia", "observations", "misty fumes", "white smoke", "litmus", "exothermic", "amide"],
+      "keywords": [
+        "ethanoyl chloride",
+        "ammonia",
+        "observations",
+        "misty fumes",
+        "white smoke",
+        "litmus",
+        "exothermic",
+        "amide"
+      ],
       "question": "Which statement about the reaction of ethanoyl chloride with ammonia is not correct? Options: A an amide is formed, B the reaction is exothermic, C misty fumes and white smoke are given off, D a gas is produced that turns damp red litmus blue.",
       "status": "ready",
       "answer": "D - no alkaline gas is produced; ammonia is a reactant, and the products are the amide and NH4Cl",
@@ -784,6 +1452,9 @@
         "B: the reaction is vigorous and releases heat, so it is exothermic",
         "C: the HCl-related white smoke of NH4Cl is seen, consistent with the reaction",
         "D: the products are an amide and a salt; no gas is produced, and ammonia (which turns damp red litmus blue) is consumed, not made"
+      ],
+      "images": [
+        "papers/chemistry/img/15D-Acid-Derivatives-26.jpg"
       ]
     }
   ]

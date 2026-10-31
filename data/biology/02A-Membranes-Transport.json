@@ -21,7 +21,12 @@
       "question": "Estimate the length of the neck of the adult giraffe from the shoulders, using the information in the photograph.",
       "status": "pending",
       "answer": "Missing: the photograph of the giraffe with its scale reference is not in the text, so the neck length cannot be estimated.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-01.jpg",
+        "papers/biology/img/02A-Membranes-Transport-02.jpg",
+        "papers/biology/img/02A-Membranes-Transport-03.jpg"
+      ]
     },
     {
       "id": "2A-Q1b",
@@ -46,6 +51,11 @@
         "A large, thick-walled ventricle generates the high pressure needed to push blood up the neck.",
         "Blood must reach the brain at a pressure high enough to keep it supplied with oxygen and glucose.",
         "A large heart also gives a large stroke volume, so enough blood reaches the brain and other tissues each beat."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-01.jpg",
+        "papers/biology/img/02A-Membranes-Transport-02.jpg",
+        "papers/biology/img/02A-Membranes-Transport-03.jpg"
       ]
     },
     {
@@ -71,6 +81,11 @@
         "Draw a thin inner layer of endothelium lining the lumen, with folded elastic tissue beneath it.",
         "Draw a thick middle layer of smooth muscle and elastic fibres, which is much thicker than in a vein.",
         "Draw an outer layer of collagen and connective tissue, then label the lumen, endothelium, elastic layer and smooth muscle."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-01.jpg",
+        "papers/biology/img/02A-Membranes-Transport-02.jpg",
+        "papers/biology/img/02A-Membranes-Transport-03.jpg"
       ]
     },
     {
@@ -96,6 +111,11 @@
         "Elastic fibres in the arterial wall stretch to accommodate this surge, storing energy.",
         "Elastic recoil keeps blood flowing steadily to the tissues between heartbeats.",
         "During diastole the elastic walls recoil, pushing blood forward and keeping the pressure high between beats."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-01.jpg",
+        "papers/biology/img/02A-Membranes-Transport-02.jpg",
+        "papers/biology/img/02A-Membranes-Transport-03.jpg"
       ]
     },
     {
@@ -121,6 +141,11 @@
         "This keeps the blood pressure in the capillaries low.",
         "Narrow vessels also slow the flow, so clotting has more time to seal the wound.",
         "Low pressure means blood leaks out of a damaged capillary slowly, giving time for clotting to seal the wound."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-01.jpg",
+        "papers/biology/img/02A-Membranes-Transport-02.jpg",
+        "papers/biology/img/02A-Membranes-Transport-03.jpg"
       ]
     },
     {
@@ -146,6 +171,11 @@
         "A larger ratio means oxygen can diffuse out of the cell and into the tissues faster.",
         "Their small size lets them pass through very narrow capillaries, so they reach the tissues in the legs.",
         "More cells can therefore pass per unit time, increasing the total oxygen delivered."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-01.jpg",
+        "papers/biology/img/02A-Membranes-Transport-02.jpg",
+        "papers/biology/img/02A-Membranes-Transport-03.jpg"
       ]
     },
     {
@@ -165,7 +195,12 @@
       "question": "From a table of features of transport mechanisms, identify the feature that is true for active transport only, facilitated diffusion only, both, or neither.",
       "status": "pending",
       "answer": "Missing: the table of transport mechanism features is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-03.jpg",
+        "papers/biology/img/02A-Membranes-Transport-04.jpg",
+        "papers/biology/img/02A-Membranes-Transport-05.jpg"
+      ]
     },
     {
       "id": "2A-Q2b(i)",
@@ -184,7 +219,12 @@
       "question": "Explain the differences in the uptake of substance K and substance L into an amoeba at 18 C, shown on the graph.",
       "status": "pending",
       "answer": "Missing: the graph of uptake of substances K and L is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-03.jpg",
+        "papers/biology/img/02A-Membranes-Transport-04.jpg",
+        "papers/biology/img/02A-Membranes-Transport-05.jpg"
+      ]
     },
     {
       "id": "2A-Q2b(ii)",
@@ -203,7 +243,12 @@
       "question": "On the graph, draw a line to show the uptake of substance L at 10 C.",
       "status": "pending",
       "answer": "Missing: the graph to be annotated is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-03.jpg",
+        "papers/biology/img/02A-Membranes-Transport-04.jpg",
+        "papers/biology/img/02A-Membranes-Transport-05.jpg"
+      ]
     },
     {
       "id": "2A-Q2c(i)",
@@ -227,6 +272,11 @@
         "Phospholipid molecules can move laterally past each other, so the membrane flows.",
         "The cytoskeleton (actin filaments) pushes and reorganises the membrane at each pseudopodium.",
         "Proteins and cholesterol are embedded in this fluid mosaic, allowing it to stretch and deform as cytoplasm pushes against it."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-03.jpg",
+        "papers/biology/img/02A-Membranes-Transport-04.jpg",
+        "papers/biology/img/02A-Membranes-Transport-05.jpg"
       ]
     },
     {
@@ -251,6 +301,11 @@
         "Each extra pseudopodium adds membrane surface area for engulfing substances.",
         "A larger surface area allows more vesicles to form in a given time.",
         "So the overall rate of uptake of substances increases."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-03.jpg",
+        "papers/biology/img/02A-Membranes-Transport-04.jpg",
+        "papers/biology/img/02A-Membranes-Transport-05.jpg"
       ]
     },
     {
@@ -271,7 +326,13 @@
       "question": "Calculate the volume of the liposome shown in the diagram, using the formula given in the question.",
       "status": "pending",
       "answer": "Missing: the diagram giving the liposome dimensions and the formula image are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-05.jpg",
+        "papers/biology/img/02A-Membranes-Transport-06.jpg",
+        "papers/biology/img/02A-Membranes-Transport-07.jpg",
+        "papers/biology/img/02A-Membranes-Transport-08.jpg"
+      ]
     },
     {
       "id": "2A-Q3a(ii)",
@@ -295,6 +356,12 @@
         "In water the heads are attracted to the water and face outwards, both on the outer and inner surfaces.",
         "The hydrophobic tails are shielded from the water and point towards the centre of the membrane.",
         "This forms a spherical phospholipid bilayer, the liposome."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-05.jpg",
+        "papers/biology/img/02A-Membranes-Transport-06.jpg",
+        "papers/biology/img/02A-Membranes-Transport-07.jpg",
+        "papers/biology/img/02A-Membranes-Transport-08.jpg"
       ]
     },
     {
@@ -319,6 +386,12 @@
         "No ATP is used and no vesicles form, so it is not active transport or endocytosis.",
         "Its movement depends only on the concentration gradient across the liposome membrane.",
         "Osmosis refers only to the movement of water, so D is wrong; the answer is simple diffusion."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-05.jpg",
+        "papers/biology/img/02A-Membranes-Transport-06.jpg",
+        "papers/biology/img/02A-Membranes-Transport-07.jpg",
+        "papers/biology/img/02A-Membranes-Transport-08.jpg"
       ]
     },
     {
@@ -339,7 +412,13 @@
       "question": "Describe the effects of cholesterol and temperature on membrane permeability to glycerol, as shown in the graph.",
       "status": "pending",
       "answer": "Missing: the graph of glycerol permeability against temperature for each cholesterol level is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-05.jpg",
+        "papers/biology/img/02A-Membranes-Transport-06.jpg",
+        "papers/biology/img/02A-Membranes-Transport-07.jpg",
+        "papers/biology/img/02A-Membranes-Transport-08.jpg"
+      ]
     },
     {
       "id": "2A-Q3b(iii)",
@@ -363,6 +442,12 @@
         "This makes the membrane less fluid and less permeable to small molecules such as glycerol.",
         "Higher temperature gives phospholipids more kinetic energy, so they move more and the membrane becomes more fluid.",
         "A more fluid membrane allows more glycerol to diffuse through, increasing permeability."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-05.jpg",
+        "papers/biology/img/02A-Membranes-Transport-06.jpg",
+        "papers/biology/img/02A-Membranes-Transport-07.jpg",
+        "papers/biology/img/02A-Membranes-Transport-08.jpg"
       ]
     },
     {
@@ -382,7 +467,12 @@
       "question": "The mouse is 3 cm tall. Using the white line on the elephant photograph, calculate how many times taller the elephant is than the mouse.",
       "status": "pending",
       "answer": "Missing: the elephant photograph with the white line measurement is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-08.jpg",
+        "papers/biology/img/02A-Membranes-Transport-09.jpg",
+        "papers/biology/img/02A-Membranes-Transport-10.jpg"
+      ]
     },
     {
       "id": "2A-Q4b",
@@ -407,6 +497,11 @@
         "This stops the alveoli from collapsing, keeping a large surface area for gas exchange.",
         "The alveolar walls are thin, giving a short diffusion distance for oxygen and carbon dioxide.",
         "A rich capillary network around the alveoli maintains a steep concentration gradient."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-08.jpg",
+        "papers/biology/img/02A-Membranes-Transport-09.jpg",
+        "papers/biology/img/02A-Membranes-Transport-10.jpg"
       ]
     },
     {
@@ -427,7 +522,12 @@
       "question": "Explain the difference in the oxygen dissociation curves of haemoglobin for a mouse and an elephant, using both graphs.",
       "status": "pending",
       "answer": "Missing: Graph 1 (oxygen dissociation curves) and Graph 2 (mass-specific metabolic rate) are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-08.jpg",
+        "papers/biology/img/02A-Membranes-Transport-09.jpg",
+        "papers/biology/img/02A-Membranes-Transport-10.jpg"
+      ]
     },
     {
       "id": "2A-Q5a",
@@ -452,6 +552,12 @@
         "Similarity: both are made of carbon, hydrogen and oxygen and are lipids.",
         "Difference: a triglyceride has three fatty acid chains, all hydrophobic.",
         "Difference: a phospholipid has two fatty acids and a phosphate group, giving a hydrophilic head and hydrophobic tails."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-10.jpg",
+        "papers/biology/img/02A-Membranes-Transport-11.jpg",
+        "papers/biology/img/02A-Membranes-Transport-12.jpg",
+        "papers/biology/img/02A-Membranes-Transport-13.jpg"
       ]
     },
     {
@@ -477,6 +583,12 @@
         "LDL is a lipoprotein with a surface layer of phospholipids whose hydrophilic heads face the plasma.",
         "The hydrophobic core of the LDL holds cholesterol and other lipids away from the water.",
         "Apolipoproteins on the surface are recognised by receptors on cells, so cholesterol is delivered to them."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-10.jpg",
+        "papers/biology/img/02A-Membranes-Transport-11.jpg",
+        "papers/biology/img/02A-Membranes-Transport-12.jpg",
+        "papers/biology/img/02A-Membranes-Transport-13.jpg"
       ]
     },
     {
@@ -497,7 +609,13 @@
       "question": "Complete the table by calculating the volume of LDL (diameters 19 to 24 nm) and the ratio of LDL volume to cholesterol volume, using the formula given.",
       "status": "pending",
       "answer": "Missing: the table of LDL and cholesterol data and the formula image are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-10.jpg",
+        "papers/biology/img/02A-Membranes-Transport-11.jpg",
+        "papers/biology/img/02A-Membranes-Transport-12.jpg",
+        "papers/biology/img/02A-Membranes-Transport-13.jpg"
+      ]
     },
     {
       "id": "2A-Q5c(ii)",
@@ -517,7 +635,13 @@
       "question": "Explain why measuring only the level of LDL in the blood is not a reliable predictor of cardiovascular disease, using the graph of LDL and HDL against risk.",
       "status": "pending",
       "answer": "Missing: the graph relating LDL and HDL to CVD risk is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-10.jpg",
+        "papers/biology/img/02A-Membranes-Transport-11.jpg",
+        "papers/biology/img/02A-Membranes-Transport-12.jpg",
+        "papers/biology/img/02A-Membranes-Transport-13.jpg"
+      ]
     },
     {
       "id": "2A-Q6a(i)",
@@ -540,6 +664,12 @@
         "The partial pressure of one gas is the pressure that gas alone would exert.",
         "It is measured in kPa, which is why the partial pressure of oxygen is quoted in kPa.",
         "It equals the mole fraction of that gas multiplied by the total pressure."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-13.jpg",
+        "papers/biology/img/02A-Membranes-Transport-14.jpg",
+        "papers/biology/img/02A-Membranes-Transport-15.jpg",
+        "papers/biology/img/02A-Membranes-Transport-16.jpg"
       ]
     },
     {
@@ -565,6 +695,12 @@
         "When the first oxygen binds, the quaternary structure changes shape.",
         "This change makes it easier for the next oxygen molecules to bind, so affinity increases.",
         "The curve is therefore shallow at low partial pressure, steep in the middle, and levels off at saturation."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-13.jpg",
+        "papers/biology/img/02A-Membranes-Transport-14.jpg",
+        "papers/biology/img/02A-Membranes-Transport-15.jpg",
+        "papers/biology/img/02A-Membranes-Transport-16.jpg"
       ]
     },
     {
@@ -590,6 +726,12 @@
         "The alveolar air also contains carbon dioxide and water vapour, which dilute the oxygen.",
         "Alveolar air is mixed with air left in the lungs after breathing, which dilutes the oxygen.",
         "So the partial pressure of oxygen in the alveoli is lower than in the atmosphere."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-13.jpg",
+        "papers/biology/img/02A-Membranes-Transport-14.jpg",
+        "papers/biology/img/02A-Membranes-Transport-15.jpg",
+        "papers/biology/img/02A-Membranes-Transport-16.jpg"
       ]
     },
     {
@@ -615,6 +757,12 @@
         "Oxygen diffuses from the blood into the tissues down the concentration gradient.",
         "As oxygen leaves the blood, the partial pressure of oxygen in the blood falls.",
         "This continues through the capillaries, so the venous blood has a lower oxygen pressure than the arterial blood."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-13.jpg",
+        "papers/biology/img/02A-Membranes-Transport-14.jpg",
+        "papers/biology/img/02A-Membranes-Transport-15.jpg",
+        "papers/biology/img/02A-Membranes-Transport-16.jpg"
       ]
     },
     {
@@ -633,7 +781,13 @@
       "question": "Using the point X on the graph and the oxygen dissociation curve, determine the percentage saturation of haemoglobin in blood leaving the lungs of the person at high altitude.",
       "status": "pending",
       "answer": "Missing: the graph and the point X are not in the text, so the percentage saturation cannot be read.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-13.jpg",
+        "papers/biology/img/02A-Membranes-Transport-14.jpg",
+        "papers/biology/img/02A-Membranes-Transport-15.jpg",
+        "papers/biology/img/02A-Membranes-Transport-16.jpg"
+      ]
     },
     {
       "id": "2A-Q6b(iv)",
@@ -658,6 +812,12 @@
         "Less oxygen diffuses into the blood, so the partial pressure in the blood is lower.",
         "On the oxygen dissociation curve, a lower partial pressure gives a lower saturation of haemoglobin.",
         "So the blood carries less oxygen, although the body may respond with more red blood cells over time."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-13.jpg",
+        "papers/biology/img/02A-Membranes-Transport-14.jpg",
+        "papers/biology/img/02A-Membranes-Transport-15.jpg",
+        "papers/biology/img/02A-Membranes-Transport-16.jpg"
       ]
     },
     {
@@ -682,6 +842,12 @@
         "Water moves down its water potential gradient by osmosis.",
         "Water enters by osmosis, so its entry is passive and needs no ATP.",
         "Water crosses the cell surface membrane by osmosis, entering the cell continuously."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-16.jpg",
+        "papers/biology/img/02A-Membranes-Transport-17.jpg",
+        "papers/biology/img/02A-Membranes-Transport-18.jpg",
+        "papers/biology/img/02A-Membranes-Transport-19.jpg"
       ]
     },
     {
@@ -707,6 +873,12 @@
         "The contractile vacuole collects this water and pumps it out of the cell.",
         "This pumping uses ATP, because the water must be moved against the water potential gradient.",
         "Without it, the cell would take in too much water, swell and burst (lysis)."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-16.jpg",
+        "papers/biology/img/02A-Membranes-Transport-17.jpg",
+        "papers/biology/img/02A-Membranes-Transport-18.jpg",
+        "papers/biology/img/02A-Membranes-Transport-19.jpg"
       ]
     },
     {
@@ -727,7 +899,13 @@
       "question": "Explain the results of an investigation in which paramecia in pond water, solution A and solution B had the number of contractile vacuole pumps counted in 30-second intervals, using the graphs.",
       "status": "pending",
       "answer": "Missing: the graphs of contractile vacuole pumping for pond water, solution A and solution B are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-16.jpg",
+        "papers/biology/img/02A-Membranes-Transport-17.jpg",
+        "papers/biology/img/02A-Membranes-Transport-18.jpg",
+        "papers/biology/img/02A-Membranes-Transport-19.jpg"
+      ]
     },
     {
       "id": "2A-Q8a(i)",
@@ -746,7 +924,12 @@
       "question": "From a table of sugars, identify the row that shows which sugars are monosaccharides and which are disaccharides.",
       "status": "pending",
       "answer": "Missing: the table of sugars and the row options are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-19.jpg",
+        "papers/biology/img/02A-Membranes-Transport-20.jpg",
+        "papers/biology/img/02A-Membranes-Transport-21.jpg"
+      ]
     },
     {
       "id": "2A-Q8a(ii)",
@@ -770,6 +953,11 @@
         "The bond formed between sugar units is a glycosidic bond.",
         "A glycosidic bond forms between one sugar and the hydroxyl group of the other, releasing water.",
         "Peptide bonds join amino acids, phosphodiester bonds join nucleotides, and ester bonds join fatty acids to glycerol, so B is correct."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-19.jpg",
+        "papers/biology/img/02A-Membranes-Transport-20.jpg",
+        "papers/biology/img/02A-Membranes-Transport-21.jpg"
       ]
     },
     {
@@ -788,7 +976,12 @@
       "question": "Calculate the mean concentration of glucose in three pineapples, giving the answer in g dm-3, using the table of sugar concentrations.",
       "status": "pending",
       "answer": "Missing: the table of sugar concentrations in the three pineapples is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-19.jpg",
+        "papers/biology/img/02A-Membranes-Transport-20.jpg",
+        "papers/biology/img/02A-Membranes-Transport-21.jpg"
+      ]
     },
     {
       "id": "2A-Q8b(ii)",
@@ -808,7 +1001,12 @@
       "question": "Explain what the solution of sugars should contain to preserve pineapples by osmotic dehydration, using the table of sugar concentrations.",
       "status": "pending",
       "answer": "Missing: the table of sugar concentrations in the pineapples is not in the text, so the sugar composition needed cannot be justified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-19.jpg",
+        "papers/biology/img/02A-Membranes-Transport-20.jpg",
+        "papers/biology/img/02A-Membranes-Transport-21.jpg"
+      ]
     },
     {
       "id": "2A-Q9a",
@@ -833,6 +1031,11 @@
         "The full membrane thickness is two heads plus two tails: 2(0.8 to 0.9) + 2(1.25 to 1.75) = 4.1 to 5.3 nm.",
         "The measured width of 5.00 nm falls inside this range, so the measured membrane matches a phospholipid bilayer.",
         "This is evidence for the bilayer structure with heads facing outwards and tails inwards."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-21.jpg",
+        "papers/biology/img/02A-Membranes-Transport-22.jpg",
+        "papers/biology/img/02A-Membranes-Transport-23.jpg"
       ]
     },
     {
@@ -858,6 +1061,11 @@
         "It has only one small polar hydroxyl (-OH) group, which is hydrophilic.",
         "The steroid rings sit between the fatty acid tails of the phospholipids, while the -OH group sits near the phosphate heads.",
         "So cholesterol is embedded within the bilayer, where it helps regulate membrane fluidity."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-21.jpg",
+        "papers/biology/img/02A-Membranes-Transport-22.jpg",
+        "papers/biology/img/02A-Membranes-Transport-23.jpg"
       ]
     },
     {
@@ -883,6 +1091,11 @@
         "This makes the oxygen end slightly negative (delta-) and the hydrogen ends slightly positive (delta+).",
         "The bent shape of water means the partial charges do not cancel, making water polar.",
         "The bent shape of the water molecule means the charges do not cancel, so water is a polar molecule with a dipole."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-21.jpg",
+        "papers/biology/img/02A-Membranes-Transport-22.jpg",
+        "papers/biology/img/02A-Membranes-Transport-23.jpg"
       ]
     },
     {
@@ -909,6 +1122,11 @@
         "Ions are charged and strongly hydrated, so they cannot cross the hydrophobic core and need channel or carrier proteins.",
         "Glucose is polar and too large to diffuse through the bilayer, so it needs a carrier protein (facilitated diffusion).",
         "Water is small and polar, so it crosses slowly by simple diffusion, and faster through aquaporins."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-21.jpg",
+        "papers/biology/img/02A-Membranes-Transport-22.jpg",
+        "papers/biology/img/02A-Membranes-Transport-23.jpg"
       ]
     },
     {
@@ -928,7 +1146,13 @@
       "question": "Explain how the graph shows a correlation between smoking and death rate from lung cancer in men.",
       "status": "pending",
       "answer": "Missing: the graph of smoking against death rate from lung cancer is not in the text, so the trend cannot be described.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-23.jpg",
+        "papers/biology/img/02A-Membranes-Transport-24.jpg",
+        "papers/biology/img/02A-Membranes-Transport-25.jpg",
+        "papers/biology/img/02A-Membranes-Transport-26.jpg"
+      ]
     },
     {
       "id": "2A-Q10a(ii)",
@@ -952,6 +1176,12 @@
         "Fewer alveoli reduce the total surface area available for diffusion.",
         "Larger alveoli have a smaller surface area to volume ratio, and diffusion distances can increase in collapsed regions.",
         "So less oxygen enters the blood and less carbon dioxide leaves, reducing gas exchange efficiency."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-23.jpg",
+        "papers/biology/img/02A-Membranes-Transport-24.jpg",
+        "papers/biology/img/02A-Membranes-Transport-25.jpg",
+        "papers/biology/img/02A-Membranes-Transport-26.jpg"
       ]
     },
     {
@@ -978,6 +1208,12 @@
         "The concentration gradient of oxygen (high in air, low in embryo) and of carbon dioxide (the reverse) drives diffusion; a steeper gradient speeds it up.",
         "Higher temperature increases the kinetic energy of gas molecules, increasing the rate of diffusion.",
         "Pore size and the moisture of the shell membrane also affect how easily gases pass through."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-23.jpg",
+        "papers/biology/img/02A-Membranes-Transport-24.jpg",
+        "papers/biology/img/02A-Membranes-Transport-25.jpg",
+        "papers/biology/img/02A-Membranes-Transport-26.jpg"
       ]
     },
     {
@@ -1003,6 +1239,12 @@
         "Taking the diagram unit as cm: 2 cm / 1 x 10^7 = 2 x 10^-7 cm.",
         "Since 1 cm = 1 x 10^7 nm, the result 2 x 10^-7 cm equals 2 nm.",
         "1 cm = 10^7 nm, so 2 x 10^-7 cm = 2 nm, a sensible size for a membrane component, so the unit is nm."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-26.jpg",
+        "papers/biology/img/02A-Membranes-Transport-27.jpg",
+        "papers/biology/img/02A-Membranes-Transport-28.jpg",
+        "papers/biology/img/02A-Membranes-Transport-29.jpg"
       ]
     },
     {
@@ -1023,7 +1265,13 @@
       "question": "Which structures in the membrane diagram contain a phosphate group? Options: A Q and R, B Q and T, C R and S, D S and T.",
       "status": "pending",
       "answer": "Missing: the labelled membrane diagram (structures Q, R, S, T) is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-26.jpg",
+        "papers/biology/img/02A-Membranes-Transport-27.jpg",
+        "papers/biology/img/02A-Membranes-Transport-28.jpg",
+        "papers/biology/img/02A-Membranes-Transport-29.jpg"
+      ]
     },
     {
       "id": "2A-Q11a(iii)",
@@ -1045,7 +1293,13 @@
       "question": "Which ratio of structures in the membrane diagram affects the fluidity of the membrane? Options: A Q:T, B R:Q, C R:T, D S:T.",
       "status": "pending",
       "answer": "Missing: the labelled membrane diagram (structures Q, R, S, T) is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-26.jpg",
+        "papers/biology/img/02A-Membranes-Transport-27.jpg",
+        "papers/biology/img/02A-Membranes-Transport-28.jpg",
+        "papers/biology/img/02A-Membranes-Transport-29.jpg"
+      ]
     },
     {
       "id": "2A-Q11b",
@@ -1069,6 +1323,12 @@
         "The sequence determines the R groups, which can be hydrophobic or hydrophilic.",
         "Hydrophobic R groups face the lipid core of the membrane, while hydrophilic ones face the water-based surface.",
         "The sequence also determines the bonds that form the secondary and tertiary structure, so the protein's shape and function depend on it."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-26.jpg",
+        "papers/biology/img/02A-Membranes-Transport-27.jpg",
+        "papers/biology/img/02A-Membranes-Transport-28.jpg",
+        "papers/biology/img/02A-Membranes-Transport-29.jpg"
       ]
     },
     {
@@ -1089,7 +1349,13 @@
       "question": "Explain why each of the molecules in a table and diagram of molecules inside and outside a cell enters the cell by a different mechanism.",
       "status": "pending",
       "answer": "Missing: the table of molecules and the diagram are not in the text, so each molecule's mechanism cannot be matched.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-26.jpg",
+        "papers/biology/img/02A-Membranes-Transport-27.jpg",
+        "papers/biology/img/02A-Membranes-Transport-28.jpg",
+        "papers/biology/img/02A-Membranes-Transport-29.jpg"
+      ]
     },
     {
       "id": "2A-Q12a(i)",
@@ -1108,7 +1374,11 @@
       "question": "Using the shapes showing the components of a phospholipid, draw a diagram to show its structure.",
       "status": "pending",
       "answer": "Missing: the shapes representing the phospholipid components are shown only as an image, not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-29.jpg",
+        "papers/biology/img/02A-Membranes-Transport-30.jpg"
+      ]
     },
     {
       "id": "2A-Q12a(ii)",
@@ -1132,6 +1402,10 @@
         "Glycosidic bonds join sugars, and peptide bonds join amino acids, so B and D are wrong.",
         "Ester bonds link the fatty acids to the glycerol backbone of a phospholipid.",
         "Hydrogen bonds are weak attractions, not covalent bonds that make up the molecule's structure."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-29.jpg",
+        "papers/biology/img/02A-Membranes-Transport-30.jpg"
       ]
     },
     {
@@ -1156,6 +1430,10 @@
         "They move down their concentration gradient without energy, which is simple diffusion.",
         "It then passes through the bilayer without carrier proteins.",
         "Active transport needs ATP, exocytosis moves things out, and osmosis is only for water."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-29.jpg",
+        "papers/biology/img/02A-Membranes-Transport-30.jpg"
       ]
     },
     {
@@ -1180,6 +1458,10 @@
         "Statement 2 is correct: the cell surface membrane folds round the substance to form a vesicle.",
         "Endocytosis forms a vesicle, which requires energy from ATP.",
         "Statement 3 is wrong because endocytosis is an active process using ATP and can move substances against a gradient."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-29.jpg",
+        "papers/biology/img/02A-Membranes-Transport-30.jpg"
       ]
     },
     {
@@ -1199,7 +1481,14 @@
       "question": "Using the table showing one way the components of phospholipids can be drawn, draw a diagram of a phospholipid.",
       "status": "pending",
       "answer": "Missing: the table of phospholipid components is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-30.jpg",
+        "papers/biology/img/02A-Membranes-Transport-31.jpg",
+        "papers/biology/img/02A-Membranes-Transport-32.jpg",
+        "papers/biology/img/02A-Membranes-Transport-33.jpg",
+        "papers/biology/img/02A-Membranes-Transport-34.jpg"
+      ]
     },
     {
       "id": "2A-Q13a(ii)",
@@ -1216,7 +1505,14 @@
       "question": "Which of the diagrams shows an ester bond, one of the bonds present in phospholipids?",
       "status": "pending",
       "answer": "Missing: the diagrams of bonds are not in the text, so the correct diagram cannot be selected.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-30.jpg",
+        "papers/biology/img/02A-Membranes-Transport-31.jpg",
+        "papers/biology/img/02A-Membranes-Transport-32.jpg",
+        "papers/biology/img/02A-Membranes-Transport-33.jpg",
+        "papers/biology/img/02A-Membranes-Transport-34.jpg"
+      ]
     },
     {
       "id": "2A-Q13b(i)",
@@ -1240,6 +1536,13 @@
         "The molecules vibrate and move more, so they slide past one another more easily.",
         "The increased movement weakens the hydrophobic interactions between the fatty acid tails.",
         "This makes the bilayer more fluid, with more movement of molecules and proteins within it."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-30.jpg",
+        "papers/biology/img/02A-Membranes-Transport-31.jpg",
+        "papers/biology/img/02A-Membranes-Transport-32.jpg",
+        "papers/biology/img/02A-Membranes-Transport-33.jpg",
+        "papers/biology/img/02A-Membranes-Transport-34.jpg"
       ]
     },
     {
@@ -1258,7 +1561,14 @@
       "question": "Which row of the table describes an unsaturated fatty acid compared with a saturated fatty acid with the same number of carbon atoms?",
       "status": "pending",
       "answer": "Missing: the table with the rows describing fatty acids is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-30.jpg",
+        "papers/biology/img/02A-Membranes-Transport-31.jpg",
+        "papers/biology/img/02A-Membranes-Transport-32.jpg",
+        "papers/biology/img/02A-Membranes-Transport-33.jpg",
+        "papers/biology/img/02A-Membranes-Transport-34.jpg"
+      ]
     },
     {
       "id": "2A-Q13b(iii)",
@@ -1282,6 +1592,13 @@
         "Its rigid steroid rings restrict the movement of the fatty acid chains.",
         "Cholesterol is a rigid molecule that restricts the movement of the fatty acid tails.",
         "When cholesterol decreases, there is less restriction, so the phospholipids move more and the membrane is more fluid."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-30.jpg",
+        "papers/biology/img/02A-Membranes-Transport-31.jpg",
+        "papers/biology/img/02A-Membranes-Transport-32.jpg",
+        "papers/biology/img/02A-Membranes-Transport-33.jpg",
+        "papers/biology/img/02A-Membranes-Transport-34.jpg"
       ]
     },
     {
@@ -1305,6 +1622,13 @@
         "A shorter chain has fewer such attractions, so the tails are held together less strongly.",
         "Shorter tails therefore pack less tightly, so the bilayer is more fluid.",
         "The tails therefore pack less tightly and move more easily, increasing fluidity."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-30.jpg",
+        "papers/biology/img/02A-Membranes-Transport-31.jpg",
+        "papers/biology/img/02A-Membranes-Transport-32.jpg",
+        "papers/biology/img/02A-Membranes-Transport-33.jpg",
+        "papers/biology/img/02A-Membranes-Transport-34.jpg"
       ]
     },
     {
@@ -1329,6 +1653,13 @@
         "Unsaturated fatty acids have kinks at their double bonds, which prevent tight packing.",
         "Unsaturated fatty acids have double bonds that put kinks in the chains, preventing tight packing.",
         "So the fish increase the proportion of unsaturated (and shorter) fatty acids in their membranes."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-30.jpg",
+        "papers/biology/img/02A-Membranes-Transport-31.jpg",
+        "papers/biology/img/02A-Membranes-Transport-32.jpg",
+        "papers/biology/img/02A-Membranes-Transport-33.jpg",
+        "papers/biology/img/02A-Membranes-Transport-34.jpg"
       ]
     },
     {
@@ -1353,6 +1684,13 @@
         "If the membrane became too rigid, transport and metabolic reactions would slow down.",
         "Without this adjustment the membrane would become rigid at low temperature.",
         "Keeping the membrane fluid at low temperature maintains these processes and so keeps the fish alive."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-30.jpg",
+        "papers/biology/img/02A-Membranes-Transport-31.jpg",
+        "papers/biology/img/02A-Membranes-Transport-32.jpg",
+        "papers/biology/img/02A-Membranes-Transport-33.jpg",
+        "papers/biology/img/02A-Membranes-Transport-34.jpg"
       ]
     },
     {
@@ -1372,7 +1710,13 @@
       "question": "Describe the evidence for and against a relationship between blood cholesterol levels and heart disease, from the graph of a 10-year study.",
       "status": "pending",
       "answer": "Missing: the graph of blood cholesterol and heart disease over 10 years is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-34.jpg",
+        "papers/biology/img/02A-Membranes-Transport-35.jpg",
+        "papers/biology/img/02A-Membranes-Transport-36.jpg",
+        "papers/biology/img/02A-Membranes-Transport-37.jpg"
+      ]
     },
     {
       "id": "2A-Q14b",
@@ -1391,7 +1735,13 @@
       "question": "Describe the evidence in the graph of HDL and LDL levels and CVD incidence that supports three given conclusions.",
       "status": "pending",
       "answer": "Missing: the graph of HDL and LDL levels against incidence of CVD is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-34.jpg",
+        "papers/biology/img/02A-Membranes-Transport-35.jpg",
+        "papers/biology/img/02A-Membranes-Transport-36.jpg",
+        "papers/biology/img/02A-Membranes-Transport-37.jpg"
+      ]
     },
     {
       "id": "2A-Q14c(i)",
@@ -1416,6 +1766,12 @@
         "LDL binds to the receptor, and the receptors cluster in a coated pit on the membrane.",
         "The membrane folds in around the complex, forming an endocytotic vesicle that enters the cell.",
         "Inside the cell the LDL is released and the cholesterol is used by the cell."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-34.jpg",
+        "papers/biology/img/02A-Membranes-Transport-35.jpg",
+        "papers/biology/img/02A-Membranes-Transport-36.jpg",
+        "papers/biology/img/02A-Membranes-Transport-37.jpg"
       ]
     },
     {
@@ -1441,6 +1797,12 @@
         "Lower pH changes the charge (ionisation) of these R groups.",
         "A lower pH means more H+ ions, which change the charge of acidic and basic R groups.",
         "This changes the tertiary structure of the receptor's binding site, so the bonds with LDL break and the LDL is released."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-34.jpg",
+        "papers/biology/img/02A-Membranes-Transport-35.jpg",
+        "papers/biology/img/02A-Membranes-Transport-36.jpg",
+        "papers/biology/img/02A-Membranes-Transport-37.jpg"
       ]
     },
     {
@@ -1465,6 +1827,12 @@
         "The faulty receptor may not bind LDL properly, or may fail to be taken into the cell by endocytosis.",
         "LDL then stays in the blood, so blood cholesterol levels rise.",
         "The LDL can deposit cholesterol in artery walls, forming plaques that lead to atherosclerosis and CVD."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-34.jpg",
+        "papers/biology/img/02A-Membranes-Transport-35.jpg",
+        "papers/biology/img/02A-Membranes-Transport-36.jpg",
+        "papers/biology/img/02A-Membranes-Transport-37.jpg"
       ]
     },
     {
@@ -1483,7 +1851,13 @@
       "question": "In a Venn diagram comparing diffusion, facilitated diffusion and active transport, which part would contain the statement 'uses proteins'? Options: A II, B III, C IV, D VII.",
       "status": "pending",
       "answer": "Missing: the numbered Venn diagram is not in the text, so the part numbers cannot be matched to the statement.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-37.jpg",
+        "papers/biology/img/02A-Membranes-Transport-38.jpg",
+        "papers/biology/img/02A-Membranes-Transport-39.jpg",
+        "papers/biology/img/02A-Membranes-Transport-40.jpg"
+      ]
     },
     {
       "id": "2A-Q15a(ii)",
@@ -1501,7 +1875,13 @@
       "question": "In the Venn diagram, which part would contain the statement 'needs energy in the form of ATP'? Options: A II, B V, C VI, D VII.",
       "status": "pending",
       "answer": "Missing: the numbered Venn diagram is not in the text, so the part number cannot be confirmed.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-37.jpg",
+        "papers/biology/img/02A-Membranes-Transport-38.jpg",
+        "papers/biology/img/02A-Membranes-Transport-39.jpg",
+        "papers/biology/img/02A-Membranes-Transport-40.jpg"
+      ]
     },
     {
       "id": "2A-Q15a(iii)",
@@ -1519,7 +1899,13 @@
       "question": "In the Venn diagram, which part would contain the statement 'solutes can only move down a concentration gradient'? Options: A II, B III, C V, D VII.",
       "status": "pending",
       "answer": "Missing: the numbered Venn diagram is not in the text, so the part number cannot be confirmed.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-37.jpg",
+        "papers/biology/img/02A-Membranes-Transport-38.jpg",
+        "papers/biology/img/02A-Membranes-Transport-39.jpg",
+        "papers/biology/img/02A-Membranes-Transport-40.jpg"
+      ]
     },
     {
       "id": "2A-Q15b",
@@ -1542,6 +1928,12 @@
         "A partially permeable membrane lets water through but not dissolved solutes.",
         "Water potential is higher in dilute solutions and lower in concentrated solutions, so water moves from high to low water potential.",
         "Movement is down the water potential gradient, so there is a net movement of water until equilibrium is reached."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-37.jpg",
+        "papers/biology/img/02A-Membranes-Transport-38.jpg",
+        "papers/biology/img/02A-Membranes-Transport-39.jpg",
+        "papers/biology/img/02A-Membranes-Transport-40.jpg"
       ]
     },
     {
@@ -1562,7 +1954,13 @@
       "question": "Explain the changes in water content and amino acid content in the muscle cells of mitten crabs moved from fresh water into sea water, using the graph.",
       "status": "pending",
       "answer": "Missing: the graph of water content and amino acid content over 15 days is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-37.jpg",
+        "papers/biology/img/02A-Membranes-Transport-38.jpg",
+        "papers/biology/img/02A-Membranes-Transport-39.jpg",
+        "papers/biology/img/02A-Membranes-Transport-40.jpg"
+      ]
     },
     {
       "id": "2A-Q16a(i)",
@@ -1581,7 +1979,11 @@
       "question": "A hydra has a body length of 1.8 mm and diameter of 1 mm. Which is the magnification of the drawing? Options: A 3.75 x 10^-2, B 3.75 x 10^-1, C 2.67 x 10^0, D 2.67 x 10^1.",
       "status": "pending",
       "answer": "Missing: the length of the hydra in the drawing is not in the text, so the magnification cannot be calculated.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-40.jpg",
+        "papers/biology/img/02A-Membranes-Transport-41.jpg"
+      ]
     },
     {
       "id": "2A-Q16a(ii)",
@@ -1606,6 +2008,10 @@
         "Length l = 1.8 mm.",
         "The formula gives the curved surface area of a cylinder, which models the hydra body.",
         "Surface area = 2 x pi x 0.5 x 1.8 = 1.8 pi mm2, which is option B."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-40.jpg",
+        "papers/biology/img/02A-Membranes-Transport-41.jpg"
       ]
     },
     {
@@ -1630,6 +2036,10 @@
         "Volume = pi x 0.6^2 x 1.8 = 0.648 pi mm3.",
         "Ratio = surface area / volume = 2.3 pi / 0.648 pi = 3.55, which is 3.5 mm-1 to two significant figures.",
         "Using the given surface area is required here, although 2 pi r l with these dimensions gives 2.16 pi."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-40.jpg",
+        "papers/biology/img/02A-Membranes-Transport-41.jpg"
       ]
     },
     {
@@ -1654,6 +2064,10 @@
         "Each cell is in direct contact with the surrounding water or the hollow body cavity, so every cell can exchange gases.",
         "Its cylindrical body gives a relatively large surface area to volume ratio for diffusion.",
         "Oxygen diffuses in and carbon dioxide diffuses out down concentration gradients, so no specialised gas exchange organ is needed."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-40.jpg",
+        "papers/biology/img/02A-Membranes-Transport-41.jpg"
       ]
     },
     {
@@ -1678,6 +2092,11 @@
         "This relationship is Fick's law.",
         "It states that rate is proportional to surface area and concentration gradient, and inversely proportional to distance.",
         "It explains why gas exchange surfaces are thin and large."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-42.jpg",
+        "papers/biology/img/02A-Membranes-Transport-43.jpg",
+        "papers/biology/img/02A-Membranes-Transport-44.jpg"
       ]
     },
     {
@@ -1701,6 +2120,11 @@
         "Halving surface area multiplies the rate by 0.5, and halving the gradient multiplies it by 0.5.",
         "Each change multiplies the rate separately, so the effects combine multiplicatively.",
         "Halving the diffusion distance doubles the rate (multiplies by 2): 0.5 x 0.5 x 2 = 0.5, so the rate halves."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-42.jpg",
+        "papers/biology/img/02A-Membranes-Transport-43.jpg",
+        "papers/biology/img/02A-Membranes-Transport-44.jpg"
       ]
     },
     {
@@ -1726,6 +2150,11 @@
         "Short diffusion distance: alveolar walls and capillary walls are each only one cell thick.",
         "High concentration gradient: ventilation keeps alveolar oxygen high and carbon dioxide low.",
         "The blood flow through the capillaries removes oxygen and supplies carbon dioxide, keeping the gradient steep."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-42.jpg",
+        "papers/biology/img/02A-Membranes-Transport-43.jpg",
+        "papers/biology/img/02A-Membranes-Transport-44.jpg"
       ]
     },
     {
@@ -1746,7 +2175,12 @@
       "question": "Discuss how the structure and behaviour of the hellbender salamander are adapted for gas exchange, using the graph of body rocking frequency, blood pO2 and percentage saturation of the water.",
       "status": "pending",
       "answer": "Missing: the graph of body rocking frequency against blood pO2 and water oxygen saturation is not in the text, so the data cannot be used to support the discussion.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-42.jpg",
+        "papers/biology/img/02A-Membranes-Transport-43.jpg",
+        "papers/biology/img/02A-Membranes-Transport-44.jpg"
+      ]
     },
     {
       "id": "2A-Q18a(i)",
@@ -1766,7 +2200,13 @@
       "question": "From the graph of solute concentration of cells of marine animals P, Q and R, which row of the table identifies them?",
       "status": "pending",
       "answer": "Missing: the graph and the table of row options are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-44.jpg",
+        "papers/biology/img/02A-Membranes-Transport-45.jpg",
+        "papers/biology/img/02A-Membranes-Transport-46.jpg",
+        "papers/biology/img/02A-Membranes-Transport-47.jpg"
+      ]
     },
     {
       "id": "2A-Q18a(ii)",
@@ -1790,6 +2230,12 @@
         "The animal does not gain or lose water, so it avoids the risk of swelling or dehydration.",
         "Osmoconformers therefore keep a stable cell volume without active regulation.",
         "Because it does not need to pump ions or water to maintain balance, it saves energy that can be used for growth and activity."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-44.jpg",
+        "papers/biology/img/02A-Membranes-Transport-45.jpg",
+        "papers/biology/img/02A-Membranes-Transport-46.jpg",
+        "papers/biology/img/02A-Membranes-Transport-47.jpg"
       ]
     },
     {
@@ -1809,7 +2255,13 @@
       "question": "Estimate the chloride ion concentration of the cells of a jellyfish from the table of ion concentrations in sea water and in osmoconformers.",
       "status": "pending",
       "answer": "Missing: the table of ion concentrations is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-44.jpg",
+        "papers/biology/img/02A-Membranes-Transport-45.jpg",
+        "papers/biology/img/02A-Membranes-Transport-46.jpg",
+        "papers/biology/img/02A-Membranes-Transport-47.jpg"
+      ]
     },
     {
       "id": "2A-Q18b(ii)",
@@ -1827,7 +2279,13 @@
       "question": "Calculate the percentage difference in the concentration of magnesium ions in the lobster compared with the sea urchin, to two decimal places.",
       "status": "pending",
       "answer": "Missing: the table of magnesium ion concentrations in the lobster and sea urchin is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-44.jpg",
+        "papers/biology/img/02A-Membranes-Transport-45.jpg",
+        "papers/biology/img/02A-Membranes-Transport-46.jpg",
+        "papers/biology/img/02A-Membranes-Transport-47.jpg"
+      ]
     },
     {
       "id": "2A-Q18b(iii)",
@@ -1850,6 +2308,12 @@
         "Different ions can be balanced by other solutes, such as amino acids and organic molecules, so the total is the same as the sea water.",
         "Total solute concentration is the property that controls osmosis, not each ion separately.",
         "With equal total solute concentrations there is no water potential gradient, so no net water movement."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-44.jpg",
+        "papers/biology/img/02A-Membranes-Transport-45.jpg",
+        "papers/biology/img/02A-Membranes-Transport-46.jpg",
+        "papers/biology/img/02A-Membranes-Transport-47.jpg"
       ]
     },
     {
@@ -1873,6 +2337,12 @@
         "Individual ions can vary because other solutes, such as amino acids, can replace them to balance the total.",
         "Ions and amino acids differ in permeability and function, so their levels vary.",
         "Each ion's permeability and function may also differ, so each is kept at a different level."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-44.jpg",
+        "papers/biology/img/02A-Membranes-Transport-45.jpg",
+        "papers/biology/img/02A-Membranes-Transport-46.jpg",
+        "papers/biology/img/02A-Membranes-Transport-47.jpg"
       ]
     },
     {
@@ -1897,6 +2367,12 @@
         "This requires energy from ATP, which is produced by respiration.",
         "Maintaining these gradients is active, because it stops ions leaking down their concentration gradients.",
         "Carrier proteins, such as the sodium-potassium pump, use the energy to move the ions and keep the concentrations different from the sea water."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-44.jpg",
+        "papers/biology/img/02A-Membranes-Transport-45.jpg",
+        "papers/biology/img/02A-Membranes-Transport-46.jpg",
+        "papers/biology/img/02A-Membranes-Transport-47.jpg"
       ]
     },
     {
@@ -1920,6 +2396,11 @@
         "It has two fatty acid tails that are hydrophobic (repel water).",
         "The hydrophilic heads face the water on both sides of the bilayer.",
         "So option B is the correct description."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-47.jpg",
+        "papers/biology/img/02A-Membranes-Transport-48.jpg",
+        "papers/biology/img/02A-Membranes-Transport-49.jpg"
       ]
     },
     {
@@ -1944,6 +2425,11 @@
         "Davson-Danielli: the proteins form continuous layers on the outer and inner surfaces of the bilayer, sandwiching it.",
         "Fluid mosaic: the proteins are embedded in the bilayer and scattered in a mosaic, some spanning the whole membrane.",
         "Fluid mosaic: the phospholipids can move laterally, so the membrane is fluid and dynamic, whereas Davson-Danielli describes a rigid, static structure."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-47.jpg",
+        "papers/biology/img/02A-Membranes-Transport-48.jpg",
+        "papers/biology/img/02A-Membranes-Transport-49.jpg"
       ]
     },
     {
@@ -1969,6 +2455,11 @@
         "Ions and molecules leak across, destroying concentration gradients needed for cell processes.",
         "Water may enter by osmosis, causing swelling and lysis, or enzymes and organelles may be lost.",
         "Loss of these functions stops the cell from carrying out its processes, causing death."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-47.jpg",
+        "papers/biology/img/02A-Membranes-Transport-48.jpg",
+        "papers/biology/img/02A-Membranes-Transport-49.jpg"
       ]
     },
     {
@@ -1993,6 +2484,11 @@
         "The hydrophilic heads face water on both sides, and the hydrophobic tails face each other.",
         "The membrane must be fluid so that the edges can move together.",
         "When the edges are brought together, these interactions allow the bilayer to reform and fuse into a continuous membrane."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-47.jpg",
+        "papers/biology/img/02A-Membranes-Transport-48.jpg",
+        "papers/biology/img/02A-Membranes-Transport-49.jpg"
       ]
     },
     {
@@ -2018,6 +2514,11 @@
         "Ribosomes on the rough ER make the replacement proteins, which are modified in the Golgi.",
         "Vesicles fuse with the membrane to deliver the lipids and proteins needed to complete the repair.",
         "Golgi vesicles carry the new proteins and lipids to the damaged area and insert them into the membrane."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-47.jpg",
+        "papers/biology/img/02A-Membranes-Transport-48.jpg",
+        "papers/biology/img/02A-Membranes-Transport-49.jpg"
       ]
     },
     {
@@ -2041,6 +2542,11 @@
         "In water the tails are shielded by arranging into a bilayer, with the hydrophilic heads facing water.",
         "Forming a bilayer minimises contact between the tails and water, which is energetically favourable.",
         "Options A, B and C are wrong because the heads are hydrophilic and the tails are hydrophobic."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-49.jpg",
+        "papers/biology/img/02A-Membranes-Transport-50.jpg",
+        "papers/biology/img/02A-Membranes-Transport-51.jpg"
       ]
     },
     {
@@ -2060,7 +2566,12 @@
       "question": "From the diagram of part of a cell membrane, which letter (P, Q, R or S) represents a membrane glycoprotein?",
       "status": "pending",
       "answer": "Missing: the labelled membrane diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-49.jpg",
+        "papers/biology/img/02A-Membranes-Transport-50.jpg",
+        "papers/biology/img/02A-Membranes-Transport-51.jpg"
+      ]
     },
     {
       "id": "2A-Q20b",
@@ -2079,10 +2590,15 @@
       "status": "ready",
       "answer": "The net movement of water molecules from a region of higher water potential to a region of lower water potential across a partially permeable membrane.",
       "steps": [
-        "Osmosis is a type of diffusion involving only water.",
-        "Water moves through a partially permeable membrane, which allows water but not solutes.",
-        "Net movement is down the water potential gradient, from high to low.",
-        "The movement is down a water potential gradient, from high (dilute) to low (concentrated)."
+        "Osmosis is the net movement (diffusion) of water molecules only.",
+        "It takes place across a partially permeable membrane, which lets water through but not larger solute molecules.",
+        "Water moves from a region of higher water potential (more dilute solution) to a region of lower water potential (more concentrated solution).",
+        "It is a passive process: it is down the water potential gradient and needs no energy from ATP."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-49.jpg",
+        "papers/biology/img/02A-Membranes-Transport-50.jpg",
+        "papers/biology/img/02A-Membranes-Transport-51.jpg"
       ]
     },
     {
@@ -2107,6 +2623,11 @@
         "Difference: endocytosis takes substances into the cell by the membrane folding round them to form a vesicle.",
         "Endocytosis and exocytosis are both forms of bulk transport using vesicles.",
         "Difference: exocytosis releases substances out of the cell when a vesicle fuses with the cell surface membrane."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-49.jpg",
+        "papers/biology/img/02A-Membranes-Transport-50.jpg",
+        "papers/biology/img/02A-Membranes-Transport-51.jpg"
       ]
     },
     {
@@ -2131,6 +2652,11 @@
         "It can dissolve in the hydrophobic core of the phospholipid bilayer.",
         "Because it needs no ATP or carrier, it is not active transport.",
         "It diffuses across the membrane down its concentration gradient, so no carrier protein or energy is needed."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-49.jpg",
+        "papers/biology/img/02A-Membranes-Transport-50.jpg",
+        "papers/biology/img/02A-Membranes-Transport-51.jpg"
       ]
     },
     {
@@ -2155,6 +2681,10 @@
         "The alveolar and capillary walls are one cell thick, giving a short diffusion distance.",
         "A dense capillary network around each alveolus keeps the blood moving and maintains a steep concentration gradient.",
         "Ventilation continually replaces alveolar air, keeping oxygen high and carbon dioxide low."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-51.jpg",
+        "papers/biology/img/02A-Membranes-Transport-52.jpg"
       ]
     },
     {
@@ -2178,6 +2708,10 @@
         "An allele is one of the different versions of that gene.",
         "Different alleles of a gene can produce different versions of the same protein.",
         "Alleles occupy the same position (locus) on homologous chromosomes."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-51.jpg",
+        "papers/biology/img/02A-Membranes-Transport-52.jpg"
       ]
     },
     {
@@ -2203,6 +2737,10 @@
         "This means one amino acid is missing from the polypeptide, changing the primary structure.",
         "The change in primary structure alters the bonds that determine folding, so the CFTR protein misfolds.",
         "The misfolded protein cannot function as a chloride channel and is often destroyed, so it does not reach the cell surface membrane."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-51.jpg",
+        "papers/biology/img/02A-Membranes-Transport-52.jpg"
       ]
     },
     {
@@ -2228,6 +2766,10 @@
         "Water follows by osmosis, keeping the mucus thin and watery.",
         "With non-functioning CFTR, less water enters the mucus, so it becomes thick and sticky.",
         "Thick mucus traps bacteria and cannot be cleared by cilia, so bacteria multiply and cause lung infections."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-51.jpg",
+        "papers/biology/img/02A-Membranes-Transport-52.jpg"
       ]
     },
     {
@@ -2252,6 +2794,10 @@
         "Phospholipids and proteins can move, so the membrane stretches and deforms.",
         "Fluidity is what allows the amoeba to form pseudopodia.",
         "This flexibility allows the amoeba to form pseudopodia."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-52.jpg",
+        "papers/biology/img/02A-Membranes-Transport-53.jpg"
       ]
     },
     {
@@ -2272,7 +2818,11 @@
       "question": "The amoeba in Shape 1 is roughly spherical. Using surface area of a sphere = 4 pi r^2, which is its surface area? Options: A 90 000 m2, B 90 000 m3, C 360 000 m2, D 360 000 m3.",
       "status": "pending",
       "answer": "Missing: the radius of the amoeba in Shape 1 is shown only in the diagram, which is not in the text, so the surface area cannot be calculated to confirm the option.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-52.jpg",
+        "papers/biology/img/02A-Membranes-Transport-53.jpg"
+      ]
     },
     {
       "id": "2A-Q22b(ii)",
@@ -2291,7 +2841,11 @@
       "question": "The mass of the amoeba stays the same when it changes from Shape 1 to Shape 2. Which row of the table shows what happens to its surface area and volume?",
       "status": "pending",
       "answer": "Missing: the table of surface area and volume changes is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-52.jpg",
+        "papers/biology/img/02A-Membranes-Transport-53.jpg"
+      ]
     },
     {
       "id": "2A-Q22b(iii)",
@@ -2315,6 +2869,10 @@
         "Its surface area to volume ratio is large, so there is enough membrane for the oxygen it needs.",
         "Its membrane area is large relative to its volume.",
         "Diffusion over this short distance is fast enough to supply oxygen and remove carbon dioxide."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-52.jpg",
+        "papers/biology/img/02A-Membranes-Transport-53.jpg"
       ]
     },
     {
@@ -2339,6 +2897,12 @@
         "Active transport moves solutes against the gradient, so A and B are wrong.",
         "Facilitated diffusion also moves solutes down a gradient, using channel or carrier proteins without ATP.",
         "Osmosis moves water, not a solute, so D is wrong."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-53.jpg",
+        "papers/biology/img/02A-Membranes-Transport-54.jpg",
+        "papers/biology/img/02A-Membranes-Transport-55.jpg",
+        "papers/biology/img/02A-Membranes-Transport-56.jpg"
       ]
     },
     {
@@ -2362,6 +2926,12 @@
         "Simple diffusion does not involve any membrane protein, and exocytosis uses vesicles, not carriers.",
         "Diffusion through the bilayer requires no protein at all.",
         "So only active transport involves carrier proteins."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-53.jpg",
+        "papers/biology/img/02A-Membranes-Transport-54.jpg",
+        "papers/biology/img/02A-Membranes-Transport-55.jpg",
+        "papers/biology/img/02A-Membranes-Transport-56.jpg"
       ]
     },
     {
@@ -2385,6 +2955,12 @@
         "This allows large particles and bacteria to enter the cell.",
         "Phagocytosis is a form of endocytosis for solid particles.",
         "Exocytosis moves material out, and the other options use carriers or pumps for small molecules."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-53.jpg",
+        "papers/biology/img/02A-Membranes-Transport-54.jpg",
+        "papers/biology/img/02A-Membranes-Transport-55.jpg",
+        "papers/biology/img/02A-Membranes-Transport-56.jpg"
       ]
     },
     {
@@ -2407,6 +2983,12 @@
         "They pass straight through by simple diffusion, without carrier proteins.",
         "The hydrophobic core of the bilayer lets these molecules pass without help.",
         "Facilitated diffusion is for polar or charged molecules, and osmosis is only for water."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-53.jpg",
+        "papers/biology/img/02A-Membranes-Transport-54.jpg",
+        "papers/biology/img/02A-Membranes-Transport-55.jpg",
+        "papers/biology/img/02A-Membranes-Transport-56.jpg"
       ]
     },
     {
@@ -2426,7 +3008,13 @@
       "question": "Which row of the table describes the charge on the R groups on the amino acids of a channel protein used in facilitated diffusion?",
       "status": "pending",
       "answer": "Missing: the table of R group charges is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-53.jpg",
+        "papers/biology/img/02A-Membranes-Transport-54.jpg",
+        "papers/biology/img/02A-Membranes-Transport-55.jpg",
+        "papers/biology/img/02A-Membranes-Transport-56.jpg"
+      ]
     },
     {
       "id": "2A-Q23f",
@@ -2445,7 +3033,13 @@
       "question": "Explain the results of an investigation in which pieces of sweet potato were placed in four coloured dye solutions and their mass change was measured.",
       "status": "pending",
       "answer": "Missing: the method diagram and the graph of mass change for the four solutions are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-53.jpg",
+        "papers/biology/img/02A-Membranes-Transport-54.jpg",
+        "papers/biology/img/02A-Membranes-Transport-55.jpg",
+        "papers/biology/img/02A-Membranes-Transport-56.jpg"
+      ]
     },
     {
       "id": "2A-Q24a(i)",
@@ -2464,7 +3058,12 @@
       "question": "From the diagram of a human heart with vessels labelled P, Q, R and S, which pair transports blood to and from the lungs? Options: A P and Q, B Q and S, C R and P, D S and R.",
       "status": "pending",
       "answer": "Missing: the labelled heart diagram is not in the text, so the letters cannot be matched to the pulmonary vessels.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-56.jpg",
+        "papers/biology/img/02A-Membranes-Transport-57.jpg",
+        "papers/biology/img/02A-Membranes-Transport-58.jpg"
+      ]
     },
     {
       "id": "2A-Q24a(ii)",
@@ -2482,7 +3081,12 @@
       "question": "From the labelled heart diagram (P, Q, R, S), which pair of vessels is chosen from options A P, B P and R, C Q, D Q and R?",
       "status": "pending",
       "answer": "Missing: the labelled heart diagram is not in the text, so the vessels cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-56.jpg",
+        "papers/biology/img/02A-Membranes-Transport-57.jpg",
+        "papers/biology/img/02A-Membranes-Transport-58.jpg"
+      ]
     },
     {
       "id": "2A-Q24a(iii)",
@@ -2501,7 +3105,12 @@
       "question": "From the labelled heart diagram (options AP, BQ, CR, DS), which blood vessel does the coronary artery branch from?",
       "status": "pending",
       "answer": "Missing: the labelled heart diagram is not in the text, so the vessel cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-56.jpg",
+        "papers/biology/img/02A-Membranes-Transport-57.jpg",
+        "papers/biology/img/02A-Membranes-Transport-58.jpg"
+      ]
     },
     {
       "id": "2A-Q24b(i)",
@@ -2525,6 +3134,11 @@
         "It increases with a steeper concentration gradient between the blood and the cells.",
         "Both factors increase the rate of diffusion, while diffusion distance is the third factor.",
         "Temperature also affects the rate, as higher temperature increases molecular kinetic energy."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-56.jpg",
+        "papers/biology/img/02A-Membranes-Transport-57.jpg",
+        "papers/biology/img/02A-Membranes-Transport-58.jpg"
       ]
     },
     {
@@ -2547,6 +3161,11 @@
         "Fick's law is used to calculate rates, so it is the law the question asks for.",
         "Rate = surface area x concentration gradient / diffusion distance (with a constant).",
         "It applies to the diffusion of gases and solutes across membranes."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-56.jpg",
+        "papers/biology/img/02A-Membranes-Transport-57.jpg",
+        "papers/biology/img/02A-Membranes-Transport-58.jpg"
       ]
     },
     {
@@ -2565,7 +3184,12 @@
       "question": "Complete the table showing the time taken for a molecule to diffuse over different diffusion distances.",
       "status": "pending",
       "answer": "Missing: the table of diffusion distances and times, with the missing values, is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-56.jpg",
+        "papers/biology/img/02A-Membranes-Transport-57.jpg",
+        "papers/biology/img/02A-Membranes-Transport-58.jpg"
+      ]
     },
     {
       "id": "2A-Q24c(ii)",
@@ -2590,6 +3214,11 @@
         "Oxygen must diffuse from the capillary blood into the cells across the tissue fluid.",
         "The table shows that diffusion time increases as the diffusion distance increases, so a short distance gives a fast supply.",
         "Being close to capillaries also keeps a steep concentration gradient, so oxygen supply meets the cells' demand."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-56.jpg",
+        "papers/biology/img/02A-Membranes-Transport-57.jpg",
+        "papers/biology/img/02A-Membranes-Transport-58.jpg"
       ]
     },
     {
@@ -2614,6 +3243,12 @@
         "Polar and charged solutes are not soluble in the hydrophobic core and cannot pass through it.",
         "Overton explains why lipid-soluble substances enter cells more readily.",
         "So only the lipid-soluble solutes can cross the lipid membrane."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-58.jpg",
+        "papers/biology/img/02A-Membranes-Transport-59.jpg",
+        "papers/biology/img/02A-Membranes-Transport-60.jpg",
+        "papers/biology/img/02A-Membranes-Transport-61.jpg"
       ]
     },
     {
@@ -2638,6 +3273,12 @@
         "In a single layer, the hydrophobic tails would be exposed to water on one side.",
         "A bilayer keeps the hydrophobic tails away from water on both sides.",
         "A bilayer with heads facing outwards and tails inwards hides the tails from water on both sides."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-58.jpg",
+        "papers/biology/img/02A-Membranes-Transport-59.jpg",
+        "papers/biology/img/02A-Membranes-Transport-60.jpg",
+        "papers/biology/img/02A-Membranes-Transport-61.jpg"
       ]
     },
     {
@@ -2663,6 +3304,12 @@
         "They can also have different degrees of saturation, with saturated or unsaturated fatty acid tails.",
         "Changes in these fatty acids alter the fluidity of the membrane.",
         "The polar head group attached to the phosphate can also vary between phospholipids."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-58.jpg",
+        "papers/biology/img/02A-Membranes-Transport-59.jpg",
+        "papers/biology/img/02A-Membranes-Transport-60.jpg",
+        "papers/biology/img/02A-Membranes-Transport-61.jpg"
       ]
     },
     {
@@ -2688,6 +3335,12 @@
         "They must therefore span the bilayer, forming a channel or binding site accessible from both sides.",
         "A protein on one surface can only reach one side of the bilayer.",
         "Proteins only on the surface cannot reach across the hydrophobic core, so they could not move solutes through the membrane."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-58.jpg",
+        "papers/biology/img/02A-Membranes-Transport-59.jpg",
+        "papers/biology/img/02A-Membranes-Transport-60.jpg",
+        "papers/biology/img/02A-Membranes-Transport-61.jpg"
       ]
     },
     {
@@ -2707,7 +3360,13 @@
       "question": "The thickness of the cell membranes between X and Y in the photograph is 22.8 nm. Calculate the magnification of the photograph, to two significant figures.",
       "status": "pending",
       "answer": "Missing: the measured image distance between X and Y on the photograph is not in the text, so the magnification cannot be calculated.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-58.jpg",
+        "papers/biology/img/02A-Membranes-Transport-59.jpg",
+        "papers/biology/img/02A-Membranes-Transport-60.jpg",
+        "papers/biology/img/02A-Membranes-Transport-61.jpg"
+      ]
     },
     {
       "id": "2A-Q25f",
@@ -2732,6 +3391,12 @@
         "Proteins embedded in the bilayer can also move, so the membrane is dynamic.",
         "The name describes both the fluid and the mosaic components of the membrane.",
         "The proteins are scattered in a random pattern, like the pieces of a mosaic."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-58.jpg",
+        "papers/biology/img/02A-Membranes-Transport-59.jpg",
+        "papers/biology/img/02A-Membranes-Transport-60.jpg",
+        "papers/biology/img/02A-Membranes-Transport-61.jpg"
       ]
     },
     {
@@ -2757,6 +3422,13 @@
         "As the frog develops and moves onto land, it needs lungs to take oxygen from air.",
         "Lungs provide a large surface area that meets the greater oxygen demand of the larger, more active adult.",
         "The skin remains a supplementary gas exchange surface, especially when the frog is moist or submerged."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-61.jpg",
+        "papers/biology/img/02A-Membranes-Transport-62.jpg",
+        "papers/biology/img/02A-Membranes-Transport-63.jpg",
+        "papers/biology/img/02A-Membranes-Transport-64.jpg",
+        "papers/biology/img/02A-Membranes-Transport-65.jpg"
       ]
     },
     {
@@ -2782,6 +3454,13 @@
         "Both have valves that keep blood flowing in one direction.",
         "A frog heart has one ventricle, so oxygenated and deoxygenated blood partly mix.",
         "A mammalian heart has two separate ventricles, keeping the two circuits completely separate."
+      ],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-61.jpg",
+        "papers/biology/img/02A-Membranes-Transport-62.jpg",
+        "papers/biology/img/02A-Membranes-Transport-63.jpg",
+        "papers/biology/img/02A-Membranes-Transport-64.jpg",
+        "papers/biology/img/02A-Membranes-Transport-65.jpg"
       ]
     },
     {
@@ -2803,7 +3482,14 @@
       "question": "Explain how the circulatory system and the gas exchange surfaces of an adult frog meet the oxygen needs of its cells, using the percentage blood flow diagram.",
       "status": "pending",
       "answer": "Missing: the diagram showing the percentages of blood flow through the frog's circulatory system is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-61.jpg",
+        "papers/biology/img/02A-Membranes-Transport-62.jpg",
+        "papers/biology/img/02A-Membranes-Transport-63.jpg",
+        "papers/biology/img/02A-Membranes-Transport-64.jpg",
+        "papers/biology/img/02A-Membranes-Transport-65.jpg"
+      ]
     },
     {
       "id": "2A-Q27a(i)",
@@ -2823,7 +3509,13 @@
       "question": "From the diagram of structures in part of a cell membrane (options AQ, BR, CT, DV), which structure prevents large polar molecules from diffusing through the membrane?",
       "status": "pending",
       "answer": "Missing: the labelled membrane diagram is not in the text, so the structure cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-65.jpg",
+        "papers/biology/img/02A-Membranes-Transport-66.jpg",
+        "papers/biology/img/02A-Membranes-Transport-67.jpg",
+        "papers/biology/img/02A-Membranes-Transport-68.jpg"
+      ]
     },
     {
       "id": "2A-Q27a(ii)",
@@ -2843,7 +3535,13 @@
       "question": "From the membrane diagram (options AP, BS, CT, DU), which structure allows ions to diffuse through the membrane?",
       "status": "pending",
       "answer": "Missing: the labelled membrane diagram is not in the text, so the structure cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-65.jpg",
+        "papers/biology/img/02A-Membranes-Transport-66.jpg",
+        "papers/biology/img/02A-Membranes-Transport-67.jpg",
+        "papers/biology/img/02A-Membranes-Transport-68.jpg"
+      ]
     },
     {
       "id": "2A-Q27a(iii)",
@@ -2864,7 +3562,13 @@
       "question": "From the membrane diagram (options AP, BQ, CS, DU), which structure allows the membrane to be fluid?",
       "status": "pending",
       "answer": "Missing: the labelled membrane diagram is not in the text, so the structure cannot be identified.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-65.jpg",
+        "papers/biology/img/02A-Membranes-Transport-66.jpg",
+        "papers/biology/img/02A-Membranes-Transport-67.jpg",
+        "papers/biology/img/02A-Membranes-Transport-68.jpg"
+      ]
     },
     {
       "id": "2A-Q27b",
@@ -2882,7 +3586,13 @@
       "question": "Which diagram shows the correct position of a cholesterol molecule in the membrane?",
       "status": "pending",
       "answer": "Missing: the diagrams of cholesterol positions are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-65.jpg",
+        "papers/biology/img/02A-Membranes-Transport-66.jpg",
+        "papers/biology/img/02A-Membranes-Transport-67.jpg",
+        "papers/biology/img/02A-Membranes-Transport-68.jpg"
+      ]
     },
     {
       "id": "2A-Q27c",
@@ -2900,7 +3610,13 @@
       "question": "Describe the effect of temperature and cholesterol on membrane fluidity, shown in the graph.",
       "status": "pending",
       "answer": "Missing: the graph of the effect of temperature and cholesterol on membrane fluidity is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-65.jpg",
+        "papers/biology/img/02A-Membranes-Transport-66.jpg",
+        "papers/biology/img/02A-Membranes-Transport-67.jpg",
+        "papers/biology/img/02A-Membranes-Transport-68.jpg"
+      ]
     },
     {
       "id": "2A-Q27d(i)",
@@ -2919,7 +3635,13 @@
       "question": "Calculate the ratio of protein to lipid in membrane A from the table of composition of three membranes, giving the answer to 2 decimal places (as x : 1).",
       "status": "pending",
       "answer": "Missing: the table of protein, lipid and carbohydrate composition of membranes A, B and C is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-65.jpg",
+        "papers/biology/img/02A-Membranes-Transport-66.jpg",
+        "papers/biology/img/02A-Membranes-Transport-67.jpg",
+        "papers/biology/img/02A-Membranes-Transport-68.jpg"
+      ]
     },
     {
       "id": "2A-Q27d(ii)",
@@ -2938,7 +3660,13 @@
       "question": "Compare and contrast the composition of the three membranes A, B and C in the table of protein, lipid and carbohydrate.",
       "status": "pending",
       "answer": "Missing: the table of protein, lipid and carbohydrate composition of membranes A, B and C is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02A-Membranes-Transport-65.jpg",
+        "papers/biology/img/02A-Membranes-Transport-66.jpg",
+        "papers/biology/img/02A-Membranes-Transport-67.jpg",
+        "papers/biology/img/02A-Membranes-Transport-68.jpg"
+      ]
     }
   ]
 }

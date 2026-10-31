@@ -9,7 +9,15 @@
       "no": "Q1(a)(i)",
       "marks": 1,
       "topic": "Solvent for Hydrolysis",
-      "keywords": ["1-chlorobutane", "potassium hydroxide", "butan-1-ol", "solvent", "water", "ethanol", "hydrolysis"],
+      "keywords": [
+        "1-chlorobutane",
+        "potassium hydroxide",
+        "butan-1-ol",
+        "solvent",
+        "water",
+        "ethanol",
+        "hydrolysis"
+      ],
       "question": "Name a suitable solvent for the potassium hydroxide in the reaction of 1-chlorobutane to form butan-1-ol.",
       "status": "ready",
       "answer": "Water (aqueous KOH)",
@@ -17,6 +25,10 @@
         "Forming an alcohol is a substitution (hydrolysis) reaction",
         "KOH must be dissolved in water to supply aqueous OH- ions",
         "Ethanol would favour elimination (alkene), so water is the suitable solvent"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-01.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg"
       ]
     },
     {
@@ -24,7 +36,14 @@
       "no": "Q1(a)(ii)",
       "marks": 1,
       "topic": "Type and Mechanism of Reaction",
-      "keywords": ["nucleophilic substitution", "SN2", "1-chlorobutane", "hydroxide", "mechanism", "primary halogenoalkane"],
+      "keywords": [
+        "nucleophilic substitution",
+        "SN2",
+        "1-chlorobutane",
+        "hydroxide",
+        "mechanism",
+        "primary halogenoalkane"
+      ],
       "question": "State the type and mechanism of the reaction of 1-chlorobutane with potassium hydroxide.",
       "status": "ready",
       "answer": "Nucleophilic substitution by the SN2 mechanism",
@@ -32,6 +51,10 @@
         "OH- is a nucleophile that attacks the carbon bonded to Cl",
         "1-chlorobutane is a primary halogenoalkane, so it reacts by SN2 (one step)",
         "Cl- is displaced as the leaving group"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-01.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg"
       ]
     },
     {
@@ -39,7 +62,15 @@
       "no": "Q1(a)(iii)",
       "marks": 3,
       "topic": "SN2 Mechanism Drawing",
-      "keywords": ["mechanism", "curly arrows", "dipole", "lone pair", "hydroxide", "1-chlorobutane", "SN2"],
+      "keywords": [
+        "mechanism",
+        "curly arrows",
+        "dipole",
+        "lone pair",
+        "hydroxide",
+        "1-chlorobutane",
+        "SN2"
+      ],
       "question": "Draw the mechanism for the reaction of 1-chlorobutane with hydroxide ions, using curly arrows, dipoles and lone pairs.",
       "status": "ready",
       "answer": "OH- lone pair attacks the delta+ carbon; C-Cl bond breaks with a curly arrow to Cl; product is butan-1-ol and Cl-",
@@ -48,6 +79,10 @@
         "Curly arrow from a lone pair on O of OH- to the delta+ carbon",
         "Curly arrow from the C-Cl bond to Cl, showing Cl leaving with the bonding pair",
         "Show the product CH3CH2CH2CH2-OH (with H on O) and Cl- with its lone pairs"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-01.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg"
       ]
     },
     {
@@ -55,7 +90,15 @@
       "no": "Q1(b)",
       "marks": 4,
       "topic": "Volume from Percentage Yield",
-      "keywords": ["percentage yield", "butan-1-ol", "1-chlorobutane", "volume", "density", "moles", "mass"],
+      "keywords": [
+        "percentage yield",
+        "butan-1-ol",
+        "1-chlorobutane",
+        "volume",
+        "density",
+        "moles",
+        "mass"
+      ],
       "question": "The mass of butan-1-ol formed was 12.1 g and the yield was 64.0%. The density of 1-chlorobutane is 0.886 g cm-3. Calculate the volume of 1-chlorobutane used.",
       "status": "ready",
       "answer": "26.7 cm3",
@@ -64,6 +107,10 @@
         "Theoretical moles of 1-chlorobutane = 0.164 / 0.640 = 0.255 mol (yield 64.0%)",
         "Mr 1-chlorobutane C4H9Cl = 92.5; mass = 0.255 x 92.5 = 23.6 g",
         "Volume = 23.6 / 0.886 = 26.7 cm3 (3 s.f.)"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-01.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg"
       ]
     },
     {
@@ -71,7 +118,13 @@
       "no": "Q2(a)",
       "marks": 1,
       "topic": "Hydrogen Peroxide Reaction Type",
-      "keywords": ["hydrogen peroxide", "decomposition", "disproportionation", "oxygen", "reaction type"],
+      "keywords": [
+        "hydrogen peroxide",
+        "decomposition",
+        "disproportionation",
+        "oxygen",
+        "reaction type"
+      ],
       "question": "What type of reaction occurs when hydrogen peroxide decomposes? A displacement, B disproportionation, C elimination, D hydrolysis.",
       "status": "ready",
       "answer": "B (disproportionation)",
@@ -79,6 +132,13 @@
         "In 2H2O2 -> 2H2O + O2, oxygen goes from -1 to -2 (reduced) and to 0 (oxidised)",
         "The same element is both oxidised and reduced",
         "This is a disproportionation reaction, answer B"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-03.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-04.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-05.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg"
       ]
     },
     {
@@ -86,7 +146,14 @@
       "no": "Q2(b)",
       "marks": 1,
       "topic": "Rate in mol per Second from Gas Volume",
-      "keywords": ["hydrogen peroxide", "oxygen", "initial gradient", "mol s-1", "molar volume", "rate"],
+      "keywords": [
+        "hydrogen peroxide",
+        "oxygen",
+        "initial gradient",
+        "mol s-1",
+        "molar volume",
+        "rate"
+      ],
       "question": "The initial gradient of a volume of oxygen against time graph for hydrogen peroxide decomposition is 0.50 cm3 s-1. What is the initial rate of decomposition of H2O2 in mol s-1? Molar volume = 24 dm3 mol-1. A 2.1 x 10^-2, B 4.2 x 10^-5, C 2.1 x 10^-5, D 1.0 x 10^-5.",
       "status": "ready",
       "answer": "B (4.2 x 10^-5 mol s-1)",
@@ -95,6 +162,13 @@
         "Moles O2 per second = 0.50 x 10^-3 / 24 = 2.1 x 10^-5 mol s-1",
         "From 2H2O2 -> O2, H2O2 decomposes twice as fast: 2 x 2.1 x 10^-5 = 4.2 x 10^-5 mol s-1",
         "Answer B"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-03.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-04.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-05.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg"
       ]
     },
     {
@@ -102,84 +176,180 @@
       "no": "Q3(a)",
       "marks": 4,
       "topic": "Reactions of 1-Bromopropane Table",
-      "keywords": ["1-bromopropane", "reagents", "conditions", "products", "table", "reaction 1", "reaction 2", "reaction 3"],
+      "keywords": [
+        "1-bromopropane",
+        "reagents",
+        "conditions",
+        "products",
+        "table",
+        "reaction 1",
+        "reaction 2",
+        "reaction 3"
+      ],
       "question": "Complete the table about the reactions of 1-bromopropane shown in the scheme.",
       "status": "pending",
       "answer": "Needs the reaction scheme and table from the PDF; they are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-03.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-04.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-05.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg"
+      ]
     },
     {
       "id": "Q3b",
       "no": "Q3(b)",
       "marks": 1,
       "topic": "IUPAC Name of Product",
-      "keywords": ["IUPAC name", "product", "reaction 3", "1-bromopropane"],
+      "keywords": [
+        "IUPAC name",
+        "product",
+        "reaction 3",
+        "1-bromopropane"
+      ],
       "question": "Give the IUPAC name of the product of Reaction 3 from 1-bromopropane.",
       "status": "pending",
       "answer": "Needs the Reaction 3 scheme from the PDF to identify the product",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-03.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-04.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-05.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg"
+      ]
     },
     {
       "id": "Q3c",
       "no": "Q3(c)",
       "marks": 3,
       "topic": "Mechanism of Reaction 2",
-      "keywords": ["mechanism", "reaction 2", "intermediate", "curly arrows", "1-bromopropane"],
+      "keywords": [
+        "mechanism",
+        "reaction 2",
+        "intermediate",
+        "curly arrows",
+        "1-bromopropane"
+      ],
       "question": "Complete the mechanism for Reaction 2 of 1-bromopropane, showing the formation of intermediate F and of the product.",
       "status": "pending",
       "answer": "Needs the Reaction 2 reagent and the partly drawn mechanism from the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-03.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-04.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-05.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg"
+      ]
     },
     {
       "id": "Q3d",
       "no": "Q3(d)",
       "marks": 6,
       "topic": "Relative Rates of Hydrolysis",
-      "keywords": ["hydrolysis", "silver nitrate", "ethanol", "carbon-halogen bond", "bond strength", "precipitate", "rate", "structure"],
+      "keywords": [
+        "hydrolysis",
+        "silver nitrate",
+        "ethanol",
+        "carbon-halogen bond",
+        "bond strength",
+        "precipitate",
+        "rate",
+        "structure"
+      ],
       "question": "Explain the relative rates of hydrolysis of a series of halogenoalkanes (time for a silver halide precipitate to appear in aqueous silver nitrate and ethanol at 50 C), considering the reaction, the structures and the bond strengths.",
       "status": "pending",
       "answer": "Needs the results table from the PDF to state the order of the halogenoalkanes",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-03.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-04.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-05.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg"
+      ]
     },
     {
       "id": "Q4",
       "no": "Q4",
       "marks": 1,
       "topic": "Naming Halogenoalkane Structure",
-      "keywords": ["2-bromo-3-chloro-2-methylbutane", "structure", "IUPAC", "halogenoalkane"],
+      "keywords": [
+        "2-bromo-3-chloro-2-methylbutane",
+        "structure",
+        "IUPAC",
+        "halogenoalkane"
+      ],
       "question": "Which is the structure of 2-bromo-3-chloro-2-methylbutane? (Options shown as structures.)",
       "status": "pending",
       "answer": "Needs the structural options from the PDF; they are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-07.jpg"
+      ]
     },
     {
       "id": "Q5a",
       "no": "Q5(a)",
       "marks": 1,
       "topic": "Classifying Organic Reactions",
-      "keywords": ["reaction classification", "addition", "oxidation", "polymerisation", "substitution", "organic"],
+      "keywords": [
+        "reaction classification",
+        "addition",
+        "oxidation",
+        "polymerisation",
+        "substitution",
+        "organic"
+      ],
       "question": "How should the reaction shown be classified? A addition, B oxidation, C polymerisation, D substitution.",
       "status": "pending",
       "answer": "Needs the reaction scheme shown in the PDF; it is not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-07.jpg"
+      ]
     },
     {
       "id": "Q5b",
       "no": "Q5(b)",
       "marks": 1,
       "topic": "Classifying Organic Reactions",
-      "keywords": ["reaction classification", "addition", "oxidation", "reduction", "substitution", "organic"],
+      "keywords": [
+        "reaction classification",
+        "addition",
+        "oxidation",
+        "reduction",
+        "substitution",
+        "organic"
+      ],
       "question": "How should the second reaction shown be classified? A addition, B oxidation, C reduction, D substitution.",
       "status": "pending",
       "answer": "Needs the reaction scheme shown in the PDF; it is not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-07.jpg"
+      ]
     },
     {
       "id": "Q6a",
       "no": "Q6(a)",
       "marks": 1,
       "topic": "Fastest Halogenoalkane Reaction",
-      "keywords": ["silver nitrate", "ethanol", "precipitate", "2-halopropane", "carbon-halogen bond", "fastest", "iodide"],
+      "keywords": [
+        "silver nitrate",
+        "ethanol",
+        "precipitate",
+        "2-halopropane",
+        "carbon-halogen bond",
+        "fastest",
+        "iodide"
+      ],
       "question": "Which halogenoalkane reacts fastest with silver nitrate in ethanol? A CH3CHICH3, B CH3CHBrCH3, C CH3CHClCH3, D CH3CHFCH3.",
       "status": "ready",
       "answer": "A (CH3CHICH3, 2-iodopropane)",
@@ -187,6 +357,10 @@
         "The rate depends on the carbon-halogen bond strength",
         "The C-I bond is the weakest of C-I, C-Br, C-Cl and C-F",
         "Weakest bond breaks fastest, so iodide is released and precipitate forms quickest"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-07.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-08.jpg"
       ]
     },
     {
@@ -194,7 +368,15 @@
       "no": "Q6(b)",
       "marks": 1,
       "topic": "Tertiary Halogenoalkane Reactivity",
-      "keywords": ["silver nitrate", "ethanol", "tertiary", "carbocation", "SN1", "fastest", "bromoalkane"],
+      "keywords": [
+        "silver nitrate",
+        "ethanol",
+        "tertiary",
+        "carbocation",
+        "SN1",
+        "fastest",
+        "bromoalkane"
+      ],
       "question": "Which halogenoalkane reacts fastest with silver nitrate in ethanol? A CH3CHBrCH(CH3)CH3, B CH3CH2CBr(CH3)CH3, C CH3CH(CH2Br)CH2CH3, D CH3CH2CH2CH2CH2Br.",
       "status": "ready",
       "answer": "B (tertiary bromoalkane, 2-bromo-2-methylbutane)",
@@ -202,6 +384,10 @@
         "Option B has Br on a tertiary carbon (bonded to three other carbons)",
         "Tertiary halogenoalkanes ionise to form a stable tertiary carbocation (SN1)",
         "A more stable carbocation forms faster, so B reacts fastest"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-07.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-08.jpg"
       ]
     },
     {
@@ -209,18 +395,35 @@
       "no": "Q7",
       "marks": 1,
       "topic": "Primary Halogenoalkane Structure",
-      "keywords": ["primary halogenoalkane", "structure", "carbon bonded to halogen", "one carbon"],
+      "keywords": [
+        "primary halogenoalkane",
+        "structure",
+        "carbon bonded to halogen",
+        "one carbon"
+      ],
       "question": "Which structure represents a primary halogenoalkane?",
       "status": "pending",
       "answer": "Needs the structural options from the PDF; they are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-08.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-09.jpg"
+      ]
     },
     {
       "id": "Q8a(i)",
       "no": "Q8(a)(i)",
       "marks": 1,
       "topic": "Measuring Rate of Hydrolysis",
-      "keywords": ["hydrolysis", "silver nitrate", "measure", "time", "precipitate", "1-chloropropane", "rate"],
+      "keywords": [
+        "hydrolysis",
+        "silver nitrate",
+        "measure",
+        "time",
+        "precipitate",
+        "1-chloropropane",
+        "rate"
+      ],
       "question": "State what would be measured in the experiment comparing the rates of hydrolysis of 1-chloropropane, 1-bromopropane and 1-iodopropane with aqueous silver nitrate.",
       "status": "ready",
       "answer": "The time taken for a precipitate (silver halide) to appear",
@@ -228,6 +431,11 @@
         "Halide ions released by hydrolysis react with Ag+ to form a silver halide precipitate",
         "A faster hydrolysis gives a precipitate sooner",
         "So the time taken for the precipitate to appear is measured"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-09.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-10.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-11.jpg"
       ]
     },
     {
@@ -235,7 +443,14 @@
       "no": "Q8(a)(ii)",
       "marks": 2,
       "topic": "Fastest Hydrolysis of Halopropanes",
-      "keywords": ["1-iodopropane", "carbon-halogen bond", "bond enthalpy", "hydrolysis", "fastest", "weakest bond"],
+      "keywords": [
+        "1-iodopropane",
+        "carbon-halogen bond",
+        "bond enthalpy",
+        "hydrolysis",
+        "fastest",
+        "weakest bond"
+      ],
       "question": "State which of 1-chloropropane, 1-bromopropane and 1-iodopropane hydrolyses fastest, and justify the answer.",
       "status": "ready",
       "answer": "1-iodopropane, because the C-I bond is the weakest (lowest bond enthalpy) and iodide is the best leaving group",
@@ -243,6 +458,11 @@
         "Bond enthalpy decreases C-Cl > C-Br > C-I",
         "The weakest C-X bond breaks most easily in the substitution step",
         "So 1-iodopropane hydrolyses fastest"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-09.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-10.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-11.jpg"
       ]
     },
     {
@@ -250,7 +470,15 @@
       "no": "Q8(b)",
       "marks": 2,
       "topic": "Hydrolysis Mechanism",
-      "keywords": ["mechanism", "hydroxide", "1-chloropropane", "curly arrow", "dipole", "SN2", "nucleophilic substitution"],
+      "keywords": [
+        "mechanism",
+        "hydroxide",
+        "1-chloropropane",
+        "curly arrow",
+        "dipole",
+        "SN2",
+        "nucleophilic substitution"
+      ],
       "question": "Give the mechanism for the hydrolysis of 1-chloropropane by aqueous hydroxide ions, including curly arrows, dipoles and lone pairs.",
       "status": "ready",
       "answer": "SN2: OH- lone pair attacks the delta+ carbon, C-Cl bond breaks with Cl leaving as Cl-, giving propan-1-ol",
@@ -259,6 +487,11 @@
         "Curly arrow from lone pair of OH- to the delta+ carbon",
         "Curly arrow from C-Cl bond to Cl, which leaves as Cl-",
         "Product CH3CH2CH2OH"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-09.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-10.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-11.jpg"
       ]
     },
     {
@@ -266,18 +499,38 @@
       "no": "Q8(c)",
       "marks": 4,
       "topic": "Boiling Temperature Trend",
-      "keywords": ["boiling temperature", "halogenoalkanes", "London forces", "permanent dipole", "intermolecular forces", "trend"],
+      "keywords": [
+        "boiling temperature",
+        "halogenoalkanes",
+        "London forces",
+        "permanent dipole",
+        "intermolecular forces",
+        "trend"
+      ],
       "question": "Explain the trend in boiling temperatures of the halogenoalkanes shown, comparing the intermolecular forces involved.",
       "status": "pending",
       "answer": "Needs the boiling temperature table from the PDF to state the trend",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-09.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-10.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-11.jpg"
+      ]
     },
     {
       "id": "Q8d",
       "no": "Q8(d)",
       "marks": 3,
       "topic": "Elimination Products of 2-Bromobutane",
-      "keywords": ["2-bromobutane", "elimination", "ethanolic potassium hydroxide", "but-1-ene", "but-2-ene", "E/Z", "skeletal formula"],
+      "keywords": [
+        "2-bromobutane",
+        "elimination",
+        "ethanolic potassium hydroxide",
+        "but-1-ene",
+        "but-2-ene",
+        "E/Z",
+        "skeletal formula"
+      ],
       "question": "2-bromobutane is heated with ethanolic potassium hydroxide and an elimination reaction occurs. Draw the skeletal formulae of the three possible organic products and name them.",
       "status": "ready",
       "answer": "But-1-ene, (E)-but-2-ene and (Z)-but-2-ene",
@@ -286,6 +539,11 @@
         "H can be lost from C1 giving CH2=CH-CH2CH3 (but-1-ene)",
         "H can be lost from C3 giving CH3CH=CHCH3, which has E and Z isomers",
         "Names: but-1-ene, (E)-but-2-ene and (Z)-but-2-ene"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-09.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-10.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-11.jpg"
       ]
     },
     {
@@ -293,18 +551,35 @@
       "no": "Q9",
       "marks": 1,
       "topic": "Skeletal Formula Naming",
-      "keywords": ["2-chloro-4,4-dimethylhexane", "skeletal formula", "structure", "naming"],
+      "keywords": [
+        "2-chloro-4,4-dimethylhexane",
+        "skeletal formula",
+        "structure",
+        "naming"
+      ],
       "question": "What is the skeletal formula of 2-chloro-4,4-dimethylhexane? (Options shown as structures.)",
       "status": "pending",
       "answer": "Needs the skeletal-formula options from the PDF; they are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-11.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-12.jpg"
+      ]
     },
     {
       "id": "Q10",
       "no": "Q10",
       "marks": 1,
       "topic": "Attack on Carbocation",
-      "keywords": ["carbocation", "C+", "nucleophile", "electrophile", "ethylamine", "reagent", "attack"],
+      "keywords": [
+        "carbocation",
+        "C+",
+        "nucleophile",
+        "electrophile",
+        "ethylamine",
+        "reagent",
+        "attack"
+      ],
       "question": "The structure of ethylamine is shown with a C+ atom. What type of reagent will attack the C+ atom? A electrophile, B free radical, C nucleophile, D oxidising agent.",
       "status": "ready",
       "answer": "C (nucleophile)",
@@ -313,6 +588,10 @@
         "Species that attack positive or electron-poor centres are nucleophiles",
         "Electrophiles attack electron-rich centres, so A is not correct",
         "The answer is C"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-12.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-13.jpg"
       ]
     },
     {
@@ -320,18 +599,35 @@
       "no": "Q11",
       "marks": 1,
       "topic": "Curly Arrow Errors",
-      "keywords": ["mechanism", "curly arrow", "incorrect arrow", "electron pair", "reaction mechanism"],
+      "keywords": [
+        "mechanism",
+        "curly arrow",
+        "incorrect arrow",
+        "electron pair",
+        "reaction mechanism"
+      ],
       "question": "Part of a reaction mechanism is shown with arrows 1 to 4. Which curly arrow is not correct? A arrow 1, B arrow 2, C arrow 3, D arrow 4.",
       "status": "pending",
       "answer": "Needs the mechanism diagram from the PDF to identify the incorrect arrow",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-13.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-14.jpg"
+      ]
     },
     {
       "id": "Q12",
       "no": "Q12",
       "marks": 1,
       "topic": "Nitrile Formation Mechanism",
-      "keywords": ["butanenitrile", "1-bromopropane", "potassium cyanide", "nucleophilic substitution", "cyanide ion", "mechanism"],
+      "keywords": [
+        "butanenitrile",
+        "1-bromopropane",
+        "potassium cyanide",
+        "nucleophilic substitution",
+        "cyanide ion",
+        "mechanism"
+      ],
       "question": "Butanenitrile is formed by reacting 1-bromopropane with potassium cyanide. Which is the correct mechanism and type of reaction? A electrophilic addition, B nucleophilic addition, C electrophilic substitution, D nucleophilic substitution.",
       "status": "ready",
       "answer": "D (nucleophilic substitution)",
@@ -339,6 +635,10 @@
         "CN- is a nucleophile and attacks the carbon bonded to Br",
         "Br- is displaced, so the carbon chain gains one carbon (CH3CH2CH2Br to CH3CH2CH2CN)",
         "This is nucleophilic substitution (SN2) for a primary halide"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-13.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-14.jpg"
       ]
     },
     {
@@ -346,7 +646,14 @@
       "no": "Q13(a)",
       "marks": 2,
       "topic": "Ammonia with Halogenoalkane",
-      "keywords": ["ammonia", "1-chlorobutane", "nucleophilic substitution", "SN2", "amine", "mechanism"],
+      "keywords": [
+        "ammonia",
+        "1-chlorobutane",
+        "nucleophilic substitution",
+        "SN2",
+        "amine",
+        "mechanism"
+      ],
       "question": "State the type and mechanism of the reaction of ammonia with 1-chlorobutane.",
       "status": "ready",
       "answer": "Nucleophilic substitution by the SN2 mechanism, giving an ammonium salt that is then deprotonated to an amine",
@@ -354,6 +661,10 @@
         "NH3 has a lone pair on N and acts as a nucleophile",
         "It attacks the delta+ carbon bonded to Cl (SN2, one step)",
         "Cl- leaves, forming an alkylammonium ion (CH3CH2CH2CH2NH3+)"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-14.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-15.jpg"
       ]
     },
     {
@@ -361,18 +672,38 @@
       "no": "Q13(b)(i)",
       "marks": 2,
       "topic": "Omissions in Mechanism",
-      "keywords": ["mechanism", "omissions", "lone pair", "curly arrow", "dipole", "ammonia", "first step"],
+      "keywords": [
+        "mechanism",
+        "omissions",
+        "lone pair",
+        "curly arrow",
+        "dipole",
+        "ammonia",
+        "first step"
+      ],
       "question": "A student drew the first step of the mechanism for ammonia reacting with 1-chlorobutane. Identify two omissions in the student's mechanism.",
       "status": "pending",
       "answer": "Needs the student's mechanism diagram from the PDF to identify the two omissions",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-14.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-15.jpg"
+      ]
     },
     {
       "id": "Q13b(ii)",
       "no": "Q13(b)(ii)",
       "marks": 3,
       "topic": "Deprotonation to Form Amine",
-      "keywords": ["butylamine", "sodium hydroxide", "deprotonation", "curly arrow", "lone pair", "ammonium", "mechanism"],
+      "keywords": [
+        "butylamine",
+        "sodium hydroxide",
+        "deprotonation",
+        "curly arrow",
+        "lone pair",
+        "ammonium",
+        "mechanism"
+      ],
       "question": "To obtain butylamine, sodium hydroxide solution is added. Complete the next step of the mechanism, showing curly arrows, lone pairs and products.",
       "status": "ready",
       "answer": "OH- removes H+ from CH3CH2CH2CH2NH3+, giving CH3CH2CH2CH2NH2 (butylamine), H2O and Cl-/Na+ salt",
@@ -381,6 +712,10 @@
         "OH- lone pair takes the H+ (curly arrow from O lone pair to H)",
         "The N-H bond electrons move onto N, giving a lone pair on N (curly arrow from N-H to N)",
         "Products: butylamine CH3CH2CH2CH2NH2 and water H2O"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-14.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-15.jpg"
       ]
     },
     {
@@ -388,7 +723,16 @@
       "no": "Q13(c)",
       "marks": 3,
       "topic": "Rate of Ammonia with Primary and Tertiary Halides",
-      "keywords": ["ammonia", "1-chlorobutane", "2-bromo-2-methylpropane", "rate", "tertiary", "carbocation", "C-Br bond", "SN1"],
+      "keywords": [
+        "ammonia",
+        "1-chlorobutane",
+        "2-bromo-2-methylpropane",
+        "rate",
+        "tertiary",
+        "carbocation",
+        "C-Br bond",
+        "SN1"
+      ],
       "question": "Compare the rate of reaction of ammonia with 1-chlorobutane and with 2-bromo-2-methylpropane, and justify the answer.",
       "status": "ready",
       "answer": "2-bromo-2-methylpropane reacts faster: its C-Br bond is weaker than C-Cl and it forms a stable tertiary carbocation (SN1)",
@@ -396,6 +740,10 @@
         "C-Br bond is weaker than C-Cl, so it breaks more easily",
         "2-bromo-2-methylpropane is tertiary and ionises to a stable tertiary carbocation",
         "1-chlorobutane is primary and reacts more slowly by SN2 with a stronger C-Cl bond"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-14.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-15.jpg"
       ]
     },
     {
@@ -403,7 +751,15 @@
       "no": "Q14",
       "marks": 1,
       "topic": "Nucleophile in Aqueous Silver Nitrate",
-      "keywords": ["nucleophile", "1-chlorobutane", "silver nitrate", "water", "ethanol", "nitrate ions", "silver ions"],
+      "keywords": [
+        "nucleophile",
+        "1-chlorobutane",
+        "silver nitrate",
+        "water",
+        "ethanol",
+        "nitrate ions",
+        "silver ions"
+      ],
       "question": "When 1-chlorobutane is mixed with ethanol and aqueous silver nitrate, which species is the nucleophile? A ethanol, B nitrate ions, C silver ions, D water.",
       "status": "ready",
       "answer": "D (water)",
@@ -412,6 +768,9 @@
         "Water has a lone pair on O and attacks the delta+ carbon",
         "Silver ions are electrophiles (they react with the halide ion), so C is wrong",
         "The answer is D"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-15.jpg"
       ]
     },
     {
@@ -419,7 +778,15 @@
       "no": "Q15",
       "marks": 1,
       "topic": "Alkene Products from Elimination",
-      "keywords": ["3-bromohexane", "ethanolic potassium hydroxide", "elimination", "alkene", "E/Z isomers", "hex-2-ene", "hex-3-ene"],
+      "keywords": [
+        "3-bromohexane",
+        "ethanolic potassium hydroxide",
+        "elimination",
+        "alkene",
+        "E/Z isomers",
+        "hex-2-ene",
+        "hex-3-ene"
+      ],
       "question": "CH3CH2CHBrCH2CH2CH3 is heated with ethanolic potassium hydroxide. How many alkene products are possible (including stereoisomers)? A one, B two, C three, D four.",
       "status": "ready",
       "answer": "D (four: hex-2-ene E and Z, hex-3-ene E and Z)",
@@ -428,6 +795,10 @@
         "Loss from C2 gives hex-2-ene, which has E and Z isomers",
         "Loss from C4 gives hex-3-ene, which also has E and Z isomers",
         "Total = 4 alkene products"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-16.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg"
       ]
     },
     {
@@ -435,7 +806,13 @@
       "no": "Q16",
       "marks": 1,
       "topic": "Ammonia Reaction to Give Amine",
-      "keywords": ["ammonia", "2-chloropropane", "propan-2-amine", "CH3CH(NH2)CH3", "amine formation"],
+      "keywords": [
+        "ammonia",
+        "2-chloropropane",
+        "propan-2-amine",
+        "CH3CH(NH2)CH3",
+        "amine formation"
+      ],
       "question": "Which compound reacts with ammonia to form CH3CH(NH2)CH3? A 1-chloropropane, B 2-chloropropane, C propane, D propene.",
       "status": "ready",
       "answer": "B (2-chloropropane)",
@@ -443,6 +820,10 @@
         "CH3CH(NH2)CH3 has NH2 on the central carbon of propane",
         "Ammonia substitutes Cl on C2 of propane, giving the NH2 on C2",
         "2-chloropropane is the compound with Cl on C2, so it is the answer B"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-16.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg"
       ]
     },
     {
@@ -450,7 +831,15 @@
       "no": "Q17",
       "marks": 1,
       "topic": "Why Chloro Compound Reacts Slower",
-      "keywords": ["1-chloropropane", "1-bromopropane", "precipitate", "bond strength", "C-Cl bond", "C-Br bond", "silver nitrate"],
+      "keywords": [
+        "1-chloropropane",
+        "1-bromopropane",
+        "precipitate",
+        "bond strength",
+        "C-Cl bond",
+        "C-Br bond",
+        "silver nitrate"
+      ],
       "question": "Why does the precipitate take longer to form with 1-chloropropane than with 1-bromopropane in ethanol with warm aqueous silver nitrate? A 1-chloropropane is less soluble, B the C-Cl bond is stronger than the C-Br bond, C the C-Cl bond is more polar than the C-Br bond, D silver chloride is more soluble than silver bromide.",
       "status": "ready",
       "answer": "B (the C-Cl bond is stronger than the C-Br bond)",
@@ -459,6 +848,10 @@
         "The C-Cl bond is stronger than the C-Br bond",
         "A stronger bond breaks more slowly, so the halide is released more slowly",
         "The answer is B"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-16.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg"
       ]
     },
     {
@@ -466,7 +859,14 @@
       "no": "Q18",
       "marks": 1,
       "topic": "Fastest Silver Halide Precipitate",
-      "keywords": ["tertiary iodoalkane", "silver nitrate", "ethanol", "shortest time", "precipitate", "C-I bond"],
+      "keywords": [
+        "tertiary iodoalkane",
+        "silver nitrate",
+        "ethanol",
+        "shortest time",
+        "precipitate",
+        "C-I bond"
+      ],
       "question": "Silver nitrate in aqueous ethanol is added to four halogenoalkanes. Which forms a silver halide precipitate in the shortest time? A (CH3)3CI, B (CH3)3CCl, C CH3CH2CH2CH2I, D CH3CH2CH2CH2Cl.",
       "status": "ready",
       "answer": "A ((CH3)3CI)",
@@ -474,6 +874,12 @@
         "Tertiary halides react fastest by SN1 (stable carbocation)",
         "C-I is weaker than C-Cl, so the iodide reacts faster than the chloride",
         "(CH3)3CI is tertiary and has a C-I bond, so it is fastest: A"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
       ]
     },
     {
@@ -481,7 +887,15 @@
       "no": "Q19(a)(i)",
       "marks": 1,
       "topic": "Ionic Equation for Neutralisation",
-      "keywords": ["neutralisation", "sodium hydroxide", "hydrochloric acid", "ionic equation", "H+", "OH-", "water"],
+      "keywords": [
+        "neutralisation",
+        "sodium hydroxide",
+        "hydrochloric acid",
+        "ionic equation",
+        "H+",
+        "OH-",
+        "water"
+      ],
       "question": "Write an ionic equation for the neutralisation reaction between aqueous sodium hydroxide and hydrochloric acid (state symbols not required).",
       "status": "ready",
       "answer": "H+ + OH- -> H2O",
@@ -489,6 +903,12 @@
         "NaOH and HCl dissociate fully into Na+, OH-, H+ and Cl-",
         "Na+ and Cl- are spectator ions and are removed",
         "The ionic equation is H+ + OH- -> H2O"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
       ]
     },
     {
@@ -496,7 +916,14 @@
       "no": "Q19(a)(ii)",
       "marks": 2,
       "topic": "Standard Enthalpy of Neutralisation",
-      "keywords": ["standard enthalpy change of neutralisation", "definition", "1 mol water", "standard conditions", "H+", "OH-"],
+      "keywords": [
+        "standard enthalpy change of neutralisation",
+        "definition",
+        "1 mol water",
+        "standard conditions",
+        "H+",
+        "OH-"
+      ],
       "question": "State what is meant by the standard enthalpy change of neutralisation.",
       "status": "ready",
       "answer": "The enthalpy change when acid and alkali react to form 1 mol of water under standard conditions (298 K, 100 kPa, solutions of 1 mol dm-3)",
@@ -504,6 +931,12 @@
         "It is the enthalpy change for forming 1 mol of water",
         "The reaction is between an acid and an alkali (H+ + OH- -> H2O)",
         "Measured under standard conditions (298 K, 100 kPa) with solutions at 1 mol dm-3"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
       ]
     },
     {
@@ -511,29 +944,63 @@
       "no": "Q19(b)(i)",
       "marks": 2,
       "topic": "Maximum Temperature Change from Graph",
-      "keywords": ["temperature change", "graph", "neutralisation", "extrapolation", "maximum temperature", "calorimeter"],
+      "keywords": [
+        "temperature change",
+        "graph",
+        "neutralisation",
+        "extrapolation",
+        "maximum temperature",
+        "calorimeter"
+      ],
       "question": "Use the temperature-time graph for the neutralisation of 25.0 cm3 of 0.80 mol dm-3 NaOH with 0.80 mol dm-3 HCl to determine the maximum temperature change, T, showing working on the graph.",
       "status": "pending",
       "answer": "Needs the temperature-time graph from the PDF to extrapolate the maximum temperature",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
+      ]
     },
     {
       "id": "Q19b(ii)",
       "no": "Q19(b)(ii)",
       "marks": 3,
       "topic": "Enthalpy of Neutralisation Calculation",
-      "keywords": ["enthalpy of neutralisation", "calculation", "temperature change", "specific heat capacity", "NaOH", "HCl", "kJ mol-1"],
+      "keywords": [
+        "enthalpy of neutralisation",
+        "calculation",
+        "temperature change",
+        "specific heat capacity",
+        "NaOH",
+        "HCl",
+        "kJ mol-1"
+      ],
       "question": "Using the maximum temperature change from (b)(i), calculate the enthalpy change of neutralisation (sign and units). Assume no energy heats the container, specific heat capacity of the solution is 4.2 J g-1 C-1, and densities are 1.0 g cm-3.",
       "status": "pending",
       "answer": "Depends on the temperature change read from the PDF graph in Q19(b)(i)",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
+      ]
     },
     {
       "id": "Q19b(iii)",
       "no": "Q19(b)(iii)",
       "marks": 2,
       "topic": "Calorimeter Heat Capacity Effect",
-      "keywords": ["calorimeter", "heat capacity", "enthalpy of neutralisation", "more exothermic", "heat absorbed", "calculation"],
+      "keywords": [
+        "calorimeter",
+        "heat capacity",
+        "enthalpy of neutralisation",
+        "more exothermic",
+        "heat absorbed",
+        "calculation"
+      ],
       "question": "Explain how, if at all, the enthalpy change of neutralisation would differ if the heat capacity of the calorimeter were included in the calculation.",
       "status": "ready",
       "answer": "Including the calorimeter increases the total heat released, so the enthalpy change becomes more negative (larger in magnitude)",
@@ -541,6 +1008,12 @@
         "Some of the heat released heats the copper calorimeter as well as the solution",
         "Including the calorimeter gives a larger total heat change q = (mc + C) x delta T",
         "A larger q for the same moles gives a more negative (more exothermic) enthalpy change"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
       ]
     },
     {
@@ -548,7 +1021,13 @@
       "no": "Q19(c)(i)",
       "marks": 1,
       "topic": "Type of Reaction of Bromopropane with Hydroxide",
-      "keywords": ["1-bromopropane", "propan-1-ol", "nucleophilic substitution", "aqueous sodium hydroxide", "mechanism type"],
+      "keywords": [
+        "1-bromopropane",
+        "propan-1-ol",
+        "nucleophilic substitution",
+        "aqueous sodium hydroxide",
+        "mechanism type"
+      ],
       "question": "State the type and mechanism of the reaction of aqueous sodium hydroxide with 1-bromopropane to produce propan-1-ol.",
       "status": "ready",
       "answer": "Nucleophilic substitution by the SN2 mechanism",
@@ -556,6 +1035,12 @@
         "OH- is a nucleophile that attacks the delta+ carbon bonded to Br",
         "1-bromopropane is primary, so the reaction is one-step SN2",
         "Br- is displaced"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
       ]
     },
     {
@@ -563,7 +1048,15 @@
       "no": "Q19(c)(ii)",
       "marks": 3,
       "topic": "SN2 Mechanism for Propan-1-ol",
-      "keywords": ["mechanism", "curly arrows", "lone pairs", "dipole", "bromopropane", "hydroxide", "propan-1-ol"],
+      "keywords": [
+        "mechanism",
+        "curly arrows",
+        "lone pairs",
+        "dipole",
+        "bromopropane",
+        "hydroxide",
+        "propan-1-ol"
+      ],
       "question": "Complete the mechanism for the reaction of aqueous sodium hydroxide with 1-bromopropane, including curly arrows, lone pairs and dipoles.",
       "status": "ready",
       "answer": "OH- lone pair attacks the delta+ carbon, C-Br bond breaks with the electrons going to Br-, forming CH3CH2CH2OH",
@@ -572,6 +1065,12 @@
         "Curly arrow from lone pair on O of OH- to the delta+ carbon",
         "Curly arrow from the C-Br bond to Br, forming Br-",
         "Product: CH3CH2CH2-OH (propan-1-ol)"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
       ]
     },
     {
@@ -579,7 +1078,14 @@
       "no": "Q19(c)(iii)",
       "marks": 2,
       "topic": "Elimination to Propene",
-      "keywords": ["propene", "elimination", "1-bromopropane", "ethanolic", "sodium hydroxide", "solvent"],
+      "keywords": [
+        "propene",
+        "elimination",
+        "1-bromopropane",
+        "ethanolic",
+        "sodium hydroxide",
+        "solvent"
+      ],
       "question": "Under different conditions, sodium hydroxide reacts with 1-bromopropane to form propene. Name the type of reaction and a suitable solvent.",
       "status": "ready",
       "answer": "Elimination; ethanol (ethanolic NaOH, heated)",
@@ -587,6 +1093,12 @@
         "Propene is formed by losing HBr from the molecule",
         "Removing HBr from adjacent carbons is an elimination reaction",
         "Ethanol is used as the solvent for elimination (ethanolic hydroxide) rather than water"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
       ]
     },
     {
@@ -594,40 +1106,82 @@
       "no": "Q20",
       "marks": 1,
       "topic": "Tertiary Bromoalkanes",
-      "keywords": ["tertiary", "bromoalkane", "P", "Q", "R", "classification", "carbon bonded to three carbons"],
+      "keywords": [
+        "tertiary",
+        "bromoalkane",
+        "P",
+        "Q",
+        "R",
+        "classification",
+        "carbon bonded to three carbons"
+      ],
       "question": "The structures of three bromoalkanes P, Q and R are shown. Which may be classified as tertiary? A P only, B Q only, C R only, D Q and R only.",
       "status": "pending",
       "answer": "Needs the structures of P, Q and R from the PDF; they are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-21.jpg"
+      ]
     },
     {
       "id": "Q21a",
       "no": "Q21(a)",
       "marks": 1,
       "topic": "Reagent in Propylamine Synthesis Step X",
-      "keywords": ["propylamine", "synthesis", "step X", "reagent", "routes", "amine"],
+      "keywords": [
+        "propylamine",
+        "synthesis",
+        "step X",
+        "reagent",
+        "routes",
+        "amine"
+      ],
       "question": "Identify, by name or formula, the reagent used in Step X in the synthesis of propylamine, CH3CH2CH2NH2 (three routes shown).",
       "status": "pending",
       "answer": "Needs the synthesis route scheme from the PDF; it is not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-21.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
+      ]
     },
     {
       "id": "Q21b",
       "no": "Q21(b)",
       "marks": 1,
       "topic": "Intermediate W in Synthesis",
-      "keywords": ["propylamine", "intermediate", "compound W", "synthesis route", "structure"],
+      "keywords": [
+        "propylamine",
+        "intermediate",
+        "compound W",
+        "synthesis route",
+        "structure"
+      ],
       "question": "Give the structure of organic compound W in the synthesis of propylamine.",
       "status": "pending",
       "answer": "Needs the synthesis route scheme from the PDF; it is not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-21.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
+      ]
     },
     {
       "id": "Q21c(i)",
       "no": "Q21(c)(i)",
       "marks": 2,
       "topic": "Dot-and-Cross Diagram of Azide Ion",
-      "keywords": ["azide ion", "N3-", "dot-and-cross", "outer electrons", "nucleophile", "KN3"],
+      "keywords": [
+        "azide ion",
+        "N3-",
+        "dot-and-cross",
+        "outer electrons",
+        "nucleophile",
+        "KN3"
+      ],
       "question": "Complete a possible dot-and-cross diagram for the azide ion, N3-, showing outer electrons only.",
       "status": "ready",
       "answer": "Linear [N=N=N]-: 16 outer electrons; each terminal N has two lone pairs and a double bond to the central N, the central N carries +1 and the overall charge is -1",
@@ -636,6 +1190,11 @@
         "Use two N=N double bonds to join the three nitrogen atoms in a line",
         "Give each terminal N two lone pairs (octet), so the central N has no lone pairs",
         "Formal charges: terminal N -1, central N +1, terminal N -1 gives total -1"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-21.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
       ]
     },
     {
@@ -643,7 +1202,15 @@
       "no": "Q21(c)(ii)",
       "marks": 3,
       "topic": "SN2 Step with Azide Ion",
-      "keywords": ["azide ion", "mechanism", "1-bromopropane", "nucleophile", "curly arrows", "SN2", "propyl azide"],
+      "keywords": [
+        "azide ion",
+        "mechanism",
+        "1-bromopropane",
+        "nucleophile",
+        "curly arrows",
+        "SN2",
+        "propyl azide"
+      ],
       "question": "Complete the mechanism for Step Y, in which the azide ion (a nucleophile) reacts with a bromoalkane.",
       "status": "ready",
       "answer": "A lone pair on a terminal N of N3- attacks the delta+ carbon; C-Br bond breaks, Br- leaves, giving CH3CH2CH2N3 (propyl azide)",
@@ -652,6 +1219,11 @@
         "Curly arrow from a lone pair on a terminal N of N3- to the delta+ carbon",
         "Curly arrow from the C-Br bond onto Br, forming Br-",
         "Product: CH3CH2CH2-N3 (propyl azide), with Br- as by-product"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-21.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
       ]
     },
     {
@@ -659,7 +1231,16 @@
       "no": "Q21(d)(i)",
       "marks": 2,
       "topic": "Conditions for Amine Synthesis with Ammonia",
-      "keywords": ["ammonia", "1-bromopropane", "conditions", "ethanol", "sealed tube", "excess", "pressure", "heat"],
+      "keywords": [
+        "ammonia",
+        "1-bromopropane",
+        "conditions",
+        "ethanol",
+        "sealed tube",
+        "excess",
+        "pressure",
+        "heat"
+      ],
       "question": "Step Z is carried out by reacting ammonia with 1-bromopropane. Give the conditions for this reaction.",
       "status": "ready",
       "answer": "Excess concentrated ammonia dissolved in ethanol, heated in a sealed tube under pressure",
@@ -667,6 +1248,11 @@
         "Ammonia is used in excess to reduce further substitution",
         "The solvent is ethanol, which dissolves both reactants",
         "The mixture is heated in a sealed tube (under pressure) because ammonia is a gas"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-21.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
       ]
     },
     {
@@ -674,7 +1260,14 @@
       "no": "Q21(d)(ii)",
       "marks": 1,
       "topic": "Low Yield of Amine",
-      "keywords": ["low yield", "propylamine", "further substitution", "secondary amine", "quaternary ammonium", "ammonia"],
+      "keywords": [
+        "low yield",
+        "propylamine",
+        "further substitution",
+        "secondary amine",
+        "quaternary ammonium",
+        "ammonia"
+      ],
       "question": "Suggest why the yield of CH3CH2CH2NH2 obtained in Step Z is low.",
       "status": "ready",
       "answer": "The propylamine product is also a nucleophile and reacts further with 1-bromopropane to give secondary and tertiary amines and quaternary ammonium salts",
@@ -682,6 +1275,11 @@
         "Propylamine has a lone pair on N, so it is a nucleophile",
         "It reacts with more 1-bromopropane (further substitution)",
         "This forms secondary and tertiary amines and quaternary ammonium salts, giving a mixture"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-21.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
       ]
     },
     {
@@ -689,7 +1287,14 @@
       "no": "Q22(a)",
       "marks": 1,
       "topic": "Safety with Hydrochloric Acid",
-      "keywords": ["toilet cleaner", "hydrochloric acid", "safety precaution", "gloves", "eye protection", "corrosive"],
+      "keywords": [
+        "toilet cleaner",
+        "hydrochloric acid",
+        "safety precaution",
+        "gloves",
+        "eye protection",
+        "corrosive"
+      ],
       "question": "State one safety precaution when using a toilet cleaner containing hydrochloric acid.",
       "status": "ready",
       "answer": "Wear gloves and eye protection (and do not mix with bleach)",
@@ -697,6 +1302,12 @@
         "Hydrochloric acid is corrosive and can burn skin and eyes",
         "Wear protective gloves and safety glasses",
         "Do not mix with chlorine-based disinfectants (releases toxic chlorine)"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-24.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-25.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg"
       ]
     },
     {
@@ -704,7 +1315,13 @@
       "no": "Q22(b)(i)",
       "marks": 1,
       "topic": "Ionic Equation for Limescale Removal",
-      "keywords": ["calcium carbonate", "hydrochloric acid", "ionic equation", "limescale", "CO2"],
+      "keywords": [
+        "calcium carbonate",
+        "hydrochloric acid",
+        "ionic equation",
+        "limescale",
+        "CO2"
+      ],
       "question": "Write the ionic equation for the reaction of calcium carbonate with hydrochloric acid (state symbols not required).",
       "status": "ready",
       "answer": "CaCO3 + 2H+ -> Ca2+ + H2O + CO2",
@@ -712,6 +1329,12 @@
         "Cl- is a spectator ion and is removed",
         "CaCO3 is a solid and H2O and CO2 are products",
         "Ionic equation: CaCO3 + 2H+ -> Ca2+ + H2O + CO2"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-24.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-25.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg"
       ]
     },
     {
@@ -719,7 +1342,15 @@
       "no": "Q22(b)(ii)",
       "marks": 4,
       "topic": "Mass of Limescale Removed",
-      "keywords": ["calcium carbonate", "hydrochloric acid", "moles", "mass", "toilet cleaner", "limescale", "stoichiometry"],
+      "keywords": [
+        "calcium carbonate",
+        "hydrochloric acid",
+        "moles",
+        "mass",
+        "toilet cleaner",
+        "limescale",
+        "stoichiometry"
+      ],
       "question": "A 750 cm3 bottle of toilet cleaner contains 85.0 g of HCl. Calculate the maximum mass of CaCO3 limescale that 50.0 cm3 of this cleaner can remove.",
       "status": "ready",
       "answer": "7.77 g",
@@ -728,6 +1359,12 @@
         "Moles HCl in 50.0 cm3 = 2.33 x (50.0 / 750) = 0.155 mol",
         "CaCO3 + 2HCl: moles CaCO3 = 0.155 / 2 = 0.0776 mol",
         "Mass CaCO3 = 0.0776 x 100.1 = 7.77 g"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-24.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-25.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg"
       ]
     },
     {
@@ -735,7 +1372,15 @@
       "no": "Q22(c)(i)",
       "marks": 3,
       "topic": "Chlorine with Water Classification",
-      "keywords": ["chlorine", "water", "disproportionation", "oxidation numbers", "HCl", "HClO", "redox"],
+      "keywords": [
+        "chlorine",
+        "water",
+        "disproportionation",
+        "oxidation numbers",
+        "HCl",
+        "HClO",
+        "redox"
+      ],
       "question": "State the classification of the reaction of chlorine gas with water and justify the answer in terms of oxidation numbers.",
       "status": "ready",
       "answer": "Disproportionation: chlorine (0) is oxidised to +1 in HClO and reduced to -1 in HCl",
@@ -744,6 +1389,12 @@
         "In HCl the Cl is -1, so Cl is reduced",
         "In HClO the Cl is +1, so Cl is oxidised",
         "Same element both oxidised and reduced = disproportionation"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-24.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-25.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg"
       ]
     },
     {
@@ -751,7 +1402,15 @@
       "no": "Q22(c)(ii)",
       "marks": 4,
       "topic": "Concentration of Sodium Chlorate(I)",
-      "keywords": ["sodium chlorate(I)", "NaClO", "hydrogen peroxide", "oxygen", "concentration", "g dm-3", "titration by gas volume"],
+      "keywords": [
+        "sodium chlorate(I)",
+        "NaClO",
+        "hydrogen peroxide",
+        "oxygen",
+        "concentration",
+        "g dm-3",
+        "titration by gas volume"
+      ],
       "question": "5.00 cm3 of disinfectant reacts with excess hydrogen peroxide giving 113 cm3 of O2 at r.t.p. (H2O2 + NaClO -> H2O + NaCl + O2). Calculate the concentration of NaClO in g dm-3, to two significant figures. Molar volume = 24 000 cm3 mol-1.",
       "status": "ready",
       "answer": "70 g dm-3 (2 s.f.)",
@@ -760,6 +1419,12 @@
         "1:1 ratio, so moles NaClO in 5.00 cm3 = 4.71 x 10^-3 mol",
         "Concentration = 4.71 x 10^-3 / 0.00500 = 0.942 mol dm-3",
         "Mass concentration = 0.942 x 74.5 = 70 g dm-3 (Mr NaClO = 74.5)"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-24.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-25.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg"
       ]
     },
     {
@@ -767,7 +1432,14 @@
       "no": "Q22(c)(iii)",
       "marks": 2,
       "topic": "Viscosity from Propane-1,2,3-triol",
-      "keywords": ["propane-1,2,3-triol", "glycerol", "viscosity", "hydrogen bonding", "OH groups", "viscous"],
+      "keywords": [
+        "propane-1,2,3-triol",
+        "glycerol",
+        "viscosity",
+        "hydrogen bonding",
+        "OH groups",
+        "viscous"
+      ],
       "question": "Suggest how propane-1,2,3-triol makes disinfectants more viscous when added to the aqueous solution.",
       "status": "ready",
       "answer": "Propane-1,2,3-triol has three OH groups that form many hydrogen bonds with water and with each other, increasing intermolecular attraction",
@@ -775,6 +1447,12 @@
         "Propane-1,2,3-triol has three -OH groups",
         "These form hydrogen bonds with water molecules and with each other",
         "Stronger intermolecular attraction makes the liquid more viscous"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-24.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-25.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg"
       ]
     },
     {
@@ -782,7 +1460,15 @@
       "no": "Q22(d)",
       "marks": 2,
       "topic": "Acid and Bleach Hazard",
-      "keywords": ["chlorine", "toilet cleaner", "hydrochloric acid", "bleach", "toxic gas", "equation", "chlorate(I)"],
+      "keywords": [
+        "chlorine",
+        "toilet cleaner",
+        "hydrochloric acid",
+        "bleach",
+        "toxic gas",
+        "equation",
+        "chlorate(I)"
+      ],
       "question": "Explain, using the relevant equation, why limescale toilet cleaners should not be mixed with chlorine-based disinfectants.",
       "status": "ready",
       "answer": "Acid reacts with bleach to release toxic chlorine gas: NaClO + 2HCl -> NaCl + H2O + Cl2",
@@ -791,6 +1477,12 @@
         "Chlorate(I) (hypochlorite) reacts with HCl in the acid",
         "NaClO + 2HCl -> NaCl + H2O + Cl2",
         "Chlorine gas is toxic, so the mixture is dangerous"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-24.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-25.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg"
       ]
     },
     {
@@ -798,7 +1490,16 @@
       "no": "Q22(e)",
       "marks": 4,
       "topic": "Empirical Formula of Borax",
-      "keywords": ["borax", "empirical formula", "percentage composition", "water of crystallisation", "sodium", "boron", "oxygen", "hydrogen"],
+      "keywords": [
+        "borax",
+        "empirical formula",
+        "percentage composition",
+        "water of crystallisation",
+        "sodium",
+        "boron",
+        "oxygen",
+        "hydrogen"
+      ],
       "question": "Borax crystals have the percentage composition H 5.2%, B 11.3%, O 71.4%, Na 12.1%. Determine the empirical formula and hence the formula of the borax crystals.",
       "status": "ready",
       "answer": "Empirical formula Na2B4O17H20 (i.e. Na:B:O:H = 2:4:17:20); formula Na2B4O7.10H2O",
@@ -807,6 +1508,12 @@
         "Divide by the smallest (0.526): H 9.9, B 2.0, O 8.5, Na 1.0",
         "Multiply by 2 to get whole numbers: Na 2 : B 4 : O 17 : H 20",
         "Water of crystallisation: 20 H = 10 H2O, leaving Na2B4O7; formula Na2B4O7.10H2O"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-24.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-25.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg"
       ]
     },
     {
@@ -814,7 +1521,14 @@
       "no": "Q23",
       "marks": 1,
       "topic": "Mechanism of Alkali Reaction with Bromobutane",
-      "keywords": ["1-bromobutane", "alkali", "hydroxide", "butan-1-ol", "nucleophilic substitution", "mechanism type"],
+      "keywords": [
+        "1-bromobutane",
+        "alkali",
+        "hydroxide",
+        "butan-1-ol",
+        "nucleophilic substitution",
+        "mechanism type"
+      ],
       "question": "1-bromobutane reacts with alkali: CH3CH2CH2CH2Br + OH- -> CH3CH2CH2CH2OH + Br-. What is the mechanism and type of reaction? A electrophilic addition, B electrophilic substitution, C nucleophilic addition, D nucleophilic substitution.",
       "status": "ready",
       "answer": "D (nucleophilic substitution)",
@@ -822,6 +1536,13 @@
         "OH- is a nucleophile and attacks the carbon bonded to Br",
         "Br- is replaced by OH, so it is a substitution",
         "The mechanism is nucleophilic substitution, answer D"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-27.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
       ]
     },
     {
@@ -829,7 +1550,14 @@
       "no": "Q24(a)",
       "marks": 2,
       "topic": "Equation for Iodine Monochloride",
-      "keywords": ["iodine monochloride", "ICl", "iodine", "chlorine", "state symbols", "equation"],
+      "keywords": [
+        "iodine monochloride",
+        "ICl",
+        "iodine",
+        "chlorine",
+        "state symbols",
+        "equation"
+      ],
       "question": "Write a chemical equation, including state symbols, for the reaction of iodine with chlorine to produce iodine monochloride.",
       "status": "ready",
       "answer": "I2(s) + Cl2(g) -> 2ICl(l)",
@@ -838,6 +1566,13 @@
         "Chlorine is a gas, Cl2(g)",
         "ICl is a dark brown liquid, ICl(l), at room temperature",
         "Balance: I2 + Cl2 -> 2ICl"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-27.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
       ]
     },
     {
@@ -845,7 +1580,14 @@
       "no": "Q24(b)",
       "marks": 1,
       "topic": "Polarity of Iodine Monochloride",
-      "keywords": ["iodine monochloride", "permanent dipole", "electronegativity", "delta+", "delta-", "polar bond"],
+      "keywords": [
+        "iodine monochloride",
+        "permanent dipole",
+        "electronegativity",
+        "delta+",
+        "delta-",
+        "polar bond"
+      ],
       "question": "The ICl molecule has a permanent dipole. Using electronegativity data from the Data Booklet, show the polarity of the molecule by marking the partial charges on I and Cl.",
       "status": "ready",
       "answer": "Cl is more electronegative than I, so Cl is delta- and I is delta+ (I delta+ -- Cl delta-)",
@@ -853,6 +1595,13 @@
         "Electronegativity of Cl (about 3.0) is higher than that of I (about 2.5)",
         "The shared electron pair is pulled towards Cl",
         "Cl becomes delta-, I becomes delta+"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-27.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
       ]
     },
     {
@@ -860,7 +1609,15 @@
       "no": "Q24(c)(i)",
       "marks": 2,
       "topic": "Isomers from ICl and Propene",
-      "keywords": ["iodine monochloride", "propene", "addition", "isomers", "1-chloro-2-iodopropane", "2-chloro-1-iodopropane", "skeletal formula"],
+      "keywords": [
+        "iodine monochloride",
+        "propene",
+        "addition",
+        "isomers",
+        "1-chloro-2-iodopropane",
+        "2-chloro-1-iodopropane",
+        "skeletal formula"
+      ],
       "question": "Iodine monochloride reacts with propene to form two isomeric products by addition. Draw the skeletal formulae of both isomers.",
       "status": "ready",
       "answer": "2-chloro-1-iodopropane (major) and 1-chloro-2-iodopropane (minor)",
@@ -869,6 +1626,13 @@
         "Iodine can bond to either carbon, giving two products",
         "Isomer 1: 1-iodo-2-chloropropane, ICH2CHClCH3",
         "Isomer 2: 2-iodo-1-chloropropane, CH3CHICH2Cl"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-27.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
       ]
     },
     {
@@ -876,7 +1640,15 @@
       "no": "Q24(c)(ii)",
       "marks": 3,
       "topic": "Major Product in ICl Addition",
-      "keywords": ["major product", "Markovnikov", "secondary carbocation", "electrophilic addition", "propene", "ICl", "stability"],
+      "keywords": [
+        "major product",
+        "Markovnikov",
+        "secondary carbocation",
+        "electrophilic addition",
+        "propene",
+        "ICl",
+        "stability"
+      ],
       "question": "Explain which isomer from the reaction of ICl with propene is the major product.",
       "status": "ready",
       "answer": "2-chloro-1-iodopropane is major: I+ adds to C1 so the carbocation forms on C2 (secondary, more stable), then Cl- attacks C2",
@@ -885,6 +1657,13 @@
         "This leaves a positive carbocation on C2",
         "C2 is secondary, which is more stable than the primary carbocation alternative (alkyl groups push electron density)",
         "Cl- attacks C2, so the major product is 2-chloro-1-iodopropane"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-27.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
       ]
     },
     {
@@ -892,7 +1671,14 @@
       "no": "Q24(d)(i)",
       "marks": 2,
       "topic": "Precaution with Chlorine",
-      "keywords": ["iodine trichloride", "precaution", "chlorine", "toxic", "fume cupboard", "excess chlorine"],
+      "keywords": [
+        "iodine trichloride",
+        "precaution",
+        "chlorine",
+        "toxic",
+        "fume cupboard",
+        "excess chlorine"
+      ],
       "question": "State and justify one precaution that must be taken when preparing iodine trichloride by passing excess chlorine through the apparatus.",
       "status": "ready",
       "answer": "Carry out the preparation in a fume cupboard, because chlorine is toxic (and corrosive)",
@@ -900,6 +1686,13 @@
         "Excess chlorine is used, and chlorine gas is toxic",
         "The apparatus should be in a fume cupboard",
         "This prevents inhalation of chlorine"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-27.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
       ]
     },
     {
@@ -907,7 +1700,14 @@
       "no": "Q24(d)(ii)",
       "marks": 1,
       "topic": "Oxidation Numbers of Iodine",
-      "keywords": ["oxidation number", "iodine", "ICl", "ICl3", "iodine monochloride", "iodine trichloride"],
+      "keywords": [
+        "oxidation number",
+        "iodine",
+        "ICl",
+        "ICl3",
+        "iodine monochloride",
+        "iodine trichloride"
+      ],
       "question": "Give the oxidation number of iodine in ICl and in ICl3.",
       "status": "ready",
       "answer": "I in ICl is +1; I in ICl3 is +3",
@@ -915,6 +1715,13 @@
         "Cl is more electronegative and has -1 in each compound",
         "In ICl, I must be +1 to balance Cl at -1",
         "In ICl3, 3 Cl at -1 give I = +3"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-27.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
       ]
     },
     {
@@ -922,7 +1729,15 @@
       "no": "Q24(d)(iii)",
       "marks": 2,
       "topic": "Disproportionation in KClO3 Reaction",
-      "keywords": ["potassium chlorate", "iodine trichloride", "disproportionation", "oxidation numbers", "chlorine", "KClO3", "HCl"],
+      "keywords": [
+        "potassium chlorate",
+        "iodine trichloride",
+        "disproportionation",
+        "oxidation numbers",
+        "chlorine",
+        "KClO3",
+        "HCl"
+      ],
       "question": "KClO3 + I2 + 6HCl -> KCl + 2ICl3 + 3H2O. By considering oxidation numbers for chlorine, explain whether or not this reaction is a disproportionation.",
       "status": "ready",
       "answer": "Not a disproportionation: chlorine in KClO3 (+5) is only reduced to -1 in KCl and ICl3; the chlorine in HCl stays at -1 and is not oxidised",
@@ -930,6 +1745,13 @@
         "Cl in KClO3 has oxidation number +5 and in KCl it is -1, so this Cl is reduced",
         "Cl in HCl is -1 and in ICl3 it is -1, so this Cl is not changed",
         "No chlorine atom is oxidised, so the reaction is not a disproportionation (iodine is the species oxidised)"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-27.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
       ]
     },
     {
@@ -937,7 +1759,15 @@
       "no": "Q24(e)(i)",
       "marks": 2,
       "topic": "Density of Chlorine Gas",
-      "keywords": ["density", "chlorine", "molar volume", "24000 cm3 mol-1", "g dm-3", "molar mass", "71"],
+      "keywords": [
+        "density",
+        "chlorine",
+        "molar volume",
+        "24000 cm3 mol-1",
+        "g dm-3",
+        "molar mass",
+        "71"
+      ],
       "question": "Chlorine gas has a molar volume of 24 000 cm3 mol-1 under the conditions used. Show that the density of chlorine is approximately 3 g dm-3.",
       "status": "ready",
       "answer": "Density = 71.0 / 24.0 = 2.96 g dm-3 (approximately 3 g dm-3)",
@@ -945,6 +1775,13 @@
         "Mass of 1 mol Cl2 = 2 x 35.5 = 71.0 g",
         "Volume of 1 mol = 24.0 dm3",
         "Density = mass / volume = 71.0 / 24.0 = 2.96 g dm-3 (approximately 3 g dm-3)"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-27.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
       ]
     },
     {
@@ -952,7 +1789,16 @@
       "no": "Q24(e)(ii)",
       "marks": 3,
       "topic": "Inverted U-tube Observation",
-      "keywords": ["inverted U-tube", "chlorine", "density", "air", "iodine trichloride", "iodine monochloride", "equilibrium", "shift"],
+      "keywords": [
+        "inverted U-tube",
+        "chlorine",
+        "density",
+        "air",
+        "iodine trichloride",
+        "iodine monochloride",
+        "equilibrium",
+        "shift"
+      ],
       "question": "If the U-tube is inverted, the yellow solid ICl3 turns to a brown liquid. Explain this observation, using the density of chlorine (about 3 g dm-3) and of air (1.25 g dm-3).",
       "status": "ready",
       "answer": "Chlorine is denser than air, so it escapes from the inverted tube and is replaced by air; less chlorine shifts the equilibrium left, converting ICl3 back to brown ICl",
@@ -961,6 +1807,13 @@
         "When inverted, the heavier chlorine drains out of the open tube and air enters",
         "Lower chlorine concentration shifts ICl3 <=> ICl + Cl2 to the left",
         "ICl3 (yellow solid) decomposes to ICl (dark brown liquid)"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-27.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
       ]
     },
     {
@@ -968,7 +1821,15 @@
       "no": "Q24(f)",
       "marks": 2,
       "topic": "Empirical Formula of Iodine Fluoride",
-      "keywords": ["empirical formula", "iodine fluoride", "mass", "moles", "IF7", "fluorine", "iodine"],
+      "keywords": [
+        "empirical formula",
+        "iodine fluoride",
+        "mass",
+        "moles",
+        "IF7",
+        "fluorine",
+        "iodine"
+      ],
       "question": "0.64 g of iodine reacted with fluorine to form 1.31 g of a fluoride of iodine. Calculate the empirical formula of this compound.",
       "status": "ready",
       "answer": "IF7",
@@ -977,6 +1838,13 @@
         "Moles I = 0.64 / 126.9 = 5.04 x 10^-3 mol; moles F = 0.67 / 19.0 = 3.53 x 10^-2 mol",
         "Ratio I : F = 5.04 x 10^-3 : 3.53 x 10^-2 = 1 : 7.0",
         "Empirical formula IF7"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-27.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
       ]
     },
     {
@@ -984,7 +1852,14 @@
       "no": "Q25",
       "marks": 1,
       "topic": "Most Rapid Hydrolysis",
-      "keywords": ["hydrolysis", "tertiary", "2-chloro-2-methylpropane", "rate", "carbocation", "SN1"],
+      "keywords": [
+        "hydrolysis",
+        "tertiary",
+        "2-chloro-2-methylpropane",
+        "rate",
+        "carbocation",
+        "SN1"
+      ],
       "question": "Which compound is hydrolysed most rapidly? A 1-chloropropane, B 1-chlorobutane, C 2-chloro-2-methylpropane, D 2-chlorobutane.",
       "status": "ready",
       "answer": "C (2-chloro-2-methylpropane)",
@@ -992,6 +1867,9 @@
         "2-chloro-2-methylpropane is a tertiary halogenoalkane",
         "It hydrolyses fastest by SN1 through a stable tertiary carbocation",
         "The primary and secondary chlorides hydrolyse more slowly"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
       ]
     },
     {
@@ -999,18 +1877,35 @@
       "no": "Q26",
       "marks": 1,
       "topic": "Systematic Name of Alkene",
-      "keywords": ["systematic name", "E isomer", "bromo", "methylbutene", "alkene", "nomenclature"],
+      "keywords": [
+        "systematic name",
+        "E isomer",
+        "bromo",
+        "methylbutene",
+        "alkene",
+        "nomenclature"
+      ],
       "question": "Give the systematic name for the molecule shown. Options: A E-1-bromo-2-methylbut-2-ene, B E-2-methyl-1-bromobut-1-ene, C E-1-bromo-3-methylpent-2-ene, D E-1-bromo-2-methylbut-1-ene.",
       "status": "pending",
       "answer": "Needs the molecule drawing from the PDF to check the chain and double bond position",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
+      ]
     },
     {
       "id": "Q27",
       "no": "Q27",
       "marks": 1,
       "topic": "Fastest Silver Halide Formation",
-      "keywords": ["1-iodobutane", "silver nitrate", "ethanol", "precipitate", "shortest time", "halogen"],
+      "keywords": [
+        "1-iodobutane",
+        "silver nitrate",
+        "ethanol",
+        "precipitate",
+        "shortest time",
+        "halogen"
+      ],
       "question": "Silver nitrate in aqueous ethanol is added separately to four halogenoalkanes. Which forms a silver halide precipitate in the shortest time? A 1-bromobutane, B 1-chlorobutane, C 1-fluorobutane, D 1-iodobutane.",
       "status": "ready",
       "answer": "D (1-iodobutane)",
@@ -1018,6 +1913,12 @@
         "C-I is the weakest carbon-halogen bond",
         "The weakest bond breaks fastest, releasing I- quickly",
         "I- forms AgI precipitate fastest; C-F does not hydrolyse under these conditions"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-31.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
       ]
     },
     {
@@ -1025,18 +1926,40 @@
       "no": "Q28(a)(i)",
       "marks": 3,
       "topic": "Mean S-F Bond Enthalpy",
-      "keywords": ["bond enthalpy", "S-F", "mean bond enthalpy", "SF6", "sulfur", "fluorine", "S8"],
+      "keywords": [
+        "bond enthalpy",
+        "S-F",
+        "mean bond enthalpy",
+        "SF6",
+        "sulfur",
+        "fluorine",
+        "S8"
+      ],
       "question": "Calculate the mean bond enthalpy, in kJ mol-1, for a single S-F bond, from the S8 structure and bond enthalpy data shown.",
       "status": "pending",
       "answer": "Needs the bond enthalpy data table from the PDF; the values are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-31.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
+      ]
     },
     {
       "id": "Q28a(ii)",
       "no": "Q28(a)(ii)",
       "marks": 2,
       "topic": "Limitations of Mean Bond Enthalpy",
-      "keywords": ["bond enthalpy", "SF6", "mean bond enthalpy", "limitations", "gas phase", "sublimation", "S8 solid"],
+      "keywords": [
+        "bond enthalpy",
+        "SF6",
+        "mean bond enthalpy",
+        "limitations",
+        "gas phase",
+        "sublimation",
+        "S8 solid"
+      ],
       "question": "Give two reasons why the answer to (a)(i) is unlikely to accurately represent the true S-F bond enthalpy in SF6.",
       "status": "ready",
       "answer": "The value is a mean taken from other compounds, so it is not specific to SF6; and the S8 atomisation data used include changing sulfur from solid, so the value is approximate",
@@ -1044,6 +1967,12 @@
         "Mean bond enthalpies average over different compounds, so they are not exact for SF6",
         "The bonds in SF6 are not all identical in strength; the value is an average",
         "The data used for sulfur are for solid S8, which requires extra energy (sublimation) to convert to gaseous atoms"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-31.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
       ]
     },
     {
@@ -1051,7 +1980,16 @@
       "no": "Q28(a)(iii)",
       "marks": 3,
       "topic": "Greenhouse Gas Comparison Molecules",
-      "keywords": ["SF6", "CO2", "greenhouse gas", "molecules", "infrared", "Avogadro", "moles", "23.9 kg"],
+      "keywords": [
+        "SF6",
+        "CO2",
+        "greenhouse gas",
+        "molecules",
+        "infrared",
+        "Avogadro",
+        "moles",
+        "23.9 kg"
+      ],
       "question": "1.00 g of SF6 absorbs the same infrared radiation as 23.9 kg of CO2. Calculate the number of CO2 molecules that absorb the same radiation as one molecule of SF6.",
       "status": "ready",
       "answer": "About 79 000 CO2 molecules (79 359 using Ar S 32.1, F 19.0, C 12.0, O 16.0)",
@@ -1060,6 +1998,12 @@
         "Mr CO2 = 44.0; moles CO2 in 23 900 g = 23 900 / 44.0 = 543.2 mol",
         "Ratio of CO2 molecules per SF6 molecule = (543.2 / 1.00) x 146.1 (Avogadro's constant cancels)",
         "= 79 359, which is about 79 000 molecules"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-31.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
       ]
     },
     {
@@ -1067,7 +2011,16 @@
       "no": "Q28(b)(i)",
       "marks": 1,
       "topic": "Main Chlorine Species in Bleach",
-      "keywords": ["bleach", "NaClO", "pH 12", "chlorate(I)", "ClO-", "HClO", "equilibrium", "highest concentration"],
+      "keywords": [
+        "bleach",
+        "NaClO",
+        "pH 12",
+        "chlorate(I)",
+        "ClO-",
+        "HClO",
+        "equilibrium",
+        "highest concentration"
+      ],
       "question": "Give the formula of the chlorine-containing species present at highest concentration in household bleach at pH 12.",
       "status": "ready",
       "answer": "ClO- (chlorate(I) ion)",
@@ -1075,6 +2028,12 @@
         "At pH 12 the solution is strongly alkaline (high OH- concentration)",
         "The equilibrium HClO <=> H+ + ClO- lies far to the right at high pH",
         "So ClO- is the chlorine species at highest concentration"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-31.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
       ]
     },
     {
@@ -1082,7 +2041,16 @@
       "no": "Q28(b)(ii)",
       "marks": 3,
       "topic": "Hazard of Acid with Bleach",
-      "keywords": ["bleach", "strong acid", "chlorine gas", "HClO", "equilibrium", "toxic", "dangerous", "ClO-"],
+      "keywords": [
+        "bleach",
+        "strong acid",
+        "chlorine gas",
+        "HClO",
+        "equilibrium",
+        "toxic",
+        "dangerous",
+        "ClO-"
+      ],
       "question": "Explain why mixing strong acid with bleach is dangerous, justifying the answer using the equilibria.",
       "status": "ready",
       "answer": "Added H+ converts ClO- to HClO, then HClO + H+ + Cl- forms toxic Cl2 gas, so chlorine is released",
@@ -1090,6 +2058,12 @@
         "ClO- + H+ <=> HClO (the H+ from the strong acid shifts this equilibrium to the right)",
         "HClO + H+ + Cl- <=> Cl2 + H2O (the Cl- from the acid and H+ push this right)",
         "Toxic chlorine gas is released, which is dangerous"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-31.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
       ]
     },
     {
@@ -1097,7 +2071,14 @@
       "no": "Q28(b)(iii)",
       "marks": 2,
       "topic": "Disproportionation of Sodium Chlorate(I)",
-      "keywords": ["sodium chlorate(I)", "disproportionation", "sodium chloride", "sodium chlorate(V)", "heating", "NaClO"],
+      "keywords": [
+        "sodium chlorate(I)",
+        "disproportionation",
+        "sodium chloride",
+        "sodium chlorate(V)",
+        "heating",
+        "NaClO"
+      ],
       "question": "On heating, NaClO disproportionates to form sodium chloride and sodium chlorate(V). Give the equation (state symbols not required).",
       "status": "ready",
       "answer": "3NaClO -> 2NaCl + NaClO3",
@@ -1105,6 +2086,12 @@
         "Cl in NaClO is +1; in NaCl it is -1 (reduced); in NaClO3 it is +5 (oxidised)",
         "Three NaClO molecules are needed: two reduced to NaCl, one oxidised to NaClO3",
         "Balanced: 3NaClO -> 2NaCl + NaClO3"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-31.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
       ]
     },
     {
@@ -1112,18 +2099,39 @@
       "no": "Q28(c)",
       "marks": 2,
       "topic": "Percentage Bromine in Fire Retardant",
-      "keywords": ["bromine", "percentage by mass", "fire retardant", "structure", "Mr", "bromo compound"],
+      "keywords": [
+        "bromine",
+        "percentage by mass",
+        "fire retardant",
+        "structure",
+        "Mr",
+        "bromo compound"
+      ],
       "question": "Calculate the percentage by mass of bromine in the fire retardant whose structure is shown.",
       "status": "pending",
       "answer": "Needs the fire retardant structure from the PDF to count bromine atoms and the molar mass",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-31.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
+      ]
     },
     {
       "id": "Q28d",
       "no": "Q28(d)",
       "marks": 4,
       "topic": "Catalyst and Maxwell-Boltzmann Explanation",
-      "keywords": ["catalyst", "Maxwell-Boltzmann", "activation energy", "ethanoic acid", "iodine", "rate", "labelled diagram"],
+      "keywords": [
+        "catalyst",
+        "Maxwell-Boltzmann",
+        "activation energy",
+        "ethanoic acid",
+        "iodine",
+        "rate",
+        "labelled diagram"
+      ],
       "question": "Explain, with the aid of a labelled Maxwell-Boltzmann distribution, how a catalyst increases the rate of a chemical reaction (the industrial ethanoic acid process used an iodine-based catalyst).",
       "status": "ready",
       "answer": "A catalyst gives an alternative route with lower activation energy, so more molecules have E >= Ea on the Maxwell-Boltzmann curve and more successful collisions occur",
@@ -1132,6 +2140,12 @@
         "A catalyst provides an alternative pathway with lower activation energy",
         "On the diagram Ea moves to the left, so more particles have energy >= Ea",
         "More successful collisions occur per second, so the rate increases; the catalyst is unchanged"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-31.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
       ]
     },
     {
@@ -1139,62 +2153,123 @@
       "no": "Q29(a)(i)",
       "marks": 1,
       "topic": "Naming Halogenoalkane A",
-      "keywords": ["halogenoalkane A", "name", "IUPAC", "structure", "diagram"],
+      "keywords": [
+        "halogenoalkane A",
+        "name",
+        "IUPAC",
+        "structure",
+        "diagram"
+      ],
       "question": "Name compound A, one of two halogenoalkanes shown in the PDF.",
       "status": "pending",
       "answer": "Needs the structure of A from the PDF diagram",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
+      ]
     },
     {
       "id": "Q29a(ii)",
       "no": "Q29(a)(ii)",
       "marks": 1,
       "topic": "Skeletal Formula of Compound B",
-      "keywords": ["compound B", "skeletal formula", "halogenoalkane", "draw"],
+      "keywords": [
+        "compound B",
+        "skeletal formula",
+        "halogenoalkane",
+        "draw"
+      ],
       "question": "Draw the skeletal formula of compound B, one of two halogenoalkanes shown in the PDF.",
       "status": "pending",
       "answer": "Needs the structure of B from the PDF diagram",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
+      ]
     },
     {
       "id": "Q29b(i)",
       "no": "Q29(b)(i)",
       "marks": 2,
       "topic": "Observations with Silver Nitrate",
-      "keywords": ["silver nitrate", "aqueous ethanol", "warmed", "precipitate", "observation", "halogenoalkane A", "halogenoalkane B"],
+      "keywords": [
+        "silver nitrate",
+        "aqueous ethanol",
+        "warmed",
+        "precipitate",
+        "observation",
+        "halogenoalkane A",
+        "halogenoalkane B"
+      ],
       "question": "Describe what you would observe when separate samples of A and B are warmed with silver nitrate dissolved in aqueous ethanol.",
       "status": "pending",
       "answer": "Needs the structures of A and B from the PDF to predict the colour and speed of the precipitate",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
+      ]
     },
     {
       "id": "Q29b(ii)",
       "no": "Q29(b)(ii)",
       "marks": 2,
       "topic": "Why A Reacts Faster Than B",
-      "keywords": ["reaction rate", "silver nitrate", "bond strength", "A faster than B", "carbon-halogen bond", "structure"],
+      "keywords": [
+        "reaction rate",
+        "silver nitrate",
+        "bond strength",
+        "A faster than B",
+        "carbon-halogen bond",
+        "structure"
+      ],
       "question": "Give two reasons why A reacts more quickly than B when warmed with silver nitrate dissolved in aqueous ethanol.",
       "status": "pending",
       "answer": "Needs the structures of A and B from the PDF to give the two specific reasons",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
+      ]
     },
     {
       "id": "Q29c(i)",
       "no": "Q29(c)(i)",
       "marks": 2,
       "topic": "Reaction of B with Potassium Cyanide",
-      "keywords": ["potassium cyanide", "nitrile", "alcoholic", "equation", "halogenoalkane B", "name"],
+      "keywords": [
+        "potassium cyanide",
+        "nitrile",
+        "alcoholic",
+        "equation",
+        "halogenoalkane B",
+        "name"
+      ],
       "question": "Write an equation for the reaction of B with an alcoholic solution of potassium cyanide and name the organic product.",
       "status": "pending",
       "answer": "Needs the structure of B from the PDF to write the equation and name the nitrile",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
+      ]
     },
     {
       "id": "Q29c(ii)",
       "no": "Q29(c)(ii)",
       "marks": 1,
       "topic": "Importance of Nitrile Formation",
-      "keywords": ["nitrile", "cyanide", "organic synthesis", "carbon chain", "lengthening", "carboxylic acid", "amine"],
+      "keywords": [
+        "nitrile",
+        "cyanide",
+        "organic synthesis",
+        "carbon chain",
+        "lengthening",
+        "carboxylic acid",
+        "amine"
+      ],
       "question": "Suggest why this type of reaction (forming a nitrile with cyanide ions) is important in organic synthesis.",
       "status": "ready",
       "answer": "It lengthens the carbon chain by one carbon, and the nitrile can then be converted into carboxylic acids or amines",
@@ -1202,6 +2277,10 @@
         "The CN- ion adds one carbon atom to the chain",
         "This increases the length of the carbon skeleton",
         "Nitriles can be hydrolysed to carboxylic acids or reduced to amines, widening synthesis options"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
       ]
     },
     {
@@ -1209,7 +2288,14 @@
       "no": "Q30(a)",
       "marks": 1,
       "topic": "Role of Hydroxide Ion",
-      "keywords": ["chloroethane", "hydroxide ion", "nucleophile", "role", "potassium hydroxide", "ethanol"],
+      "keywords": [
+        "chloroethane",
+        "hydroxide ion",
+        "nucleophile",
+        "role",
+        "potassium hydroxide",
+        "ethanol"
+      ],
       "question": "What is the role of the hydroxide ion when chloroethane reacts with aqueous potassium hydroxide to produce ethanol? A reducing agent, B nucleophile, C electrophile, D base.",
       "status": "ready",
       "answer": "B (nucleophile)",
@@ -1217,6 +2303,10 @@
         "The OH- ion has a lone pair and attacks the delta+ carbon bonded to Cl",
         "A species that donates an electron pair to form a new bond to carbon is a nucleophile",
         "It does not reduce anything, so the answer is B"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-36.jpg"
       ]
     },
     {
@@ -1224,18 +2314,37 @@
       "no": "Q30(b)",
       "marks": 1,
       "topic": "Electron Movement in Substitution",
-      "keywords": ["mechanism", "electron movement", "curly arrows", "chloroethane", "hydroxide", "SN2"],
+      "keywords": [
+        "mechanism",
+        "electron movement",
+        "curly arrows",
+        "chloroethane",
+        "hydroxide",
+        "SN2"
+      ],
       "question": "Which mechanism shows the correct movement of electrons in the reaction of chloroethane with aqueous potassium hydroxide? (Options shown as diagrams.)",
       "status": "pending",
       "answer": "Needs the mechanism option diagrams from the PDF; they are not in the text",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-36.jpg"
+      ]
     },
     {
       "id": "Q31a(i)",
       "no": "Q31(a)(i)",
       "marks": 1,
       "topic": "Solvent for Elimination from 2-Chlorobutane",
-      "keywords": ["2-chlorobutane", "elimination", "ethanol", "ethanolic potassium hydroxide", "but-1-ene", "but-2-ene", "solvent"],
+      "keywords": [
+        "2-chlorobutane",
+        "elimination",
+        "ethanol",
+        "ethanolic potassium hydroxide",
+        "but-1-ene",
+        "but-2-ene",
+        "solvent"
+      ],
       "question": "State the condition, other than temperature and concentration of KOH, that gives a high yield of but-1-ene and but-2-ene from 2-chlorobutane.",
       "status": "ready",
       "answer": "Use ethanol as the solvent (ethanolic potassium hydroxide)",
@@ -1243,6 +2352,10 @@
         "Elimination of HCl is favoured in ethanol rather than water",
         "Ethanol is a poorer solvent for OH- as a nucleophile, so substitution is reduced",
         "Ethanolic KOH therefore gives the alkenes but-1-ene and but-2-ene"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-37.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg"
       ]
     },
     {
@@ -1250,7 +2363,13 @@
       "no": "Q31(a)(ii)",
       "marks": 1,
       "topic": "Type of Reaction in Alkene Formation",
-      "keywords": ["elimination", "alkene", "2-chlorobutane", "but-2-ene", "type of reaction"],
+      "keywords": [
+        "elimination",
+        "alkene",
+        "2-chlorobutane",
+        "but-2-ene",
+        "type of reaction"
+      ],
       "question": "Give the type of reaction occurring in part (a)(i).",
       "status": "ready",
       "answer": "Elimination",
@@ -1258,6 +2377,10 @@
         "HCl is removed from 2-chlorobutane",
         "A double bond is formed between C1/C2 or C2/C3",
         "This is an elimination reaction"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-37.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg"
       ]
     },
     {
@@ -1265,7 +2388,15 @@
       "no": "Q31(b)(i)",
       "marks": 1,
       "topic": "Solvent for Substitution of 1-Chlorobutane",
-      "keywords": ["1-chlorobutane", "butan-1-ol", "substitution", "aqueous", "water", "solvent", "high yield"],
+      "keywords": [
+        "1-chlorobutane",
+        "butan-1-ol",
+        "substitution",
+        "aqueous",
+        "water",
+        "solvent",
+        "high yield"
+      ],
       "question": "State the condition, other than temperature and concentration of KOH, that gives a high yield of butan-1-ol from 1-chlorobutane.",
       "status": "ready",
       "answer": "Use water (aqueous KOH) as the solvent",
@@ -1273,6 +2404,10 @@
         "Substitution needs OH- as a nucleophile in aqueous solution",
         "Using water as the solvent favours substitution over elimination",
         "This gives butan-1-ol"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-37.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg"
       ]
     },
     {
@@ -1280,7 +2415,15 @@
       "no": "Q31(b)(ii)",
       "marks": 2,
       "topic": "Mechanism of Butan-1-ol Formation",
-      "keywords": ["mechanism", "1-chlorobutane", "potassium hydroxide", "curly arrows", "lone pairs", "dipole", "butan-1-ol"],
+      "keywords": [
+        "mechanism",
+        "1-chlorobutane",
+        "potassium hydroxide",
+        "curly arrows",
+        "lone pairs",
+        "dipole",
+        "butan-1-ol"
+      ],
       "question": "Complete the mechanism for the reaction of potassium hydroxide with 1-chlorobutane to form butan-1-ol, using curly arrows and showing relevant dipoles and lone pairs.",
       "status": "ready",
       "answer": "OH- lone pair attacks the delta+ carbon; the C-Cl bond breaks with the electrons going to Cl, forming Cl- and butan-1-ol",
@@ -1289,6 +2432,10 @@
         "Curly arrow from lone pair on OH- to the delta+ carbon",
         "Curly arrow from the C-Cl bond to Cl, forming Cl-",
         "Product CH3CH2CH2CH2OH and KCl"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-37.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg"
       ]
     },
     {
@@ -1296,7 +2443,15 @@
       "no": "Q31(b)(iii)",
       "marks": 2,
       "topic": "Faster Reaction of Tertiary Iodoalkane",
-      "keywords": ["2-iodo-2-methylpropane", "1-chlorobutane", "reaction rate", "tertiary", "C-I bond", "carbocation", "SN1"],
+      "keywords": [
+        "2-iodo-2-methylpropane",
+        "1-chlorobutane",
+        "reaction rate",
+        "tertiary",
+        "C-I bond",
+        "carbocation",
+        "SN1"
+      ],
       "question": "Give two reasons why, under the conditions in (b)(ii), the reaction of KOH with 2-iodo-2-methylpropane is faster than with 1-chlorobutane.",
       "status": "ready",
       "answer": "The C-I bond is weaker than the C-Cl bond (iodide is a better leaving group); and the tertiary halide forms a stable tertiary carbocation (SN1)",
@@ -1305,6 +2460,10 @@
         "Iodide is a better leaving group than chloride",
         "2-iodo-2-methylpropane is tertiary, so it ionises to a stable tertiary carbocation",
         "1-chlorobutane is primary with a stronger C-Cl bond and reacts more slowly"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-37.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg"
       ]
     },
     {
@@ -1312,7 +2471,14 @@
       "no": "Q32",
       "marks": 1,
       "topic": "Why Alcohols Are Attacked by Nucleophiles",
-      "keywords": ["alcohol", "nucleophile", "C-O bond", "polar", "delta+ carbon", "attack"],
+      "keywords": [
+        "alcohol",
+        "nucleophile",
+        "C-O bond",
+        "polar",
+        "delta+ carbon",
+        "attack"
+      ],
       "question": "An alcohol can be attacked by a nucleophile because: A the C-O bond is weak, B the C-O bond is polar, C the O-H bond can form hydrogen bonds, D the O-H bond is polar.",
       "status": "ready",
       "answer": "B (the C-O bond is polar)",
@@ -1320,6 +2486,11 @@
         "Oxygen is more electronegative than carbon, so the C-O bond is polar",
         "The carbon bonded to O is delta+ and is attacked by nucleophiles",
         "The answer is B"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
       ]
     },
     {
@@ -1327,18 +2498,36 @@
       "no": "Q33(a)",
       "marks": 1,
       "topic": "Naming Compound X",
-      "keywords": ["compound X", "halogenoalkane", "name", "IUPAC", "structure"],
+      "keywords": [
+        "compound X",
+        "halogenoalkane",
+        "name",
+        "IUPAC",
+        "structure"
+      ],
       "question": "Name compound X, a halogenoalkane shown in the PDF.",
       "status": "pending",
       "answer": "Needs the structure of compound X from the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
+      ]
     },
     {
       "id": "Q33b(i)",
       "no": "Q33(b)(i)",
       "marks": 1,
       "topic": "Type of Reaction with Ethanolic KOH",
-      "keywords": ["ethanolic KOH", "hot", "concentrated", "elimination", "two isomers", "alkene"],
+      "keywords": [
+        "ethanolic KOH",
+        "hot",
+        "concentrated",
+        "elimination",
+        "two isomers",
+        "alkene"
+      ],
       "question": "Name the type of reaction when compound X reacts with hot, concentrated ethanolic KOH to produce two isomers.",
       "status": "ready",
       "answer": "Elimination",
@@ -1346,6 +2535,11 @@
         "Hot, concentrated ethanolic KOH favours elimination over substitution",
         "HX is removed to form a C=C double bond",
         "Two isomers (e.g. E and Z alkenes) form, consistent with elimination"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
       ]
     },
     {
@@ -1353,46 +2547,98 @@
       "no": "Q33(b)(ii)",
       "marks": 2,
       "topic": "Isomers from Elimination of X",
-      "keywords": ["isomers", "elimination", "E Z", "alkene", "structure", "compound X"],
+      "keywords": [
+        "isomers",
+        "elimination",
+        "E Z",
+        "alkene",
+        "structure",
+        "compound X"
+      ],
       "question": "Draw the structures of the two isomers formed when compound X reacts with hot, concentrated ethanolic KOH.",
       "status": "pending",
       "answer": "Needs the structure of X from the PDF to draw the two alkene isomers",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
+      ]
     },
     {
       "id": "Q33c(i)",
       "no": "Q33(c)(i)",
       "marks": 3,
       "topic": "Mechanism of X with Cold Dilute KOH",
-      "keywords": ["mechanism", "compound X", "cold dilute", "potassium hydroxide", "curly arrows", "dipole", "lone pair"],
+      "keywords": [
+        "mechanism",
+        "compound X",
+        "cold dilute",
+        "potassium hydroxide",
+        "curly arrows",
+        "dipole",
+        "lone pair"
+      ],
       "question": "Complete the reaction mechanism for compound X reacting with cold, dilute aqueous potassium hydroxide, with curly arrows, lone pairs and dipoles.",
       "status": "pending",
       "answer": "Needs the structure of compound X and the partly drawn mechanism from the PDF",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
+      ]
     },
     {
       "id": "Q33c(ii)",
       "no": "Q33(c)(ii)",
       "marks": 2,
       "topic": "Comparing Rates with Compound Y",
-      "keywords": ["compound Y", "rate", "compound X", "potassium hydroxide", "cold dilute", "comparison", "bond strength"],
+      "keywords": [
+        "compound Y",
+        "rate",
+        "compound X",
+        "potassium hydroxide",
+        "cold dilute",
+        "comparison",
+        "bond strength"
+      ],
       "question": "Compound Y also reacts with cold, dilute aqueous KOH. Explain how the rate of reaction will compare with that of compound X.",
       "status": "pending",
       "answer": "Needs the structures of X and Y from the PDF to compare their rates",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
+      ]
     },
     {
       "id": "Q33d",
       "no": "Q33(d)",
       "marks": 2,
       "topic": "Role of Hydroxide in Two Reactions",
-      "keywords": ["hydroxide ion", "role", "base", "nucleophile", "elimination", "substitution", "ethanolic", "aqueous"],
+      "keywords": [
+        "hydroxide ion",
+        "role",
+        "base",
+        "nucleophile",
+        "elimination",
+        "substitution",
+        "ethanolic",
+        "aqueous"
+      ],
       "question": "State the role of the hydroxide ion in each of reactions (b) (hot concentrated ethanolic KOH) and (c) (cold dilute aqueous KOH).",
       "status": "ready",
       "answer": "(b) Base (removes H+ in elimination); (c) nucleophile (attacks the delta+ carbon in substitution)",
       "steps": [
         "In (b), elimination: OH- removes a proton from a carbon next to the C-X bond, so it acts as a base",
         "In (c), substitution: OH- donates a lone pair to the delta+ carbon, so it acts as a nucleophile"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
       ]
     },
     {
@@ -1400,7 +2646,15 @@
       "no": "Q34(a)",
       "marks": 3,
       "topic": "Catalyst and Collision Theory",
-      "keywords": ["catalyst", "Maxwell-Boltzmann", "collision theory", "activation energy", "Haber process", "iron catalyst", "rate"],
+      "keywords": [
+        "catalyst",
+        "Maxwell-Boltzmann",
+        "collision theory",
+        "activation energy",
+        "Haber process",
+        "iron catalyst",
+        "rate"
+      ],
       "question": "Explain how a catalyst increases the rate of a reaction, using the Maxwell-Boltzmann distribution and collision theory (the Haber process uses an iron catalyst at 725 K and 200 atm).",
       "status": "ready",
       "answer": "The catalyst provides an alternative route with lower activation energy, so a larger proportion of molecules have E >= Ea and more successful collisions occur per second",
@@ -1409,6 +2663,12 @@
         "On the Maxwell-Boltzmann curve Ea moves left, so more molecules have energy >= Ea",
         "More molecules have enough energy, so more collisions are successful",
         "The rate increases; the catalyst is not used up"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-41.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-42.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg"
       ]
     },
     {
@@ -1416,7 +2676,15 @@
       "no": "Q34(b)(i)",
       "marks": 4,
       "topic": "Boiling Temperatures of Group 5 Hydrides",
-      "keywords": ["Group 5 hydrides", "boiling temperature", "NH3", "PH3", "AsH3", "hydrogen bonding", "London forces"],
+      "keywords": [
+        "Group 5 hydrides",
+        "boiling temperature",
+        "NH3",
+        "PH3",
+        "AsH3",
+        "hydrogen bonding",
+        "London forces"
+      ],
       "question": "Explain the differences in the boiling temperatures of the Group 5 hydrides shown (detailed descriptions of intermolecular forces are not required).",
       "status": "ready",
       "answer": "NH3 has the highest boiling temperature because of hydrogen bonding between molecules; for PH3 and AsH3 boiling temperature rises down the group as London forces increase with more electrons",
@@ -1425,6 +2693,12 @@
         "Hydrogen bonds are stronger than other intermolecular forces, so NH3 has the highest boiling temperature",
         "PH3 and AsH3 have no hydrogen bonding and only weak London forces",
         "London forces increase with the number of electrons, so AsH3 boils higher than PH3"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-41.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-42.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg"
       ]
     },
     {
@@ -1432,7 +2706,15 @@
       "no": "Q34(b)(ii)",
       "marks": 3,
       "topic": "Hydrogen as Environmentally Friendly Fuel",
-      "keywords": ["hydrogen fuel", "combustion", "water", "carbon dioxide", "environment", "alkanes", "emissions"],
+      "keywords": [
+        "hydrogen fuel",
+        "combustion",
+        "water",
+        "carbon dioxide",
+        "environment",
+        "alkanes",
+        "emissions"
+      ],
       "question": "Explain why hydrogen is a more environmentally friendly fuel than alkanes.",
       "status": "ready",
       "answer": "Hydrogen burns to give only water, so it produces no CO2 (greenhouse gas) or other pollutants from carbon, unlike alkanes",
@@ -1441,6 +2723,12 @@
         "Alkanes burn to give CO2, a greenhouse gas that contributes to global warming",
         "Incomplete combustion of alkanes also gives CO and soot (carbon particulates)",
         "So hydrogen is a cleaner fuel"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-41.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-42.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg"
       ]
     },
     {
@@ -1448,7 +2736,16 @@
       "no": "Q34(c)(i)",
       "marks": 2,
       "topic": "Conditions for Ethylamine Synthesis",
-      "keywords": ["ethylamine", "bromoethane", "ammonia", "conditions", "excess", "ethanol", "sealed tube", "pressure"],
+      "keywords": [
+        "ethylamine",
+        "bromoethane",
+        "ammonia",
+        "conditions",
+        "excess",
+        "ethanol",
+        "sealed tube",
+        "pressure"
+      ],
       "question": "State the conditions for the reaction of ammonia with bromoethane to make ethylamine.",
       "status": "ready",
       "answer": "Excess concentrated ammonia in ethanol, heated in a sealed tube under pressure",
@@ -1456,6 +2753,12 @@
         "Excess ammonia reduces further substitution",
         "Ethanol is the solvent",
         "Heat in a sealed tube under pressure, because ammonia is a gas"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-41.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-42.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg"
       ]
     },
     {
@@ -1463,7 +2766,16 @@
       "no": "Q34(c)(ii)",
       "marks": 3,
       "topic": "Mechanism of Ethylamine Formation",
-      "keywords": ["ethylamine", "mechanism", "bromoethane", "ammonia", "lone pair", "curly arrows", "dipole", "SN2"],
+      "keywords": [
+        "ethylamine",
+        "mechanism",
+        "bromoethane",
+        "ammonia",
+        "lone pair",
+        "curly arrows",
+        "dipole",
+        "SN2"
+      ],
       "question": "Complete the mechanism for the reaction of ammonia with bromoethane to form ethylamine, including curly arrows, dipoles and lone pairs.",
       "status": "ready",
       "answer": "N lone pair of NH3 attacks the delta+ C; C-Br bond breaks with Br- leaving; deprotonation gives CH3CH2NH2",
@@ -1472,6 +2784,12 @@
         "Curly arrow from the lone pair on N of NH3 to the delta+ carbon",
         "Curly arrow from the C-Br bond to Br, forming Br-; product is CH3CH2NH3+",
         "Second curly arrow from N-H (in the ion) to N via a base, or NH3 removes H+, giving CH3CH2NH2 (ethylamine)"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-41.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-42.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg"
       ]
     },
     {
@@ -1479,7 +2797,15 @@
       "no": "Q34(c)(iii)",
       "marks": 2,
       "topic": "Further Substitution of Ethylamine",
-      "keywords": ["ethylamine", "further substitution", "lone pair", "nucleophile", "electron donating", "ethyl group", "excess halogenoalkane"],
+      "keywords": [
+        "ethylamine",
+        "further substitution",
+        "lone pair",
+        "nucleophile",
+        "electron donating",
+        "ethyl group",
+        "excess halogenoalkane"
+      ],
       "question": "Further substitution of ethylamine may occur if the halogenoalkane is in excess. State two features of the ethylamine molecule that make this possible.",
       "status": "ready",
       "answer": "Ethylamine has a lone pair on N that makes it a nucleophile, and the electron-donating ethyl group increases the electron density on N",
@@ -1487,6 +2813,12 @@
         "The lone pair on the N atom of ethylamine is still available",
         "So ethylamine acts as a nucleophile and attacks more bromoethane",
         "The ethyl group is electron-donating (inductive effect), making the N more nucleophilic than NH3"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-41.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-42.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg"
       ]
     },
     {
@@ -1494,7 +2826,14 @@
       "no": "Q35(a)",
       "marks": 1,
       "topic": "Rate Trend Down Group 7",
-      "keywords": ["rate", "1-iodobutane", "carbon-halogen bond strength", "group 7", "fastest", "silver nitrate"],
+      "keywords": [
+        "rate",
+        "1-iodobutane",
+        "carbon-halogen bond strength",
+        "group 7",
+        "fastest",
+        "silver nitrate"
+      ],
       "question": "The rate of reaction with aqueous silver nitrate was fastest for 1-iodobutane and slowest for 1-chlorobutane. Which is the best explanation? A H-X bond strength decreases down the group, B C-X polarity decreases down the group, C first ionisation energy decreases down the group, D C-X bond strength decreases down the group.",
       "status": "ready",
       "answer": "D (the carbon-halogen bond strength decreases down the group)",
@@ -1503,6 +2842,10 @@
         "The C-X bond gets weaker going down Group 7 (C-Cl > C-Br > C-I)",
         "A weaker bond breaks faster, so the iodide reacts fastest",
         "The answer is D"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-44.jpg"
       ]
     },
     {
@@ -1510,7 +2853,15 @@
       "no": "Q35(b)",
       "marks": 1,
       "topic": "Observation with Bromobutane and Silver Nitrate",
-      "keywords": ["1-bromobutane", "silver nitrate", "ethanol", "cream precipitate", "ammonia", "AgBr", "observation"],
+      "keywords": [
+        "1-bromobutane",
+        "silver nitrate",
+        "ethanol",
+        "cream precipitate",
+        "ammonia",
+        "AgBr",
+        "observation"
+      ],
       "question": "What is observed when 1-bromobutane is warmed with aqueous silver nitrate in the presence of ethanol? A an orange solution, B a cream precipitate soluble in dilute aqueous ammonia, C a cream precipitate insoluble in dilute aqueous ammonia, D a yellow precipitate insoluble in dilute aqueous ammonia.",
       "status": "ready",
       "answer": "C (a cream precipitate of AgBr, insoluble in dilute aqueous ammonia)",
@@ -1519,6 +2870,10 @@
         "AgBr is cream in colour (chloride gives white, iodide gives yellow)",
         "AgBr is only soluble in concentrated ammonia, so it is insoluble in dilute ammonia",
         "The answer is C"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-44.jpg"
       ]
     },
     {
@@ -1526,7 +2881,13 @@
       "no": "Q35(c)",
       "marks": 1,
       "topic": "Mechanism of Hydrolysis to Alcohols",
-      "keywords": ["hydrolysis", "alcohol", "nucleophilic substitution", "halogenoalkane", "mechanism type"],
+      "keywords": [
+        "hydrolysis",
+        "alcohol",
+        "nucleophilic substitution",
+        "halogenoalkane",
+        "mechanism type"
+      ],
       "question": "What is the mechanism of these hydrolysis reactions to form alcohols? A electrophilic addition, B elimination, C free radical substitution, D nucleophilic substitution.",
       "status": "ready",
       "answer": "D (nucleophilic substitution)",
@@ -1534,6 +2895,10 @@
         "Water or OH- acts as a nucleophile, attacking the delta+ carbon",
         "The halide ion is replaced by OH, a substitution",
         "The answer is D"
+      ],
+      "images": [
+        "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg",
+        "papers/chemistry/img/10AB-Halogenoalkanes-44.jpg"
       ]
     }
   ]

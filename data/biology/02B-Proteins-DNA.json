@@ -25,7 +25,12 @@
       "question": "Complete the diagram to show the amino acid sequence coded by a given DNA base sequence.",
       "status": "pending",
       "answer": "Missing: the DNA base sequence diagram and the amino acid genetic code table are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-01.jpg",
+        "papers/biology/img/02B-Proteins-DNA-02.jpg",
+        "papers/biology/img/02B-Proteins-DNA-03.jpg"
+      ]
     },
     {
       "id": "2B-Q1a(ii)",
@@ -47,7 +52,12 @@
       "question": "Explain why only five amino acids are coded by the DNA sequence shown.",
       "status": "pending",
       "answer": "Missing: the DNA base sequence diagram is needed to see which codons repeat.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-01.jpg",
+        "papers/biology/img/02B-Proteins-DNA-02.jpg",
+        "papers/biology/img/02B-Proteins-DNA-03.jpg"
+      ]
     },
     {
       "id": "2B-Q1b",
@@ -74,6 +84,11 @@
         "So some amino acids are coded by more than one triplet codon.",
         "Alanine's codons all start GC and differ only in the third base.",
         "This degeneracy means a third-base change is less likely to change the amino acid."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-01.jpg",
+        "papers/biology/img/02B-Proteins-DNA-02.jpg",
+        "papers/biology/img/02B-Proteins-DNA-03.jpg"
       ]
     },
     {
@@ -99,6 +114,11 @@
         "61 / 64 = 0.953125.",
         "0.953125 x 100 = 95.3125 %.",
         "Round to four significant figures: 95.31 %."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-01.jpg",
+        "papers/biology/img/02B-Proteins-DNA-02.jpg",
+        "papers/biology/img/02B-Proteins-DNA-03.jpg"
       ]
     },
     {
@@ -125,6 +145,11 @@
         "These are the stop codons TAA, TAG and TGA.",
         "They are recognised by release factors at the ribosome.",
         "This stops translation and releases the completed polypeptide chain."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-01.jpg",
+        "papers/biology/img/02B-Proteins-DNA-02.jpg",
+        "papers/biology/img/02B-Proteins-DNA-03.jpg"
       ]
     },
     {
@@ -145,7 +170,12 @@
       "question": "Choose the row of the table showing the mRNA codon and tRNA anticodon for tryptophan.",
       "status": "pending",
       "answer": "Missing: the table rows (options) are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-01.jpg",
+        "papers/biology/img/02B-Proteins-DNA-02.jpg",
+        "papers/biology/img/02B-Proteins-DNA-03.jpg"
+      ]
     },
     {
       "id": "2B-Q2a",
@@ -168,7 +198,13 @@
       "question": "Choose the diagram that shows the R group only of the amino acid AzPhe.",
       "status": "pending",
       "answer": "Missing: the four diagram options are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-03.jpg",
+        "papers/biology/img/02B-Proteins-DNA-04.jpg",
+        "papers/biology/img/02B-Proteins-DNA-05.jpg",
+        "papers/biology/img/02B-Proteins-DNA-06.jpg"
+      ]
     },
     {
       "id": "2B-Q2b(i)",
@@ -194,6 +230,12 @@
         "The carboxyl group of one amino acid reacts with the amino group of the next.",
         "A water molecule is removed in the reaction.",
         "The new covalent bond formed is a peptide bond (C-N)."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-03.jpg",
+        "papers/biology/img/02B-Proteins-DNA-04.jpg",
+        "papers/biology/img/02B-Proteins-DNA-05.jpg",
+        "papers/biology/img/02B-Proteins-DNA-06.jpg"
       ]
     },
     {
@@ -214,7 +256,13 @@
       "question": "Draw two circles on the AzPhe diagram to show the parts lost in a condensation reaction.",
       "status": "pending",
       "answer": "Missing: the AzPhe structure diagram is needed to circle the groups.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-03.jpg",
+        "papers/biology/img/02B-Proteins-DNA-04.jpg",
+        "papers/biology/img/02B-Proteins-DNA-05.jpg",
+        "papers/biology/img/02B-Proteins-DNA-06.jpg"
+      ]
     },
     {
       "id": "2B-Q2b(iii)",
@@ -240,6 +288,12 @@
         "That tRNA must be charged with AzPhe by a specific aminoacyl-tRNA synthetase.",
         "Non-bred silkworms lack this tRNA or enzyme, so AzPhe cannot be attached.",
         "Phenylalanine, with its own tRNA, is inserted instead."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-03.jpg",
+        "papers/biology/img/02B-Proteins-DNA-04.jpg",
+        "papers/biology/img/02B-Proteins-DNA-05.jpg",
+        "papers/biology/img/02B-Proteins-DNA-06.jpg"
       ]
     },
     {
@@ -266,6 +320,12 @@
         "16% of these are replaced: 0.16 x 11 = 1.76 AzPhe.",
         "Phenylalanine left = 11 - 1.76 = 9.24.",
         "Ratio = 9.24 : 1.76 = 5.25 : 1."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-03.jpg",
+        "papers/biology/img/02B-Proteins-DNA-04.jpg",
+        "papers/biology/img/02B-Proteins-DNA-05.jpg",
+        "papers/biology/img/02B-Proteins-DNA-06.jpg"
       ]
     },
     {
@@ -293,6 +353,12 @@
         "This changes folding (secondary and tertiary structure) and the bonds formed.",
         "Chains may pack differently, altering the fibre's strength and elasticity.",
         "So the silk's mechanical properties (e.g. flexibility or stiffness) may change."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-03.jpg",
+        "papers/biology/img/02B-Proteins-DNA-04.jpg",
+        "papers/biology/img/02B-Proteins-DNA-05.jpg",
+        "papers/biology/img/02B-Proteins-DNA-06.jpg"
       ]
     },
     {
@@ -317,6 +383,11 @@
         "Each old strand acts as a template for a new complementary strand.",
         "Each new DNA molecule therefore keeps one parental strand.",
         "The other strand in each molecule is newly made, so the process is semi-conservative."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-06.jpg",
+        "papers/biology/img/02B-Proteins-DNA-07.jpg",
+        "papers/biology/img/02B-Proteins-DNA-08.jpg"
       ]
     },
     {
@@ -342,6 +413,11 @@
         "DNA helicase unwinds the double helix by breaking hydrogen bonds.",
         "DNA polymerase adds complementary nucleotides to the new strand.",
         "Any one correctly named enzyme gains the mark."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-06.jpg",
+        "papers/biology/img/02B-Proteins-DNA-07.jpg",
+        "papers/biology/img/02B-Proteins-DNA-08.jpg"
       ]
     },
     {
@@ -368,6 +444,11 @@
         "Semi-conservative replication makes new DNA that is an accurate copy of the original.",
         "Each daughter cell therefore receives the same genetic information.",
         "This keeps the genetic information of the new cells the same as the parent."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-06.jpg",
+        "papers/biology/img/02B-Proteins-DNA-07.jpg",
+        "papers/biology/img/02B-Proteins-DNA-08.jpg"
       ]
     },
     {
@@ -391,7 +472,12 @@
       "question": "Complete the table showing the percentage of DNA molecules with heavy only, light only or both nitrogen at each stage.",
       "status": "pending",
       "answer": "Missing: the flow chart and the table are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-06.jpg",
+        "papers/biology/img/02B-Proteins-DNA-07.jpg",
+        "papers/biology/img/02B-Proteins-DNA-08.jpg"
+      ]
     },
     {
       "id": "2B-Q4a",
@@ -411,7 +497,12 @@
       "question": "Draw a diagram of two mononucleotides joined in a single DNA strand, using the symbols shown.",
       "status": "pending",
       "answer": "Missing: the symbol key the question refers to is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-08.jpg",
+        "papers/biology/img/02B-Proteins-DNA-09.jpg",
+        "papers/biology/img/02B-Proteins-DNA-10.jpg"
+      ]
     },
     {
       "id": "2B-Q4b(i)",
@@ -432,7 +523,12 @@
       "question": "Calculate the distance between one base and the next on one strand, given 10 base pairs per pitch.",
       "status": "pending",
       "answer": "Missing: the pitch length (nm) is shown on the diagram, not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-08.jpg",
+        "papers/biology/img/02B-Proteins-DNA-09.jpg",
+        "papers/biology/img/02B-Proteins-DNA-10.jpg"
+      ]
     },
     {
       "id": "2B-Q4b(ii)",
@@ -452,7 +548,12 @@
       "question": "Explain which of bases P, Q, R or S is adenine.",
       "status": "pending",
       "answer": "Missing: the diagram showing which of Q or R is thymine is needed.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-08.jpg",
+        "papers/biology/img/02B-Proteins-DNA-09.jpg",
+        "papers/biology/img/02B-Proteins-DNA-10.jpg"
+      ]
     },
     {
       "id": "2B-Q4c",
@@ -478,6 +579,11 @@
         "mRNA is long and linear, carrying codons in sequence.",
         "tRNA is short and folded (clover-leaf shape) with internal base pairing.",
         "tRNA has an anticodon loop and a site at the 3' end for an amino acid; mRNA does not."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-08.jpg",
+        "papers/biology/img/02B-Proteins-DNA-09.jpg",
+        "papers/biology/img/02B-Proteins-DNA-10.jpg"
       ]
     },
     {
@@ -501,7 +607,12 @@
       "question": "State the sequence of the first four amino acids coded by the DNA shown.",
       "status": "pending",
       "answer": "Missing: the DNA base diagram and the genetic code table are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-10.jpg",
+        "papers/biology/img/02B-Proteins-DNA-11.jpg",
+        "papers/biology/img/02B-Proteins-DNA-12.jpg"
+      ]
     },
     {
       "id": "2B-Q5b(i)",
@@ -522,7 +633,12 @@
       "question": "Name the type of each mutation described for the DNA base sequence.",
       "status": "pending",
       "answer": "Missing: the DNA base sequence diagram is needed to classify the second and third mutations.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-10.jpg",
+        "papers/biology/img/02B-Proteins-DNA-11.jpg",
+        "papers/biology/img/02B-Proteins-DNA-12.jpg"
+      ]
     },
     {
       "id": "2B-Q5b(ii)",
@@ -543,7 +659,12 @@
       "question": "Explain the possible effects of the three mutations on the amino acid sequence, using the code table.",
       "status": "pending",
       "answer": "Missing: the DNA base sequence diagram and genetic code table are needed.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-10.jpg",
+        "papers/biology/img/02B-Proteins-DNA-11.jpg",
+        "papers/biology/img/02B-Proteins-DNA-12.jpg"
+      ]
     },
     {
       "id": "2B-Q6a",
@@ -568,6 +689,12 @@
         "Thrombin is an enzyme that catalyses fibrinogen conversion.",
         "Fibrinogen is converted to fibrin, which forms a mesh of insoluble fibres.",
         "The fibres trap platelets and red blood cells, forming a clot that stops bleeding."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-12.jpg",
+        "papers/biology/img/02B-Proteins-DNA-13.jpg",
+        "papers/biology/img/02B-Proteins-DNA-14.jpg",
+        "papers/biology/img/02B-Proteins-DNA-15.jpg"
       ]
     },
     {
@@ -593,6 +720,12 @@
         "It lowers the number of active clotting factors.",
         "Drugs that prevent blood clotting in this way are anticoagulants.",
         "Option A (anticoagulant) is correct."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-12.jpg",
+        "papers/biology/img/02B-Proteins-DNA-13.jpg",
+        "papers/biology/img/02B-Proteins-DNA-14.jpg",
+        "papers/biology/img/02B-Proteins-DNA-15.jpg"
       ]
     },
     {
@@ -615,7 +748,13 @@
       "question": "Using the diagrams of warfarin and vitamin K, suggest why warfarin inhibits prothrombin synthesis.",
       "status": "pending",
       "answer": "Missing: the structure diagrams of warfarin and vitamin K are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-12.jpg",
+        "papers/biology/img/02B-Proteins-DNA-13.jpg",
+        "papers/biology/img/02B-Proteins-DNA-14.jpg",
+        "papers/biology/img/02B-Proteins-DNA-15.jpg"
+      ]
     },
     {
       "id": "2B-Q6c(ii)",
@@ -642,6 +781,12 @@
         "Reduced vitamin K is needed to make prothrombin.",
         "Vitamin K and warfarin compete for the same enzyme.",
         "A high vitamin K intake outcompetes warfarin, so prothrombin synthesis partly recovers."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-12.jpg",
+        "papers/biology/img/02B-Proteins-DNA-13.jpg",
+        "papers/biology/img/02B-Proteins-DNA-14.jpg",
+        "papers/biology/img/02B-Proteins-DNA-15.jpg"
       ]
     },
     {
@@ -666,7 +811,13 @@
       "question": "Explain how the study shown should be designed so that warfarin and drug X can be compared.",
       "status": "pending",
       "answer": "Missing: the study diagram comparing warfarin and drug X is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-12.jpg",
+        "papers/biology/img/02B-Proteins-DNA-13.jpg",
+        "papers/biology/img/02B-Proteins-DNA-14.jpg",
+        "papers/biology/img/02B-Proteins-DNA-15.jpg"
+      ]
     },
     {
       "id": "2B-Q7a",
@@ -694,6 +845,11 @@
         "The code is non-overlapping: each base belongs to only one codon.",
         "The code is degenerate: most amino acids have more than one codon.",
         "It is universal across organisms, and TAA, TAG and TGA are stop codons."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-16.jpg",
+        "papers/biology/img/02B-Proteins-DNA-17.jpg",
+        "papers/biology/img/02B-Proteins-DNA-18.jpg"
       ]
     },
     {
@@ -717,7 +873,12 @@
       "question": "Give the sequence of amino acids coded for by the bases shown on the antisense strand.",
       "status": "pending",
       "answer": "Missing: the base sequence diagram of the template strand is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-16.jpg",
+        "papers/biology/img/02B-Proteins-DNA-17.jpg",
+        "papers/biology/img/02B-Proteins-DNA-18.jpg"
+      ]
     },
     {
       "id": "2B-Q7b(ii)",
@@ -739,7 +900,12 @@
       "question": "Explain the possible effects on a protein of a substitution mutation at the 9th base of the strand.",
       "status": "pending",
       "answer": "Missing: the base sequence and genetic code table are needed to work out the effect.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-16.jpg",
+        "papers/biology/img/02B-Proteins-DNA-17.jpg",
+        "papers/biology/img/02B-Proteins-DNA-18.jpg"
+      ]
     },
     {
       "id": "2B-Q8a(i)",
@@ -759,7 +925,14 @@
       "question": "Choose the diagram showing the sequence of events for the hydrolysis of lactose.",
       "status": "pending",
       "answer": "Missing: the symbol diagrams are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-18.jpg",
+        "papers/biology/img/02B-Proteins-DNA-19.jpg",
+        "papers/biology/img/02B-Proteins-DNA-20.jpg",
+        "papers/biology/img/02B-Proteins-DNA-21.jpg",
+        "papers/biology/img/02B-Proteins-DNA-22.jpg"
+      ]
     },
     {
       "id": "2B-Q8a(ii)",
@@ -783,6 +956,13 @@
         "Its two monosaccharide units are glucose and galactose.",
         "Fructose is not in lactose (sucrose contains glucose and fructose).",
         "Option B is correct."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-18.jpg",
+        "papers/biology/img/02B-Proteins-DNA-19.jpg",
+        "papers/biology/img/02B-Proteins-DNA-20.jpg",
+        "papers/biology/img/02B-Proteins-DNA-21.jpg",
+        "papers/biology/img/02B-Proteins-DNA-22.jpg"
       ]
     },
     {
@@ -804,7 +984,14 @@
       "question": "Which row of the table describes line P and identifies the letter showing the decrease in activation energy due to lactase?",
       "status": "pending",
       "answer": "Missing: the energy graph and table rows are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-18.jpg",
+        "papers/biology/img/02B-Proteins-DNA-19.jpg",
+        "papers/biology/img/02B-Proteins-DNA-20.jpg",
+        "papers/biology/img/02B-Proteins-DNA-21.jpg",
+        "papers/biology/img/02B-Proteins-DNA-22.jpg"
+      ]
     },
     {
       "id": "2B-Q8c(i)",
@@ -831,6 +1018,13 @@
         "Increasing substrate increases collisions and enzyme-substrate complexes per second.",
         "Once all active sites are full (saturation), adding more substrate does not raise the rate.",
         "So the rate increases then levels off at Vmax."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-18.jpg",
+        "papers/biology/img/02B-Proteins-DNA-19.jpg",
+        "papers/biology/img/02B-Proteins-DNA-20.jpg",
+        "papers/biology/img/02B-Proteins-DNA-21.jpg",
+        "papers/biology/img/02B-Proteins-DNA-22.jpg"
       ]
     },
     {
@@ -853,7 +1047,14 @@
       "question": "Calculate the reaction rate (V) at a substrate concentration of 4 a.u. using the given formula.",
       "status": "pending",
       "answer": "Missing: the values of Vmax and K (from the graph) are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-18.jpg",
+        "papers/biology/img/02B-Proteins-DNA-19.jpg",
+        "papers/biology/img/02B-Proteins-DNA-20.jpg",
+        "papers/biology/img/02B-Proteins-DNA-21.jpg",
+        "papers/biology/img/02B-Proteins-DNA-22.jpg"
+      ]
     },
     {
       "id": "2B-Q9a(i)",
@@ -873,7 +1074,13 @@
       "question": "Draw a circle around one mononucleotide that includes the base labelled R.",
       "status": "pending",
       "answer": "Missing: the DNA diagram showing base R is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-22.jpg",
+        "papers/biology/img/02B-Proteins-DNA-23.jpg",
+        "papers/biology/img/02B-Proteins-DNA-24.jpg",
+        "papers/biology/img/02B-Proteins-DNA-25.jpg"
+      ]
     },
     {
       "id": "2B-Q9a(ii)",
@@ -894,7 +1101,13 @@
       "question": "Which row of the table identifies the bonds labelled S, T and U?",
       "status": "pending",
       "answer": "Missing: the diagram and table rows are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-22.jpg",
+        "papers/biology/img/02B-Proteins-DNA-23.jpg",
+        "papers/biology/img/02B-Proteins-DNA-24.jpg",
+        "papers/biology/img/02B-Proteins-DNA-25.jpg"
+      ]
     },
     {
       "id": "2B-Q9a(iii)",
@@ -916,7 +1129,13 @@
       "question": "Given base P is adenine, which base is labelled Q (A cytosine, B guanine, C thymine, D uracil)?",
       "status": "pending",
       "answer": "Missing: the diagram showing where Q sits relative to P is needed to confirm the pairing.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-22.jpg",
+        "papers/biology/img/02B-Proteins-DNA-23.jpg",
+        "papers/biology/img/02B-Proteins-DNA-24.jpg",
+        "papers/biology/img/02B-Proteins-DNA-25.jpg"
+      ]
     },
     {
       "id": "2B-Q9b(i)",
@@ -938,7 +1157,13 @@
       "question": "Complete the diagram to show the DNA density bands after each stage of the Meselson and Stahl experiment.",
       "status": "pending",
       "answer": "Missing: the flow chart and band diagram are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-22.jpg",
+        "papers/biology/img/02B-Proteins-DNA-23.jpg",
+        "papers/biology/img/02B-Proteins-DNA-24.jpg",
+        "papers/biology/img/02B-Proteins-DNA-25.jpg"
+      ]
     },
     {
       "id": "2B-Q9b(ii)",
@@ -959,7 +1184,13 @@
       "question": "Which diagram shows the bands at stage 2 if the dispersive theory were correct?",
       "status": "pending",
       "answer": "Missing: the diagram options are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-22.jpg",
+        "papers/biology/img/02B-Proteins-DNA-23.jpg",
+        "papers/biology/img/02B-Proteins-DNA-24.jpg",
+        "papers/biology/img/02B-Proteins-DNA-25.jpg"
+      ]
     },
     {
       "id": "2B-Q10",
@@ -987,6 +1218,10 @@
         "Both contain adenine, guanine and cytosine, so these go in the overlap.",
         "DNA alone has deoxyribose and thymine.",
         "mRNA alone has ribose and uracil."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-25.jpg",
+        "papers/biology/img/02B-Proteins-DNA-26.jpg"
       ]
     },
     {
@@ -1013,6 +1248,10 @@
         "Thrombin's active site binds fibrinogen.",
         "Thrombin converts fibrinogen into fibrin fibres.",
         "The fibres trap platelets (and blood cells) to form a clot."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-26.jpg",
+        "papers/biology/img/02B-Proteins-DNA-27.jpg"
       ]
     },
     {
@@ -1038,6 +1277,10 @@
         "Drugs that stop blood from clotting are anticoagulants.",
         "It is not an antihypertensive, platelet inhibitor or statin.",
         "Option A is correct."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-26.jpg",
+        "papers/biology/img/02B-Proteins-DNA-27.jpg"
       ]
     },
     {
@@ -1061,7 +1304,11 @@
       "question": "Calculate the rate of decrease in clotting time at two days after stopping warfarin, using a tangent.",
       "status": "pending",
       "answer": "Missing: the clotting time graph is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-26.jpg",
+        "papers/biology/img/02B-Proteins-DNA-27.jpg"
+      ]
     },
     {
       "id": "2B-Q12a",
@@ -1082,7 +1329,12 @@
       "question": "Complete the table by filling the empty boxes with monomer names, elements or bond types.",
       "status": "pending",
       "answer": "Missing: the table is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-27.jpg",
+        "papers/biology/img/02B-Proteins-DNA-28.jpg",
+        "papers/biology/img/02B-Proteins-DNA-29.jpg"
+      ]
     },
     {
       "id": "2B-Q12b",
@@ -1108,6 +1360,11 @@
         "Each fatty acid's carboxyl group reacts with an OH group on glycerol.",
         "This is a condensation reaction that forms an ester bond and releases water.",
         "At least one fatty acid has a C=C double bond, so the triglyceride is unsaturated."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-27.jpg",
+        "papers/biology/img/02B-Proteins-DNA-28.jpg",
+        "papers/biology/img/02B-Proteins-DNA-29.jpg"
       ]
     },
     {
@@ -1127,7 +1384,12 @@
       "question": "Which diagram shows a mononucleotide?",
       "status": "pending",
       "answer": "Missing: the diagram options are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-29.jpg",
+        "papers/biology/img/02B-Proteins-DNA-30.jpg",
+        "papers/biology/img/02B-Proteins-DNA-31.jpg"
+      ]
     },
     {
       "id": "2B-Q13a(ii)",
@@ -1147,7 +1409,12 @@
       "question": "Which diagram shows two components joined by a phosphodiester bond?",
       "status": "pending",
       "answer": "Missing: the diagram options are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-29.jpg",
+        "papers/biology/img/02B-Proteins-DNA-30.jpg",
+        "papers/biology/img/02B-Proteins-DNA-31.jpg"
+      ]
     },
     {
       "id": "2B-Q13a(iii)",
@@ -1168,7 +1435,12 @@
       "question": "Which diagram shows complementary base pairing?",
       "status": "pending",
       "answer": "Missing: the diagram options are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-29.jpg",
+        "papers/biology/img/02B-Proteins-DNA-30.jpg",
+        "papers/biology/img/02B-Proteins-DNA-31.jpg"
+      ]
     },
     {
       "id": "2B-Q13b(i)",
@@ -1189,7 +1461,12 @@
       "question": "For each statement about the new complementary DNA strand and the mRNA strand, tick the correct box.",
       "status": "pending",
       "answer": "Missing: the base sequence diagram and statement table are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-29.jpg",
+        "papers/biology/img/02B-Proteins-DNA-30.jpg",
+        "papers/biology/img/02B-Proteins-DNA-31.jpg"
+      ]
     },
     {
       "id": "2B-Q13b(ii)",
@@ -1212,6 +1489,11 @@
         "The enzyme RNA polymerase reads the template and joins complementary ribonucleotides.",
         "This is transcription.",
         "Translation is the later step where the mRNA is read to make protein."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-29.jpg",
+        "papers/biology/img/02B-Proteins-DNA-30.jpg",
+        "papers/biology/img/02B-Proteins-DNA-31.jpg"
       ]
     },
     {
@@ -1238,6 +1520,11 @@
         "Patients from 18 countries increase how widely the results apply.",
         "The text does not say the groups were randomised or that the trial was blinded.",
         "Randomised, double-blind design would reduce bias and improve reliability."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-32.jpg",
+        "papers/biology/img/02B-Proteins-DNA-33.jpg",
+        "papers/biology/img/02B-Proteins-DNA-34.jpg"
       ]
     },
     {
@@ -1263,6 +1550,11 @@
         "Volume = mass / concentration = 160 mg / 189 mg cm-3.",
         "160 / 189 = 0.847 cm3.",
         "Rounded: 0.85 cm3."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-32.jpg",
+        "papers/biology/img/02B-Proteins-DNA-33.jpg",
+        "papers/biology/img/02B-Proteins-DNA-34.jpg"
       ]
     },
     {
@@ -1287,6 +1579,11 @@
         "Number with nausea = 27% of 48 = 0.27 x 48 = 12.96.",
         "Patients are whole people, so round to the nearest whole number.",
         "Answer: 13 patients."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-32.jpg",
+        "papers/biology/img/02B-Proteins-DNA-33.jpg",
+        "papers/biology/img/02B-Proteins-DNA-34.jpg"
       ]
     },
     {
@@ -1309,7 +1606,12 @@
       "question": "Complete the diagram showing the base sequence on the other RNA strand.",
       "status": "pending",
       "answer": "Missing: the base sequence diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-32.jpg",
+        "papers/biology/img/02B-Proteins-DNA-33.jpg",
+        "papers/biology/img/02B-Proteins-DNA-34.jpg"
+      ]
     },
     {
       "id": "2B-Q14b(ii)",
@@ -1337,6 +1639,11 @@
         "Between the two strands, complementary bases form hydrogen bonds.",
         "Adenine pairs with uracil by two hydrogen bonds.",
         "Guanine pairs with cytosine by three hydrogen bonds."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-32.jpg",
+        "papers/biology/img/02B-Proteins-DNA-33.jpg",
+        "papers/biology/img/02B-Proteins-DNA-34.jpg"
       ]
     },
     {
@@ -1365,6 +1672,11 @@
         "Its complementary strand binds to the mRNA from the enzyme's gene.",
         "The mRNA is degraded or translation is blocked (RNA interference).",
         "Less of that enzyme is made, so fewer toxic porphyrins build up."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-32.jpg",
+        "papers/biology/img/02B-Proteins-DNA-33.jpg",
+        "papers/biology/img/02B-Proteins-DNA-34.jpg"
       ]
     },
     {
@@ -1390,6 +1702,12 @@
         "Lactase catalyses its hydrolysis by adding water.",
         "This splits lactose into its two monosaccharides.",
         "Option C (galactose and glucose) is correct."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-34.jpg",
+        "papers/biology/img/02B-Proteins-DNA-35.jpg",
+        "papers/biology/img/02B-Proteins-DNA-36.jpg",
+        "papers/biology/img/02B-Proteins-DNA-37.jpg"
       ]
     },
     {
@@ -1418,6 +1736,12 @@
         "Only lactose fits this active site, forming an enzyme-substrate complex.",
         "The bonds in the substrate are strained, lowering the activation energy for hydrolysis.",
         "Changing the shape (denaturation) stops the substrate fitting, so activity is lost."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-34.jpg",
+        "papers/biology/img/02B-Proteins-DNA-35.jpg",
+        "papers/biology/img/02B-Proteins-DNA-36.jpg",
+        "papers/biology/img/02B-Proteins-DNA-37.jpg"
       ]
     },
     {
@@ -1444,6 +1768,12 @@
         "They can be recovered and reused.",
         "This lowers the cost of enzyme per batch.",
         "The milk is not contaminated with enzyme."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-34.jpg",
+        "papers/biology/img/02B-Proteins-DNA-35.jpg",
+        "papers/biology/img/02B-Proteins-DNA-36.jpg",
+        "papers/biology/img/02B-Proteins-DNA-37.jpg"
       ]
     },
     {
@@ -1463,7 +1793,13 @@
       "question": "Explain the effects of pH on the activity of free and immobilised lactase, using the table.",
       "status": "pending",
       "answer": "Missing: the table of pH and activity values is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-34.jpg",
+        "papers/biology/img/02B-Proteins-DNA-35.jpg",
+        "papers/biology/img/02B-Proteins-DNA-36.jpg",
+        "papers/biology/img/02B-Proteins-DNA-37.jpg"
+      ]
     },
     {
       "id": "2B-Q15b(iii)",
@@ -1490,6 +1826,12 @@
         "Measure how much glucose is produced over a fixed time.",
         "Use a glucose test strip or a colorimeter reading.",
         "Express the rate as mmol dm-3 min-1 (or mg min-1)."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-34.jpg",
+        "papers/biology/img/02B-Proteins-DNA-35.jpg",
+        "papers/biology/img/02B-Proteins-DNA-36.jpg",
+        "papers/biology/img/02B-Proteins-DNA-37.jpg"
       ]
     },
     {
@@ -1517,6 +1859,12 @@
         "If the allele was present in a small founding population, it could become common there.",
         "Inbreeding or a small gene pool raises the chance of two carriers having children.",
         "So the disorder is concentrated in that population."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-34.jpg",
+        "papers/biology/img/02B-Proteins-DNA-35.jpg",
+        "papers/biology/img/02B-Proteins-DNA-36.jpg",
+        "papers/biology/img/02B-Proteins-DNA-37.jpg"
       ]
     },
     {
@@ -1545,6 +1893,11 @@
         "The bases pair by complementary base pairing.",
         "A pairs with T by two hydrogen bonds; C pairs with G by three.",
         "Each purine always pairs with a pyrimidine, keeping the helix width constant."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-37.jpg",
+        "papers/biology/img/02B-Proteins-DNA-38.jpg",
+        "papers/biology/img/02B-Proteins-DNA-39.jpg"
       ]
     },
     {
@@ -1571,6 +1924,11 @@
         "Time = 150 000 000 / 50 = 3 000 000 s.",
         "3 000 000 s / 3600 = 833.3 hours.",
         "To the nearest hour: 833 hours."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-37.jpg",
+        "papers/biology/img/02B-Proteins-DNA-38.jpg",
+        "papers/biology/img/02B-Proteins-DNA-39.jpg"
       ]
     },
     {
@@ -1599,6 +1957,11 @@
         "It reads each template strand and matches complementary free nucleotides.",
         "It joins each new nucleotide to the growing strand by phosphodiester bonds.",
         "It builds the new strand 5' to 3' on each template."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-37.jpg",
+        "papers/biology/img/02B-Proteins-DNA-38.jpg",
+        "papers/biology/img/02B-Proteins-DNA-39.jpg"
       ]
     },
     {
@@ -1626,6 +1989,11 @@
         "A whole human chromosome is about 300 million nucleotides, so one fork is far too slow.",
         "Many replication bubbles (origins) replicate sections in parallel.",
         "This lets the whole DNA molecule be copied within the 10-hour S phase."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-37.jpg",
+        "papers/biology/img/02B-Proteins-DNA-38.jpg",
+        "papers/biology/img/02B-Proteins-DNA-39.jpg"
       ]
     },
     {
@@ -1654,6 +2022,13 @@
         "A pyrimidine always pairs with a purine (A-T, G-C).",
         "This pairing keeps the double helix a uniform width.",
         "The sequence of bases carries the genetic code."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-39.jpg",
+        "papers/biology/img/02B-Proteins-DNA-40.jpg",
+        "papers/biology/img/02B-Proteins-DNA-41.jpg",
+        "papers/biology/img/02B-Proteins-DNA-42.jpg",
+        "papers/biology/img/02B-Proteins-DNA-43.jpg"
       ]
     },
     {
@@ -1682,6 +2057,13 @@
         "= 3.1 x 10^9 / 4.7 x 10^6.",
         "= 659.6 Da.",
         "Standard form to 2 s.f.: 6.6 x 10^2 Da."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-39.jpg",
+        "papers/biology/img/02B-Proteins-DNA-40.jpg",
+        "papers/biology/img/02B-Proteins-DNA-41.jpg",
+        "papers/biology/img/02B-Proteins-DNA-42.jpg",
+        "papers/biology/img/02B-Proteins-DNA-43.jpg"
       ]
     },
     {
@@ -1708,6 +2090,13 @@
         "Total mass = 8 x 3.1 x 10^9 Da = 2.48 x 10^10 Da.",
         "Mass in grams = 2.48 x 10^10 x 1.67 x 10^-24 g.",
         "= 4.14 x 10^-14 g, i.e. 4.1 x 10^-14 g."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-39.jpg",
+        "papers/biology/img/02B-Proteins-DNA-40.jpg",
+        "papers/biology/img/02B-Proteins-DNA-41.jpg",
+        "papers/biology/img/02B-Proteins-DNA-42.jpg",
+        "papers/biology/img/02B-Proteins-DNA-43.jpg"
       ]
     },
     {
@@ -1731,7 +2120,14 @@
       "question": "Complete the diagram showing the results of the Meselson and Stahl experiment.",
       "status": "pending",
       "answer": "Missing: the flow chart and band diagram are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-39.jpg",
+        "papers/biology/img/02B-Proteins-DNA-40.jpg",
+        "papers/biology/img/02B-Proteins-DNA-41.jpg",
+        "papers/biology/img/02B-Proteins-DNA-42.jpg",
+        "papers/biology/img/02B-Proteins-DNA-43.jpg"
+      ]
     },
     {
       "id": "2B-Q17c(ii)",
@@ -1752,7 +2148,14 @@
       "question": "Complete the diagram showing band positions if the conservative theory were correct.",
       "status": "pending",
       "answer": "Missing: the conservative theory diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-39.jpg",
+        "papers/biology/img/02B-Proteins-DNA-40.jpg",
+        "papers/biology/img/02B-Proteins-DNA-41.jpg",
+        "papers/biology/img/02B-Proteins-DNA-42.jpg",
+        "papers/biology/img/02B-Proteins-DNA-43.jpg"
+      ]
     },
     {
       "id": "2B-Q17c(iii)",
@@ -1773,7 +2176,14 @@
       "question": "Complete the diagram showing band positions if the dispersive theory were correct.",
       "status": "pending",
       "answer": "Missing: the dispersive theory diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-39.jpg",
+        "papers/biology/img/02B-Proteins-DNA-40.jpg",
+        "papers/biology/img/02B-Proteins-DNA-41.jpg",
+        "papers/biology/img/02B-Proteins-DNA-42.jpg",
+        "papers/biology/img/02B-Proteins-DNA-43.jpg"
+      ]
     },
     {
       "id": "2B-Q18a",
@@ -1799,6 +2209,11 @@
         "All enzymes are globular proteins.",
         "Disaccharides, polysaccharides and triglycerides are not enzymes.",
         "Option C is correct."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-43.jpg",
+        "papers/biology/img/02B-Proteins-DNA-44.jpg",
+        "papers/biology/img/02B-Proteins-DNA-45.jpg"
       ]
     },
     {
@@ -1827,6 +2242,11 @@
         "They speed up reactions by lowering the activation energy.",
         "They do this by binding substrate at the active site.",
         "They are not used up, so they can catalyse many reactions."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-43.jpg",
+        "papers/biology/img/02B-Proteins-DNA-44.jpg",
+        "papers/biology/img/02B-Proteins-DNA-45.jpg"
       ]
     },
     {
@@ -1848,7 +2268,12 @@
       "question": "Calculate the effect on the rate of reaction of each degree increase between 46 C and 50 C (2 s.f.).",
       "status": "pending",
       "answer": "Missing: the rate values are read from the graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-43.jpg",
+        "papers/biology/img/02B-Proteins-DNA-44.jpg",
+        "papers/biology/img/02B-Proteins-DNA-45.jpg"
+      ]
     },
     {
       "id": "2B-Q18c(ii)",
@@ -1873,6 +2298,11 @@
         "This breaks the hydrogen and ionic bonds holding its tertiary structure.",
         "The active site changes shape (denatures).",
         "The substrate no longer fits, so the rate falls."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-43.jpg",
+        "papers/biology/img/02B-Proteins-DNA-44.jpg",
+        "papers/biology/img/02B-Proteins-DNA-45.jpg"
       ]
     },
     {
@@ -1892,7 +2322,13 @@
       "question": "Draw a diagram of a phospholipid using the information in the table.",
       "status": "pending",
       "answer": "Missing: the table of phospholipid components is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-45.jpg",
+        "papers/biology/img/02B-Proteins-DNA-46.jpg",
+        "papers/biology/img/02B-Proteins-DNA-47.jpg",
+        "papers/biology/img/02B-Proteins-DNA-48.jpg"
+      ]
     },
     {
       "id": "2B-Q19a(ii)",
@@ -1913,7 +2349,13 @@
       "question": "Which diagram shows an ester bond?",
       "status": "pending",
       "answer": "Missing: the diagram options are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-45.jpg",
+        "papers/biology/img/02B-Proteins-DNA-46.jpg",
+        "papers/biology/img/02B-Proteins-DNA-47.jpg",
+        "papers/biology/img/02B-Proteins-DNA-48.jpg"
+      ]
     },
     {
       "id": "2B-Q19b(i)",
@@ -1937,6 +2379,12 @@
         "They vibrate and move more vigorously.",
         "Weak hydrophobic interactions between tails are overcome more easily.",
         "The membrane becomes more fluid."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-45.jpg",
+        "papers/biology/img/02B-Proteins-DNA-46.jpg",
+        "papers/biology/img/02B-Proteins-DNA-47.jpg",
+        "papers/biology/img/02B-Proteins-DNA-48.jpg"
       ]
     },
     {
@@ -1960,7 +2408,13 @@
       "question": "Which row of the table describes an unsaturated fatty acid compared with a saturated fatty acid with the same number of carbons?",
       "status": "pending",
       "answer": "Missing: the table rows are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-45.jpg",
+        "papers/biology/img/02B-Proteins-DNA-46.jpg",
+        "papers/biology/img/02B-Proteins-DNA-47.jpg",
+        "papers/biology/img/02B-Proteins-DNA-48.jpg"
+      ]
     },
     {
       "id": "2B-Q19b(iii)",
@@ -1985,6 +2439,12 @@
         "It packs between the hydrophobic tails and restricts their movement.",
         "Less cholesterol lets the tails move and slide past each other more.",
         "So the membrane is more fluid."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-45.jpg",
+        "papers/biology/img/02B-Proteins-DNA-46.jpg",
+        "papers/biology/img/02B-Proteins-DNA-47.jpg",
+        "papers/biology/img/02B-Proteins-DNA-48.jpg"
       ]
     },
     {
@@ -2013,6 +2473,12 @@
         "Shorter chains have fewer points of contact.",
         "They pack less tightly.",
         "So the membrane is more fluid."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-45.jpg",
+        "papers/biology/img/02B-Proteins-DNA-46.jpg",
+        "papers/biology/img/02B-Proteins-DNA-47.jpg",
+        "papers/biology/img/02B-Proteins-DNA-48.jpg"
       ]
     },
     {
@@ -2041,6 +2507,12 @@
         "To counter this, membranes need more fluidity.",
         "Unsaturated fatty acids have kinked tails that pack less tightly.",
         "So the proportion of unsaturated fatty acids increased."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-45.jpg",
+        "papers/biology/img/02B-Proteins-DNA-46.jpg",
+        "papers/biology/img/02B-Proteins-DNA-47.jpg",
+        "papers/biology/img/02B-Proteins-DNA-48.jpg"
       ]
     },
     {
@@ -2067,6 +2539,12 @@
         "Rigid membranes stop transport proteins and enzymes working properly.",
         "Keeping the membrane fluid maintains cell function.",
         "So the fish can survive in cold water."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-45.jpg",
+        "papers/biology/img/02B-Proteins-DNA-46.jpg",
+        "papers/biology/img/02B-Proteins-DNA-47.jpg",
+        "papers/biology/img/02B-Proteins-DNA-48.jpg"
       ]
     },
     {
@@ -2094,6 +2572,11 @@
         "Catalyst means it speeds up a reaction.",
         "It does this by lowering the activation energy.",
         "It is not used up or changed by the reaction."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-48.jpg",
+        "papers/biology/img/02B-Proteins-DNA-49.jpg",
+        "papers/biology/img/02B-Proteins-DNA-50.jpg"
       ]
     },
     {
@@ -2115,7 +2598,12 @@
       "question": "Which arrow on the energy graph shows the energy required to start the reaction?",
       "status": "pending",
       "answer": "Missing: the energy graph is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-48.jpg",
+        "papers/biology/img/02B-Proteins-DNA-49.jpg",
+        "papers/biology/img/02B-Proteins-DNA-50.jpg"
+      ]
     },
     {
       "id": "2B-Q20c",
@@ -2136,7 +2624,12 @@
       "question": "Explain why E1 cannot convert AB into AC or AC into D, using the diagram.",
       "status": "pending",
       "answer": "Missing: the reaction pathway diagram with enzymes E1, E2 and E3 is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-48.jpg",
+        "papers/biology/img/02B-Proteins-DNA-49.jpg",
+        "papers/biology/img/02B-Proteins-DNA-50.jpg"
+      ]
     },
     {
       "id": "2B-Q20d",
@@ -2156,7 +2649,12 @@
       "question": "Describe two conclusions from the table of rates at different pH and temperature combinations.",
       "status": "pending",
       "answer": "Missing: the table of rates is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-48.jpg",
+        "papers/biology/img/02B-Proteins-DNA-49.jpg",
+        "papers/biology/img/02B-Proteins-DNA-50.jpg"
+      ]
     },
     {
       "id": "2B-Q21a",
@@ -2177,7 +2675,12 @@
       "question": "Calculate the minimum mass of protein a 70 kg person should eat in one week to reach a synthesis rate of 150 mg per kg.",
       "status": "pending",
       "answer": "Missing: the graph relating protein intake to synthesis rate is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-50.jpg",
+        "papers/biology/img/02B-Proteins-DNA-51.jpg",
+        "papers/biology/img/02B-Proteins-DNA-52.jpg"
+      ]
     },
     {
       "id": "2B-Q21b(i)",
@@ -2203,6 +2706,11 @@
         "Transcription makes an mRNA copy of the gene.",
         "The mRNA then moves to the ribosome.",
         "Translation then builds the polypeptide from the mRNA codons."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-50.jpg",
+        "papers/biology/img/02B-Proteins-DNA-51.jpg",
+        "papers/biology/img/02B-Proteins-DNA-52.jpg"
       ]
     },
     {
@@ -2229,6 +2737,11 @@
         "tRNA is a small molecule with an anticodon at one end.",
         "tRNA carries the specific amino acid matching its anticodon.",
         "The anticodon pairs with the mRNA codon, so amino acids join in the correct order."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-50.jpg",
+        "papers/biology/img/02B-Proteins-DNA-51.jpg",
+        "papers/biology/img/02B-Proteins-DNA-52.jpg"
       ]
     },
     {
@@ -2250,7 +2763,13 @@
       "question": "Describe the evidence for and against a relationship between blood cholesterol and heart disease.",
       "status": "pending",
       "answer": "Missing: the graph of cholesterol and heart disease results is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-52.jpg",
+        "papers/biology/img/02B-Proteins-DNA-53.jpg",
+        "papers/biology/img/02B-Proteins-DNA-54.jpg",
+        "papers/biology/img/02B-Proteins-DNA-55.jpg"
+      ]
     },
     {
       "id": "2B-Q22b",
@@ -2269,7 +2788,13 @@
       "question": "Describe the evidence in the HDL and LDL graph that supports the three conclusions.",
       "status": "pending",
       "answer": "Missing: the HDL and LDL graph is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-52.jpg",
+        "papers/biology/img/02B-Proteins-DNA-53.jpg",
+        "papers/biology/img/02B-Proteins-DNA-54.jpg",
+        "papers/biology/img/02B-Proteins-DNA-55.jpg"
+      ]
     },
     {
       "id": "2B-Q22c(i)",
@@ -2295,6 +2820,12 @@
         "LDL binds to the receptor on the outer surface of the liver cell.",
         "The receptor-LDL complex collects in a coated pit that folds in.",
         "The pit pinches off as a vesicle carrying LDL into the cell."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-52.jpg",
+        "papers/biology/img/02B-Proteins-DNA-53.jpg",
+        "papers/biology/img/02B-Proteins-DNA-54.jpg",
+        "papers/biology/img/02B-Proteins-DNA-55.jpg"
       ]
     },
     {
@@ -2320,6 +2851,12 @@
         "A lower pH changes the charges on the amino acid R groups.",
         "This alters the tertiary shape of the receptor's binding site.",
         "LDL can no longer bind and is released."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-52.jpg",
+        "papers/biology/img/02B-Proteins-DNA-53.jpg",
+        "papers/biology/img/02B-Proteins-DNA-54.jpg",
+        "papers/biology/img/02B-Proteins-DNA-55.jpg"
       ]
     },
     {
@@ -2347,6 +2884,12 @@
         "The receptor may fail to bind LDL or be made at all.",
         "LDL is not removed from the blood by endocytosis, so blood LDL and cholesterol rise.",
         "Cholesterol then builds up in artery walls, causing atherosclerosis and CVD."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-52.jpg",
+        "papers/biology/img/02B-Proteins-DNA-53.jpg",
+        "papers/biology/img/02B-Proteins-DNA-54.jpg",
+        "papers/biology/img/02B-Proteins-DNA-55.jpg"
       ]
     },
     {
@@ -2374,6 +2917,10 @@
         "These form in condensation reactions, releasing a molecule of water.",
         "Complementary base pairs are held by hydrogen bonds.",
         "The double-stranded molecule twists into a double helix."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-55.jpg",
+        "papers/biology/img/02B-Proteins-DNA-56.jpg"
       ]
     },
     {
@@ -2396,7 +2943,11 @@
       "question": "Draw one DNA mononucleotide using shapes selected from the table.",
       "status": "pending",
       "answer": "Missing: the table of component shapes is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-55.jpg",
+        "papers/biology/img/02B-Proteins-DNA-56.jpg"
+      ]
     },
     {
       "id": "2B-Q24a(i)",
@@ -2417,7 +2968,13 @@
       "question": "Which arrow shows the activation energy for this reaction?",
       "status": "pending",
       "answer": "Missing: the energy graph and option arrows are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-56.jpg",
+        "papers/biology/img/02B-Proteins-DNA-57.jpg",
+        "papers/biology/img/02B-Proteins-DNA-58.jpg",
+        "papers/biology/img/02B-Proteins-DNA-59.jpg"
+      ]
     },
     {
       "id": "2B-Q24a(ii)",
@@ -2441,7 +2998,13 @@
       "question": "Which row of the table shows the molecule present at time Y and time Z on this graph?",
       "status": "pending",
       "answer": "Missing: the table and graph are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-56.jpg",
+        "papers/biology/img/02B-Proteins-DNA-57.jpg",
+        "papers/biology/img/02B-Proteins-DNA-58.jpg",
+        "papers/biology/img/02B-Proteins-DNA-59.jpg"
+      ]
     },
     {
       "id": "2B-Q24a(iii)",
@@ -2462,7 +3025,13 @@
       "question": "Which row shows how the lengths of arrows P and Q would change when polyphenol oxidase is present?",
       "status": "pending",
       "answer": "Missing: the table of options and graph are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-56.jpg",
+        "papers/biology/img/02B-Proteins-DNA-57.jpg",
+        "papers/biology/img/02B-Proteins-DNA-58.jpg",
+        "papers/biology/img/02B-Proteins-DNA-59.jpg"
+      ]
     },
     {
       "id": "2B-Q24b(i)",
@@ -2483,7 +3052,13 @@
       "question": "Calculate the rate of reaction at 3 minutes by drawing a tangent.",
       "status": "pending",
       "answer": "Missing: the monophenol concentration graph is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-56.jpg",
+        "papers/biology/img/02B-Proteins-DNA-57.jpg",
+        "papers/biology/img/02B-Proteins-DNA-58.jpg",
+        "papers/biology/img/02B-Proteins-DNA-59.jpg"
+      ]
     },
     {
       "id": "2B-Q24b(ii)",
@@ -2510,6 +3085,12 @@
         "More frequent collisions give more enzyme-substrate complexes.",
         "So the initial rate (slope) increases and the curve is steeper.",
         "The plateau is reached earlier and at a higher rate, as the optimum gives the fastest rate."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-56.jpg",
+        "papers/biology/img/02B-Proteins-DNA-57.jpg",
+        "papers/biology/img/02B-Proteins-DNA-58.jpg",
+        "papers/biology/img/02B-Proteins-DNA-59.jpg"
       ]
     },
     {
@@ -2531,7 +3112,11 @@
       "question": "Complete the diagram showing the base sequence of the mRNA made from the template strand.",
       "status": "pending",
       "answer": "Missing: the template strand base diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-59.jpg",
+        "papers/biology/img/02B-Proteins-DNA-60.jpg"
+      ]
     },
     {
       "id": "2B-Q25a(ii)",
@@ -2556,6 +3141,10 @@
         "This happens in the nucleus.",
         "Making mRNA from DNA is called transcription.",
         "Translation is the next stage."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-59.jpg",
+        "papers/biology/img/02B-Proteins-DNA-60.jpg"
       ]
     },
     {
@@ -2581,6 +3170,10 @@
         "RNA polymerase unwinds DNA and joins complementary ribonucleotides.",
         "It forms phosphodiester bonds 5' to 3'.",
         "So the enzyme is RNA polymerase."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-59.jpg",
+        "papers/biology/img/02B-Proteins-DNA-60.jpg"
       ]
     },
     {
@@ -2606,6 +3199,10 @@
         "mRNA is long and unfolded, with codons in sequence.",
         "tRNA is short and folded (clover-leaf) with some base pairing.",
         "tRNA has an anticodon and an amino acid attachment site."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-59.jpg",
+        "papers/biology/img/02B-Proteins-DNA-60.jpg"
       ]
     },
     {
@@ -2630,6 +3227,11 @@
         "The chains are wound together into a triple helix.",
         "Every third amino acid is glycine, allowing tight packing.",
         "Hydrogen bonds between chains give strength."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-60.jpg",
+        "papers/biology/img/02B-Proteins-DNA-61.jpg",
+        "papers/biology/img/02B-Proteins-DNA-62.jpg"
       ]
     },
     {
@@ -2653,7 +3255,12 @@
       "question": "Calculate the rate of reaction at 30 minutes by drawing a tangent.",
       "status": "pending",
       "answer": "Missing: the elastin protease graph is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-60.jpg",
+        "papers/biology/img/02B-Proteins-DNA-61.jpg",
+        "papers/biology/img/02B-Proteins-DNA-62.jpg"
+      ]
     },
     {
       "id": "2B-Q26b(ii)",
@@ -2678,6 +3285,11 @@
         "The enzyme's active site binds a specific sequence in elastin.",
         "Water is used to break the peptide bonds (hydrolysis).",
         "This splits elastin into smaller peptides and amino acids."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-60.jpg",
+        "papers/biology/img/02B-Proteins-DNA-61.jpg",
+        "papers/biology/img/02B-Proteins-DNA-62.jpg"
       ]
     },
     {
@@ -2705,6 +3317,12 @@
         "Damage exposes underlying collagen and tissue factor.",
         "This triggers platelet activation and the clotting cascade.",
         "The cascade converts prothrombin into thrombin."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-62.jpg",
+        "papers/biology/img/02B-Proteins-DNA-63.jpg",
+        "papers/biology/img/02B-Proteins-DNA-64.jpg",
+        "papers/biology/img/02B-Proteins-DNA-65.jpg"
       ]
     },
     {
@@ -2728,6 +3346,12 @@
         "This lowers the body's ability to stop bleeding.",
         "So the patient may bleed excessively.",
         "Bleeding (haemorrhage) is the main risk."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-62.jpg",
+        "papers/biology/img/02B-Proteins-DNA-63.jpg",
+        "papers/biology/img/02B-Proteins-DNA-64.jpg",
+        "papers/biology/img/02B-Proteins-DNA-65.jpg"
       ]
     },
     {
@@ -2754,6 +3378,12 @@
         "The gene also needs a stop codon (3 bases) to end translation.",
         "Total = 96 + 3 = 99 bases.",
         "Option D is correct."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-62.jpg",
+        "papers/biology/img/02B-Proteins-DNA-63.jpg",
+        "papers/biology/img/02B-Proteins-DNA-64.jpg",
+        "papers/biology/img/02B-Proteins-DNA-65.jpg"
       ]
     },
     {
@@ -2779,6 +3409,12 @@
         "Variegin fits into the active site of thrombin.",
         "It blocks the site (competitive inhibition).",
         "Fibrinogen cannot be converted to fibrin, so no clot forms."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-62.jpg",
+        "papers/biology/img/02B-Proteins-DNA-63.jpg",
+        "papers/biology/img/02B-Proteins-DNA-64.jpg",
+        "papers/biology/img/02B-Proteins-DNA-65.jpg"
       ]
     },
     {
@@ -2805,6 +3441,12 @@
         "Its active site binds a specific sequence in variegin.",
         "A peptide bond is broken by hydrolysis, which uses a water molecule.",
         "This splits variegin into two smaller molecules."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-62.jpg",
+        "papers/biology/img/02B-Proteins-DNA-63.jpg",
+        "papers/biology/img/02B-Proteins-DNA-64.jpg",
+        "papers/biology/img/02B-Proteins-DNA-65.jpg"
       ]
     },
     {
@@ -2829,7 +3471,13 @@
       "question": "Comment on the results comparing the effect of variegin and drug H on clot mass in stents.",
       "status": "pending",
       "answer": "Missing: the graph of clot masses is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-62.jpg",
+        "papers/biology/img/02B-Proteins-DNA-63.jpg",
+        "papers/biology/img/02B-Proteins-DNA-64.jpg",
+        "papers/biology/img/02B-Proteins-DNA-65.jpg"
+      ]
     },
     {
       "id": "2B-Q28a(i)",
@@ -2853,6 +3501,10 @@
         "RNA nucleotides contain the sugar ribose.",
         "DNA nucleotides use deoxyribose instead.",
         "Option D (ribose) is correct."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-65.jpg",
+        "papers/biology/img/02B-Proteins-DNA-66.jpg"
       ]
     },
     {
@@ -2872,7 +3524,11 @@
       "question": "Draw a circle around the base in uridine monophosphate.",
       "status": "pending",
       "answer": "Missing: the UMP structure diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-65.jpg",
+        "papers/biology/img/02B-Proteins-DNA-66.jpg"
+      ]
     },
     {
       "id": "2B-Q28a(iii)",
@@ -2897,6 +3553,10 @@
         "Nucleotides are the building blocks of nucleic acids.",
         "UMP can be phosphorylated to UTP.",
         "UTP is used as a monomer to synthesise RNA."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-65.jpg",
+        "papers/biology/img/02B-Proteins-DNA-66.jpg"
       ]
     },
     {
@@ -2924,6 +3584,10 @@
         "This forms an enzyme-substrate complex.",
         "The complex strains bonds and orients the substrate.",
         "So less activation energy is needed, speeding the reaction up."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-65.jpg",
+        "papers/biology/img/02B-Proteins-DNA-66.jpg"
       ]
     },
     {
@@ -2950,6 +3614,10 @@
         "Only the correct substrate can bind (lock and key).",
         "Other molecules do not fit, so they are not converted.",
         "Hence the enzyme is specific to this reaction."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-65.jpg",
+        "papers/biology/img/02B-Proteins-DNA-66.jpg"
       ]
     },
     {
@@ -2979,6 +3647,10 @@
         "tRNA molecules bring specific amino acids to the ribosome, matched by anticodons.",
         "rRNA forms part of the ribosome and catalyses peptide bond formation.",
         "Together these build the collagen polypeptide chains."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-67.jpg",
+        "papers/biology/img/02B-Proteins-DNA-68.jpg"
       ]
     },
     {
@@ -3006,6 +3678,10 @@
         "Glycine at every third position lets the three chains pack closely.",
         "Proline and hydroxyproline stabilise the helix.",
         "The triple helix and hydrogen bonds give collagen its strength and insolubility."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-67.jpg",
+        "papers/biology/img/02B-Proteins-DNA-68.jpg"
       ]
     },
     {
@@ -3029,6 +3705,10 @@
         "Its base sequence contains the code for one polypeptide or functional RNA.",
         "Genes are found at loci on chromosomes.",
         "A gene therefore determines a characteristic."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-68.jpg",
+        "papers/biology/img/02B-Proteins-DNA-69.jpg"
       ]
     },
     {
@@ -3055,6 +3735,10 @@
         "Bases on opposite strands pair up.",
         "Adenine pairs with thymine by two hydrogen bonds.",
         "Guanine pairs with cytosine by three hydrogen bonds."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-68.jpg",
+        "papers/biology/img/02B-Proteins-DNA-69.jpg"
       ]
     },
     {
@@ -3080,6 +3764,10 @@
         "A doublet (two bases from four types) gives 4 x 4 = 16 combinations.",
         "16 is fewer than 20, so it is not enough.",
         "A triplet gives 4 x 4 x 4 = 64 combinations, which is enough."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-68.jpg",
+        "papers/biology/img/02B-Proteins-DNA-69.jpg"
       ]
     },
     {
@@ -3106,6 +3794,10 @@
         "Gametes: father X(c) or Y; mother X(N) or X(c).",
         "Offspring: X(N)Y, X(c)Y, X(N)X(c), X(c)X(c), each 1/4.",
         "Colour blind children are X(c)Y and X(c)X(c), so probability = 1/4 + 1/4 = 1/2."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-68.jpg",
+        "papers/biology/img/02B-Proteins-DNA-69.jpg"
       ]
     },
     {
@@ -3128,7 +3820,12 @@
       "question": "Complete the diagram showing how two glucose molecules join by a glycosidic bond to form two products.",
       "status": "pending",
       "answer": "Missing: the glucose diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-69.jpg",
+        "papers/biology/img/02B-Proteins-DNA-70.jpg",
+        "papers/biology/img/02B-Proteins-DNA-71.jpg"
+      ]
     },
     {
       "id": "2B-Q31b(i)",
@@ -3148,7 +3845,12 @@
       "question": "Draw one disaccharide and two different oligosaccharides produced by amylase digesting the amylopectin shown.",
       "status": "pending",
       "answer": "Missing: the amylopectin diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-69.jpg",
+        "papers/biology/img/02B-Proteins-DNA-70.jpg",
+        "papers/biology/img/02B-Proteins-DNA-71.jpg"
+      ]
     },
     {
       "id": "2B-Q31b(ii)",
@@ -3172,6 +3874,11 @@
         "Amylase's active site fits the alpha 1-4 glycosidic linkage.",
         "The 1-6 linkage at branch points has a different shape and does not fit.",
         "So amylase only hydrolyses 1-4 bonds."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-69.jpg",
+        "papers/biology/img/02B-Proteins-DNA-70.jpg",
+        "papers/biology/img/02B-Proteins-DNA-71.jpg"
       ]
     },
     {
@@ -3199,6 +3906,11 @@
         "Each disaccharidase (maltase, sucrase, lactase) fits a specific disaccharide.",
         "Oligosaccharides are broken down by enzymes that remove glucose units from the end of the chain.",
         "Specificity of the active site is the reason different enzymes are needed."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-69.jpg",
+        "papers/biology/img/02B-Proteins-DNA-70.jpg",
+        "papers/biology/img/02B-Proteins-DNA-71.jpg"
       ]
     },
     {
@@ -3225,6 +3937,11 @@
         "The inner part of the membrane is hydrophobic.",
         "Polar molecules cannot dissolve through the phospholipid bilayer.",
         "A transport protein provides a channel or carrier for glucose."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-69.jpg",
+        "papers/biology/img/02B-Proteins-DNA-70.jpg",
+        "papers/biology/img/02B-Proteins-DNA-71.jpg"
       ]
     },
     {
@@ -3249,6 +3966,11 @@
         "Shared electrons in O-H bonds are pulled towards oxygen.",
         "Oxygen becomes slightly negative and hydrogen slightly positive.",
         "The bent shape means the charges do not cancel, so water is a dipole."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-71.jpg",
+        "papers/biology/img/02B-Proteins-DNA-72.jpg",
+        "papers/biology/img/02B-Proteins-DNA-73.jpg"
       ]
     },
     {
@@ -3269,7 +3991,12 @@
       "question": "Complete the diagram to show a hydrogen bond between two water molecules.",
       "status": "pending",
       "answer": "Missing: the three-water-molecule diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-71.jpg",
+        "papers/biology/img/02B-Proteins-DNA-72.jpg",
+        "papers/biology/img/02B-Proteins-DNA-73.jpg"
+      ]
     },
     {
       "id": "2B-Q32b",
@@ -3289,7 +4016,12 @@
       "question": "Complete the diagram showing two water molecules around a sodium ion.",
       "status": "pending",
       "answer": "Missing: the sodium ion diagram is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-71.jpg",
+        "papers/biology/img/02B-Proteins-DNA-72.jpg",
+        "papers/biology/img/02B-Proteins-DNA-73.jpg"
+      ]
     },
     {
       "id": "2B-Q32c",
@@ -3308,7 +4040,12 @@
       "question": "Describe the effects of temperature on the solubility of chemicals A, B, C and D.",
       "status": "pending",
       "answer": "Missing: the solubility graph is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-71.jpg",
+        "papers/biology/img/02B-Proteins-DNA-72.jpg",
+        "papers/biology/img/02B-Proteins-DNA-73.jpg"
+      ]
     },
     {
       "id": "2B-Q33a",
@@ -3334,6 +4071,11 @@
         "Proteins are embedded in or on it.",
         "The components move laterally, so it is fluid.",
         "This is the fluid mosaic model."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-73.jpg",
+        "papers/biology/img/02B-Proteins-DNA-74.jpg",
+        "papers/biology/img/02B-Proteins-DNA-75.jpg"
       ]
     },
     {
@@ -3359,6 +4101,11 @@
         "In water they form a double layer (bilayer).",
         "The heads face outwards to the aqueous environment on each side.",
         "The tails face inwards and are sheltered from water."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-73.jpg",
+        "papers/biology/img/02B-Proteins-DNA-74.jpg",
+        "papers/biology/img/02B-Proteins-DNA-75.jpg"
       ]
     },
     {
@@ -3378,7 +4125,12 @@
       "question": "Calculate the diameter of a lipid nanoparticle with a volume of 0.108 (units as given), using pi = 3.0.",
       "status": "pending",
       "answer": "Missing: the exponent in the volume is lost in extraction (0.108 m3 would not be a 'very small' particle).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-73.jpg",
+        "papers/biology/img/02B-Proteins-DNA-74.jpg",
+        "papers/biology/img/02B-Proteins-DNA-75.jpg"
+      ]
     },
     {
       "id": "2B-Q33c(ii)",
@@ -3403,6 +4155,11 @@
         "Each nucleotide contains ribose, a phosphate and a base (A, U, G or C).",
         "Nucleotides are joined by phosphodiester bonds.",
         "It is linear and carries codons."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-73.jpg",
+        "papers/biology/img/02B-Proteins-DNA-74.jpg",
+        "papers/biology/img/02B-Proteins-DNA-75.jpg"
       ]
     },
     {
@@ -3429,6 +4186,11 @@
         "Tails face inwards, away from water, forming a hydrophobic interior.",
         "The hydrophilic, negatively charged mRNA is held in the aqueous core.",
         "This protects mRNA from enzymes and lets it be carried to tissues."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-73.jpg",
+        "papers/biology/img/02B-Proteins-DNA-74.jpg",
+        "papers/biology/img/02B-Proteins-DNA-75.jpg"
       ]
     },
     {
@@ -3450,7 +4212,13 @@
       "question": "Explain why eating soybeans may reduce the risk of heart disease.",
       "status": "pending",
       "answer": "Soybean compounds lower cholesterol and LDL in the blood, which reduces atherosclerosis and the risk of heart disease.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-76.jpg",
+        "papers/biology/img/02B-Proteins-DNA-77.jpg",
+        "papers/biology/img/02B-Proteins-DNA-78.jpg",
+        "papers/biology/img/02B-Proteins-DNA-79.jpg"
+      ]
     },
     {
       "id": "2B-Q34b",
@@ -3477,6 +4245,12 @@
         "Two proteins can contain different amino acids.",
         "They can also have the same amino acids in a different order.",
         "Either the type, order or number of amino acids gives a valid answer."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-76.jpg",
+        "papers/biology/img/02B-Proteins-DNA-77.jpg",
+        "papers/biology/img/02B-Proteins-DNA-78.jpg",
+        "papers/biology/img/02B-Proteins-DNA-79.jpg"
       ]
     },
     {
@@ -3503,6 +4277,12 @@
         "The peptides, not whole proteins, are what enters the body.",
         "Using digested soybean copies this.",
         "So the results reflect the effect of real absorbed products."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-76.jpg",
+        "papers/biology/img/02B-Proteins-DNA-77.jpg",
+        "papers/biology/img/02B-Proteins-DNA-78.jpg",
+        "papers/biology/img/02B-Proteins-DNA-79.jpg"
       ]
     },
     {
@@ -3528,6 +4308,12 @@
         "The stomach and small intestine use different enzymes.",
         "Using them in sequence copies the digestive process.",
         "So the soybean protein is fully broken into peptides."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-76.jpg",
+        "papers/biology/img/02B-Proteins-DNA-77.jpg",
+        "papers/biology/img/02B-Proteins-DNA-78.jpg",
+        "papers/biology/img/02B-Proteins-DNA-79.jpg"
       ]
     },
     {
@@ -3555,6 +4341,12 @@
         "37 C is the optimum temperature for these enzymes.",
         "This copies conditions in the human gut.",
         "Two hours allows the digestion to proceed to completion."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-76.jpg",
+        "papers/biology/img/02B-Proteins-DNA-77.jpg",
+        "papers/biology/img/02B-Proteins-DNA-78.jpg",
+        "papers/biology/img/02B-Proteins-DNA-79.jpg"
       ]
     },
     {
@@ -3575,7 +4367,13 @@
       "question": "Explain why eating soybeans may reduce blood cholesterol, using the graph of HMGCR activity.",
       "status": "pending",
       "answer": "Missing: the graph of HMGCR activity and cholesterol synthesis is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-76.jpg",
+        "papers/biology/img/02B-Proteins-DNA-77.jpg",
+        "papers/biology/img/02B-Proteins-DNA-78.jpg",
+        "papers/biology/img/02B-Proteins-DNA-79.jpg"
+      ]
     },
     {
       "id": "2B-Q35a",
@@ -3602,6 +4400,10 @@
         "It unwinds the DNA double helix.",
         "It reads the template strand and joins complementary ribonucleotides.",
         "It forms phosphodiester bonds, producing mRNA 5' to 3'."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-79.jpg",
+        "papers/biology/img/02B-Proteins-DNA-80.jpg"
       ]
     },
     {
@@ -3631,6 +4433,10 @@
         "The start codon AUG codes for methionine and initiates translation.",
         "Stop codons UAA, UAG and UGA do not code for amino acids.",
         "Stop codons are recognised by release factors, which end translation."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-79.jpg",
+        "papers/biology/img/02B-Proteins-DNA-80.jpg"
       ]
     },
     {
@@ -3656,6 +4462,10 @@
         "They hold the mRNA and align tRNAs with their codons.",
         "The ribosome's rRNA catalyses peptide bond formation.",
         "It moves along the mRNA, linking amino acids into a polypeptide."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-79.jpg",
+        "papers/biology/img/02B-Proteins-DNA-80.jpg"
       ]
     },
     {
@@ -3683,6 +4493,10 @@
         "One codon codes for one amino acid.",
         "For example, GCC codes for alanine.",
         "So the code is read in triplets."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-81.jpg",
+        "papers/biology/img/02B-Proteins-DNA-82.jpg"
       ]
     },
     {
@@ -3708,6 +4522,10 @@
         "A base in one codon is not used again in the next codon.",
         "This means the reading frame is fixed.",
         "So each base has one specific role in the code."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-81.jpg",
+        "papers/biology/img/02B-Proteins-DNA-82.jpg"
       ]
     },
     {
@@ -3734,6 +4552,10 @@
         "So some amino acids have more than one codon.",
         "For example, several codons code for alanine.",
         "Changes in the third base may therefore not change the amino acid."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-81.jpg",
+        "papers/biology/img/02B-Proteins-DNA-82.jpg"
       ]
     },
     {
@@ -3754,7 +4576,13 @@
       "question": "Describe two conclusions from the graph of blood cholesterol and coronary heart disease death rate.",
       "status": "pending",
       "answer": "Missing: the graph of cholesterol and CHD death rate is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-82.jpg",
+        "papers/biology/img/02B-Proteins-DNA-83.jpg",
+        "papers/biology/img/02B-Proteins-DNA-84.jpg",
+        "papers/biology/img/02B-Proteins-DNA-85.jpg"
+      ]
     },
     {
       "id": "2B-Q37b(i)",
@@ -3780,6 +4608,12 @@
         "A known side effect is muscle pain or weakness (myopathy).",
         "Another side effect is raised liver enzymes or liver damage.",
         "Muscle pain and liver damage are the answers."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-82.jpg",
+        "papers/biology/img/02B-Proteins-DNA-83.jpg",
+        "papers/biology/img/02B-Proteins-DNA-84.jpg",
+        "papers/biology/img/02B-Proteins-DNA-85.jpg"
       ]
     },
     {
@@ -3807,6 +4641,12 @@
         "More receptors means more LDL is bound.",
         "The LDL is taken into liver cells by endocytosis.",
         "So less cholesterol remains in the blood."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-82.jpg",
+        "papers/biology/img/02B-Proteins-DNA-83.jpg",
+        "papers/biology/img/02B-Proteins-DNA-84.jpg",
+        "papers/biology/img/02B-Proteins-DNA-85.jpg"
       ]
     },
     {
@@ -3833,6 +4673,12 @@
         "= 270 000 / (1/250) = 270 000 x 250.",
         "= 67 500 000.",
         "In standard form: 6.75 x 10^7."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-82.jpg",
+        "papers/biology/img/02B-Proteins-DNA-83.jpg",
+        "papers/biology/img/02B-Proteins-DNA-84.jpg",
+        "papers/biology/img/02B-Proteins-DNA-85.jpg"
       ]
     },
     {
@@ -3857,6 +4703,12 @@
         "Homozygous people have two mutant copies of the LDL receptor gene.",
         "They produce little or no functional receptor.",
         "So statins have little effect."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-82.jpg",
+        "papers/biology/img/02B-Proteins-DNA-83.jpg",
+        "papers/biology/img/02B-Proteins-DNA-84.jpg",
+        "papers/biology/img/02B-Proteins-DNA-85.jpg"
       ]
     },
     {
@@ -3883,6 +4735,12 @@
         "It binds to the mRNA by complementary base pairing.",
         "This blocks the ribosome from translating it or marks it for degradation.",
         "Less apo B protein is therefore made."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-82.jpg",
+        "papers/biology/img/02B-Proteins-DNA-83.jpg",
+        "papers/biology/img/02B-Proteins-DNA-84.jpg",
+        "papers/biology/img/02B-Proteins-DNA-85.jpg"
       ]
     },
     {
@@ -3907,6 +4765,11 @@
         "Each template is used to make a new complementary strand.",
         "Each new molecule has one old strand and one new strand.",
         "This is semi-conservative."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-85.jpg",
+        "papers/biology/img/02B-Proteins-DNA-86.jpg",
+        "papers/biology/img/02B-Proteins-DNA-87.jpg"
       ]
     },
     {
@@ -3933,6 +4796,11 @@
         "It matches complementary free nucleotides to the template bases.",
         "It joins each nucleotide to the 3' end of the growing strand.",
         "This forms phosphodiester bonds."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-85.jpg",
+        "papers/biology/img/02B-Proteins-DNA-86.jpg",
+        "papers/biology/img/02B-Proteins-DNA-87.jpg"
       ]
     },
     {
@@ -3954,7 +4822,12 @@
       "question": "Complete the graphs showing the concentrations and densities of DNA at stages 1, 2 and 3 of the flowchart.",
       "status": "pending",
       "answer": "Missing: the flowchart and the graph axes are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-85.jpg",
+        "papers/biology/img/02B-Proteins-DNA-86.jpg",
+        "papers/biology/img/02B-Proteins-DNA-87.jpg"
+      ]
     },
     {
       "id": "2B-Q39a",
@@ -3981,6 +4854,11 @@
         "Each separated strand acts as a template.",
         "DNA polymerase adds complementary nucleotides to each template.",
         "Each new molecule has one original and one new strand, so both are identical to the parent."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-88.jpg",
+        "papers/biology/img/02B-Proteins-DNA-89.jpg",
+        "papers/biology/img/02B-Proteins-DNA-90.jpg"
       ]
     },
     {
@@ -4006,6 +4884,11 @@
         "tRNA carries the specific amino acid for each codon.",
         "tRNA's anticodon pairs with the mRNA codon.",
         "Amino acids are joined in the order set by the codons."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-88.jpg",
+        "papers/biology/img/02B-Proteins-DNA-89.jpg",
+        "papers/biology/img/02B-Proteins-DNA-90.jpg"
       ]
     },
     {
@@ -4032,6 +4915,11 @@
         "A Voronoi diagram can show many components together.",
         "The shapes carry no meaning, which can confuse the reader.",
         "Exact values are harder to read than in a table or bar chart."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-88.jpg",
+        "papers/biology/img/02B-Proteins-DNA-89.jpg",
+        "papers/biology/img/02B-Proteins-DNA-90.jpg"
       ]
     },
     {
@@ -4060,6 +4948,11 @@
         "Ribosomes and proteins also increase to prepare for division.",
         "After division each daughter cell gets one copy of the DNA, so its DNA area is about half.",
         "As a daughter cell grows, its proteins and RNA increase, so the DNA proportion falls and the diagram changes shape."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-88.jpg",
+        "papers/biology/img/02B-Proteins-DNA-89.jpg",
+        "papers/biology/img/02B-Proteins-DNA-90.jpg"
       ]
     },
     {
@@ -4086,6 +4979,12 @@
         "This sequence folds into the tertiary structure.",
         "The R groups that line the active site determine its shape and charge.",
         "These properties determine which substrates can bind."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-91.jpg",
+        "papers/biology/img/02B-Proteins-DNA-92.jpg",
+        "papers/biology/img/02B-Proteins-DNA-93.jpg",
+        "papers/biology/img/02B-Proteins-DNA-94.jpg"
       ]
     },
     {
@@ -4112,6 +5011,12 @@
         "At high temperature, these bonds break as the molecule vibrates.",
         "The tertiary structure changes, so the active site changes shape.",
         "The substrate no longer fits, and the enzyme is denatured."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-91.jpg",
+        "papers/biology/img/02B-Proteins-DNA-92.jpg",
+        "papers/biology/img/02B-Proteins-DNA-93.jpg",
+        "papers/biology/img/02B-Proteins-DNA-94.jpg"
       ]
     },
     {
@@ -4137,6 +5042,12 @@
         "Stronger or additional bonds need more energy to break.",
         "So the protein keeps its folded shape at higher temperatures.",
         "The active site therefore stays the correct shape to work."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-91.jpg",
+        "papers/biology/img/02B-Proteins-DNA-92.jpg",
+        "papers/biology/img/02B-Proteins-DNA-93.jpg",
+        "papers/biology/img/02B-Proteins-DNA-94.jpg"
       ]
     },
     {
@@ -4162,6 +5073,12 @@
         "Changing the bonding changes the folding.",
         "This alters the shape and charge of the active site.",
         "So the plastic may bind less well, or bind differently."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-91.jpg",
+        "papers/biology/img/02B-Proteins-DNA-92.jpg",
+        "papers/biology/img/02B-Proteins-DNA-93.jpg",
+        "papers/biology/img/02B-Proteins-DNA-94.jpg"
       ]
     },
     {
@@ -4189,6 +5106,12 @@
         "More plastic molecules can bind at the same time.",
         "More enzyme-substrate complexes form per unit time.",
         "So more plastic is broken down per second."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-91.jpg",
+        "papers/biology/img/02B-Proteins-DNA-92.jpg",
+        "papers/biology/img/02B-Proteins-DNA-93.jpg",
+        "papers/biology/img/02B-Proteins-DNA-94.jpg"
       ]
     },
     {
@@ -4217,6 +5140,12 @@
         "A larger active site may hold the substrate less tightly.",
         "Poor fit reduces the number of effective enzyme-substrate complexes.",
         "So the rate of reaction may fall."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-91.jpg",
+        "papers/biology/img/02B-Proteins-DNA-92.jpg",
+        "papers/biology/img/02B-Proteins-DNA-93.jpg",
+        "papers/biology/img/02B-Proteins-DNA-94.jpg"
       ]
     },
     {
@@ -4245,6 +5174,12 @@
         "Enzyme 2 is linked close to enzyme 1.",
         "The short chains are passed directly to enzyme 2.",
         "They are broken into monomers quickly, so the overall breakdown is faster."
+      ],
+      "images": [
+        "papers/biology/img/02B-Proteins-DNA-91.jpg",
+        "papers/biology/img/02B-Proteins-DNA-92.jpg",
+        "papers/biology/img/02B-Proteins-DNA-93.jpg",
+        "papers/biology/img/02B-Proteins-DNA-94.jpg"
       ]
     }
   ]

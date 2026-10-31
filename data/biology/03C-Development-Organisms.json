@@ -1,6 +1,6 @@
 {
   "code": "3C",
-  "title": "Development of Organisms",
+  "title": "Development of organisms",
   "unit": "AS Unit 1",
   "pdf": "papers/biology/03C-Development-Organisms.pdf",
   "questions": [
@@ -23,7 +23,12 @@
       "question": "Which organelle, described by a student using an electron microscope, was seen (A centriole, B Golgi, C rough ER, D smooth ER)?",
       "status": "pending",
       "answer": "Missing: the description of the organelle seen is cut off in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-01.jpg",
+        "papers/biology/img/03C-Development-Organisms-02.jpg",
+        "papers/biology/img/03C-Development-Organisms-03.jpg"
+      ]
     },
     {
       "id": "3C-Q1a(ii)",
@@ -51,6 +56,11 @@
         "Organelles such as the ER are smaller than this limit.",
         "Two points closer than the resolution appear as one.",
         "An electron microscope uses electrons with a much shorter wavelength, giving higher resolution."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-01.jpg",
+        "papers/biology/img/03C-Development-Organisms-02.jpg",
+        "papers/biology/img/03C-Development-Organisms-03.jpg"
       ]
     },
     {
@@ -76,6 +86,11 @@
         "An organ is made of several different tissues.",
         "An organ performs a more complex function than a single tissue.",
         "Organs are larger structures within an organism."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-01.jpg",
+        "papers/biology/img/03C-Development-Organisms-02.jpg",
+        "papers/biology/img/03C-Development-Organisms-03.jpg"
       ]
     },
     {
@@ -103,6 +118,11 @@
         "Animal cells lack those structures.",
         "Centrioles are found in animal cells only.",
         "Lysosomes are also found only in animal cells."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-01.jpg",
+        "papers/biology/img/03C-Development-Organisms-02.jpg",
+        "papers/biology/img/03C-Development-Organisms-03.jpg"
       ]
     },
     {
@@ -125,7 +145,12 @@
       "question": "Explain the results of the fluorescence investigation in pancreas cells.",
       "status": "pending",
       "answer": "Missing: the results table (percentage green fluorescence inside and outside the cells) is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-01.jpg",
+        "papers/biology/img/03C-Development-Organisms-02.jpg",
+        "papers/biology/img/03C-Development-Organisms-03.jpg"
+      ]
     },
     {
       "id": "3C-Q2a(i)",
@@ -151,6 +176,12 @@
         "This happens at the equator in metaphase I.",
         "Each pair orients either way round, independent of other pairs.",
         "Option A is correct."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-03.jpg",
+        "papers/biology/img/03C-Development-Organisms-04.jpg",
+        "papers/biology/img/03C-Development-Organisms-05.jpg",
+        "papers/biology/img/03C-Development-Organisms-06.jpg"
       ]
     },
     {
@@ -177,6 +208,12 @@
         "Pairing and crossing over occur in prophase I.",
         "Chiasmata form where the non-sister chromatids swap segments.",
         "Option C is correct."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-03.jpg",
+        "papers/biology/img/03C-Development-Organisms-04.jpg",
+        "papers/biology/img/03C-Development-Organisms-05.jpg",
+        "papers/biology/img/03C-Development-Organisms-06.jpg"
       ]
     },
     {
@@ -203,6 +240,12 @@
         "Alleles that start on the same chromosome stay together unless crossing over occurs.",
         "Parental combinations are therefore more common than 25%.",
         "Recombinant combinations arise only from crossing over and are less common."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-03.jpg",
+        "papers/biology/img/03C-Development-Organisms-04.jpg",
+        "papers/biology/img/03C-Development-Organisms-05.jpg",
+        "papers/biology/img/03C-Development-Organisms-06.jpg"
       ]
     },
     {
@@ -232,6 +275,12 @@
         "Different exons can be included or excluded during splicing.",
         "Each different combination gives a different mRNA.",
         "Each mRNA is translated into a different polypeptide."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-03.jpg",
+        "papers/biology/img/03C-Development-Organisms-04.jpg",
+        "papers/biology/img/03C-Development-Organisms-05.jpg",
+        "papers/biology/img/03C-Development-Organisms-06.jpg"
       ]
     },
     {
@@ -253,7 +302,13 @@
       "question": "Comment on the changes in the activity of genes T and U as a mouse zygote develops into a blastocyst.",
       "status": "pending",
       "answer": "Missing: the graphs of gene activity for genes T and U are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-03.jpg",
+        "papers/biology/img/03C-Development-Organisms-04.jpg",
+        "papers/biology/img/03C-Development-Organisms-05.jpg",
+        "papers/biology/img/03C-Development-Organisms-06.jpg"
+      ]
     },
     {
       "id": "3C-Q3a(i)",
@@ -279,6 +334,12 @@
         "Each gene contributes a small additive effect.",
         "The combined effect gives a range of phenotypes.",
         "This produces continuous variation."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-06.jpg",
+        "papers/biology/img/03C-Development-Organisms-07.jpg",
+        "papers/biology/img/03C-Development-Organisms-08.jpg",
+        "papers/biology/img/03C-Development-Organisms-09.jpg"
       ]
     },
     {
@@ -301,7 +362,13 @@
       "question": "Which graph represents the distribution of mass of these beans?",
       "status": "pending",
       "answer": "Missing: the graph options are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-06.jpg",
+        "papers/biology/img/03C-Development-Organisms-07.jpg",
+        "papers/biology/img/03C-Development-Organisms-08.jpg",
+        "papers/biology/img/03C-Development-Organisms-09.jpg"
+      ]
     },
     {
       "id": "3C-Q3b(i)",
@@ -327,6 +394,12 @@
         "For a girl, subtract 13 cm: 335 - 13 = 322 cm.",
         "Divide by 2: 322 / 2 = 161 cm.",
         "161 cm = 1.61 m."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-06.jpg",
+        "papers/biology/img/03C-Development-Organisms-07.jpg",
+        "papers/biology/img/03C-Development-Organisms-08.jpg",
+        "papers/biology/img/03C-Development-Organisms-09.jpg"
       ]
     },
     {
@@ -355,6 +428,12 @@
         "Height is controlled by many genes, not just the parents' alleles.",
         "Environmental factors such as nutrition, disease and exercise affect growth.",
         "So the actual adult height may differ from the prediction."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-06.jpg",
+        "papers/biology/img/03C-Development-Organisms-07.jpg",
+        "papers/biology/img/03C-Development-Organisms-08.jpg",
+        "papers/biology/img/03C-Development-Organisms-09.jpg"
       ]
     },
     {
@@ -376,7 +455,13 @@
       "question": "Which labelled structure in the beta cell electron micrograph produces ribosomes (A P, B Q, C R, D S)?",
       "status": "pending",
       "answer": "Missing: the labelled micrograph is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-09.jpg",
+        "papers/biology/img/03C-Development-Organisms-10.jpg",
+        "papers/biology/img/03C-Development-Organisms-11.jpg",
+        "papers/biology/img/03C-Development-Organisms-12.jpg"
+      ]
     },
     {
       "id": "3C-Q4a(ii)",
@@ -397,7 +482,13 @@
       "question": "Suggest why the structures labelled T and U look different in the photograph, although they are the same type of organelle.",
       "status": "pending",
       "answer": "Missing: the micrograph showing T and U is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-09.jpg",
+        "papers/biology/img/03C-Development-Organisms-10.jpg",
+        "papers/biology/img/03C-Development-Organisms-11.jpg",
+        "papers/biology/img/03C-Development-Organisms-12.jpg"
+      ]
     },
     {
       "id": "3C-Q4a(iii)",
@@ -416,7 +507,13 @@
       "question": "Calculate the magnification of the image, given structure U measures 52 mm and is 3.0 (units garbled) long.",
       "status": "pending",
       "answer": "Missing: the unit of the actual length is garbled (\"3.0 m\"); it is likely micrometres, which would give about x17 000.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-09.jpg",
+        "papers/biology/img/03C-Development-Organisms-10.jpg",
+        "papers/biology/img/03C-Development-Organisms-11.jpg",
+        "papers/biology/img/03C-Development-Organisms-12.jpg"
+      ]
     },
     {
       "id": "3C-Q4b",
@@ -442,6 +539,12 @@
         "Transport vesicles carry it to the Golgi apparatus.",
         "The Golgi modifies and packages insulin into secretory vesicles.",
         "The vesicles move to the cell surface membrane, fuse with it and release insulin by exocytosis."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-09.jpg",
+        "papers/biology/img/03C-Development-Organisms-10.jpg",
+        "papers/biology/img/03C-Development-Organisms-11.jpg",
+        "papers/biology/img/03C-Development-Organisms-12.jpg"
       ]
     },
     {
@@ -471,6 +574,12 @@
         "Beta cells switch on the insulin gene by transcription factors and epigenetic control.",
         "Other cells keep the insulin gene switched off and make other proteins instead.",
         "So only beta cells transcribe and translate the insulin gene."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-09.jpg",
+        "papers/biology/img/03C-Development-Organisms-10.jpg",
+        "papers/biology/img/03C-Development-Organisms-11.jpg",
+        "papers/biology/img/03C-Development-Organisms-12.jpg"
       ]
     },
     {
@@ -497,6 +606,11 @@
         "Statement 2: the pair separates into different cells after mitosis. This is wrong; in mitosis sister chromatids separate, homologous pairs do not.",
         "Statement 3: one chromosome from each parent. This is correct.",
         "Two statements are correct, so option C."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-12.jpg",
+        "papers/biology/img/03C-Development-Organisms-13.jpg",
+        "papers/biology/img/03C-Development-Organisms-14.jpg"
       ]
     },
     {
@@ -520,6 +634,11 @@
         "In the S phase, each DNA molecule is replicated.",
         "Each chromosome now consists of two identical sister chromatids joined at the centromere.",
         "This prepares the cell for division."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-12.jpg",
+        "papers/biology/img/03C-Development-Organisms-13.jpg",
+        "papers/biology/img/03C-Development-Organisms-14.jpg"
       ]
     },
     {
@@ -545,6 +664,11 @@
         "Pairs form bivalents and non-sister chromatids overlap.",
         "Crossing over (chiasmata formation) begins here.",
         "So the stage is prophase I."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-12.jpg",
+        "papers/biology/img/03C-Development-Organisms-13.jpg",
+        "papers/biology/img/03C-Development-Organisms-14.jpg"
       ]
     },
     {
@@ -565,7 +689,12 @@
       "question": "How many of the listed allele combinations (AbE, ABe, abE, abe) could result from one crossover of the chromosomes shown?",
       "status": "pending",
       "answer": "Missing: the chromosome diagram showing the parental chromosomes is needed.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-12.jpg",
+        "papers/biology/img/03C-Development-Organisms-13.jpg",
+        "papers/biology/img/03C-Development-Organisms-14.jpg"
+      ]
     },
     {
       "id": "3C-Q5b(iii)",
@@ -591,6 +720,11 @@
         "The closer two genes are on a chromosome, the less likely a crossover between them.",
         "b and e are closer together than A and e.",
         "So b and e are less often separated and are inherited together more often."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-12.jpg",
+        "papers/biology/img/03C-Development-Organisms-13.jpg",
+        "papers/biology/img/03C-Development-Organisms-14.jpg"
       ]
     },
     {
@@ -618,6 +752,13 @@
         "It is large and contains a lot of cytoplasm and yolk.",
         "It contains stored nutrients and organelles for early development.",
         "Its haploid nucleus combines with a sperm nucleus to form a zygote."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-14.jpg",
+        "papers/biology/img/03C-Development-Organisms-15.jpg",
+        "papers/biology/img/03C-Development-Organisms-16.jpg",
+        "papers/biology/img/03C-Development-Organisms-17.jpg",
+        "papers/biology/img/03C-Development-Organisms-18.jpg"
       ]
     },
     {
@@ -643,6 +784,13 @@
         "In mitosis metaphase, single chromosomes line up in one row.",
         "In meiosis I metaphase, homologous pairs line up as bivalents.",
         "Meiosis II metaphase lines up single chromosomes, like mitosis, but the cell is haploid."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-14.jpg",
+        "papers/biology/img/03C-Development-Organisms-15.jpg",
+        "papers/biology/img/03C-Development-Organisms-16.jpg",
+        "papers/biology/img/03C-Development-Organisms-17.jpg",
+        "papers/biology/img/03C-Development-Organisms-18.jpg"
       ]
     },
     {
@@ -668,6 +816,13 @@
         "Cells divide further and begin to differentiate.",
         "Outer cells form the trophoblast, which later forms placental tissues.",
         "Fluid enters the centre, forming a blastocoel; inner cells form the inner cell mass."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-14.jpg",
+        "papers/biology/img/03C-Development-Organisms-15.jpg",
+        "papers/biology/img/03C-Development-Organisms-16.jpg",
+        "papers/biology/img/03C-Development-Organisms-17.jpg",
+        "papers/biology/img/03C-Development-Organisms-18.jpg"
       ]
     },
     {
@@ -690,7 +845,14 @@
       "question": "Calculate the value of the term shown, using the table of chicken ages and egg masses.",
       "status": "pending",
       "answer": "Missing: the term symbol and the table are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-14.jpg",
+        "papers/biology/img/03C-Development-Organisms-15.jpg",
+        "papers/biology/img/03C-Development-Organisms-16.jpg",
+        "papers/biology/img/03C-Development-Organisms-17.jpg",
+        "papers/biology/img/03C-Development-Organisms-18.jpg"
+      ]
     },
     {
       "id": "3C-Q6c(ii)",
@@ -711,7 +873,14 @@
       "question": "Calculate the correlation coefficient rs for the data using the formula.",
       "status": "pending",
       "answer": "Missing: the formula and table of data are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-14.jpg",
+        "papers/biology/img/03C-Development-Organisms-15.jpg",
+        "papers/biology/img/03C-Development-Organisms-16.jpg",
+        "papers/biology/img/03C-Development-Organisms-17.jpg",
+        "papers/biology/img/03C-Development-Organisms-18.jpg"
+      ]
     },
     {
       "id": "3C-Q6c(iii)",
@@ -733,7 +902,14 @@
       "question": "Explain whether the null hypothesis should be accepted or rejected, given rs = 0.38 and the critical values table.",
       "status": "pending",
       "answer": "Missing: the critical values table is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-14.jpg",
+        "papers/biology/img/03C-Development-Organisms-15.jpg",
+        "papers/biology/img/03C-Development-Organisms-16.jpg",
+        "papers/biology/img/03C-Development-Organisms-17.jpg",
+        "papers/biology/img/03C-Development-Organisms-18.jpg"
+      ]
     },
     {
       "id": "3C-Q7a",
@@ -762,6 +938,12 @@
         "Males are produced from half of these eggs, so the population keeps both sexes.",
         "Outcrossing mixes alleles from two parents, increasing genetic variation.",
         "Variation improves the chance some offspring survive changing conditions."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-18.jpg",
+        "papers/biology/img/03C-Development-Organisms-19.jpg",
+        "papers/biology/img/03C-Development-Organisms-20.jpg",
+        "papers/biology/img/03C-Development-Organisms-21.jpg"
       ]
     },
     {
@@ -784,7 +966,13 @@
       "question": "Deduce how histone modification can be passed onto embryos, using the two experiments shown.",
       "status": "pending",
       "answer": "Missing: the diagram of the two experiments is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-18.jpg",
+        "papers/biology/img/03C-Development-Organisms-19.jpg",
+        "papers/biology/img/03C-Development-Organisms-20.jpg",
+        "papers/biology/img/03C-Development-Organisms-21.jpg"
+      ]
     },
     {
       "id": "3C-Q8a",
@@ -808,6 +996,11 @@
         "Volume of a sphere = 4/3 x pi x r^3 (the formula is not shown in the text; standard sphere formula used).",
         "= 4/3 x 3.14 x 37.5^3 = 4.19 x 52 734 = 220 900 nm3.",
         "In standard form: 2.2 x 10^5 nm3."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-21.jpg",
+        "papers/biology/img/03C-Development-Organisms-22.jpg",
+        "papers/biology/img/03C-Development-Organisms-23.jpg"
       ]
     },
     {
@@ -835,6 +1028,11 @@
         "Pre-mRNA contains both introns and exons; active mRNA has only exons.",
         "Active mRNA has a 5' cap and poly-A tail added, which pre-mRNA lacks.",
         "Active mRNA is shorter because the introns are removed."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-21.jpg",
+        "papers/biology/img/03C-Development-Organisms-22.jpg",
+        "papers/biology/img/03C-Development-Organisms-23.jpg"
       ]
     },
     {
@@ -862,6 +1060,12 @@
         "Some of these then undergo meiosis to produce haploid cells.",
         "So step A is mitosis.",
         "Step B is meiosis, producing haploid spermatids."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-23.jpg",
+        "papers/biology/img/03C-Development-Organisms-24.jpg",
+        "papers/biology/img/03C-Development-Organisms-25.jpg",
+        "papers/biology/img/03C-Development-Organisms-26.jpg"
       ]
     },
     {
@@ -880,7 +1084,13 @@
       "question": "Which part of the sperm cell contains enzymes released to break down the zona pellucida (A W, B X, C Y, D Z)?",
       "status": "pending",
       "answer": "Missing: the labelled sperm diagram is not in the text (the answer is the acrosome).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-23.jpg",
+        "papers/biology/img/03C-Development-Organisms-24.jpg",
+        "papers/biology/img/03C-Development-Organisms-25.jpg",
+        "papers/biology/img/03C-Development-Organisms-26.jpg"
+      ]
     },
     {
       "id": "3C-Q9b",
@@ -907,6 +1117,12 @@
         "The Golgi forms the acrosome, which contains enzymes.",
         "Mitochondria gather in the midpiece to provide ATP for the flagellum.",
         "A flagellum (tail) forms from a centriole for movement."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-23.jpg",
+        "papers/biology/img/03C-Development-Organisms-24.jpg",
+        "papers/biology/img/03C-Development-Organisms-25.jpg",
+        "papers/biology/img/03C-Development-Organisms-26.jpg"
       ]
     },
     {
@@ -933,6 +1149,12 @@
         "Label the outer layer as the trophoblast.",
         "Show the fluid-filled cavity (blastocoel) in the middle.",
         "Show the inner cell mass as a clump on one side."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-23.jpg",
+        "papers/biology/img/03C-Development-Organisms-24.jpg",
+        "papers/biology/img/03C-Development-Organisms-25.jpg",
+        "papers/biology/img/03C-Development-Organisms-26.jpg"
       ]
     },
     {
@@ -959,6 +1181,12 @@
         "Pluripotent cells can give rise to most cell types but not to a whole organism.",
         "Totipotent cells (e.g. the zygote) can form all cell types including extraembryonic tissues.",
         "So option D is correct."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-23.jpg",
+        "papers/biology/img/03C-Development-Organisms-24.jpg",
+        "papers/biology/img/03C-Development-Organisms-25.jpg",
+        "papers/biology/img/03C-Development-Organisms-26.jpg"
       ]
     },
     {
@@ -987,6 +1215,12 @@
         "Salamander embryos are not human, so human-embryo concerns do not apply.",
         "Embryonic cells are pluripotent, able to become many cell types.",
         "This makes them useful for studying regeneration."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-23.jpg",
+        "papers/biology/img/03C-Development-Organisms-24.jpg",
+        "papers/biology/img/03C-Development-Organisms-25.jpg",
+        "papers/biology/img/03C-Development-Organisms-26.jpg"
       ]
     },
     {
@@ -1016,6 +1250,12 @@
         "Mitosis: the replicated chromosomes are separated into two nuclei.",
         "Cytokinesis: the cytoplasm divides into two cells.",
         "The two daughter cells are genetically identical to the parent."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-27.jpg",
+        "papers/biology/img/03C-Development-Organisms-28.jpg",
+        "papers/biology/img/03C-Development-Organisms-29.jpg",
+        "papers/biology/img/03C-Development-Organisms-30.jpg"
       ]
     },
     {
@@ -1042,6 +1282,12 @@
         "Increased methylation of the gene reduces its transcription.",
         "Less RB protein is made.",
         "Cells then divide without control, forming a tumour."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-27.jpg",
+        "papers/biology/img/03C-Development-Organisms-28.jpg",
+        "papers/biology/img/03C-Development-Organisms-29.jpg",
+        "papers/biology/img/03C-Development-Organisms-30.jpg"
       ]
     },
     {
@@ -1070,6 +1316,12 @@
         "If they cannot shorten, the chromatids are not separated.",
         "Anaphase cannot be completed.",
         "The cell is stopped in mitosis, so it cannot divide."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-27.jpg",
+        "papers/biology/img/03C-Development-Organisms-28.jpg",
+        "papers/biology/img/03C-Development-Organisms-29.jpg",
+        "papers/biology/img/03C-Development-Organisms-30.jpg"
       ]
     },
     {
@@ -1091,7 +1343,13 @@
       "question": "Evaluate the effectiveness of paclitaxel, using the cell cycle table and the tumour growth graph.",
       "status": "pending",
       "answer": "Missing: the cell cycle table and the tumour growth graph are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-27.jpg",
+        "papers/biology/img/03C-Development-Organisms-28.jpg",
+        "papers/biology/img/03C-Development-Organisms-29.jpg",
+        "papers/biology/img/03C-Development-Organisms-30.jpg"
+      ]
     },
     {
       "id": "3C-Q11a",
@@ -1114,6 +1372,11 @@
         "It is determined by genotype.",
         "Environment can also influence it.",
         "Examples include height, colour and blood group."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-30.jpg",
+        "papers/biology/img/03C-Development-Organisms-31.jpg",
+        "papers/biology/img/03C-Development-Organisms-32.jpg"
       ]
     },
     {
@@ -1135,7 +1398,12 @@
       "question": "Complete the table by writing a suitable heading for the right-hand column.",
       "status": "pending",
       "answer": "Missing: the table is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-30.jpg",
+        "papers/biology/img/03C-Development-Organisms-31.jpg",
+        "papers/biology/img/03C-Development-Organisms-32.jpg"
+      ]
     },
     {
       "id": "3C-Q11b(ii)",
@@ -1154,7 +1422,12 @@
       "question": "Which row of the table gives the correct number of genes and alleles for coat colour in rabbits?",
       "status": "pending",
       "answer": "Missing: the table rows are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-30.jpg",
+        "papers/biology/img/03C-Development-Organisms-31.jpg",
+        "papers/biology/img/03C-Development-Organisms-32.jpg"
+      ]
     },
     {
       "id": "3C-Q11c(i)",
@@ -1176,7 +1449,12 @@
       "question": "Which row of the table names the types of graph to show sex and height variation in elephants?",
       "status": "pending",
       "answer": "Missing: the table rows are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-30.jpg",
+        "papers/biology/img/03C-Development-Organisms-31.jpg",
+        "papers/biology/img/03C-Development-Organisms-32.jpg"
+      ]
     },
     {
       "id": "3C-Q11c(ii)",
@@ -1203,6 +1481,11 @@
         "Female mid-range height = (2.2 + 2.6) / 2 = 2.4 m.",
         "Ratio = 3.6 / 2.4 = 1.5.",
         "So the male is about 1.5 times the female's height."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-30.jpg",
+        "papers/biology/img/03C-Development-Organisms-31.jpg",
+        "papers/biology/img/03C-Development-Organisms-32.jpg"
       ]
     },
     {
@@ -1228,6 +1511,11 @@
         "Different versions of a gene are called alleles.",
         "Alleles are found at the same locus on homologous chromosomes.",
         "They can be dominant or recessive."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-33.jpg",
+        "papers/biology/img/03C-Development-Organisms-34.jpg",
+        "papers/biology/img/03C-Development-Organisms-35.jpg"
       ]
     },
     {
@@ -1252,6 +1540,11 @@
         "Each gene needs two recessive alleles to be negative.",
         "ccddee has only recessive alleles for all three genes.",
         "Option A is correct."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-33.jpg",
+        "papers/biology/img/03C-Development-Organisms-34.jpg",
+        "papers/biology/img/03C-Development-Organisms-35.jpg"
       ]
     },
     {
@@ -1281,6 +1574,11 @@
         "The polypeptide enters the rough ER, where carbohydrate is added to form the glycoprotein.",
         "Vesicles carry it to the Golgi apparatus, which modifies and packages it.",
         "A vesicle carries the antigen to the membrane and fuses with it, releasing it onto the surface."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-33.jpg",
+        "papers/biology/img/03C-Development-Organisms-34.jpg",
+        "papers/biology/img/03C-Development-Organisms-35.jpg"
       ]
     },
     {
@@ -1308,6 +1606,11 @@
         "Each dominant allele adds to the colour; each recessive allele reduces it.",
         "Random gamete combination gives different numbers of recessive alleles in offspring.",
         "So many phenotypes with a range of seed colours appear."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-33.jpg",
+        "papers/biology/img/03C-Development-Organisms-34.jpg",
+        "papers/biology/img/03C-Development-Organisms-35.jpg"
       ]
     },
     {
@@ -1338,6 +1641,12 @@
         "Each dominant allele adds to skin darkness, so the number of dominant alleles varies.",
         "The additive effects give a range of shades (continuous variation).",
         "Environmental factors such as sunlight can also change skin colour."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-35.jpg",
+        "papers/biology/img/03C-Development-Organisms-36.jpg",
+        "papers/biology/img/03C-Development-Organisms-37.jpg",
+        "papers/biology/img/03C-Development-Organisms-38.jpg"
       ]
     },
     {
@@ -1359,7 +1668,13 @@
       "question": "Suggest two reasons why an individual with the genotype AaBbCc may have a darker or lighter skin colour than predicted.",
       "status": "pending",
       "answer": "Missing: the question text is garbled in extraction and cannot be read reliably.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-35.jpg",
+        "papers/biology/img/03C-Development-Organisms-36.jpg",
+        "papers/biology/img/03C-Development-Organisms-37.jpg",
+        "papers/biology/img/03C-Development-Organisms-38.jpg"
+      ]
     },
     {
       "id": "3C-Q14a(i)",
@@ -1383,6 +1698,12 @@
         "It is a solid ball, not hollow, so options A and B are wrong.",
         "Its cells are still totipotent, able to form all cell types.",
         "Option D is correct."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-38.jpg",
+        "papers/biology/img/03C-Development-Organisms-39.jpg",
+        "papers/biology/img/03C-Development-Organisms-40.jpg",
+        "papers/biology/img/03C-Development-Organisms-41.jpg"
       ]
     },
     {
@@ -1407,6 +1728,12 @@
         "Developing embryos need energy and building materials.",
         "The yolk is a store of nutrients (lipids and proteins).",
         "So the yolk feeds the developing embryo."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-38.jpg",
+        "papers/biology/img/03C-Development-Organisms-39.jpg",
+        "papers/biology/img/03C-Development-Organisms-40.jpg",
+        "papers/biology/img/03C-Development-Organisms-41.jpg"
       ]
     },
     {
@@ -1436,6 +1763,12 @@
         "In muscle cells, genes for actin and myosin are expressed.",
         "Epigenetic changes such as methylation and histone modification switch other genes off.",
         "So muscle cells produce specialised proteins and have a different structure and function."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-38.jpg",
+        "papers/biology/img/03C-Development-Organisms-39.jpg",
+        "papers/biology/img/03C-Development-Organisms-40.jpg",
+        "papers/biology/img/03C-Development-Organisms-41.jpg"
       ]
     },
     {
@@ -1455,7 +1788,13 @@
       "question": "Calculate how many OVCAR8 cells out of 2000 were in interphase.",
       "status": "pending",
       "answer": "Missing: the mitotic index value for OVCAR8 is read from the graph, which is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-38.jpg",
+        "papers/biology/img/03C-Development-Organisms-39.jpg",
+        "papers/biology/img/03C-Development-Organisms-40.jpg",
+        "papers/biology/img/03C-Development-Organisms-41.jpg"
+      ]
     },
     {
       "id": "3C-Q14c(ii)",
@@ -1477,7 +1816,13 @@
       "question": "Which cancer cell culture has the highest proportion of cells undergoing nuclear division (A HOC8, B OVCAR5, C OVCAR8, D SKOV3)?",
       "status": "pending",
       "answer": "Missing: the graph of mitotic index is needed to compare the cultures.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-38.jpg",
+        "papers/biology/img/03C-Development-Organisms-39.jpg",
+        "papers/biology/img/03C-Development-Organisms-40.jpg",
+        "papers/biology/img/03C-Development-Organisms-41.jpg"
+      ]
     },
     {
       "id": "3C-Q14c(iii)",
@@ -1503,6 +1848,12 @@
         "Obtaining them destroys the embryo.",
         "Some people believe a human embryo has the right to life.",
         "So they object to using such cells in research."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-38.jpg",
+        "papers/biology/img/03C-Development-Organisms-39.jpg",
+        "papers/biology/img/03C-Development-Organisms-40.jpg",
+        "papers/biology/img/03C-Development-Organisms-41.jpg"
       ]
     },
     {
@@ -1523,7 +1874,12 @@
       "question": "Calculate the magnification of the pollen grain photograph to two significant figures.",
       "status": "pending",
       "answer": "Missing: the scale bar or image and actual sizes are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-41.jpg",
+        "papers/biology/img/03C-Development-Organisms-42.jpg",
+        "papers/biology/img/03C-Development-Organisms-43.jpg"
+      ]
     },
     {
       "id": "3C-Q15b",
@@ -1550,6 +1906,11 @@
         "The generative nucleus divides by mitosis to form two male nuclei.",
         "One male nucleus fuses with the egg cell, forming a diploid zygote that develops into the embryo.",
         "The other fuses with two polar nuclei, forming a triploid nucleus that develops into endosperm."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-41.jpg",
+        "papers/biology/img/03C-Development-Organisms-42.jpg",
+        "papers/biology/img/03C-Development-Organisms-43.jpg"
       ]
     },
     {
@@ -1574,6 +1935,11 @@
         "Because they are close, crossing over rarely separates them.",
         "So the alleles are inherited together.",
         "This is linkage."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-41.jpg",
+        "papers/biology/img/03C-Development-Organisms-42.jpg",
+        "papers/biology/img/03C-Development-Organisms-43.jpg"
       ]
     },
     {
@@ -1601,6 +1967,11 @@
         "Chi squared is used for frequency data like phenotype counts.",
         "Correlation and t-tests are for other data types.",
         "Option A is correct."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-41.jpg",
+        "papers/biology/img/03C-Development-Organisms-42.jpg",
+        "papers/biology/img/03C-Development-Organisms-43.jpg"
       ]
     },
     {
@@ -1627,6 +1998,10 @@
         "A locus is the position of a gene, not a version.",
         "Phenotype is an observable characteristic; polygenic describes inheritance.",
         "Option A is correct."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-43.jpg",
+        "papers/biology/img/03C-Development-Organisms-44.jpg"
       ]
     },
     {
@@ -1653,6 +2028,10 @@
         "Their alleles stay together unless crossing over separates them.",
         "So certain combinations of phenotypes appear more often than expected.",
         "Recombinants are rarer, showing the genes are linked."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-43.jpg",
+        "papers/biology/img/03C-Development-Organisms-44.jpg"
       ]
     },
     {
@@ -1681,6 +2060,10 @@
         "Exons can be joined in different combinations.",
         "Each combination produces a different mature mRNA.",
         "Each mRNA is translated into a different polypeptide."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-43.jpg",
+        "papers/biology/img/03C-Development-Organisms-44.jpg"
       ]
     },
     {
@@ -1708,6 +2091,12 @@
         "Volume = 4/3 x pi x r^3 = 4/3 x 3.14 x 1.15^3.",
         "= 4.19 x 1.521 = 6.37 mm3.",
         "To one decimal place: 6.4 mm3."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-44.jpg",
+        "papers/biology/img/03C-Development-Organisms-45.jpg",
+        "papers/biology/img/03C-Development-Organisms-46.jpg",
+        "papers/biology/img/03C-Development-Organisms-47.jpg"
       ]
     },
     {
@@ -1735,6 +2124,12 @@
         "A sperm cell contains little cytoplasm so it is small and streamlined.",
         "Sperm only need to carry the paternal DNA to the egg.",
         "So the egg is much larger."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-44.jpg",
+        "papers/biology/img/03C-Development-Organisms-45.jpg",
+        "papers/biology/img/03C-Development-Organisms-46.jpg",
+        "papers/biology/img/03C-Development-Organisms-47.jpg"
       ]
     },
     {
@@ -1755,7 +2150,13 @@
       "question": "Which stage of mitosis is shown in the blastocyst cell photograph (A cytokinesis, B metaphase, C prophase, D telophase)?",
       "status": "pending",
       "answer": "Missing: the photograph is needed to identify the stage.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-44.jpg",
+        "papers/biology/img/03C-Development-Organisms-45.jpg",
+        "papers/biology/img/03C-Development-Organisms-46.jpg",
+        "papers/biology/img/03C-Development-Organisms-47.jpg"
+      ]
     },
     {
       "id": "3C-Q17b(ii)",
@@ -1780,6 +2181,12 @@
         "A stain that binds DNA is applied to the cell.",
         "The stained chromosomes become visible under the microscope.",
         "So the stage of mitosis can be identified."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-44.jpg",
+        "papers/biology/img/03C-Development-Organisms-45.jpg",
+        "papers/biology/img/03C-Development-Organisms-46.jpg",
+        "papers/biology/img/03C-Development-Organisms-47.jpg"
       ]
     },
     {
@@ -1806,6 +2213,12 @@
         "The morula is a solid ball of cells.",
         "The blastocyst is hollow, with a fluid-filled blastocoel.",
         "The blastocyst has an outer trophoblast layer and an inner cell mass."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-44.jpg",
+        "papers/biology/img/03C-Development-Organisms-45.jpg",
+        "papers/biology/img/03C-Development-Organisms-46.jpg",
+        "papers/biology/img/03C-Development-Organisms-47.jpg"
       ]
     },
     {
@@ -1832,6 +2245,12 @@
         "Its microtubules slide to produce a wave-like beat.",
         "Many mitochondria in the midpiece produce ATP by aerobic respiration.",
         "The streamlined head reduces drag in water."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-44.jpg",
+        "papers/biology/img/03C-Development-Organisms-45.jpg",
+        "papers/biology/img/03C-Development-Organisms-46.jpg",
+        "papers/biology/img/03C-Development-Organisms-47.jpg"
       ]
     },
     {
@@ -1854,7 +2273,13 @@
       "question": "Give two conclusions for the investigation of sperm speed in February and March.",
       "status": "pending",
       "answer": "Missing: the graph of sperm speed over time is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-44.jpg",
+        "papers/biology/img/03C-Development-Organisms-45.jpg",
+        "papers/biology/img/03C-Development-Organisms-46.jpg",
+        "papers/biology/img/03C-Development-Organisms-47.jpg"
+      ]
     },
     {
       "id": "3C-Q18a",
@@ -1878,6 +2303,10 @@
         "The cavity inside is filled with fluid (blastocoel).",
         "The outer layer is the trophoblast.",
         "A cluster of inner cells forms the inner cell mass."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-48.jpg",
+        "papers/biology/img/03C-Development-Organisms-49.jpg"
       ]
     },
     {
@@ -1904,6 +2333,10 @@
         "Number in mitosis = 15% of 60.",
         "= 0.15 x 60 = 9.",
         "So 9 cells are in mitosis."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-48.jpg",
+        "papers/biology/img/03C-Development-Organisms-49.jpg"
       ]
     },
     {
@@ -1932,6 +2365,10 @@
         "Methylation of DNA (at cytosine) prevents transcription factors from binding.",
         "Methylated histones or DNA condense chromatin, switching genes off.",
         "These changes restrict which genes are active, so cells become more specialised."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-48.jpg",
+        "papers/biology/img/03C-Development-Organisms-49.jpg"
       ]
     },
     {
@@ -1959,6 +2396,12 @@
         "They cannot form extraembryonic tissues such as the placenta.",
         "They are not limited to only some types, so C is wrong.",
         "Option B is correct."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-49.jpg",
+        "papers/biology/img/03C-Development-Organisms-50.jpg",
+        "papers/biology/img/03C-Development-Organisms-51.jpg",
+        "papers/biology/img/03C-Development-Organisms-52.jpg"
       ]
     },
     {
@@ -1986,6 +2429,12 @@
         "The rough ER folds the polypeptides into their correct shape.",
         "Transport vesicles carry the polypeptides to the Golgi apparatus.",
         "The haem group is added after the polypeptide is made, not by the RER."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-49.jpg",
+        "papers/biology/img/03C-Development-Organisms-50.jpg",
+        "papers/biology/img/03C-Development-Organisms-51.jpg",
+        "papers/biology/img/03C-Development-Organisms-52.jpg"
       ]
     },
     {
@@ -2006,7 +2455,13 @@
       "question": "Describe the changes in the percentages of polypeptides in red blood cells before and after birth, using the graph.",
       "status": "pending",
       "answer": "Missing: the graph of polypeptide percentages is not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-49.jpg",
+        "papers/biology/img/03C-Development-Organisms-50.jpg",
+        "papers/biology/img/03C-Development-Organisms-51.jpg",
+        "papers/biology/img/03C-Development-Organisms-52.jpg"
+      ]
     },
     {
       "id": "3C-Q19c(ii)",
@@ -2034,6 +2489,12 @@
         "Epigenetic modification (methylation or histone changes) controls which globin gene is active.",
         "After birth, the fetal gene is switched off and the adult gene is switched on.",
         "This changes the proportions of polypeptides made, without any change in the DNA sequence."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-49.jpg",
+        "papers/biology/img/03C-Development-Organisms-50.jpg",
+        "papers/biology/img/03C-Development-Organisms-51.jpg",
+        "papers/biology/img/03C-Development-Organisms-52.jpg"
       ]
     },
     {
@@ -2058,6 +2519,12 @@
         "Alleles of a gene are found at the same locus.",
         "It is where a gene is located.",
         "So the locus is the gene's position."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-52.jpg",
+        "papers/biology/img/03C-Development-Organisms-53.jpg",
+        "papers/biology/img/03C-Development-Organisms-54.jpg",
+        "papers/biology/img/03C-Development-Organisms-55.jpg"
       ]
     },
     {
@@ -2086,6 +2553,12 @@
         "Different base sequences give different amino acid sequences.",
         "So the protein (e.g. an enzyme in pigment production) can differ in function.",
         "Different pigment amounts or types produce different eye colours."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-52.jpg",
+        "papers/biology/img/03C-Development-Organisms-53.jpg",
+        "papers/biology/img/03C-Development-Organisms-54.jpg",
+        "papers/biology/img/03C-Development-Organisms-55.jpg"
       ]
     },
     {
@@ -2114,6 +2587,12 @@
         "Different exons are included or removed.",
         "This gives different mRNAs, which are translated into the female or male protein.",
         "The sex-specific protein then directs female or male development."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-52.jpg",
+        "papers/biology/img/03C-Development-Organisms-53.jpg",
+        "papers/biology/img/03C-Development-Organisms-54.jpg",
+        "papers/biology/img/03C-Development-Organisms-55.jpg"
       ]
     },
     {
@@ -2143,6 +2622,12 @@
         "This weakens the attraction to DNA, so chromatin loosens.",
         "Transcription factors can then access the gene, so it is expressed.",
         "Methylation of histones can instead tighten chromatin and switch the gene off."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-52.jpg",
+        "papers/biology/img/03C-Development-Organisms-53.jpg",
+        "papers/biology/img/03C-Development-Organisms-54.jpg",
+        "papers/biology/img/03C-Development-Organisms-55.jpg"
       ]
     },
     {
@@ -2170,6 +2655,11 @@
         "Draw the nucleus filling most of the head behind the acrosome.",
         "Draw a midpiece behind the head with a mitochondrion inside, labelled.",
         "Draw a long flagellum (tail) extending from the midpiece."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-55.jpg",
+        "papers/biology/img/03C-Development-Organisms-56.jpg",
+        "papers/biology/img/03C-Development-Organisms-57.jpg"
       ]
     },
     {
@@ -2196,6 +2686,11 @@
         "= 4/3 x 3.1416 x 50^3 = 4.18879 x 125 000.",
         "= 523 599 um3.",
         "In standard form: 5.2 x 10^5 um3. The unit is micrometres, consistent with the surface area given."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-55.jpg",
+        "papers/biology/img/03C-Development-Organisms-56.jpg",
+        "papers/biology/img/03C-Development-Organisms-57.jpg"
       ]
     },
     {
@@ -2223,6 +2718,11 @@
         "Ratio = 31 416 / 523 599 = 0.06.",
         "Written as x : 1: 0.06 : 1.",
         "A small ratio means the surface area is small relative to volume, which limits exchange, so specialised eggs must rely on other adaptations."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-55.jpg",
+        "papers/biology/img/03C-Development-Organisms-56.jpg",
+        "papers/biology/img/03C-Development-Organisms-57.jpg"
       ]
     },
     {
@@ -2250,6 +2750,11 @@
         "The zona pellucida and cortical granules block multiple sperm entering.",
         "It contains a haploid nucleus so that fertilisation restores the diploid number.",
         "It has many mitochondria and ribosomes to support early development."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-55.jpg",
+        "papers/biology/img/03C-Development-Organisms-56.jpg",
+        "papers/biology/img/03C-Development-Organisms-57.jpg"
       ]
     },
     {
@@ -2274,6 +2779,11 @@
         "Statement 2 is correct: the blastocyst is hollow and the morula is solid.",
         "Statement 3 is wrong: embryo cells divide by mitosis, not meiosis.",
         "So option A is correct."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-55.jpg",
+        "papers/biology/img/03C-Development-Organisms-56.jpg",
+        "papers/biology/img/03C-Development-Organisms-57.jpg"
       ]
     },
     {
@@ -2298,6 +2808,12 @@
         "During S phase, DNA is replicated semi-conservatively.",
         "Each chromosome becomes two identical sister chromatids.",
         "The DNA is uncoiled as chromatin for transcription and replication."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-57.jpg",
+        "papers/biology/img/03C-Development-Organisms-58.jpg",
+        "papers/biology/img/03C-Development-Organisms-59.jpg",
+        "papers/biology/img/03C-Development-Organisms-60.jpg"
       ]
     },
     {
@@ -2322,6 +2838,12 @@
         "In prophase, chromosomes condense and the spindle forms.",
         "Next, chromosomes line up at the equator.",
         "This stage is metaphase."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-57.jpg",
+        "papers/biology/img/03C-Development-Organisms-58.jpg",
+        "papers/biology/img/03C-Development-Organisms-59.jpg",
+        "papers/biology/img/03C-Development-Organisms-60.jpg"
       ]
     },
     {
@@ -2347,6 +2869,12 @@
         "One gamete receives both copies of chromosome 13 instead of one.",
         "Fertilisation with a normal gamete (one copy) gives a zygote with three copies.",
         "This trisomy causes Patau syndrome."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-57.jpg",
+        "papers/biology/img/03C-Development-Organisms-58.jpg",
+        "papers/biology/img/03C-Development-Organisms-59.jpg",
+        "papers/biology/img/03C-Development-Organisms-60.jpg"
       ]
     },
     {
@@ -2367,7 +2895,13 @@
       "question": "Which row of the table is correct for the morula and blastocyst formed from the zygote?",
       "status": "pending",
       "answer": "Missing: the table rows are not in the text.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-57.jpg",
+        "papers/biology/img/03C-Development-Organisms-58.jpg",
+        "papers/biology/img/03C-Development-Organisms-59.jpg",
+        "papers/biology/img/03C-Development-Organisms-60.jpg"
+      ]
     },
     {
       "id": "3C-Q22c",
@@ -2394,6 +2928,12 @@
         "Part of chromosome 13 may share sequences with another chromosome.",
         "Mispairing between these similar sequences allows an exchange of segments.",
         "This is called translocation."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-57.jpg",
+        "papers/biology/img/03C-Development-Organisms-58.jpg",
+        "papers/biology/img/03C-Development-Organisms-59.jpg",
+        "papers/biology/img/03C-Development-Organisms-60.jpg"
       ]
     },
     {
@@ -2421,6 +2961,12 @@
         "Methylated DNA blocks transcription factors from binding to the promoter.",
         "Methylation also attracts proteins that condense chromatin.",
         "So the gene is switched off."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-57.jpg",
+        "papers/biology/img/03C-Development-Organisms-58.jpg",
+        "papers/biology/img/03C-Development-Organisms-59.jpg",
+        "papers/biology/img/03C-Development-Organisms-60.jpg"
       ]
     },
     {
@@ -2447,6 +2993,12 @@
         "Enzymes copy the methylation pattern from the old strand onto the new strand.",
         "Each daughter cell therefore inherits the same methylation pattern.",
         "So the epigenetic state is passed on through mitosis."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-57.jpg",
+        "papers/biology/img/03C-Development-Organisms-58.jpg",
+        "papers/biology/img/03C-Development-Organisms-59.jpg",
+        "papers/biology/img/03C-Development-Organisms-60.jpg"
       ]
     },
     {
@@ -2473,6 +3025,11 @@
         "The signals bind receptors on nearby cells.",
         "This activates transcription factors that bind the sox2 gene promoter.",
         "Transcription of sox2 is switched on."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-60.jpg",
+        "papers/biology/img/03C-Development-Organisms-61.jpg",
+        "papers/biology/img/03C-Development-Organisms-62.jpg"
       ]
     },
     {
@@ -2497,6 +3054,11 @@
         "Pluripotent cells can form most cell types.",
         "Pluripotent cells cannot form extraembryonic tissues such as the placenta.",
         "So totipotency is wider than pluripotency."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-60.jpg",
+        "papers/biology/img/03C-Development-Organisms-61.jpg",
+        "papers/biology/img/03C-Development-Organisms-62.jpg"
       ]
     },
     {
@@ -2524,6 +3086,11 @@
         "Introns are removed by splicing.",
         "The exons are joined in different combinations.",
         "Each combination gives a different active mRNA, which codes for a different protein."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-60.jpg",
+        "papers/biology/img/03C-Development-Organisms-61.jpg",
+        "papers/biology/img/03C-Development-Organisms-62.jpg"
       ]
     },
     {
@@ -2551,6 +3118,11 @@
         "The stem cells are pluripotent, so they can form many cell types.",
         "They can be used to study how cells specialise.",
         "This can help research into regeneration and medical treatments."
+      ],
+      "images": [
+        "papers/biology/img/03C-Development-Organisms-60.jpg",
+        "papers/biology/img/03C-Development-Organisms-61.jpg",
+        "papers/biology/img/03C-Development-Organisms-62.jpg"
       ]
     }
   ]

@@ -9,7 +9,16 @@
       "no": "Q1(a)",
       "marks": 5,
       "topic": "Implicit Differentiation",
-      "keywords": ["implicit differentiation", "dy/dx", "closed curve", "show that", "cubic", "chain rule", "cycle track", "x and y"],
+      "keywords": [
+        "implicit differentiation",
+        "dy/dx",
+        "closed curve",
+        "show that",
+        "cubic",
+        "chain rule",
+        "cycle track",
+        "x and y"
+      ],
       "question": "Figure 4 shows a closed curve with equation (x + y)^3 + 10y^2 = 108x. Show that dy/dx = (108 - 3(x + y)^2)/(20y + 3(x + y)^2).",
       "status": "ready",
       "answer": "dy/dx = (108 - 3(x + y)^2)/(20y + 3(x + y)^2) (shown)",
@@ -18,6 +27,10 @@
         "3(x + y)^2 (1 + dy/dx) + 20y dy/dx = 108.",
         "Collect the dy/dx terms: dy/dx (3(x + y)^2 + 20y) = 108 - 3(x + y)^2.",
         "Divide by (3(x + y)^2 + 20y) to get the given result."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-01.jpg",
+        "papers/maths/img/P4-06-Differentiation-02.jpg"
       ]
     },
     {
@@ -25,7 +38,16 @@
       "no": "Q1(b)",
       "marks": 4,
       "topic": "Stationary Point Distance",
-      "keywords": ["horizontal tangent", "dy/dx = 0", "furthest south", "distance", "cycle track", "substitute", "quadratic", "nearest 100 m"],
+      "keywords": [
+        "horizontal tangent",
+        "dy/dx = 0",
+        "furthest south",
+        "distance",
+        "cycle track",
+        "substitute",
+        "quadratic",
+        "nearest 100 m"
+      ],
       "question": "The curve in part (a) models a cycle track with x and y in km. P and Q are the points furthest north and furthest south of the origin O (the tangents there are horizontal). Using the result in part (a), find how far Q is south of O, to the nearest 100 m.",
       "status": "ready",
       "answer": "About 13.9 km, i.e. 13 900 m (to the nearest 100 m)",
@@ -35,6 +57,10 @@
         "Substitute x = 6 - y into the curve: 216 + 10y^2 = 108(6 - y), so 5y^2 + 54y - 216 = 0.",
         "Solve: y = (-27 +/- 3 sqrt(201))/5; the south point Q has y = (-27 - 3 sqrt(201))/5 = -13.906.",
         "So Q is 13.906 km, about 13 900 m, south of O."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-01.jpg",
+        "papers/maths/img/P4-06-Differentiation-02.jpg"
       ]
     },
     {
@@ -42,7 +68,16 @@
       "no": "Q2(a)",
       "marks": 4,
       "topic": "Implicit Differentiation",
-      "keywords": ["implicit differentiation", "dy/dx", "hyperbola", "quadratic in x and y", "chain rule", "in terms of x and y", "gradient", "rearrange"],
+      "keywords": [
+        "implicit differentiation",
+        "dy/dx",
+        "hyperbola",
+        "quadratic in x and y",
+        "chain rule",
+        "in terms of x and y",
+        "gradient",
+        "rearrange"
+      ],
       "question": "Figure 2 shows the curve with equation y^2 = 2x^2 + 15x + 10y. Find dy/dx in terms of x and y.",
       "status": "ready",
       "answer": "dy/dx = (4x + 15)/(2y - 10)",
@@ -50,6 +85,10 @@
         "Differentiate: 2y dy/dx = 4x + 15 + 10 dy/dx.",
         "Collect terms: dy/dx (2y - 10) = 4x + 15.",
         "Divide: dy/dx = (4x + 15)/(2y - 10)."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-02.jpg",
+        "papers/maths/img/P4-06-Differentiation-03.jpg"
       ]
     },
     {
@@ -57,7 +96,16 @@
       "no": "Q2(b)",
       "marks": 3,
       "topic": "Vertical Tangents",
-      "keywords": ["vertical tangent", "undefined dy/dx", "quadratic", "interval", "x values", "p and q", "curve not defined", "hyperbola"],
+      "keywords": [
+        "vertical tangent",
+        "undefined dy/dx",
+        "quadratic",
+        "interval",
+        "x values",
+        "p and q",
+        "curve not defined",
+        "hyperbola"
+      ],
       "question": "The curve in part (a) is not defined for values of x in the interval (p, q), as shown in Figure 2. Using your answer to part (a) or otherwise, find the values of p and q.",
       "status": "ready",
       "answer": "p = -5, q = -5/2",
@@ -66,6 +114,10 @@
         "Substitute y = 5: 25 = 2x^2 + 15x + 50, so 2x^2 + 15x + 25 = 0.",
         "Factorise: (2x + 5)(x + 5) = 0, so x = -5 or x = -5/2.",
         "Hence p = -5 and q = -5/2."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-02.jpg",
+        "papers/maths/img/P4-06-Differentiation-03.jpg"
       ]
     },
     {
@@ -73,7 +125,16 @@
       "no": "Q3(a)",
       "marks": 5,
       "topic": "Implicit Differentiation",
-      "keywords": ["implicit differentiation", "product rule", "dy/dx", "cubic curve", "y^3", "x^2 y", "in terms of x and y", "constant k"],
+      "keywords": [
+        "implicit differentiation",
+        "product rule",
+        "dy/dx",
+        "cubic curve",
+        "y^3",
+        "x^2 y",
+        "in terms of x and y",
+        "constant k"
+      ],
       "question": "Figure 2 shows the curve C with equation y^3 - x^2 + 4x^2 y = k, where k is a positive constant greater than 1. Find dy/dx in terms of x and y.",
       "status": "ready",
       "answer": "dy/dx = 2x(1 - 4y)/(3y^2 + 4x^2)",
@@ -82,6 +143,10 @@
         "Collect terms: dy/dx (3y^2 + 4x^2) = 2x - 8xy.",
         "Factor the right side: 2x(1 - 4y).",
         "So dy/dx = 2x(1 - 4y)/(3y^2 + 4x^2)."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-03.jpg",
+        "papers/maths/img/P4-06-Differentiation-04.jpg"
       ]
     },
     {
@@ -89,7 +154,16 @@
       "no": "Q3(b)",
       "marks": 5,
       "topic": "Normal To Curve",
-      "keywords": ["normal", "perpendicular gradient", "point of intersection", "y = x", "find k", "implicit differentiation", "substitute point", "cubic curve"],
+      "keywords": [
+        "normal",
+        "perpendicular gradient",
+        "point of intersection",
+        "y = x",
+        "find k",
+        "implicit differentiation",
+        "substitute point",
+        "cubic curve"
+      ],
       "question": "The point P lies on C. Given that the normal to C at P has equation y = x, as shown in Figure 2, find the value of k.",
       "status": "ready",
       "answer": "k = 36 (with P = (2, 2))",
@@ -98,6 +172,10 @@
         "Using part (a): 2p(1 - 4p)/(3p^2 + 4p^2) = -1, i.e. 2p(1 - 4p) = -7p^2.",
         "Divide by p: 2 - 8p = -7p, so p = 2 and P = (2, 2).",
         "Substitute into C: k = 2^3 - 2^2 + 4(2^2)(2) = 8 - 4 + 32 = 36."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-03.jpg",
+        "papers/maths/img/P4-06-Differentiation-04.jpg"
       ]
     },
     {
@@ -105,7 +183,16 @@
       "no": "Q4(a)",
       "marks": 5,
       "topic": "Parametric Differentiation",
-      "keywords": ["parametric differentiation", "dy/dx", "tan 2t", "double angle", "show that", "constant k", "sqrt 3", "chain rule"],
+      "keywords": [
+        "parametric differentiation",
+        "dy/dx",
+        "tan 2t",
+        "double angle",
+        "show that",
+        "constant k",
+        "sqrt 3",
+        "chain rule"
+      ],
       "question": "Figure 1 shows the curve C with parametric equations x = sqrt(3) sin 2t, y = 4 cos^2 t, 0 <= t <= pi. Show that dy/dx = k sqrt(3) tan 2t, where k is a constant to be found.",
       "status": "ready",
       "answer": "k = -2/3",
@@ -114,6 +201,10 @@
         "Use cos^2 t = (1 + cos 2t)/2, so y = 2 + 2 cos 2t and dy/dt = -4 sin 2t.",
         "dy/dx = -4 sin 2t/(2 sqrt(3) cos 2t) = -(2/sqrt(3)) tan 2t.",
         "Write -(2/sqrt(3)) = (-2/3) sqrt(3), so k = -2/3."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-03.jpg",
+        "papers/maths/img/P4-06-Differentiation-04.jpg"
       ]
     },
     {
@@ -121,7 +212,16 @@
       "no": "Q4(b)",
       "marks": 4,
       "topic": "Tangent To Parametric Curve",
-      "keywords": ["tangent", "parametric", "t = pi/3", "gradient", "equation of tangent", "y = ax + b", "point on curve", "dy/dx"],
+      "keywords": [
+        "tangent",
+        "parametric",
+        "t = pi/3",
+        "gradient",
+        "equation of tangent",
+        "y = ax + b",
+        "point on curve",
+        "dy/dx"
+      ],
       "question": "Find an equation of the tangent to C at the point where t = pi/3, giving your answer in the form y = ax + b.",
       "status": "ready",
       "answer": "y = 2x - 2",
@@ -130,6 +230,10 @@
         "dy/dx = -(2/3) sqrt(3) tan(2pi/3) = -(2/3) sqrt(3) (-sqrt(3)) = 2.",
         "Tangent: y - 1 = 2(x - 3/2).",
         "So y = 2x - 2."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-03.jpg",
+        "papers/maths/img/P4-06-Differentiation-04.jpg"
       ]
     },
     {
@@ -137,7 +241,16 @@
       "no": "Q5(a)",
       "marks": 2,
       "topic": "Rate Of Volume Filling",
-      "keywords": ["volume", "constant flow rate", "time to fill", "bowl", "rate of change", "h = 20", "cm^3 per second", "volume formula"],
+      "keywords": [
+        "volume",
+        "constant flow rate",
+        "time to fill",
+        "bowl",
+        "rate of change",
+        "h = 20",
+        "cm^3 per second",
+        "volume formula"
+      ],
       "question": "A bowl of height 20 cm is initially empty and water flows in at a constant rate of 160 cm^3/s. When the depth is h cm, the volume is V = (1/3) h^2 (h + 4), 0 <= h <= 20. Find the time taken to fill the bowl.",
       "status": "ready",
       "answer": "20 s",
@@ -145,6 +258,10 @@
         "The bowl is full when h = 20.",
         "V = (1/3)(400)(24) = 3200 cm^3.",
         "Time = volume / rate = 3200/160 = 20 s."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-04.jpg",
+        "papers/maths/img/P4-06-Differentiation-05.jpg"
       ]
     },
     {
@@ -152,7 +269,16 @@
       "no": "Q5(b)",
       "marks": 5,
       "topic": "Related Rates",
-      "keywords": ["related rates", "chain rule", "dh/dt", "dV/dh", "constant flow", "rate of change of depth", "bowl", "cm/s"],
+      "keywords": [
+        "related rates",
+        "chain rule",
+        "dh/dt",
+        "dV/dh",
+        "constant flow",
+        "rate of change of depth",
+        "bowl",
+        "cm/s"
+      ],
       "question": "Using the same bowl and volume model V = (1/3) h^2 (h + 4) with water flowing in at 160 cm^3/s, find the rate of change of the depth of the water, in cm/s, when h = 5.",
       "status": "ready",
       "answer": "96/23 = 4.17 cm/s (3 s.f.)",
@@ -161,6 +287,10 @@
         "At h = 5: dV/dh = 25 + 40/3 = 115/3.",
         "dh/dt = (dV/dt)/(dV/dh) = 160/(115/3) = 480/115 = 96/23.",
         "So dh/dt = 4.17 cm/s to 3 s.f."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-04.jpg",
+        "papers/maths/img/P4-06-Differentiation-05.jpg"
       ]
     },
     {
@@ -168,7 +298,16 @@
       "no": "Q6",
       "marks": 7,
       "topic": "Normal To Implicit Curve",
-      "keywords": ["normal", "implicit differentiation", "point P", "gradient", "integer coefficients", "ax + by + c = 0", "curve", "perpendicular"],
+      "keywords": [
+        "normal",
+        "implicit differentiation",
+        "point P",
+        "gradient",
+        "integer coefficients",
+        "ax + by + c = 0",
+        "curve",
+        "perpendicular"
+      ],
       "question": "The curve C has equation 2x - 4y^2 + 3x^2 y = 4x^2 + 8. The point P(3, 2) lies on C. Find the equation of the normal to C at P, writing your answer in the form ax + by + c = 0, where a, b and c are integers.",
       "status": "ready",
       "answer": "11x - 14y - 5 = 0",
@@ -178,6 +317,10 @@
         "At (3, 2): dy/dx (27 - 16) = 24 - 2 - 36 = -14, so dy/dx = -14/11.",
         "Normal gradient = 11/14, so y - 2 = (11/14)(x - 3).",
         "Multiply by 14: 14y - 28 = 11x - 33, so 11x - 14y - 5 = 0."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-05.jpg",
+        "papers/maths/img/P4-06-Differentiation-06.jpg"
       ]
     },
     {
@@ -185,7 +328,16 @@
       "no": "Q7(a)",
       "marks": 5,
       "topic": "Logarithmic Differentiation",
-      "keywords": ["logarithmic differentiation", "natural logarithm", "variable power", "dy/dx", "x^(sin x)", "product rule", "in terms of x and y", "implicit"],
+      "keywords": [
+        "logarithmic differentiation",
+        "natural logarithm",
+        "variable power",
+        "dy/dx",
+        "x^(sin x)",
+        "product rule",
+        "in terms of x and y",
+        "implicit"
+      ],
       "question": "A curve C has equation y = x^(sin x), x > 0, y > 0. Find, by first taking natural logarithms, an expression for dy/dx in terms of x and y.",
       "status": "ready",
       "answer": "dy/dx = y(cos x ln x + sin x/x)",
@@ -193,6 +345,10 @@
         "Take logs: ln y = sin x ln x.",
         "Differentiate both sides: (1/y) dy/dx = cos x ln x + (sin x)(1/x).",
         "Multiply by y: dy/dx = y(cos x ln x + sin x/x)."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-06.jpg",
+        "papers/maths/img/P4-06-Differentiation-07.jpg"
       ]
     },
     {
@@ -200,7 +356,16 @@
       "no": "Q7(b)",
       "marks": 2,
       "topic": "Stationary Points",
-      "keywords": ["stationary points", "dy/dx = 0", "tan x", "ln x", "show that", "equation", "x coordinates", "logarithmic"],
+      "keywords": [
+        "stationary points",
+        "dy/dx = 0",
+        "tan x",
+        "ln x",
+        "show that",
+        "equation",
+        "x coordinates",
+        "logarithmic"
+      ],
       "question": "Hence show that the x coordinates of the stationary points of C are solutions of the equation tan x + x ln x = 0.",
       "status": "ready",
       "answer": "Stationary points satisfy cos x ln x + sin x/x = 0, i.e. tan x + x ln x = 0",
@@ -209,6 +374,10 @@
         "Multiply by x: x cos x ln x + sin x = 0.",
         "Divide by cos x (cos x is not 0 here, since then sin x/x would have to be 0, which is impossible for x > 0).",
         "This gives x ln x + tan x = 0."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-06.jpg",
+        "papers/maths/img/P4-06-Differentiation-07.jpg"
       ]
     },
     {
@@ -216,7 +385,16 @@
       "no": "Q8(a)",
       "marks": 5,
       "topic": "Implicit Differentiation",
-      "keywords": ["implicit differentiation", "dy/dx", "cubic curve", "x^3", "xy term", "y^3", "in terms of x and y", "rearrange"],
+      "keywords": [
+        "implicit differentiation",
+        "dy/dx",
+        "cubic curve",
+        "x^3",
+        "xy term",
+        "y^3",
+        "in terms of x and y",
+        "rearrange"
+      ],
       "question": "A curve C has the equation x^3 + 2xy - x - y^3 - 20 = 0. Find dy/dx in terms of x and y.",
       "status": "ready",
       "answer": "dy/dx = (3x^2 + 2y - 1)/(3y^2 - 2x)",
@@ -224,6 +402,10 @@
         "Differentiate: 3x^2 + 2y + 2x dy/dx - 1 - 3y^2 dy/dx = 0.",
         "Collect terms: dy/dx (2x - 3y^2) = 1 - 3x^2 - 2y.",
         "Divide and change signs top and bottom: dy/dx = (3x^2 + 2y - 1)/(3y^2 - 2x)."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-06.jpg",
+        "papers/maths/img/P4-06-Differentiation-07.jpg"
       ]
     },
     {
@@ -231,7 +413,16 @@
       "no": "Q8(b)",
       "marks": 2,
       "topic": "Tangent To Implicit Curve",
-      "keywords": ["tangent", "implicit curve", "point (3, -2)", "gradient", "integer coefficients", "ax + by + c = 0", "substitute point", "cubic"],
+      "keywords": [
+        "tangent",
+        "implicit curve",
+        "point (3, -2)",
+        "gradient",
+        "integer coefficients",
+        "ax + by + c = 0",
+        "substitute point",
+        "cubic"
+      ],
       "question": "Find an equation of the tangent to C at the point (3, -2), giving your answer in the form ax + by + c = 0, where a, b and c are integers.",
       "status": "ready",
       "answer": "11x - 3y - 39 = 0",
@@ -240,6 +431,10 @@
         "dy/dx = 22/6 = 11/3.",
         "Tangent: y + 2 = (11/3)(x - 3), so 3y + 6 = 11x - 33.",
         "Rearrange: 11x - 3y - 39 = 0."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-06.jpg",
+        "papers/maths/img/P4-06-Differentiation-07.jpg"
       ]
     },
     {
@@ -247,7 +442,16 @@
       "no": "Q9(a)",
       "marks": 0,
       "topic": "Implicit Exponential Curve",
-      "keywords": ["implicit differentiation", "exponential", "product rule", "e^(-2x)", "dy/dx", "in terms of x and y", "chain rule", "marks not shown"],
+      "keywords": [
+        "implicit differentiation",
+        "exponential",
+        "product rule",
+        "e^(-2x)",
+        "dy/dx",
+        "in terms of x and y",
+        "chain rule",
+        "marks not shown"
+      ],
       "question": "A curve has equation 4y^2 + 3x = 6y e^(-2x). Find dy/dx in terms of x and y. (The scan shows no mark for this part; the question total of 4 is all taken by part (b). Marks here are set to 0.)",
       "status": "ready",
       "answer": "dy/dx = (12y e^(-2x) + 3)/(6 e^(-2x) - 8y)",
@@ -256,6 +460,10 @@
         "Differentiate 6y e^(-2x) with the product rule: 6 e^(-2x) dy/dx - 12y e^(-2x).",
         "So 8y dy/dx + 3 = 6 e^(-2x) dy/dx - 12y e^(-2x).",
         "Collect: dy/dx (8y - 6 e^(-2x)) = -3 - 12y e^(-2x), so dy/dx = (12y e^(-2x) + 3)/(6 e^(-2x) - 8y)."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-07.jpg",
+        "papers/maths/img/P4-06-Differentiation-08.jpg"
       ]
     },
     {
@@ -263,7 +471,16 @@
       "no": "Q9(b)",
       "marks": 4,
       "topic": "Normal To Exponential Curve",
-      "keywords": ["normal", "y-axis", "point P", "gradient", "exponential", "y = mx + c", "implicit differentiation", "perpendicular"],
+      "keywords": [
+        "normal",
+        "y-axis",
+        "point P",
+        "gradient",
+        "exponential",
+        "y = mx + c",
+        "implicit differentiation",
+        "perpendicular"
+      ],
       "question": "The curve 4y^2 + 3x = 6y e^(-2x) crosses the y-axis at the origin and at the point P. Find the equation of the normal to the curve at P, in the form y = mx + c.",
       "status": "ready",
       "answer": "y = (2/7)x + 3/2",
@@ -272,6 +489,10 @@
         "At P, e^0 = 1, so dy/dx = (12(3/2) + 3)/(6 - 12) = 21/(-6) = -7/2.",
         "Normal gradient = 2/7.",
         "Normal through (0, 3/2): y = (2/7)x + 3/2."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-07.jpg",
+        "papers/maths/img/P4-06-Differentiation-08.jpg"
       ]
     },
     {
@@ -279,7 +500,16 @@
       "no": "Q10(a)",
       "marks": 4,
       "topic": "Related Rates Cube",
-      "keywords": ["related rates", "cube", "surface area", "chain rule", "dx/dt", "constant rate", "show that", "edge length"],
+      "keywords": [
+        "related rates",
+        "cube",
+        "surface area",
+        "chain rule",
+        "dx/dt",
+        "constant rate",
+        "show that",
+        "edge length"
+      ],
       "question": "Figure 1 shows a cube with edge x cm, surface area S cm^2 and volume V cm^3, all at time t seconds. The surface area is increasing at a constant rate of 4 cm^2/s. Show that dx/dt = k/x, where k is a constant to be found.",
       "status": "ready",
       "answer": "k = 1/3",
@@ -287,6 +517,10 @@
         "Surface area of a cube: S = 6x^2, so dS/dx = 12x.",
         "dS/dt = 4, so dx/dt = (dS/dt)/(dS/dx) = 4/(12x).",
         "Simplify: dx/dt = 1/(3x), so k = 1/3."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-07.jpg",
+        "papers/maths/img/P4-06-Differentiation-08.jpg"
       ]
     },
     {
@@ -294,7 +528,16 @@
       "no": "Q10(b)",
       "marks": 3,
       "topic": "Related Rates Cube",
-      "keywords": ["related rates", "volume", "cube", "chain rule", "dV/dt", "power of V", "show that", "p constant"],
+      "keywords": [
+        "related rates",
+        "volume",
+        "cube",
+        "chain rule",
+        "dV/dt",
+        "power of V",
+        "show that",
+        "p constant"
+      ],
       "question": "Show that dV/dt = V^p, where p is a constant to be found, for the cube in part (a).",
       "status": "ready",
       "answer": "p = 1/3",
@@ -302,6 +545,10 @@
         "V = x^3, so dV/dx = 3x^2.",
         "dV/dt = 3x^2 dx/dt = 3x^2 x 1/(3x) = x.",
         "x = V^(1/3), so dV/dt = V^(1/3) and p = 1/3."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-07.jpg",
+        "papers/maths/img/P4-06-Differentiation-08.jpg"
       ]
     },
     {
@@ -309,7 +556,16 @@
       "no": "Q11(a)",
       "marks": 4,
       "topic": "Implicit Exponential Curve",
-      "keywords": ["implicit differentiation", "exponential", "e^(-2x)", "product rule", "show that", "dy/dx", "rearrange", "y^2"],
+      "keywords": [
+        "implicit differentiation",
+        "exponential",
+        "e^(-2x)",
+        "product rule",
+        "show that",
+        "dy/dx",
+        "rearrange",
+        "y^2"
+      ],
       "question": "A curve has equation y^2 = y e^(-2x) - 3x. Show that dy/dx = (2y e^(-2x) + 3)/(e^(-2x) - 2y).",
       "status": "ready",
       "answer": "dy/dx = (2y e^(-2x) + 3)/(e^(-2x) - 2y) (shown)",
@@ -317,6 +573,10 @@
         "Differentiate: 2y dy/dx = e^(-2x) dy/dx - 2y e^(-2x) - 3 (product rule on y e^(-2x)).",
         "Collect: dy/dx (2y - e^(-2x)) = -2y e^(-2x) - 3.",
         "Multiply top and bottom by -1: dy/dx = (2y e^(-2x) + 3)/(e^(-2x) - 2y)."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-08.jpg",
+        "papers/maths/img/P4-06-Differentiation-09.jpg"
       ]
     },
     {
@@ -324,7 +584,16 @@
       "no": "Q11(b)",
       "marks": 5,
       "topic": "Tangents Intersection",
-      "keywords": ["tangent", "origin", "point P", "intersection", "coordinates", "exponential curve", "gradient", "y-axis"],
+      "keywords": [
+        "tangent",
+        "origin",
+        "point P",
+        "intersection",
+        "coordinates",
+        "exponential curve",
+        "gradient",
+        "y-axis"
+      ],
       "question": "The curve y^2 = y e^(-2x) - 3x crosses the y-axis at the origin and at the point P. The tangent to the curve at the origin and the tangent at P meet at R. Find the coordinates of R.",
       "status": "ready",
       "answer": "R = (1/8, 3/8)",
@@ -333,6 +602,10 @@
         "At the origin dy/dx = (0 + 3)/(1 - 0) = 3, so the tangent is y = 3x.",
         "At P, dy/dx = (2 + 3)/(1 - 2) = -5, so the tangent is y = 1 - 5x.",
         "Solve 3x = 1 - 5x: x = 1/8, and y = 3/8."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-08.jpg",
+        "papers/maths/img/P4-06-Differentiation-09.jpg"
       ]
     },
     {
@@ -340,7 +613,16 @@
       "no": "Q12(a)",
       "marks": 4,
       "topic": "Implicit Differentiation",
-      "keywords": ["implicit differentiation", "show that", "cubic curve", "constant k", "dy/dx", "product rule", "must show working", "x^2 y"],
+      "keywords": [
+        "implicit differentiation",
+        "show that",
+        "cubic curve",
+        "constant k",
+        "dy/dx",
+        "product rule",
+        "must show working",
+        "x^2 y"
+      ],
       "question": "A curve has equation 16x^3 - 9k x^2 y + 8y^3 = 875, where k is a constant. Show that dy/dx = (6kxy - 16x^2)/(8y^2 - 3kx^2).",
       "status": "ready",
       "answer": "dy/dx = (6kxy - 16x^2)/(8y^2 - 3kx^2) (shown)",
@@ -349,6 +631,10 @@
         "Collect dy/dx terms: dy/dx (24y^2 - 9kx^2) = 18kxy - 48x^2.",
         "Divide everything by 3: dy/dx (8y^2 - 3kx^2) = 6kxy - 16x^2.",
         "So dy/dx = (6kxy - 16x^2)/(8y^2 - 3kx^2)."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-09.jpg",
+        "papers/maths/img/P4-06-Differentiation-10.jpg"
       ]
     },
     {
@@ -356,7 +642,16 @@
       "no": "Q12(b)",
       "marks": 4,
       "topic": "Turning Point Constant",
-      "keywords": ["turning point", "dy/dx = 0", "find k", "substitute into curve", "x = 5/2", "numerator zero", "cubic", "constant"],
+      "keywords": [
+        "turning point",
+        "dy/dx = 0",
+        "find k",
+        "substitute into curve",
+        "x = 5/2",
+        "numerator zero",
+        "cubic",
+        "constant"
+      ],
       "question": "The curve 16x^3 - 9k x^2 y + 8y^3 = 875 has a turning point at x = 5/2. Find the value of k.",
       "status": "ready",
       "answer": "k = 4/3",
@@ -365,6 +660,10 @@
         "At x = 5/2: y = 20/(3k), so ky = 20/3.",
         "Substitute into the curve: 16(125/8) - 9k(25/4)y + 8y^3 = 875, i.e. 250 - 375 + 8y^3 = 875.",
         "So 8y^3 = 1000, y = 5. Then 20/(3k) = 5, giving k = 4/3."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-09.jpg",
+        "papers/maths/img/P4-06-Differentiation-10.jpg"
       ]
     },
     {
@@ -372,18 +671,40 @@
       "no": "Q13(a)",
       "marks": 2,
       "topic": "Point On Curve",
-      "keywords": ["point on curve", "x coordinate 2", "y coordinate", "y >= 0", "2x - 4xy + y^2 = 13", "missing instruction", "scan", "pending"],
+      "keywords": [
+        "point on curve",
+        "x coordinate 2",
+        "y coordinate",
+        "y >= 0",
+        "2x - 4xy + y^2 = 13",
+        "missing instruction",
+        "scan",
+        "pending"
+      ],
       "question": "Figure 1 shows part of the curve C with equation 2x - 4xy + y^2 = 13, y >= 0. The point P lies on C and has x coordinate 2. (The instruction for part (a) is not visible on the scan.)",
       "status": "pending",
       "answer": "Pending: the instruction for part (a) is missing from the scan; the page gives only that P lies on C with x coordinate 2 (2 marks).",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-10.jpg",
+        "papers/maths/img/P4-06-Differentiation-11.jpg"
+      ]
     },
     {
       "id": "P4-06-Q13b",
       "no": "Q13(b)",
       "marks": 5,
       "topic": "Implicit Differentiation",
-      "keywords": ["implicit differentiation", "dy/dx", "xy term", "y^2 term", "in terms of x and y", "curve", "chain rule", "product rule"],
+      "keywords": [
+        "implicit differentiation",
+        "dy/dx",
+        "xy term",
+        "y^2 term",
+        "in terms of x and y",
+        "curve",
+        "chain rule",
+        "product rule"
+      ],
       "question": "The curve C has equation 2x - 4xy + y^2 = 13, y >= 0. Find dy/dx in terms of x and y.",
       "status": "ready",
       "answer": "dy/dx = (2y - 1)/(y - 2x)",
@@ -391,6 +712,10 @@
         "Differentiate: 2 - 4y - 4x dy/dx + 2y dy/dx = 0 (product rule on 4xy).",
         "Collect terms: dy/dx (2y - 4x) = 4y - 2.",
         "Divide by 2 top and bottom: dy/dx = (2y - 1)/(y - 2x)."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-10.jpg",
+        "papers/maths/img/P4-06-Differentiation-11.jpg"
       ]
     },
     {
@@ -398,18 +723,40 @@
       "no": "Q13(c)",
       "marks": 3,
       "topic": "Tangent Meets X-Axis",
-      "keywords": ["tangent", "x-axis", "x coordinate of Q", "ln 2", "exact form", "tangent equation", "point P", "pending"],
+      "keywords": [
+        "tangent",
+        "x-axis",
+        "x coordinate of Q",
+        "ln 2",
+        "exact form",
+        "tangent equation",
+        "point P",
+        "pending"
+      ],
       "question": "The tangent to C at P crosses the x-axis at the point Q. Find the x coordinate of Q, giving your answer in the form (a ln 2 + b)/(c ln 2 + d), where a, b, c and d are integers.",
       "status": "pending",
       "answer": "Pending: the printed curve gives a rational x coordinate for Q (x = -11/17 with P = (2, 9)), which does not fit the requested ln 2 form. Check the curve equation on the source paper.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-10.jpg",
+        "papers/maths/img/P4-06-Differentiation-11.jpg"
+      ]
     },
     {
       "id": "P4-06-Q14a",
       "no": "Q14(a)",
       "marks": 4,
       "topic": "Parametric Gradient",
-      "keywords": ["parametric differentiation", "gradient", "sec squared", "tan t", "x = 3", "tangent", "dy/dx", "curve"],
+      "keywords": [
+        "parametric differentiation",
+        "gradient",
+        "sec squared",
+        "tan t",
+        "x = 3",
+        "tangent",
+        "dy/dx",
+        "curve"
+      ],
       "question": "Figure 1 shows the curve C with parametric equations x = 5 + 2 tan t, y = 8 sec^2 t, -pi/3 <= t <= pi/4. Use parametric differentiation to find the gradient of C at x = 3.",
       "status": "ready",
       "answer": "-8",
@@ -418,6 +765,9 @@
         "dx/dt = 2 sec^2 t = 4 at t = -pi/4.",
         "dy/dt = 16 sec^2 t tan t = 16 x 2 x (-1) = -32.",
         "dy/dx = -32/4 = -8."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-11.jpg"
       ]
     },
     {
@@ -425,7 +775,16 @@
       "no": "Q14(b)",
       "marks": 3,
       "topic": "Quadratic From Parametric",
-      "keywords": ["quadratic", "complete the square", "sec squared", "parametric", "a(x+b)^2 + c", "tan t", "f(x)", "cartesian"],
+      "keywords": [
+        "quadratic",
+        "complete the square",
+        "sec squared",
+        "parametric",
+        "a(x+b)^2 + c",
+        "tan t",
+        "f(x)",
+        "cartesian"
+      ],
       "question": "The curve C has equation y = f(x), where f is a quadratic function. Find f(x) in the form a(x + b)^2 + c.",
       "status": "ready",
       "answer": "f(x) = 2(x - 5)^2 + 8",
@@ -433,6 +792,9 @@
         "From x = 5 + 2 tan t: tan t = (x - 5)/2.",
         "sec^2 t = 1 + tan^2 t = 1 + (x - 5)^2/4.",
         "y = 8 sec^2 t = 8 + 2(x - 5)^2, so a = 2, b = -5, c = 8."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-11.jpg"
       ]
     },
     {
@@ -440,7 +802,16 @@
       "no": "Q14(c)",
       "marks": 2,
       "topic": "Range Of Quadratic",
-      "keywords": ["range", "quadratic", "domain", "minimum", "maximum", "endpoints", "parametric", "f(x)"],
+      "keywords": [
+        "range",
+        "quadratic",
+        "domain",
+        "minimum",
+        "maximum",
+        "endpoints",
+        "parametric",
+        "f(x)"
+      ],
       "question": "Find the range of the quadratic function f(x) = 2(x - 5)^2 + 8 for the values of x given by x = 5 + 2 tan t, -pi/3 <= t <= pi/4.",
       "status": "ready",
       "answer": "8 <= f(x) <= 32",
@@ -449,6 +820,9 @@
         "The minimum of f is 8, at x = 5, which is in the domain.",
         "The maximum is at x = 5 - 2 sqrt(3): f = 2(12) + 8 = 32.",
         "Range: 8 <= f(x) <= 32."
+      ],
+      "images": [
+        "papers/maths/img/P4-06-Differentiation-11.jpg"
       ]
     }
   ]

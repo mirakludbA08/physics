@@ -15,7 +15,7 @@ body.bank {
 
 /* Subject palettes. --accent-strong is used behind white text, so it stays
    above the 4.5:1 contrast minimum. */
-body.bank[data-subject="physics"] {
+[data-subject="physics"] {
   --accent: #007bff;
   --accent-strong: #0056b3;
   --accent-deep: #002b80;
@@ -23,7 +23,7 @@ body.bank[data-subject="physics"] {
   --accent-tint: #e7f1ff;
 }
 
-body.bank[data-subject="chemistry"] {
+[data-subject="chemistry"] {
   --accent: #0f9d7a;
   --accent-strong: #0b6e55;
   --accent-deep: #063f33;
@@ -31,7 +31,7 @@ body.bank[data-subject="chemistry"] {
   --accent-tint: #e3f6f0;
 }
 
-body.bank[data-subject="biology"] {
+[data-subject="biology"] {
   --accent: #3d9a3d;
   --accent-strong: #2a6f2a;
   --accent-deep: #173d17;
@@ -39,7 +39,7 @@ body.bank[data-subject="biology"] {
   --accent-tint: #e9f5e9;
 }
 
-body.bank[data-subject="maths"] {
+[data-subject="maths"] {
   --accent: #7b4fd1;
   --accent-strong: #5f32b0;
   --accent-deep: #2e1a5c;
@@ -374,7 +374,8 @@ body.bank[data-subject="maths"] {
 
 @media (max-width: 640px) {
   .bank-top { flex-wrap: wrap; gap: 10px; padding: 12px 16px; }
-  .subject-tabs { order: 3; width: 100%; }
+  .subject-tabs { order: 3; flex: 0 0 100%; }
+  .notes-toggle { margin-left: auto; }
   .bank-main { padding: 20px 16px 50px; }
   .bank-intro h1 { font-size: 26px; }
 }
@@ -481,4 +482,249 @@ body.bank[data-subject="maths"] {
 
 .topic-group.open .sub-list .sub-chip:nth-child(odd) {
   border-right: 1px solid #eef2f8;
+}
+
+/* ---------- View bar, done and review controls ---------- */
+.view-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 16px;
+}
+
+.view-tab {
+  border: 1.5px solid var(--accent-strong);
+  background: #fff;
+  color: var(--accent-strong);
+  border-radius: 999px;
+  padding: 7px 14px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.view-tab.active {
+  background: var(--accent-strong);
+  color: #fff;
+}
+
+.view-tab-end {
+  margin-left: auto;
+  border-color: #5b6573;
+  color: #3d4652;
+}
+
+.view-tab-end.active {
+  background: #3d4652;
+  border-color: #3d4652;
+  color: #fff;
+}
+
+.card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.action-btn {
+  background: #fff;
+  color: #3d4652;
+  border: 1px solid #aab4c4;
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.action-btn:hover {
+  background: #eef2f8;
+}
+
+.action-btn.on {
+  background: #eef2f8;
+  border-color: var(--accent-strong);
+  color: var(--accent-strong);
+}
+
+.q-card.done {
+  opacity: 0.6;
+}
+
+.q-done-tag {
+  background: #2a7a3b;
+  color: #fff;
+  padding: 3px 9px;
+  border-radius: 6px;
+}
+
+/* ---------- Question image drop-down ---------- */
+.q-image {
+  margin: 0 0 12px;
+  border: 1px solid #c7d2e3;
+  border-radius: 10px;
+  background: #fafbfd;
+}
+
+.q-image summary {
+  cursor: pointer;
+  padding: 9px 14px;
+  font-size: 14px;
+  color: var(--accent-strong);
+  font-weight: 600;
+}
+
+.q-image[open] summary {
+  border-bottom: 1px solid #c7d2e3;
+}
+
+.q-image-page {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 10px auto;
+  max-width: 720px;
+  background: #fff;
+}
+
+/* ---------- Landing page ---------- */
+.landing-hero {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 44px 20px 10px;
+}
+
+.landing-hero h1 {
+  margin: 0 0 10px;
+  font-size: 40px;
+  color: var(--accent-deep);
+  letter-spacing: -0.5px;
+}
+
+.landing-hero p {
+  margin: 0;
+  max-width: 640px;
+  font-size: 18px;
+  line-height: 1.55;
+  color: #4a5361;
+}
+
+.subject-grid {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 24px 20px 40px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 16px;
+}
+
+.subject-card {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border: 1px solid var(--card-line);
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 4px 14px rgba(0, 32, 96, 0.08);
+}
+
+.subject-card header {
+  background: var(--accent-deep);
+  color: #fff;
+  padding: 18px 18px 16px;
+}
+
+.subject-card h2 {
+  margin: 0;
+  font-size: 22px;
+}
+
+.subject-card header p {
+  margin: 6px 0 0;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.85);
+  line-height: 1.4;
+}
+
+.subject-links {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 16px 18px 18px;
+  margin-top: auto;
+}
+
+.subject-links a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  padding: 9px 12px;
+  font-size: 15px;
+  font-weight: 600;
+  border: 1.5px solid var(--accent-strong);
+  color: var(--accent-strong);
+}
+
+.subject-links a.primary {
+  background: var(--accent-strong);
+  color: #fff;
+}
+
+.subject-links a:hover {
+  background: var(--accent-hover);
+  border-color: var(--accent-hover);
+  color: #fff;
+}
+
+.landing-note {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px 50px;
+  font-size: 13px;
+  color: #5b6573;
+  line-height: 1.5;
+}
+
+@media (max-width: 640px) {
+  .landing-hero h1 { font-size: 32px; }
+  .landing-hero p { font-size: 16px; }
+}
+
+/* ---------- Formatted maths and formulas ---------- */
+.q-card sup,
+.q-card sub {
+  font-size: 0.72em;
+  line-height: 0;
+}
+
+.q-card .rad {
+  border-top: 1px solid currentColor;
+  padding: 1px 1px 0;
+  margin-left: 1px;
+}
+
+/* ---------- Show more ---------- */
+.show-more {
+  display: block;
+  width: 100%;
+  margin: 8px 0 24px;
+  padding: 12px;
+  border: 1.5px dashed var(--accent-strong);
+  border-radius: 12px;
+  background: #fff;
+  color: var(--accent-strong);
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.show-more:hover {
+  background: var(--accent-tint);
+}
+
+.q-mcq-note {
+  margin: -6px 0 8px;
+  font-size: 13px;
+  color: var(--accent-strong);
+  font-weight: 600;
 }

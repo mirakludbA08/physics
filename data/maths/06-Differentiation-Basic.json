@@ -9,7 +9,16 @@
       "no": "Q1",
       "marks": 6,
       "topic": "Quotient Rule Show That",
-      "keywords": ["differentiate", "quotient rule", "show that", "rational function", "constant k", "derivative", "dy/dx", "algebra"],
+      "keywords": [
+        "differentiate",
+        "quotient rule",
+        "show that",
+        "rational function",
+        "constant k",
+        "derivative",
+        "dy/dx",
+        "algebra"
+      ],
       "question": "Given y = (5x^2 - 10x + 9)/(x - 1)^2, x not equal to 1, show that dy/dx = k/(x - 1)^3 where k is a constant to be found.",
       "status": "ready",
       "answer": "k = -8, so dy/dx = -8/(x - 1)^3",
@@ -22,6 +31,10 @@
         "Bracket = 5x^2 - 10x + 5 - 5x^2 + 10x - 9 = -4, so numerator = -8(x - 1).",
         "Divide by v^2 = (x - 1)^4: dy/dx = -8(x - 1)/(x - 1)^4 = -8/(x - 1)^3.",
         "So k = -8."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-1.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-2.jpg"
       ]
     },
     {
@@ -29,7 +42,14 @@
       "no": "Q2(a)",
       "marks": 2,
       "topic": "Chain Rule Power",
-      "keywords": ["differentiate", "chain rule", "power of a linear function", "derivative", "dy/dx", "curve"],
+      "keywords": [
+        "differentiate",
+        "chain rule",
+        "power of a linear function",
+        "derivative",
+        "dy/dx",
+        "curve"
+      ],
       "question": "The curve C has equation y = (3x - 2)^6. Find dy/dx.",
       "status": "ready",
       "answer": "dy/dx = 18(3x - 2)^5",
@@ -38,6 +58,10 @@
         "Outer derivative: 6u^5.",
         "Inner derivative: du/dx = 3.",
         "Chain rule: dy/dx = 6(3x - 2)^5 x 3 = 18(3x - 2)^5."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-1.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-2.jpg"
       ]
     },
     {
@@ -45,7 +69,16 @@
       "no": "Q2(b)",
       "marks": 4,
       "topic": "Equation Of Normal",
-      "keywords": ["normal", "tangent gradient", "perpendicular gradient", "equation of line", "chain rule", "point on curve", "integers", "straight line"],
+      "keywords": [
+        "normal",
+        "tangent gradient",
+        "perpendicular gradient",
+        "equation of line",
+        "chain rule",
+        "point on curve",
+        "integers",
+        "straight line"
+      ],
       "question": "Curve C has equation y = (3x - 2)^6. The point P(1/3, 1) lies on C. Find the equation of the normal to C at P, in the form ax + by + c = 0 where a, b and c are integers.",
       "status": "ready",
       "answer": "3x - 54y + 53 = 0",
@@ -56,6 +89,10 @@
         "Normal line: y - 1 = (1/18)(x - 1/3).",
         "Multiply by 18: 18y - 18 = x - 1/3, then by 3: 54y - 54 = 3x - 1.",
         "Rearrange: 3x - 54y + 53 = 0, so a = 3, b = -54, c = 53."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-1.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-2.jpg"
       ]
     },
     {
@@ -63,7 +100,16 @@
       "no": "Q3(a)",
       "marks": 4,
       "topic": "Derivative Dx Dy",
-      "keywords": ["differentiate", "dx/dy", "quotient rule", "implicit inverse curve", "fully simplified fraction", "parametric", "sketch", "tangent parallel to y-axis"],
+      "keywords": [
+        "differentiate",
+        "dx/dy",
+        "quotient rule",
+        "implicit inverse curve",
+        "fully simplified fraction",
+        "parametric",
+        "sketch",
+        "tangent parallel to y-axis"
+      ],
       "question": "Figure 4 shows a sketch of the curve with equation x = (2y^2 + 6)/(3y - 3). Find dx/dy as a fully simplified fraction.",
       "status": "ready",
       "answer": "dx/dy = 2(y - 3)(y + 1)/(3(y - 1)^2), equivalent to (2y^2 - 4y - 6)/(3(y - 1)^2)",
@@ -74,6 +120,10 @@
         "Numerator = 4y(3y - 3) - 3(2y^2 + 6) = 6y^2 - 12y - 18 = 6(y - 3)(y + 1).",
         "Denominator v^2 = 9(y - 1)^2.",
         "Cancel a factor 3: dx/dy = 2(y - 3)(y + 1)/(3(y - 1)^2)."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-2.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-3.jpg"
       ]
     },
     {
@@ -81,7 +131,15 @@
       "no": "Q3(b)",
       "marks": 4,
       "topic": "Tangents Parallel To Axis",
-      "keywords": ["tangent parallel to y-axis", "dx/dy equals zero", "stationary", "equation of tangent", "vertical tangent", "x equals constant", "points P and Q"],
+      "keywords": [
+        "tangent parallel to y-axis",
+        "dx/dy equals zero",
+        "stationary",
+        "equation of tangent",
+        "vertical tangent",
+        "x equals constant",
+        "points P and Q"
+      ],
       "question": "The tangents at points P and Q on the curve x = (2y^2 + 6)/(3y - 3) are parallel to the y-axis (Figure 4). Use the answer to part (a) to find the equations of these two tangents.",
       "status": "ready",
       "answer": "P: x = -4/3 (i.e. 3x + 4 = 0, at y = -1); Q: x = 4 (at y = 3)",
@@ -92,6 +150,10 @@
         "At y = -1: x = (2 + 6)/(-3 - 3) = 8/(-6) = -4/3, so P(-4/3, -1).",
         "Tangent at P is x = -4/3, i.e. 3x + 4 = 0; tangent at Q is x = 4.",
         "These match the figure: P is left of O and Q is to the right."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-2.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-3.jpg"
       ]
     },
     {
@@ -99,7 +161,15 @@
       "no": "Q4(a)",
       "marks": 3,
       "topic": "Show Simplified Function",
-      "keywords": ["show that", "factorise", "algebraic fraction", "common denominator", "quadratic factorisation", "simplify", "function"],
+      "keywords": [
+        "show that",
+        "factorise",
+        "algebraic fraction",
+        "common denominator",
+        "quadratic factorisation",
+        "simplify",
+        "function"
+      ],
       "question": "f(x) = 5x/(x^2 + 7x + 12) + 5x/(x + 4), x > 0. Show that f(x) = 5x/(x + 3).",
       "status": "ready",
       "answer": "Shown: f(x) = 5x/(x + 3)",
@@ -109,6 +179,10 @@
         "Add numerators: 5x + 5x(x + 3) = 5x(x + 4).",
         "So f(x) = 5x(x + 4)/((x + 3)(x + 4)).",
         "Cancel (x + 4) since x > 0: f(x) = 5x/(x + 3)."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-2.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-3.jpg"
       ]
     },
     {
@@ -116,7 +190,15 @@
       "no": "Q4(b)",
       "marks": 3,
       "topic": "Inverse Function",
-      "keywords": ["inverse function", "f inverse", "make x the subject", "domain of inverse", "range of f", "rearrange", "swap variables"],
+      "keywords": [
+        "inverse function",
+        "f inverse",
+        "make x the subject",
+        "domain of inverse",
+        "range of f",
+        "rearrange",
+        "swap variables"
+      ],
       "question": "Using f(x) = 5x/(x + 3) for x > 0, find f^-1(x) and state its domain.",
       "status": "ready",
       "answer": "f^-1(x) = 3x/(5 - x), with domain 0 < x < 5",
@@ -127,6 +209,10 @@
         "So x = 3y/(5 - y).",
         "Swap variables: f^-1(x) = 3x/(5 - x).",
         "Range of f for x > 0 is 0 < f(x) < 5 (f increases from 0 towards 5), so domain of f^-1 is 0 < x < 5."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-2.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-3.jpg"
       ]
     },
     {
@@ -134,7 +220,15 @@
       "no": "Q4(c)",
       "marks": 3,
       "topic": "Increasing Function Test",
-      "keywords": ["differentiate", "quotient rule", "increasing function", "sign of derivative", "f prime", "reason", "monotonic"],
+      "keywords": [
+        "differentiate",
+        "quotient rule",
+        "increasing function",
+        "sign of derivative",
+        "f prime",
+        "reason",
+        "monotonic"
+      ],
       "question": "For f(x) = 5x/(x + 3), x > 0: (i) find f'(x) in simplest form; (ii) hence state whether f is increasing or decreasing, giving a reason.",
       "status": "ready",
       "answer": "(i) f'(x) = 15/(x + 3)^2; (ii) increasing, since f'(x) > 0 for all x > 0",
@@ -144,6 +238,10 @@
         "So f'(x) = 15/(x + 3)^2.",
         "For x > 0, (x + 3)^2 > 0 and 15 > 0, so f'(x) > 0.",
         "A positive gradient for all x > 0 means f is an increasing function."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-2.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-3.jpg"
       ]
     },
     {
@@ -151,7 +249,14 @@
       "no": "Q5(a)",
       "marks": 3,
       "topic": "Decreasing Function Proof",
-      "keywords": ["decreasing function", "show by calculus", "quotient rule", "derivative negative", "x greater than 4", "gradient"],
+      "keywords": [
+        "decreasing function",
+        "show by calculus",
+        "quotient rule",
+        "derivative negative",
+        "x greater than 4",
+        "gradient"
+      ],
       "question": "f(x) = (5x - 3)/(x - 4), x > 4. Show, by using calculus, that f is a decreasing function.",
       "status": "ready",
       "answer": "f'(x) = -17/(x - 4)^2 < 0 for x > 4, so f is decreasing",
@@ -161,6 +266,10 @@
         "So f'(x) = -17/(x - 4)^2.",
         "For x > 4, (x - 4)^2 > 0, so f'(x) < 0.",
         "A negative gradient everywhere on the domain means f is decreasing."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-3.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-4.jpg"
       ]
     },
     {
@@ -168,7 +277,15 @@
       "no": "Q5(b)",
       "marks": 3,
       "topic": "Inverse Function",
-      "keywords": ["inverse function", "f inverse", "make x the subject", "domain of inverse", "range of f", "rearrange", "swap variables"],
+      "keywords": [
+        "inverse function",
+        "f inverse",
+        "make x the subject",
+        "domain of inverse",
+        "range of f",
+        "rearrange",
+        "swap variables"
+      ],
       "question": "f(x) = (5x - 3)/(x - 4), x > 4. Find f^-1(x) and state its domain.",
       "status": "ready",
       "answer": "f^-1(x) = (4x - 3)/(x - 5), with domain x > 5",
@@ -178,6 +295,10 @@
         "x = (4y - 3)/(y - 5).",
         "Swap variables: f^-1(x) = (4x - 3)/(x - 5).",
         "Write f(x) = 5 + 17/(x - 4); for x > 4 the range is f(x) > 5, so the domain of f^-1 is x > 5."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-3.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-4.jpg"
       ]
     },
     {
@@ -185,7 +306,15 @@
       "no": "Q5(c)",
       "marks": 5,
       "topic": "Composite Function ff",
-      "keywords": ["composite function", "ff(x)", "show that", "range of composite", "algebraic fraction", "increasing", "limits"],
+      "keywords": [
+        "composite function",
+        "ff(x)",
+        "show that",
+        "range of composite",
+        "algebraic fraction",
+        "increasing",
+        "limits"
+      ],
       "question": "f(x) = (5x - 3)/(x - 4), x > 4. (i) Show that ff(x) = (ax + b)/(x + c), where a, b and c are constants to be found. (ii) Deduce the range of ff.",
       "status": "ready",
       "answer": "(i) a = 22, b = -3, c = 13; (ii) range 5 < ff(x) < 22",
@@ -197,6 +326,10 @@
         "Derivative sign: 22(x + 13) - (22x - 3) = 289 > 0, so ff is increasing.",
         "As x tends to 4+, ff(x) tends to 85/17 = 5; as x tends to infinity, ff(x) tends to 22.",
         "Range: 5 < ff(x) < 22."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-3.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-4.jpg"
       ]
     },
     {
@@ -204,7 +337,16 @@
       "no": "Q6(a)",
       "marks": 4,
       "topic": "Quotient And Root Derivative",
-      "keywords": ["differentiate", "product rule", "chain rule", "square root", "simplest form", "f prime", "negative index", "x greater than 1/4"],
+      "keywords": [
+        "differentiate",
+        "product rule",
+        "chain rule",
+        "square root",
+        "simplest form",
+        "f prime",
+        "negative index",
+        "x greater than 1/4"
+      ],
       "question": "f(x) = (2x + 3)/sqrt(4x - 1), x > 1/4. Find f'(x) in simplest form.",
       "status": "ready",
       "answer": "f'(x) = 4(x - 2)/(4x - 1)^(3/2)",
@@ -215,6 +357,10 @@
         "Put over (4x - 1)^(3/2): f'(x) = [2(4x - 1) - 2(2x + 3)]/(4x - 1)^(3/2).",
         "Numerator: 8x - 2 - 4x - 6 = 4x - 8.",
         "So f'(x) = 4(x - 2)/(4x - 1)^(3/2)."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-4.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-5.jpg"
       ]
     },
     {
@@ -222,7 +368,15 @@
       "no": "Q6(b)",
       "marks": 3,
       "topic": "Range From Minimum",
-      "keywords": ["range of function", "minimum point", "stationary point", "f prime zero", "limits", "sign change", "square root"],
+      "keywords": [
+        "range of function",
+        "minimum point",
+        "stationary point",
+        "f prime zero",
+        "limits",
+        "sign change",
+        "square root"
+      ],
       "question": "Figure 1 shows the curve y = f(x) with f(x) = (2x + 3)/sqrt(4x - 1), x > 1/4. Hence find the range of f.",
       "status": "ready",
       "answer": "Range: f(x) >= sqrt(7), i.e. [sqrt(7), infinity)",
@@ -233,6 +387,10 @@
         "As x tends to 1/4 from above, the denominator tends to 0 and f(x) tends to infinity.",
         "As x tends to infinity, f(x) tends to infinity, so f has no upper bound.",
         "Range: f(x) >= sqrt(7), i.e. [sqrt(7), infinity)."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-4.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-5.jpg"
       ]
     },
     {
@@ -240,7 +398,16 @@
       "no": "Q7(a)",
       "marks": 4,
       "topic": "Product Rule Find Constant",
-      "keywords": ["differentiate", "product rule", "chain rule", "square root", "show that", "constant k", "f prime", "x greater than -9/4"],
+      "keywords": [
+        "differentiate",
+        "product rule",
+        "chain rule",
+        "square root",
+        "show that",
+        "constant k",
+        "f prime",
+        "x greater than -9/4"
+      ],
       "question": "f(x) = 5(x^2 - 2)(4x + 9)^(1/2), x >= -9/4. Show that f'(x) = k(5x^2 + 9x - 2)/(4x + 9)^(1/2) where k is an integer to be found.",
       "status": "ready",
       "answer": "k = 10",
@@ -251,6 +418,10 @@
         "Over (4x + 9)^(1/2): f'(x) = [10x(4x + 9) + 10(x^2 - 2)]/(4x + 9)^(1/2).",
         "Expand numerator: 40x^2 + 90x + 10x^2 - 20 = 50x^2 + 90x - 20.",
         "= 10(5x^2 + 9x - 2), so k = 10."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-5.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-6.jpg"
       ]
     },
     {
@@ -258,7 +429,14 @@
       "no": "Q7(b)",
       "marks": 1,
       "topic": "Stationary Points Solve",
-      "keywords": ["stationary points", "f prime equals zero", "quadratic", "factorise", "solve", "values of x"],
+      "keywords": [
+        "stationary points",
+        "f prime equals zero",
+        "quadratic",
+        "factorise",
+        "solve",
+        "values of x"
+      ],
       "question": "Hence, find the values of x for which f'(x) = 0, where f(x) = 5(x^2 - 2)(4x + 9)^(1/2), x >= -9/4.",
       "status": "ready",
       "answer": "x = -2 or x = 1/5",
@@ -267,6 +445,10 @@
         "Factorise: (5x - 1)(x + 2) = 0.",
         "So x = 1/5 or x = -2.",
         "Both values satisfy x >= -9/4."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-5.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-6.jpg"
       ]
     },
     {
@@ -274,7 +456,14 @@
       "no": "Q7(c)",
       "marks": 2,
       "topic": "Local Maximum Coordinates",
-      "keywords": ["local maximum", "turning point", "exact coordinates", "sign of derivative", "substitute", "stationary point"],
+      "keywords": [
+        "local maximum",
+        "turning point",
+        "exact coordinates",
+        "sign of derivative",
+        "substitute",
+        "stationary point"
+      ],
       "question": "Figure 3 shows a sketch of the curve C with equation y = f(x). The curve has a local maximum at the point P. Find the exact coordinates of P.",
       "status": "ready",
       "answer": "P(-2, 10)",
@@ -284,6 +473,10 @@
         "x = 1/5 changes from negative to positive, so it is a local minimum.",
         "f(-2) = 5(4 - 2)(-8 + 9)^(1/2) = 5 x 2 x 1 = 10.",
         "So P = (-2, 10)."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-5.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-6.jpg"
       ]
     },
     {
@@ -291,7 +484,15 @@
       "no": "Q7(d)",
       "marks": 3,
       "topic": "Range Of Transformed Function",
-      "keywords": ["range of function", "closed interval", "endpoints", "turning point", "transformation", "g(x) = 2f(x) + 4", "maximum and minimum"],
+      "keywords": [
+        "range of function",
+        "closed interval",
+        "endpoints",
+        "turning point",
+        "transformation",
+        "g(x) = 2f(x) + 4",
+        "maximum and minimum"
+      ],
       "question": "The function g is defined by g(x) = 2f(x) + 4, -9/4 <= x <= 0, where f(x) = 5(x^2 - 2)(4x + 9)^(1/2). Find the range of g.",
       "status": "ready",
       "answer": "-56 <= g(x) <= 24",
@@ -302,6 +503,10 @@
         "The other stationary point x = 1/5 is outside [-9/4, 0], so no further turning point.",
         "Range of f on the interval: -30 <= f(x) <= 10.",
         "Apply g = 2f + 4: minimum 2(-30) + 4 = -56, maximum 2(10) + 4 = 24."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-5.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-6.jpg"
       ]
     },
     {
@@ -309,7 +514,15 @@
       "no": "Q8(a)",
       "marks": 4,
       "topic": "Algebraic Division Identity",
-      "keywords": ["algebraic division", "polynomial division", "partial fractions", "identity", "find constant", "show that", "x squared plus P plus Q over x minus 4"],
+      "keywords": [
+        "algebraic division",
+        "polynomial division",
+        "partial fractions",
+        "identity",
+        "find constant",
+        "show that",
+        "x squared plus P plus Q over x minus 4"
+      ],
       "question": "Given that (x^4 - x^3 - 10x^2 + 3x - 9)/(x^2 - x - 12) = x^2 + P + Q/(x - 4), x > -3, find the value of the constant P and show that Q = 5.",
       "status": "ready",
       "answer": "P = 2 and Q = 5",
@@ -320,6 +533,10 @@
         "So the expression = x^2 + 2 + (5x + 15)/((x - 4)(x + 3)).",
         "5x + 15 = 5(x + 3), so the fraction = 5/(x - 4).",
         "Compare with x^2 + P + Q/(x - 4): P = 2 and Q = 5."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-6.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-7.jpg"
       ]
     },
     {
@@ -327,7 +544,15 @@
       "no": "Q8(b)",
       "marks": 5,
       "topic": "Tangent Equation",
-      "keywords": ["tangent", "equation of tangent", "gradient", "differentiate", "y = mx + c", "point of tangency", "quotient"],
+      "keywords": [
+        "tangent",
+        "equation of tangent",
+        "gradient",
+        "differentiate",
+        "y = mx + c",
+        "point of tangency",
+        "quotient"
+      ],
       "question": "The curve C has equation y = g(x), where g(x) = (x^4 - x^3 - 10x^2 + 3x - 9)/(x^2 - x - 12), -3 < x < 3.5. Find the equation of the tangent to C at the point where x = 2, in the form y = mx + c.",
       "status": "ready",
       "answer": "y = (11/4)x - 2 (i.e. 4y = 11x - 8)",
@@ -338,6 +563,10 @@
         "g'(2) = 4 - 5/4 = 11/4, so m = 11/4.",
         "Tangent: y - 7/2 = (11/4)(x - 2).",
         "y = (11/4)x - 11/2 + 7/2 = (11/4)x - 2, so c = -2."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-6.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-7.jpg"
       ]
     },
     {
@@ -345,7 +574,16 @@
       "no": "Q8(c)",
       "marks": 5,
       "topic": "Area Under Curve Log",
-      "keywords": ["area", "integrate", "definite integral", "ln 2", "exact area", "y-axis", "x equals 2", "region bounded by curve"],
+      "keywords": [
+        "area",
+        "integrate",
+        "definite integral",
+        "ln 2",
+        "exact area",
+        "y-axis",
+        "x equals 2",
+        "region bounded by curve"
+      ],
       "question": "Figure 4 shows a sketch of the curve C with equation y = g(x). The region R is bounded by C, the y-axis, the x-axis and the line x = 2. Find the exact area of R in the form a + b ln 2, where a and b are constants.",
       "status": "ready",
       "answer": "Area = 20/3 - 5 ln 2 (a = 20/3, b = -5), approx 3.20",
@@ -356,6 +594,10 @@
         "At x = 2: 8/3 + 4 + 5 ln 2 = 20/3 + 5 ln 2.",
         "At x = 0: 5 ln 4 = 10 ln 2.",
         "Area = 20/3 + 5 ln 2 - 10 ln 2 = 20/3 - 5 ln 2, so a = 20/3 and b = -5."
+      ],
+      "images": [
+        "papers/maths/img/P3-06-Differentiation-Basic-6.jpg",
+        "papers/maths/img/P3-06-Differentiation-Basic-7.jpg"
       ]
     }
   ]

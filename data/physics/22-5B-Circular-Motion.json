@@ -1,6 +1,6 @@
 {
   "code": "5B",
-  "title": "Circular Motion",
+  "title": "Circular motion",
   "unit": "A2 Unit 4",
   "pdf": "papers/physics/22-5B-Circular-Motion.pdf",
   "questions": [
@@ -9,7 +9,16 @@
       "no": "Q1(a)",
       "marks": 4,
       "topic": "Centripetal Acceleration",
-      "keywords": ["centripetal acceleration", "circular motion", "speed", "radius", "velocity change", "vector diagram", "derive", "constant speed"],
+      "keywords": [
+        "centripetal acceleration",
+        "circular motion",
+        "speed",
+        "radius",
+        "velocity change",
+        "vector diagram",
+        "derive",
+        "constant speed"
+      ],
       "question": "An object moves at constant speed v around a circle of radius r. Using a vector diagram of the velocities at two positions A and B, derive an expression for its acceleration.",
       "status": "ready",
       "answer": "a = v^2 / r, directed towards the centre of the circle.",
@@ -19,6 +28,11 @@
         "For a small angle theta between A and B, the velocity triangle is isosceles and dv is approximately v x theta.",
         "The arc length r x theta = v x dt, so theta = v dt / r.",
         "Acceleration a = dv / dt = (v x v dt / r) / dt = v^2 / r, directed to the centre."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-01.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-02.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-03.jpg"
       ]
     },
     {
@@ -26,18 +40,40 @@
       "no": "Q1(b)(i)",
       "marks": 1,
       "topic": "Free Body Diagram",
-      "keywords": ["free body diagram", "aeroplane", "tension", "weight", "wire", "forces", "19 degrees"],
+      "keywords": [
+        "free body diagram",
+        "aeroplane",
+        "tension",
+        "weight",
+        "wire",
+        "forces",
+        "19 degrees"
+      ],
       "question": "Complete a free body force diagram for one aeroplane on its wire at the given speed, where the wire is at 19 degrees to the vertical.",
       "status": "pending",
       "answer": "Pending: the force diagram is not in the text extraction; it needs tension along the wire and weight vertically downward.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-01.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-02.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-03.jpg"
+      ]
     },
     {
       "id": "5B-Q1b(ii)",
       "no": "Q1(b)(ii)",
       "marks": 4,
       "topic": "Rotating Aeroplane Period",
-      "keywords": ["conical pendulum", "period", "rotations", "angular velocity", "tension", "tan theta", "circle diameter", "mass 5.2 g"],
+      "keywords": [
+        "conical pendulum",
+        "period",
+        "rotations",
+        "angular velocity",
+        "tension",
+        "tan theta",
+        "circle diameter",
+        "mass 5.2 g"
+      ],
       "question": "Aeroplanes on wires at 19 degrees to the vertical follow a circle of diameter 10.8 cm. Mass of each aeroplane is 5.2 g. Show that 4 complete rotations take about 3 s.",
       "status": "ready",
       "answer": "One rotation takes 0.79 s, so 4 rotations take about 3.2 s (about 3 s).",
@@ -48,6 +84,11 @@
         "omega^2 = 9.81 x 0.3443 / 0.054 = 62.5, so omega = 7.91 rad s^-1 (mass cancels).",
         "Period for one rotation T = 2 pi / omega = 0.794 s.",
         "Four rotations take 4 x 0.794 = 3.2 s, which is about 3 s."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-01.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-02.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-03.jpg"
       ]
     },
     {
@@ -55,7 +96,15 @@
       "no": "Q1(b)(iii)",
       "marks": 5,
       "topic": "Wire Angle And Radius",
-      "keywords": ["wire angle", "radius", "angular velocity", "tan theta", "student claim", "vertical wire", "circular motion"],
+      "keywords": [
+        "wire angle",
+        "radius",
+        "angular velocity",
+        "tan theta",
+        "student claim",
+        "vertical wire",
+        "circular motion"
+      ],
       "question": "The canopy radius is increased and the platform rotates at the same angular velocity. Student A says the wires could become vertical; Student B says the wires would be at more than 19 degrees to the vertical. Explain which student, if either, is correct.",
       "status": "ready",
       "answer": "Student B is correct: tan(theta) = omega^2 r / g increases with r, so the angle exceeds 19 degrees; a vertical wire would need r = 0, so Student A is wrong.",
@@ -65,6 +114,11 @@
         "A larger radius gives a larger tan(theta), so the wires tilt further from the vertical.",
         "Wires are vertical only when tan(theta) = 0, which needs r = 0, but the circle is then not formed while omega is non-zero.",
         "Student A is incorrect and Student B is correct: the angle is greater than 19 degrees."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-01.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-02.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-03.jpg"
       ]
     },
     {
@@ -72,18 +126,38 @@
       "no": "Q2",
       "marks": 1,
       "topic": "Angular Velocity Units",
-      "keywords": ["angular velocity", "turntable", "revolutions per minute", "radian per second", "vinyl", "33 rpm", "multiple choice"],
+      "keywords": [
+        "angular velocity",
+        "turntable",
+        "revolutions per minute",
+        "radian per second",
+        "vinyl",
+        "33 rpm",
+        "multiple choice"
+      ],
       "question": "A turntable rotates at 33 revolutions per minute. Select the angular velocity in rad s^-1 from the options.",
       "status": "pending",
       "answer": "Pending: the multiple-choice options (boxes A to D) are missing from the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-03.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-04.jpg"
+      ]
     },
     {
       "id": "5B-Q3a",
       "no": "Q3(a)",
       "marks": 2,
       "topic": "Go-Kart Friction Limit",
-      "keywords": ["go-kart", "friction", "centripetal force", "semicircular bend", "maximum friction", "horizontal track", "design criteria"],
+      "keywords": [
+        "go-kart",
+        "friction",
+        "centripetal force",
+        "semicircular bend",
+        "maximum friction",
+        "horizontal track",
+        "design criteria"
+      ],
       "question": "A 185 kg go-kart and driver travels at 9.72 m/s round a semicircular end of diameter 30.0 m on a horizontal track. Maximum friction is 1180 N. Show that the design meets the criterion of safe speed up to 35 km/h.",
       "status": "ready",
       "answer": "Required centripetal force is 1165 N, which is less than the maximum friction of 1180 N, so the design meets the criteria.",
@@ -93,6 +167,11 @@
         "F = 185 x 9.72^2 / 15.0 = 185 x 94.48 / 15.0 = 1165 N.",
         "The maximum available friction is 1180 N, which is greater than 1165 N.",
         "The go-kart can take the bend at 9.72 m/s without slipping, so the design meets the criteria."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-04.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-05.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-06.jpg"
       ]
     },
     {
@@ -100,7 +179,15 @@
       "no": "Q3(b)(i)",
       "marks": 3,
       "topic": "Banked Track Derivation",
-      "keywords": ["banked track", "banking angle", "normal reaction", "no friction", "centripetal force", "diameter", "tan theta"],
+      "keywords": [
+        "banked track",
+        "banking angle",
+        "normal reaction",
+        "no friction",
+        "centripetal force",
+        "diameter",
+        "tan theta"
+      ],
       "question": "On the banked semicircular end, the go-kart needs no frictional force perpendicular to its motion at speed v. Show that tan(theta) = 2v^2 / (g d), where d is the diameter AB of the curved track. (The formula is not fully reproduced in the text extraction.)",
       "status": "ready",
       "answer": "tan(theta) = v^2 / (r g) = 2 v^2 / (g d), where d is the diameter AB.",
@@ -110,6 +197,11 @@
         "Horizontally, towards the centre, R sin(theta) = m v^2 / r.",
         "Dividing the two equations gives tan(theta) = v^2 / (r g).",
         "The radius is r = d / 2, so tan(theta) = 2 v^2 / (g d)."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-04.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-05.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-06.jpg"
       ]
     },
     {
@@ -117,7 +209,15 @@
       "no": "Q3(b)(ii)",
       "marks": 2,
       "topic": "Banking Angle Calculation",
-      "keywords": ["banking angle", "go-kart", "tan theta", "speed 9.72 m/s", "diameter 30 m", "arctan", "design criteria"],
+      "keywords": [
+        "banking angle",
+        "go-kart",
+        "tan theta",
+        "speed 9.72 m/s",
+        "diameter 30 m",
+        "arctan",
+        "design criteria"
+      ],
       "question": "Using the design speed of 9.72 m/s and diameter AB = 30.0 m, calculate the banking angle theta for the banked track.",
       "status": "ready",
       "answer": "theta = 33 degrees (about 32.7 degrees).",
@@ -127,6 +227,11 @@
         "g d = 9.81 x 30.0 = 294.3 m^2 s^-2.",
         "tan(theta) = 188.96 / 294.3 = 0.642.",
         "theta = arctan(0.642) = 32.7 degrees, which is about 33 degrees."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-04.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-05.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-06.jpg"
       ]
     },
     {
@@ -134,15 +239,30 @@
       "no": "Q3(c)",
       "marks": 2,
       "topic": "Banked Track Advantages",
-      "keywords": ["banked track", "advantages", "friction", "tyre wear", "wet conditions", "cost", "safety", "go-kart"],
-      "question": "A banked track costs more to build. Suggest significant advantages that could justify the extra cost.",
+      "keywords": [
+        "banked track",
+        "advantages",
+        "friction",
+        "tyre wear",
+        "wet conditions",
+        "cost",
+        "safety",
+        "go-kart"
+      ],
+      "question": "A go-kart track has semicircular ends of diameter 30.0 m. The go-kart and driver have mass 185 kg and must travel safely at up to 9.72 m s^-1 on the bends. On a horizontal track the maximum frictional force is 1180 N. A banked track will cost more to build. Suggest whether there are any significant advantages that would justify the cost.",
       "status": "ready",
-      "answer": "The kart can corner without relying on sideways friction, so it is safer in wet or icy conditions, has less tyre wear, and can take the bend at higher speeds.",
+      "answer": "Yes: on the flat track the friction needed (about 1170 N) is only just below the 1180 N maximum, so there is almost no safety margin. A banked track does not rely on sideways friction, so it stays safe in wet or icy conditions and allows higher speeds, which could justify the cost.",
       "steps": [
-        "On a banked track the normal reaction has a horizontal component that supplies the centripetal force.",
-        "The kart does not depend on sideways friction, so it can corner safely in wet or icy conditions.",
-        "Less sideways friction means less tyre wear and lower maintenance costs.",
-        "The same bend can be taken at higher speed, which may suit a faster track."
+        "Centripetal force needed on the flat track: F = m v^2 / r = 185 x 9.72^2 / 15.0 = 1170 N.",
+        "This is only just below the maximum frictional force of 1180 N, so the flat design meets the criteria with almost no margin.",
+        "In wet or icy conditions the friction is reduced, so on the flat track the karts could skid outwards on the bends.",
+        "On a banked track the horizontal component of the normal contact force provides the centripetal force, so no sideways friction is needed at the design speed.",
+        "So the banked track is safer, allows higher speeds and causes less tyre wear, which are significant advantages that could justify the extra cost."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-04.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-05.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-06.jpg"
       ]
     },
     {
@@ -150,7 +270,16 @@
       "no": "Q4",
       "marks": 5,
       "topic": "Coin In Washing Machine",
-      "keywords": ["normal contact force", "washing machine drum", "coin", "rev per minute", "angular velocity", "centripetal force", "maximum force", "600 rpm"],
+      "keywords": [
+        "normal contact force",
+        "washing machine drum",
+        "coin",
+        "rev per minute",
+        "angular velocity",
+        "centripetal force",
+        "maximum force",
+        "600 rpm"
+      ],
       "question": "A coin of mass 12 g is in contact with the inside of a washing machine drum of diameter 48 cm. The drum rotates about a horizontal axis at 600 rev/min. Calculate the maximum normal contact force exerted by the drum on the coin.",
       "status": "ready",
       "answer": "Maximum normal contact force = 11.5 N, at the lowest point of the drum.",
@@ -161,6 +290,10 @@
         "At the bottom N - mg = m omega^2 r, so N = m (g + omega^2 r).",
         "omega^2 r = 62.8^2 x 0.24 = 947.5 m s^-2.",
         "N = 0.012 x (9.81 + 947.5) = 0.012 x 957.3 = 11.5 N."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-06.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-07.jpg"
       ]
     },
     {
@@ -168,18 +301,38 @@
       "no": "Q5(a)",
       "marks": 2,
       "topic": "Conical Pendulum Forces",
-      "keywords": ["conical pendulum", "forces", "tension", "weight", "free body", "wire angle", "bob"],
+      "keywords": [
+        "conical pendulum",
+        "forces",
+        "tension",
+        "weight",
+        "free body",
+        "wire angle",
+        "bob"
+      ],
       "question": "Add to the diagram the two forces acting on the bob of a conical pendulum.",
       "status": "pending",
       "answer": "Pending: the conical pendulum diagram is not in the text extraction, so the forces cannot be marked on it.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-07.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-08.jpg"
+      ]
     },
     {
       "id": "5B-Q5b(i)",
       "no": "Q5(b)(i)",
       "marks": 4,
       "topic": "Conical Pendulum Derivation",
-      "keywords": ["conical pendulum", "angular velocity", "derive", "wire length", "angle to vertical", "tension", "centripetal force"],
+      "keywords": [
+        "conical pendulum",
+        "angular velocity",
+        "derive",
+        "wire length",
+        "angle to vertical",
+        "tension",
+        "centripetal force"
+      ],
       "question": "Derive the equation for the angular velocity omega of the bob of a conical pendulum with wire length l at angle theta to the vertical.",
       "status": "ready",
       "answer": "omega = sqrt(g / (l cos(theta))).",
@@ -189,6 +342,10 @@
         "Dividing gives tan(theta) = omega^2 l sin(theta) / g.",
         "Cancelling sin(theta) gives 1 / cos(theta) = omega^2 l / g.",
         "Therefore omega^2 = g / (l cos(theta)), so omega = sqrt(g / (l cos(theta)))."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-07.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-08.jpg"
       ]
     },
     {
@@ -196,7 +353,15 @@
       "no": "Q5(b)(ii)",
       "marks": 3,
       "topic": "Clock Period Check",
-      "keywords": ["conical pendulum", "period", "clock", "5.0 s", "wire length 6.4 m", "angle 13.9 degrees", "angular velocity"],
+      "keywords": [
+        "conical pendulum",
+        "period",
+        "clock",
+        "5.0 s",
+        "wire length 6.4 m",
+        "angle 13.9 degrees",
+        "angular velocity"
+      ],
       "question": "A clock needs a period of 5.0 s. The wire length is 6.4 m and the angle to the vertical is 13.9 degrees. Deduce whether this arrangement gives the required period.",
       "status": "ready",
       "answer": "omega = 1.26 rad/s gives T = 5.00 s, so the arrangement does give the required period.",
@@ -206,6 +371,10 @@
         "omega^2 = 9.81 / 6.21 = 1.579, so omega = 1.257 rad s^-1.",
         "Period T = 2 pi / omega = 6.283 / 1.257 = 5.00 s.",
         "This equals the required 5.0 s, so the arrangement is suitable."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-07.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-08.jpg"
       ]
     },
     {
@@ -213,29 +382,62 @@
       "no": "Q6",
       "marks": 6,
       "topic": "Toy Car Loop Energy",
-      "keywords": ["loop", "toy car", "energy conservation", "minimum speed", "release height", "circular track", "friction negligible"],
+      "keywords": [
+        "loop",
+        "toy car",
+        "energy conservation",
+        "minimum speed",
+        "release height",
+        "circular track",
+        "friction negligible"
+      ],
       "question": "A toy car of mass 33 g is released from 25 cm above point A on a track with a loop. Point C is 22 cm above A. Friction is negligible. Deduce whether the car completes the loop and reaches point D.",
       "status": "pending",
       "answer": "Pending: the radius of the loop, shown in the diagram and not in the text, is needed to find the minimum speed at the top of the loop.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-08.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-09.jpg"
+      ]
     },
     {
       "id": "5B-Q7",
       "no": "Q7",
       "marks": 1,
       "topic": "Moon Orbit Table",
-      "keywords": ["moon orbit", "radius increasing", "time period constant", "table", "orbit", "multiple choice"],
+      "keywords": [
+        "moon orbit",
+        "radius increasing",
+        "time period constant",
+        "table",
+        "orbit",
+        "multiple choice"
+      ],
       "question": "A website claims the Moon's orbital radius increases each year while its period stays constant. Select the correct row of the table, A to D, if the statement is true.",
       "status": "pending",
       "answer": "Pending: the table of rows A to D is not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-09.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-10.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-11.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-12.jpg"
+      ]
     },
     {
       "id": "5B-Q8a",
       "no": "Q8(a)",
       "marks": 5,
       "topic": "Centripetal Acceleration",
-      "keywords": ["aeroplane", "horizontal circle", "centripetal acceleration", "vector diagram", "derive", "constant speed", "radius"],
+      "keywords": [
+        "aeroplane",
+        "horizontal circle",
+        "centripetal acceleration",
+        "vector diagram",
+        "derive",
+        "constant speed",
+        "radius"
+      ],
       "question": "An aeroplane flies at constant speed v around a horizontal circular path of radius r. Using a vector diagram of its velocities at two positions A and B, derive an expression for its acceleration.",
       "status": "ready",
       "answer": "a = v^2 / r, directed towards the centre of the horizontal circle.",
@@ -245,6 +447,12 @@
         "For a small angle theta between the positions, dv is approximately v x theta.",
         "Arc length r theta = v dt, so theta = v dt / r.",
         "a = dv / dt = v^2 / r, directed to the centre."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-09.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-10.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-11.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-12.jpg"
       ]
     },
     {
@@ -252,7 +460,15 @@
       "no": "Q8(b)(i)",
       "marks": 4,
       "topic": "Banking Explanation",
-      "keywords": ["banking", "lift force", "horizontal circle", "centripetal force", "aeroplane", "wings", "resolve forces"],
+      "keywords": [
+        "banking",
+        "lift force",
+        "horizontal circle",
+        "centripetal force",
+        "aeroplane",
+        "wings",
+        "resolve forces"
+      ],
       "question": "Explain how banking allows an aeroplane to fly in a horizontal circular path, given that the lift force acts perpendicular to its wings.",
       "status": "ready",
       "answer": "The tilted lift has a horizontal component that provides the centripetal force and a vertical component that balances the weight.",
@@ -262,6 +478,12 @@
         "The horizontal component of lift points towards the centre and provides the centripetal force.",
         "Without banking, lift is vertical and nothing points towards the centre, so the aeroplane cannot turn.",
         "Banking therefore lets the aeroplane turn in a horizontal circle at constant height."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-09.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-10.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-11.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-12.jpg"
       ]
     },
     {
@@ -269,7 +491,16 @@
       "no": "Q8(b)(ii)",
       "marks": 4,
       "topic": "Banking Radius Calculation",
-      "keywords": ["banking", "radius", "5.2 degrees", "530 m/s", "lift", "tan theta", "aeroplane", "circular path"],
+      "keywords": [
+        "banking",
+        "radius",
+        "5.2 degrees",
+        "530 m/s",
+        "lift",
+        "tan theta",
+        "aeroplane",
+        "circular path"
+      ],
       "question": "During banking the wings are at 5.2 degrees to the horizontal. The aeroplane (mass 4.1 x 10^5 kg) flies at a constant 530 m/s. Calculate the radius of the circular path.",
       "status": "ready",
       "answer": "Radius = 3.1 x 10^5 m (about 310 km).",
@@ -280,6 +511,12 @@
         "tan(5.2 degrees) = 0.0910 and v^2 = 530^2 = 2.809 x 10^5 m^2 s^-2.",
         "r = 2.809 x 10^5 / (9.81 x 0.0910) = 2.809 x 10^5 / 0.893 = 3.1 x 10^5 m.",
         "The mass cancels, so the radius is about 3.1 x 10^5 m."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-09.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-10.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-11.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-12.jpg"
       ]
     },
     {
@@ -287,7 +524,15 @@
       "no": "Q9(a)",
       "marks": 5,
       "topic": "Centripetal Acceleration",
-      "keywords": ["poi ball", "centripetal acceleration", "vector diagram", "constant speed", "derive", "clockwise", "circle radius"],
+      "keywords": [
+        "poi ball",
+        "centripetal acceleration",
+        "vector diagram",
+        "constant speed",
+        "derive",
+        "clockwise",
+        "circle radius"
+      ],
       "question": "A poi ball moves clockwise in a circle of radius r with constant speed v. Using a vector diagram of its velocities at two positions A and B, derive the equation for its centripetal acceleration.",
       "status": "ready",
       "answer": "a = v^2 / r, directed towards the centre O.",
@@ -296,6 +541,10 @@
         "The vector change dv = vB - vA on the diagram points towards the centre O.",
         "For a small angle theta, dv is approximately v theta, and the arc gives theta = v dt / r.",
         "a = dv / dt = v^2 / r, directed to the centre."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-12.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-13.jpg"
       ]
     },
     {
@@ -303,7 +552,15 @@
       "no": "Q9(b)",
       "marks": 3,
       "topic": "Poi Ball Acceleration",
-      "keywords": ["poi ball", "acceleration", "1.3 revolutions per second", "radius 0.58 m", "angular velocity", "centripetal", "frequency"],
+      "keywords": [
+        "poi ball",
+        "acceleration",
+        "1.3 revolutions per second",
+        "radius 0.58 m",
+        "angular velocity",
+        "centripetal",
+        "frequency"
+      ],
       "question": "The poi ball completes 1.3 revolutions per second on a circle of radius 0.58 m. Calculate its acceleration.",
       "status": "ready",
       "answer": "a = 38.7 m s^-2 (about 39 m s^-2), directed towards the centre.",
@@ -312,6 +569,10 @@
         "Centripetal acceleration a = omega^2 r.",
         "a = 8.17^2 x 0.58 = 66.7 x 0.58 = 38.7 m s^-2.",
         "Check: v = omega r = 4.74 m s^-1 and v^2 / r = 22.4 / 0.58 = 38.7 m s^-2."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-12.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-13.jpg"
       ]
     },
     {
@@ -319,7 +580,16 @@
       "no": "Q9(c)",
       "marks": 4,
       "topic": "Force Varies In Vertical Circle",
-      "keywords": ["poi ball", "vertical circle", "tension", "constant speed", "force on hand", "weight", "centripetal force", "varying force"],
+      "keywords": [
+        "poi ball",
+        "vertical circle",
+        "tension",
+        "constant speed",
+        "force on hand",
+        "weight",
+        "centripetal force",
+        "varying force"
+      ],
       "question": "The child says that as the poi ball moves round the circle at constant speed, the size of the force on his hand changes. Discuss whether this comment is correct.",
       "status": "ready",
       "answer": "Correct: the speed is constant but the tension changes with position because weight adds to or subtracts from the centripetal force.",
@@ -329,6 +599,10 @@
         "At the top the weight acts towards the centre: T + mg = m v^2 / r, so T = m v^2 / r - mg (smallest).",
         "At the bottom the weight acts away from the centre: T - mg = m v^2 / r, so T = m v^2 / r + mg (largest).",
         "The force on the hand therefore changes with position, so the child's comment is correct."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-12.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-13.jpg"
       ]
     },
     {
@@ -336,18 +610,39 @@
       "no": "Q10(a)(i)",
       "marks": 2,
       "topic": "Hammer Free Body Diagram",
-      "keywords": ["hammer throw", "free body diagram", "tension", "chain", "40 degrees", "weight", "sphere"],
+      "keywords": [
+        "hammer throw",
+        "free body diagram",
+        "tension",
+        "chain",
+        "40 degrees",
+        "weight",
+        "sphere"
+      ],
       "question": "Draw the free-body force diagram for the sphere of the hammer at the position shown, where the chain is at 40 degrees to the horizontal.",
       "status": "pending",
       "answer": "Pending: the drawing is not in the text extraction; it must show tension T along the chain and weight vertically downward.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-13.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-14.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-15.jpg"
+      ]
     },
     {
       "id": "5B-Q10a(ii)",
       "no": "Q10(a)(ii)",
       "marks": 2,
       "topic": "Why Hammer Moves In Circle",
-      "keywords": ["hammer throw", "circular motion", "tension", "centripetal force", "resultant force", "sphere", "chain"],
+      "keywords": [
+        "hammer throw",
+        "circular motion",
+        "tension",
+        "centripetal force",
+        "resultant force",
+        "sphere",
+        "chain"
+      ],
       "question": "Explain why the sphere of the hammer moves in a circle.",
       "status": "ready",
       "answer": "The horizontal component of the chain tension acts towards the centre of the circle as a resultant centripetal force, perpendicular to the velocity.",
@@ -357,6 +652,11 @@
         "The vertical component of tension balances the weight of the sphere.",
         "This horizontal resultant is always perpendicular to the velocity, so it changes direction but not speed.",
         "The sphere therefore continues to move in a circle."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-13.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-14.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-15.jpg"
       ]
     },
     {
@@ -364,7 +664,14 @@
       "no": "Q10(a)(iii)",
       "marks": 3,
       "topic": "Hammer Acceleration",
-      "keywords": ["hammer", "acceleration", "2.8 revolutions per second", "radius 1.5 m", "angular velocity", "centripetal acceleration"],
+      "keywords": [
+        "hammer",
+        "acceleration",
+        "2.8 revolutions per second",
+        "radius 1.5 m",
+        "angular velocity",
+        "centripetal acceleration"
+      ],
       "question": "The sphere completes 2.8 revolutions per second at a distance of 1.5 m from the centre of the circle. Calculate its acceleration.",
       "status": "ready",
       "answer": "Acceleration = 464 m s^-2 (about 4.6 x 10^2 m s^-2), towards the centre.",
@@ -373,6 +680,11 @@
         "omega^2 = 17.59^2 = 309.5 rad^2 s^-2.",
         "Centripetal acceleration a = omega^2 r = 309.5 x 1.5 = 464 m s^-2.",
         "The acceleration is directed towards the centre of the circle."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-13.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-14.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-15.jpg"
       ]
     },
     {
@@ -380,7 +692,16 @@
       "no": "Q10(b)",
       "marks": 5,
       "topic": "Hammer Throw Range",
-      "keywords": ["hammer throw", "projectile", "range", "launch angle", "28 m/s", "record 83 m", "release height", "trajectory"],
+      "keywords": [
+        "hammer throw",
+        "projectile",
+        "range",
+        "launch angle",
+        "28 m/s",
+        "record 83 m",
+        "release height",
+        "trajectory"
+      ],
       "question": "The sphere is released at 28 m/s at 40 degrees to the horizontal, from a height of 1.5 m above the ground. The women's Olympic record is 83 m. Deduce whether this throw would break the record, ignoring air resistance.",
       "status": "ready",
       "answer": "Range is about 80 m (80.5 m), which is less than 83 m, so the throw would not break the record.",
@@ -391,6 +712,11 @@
         "Solve 4.91 t^2 - 18.0 t - 1.5 = 0; the positive root is t = 3.75 s.",
         "Horizontal range = 21.4 x 3.75 = 80.5 m.",
         "80.5 m is less than 83 m, so the throw would not break the record."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-13.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-14.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-15.jpg"
       ]
     },
     {
@@ -398,7 +724,15 @@
       "no": "Q11(a)",
       "marks": 3,
       "topic": "Speed Of Hockey Heel",
-      "keywords": ["hockey", "heel", "speed", "angle in radians", "radius 0.80 m", "angular velocity", "circular path"],
+      "keywords": [
+        "hockey",
+        "heel",
+        "speed",
+        "angle in radians",
+        "radius 0.80 m",
+        "angular velocity",
+        "circular path"
+      ],
       "question": "The heel of a hockey stick moves horizontally in a circle of radius 0.80 m, turning through 1.3 rad in 0.22 s. Calculate its speed.",
       "status": "ready",
       "answer": "Speed of heel = 4.7 m s^-1.",
@@ -407,6 +741,12 @@
         "Linear speed v = omega r.",
         "v = 5.91 x 0.80 = 4.73 m s^-1.",
         "The speed of the heel is about 4.7 m s^-1."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-15.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-16.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-17.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-18.jpg"
       ]
     },
     {
@@ -414,18 +754,41 @@
       "no": "Q11(b)(i)",
       "marks": 5,
       "topic": "Momentum Vector Diagram",
-      "keywords": ["momentum conservation", "vector diagram", "hockey", "heel momentum", "ball mass 160 g", "collision", "scaled diagram"],
+      "keywords": [
+        "momentum conservation",
+        "vector diagram",
+        "hockey",
+        "heel momentum",
+        "ball mass 160 g",
+        "collision",
+        "scaled diagram"
+      ],
       "question": "Using the scaled vector diagram of the heel momentum (3.0 N s) and the ball's momentum (ball mass 160 g, speed 13 m/s before and 16 m/s after), deduce whether momentum is conserved.",
       "status": "pending",
       "answer": "Pending: the scaled vector diagram and the directions of the momenta are in the figure, which is not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-15.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-16.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-17.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-18.jpg"
+      ]
     },
     {
       "id": "5B-Q11b(ii)",
       "no": "Q11(b)(ii)",
       "marks": 4,
       "topic": "Elastic Collision Check",
-      "keywords": ["elastic collision", "kinetic energy", "hockey", "heel", "ball", "5.0 m/s", "momentum 3.0 N s", "inelastic"],
+      "keywords": [
+        "elastic collision",
+        "kinetic energy",
+        "hockey",
+        "heel",
+        "ball",
+        "5.0 m/s",
+        "momentum 3.0 N s",
+        "inelastic"
+      ],
       "question": "The heel has momentum 3.0 N s and speed 5.0 m/s before the collision, and it stops. The ball (160 g) has speeds of 13 m/s before and 16 m/s after. Deduce whether the collision is elastic.",
       "status": "ready",
       "answer": "Not elastic: kinetic energy before is about 21.0 J and after about 20.5 J, so kinetic energy is lost.",
@@ -436,6 +799,12 @@
         "Total KE before = 7.5 + 13.5 = 21.0 J.",
         "After the collision the heel stops, so KE after = 0.5 x 0.160 x 16^2 = 20.5 J.",
         "KE after is less than KE before, so kinetic energy is not conserved and the collision is inelastic."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-15.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-16.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-17.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-18.jpg"
       ]
     },
     {
@@ -443,7 +812,15 @@
       "no": "Q12",
       "marks": 3,
       "topic": "Roundabout Speed",
-      "keywords": ["roundabout", "speed", "child", "radius 1.8 m", "2 rotations in 12 s", "angular velocity", "period"],
+      "keywords": [
+        "roundabout",
+        "speed",
+        "child",
+        "radius 1.8 m",
+        "2 rotations in 12 s",
+        "angular velocity",
+        "period"
+      ],
       "question": "A roundabout makes 2 complete rotations in 12 s. A child stands 1.8 m from the centre. Calculate the speed of the child.",
       "status": "ready",
       "answer": "Speed of child = 1.9 m s^-1.",
@@ -452,6 +829,9 @@
         "Angular velocity omega = 2 pi / T = 2 pi / 6.0 = 1.047 rad s^-1.",
         "Speed v = omega r = 1.047 x 1.8 = 1.88 m s^-1.",
         "The speed of the child is about 1.9 m s^-1."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-18.jpg"
       ]
     },
     {
@@ -459,7 +839,16 @@
       "no": "Q13(a)(i)",
       "marks": 5,
       "topic": "Aeroplane Banking Radius",
-      "keywords": ["aeroplane", "banking", "radius", "20 degrees", "54 m/s", "1200 kg", "lift", "horizontal circle"],
+      "keywords": [
+        "aeroplane",
+        "banking",
+        "radius",
+        "20 degrees",
+        "54 m/s",
+        "1200 kg",
+        "lift",
+        "horizontal circle"
+      ],
       "question": "An aeroplane of mass 1200 kg flies at 54 m/s in a horizontal circle while banked at 20 degrees to the horizontal. Show that the radius of the circular path is about 800 m.",
       "status": "ready",
       "answer": "r = v^2 / (g tan(20)) = 817 m, which is about 800 m.",
@@ -469,6 +858,11 @@
         "Dividing gives tan(20) = v^2 / (r g), so r = v^2 / (g tan(20)).",
         "v^2 = 54^2 = 2916 m^2 s^-2 and tan(20) = 0.364.",
         "r = 2916 / (9.81 x 0.364) = 2916 / 3.571 = 817 m, which is about 800 m."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-19.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-20.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-21.jpg"
       ]
     },
     {
@@ -476,7 +870,15 @@
       "no": "Q13(a)(ii)",
       "marks": 2,
       "topic": "Time For Quarter Turn",
-      "keywords": ["aeroplane", "time", "90 degrees", "circular path", "54 m/s", "arc length", "angular velocity"],
+      "keywords": [
+        "aeroplane",
+        "time",
+        "90 degrees",
+        "circular path",
+        "54 m/s",
+        "arc length",
+        "angular velocity"
+      ],
       "question": "The aeroplane flies at 54 m/s along the circular path. Determine the time taken to move through 90 degrees of the circle.",
       "status": "ready",
       "answer": "Time = 24 s (about 23.8 s).",
@@ -485,6 +887,11 @@
         "Time t = arc length / speed = 1283 / 54 = 23.8 s.",
         "Equivalently omega = v / r = 0.0661 rad s^-1 and t = (pi / 2) / omega = 23.8 s.",
         "The time is about 24 s."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-19.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-20.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-21.jpg"
       ]
     },
     {
@@ -492,7 +899,15 @@
       "no": "Q13(b)",
       "marks": 2,
       "topic": "Levelled Wings Motion",
-      "keywords": ["levelled wings", "lift", "weight", "vertical motion", "aeroplane", "climb", "net force"],
+      "keywords": [
+        "levelled wings",
+        "lift",
+        "weight",
+        "vertical motion",
+        "aeroplane",
+        "climb",
+        "net force"
+      ],
       "question": "The wings are levelled so the lift is vertical, with the same speed and lift magnitude as before. Explain what happens to the vertical motion of the aeroplane.",
       "status": "ready",
       "answer": "The lift is now larger than the weight, so the aeroplane accelerates vertically upwards (climbs).",
@@ -501,6 +916,11 @@
         "With the wings level, the whole lift L acts vertically upwards.",
         "Since cos(20) is less than 1, L is greater than mg.",
         "The net vertical force is upwards, so the aeroplane accelerates upwards and climbs."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-19.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-20.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-21.jpg"
       ]
     },
     {
@@ -508,18 +928,38 @@
       "no": "Q14",
       "marks": 1,
       "topic": "Humpback Bridge Force",
-      "keywords": ["humpback bridge", "car", "top of bridge", "normal force", "circular path", "radius r", "multiple choice"],
+      "keywords": [
+        "humpback bridge",
+        "car",
+        "top of bridge",
+        "normal force",
+        "circular path",
+        "radius r",
+        "multiple choice"
+      ],
       "question": "A car of mass m travels at constant speed v over the top of a humpback bridge of radius r. Select the expression for the force from the bridge on the car.",
       "status": "pending",
       "answer": "Pending: the multiple-choice expressions are missing from the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-21.jpg"
+      ]
     },
     {
       "id": "5B-Q15",
       "no": "Q15",
       "marks": 4,
       "topic": "Centrifugal Force Claim",
-      "keywords": ["centrifugal force", "passenger", "car", "circular path", "inertia", "centripetal force", "fictitious force", "claim"],
+      "keywords": [
+        "centrifugal force",
+        "passenger",
+        "car",
+        "circular path",
+        "inertia",
+        "centripetal force",
+        "fictitious force",
+        "claim"
+      ],
       "question": "A passenger claims that an outward centrifugal force acts on them when the car travels round a circular path at high speed. Assess this claim.",
       "status": "ready",
       "answer": "The claim is incorrect: there is no outward force; the passenger's inertia carries them straight on, and an inward force from the car provides the centripetal force.",
@@ -528,6 +968,11 @@
         "The passenger tends to continue in a straight line because no inward force acts on them initially (Newton's first law).",
         "The car door or seat exerts an inward (centripetal) force on the passenger, which keeps them moving in the circle.",
         "The passenger is pushed against the door by inertia, not by an outward force, so the claim is incorrect."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-22.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-23.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-24.jpg"
       ]
     },
     {
@@ -535,29 +980,67 @@
       "no": "Q16(a)(i)",
       "marks": 3,
       "topic": "Angular Velocity From Graph",
-      "keywords": ["toy car", "ball", "angular velocity", "40 rad/s", "graph", "vertical force", "period", "vertical circle"],
+      "keywords": [
+        "toy car",
+        "ball",
+        "angular velocity",
+        "40 rad/s",
+        "graph",
+        "vertical force",
+        "period",
+        "vertical circle"
+      ],
       "question": "Using the graph of resultant vertical force against time for the toy car in a plastic ball, show that the angular velocity about the ball's centre is about 40 rad/s.",
       "status": "pending",
       "answer": "Pending: the force-time graph is not in the text extraction, so the period cannot be read from it.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-22.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-23.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-24.jpg"
+      ]
     },
     {
       "id": "5B-Q16a(ii)",
       "no": "Q16(a)(ii)",
       "marks": 4,
       "topic": "Ball Radius Or Diameter",
-      "keywords": ["radius", "diameter", "ball", "86 mm", "toy car", "mass 9.5 g", "force from graph", "angular velocity"],
+      "keywords": [
+        "radius",
+        "diameter",
+        "ball",
+        "86 mm",
+        "toy car",
+        "mass 9.5 g",
+        "force from graph",
+        "angular velocity"
+      ],
       "question": "The student recorded 86 mm for the ball. Using the car's mass of 9.5 g and the force data from the graph, deduce whether 86 mm is the radius or the diameter.",
       "status": "pending",
       "answer": "Pending: the force values read from the graph are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-22.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-23.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-24.jpg"
+      ]
     },
     {
       "id": "5B-Q16b",
       "no": "Q16(b)",
       "marks": 6,
       "topic": "Forces At Top And Bottom",
-      "keywords": ["vertical circle", "toy car", "ball", "greatest force", "least force", "bottom", "top", "period", "centripetal force"],
+      "keywords": [
+        "vertical circle",
+        "toy car",
+        "ball",
+        "greatest force",
+        "least force",
+        "bottom",
+        "top",
+        "period",
+        "centripetal force"
+      ],
       "question": "The force exerted by the ball on the car is greatest at 0.04 s and least at 0.12 s. Discuss the position of the car at these two times, considering the forces on it. No further calculations are needed.",
       "status": "ready",
       "answer": "At 0.04 s the car is at the bottom of the ball (greatest force); at 0.12 s it is at the top (least force). The two times are half a period apart, giving a period of about 0.16 s.",
@@ -568,6 +1051,11 @@
         "The greatest force at 0.04 s means the car is at the bottom, and the least force at 0.12 s means it is at the top.",
         "The bottom and top are half a revolution apart, so half a period is 0.08 s and T is about 0.16 s.",
         "omega = 2 pi / 0.16 = 39 rad s^-1, consistent with about 40 rad s^-1."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-22.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-23.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-24.jpg"
       ]
     },
     {
@@ -575,29 +1063,61 @@
       "no": "Q17",
       "marks": 1,
       "topic": "Angular Velocity Choice",
-      "keywords": ["toy aeroplane", "circular path", "12 revolutions", "6 s", "angular velocity", "rad per second", "multiple choice"],
+      "keywords": [
+        "toy aeroplane",
+        "circular path",
+        "12 revolutions",
+        "6 s",
+        "angular velocity",
+        "rad per second",
+        "multiple choice"
+      ],
       "question": "A toy aeroplane completes 12 revolutions in 6 s. Select the expression giving its angular velocity in rad s^-1.",
       "status": "pending",
       "answer": "Pending: the multiple-choice options are missing from the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-24.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-25.jpg"
+      ]
     },
     {
       "id": "5B-Q18",
       "no": "Q18",
       "marks": 1,
       "topic": "Centrifuge Angular Velocity",
-      "keywords": ["centrifuge", "1500 rev per minute", "angular velocity", "radians per second", "expression", "multiple choice"],
+      "keywords": [
+        "centrifuge",
+        "1500 rev per minute",
+        "angular velocity",
+        "radians per second",
+        "expression",
+        "multiple choice"
+      ],
       "question": "A laboratory centrifuge rotates at 1500 revolutions per minute. Select the expression giving its angular velocity in radians per second.",
       "status": "pending",
       "answer": "Pending: the multiple-choice expressions are missing from the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-25.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-26.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-27.jpg"
+      ]
     },
     {
       "id": "5B-Q19a",
       "no": "Q19(a)",
       "marks": 5,
       "topic": "Centripetal Acceleration",
-      "keywords": ["model aeroplane", "centripetal acceleration", "vector diagram", "constant speed", "derive", "horizontal circle", "velocity"],
+      "keywords": [
+        "model aeroplane",
+        "centripetal acceleration",
+        "vector diagram",
+        "constant speed",
+        "derive",
+        "horizontal circle",
+        "velocity"
+      ],
       "question": "A model aeroplane moves at constant speed v in a horizontal circle of radius r, centre O. Using the velocities at two positions, derive the equation for its centripetal acceleration, with a vector diagram.",
       "status": "ready",
       "answer": "a = v^2 / r, directed towards the centre O.",
@@ -606,6 +1126,11 @@
         "The vector change in velocity dv = vB - vA points towards the centre O.",
         "For a small angle theta between the positions, dv is approximately v theta, and theta = v dt / r.",
         "a = dv / dt = v^2 / r, directed to the centre."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-25.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-26.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-27.jpg"
       ]
     },
     {
@@ -613,7 +1138,16 @@
       "no": "Q19(b)",
       "marks": 4,
       "topic": "Wire Tension Check",
-      "keywords": ["model aeroplane", "tension", "wire", "lift", "twice the weight", "35 N", "circular motion", "wire breaks"],
+      "keywords": [
+        "model aeroplane",
+        "tension",
+        "wire",
+        "lift",
+        "twice the weight",
+        "35 N",
+        "circular motion",
+        "wire breaks"
+      ],
       "question": "A 1.55 kg model aeroplane moves in a horizontal circle of radius 28.5 m at 22.5 m/s. The lift is vertically upwards and equal to twice its weight. The wire breaks if the tension exceeds 35 N. Deduce whether the wire breaks.",
       "status": "ready",
       "answer": "Tension is about 31 N, which is less than 35 N, so the wire does not break.",
@@ -623,6 +1157,11 @@
         "The horizontal component of tension gives the centripetal force: T_h = m v^2 / r = 1.55 x 22.5^2 / 28.5 = 27.5 N.",
         "Total tension T = sqrt(15.2^2 + 27.5^2) = sqrt(989) = 31.5 N.",
         "31 N is less than 35 N, so the wire does not break."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-25.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-26.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-27.jpg"
       ]
     },
     {
@@ -630,7 +1169,16 @@
       "no": "Q20(a)",
       "marks": 4,
       "topic": "Maximum Friction On Tilted Disk",
-      "keywords": ["friction", "coin", "tilted disk", "maximum frictional force", "6.3 cm", "30 cm disk", "mass 8.8 g", "slide"],
+      "keywords": [
+        "friction",
+        "coin",
+        "tilted disk",
+        "maximum frictional force",
+        "6.3 cm",
+        "30 cm disk",
+        "mass 8.8 g",
+        "slide"
+      ],
       "question": "A coin of mass 8.8 g on a disk of diameter 30 cm is tilted by raising one edge by 6.3 cm until the coin just starts to slide. Show that the maximum frictional force is about 0.02 N.",
       "status": "ready",
       "answer": "Maximum friction f = mg sin(theta) = 0.018 N, which is about 0.02 N.",
@@ -639,6 +1187,11 @@
         "Just before sliding, friction acting up the slope balances the component of weight down the slope.",
         "Maximum friction f = m g sin(theta) = 0.0088 x 9.81 x 0.21.",
         "f = 0.018 N, which rounds to about 0.02 N."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-27.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-28.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-29.jpg"
       ]
     },
     {
@@ -646,7 +1199,14 @@
       "no": "Q20(b)(i)",
       "marks": 2,
       "topic": "Angular Velocity Of Disk",
-      "keywords": ["angular velocity", "disk", "45 revolutions per minute", "turntable", "rad per second", "conversion"],
+      "keywords": [
+        "angular velocity",
+        "disk",
+        "45 revolutions per minute",
+        "turntable",
+        "rad per second",
+        "conversion"
+      ],
       "question": "The disk rotates on a turntable at 45 revolutions per minute. Calculate its angular velocity.",
       "status": "ready",
       "answer": "Angular velocity = 4.7 rad s^-1.",
@@ -654,6 +1214,11 @@
         "Frequency f = 45 rev / 60 s = 0.75 rev s^-1.",
         "omega = 2 pi f = 2 pi x 0.75.",
         "omega = 4.71 rad s^-1, which is about 4.7 rad s^-1."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-27.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-28.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-29.jpg"
       ]
     },
     {
@@ -661,7 +1226,16 @@
       "no": "Q20(b)(ii)",
       "marks": 3,
       "topic": "Coin Distance From Edge",
-      "keywords": ["coin", "friction", "centripetal force", "edge", "5 cm", "angular velocity", "maximum friction 0.02 N", "disk radius"],
+      "keywords": [
+        "coin",
+        "friction",
+        "centripetal force",
+        "edge",
+        "5 cm",
+        "angular velocity",
+        "maximum friction 0.02 N",
+        "disk radius"
+      ],
       "question": "The maximum friction is 0.02 N and the coin (8.8 g) rotates at 4.7 rad/s on a disk of radius 15 cm. Deduce whether the estimate of 5 cm for the closest the coin can be to the edge without sliding is suitable.",
       "status": "ready",
       "answer": "Suitable: the coin can be at most about 10 cm from the centre, so the closest it can be to the edge is about 5 cm.",
@@ -670,6 +1244,11 @@
         "r_max = f_max / (m omega^2) = 0.02 / (0.0088 x 4.71^2) = 0.02 / 0.195 = 0.10 m.",
         "The coin can be at most about 10 cm from the centre, so it must be at least 15 - 10 = 5 cm from the edge.",
         "The student's estimate of about 5 cm is therefore suitable."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-27.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-28.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-29.jpg"
       ]
     },
     {
@@ -677,7 +1256,15 @@
       "no": "Q21(a)(i)",
       "marks": 2,
       "topic": "Drum Angular Velocity",
-      "keywords": ["washing machine", "drum", "angular velocity", "1400 rev per minute", "rad per second", "show that", "150 rad/s"],
+      "keywords": [
+        "washing machine",
+        "drum",
+        "angular velocity",
+        "1400 rev per minute",
+        "rad per second",
+        "show that",
+        "150 rad/s"
+      ],
       "question": "The washing machine drum rotates at 1400 revolutions per minute. Show that its angular velocity is about 150 rad s^-1.",
       "status": "ready",
       "answer": "omega = 146.6 rad s^-1, which is about 150 rad s^-1.",
@@ -685,6 +1272,10 @@
         "Frequency f = 1400 / 60 = 23.3 rev s^-1.",
         "omega = 2 pi f = 2 pi x 23.3 = 146.6 rad s^-1.",
         "This rounds to about 150 rad s^-1, as required."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-29.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-30.jpg"
       ]
     },
     {
@@ -692,7 +1283,15 @@
       "no": "Q21(a)(ii)",
       "marks": 2,
       "topic": "Drum Centripetal Acceleration",
-      "keywords": ["drum", "centripetal acceleration", "diameter 45 cm", "circumference", "angular velocity", "washing machine", "point on drum"],
+      "keywords": [
+        "drum",
+        "centripetal acceleration",
+        "diameter 45 cm",
+        "circumference",
+        "angular velocity",
+        "washing machine",
+        "point on drum"
+      ],
       "question": "The drum has diameter 45 cm and rotates at 1400 rev/min. Calculate the centripetal acceleration of a point on its circumference.",
       "status": "ready",
       "answer": "Centripetal acceleration = 4.8 x 10^3 m s^-2.",
@@ -701,6 +1300,10 @@
         "Angular velocity omega = 146.6 rad s^-1 from part (i).",
         "a = omega^2 r = 146.6^2 x 0.225 = 21 492 x 0.225.",
         "a = 4.8 x 10^3 m s^-2, directed towards the axis of the drum."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-29.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-30.jpg"
       ]
     },
     {
@@ -708,18 +1311,40 @@
       "no": "Q21(b)(i)",
       "marks": 2,
       "topic": "Forces On Clothing Diagram",
-      "keywords": ["clothing", "drum", "forces", "normal force", "weight", "vertical circle", "labelled arrows", "diagram"],
+      "keywords": [
+        "clothing",
+        "drum",
+        "forces",
+        "normal force",
+        "weight",
+        "vertical circle",
+        "labelled arrows",
+        "diagram"
+      ],
       "question": "Add labelled arrows to each diagram to show the forces acting on the item of clothing in the drum.",
       "status": "pending",
       "answer": "Pending: the two diagrams are not in the text extraction; the arrows needed are weight downwards and the normal force from the drum wall.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-29.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-30.jpg"
+      ]
     },
     {
       "id": "5B-Q21b(ii)",
       "no": "Q21(b)(ii)",
       "marks": 3,
       "topic": "Forces At Bottom And Top",
-      "keywords": ["clothing", "drum", "bottom", "top", "normal force", "weight", "constant speed", "vertical circle"],
+      "keywords": [
+        "clothing",
+        "drum",
+        "bottom",
+        "top",
+        "normal force",
+        "weight",
+        "constant speed",
+        "vertical circle"
+      ],
       "question": "The drum rotates at constant speed. Explain how the forces on the item of clothing vary between the bottom and the top of the drum.",
       "status": "ready",
       "answer": "The normal force is largest at the bottom (N = m v^2/r + mg) and smallest at the top (N = m v^2/r - mg), while the resultant centripetal force stays constant.",
@@ -728,6 +1353,10 @@
         "At the bottom, the normal force acts upwards and weight downwards: N - mg = m v^2 / r, so N = m v^2 / r + mg.",
         "At the top, the normal force and weight both act downwards towards the centre: N + mg = m v^2 / r, so N = m v^2 / r - mg.",
         "The normal force is greatest at the bottom and least at the top, so the clothing is pressed hardest against the drum at the bottom."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-29.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-30.jpg"
       ]
     },
     {
@@ -735,7 +1364,16 @@
       "no": "Q21(b)(iii)",
       "marks": 1,
       "topic": "Path Of Escaping Water",
-      "keywords": ["water", "drum holes", "path", "tangent", "straight line", "newton first law", "centrifugal", "leaves drum"],
+      "keywords": [
+        "water",
+        "drum holes",
+        "path",
+        "tangent",
+        "straight line",
+        "newton first law",
+        "centrifugal",
+        "leaves drum"
+      ],
       "question": "Water leaves the drum through the holes as it rotates. Describe the path of the water as it leaves the holes.",
       "status": "ready",
       "answer": "The water travels in a straight line, tangent to the circle at the hole it leaves through.",
@@ -743,6 +1381,10 @@
         "Once the water leaves a hole, no inward force from the drum acts on it.",
         "By Newton's first law, the water continues with the velocity it had at the instant of leaving.",
         "That velocity is tangent to the circular path, so the water moves in a straight line tangent to the drum."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-29.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-30.jpg"
       ]
     },
     {
@@ -750,18 +1392,39 @@
       "no": "Q22",
       "marks": 1,
       "topic": "Phase Angle In Radians",
-      "keywords": ["phase difference", "waves", "radians", "40 degrees", "conversion", "multiple choice", "two sources"],
+      "keywords": [
+        "phase difference",
+        "waves",
+        "radians",
+        "40 degrees",
+        "conversion",
+        "multiple choice",
+        "two sources"
+      ],
       "question": "Two sources produce waves with a phase difference of 40 degrees. Select the expression that gives this angle in radians.",
       "status": "pending",
       "answer": "Pending: the multiple-choice options are missing from the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-31.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-32.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-33.jpg"
+      ]
     },
     {
       "id": "5B-Q23a(i)",
       "no": "Q23(a)(i)",
       "marks": 3,
       "topic": "Average Angular Velocity",
-      "keywords": ["turntable", "glass of water", "angular velocity", "160 degrees", "2.2 s", "radians", "average"],
+      "keywords": [
+        "turntable",
+        "glass of water",
+        "angular velocity",
+        "160 degrees",
+        "2.2 s",
+        "radians",
+        "average"
+      ],
       "question": "The turntable is rotated through 160 degrees in 2.2 s. Show that the average angular velocity of the glass is about 1.3 rad s^-1.",
       "status": "ready",
       "answer": "omega = 2.79 rad / 2.2 s = 1.27 rad s^-1, which is about 1.3 rad s^-1.",
@@ -769,6 +1432,11 @@
         "Convert the angle: 160 degrees x pi / 180 = 2.79 rad.",
         "Average angular velocity = angle / time = 2.79 / 2.2 s.",
         "= 1.27 rad s^-1, which rounds to about 1.3 rad s^-1."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-31.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-32.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-33.jpg"
       ]
     },
     {
@@ -776,7 +1444,15 @@
       "no": "Q23(a)(ii)",
       "marks": 2,
       "topic": "Velocity Varies With Radius",
-      "keywords": ["turntable", "angular velocity", "linear velocity", "radius", "same angular velocity", "glass position", "v = omega r"],
+      "keywords": [
+        "turntable",
+        "angular velocity",
+        "linear velocity",
+        "radius",
+        "same angular velocity",
+        "glass position",
+        "v = omega r"
+      ],
       "question": "Explain why the glass has the same angular velocity wherever it is placed on the turntable, but its velocity varies with its position.",
       "status": "ready",
       "answer": "All points on the rigid turntable turn through the same angle each second, so omega is the same; the linear speed v = omega r depends on the radius r.",
@@ -785,6 +1461,11 @@
         "Therefore the angular velocity omega is the same for every position of the glass.",
         "The linear velocity of a point at radius r is v = omega r.",
         "A glass further from the centre has a larger radius and so a larger velocity."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-31.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-32.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-33.jpg"
       ]
     },
     {
@@ -792,18 +1473,40 @@
       "no": "Q23(b)(i)",
       "marks": 4,
       "topic": "Glass Sliding On Turntable",
-      "keywords": ["turntable", "glass of water", "maximum friction", "slide", "5 cm from edge", "angular velocity 1.3 rad/s", "diameter 50 cm"],
+      "keywords": [
+        "turntable",
+        "glass of water",
+        "maximum friction",
+        "slide",
+        "5 cm from edge",
+        "angular velocity 1.3 rad/s",
+        "diameter 50 cm"
+      ],
       "question": "The maximum frictional force between the glass and the turntable is given by an expression in m, the mass of the glass. Someone says that a glass placed less than 5 cm from the edge of a 50.0 cm turntable (omega = 1.3 rad/s) will slide. Deduce whether they are correct.",
       "status": "pending",
       "answer": "Pending: the expression for the maximum frictional force is missing from the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-31.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-32.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-33.jpg"
+      ]
     },
     {
       "id": "5B-Q23b(ii)",
       "no": "Q23(b)(ii)",
       "marks": 2,
       "topic": "Full Versus Empty Glass",
-      "keywords": ["glass of water", "empty glass", "sliding", "mass", "friction", "centripetal force", "turntable", "identical glasses"],
+      "keywords": [
+        "glass of water",
+        "empty glass",
+        "sliding",
+        "mass",
+        "friction",
+        "centripetal force",
+        "turntable",
+        "identical glasses"
+      ],
       "question": "Two identical glasses are placed at the same distance from the edge of the turntable, one full of water and one empty. Explain whether either is more likely to slide as the turntable rotates.",
       "status": "ready",
       "answer": "Neither: the required centripetal force and the maximum friction are both proportional to mass, so the mass cancels and both are equally likely to slide.",
@@ -812,6 +1515,11 @@
         "The maximum friction is also proportional to mass, since it depends on the normal force (mg).",
         "Both sides of the comparison scale with mass, so the mass cancels.",
         "The full and empty glasses are therefore equally likely to slide at the same distance from the edge."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-31.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-32.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-33.jpg"
       ]
     },
     {
@@ -819,18 +1527,40 @@
       "no": "Q24",
       "marks": 1,
       "topic": "Change In Velocity Vector",
-      "keywords": ["model aeroplane", "horizontal circle", "change in velocity", "vector diagram", "vF", "vG", "constant speed", "multiple choice"],
+      "keywords": [
+        "model aeroplane",
+        "horizontal circle",
+        "change in velocity",
+        "vector diagram",
+        "vF",
+        "vG",
+        "constant speed",
+        "multiple choice"
+      ],
       "question": "A model aeroplane moves at constant speed in a horizontal circle, with velocities vF at F and vG at G. Select the correct vector diagram showing the change in velocity from F to G.",
       "status": "pending",
       "answer": "Pending: the vector diagram options are not in the text extraction.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-33.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-34.jpg"
+      ]
     },
     {
       "id": "5B-Q25a(i)",
       "no": "Q25(a)(i)",
       "marks": 5,
       "topic": "Mass Of Air Pushed",
-      "keywords": ["propeller", "air mass", "density", "swept area", "0.20 s", "2.4 m/s", "1.3 kg m^-3", "toy aeroplane"],
+      "keywords": [
+        "propeller",
+        "air mass",
+        "density",
+        "swept area",
+        "0.20 s",
+        "2.4 m/s",
+        "1.3 kg m^-3",
+        "toy aeroplane"
+      ],
       "question": "A propeller sweeps a circle of radius 4.1 cm and pushes air backwards at 2.4 m/s. The density of air is 1.3 kg m^-3. Show that the mass of air pushed back in 0.20 s is about 3 x 10^-3 kg.",
       "status": "ready",
       "answer": "m = rho A v t = 1.3 x 5.28 x 10^-3 x 2.4 x 0.20 = 3.3 x 10^-3 kg, which is about 3 x 10^-3 kg.",
@@ -839,6 +1569,12 @@
         "Volume of air pushed in time t: V = A v t = 5.28 x 10^-3 x 2.4 x 0.20 = 2.53 x 10^-3 m^3.",
         "Mass m = rho V = 1.3 x 2.53 x 10^-3 = 3.3 x 10^-3 kg.",
         "This is about 3 x 10^-3 kg, as required."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-34.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-35.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-36.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-37.jpg"
       ]
     },
     {
@@ -846,7 +1582,15 @@
       "no": "Q25(a)(ii)",
       "marks": 2,
       "topic": "Momentum Of Pushed Air",
-      "keywords": ["momentum", "air", "propeller", "0.20 s", "mass 3.3 x 10^-3 kg", "2.4 m/s", "kg m s^-1"],
+      "keywords": [
+        "momentum",
+        "air",
+        "propeller",
+        "0.20 s",
+        "mass 3.3 x 10^-3 kg",
+        "2.4 m/s",
+        "kg m s^-1"
+      ],
       "question": "Determine the momentum of the air pushed backwards by the propeller in 0.20 s.",
       "status": "ready",
       "answer": "Momentum = 7.9 x 10^-3 kg m s^-1 (N s).",
@@ -854,6 +1598,12 @@
         "The air is pushed backwards at speed v = 2.4 m s^-1.",
         "The mass of air pushed in 0.20 s is m = 3.3 x 10^-3 kg from part (i).",
         "Momentum p = m v = 3.3 x 10^-3 x 2.4 = 7.9 x 10^-3 kg m s^-1."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-34.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-35.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-36.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-37.jpg"
       ]
     },
     {
@@ -861,7 +1611,15 @@
       "no": "Q25(a)(iii)",
       "marks": 2,
       "topic": "Thrust From Air Momentum",
-      "keywords": ["force", "propeller", "momentum change", "newton third law", "rate of change of momentum", "0.20 s", "forwards force"],
+      "keywords": [
+        "force",
+        "propeller",
+        "momentum change",
+        "newton third law",
+        "rate of change of momentum",
+        "0.20 s",
+        "forwards force"
+      ],
       "question": "Determine the forwards force exerted on the aeroplane by the action of the propeller.",
       "status": "ready",
       "answer": "Force = 0.040 N (about 4 x 10^-2 N), acting forwards on the aeroplane.",
@@ -869,6 +1627,12 @@
         "By Newton's third law, the forwards force on the aeroplane equals the rate of change of momentum of the backward-moving air.",
         "F = change in momentum / time = 7.9 x 10^-3 / 0.20 s.",
         "F = 0.040 N, acting forwards on the aeroplane."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-34.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-35.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-36.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-37.jpg"
       ]
     },
     {
@@ -876,18 +1640,41 @@
       "no": "Q25(b)(i)",
       "marks": 2,
       "topic": "Forces On Toy Aeroplane",
-      "keywords": ["toy aeroplane", "thread", "tension", "weight", "free body diagram", "horizontal circle", "forces"],
+      "keywords": [
+        "toy aeroplane",
+        "thread",
+        "tension",
+        "weight",
+        "free body diagram",
+        "horizontal circle",
+        "forces"
+      ],
       "question": "The forwards and backwards forces on the toy aeroplane are equal in magnitude. Add to the diagram the other forces acting on the toy aeroplane.",
       "status": "pending",
       "answer": "Pending: the diagram is not in the text extraction; the forces to add are tension along the thread and weight vertically downward.",
-      "steps": []
+      "steps": [],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-34.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-35.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-36.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-37.jpg"
+      ]
     },
     {
       "id": "5B-Q25b(ii)",
       "no": "Q25(b)(ii)",
       "marks": 3,
       "topic": "Thread Angle Derivation",
-      "keywords": ["toy aeroplane", "thread angle", "tan theta", "horizontal circle", "tension", "weight", "centripetal force", "derive"],
+      "keywords": [
+        "toy aeroplane",
+        "thread angle",
+        "tan theta",
+        "horizontal circle",
+        "tension",
+        "weight",
+        "centripetal force",
+        "derive"
+      ],
       "question": "Show that the angle theta of the thread to the vertical for the toy aeroplane in a horizontal circle of radius r at speed v is given by tan(theta) = v^2 / (r g). (The target expression is not reproduced in the text extraction.)",
       "status": "ready",
       "answer": "tan(theta) = v^2 / (r g), equivalently tan(theta) = omega^2 r / g.",
@@ -896,6 +1683,12 @@
         "Vertically T cos(theta) = mg, since there is no vertical acceleration.",
         "Horizontally, towards the centre, T sin(theta) = m v^2 / r.",
         "Dividing gives tan(theta) = v^2 / (r g)."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-34.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-35.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-36.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-37.jpg"
       ]
     },
     {
@@ -903,15 +1696,30 @@
       "no": "Q25(b)(iii)",
       "marks": 3,
       "topic": "Time For One Revolution",
-      "keywords": ["toy aeroplane", "period", "revolution", "thread angle 22 degrees", "radius 21 cm", "angular velocity", "time"],
+      "keywords": [
+        "toy aeroplane",
+        "period",
+        "revolution",
+        "thread angle 22 degrees",
+        "radius 21 cm",
+        "angular velocity",
+        "time"
+      ],
       "question": "The thread makes an angle of 22 degrees to the vertical and the radius of the circle is 21 cm. Calculate the time for the toy aeroplane to complete one revolution.",
       "status": "ready",
-      "answer": "Time = 1.4 s for one revolution.",
+      "answer": "T = 1.4 s for one revolution.",
       "steps": [
-        "From tan(theta) = omega^2 r / g, omega^2 = g tan(theta) / r.",
-        "omega^2 = 9.81 x tan(22 degrees) / 0.21 = 9.81 x 0.404 / 0.21 = 18.9 rad^2 s^-2.",
-        "omega = 4.34 rad s^-1.",
-        "Period T = 2 pi / omega = 6.28 / 4.34 = 1.45 s, which is about 1.4 s."
+        "Vertically T_thread cos(theta) = mg and horizontally T_thread sin(theta) = m omega^2 r, so tan(theta) = omega^2 r / g.",
+        "Rearrange: omega^2 = g tan(theta) / r, with r = 21 cm = 0.21 m.",
+        "omega^2 = 9.81 x tan(22 degrees) / 0.21 = 9.81 x 0.404 / 0.21 = 18.9 rad^2 s^-2, so omega = 4.34 rad s^-1.",
+        "Period T = 2 pi / omega = 6.283 / 4.344 = 1.446 s.",
+        "So the time for one revolution is 1.4 s (2 s.f.)."
+      ],
+      "images": [
+        "papers/physics/img/22-5B-Circular-Motion-34.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-35.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-36.jpg",
+        "papers/physics/img/22-5B-Circular-Motion-37.jpg"
       ]
     }
   ]
