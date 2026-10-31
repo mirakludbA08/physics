@@ -153,6 +153,15 @@
   function pickChanged() {
     renderFilters();
     rerender();
+    slideInList();
+  }
+
+  // A new list or topic swaps every question on screen, so the list slides in like a
+  // new page. Typing in the search box does not, as that would flicker on every key.
+  function slideInList() {
+    if (!list.animate || (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches)) return;
+    list.animate([{ opacity: 0, transform: 'translateY(14px)' }, { opacity: 1, transform: 'none' }],
+      { duration: 320, easing: 'cubic-bezier(.2, .9, .2, 1)' });
   }
 
   function renderFilters() {
@@ -268,6 +277,7 @@
         renderViewBar();
         renderFilters();
         rerender();
+        slideInList();
       });
       viewBar.appendChild(b);
     });
@@ -359,15 +369,20 @@
     return row;
   }
 
+  // The parts of the same question that come before this one on the paper.
+  function partsBefore(q) {
+    const num = (no) => (/^Q(\d+)/.exec(no || '') || [])[1];
+    const n = num(q.no);
+    if (!n) return [];
+    const list = q.paper.questions;
+    const at = list.findIndex((x) => x.id === q.id);
+    return list.slice(0, Math.max(0, at)).filter((x) => num(x.no) === n);
+  }
+
   // Earlier parts of the same question, with their answers: later parts often use
   // information or results from them. Collapsed, so they do not crowd the card.
   function earlierParts(q) {
-    const num = (no) => (/^Q(\d+)/.exec(no || '') || [])[1];
-    const n = num(q.no);
-    if (!n) return null;
-    const list = q.paper.questions;
-    const at = list.findIndex((x) => x.id === q.id);
-    const prev = list.slice(0, Math.max(0, at)).filter((x) => num(x.no) === n);
+    const prev = partsBefore(q);
     if (!prev.length) return null;
     const box = el('details', 'q-context');
     box.appendChild(el('summary', null, 'Earlier parts of this question (' + prev.length + ')'));
@@ -512,43 +527,153 @@
   }
 
   /* ---------- Download as PDF ----------
-     Builds a print-only copy of the questions on screen (or their answers) in this
-     page and opens the print dialog, where "Save as PDF" downloads it. No pop-up is
-     used, because pop-up blockers and phones often stop them. Both PDFs number the
-     questions the same way, so answers match questions. */
+     Lays the questions on screen (or their answers) out as A4 pages off screen, draws
+     each page with html2canvas and saves them as one PDF file with jsPDF. A real file
+     works on phones too: iOS will not open the print screen after a wait, and it only
+     saves a file straight from a tap, so iPhones and iPads get a "Save PDF" button once
+     the file is ready. Both PDFs number the questions the same way, so answers match
+     questions. */
   const PDF_WARN_AT = 300;
+  const PAGE_W = 794; // A4 at 96 px per inch
+  const PAGE_H = 1123;
+  const PDF_LIBS = [
+    'https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js',
+    'https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js'
+  ];
+  let libsLoading = null;
+  let pdfBusy = false;
+
+  // The two libraries are only needed for a PDF, so they load on the first one.
+  function loadPdfLibs() {
+    if (!libsLoading) {
+      libsLoading = Promise.all(PDF_LIBS.map((src) => new Promise((res, rej) => {
+        const s = document.createElement('script');
+        s.src = src;
+        s.onload = res;
+        s.onerror = () => rej(new Error('Could not load ' + src));
+        document.head.appendChild(s);
+      }))).catch((err) => { libsLoading = null; throw err; });
+    }
+    return libsLoading;
+  }
+
+  // iPadOS reports itself as a Mac, so a Mac with a touch screen counts too.
+  const needsTapToSave = () => /iPad|iPhone|iPod/.test(navigator.userAgent) ||
+    (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
 
   function esc(s) {
     return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
 
-  function pdfQuestion(q, withPages, printed) {
-    let html = '<p class="pq-text">' + window.QFormat.format(q.question, subject) + '</p>';
-    if (!withPages && q.figures && q.figures.length) {
-      html += q.figures.map((src) => '<img class="pq-page" src="' + esc(src) + '" alt="Diagram from the ' + esc(q.paper.code) + ' paper">').join('');
-    } else if (withPages && q.images && q.images.length) {
-      // Several parts often share a page: print each page once, with the first part on it.
-      const fresh = q.images.filter((src) => !printed.has(src));
-      fresh.forEach((src) => printed.add(src));
-      html += fresh.length
-        ? fresh.map((src) => '<img class="pq-page" src="' + esc(src) + '" alt="Page from the ' + esc(q.paper.code) + ' paper">').join('')
-        : '<p class="pq-note">This part is on the page printed above.</p>';
-    } else if (q.status === 'pending' || optionsOnlyInImage(q)) {
-      html += '<p class="pq-note">This question needs its page from the paper: tick "Include the pages from the paper".</p>';
+  const fmt = (text) => window.QFormat.format(text, subject);
+
+  // One question: the question, the answers to its earlier parts, then the diagram,
+  // graph or table it needs, cut from the paper (never the whole page).
+  function pdfQuestion(q) {
+    let html = '<p class="pq-text">' + fmt(q.question) + '</p>';
+    const prev = partsBefore(q).filter((x) => x.status !== 'pending');
+    if (prev.length) {
+      html += '<div class="pq-prev"><p class="pq-prev-title">Answers to the earlier parts</p>' +
+        prev.map((x) => '<p><span class="pq-prev-no">' + esc(x.no) + ':</span> ' + fmt(x.answer) + '</p>').join('') + '</div>';
+    }
+    if (q.figures && q.figures.length) {
+      html += '<div class="pq-box' + (q.figures.length > 1 ? ' many' : '') + '">' + q.figures.map((src) => '<img src="' + esc(src) + '" alt="">').join('') + '</div>';
     }
     return html;
   }
 
   function pdfAnswer(q) {
-    if (q.status === 'pending') return '<p class="pq-note">' + window.QFormat.format(q.answer, subject) + '</p>';
-    let html = '<p class="pq-answer"><strong>Answer:</strong> ' + window.QFormat.format(q.answer, subject) + '</p>';
+    if (q.status === 'pending') return '<p class="pq-note">' + fmt(q.answer) + '</p>';
+    let html = '<p class="pq-answer"><strong>Answer:</strong> ' + fmt(q.answer) + '</p>';
     if (q.steps && q.steps.length) {
-      html += '<ol class="pq-steps">' + q.steps.map((s) => '<li>' + window.QFormat.format(s, subject) + '</li>').join('') + '</ol>';
+      html += '<ol class="pq-steps">' + q.steps.map((s) => '<li>' + fmt(s) + '</li>').join('') + '</ol>';
     }
     return html;
   }
 
-  function makePdf(kind, withPages) {
+  // The message pill at the bottom of the screen, with optional buttons.
+  function pdfNote(text, ...actions) {
+    document.querySelectorAll('.pdf-wait').forEach((n) => n.remove());
+    const note = el('div', 'pdf-wait');
+    note.setAttribute('role', 'status');
+    note.appendChild(el('span', 'pdf-wait-text', text));
+    actions.forEach((a) => note.appendChild(a));
+    document.body.appendChild(note);
+    return note;
+  }
+
+  function closeNoteButton() {
+    const b = el('button', 'pdf-close', '×');
+    b.type = 'button';
+    b.setAttribute('aria-label', 'Close');
+    b.addEventListener('click', () => b.closest('.pdf-wait').remove());
+    return b;
+  }
+
+  function downloadFile(file) {
+    const url = URL.createObjectURL(file);
+    const a = el('a');
+    a.href = url;
+    a.download = file.name;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 60000);
+  }
+
+  function deliverPdf(file) {
+    if (!needsTapToSave()) {
+      downloadFile(file);
+      const note = pdfNote('Your PDF has downloaded.', closeNoteButton());
+      setTimeout(() => note.remove(), 5000);
+      return;
+    }
+    // On iPhone and iPad the share sheet offers Save to Files, Books and the rest.
+    const save = el('button', 'pdf-save', 'Save PDF');
+    save.type = 'button';
+    save.addEventListener('click', () => {
+      if (navigator.canShare && navigator.canShare({ files: [file] })) {
+        navigator.share({ files: [file], title: file.name.replace(/\.pdf$/, '') }).catch((err) => {
+          if (err.name !== 'AbortError') downloadFile(file);
+        });
+      } else {
+        downloadFile(file);
+      }
+    });
+    pdfNote('Your PDF is ready.', save, closeNoteButton());
+  }
+
+  function newPdfPage(root) {
+    const page = el('div', 'pdf-page');
+    const body = el('div', 'pdf-page-body');
+    page.appendChild(body);
+    root.appendChild(page);
+    return page;
+  }
+
+  // Moves the blocks onto A4 pages, starting a new page whenever one would overflow.
+  // A block taller than a whole page gets a tall page of its own, shrunk to fit later.
+  function paginate(root, blocks) {
+    const pages = [newPdfPage(root)];
+    blocks.forEach((block) => {
+      let page = pages[pages.length - 1];
+      let body = page.firstChild;
+      body.appendChild(block);
+      if (body.scrollHeight <= body.clientHeight || body.childElementCount === 1) {
+        if (body.scrollHeight > body.clientHeight) page.classList.add('tall');
+        return;
+      }
+      page = newPdfPage(root);
+      pages.push(page);
+      body = page.firstChild;
+      body.appendChild(block);
+      if (body.scrollHeight > body.clientHeight) page.classList.add('tall');
+    });
+    return pages;
+  }
+
+  async function makePdf(kind) {
+    if (pdfBusy) return;
     const qs = currentQuestions();
     if (!qs.length) { window.alert('There are no questions in this list to download.'); return; }
     if (qs.length > PDF_WARN_AT && !window.confirm(qs.length + ' questions make a very long PDF. Press Cancel and pick a topic to make it shorter, or OK to carry on.')) return;
@@ -564,44 +689,74 @@
       qs.length + (qs.length === 1 ? ' question' : ' questions')
     ].filter(Boolean).join(' · ');
 
-    const printed = new Set();
-    const body = qs.map((q, n) => '<section class="pq' + (withPages && kind !== 'answers' ? ' has-pages' : '') + '">' +
-      '<div class="pq-head"><span class="pq-num">' + (n + 1) + '</span><span class="pq-code">' + esc(q.paper.code + ' · ' + q.no) + '</span>' +
-      '<span class="pq-marks">' + q.marks + (q.marks === 1 ? ' mark' : ' marks') + '</span></div>' +
-      (kind === 'answers' ? pdfAnswer(q) : pdfQuestion(q, withPages, printed)) + '</section>').join('');
+    pdfBusy = true;
+    const note = pdfNote('Preparing your PDF…');
+    const say = (text) => { note.firstChild.textContent = text; };
+    const root = el('div', 'pdf-render');
+    try {
+      await loadPdfLibs();
 
-    document.querySelectorAll('.print-area, .pdf-wait').forEach((n) => n.remove());
-    const area = el('div', 'print-area');
-    area.innerHTML = '<header class="pdf-head"><h1>' + esc(title) + '</h1><p>' + esc(scope) + ' · IALqBank</p></header>' + body;
-    document.body.appendChild(area);
+      const head = el('header', 'pdf-head');
+      head.innerHTML = '<h1>' + esc(title) + '</h1><p>' + esc(scope) + ' · IALqBank</p>';
+      const blocks = [head, ...qs.map((q, n) => {
+        const s = el('section', 'pq');
+        s.innerHTML = '<div class="pq-head"><span class="pq-num">' + (n + 1) + '</span><span class="pq-code">' + esc(q.paper.code + ' · ' + q.no) + '</span>' +
+          '<span class="pq-marks">' + q.marks + (q.marks === 1 ? ' mark' : ' marks') + '</span></div>' +
+          (kind === 'answers' ? pdfAnswer(q) : pdfQuestion(q));
+        return s;
+      })];
 
-    // Wait for the paper pages and the maths fonts, so nothing prints half-loaded.
-    const note = el('div', 'pdf-wait', 'Preparing your PDF…');
-    document.body.appendChild(note);
-    const imgs = Array.from(area.querySelectorAll('img'));
-    let loaded = 0;
-    const tick = () => { note.textContent = 'Preparing your PDF: loading page ' + loaded + ' of ' + imgs.length + '…'; };
-    if (imgs.length) tick();
-    Promise.all(imgs.map((img) => (img.complete ? Promise.resolve() : new Promise((res) => {
-      img.onload = img.onerror = () => { loaded++; tick(); res(); };
-    }))))
-      .then(() => (document.fonts ? document.fonts.ready : null))
-      .then(() => {
-        note.remove();
-        // The saved PDF is named after the page title.
-        const pageTitle = document.title;
-        document.title = title + ' · IALqBank';
-        document.body.classList.add('printing');
-        window.addEventListener('afterprint', () => {
-          document.body.classList.remove('printing');
-          document.title = pageTitle;
-        }, { once: true });
-        window.print();
+      // Lay everything out once, so the diagrams load and the maths fonts settle
+      // before the pages are measured.
+      blocks.forEach((b) => root.appendChild(b));
+      document.body.appendChild(root);
+      const imgs = Array.from(root.querySelectorAll('img'));
+      let loaded = 0;
+      await Promise.all(imgs.map((img) => (img.complete ? null : new Promise((res) => {
+        img.onload = img.onerror = () => { loaded++; say('Preparing your PDF: loading diagram ' + loaded + ' of ' + imgs.length + '…'); res(); };
+      }))));
+      if (document.fonts) await document.fonts.ready;
+
+      const pages = paginate(root, blocks);
+      pages.forEach((page, i) => {
+        const foot = el('div', 'pdf-foot');
+        foot.appendChild(el('span', null, title + ' · IALqBank'));
+        foot.appendChild(el('span', null, 'Page ' + (i + 1) + ' of ' + pages.length));
+        page.appendChild(foot);
       });
+
+      // html2canvas copies the whole document for every drawing, so it skips
+      // everything except the page being drawn and the stylesheets.
+      const keep = (node, page) => node === page || page.contains(node) || node.contains(page) ||
+        node.tagName === 'HEAD' || !!(node.closest && node.closest('head'));
+      const doc = new window.jspdf.jsPDF({ unit: 'mm', format: 'a4', compress: true });
+      for (let i = 0; i < pages.length; i++) {
+        say('Making your PDF: page ' + (i + 1) + ' of ' + pages.length + '…');
+        const h = pages[i].offsetHeight;
+        // Phones refuse very large canvases, so a tall page is drawn at a lower scale.
+        const scale = Math.min(2, Math.sqrt(14e6 / (PAGE_W * h)));
+        const canvas = await window.html2canvas(pages[i], {
+          scale, backgroundColor: '#ffffff', logging: false, ignoreElements: (node) => !keep(node, pages[i])
+        });
+        const jpeg = canvas.toDataURL('image/jpeg', 0.8);
+        canvas.width = canvas.height = 0;
+        if (i) doc.addPage();
+        const w = h > PAGE_H ? 210 * PAGE_H / h : 210;
+        doc.addImage(jpeg, 'JPEG', (210 - w) / 2, 0, w, 297);
+      }
+
+      const file = new File([doc.output('blob')], title + ' - IALqBank.pdf', { type: 'application/pdf' });
+      deliverPdf(file);
+    } catch (err) {
+      pdfNote('Sorry, the PDF could not be made. Check your connection and try again.', closeNoteButton());
+    } finally {
+      root.remove();
+      pdfBusy = false;
+    }
   }
 
   document.querySelectorAll('.pdf-btn').forEach((b) => {
-    b.addEventListener('click', () => makePdf(b.dataset.kind, document.getElementById('pdf-pages').checked));
+    b.addEventListener('click', () => makePdf(b.dataset.kind));
   });
 
   /* ---------- Notes drawer ----------

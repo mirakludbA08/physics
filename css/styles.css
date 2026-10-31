@@ -928,6 +928,35 @@ details.solution[open] > summary { background: var(--blue); color: #fff; margin-
   *, *::before, *::after { transition: none !important; animation: none !important; }
 }
 
+/* ---------- Pressing and moving between pages ----------
+   js/motion.js makes buttons sink while pressed. Here: no grey tap flash on phones
+   (the press shows instead), and no wait for a double-tap zoom before a tap counts. */
+button, summary, [role="button"], .btn, .nav-links li a, .page-nav a, .unit-card li a, .toc a,
+.subject-tab, .subject-links a, .paper-pdf, .drawer-link {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+/* Changing page slides the old page up and away while the new one rises in. The top
+   bar, sidebar and theme button stay where they are. Browsers without cross-page view
+   transitions (marked html.no-vt by motion.js) just fade the new page in. The fill is
+   "backwards" so nothing is left on <main> afterwards to upset fixed or sticky parts. */
+@media (prefers-reduced-motion: no-preference) {
+  @view-transition { navigation: auto; }
+
+  .bank-top { view-transition-name: top-bar; }
+  .sidebar { view-transition-name: sidebar; }
+  .theme-toggle { view-transition-name: theme-toggle; }
+
+  ::view-transition-old(root) { animation: page-out 0.2s cubic-bezier(.4, 0, 1, 1) both; }
+  ::view-transition-new(root) { animation: page-in 0.38s cubic-bezier(.2, .9, .2, 1) both; }
+
+  html.no-vt main { animation: page-in 0.4s cubic-bezier(.2, .9, .2, 1) backwards; }
+}
+
+@keyframes page-out { to { opacity: 0; transform: translateY(-12px); } }
+@keyframes page-in { from { opacity: 0; transform: translateY(16px); } }
+
 /* ---------- Subject palettes ----------
    Each subject's notes config sets <html data-subject="...">. Physics keeps the
    default blues above; the others swap the same variables. Text-on-colour pairs
