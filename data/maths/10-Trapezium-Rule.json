@@ -31,6 +31,13 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-01.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1814,
+          0.5052
+        ]
       ]
     },
     {
@@ -61,6 +68,13 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-01.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5176,
+          0.5755
+        ]
       ]
     },
     {
@@ -91,6 +105,25 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-01.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6372,
+          0.7274
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.5176,
+              0.5755
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -121,6 +154,25 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-02.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2602,
+          0.3561
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.0997,
+              0.2365
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -155,6 +207,35 @@
       ],
       "figures": [
         "papers/maths/fig/10-Trapezium-Rule-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3998,
+          0.9126
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.0997,
+              0.2365
+            ]
+          ]
+        ],
+        [
+          "Q2(a)",
+          [
+            [
+              0,
+              0.2602,
+              0.3561
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -184,6 +265,25 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-03.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3143,
+          0.4008
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.2764,
+              0.301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -214,6 +314,25 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-03.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.453,
+          0.5641
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.2764,
+              0.301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -242,6 +361,25 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-03.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6106,
+          0.6895
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.2764,
+              0.301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -271,6 +409,30 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-03.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-04.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1007,
+          0.2051
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.85,
+              0.9639
+            ],
+            [
+              1,
+              0.0361,
+              0.0836
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -300,6 +462,30 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-03.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-04.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2678,
+          0.3751
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.85,
+              0.9639
+            ],
+            [
+              1,
+              0.0361,
+              0.0836
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -330,6 +516,30 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-04.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2821,
+          0.3181
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6705,
+              0.9535
+            ],
+            [
+              1,
+              0.0351,
+              0.2612
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -363,6 +573,30 @@
       ],
       "figures": [
         "papers/maths/fig/10-Trapezium-Rule-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3637,
+          0.4625
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6705,
+              0.9535
+            ],
+            [
+              1,
+              0.0351,
+              0.2612
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -393,6 +627,25 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-05.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0351,
+          0.1406
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.754,
+              0.9544
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -423,6 +676,35 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-05.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1871,
+          0.3295
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.754,
+              0.9544
+            ]
+          ]
+        ],
+        [
+          "Q6(a)",
+          [
+            [
+              1,
+              0.0351,
+              0.1406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -455,6 +737,30 @@
       ],
       "figures": [
         "papers/maths/fig/10-Trapezium-Rule-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1216,
+          0.1406
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6353,
+              0.9525
+            ],
+            [
+              1,
+              0.0456,
+              0.0959
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -485,6 +791,30 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-06.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-07.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1871,
+          0.2792
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6353,
+              0.9525
+            ],
+            [
+              1,
+              0.0456,
+              0.0959
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -514,6 +844,40 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-06.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-07.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3257,
+          0.4017
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6353,
+              0.9525
+            ],
+            [
+              1,
+              0.0456,
+              0.0959
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              1,
+              0.1871,
+              0.2792
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -544,6 +908,13 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-07.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6923,
+          0.9487
+        ]
       ]
     },
     {
@@ -576,6 +947,25 @@
       ],
       "figures": [
         "papers/maths/fig/10-Trapezium-Rule-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6173,
+          0.6505
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2773,
+              0.604
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -604,6 +994,35 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-08.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6961,
+          0.7835
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2773,
+              0.604
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.6173,
+              0.6505
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -636,6 +1055,35 @@
       ],
       "figures": [
         "papers/maths/fig/10-Trapezium-Rule-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8291,
+          0.9117
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2773,
+              0.604
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              0,
+              0.6961,
+              0.7835
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -668,6 +1116,25 @@
       ],
       "figures": [
         "papers/maths/fig/10-Trapezium-Rule-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7265,
+          0.7759
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2773,
+              0.7132
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -698,6 +1165,25 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-09.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8243,
+          0.9392
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2773,
+              0.7132
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -731,6 +1217,45 @@
       ],
       "figures": [
         "papers/maths/fig/10-Trapezium-Rule-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.1358
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2773,
+              0.7132
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              0,
+              0.7265,
+              0.7759
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              0,
+              0.8243,
+              0.9392
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -764,6 +1289,30 @@
       ],
       "figures": [
         "papers/maths/fig/10-Trapezium-Rule-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.887,
+          0.906
+        ],
+        [
+          1,
+          0.0361,
+          0.1187
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.4236,
+              0.8737
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -798,6 +1347,40 @@
       ],
       "figures": [
         "papers/maths/fig/10-Trapezium-Rule-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1652,
+          0.3096
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.4236,
+              0.8737
+            ]
+          ]
+        ],
+        [
+          "Q11(a)",
+          [
+            [
+              0,
+              0.887,
+              0.906
+            ],
+            [
+              1,
+              0.0361,
+              0.1187
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -828,6 +1411,25 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-11.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7578,
+          0.8034
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6002,
+              0.7455
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -858,6 +1460,40 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-11.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.85,
+          0.924
+        ],
+        [
+          1,
+          0.0342,
+          0.0769
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6002,
+              0.7455
+            ]
+          ]
+        ],
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.7578,
+              0.8034
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -891,6 +1527,25 @@
       ],
       "figures": [
         "papers/maths/fig/10-Trapezium-Rule-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7417,
+          0.7607
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.3827,
+              0.7284
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -921,6 +1576,25 @@
       ],
       "figures": [
         "papers/maths/fig/10-Trapezium-Rule-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8072,
+          0.8405
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.3827,
+              0.7284
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -951,6 +1625,40 @@
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-12.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8889,
+          0.9079
+        ],
+        [
+          1,
+          0.0342,
+          0.1358
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.3827,
+              0.7284
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.7417,
+              0.7607
+            ]
+          ]
+        ]
       ]
     }
   ]

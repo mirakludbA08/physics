@@ -31,6 +31,25 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-1.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2783,
+          0.3257
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.265
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -60,6 +79,35 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-1.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3723,
+          0.4701
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.265
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.2783,
+              0.3257
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -89,6 +137,13 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-1.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7588,
+          0.8642
+        ]
       ]
     },
     {
@@ -120,6 +175,25 @@
       ],
       "figures": [
         "papers/maths/fig/04-Quadratic-Curves-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8044,
+          0.8234
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.2108,
+              0.7588
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -152,6 +226,25 @@
       ],
       "figures": [
         "papers/maths/fig/04-Quadratic-Curves-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8699,
+          0.8879
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.2108,
+              0.7588
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -183,6 +276,30 @@
       ],
       "figures": [
         "papers/maths/fig/04-Quadratic-Curves-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9354,
+          0.9544
+        ],
+        [
+          1,
+          0.0351,
+          0.1197
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.2108,
+              0.7588
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -215,6 +332,25 @@
       ],
       "figures": [
         "papers/maths/fig/04-Quadratic-Curves-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.133,
+          0.2004
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.2108,
+              0.7588
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -246,6 +382,35 @@
       ],
       "figures": [
         "papers/maths/fig/04-Quadratic-Curves-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.246,
+          0.2934
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.2108,
+              0.7588
+            ]
+          ]
+        ],
+        [
+          "Q3(c)",
+          [
+            [
+              1,
+              0.133,
+              0.2004
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -275,6 +440,25 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-3.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5869,
+          0.6714
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.4255,
+              0.5726
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -304,6 +488,25 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-3.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.717,
+          0.7531
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.4255,
+              0.5726
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -332,6 +535,25 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-3.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7996,
+          0.8186
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.4255,
+              0.5726
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -361,6 +583,13 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-4.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1614,
+          0.2488
+        ]
       ]
     },
     {
@@ -390,6 +619,25 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-4.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2925,
+          0.4122
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5(a)",
+          [
+            [
+              0,
+              0.1614,
+              0.2488
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -419,6 +667,13 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-4.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7341,
+          0.7835
+        ]
       ]
     },
     {
@@ -448,6 +703,25 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-4.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8319,
+          0.8832
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6(a)",
+          [
+            [
+              0,
+              0.7341,
+              0.7835
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -477,6 +751,13 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-5.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.245,
+          0.2953
+        ]
       ]
     },
     {
@@ -506,6 +787,25 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-5.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3438,
+          0.4131
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7(a)",
+          [
+            [
+              0,
+              0.245,
+              0.2953
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -535,6 +835,25 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-5.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8651,
+          0.9487
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7018,
+              0.8509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -564,6 +883,35 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-5.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.1595
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7018,
+              0.8509
+            ]
+          ]
+        ],
+        [
+          "Q8(a)(ii)",
+          [
+            [
+              0,
+              0.8984,
+              0.9487
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -593,6 +941,25 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-6.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5147,
+          0.5992
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.452,
+              0.5043
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -621,6 +988,25 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-6.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6477,
+          0.698
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.452,
+              0.5043
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -650,6 +1036,30 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-6.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7455,
+          0.9098
+        ],
+        [
+          1,
+          0.0351,
+          0.0807
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.452,
+              0.5043
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -679,6 +1089,25 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-7.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3761,
+          0.4606
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3409,
+              0.3618
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -708,6 +1137,25 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-7.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5062,
+          0.5964
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3409,
+              0.3618
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -737,6 +1185,25 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-7.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9345,
+          0.9525
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8851,
+              0.9212
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -766,6 +1233,35 @@
       "images": [
         "papers/maths/img/P1-04-Quadratic-Curves-7.jpg",
         "papers/maths/img/P1-04-Quadratic-Curves-8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.0864
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8851,
+              0.9212
+            ]
+          ]
+        ],
+        [
+          "Q11(a)",
+          [
+            [
+              0,
+              0.9345,
+              0.9525
+            ]
+          ]
+        ]
       ]
     }
   ]

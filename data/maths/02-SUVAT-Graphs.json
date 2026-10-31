@@ -32,6 +32,25 @@
         "papers/maths/img/M1-02-SUVAT-Graphs-1.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-2.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.378,
+          0.4131
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.3647
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -62,6 +81,25 @@
         "papers/maths/img/M1-02-SUVAT-Graphs-1.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-2.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4587,
+          0.4786
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.3647
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -93,6 +131,25 @@
         "papers/maths/img/M1-02-SUVAT-Graphs-1.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-2.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5242,
+          0.5432
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.3647
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -122,6 +179,25 @@
         "papers/maths/img/M1-02-SUVAT-Graphs-1.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-2.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5897,
+          0.6087
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.3647
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -155,6 +231,25 @@
       ],
       "figures": [
         "papers/maths/fig/02-SUVAT-Graphs-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4236,
+          0.4568
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              1,
+              0.0332,
+              0.4103
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -188,6 +283,25 @@
       ],
       "figures": [
         "papers/maths/fig/02-SUVAT-Graphs-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5052,
+          0.7037
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              1,
+              0.0332,
+              0.4103
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -217,6 +331,25 @@
         "papers/maths/img/M1-02-SUVAT-Graphs-1.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-2.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7483,
+          0.7854
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              1,
+              0.0332,
+              0.4103
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -248,6 +381,30 @@
         "papers/maths/img/M1-02-SUVAT-Graphs-1.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-2.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8471,
+          0.9649
+        ],
+        [
+          2,
+          0.0332,
+          0.2802
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              1,
+              0.0332,
+              0.4103
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -278,6 +435,30 @@
         "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-4.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.699,
+          0.7493
+        ],
+        [
+          1,
+          0.0332,
+          0.2963
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5366,
+              0.6866
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -309,6 +490,25 @@
         "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-4.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3419,
+          0.3932
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5366,
+              0.6866
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -337,6 +537,25 @@
         "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-4.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4397,
+          0.4587
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5366,
+              0.6866
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -365,6 +584,25 @@
       "images": [
         "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2631,
+          0.2991
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.0351,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -395,6 +633,25 @@
       "images": [
         "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3447,
+          0.4122
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.0351,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -424,6 +681,25 @@
       "images": [
         "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4587,
+          0.4777
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.0351,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -454,6 +730,25 @@
       ],
       "figures": [
         "papers/maths/fig/02-SUVAT-Graphs-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0351,
+          0.1519
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7654,
+              0.9677
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -483,6 +778,25 @@
       "images": [
         "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1652,
+          0.2013
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7654,
+              0.9677
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -516,6 +830,25 @@
       ],
       "figures": [
         "papers/maths/fig/02-SUVAT-Graphs-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2469,
+          0.265
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7654,
+              0.9677
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -546,6 +879,25 @@
       ],
       "figures": [
         "papers/maths/fig/02-SUVAT-Graphs-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3124,
+          0.3314
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7654,
+              0.9677
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -574,6 +926,25 @@
       "images": [
         "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.378,
+          0.4274
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7654,
+              0.9677
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -604,6 +975,25 @@
       "images": [
         "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8167,
+          0.8348
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.7189,
+              0.8034
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -632,6 +1022,25 @@
       "images": [
         "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8822,
+          0.9335
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.7189,
+              0.8034
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -661,6 +1070,25 @@
       "images": [
         "papers/maths/img/M1-02-SUVAT-Graphs-7.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3742,
+          0.396
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.2754,
+              0.3599
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -691,6 +1119,25 @@
       "images": [
         "papers/maths/img/M1-02-SUVAT-Graphs-7.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4387,
+          0.4606
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.2754,
+              0.3599
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -719,6 +1166,25 @@
       "images": [
         "papers/maths/img/M1-02-SUVAT-Graphs-7.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5062,
+          0.5423
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.2754,
+              0.3599
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -751,6 +1217,25 @@
       ],
       "figures": [
         "papers/maths/fig/02-SUVAT-Graphs-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4511,
+          0.4691
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              1,
+              0.0332,
+              0.4378
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -782,6 +1267,25 @@
       ],
       "figures": [
         "papers/maths/fig/02-SUVAT-Graphs-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5166,
+          0.5356
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              1,
+              0.0332,
+              0.4378
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -814,6 +1318,25 @@
       ],
       "figures": [
         "papers/maths/fig/02-SUVAT-Graphs-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5821,
+          0.6002
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              1,
+              0.0332,
+              0.4378
+            ]
+          ]
+        ]
       ]
     }
   ]

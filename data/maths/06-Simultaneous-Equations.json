@@ -32,6 +32,25 @@
       "images": [
         "papers/maths/img/P1-06-Simultaneous-Equations-1.jpg",
         "papers/maths/img/P1-06-Simultaneous-Equations-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4074,
+          0.4587
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.3951
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -63,6 +82,25 @@
       "images": [
         "papers/maths/img/P1-06-Simultaneous-Equations-1.jpg",
         "papers/maths/img/P1-06-Simultaneous-Equations-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5043,
+          0.5565
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.3951
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -93,6 +131,30 @@
       "images": [
         "papers/maths/img/P1-06-Simultaneous-Equations-1.jpg",
         "papers/maths/img/P1-06-Simultaneous-Equations-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.133,
+          0.1519
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.8452,
+              0.963
+            ],
+            [
+              1,
+              0.0361,
+              0.1197
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -123,6 +185,30 @@
       "images": [
         "papers/maths/img/P1-06-Simultaneous-Equations-1.jpg",
         "papers/maths/img/P1-06-Simultaneous-Equations-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1985,
+          0.2507
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.8452,
+              0.963
+            ],
+            [
+              1,
+              0.0361,
+              0.1197
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -154,6 +240,13 @@
       "images": [
         "papers/maths/img/P1-06-Simultaneous-Equations-2.jpg",
         "papers/maths/img/P1-06-Simultaneous-Equations-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5394,
+          0.6173
+        ]
       ]
     },
     {
@@ -214,6 +307,25 @@
       "images": [
         "papers/maths/img/P1-06-Simultaneous-Equations-3.jpg",
         "papers/maths/img/P1-06-Simultaneous-Equations-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3761,
+          0.5565
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3105,
+              0.3628
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -245,6 +357,35 @@
       "images": [
         "papers/maths/img/P1-06-Simultaneous-Equations-3.jpg",
         "papers/maths/img/P1-06-Simultaneous-Equations-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6049,
+          0.7217
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3105,
+              0.3628
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              0,
+              0.3761,
+              0.5565
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -272,6 +413,25 @@
       "images": [
         "papers/maths/img/P1-06-Simultaneous-Equations-4.jpg",
         "papers/maths/img/P1-06-Simultaneous-Equations-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1985,
+          0.2175
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.0674,
+              0.1852
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -299,6 +459,25 @@
       "images": [
         "papers/maths/img/P1-06-Simultaneous-Equations-4.jpg",
         "papers/maths/img/P1-06-Simultaneous-Equations-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2612,
+          0.3153
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.0674,
+              0.1852
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -330,6 +509,35 @@
       "images": [
         "papers/maths/img/P1-06-Simultaneous-Equations-4.jpg",
         "papers/maths/img/P1-06-Simultaneous-Equations-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3609,
+          0.3808
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.0674,
+              0.1852
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.2612,
+              0.3153
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -358,6 +566,25 @@
       "images": [
         "papers/maths/img/P1-06-Simultaneous-Equations-4.jpg",
         "papers/maths/img/P1-06-Simultaneous-Equations-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8822,
+          0.9003
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6695,
+              0.8661
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -384,6 +611,25 @@
       "images": [
         "papers/maths/img/P1-06-Simultaneous-Equations-4.jpg",
         "papers/maths/img/P1-06-Simultaneous-Equations-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9478,
+          0.9668
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6695,
+              0.8661
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -410,6 +656,25 @@
       ],
       "images": [
         "papers/maths/img/P1-06-Simultaneous-Equations-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5062,
+          0.5261
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.3105,
+              0.4938
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -436,6 +701,25 @@
       ],
       "images": [
         "papers/maths/img/P1-06-Simultaneous-Equations-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5717,
+          0.6239
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.3105,
+              0.4938
+            ]
+          ]
+        ]
       ]
     }
   ]

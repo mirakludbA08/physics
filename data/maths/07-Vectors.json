@@ -31,6 +31,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-1.jpg",
         "papers/maths/img/M1-07-Vectors-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3286,
+          0.3476
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.3153
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -61,6 +80,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-1.jpg",
         "papers/maths/img/M1-07-Vectors-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3941,
+          0.4444
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.3153
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -89,6 +127,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-1.jpg",
         "papers/maths/img/M1-07-Vectors-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.85,
+          0.8689
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.735,
+              0.8367
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -119,6 +176,30 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-1.jpg",
         "papers/maths/img/M1-07-Vectors-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9145,
+          0.9668
+        ],
+        [
+          1,
+          0.0351,
+          0.1538
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.735,
+              0.8367
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -149,6 +230,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-1.jpg",
         "papers/maths/img/M1-07-Vectors-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2004,
+          0.2355
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.735,
+              0.8367
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -178,6 +278,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-2.jpg",
         "papers/maths/img/M1-07-Vectors-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6059,
+          0.6258
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5252,
+              0.5935
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -207,6 +326,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-2.jpg",
         "papers/maths/img/M1-07-Vectors-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6714,
+          0.6904
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5252,
+              0.5935
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -235,6 +373,30 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-2.jpg",
         "papers/maths/img/M1-07-Vectors-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0997,
+          0.1197
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8509,
+              0.9658
+            ],
+            [
+              1,
+              0.0351,
+              0.0874
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -263,6 +425,30 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-2.jpg",
         "papers/maths/img/M1-07-Vectors-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1652,
+          0.1985
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8509,
+              0.9658
+            ],
+            [
+              1,
+              0.0351,
+              0.0874
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -292,6 +478,30 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-2.jpg",
         "papers/maths/img/M1-07-Vectors-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2469,
+          0.2982
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8509,
+              0.9658
+            ],
+            [
+              1,
+              0.0351,
+              0.0874
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -326,6 +536,30 @@
       ],
       "figures": [
         "papers/maths/fig/07-Vectors-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1671,
+          0.1852
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.5859,
+              0.963
+            ],
+            [
+              1,
+              0.0351,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -358,6 +592,30 @@
       ],
       "figures": [
         "papers/maths/fig/07-Vectors-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2327,
+          0.2517
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.5859,
+              0.963
+            ],
+            [
+              1,
+              0.0351,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -389,6 +647,30 @@
       ],
       "figures": [
         "papers/maths/fig/07-Vectors-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2972,
+          0.3172
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.5859,
+              0.963
+            ],
+            [
+              1,
+              0.0351,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -417,6 +699,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-4.jpg",
         "papers/maths/img/M1-07-Vectors-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7341,
+          0.7559
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6059,
+              0.7236
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -445,6 +746,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-4.jpg",
         "papers/maths/img/M1-07-Vectors-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8025,
+          0.8215
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6059,
+              0.7236
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -475,6 +795,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-4.jpg",
         "papers/maths/img/M1-07-Vectors-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.867,
+          0.9516
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6059,
+              0.7236
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -504,6 +843,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-4.jpg",
         "papers/maths/img/M1-07-Vectors-5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.0864
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6059,
+              0.7236
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -533,6 +891,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-5.jpg",
         "papers/maths/img/M1-07-Vectors-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.49,
+          0.51
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3761,
+              0.4767
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -561,6 +938,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-5.jpg",
         "papers/maths/img/M1-07-Vectors-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5556,
+          0.5755
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3761,
+              0.4767
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -590,6 +986,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-5.jpg",
         "papers/maths/img/M1-07-Vectors-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6182,
+          0.7047
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3761,
+              0.4767
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -618,6 +1033,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-6.jpg",
         "papers/maths/img/M1-07-Vectors-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2146,
+          0.2327
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.0674,
+              0.2013
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -647,6 +1081,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-6.jpg",
         "papers/maths/img/M1-07-Vectors-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2773,
+          0.4008
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.0674,
+              0.2013
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -676,6 +1129,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-6.jpg",
         "papers/maths/img/M1-07-Vectors-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4463,
+          0.4986
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.0674,
+              0.2013
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -704,6 +1176,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-6.jpg",
         "papers/maths/img/M1-07-Vectors-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5451,
+          0.5641
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.0674,
+              0.2013
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -733,6 +1224,18 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-6.jpg",
         "papers/maths/img/M1-07-Vectors-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8538,
+          0.9383
+        ],
+        [
+          1,
+          0.0351,
+          0.0541
+        ]
       ]
     },
     {
@@ -761,6 +1264,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-7.jpg",
         "papers/maths/img/M1-07-Vectors-8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4255,
+          0.4444
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3105,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -790,6 +1312,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-7.jpg",
         "papers/maths/img/M1-07-Vectors-8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.49,
+          0.6477
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3105,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -818,6 +1359,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-7.jpg",
         "papers/maths/img/M1-07-Vectors-8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6933,
+          0.7123
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3105,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -847,6 +1407,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-7.jpg",
         "papers/maths/img/M1-07-Vectors-8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7588,
+          0.7768
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3105,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -876,6 +1455,25 @@
       "images": [
         "papers/maths/img/M1-07-Vectors-7.jpg",
         "papers/maths/img/M1-07-Vectors-8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8243,
+          0.8433
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3105,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -907,6 +1505,25 @@
       ],
       "figures": [
         "papers/maths/fig/07-Vectors-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7797,
+          0.7987
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2108,
+              0.7322
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -938,6 +1555,30 @@
       ],
       "figures": [
         "papers/maths/fig/07-Vectors-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8452,
+          0.9117
+        ],
+        [
+          1,
+          0.0351,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2108,
+              0.7322
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -969,6 +1610,25 @@
       ],
       "figures": [
         "papers/maths/fig/07-Vectors-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0997,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2108,
+              0.7322
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1000,6 +1660,25 @@
       ],
       "figures": [
         "papers/maths/fig/07-Vectors-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2023,
+          0.2203
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2108,
+              0.7322
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1027,6 +1706,25 @@
       ],
       "images": [
         "papers/maths/img/M1-07-Vectors-9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6087,
+          0.6277
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.5109,
+              0.5954
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1055,6 +1753,25 @@
       ],
       "images": [
         "papers/maths/img/M1-07-Vectors-9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6743,
+          0.7426
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.5109,
+              0.5954
+            ]
+          ]
+        ]
       ]
     }
   ]

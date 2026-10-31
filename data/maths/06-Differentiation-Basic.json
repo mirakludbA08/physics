@@ -35,6 +35,13 @@
       "images": [
         "papers/maths/img/P3-06-Differentiation-Basic-1.jpg",
         "papers/maths/img/P3-06-Differentiation-Basic-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1814,
+          0.3115
+        ]
       ]
     },
     {
@@ -62,6 +69,25 @@
       "images": [
         "papers/maths/img/P3-06-Differentiation-Basic-1.jpg",
         "papers/maths/img/P3-06-Differentiation-Basic-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6353,
+          0.6714
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5708,
+              0.623
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -93,6 +119,25 @@
       "images": [
         "papers/maths/img/P3-06-Differentiation-Basic-1.jpg",
         "papers/maths/img/P3-06-Differentiation-Basic-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7331,
+          0.8262
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5708,
+              0.623
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -127,6 +172,25 @@
       ],
       "figures": [
         "papers/maths/fig/06-Differentiation-Basic-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5508,
+          0.5935
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1804,
+              0.5385
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -160,6 +224,35 @@
       ],
       "figures": [
         "papers/maths/fig/06-Differentiation-Basic-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6391,
+          0.6914
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1804,
+              0.5385
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.5508,
+              0.5935
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -189,6 +282,25 @@
       "images": [
         "papers/maths/img/P3-06-Differentiation-Basic-2.jpg",
         "papers/maths/img/P3-06-Differentiation-Basic-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1149,
+          0.151
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              1,
+              0.0351,
+              0.1026
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -219,6 +331,25 @@
       "images": [
         "papers/maths/img/P3-06-Differentiation-Basic-2.jpg",
         "papers/maths/img/P3-06-Differentiation-Basic-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2108,
+          0.2317
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              1,
+              0.0351,
+              0.1026
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -248,6 +379,35 @@
       "images": [
         "papers/maths/img/P3-06-Differentiation-Basic-2.jpg",
         "papers/maths/img/P3-06-Differentiation-Basic-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2783,
+          0.3447
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              1,
+              0.0351,
+              0.1026
+            ]
+          ]
+        ],
+        [
+          "Q4(b)",
+          [
+            [
+              1,
+              0.2108,
+              0.2317
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -276,6 +436,25 @@
       "images": [
         "papers/maths/img/P3-06-Differentiation-Basic-3.jpg",
         "papers/maths/img/P3-06-Differentiation-Basic-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.717,
+          0.736
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6363,
+              0.7037
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -305,6 +484,25 @@
       "images": [
         "papers/maths/img/P3-06-Differentiation-Basic-3.jpg",
         "papers/maths/img/P3-06-Differentiation-Basic-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7797,
+          0.8006
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6363,
+              0.7037
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -336,6 +534,25 @@
       "images": [
         "papers/maths/img/P3-06-Differentiation-Basic-3.jpg",
         "papers/maths/img/P3-06-Differentiation-Basic-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8471,
+          0.9193
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6363,
+              0.7037
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -370,6 +587,25 @@
       ],
       "figures": [
         "papers/maths/fig/06-Differentiation-Basic-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7521,
+          0.7711
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.2802,
+              0.7331
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -403,6 +639,35 @@
       ],
       "figures": [
         "papers/maths/fig/06-Differentiation-Basic-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8177,
+          0.8367
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.2802,
+              0.7331
+            ]
+          ]
+        ],
+        [
+          "Q6(a)",
+          [
+            [
+              0,
+              0.7521,
+              0.7711
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -437,6 +702,25 @@
       ],
       "figures": [
         "papers/maths/fig/06-Differentiation-Basic-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5764,
+          0.6866
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.1795,
+              0.5622
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -467,6 +751,35 @@
       ],
       "figures": [
         "papers/maths/fig/06-Differentiation-Basic-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7322,
+          0.7502
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.1795,
+              0.5622
+            ]
+          ]
+        ],
+        [
+          "Q7(a)",
+          [
+            [
+              0,
+              0.5764,
+              0.6866
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -498,6 +811,25 @@
       ],
       "figures": [
         "papers/maths/fig/06-Differentiation-Basic-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7968,
+          0.8803
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.1795,
+              0.5622
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -531,6 +863,30 @@
       ],
       "figures": [
         "papers/maths/fig/06-Differentiation-Basic-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9278,
+          0.9468
+        ],
+        [
+          1,
+          0.0342,
+          0.1054
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.1795,
+              0.5622
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -561,6 +917,13 @@
       "images": [
         "papers/maths/img/P3-06-Differentiation-Basic-6.jpg",
         "papers/maths/img/P3-06-Differentiation-Basic-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3951,
+          0.5081
+        ]
       ]
     },
     {
@@ -591,6 +954,13 @@
       "images": [
         "papers/maths/img/P3-06-Differentiation-Basic-6.jpg",
         "papers/maths/img/P3-06-Differentiation-Basic-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5565,
+          0.6895
+        ]
       ]
     },
     {
@@ -625,6 +995,13 @@
       ],
       "figures": [
         "papers/maths/fig/06-Differentiation-Basic-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.038,
+          0.5299
+        ]
       ]
     }
   ]

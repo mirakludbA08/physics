@@ -59,6 +59,25 @@
       "images": [
         "papers/maths/img/P2-03-Recursive-Sequences-1.jpg",
         "papers/maths/img/P2-03-Recursive-Sequences-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4103,
+          0.4463
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.3314
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -87,6 +106,25 @@
       "images": [
         "papers/maths/img/P2-03-Recursive-Sequences-1.jpg",
         "papers/maths/img/P2-03-Recursive-Sequences-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8803,
+          0.9003
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7521,
+              0.8651
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -118,6 +156,30 @@
       "images": [
         "papers/maths/img/P2-03-Recursive-Sequences-1.jpg",
         "papers/maths/img/P2-03-Recursive-Sequences-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9459,
+          0.963
+        ],
+        [
+          1,
+          0.0418,
+          0.1244
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7521,
+              0.8651
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -146,6 +208,25 @@
       "images": [
         "papers/maths/img/P2-03-Recursive-Sequences-2.jpg",
         "papers/maths/img/P2-03-Recursive-Sequences-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5366,
+          0.5565
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4141,
+              0.5233
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -175,6 +256,25 @@
       "images": [
         "papers/maths/img/P2-03-Recursive-Sequences-2.jpg",
         "papers/maths/img/P2-03-Recursive-Sequences-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6021,
+          0.6885
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4141,
+              0.5233
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -204,6 +304,25 @@
       "images": [
         "papers/maths/img/P2-03-Recursive-Sequences-2.jpg",
         "papers/maths/img/P2-03-Recursive-Sequences-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0351,
+          0.132
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.9459,
+              0.963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -231,6 +350,35 @@
       "images": [
         "papers/maths/img/P2-03-Recursive-Sequences-2.jpg",
         "papers/maths/img/P2-03-Recursive-Sequences-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2754,
+          0.2944
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.9459,
+              0.963
+            ]
+          ]
+        ],
+        [
+          "Q4(ii)",
+          [
+            [
+              1,
+              0.1776,
+              0.2593
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -260,6 +408,35 @@
       "images": [
         "papers/maths/img/P2-03-Recursive-Sequences-2.jpg",
         "papers/maths/img/P2-03-Recursive-Sequences-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.34,
+          0.3799
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.9459,
+              0.963
+            ]
+          ]
+        ],
+        [
+          "Q4(ii)",
+          [
+            [
+              1,
+              0.1776,
+              0.2593
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -288,6 +465,25 @@
       "images": [
         "papers/maths/img/P2-03-Recursive-Sequences-3.jpg",
         "papers/maths/img/P2-03-Recursive-Sequences-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8167,
+          0.9012
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6857,
+              0.8006
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -317,6 +513,30 @@
       "images": [
         "papers/maths/img/P2-03-Recursive-Sequences-3.jpg",
         "papers/maths/img/P2-03-Recursive-Sequences-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9478,
+          0.9639
+        ],
+        [
+          1,
+          0.038,
+          0.1909
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6857,
+              0.8006
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -346,6 +566,40 @@
       "images": [
         "papers/maths/img/P2-03-Recursive-Sequences-3.jpg",
         "papers/maths/img/P2-03-Recursive-Sequences-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2393,
+          0.2593
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6857,
+              0.8006
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              0,
+              0.9478,
+              0.9639
+            ],
+            [
+              1,
+              0.038,
+              0.1909
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -404,6 +658,35 @@
       "images": [
         "papers/maths/img/P2-03-Recursive-Sequences-4.jpg",
         "papers/maths/img/P2-03-Recursive-Sequences-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.792,
+          0.9117
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.548,
+              0.6809
+            ]
+          ]
+        ],
+        [
+          "Q6(a)(iii)",
+          [
+            [
+              0,
+              0.7274,
+              0.7464
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -431,6 +714,13 @@
       ],
       "images": [
         "papers/maths/img/P2-03-Recursive-Sequences-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2783,
+          0.3504
+        ]
       ]
     },
     {
@@ -459,6 +749,25 @@
       ],
       "images": [
         "papers/maths/img/P2-03-Recursive-Sequences-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5024,
+          0.5223
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7(ii)",
+          [
+            [
+              0,
+              0.396,
+              0.4891
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -485,6 +794,25 @@
       ],
       "images": [
         "papers/maths/img/P2-03-Recursive-Sequences-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5679,
+          0.5869
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7(ii)",
+          [
+            [
+              0,
+              0.396,
+              0.4891
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -513,6 +841,35 @@
       ],
       "images": [
         "papers/maths/img/P2-03-Recursive-Sequences-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6334,
+          0.7056
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7(ii)",
+          [
+            [
+              0,
+              0.396,
+              0.4891
+            ]
+          ]
+        ],
+        [
+          "Q7(ii)(b)",
+          [
+            [
+              0,
+              0.5679,
+              0.5869
+            ]
+          ]
+        ]
       ]
     }
   ]

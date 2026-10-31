@@ -28,6 +28,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-1.jpg",
         "papers/maths/img/P3-02-Rational-Functions-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2621,
+          0.2802
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -56,6 +75,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-1.jpg",
         "papers/maths/img/P3-02-Rational-Functions-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3248,
+          0.3457
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -84,6 +122,35 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-1.jpg",
         "papers/maths/img/P3-02-Rational-Functions-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3922,
+          0.51
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.2498
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.2621,
+              0.2802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -113,6 +180,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-1.jpg",
         "papers/maths/img/P3-02-Rational-Functions-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8481,
+          0.9478
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7987,
+              0.8338
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -141,6 +227,35 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-1.jpg",
         "papers/maths/img/P3-02-Rational-Functions-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0655,
+          0.0855
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7987,
+              0.8338
+            ]
+          ]
+        ],
+        [
+          "Q2(a)",
+          [
+            [
+              0,
+              0.8481,
+              0.9478
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -168,6 +283,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-1.jpg",
         "papers/maths/img/P3-02-Rational-Functions-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1301,
+          0.151
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7987,
+              0.8338
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -195,6 +329,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-2.jpg",
         "papers/maths/img/P3-02-Rational-Functions-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5214,
+          0.5575
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4416,
+              0.509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -222,6 +375,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-2.jpg",
         "papers/maths/img/P3-02-Rational-Functions-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6173,
+          0.6382
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4416,
+              0.509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -249,6 +421,35 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-2.jpg",
         "papers/maths/img/P3-02-Rational-Functions-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6857,
+          0.7512
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4416,
+              0.509
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              0,
+              0.6173,
+              0.6382
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -276,6 +477,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-3.jpg",
         "papers/maths/img/P3-02-Rational-Functions-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1804,
+          0.2004
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.0674,
+              0.1681
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -303,6 +523,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-3.jpg",
         "papers/maths/img/P3-02-Rational-Functions-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2431,
+          0.2934
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.0674,
+              0.1681
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -332,6 +571,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-3.jpg",
         "papers/maths/img/P3-02-Rational-Functions-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3115,
+          0.3827
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.0674,
+              0.1681
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -358,6 +616,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-3.jpg",
         "papers/maths/img/P3-02-Rational-Functions-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7778,
+          0.7977
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6714,
+              0.7645
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -384,6 +661,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-3.jpg",
         "papers/maths/img/P3-02-Rational-Functions-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8433,
+          0.8623
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6714,
+              0.7645
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -411,6 +707,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-3.jpg",
         "papers/maths/img/P3-02-Rational-Functions-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.906,
+          0.9278
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6714,
+              0.7645
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -439,6 +754,13 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-4.jpg",
         "papers/maths/img/P3-02-Rational-Functions-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2783,
+          0.3799
+        ]
       ]
     },
     {
@@ -467,6 +789,30 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-4.jpg",
         "papers/maths/img/P3-02-Rational-Functions-5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0893,
+          0.1985
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6353,
+              0.9649
+            ],
+            [
+              1,
+              0.0342,
+              0.0741
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -493,6 +839,40 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-4.jpg",
         "papers/maths/img/P3-02-Rational-Functions-5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2441,
+          0.3618
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6353,
+              0.9649
+            ],
+            [
+              1,
+              0.0342,
+              0.0741
+            ]
+          ]
+        ],
+        [
+          "Q7(a)",
+          [
+            [
+              1,
+              0.0893,
+              0.1985
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -523,6 +903,30 @@
       ],
       "figures": [
         "papers/maths/fig/02-Rational-Functions-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3751,
+          0.3932
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6353,
+              0.9649
+            ],
+            [
+              1,
+              0.0342,
+              0.0741
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -553,6 +957,30 @@
       ],
       "figures": [
         "papers/maths/fig/02-Rational-Functions-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4406,
+          0.5442
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6353,
+              0.9649
+            ],
+            [
+              1,
+              0.0342,
+              0.0741
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -607,6 +1035,30 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-5.jpg",
         "papers/maths/img/P3-02-Rational-Functions-6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0978,
+          0.1187
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.8329,
+              0.9516
+            ],
+            [
+              1,
+              0.0323,
+              0.0817
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -636,6 +1088,40 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-5.jpg",
         "papers/maths/img/P3-02-Rational-Functions-6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1652,
+          0.2165
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.8329,
+              0.9516
+            ],
+            [
+              1,
+              0.0323,
+              0.0817
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.0978,
+              0.1187
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -662,6 +1148,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-6.jpg",
         "papers/maths/img/P3-02-Rational-Functions-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6372,
+          0.6572
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5062,
+              0.6249
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -688,6 +1193,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-6.jpg",
         "papers/maths/img/P3-02-Rational-Functions-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7028,
+          0.7455
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5062,
+              0.6249
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -716,6 +1240,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-6.jpg",
         "papers/maths/img/P3-02-Rational-Functions-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7683,
+          0.7863
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5062,
+              0.6249
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -743,6 +1286,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-6.jpg",
         "papers/maths/img/P3-02-Rational-Functions-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.831,
+          0.8528
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5062,
+              0.6249
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -772,6 +1334,25 @@
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-6.jpg",
         "papers/maths/img/P3-02-Rational-Functions-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8965,
+          0.9316
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5062,
+              0.6249
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -797,6 +1378,25 @@
       ],
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4093,
+          0.4283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2783,
+              0.3951
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -823,6 +1423,25 @@
       ],
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.472,
+          0.5252
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2783,
+              0.3951
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -849,6 +1468,25 @@
       ],
       "images": [
         "papers/maths/img/P3-02-Rational-Functions-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5717,
+          0.5916
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2783,
+              0.3951
+            ]
+          ]
+        ]
       ]
     }
   ]

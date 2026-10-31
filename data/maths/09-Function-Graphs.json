@@ -30,6 +30,25 @@
       ],
       "figures": [
         "papers/maths/fig/09-Function-Graphs-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5233,
+          0.5423
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1804,
+              0.4938
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -56,6 +75,25 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-01.jpg",
         "papers/maths/img/P1-09-Function-Graphs-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5859,
+          0.6078
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1804,
+              0.4938
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -88,6 +126,25 @@
       ],
       "figures": [
         "papers/maths/fig/09-Function-Graphs-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6543,
+          0.7854
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1804,
+              0.4938
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -118,6 +175,40 @@
       ],
       "figures": [
         "papers/maths/fig/09-Function-Graphs-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8338,
+          0.9183
+        ],
+        [
+          1,
+          0.0332,
+          0.2991
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1804,
+              0.4938
+            ]
+          ]
+        ],
+        [
+          "Q1(c)",
+          [
+            [
+              0,
+              0.6543,
+              0.7854
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -145,6 +236,25 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-02.jpg",
         "papers/maths/img/P1-09-Function-Graphs-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6857,
+          0.7379
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5546,
+              0.6714
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -173,6 +283,25 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-02.jpg",
         "papers/maths/img/P1-09-Function-Graphs-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7806,
+          0.8015
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5546,
+              0.6714
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -201,6 +330,35 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-02.jpg",
         "papers/maths/img/P1-09-Function-Graphs-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8481,
+          0.8832
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5546,
+              0.6714
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              0,
+              0.7806,
+              0.8015
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -231,6 +389,25 @@
       ],
       "figures": [
         "papers/maths/fig/09-Function-Graphs-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6002,
+          0.6182
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.245,
+              0.5859
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -258,6 +435,25 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-03.jpg",
         "papers/maths/img/P1-09-Function-Graphs-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6657,
+          0.7493
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.245,
+              0.5859
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -291,6 +487,25 @@
       ],
       "figures": [
         "papers/maths/fig/09-Function-Graphs-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7958,
+          0.9497
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.245,
+              0.5859
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -318,6 +533,25 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-04.jpg",
         "papers/maths/img/P1-09-Function-Graphs-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3105,
+          0.3789
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.1814,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -344,6 +578,25 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-04.jpg",
         "papers/maths/img/P1-09-Function-Graphs-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4236,
+          0.509
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.1814,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -371,6 +624,25 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-04.jpg",
         "papers/maths/img/P1-09-Function-Graphs-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5546,
+          0.7835
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.1814,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -400,6 +672,30 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-04.jpg",
         "papers/maths/img/P1-09-Function-Graphs-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.831,
+          0.8832
+        ],
+        [
+          1,
+          0.0332,
+          0.3124
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.1814,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -430,6 +726,25 @@
       ],
       "figures": [
         "papers/maths/fig/09-Function-Graphs-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8936,
+          0.9136
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.5679,
+              0.8803
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -461,6 +776,25 @@
       ],
       "figures": [
         "papers/maths/fig/09-Function-Graphs-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0351,
+          0.1358
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.5679,
+              0.8803
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -488,6 +822,25 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-06.jpg",
         "papers/maths/img/P1-09-Function-Graphs-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4577,
+          0.491
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.3922,
+              0.4435
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -515,6 +868,35 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-06.jpg",
         "papers/maths/img/P1-09-Function-Graphs-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5394,
+          0.6762
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.3922,
+              0.4435
+            ]
+          ]
+        ],
+        [
+          "Q6(a)",
+          [
+            [
+              0,
+              0.4577,
+              0.491
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -542,6 +924,35 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-06.jpg",
         "papers/maths/img/P1-09-Function-Graphs-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7227,
+          0.8072
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.3922,
+              0.4435
+            ]
+          ]
+        ],
+        [
+          "Q6(b)(ii)",
+          [
+            [
+              0,
+              0.6401,
+              0.6762
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -569,6 +980,13 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-07.jpg",
         "papers/maths/img/P1-09-Function-Graphs-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1643,
+          0.2317
+        ]
       ]
     },
     {
@@ -595,6 +1013,13 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-07.jpg",
         "papers/maths/img/P1-09-Function-Graphs-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2783,
+          0.3941
+        ]
       ]
     },
     {
@@ -623,6 +1048,13 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-07.jpg",
         "papers/maths/img/P1-09-Function-Graphs-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4406,
+          0.5413
+        ]
       ]
     },
     {
@@ -685,6 +1117,25 @@
       ],
       "figures": [
         "papers/maths/fig/09-Function-Graphs-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5242,
+          0.6581
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              1,
+              0.0332,
+              0.4777
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -712,6 +1163,30 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-08.jpg",
         "papers/maths/img/P1-09-Function-Graphs-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0902,
+          0.1235
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.9468,
+              0.9639
+            ],
+            [
+              1,
+              0.0332,
+              0.076
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -740,6 +1215,30 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-08.jpg",
         "papers/maths/img/P1-09-Function-Graphs-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1719,
+          0.2232
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.9468,
+              0.9639
+            ],
+            [
+              1,
+              0.0332,
+              0.076
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -767,6 +1266,25 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-09.jpg",
         "papers/maths/img/P1-09-Function-Graphs-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5603,
+          0.6695
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10(a)",
+          [
+            [
+              0,
+              0.5128,
+              0.5489
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -822,6 +1340,13 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-09.jpg",
         "papers/maths/img/P1-09-Function-Graphs-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7151,
+          0.7806
+        ]
       ]
     },
     {
@@ -853,6 +1378,25 @@
       ],
       "figures": [
         "papers/maths/fig/09-Function-Graphs-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4634,
+          0.5119
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.132,
+              0.4501
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -880,6 +1424,25 @@
       ],
       "figures": [
         "papers/maths/fig/09-Function-Graphs-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5575,
+          0.604
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.132,
+              0.4501
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -911,6 +1474,35 @@
       ],
       "figures": [
         "papers/maths/fig/09-Function-Graphs-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6515,
+          0.7626
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.132,
+              0.4501
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              0,
+              0.5575,
+              0.604
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -942,6 +1534,25 @@
       ],
       "figures": [
         "papers/maths/fig/09-Function-Graphs-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5622,
+          0.6467
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.1159,
+              0.5489
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -969,6 +1580,25 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-11.jpg",
         "papers/maths/img/P1-09-Function-Graphs-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6923,
+          0.7844
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.1159,
+              0.5489
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -996,6 +1626,40 @@
       "images": [
         "papers/maths/img/P1-09-Function-Graphs-11.jpg",
         "papers/maths/img/P1-09-Function-Graphs-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.831,
+          0.9459
+        ],
+        [
+          1,
+          0.0427,
+          0.3951
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.1159,
+              0.5489
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              0,
+              0.6923,
+              0.7844
+            ]
+          ]
+        ]
       ]
     }
   ]

@@ -32,6 +32,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-1.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3124,
+          0.3305
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.2991
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -61,6 +80,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-1.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.378,
+          0.397
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.2991
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -90,6 +128,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-1.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8651,
+          0.8851
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6857,
+              0.8528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -120,6 +177,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-1.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9307,
+          0.9497
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6857,
+              0.8528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -150,6 +226,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-2.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4739,
+          0.4929
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3105,
+              0.4587
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -178,6 +273,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-2.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5394,
+          0.5584
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3105,
+              0.4587
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -207,6 +321,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-2.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9459,
+          0.9658
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7189,
+              0.9297
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -235,6 +368,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-2.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.0864
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7189,
+              0.9297
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -263,6 +415,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-3.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5062,
+          0.5261
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3761,
+              0.491
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -291,6 +462,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-3.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5717,
+          0.5916
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3761,
+              0.491
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -320,6 +510,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-3.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9459,
+          0.9658
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8803,
+              0.9326
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -348,6 +557,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-3.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.0864
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8803,
+              0.9326
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -378,6 +606,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-3.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.133,
+          0.2536
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8803,
+              0.9326
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -407,6 +654,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-4.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7721,
+          0.7901
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5432,
+              0.7559
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -435,6 +701,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-4.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8367,
+          0.8727
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5432,
+              0.7559
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -464,6 +749,30 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-4.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9183,
+          0.9544
+        ],
+        [
+          1,
+          0.0351,
+          0.0807
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5432,
+              0.7559
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -494,6 +803,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-5.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5233,
+          0.5423
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.3438,
+              0.51
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -522,6 +850,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-5.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5888,
+          0.6078
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.3438,
+              0.51
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -550,6 +897,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-5.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6534,
+          0.6895
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.3438,
+              0.51
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -578,6 +944,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-5.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1159,
+          0.1349
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              1,
+              0.0351,
+              0.1007
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -608,6 +993,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-5.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1814,
+          0.265
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              1,
+              0.0351,
+              0.1007
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -638,6 +1042,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-6.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7189,
+          0.7711
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5556,
+              0.7056
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -666,6 +1089,25 @@
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-6.jpg",
         "papers/maths/img/M1-09-Momentum-Impulse-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8167,
+          0.8367
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5556,
+              0.7056
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -695,6 +1137,25 @@
       ],
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2621,
+          0.2802
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.1804,
+              0.2488
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -722,6 +1183,25 @@
       ],
       "images": [
         "papers/maths/img/M1-09-Momentum-Impulse-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3267,
+          0.3599
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.1804,
+              0.2488
+            ]
+          ]
+        ]
       ]
     }
   ]

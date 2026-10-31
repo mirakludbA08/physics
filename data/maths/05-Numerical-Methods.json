@@ -31,6 +31,25 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-01.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5394,
+          0.5755
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1804,
+              0.5261
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -60,6 +79,25 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-01.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6211,
+          0.6724
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1804,
+              0.5261
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -89,6 +127,25 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-01.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7189,
+          0.7958
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1804,
+              0.5261
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -119,6 +176,25 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-01.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8405,
+          0.9544
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1804,
+              0.5261
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -148,6 +224,35 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-01.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-02.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.1035
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1804,
+              0.5261
+            ]
+          ]
+        ],
+        [
+          "Q1(d)",
+          [
+            [
+              0,
+              0.8405,
+              0.9544
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -180,6 +285,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Numerical-Methods-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7597,
+          0.7787
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3913,
+              0.7474
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -213,6 +337,30 @@
       ],
       "figures": [
         "papers/maths/fig/05-Numerical-Methods-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8253,
+          0.9478
+        ],
+        [
+          1,
+          0.0351,
+          0.1197
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3913,
+              0.7474
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -246,6 +394,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Numerical-Methods-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.133,
+          0.1519
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3913,
+              0.7474
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -278,6 +445,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Numerical-Methods-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8044,
+          0.8234
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4416,
+              0.7892
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -311,6 +497,30 @@
       ],
       "figures": [
         "papers/maths/fig/05-Numerical-Methods-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8699,
+          0.9544
+        ],
+        [
+          1,
+          0.0332,
+          0.076
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4416,
+              0.7892
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -343,6 +553,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Numerical-Methods-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1216,
+          0.2915
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4416,
+              0.7892
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -372,6 +601,25 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-04.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6144,
+          0.6344
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5499,
+              0.6011
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -402,6 +650,25 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-04.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.68,
+          0.8357
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5499,
+              0.6011
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -431,6 +698,25 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-05.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2127,
+          0.2915
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.1776,
+              0.1985
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -460,6 +746,25 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-05.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3352,
+          0.4853
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.1776,
+              0.1985
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -489,6 +794,25 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-05.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5318,
+          0.584
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.1776,
+              0.1985
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -518,6 +842,25 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-05.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9392,
+          0.9573
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8727,
+              0.9231
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -548,6 +891,25 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-05.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.2251
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8727,
+              0.9231
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -577,6 +939,25 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-06.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5679,
+          0.5869
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5157,
+              0.5527
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -606,6 +987,25 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-06.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6334,
+          0.7388
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5157,
+              0.5527
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -635,6 +1035,35 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-06.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7844,
+          0.9107
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5157,
+              0.5527
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              0,
+              0.6334,
+              0.7388
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -664,6 +1093,25 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-06.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-07.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0351,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5157,
+              0.5527
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -694,6 +1142,25 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-07.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7664,
+          0.7854
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.359,
+              0.7531
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -723,6 +1190,30 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-07.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8319,
+          0.9601
+        ],
+        [
+          1,
+          0.0332,
+          0.0712
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.359,
+              0.7531
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -753,6 +1244,25 @@
       "images": [
         "papers/maths/img/P3-05-Numerical-Methods-07.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1187,
+          0.3533
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.359,
+              0.7531
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -785,6 +1295,30 @@
       ],
       "figures": [
         "papers/maths/fig/05-Numerical-Methods-Q9.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0997,
+          0.133
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.6477,
+              0.9478
+            ],
+            [
+              1,
+              0.0351,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -818,6 +1352,30 @@
       ],
       "figures": [
         "papers/maths/fig/05-Numerical-Methods-Q9.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1814,
+          0.2498
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.6477,
+              0.9478
+            ],
+            [
+              1,
+              0.0351,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -851,6 +1409,30 @@
       ],
       "figures": [
         "papers/maths/fig/05-Numerical-Methods-Q9.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2953,
+          0.4653
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.6477,
+              0.9478
+            ],
+            [
+              1,
+              0.0351,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -883,6 +1465,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Numerical-Methods-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4264,
+          0.4444
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.0408,
+              0.4036
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -916,6 +1517,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Numerical-Methods-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.491,
+          0.51
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.0408,
+              0.4036
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -949,6 +1569,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Numerical-Methods-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5565,
+          0.6078
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.0408,
+              0.4036
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -982,6 +1621,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Numerical-Methods-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6543,
+          0.7711
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.0408,
+              0.4036
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1012,6 +1670,25 @@
         "papers/maths/img/P3-05-Numerical-Methods-11.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-12.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2384,
+          0.3086
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.1159,
+              0.2251
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1042,6 +1719,25 @@
         "papers/maths/img/P3-05-Numerical-Methods-11.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-12.jpg",
         "papers/maths/img/P3-05-Numerical-Methods-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3723,
+          0.4872
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.1159,
+              0.2251
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1075,6 +1771,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Numerical-Methods-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4767,
+          0.4957
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.0332,
+              0.4625
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1108,6 +1823,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Numerical-Methods-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5423,
+          0.7407
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.0332,
+              0.4625
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1142,6 +1876,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Numerical-Methods-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7863,
+          0.8879
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.0332,
+              0.4625
+            ]
+          ]
+        ]
       ]
     }
   ]

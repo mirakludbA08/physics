@@ -32,6 +32,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-01.jpg",
         "papers/maths/img/P2-07-Trigonometry-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.245,
+          0.3438
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.2336
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -63,6 +82,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-01.jpg",
         "papers/maths/img/P2-07-Trigonometry-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3922,
+          0.4767
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.2336
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -94,6 +132,13 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-01.jpg",
         "papers/maths/img/P2-07-Trigonometry-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7664,
+          0.8822
+        ]
       ]
     },
     {
@@ -123,6 +168,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-02.jpg",
         "papers/maths/img/P2-07-Trigonometry-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2783,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.2127,
+              0.265
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -152,6 +216,35 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-02.jpg",
         "papers/maths/img/P2-07-Trigonometry-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4084,
+          0.4938
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.2127,
+              0.265
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.2783,
+              0.3628
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -181,6 +274,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-02.jpg",
         "papers/maths/img/P2-07-Trigonometry-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7806,
+          0.8338
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7502,
+              0.7683
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -210,6 +322,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-02.jpg",
         "papers/maths/img/P2-07-Trigonometry-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8803,
+          0.9316
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7502,
+              0.7683
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -239,6 +370,35 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-02.jpg",
         "papers/maths/img/P2-07-Trigonometry-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1747,
+          0.2251
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7502,
+              0.7683
+            ]
+          ]
+        ],
+        [
+          "Q4(ii)",
+          [
+            [
+              1,
+              0.0351,
+              0.1614
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -268,6 +428,45 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-02.jpg",
         "papers/maths/img/P2-07-Trigonometry-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2716,
+          0.2906
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7502,
+              0.7683
+            ]
+          ]
+        ],
+        [
+          "Q4(ii)",
+          [
+            [
+              1,
+              0.0351,
+              0.1614
+            ]
+          ]
+        ],
+        [
+          "Q4(ii)(a)",
+          [
+            [
+              1,
+              0.1747,
+              0.2251
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -296,6 +495,13 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-03.jpg",
         "papers/maths/img/P2-07-Trigonometry-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5812,
+          0.6676
+        ]
       ]
     },
     {
@@ -324,6 +530,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-03.jpg",
         "papers/maths/img/P2-07-Trigonometry-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7787,
+          0.7968
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5(ii)",
+          [
+            [
+              0,
+              0.7132,
+              0.7626
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -353,6 +578,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-03.jpg",
         "papers/maths/img/P2-07-Trigonometry-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8443,
+          0.8632
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5(ii)",
+          [
+            [
+              0,
+              0.7132,
+              0.7626
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -382,6 +626,13 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-04.jpg",
         "papers/maths/img/P2-07-Trigonometry-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2127,
+          0.3276
+        ]
       ]
     },
     {
@@ -412,6 +663,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-04.jpg",
         "papers/maths/img/P2-07-Trigonometry-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3742,
+          0.4843
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6(a)",
+          [
+            [
+              0,
+              0.2127,
+              0.3276
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -440,6 +710,13 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-04.jpg",
         "papers/maths/img/P2-07-Trigonometry-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.774,
+          0.8889
+        ]
       ]
     },
     {
@@ -470,6 +747,30 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-04.jpg",
         "papers/maths/img/P2-07-Trigonometry-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9364,
+          0.9554
+        ],
+        [
+          1,
+          0.0351,
+          0.0864
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7(a)",
+          [
+            [
+              0,
+              0.774,
+              0.8889
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -498,6 +799,13 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-05.jpg",
         "papers/maths/img/P2-07-Trigonometry-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3761,
+          0.453
+        ]
       ]
     },
     {
@@ -527,6 +835,13 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-05.jpg",
         "papers/maths/img/P2-07-Trigonometry-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.509,
+          0.6268
+        ]
       ]
     },
     {
@@ -556,6 +871,18 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-05.jpg",
         "papers/maths/img/P2-07-Trigonometry-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9164,
+          0.9345
+        ],
+        [
+          1,
+          0.0332,
+          0.133
+        ]
       ]
     },
     {
@@ -586,6 +913,30 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-05.jpg",
         "papers/maths/img/P2-07-Trigonometry-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1795,
+          0.3096
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.9164,
+              0.9345
+            ],
+            [
+              1,
+              0.0332,
+              0.133
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -616,6 +967,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-06.jpg",
         "papers/maths/img/P2-07-Trigonometry-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6619,
+          0.7635
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5983,
+              0.6505
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -646,6 +1016,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-06.jpg",
         "papers/maths/img/P2-07-Trigonometry-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8091,
+          0.8946
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5983,
+              0.6505
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -674,6 +1063,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-07.jpg",
         "papers/maths/img/P2-07-Trigonometry-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3105,
+          0.3295
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2431,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -703,6 +1111,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-07.jpg",
         "papers/maths/img/P2-07-Trigonometry-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3761,
+          0.396
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2431,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -731,6 +1158,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-07.jpg",
         "papers/maths/img/P2-07-Trigonometry-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4416,
+          0.5261
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2431,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -760,6 +1206,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-07.jpg",
         "papers/maths/img/P2-07-Trigonometry-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8803,
+          0.9658
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.8148,
+              0.867
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -821,6 +1286,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-08.jpg",
         "papers/maths/img/P2-07-Trigonometry-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6363,
+          0.7208
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5869,
+              0.623
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -850,6 +1334,35 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-08.jpg",
         "papers/maths/img/P2-07-Trigonometry-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8803,
+          0.9012
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5869,
+              0.623
+            ]
+          ]
+        ],
+        [
+          "Q13(ii)",
+          [
+            [
+              0,
+              0.7664,
+              0.868
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -881,6 +1394,40 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-08.jpg",
         "papers/maths/img/P2-07-Trigonometry-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9487,
+          0.9658
+        ],
+        [
+          1,
+          0.0351,
+          0.0807
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5869,
+              0.623
+            ]
+          ]
+        ],
+        [
+          "Q13(ii)",
+          [
+            [
+              0,
+              0.7664,
+              0.868
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -911,6 +1458,25 @@
         "papers/maths/img/P2-07-Trigonometry-09.jpg",
         "papers/maths/img/P2-07-Trigonometry-10.jpg",
         "papers/maths/img/P2-07-Trigonometry-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4093,
+          0.5242
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3438,
+              0.396
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -941,6 +1507,35 @@
         "papers/maths/img/P2-07-Trigonometry-09.jpg",
         "papers/maths/img/P2-07-Trigonometry-10.jpg",
         "papers/maths/img/P2-07-Trigonometry-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5717,
+          0.6562
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3438,
+              0.396
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.4093,
+              0.5242
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -972,6 +1567,30 @@
         "papers/maths/img/P2-07-Trigonometry-09.jpg",
         "papers/maths/img/P2-07-Trigonometry-10.jpg",
         "papers/maths/img/P2-07-Trigonometry-11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.1519
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.9136,
+              0.9658
+            ],
+            [
+              1,
+              0.0351,
+              0.0541
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1003,6 +1622,40 @@
       ],
       "figures": [
         "papers/maths/fig/07-Trigonometry-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6743,
+          0.6933
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.9136,
+              0.9658
+            ],
+            [
+              1,
+              0.0351,
+              0.0541
+            ]
+          ]
+        ],
+        [
+          "Q15(ii)",
+          [
+            [
+              1,
+              0.1985,
+              0.661
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1036,6 +1689,40 @@
       ],
       "figures": [
         "papers/maths/fig/07-Trigonometry-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7398,
+          0.7588
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.9136,
+              0.9658
+            ],
+            [
+              1,
+              0.0351,
+              0.0541
+            ]
+          ]
+        ],
+        [
+          "Q15(ii)",
+          [
+            [
+              1,
+              0.1985,
+              0.661
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1069,6 +1756,40 @@
       ],
       "figures": [
         "papers/maths/fig/07-Trigonometry-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8053,
+          0.8243
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.9136,
+              0.9658
+            ],
+            [
+              1,
+              0.0351,
+              0.0541
+            ]
+          ]
+        ],
+        [
+          "Q15(ii)",
+          [
+            [
+              1,
+              0.1985,
+              0.661
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1098,6 +1819,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-11.jpg",
         "papers/maths/img/P2-07-Trigonometry-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.246,
+          0.3305
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1804,
+              0.2327
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1129,6 +1869,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-11.jpg",
         "papers/maths/img/P2-07-Trigonometry-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3761,
+          0.4606
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1804,
+              0.2327
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1158,6 +1917,25 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-11.jpg",
         "papers/maths/img/P2-07-Trigonometry-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8158,
+          0.9259
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.7502,
+              0.8025
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1188,6 +1966,35 @@
       "images": [
         "papers/maths/img/P2-07-Trigonometry-11.jpg",
         "papers/maths/img/P2-07-Trigonometry-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0332,
+          0.1064
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.7502,
+              0.8025
+            ]
+          ]
+        ],
+        [
+          "Q17(a)",
+          [
+            [
+              0,
+              0.8158,
+              0.9259
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1215,6 +2022,25 @@
       ],
       "images": [
         "papers/maths/img/P2-07-Trigonometry-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4292,
+          0.4473
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.3941,
+              0.415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1244,6 +2070,35 @@
       ],
       "images": [
         "papers/maths/img/P2-07-Trigonometry-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4938,
+          0.5138
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.3941,
+              0.415
+            ]
+          ]
+        ],
+        [
+          "Q18(a)",
+          [
+            [
+              0,
+              0.4292,
+              0.4473
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1272,6 +2127,25 @@
       ],
       "images": [
         "papers/maths/img/P2-07-Trigonometry-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5575,
+          0.6591
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.3941,
+              0.415
+            ]
+          ]
+        ]
       ]
     }
   ]

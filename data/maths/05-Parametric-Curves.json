@@ -32,6 +32,25 @@
       "images": [
         "papers/maths/img/P4-05-Parametric-Curves-1.jpg",
         "papers/maths/img/P4-05-Parametric-Curves-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2621,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.2488
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -61,6 +80,35 @@
       "images": [
         "papers/maths/img/P4-05-Parametric-Curves-1.jpg",
         "papers/maths/img/P4-05-Parametric-Curves-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4084,
+          0.4283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.2488
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.2621,
+              0.3628
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -91,6 +139,13 @@
       "images": [
         "papers/maths/img/P4-05-Parametric-Curves-1.jpg",
         "papers/maths/img/P4-05-Parametric-Curves-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.717,
+          0.8879
+        ]
       ]
     },
     {
@@ -121,6 +176,25 @@
       "images": [
         "papers/maths/img/P4-05-Parametric-Curves-2.jpg",
         "papers/maths/img/P4-05-Parametric-Curves-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3257,
+          0.3457
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.245,
+              0.3124
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -149,6 +223,35 @@
       "images": [
         "papers/maths/img/P4-05-Parametric-Curves-2.jpg",
         "papers/maths/img/P4-05-Parametric-Curves-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3913,
+          0.4274
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.245,
+              0.3124
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.3257,
+              0.3457
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -180,6 +283,30 @@
       ],
       "figures": [
         "papers/maths/fig/05-Parametric-Curves-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1529,
+          0.208
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.6838,
+              0.9164
+            ],
+            [
+              1,
+              0.0351,
+              0.1387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -212,6 +339,30 @@
       ],
       "figures": [
         "papers/maths/fig/05-Parametric-Curves-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2536,
+          0.3381
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.6838,
+              0.9164
+            ],
+            [
+              1,
+              0.0351,
+              0.1387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -242,6 +393,25 @@
       "images": [
         "papers/maths/img/P4-05-Parametric-Curves-3.jpg",
         "papers/maths/img/P4-05-Parametric-Curves-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7075,
+          0.811
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6277,
+              0.6942
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -271,6 +441,35 @@
       "images": [
         "papers/maths/img/P4-05-Parametric-Curves-3.jpg",
         "papers/maths/img/P4-05-Parametric-Curves-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8566,
+          0.9525
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6277,
+              0.6942
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              0,
+              0.7075,
+              0.811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -303,6 +502,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Parametric-Curves-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7398,
+          0.7578
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.3191,
+              0.7265
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -335,6 +553,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Parametric-Curves-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8053,
+          0.8575
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.3191,
+              0.7265
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -367,6 +604,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Parametric-Curves-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9031,
+          0.9544
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.3191,
+              0.7265
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -400,6 +656,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Parametric-Curves-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6942,
+          0.8072
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3096,
+              0.6809
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -431,6 +706,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Parametric-Curves-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8367,
+          0.8547
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3096,
+              0.6809
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -463,6 +757,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Parametric-Curves-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9022,
+          0.9212
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3096,
+              0.6809
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -495,6 +808,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Parametric-Curves-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6743,
+          0.6933
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.2773,
+              0.661
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -527,6 +859,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Parametric-Curves-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7388,
+          0.7901
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.2773,
+              0.661
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -559,6 +910,25 @@
       ],
       "figures": [
         "papers/maths/fig/05-Parametric-Curves-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8367,
+          0.8566
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.2773,
+              0.661
+            ]
+          ]
+        ]
       ]
     }
   ]

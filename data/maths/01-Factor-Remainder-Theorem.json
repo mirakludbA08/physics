@@ -30,6 +30,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-1.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2146,
+          0.2336
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1795,
+              0.2004
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -59,6 +78,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-1.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2792,
+          0.2982
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1795,
+              0.2004
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -90,6 +128,35 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-1.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3447,
+          0.4292
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1795,
+              0.2004
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.2792,
+              0.2982
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -119,6 +186,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-1.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8822,
+          0.9316
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7189,
+              0.868
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -148,6 +234,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-1.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0351,
+          0.0864
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7189,
+              0.868
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -179,6 +284,35 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-1.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.133,
+          0.2175
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7189,
+              0.868
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.0351,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -208,6 +342,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7028,
+          0.7521
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5043,
+              0.6543
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -239,6 +392,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8006,
+          0.8519
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5043,
+              0.6543
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -269,6 +441,35 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8984,
+          0.9506
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5043,
+              0.6543
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              0,
+              0.8006,
+              0.8519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -329,6 +530,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-3.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0351,
+          0.0817
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7949,
+              0.944
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -360,6 +580,35 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-3.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0997,
+          0.1197
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7949,
+              0.944
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              1,
+              0.0351,
+              0.0817
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -389,6 +638,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-4.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5062,
+          0.5584
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4065,
+              0.4929
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -418,6 +686,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-4.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6049,
+          0.6895
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4065,
+              0.4929
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -448,6 +735,35 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-4.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.735,
+          0.755
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4065,
+              0.4929
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.6049,
+              0.6895
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -478,6 +794,35 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-4.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8006,
+          0.8528
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4065,
+              0.4929
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              0,
+              0.735,
+              0.755
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -506,6 +851,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3105,
+          0.3295
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.2099,
+              0.2972
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -537,6 +901,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3761,
+          0.4274
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.2099,
+              0.2972
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -565,6 +948,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7502,
+          0.7692
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7151,
+              0.736
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -594,6 +996,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8158,
+          0.8661
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7151,
+              0.736
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -625,6 +1046,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9136,
+          0.9326
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7151,
+              0.736
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -654,6 +1094,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3761,
+          0.4255
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2754,
+              0.3628
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -685,6 +1144,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4739,
+          0.5252
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2754,
+              0.3628
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -713,6 +1191,25 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5717,
+          0.5907
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2754,
+              0.3628
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -743,6 +1240,35 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6372,
+          0.6562
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2754,
+              0.3628
+            ]
+          ]
+        ],
+        [
+          "Q9(c)",
+          [
+            [
+              0,
+              0.5717,
+              0.5907
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -771,6 +1297,30 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0997,
+          0.1187
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.943,
+              0.9639
+            ],
+            [
+              1,
+              0.0351,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -802,6 +1352,30 @@
       "images": [
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg",
         "papers/maths/img/P2-01-Factor-Remainder-Theorem-7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1652,
+          0.2165
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.943,
+              0.9639
+            ],
+            [
+              1,
+              0.0351,
+              0.0864
+            ]
+          ]
+        ]
       ]
     }
   ]

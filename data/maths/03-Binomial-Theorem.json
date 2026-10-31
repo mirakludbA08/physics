@@ -31,6 +31,13 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-1.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1814,
+          0.3324
+        ]
       ]
     },
     {
@@ -60,6 +67,13 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-1.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5916,
+          0.9316
+        ]
       ]
     },
     {
@@ -89,6 +103,13 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-1.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0351,
+          0.0817
+        ]
       ]
     },
     {
@@ -117,6 +138,13 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-1.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0997,
+          0.1187
+        ]
       ]
     },
     {
@@ -146,6 +174,13 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-2.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4084,
+          0.5214
+        ]
       ]
     },
     {
@@ -175,6 +210,25 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-2.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.567,
+          0.7037
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.4084,
+              0.5214
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -204,6 +258,25 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-3.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2203,
+          0.301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.0351,
+              0.2042
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -233,6 +306,25 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-3.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3172,
+          0.3875
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.0351,
+              0.2042
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -262,6 +354,25 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-3.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7236,
+          0.7578
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6752,
+              0.7113
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -291,6 +402,25 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-3.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8053,
+          0.8927
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6752,
+              0.7113
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -320,6 +450,25 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-4.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2925,
+          0.3276
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.2517,
+              0.2792
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -348,6 +497,25 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-4.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3742,
+          0.3932
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.2517,
+              0.2792
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -377,6 +545,35 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-4.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4378,
+          0.5071
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.2517,
+              0.2792
+            ]
+          ]
+        ],
+        [
+          "Q6(a)",
+          [
+            [
+              0,
+              0.2925,
+              0.3276
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -406,6 +603,13 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-4.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7968,
+          0.9041
+        ]
       ]
     },
     {
@@ -434,6 +638,13 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-4.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9497,
+          0.9696
+        ]
       ]
     },
     {
@@ -463,6 +674,13 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-5.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3105,
+          0.5451
+        ]
       ]
     },
     {
@@ -491,6 +709,13 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-5.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5594,
+          0.5774
+        ]
       ]
     },
     {
@@ -519,6 +744,25 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-5.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6249,
+          0.7521
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8(b)",
+          [
+            [
+              0,
+              0.5594,
+              0.5774
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -548,6 +792,13 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-6.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.0997,
+          0.2184
+        ]
       ]
     },
     {
@@ -576,6 +827,25 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-6.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2631,
+          0.3039
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.0997,
+              0.2184
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -603,6 +873,25 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-6.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.773,
+          0.792
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.6097,
+              0.7588
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -633,6 +922,25 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-6.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8386,
+          0.9202
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.6097,
+              0.7588
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -662,6 +970,35 @@
       "images": [
         "papers/maths/img/P4-03-Binomial-Theorem-6.jpg",
         "papers/maths/img/P4-03-Binomial-Theorem-7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0351,
+          0.0855
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.6097,
+              0.7588
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              0,
+              0.8386,
+              0.9202
+            ]
+          ]
+        ]
       ]
     }
   ]

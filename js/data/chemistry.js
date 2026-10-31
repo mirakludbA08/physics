@@ -121,8 +121,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/01-Ch1-Formula-Equations-Q1.jpg"
      ],
      "shot": [
-      [0,0.9202,0.9392],
-      [1,0.0532,0.0988]
+      [0,0.9202,0.9392]
      ],
      "ctx": [
       [
@@ -167,7 +166,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/01-Ch1-Formula-Equations-Q1.jpg"
      ],
      "shot": [
-      [1,0.3685,0.4217]
+      [1,0.0532,0.4217]
      ],
      "ctx": [
       [
@@ -279,7 +278,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/01-Ch1-Formula-Equations-Q4.jpg"
      ],
      "shot": [
-      [0,0.321,0.3875]
+      [0,0.321,0.34]
      ],
      "ctx": [
       [
@@ -323,7 +322,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/01-Ch1-Formula-Equations-Q4-3.jpg"
      ],
      "shot": [
-      [1,0.2934,0.8832]
+      [1,0.2934,0.3124]
      ],
      "ctx": [
       [
@@ -335,7 +334,7 @@ window.BANK.chemistry = {
       [
        "Q4(b)",
        [
-        [0,0.397,0.7208],
+        [0,0.3637,0.7208],
         [1,0.0617,0.2773]
        ]
       ]
@@ -374,7 +373,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/01-Ch1-Formula-Equations-Q4-2.jpg"
      ],
      "shot": [
-      [1,0.886,0.905],
+      [1,0.3286,0.905],
       [2,0.0513,0.3181]
      ],
      "ctx": [
@@ -387,7 +386,7 @@ window.BANK.chemistry = {
       [
        "Q4(b)",
        [
-        [0,0.397,0.7208],
+        [0,0.3637,0.7208],
         [1,0.0617,0.2773]
        ]
       ]
@@ -437,14 +436,14 @@ window.BANK.chemistry = {
       [
        "Q4(b)",
        [
-        [0,0.397,0.7208],
+        [0,0.3637,0.7208],
         [1,0.0617,0.2773]
        ]
       ],
       [
        "Q4(b)(ii)",
        [
-        [1,0.886,0.905],
+        [1,0.3286,0.905],
         [2,0.0513,0.3181]
        ]
       ]
@@ -494,14 +493,14 @@ window.BANK.chemistry = {
       [
        "Q4(b)",
        [
-        [0,0.397,0.7208],
+        [0,0.3637,0.7208],
         [1,0.0617,0.2773]
        ]
       ],
       [
        "Q4(b)(ii)",
        [
-        [1,0.886,0.905],
+        [1,0.3286,0.905],
         [2,0.0513,0.3181]
        ]
       ],
@@ -556,7 +555,7 @@ window.BANK.chemistry = {
       [
        "Q4(b)",
        [
-        [0,0.397,0.7208],
+        [0,0.3637,0.7208],
         [1,0.0617,0.2773]
        ]
       ]
@@ -1224,7 +1223,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/01-Ch1-Formula-Equations-Q20.jpg"
      ],
      "shot": [
-      [1,0.4283,0.6011]
+      [1,0.4283,0.4872]
      ],
      "ctx": [
       [
@@ -1263,7 +1262,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.603,0.7844]
+      [1,0.4805,0.7844]
      ],
      "ctx": [
       [
@@ -1689,7 +1688,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/01-Ch1-Formula-Equations-Q29.jpg"
      ],
      "shot": [
-      [1,0.3495,0.6714]
+      [1,0.3495,0.3685]
      ],
      "ctx": [
       [
@@ -1738,7 +1737,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/01-Ch1-Formula-Equations-Q29.jpg"
      ],
      "shot": [
-      [1,0.6752,0.7236]
+      [1,0.3989,0.7236]
      ],
      "ctx": [
       [
@@ -1801,7 +1800,7 @@ window.BANK.chemistry = {
       [
        "Q29(a)(ii)",
        [
-        [1,0.6752,0.7236]
+        [1,0.3989,0.7236]
        ]
       ]
      ]
@@ -2313,7 +2312,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/01-Ch1-Formula-Equations-Q43.jpg"
      ],
      "shot": [
-      [0,0.3381,0.4919]
+      [0,0.3381,0.3818]
      ],
      "ctx": [
       [
@@ -2352,7 +2351,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.4976,0.6657]
+      [0,0.3751,0.6657]
      ],
      "ctx": [
       [
@@ -2816,7 +2815,7 @@ window.BANK.chemistry = {
      ],
      "shot": [
       [0,0.8557,0.9354],
-      [1,0.0541,0.6866]
+      [1,0.0541,0.0731]
      ],
      "ctx": [
       [
@@ -2857,7 +2856,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/01-Ch1-Formula-Equations-Q58.jpg"
      ],
      "shot": [
-      [1,0.6895,0.7578]
+      [1,0.0959,0.7578]
      ],
      "ctx": [
       [
@@ -2908,7 +2907,7 @@ window.BANK.chemistry = {
       [
        "Q58(a)(ii)",
        [
-        [1,0.6895,0.7578]
+        [1,0.0959,0.7578]
        ]
       ]
      ]
@@ -5054,7 +5053,7 @@ window.BANK.chemistry = {
      ],
      "shot": [
       [1,0.6486,0.6676],
-      [2,0.0646,0.85]
+      [2,0.0646,0.3523]
      ],
      "ctx": [
       [
@@ -5094,7 +5093,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q23.jpg"
      ],
      "shot": [
-      [2,0.8509,0.8822]
+      [2,0.3685,0.8822]
      ],
      "ctx": [
       [
@@ -5206,8 +5205,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q25-2.jpg"
      ],
      "shot": [
-      [0,0.8737,0.906],
-      [1,0.0655,0.169]
+      [0,0.8737,0.906]
      ],
      "ctx": [
       [
@@ -5248,7 +5246,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q25.jpg"
      ],
      "shot": [
-      [1,0.1795,0.4264]
+      [1,0.0655,0.4264]
      ],
      "ctx": [
       [
@@ -5802,7 +5800,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q37.jpg"
      ],
      "shot": [
-      [0,0.1197,0.7322]
+      [0,0.1197,0.15]
      ],
      "ctx": [
       [
@@ -5839,7 +5837,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.7426,0.7759]
+      [0,0.1795,0.7759]
      ],
      "ctx": [
       [
@@ -6208,7 +6206,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q40.jpg"
      ],
      "shot": [
-      [0,0.7407,0.9174]
+      [0,0.7407,0.7749]
      ],
      "ctx": [
       [
@@ -6255,6 +6253,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q40.jpg"
      ],
      "shot": [
+      [0,0.7911,0.9174],
       [1,0.0532,0.2232]
      ],
      "ctx": [
@@ -7851,7 +7850,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q63.jpg"
      ],
      "shot": [
-      [0,0.452,0.584]
+      [0,0.452,0.472]
      ],
      "ctx": [
       [
@@ -7900,8 +7899,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q63-2.jpg"
      ],
      "shot": [
-      [0,0.5992,0.6477],
-      [1,0.0513,0.3476]
+      [0,0.4881,0.6477]
      ],
      "ctx": [
       [
@@ -7946,7 +7944,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.3514,0.5698]
+      [1,0.0513,0.5698]
      ],
      "ctx": [
       [
@@ -9226,8 +9224,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q81-2.jpg"
      ],
      "shot": [
-      [0,0.8234,0.8424],
-      [1,0.0522,0.7464]
+      [0,0.8234,0.8424]
      ],
      "ctx": [
       [
@@ -9267,7 +9264,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.7816,0.9221]
+      [1,0.0522,0.9221]
      ],
      "ctx": [
       [
@@ -10604,7 +10601,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03A-Ionic-Bonding-Q31.jpg"
      ],
      "shot": [
-      [1,0.1481,0.8433]
+      [1,0.1481,0.1671]
      ],
      "ctx": [
       [
@@ -10647,7 +10644,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03A-Ionic-Bonding-Q31.jpg"
      ],
      "shot": [
-      [1,0.8471,0.9003]
+      [1,0.2004,0.9003]
      ],
      "ctx": [
       [
@@ -11379,7 +11376,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03B-Covalent-Bonding-Q1.jpg"
      ],
      "shot": [
-      [0,0.5043,0.85]
+      [0,0.5043,0.5233]
      ],
      "ctx": [
       [
@@ -11425,7 +11422,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.9041,0.9383],
+      [0,0.5537,0.9383],
       [1,0.0826,0.15]
      ],
      "ctx": [
@@ -11931,8 +11928,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03B-Covalent-Bonding-Q2.jpg"
      ],
      "shot": [
-      [1,0.8063,0.8253],
-      [2,0.0513,0.3514]
+      [1,0.8063,0.8253]
      ],
      "ctx": [
       [
@@ -11979,7 +11975,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.3542,0.4188]
+      [2,0.0513,0.4188]
      ],
      "ctx": [
       [
@@ -12807,7 +12803,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03B-Covalent-Bonding-Q17.jpg"
      ],
      "shot": [
-      [0,0.5271,0.6952]
+      [0,0.5271,0.5461]
      ],
      "ctx": [
       [
@@ -12857,7 +12853,7 @@ window.BANK.chemistry = {
       [
        "Q17(c)",
        [
-        [0,0.7047,0.7236]
+        [0,0.585,0.7236]
        ]
       ]
      ]
@@ -12903,7 +12899,7 @@ window.BANK.chemistry = {
       [
        "Q17(c)",
        [
-        [0,0.7047,0.7236]
+        [0,0.585,0.7236]
        ]
       ]
      ]
@@ -12938,7 +12934,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03B-Covalent-Bonding-Q17-2.jpg"
      ],
      "shot": [
-      [1,0.3191,0.7835]
+      [1,0.3191,0.3685]
      ],
      "ctx": [
       [
@@ -12950,7 +12946,7 @@ window.BANK.chemistry = {
       [
        "Q17(c)",
        [
-        [0,0.7047,0.7236]
+        [0,0.585,0.7236]
        ]
       ]
      ]
@@ -12985,7 +12981,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03B-Covalent-Bonding-Q17-3.jpg"
      ],
      "shot": [
-      [1,0.7949,0.9478],
+      [1,0.3846,0.9478],
       [2,0.0532,0.0836]
      ],
      "ctx": [
@@ -13498,7 +13494,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03B-Covalent-Bonding-Q28.jpg"
      ],
      "shot": [
-      [0,0.3514,0.6496]
+      [0,0.3514,0.3818]
      ],
      "ctx": [
       [
@@ -13536,7 +13532,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.6591,0.6923]
+      [0,0.4084,0.6923]
      ],
      "ctx": [
       [
@@ -13792,7 +13788,7 @@ window.BANK.chemistry = {
      ],
      "shot": [
       [0,0.924,0.943],
-      [1,0.0532,0.5736]
+      [1,0.0532,0.0864]
      ],
      "ctx": [
       [
@@ -13830,7 +13826,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.5764,0.8632]
+      [1,0.1035,0.8632]
      ],
      "ctx": [
       [
@@ -14086,7 +14082,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03C-Shapes-of-Molecules-Q1.jpg"
      ],
      "shot": [
-      [1,0.661,0.8357]
+      [1,0.661,0.68]
      ],
      "ctx": [
       [
@@ -14146,7 +14142,7 @@ window.BANK.chemistry = {
       [
        "Q1(d)",
        [
-        [1,0.8557,0.8898]
+        [1,0.6961,0.8898]
        ]
       ]
      ]
@@ -14193,7 +14189,7 @@ window.BANK.chemistry = {
       [
        "Q1(d)",
        [
-        [1,0.8557,0.8898]
+        [1,0.6961,0.8898]
        ]
       ]
      ]
@@ -14260,7 +14256,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03C-Shapes-of-Molecules-Q3-2.jpg"
      ],
      "shot": [
-      [0,0.2156,0.3086]
+      [0,0.2156,0.2346]
      ],
      "ctx": [
       [
@@ -14306,7 +14302,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.3048,0.5043]
+      [0,0.2574,0.5043]
      ],
      "ctx": [
       [
@@ -14397,7 +14393,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03C-Shapes-of-Molecules-Q3.jpg"
      ],
      "shot": [
-      [1,0.0532,0.2707]
+      [1,0.0532,0.0722]
      ],
      "ctx": [
       [
@@ -14443,7 +14439,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.2887,0.416]
+      [1,0.0997,0.416]
      ],
      "ctx": [
       [
@@ -14669,7 +14665,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03C-Shapes-of-Molecules-Q7.jpg"
      ],
      "shot": [
-      [0,0.2716,0.6021]
+      [0,0.2716,0.3979]
      ],
      "ctx": [
       [
@@ -14721,7 +14717,7 @@ window.BANK.chemistry = {
       [
        "Q7(b)",
        [
-        [0,0.5954,0.6581]
+        [0,0.4179,0.6581]
        ]
       ]
      ]
@@ -14766,7 +14762,7 @@ window.BANK.chemistry = {
       [
        "Q7(b)",
        [
-        [0,0.5954,0.6581]
+        [0,0.4179,0.6581]
        ]
       ]
      ]
@@ -14844,7 +14840,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03C-Shapes-of-Molecules-Q7-2.jpg"
      ],
      "shot": [
-      [1,0.3276,0.5774]
+      [1,0.3276,0.3466]
      ],
      "ctx": [
       [
@@ -14889,7 +14885,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.6163,0.7949]
+      [1,0.378,0.7949]
      ],
      "ctx": [
       [
@@ -15300,8 +15296,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.9145,0.9459],
-      [1,0.2165,0.226]
+      [0,0.9145,0.9459]
      ],
      "ctx": [
       [
@@ -15350,7 +15345,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03C-Shapes-of-Molecules-Q9-2.jpg"
      ],
      "shot": [
-      [1,0.2194,0.2906]
+      [1,0.2165,0.2906]
      ],
      "ctx": [
       [
@@ -15413,7 +15408,7 @@ window.BANK.chemistry = {
       [
        "Q9(d)(ii)",
        [
-        [1,0.2194,0.2906]
+        [1,0.2165,0.2906]
        ]
       ]
      ]
@@ -15910,7 +15905,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03C-Shapes-of-Molecules-Q10.jpg"
      ],
      "shot": [
-      [2,0.3637,0.5774]
+      [2,0.3637,0.397]
      ],
      "ctx": [
       [
@@ -15959,7 +15954,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03C-Shapes-of-Molecules-Q10.jpg"
      ],
      "shot": [
-      [2,0.5802,0.7825]
+      [2,0.4141,0.7825]
      ],
      "ctx": [
       [
@@ -17103,7 +17098,7 @@ window.BANK.chemistry = {
      ],
      "shot": [
       [0,0.9003,0.9421],
-      [1,0.0532,0.3533]
+      [1,0.0532,0.0722]
      ],
      "ctx": [
       [
@@ -17142,7 +17137,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.3637,0.397]
+      [1,0.0893,0.397]
      ],
      "ctx": [
       [
@@ -17186,8 +17181,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03C-Shapes-of-Molecules-Q20-2.jpg"
      ],
      "shot": [
-      [1,0.5726,0.6068],
-      [2,0.0655,0.4454]
+      [1,0.5726,0.6068]
      ],
      "ctx": [
       [
@@ -17229,7 +17223,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.4558,0.6334]
+      [2,0.0655,0.6334]
      ],
      "ctx": [
       [
@@ -17410,8 +17404,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03D-Metallic-Bonding-Q1.jpg"
      ],
      "shot": [
-      [0,0.8329,0.8965],
-      [1,0.0513,0.3077]
+      [0,0.8329,0.8965]
      ],
      "ctx": [
       [
@@ -17459,7 +17452,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.3115,0.5983]
+      [1,0.0513,0.5983]
      ],
      "ctx": [
       [
@@ -17810,7 +17803,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03D-Metallic-Bonding-Q4.jpg"
      ],
      "shot": [
-      [0,0.3713,0.8708]
+      [0,0.3713,0.3903]
      ],
      "ctx": [
       [
@@ -17857,7 +17850,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03D-Metallic-Bonding-Q4.jpg"
      ],
      "shot": [
-      [0,0.8832,0.9364]
+      [0,0.4074,0.9364]
      ],
      "ctx": [
       [
@@ -17954,7 +17947,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03D-Metallic-Bonding-Q4-2.jpg"
      ],
      "shot": [
-      [1,0.3685,0.905]
+      [1,0.3685,0.4217]
      ],
      "ctx": [
       [
@@ -17997,7 +17990,7 @@ window.BANK.chemistry = {
      ],
      "shot": [
       [1,0.9259,0.9468],
-      [2,0.0532,0.3922]
+      [2,0.0532,0.0722]
      ],
      "ctx": [
       [
@@ -18009,7 +18002,7 @@ window.BANK.chemistry = {
       [
        "Q4(c)",
        [
-        [1,0.8984,0.9326]
+        [1,0.4406,0.9326]
        ]
       ]
      ]
@@ -18044,7 +18037,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03D-Metallic-Bonding-Q4-3.jpg"
      ],
      "shot": [
-      [2,0.3856,0.6619]
+      [2,0.3827,0.6619]
      ],
      "ctx": [
       [
@@ -18056,7 +18049,7 @@ window.BANK.chemistry = {
       [
        "Q4(c)",
        [
-        [1,0.8984,0.9326]
+        [1,0.4406,0.9326]
        ]
       ]
      ]
@@ -18384,7 +18377,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03D-Metallic-Bonding-Q7-2.jpg"
      ],
      "shot": [
-      [1,0.3096,0.5945]
+      [1,0.3096,0.3428]
      ],
      "ctx": [
       [
@@ -18430,7 +18423,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.6429,0.8718]
+      [1,0.4046,0.8718]
      ],
      "ctx": [
       [
@@ -20129,7 +20122,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.5897,0.8984]
+      [1,0.5897,0.6382]
      ],
      "ctx": [
       [
@@ -20178,7 +20171,8 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/03D-Metallic-Bonding-Q15.jpg"
      ],
      "shot": [
-      [2,0.1576,0.4245]
+      [1,0.6524,0.8984],
+      [2,0.1576,0.189]
      ],
      "ctx": [
       [
@@ -20227,7 +20221,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.4226,0.622]
+      [2,0.2165,0.622]
      ],
      "ctx": [
       [
@@ -20890,7 +20884,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/04A-Intro-Organic-Q5-2.jpg"
      ],
      "shot": [
-      [2,0.4891,0.8984]
+      [2,0.4891,0.5423]
      ],
      "ctx": [
       [
@@ -20939,7 +20933,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.9012,0.9202],
+      [2,0.5594,0.9202],
       [3,0.0608,0.1861]
      ],
      "ctx": [
@@ -21335,8 +21329,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/04A-Intro-Organic-Q16a.jpg"
      ],
      "shot": [
-      [0,0.7616,0.8917],
-      [1,0.056,0.5546]
+      [0,0.7616,0.8917]
      ]
     },
     {
@@ -21369,7 +21362,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.5603,0.7293]
+      [1,0.056,0.7293]
      ]
     }
    ]
@@ -21953,7 +21946,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/04B-Alkanes-Q3-2.jpg"
      ],
      "shot": [
-      [1,0.3409,0.5366]
+      [1,0.3409,0.3951]
      ],
      "ctx": [
       [
@@ -21994,7 +21987,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.6087,0.6838]
+      [1,0.4131,0.6838]
      ],
      "ctx": [
       [
@@ -22126,7 +22119,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/04B-Alkanes-Q3fii.jpg"
      ],
      "shot": [
-      [2,0.2545,0.3181]
+      [2,0.2545,0.2887]
      ],
      "ctx": [
       [
@@ -22173,7 +22166,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.3143,0.3637]
+      [2,0.301,0.3637]
      ],
      "ctx": [
       [
@@ -22712,7 +22705,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.284,0.5195]
+      [1,0.284,0.3153]
      ],
      "ctx": [
       [
@@ -22759,7 +22752,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.6572,0.6885]
+      [1,0.3447,0.6885]
      ],
      "ctx": [
       [
@@ -23032,7 +23025,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/04B-Alkanes-Q8.jpg"
      ],
      "shot": [
-      [1,0.1092,0.264]
+      [1,0.1092,0.1529]
      ],
      "ctx": [
       [
@@ -23073,7 +23066,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/04B-Alkanes-Q8-2.jpg"
      ],
      "shot": [
-      [1,0.2669,0.4805]
+      [1,0.1462,0.4805]
      ],
      "ctx": [
       [
@@ -23115,7 +23108,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/04B-Alkanes-Q9a.jpg"
      ],
      "shot": [
-      [0,0.6458,0.8613]
+      [0,0.6458,0.6904]
      ],
      "ctx": [
       [
@@ -23156,7 +23149,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.8651,0.9383],
+      [0,0.6838,0.9383],
       [1,0.0513,0.0883]
      ],
      "ctx": [
@@ -23426,7 +23419,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/04B-Alkanes-Q10di.jpg"
      ],
      "shot": [
-      [2,0.1197,0.189]
+      [2,0.1197,0.1529]
      ],
      "ctx": [
       [
@@ -23473,7 +23466,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.1947,0.3647]
+      [2,0.17,0.3647]
      ],
      "ctx": [
       [
@@ -24677,7 +24670,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.6106,0.6781]
+      [1,0.6106,0.6657]
      ],
      "ctx": [
       [
@@ -24724,7 +24717,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.8243,0.8832]
+      [1,0.6591,0.8832]
      ],
      "ctx": [
       [
@@ -24742,7 +24735,7 @@ window.BANK.chemistry = {
       [
        "Q29(c)(i)",
        [
-        [1,0.6106,0.6781]
+        [1,0.6106,0.6657]
        ]
       ]
      ]
@@ -27414,8 +27407,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-A-Q13a.jpg"
      ],
      "shot": [
-      [0,0.6125,0.6315],
-      [1,0.0513,0.3637]
+      [0,0.6125,0.6315]
      ],
      "ctx": [
       [
@@ -27454,7 +27446,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.3666,0.4729]
+      [1,0.0513,0.4729]
      ],
      "ctx": [
       [
@@ -27622,8 +27614,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-A-Q18a.jpg"
      ],
      "shot": [
-      [0,0.8813,0.9003],
-      [1,0.0513,0.5812]
+      [0,0.8813,0.9003]
      ],
      "ctx": [
       [
@@ -27662,7 +27653,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.584,0.6933]
+      [1,0.0513,0.6933]
      ],
      "ctx": [
       [
@@ -27915,7 +27906,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-A-Q24.jpg"
      ],
      "shot": [
-      [0,0.8594,0.9335],
+      [0,0.6771,0.9335],
       [1,0.0513,0.0712]
      ]
     },
@@ -28084,8 +28075,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-A-Q28b.jpg"
      ],
      "shot": [
-      [0,0.7009,0.7426],
-      [1,0.057,0.547]
+      [0,0.7009,0.7426]
      ],
      "ctx": [
       [
@@ -28124,7 +28114,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.5717,0.8015]
+      [1,0.057,0.8015]
      ],
      "ctx": [
       [
@@ -29088,7 +29078,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q2d.jpg"
      ],
      "shot": [
-      [1,0.6828,0.7284]
+      [1,0.6828,0.736]
      ],
      "ctx": [
       [
@@ -29136,7 +29126,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q2d.jpg"
      ],
      "shot": [
-      [1,0.7274,0.7806]
+      [1,0.7293,0.7806]
      ],
      "ctx": [
       [
@@ -30442,8 +30432,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.6106,0.6296],
-      [1,0.0617,0.4482]
+      [0,0.6106,0.6296]
      ],
      "ctx": [
       [
@@ -30503,7 +30492,7 @@ window.BANK.chemistry = {
       [
        "Q6(c)",
        [
-        [1,0.4587,0.7493]
+        [1,0.0617,0.7493]
        ]
       ]
      ]
@@ -30552,7 +30541,7 @@ window.BANK.chemistry = {
       [
        "Q6(c)",
        [
-        [1,0.4587,0.7493]
+        [1,0.0617,0.7493]
        ]
       ]
      ]
@@ -30589,7 +30578,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q6d.jpg"
      ],
      "shot": [
-      [2,0.2536,0.5499]
+      [2,0.2536,0.3248]
      ],
      "ctx": [
       [
@@ -30631,7 +30620,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q6e.jpg"
      ],
      "shot": [
-      [2,0.6344,0.811]
+      [2,0.416,0.811]
      ],
      "ctx": [
       [
@@ -30835,7 +30824,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q7d.jpg"
      ],
      "shot": [
-      [1,0.3124,0.3685]
+      [1,0.3124,0.3314]
      ],
      "ctx": [
       [
@@ -30881,7 +30870,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.3713,0.4055]
+      [1,0.3495,0.4055]
      ],
      "ctx": [
       [
@@ -31666,7 +31655,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.3324,0.3941]
+      [0,0.3324,0.4226]
      ],
      "ctx": [
       [
@@ -31707,7 +31696,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.4141,0.6382]
+      [0,0.416,0.4463]
      ],
      "ctx": [
       [
@@ -31750,9 +31739,8 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q9b.jpg"
      ],
      "shot": [
-      [0,0.6401,0.6591],
-      [1,0.0513,0.3628],
-      [2,0.0665,0.5613]
+      [0,0.4644,0.6591],
+      [1,0.0513,0.3628]
      ],
      "ctx": [
       [
@@ -31793,7 +31781,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.6334,0.6524]
+      [2,0.0665,0.6524]
      ],
      "ctx": [
       [
@@ -32000,7 +31988,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.283,0.3504]
+      [1,0.283,0.358]
      ],
      "ctx": [
       [
@@ -32043,7 +32031,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q10b.jpg"
      ],
      "shot": [
-      [1,0.3438,0.3846]
+      [1,0.3514,0.3846]
      ],
      "ctx": [
       [
@@ -32051,12 +32039,6 @@ window.BANK.chemistry = {
        [
         [0,0.8091,0.8699],
         [1,0.0826,0.1994]
-       ]
-      ],
-      [
-       "Q10(b)(i)",
-       [
-        [1,0.283,0.3504]
        ]
       ]
      ]
@@ -32103,7 +32085,7 @@ window.BANK.chemistry = {
       [
        "Q10(b)(i)",
        [
-        [1,0.283,0.3504]
+        [1,0.283,0.358]
        ]
       ]
      ]
@@ -32681,8 +32663,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q12b.jpg"
      ],
      "shot": [
-      [0,0.7436,0.9269],
-      [1,0.1358,0.2915]
+      [0,0.7436,0.9269]
      ],
      "ctx": [
       [
@@ -32734,7 +32715,7 @@ window.BANK.chemistry = {
       [
        "Q12(c)",
        [
-        [1,0.5337,0.5527]
+        [1,0.1358,0.5527]
        ]
       ]
      ]
@@ -32780,7 +32761,7 @@ window.BANK.chemistry = {
       [
        "Q12(c)",
        [
-        [1,0.5337,0.5527]
+        [1,0.1358,0.5527]
        ]
       ],
       [
@@ -33296,7 +33277,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q14a.jpg"
      ],
      "shot": [
-      [0,0.4948,0.6695]
+      [0,0.4948,0.5261]
      ],
      "ctx": [
       [
@@ -33338,7 +33319,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q14b.jpg"
      ],
      "shot": [
-      [1,0.4834,0.5024]
+      [1,0.4834,0.5223]
      ],
      "ctx": [
       [
@@ -33350,7 +33331,7 @@ window.BANK.chemistry = {
       [
        "Q14(b)",
        [
-        [0,0.754,0.773],
+        [0,0.6277,0.773],
         [1,0.0513,0.4815]
        ]
       ]
@@ -33387,7 +33368,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q14b.jpg"
      ],
      "shot": [
-      [1,0.5138,0.5632]
+      [1,0.5157,0.5632]
      ],
      "ctx": [
       [
@@ -33399,7 +33380,7 @@ window.BANK.chemistry = {
       [
        "Q14(b)",
        [
-        [0,0.754,0.773],
+        [0,0.6277,0.773],
         [1,0.0513,0.4815]
        ]
       ]
@@ -33483,7 +33464,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q14c.jpg"
      ],
      "shot": [
-      [2,0.1121,0.2507]
+      [2,0.1121,0.1462]
      ],
      "ctx": [
       [
@@ -33530,7 +33511,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q14c.jpg"
      ],
      "shot": [
-      [2,0.2545,0.2735]
+      [2,0.1633,0.2735]
      ],
      "ctx": [
       [
@@ -33627,7 +33608,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q15a.jpg"
      ],
      "shot": [
-      [0,0.2289,0.7512]
+      [0,0.2289,0.2631]
      ],
      "ctx": [
       [
@@ -33676,7 +33657,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q15a.jpg"
      ],
      "shot": [
-      [0,0.754,0.924]
+      [0,0.2802,0.924]
      ],
      "ctx": [
       [
@@ -34376,7 +34357,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q16c.jpg"
      ],
      "shot": [
-      [1,0.453,0.8651]
+      [1,0.453,0.4872]
      ],
      "ctx": [
       [
@@ -34422,6 +34403,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
+      [1,0.6458,0.8651],
       [2,0.2783,0.4777]
      ],
      "ctx": [
@@ -34922,7 +34904,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q18a.jpg"
      ],
      "shot": [
-      [0,0.5774,0.7407]
+      [0,0.5774,0.6087]
      ],
      "ctx": [
       [
@@ -34964,7 +34946,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q18a.jpg"
      ],
      "shot": [
-      [0,0.7502,0.8101]
+      [0,0.6353,0.8101]
      ],
      "ctx": [
       [
@@ -35053,7 +35035,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q18c.jpg"
      ],
      "shot": [
-      [1,0.2574,0.4463]
+      [1,0.2574,0.321]
      ],
      "ctx": [
       [
@@ -35102,7 +35084,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q18c-2.jpg"
      ],
      "shot": [
-      [1,0.5926,0.9193],
+      [1,0.4065,0.9193],
       [2,0.0608,0.0693]
      ],
      "ctx": [
@@ -35122,7 +35104,7 @@ window.BANK.chemistry = {
       [
        "Q18(c)(ii)",
        [
-        [1,0.2574,0.4463]
+        [1,0.2574,0.321]
        ]
       ]
      ]
@@ -35402,8 +35384,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q19b.jpg"
      ],
      "shot": [
-      [1,0.773,0.7987],
-      [2,0.0513,0.3903]
+      [1,0.773,0.7987]
      ],
      "ctx": [
       [
@@ -35452,7 +35433,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q19b-2.jpg"
      ],
      "shot": [
-      [2,0.3932,0.7312]
+      [2,0.0513,0.7312]
      ],
      "ctx": [
       [
@@ -35544,8 +35525,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q20a.jpg"
      ],
      "shot": [
-      [0,0.4938,0.5954],
-      [1,0.0513,0.5109]
+      [0,0.4938,0.5954]
      ],
      "ctx": [
       [
@@ -35597,7 +35577,7 @@ window.BANK.chemistry = {
       [
        "Q20(b)",
        [
-        [1,0.5204,0.5821]
+        [1,0.0513,0.5821]
        ]
       ]
      ]
@@ -35643,7 +35623,7 @@ window.BANK.chemistry = {
       [
        "Q20(b)",
        [
-        [1,0.5204,0.5821]
+        [1,0.0513,0.5821]
        ]
       ],
       [
@@ -35696,7 +35676,7 @@ window.BANK.chemistry = {
       [
        "Q20(b)",
        [
-        [1,0.5204,0.5821]
+        [1,0.0513,0.5821]
        ]
       ]
      ]
@@ -35866,8 +35846,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.8224,0.9221],
-      [1,0.0598,0.2488]
+      [0,0.8224,0.8974]
      ],
      "ctx": [
       [
@@ -35910,8 +35889,8 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q21b.jpg"
      ],
      "shot": [
-      [1,0.2659,0.2953],
-      [2,0.0912,0.8044]
+      [0,0.9031,0.9221],
+      [1,0.0598,0.2953]
      ],
      "ctx": [
       [
@@ -35953,7 +35932,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/05-Alkenes-B-Q21b-2.jpg"
      ],
      "shot": [
-      [2,0.8272,0.8462],
+      [2,0.0912,0.8462],
       [3,0.0598,0.2849]
      ],
      "ctx": [
@@ -36165,7 +36144,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.8585,0.9183]
+      [0,0.8585,0.8955]
      ],
      "ctx": [
       [
@@ -36205,6 +36184,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
+      [0,0.9022,0.9183],
       [1,0.5033,0.9487],
       [2,0.0608,0.0978]
      ],
@@ -36245,7 +36225,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.3324,0.9468]
+      [0,0.3324,0.3514]
      ],
      "ctx": [
       [
@@ -36284,6 +36264,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
+      [0,0.3856,0.9468],
       [1,0.0532,0.3352]
      ],
      "ctx": [
@@ -37010,7 +36991,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.6553,0.9364]
+      [0,0.6553,0.6743]
      ],
      "ctx": [
       [
@@ -37050,6 +37031,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
+      [0,0.9174,0.9364],
       [1,0.0532,0.2526]
      ],
      "ctx": [
@@ -37553,8 +37535,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/06-Energetics-Q8c.jpg"
      ],
      "shot": [
-      [1,0.4245,0.8148],
-      [2,0.0532,0.5992]
+      [1,0.4245,0.4653]
      ],
      "ctx": [
       [
@@ -37597,7 +37578,8 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/06-Energetics-Q8c.jpg"
      ],
      "shot": [
-      [2,0.6049,0.6733]
+      [1,0.4815,0.8148],
+      [2,0.0532,0.6733]
      ],
      "ctx": [
       [
@@ -37658,7 +37640,8 @@ window.BANK.chemistry = {
       [
        "Q8(c)(ii)",
        [
-        [2,0.6049,0.6733]
+        [1,0.4815,0.8148],
+        [2,0.0532,0.6733]
        ]
       ]
      ]
@@ -37932,7 +37915,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/06-Energetics-Q9b.jpg"
      ],
      "shot": [
-      [1,0.7198,0.9012]
+      [1,0.7198,0.7531]
      ],
      "ctx": [
       [
@@ -37981,6 +37964,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/06-Energetics-Q9c-2.jpg"
      ],
      "shot": [
+      [1,0.7721,0.9012],
       [2,0.2479,0.8205]
      ],
      "ctx": [
@@ -38258,7 +38242,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/06-Energetics-Q16bi.jpg"
      ],
      "shot": [
-      [1,0.1197,0.3723]
+      [1,0.1197,0.1387]
      ],
      "ctx": [
       [
@@ -38305,7 +38289,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/06-Energetics-Q16bi.jpg"
      ],
      "shot": [
-      [1,0.3742,0.4084]
+      [1,0.1548,0.4084]
      ],
      "ctx": [
       [
@@ -38486,7 +38470,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/06-Energetics-Q20a.jpg"
      ],
      "shot": [
-      [0,0.6239,0.8509]
+      [0,0.6239,0.6733]
      ],
      "ctx": [
       [
@@ -38540,7 +38524,7 @@ window.BANK.chemistry = {
       [
        "Q20(b)",
        [
-        [0,0.8443,0.8803],
+        [0,0.8395,0.8803],
         [1,0.0665,0.2279]
        ]
       ]
@@ -38590,7 +38574,7 @@ window.BANK.chemistry = {
       [
        "Q20(b)",
        [
-        [0,0.8443,0.8803],
+        [0,0.8395,0.8803],
         [1,0.0665,0.2279]
        ]
       ]
@@ -38628,7 +38612,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/06-Energetics-Q20b-2.jpg"
      ],
      "shot": [
-      [1,0.5366,0.7445]
+      [1,0.5366,0.5708]
      ],
      "ctx": [
       [
@@ -38640,7 +38624,7 @@ window.BANK.chemistry = {
       [
        "Q20(b)",
        [
-        [0,0.8443,0.8803],
+        [0,0.8395,0.8803],
         [1,0.0665,0.2279]
        ]
       ]
@@ -38676,7 +38660,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.7379,0.9364],
+      [1,0.7369,0.9364],
       [2,0.0608,0.0693]
      ],
      "ctx": [
@@ -38689,7 +38673,7 @@ window.BANK.chemistry = {
       [
        "Q20(a)(ii)",
        [
-        [0,0.6239,0.8509]
+        [0,0.6239,0.6733]
        ]
       ]
      ]
@@ -39326,7 +39310,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/06-Energetics-Q33-2.jpg"
      ],
      "shot": [
-      [0,0.6135,0.8623]
+      [0,0.6135,0.6477]
      ],
      "ctx": [
       [
@@ -39367,7 +39351,8 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/06-Energetics-Q33.jpg"
      ],
      "shot": [
-      [1,0.0532,0.2821]
+      [0,0.6638,0.8623],
+      [1,0.0532,0.1016]
      ],
      "ctx": [
       [
@@ -39408,7 +39393,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/06-Energetics-Q33.jpg"
      ],
      "shot": [
-      [1,0.4425,0.6781]
+      [1,0.1263,0.6781]
      ],
      "ctx": [
       [
@@ -39420,7 +39405,8 @@ window.BANK.chemistry = {
       [
        "Q33(b)(iii)",
        [
-        [1,0.0532,0.2821]
+        [0,0.6638,0.8623],
+        [1,0.0532,0.1016]
        ]
       ]
      ]
@@ -40101,7 +40087,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/07-Intermolecular-Forces-Q6-2.jpg"
      ],
      "shot": [
-      [0,0.3561,0.5679]
+      [0,0.3561,0.3751]
      ],
      "ctx": [
       [
@@ -40144,7 +40130,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/07-Intermolecular-Forces-Q6-2.jpg"
      ],
      "shot": [
-      [0,0.5698,0.6192]
+      [0,0.3979,0.6192]
      ],
      "ctx": [
       [
@@ -40188,7 +40174,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/07-Intermolecular-Forces-Q6-3.jpg"
      ],
      "shot": [
-      [1,0.3846,0.6325]
+      [1,0.3846,0.6154]
      ],
      "ctx": [
       [
@@ -40237,7 +40223,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/07-Intermolecular-Forces-Q6-3.jpg"
      ],
      "shot": [
-      [1,0.6258,0.8424]
+      [1,0.6211,0.8424]
      ],
      "ctx": [
       [
@@ -40844,7 +40830,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/07-Intermolecular-Forces-Q21.jpg"
      ],
      "shot": [
-      [0,0.4577,0.8167]
+      [0,0.4577,0.4767]
      ],
      "ctx": [
       [
@@ -40889,7 +40875,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.8101,0.924],
+      [0,0.4938,0.924],
       [1,0.0608,0.0978]
      ],
      "ctx": [
@@ -41406,8 +41392,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/07-Intermolecular-Forces-Q32.jpg"
      ],
      "shot": [
-      [0,0.7094,0.7284],
-      [1,0.0522,0.3381]
+      [0,0.7094,0.7284]
      ],
      "ctx": [
       [
@@ -41448,7 +41433,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.3409,0.4473]
+      [1,0.0522,0.4473]
      ],
      "ctx": [
       [
@@ -41555,7 +41540,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.471,0.5916]
+      [0,0.3799,0.5916]
      ]
     },
     {
@@ -42021,8 +42006,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.7502,0.7692],
-      [1,0.0674,0.2241]
+      [0,0.7502,0.7692]
      ]
     },
     {
@@ -42053,7 +42037,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.227,0.3827]
+      [1,0.0674,0.3827]
      ]
     },
     {
@@ -42762,7 +42746,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.7806,0.8727]
+      [0,0.7066,0.8727]
      ]
     },
     {
@@ -43120,8 +43104,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/08A-Redox-Q30-2.jpg"
      ],
      "shot": [
-      [0,0.8955,0.9364],
-      [1,0.0731,0.3134]
+      [0,0.8955,0.9364]
      ],
      "ctx": [
       [
@@ -43163,7 +43146,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/08A-Redox-Q30.jpg"
      ],
      "shot": [
-      [1,0.3153,0.4568]
+      [1,0.0731,0.4568]
      ],
      "ctx": [
       [
@@ -43404,8 +43387,7 @@ window.BANK.chemistry = {
       [
        "Q30(b)",
        [
-        [1,0.4691,0.9288],
-        [2,0.0532,0.3276]
+        [1,0.4691,0.5413]
        ]
       ]
      ]
@@ -44357,7 +44339,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/08B-Groups-1-and-2-Q6.jpg"
      ],
      "shot": [
-      [0,0.1643,0.3732]
+      [0,0.1643,0.2203]
      ],
      "ctx": [
       [
@@ -44399,7 +44381,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.377,0.4302]
+      [0,0.2365,0.4302]
      ],
      "ctx": [
       [
@@ -44771,7 +44753,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/08B-Groups-1-and-2-Q6-4.jpg"
      ],
      "shot": [
-      [2,0.2669,0.6049]
+      [2,0.2669,0.3295]
      ],
      "ctx": [
       [
@@ -44814,7 +44796,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.6087,0.9421],
+      [2,0.3476,0.9421],
       [3,0.0608,0.1567]
      ],
      "ctx": [
@@ -45509,8 +45491,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/08B-Groups-1-and-2-Q15.jpg"
      ],
      "shot": [
-      [0,0.6705,0.7388],
-      [1,0.0513,0.5214]
+      [0,0.6705,0.7388]
      ],
      "ctx": [
       [
@@ -45550,7 +45531,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.5413,0.6116]
+      [1,0.0513,0.6116]
      ],
      "ctx": [
       [
@@ -46480,7 +46461,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/08B-Groups-1-and-2-Q30.jpg"
      ],
      "shot": [
-      [1,0.0674,0.34]
+      [1,0.0674,0.1662]
      ],
      "ctx": [
       [
@@ -46520,7 +46501,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.3533,0.5195]
+      [1,0.188,0.5195]
      ],
      "ctx": [
       [
@@ -46687,7 +46668,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.6771,0.7692]
+      [0,0.5717,0.7692]
      ]
     },
     {
@@ -47484,7 +47465,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.0674,0.0864]
+      [2,0.0532,0.0864]
      ],
      "ctx": [
       [
@@ -47496,8 +47477,7 @@ window.BANK.chemistry = {
       [
        "Q48(d)",
        [
-        [1,0.8784,0.9354],
-        [2,0.0532,0.0722]
+        [1,0.8784,0.9354]
        ]
       ]
      ]
@@ -47544,8 +47524,7 @@ window.BANK.chemistry = {
       [
        "Q48(d)",
        [
-        [1,0.8784,0.9354],
-        [2,0.0532,0.0722]
+        [1,0.8784,0.9354]
        ]
       ]
      ]
@@ -47773,8 +47752,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/08B-Groups-1-and-2-Q49-3.jpg"
      ],
      "shot": [
-      [1,0.8585,0.9402],
-      [2,0.0731,0.2934]
+      [1,0.8585,0.9402]
      ],
      "ctx": [
       [
@@ -47824,7 +47802,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/08B-Groups-1-and-2-Q49-3.jpg"
      ],
      "shot": [
-      [2,0.2953,0.3295]
+      [2,0.0731,0.3295]
      ],
      "ctx": [
       [
@@ -48252,7 +48230,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/08B-Groups-1-and-2-Q53b.jpg"
      ],
      "shot": [
-      [1,0.3837,0.5973]
+      [1,0.3837,0.415]
      ],
      "ctx": [
       [
@@ -48296,7 +48274,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.6002,0.6534]
+      [1,0.434,0.6534]
      ],
      "ctx": [
       [
@@ -49551,8 +49529,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/08C-Group-7-Q9-3.jpg"
      ],
      "shot": [
-      [0,0.5897,0.6657],
-      [1,0.0522,0.2023]
+      [0,0.5897,0.6657]
      ],
      "ctx": [
       [
@@ -49593,7 +49570,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.2877,0.4805]
+      [1,0.0522,0.4805]
      ],
      "ctx": [
       [
@@ -50094,7 +50071,7 @@ window.BANK.chemistry = {
      "figures": [],
      "shot": [
       [0,0.8727,0.9288],
-      [1,0.0608,0.2365]
+      [1,0.0608,0.2156]
      ],
      "ctx": [
       [
@@ -50137,7 +50114,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.2298,0.4425]
+      [1,0.227,0.4425]
      ],
      "ctx": [
       [
@@ -50180,7 +50157,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/08C-Group-7-Q20-2.jpg"
      ],
      "shot": [
-      [1,0.4558,0.6619]
+      [1,0.4558,0.509]
      ],
      "ctx": [
       [
@@ -50224,7 +50201,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/08C-Group-7-Q20.jpg"
      ],
      "shot": [
-      [1,0.6724,0.6914],
+      [1,0.5385,0.6914],
       [2,0.0513,0.7018]
      ],
      "ctx": [
@@ -51751,7 +51728,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/09A-Kinetics-Q6.jpg"
      ],
      "shot": [
-      [0,0.4948,0.7863]
+      [0,0.4948,0.5537]
      ],
      "ctx": [
       [
@@ -51791,7 +51768,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/09A-Kinetics-Q6-2.jpg"
      ],
      "shot": [
-      [0,0.8044,0.8348],
+      [0,0.547,0.8348],
       [1,0.0532,0.2934]
      ],
      "ctx": [
@@ -53109,7 +53086,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/09A-Kinetics-Q22-2.jpg"
      ],
      "shot": [
-      [1,0.2944,0.5014]
+      [1,0.2944,0.3134]
      ],
      "ctx": [
       [
@@ -53152,7 +53129,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/09A-Kinetics-Q22-3.jpg"
      ],
      "shot": [
-      [1,0.5052,0.7426]
+      [1,0.3419,0.7426]
      ],
      "ctx": [
       [
@@ -53741,7 +53718,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/09A-Kinetics-Q30.jpg"
      ],
      "shot": [
-      [1,0.0532,0.396]
+      [1,0.0532,0.0722]
      ],
      "ctx": [
       [
@@ -53791,8 +53768,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/09A-Kinetics-Q30.jpg"
      ],
      "shot": [
-      [1,0.3979,0.433],
-      [2,0.0598,0.5926]
+      [1,0.0988,0.433]
      ],
      "ctx": [
       [
@@ -53838,7 +53814,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.604,0.7455]
+      [2,0.0598,0.7455]
      ],
      "ctx": [
       [
@@ -53929,7 +53905,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/09A-Kinetics-Q30-2.jpg"
      ],
      "shot": [
-      [3,0.1045,0.3837]
+      [3,0.1045,0.1235]
      ],
      "ctx": [
       [
@@ -53976,7 +53952,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [3,0.3875,0.5869]
+      [3,0.1415,0.5869]
      ],
      "ctx": [
       [
@@ -54065,7 +54041,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/09B-Equilibria-Q2-2.jpg"
      ],
      "shot": [
-      [1,0.1292,0.3067]
+      [1,0.1292,0.1481]
      ],
      "ctx": [
       [
@@ -54107,7 +54083,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/09B-Equilibria-Q2-3.jpg"
      ],
      "shot": [
-      [1,0.3181,0.4967]
+      [1,0.1738,0.4967]
      ],
      "ctx": [
       [
@@ -54286,8 +54262,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/09B-Equilibria-Q4.jpg"
      ],
      "shot": [
-      [0,0.774,0.8224],
-      [1,0.0532,0.509]
+      [0,0.774,0.8224]
      ],
      "ctx": [
       [
@@ -54337,7 +54312,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/09B-Equilibria-Q4-2.jpg"
      ],
      "shot": [
-      [1,0.5119,0.623]
+      [1,0.0532,0.623]
      ],
      "ctx": [
       [
@@ -54572,8 +54547,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/09B-Equilibria-Q5.jpg"
      ],
      "shot": [
-      [0,0.8519,0.8832],
-      [1,0.0522,0.3447]
+      [0,0.8519,0.8832]
      ],
      "ctx": [
       [
@@ -54623,7 +54597,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/09B-Equilibria-Q5.jpg"
      ],
      "shot": [
-      [1,0.3922,0.4416]
+      [1,0.0522,0.4416]
      ],
      "ctx": [
       [
@@ -54673,7 +54647,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/09B-Equilibria-Q5-2.jpg"
      ],
      "shot": [
-      [2,0.0978,0.1472]
+      [2,0.0532,0.1472]
      ],
      "ctx": [
       [
@@ -54685,8 +54659,7 @@ window.BANK.chemistry = {
       [
        "Q5(b)",
        [
-        [1,0.6097,0.9383],
-        [2,0.0532,0.1007]
+        [1,0.6097,0.9383]
        ]
       ]
      ]
@@ -54731,8 +54704,7 @@ window.BANK.chemistry = {
       [
        "Q5(b)",
        [
-        [1,0.6097,0.9383],
-        [2,0.0532,0.1007]
+        [1,0.6097,0.9383]
        ]
       ]
      ]
@@ -54782,8 +54754,7 @@ window.BANK.chemistry = {
       [
        "Q5(b)",
        [
-        [1,0.6097,0.9383],
-        [2,0.0532,0.1007]
+        [1,0.6097,0.9383]
        ]
       ]
      ]
@@ -56140,7 +56111,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/09B-Equilibria-Q16-2.jpg"
      ],
      "shot": [
-      [1,0.5033,0.7037]
+      [1,0.5033,0.5821]
      ],
      "ctx": [
       [
@@ -56194,6 +56165,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
+      [1,0.6021,0.7037],
       [2,0.1425,0.2403]
      ],
      "ctx": [
@@ -56600,7 +56572,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10AB-Halogenoalkanes-Q3-2.jpg"
      ],
      "shot": [
-      [1,0.3096,0.5537]
+      [1,0.3096,0.3286]
      ],
      "ctx": [
       [
@@ -56641,7 +56613,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10AB-Halogenoalkanes-Q3.jpg"
      ],
      "shot": [
-      [1,0.5641,0.6249]
+      [1,0.3666,0.6249]
      ],
      "ctx": [
       [
@@ -56686,7 +56658,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10AB-Halogenoalkanes-Q3-3.jpg"
      ],
      "shot": [
-      [1,0.6382,0.8651]
+      [1,0.6382,0.6942]
      ],
      "ctx": [
       [
@@ -56734,6 +56706,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10AB-Halogenoalkanes-Q3-4.jpg"
      ],
      "shot": [
+      [1,0.7104,0.8651],
       [2,0.5935,0.7388],
       [3,0.0655,0.9231],
       [4,0.0608,0.1861]
@@ -57425,7 +57398,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10AB-Halogenoalkanes-Q13-2.jpg"
      ],
      "shot": [
-      [0,0.7151,0.9383]
+      [0,0.7151,0.7645]
      ],
      "ctx": [
       [
@@ -57471,6 +57444,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
+      [0,0.8481,0.9383],
       [1,0.1282,0.453]
      ],
      "ctx": [
@@ -57669,7 +57643,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.6306,0.7673]
+      [0,0.6306,0.6648]
      ],
      "ctx": [
       [
@@ -57709,7 +57683,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.7607,0.9031]
+      [0,0.7559,0.9031]
      ],
      "ctx": [
       [
@@ -57752,8 +57726,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10AB-Halogenoalkanes-Q19.jpg"
      ],
      "shot": [
-      [1,0.2108,0.4292],
-      [2,0.0513,0.6591]
+      [1,0.2108,0.4292]
      ],
      "ctx": [
       [
@@ -57804,7 +57777,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10AB-Halogenoalkanes-Q19.jpg"
      ],
      "shot": [
-      [2,0.6629,0.7417]
+      [2,0.0513,0.7417]
      ],
      "ctx": [
       [
@@ -57829,8 +57802,7 @@ window.BANK.chemistry = {
       [
        "Q19(b)(i)",
        [
-        [1,0.2108,0.4292],
-        [2,0.0513,0.6591]
+        [1,0.2108,0.4292]
        ]
       ]
      ]
@@ -57884,7 +57856,7 @@ window.BANK.chemistry = {
       [
        "Q19(b)(ii)",
        [
-        [2,0.6629,0.7417]
+        [2,0.0513,0.7417]
        ]
       ]
      ]
@@ -57967,7 +57939,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10AB-Halogenoalkanes-Q19-2.jpg"
      ],
      "shot": [
-      [3,0.2517,0.4084]
+      [3,0.2517,0.3029]
      ],
      "ctx": [
       [
@@ -58013,7 +57985,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [3,0.5546,0.6819]
+      [3,0.2963,0.6819]
      ],
      "ctx": [
       [
@@ -58174,7 +58146,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10AB-Halogenoalkanes-Q21-2.jpg"
      ],
      "shot": [
-      [1,0.3647,0.5935]
+      [1,0.3647,0.4008]
      ],
      "ctx": [
       [
@@ -58224,7 +58196,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10AB-Halogenoalkanes-Q21-3.jpg"
      ],
      "shot": [
-      [1,0.6714,0.9411]
+      [1,0.4929,0.7047]
      ],
      "ctx": [
       [
@@ -58285,6 +58257,7 @@ window.BANK.chemistry = {
       [
        "Q21(d)",
        [
+        [1,0.7588,0.9411],
         [2,0.2783,0.2972]
        ]
       ]
@@ -58332,6 +58305,7 @@ window.BANK.chemistry = {
       [
        "Q21(d)",
        [
+        [1,0.7588,0.9411],
         [2,0.2783,0.2972]
        ]
       ]
@@ -58551,7 +58525,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.1909,0.3153]
+      [2,0.1909,0.3029]
      ],
      "ctx": [
       [
@@ -58597,7 +58571,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.6116,0.812]
+      [2,0.2963,0.812]
      ],
      "ctx": [
       [
@@ -58817,7 +58791,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10AB-Halogenoalkanes-Q24-2.jpg"
      ],
      "shot": [
-      [1,0.6876,0.905]
+      [1,0.6876,0.7341]
      ],
      "ctx": [
       [
@@ -58880,7 +58854,7 @@ window.BANK.chemistry = {
       [
        "Q24(c)",
        [
-        [1,0.9183,0.9373],
+        [1,0.7721,0.9373],
         [2,0.0532,0.0722]
        ]
       ]
@@ -58931,7 +58905,7 @@ window.BANK.chemistry = {
       [
        "Q24(c)",
        [
-        [1,0.9183,0.9373],
+        [1,0.7721,0.9373],
         [2,0.0532,0.0722]
        ]
       ]
@@ -60193,7 +60167,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10AB-Halogenoalkanes-Q31.jpg"
      ],
      "shot": [
-      [0,0.4815,0.9069]
+      [0,0.4815,0.5309]
      ],
      "ctx": [
       [
@@ -60233,7 +60207,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.9088,0.943],
+      [0,0.547,0.943],
       [1,0.0532,0.2526]
      ],
      "ctx": [
@@ -60246,7 +60220,7 @@ window.BANK.chemistry = {
       [
        "Q31(b)(ii)",
        [
-        [0,0.4815,0.9069]
+        [0,0.4815,0.5309]
        ]
       ]
      ]
@@ -60396,7 +60370,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10AB-Halogenoalkanes-Q33.jpg"
      ],
      "shot": [
-      [1,0.1121,0.3238]
+      [1,0.1121,0.1311]
      ],
      "ctx": [
       [
@@ -60445,13 +60419,19 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10AB-Halogenoalkanes-Q33-2.jpg"
      ],
      "shot": [
-      [1,0.4796,0.698]
+      [1,0.4796,0.5356]
      ],
      "ctx": [
       [
        "Q33",
        [
         [0,0.6942,0.8376]
+       ]
+      ],
+      [
+       "Q33(c)",
+       [
+        [1,0.1425,0.3238]
        ]
       ]
      ]
@@ -60487,7 +60467,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10AB-Halogenoalkanes-Q33-3.jpg"
      ],
      "shot": [
-      [1,0.9193,0.9383],
+      [1,0.6211,0.9383],
       [2,0.0665,0.3409]
      ],
      "ctx": [
@@ -60495,6 +60475,12 @@ window.BANK.chemistry = {
        "Q33",
        [
         [0,0.6942,0.8376]
+       ]
+      ],
+      [
+       "Q33(c)",
+       [
+        [1,0.1425,0.3238]
        ]
       ]
      ]
@@ -60541,13 +60527,13 @@ window.BANK.chemistry = {
        "Q33(b)",
        [
         [0,0.9212,0.9402],
-        [1,0.0532,0.3238]
+        [1,0.0532,0.1311]
        ]
       ],
       [
        "Q33(c)",
        [
-        [1,0.4796,0.9383],
+        [1,0.1425,0.9383],
         [2,0.0665,0.3409]
        ]
       ]
@@ -60779,7 +60765,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10AB-Halogenoalkanes-Q34-3.jpg"
      ],
      "shot": [
-      [2,0.5309,0.9307]
+      [2,0.5309,0.5641]
      ],
      "ctx": [
       [
@@ -60826,6 +60812,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
+      [2,0.5869,0.9307],
       [3,0.0532,0.2089]
      ],
      "ctx": [
@@ -60999,7 +60986,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10C-Alcohols-Q1.jpg"
      ],
      "shot": [
-      [0,0.1519,0.5252]
+      [0,0.1519,0.1709]
      ],
      "ctx": [
       [
@@ -61042,7 +61029,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10C-Alcohols-Q1.jpg"
      ],
      "shot": [
-      [0,0.5717,0.7721]
+      [0,0.1947,0.7721]
      ],
      "ctx": [
       [
@@ -61084,8 +61071,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10C-Alcohols-Q1-5.jpg"
      ],
      "shot": [
-      [0,0.7778,0.8272],
-      [1,0.0959,0.169]
+      [0,0.7778,0.8272]
      ],
      "ctx": [
       [
@@ -61127,13 +61113,19 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10C-Alcohols-Q1-2.jpg"
      ],
      "shot": [
-      [1,0.321,0.4511]
+      [1,0.321,0.3618]
      ],
      "ctx": [
       [
        "Q1",
        [
         [0,0.1225,0.1415]
+       ]
+      ],
+      [
+       "Q1(b)",
+       [
+        [1,0.0959,0.169]
        ]
       ]
      ]
@@ -61170,7 +61162,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10C-Alcohols-Q1-3.jpg"
      ],
      "shot": [
-      [1,0.4539,0.5755]
+      [1,0.3789,0.4872]
      ],
      "ctx": [
       [
@@ -61180,9 +61172,15 @@ window.BANK.chemistry = {
        ]
       ],
       [
+       "Q1(b)",
+       [
+        [1,0.0959,0.169]
+       ]
+      ],
+      [
        "Q1(b)(i)",
        [
-        [1,0.321,0.4511]
+        [1,0.321,0.3618]
        ]
       ]
      ]
@@ -61216,7 +61214,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.7398,0.925]
+      [1,0.5176,0.925]
      ],
      "ctx": [
       [
@@ -61226,9 +61224,15 @@ window.BANK.chemistry = {
        ]
       ],
       [
+       "Q1(b)",
+       [
+        [1,0.0959,0.169]
+       ]
+      ],
+      [
        "Q1(b)(ii)",
        [
-        [1,0.4539,0.5755]
+        [1,0.3789,0.4872]
        ]
       ]
      ]
@@ -63024,7 +63028,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10C-Alcohols-Q10.jpg"
      ],
      "shot": [
-      [1,0.5603,0.6097]
+      [1,0.5603,0.6277]
      ],
      "ctx": [
       [
@@ -63075,7 +63079,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10C-Alcohols-Q10-2.jpg"
      ],
      "shot": [
-      [1,0.6201,0.6667],
+      [1,0.6211,0.6667],
       [2,0.0532,0.5337]
      ],
      "ctx": [
@@ -63370,7 +63374,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10C-Alcohols-Q16.jpg"
      ],
      "shot": [
-      [0,0.3922,0.7265]
+      [0,0.3922,0.4112]
      ],
      "ctx": [
       [
@@ -63413,7 +63417,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10C-Alcohols-Q16.jpg"
      ],
      "shot": [
-      [0,0.7407,0.9193],
+      [0,0.4349,0.9193],
       [1,0.0608,0.1861]
      ],
      "ctx": [
@@ -63504,7 +63508,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10C-Alcohols-Q16-2.jpg"
      ],
      "shot": [
-      [1,0.3837,0.774]
+      [1,0.3837,0.4179]
      ],
      "ctx": [
       [
@@ -63550,7 +63554,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.7835,0.8927]
+      [1,0.434,0.8927]
      ],
      "ctx": [
       [
@@ -63927,7 +63931,7 @@ window.BANK.chemistry = {
      ],
      "shot": [
       [2,0.8775,0.9411],
-      [3,0.0608,0.0931]
+      [3,0.0608,0.0693]
      ],
      "ctx": [
       [
@@ -63976,7 +63980,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10C-Alcohols-Q18.jpg"
      ],
      "shot": [
-      [3,0.1652,0.2925]
+      [3,0.075,0.2925]
      ],
      "ctx": [
       [
@@ -64457,8 +64461,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10C-Alcohols-Q20.jpg"
      ],
      "shot": [
-      [2,0.4027,0.452],
-      [3,0.0522,0.7104]
+      [2,0.4027,0.452]
      ],
      "ctx": [
       [
@@ -64506,7 +64509,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [3,0.7123,0.7949]
+      [3,0.0522,0.7949]
      ],
      "ctx": [
       [
@@ -64705,8 +64708,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10C-Alcohols-Q20-3.jpg"
      ],
      "shot": [
-      [4,0.812,0.831],
-      [5,0.0513,0.4141]
+      [4,0.812,0.831]
      ],
      "ctx": [
       [
@@ -64757,7 +64759,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10C-Alcohols-Q20-3.jpg"
      ],
      "shot": [
-      [5,0.415,0.4349]
+      [5,0.0513,0.4349]
      ],
      "ctx": [
       [
@@ -64879,8 +64881,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.4017,0.7113],
-      [1,0.2963,0.603]
+      [0,0.4017,0.4207]
      ],
      "ctx": [
       [
@@ -64927,7 +64928,8 @@ window.BANK.chemistry = {
       [
        "Q22(b)",
        [
-        [1,0.623,0.642]
+        [0,0.4444,0.7113],
+        [1,0.2963,0.642]
        ]
       ]
      ]
@@ -64970,7 +64972,8 @@ window.BANK.chemistry = {
       [
        "Q22(b)",
        [
-        [1,0.623,0.642]
+        [0,0.4444,0.7113],
+        [1,0.2963,0.642]
        ]
       ]
      ]
@@ -65019,7 +65022,8 @@ window.BANK.chemistry = {
       [
        "Q22(b)",
        [
-        [1,0.623,0.642]
+        [0,0.4444,0.7113],
+        [1,0.2963,0.642]
        ]
       ]
      ]
@@ -65350,7 +65354,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
      ],
      "shot": [
-      [1,0.5451,0.8927]
+      [1,0.5451,0.6914]
      ],
      "ctx": [
       [
@@ -65396,7 +65400,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.0978,0.1311]
+      [2,0.0532,0.1311]
      ],
      "ctx": [
       [
@@ -65408,8 +65412,7 @@ window.BANK.chemistry = {
       [
        "Q23(e)",
        [
-        [1,0.9031,0.9373],
-        [2,0.0532,0.1016]
+        [1,0.7113,0.9373]
        ]
       ]
      ]
@@ -65454,8 +65457,7 @@ window.BANK.chemistry = {
       [
        "Q23(e)",
        [
-        [1,0.9031,0.9373],
-        [2,0.0532,0.1016]
+        [1,0.7113,0.9373]
        ]
       ]
      ]
@@ -66504,7 +66506,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.2089,0.3333]
+      [0,0.2089,0.3181]
      ],
      "ctx": [
       [
@@ -66545,7 +66547,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.3514,0.4577]
+      [0,0.3143,0.4577]
      ],
      "ctx": [
       [
@@ -66667,7 +66669,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/11-Kinetics-A2-Q6.jpg"
      ],
      "shot": [
-      [1,0.4454,0.8946]
+      [1,0.4454,0.4644]
      ],
      "ctx": [
       [
@@ -66710,7 +66712,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/11-Kinetics-A2-Q6.jpg"
      ],
      "shot": [
-      [1,0.9288,0.9478],
+      [1,0.4957,0.9478],
       [2,0.0532,0.1206]
      ],
      "ctx": [
@@ -67021,8 +67023,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/11-Kinetics-A2-Q11.jpg"
      ],
      "shot": [
-      [1,0.3248,0.3438],
-      [2,0.0608,0.7559]
+      [1,0.3248,0.3438]
      ],
      "ctx": [
       [
@@ -67071,7 +67072,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/11-Kinetics-A2-Q11.jpg"
      ],
      "shot": [
-      [2,0.7588,0.8272]
+      [2,0.0608,0.8272]
      ],
      "ctx": [
       [
@@ -67513,8 +67514,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/11-Kinetics-A2-Q16.jpg"
      ],
      "shot": [
-      [0,0.5764,0.6097],
-      [1,0.0541,0.4473]
+      [0,0.5764,0.6097]
      ],
      "ctx": [
       [
@@ -67561,7 +67561,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/11-Kinetics-A2-Q16.jpg"
      ],
      "shot": [
-      [1,0.4511,0.5337]
+      [1,0.0541,0.5337]
      ],
      "ctx": [
       [
@@ -68748,7 +68748,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/11-Kinetics-A2-Q26.jpg"
      ],
      "shot": [
-      [1,0.1956,0.6382]
+      [1,0.1956,0.2146]
      ],
      "ctx": [
       [
@@ -68787,7 +68787,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.6486,0.8148]
+      [1,0.2384,0.8148]
      ],
      "ctx": [
       [
@@ -68827,7 +68827,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/11-Kinetics-A2-Q27.jpg"
      ],
      "shot": [
-      [0,0.3314,0.5318]
+      [0,0.3314,0.3504]
      ],
      "ctx": [
       [
@@ -68866,7 +68866,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.5432,0.6524]
+      [0,0.3799,0.6524]
      ],
      "ctx": [
       [
@@ -69352,8 +69352,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.7958,0.8376],
-      [1,0.0522,0.2412]
+      [0,0.7958,0.8376]
      ],
      "ctx": [
       [
@@ -69392,7 +69391,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/11-Kinetics-A2-Q35.jpg"
      ],
      "shot": [
-      [1,0.2441,0.4938]
+      [1,0.0522,0.4938]
      ],
      "ctx": [
       [
@@ -70135,8 +70134,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/11-Kinetics-A2-Q40.jpg"
      ],
      "shot": [
-      [0,0.8642,0.8917],
-      [1,0.1804,0.7132]
+      [0,0.8642,0.8917]
      ],
      "ctx": [
       [
@@ -70181,7 +70179,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/11-Kinetics-A2-Q40.jpg"
      ],
      "shot": [
-      [1,0.7246,0.8357]
+      [1,0.1804,0.8357]
      ],
      "ctx": [
       [
@@ -70525,8 +70523,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/11-Kinetics-A2-Q45.jpg"
      ],
      "shot": [
-      [0,0.8338,0.8528],
-      [1,0.0617,0.6638]
+      [0,0.8338,0.8528]
      ],
      "ctx": [
       [
@@ -70568,7 +70565,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/11-Kinetics-A2-Q45.jpg"
      ],
      "shot": [
-      [1,0.6838,0.8699]
+      [1,0.0617,0.8699]
      ],
      "ctx": [
       [
@@ -71799,7 +71796,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12A-Entropy-Q20.jpg"
      ],
      "shot": [
-      [0,0.8072,0.9288]
+      [0,0.8072,0.8262]
      ],
      "ctx": [
       [
@@ -71847,6 +71844,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12A-Entropy-Q20-3.jpg"
      ],
      "shot": [
+      [0,0.8433,0.9288],
       [1,0.0522,0.2384]
      ],
      "ctx": [
@@ -72084,7 +72082,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12A-Entropy-Q20-4.jpg"
      ],
      "shot": [
-      [1,0.6914,0.8186]
+      [1,0.6914,0.7255]
      ],
      "ctx": [
       [
@@ -72145,7 +72143,7 @@ window.BANK.chemistry = {
       [
        "Q20(c)",
        [
-        [1,0.8395,0.8955],
+        [1,0.7417,0.8955],
         [2,0.0655,0.1368]
        ]
       ]
@@ -72194,7 +72192,7 @@ window.BANK.chemistry = {
       [
        "Q20(c)",
        [
-        [1,0.8395,0.8955],
+        [1,0.7417,0.8955],
         [2,0.0655,0.1368]
        ]
       ]
@@ -72462,6 +72460,17 @@ window.BANK.chemistry = {
      ],
      "figures": [
       "papers/chemistry/fig/12B-Lattice-Energy-Q1-2.jpg"
+     ],
+     "shot": [
+      [0,0.5005,0.5347]
+     ],
+     "ctx": [
+      [
+       "Q1",
+       [
+        [0,0.1225,0.4976]
+       ]
+      ]
      ]
     },
     {
@@ -72493,6 +72502,17 @@ window.BANK.chemistry = {
      "figures": [
       "papers/chemistry/fig/12B-Lattice-Energy-Q1.jpg",
       "papers/chemistry/fig/12B-Lattice-Energy-Q1-2.jpg"
+     ],
+     "shot": [
+      [0,0.5518,0.9392]
+     ],
+     "ctx": [
+      [
+       "Q1",
+       [
+        [0,0.1225,0.4976]
+       ]
+      ]
      ]
     },
     {
@@ -73189,7 +73209,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q13.jpg"
      ],
      "shot": [
-      [1,0.2279,0.2488]
+      [1,0.0532,0.2488]
      ],
      "ctx": [
       [
@@ -73201,8 +73221,7 @@ window.BANK.chemistry = {
       [
        "Q13(a)",
        [
-        [0,0.9117,0.9307],
-        [1,0.0532,0.2346]
+        [0,0.9117,0.9307]
        ]
       ]
      ]
@@ -73250,8 +73269,7 @@ window.BANK.chemistry = {
       [
        "Q13(a)",
        [
-        [0,0.9117,0.9307],
-        [1,0.0532,0.2346]
+        [0,0.9117,0.9307]
        ]
       ]
      ]
@@ -73298,14 +73316,13 @@ window.BANK.chemistry = {
       [
        "Q13(a)",
        [
-        [0,0.9117,0.9307],
-        [1,0.0532,0.2346]
+        [0,0.9117,0.9307]
        ]
       ],
       [
        "Q13(a)(i)",
        [
-        [1,0.2279,0.2488]
+        [1,0.0532,0.2488]
        ]
       ],
       [
@@ -73348,7 +73365,7 @@ window.BANK.chemistry = {
      "figures": [],
      "shot": [
       [1,0.8708,0.925],
-      [2,0.0608,0.1434]
+      [2,0.0608,0.1273]
      ],
      "ctx": [
       [
@@ -73396,7 +73413,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.1368,0.3827]
+      [2,0.132,0.3827]
      ],
      "ctx": [
       [
@@ -73445,8 +73462,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q13-3.jpg"
      ],
      "shot": [
-      [2,0.8072,0.8262],
-      [3,0.0513,0.6002]
+      [2,0.8072,0.8262]
      ],
      "ctx": [
       [
@@ -73495,7 +73511,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q13-3.jpg"
      ],
      "shot": [
-      [3,0.6021,0.6211]
+      [3,0.0513,0.6211]
      ],
      "ctx": [
       [
@@ -73832,8 +73848,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q15-3.jpg"
      ],
      "shot": [
-      [1,0.7521,0.7711],
-      [2,0.0589,0.094]
+      [1,0.7521,0.7711]
      ],
      "ctx": [
       [
@@ -73881,7 +73896,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q15-4.jpg"
      ],
      "shot": [
-      [2,0.2896,0.4881]
+      [2,0.0589,0.4881]
      ],
      "ctx": [
       [
@@ -73899,8 +73914,7 @@ window.BANK.chemistry = {
       [
        "Q15(d)(i)",
        [
-        [1,0.7521,0.7711],
-        [2,0.0589,0.094]
+        [1,0.7521,0.7711]
        ]
       ]
      ]
@@ -73964,7 +73978,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q17.jpg"
      ],
      "shot": [
-      [1,0.4976,0.6211]
+      [1,0.4976,0.6068]
      ],
      "ctx": [
       [
@@ -74003,7 +74017,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q17.jpg"
      ],
      "shot": [
-      [1,0.6391,0.7483]
+      [1,0.6021,0.7483]
      ],
      "ctx": [
       [
@@ -74045,7 +74059,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q18.jpg"
      ],
      "shot": [
-      [1,0.6429,0.7255]
+      [1,0.0532,0.7255]
      ],
      "ctx": [
       [
@@ -74057,8 +74071,7 @@ window.BANK.chemistry = {
       [
        "Q18(a)",
        [
-        [0,0.9297,0.9487],
-        [1,0.0532,0.641]
+        [0,0.9297,0.9487]
        ]
       ]
      ]
@@ -74095,8 +74108,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q18-2.jpg"
      ],
      "shot": [
-      [1,0.7322,0.7654],
-      [2,0.0646,0.359]
+      [1,0.7322,0.7654]
      ],
      "ctx": [
       [
@@ -74108,8 +74120,7 @@ window.BANK.chemistry = {
       [
        "Q18(a)",
        [
-        [0,0.9297,0.9487],
-        [1,0.0532,0.641]
+        [0,0.9297,0.9487]
        ]
       ]
      ]
@@ -74147,7 +74158,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q18-3.jpg"
      ],
      "shot": [
-      [2,0.3713,0.773]
+      [2,0.0646,0.773]
      ],
      "ctx": [
       [
@@ -74159,8 +74170,7 @@ window.BANK.chemistry = {
       [
        "Q18(a)",
        [
-        [0,0.9297,0.9487],
-        [1,0.0532,0.641]
+        [0,0.9297,0.9487]
        ]
       ]
      ]
@@ -74480,7 +74490,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.4739,0.7987]
+      [1,0.4739,0.6201]
      ],
      "ctx": [
       [
@@ -74520,8 +74530,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q20-2.jpg"
      ],
      "shot": [
-      [1,0.831,0.8623],
-      [2,0.0513,0.3352]
+      [1,0.831,0.8623]
      ],
      "ctx": [
       [
@@ -74533,7 +74542,7 @@ window.BANK.chemistry = {
       [
        "Q20(c)",
        [
-        [1,0.792,0.8281]
+        [1,0.7863,0.8281]
        ]
       ]
      ]
@@ -74568,7 +74577,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q20-2.jpg"
      ],
      "shot": [
-      [2,0.3286,0.3951]
+      [2,0.0513,0.3951]
      ],
      "ctx": [
       [
@@ -74580,20 +74589,19 @@ window.BANK.chemistry = {
       [
        "Q20(b)",
        [
-        [1,0.4739,0.7987]
+        [1,0.4739,0.6201]
        ]
       ],
       [
        "Q20(c)",
        [
-        [1,0.792,0.8281]
+        [1,0.7863,0.8281]
        ]
       ],
       [
        "Q20(c)(i)",
        [
-        [1,0.831,0.8623],
-        [2,0.0513,0.3352]
+        [1,0.831,0.8623]
        ]
       ]
      ]
@@ -74827,7 +74835,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q21-2.jpg"
      ],
      "shot": [
-      [1,0.321,0.9212]
+      [1,0.321,0.3552]
      ],
      "ctx": [
       [
@@ -74869,7 +74877,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q21-2.jpg"
      ],
      "shot": [
-      [1,0.9231,0.9421],
+      [1,0.378,0.9421],
       [2,0.0532,0.0722]
      ],
      "ctx": [
@@ -75327,7 +75335,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q27.jpg"
      ],
      "shot": [
-      [0,0.396,0.472]
+      [0,0.396,0.4179]
      ],
      "ctx": [
       [
@@ -75373,7 +75381,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q27.jpg"
      ],
      "shot": [
-      [0,0.4653,0.4986]
+      [0,0.4577,0.4986]
      ],
      "ctx": [
       [
@@ -75438,13 +75446,13 @@ window.BANK.chemistry = {
       [
        "Q27(a)(i)",
        [
-        [0,0.396,0.472]
+        [0,0.396,0.4179]
        ]
       ],
       [
        "Q27(a)(ii)",
        [
-        [0,0.4653,0.4986]
+        [0,0.4577,0.4986]
        ]
       ]
      ]
@@ -75562,7 +75570,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q27-2.jpg"
      ],
      "shot": [
-      [1,0.3875,0.6458]
+      [1,0.3875,0.4065]
      ],
      "ctx": [
       [
@@ -75609,7 +75617,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q27-2.jpg"
      ],
      "shot": [
-      [1,0.6515,0.699]
+      [1,0.4274,0.699]
      ],
      "ctx": [
       [
@@ -75655,7 +75663,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/12B-Lattice-Energy-Q27-3.jpg"
      ],
      "shot": [
-      [1,0.7113,0.9098]
+      [1,0.7113,0.7578]
      ],
      "ctx": [
       [
@@ -75673,7 +75681,7 @@ window.BANK.chemistry = {
       [
        "Q27(c)(iii)",
        [
-        [1,0.6515,0.699]
+        [1,0.4274,0.699]
        ]
       ]
      ]
@@ -75707,7 +75715,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.9174,0.9364],
+      [1,0.7863,0.9364],
       [2,0.0522,0.1937]
      ],
      "ctx": [
@@ -75792,7 +75800,18 @@ window.BANK.chemistry = {
       "papers/chemistry/img/13-Chemical-Equilibria-03.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-04.jpg"
      ],
-     "figures": []
+     "figures": [],
+     "shot": [
+      [0,0.5698,0.7407]
+     ],
+     "ctx": [
+      [
+       "Q1",
+       [
+        [0,0.1225,0.3267]
+       ]
+      ]
+     ]
     },
     {
      "id": "Ch13-Q1(a)(iii)",
@@ -75821,7 +75840,18 @@ window.BANK.chemistry = {
       "papers/chemistry/img/13-Chemical-Equilibria-03.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-04.jpg"
      ],
-     "figures": []
+     "figures": [],
+     "shot": [
+      [0,0.7464,0.7958]
+     ],
+     "ctx": [
+      [
+       "Q1",
+       [
+        [0,0.1225,0.3267]
+       ]
+      ]
+     ]
     },
     {
      "id": "Ch13-Q1(a)(iv)",
@@ -75850,7 +75880,18 @@ window.BANK.chemistry = {
       "papers/chemistry/img/13-Chemical-Equilibria-03.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-04.jpg"
      ],
-     "figures": []
+     "figures": [],
+     "shot": [
+      [1,0.1425,0.1776]
+     ],
+     "ctx": [
+      [
+       "Q1",
+       [
+        [0,0.1225,0.3267]
+       ]
+      ]
+     ]
     },
     {
      "id": "Ch13-Q1(a)(v)",
@@ -75883,7 +75924,19 @@ window.BANK.chemistry = {
       "papers/chemistry/img/13-Chemical-Equilibria-03.jpg",
       "papers/chemistry/img/13-Chemical-Equilibria-04.jpg"
      ],
-     "figures": []
+     "figures": [],
+     "shot": [
+      [1,0.4881,0.9383],
+      [2,0.0608,0.3324]
+     ],
+     "ctx": [
+      [
+       "Q1",
+       [
+        [0,0.1225,0.3267]
+       ]
+      ]
+     ]
     },
     {
      "id": "Ch13-Q1(b)(i)",
@@ -76377,8 +76430,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q6-3.jpg"
      ],
      "shot": [
-      [2,0.5005,0.5337],
-      [3,0.057,0.4843]
+      [2,0.5005,0.5337]
      ],
      "ctx": [
       [
@@ -76425,7 +76477,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q6-2.jpg"
      ],
      "shot": [
-      [3,0.5233,0.5423]
+      [3,0.057,0.5423]
      ],
      "ctx": [
       [
@@ -76720,7 +76772,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q7.jpg"
      ],
      "shot": [
-      [1,0.4587,0.7322]
+      [1,0.4587,0.4777]
      ],
      "ctx": [
       [
@@ -76766,7 +76818,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.8215,0.8405]
+      [1,0.4938,0.8405]
      ],
      "ctx": [
       [
@@ -76832,13 +76884,13 @@ window.BANK.chemistry = {
       [
        "Q7(b)(i)",
        [
-        [1,0.4587,0.7322]
+        [1,0.4587,0.4777]
        ]
       ],
       [
        "Q7(b)(ii)",
        [
-        [1,0.8215,0.8405]
+        [1,0.4938,0.8405]
        ]
       ]
      ]
@@ -77000,7 +77052,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q9.jpg"
      ],
      "shot": [
-      [1,0.1861,0.3485]
+      [1,0.1861,0.2298]
      ]
     },
     {
@@ -77031,7 +77083,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q9-2.jpg"
      ],
      "shot": [
-      [1,0.3514,0.5594]
+      [1,0.2232,0.5594]
      ]
     },
     {
@@ -77561,7 +77613,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q14.jpg"
      ],
      "shot": [
-      [2,0.0674,0.4881]
+      [2,0.0674,0.0988]
      ],
      "ctx": [
       [
@@ -77605,7 +77657,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.491,0.5252]
+      [2,0.1187,0.5252]
      ],
      "ctx": [
       [
@@ -77669,7 +77721,7 @@ window.BANK.chemistry = {
       [
        "Q14(c)(iii)",
        [
-        [2,0.491,0.5252]
+        [2,0.1187,0.5252]
        ]
       ]
      ]
@@ -77908,7 +77960,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q17-2.jpg"
      ],
      "shot": [
-      [1,0.8765,0.9003]
+      [1,0.0598,0.9136]
      ],
      "ctx": [
       [
@@ -77920,8 +77972,7 @@ window.BANK.chemistry = {
       [
        "Q17(a)",
        [
-        [0,0.8775,0.8965],
-        [1,0.0598,0.8737]
+        [0,0.8775,0.8965]
        ]
       ]
      ]
@@ -77954,7 +78005,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q17-2.jpg"
      ],
      "shot": [
-      [1,0.906,0.925],
+      [1,0.9069,0.925],
       [2,0.0608,0.0978]
      ],
      "ctx": [
@@ -77967,8 +78018,7 @@ window.BANK.chemistry = {
       [
        "Q17(a)",
        [
-        [0,0.8775,0.8965],
-        [1,0.0598,0.8737]
+        [0,0.8775,0.8965]
        ]
       ]
      ]
@@ -78012,8 +78062,7 @@ window.BANK.chemistry = {
       [
        "Q17(a)",
        [
-        [0,0.8775,0.8965],
-        [1,0.0598,0.8737]
+        [0,0.8775,0.8965]
        ]
       ]
      ]
@@ -78056,8 +78105,7 @@ window.BANK.chemistry = {
       [
        "Q17(a)",
        [
-        [0,0.8775,0.8965],
-        [1,0.0598,0.8737]
+        [0,0.8775,0.8965]
        ]
       ],
       [
@@ -78109,8 +78157,7 @@ window.BANK.chemistry = {
       [
        "Q17(a)",
        [
-        [0,0.8775,0.8965],
-        [1,0.0598,0.8737]
+        [0,0.8775,0.8965]
        ]
       ]
      ]
@@ -78183,7 +78230,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q18-2.jpg"
      ],
      "shot": [
-      [1,0.1159,0.3941]
+      [1,0.1159,0.1595]
      ],
      "ctx": [
       [
@@ -78222,7 +78269,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q18-3.jpg"
      ],
      "shot": [
-      [1,0.3998,0.6154]
+      [1,0.1529,0.6154]
      ],
      "ctx": [
       [
@@ -78264,7 +78311,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q19.jpg"
      ],
      "shot": [
-      [1,0.2849,0.5736]
+      [1,0.2849,0.3276]
      ],
      "ctx": [
       [
@@ -78306,7 +78353,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q19.jpg"
      ],
      "shot": [
-      [1,0.567,0.85]
+      [1,0.5622,0.603]
      ],
      "ctx": [
       [
@@ -78345,8 +78392,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.8433,0.906],
-      [2,0.1709,0.1861]
+      [1,0.8376,0.906]
      ],
      "ctx": [
       [
@@ -78358,7 +78404,7 @@ window.BANK.chemistry = {
       [
        "Q19(a)(ii)",
        [
-        [1,0.567,0.85]
+        [1,0.5622,0.603]
        ]
       ]
      ]
@@ -78390,7 +78436,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.1795,0.2308]
+      [2,0.1709,0.2308]
      ],
      "ctx": [
       [
@@ -78402,14 +78448,13 @@ window.BANK.chemistry = {
       [
        "Q19(a)(i)",
        [
-        [1,0.2849,0.5736]
+        [1,0.2849,0.3276]
        ]
       ],
       [
        "Q19(a)(iii)",
        [
-        [1,0.8433,0.906],
-        [2,0.1709,0.1861]
+        [1,0.8376,0.906]
        ]
       ]
      ]
@@ -78938,7 +78983,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q21.jpg"
      ],
      "shot": [
-      [0,0.2251,0.5014]
+      [0,0.2251,0.2688]
      ],
      "ctx": [
       [
@@ -78975,7 +79020,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.5071,0.6277]
+      [0,0.2621,0.6277]
      ],
      "ctx": [
       [
@@ -79131,8 +79176,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q23.jpg"
      ],
      "shot": [
-      [0,0.8148,0.8338],
-      [1,0.0513,0.2963]
+      [0,0.8148,0.8338]
      ],
      "ctx": [
       [
@@ -79173,7 +79217,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q23-2.jpg"
      ],
      "shot": [
-      [1,0.2991,0.4084]
+      [1,0.0513,0.4084]
      ],
      "ctx": [
       [
@@ -79422,8 +79466,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q28.jpg"
      ],
      "shot": [
-      [0,0.8319,0.8509],
-      [1,0.057,0.3599]
+      [0,0.8319,0.8509]
      ],
      "ctx": [
       [
@@ -79461,7 +79504,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.3666,0.4758]
+      [1,0.057,0.4758]
      ],
      "ctx": [
       [
@@ -79825,8 +79868,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/13-Chemical-Equilibria-Q31.jpg"
      ],
      "shot": [
-      [0,0.8832,0.9022],
-      [1,0.0674,0.2023]
+      [0,0.8832,0.9022]
      ],
      "ctx": [
       [
@@ -79871,7 +79913,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.2194,0.2536]
+      [1,0.0674,0.2536]
      ],
      "ctx": [
       [
@@ -79895,8 +79937,7 @@ window.BANK.chemistry = {
       [
        "Q31(b)(ii)",
        [
-        [0,0.8832,0.9022],
-        [1,0.0674,0.2023]
+        [0,0.8832,0.9022]
        ]
       ]
      ]
@@ -80068,7 +80109,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/14-Acid-Base-Equilibria-Q1.jpg"
      ],
      "shot": [
-      [1,0.1852,0.2232]
+      [1,0.1852,0.2222]
      ],
      "ctx": [
       [
@@ -80116,7 +80157,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/14-Acid-Base-Equilibria-Q1.jpg"
      ],
      "shot": [
-      [1,0.2165,0.4179]
+      [1,0.2156,0.4179]
      ],
      "ctx": [
       [
@@ -80205,8 +80246,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.603,0.6534],
-      [2,0.2308,0.2431]
+      [1,0.603,0.6534]
      ],
      "ctx": [
       [
@@ -80247,7 +80287,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.2365,0.5821]
+      [2,0.2308,0.5821]
      ],
      "ctx": [
       [
@@ -81029,7 +81069,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.3381,0.642]
+      [2,0.3381,0.6182]
      ],
      "ctx": [
       [
@@ -81088,7 +81128,7 @@ window.BANK.chemistry = {
       [
        "Q11(c)",
        [
-        [2,0.6353,0.6695]
+        [2,0.6296,0.6695]
        ]
       ]
      ]
@@ -81137,7 +81177,7 @@ window.BANK.chemistry = {
       [
        "Q11(c)",
        [
-        [2,0.6353,0.6695]
+        [2,0.6296,0.6695]
        ]
       ]
      ]
@@ -81317,7 +81357,18 @@ window.BANK.chemistry = {
       "papers/chemistry/img/14-Acid-Base-Equilibria-15.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-16.jpg"
      ],
-     "figures": []
+     "figures": [],
+     "shot": [
+      [0,0.5859,0.6401]
+     ],
+     "ctx": [
+      [
+       "Q13",
+       [
+        [0,0.471,0.5679]
+       ]
+      ]
+     ]
     },
     {
      "id": "Ch14-Q13a(iii)",
@@ -81346,7 +81397,24 @@ window.BANK.chemistry = {
       "papers/chemistry/img/14-Acid-Base-Equilibria-15.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-16.jpg"
      ],
-     "figures": []
+     "figures": [],
+     "shot": [
+      [1,0.1425,0.284]
+     ],
+     "ctx": [
+      [
+       "Q13",
+       [
+        [0,0.471,0.5679]
+       ]
+      ],
+      [
+       "Q13(a)(ii)",
+       [
+        [0,0.5859,0.6401]
+       ]
+      ]
+     ]
     },
     {
      "id": "Ch14-Q13b(i)",
@@ -81874,8 +81942,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/14-Acid-Base-Equilibria-Q19-3.jpg"
      ],
      "shot": [
-      [1,0.396,0.7284],
-      [2,0.0513,0.8253]
+      [1,0.396,0.7284]
      ],
      "ctx": [
       [
@@ -81931,14 +81998,13 @@ window.BANK.chemistry = {
       [
        "Q19(b)",
        [
-        [1,0.396,0.7284],
-        [2,0.0513,0.8253]
+        [1,0.396,0.7284]
        ]
       ],
       [
        "Q19(c)",
        [
-        [2,0.8348,0.9212]
+        [2,0.0513,0.9212]
        ]
       ]
      ]
@@ -81988,7 +82054,7 @@ window.BANK.chemistry = {
       [
        "Q19(c)",
        [
-        [2,0.8348,0.9212]
+        [2,0.0513,0.9212]
        ]
       ]
      ]
@@ -82038,7 +82104,7 @@ window.BANK.chemistry = {
       [
        "Q19(c)",
        [
-        [2,0.8348,0.9212]
+        [2,0.0513,0.9212]
        ]
       ]
      ]
@@ -82696,8 +82762,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/14-Acid-Base-Equilibria-Q26.jpg"
      ],
      "shot": [
-      [0,0.7198,0.7806],
-      [1,0.0655,0.2032]
+      [0,0.7198,0.7806]
      ],
      "ctx": [
       [
@@ -82747,7 +82812,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.2175,0.2517]
+      [1,0.0655,0.2517]
      ],
      "ctx": [
       [
@@ -82840,8 +82905,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/14-Acid-Base-Equilibria-Q26-2.jpg"
      ],
      "shot": [
-      [1,0.7227,0.7417],
-      [2,0.0513,0.2735]
+      [1,0.7227,0.7417]
      ],
      "ctx": [
       [
@@ -82887,7 +82951,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.2754,0.3675]
+      [2,0.0513,0.3096]
      ],
      "ctx": [
       [
@@ -82933,7 +82997,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.396,0.4644]
+      [2,0.3504,0.4644]
      ],
      "ctx": [
       [
@@ -82951,7 +83015,7 @@ window.BANK.chemistry = {
       [
        "Q26(b)(ii)",
        [
-        [2,0.2754,0.3675]
+        [2,0.0513,0.3096]
        ]
       ]
      ]
@@ -83422,8 +83486,7 @@ window.BANK.chemistry = {
       [
        "Q30(b)",
        [
-        [1,0.4492,0.944],
-        [2,0.0608,0.226]
+        [1,0.4492,0.8727]
        ]
       ]
      ]
@@ -84164,7 +84227,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/14-Acid-Base-Equilibria-Q40-2.jpg"
      ],
      "shot": [
-      [0,0.7683,0.8528]
+      [0,0.7683,0.8167]
      ],
      "ctx": [
       [
@@ -84213,8 +84276,8 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/14-Acid-Base-Equilibria-Q40-3.jpg"
      ],
      "shot": [
-      [0,0.9193,0.9392],
-      [1,0.0532,0.4444]
+      [0,0.8329,0.9392],
+      [1,0.0532,0.2963]
      ],
      "ctx": [
       [
@@ -84262,8 +84325,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/14-Acid-Base-Equilibria-Q40-4.jpg"
      ],
      "shot": [
-      [1,0.4549,0.5831],
-      [2,0.0513,0.452]
+      [1,0.3105,0.5831]
      ],
      "ctx": [
       [
@@ -84305,7 +84367,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.4606,0.548]
+      [2,0.0513,0.548]
      ],
      "ctx": [
       [
@@ -85164,7 +85226,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/14-Acid-Base-Equilibria-Q55.jpg"
      ],
      "shot": [
-      [1,0.6857,0.7635]
+      [1,0.6857,0.735]
      ],
      "ctx": [
       [
@@ -85204,7 +85266,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.7825,0.8367]
+      [1,0.7455,0.8367]
      ],
      "ctx": [
       [
@@ -86430,8 +86492,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15B-Carbonyls-Q10.jpg"
      ],
      "shot": [
-      [0,0.8452,0.8822],
-      [1,0.0646,0.2156]
+      [0,0.8452,0.8822]
      ],
      "ctx": [
       [
@@ -86472,7 +86533,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.227,0.4226]
+      [1,0.0646,0.4226]
      ],
      "ctx": [
       [
@@ -86545,7 +86606,19 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15B-Carbonyls-07.jpg",
       "papers/chemistry/img/15B-Carbonyls-08.jpg"
      ],
-     "figures": []
+     "figures": [],
+     "shot": [
+      [1,0.4122,0.642]
+     ],
+     "ctx": [
+      [
+       "Q11",
+       [
+        [0,0.5774,0.6562],
+        [1,0.0513,0.4103]
+       ]
+      ]
+     ]
     },
     {
      "id": "Ch15B-Q11a(iii)",
@@ -86578,6 +86651,18 @@ window.BANK.chemistry = {
      ],
      "figures": [
       "papers/chemistry/fig/15B-Carbonyls-Q11.jpg"
+     ],
+     "shot": [
+      [1,0.6486,0.8338]
+     ],
+     "ctx": [
+      [
+       "Q11",
+       [
+        [0,0.5774,0.6562],
+        [1,0.0513,0.4103]
+       ]
+      ]
      ]
     },
     {
@@ -86747,7 +86832,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15B-Carbonyls-Q15.jpg"
      ],
      "shot": [
-      [0,0.66,0.9117]
+      [0,0.66,0.7018]
      ],
      "ctx": [
       [
@@ -86785,6 +86870,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
+      [0,0.7284,0.9117],
       [1,0.0532,0.1425]
      ],
      "ctx": [
@@ -87060,8 +87146,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15B-Carbonyls-Q18.jpg"
      ],
      "shot": [
-      [0,0.6486,0.6819],
-      [1,0.0513,0.3618]
+      [0,0.6486,0.6819]
      ],
      "ctx": [
       [
@@ -87111,7 +87196,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15B-Carbonyls-Q18.jpg"
      ],
      "shot": [
-      [1,0.3656,0.5214]
+      [1,0.0513,0.5214]
      ],
      "ctx": [
       [
@@ -87171,8 +87256,7 @@ window.BANK.chemistry = {
       [
        "Q18(a)(i)",
        [
-        [0,0.6486,0.6819],
-        [1,0.0513,0.3618]
+        [0,0.6486,0.6819]
        ]
       ]
      ]
@@ -87209,8 +87293,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15B-Carbonyls-Q18-2.jpg"
      ],
      "shot": [
-      [1,0.5793,0.5983],
-      [2,0.0522,0.4198]
+      [1,0.5793,0.5983]
      ],
      "ctx": [
       [
@@ -87255,7 +87338,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.4302,0.5641]
+      [2,0.0522,0.5641]
      ],
      "ctx": [
       [
@@ -87362,7 +87445,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.7284,0.7854]
+      [0,0.6619,0.7854]
      ]
     },
     {
@@ -87400,7 +87483,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15B-Carbonyls-Q21.jpg"
      ],
      "shot": [
-      [1,0.0817,0.3124]
+      [1,0.0817,0.1206]
      ],
      "ctx": [
       [
@@ -87441,7 +87524,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.3324,0.5537]
+      [1,0.1396,0.5537]
      ],
      "ctx": [
       [
@@ -88221,8 +88304,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15C-Carboxylic-Acids-Q4-2.jpg"
      ],
      "shot": [
-      [0,0.8376,0.8841],
-      [1,0.0646,0.4245]
+      [0,0.8376,0.8841]
      ],
      "ctx": [
       [
@@ -88264,7 +88346,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.472,0.528]
+      [1,0.0646,0.528]
      ],
      "ctx": [
       [
@@ -88451,8 +88533,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15C-Carboxylic-Acids-Q5.jpg"
      ],
      "shot": [
-      [0,0.83,0.8984],
-      [1,0.0513,0.2877]
+      [0,0.83,0.8984]
      ],
      "ctx": [
       [
@@ -88507,7 +88588,7 @@ window.BANK.chemistry = {
       [
        "Q5(c)",
        [
-        [1,0.2982,0.4131]
+        [1,0.0513,0.4131]
        ]
       ]
      ]
@@ -88546,7 +88627,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15C-Carboxylic-Acids-Q5-2.jpg"
      ],
      "shot": [
-      [1,0.5347,0.7949]
+      [1,0.5347,0.5679]
      ],
      "ctx": [
       [
@@ -88558,7 +88639,7 @@ window.BANK.chemistry = {
       [
        "Q5(c)",
        [
-        [1,0.2982,0.4131]
+        [1,0.0513,0.4131]
        ]
       ]
      ]
@@ -88595,6 +88676,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
+      [1,0.6524,0.7949],
       [2,0.0532,0.0864]
      ],
      "ctx": [
@@ -88607,7 +88689,7 @@ window.BANK.chemistry = {
       [
        "Q5(c)",
        [
-        [1,0.2982,0.4131]
+        [1,0.0513,0.4131]
        ]
       ]
      ]
@@ -88656,13 +88738,13 @@ window.BANK.chemistry = {
       [
        "Q5(c)",
        [
-        [1,0.2982,0.4131]
+        [1,0.0513,0.4131]
        ]
       ],
       [
        "Q5(c)(ii)",
        [
-        [1,0.5347,0.7949]
+        [1,0.5347,0.5679]
        ]
       ]
      ]
@@ -88850,7 +88932,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.3932,0.4539]
+      [1,0.3932,0.4122]
      ],
      "ctx": [
       [
@@ -88901,7 +88983,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15C-Carboxylic-Acids-Q6.jpg"
      ],
      "shot": [
-      [1,0.4682,0.4995]
+      [1,0.4378,0.4995]
      ],
      "ctx": [
       [
@@ -89116,8 +89198,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15C-Carboxylic-Acids-Q9-2.jpg"
      ],
      "shot": [
-      [0,0.5622,0.5812],
-      [1,0.0513,0.8053]
+      [0,0.5622,0.5812]
      ],
      "ctx": [
       [
@@ -89161,7 +89242,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15C-Carboxylic-Acids-Q9-2.jpg"
      ],
      "shot": [
-      [1,0.8091,0.8281],
+      [1,0.0513,0.8281],
       [2,0.0513,0.2716]
      ],
      "ctx": [
@@ -89335,7 +89416,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15C-Carboxylic-Acids-Q14.jpg"
      ],
      "shot": [
-      [0,0.2013,0.3656]
+      [0,0.2013,0.2194]
      ],
      "ctx": [
       [
@@ -89384,7 +89465,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15C-Carboxylic-Acids-Q14.jpg"
      ],
      "shot": [
-      [0,0.3799,0.4729]
+      [0,0.245,0.4112]
      ],
      "ctx": [
       [
@@ -89432,7 +89513,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15C-Carboxylic-Acids-Q14.jpg"
      ],
      "shot": [
-      [0,0.6505,0.6695]
+      [0,0.4302,0.6695]
      ],
      "ctx": [
       [
@@ -90990,7 +91071,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15D-Acid-Derivatives-Q9-2.jpg"
      ],
      "shot": [
-      [0,0.3219,0.8813]
+      [0,0.3219,0.3656]
      ],
      "ctx": [
       [
@@ -91029,7 +91110,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.8851,0.9402],
+      [0,0.359,0.9402],
       [1,0.0513,0.1083]
      ],
      "ctx": [
@@ -91263,8 +91344,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15D-Acid-Derivatives-Q13.jpg"
      ],
      "shot": [
-      [0,0.8851,0.9041],
-      [1,0.0513,0.1121]
+      [0,0.8851,0.9041]
      ],
      "ctx": [
       [
@@ -91312,7 +91392,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15D-Acid-Derivatives-Q13.jpg"
      ],
      "shot": [
-      [1,0.114,0.49]
+      [1,0.0513,0.49]
      ],
      "ctx": [
       [
@@ -91800,14 +91880,13 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15D-Acid-Derivatives-Q26.jpg"
      ],
      "shot": [
-      [1,0.075,0.2042]
+      [1,0.0532,0.1092]
      ],
      "ctx": [
       [
        "Q26(a)",
        [
-        [0,0.7987,0.9354],
-        [1,0.0532,0.0722]
+        [0,0.7987,0.9354]
        ]
       ]
      ]
@@ -91847,14 +91926,13 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15D-Acid-Derivatives-Q26.jpg"
      ],
      "shot": [
-      [1,0.1975,0.3998]
+      [1,0.1937,0.3998]
      ],
      "ctx": [
       [
        "Q26(a)",
        [
-        [0,0.7987,0.9354],
-        [1,0.0532,0.0722]
+        [0,0.7987,0.9354]
        ]
       ]
      ]
@@ -91898,8 +91976,7 @@ window.BANK.chemistry = {
       [
        "Q26(a)",
        [
-        [0,0.7987,0.9354],
-        [1,0.0532,0.0722]
+        [0,0.7987,0.9354]
        ]
       ]
      ]
@@ -92098,8 +92175,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.4862,0.5366],
-      [3,0.0513,0.5689]
+      [2,0.4862,0.5366]
      ],
      "ctx": [
       [
@@ -92152,7 +92228,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [3,0.5717,0.7721]
+      [3,0.0513,0.7721]
      ],
      "ctx": [
       [
@@ -92164,8 +92240,7 @@ window.BANK.chemistry = {
       [
        "Q26(c)(ii)",
        [
-        [2,0.4862,0.5366],
-        [3,0.0513,0.5689]
+        [2,0.4862,0.5366]
        ]
       ]
      ]
@@ -92470,7 +92545,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.1519,0.6087]
+      [0,0.1519,0.2507]
      ],
      "ctx": [
       [
@@ -92514,13 +92589,19 @@ window.BANK.chemistry = {
      ],
      "shot": [
       [0,0.8509,0.8851],
-      [1,0.0513,0.3875]
+      [1,0.0513,0.207]
      ],
      "ctx": [
       [
        "Q1",
        [
         [0,0.1225,0.1406]
+       ]
+      ],
+      [
+       "Q1(b)",
+       [
+        [0,0.2707,0.6087]
        ]
       ]
      ]
@@ -92554,13 +92635,19 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q1.jpg"
      ],
      "shot": [
-      [1,0.3903,0.4444]
+      [1,0.2374,0.4444]
      ],
      "ctx": [
       [
        "Q1",
        [
         [0,0.1225,0.1406]
+       ]
+      ],
+      [
+       "Q1(b)",
+       [
+        [0,0.2707,0.6087]
        ]
       ]
      ]
@@ -92776,7 +92863,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q2-2.jpg"
      ],
      "shot": [
-      [1,0.3723,0.5964]
+      [1,0.3723,0.4188]
      ],
      "ctx": [
       [
@@ -92820,7 +92907,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q2.jpg"
      ],
      "shot": [
-      [1,0.6477,0.8186]
+      [1,0.4805,0.8186]
      ],
      "ctx": [
       [
@@ -92906,7 +92993,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q2-3.jpg"
      ],
      "shot": [
-      [2,0.3001,0.6154]
+      [2,0.3001,0.3343]
      ],
      "ctx": [
       [
@@ -92954,7 +93041,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.6657,0.8803]
+      [2,0.3675,0.8803]
      ],
      "ctx": [
       [
@@ -93131,7 +93218,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q3-2.jpg"
      ],
      "shot": [
-      [1,0.1197,0.3248]
+      [1,0.1197,0.1387]
      ],
      "ctx": [
       [
@@ -93179,7 +93266,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q3-3.jpg"
      ],
      "shot": [
-      [1,0.3286,0.5603]
+      [1,0.1557,0.5603]
      ],
      "ctx": [
       [
@@ -93742,8 +93829,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q7.jpg"
      ],
      "shot": [
-      [1,0.5489,0.7958],
-      [2,0.0598,0.3276]
+      [1,0.5489,0.7958]
      ],
      "ctx": [
       [
@@ -93786,7 +93872,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q7-2.jpg"
      ],
      "shot": [
-      [2,0.4862,0.661]
+      [2,0.0598,0.6182]
      ],
      "ctx": [
       [
@@ -93842,7 +93928,7 @@ window.BANK.chemistry = {
       [
        "Q7(d)",
        [
-        [2,0.8519,0.8708]
+        [2,0.6439,0.8708]
        ]
       ]
      ]
@@ -93888,7 +93974,7 @@ window.BANK.chemistry = {
       [
        "Q7(d)",
        [
-        [2,0.8519,0.8708]
+        [2,0.6439,0.8708]
        ]
       ]
      ]
@@ -93933,7 +94019,7 @@ window.BANK.chemistry = {
       [
        "Q7(d)",
        [
-        [2,0.8519,0.8708]
+        [2,0.6439,0.8708]
        ]
       ]
      ]
@@ -93984,7 +94070,7 @@ window.BANK.chemistry = {
       [
        "Q7(d)",
        [
-        [2,0.8519,0.8708]
+        [2,0.6439,0.8708]
        ]
       ]
      ]
@@ -94767,7 +94853,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q14-2.jpg"
      ],
      "shot": [
-      [1,0.4093,0.7863]
+      [1,0.4093,0.4435]
      ],
      "ctx": [
       [
@@ -94825,6 +94911,7 @@ window.BANK.chemistry = {
       [
        "Q14(c)",
        [
+        [1,0.5043,0.7863],
         [2,0.0674,0.4834]
        ]
       ]
@@ -94873,6 +94960,7 @@ window.BANK.chemistry = {
       [
        "Q14(c)",
        [
+        [1,0.5043,0.7863],
         [2,0.0674,0.4834]
        ]
       ]
@@ -94919,6 +95007,7 @@ window.BANK.chemistry = {
       [
        "Q14(c)",
        [
+        [1,0.5043,0.7863],
         [2,0.0674,0.4834]
        ]
       ]
@@ -94966,6 +95055,7 @@ window.BANK.chemistry = {
       [
        "Q14(c)",
        [
+        [1,0.5043,0.7863],
         [2,0.0674,0.4834]
        ]
       ]
@@ -95532,7 +95622,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.4141,0.9259]
+      [0,0.4141,0.5005]
      ],
      "ctx": [
       [
@@ -95583,6 +95673,7 @@ window.BANK.chemistry = {
       [
        "Q21(b)",
        [
+        [0,0.5176,0.9259],
         [1,0.0532,0.0864]
        ]
       ]
@@ -95628,6 +95719,7 @@ window.BANK.chemistry = {
       [
        "Q21(b)",
        [
+        [0,0.5176,0.9259],
         [1,0.0532,0.0864]
        ]
       ]
@@ -95674,6 +95766,7 @@ window.BANK.chemistry = {
       [
        "Q21(b)",
        [
+        [0,0.5176,0.9259],
         [1,0.0532,0.0864]
        ]
       ]
@@ -95790,8 +95883,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.8291,0.8623],
-      [2,0.0655,0.0874]
+      [1,0.8291,0.8623]
      ],
      "ctx": [
       [
@@ -95834,7 +95926,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.1776,0.2393]
+      [2,0.0655,0.2393]
      ],
      "ctx": [
       [
@@ -95884,8 +95976,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q22-2.jpg"
      ],
      "shot": [
-      [0,0.5783,0.6192],
-      [1,0.0513,0.6021]
+      [0,0.5783,0.6192]
      ],
      "ctx": [
       [
@@ -95930,7 +96021,7 @@ window.BANK.chemistry = {
      ],
      "shot": [
       [1,0.755,0.9402],
-      [2,0.0608,0.1121]
+      [2,0.0608,0.0978]
      ],
      "ctx": [
       [
@@ -95942,7 +96033,7 @@ window.BANK.chemistry = {
       [
        "Q22(b)",
        [
-        [1,0.6116,0.7531]
+        [1,0.0513,0.7531]
        ]
       ]
      ]
@@ -95978,7 +96069,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q22-3.jpg"
      ],
      "shot": [
-      [2,0.1054,0.1273]
+      [2,0.1035,0.1273]
      ],
      "ctx": [
       [
@@ -95990,7 +96081,7 @@ window.BANK.chemistry = {
       [
        "Q22(b)",
        [
-        [1,0.6116,0.7531]
+        [1,0.0513,0.7531]
        ]
       ]
      ]
@@ -96040,7 +96131,7 @@ window.BANK.chemistry = {
       [
        "Q22(b)",
        [
-        [1,0.6116,0.7531]
+        [1,0.0513,0.7531]
        ]
       ]
      ]
@@ -96604,7 +96695,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q25.jpg"
      ],
      "shot": [
-      [1,0.3922,0.5926]
+      [1,0.3922,0.4359]
      ],
      "ctx": [
       [
@@ -96643,7 +96734,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q25.jpg"
      ],
      "shot": [
-      [1,0.604,0.8158]
+      [1,0.4397,0.8158]
      ],
      "ctx": [
       [
@@ -96722,7 +96813,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q26.jpg"
      ],
      "shot": [
-      [1,0.2384,0.4872]
+      [1,0.2384,0.3115]
      ],
      "ctx": [
       [
@@ -96762,7 +96853,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.5641,0.8452]
+      [1,0.3048,0.8452]
      ],
      "ctx": [
       [
@@ -96804,7 +96895,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q27.jpg"
      ],
      "shot": [
-      [0,0.1567,0.567]
+      [0,0.1567,0.1757]
      ],
      "ctx": [
       [
@@ -96852,7 +96943,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q27-2.jpg"
      ],
      "shot": [
-      [0,0.5783,0.9364],
+      [0,0.2013,0.9364],
       [1,0.0532,0.1453]
      ],
      "ctx": [
@@ -97534,7 +97625,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q31-3.jpg"
      ],
      "shot": [
-      [1,0.5271,0.5584]
+      [1,0.0513,0.5584]
      ],
      "ctx": [
       [
@@ -97546,8 +97637,7 @@ window.BANK.chemistry = {
       [
        "Q31(d)",
        [
-        [0,0.8993,0.9335],
-        [1,0.0513,0.5242]
+        [0,0.8993,0.9335]
        ]
       ]
      ]
@@ -97594,8 +97684,7 @@ window.BANK.chemistry = {
       [
        "Q31(d)",
        [
-        [0,0.8993,0.9335],
-        [1,0.0513,0.5242]
+        [0,0.8993,0.9335]
        ]
       ]
      ]
@@ -97708,7 +97797,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q33-4.jpg"
      ],
      "shot": [
-      [1,0.1406,0.358]
+      [1,0.1406,0.1738]
      ],
      "ctx": [
       [
@@ -97750,7 +97839,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q33-3.jpg"
      ],
      "shot": [
-      [1,0.3675,0.5736]
+      [1,0.1985,0.5736]
      ],
      "ctx": [
       [
@@ -97871,8 +97960,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q33-2.jpg"
      ],
      "shot": [
-      [1,0.9079,0.9269],
-      [2,0.0513,0.1652]
+      [1,0.9079,0.9269]
      ],
      "ctx": [
       [
@@ -97921,7 +98009,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q33-2.jpg"
      ],
      "shot": [
-      [2,0.169,0.3846]
+      [2,0.0513,0.3846]
      ],
      "ctx": [
       [
@@ -98069,7 +98157,7 @@ window.BANK.chemistry = {
      ],
      "shot": [
       [0,0.8822,0.9012],
-      [1,0.0513,0.471]
+      [1,0.0513,0.2896]
      ],
      "ctx": [
       [
@@ -98110,7 +98198,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q36-4.jpg"
      ],
      "shot": [
-      [1,0.4739,0.8215]
+      [1,0.3115,0.8215]
      ],
      "ctx": [
       [
@@ -98241,7 +98329,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q37-3.jpg"
      ],
      "shot": [
-      [2,0.1937,0.3124]
+      [2,0.1937,0.2127]
      ],
      "ctx": [
       [
@@ -98287,7 +98375,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.3153,0.3979]
+      [2,0.2298,0.3979]
      ],
      "ctx": [
       [
@@ -98779,8 +98867,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/15E-Spectroscopy-Q40-3.jpg"
      ],
      "shot": [
-      [1,0.6885,0.7797],
-      [2,0.1026,0.4995]
+      [1,0.6885,0.7797]
      ],
      "ctx": [
       [
@@ -98825,7 +98912,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.5147,0.5461]
+      [2,0.1026,0.5461]
      ],
      "ctx": [
       [
@@ -99084,7 +99171,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q6-2.jpg"
      ],
      "shot": [
-      [0,0.699,0.9031]
+      [0,0.699,0.7426]
      ],
      "ctx": [
       [
@@ -99127,7 +99214,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q6-3.jpg"
      ],
      "shot": [
-      [0,0.906,0.925],
+      [0,0.7455,0.925],
       [1,0.0513,0.1244]
      ],
      "ctx": [
@@ -99334,7 +99421,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q8-2.jpg"
      ],
      "shot": [
-      [0,0.4198,0.6581]
+      [0,0.4198,0.4625]
      ],
      "ctx": [
       [
@@ -99376,7 +99463,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q8-3.jpg"
      ],
      "shot": [
-      [0,0.66,0.9497]
+      [0,0.4568,0.9497]
      ],
      "ctx": [
       [
@@ -99418,7 +99505,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q9.jpg"
      ],
      "shot": [
-      [0,0.4577,0.6876]
+      [0,0.4577,0.509]
      ],
      "ctx": [
       [
@@ -99460,7 +99547,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q9.jpg"
      ],
      "shot": [
-      [0,0.6809,0.717]
+      [0,0.6752,0.717]
      ],
      "ctx": [
       [
@@ -99794,7 +99881,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.1159,0.2488]
+      [1,0.1159,0.2251]
      ],
      "ctx": [
       [
@@ -99835,7 +99922,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.2422,0.3846]
+      [1,0.2412,0.3846]
      ],
      "ctx": [
       [
@@ -100274,7 +100361,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q19-3.jpg"
      ],
      "shot": [
-      [1,0.4065,0.5641]
+      [1,0.4065,0.4501]
      ],
      "ctx": [
       [
@@ -100318,7 +100405,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q19-4.jpg"
      ],
      "shot": [
-      [1,0.567,0.7388]
+      [1,0.4435,0.6106]
      ],
      "ctx": [
       [
@@ -100360,7 +100447,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q19.jpg"
      ],
      "shot": [
-      [1,0.7322,0.8405]
+      [1,0.604,0.8405]
      ],
      "ctx": [
       [
@@ -100617,7 +100704,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.5489,0.603]
+      [0,0.5489,0.5679]
      ],
      "ctx": [
       [
@@ -100665,7 +100752,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.8329,0.8509]
+      [0,0.5859,0.8509]
      ],
      "ctx": [
       [
@@ -100860,7 +100947,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.2308,0.3837]
+      [1,0.1244,0.3837]
      ]
     },
     {
@@ -101783,7 +101870,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q44-3.jpg"
      ],
      "shot": [
-      [1,0.4017,0.4207]
+      [1,0.0513,0.4207]
      ],
      "ctx": [
       [
@@ -101795,8 +101882,7 @@ window.BANK.chemistry = {
       [
        "Q44(b)",
        [
-        [0,0.755,0.774],
-        [1,0.0513,0.3989]
+        [0,0.755,0.774]
        ]
       ]
      ]
@@ -101846,8 +101932,7 @@ window.BANK.chemistry = {
       [
        "Q44(b)",
        [
-        [0,0.755,0.774],
-        [1,0.0513,0.3989]
+        [0,0.755,0.774]
        ]
       ]
      ]
@@ -102279,7 +102364,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.3637,0.4777]
+      [1,0.3637,0.3979]
      ],
      "ctx": [
       [
@@ -102326,7 +102411,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q49-4.jpg"
      ],
      "shot": [
-      [1,0.471,0.5793]
+      [1,0.4682,0.5793]
      ],
      "ctx": [
       [
@@ -102372,7 +102457,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.0532,0.1909]
+      [1,0.0532,0.1624]
      ],
      "ctx": [
       [
@@ -102411,7 +102496,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.1842,0.2925]
+      [1,0.1795,0.2925]
      ],
      "ctx": [
       [
@@ -102485,7 +102570,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q52.jpg"
      ],
      "shot": [
-      [0,0.5261,0.7236]
+      [0,0.5261,0.5451]
      ],
      "ctx": [
       [
@@ -102525,7 +102610,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q52-2.jpg"
      ],
      "shot": [
-      [0,0.736,0.8737]
+      [0,0.5736,0.8737]
      ],
      "ctx": [
       [
@@ -102956,8 +103041,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q56-2.jpg"
      ],
      "shot": [
-      [0,0.8832,0.9022],
-      [1,0.0636,0.2384]
+      [0,0.8832,0.9022]
      ],
      "ctx": [
       [
@@ -102999,7 +103083,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q56-3.jpg"
      ],
      "shot": [
-      [1,0.2317,0.4701]
+      [1,0.0636,0.3428]
      ],
      "ctx": [
       [
@@ -103042,7 +103126,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q56.jpg"
      ],
      "shot": [
-      [1,0.4634,0.5745]
+      [1,0.3362,0.5745]
      ],
      "ctx": [
       [
@@ -103205,7 +103289,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q58.jpg"
      ],
      "shot": [
-      [1,0.4644,0.6068]
+      [1,0.4644,0.4986]
      ],
      "ctx": [
       [
@@ -103248,7 +103332,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/16-Redox-Equilibria-Q58.jpg"
      ],
      "shot": [
-      [1,0.6002,0.8395]
+      [1,0.5964,0.8395]
      ],
      "ctx": [
       [
@@ -103782,8 +103866,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q1-2.jpg"
      ],
      "shot": [
-      [0,0.6648,0.7749],
-      [1,0.3514,0.3637]
+      [0,0.6648,0.7749]
      ],
      "ctx": [
       [
@@ -103833,7 +103916,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q1-3.jpg"
      ],
      "shot": [
-      [1,0.3571,0.5527]
+      [1,0.3514,0.5527]
      ],
      "ctx": [
       [
@@ -104888,8 +104971,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q12-2.jpg"
      ],
      "shot": [
-      [1,0.8329,0.867],
-      [2,0.0655,0.32]
+      [1,0.8329,0.867]
      ],
      "ctx": [
       [
@@ -104950,7 +105032,7 @@ window.BANK.chemistry = {
       [
        "Q12(c)",
        [
-        [2,0.4805,0.7768]
+        [2,0.0655,0.7768]
        ]
       ]
      ]
@@ -105002,7 +105084,7 @@ window.BANK.chemistry = {
       [
        "Q12(c)",
        [
-        [2,0.4805,0.7768]
+        [2,0.0655,0.7768]
        ]
       ]
      ]
@@ -105040,7 +105122,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q12-3.jpg"
      ],
      "shot": [
-      [3,0.4435,0.7721]
+      [3,0.4435,0.4767]
      ],
      "ctx": [
       [
@@ -105052,7 +105134,7 @@ window.BANK.chemistry = {
       [
        "Q12(c)",
        [
-        [2,0.4805,0.7768]
+        [2,0.0655,0.7768]
        ]
       ],
       [
@@ -105094,7 +105176,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q12-3.jpg"
      ],
      "shot": [
-      [3,0.7654,0.7863]
+      [3,0.4938,0.7863]
      ],
      "ctx": [
       [
@@ -105106,7 +105188,7 @@ window.BANK.chemistry = {
       [
        "Q12(c)",
        [
-        [2,0.4805,0.7768]
+        [2,0.0655,0.7768]
        ]
       ]
      ]
@@ -105155,7 +105237,7 @@ window.BANK.chemistry = {
       [
        "Q12(c)",
        [
-        [2,0.4805,0.7768]
+        [2,0.0655,0.7768]
        ]
       ]
      ]
@@ -105208,7 +105290,7 @@ window.BANK.chemistry = {
       [
        "Q12(c)",
        [
-        [2,0.4805,0.7768]
+        [2,0.0655,0.7768]
        ]
       ]
      ]
@@ -105869,7 +105951,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.4881,0.622]
+      [1,0.4881,0.5185]
      ],
      "ctx": [
       [
@@ -105925,7 +106007,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q24-2.jpg"
      ],
      "shot": [
-      [1,0.6154,0.812]
+      [1,0.6125,0.812]
      ],
      "ctx": [
       [
@@ -106307,8 +106389,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q33.jpg"
      ],
      "shot": [
-      [0,0.8509,0.8955],
-      [1,0.2317,0.2412]
+      [0,0.8509,0.8955]
      ],
      "ctx": [
       [
@@ -106358,7 +106439,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q33-2.jpg"
      ],
      "shot": [
-      [1,0.2346,0.6971]
+      [1,0.2317,0.6971]
      ],
      "ctx": [
       [
@@ -107376,7 +107457,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q45-3.jpg"
      ],
      "shot": [
-      [1,0.1026,0.169]
+      [1,0.0532,0.169]
      ],
      "ctx": [
       [
@@ -107388,8 +107469,7 @@ window.BANK.chemistry = {
       [
        "Q45(a)",
        [
-        [0,0.7835,0.9449],
-        [1,0.0532,0.0997]
+        [0,0.7835,0.9449]
        ]
       ]
      ]
@@ -107435,8 +107515,7 @@ window.BANK.chemistry = {
       [
        "Q45(a)",
        [
-        [0,0.7835,0.9449],
-        [1,0.0532,0.0997]
+        [0,0.7835,0.9449]
        ]
       ]
      ]
@@ -107486,8 +107565,7 @@ window.BANK.chemistry = {
       [
        "Q45(a)",
        [
-        [0,0.7835,0.9449],
-        [1,0.0532,0.0997]
+        [0,0.7835,0.9449]
        ]
       ]
      ]
@@ -108054,7 +108132,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.0978,0.3248]
+      [2,0.0978,0.1472]
      ],
      "ctx": [
       [
@@ -108106,7 +108184,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q49.jpg"
      ],
      "shot": [
-      [2,0.3181,0.943],
+      [2,0.3143,0.943],
       [3,0.0608,0.567]
      ],
      "ctx": [
@@ -110644,7 +110722,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q80.jpg"
      ],
      "shot": [
-      [1,0.208,0.4872]
+      [1,0.208,0.4653]
      ],
      "ctx": [
       [
@@ -110699,6 +110777,12 @@ window.BANK.chemistry = {
        [
         [0,0.3124,0.3628]
        ]
+      ],
+      [
+       "Q80(c)",
+       [
+        [1,0.4767,0.4872]
+       ]
       ]
      ]
     },
@@ -110737,6 +110821,12 @@ window.BANK.chemistry = {
        [
         [0,0.3124,0.3628]
        ]
+      ],
+      [
+       "Q80(c)",
+       [
+        [1,0.4767,0.4872]
+       ]
       ]
      ]
     },
@@ -110769,8 +110859,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q81-3.jpg"
      ],
      "shot": [
-      [0,0.7873,0.8072],
-      [1,0.0617,0.2232]
+      [0,0.7873,0.8072]
      ],
      "ctx": [
       [
@@ -110810,7 +110899,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q81-3.jpg"
      ],
      "shot": [
-      [1,0.227,0.4378]
+      [1,0.0617,0.2469]
      ],
      "ctx": [
       [
@@ -110851,7 +110940,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q81-3.jpg"
      ],
      "shot": [
-      [1,0.4416,0.5508]
+      [1,0.2773,0.5508]
      ],
      "ctx": [
       [
@@ -110990,7 +111079,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q82.jpg"
      ],
      "shot": [
-      [1,0.3846,0.8386]
+      [1,0.3846,0.6591]
      ],
      "ctx": [
       [
@@ -111039,7 +111128,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.8414,0.9278],
+      [1,0.6762,0.9278],
       [2,0.1111,0.2422]
      ],
      "ctx": [
@@ -111089,8 +111178,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q82-2.jpg"
      ],
      "shot": [
-      [2,0.416,0.4359],
-      [3,0.0608,0.6705]
+      [2,0.416,0.4359]
      ],
      "ctx": [
       [
@@ -111138,7 +111226,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q82-2.jpg"
      ],
      "shot": [
-      [3,0.6819,0.7844]
+      [3,0.0608,0.7844]
      ],
      "ctx": [
       [
@@ -111764,7 +111852,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q91-4.jpg"
      ],
      "shot": [
-      [2,0.5385,0.5745]
+      [2,0.0513,0.5745]
      ],
      "ctx": [
       [
@@ -111776,8 +111864,7 @@ window.BANK.chemistry = {
       [
        "Q91(b)",
        [
-        [1,0.4207,0.6952],
-        [2,0.0513,0.5423]
+        [1,0.4207,0.6952]
        ]
       ]
      ]
@@ -111825,8 +111912,7 @@ window.BANK.chemistry = {
       [
        "Q91(b)",
        [
-        [1,0.4207,0.6952],
-        [2,0.0513,0.5423]
+        [1,0.4207,0.6952]
        ]
       ]
      ]
@@ -111877,8 +111963,7 @@ window.BANK.chemistry = {
       [
        "Q91(b)",
        [
-        [1,0.4207,0.6952],
-        [2,0.0513,0.5423]
+        [1,0.4207,0.6952]
        ]
       ]
      ]
@@ -112091,7 +112176,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q92-2.jpg"
      ],
      "shot": [
-      [0,0.5935,0.6885]
+      [0,0.5935,0.6724]
      ],
      "ctx": [
       [
@@ -112132,7 +112217,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q92.jpg"
      ],
      "shot": [
-      [1,0.3609,0.5442]
+      [1,0.3609,0.3808]
      ],
      "ctx": [
       [
@@ -112144,7 +112229,7 @@ window.BANK.chemistry = {
       [
        "Q92(b)",
        [
-        [0,0.7569,0.8167],
+        [0,0.6667,0.8167],
         [1,0.0513,0.359]
        ]
       ]
@@ -112181,7 +112266,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q92.jpg"
      ],
      "shot": [
-      [1,0.5565,0.7426]
+      [1,0.3989,0.7426]
      ],
      "ctx": [
       [
@@ -112193,7 +112278,7 @@ window.BANK.chemistry = {
       [
        "Q92(b)",
        [
-        [0,0.7569,0.8167],
+        [0,0.6667,0.8167],
         [1,0.0513,0.359]
        ]
       ]
@@ -112240,7 +112325,7 @@ window.BANK.chemistry = {
       [
        "Q92(b)",
        [
-        [0,0.7569,0.8167],
+        [0,0.6667,0.8167],
         [1,0.0513,0.359]
        ]
       ]
@@ -112369,7 +112454,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/17-Transition-Metals-Q96.jpg"
      ],
      "shot": [
-      [0,0.5698,0.7806]
+      [0,0.5698,0.5897]
      ],
      "ctx": [
       [
@@ -112410,7 +112495,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [0,0.7835,0.9345],
+      [0,0.6144,0.9345],
       [1,0.0617,0.1007]
      ],
      "ctx": [
@@ -112423,7 +112508,7 @@ window.BANK.chemistry = {
       [
        "Q96(a)(i)",
        [
-        [0,0.5698,0.7806]
+        [0,0.5698,0.5897]
        ]
       ]
      ]
@@ -113449,7 +113534,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/18-Arenes-Q3ai.jpg"
      ],
      "shot": [
-      [0,0.5878,0.7426]
+      [0,0.5878,0.622]
      ],
      "ctx": [
       [
@@ -113499,6 +113584,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/18-Arenes-Q3ai.jpg"
      ],
      "shot": [
+      [0,0.6391,0.7426],
       [1,0.0826,0.3561]
      ],
      "ctx": [
@@ -113517,7 +113603,7 @@ window.BANK.chemistry = {
       [
        "Q3(a)(i)",
        [
-        [0,0.5878,0.7426]
+        [0,0.5878,0.622]
        ]
       ]
      ]
@@ -114185,7 +114271,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/18-Arenes-Q17-2.jpg"
      ],
      "shot": [
-      [1,0.1045,0.2773]
+      [1,0.1045,0.1406]
      ],
      "ctx": [
       [
@@ -114232,7 +114318,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.4236,0.4425]
+      [1,0.1339,0.4425]
      ],
      "ctx": [
       [
@@ -114322,7 +114408,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/18-Arenes-Q17-3.jpg"
      ],
      "shot": [
-      [1,0.7778,0.9136]
+      [1,0.7778,0.7968]
      ],
      "ctx": [
       [
@@ -114370,7 +114456,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.9174,0.9364],
+      [1,0.8129,0.9364],
       [2,0.0532,0.0722]
      ],
      "ctx": [
@@ -114923,7 +115009,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/18-Arenes-Q25.jpg"
      ],
      "shot": [
-      [1,0.2137,0.4511]
+      [1,0.2137,0.2327]
      ],
      "ctx": [
       [
@@ -114975,7 +115061,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/18-Arenes-Q25-2.jpg"
      ],
      "shot": [
-      [1,0.4549,0.5907]
+      [1,0.2507,0.4862]
      ],
      "ctx": [
       [
@@ -115024,7 +115110,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.7056,0.8927]
+      [1,0.5014,0.8927]
      ],
      "ctx": [
       [
@@ -115043,7 +115129,7 @@ window.BANK.chemistry = {
       [
        "Q25(a)(ii)",
        [
-        [1,0.4549,0.5907]
+        [1,0.2507,0.4862]
        ]
       ]
      ]
@@ -115347,7 +115433,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q5.jpg"
      ],
      "shot": [
-      [1,0.3314,0.3818]
+      [1,0.3314,0.3675]
      ],
      "ctx": [
       [
@@ -115395,7 +115481,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q5.jpg"
      ],
      "shot": [
-      [1,0.378,0.4311]
+      [1,0.3609,0.4311]
      ],
      "ctx": [
       [
@@ -115446,7 +115532,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q5.jpg"
      ],
      "shot": [
-      [1,0.4378,0.7236]
+      [1,0.4378,0.4691]
      ],
      "ctx": [
       [
@@ -115497,7 +115583,7 @@ window.BANK.chemistry = {
      ],
      "shot": [
       [1,0.925,0.944],
-      [2,0.0532,0.3295]
+      [2,0.0532,0.0693]
      ],
      "ctx": [
       [
@@ -115509,7 +115595,7 @@ window.BANK.chemistry = {
       [
        "Q5(b)",
        [
-        [1,0.9031,0.9221]
+        [1,0.6638,0.9221]
        ]
       ]
      ]
@@ -115547,7 +115633,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q5-2.jpg"
      ],
      "shot": [
-      [2,0.3314,0.5347]
+      [2,0.0883,0.5347]
      ],
      "ctx": [
       [
@@ -115559,7 +115645,7 @@ window.BANK.chemistry = {
       [
        "Q5(b)",
        [
-        [1,0.9031,0.9221]
+        [1,0.6638,0.9221]
        ]
       ]
      ]
@@ -115612,7 +115698,7 @@ window.BANK.chemistry = {
       [
        "Q5(b)",
        [
-        [1,0.9031,0.9221]
+        [1,0.6638,0.9221]
        ]
       ]
      ]
@@ -115692,8 +115778,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q6.jpg"
      ],
      "shot": [
-      [0,0.5869,0.6059],
-      [1,0.0513,0.528]
+      [0,0.5869,0.6059]
      ],
      "ctx": [
       [
@@ -115734,7 +115819,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.5299,0.6515]
+      [1,0.0513,0.6515]
      ],
      "ctx": [
       [
@@ -116404,8 +116489,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q20-2.jpg"
      ],
      "shot": [
-      [0,0.7142,0.7331],
-      [1,0.0513,0.603]
+      [0,0.7142,0.7331]
      ],
      "ctx": [
       [
@@ -116445,7 +116529,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.6078,0.7322]
+      [1,0.0513,0.7322]
      ],
      "ctx": [
       [
@@ -116843,8 +116927,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q26-2.jpg"
      ],
      "shot": [
-      [1,0.7265,0.7645],
-      [2,0.0551,0.2602]
+      [1,0.7265,0.7645]
      ],
      "ctx": [
       [
@@ -116886,7 +116969,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q26.jpg"
      ],
      "shot": [
-      [2,0.264,0.3856]
+      [2,0.0551,0.3856]
      ],
      "ctx": [
       [
@@ -117374,8 +117457,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q27-3.jpg"
      ],
      "shot": [
-      [3,0.8689,0.9098],
-      [4,0.0513,0.2697]
+      [3,0.8689,0.9098]
      ],
      "ctx": [
       [
@@ -117419,7 +117501,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [4,0.2792,0.3504]
+      [4,0.0513,0.3504]
      ],
      "ctx": [
       [
@@ -117566,7 +117648,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q31.jpg"
      ],
      "shot": [
-      [1,0.378,0.5907]
+      [1,0.378,0.4093]
      ],
      "ctx": [
       [
@@ -117619,7 +117701,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q31-5.jpg"
      ],
      "shot": [
-      [1,0.584,0.9411],
+      [1,0.4283,0.9411],
       [2,0.0608,0.1567]
      ],
      "ctx": [
@@ -117964,7 +118046,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q31-4.jpg"
      ],
      "shot": [
-      [4,0.585,0.7217]
+      [4,0.585,0.604]
      ],
      "ctx": [
       [
@@ -118014,7 +118096,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q31-4.jpg"
      ],
      "shot": [
-      [4,0.7958,0.8281]
+      [4,0.6154,0.8281]
      ],
      "ctx": [
       [
@@ -118209,7 +118291,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q32-2.jpg"
      ],
      "shot": [
-      [1,0.7531,0.9117]
+      [1,0.7531,0.7721]
      ],
      "ctx": [
       [
@@ -118259,6 +118341,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q32-2.jpg"
      ],
      "shot": [
+      [1,0.8414,0.9117],
       [2,0.0826,0.1016]
      ],
      "ctx": [
@@ -118358,7 +118441,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q32-3.jpg"
      ],
      "shot": [
-      [2,0.3979,0.5518]
+      [2,0.3979,0.4169]
      ],
      "ctx": [
       [
@@ -118407,8 +118490,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q32-3.jpg"
      ],
      "shot": [
-      [2,0.5802,0.6277],
-      [3,0.0522,0.4834]
+      [2,0.433,0.6277]
      ],
      "ctx": [
       [
@@ -118456,7 +118538,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [3,0.4853,0.5651]
+      [3,0.0522,0.5651]
      ],
      "ctx": [
       [
@@ -118827,8 +118909,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q36-2.jpg"
      ],
      "shot": [
-      [1,0.4311,0.4872],
-      [2,0.0513,0.5033]
+      [1,0.4311,0.4872]
      ],
      "ctx": [
       [
@@ -118870,7 +118951,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q36-3.jpg"
      ],
      "shot": [
-      [2,0.5128,0.792]
+      [2,0.0513,0.792]
      ],
      "ctx": [
       [
@@ -118940,7 +119021,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q38.jpg"
      ],
      "shot": [
-      [0,0.4141,0.8082]
+      [0,0.4141,0.4577]
      ],
      "ctx": [
       [
@@ -118980,7 +119061,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q38-2.jpg"
      ],
      "shot": [
-      [0,0.8272,0.8462],
+      [0,0.4634,0.8462],
       [1,0.0513,0.4236]
      ],
      "ctx": [
@@ -119083,7 +119164,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q41.jpg"
      ],
      "shot": [
-      [0,0.1852,0.7028]
+      [0,0.1852,0.2289]
      ],
      "ctx": [
       [
@@ -119125,8 +119206,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q41-3.jpg"
      ],
      "shot": [
-      [0,0.8613,0.8984],
-      [1,0.0513,0.6743]
+      [0,0.8613,0.8984]
      ],
      "ctx": [
       [
@@ -119138,7 +119218,7 @@ window.BANK.chemistry = {
       [
        "Q41(b)",
        [
-        [0,0.7056,0.8509]
+        [0,0.2222,0.8509]
        ]
       ]
      ]
@@ -119173,7 +119253,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q41-2.jpg"
      ],
      "shot": [
-      [1,0.6781,0.7844]
+      [1,0.0513,0.7844]
      ],
      "ctx": [
       [
@@ -119185,14 +119265,13 @@ window.BANK.chemistry = {
       [
        "Q41(b)",
        [
-        [0,0.7056,0.8509]
+        [0,0.2222,0.8509]
        ]
       ],
       [
        "Q41(b)(i)",
        [
-        [0,0.8613,0.8984],
-        [1,0.0513,0.6743]
+        [0,0.8613,0.8984]
        ]
       ]
      ]
@@ -119681,7 +119760,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q49-2.jpg"
      ],
      "shot": [
-      [1,0.1092,0.4644]
+      [1,0.1092,0.1472]
      ],
      "ctx": [
       [
@@ -119723,7 +119802,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q49-3.jpg"
      ],
      "shot": [
-      [1,0.4672,0.5014],
+      [1,0.1614,0.5014],
       [2,0.0513,0.6562]
      ],
      "ctx": [
@@ -120058,7 +120137,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q53-2.jpg"
      ],
      "shot": [
-      [2,0.2631,0.3713]
+      [2,0.2631,0.3466]
      ],
      "ctx": [
       [
@@ -120107,7 +120186,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q53-2.jpg"
      ],
      "shot": [
-      [2,0.5176,0.5708]
+      [2,0.3523,0.5708]
      ],
      "ctx": [
       [
@@ -120703,7 +120782,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/19-Organic-Nitrogen-Q56-2.jpg"
      ],
      "shot": [
-      [2,0.604,0.8898]
+      [2,0.604,0.6524]
      ],
      "ctx": [
       [
@@ -120749,7 +120828,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.9297,0.9487],
+      [2,0.6724,0.9487],
       [3,0.0532,0.1064]
      ],
      "ctx": [
@@ -121598,7 +121677,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q4.jpg"
      ],
      "shot": [
-      [2,0.567,0.7939]
+      [2,0.567,0.774]
      ],
      "ctx": [
       [
@@ -121653,7 +121732,8 @@ window.BANK.chemistry = {
       [
        "Q4(e)",
        [
-        [2,0.7873,0.8243]
+        [2,0.7854,0.9221],
+        [3,0.2783,0.7464]
        ]
       ]
      ]
@@ -121704,7 +121784,7 @@ window.BANK.chemistry = {
       [
        "Q4(e)",
        [
-        [2,0.7873,0.8243]
+        [2,0.7854,0.8243]
        ]
       ]
      ]
@@ -121960,7 +122040,7 @@ window.BANK.chemistry = {
      ],
      "shot": [
       [1,0.9297,0.9487],
-      [2,0.0532,0.264]
+      [2,0.0532,0.1016]
      ],
      "ctx": [
       [
@@ -122010,7 +122090,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q6-4.jpg"
      ],
      "shot": [
-      [2,0.5783,0.7341]
+      [2,0.188,0.7341]
      ],
      "ctx": [
       [
@@ -122697,8 +122777,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q8-4.jpg"
      ],
      "shot": [
-      [3,0.8756,0.9003],
-      [4,0.0513,0.886]
+      [3,0.8756,0.9003]
      ],
      "ctx": [
       [
@@ -122762,7 +122841,7 @@ window.BANK.chemistry = {
       [
        "Q8(d)",
        [
-        [4,0.8965,0.9155],
+        [4,0.0513,0.9155],
         [5,0.0513,0.1804]
        ]
       ]
@@ -122816,7 +122895,7 @@ window.BANK.chemistry = {
       [
        "Q8(d)",
        [
-        [4,0.8965,0.9155],
+        [4,0.0513,0.9155],
         [5,0.0513,0.1804]
        ]
       ]
@@ -123431,8 +123510,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q18-2.jpg"
      ],
      "shot": [
-      [1,0.7445,0.8129],
-      [2,0.0513,0.1871]
+      [1,0.7445,0.8129]
      ],
      "ctx": [
       [
@@ -123480,7 +123558,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q18-4.jpg"
      ],
      "shot": [
-      [2,0.2716,0.7198]
+      [2,0.0513,0.5024]
      ],
      "ctx": [
       [
@@ -123539,7 +123617,7 @@ window.BANK.chemistry = {
       [
        "Q18(d)",
        [
-        [2,0.7303,0.7493],
+        [2,0.5328,0.7493],
         [3,0.0513,0.7284]
        ]
       ]
@@ -123590,7 +123668,7 @@ window.BANK.chemistry = {
       [
        "Q18(d)",
        [
-        [2,0.7303,0.7493],
+        [2,0.5328,0.7493],
         [3,0.0513,0.7284]
        ]
       ]
@@ -123641,7 +123719,7 @@ window.BANK.chemistry = {
       [
        "Q18(d)",
        [
-        [2,0.7303,0.7493],
+        [2,0.5328,0.7493],
         [3,0.0513,0.7284]
        ]
       ]
@@ -123693,7 +123771,7 @@ window.BANK.chemistry = {
       [
        "Q18(d)",
        [
-        [2,0.7303,0.7493],
+        [2,0.5328,0.7493],
         [3,0.0513,0.7284]
        ]
       ]
@@ -123747,7 +123825,7 @@ window.BANK.chemistry = {
       [
        "Q18(d)",
        [
-        [2,0.7303,0.7493],
+        [2,0.5328,0.7493],
         [3,0.0513,0.7284]
        ]
       ]
@@ -123789,7 +123867,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q18-7.jpg"
      ],
      "shot": [
-      [4,0.7683,0.8946]
+      [4,0.7683,0.7873]
      ],
      "ctx": [
       [
@@ -123842,7 +123920,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q18-7.jpg"
      ],
      "shot": [
-      [4,0.8974,0.9316]
+      [4,0.8044,0.9316]
      ],
      "ctx": [
       [
@@ -124816,7 +124894,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q28-4.jpg"
      ],
      "shot": [
-      [2,0.2289,0.3704]
+      [2,0.0513,0.3704]
      ],
      "ctx": [
       [
@@ -124829,8 +124907,7 @@ window.BANK.chemistry = {
       [
        "Q28(b)",
        [
-        [1,0.7863,0.8053],
-        [2,0.0513,0.2327]
+        [1,0.7863,0.8053]
        ]
       ]
      ]
@@ -124880,8 +124957,7 @@ window.BANK.chemistry = {
       [
        "Q28(b)",
        [
-        [1,0.7863,0.8053],
-        [2,0.0513,0.2327]
+        [1,0.7863,0.8053]
        ]
       ]
      ]
@@ -126443,7 +126519,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q40.jpg"
      ],
      "shot": [
-      [0,0.5309,0.6971]
+      [0,0.4245,0.6971]
      ]
     },
     {
@@ -126518,8 +126594,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.5014,0.6154],
-      [2,0.0665,0.7521]
+      [1,0.5014,0.6154]
      ],
      "ctx": [
       [
@@ -126560,7 +126635,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.7626,0.8338]
+      [2,0.0665,0.8338]
      ],
      "ctx": [
       [
@@ -127022,7 +127097,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q43-5.jpg"
      ],
      "shot": [
-      [3,0.075,0.509]
+      [3,0.075,0.2659]
      ],
      "ctx": [
       [
@@ -127069,7 +127144,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q43-6.jpg"
      ],
      "shot": [
-      [3,0.6591,0.8613]
+      [3,0.2849,0.8613]
      ],
      "ctx": [
       [
@@ -127299,7 +127374,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q44-4.jpg"
      ],
      "shot": [
-      [2,0.4274,0.5461]
+      [2,0.4274,0.4644]
      ],
      "ctx": [
       [
@@ -127347,7 +127422,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [2,0.5442,0.8613]
+      [2,0.4577,0.8613]
      ],
      "ctx": [
       [
@@ -127439,7 +127514,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q44.jpg"
      ],
      "shot": [
-      [3,0.0532,0.4929]
+      [3,0.0532,0.2716]
      ],
      "ctx": [
       [
@@ -127486,7 +127561,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q44-2.jpg"
      ],
      "shot": [
-      [3,0.5033,0.7882],
+      [3,0.3096,0.7882],
       [4,0.0617,0.2991]
      ],
      "ctx": [
@@ -128562,7 +128637,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q54.jpg"
      ],
      "shot": [
-      [0,0.5347,0.6885]
+      [0,0.5347,0.5537]
      ],
      "ctx": [
       [
@@ -128613,7 +128688,7 @@ window.BANK.chemistry = {
       [
        "Q54(b)",
        [
-        [0,0.735,0.754]
+        [0,0.5907,0.754]
        ]
       ]
      ]
@@ -128658,7 +128733,7 @@ window.BANK.chemistry = {
       [
        "Q54(b)",
        [
-        [0,0.735,0.754]
+        [0,0.5907,0.754]
        ]
       ],
       [
@@ -128709,7 +128784,7 @@ window.BANK.chemistry = {
       [
        "Q54(b)",
        [
-        [0,0.735,0.754]
+        [0,0.5907,0.754]
        ]
       ],
       [
@@ -129400,8 +129475,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q57.jpg"
      ],
      "shot": [
-      [0,0.7578,0.7768],
-      [1,0.0513,0.6011]
+      [0,0.7578,0.7768]
      ],
      "ctx": [
       [
@@ -129438,7 +129512,7 @@ window.BANK.chemistry = {
      ],
      "figures": [],
      "shot": [
-      [1,0.6116,0.7626]
+      [1,0.0513,0.7626]
      ],
      "ctx": [
       [
@@ -129757,7 +129831,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q58-6.jpg"
      ],
      "shot": [
-      [3,0.5878,0.8091]
+      [3,0.5878,0.6211]
      ],
      "ctx": [
       [
@@ -129805,7 +129879,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q58-7.jpg"
      ],
      "shot": [
-      [3,0.812,0.8613],
+      [3,0.6496,0.8613],
       [4,0.0627,0.3542]
      ],
      "ctx": [
@@ -130082,8 +130156,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q62.jpg"
      ],
      "shot": [
-      [0,0.6762,0.6952],
-      [1,0.0513,0.7284]
+      [0,0.6762,0.6952]
      ],
      "ctx": [
       [
@@ -130123,7 +130196,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q62-3.jpg"
      ],
      "shot": [
-      [1,0.7303,0.9487],
+      [1,0.0513,0.9487],
       [2,0.0513,0.1073]
      ],
      "ctx": [
@@ -130374,7 +130447,7 @@ window.BANK.chemistry = {
       "papers/chemistry/fig/20-Organic-Synthesis-Q67-2.jpg"
      ],
      "shot": [
-      [1,0.2612,0.5176]
+      [1,0.2612,0.3172]
      ],
      "ctx": [
       [
@@ -130418,6 +130491,12 @@ window.BANK.chemistry = {
        [
         [0,0.6401,0.831]
        ]
+      ],
+      [
+       "Q67(d)",
+       [
+        [1,0.3343,0.5176]
+       ]
       ]
      ]
     },
@@ -130458,6 +130537,12 @@ window.BANK.chemistry = {
        "Q67",
        [
         [0,0.6401,0.831]
+       ]
+      ],
+      [
+       "Q67(d)",
+       [
+        [1,0.3343,0.5176]
        ]
       ]
      ]

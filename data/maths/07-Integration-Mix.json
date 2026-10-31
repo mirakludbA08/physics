@@ -31,6 +31,13 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-01.jpg",
         "papers/maths/img/P4-07-Integration-Mix-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1804,
+          0.3789
+        ]
       ]
     },
     {
@@ -61,6 +68,25 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-01.jpg",
         "papers/maths/img/P4-07-Integration-Mix-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4264,
+          0.5318
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.1804,
+              0.3789
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -90,6 +116,25 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-01.jpg",
         "papers/maths/img/P4-07-Integration-Mix-02.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.283,
+          0.321
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              1,
+              0.0332,
+              0.2726
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -123,6 +168,25 @@
       ],
       "figures": [
         "papers/maths/fig/07-Integration-Mix-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3827,
+          0.5679
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              1,
+              0.0332,
+              0.2726
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -153,6 +217,30 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-02.jpg",
         "papers/maths/img/P4-07-Integration-Mix-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9221,
+          0.9421
+        ],
+        [
+          1,
+          0.0332,
+          0.1102
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8566,
+              0.9088
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -183,6 +271,25 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-02.jpg",
         "papers/maths/img/P4-07-Integration-Mix-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1557,
+          0.301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8566,
+              0.9088
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -212,6 +319,25 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-03.jpg",
         "papers/maths/img/P4-07-Integration-Mix-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5689,
+          0.642
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.4397,
+              0.5546
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -242,6 +368,25 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-03.jpg",
         "papers/maths/img/P4-07-Integration-Mix-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6857,
+          0.7987
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.4397,
+              0.5546
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -272,6 +417,13 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-04.jpg",
         "papers/maths/img/P4-07-Integration-Mix-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1643,
+          0.339
+        ]
       ]
     },
     {
@@ -305,6 +457,18 @@
       ],
       "figures": [
         "papers/maths/fig/07-Integration-Mix-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6287,
+          0.9573
+        ],
+        [
+          1,
+          0.0351,
+          0.2289
+        ]
       ]
     },
     {
@@ -334,6 +498,25 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-05.jpg",
         "papers/maths/img/P4-07-Integration-Mix-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5859,
+          0.7142
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5204,
+              0.5726
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -363,6 +546,35 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-05.jpg",
         "papers/maths/img/P4-07-Integration-Mix-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7303,
+          0.8272
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5204,
+              0.5726
+            ]
+          ]
+        ],
+        [
+          "Q7(a)",
+          [
+            [
+              0,
+              0.5859,
+              0.7142
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -391,6 +603,25 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-06.jpg",
         "papers/maths/img/P4-07-Integration-Mix-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4625,
+          0.509
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1814,
+              0.4416
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -424,6 +655,35 @@
       ],
       "figures": [
         "papers/maths/fig/07-Integration-Mix-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5755,
+          0.7407
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1814,
+              0.4416
+            ]
+          ]
+        ],
+        [
+          "Q8(a)",
+          [
+            [
+              0,
+              0.4625,
+              0.509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -454,6 +714,13 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-07.jpg",
         "papers/maths/img/P4-07-Integration-Mix-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.0997,
+          0.2222
+        ]
       ]
     },
     {
@@ -483,6 +750,13 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-07.jpg",
         "papers/maths/img/P4-07-Integration-Mix-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2678,
+          0.3514
+        ]
       ]
     },
     {
@@ -513,6 +787,13 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-07.jpg",
         "papers/maths/img/P4-07-Integration-Mix-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6496,
+          0.8462
+        ]
       ]
     },
     {
@@ -544,6 +825,25 @@
       ],
       "figures": [
         "papers/maths/fig/07-Integration-Mix-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5138,
+          0.5328
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.1624,
+              0.5014
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -572,6 +872,25 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-08.jpg",
         "papers/maths/img/P4-07-Integration-Mix-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5793,
+          0.6163
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.1624,
+              0.5014
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -605,6 +924,25 @@
       ],
       "figures": [
         "papers/maths/fig/07-Integration-Mix-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6781,
+          0.8091
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.1624,
+              0.5014
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -633,6 +971,13 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-09.jpg",
         "papers/maths/img/P4-07-Integration-Mix-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1643,
+          0.2355
+        ]
       ]
     },
     {
@@ -662,6 +1007,25 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-09.jpg",
         "papers/maths/img/P4-07-Integration-Mix-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.283,
+          0.3504
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.1643,
+              0.2355
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -692,6 +1056,13 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-09.jpg",
         "papers/maths/img/P4-07-Integration-Mix-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3951,
+          0.5185
+        ]
       ]
     },
     {
@@ -721,6 +1092,25 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-09.jpg",
         "papers/maths/img/P4-07-Integration-Mix-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8632,
+          0.8832
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.8091,
+              0.8481
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -749,6 +1139,35 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-09.jpg",
         "papers/maths/img/P4-07-Integration-Mix-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9269,
+          0.9687
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.8091,
+              0.8481
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.8632,
+              0.8832
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -779,6 +1198,35 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-09.jpg",
         "papers/maths/img/P4-07-Integration-Mix-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.1434
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.8091,
+              0.8481
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              0,
+              0.9269,
+              0.9687
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -809,6 +1257,25 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-10.jpg",
         "papers/maths/img/P4-07-Integration-Mix-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4976,
+          0.6049
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.433,
+              0.4853
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -838,6 +1305,25 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-10.jpg",
         "papers/maths/img/P4-07-Integration-Mix-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6534,
+          0.7588
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.433,
+              0.4853
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -870,6 +1356,25 @@
       ],
       "figures": [
         "papers/maths/fig/07-Integration-Mix-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5575,
+          0.6705
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.0674,
+              0.5442
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -903,6 +1408,25 @@
       ],
       "figures": [
         "papers/maths/fig/07-Integration-Mix-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7189,
+          0.7711
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.0674,
+              0.5442
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -932,6 +1456,13 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-12.jpg",
         "papers/maths/img/P4-07-Integration-Mix-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1159,
+          0.1548
+        ]
       ]
     },
     {
@@ -962,6 +1493,25 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-12.jpg",
         "papers/maths/img/P4-07-Integration-Mix-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2032,
+          0.4378
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16(a)",
+          [
+            [
+              0,
+              0.1159,
+              0.1548
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -991,6 +1541,25 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-12.jpg",
         "papers/maths/img/P4-07-Integration-Mix-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7787,
+          0.7968
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.7246,
+              0.7645
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1020,6 +1589,35 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-12.jpg",
         "papers/maths/img/P4-07-Integration-Mix-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8424,
+          0.8699
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.7246,
+              0.7645
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              0,
+              0.8424,
+              0.9326
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1049,6 +1647,25 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-12.jpg",
         "papers/maths/img/P4-07-Integration-Mix-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8974,
+          0.9326
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.7246,
+              0.7645
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1080,6 +1697,25 @@
       ],
       "figures": [
         "papers/maths/fig/07-Integration-Mix-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.642,
+          0.7521
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.2773,
+              0.6296
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1113,6 +1749,35 @@
       ],
       "figures": [
         "papers/maths/fig/07-Integration-Mix-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8006,
+          0.8661
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.2773,
+              0.6296
+            ]
+          ]
+        ],
+        [
+          "Q18(a)",
+          [
+            [
+              0,
+              0.642,
+              0.7521
+            ]
+          ]
+        ]
       ]
     }
   ]

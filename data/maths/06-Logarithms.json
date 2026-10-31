@@ -31,6 +31,13 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-01.jpg",
         "papers/maths/img/P2-06-Logarithms-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1814,
+          0.2669
+        ]
       ]
     },
     {
@@ -62,6 +69,13 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-01.jpg",
         "papers/maths/img/P2-06-Logarithms-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3124,
+          0.3647
+        ]
       ]
     },
     {
@@ -91,6 +105,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-01.jpg",
         "papers/maths/img/P2-06-Logarithms-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8129,
+          0.8319
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6534,
+              0.7996
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -120,6 +153,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-01.jpg",
         "papers/maths/img/P2-06-Logarithms-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8784,
+          0.9288
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6534,
+              0.7996
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -149,6 +201,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-01.jpg",
         "papers/maths/img/P2-06-Logarithms-02.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0351,
+          0.0817
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6534,
+              0.7996
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -207,6 +278,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-02.jpg",
         "papers/maths/img/P2-06-Logarithms-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5451,
+          0.6268
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3438,
+              0.3628
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -236,6 +326,30 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-02.jpg",
         "papers/maths/img/P2-06-Logarithms-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9155,
+          0.9677
+        ],
+        [
+          1,
+          0.0351,
+          0.1197
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8832,
+              0.9003
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -266,6 +380,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-02.jpg",
         "papers/maths/img/P2-06-Logarithms-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1311,
+          0.1709
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8832,
+              0.9003
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -296,6 +429,13 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-03.jpg",
         "papers/maths/img/P2-06-Logarithms-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4777,
+          0.5299
+        ]
       ]
     },
     {
@@ -325,6 +465,13 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-03.jpg",
         "papers/maths/img/P2-06-Logarithms-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5755,
+          0.66
+        ]
       ]
     },
     {
@@ -356,6 +503,18 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-03.jpg",
         "papers/maths/img/P2-06-Logarithms-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9497,
+          0.9687
+        ],
+        [
+          1,
+          0.0351,
+          0.0541
+        ]
       ]
     },
     {
@@ -387,6 +546,13 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-04.jpg",
         "papers/maths/img/P2-06-Logarithms-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3105,
+          0.4444
+        ]
       ]
     },
     {
@@ -416,6 +582,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-04.jpg",
         "papers/maths/img/P2-06-Logarithms-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.943,
+          0.9639
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7009,
+              0.9326
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -475,6 +660,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-05.jpg",
         "papers/maths/img/P2-06-Logarithms-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5261,
+          0.5442
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4558,
+              0.5119
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -504,6 +708,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-05.jpg",
         "papers/maths/img/P2-06-Logarithms-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5916,
+          0.6439
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4558,
+              0.5119
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -534,6 +757,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-05.jpg",
         "papers/maths/img/P2-06-Logarithms-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6895,
+          0.7085
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4558,
+              0.5119
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -590,6 +832,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-06.jpg",
         "papers/maths/img/P2-06-Logarithms-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2108,
+          0.2583
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.0674,
+              0.1491
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -619,6 +880,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-06.jpg",
         "papers/maths/img/P2-06-Logarithms-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3191,
+          0.3618
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.0674,
+              0.1491
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -647,6 +927,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-06.jpg",
         "papers/maths/img/P2-06-Logarithms-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7341,
+          0.8196
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.6695,
+              0.7217
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -676,6 +975,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-06.jpg",
         "papers/maths/img/P2-06-Logarithms-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8651,
+          0.9174
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.6695,
+              0.7217
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -705,6 +1023,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-07.jpg",
         "papers/maths/img/P2-06-Logarithms-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5233,
+          0.5423
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.2783,
+              0.4748
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -734,6 +1071,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-07.jpg",
         "papers/maths/img/P2-06-Logarithms-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5878,
+          0.6391
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.2783,
+              0.4748
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -763,6 +1119,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-07.jpg",
         "papers/maths/img/P2-06-Logarithms-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6866,
+          0.8338
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.2783,
+              0.4748
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -792,6 +1167,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-07.jpg",
         "papers/maths/img/P2-06-Logarithms-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8822,
+          0.9506
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.2783,
+              0.4748
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -821,6 +1215,13 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-08.jpg",
         "papers/maths/img/P2-06-Logarithms-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3105,
+          0.396
+        ]
       ]
     },
     {
@@ -852,6 +1253,13 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-08.jpg",
         "papers/maths/img/P2-06-Logarithms-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4416,
+          0.4938
+        ]
       ]
     },
     {
@@ -882,6 +1290,13 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-08.jpg",
         "papers/maths/img/P2-06-Logarithms-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7825,
+          0.8348
+        ]
       ]
     },
     {
@@ -911,6 +1326,30 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-08.jpg",
         "papers/maths/img/P2-06-Logarithms-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9459,
+          0.9639
+        ],
+        [
+          1,
+          0.0351,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14(ii)",
+          [
+            [
+              0,
+              0.8803,
+              0.9297
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -939,6 +1378,40 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-08.jpg",
         "papers/maths/img/P2-06-Logarithms-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0997,
+          0.1197
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14(ii)",
+          [
+            [
+              0,
+              0.8803,
+              0.9297
+            ]
+          ]
+        ],
+        [
+          "Q14(ii)(a)",
+          [
+            [
+              0,
+              0.9459,
+              0.9639
+            ],
+            [
+              1,
+              0.0351,
+              0.0826
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -969,6 +1442,13 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-09.jpg",
         "papers/maths/img/P2-06-Logarithms-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4084,
+          0.4606
+        ]
       ]
     },
     {
@@ -998,6 +1478,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-09.jpg",
         "papers/maths/img/P2-06-Logarithms-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8965,
+          0.9164
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.6847,
+              0.8832
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1028,6 +1527,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-09.jpg",
         "papers/maths/img/P2-06-Logarithms-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0351,
+          0.1035
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.6847,
+              0.8832
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1056,6 +1574,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-10.jpg",
         "papers/maths/img/P2-06-Logarithms-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5878,
+          0.6078
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3922,
+              0.5404
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1085,6 +1622,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-10.jpg",
         "papers/maths/img/P2-06-Logarithms-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6534,
+          0.6733
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3922,
+              0.5404
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1114,6 +1670,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-10.jpg",
         "papers/maths/img/P2-06-Logarithms-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7189,
+          0.8689
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3922,
+              0.5404
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1144,6 +1719,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-10.jpg",
         "papers/maths/img/P2-06-Logarithms-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9145,
+          0.9668
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3922,
+              0.5404
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1173,6 +1767,13 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-11.jpg",
         "papers/maths/img/P2-06-Logarithms-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3105,
+          0.3628
+        ]
       ]
     },
     {
@@ -1203,6 +1804,13 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-11.jpg",
         "papers/maths/img/P2-06-Logarithms-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4084,
+          0.5204
+        ]
       ]
     },
     {
@@ -1235,6 +1843,25 @@
       ],
       "figures": [
         "papers/maths/fig/06-Logarithms-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3941,
+          0.4131
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.0351,
+              0.3808
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1266,6 +1893,25 @@
       ],
       "figures": [
         "papers/maths/fig/06-Logarithms-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4587,
+          0.4929
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.0351,
+              0.3808
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1327,6 +1973,25 @@
       "images": [
         "papers/maths/img/P2-06-Logarithms-12.jpg",
         "papers/maths/img/P2-06-Logarithms-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1928,
+          0.2393
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              1,
+              0.0351,
+              0.1804
+            ]
+          ]
+        ]
       ]
     },
     {

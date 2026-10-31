@@ -33,6 +33,13 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-1.jpg",
         "papers/maths/img/P4-04-Differential-Equations-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1814,
+          0.2934
+        ]
       ]
     },
     {
@@ -61,6 +68,25 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-1.jpg",
         "papers/maths/img/P4-04-Differential-Equations-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3362,
+          0.359
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.1814,
+              0.2934
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -91,6 +117,13 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-1.jpg",
         "papers/maths/img/P4-04-Differential-Equations-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6477,
+          0.7882
+        ]
       ]
     },
     {
@@ -120,6 +153,13 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-2.jpg",
         "papers/maths/img/P4-04-Differential-Equations-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.132,
+          0.1738
+        ]
       ]
     },
     {
@@ -151,6 +191,13 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-2.jpg",
         "papers/maths/img/P4-04-Differential-Equations-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2203,
+          0.4691
+        ]
       ]
     },
     {
@@ -180,6 +227,25 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-2.jpg",
         "papers/maths/img/P4-04-Differential-Equations-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5147,
+          0.567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3(b)",
+          [
+            [
+              0,
+              0.2203,
+              0.4691
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -208,6 +274,13 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-2.jpg",
         "papers/maths/img/P4-04-Differential-Equations-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6135,
+          0.6638
+        ]
       ]
     },
     {
@@ -236,6 +309,30 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-2.jpg",
         "papers/maths/img/P4-04-Differential-Equations-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2175,
+          0.2355
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.9221,
+              0.9402
+            ],
+            [
+              1,
+              0.0351,
+              0.2042
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -264,6 +361,40 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-2.jpg",
         "papers/maths/img/P4-04-Differential-Equations-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2821,
+          0.302
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.9221,
+              0.9402
+            ],
+            [
+              1,
+              0.0351,
+              0.2042
+            ]
+          ]
+        ],
+        [
+          "Q4(a)",
+          [
+            [
+              1,
+              0.2175,
+              0.2355
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -293,6 +424,30 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-2.jpg",
         "papers/maths/img/P4-04-Differential-Equations-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3476,
+          0.4862
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.9221,
+              0.9402
+            ],
+            [
+              1,
+              0.0351,
+              0.2042
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -323,6 +478,30 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-2.jpg",
         "papers/maths/img/P4-04-Differential-Equations-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5347,
+          0.604
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.9221,
+              0.9402
+            ],
+            [
+              1,
+              0.0351,
+              0.2042
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -351,6 +530,30 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-2.jpg",
         "papers/maths/img/P4-04-Differential-Equations-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6496,
+          0.6695
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.9221,
+              0.9402
+            ],
+            [
+              1,
+              0.0351,
+              0.2042
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -381,6 +584,25 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-3.jpg",
         "papers/maths/img/P4-04-Differential-Equations-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2631,
+          0.283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              1,
+              0.0351,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -409,6 +631,25 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-3.jpg",
         "papers/maths/img/P4-04-Differential-Equations-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3286,
+          0.3476
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              1,
+              0.0351,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -441,6 +682,25 @@
       ],
       "figures": [
         "papers/maths/fig/04-Differential-Equations-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3941,
+          0.7018
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              1,
+              0.0351,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -470,6 +730,13 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-4.jpg",
         "papers/maths/img/P4-04-Differential-Equations-5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0351,
+          0.1064
+        ]
       ]
     },
     {
@@ -500,6 +767,25 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-4.jpg",
         "papers/maths/img/P4-04-Differential-Equations-5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1538,
+          0.2222
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6(a)",
+          [
+            [
+              1,
+              0.0351,
+              0.1064
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -530,6 +816,13 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-4.jpg",
         "papers/maths/img/P4-04-Differential-Equations-5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2659,
+          0.3894
+        ]
       ]
     },
     {
@@ -561,6 +854,25 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-5.jpg",
         "papers/maths/img/P4-04-Differential-Equations-6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.1681
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6809,
+              0.9449
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -590,6 +902,35 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-5.jpg",
         "papers/maths/img/P4-04-Differential-Equations-6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2137,
+          0.2498
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6809,
+              0.9449
+            ]
+          ]
+        ],
+        [
+          "Q7(a)",
+          [
+            [
+              1,
+              0.0674,
+              0.1681
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -620,6 +961,25 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-6.jpg",
         "papers/maths/img/P4-04-Differential-Equations-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7284,
+          0.8519
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5385,
+              0.7132
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -648,6 +1008,25 @@
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-6.jpg",
         "papers/maths/img/P4-04-Differential-Equations-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8974,
+          0.9487
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5385,
+              0.7132
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -677,6 +1056,25 @@
       ],
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5052,
+          0.5556
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3105,
+              0.49
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -705,6 +1103,25 @@
       ],
       "images": [
         "papers/maths/img/P4-04-Differential-Equations-7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.603,
+          0.6543
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3105,
+              0.49
+            ]
+          ]
+        ]
       ]
     }
   ]

@@ -30,6 +30,25 @@
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-1.jpg",
         "papers/maths/img/P1-02-Straight-Lines1-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2469,
+          0.3571
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.2336
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -59,6 +78,25 @@
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-1.jpg",
         "papers/maths/img/P1-02-Straight-Lines1-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3751,
+          0.3951
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.2336
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -91,6 +129,30 @@
       ],
       "figures": [
         "papers/maths/fig/02-Straight-Lines1-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.133,
+          0.1852
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6363,
+              0.9392
+            ],
+            [
+              1,
+              0.0351,
+              0.1197
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -123,6 +185,30 @@
       ],
       "figures": [
         "papers/maths/fig/02-Straight-Lines1-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2308,
+          0.3143
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6363,
+              0.9392
+            ],
+            [
+              1,
+              0.0351,
+              0.1197
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -151,6 +237,25 @@
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-2.jpg",
         "papers/maths/img/P1-02-Straight-Lines1-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9335,
+          0.9525
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5565,
+              0.9202
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -182,6 +287,25 @@
       ],
       "figures": [
         "papers/maths/fig/02-Straight-Lines1-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0351,
+          0.1681
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5565,
+              0.9202
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -214,6 +338,25 @@
       ],
       "figures": [
         "papers/maths/fig/02-Straight-Lines1-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1814,
+          0.2013
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5565,
+              0.9202
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -246,6 +389,25 @@
       ],
       "figures": [
         "papers/maths/fig/02-Straight-Lines1-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2469,
+          0.2659
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5565,
+              0.9202
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -275,6 +437,13 @@
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-3.jpg",
         "papers/maths/img/P1-02-Straight-Lines1-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5081,
+          0.5926
+        ]
       ]
     },
     {
@@ -303,6 +472,25 @@
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-3.jpg",
         "papers/maths/img/P1-02-Straight-Lines1-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9326,
+          0.9516
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8348,
+              0.9193
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -332,6 +520,25 @@
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-3.jpg",
         "papers/maths/img/P1-02-Straight-Lines1-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.0864
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8348,
+              0.9193
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -361,6 +568,25 @@
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-3.jpg",
         "papers/maths/img/P1-02-Straight-Lines1-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.133,
+          0.1985
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8348,
+              0.9193
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -390,6 +616,13 @@
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-4.jpg",
         "papers/maths/img/P1-02-Straight-Lines1-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4425,
+          0.4948
+        ]
       ]
     },
     {
@@ -418,6 +651,25 @@
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-4.jpg",
         "papers/maths/img/P1-02-Straight-Lines1-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7369,
+          0.7559
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.7037,
+              0.7236
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -447,6 +699,25 @@
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-4.jpg",
         "papers/maths/img/P1-02-Straight-Lines1-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8025,
+          0.8538
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.7037,
+              0.7236
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -477,6 +748,25 @@
       ],
       "figures": [
         "papers/maths/fig/02-Straight-Lines1-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4986,
+          0.5499
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1643,
+              0.4853
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -505,6 +795,25 @@
       ],
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5964,
+          0.6648
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1643,
+              0.4853
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -537,6 +846,25 @@
       ],
       "figures": [
         "papers/maths/fig/02-Straight-Lines1-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7113,
+          0.7635
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1643,
+              0.4853
+            ]
+          ]
+        ]
       ]
     }
   ]

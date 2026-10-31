@@ -31,6 +31,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-01.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4103,
+          0.4283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.3941
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -60,6 +79,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-01.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4758,
+          0.5575
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.3941
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -89,6 +127,35 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-01.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6059,
+          0.6904
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1814,
+              0.3941
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.4758,
+              0.5575
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -118,6 +185,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-01.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1985,
+          0.2175
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              1,
+              0.0351,
+              0.1852
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -147,6 +233,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-01.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2631,
+          0.378
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              1,
+              0.0351,
+              0.1852
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -176,6 +281,35 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-01.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4264,
+          0.4444
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              1,
+              0.0351,
+              0.1852
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.2631,
+              0.378
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -205,6 +339,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8329,
+          0.8519
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.735,
+              0.8205
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -234,6 +387,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8984,
+          0.9174
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.735,
+              0.8205
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -263,6 +435,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0351,
+          0.2146
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.735,
+              0.8205
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -291,6 +482,35 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2631,
+          0.283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.735,
+              0.8205
+            ]
+          ]
+        ],
+        [
+          "Q3(c)",
+          [
+            [
+              1,
+              0.0351,
+              0.2146
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -319,6 +539,35 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3286,
+          0.3618
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.735,
+              0.8205
+            ]
+          ]
+        ],
+        [
+          "Q3(c)",
+          [
+            [
+              1,
+              0.0351,
+              0.2146
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -348,6 +597,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-03.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6857,
+          0.7426
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.6534,
+              0.6705
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -377,6 +645,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-03.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7873,
+          0.8879
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.6534,
+              0.6705
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -406,6 +693,30 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-03.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9345,
+          0.9544
+        ],
+        [
+          1,
+          0.0351,
+          0.0703
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.6534,
+              0.6705
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -435,6 +746,13 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-04.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3599,
+          0.4568
+        ]
       ]
     },
     {
@@ -463,6 +781,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-04.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6002,
+          0.6192
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5(ii)",
+          [
+            [
+              0,
+              0.5024,
+              0.584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -492,6 +829,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-04.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6657,
+          0.7455
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5(ii)",
+          [
+            [
+              0,
+              0.5024,
+              0.584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -520,6 +876,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2308,
+          0.2488
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.0674,
+              0.1823
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -548,6 +923,35 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2963,
+          0.3143
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.0674,
+              0.1823
+            ]
+          ]
+        ],
+        [
+          "Q6(a)",
+          [
+            [
+              0,
+              0.2308,
+              0.2488
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -577,6 +981,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3609,
+          0.4463
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.0674,
+              0.1823
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -633,6 +1056,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8784,
+          0.9259
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.735,
+              0.8167
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -661,6 +1103,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0655,
+          0.1102
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.735,
+              0.8167
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -690,6 +1151,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5632,
+          0.5821
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.416,
+              0.5499
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -719,6 +1199,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6287,
+          0.6942
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.416,
+              0.5499
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -748,6 +1247,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7426,
+          0.7778
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.416,
+              0.5499
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -777,6 +1295,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-07.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2631,
+          0.3134
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.133,
+              0.2165
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -806,6 +1343,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-07.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3609,
+          0.4131
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.133,
+              0.2165
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -834,6 +1390,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-07.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4596,
+          0.4777
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.133,
+              0.2165
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -862,6 +1437,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-07.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8319,
+          0.8661
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.7683,
+              0.8186
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -891,6 +1485,30 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-07.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9278,
+          0.9449
+        ],
+        [
+          1,
+          0.0332,
+          0.1149
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.7683,
+              0.8186
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -920,6 +1538,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4862,
+          0.5052
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.3723,
+              0.4729
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -949,6 +1586,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5518,
+          0.6496
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.3723,
+              0.4729
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -977,6 +1633,30 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1035,
+          0.1216
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.9421,
+              0.9611
+            ],
+            [
+              1,
+              0.0332,
+              0.0893
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1006,6 +1686,30 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.169,
+          0.2203
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.9421,
+              0.9611
+            ],
+            [
+              1,
+              0.0332,
+              0.0893
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1035,6 +1739,30 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2669,
+          0.2849
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.9421,
+              0.9611
+            ],
+            [
+              1,
+              0.0332,
+              0.0893
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1063,6 +1791,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-09.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8177,
+          0.8386
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5755,
+              0.8063
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1092,6 +1839,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-09.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8851,
+          0.9041
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5755,
+              0.8063
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1121,6 +1887,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-09.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0351,
+          0.1035
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5755,
+              0.8063
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1150,6 +1935,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3922,
+          0.4691
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3599,
+              0.3789
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1178,6 +1982,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5214,
+          0.6049
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3599,
+              0.3789
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1207,6 +2030,35 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6515,
+          0.6847
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3599,
+              0.3789
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.5214,
+              0.6049
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1235,6 +2087,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2631,
+          0.283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              1,
+              0.0351,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1264,6 +2135,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3286,
+          0.397
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              1,
+              0.0351,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1293,6 +2183,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4425,
+          0.642
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              1,
+              0.0351,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1322,6 +2231,30 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-11.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.133,
+          0.1852
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9288,
+              0.9639
+            ],
+            [
+              1,
+              0.0351,
+              0.1197
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1351,6 +2284,30 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-11.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2308,
+          0.283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9288,
+              0.9639
+            ],
+            [
+              1,
+              0.0351,
+              0.1197
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1379,6 +2336,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-12.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7512,
+          0.7711
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.5717,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1408,6 +2384,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-12.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8167,
+          0.8851
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.5717,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1437,6 +2432,13 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-13.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.246,
+          0.2972
+        ]
       ]
     },
     {
@@ -1466,6 +2468,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-13.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.49,
+          0.5394
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18(ii)",
+          [
+            [
+              0,
+              0.3438,
+              0.4444
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1494,6 +2515,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-13.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5888,
+          0.6382
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18(ii)",
+          [
+            [
+              0,
+              0.3438,
+              0.4444
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1522,6 +2562,35 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-13.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6866,
+          0.7379
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18(ii)",
+          [
+            [
+              0,
+              0.3438,
+              0.4444
+            ]
+          ]
+        ],
+        [
+          "Q18(ii)(b)",
+          [
+            [
+              0,
+              0.5888,
+              0.6382
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1551,6 +2620,25 @@
       "images": [
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-13.jpg",
         "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7844,
+          0.8025
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18(ii)",
+          [
+            [
+              0,
+              0.3438,
+              0.4444
+            ]
+          ]
+        ]
       ]
     }
   ]

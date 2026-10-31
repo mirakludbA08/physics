@@ -1550,7 +1550,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [1,0.4368,0.8452]
+      [1,0.4368,0.5005]
      ],
      "ctx": [
       [
@@ -1600,7 +1600,7 @@ window.BANK.physics = {
       "papers/physics/fig/02-1A-Suvat-Formulae-Q17b.jpg"
      ],
      "shot": [
-      [1,0.8557,0.9345],
+      [1,0.5185,0.9345],
       [2,0.057,0.6173]
      ],
      "ctx": [
@@ -2201,8 +2201,7 @@ window.BANK.physics = {
       "papers/physics/fig/03-1B-Suvat-Angle-Q5.jpg"
      ],
      "shot": [
-      [0,0.6581,0.7217],
-      [1,0.0532,0.3799]
+      [0,0.6581,0.7217]
      ],
      "ctx": [
       [
@@ -2250,7 +2249,7 @@ window.BANK.physics = {
       "papers/physics/fig/03-1B-Suvat-Angle-Q5-2.jpg"
      ],
      "shot": [
-      [1,0.3894,0.9421],
+      [1,0.0532,0.9421],
       [2,0.0608,0.1273]
      ],
      "ctx": [
@@ -2547,7 +2546,7 @@ window.BANK.physics = {
       "papers/physics/fig/03-1B-Suvat-Angle-Q9.jpg"
      ],
      "shot": [
-      [0,0.472,0.6439]
+      [0,0.472,0.5214]
      ],
      "ctx": [
       [
@@ -2591,7 +2590,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [0,0.6591,0.8737]
+      [0,0.5565,0.8737]
      ],
      "ctx": [
       [
@@ -3514,7 +3513,7 @@ window.BANK.physics = {
       "papers/physics/fig/04-1C-SDT-Graphs-Q1-2.jpg"
      ],
      "shot": [
-      [0,0.4691,0.8813]
+      [0,0.4691,0.6325]
      ],
      "ctx": [
       [
@@ -3555,7 +3554,7 @@ window.BANK.physics = {
       "papers/physics/fig/04-1C-SDT-Graphs-Q1-3.jpg"
      ],
      "shot": [
-      [1,0.0532,0.3846]
+      [1,0.0532,0.0836]
      ],
      "ctx": [
       [
@@ -3567,7 +3566,7 @@ window.BANK.physics = {
       [
        "Q1(b)",
        [
-        [0,0.8917,0.9478]
+        [0,0.6439,0.9478]
        ]
       ]
      ]
@@ -3601,7 +3600,7 @@ window.BANK.physics = {
       "papers/physics/fig/04-1C-SDT-Graphs-Q1.jpg"
      ],
      "shot": [
-      [1,0.3875,0.5432]
+      [1,0.1453,0.5432]
      ],
      "ctx": [
       [
@@ -3613,7 +3612,7 @@ window.BANK.physics = {
       [
        "Q1(b)",
        [
-        [0,0.8917,0.9478]
+        [0,0.6439,0.9478]
        ]
       ]
      ]
@@ -4694,8 +4693,7 @@ window.BANK.physics = {
       "papers/physics/fig/04-1C-SDT-Graphs-Q28-2.jpg"
      ],
      "shot": [
-      [1,0.2279,0.7835],
-      [2,0.0655,0.2697]
+      [1,0.2279,0.7255]
      ],
      "ctx": [
       [
@@ -4737,7 +4735,8 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [2,0.4093,0.7047]
+      [1,0.7493,0.7835],
+      [2,0.0655,0.7047]
      ],
      "ctx": [
       [
@@ -6160,7 +6159,7 @@ window.BANK.physics = {
       "papers/physics/fig/05-1D-Newtons-Laws-Q25a.jpg"
      ],
      "shot": [
-      [1,0.1985,0.7094]
+      [1,0.1985,0.4482]
      ],
      "ctx": [
       [
@@ -6218,6 +6217,7 @@ window.BANK.physics = {
       [
        "Q25(b)",
        [
+        [1,0.6923,0.7094],
         [2,0.0674,0.0864]
        ]
       ]
@@ -6269,6 +6269,7 @@ window.BANK.physics = {
       [
        "Q25(b)",
        [
+        [1,0.6923,0.7094],
         [2,0.0674,0.0864]
        ]
       ]
@@ -6318,6 +6319,7 @@ window.BANK.physics = {
       [
        "Q25(b)",
        [
+        [1,0.6923,0.7094],
         [2,0.0674,0.0864]
        ]
       ]
@@ -6491,8 +6493,7 @@ window.BANK.physics = {
       "papers/physics/fig/05-1D-Newtons-Laws-Q27.jpg"
      ],
      "shot": [
-      [0,0.7635,0.7825],
-      [1,0.0703,0.0864]
+      [0,0.7635,0.7825]
      ],
      "ctx": [
       [
@@ -6547,7 +6548,7 @@ window.BANK.physics = {
       [
        "Q27(b)",
        [
-        [1,0.2469,0.2659]
+        [1,0.0703,0.2659]
        ]
       ]
      ]
@@ -6596,7 +6597,7 @@ window.BANK.physics = {
       [
        "Q27(b)",
        [
-        [1,0.2469,0.2659]
+        [1,0.0703,0.2659]
        ]
       ]
      ]
@@ -6645,7 +6646,7 @@ window.BANK.physics = {
       [
        "Q27(b)",
        [
-        [1,0.2469,0.2659]
+        [1,0.0703,0.2659]
        ]
       ]
      ]
@@ -6806,8 +6807,7 @@ window.BANK.physics = {
       "papers/physics/fig/05-1D-Newtons-Laws-Q30-2.jpg"
      ],
      "shot": [
-      [0,0.8063,0.8253],
-      [1,0.0551,0.284]
+      [0,0.8063,0.8253]
      ],
      "ctx": [
       [
@@ -6850,7 +6850,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [1,0.4463,0.8148]
+      [1,0.0551,0.8148]
      ],
      "ctx": [
       [
@@ -11394,7 +11394,7 @@ window.BANK.physics = {
      ],
      "shot": [
       [0,0.6714,0.7047],
-      [1,0.057,0.7825]
+      [1,0.057,0.5062]
      ],
      "ctx": [
       [
@@ -11434,7 +11434,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [1,0.9221,0.9411],
+      [1,0.529,0.9411],
       [2,0.0532,0.3333]
      ],
      "ctx": [
@@ -14026,7 +14026,7 @@ window.BANK.physics = {
       "papers/physics/fig/08-1G-Moments-Q6-2.jpg"
      ],
      "shot": [
-      [1,0.3552,0.7018]
+      [1,0.0522,0.7018]
      ],
      "ctx": [
       [
@@ -14038,8 +14038,7 @@ window.BANK.physics = {
       [
        "Q6(c)",
        [
-        [0,0.8984,0.9174],
-        [1,0.0522,0.359]
+        [0,0.8984,0.9174]
        ]
       ]
      ]
@@ -14091,8 +14090,7 @@ window.BANK.physics = {
       [
        "Q6(c)",
        [
-        [0,0.8984,0.9174],
-        [1,0.0522,0.359]
+        [0,0.8984,0.9174]
        ]
       ]
      ]
@@ -14144,8 +14142,7 @@ window.BANK.physics = {
       [
        "Q6(c)",
        [
-        [0,0.8984,0.9174],
-        [1,0.0522,0.359]
+        [0,0.8984,0.9174]
        ]
       ]
      ]
@@ -14715,7 +14712,7 @@ window.BANK.physics = {
      ],
      "shot": [
       [0,0.7018,0.9449],
-      [1,0.0532,0.4264]
+      [1,0.0532,0.1235]
      ],
      "ctx": [
       [
@@ -14756,7 +14753,7 @@ window.BANK.physics = {
       "papers/physics/fig/08-1G-Moments-Q11.jpg"
      ],
      "shot": [
-      [1,0.4226,0.6591]
+      [1,0.1434,0.6591]
      ],
      "ctx": [
       [
@@ -15409,7 +15406,7 @@ window.BANK.physics = {
       "papers/physics/fig/08-1G-Moments-Q18.jpg"
      ],
      "shot": [
-      [2,0.226,0.5432]
+      [2,0.0513,0.5432]
      ],
      "ctx": [
       [
@@ -15422,8 +15419,7 @@ window.BANK.physics = {
       [
        "Q18(b)",
        [
-        [1,0.8462,0.9022],
-        [2,0.0513,0.2308]
+        [1,0.8462,0.9022]
        ]
       ]
      ]
@@ -15474,8 +15470,7 @@ window.BANK.physics = {
       [
        "Q18(b)",
        [
-        [1,0.8462,0.9022],
-        [2,0.0513,0.2308]
+        [1,0.8462,0.9022]
        ]
       ]
      ]
@@ -16082,7 +16077,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [1,0.17,0.3077]
+      [1,0.17,0.189]
      ],
      "ctx": [
       [
@@ -16122,7 +16117,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [1,0.3856,0.7047]
+      [1,0.2887,0.7047]
      ],
      "ctx": [
       [
@@ -16259,8 +16254,7 @@ window.BANK.physics = {
       "papers/physics/fig/09-CP2-Viscosity-Q2-2.jpg"
      ],
      "shot": [
-      [1,0.8585,0.9136],
-      [2,0.0522,0.0826]
+      [1,0.8585,0.9136]
      ],
      "ctx": [
       [
@@ -16308,7 +16302,7 @@ window.BANK.physics = {
       "papers/physics/fig/09-CP2-Viscosity-Q2-2.jpg"
      ],
      "shot": [
-      [2,0.076,0.1311]
+      [2,0.0522,0.1311]
      ],
      "ctx": [
       [
@@ -18563,7 +18557,7 @@ window.BANK.physics = {
       "papers/physics/fig/11-2A-Stokes-Law-Q1.jpg"
      ],
      "shot": [
-      [0,0.1671,0.3837]
+      [0,0.1671,0.1861]
      ],
      "ctx": [
       [
@@ -18603,7 +18597,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [0,0.4691,0.6914]
+      [0,0.2858,0.6914]
      ],
      "ctx": [
       [
@@ -19983,7 +19977,7 @@ window.BANK.physics = {
       "papers/physics/fig/11-2A-Stokes-Law-Q12.jpg"
      ],
      "shot": [
-      [1,0.5404,0.85]
+      [1,0.5404,0.5897]
      ],
      "ctx": [
       [
@@ -20030,7 +20024,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [1,0.8528,0.9164],
+      [1,0.6068,0.9164],
       [2,0.0608,0.2469]
      ],
      "ctx": [
@@ -20118,7 +20112,7 @@ window.BANK.physics = {
       "papers/physics/fig/11-2A-Stokes-Law-Q13.jpg"
      ],
      "shot": [
-      [0,0.5821,0.7882]
+      [0,0.5821,0.6011]
      ],
      "ctx": [
       [
@@ -20161,6 +20155,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
+      [0,0.699,0.7882],
       [1,0.0532,0.5328]
      ],
      "ctx": [
@@ -21095,8 +21090,7 @@ window.BANK.physics = {
       "papers/physics/fig/11-2A-Stokes-Law-Q20-2.jpg"
      ],
      "shot": [
-      [1,0.8585,0.9136],
-      [2,0.0522,0.0826]
+      [1,0.8585,0.9136]
      ],
      "ctx": [
       [
@@ -21144,7 +21138,7 @@ window.BANK.physics = {
       "papers/physics/fig/11-2A-Stokes-Law-Q20-2.jpg"
      ],
      "shot": [
-      [2,0.076,0.1311]
+      [2,0.0522,0.1311]
      ],
      "ctx": [
       [
@@ -21389,7 +21383,7 @@ window.BANK.physics = {
       "papers/physics/fig/11-2A-Stokes-Law-Q21b.jpg"
      ],
      "shot": [
-      [1,0.5366,0.6752]
+      [1,0.5366,0.5556]
      ],
      "ctx": [
       [
@@ -21431,7 +21425,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [1,0.7531,0.925],
+      [1,0.6562,0.925],
       [2,0.0608,0.1861]
      ],
      "ctx": [
@@ -22640,7 +22634,7 @@ window.BANK.physics = {
       "papers/physics/fig/12-2B-Density-Upthrust-Q6.jpg"
      ],
      "shot": [
-      [1,0.0532,0.1909]
+      [1,0.0532,0.0722]
      ],
      "ctx": [
       [
@@ -22695,7 +22689,7 @@ window.BANK.physics = {
       [
        "Q6(b)",
        [
-        [1,0.2764,0.4777]
+        [1,0.1709,0.4777]
        ]
       ]
      ]
@@ -22745,7 +22739,7 @@ window.BANK.physics = {
       [
        "Q6(b)",
        [
-        [1,0.2764,0.4777]
+        [1,0.1709,0.4777]
        ]
       ]
      ]
@@ -22794,7 +22788,7 @@ window.BANK.physics = {
       [
        "Q6(b)",
        [
-        [1,0.2764,0.4777]
+        [1,0.1709,0.4777]
        ]
       ]
      ]
@@ -23660,7 +23654,7 @@ window.BANK.physics = {
       "papers/physics/fig/12-2B-Density-Upthrust-Q16.jpg"
      ],
      "shot": [
-      [0,0.7816,0.905]
+      [0,0.7816,0.8129]
      ],
      "ctx": [
       [
@@ -23716,6 +23710,7 @@ window.BANK.physics = {
       [
        "Q16(b)",
        [
+        [0,0.8851,0.905],
         [1,0.0674,0.4036]
        ]
       ]
@@ -23769,6 +23764,7 @@ window.BANK.physics = {
       [
        "Q16(b)",
        [
+        [0,0.8851,0.905],
         [1,0.0674,0.4036]
        ]
       ]
@@ -27865,8 +27861,7 @@ window.BANK.physics = {
       "papers/physics/fig/14-2D-Stress-Strain-Q33-2.jpg"
      ],
      "shot": [
-      [1,0.7293,0.7854],
-      [2,0.0532,0.2754]
+      [1,0.7293,0.7854]
      ],
      "ctx": [
       [
@@ -27908,7 +27903,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [2,0.2849,0.6923]
+      [2,0.0532,0.6923]
      ],
      "ctx": [
       [
@@ -30349,7 +30344,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [0,0.831,0.85]
+      [0,0.7331,0.85]
      ]
     },
     {
@@ -30564,7 +30559,10 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-27.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-28.jpg"
      ],
-     "figures": []
+     "figures": [],
+     "shot": [
+      [0,0.1909,0.3115]
+     ]
     },
     {
      "id": "3B-Q31",
@@ -32033,7 +32031,7 @@ window.BANK.physics = {
       "papers/physics/fig/16-3B-Behaviour-of-Waves-Q47.jpg"
      ],
      "shot": [
-      [1,0.2811,0.5869]
+      [1,0.0513,0.5869]
      ],
      "ctx": [
       [
@@ -32045,8 +32043,7 @@ window.BANK.physics = {
       [
        "Q47(b)",
        [
-        [0,0.8186,0.8528],
-        [1,0.0513,0.2821]
+        [0,0.8186,0.8528]
        ]
       ]
      ]
@@ -32095,8 +32092,7 @@ window.BANK.physics = {
       [
        "Q47(b)",
        [
-        [0,0.8186,0.8528],
-        [1,0.0513,0.2821]
+        [0,0.8186,0.8528]
        ]
       ]
      ]
@@ -33342,7 +33338,7 @@ window.BANK.physics = {
       "papers/physics/fig/17-3C-Light-Waves-Q11b-2.jpg"
      ],
      "shot": [
-      [1,0.0532,0.8604]
+      [1,0.0532,0.5926]
      ],
      "ctx": [
       [
@@ -33386,7 +33382,7 @@ window.BANK.physics = {
       "papers/physics/fig/17-3C-Light-Waves-Q11c.jpg"
      ],
      "shot": [
-      [1,0.8699,0.9487],
+      [1,0.6135,0.9487],
       [2,0.0532,0.51]
      ],
      "ctx": [
@@ -40477,7 +40473,7 @@ window.BANK.physics = {
       "papers/physics/fig/18-3D-Quantum-Physics-Q73.jpg"
      ],
      "shot": [
-      [1,0.4169,0.6752]
+      [1,0.0532,0.6752]
      ],
      "ctx": [
       [
@@ -40489,8 +40485,7 @@ window.BANK.physics = {
       [
        "Q73(b)",
        [
-        [0,0.9098,0.944],
-        [1,0.0532,0.4207]
+        [0,0.9098,0.944]
        ]
       ]
      ]
@@ -40538,8 +40533,7 @@ window.BANK.physics = {
       [
        "Q73(b)",
        [
-        [0,0.9098,0.944],
-        [1,0.0532,0.4207]
+        [0,0.9098,0.944]
        ]
       ]
      ]
@@ -41964,8 +41958,7 @@ window.BANK.physics = {
       "papers/physics/fig/19-4A-Electrical-Quantities-Q27.jpg"
      ],
      "shot": [
-      [0,0.7911,0.8101],
-      [1,0.0959,0.2184]
+      [0,0.7911,0.8101]
      ],
      "ctx": [
       [
@@ -42017,7 +42010,7 @@ window.BANK.physics = {
       [
        "Q27(b)",
        [
-        [1,0.4777,0.5109]
+        [1,0.0959,0.5109]
        ]
       ]
      ]
@@ -42066,7 +42059,7 @@ window.BANK.physics = {
       [
        "Q27(b)",
        [
-        [1,0.4777,0.5109]
+        [1,0.0959,0.5109]
        ]
       ]
      ]
@@ -43996,7 +43989,7 @@ window.BANK.physics = {
       [
        "Q1",
        [
-        [0,0.1225,0.4596]
+        [0,0.1225,0.3732]
        ]
       ]
      ]
@@ -44042,7 +44035,7 @@ window.BANK.physics = {
       [
        "Q1",
        [
-        [0,0.1225,0.4596]
+        [0,0.1225,0.3732]
        ]
       ]
      ]
@@ -44080,7 +44073,7 @@ window.BANK.physics = {
       "papers/physics/fig/20-4B-Complete-Circuits-Q2.jpg"
      ],
      "shot": [
-      [1,0.3267,0.4672]
+      [1,0.3267,0.3675]
      ],
      "ctx": [
       [
@@ -44125,7 +44118,7 @@ window.BANK.physics = {
       "papers/physics/fig/20-4B-Complete-Circuits-Q2-2.jpg"
      ],
      "shot": [
-      [1,0.7198,0.7588],
+      [1,0.3846,0.7588],
       [2,0.0513,0.6961]
      ],
      "ctx": [
@@ -46044,7 +46037,7 @@ window.BANK.physics = {
       "papers/physics/fig/20-4B-Complete-Circuits-Q25.jpg"
      ],
      "shot": [
-      [1,0.0532,0.208]
+      [1,0.0532,0.0722]
      ],
      "ctx": [
       [
@@ -46100,7 +46093,7 @@ window.BANK.physics = {
       [
        "Q25(b)",
        [
-        [1,0.2925,0.811]
+        [1,0.17,0.811]
        ]
       ]
      ]
@@ -46147,7 +46140,7 @@ window.BANK.physics = {
       [
        "Q25(b)",
        [
-        [1,0.2925,0.811]
+        [1,0.17,0.811]
        ]
       ]
      ]
@@ -46940,7 +46933,7 @@ window.BANK.physics = {
       "papers/physics/fig/20-4B-Complete-Circuits-Q34.jpg"
      ],
      "shot": [
-      [1,0.6325,0.8689]
+      [1,0.6325,0.8547]
      ],
      "ctx": [
       [
@@ -46982,7 +46975,7 @@ window.BANK.physics = {
       "papers/physics/fig/20-4B-Complete-Circuits-Q34-2.jpg"
      ],
      "shot": [
-      [1,0.8623,0.8955],
+      [1,0.8585,0.8955],
       [2,0.0513,0.453]
      ],
      "ctx": [
@@ -48933,7 +48926,7 @@ window.BANK.physics = {
       "papers/physics/fig/20-4B-Complete-Circuits-Q55-2.jpg"
      ],
      "shot": [
-      [1,0.2783,0.4198]
+      [1,0.0513,0.4198]
      ],
      "ctx": [
       [
@@ -48945,8 +48938,7 @@ window.BANK.physics = {
       [
        "Q55(a)",
        [
-        [0,0.8699,0.9041],
-        [1,0.0513,0.283]
+        [0,0.8699,0.9041]
        ]
       ]
      ]
@@ -48995,8 +48987,7 @@ window.BANK.physics = {
       [
        "Q55(a)",
        [
-        [0,0.8699,0.9041],
-        [1,0.0513,0.283]
+        [0,0.8699,0.9041]
        ]
       ]
      ]
@@ -52117,7 +52108,7 @@ window.BANK.physics = {
       "papers/physics/fig/21-5A-Further-Momentum-Q17-2.jpg"
      ],
      "shot": [
-      [1,0.5537,0.7531]
+      [1,0.0513,0.7531]
      ],
      "ctx": [
       [
@@ -52129,8 +52120,7 @@ window.BANK.physics = {
       [
        "Q17(b)",
        [
-        [0,0.7047,0.7236],
-        [1,0.0513,0.5451]
+        [0,0.7047,0.7236]
        ]
       ]
      ]
@@ -52180,8 +52170,7 @@ window.BANK.physics = {
       [
        "Q17(b)",
        [
-        [0,0.7047,0.7236],
-        [1,0.0513,0.5451]
+        [0,0.7047,0.7236]
        ]
       ]
      ]
@@ -52746,7 +52735,7 @@ window.BANK.physics = {
       "papers/physics/fig/21-5A-Further-Momentum-Q25-2.jpg"
      ],
      "shot": [
-      [1,0.4368,0.7692]
+      [1,0.0532,0.7692]
      ],
      "ctx": [
       [
@@ -52758,8 +52747,7 @@ window.BANK.physics = {
       [
        "Q25(b)",
        [
-        [0,0.905,0.9459],
-        [1,0.0532,0.4245]
+        [0,0.905,0.9459]
        ]
       ]
      ]
@@ -52809,8 +52797,7 @@ window.BANK.physics = {
       [
        "Q25(b)",
        [
-        [0,0.905,0.9459],
-        [1,0.0532,0.4245]
+        [0,0.905,0.9459]
        ]
       ]
      ]
@@ -53415,7 +53402,8 @@ window.BANK.physics = {
       "papers/physics/fig/21-5A-Further-Momentum-Q34.jpg"
      ],
      "shot": [
-      [1,0.1092,0.2678]
+      [0,0.8898,0.9383],
+      [1,0.0541,0.2678]
      ]
     },
     {
@@ -53612,14 +53600,13 @@ window.BANK.physics = {
       "papers/physics/fig/22-5B-Circular-Motion-Q1.jpg"
      ],
      "shot": [
-      [1,0.6638,0.7939]
+      [1,0.0513,0.6828]
      ],
      "ctx": [
       [
        "Q1(b)",
        [
-        [0,0.811,0.83],
-        [1,0.0513,0.6686]
+        [0,0.811,0.83]
        ]
       ]
      ]
@@ -53659,15 +53646,14 @@ window.BANK.physics = {
       "papers/physics/fig/22-5B-Circular-Motion-Q1.jpg"
      ],
      "shot": [
-      [1,0.8737,0.9421],
+      [1,0.7787,0.9421],
       [2,0.0608,0.2441]
      ],
      "ctx": [
       [
        "Q1(b)",
        [
-        [0,0.811,0.83],
-        [1,0.0513,0.6686]
+        [0,0.811,0.83]
        ]
       ]
      ]
@@ -53711,8 +53697,7 @@ window.BANK.physics = {
       [
        "Q1(b)",
        [
-        [0,0.811,0.83],
-        [1,0.0513,0.6686]
+        [0,0.811,0.83]
        ]
       ]
      ]
@@ -54513,6 +54498,18 @@ window.BANK.physics = {
      ],
      "figures": [
       "papers/physics/fig/22-5B-Circular-Motion-Q10.jpg"
+     ],
+     "shot": [
+      [1,0.6733,0.8148]
+     ],
+     "ctx": [
+      [
+       "Q10",
+       [
+        [0,0.774,0.8205],
+        [1,0.0513,0.5499]
+       ]
+      ]
      ]
     },
     {
@@ -54544,6 +54541,19 @@ window.BANK.physics = {
      ],
      "figures": [
       "papers/physics/fig/22-5B-Circular-Motion-Q10.jpg"
+     ],
+     "shot": [
+      [1,0.8205,0.9335],
+      [2,0.0608,0.1861]
+     ],
+     "ctx": [
+      [
+       "Q10",
+       [
+        [0,0.774,0.8205],
+        [1,0.0513,0.5499]
+       ]
+      ]
      ]
     },
     {
@@ -54671,7 +54681,7 @@ window.BANK.physics = {
       "papers/physics/fig/22-5B-Circular-Motion-Q11-2.jpg"
      ],
      "shot": [
-      [2,0.246,0.7559]
+      [2,0.0532,0.7559]
      ],
      "ctx": [
       [
@@ -54684,8 +54694,7 @@ window.BANK.physics = {
       [
        "Q11(b)",
        [
-        [1,0.9107,0.9421],
-        [2,0.0532,0.2441]
+        [1,0.9107,0.9421]
        ]
       ]
      ]
@@ -54740,8 +54749,7 @@ window.BANK.physics = {
       [
        "Q11(b)",
        [
-        [1,0.9107,0.9421],
-        [2,0.0532,0.2441]
+        [1,0.9107,0.9421]
        ]
       ]
      ]
@@ -55776,7 +55784,7 @@ window.BANK.physics = {
      ],
      "shot": [
       [1,0.8424,0.9259],
-      [2,0.0608,0.1633]
+      [2,0.0608,0.1273]
      ],
      "ctx": [
       [
@@ -55835,6 +55843,12 @@ window.BANK.physics = {
         [0,0.5793,0.9079],
         [1,0.0541,0.3542]
        ]
+      ],
+      [
+       "Q23(b)",
+       [
+        [2,0.1415,0.1633]
+       ]
       ]
      ]
     },
@@ -55877,6 +55891,12 @@ window.BANK.physics = {
        [
         [0,0.5793,0.9079],
         [1,0.0541,0.3542]
+       ]
+      ],
+      [
+       "Q23(b)",
+       [
+        [2,0.1415,0.1633]
        ]
       ]
      ]
@@ -57333,7 +57353,7 @@ window.BANK.physics = {
       "papers/physics/fig/23-6A-Electric-Fields-Q21a.jpg"
      ],
      "shot": [
-      [1,0.3865,0.623]
+      [1,0.3865,0.4055]
      ],
      "ctx": [
       [
@@ -57386,6 +57406,12 @@ window.BANK.physics = {
         [0,0.7075,0.7711],
         [1,0.0712,0.3761]
        ]
+      ],
+      [
+       "Q21(b)",
+       [
+        [1,0.5793,0.623]
+       ]
       ]
      ]
     },
@@ -57432,6 +57458,12 @@ window.BANK.physics = {
         [0,0.7075,0.7711],
         [1,0.0712,0.3761]
        ]
+      ],
+      [
+       "Q21(b)",
+       [
+        [1,0.5793,0.623]
+       ]
       ]
      ]
     },
@@ -57477,6 +57509,12 @@ window.BANK.physics = {
        [
         [0,0.7075,0.7711],
         [1,0.0712,0.3761]
+       ]
+      ],
+      [
+       "Q21(b)",
+       [
+        [1,0.5793,0.623]
        ]
       ]
      ]
@@ -59058,7 +59096,7 @@ window.BANK.physics = {
       "papers/physics/fig/23-6A-Electric-Fields-Q36c.jpg"
      ],
      "shot": [
-      [2,0.4758,0.7502]
+      [2,0.4758,0.4948]
      ],
      "ctx": [
       [
@@ -59109,7 +59147,7 @@ window.BANK.physics = {
       "papers/physics/fig/23-6A-Electric-Fields-Q36c.jpg"
      ],
      "shot": [
-      [2,0.7569,0.9421],
+      [2,0.5195,0.9421],
       [3,0.0608,0.0693]
      ],
      "ctx": [
@@ -59437,7 +59475,7 @@ window.BANK.physics = {
       "papers/physics/fig/24-6B-Capacitors-Q5a.jpg"
      ],
      "shot": [
-      [0,0.6714,0.849]
+      [0,0.6714,0.717]
      ],
      "ctx": [
       [
@@ -59490,7 +59528,7 @@ window.BANK.physics = {
       [
        "Q5(b)",
        [
-        [0,0.8851,0.9193],
+        [0,0.7645,0.9193],
         [1,0.0513,0.3932]
        ]
       ]
@@ -59539,7 +59577,7 @@ window.BANK.physics = {
       [
        "Q5(b)",
        [
-        [0,0.8851,0.9193],
+        [0,0.7645,0.9193],
         [1,0.0513,0.3932]
        ]
       ]
@@ -59589,7 +59627,7 @@ window.BANK.physics = {
       [
        "Q5(b)",
        [
-        [0,0.8851,0.9193],
+        [0,0.7645,0.9193],
         [1,0.0513,0.3932]
        ]
       ]
@@ -59635,7 +59673,7 @@ window.BANK.physics = {
       [
        "Q5(b)",
        [
-        [0,0.8851,0.9193],
+        [0,0.7645,0.9193],
         [1,0.0513,0.3932]
        ]
       ]
@@ -59681,7 +59719,7 @@ window.BANK.physics = {
       [
        "Q5(b)",
        [
-        [0,0.8851,0.9193],
+        [0,0.7645,0.9193],
         [1,0.0513,0.3932]
        ]
       ]
@@ -60055,6 +60093,18 @@ window.BANK.physics = {
      ],
      "figures": [
       "papers/physics/fig/24-6B-Capacitors-Q11.jpg"
+     ],
+     "shot": [
+      [0,0.8528,0.9212],
+      [1,0.0608,0.1273]
+     ],
+     "ctx": [
+      [
+       "Q11",
+       [
+        [0,0.3324,0.8509]
+       ]
+      ]
      ]
     },
     {
@@ -60086,6 +60136,17 @@ window.BANK.physics = {
      ],
      "figures": [
       "papers/physics/fig/24-6B-Capacitors-Q11.jpg"
+     ],
+     "shot": [
+      [1,0.1339,0.3751]
+     ],
+     "ctx": [
+      [
+       "Q11",
+       [
+        [0,0.3324,0.8509]
+       ]
+      ]
      ]
     },
     {
@@ -60758,7 +60819,7 @@ window.BANK.physics = {
       "papers/physics/fig/24-6B-Capacitors-Q19b.jpg"
      ],
      "shot": [
-      [2,0.4938,0.7616]
+      [2,0.0617,0.7616]
      ],
      "ctx": [
       [
@@ -60771,8 +60832,7 @@ window.BANK.physics = {
       [
        "Q19(b)",
        [
-        [1,0.8072,0.8481],
-        [2,0.0617,0.4805]
+        [1,0.8072,0.8481]
        ]
       ]
      ]
@@ -60825,8 +60885,7 @@ window.BANK.physics = {
       [
        "Q19(b)",
        [
-        [1,0.8072,0.8481],
-        [2,0.0617,0.4805]
+        [1,0.8072,0.8481]
        ]
       ]
      ]
@@ -60877,8 +60936,7 @@ window.BANK.physics = {
       [
        "Q19(b)",
        [
-        [1,0.8072,0.8481],
-        [2,0.0617,0.4805]
+        [1,0.8072,0.8481]
        ]
       ]
      ]
@@ -61330,8 +61388,7 @@ window.BANK.physics = {
       "papers/physics/fig/24-6B-Capacitors-Q25a.jpg"
      ],
      "shot": [
-      [0,0.793,0.812],
-      [1,0.0646,0.15]
+      [0,0.793,0.812]
      ],
      "ctx": [
       [
@@ -61384,7 +61441,7 @@ window.BANK.physics = {
       [
        "Q25(b)",
        [
-        [1,0.1757,0.6144]
+        [1,0.0646,0.6144]
        ]
       ]
      ]
@@ -61432,7 +61489,7 @@ window.BANK.physics = {
       [
        "Q25(b)",
        [
-        [1,0.1757,0.6144]
+        [1,0.0646,0.6144]
        ]
       ]
      ]
@@ -61477,7 +61534,7 @@ window.BANK.physics = {
       [
        "Q25(b)",
        [
-        [1,0.1757,0.6144]
+        [1,0.0646,0.6144]
        ]
       ]
      ]
@@ -61819,7 +61876,7 @@ window.BANK.physics = {
       "papers/physics/fig/24-6B-Capacitors-Q28.jpg"
      ],
      "shot": [
-      [0,0.3276,0.4872]
+      [0,0.1909,0.4872]
      ]
     },
     {
@@ -63335,6 +63392,18 @@ window.BANK.physics = {
      ],
      "figures": [
       "papers/physics/fig/25-6C-Electromagnetic-Effects-Q19.jpg"
+     ],
+     "shot": [
+      [1,0.075,0.3371]
+     ],
+     "ctx": [
+      [
+       "Q19",
+       [
+        [0,0.3609,0.9297],
+        [1,0.0608,0.0693]
+       ]
+      ]
      ]
     },
     {
@@ -65343,7 +65412,7 @@ window.BANK.physics = {
       "papers/physics/fig/25-6C-Electromagnetic-Effects-Q46-2.jpg"
      ],
      "shot": [
-      [2,0.0826,0.3742]
+      [2,0.0532,0.3742]
      ],
      "ctx": [
       [
@@ -65356,8 +65425,7 @@ window.BANK.physics = {
       [
        "Q46(b)",
        [
-        [1,0.6743,0.9373],
-        [2,0.0532,0.0836]
+        [1,0.6743,0.9373]
        ]
       ]
      ]
@@ -65405,8 +65473,7 @@ window.BANK.physics = {
       [
        "Q46(b)",
        [
-        [1,0.6743,0.9373],
-        [2,0.0532,0.0836]
+        [1,0.6743,0.9373]
        ]
       ]
      ]
@@ -66002,7 +66069,7 @@ window.BANK.physics = {
       "papers/physics/fig/26-7A-Probing-Matter-Q12-2.jpg"
      ],
      "shot": [
-      [0,0.5821,0.7531]
+      [0,0.5147,0.7531]
      ]
     },
     {
@@ -67214,7 +67281,7 @@ window.BANK.physics = {
       "papers/physics/fig/27-7B-Accelerators-Detectors-Q2-2.jpg"
      ],
      "shot": [
-      [2,0.0826,0.3001]
+      [2,0.0522,0.3001]
      ],
      "ctx": [
       [
@@ -67227,8 +67294,7 @@ window.BANK.physics = {
       [
        "Q2(b)",
        [
-        [1,0.7816,0.9297],
-        [2,0.0522,0.0864]
+        [1,0.7816,0.9297]
        ]
       ]
      ]
@@ -67279,8 +67345,7 @@ window.BANK.physics = {
       [
        "Q2(b)",
        [
-        [1,0.7816,0.9297],
-        [2,0.0522,0.0864]
+        [1,0.7816,0.9297]
        ]
       ]
      ]
@@ -67455,7 +67520,7 @@ window.BANK.physics = {
       "papers/physics/fig/27-7B-Accelerators-Detectors-Q3-2.jpg"
      ],
      "shot": [
-      [1,0.6781,0.7607]
+      [1,0.6781,0.6971]
      ],
      "ctx": [
       [
@@ -67505,7 +67570,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [1,0.7635,0.812]
+      [1,0.7132,0.812]
      ],
      "ctx": [
       [
@@ -71265,7 +71330,7 @@ window.BANK.physics = {
       "papers/physics/fig/28-7C-Particle-Zoo-Q22.jpg"
      ],
      "shot": [
-      [1,0.3371,0.7597]
+      [1,0.3371,0.7341]
      ],
      "ctx": [
       [
@@ -71322,7 +71387,7 @@ window.BANK.physics = {
       [
        "Q22(b)",
        [
-        [1,0.7531,0.7882]
+        [1,0.7455,0.7882]
        ]
       ]
      ]
@@ -71370,7 +71435,7 @@ window.BANK.physics = {
       [
        "Q22(b)",
        [
-        [1,0.7531,0.7882]
+        [1,0.7455,0.7882]
        ]
       ]
      ]
@@ -72201,6 +72266,9 @@ window.BANK.physics = {
      ],
      "figures": [
       "papers/physics/fig/28-7C-Particle-Zoo-Q29.jpg"
+     ],
+     "shot": [
+      [0,0.7056,0.8262]
      ]
     },
     {
@@ -72398,7 +72466,7 @@ window.BANK.physics = {
      "figures": [],
      "shot": [
       [0,0.8006,0.9354],
-      [1,0.0608,0.1785]
+      [1,0.0608,0.1567]
      ],
      "ctx": [
       [
@@ -72438,7 +72506,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [1,0.1719,0.3951]
+      [1,0.1681,0.3951]
      ],
      "ctx": [
       [
@@ -72719,7 +72787,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [1,0.0826,0.3409]
+      [1,0.0532,0.3409]
      ],
      "ctx": [
       [
@@ -72731,8 +72799,7 @@ window.BANK.physics = {
       [
        "Q36(b)",
        [
-        [0,0.8946,0.9288],
-        [1,0.0532,0.0864]
+        [0,0.8946,0.9288]
        ]
       ]
      ]
@@ -72779,8 +72846,7 @@ window.BANK.physics = {
       [
        "Q36(b)",
        [
-        [0,0.8946,0.9288],
-        [1,0.0532,0.0864]
+        [0,0.8946,0.9288]
        ]
       ]
      ]
@@ -72828,8 +72894,7 @@ window.BANK.physics = {
       [
        "Q36(b)",
        [
-        [0,0.8946,0.9288],
-        [1,0.0532,0.0864]
+        [0,0.8946,0.9288]
        ]
       ]
      ]
@@ -74454,7 +74519,7 @@ window.BANK.physics = {
       "papers/physics/fig/28-7C-Particle-Zoo-Q53.jpg"
      ],
      "shot": [
-      [1,0.0969,0.1899]
+      [1,0.0969,0.1159]
      ],
      "ctx": [
       [
@@ -74494,7 +74559,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [1,0.2004,0.3932]
+      [1,0.1396,0.3932]
      ],
      "ctx": [
       [
@@ -75110,7 +75175,7 @@ window.BANK.physics = {
       "papers/physics/fig/29-8-Thermodynamics-Q2.jpg"
      ],
      "shot": [
-      [0,0.6287,0.8044]
+      [0,0.528,0.8044]
      ]
     },
     {
@@ -75372,7 +75437,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [0,0.566,0.6372]
+      [0,0.4084,0.6372]
      ]
     },
     {
@@ -77906,7 +77971,7 @@ window.BANK.physics = {
       "papers/physics/fig/30-9-Nuclear-Decay-Q4.jpg"
      ],
      "shot": [
-      [0,0.2602,0.34]
+      [0,0.2602,0.2792]
      ],
      "ctx": [
       [
@@ -77958,7 +78023,7 @@ window.BANK.physics = {
       [
        "Q4(b)",
        [
-        [0,0.3495,0.3685]
+        [0,0.302,0.3685]
        ]
       ]
      ]
@@ -78007,7 +78072,7 @@ window.BANK.physics = {
       [
        "Q4(b)",
        [
-        [0,0.3495,0.3685]
+        [0,0.302,0.3685]
        ]
       ]
      ]
@@ -78609,8 +78674,7 @@ window.BANK.physics = {
       "papers/physics/fig/30-9-Nuclear-Decay-Q12.jpg"
      ],
      "shot": [
-      [0,0.8006,0.8462],
-      [1,0.0532,0.2479]
+      [0,0.8006,0.8462]
      ],
      "ctx": [
       [
@@ -78652,7 +78716,7 @@ window.BANK.physics = {
       "papers/physics/fig/30-9-Nuclear-Decay-Q12.jpg"
      ],
      "shot": [
-      [1,0.2507,0.2697]
+      [1,0.0532,0.2697]
      ],
      "ctx": [
       [
@@ -78695,7 +78759,7 @@ window.BANK.physics = {
       "papers/physics/fig/30-9-Nuclear-Decay-Q12-2.jpg"
      ],
      "shot": [
-      [1,0.2877,0.3979]
+      [1,0.2877,0.3618]
      ],
      "ctx": [
       [
@@ -78739,7 +78803,7 @@ window.BANK.physics = {
       "papers/physics/fig/30-9-Nuclear-Decay-Q12-3.jpg"
      ],
      "shot": [
-      [1,0.3913,0.7018]
+      [1,0.3846,0.7018]
      ],
      "ctx": [
       [
@@ -79387,6 +79451,17 @@ window.BANK.physics = {
      ],
      "figures": [
       "papers/physics/fig/30-9-Nuclear-Decay-Q20.jpg"
+     ],
+     "shot": [
+      [0,0.5195,0.7075]
+     ],
+     "ctx": [
+      [
+       "Q20",
+       [
+        [0,0.0902,0.5138]
+       ]
+      ]
      ]
     },
     {
@@ -80416,7 +80491,7 @@ window.BANK.physics = {
       "papers/physics/fig/30-9-Nuclear-Decay-Q34.jpg"
      ],
      "shot": [
-      [0,0.5318,0.641]
+      [0,0.5318,0.5745]
      ],
      "ctx": [
       [
@@ -80458,7 +80533,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [0,0.6496,0.9459],
+      [0,0.5907,0.9459],
       [1,0.0608,0.1595]
      ],
      "ctx": [
@@ -81801,7 +81876,7 @@ window.BANK.physics = {
       "papers/physics/fig/30-9-Nuclear-Decay-Q55.jpg"
      ],
      "shot": [
-      [0,0.2089,0.3115]
+      [0,0.2089,0.2279]
      ],
      "ctx": [
       [
@@ -81843,7 +81918,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [0,0.321,0.6676]
+      [0,0.2507,0.6676]
      ],
      "ctx": [
       [
@@ -81967,7 +82042,7 @@ window.BANK.physics = {
       "papers/physics/fig/30-9-Nuclear-Decay-Q56.jpg"
      ],
      "shot": [
-      [0,0.5888,0.698]
+      [0,0.5888,0.6087]
      ],
      "ctx": [
       [
@@ -82018,6 +82093,12 @@ window.BANK.physics = {
        [
         [0,0.5442,0.5764]
        ]
+      ],
+      [
+       "Q56(b)",
+       [
+        [0,0.6325,0.698]
+       ]
       ]
      ]
     },
@@ -82057,6 +82138,12 @@ window.BANK.physics = {
        "Q56",
        [
         [0,0.5442,0.5764]
+       ]
+      ],
+      [
+       "Q56(b)",
+       [
+        [0,0.6325,0.698]
        ]
       ]
      ]
@@ -82180,7 +82267,7 @@ window.BANK.physics = {
       "papers/physics/fig/30-9-Nuclear-Decay-Q57-2.jpg"
      ],
      "shot": [
-      [2,0.0532,0.1453]
+      [2,0.0532,0.0722]
      ],
      "ctx": [
       [
@@ -82228,7 +82315,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [2,0.151,0.3542]
+      [2,0.0883,0.3542]
      ],
      "ctx": [
       [
@@ -82366,7 +82453,7 @@ window.BANK.physics = {
       "papers/physics/fig/30-9-Nuclear-Decay-Q59.jpg"
      ],
      "shot": [
-      [1,0.302,0.4435]
+      [1,0.0513,0.4435]
      ],
      "ctx": [
       [
@@ -82378,8 +82465,7 @@ window.BANK.physics = {
       [
        "Q59(a)",
        [
-        [0,0.7104,0.7293],
-        [1,0.0513,0.3058]
+        [0,0.7104,0.7293]
        ]
       ]
      ]
@@ -82416,7 +82502,7 @@ window.BANK.physics = {
       "papers/physics/fig/30-9-Nuclear-Decay-Q59-2.jpg"
      ],
      "shot": [
-      [1,0.4492,0.566]
+      [1,0.4492,0.4834]
      ],
      "ctx": [
       [
@@ -82428,8 +82514,7 @@ window.BANK.physics = {
       [
        "Q59(a)",
        [
-        [0,0.7104,0.7293],
-        [1,0.0513,0.3058]
+        [0,0.7104,0.7293]
        ]
       ]
      ]
@@ -82464,7 +82549,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [1,0.5689,0.9012]
+      [1,0.4995,0.9012]
      ],
      "ctx": [
       [
@@ -82476,8 +82561,7 @@ window.BANK.physics = {
       [
        "Q59(a)",
        [
-        [0,0.7104,0.7293],
-        [1,0.0513,0.3058]
+        [0,0.7104,0.7293]
        ]
       ]
      ]
@@ -83774,7 +83858,7 @@ window.BANK.physics = {
       "papers/physics/fig/31-10-Oscillations-Q12.jpg"
      ],
      "shot": [
-      [0,0.8262,0.8575]
+      [0,0.8262,0.8784]
      ],
      "ctx": [
       [
@@ -83821,7 +83905,7 @@ window.BANK.physics = {
       "papers/physics/fig/31-10-Oscillations-Q12.jpg"
      ],
      "shot": [
-      [0,0.8708,0.925],
+      [0,0.8718,0.925],
       [1,0.0608,0.189]
      ],
      "ctx": [
@@ -84901,7 +84985,7 @@ window.BANK.physics = {
       "papers/physics/fig/31-10-Oscillations-Q27.jpg"
      ],
      "shot": [
-      [1,0.4549,0.7958]
+      [1,0.4549,0.6116]
      ],
      "ctx": [
       [
@@ -84950,7 +85034,7 @@ window.BANK.physics = {
       "papers/physics/fig/31-10-Oscillations-Q27-2.jpg"
      ],
      "shot": [
-      [1,0.9003,0.9193],
+      [1,0.623,0.9193],
       [2,0.0608,0.1567]
      ],
      "ctx": [
@@ -85483,7 +85567,7 @@ window.BANK.physics = {
       "papers/physics/fig/31-10-Oscillations-Q35-3.jpg"
      ],
      "shot": [
-      [2,0.0826,0.283]
+      [2,0.0532,0.283]
      ],
      "ctx": [
       [
@@ -85496,8 +85580,7 @@ window.BANK.physics = {
       [
        "Q35(b)",
        [
-        [1,0.699,0.944],
-        [2,0.0532,0.0836]
+        [1,0.699,0.944]
        ]
       ]
      ]
@@ -85547,8 +85630,7 @@ window.BANK.physics = {
       [
        "Q35(b)",
        [
-        [1,0.699,0.944],
-        [2,0.0532,0.0836]
+        [1,0.699,0.944]
        ]
       ]
      ]
@@ -88201,6 +88283,18 @@ window.BANK.physics = {
      ],
      "figures": [
       "papers/physics/fig/32-11A-Gravitational-Fields-Q12.jpg"
+     ],
+     "shot": [
+      [0,0.4653,0.943],
+      [1,0.0608,0.2156]
+     ],
+     "ctx": [
+      [
+       "Q12",
+       [
+        [0,0.1197,0.4596]
+       ]
+      ]
      ]
     },
     {
@@ -91430,7 +91524,7 @@ window.BANK.physics = {
       "papers/physics/fig/33-11B-Space-Q18-2.jpg"
      ],
      "shot": [
-      [1,0.4036,0.5954]
+      [1,0.4036,0.4226]
      ],
      "ctx": [
       [
@@ -91473,7 +91567,7 @@ window.BANK.physics = {
       "papers/physics/fig/33-11B-Space-Q18.jpg"
      ],
      "shot": [
-      [1,0.6201,0.7683]
+      [1,0.4463,0.7683]
      ],
      "ctx": [
       [
@@ -91743,7 +91837,18 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-20.jpg",
       "papers/physics/img/33-11B-Space-21.jpg"
      ],
-     "figures": []
+     "figures": [],
+     "shot": [
+      [0,0.6857,0.8737]
+     ],
+     "ctx": [
+      [
+       "Q24",
+       [
+        [0,0.472,0.68]
+       ]
+      ]
+     ]
     },
     {
      "id": "Q24b",
@@ -91950,7 +92055,7 @@ window.BANK.physics = {
       "papers/physics/fig/33-11B-Space-Q25-2.jpg"
      ],
      "shot": [
-      [1,0.6068,0.8063]
+      [1,0.6068,0.641]
      ],
      "ctx": [
       [
@@ -92000,7 +92105,7 @@ window.BANK.physics = {
       "papers/physics/fig/33-11B-Space-Q25.jpg"
      ],
      "shot": [
-      [1,0.8234,0.9364],
+      [1,0.6581,0.9364],
       [2,0.0608,0.4198]
      ],
      "ctx": [
@@ -92331,7 +92436,18 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-26.jpg",
       "papers/physics/img/33-11B-Space-27.jpg"
      ],
-     "figures": []
+     "figures": [],
+     "shot": [
+      [0,0.7236,0.9088]
+     ],
+     "ctx": [
+      [
+       "Q28",
+       [
+        [0,0.4074,0.717]
+       ]
+      ]
+     ]
     },
     {
      "id": "Q28bi",
@@ -92736,7 +92852,7 @@ window.BANK.physics = {
       "papers/physics/fig/33-11B-Space-Q36.jpg"
      ],
      "shot": [
-      [0,0.265,0.4425]
+      [0,0.1396,0.4425]
      ]
     },
     {
@@ -92832,7 +92948,7 @@ window.BANK.physics = {
       "papers/physics/fig/33-11B-Space-Q39.jpg"
      ],
      "shot": [
-      [0,0.5337,0.7179]
+      [0,0.377,0.7179]
      ]
     },
     {
@@ -93520,7 +93636,7 @@ window.BANK.physics = {
       "papers/physics/fig/33-11B-Space-Q46.jpg"
      ],
      "shot": [
-      [1,0.2507,0.6249]
+      [1,0.2507,0.3115]
      ],
      "ctx": [
       [
@@ -93566,7 +93682,7 @@ window.BANK.physics = {
      ],
      "figures": [],
      "shot": [
-      [1,0.6277,0.7104]
+      [1,0.3305,0.7104]
      ],
      "ctx": [
       [
@@ -96218,7 +96334,7 @@ window.BANK.physics = {
       "papers/physics/fig/33-11B-Space-Q84.jpg"
      ],
      "shot": [
-      [0,0.7085,0.8481]
+      [0,0.7085,0.7274]
      ],
      "ctx": [
       [
@@ -96273,7 +96389,7 @@ window.BANK.physics = {
       [
        "Q84(b)",
        [
-        [0,0.8813,0.9003]
+        [0,0.7749,0.9003]
        ]
       ]
      ]
@@ -96321,7 +96437,7 @@ window.BANK.physics = {
       [
        "Q84(b)",
        [
-        [0,0.8813,0.9003]
+        [0,0.7749,0.9003]
        ]
       ]
      ]
@@ -96368,7 +96484,7 @@ window.BANK.physics = {
       [
        "Q84(b)",
        [
-        [0,0.8813,0.9003]
+        [0,0.7749,0.9003]
        ]
       ]
      ]
