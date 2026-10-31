@@ -19,12 +19,21 @@
         "proton number"
       ],
       "question": "Deuterium (1 proton, 1 neutron) collides with a nucleus from a periodic table section to produce technetium (Tc) and neutrons. Complete the nuclear equation to find the element and number of neutrons released.",
-      "status": "pending",
-      "answer": "Pending: the periodic table section and the nucleon numbers needed for the equation are not readable in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Element = molybdenum (Mo-96, proton number 42), and 3 neutrons are released: Mo-96 + H-2 -> Tc-95 + 3 n.",
+      "steps": [
+        "Deuterium is 2 1 H (nucleon number 2, proton number 1).",
+        "Proton number is conserved: Z + 1 = 43 + 0, so Z = 42, which the table gives as Mo (molybdenum).",
+        "Nucleon number is conserved: 96 + 2 = 95 + (number of neutrons x 1), so 98 = 95 + 3 and 3 neutrons are released.",
+        "Complete equation: 96 42 Mo + 2 1 H -> 95 43 Tc + 3 (1 0 n)."
+      ],
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-01.jpg",
         "papers/physics/img/26-7A-Probing-Matter-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q1.jpg",
+        "papers/physics/fig/26-7A-Probing-Matter-Q1-2.jpg"
       ]
     },
     {
@@ -126,12 +135,21 @@
         "multiple choice"
       ],
       "question": "Two plates have potential difference V and an electron is deflected through an angle. Choose the row showing changes that decrease the deflection angle.",
-      "status": "pending",
-      "answer": "Pending: the table of options is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: V halved and distance between plates doubled.",
+      "steps": [
+        "Field between the plates E = V/d, so the force on the electron is eV/d and its acceleration is a = eV/(m d).",
+        "For plates of length L and entry speed v the time between them is t = L/v, so the sideways speed gained is a t = eVL/(m d v).",
+        "tan(theta) = (sideways speed)/v = eVL/(m d v^2), so theta increases when V/d increases (v and L unchanged).",
+        "Row A: V/d x 4, B: x 2, C: x 1/4, D: x 2. Only C reduces V/d, so only C decreases theta."
+      ],
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-02.jpg",
         "papers/physics/img/26-7A-Probing-Matter-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q4.jpg",
+        "papers/physics/fig/26-7A-Probing-Matter-Q4-2.jpg"
       ]
     },
     {
@@ -205,7 +223,7 @@
       ],
       "question": "Which of the following could not be concluded from high-speed alpha particle scattering experiments?",
       "status": "pending",
-      "answer": "Pending: each of options A-D is generally supported by the scattering results, so the intended key cannot be decided from the text alone.",
+      "answer": "Pending: as printed, all four options (empty space, positive nucleus, concentration of charge, concentration of mass) are valid conclusions from alpha scattering, so the intended key cannot be determined from the page.",
       "steps": [],
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-03.jpg",
@@ -228,12 +246,20 @@
         "table"
       ],
       "question": "Choose the row giving the number of protons and neutrons in a nucleus of one isotope of oganesson.",
-      "status": "pending",
-      "answer": "Pending: the isotope symbol and the options table are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 118 protons and 176 neutrons.",
+      "steps": [
+        "In 294 118 Og the lower number (118) is the proton number, so there are 118 protons.",
+        "The upper number (294) is the nucleon number, so neutrons = 294 - 118 = 176.",
+        "Row A matches (118 protons, 176 neutrons); B, C and D use 294 or 176 as a proton count or misread the numbers."
+      ],
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-04.jpg",
         "papers/physics/img/26-7A-Probing-Matter-05.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q7.jpg",
+        "papers/physics/fig/26-7A-Probing-Matter-Q7-2.jpg"
       ]
     },
     {
@@ -262,6 +288,9 @@
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-04.jpg",
         "papers/physics/img/26-7A-Probing-Matter-05.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q8.jpg"
       ]
     },
     {
@@ -392,12 +421,20 @@
         "proton number"
       ],
       "question": "Choose the row giving the number of nucleons and neutrons in an atom of an oxygen isotope.",
-      "status": "pending",
-      "answer": "Pending: the isotope symbol and the options table are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 17 nucleons and 9 neutrons.",
+      "steps": [
+        "In 17 8 O the upper number 17 is the nucleon number, so the nucleus has 17 nucleons.",
+        "The lower number 8 is the proton number, so neutrons = 17 - 8 = 9.",
+        "Row D (17 nucleons, 9 neutrons) is correct; A and B use 8 nucleons (that is the proton number)."
+      ],
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-07.jpg",
         "papers/physics/img/26-7A-Probing-Matter-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q12.jpg",
+        "papers/physics/fig/26-7A-Probing-Matter-Q12-2.jpg"
       ]
     },
     {
@@ -469,13 +506,21 @@
         "radial field"
       ],
       "question": "Sketch lines to show the electric field between the two equipotential lines drawn around a gold nucleus.",
-      "status": "pending",
-      "answer": "Pending: the scaled diagram of equipotentials is not in the text; a sketch is required.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Straight radial field lines running outwards from the nucleus, crossing both equipotentials at right angles, with arrows pointing away from the nucleus and the lines further apart at larger radius.",
+      "steps": [
+        "The gold nucleus is positive, so the field points away from it: arrows on the lines point radially outwards.",
+        "Field lines are always perpendicular to equipotentials, so each line meets both dashed circles at 90 degrees (a radial straight line).",
+        "Draw several (at least 4) evenly spaced lines from the +40 V circle to the +10 V circle.",
+        "The lines spread out with distance, which shows the field gets weaker further from the nucleus."
+      ],
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-08.jpg",
         "papers/physics/img/26-7A-Probing-Matter-09.jpg",
         "papers/physics/img/26-7A-Probing-Matter-10.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q14.jpg"
       ]
     },
     {
@@ -493,13 +538,21 @@
         "inverse proportion"
       ],
       "question": "The 40 V equipotential is drawn to scale. Deduce whether the 10 V equipotential is in the correct scaled position.",
-      "status": "pending",
-      "answer": "Pending: the radii of the equipotentials must be measured from the missing scaled diagram.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Yes, it is correct: V is proportional to 1/r, so the 10 V line should have 4 times the radius of the 40 V line, and on the diagram the 10 V circle has about 4 times the radius.",
+      "steps": [
+        "For a point charge V = kQ/r, so V r is constant and V is proportional to 1/r.",
+        "Hence r(10 V)/r(40 V) = 40/10 = 4.",
+        "Measuring the diagram from the nucleus to each dashed circle gives a radius ratio of about 163 : 40.6, which is 4.0 (the outer circle radius is about 4 times the inner one).",
+        "The ratio measured equals the ratio predicted, so the 10 V equipotential is drawn in the correct position."
+      ],
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-08.jpg",
         "papers/physics/img/26-7A-Probing-Matter-09.jpg",
         "papers/physics/img/26-7A-Probing-Matter-10.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q14.jpg"
       ]
     },
     {
@@ -529,6 +582,9 @@
         "papers/physics/img/26-7A-Probing-Matter-08.jpg",
         "papers/physics/img/26-7A-Probing-Matter-09.jpg",
         "papers/physics/img/26-7A-Probing-Matter-10.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q14.jpg"
       ]
     },
     {
@@ -600,12 +656,21 @@
         "multiple choice"
       ],
       "question": "A nucleus emits a particle. Choose the table row giving the proton and nucleon numbers of the product nucleus.",
-      "status": "pending",
-      "answer": "Pending: the parent nucleus symbol and the table of options are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: proton number 18, nucleon number 38.",
+      "steps": [
+        "A nucleus of 38 19 K emits a positron (beta-plus): a proton changes to a neutron, p -> n + e+ + neutrino.",
+        "Proton number falls by 1: 19 - 1 = 18 (the product is argon).",
+        "Nucleon number is unchanged because a proton becomes a neutron: still 38.",
+        "Row B (18, 38) is correct; A has the wrong nucleon number and C, D have the wrong proton number."
+      ],
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-10.jpg",
         "papers/physics/img/26-7A-Probing-Matter-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q17.jpg",
+        "papers/physics/fig/26-7A-Probing-Matter-Q17-2.jpg"
       ]
     },
     {
@@ -651,12 +716,19 @@
         "multiple choice"
       ],
       "question": "The nucleus of an isotope of osmium contains 76 protons and 190 neutrons. Choose the notation that represents this isotope.",
-      "status": "pending",
-      "answer": "Pending: the notation options are missing from the text; the correct form is 266 (mass number) over 76 (proton number) Os.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 266 76 Os (nucleon number 266, proton number 76).",
+      "steps": [
+        "Nucleon number = protons + neutrons = 76 + 190 = 266.",
+        "In the notation the nucleon number is written at the top and the proton number at the bottom: 266 76 Os.",
+        "B uses 190 as the nucleon number, and C and D swap the top and bottom numbers, so A is the only correct choice."
+      ],
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-11.jpg",
         "papers/physics/img/26-7A-Probing-Matter-12.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q19.jpg"
       ]
     },
     {
@@ -702,12 +774,20 @@
         "multiple choice"
       ],
       "question": "A nucleus of element X emits an alpha particle to produce a nucleus. Choose the correct nucleon structure of element X.",
-      "status": "pending",
-      "answer": "Pending: the symbol of the product nucleus is missing from the text, so the options cannot be checked.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 93 protons and 144 neutrons (X is 237 93 X).",
+      "steps": [
+        "An alpha particle is 4 2 He, so X -> 233 91 Y + 4 2 He.",
+        "Nucleon number of X = 233 + 4 = 237; proton number of X = 91 + 2 = 93.",
+        "Neutrons in X = 237 - 93 = 144.",
+        "So X has 93 protons and 144 neutrons, which is option B."
+      ],
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-12.jpg",
         "papers/physics/img/26-7A-Probing-Matter-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q21.jpg"
       ]
     },
     {
@@ -780,9 +860,14 @@
         "nucleus protons neutrons"
       ],
       "question": "Scientists directed alpha particles at thin metal foils. Which conclusions could they make: charge concentrated in a small volume, mass concentrated in a small volume, electron energy levels, or a nucleus of protons and neutrons?",
-      "status": "pending",
-      "answer": "Pending: both options A and B are supported by the scattering results, so the single intended key cannot be decided from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: most of the mass of the atom is concentrated in a small volume.",
+      "steps": [
+        "A large fraction of alpha particles pass straight through, so most of the atom is empty space, while the few large deflections need a small, massive, positive centre; this supports B.",
+        "A is not valid: electrons carry negative charge and are spread through the whole atom, so not all of the charge is in the small volume.",
+        "C is not shown: electron energy levels come from line spectra, not from alpha scattering.",
+        "D is not shown: the scattering does not show that the nucleus is built of protons and neutrons (the neutron was found later)."
+      ],
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-13.jpg",
         "papers/physics/img/26-7A-Probing-Matter-14.jpg"
@@ -844,6 +929,9 @@
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-14.jpg",
         "papers/physics/img/26-7A-Probing-Matter-15.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q26.jpg"
       ]
     },
     {
@@ -889,12 +977,19 @@
         "multiple choice"
       ],
       "question": "Choose the number of neutrons in the nucleus of a given isotope (options 51, 70, 121, 172).",
-      "status": "pending",
-      "answer": "Pending: the isotope symbol is missing from the text, so neutrons = nucleon number minus proton number cannot be found.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 70 neutrons.",
+      "steps": [
+        "In 121 51 Sb the nucleon number is 121 and the proton number is 51.",
+        "Neutrons = nucleon number - proton number = 121 - 51 = 70.",
+        "So option B (70); A is the proton number and C is the nucleon number."
+      ],
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-15.jpg",
         "papers/physics/img/26-7A-Probing-Matter-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q28.jpg"
       ]
     },
     {
@@ -912,12 +1007,21 @@
         "multiple choice"
       ],
       "question": "An isotope decays by emitting an alpha particle. Choose the nucleons in the isotope produced by this decay.",
-      "status": "pending",
-      "answer": "Pending: the parent isotope symbol is missing from the text; if the parent is radon-222 the answer is A (134 neutrons, 84 protons).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 134 neutrons, 84 protons (polonium-218).",
+      "steps": [
+        "The parent is 222 86 Rn and an alpha particle 4 2 He is emitted.",
+        "Product: nucleon number 222 - 4 = 218; proton number 86 - 2 = 84 (polonium).",
+        "Neutrons = 218 - 84 = 134.",
+        "So the product has 134 neutrons and 84 protons, option A."
+      ],
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-15.jpg",
         "papers/physics/img/26-7A-Probing-Matter-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q29.jpg",
+        "papers/physics/fig/26-7A-Probing-Matter-Q29-2.jpg"
       ]
     },
     {
@@ -973,6 +1077,9 @@
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-16.jpg",
         "papers/physics/img/26-7A-Probing-Matter-17.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q31.jpg"
       ]
     },
     {
@@ -1001,6 +1108,9 @@
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-16.jpg",
         "papers/physics/img/26-7A-Probing-Matter-17.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q31.jpg"
       ]
     },
     {
@@ -1045,12 +1155,19 @@
         "multiple choice"
       ],
       "question": "In large-angle alpha scattering alpha particles were detected at positions W, X, Y and Z. Where were most detected?",
-      "status": "pending",
-      "answer": "Pending: the positions W, X, Y and Z are shown only in the missing diagram; most particles are detected straight ahead of the beam.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: position Y.",
+      "steps": [
+        "Most alpha particles pass through the thin foil with little or no deflection because the atom is mostly empty space.",
+        "Y is the position on the far side of the foil directly in line with the incident beam, so this is where most are detected.",
+        "W and Z (larger angle of deflection) receive only a few, and X (reflected back towards the source side) receives very few."
+      ],
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-17.jpg",
         "papers/physics/img/26-7A-Probing-Matter-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q33.jpg"
       ]
     },
     {
@@ -1069,12 +1186,20 @@
         "multiple choice"
       ],
       "question": "An isotope of astatine has a symbol given in the question. Choose the row showing its number of protons and number of neutrons.",
-      "status": "pending",
-      "answer": "Pending: the isotope symbol and the options table are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 85 protons and 128 neutrons.",
+      "steps": [
+        "In 213 85 At the proton number is 85 and the nucleon number is 213.",
+        "Neutrons = 213 - 85 = 128.",
+        "Row B (85 protons, 128 neutrons) is correct; A, C and D use the nucleon number as the proton number."
+      ],
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-18.jpg",
         "papers/physics/img/26-7A-Probing-Matter-19.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/26-7A-Probing-Matter-Q34.jpg",
+        "papers/physics/fig/26-7A-Probing-Matter-Q34-2.jpg"
       ]
     }
   ]

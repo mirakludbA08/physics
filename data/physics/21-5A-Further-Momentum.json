@@ -18,12 +18,20 @@
         "angle"
       ],
       "question": "A gas molecule of mass m moves at speed v and strikes the side of a cylinder at an angle, taking time t to collide. Which gives the average force on the side of the cylinder?",
-      "status": "pending",
-      "answer": "The answer options and the angle definition are missing from the text. Working gives F = 2 m v cos(theta) / t.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 2 m v sin(theta) / t",
+      "steps": [
+        "The angle theta is between the molecule's path and the wall, so the velocity component perpendicular to the wall is v sin(theta).",
+        "The component along the wall is unchanged, but the perpendicular component reverses: change in momentum = m v sin(theta) - (-m v sin(theta)) = 2 m v sin(theta).",
+        "Average force F = change in momentum / time = 2 m v sin(theta) / t."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-01.jpg",
         "papers/physics/img/21-5A-Further-Momentum-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q1.jpg",
+        "papers/physics/fig/21-5A-Further-Momentum-Q1-2.jpg"
       ]
     },
     {
@@ -40,12 +48,20 @@
         "two bodies"
       ],
       "question": "Momenta P and Q of two bodies about to merge are shown. Which diagram shows the resultant momentum after they move on as one body?",
-      "status": "pending",
-      "answer": "The momentum vector diagrams and options are missing from the text, so the correct diagram cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C",
+      "steps": [
+        "Momentum is a vector, so the resultant is found by adding P and Q head to tail (tip to tail).",
+        "The resultant is drawn from the tail of the first vector to the tip of the second.",
+        "In diagram C, P and Q join head to tail and the resultant runs from the start of P to the end of Q. In A and B the arrows meet head to head; in D the resultant points the wrong way."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-01.jpg",
         "papers/physics/img/21-5A-Further-Momentum-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q2.jpg",
+        "papers/physics/fig/21-5A-Further-Momentum-Q2-2.jpg"
       ]
     },
     {
@@ -202,9 +218,14 @@
         "before and after collision"
       ],
       "question": "Sketch a labelled vector diagram showing the momenta of the spacecraft and asteroid before and after a collision at 90 degrees, where they remain joined.",
-      "status": "pending",
-      "answer": "Requires a drawn vector diagram, which cannot be given in one line. Expected: spacecraft momentum at 90 degrees to asteroid momentum before; resultant (combined) momentum after.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A right-angled vector triangle: the large asteroid momentum and the small spacecraft momentum at 90 degrees, with the resultant momentum after the collision as the hypotenuse.",
+      "steps": [
+        "Before: draw the asteroid momentum p_a as a long arrow and the spacecraft momentum p_s as a very short arrow at 90 degrees to it (label both).",
+        "Momentum is conserved, so after the collision the joined bodies have momentum equal to the vector sum of p_a and p_s.",
+        "Draw p_s from the tip of p_a (head to tail) and the resultant momentum from the tail of p_a to the tip of p_s, and label it \"momentum after collision\".",
+        "Mark the small angle between the resultant and the original asteroid direction (about 10^-7 rad, so the diagram must be exaggerated)."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-05.jpg",
         "papers/physics/img/21-5A-Further-Momentum-06.jpg",
@@ -364,13 +385,21 @@
         "two-dimensional collision"
       ],
       "question": "Puck 1 (110 g) moves at 0.41 m s^-1 and hits stationary puck 2 (130 g). Puck 1 moves off at 0.28 m s^-1 after the collision. Calculate the speed of puck 2 after the collision.",
-      "status": "pending",
-      "answer": "The diagram of the puck paths and the angles between them are missing from the text. If the motion were one-dimensional, v2 would be 0.11 m s^-1, but the angles are needed.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Speed of puck 2 = 0.26 m s^-1",
+      "steps": [
+        "The pucks start along the horizontal, so the total momentum perpendicular to the original direction is zero after the collision. Puck 1 goes at 49 degrees above and puck 2 at 43 degrees below.",
+        "Perpendicular components: m1 v1 sin49 = m2 v2 sin43, so 0.110 x 0.28 x sin49 = 0.130 x v2 x sin43.",
+        "v2 = (0.110 x 0.28 x 0.755) / (0.130 x 0.682) = 0.0232 / 0.0887.",
+        "v2 = 0.26 m s^-1. (Check along the original direction: 0.110 x 0.28 cos49 + 0.130 x 0.262 cos43 = 0.0451 kg m s^-1, equal to the initial 0.110 x 0.41.)"
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-07.jpg",
         "papers/physics/img/21-5A-Further-Momentum-08.jpg",
         "papers/physics/img/21-5A-Further-Momentum-09.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q7.jpg"
       ]
     },
     {
@@ -387,13 +416,21 @@
         "collision test"
       ],
       "question": "Deduce whether the collision between the two pucks described in part (b)(i) was elastic.",
-      "status": "pending",
-      "answer": "Depends on the puck speed from part (b)(i), which needs the missing path diagram and angles.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Not elastic: kinetic energy falls from 9.2 x 10^-3 J to 8.8 x 10^-3 J.",
+      "steps": [
+        "An elastic collision conserves kinetic energy, so compare the total KE before and after.",
+        "Before: 0.5 x 0.110 x 0.41^2 = 9.2 x 10^-3 J.",
+        "After: 0.5 x 0.110 x 0.28^2 + 0.5 x 0.130 x 0.262^2 = 4.3 x 10^-3 + 4.5 x 10^-3 = 8.8 x 10^-3 J.",
+        "The KE after is about 5% less than before, so some kinetic energy has been transferred to other forms and the collision was not perfectly elastic."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-07.jpg",
         "papers/physics/img/21-5A-Further-Momentum-08.jpg",
         "papers/physics/img/21-5A-Further-Momentum-09.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q7.jpg"
       ]
     },
     {
@@ -438,12 +475,19 @@
         "particles"
       ],
       "question": "A particle of mass m has kinetic energy Ek and momentum p. A second particle of mass 2m has kinetic energy 2Ek. Which is equal to the momentum of the second particle?",
-      "status": "pending",
-      "answer": "The answer options are missing from the text. Working gives p2 = 2p (p = sqrt(2 m Ek)).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 2p",
+      "steps": [
+        "For a non-relativistic particle Ek = p^2 / (2m), so p = sqrt(2 m Ek).",
+        "Second particle: p2 = sqrt(2 x 2m x 2Ek) = sqrt(8 m Ek) = 2 sqrt(2 m Ek).",
+        "So p2 = 2p."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-09.jpg",
         "papers/physics/img/21-5A-Further-Momentum-10.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q8.jpg"
       ]
     },
     {
@@ -487,12 +531,18 @@
         "row"
       ],
       "question": "Which row of a table identifies what happens to momentum and kinetic energy in an elastic collision?",
-      "status": "pending",
-      "answer": "The table of rows is missing from the text, so the row cannot be identified (expected: both momentum and kinetic energy conserved).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: momentum conserved, kinetic energy conserved",
+      "steps": [
+        "Momentum is conserved in every collision when no external force acts.",
+        "In an elastic collision, kinetic energy is also conserved, so row A."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-10.jpg",
         "papers/physics/img/21-5A-Further-Momentum-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q10.jpg"
       ]
     },
     {
@@ -509,12 +559,19 @@
         "joules"
       ],
       "question": "Two trolleys X and Y (each 0.25 kg) collide and join with velocity 1 m s^-1 afterwards. Which is the kinetic energy of trolley X before the collision (A 0.5 J, B 1 J, C 2 J, D 4 J)?",
-      "status": "pending",
-      "answer": "The momentum diagram for trolleys X and Y is missing from the text, so the momentum of X cannot be read.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 0.5 J",
+      "steps": [
+        "Trolley X has momentum p = 0.5 N s and mass 0.25 kg, so its speed is v = p / m = 0.5 / 0.25 = 2.0 m s^-1.",
+        "Kinetic energy = 1/2 m v^2 = 0.5 x 0.25 x 2.0^2 = 0.5 J (or p^2 / 2m = 0.25 / 0.5 = 0.5 J)."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-10.jpg",
         "papers/physics/img/21-5A-Further-Momentum-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q11.jpg",
+        "papers/physics/fig/21-5A-Further-Momentum-Q11-2.jpg"
       ]
     },
     {
@@ -531,12 +588,21 @@
         "joined trolleys"
       ],
       "question": "Two trolleys X and Y (each 0.25 kg) join after colliding and move with velocity 1 m s^-1. Which row of the table is correct for this collision?",
-      "status": "pending",
-      "answer": "The momentum diagram and the table of rows are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: momentum conserved, inelastic collision",
+      "steps": [
+        "Momentum before = 0.5 N s + 0 = 0.5 N s. After, the joined trolleys have mass 0.50 kg and speed 1 m s^-1: momentum = 0.50 N s, so momentum is conserved.",
+        "KE before = p^2 / 2m = 0.5^2 / (2 x 0.25) = 0.5 J. KE after = 1/2 x 0.50 x 1^2 = 0.25 J.",
+        "Kinetic energy has decreased, so the collision is inelastic. This is row B."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-11.jpg",
         "papers/physics/img/21-5A-Further-Momentum-12.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q12.jpg",
+        "papers/physics/fig/21-5A-Further-Momentum-Q12-2.jpg",
+        "papers/physics/fig/21-5A-Further-Momentum-Q12-3.jpg"
       ]
     },
     {
@@ -553,12 +619,18 @@
         "same mass"
       ],
       "question": "An object of mass m has momentum p and kinetic energy E. Which is the mass of an object with momentum 2p and kinetic energy 4E?",
-      "status": "pending",
-      "answer": "The answer options are missing from the text. Working gives mass = m.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: m",
+      "steps": [
+        "E = p^2 / 2m, so m = p^2 / 2E.",
+        "New object: m_new = (2p)^2 / (2 x 4E) = 4 p^2 / 8E = p^2 / 2E = m."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-12.jpg",
         "papers/physics/img/21-5A-Further-Momentum-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q13.jpg"
       ]
     },
     {
@@ -671,6 +743,10 @@
         "papers/physics/img/21-5A-Further-Momentum-14.jpg",
         "papers/physics/img/21-5A-Further-Momentum-15.jpg",
         "papers/physics/img/21-5A-Further-Momentum-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q16.jpg",
+        "papers/physics/fig/21-5A-Further-Momentum-Q16-2.jpg"
       ]
     },
     {
@@ -687,13 +763,23 @@
         "momentum"
       ],
       "question": "Using a scaled vector diagram, deduce whether the black ball moves towards the corner pocket shown in the figure.",
-      "status": "pending",
-      "answer": "The figure showing the pocket direction and the diagram of ball paths is missing from the text, so the direction cannot be checked.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Yes: the black ball leaves at about 50 degrees to the original direction, which is the direction of the pocket.",
+      "steps": [
+        "Both balls have the same mass m, so the velocity vectors can be used in place of momentum vectors (the m cancels).",
+        "Draw the initial velocity of the white ball (1.20 m s^-1) to scale, then the white ball final velocity (0.92 m s^-1) at 35 degrees below the original line, from the same start point.",
+        "The black ball velocity completes the triangle (initial = white final + black final). The closing side measures about 0.69 m s^-1.",
+        "By calculation: x-component = 1.20 - 0.92 cos35 = 0.45 m s^-1; y-component = 0.92 sin35 = 0.53 m s^-1 (opposite side to the white ball).",
+        "Angle = tan^-1(0.53 / 0.45) = 50 degrees, which matches the 50 degrees line to the pocket, so the black ball moves towards the pocket."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-14.jpg",
         "papers/physics/img/21-5A-Further-Momentum-15.jpg",
         "papers/physics/img/21-5A-Further-Momentum-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q16.jpg",
+        "papers/physics/fig/21-5A-Further-Momentum-Q16-2.jpg"
       ]
     },
     {
@@ -738,13 +824,22 @@
         "model"
       ],
       "question": "A spreadsheet modelled an elastic collision between objects A and B. Deduce from the initial and final values whether the collision was elastic.",
-      "status": "pending",
-      "answer": "The spreadsheet values are missing from the text, so the test cannot be applied.",
-      "steps": [],
+      "status": "ready",
+      "answer": "No: total kinetic energy falls from 0.72 J to 0.66 J, so the values do not show an elastic collision.",
+      "steps": [
+        "In an elastic collision the total kinetic energy is conserved.",
+        "Initial KE = 1/2 x 0.85 x 1.30^2 = 0.718 J (B is at rest).",
+        "Final KE = 1/2 x 0.85 x 0.98^2 + 1/2 x 1.70 x 0.54^2 = 0.408 + 0.248 = 0.656 J.",
+        "The final KE is about 9% lower, a larger difference than rounding of the data would explain, so the collision is not elastic."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-16.jpg",
         "papers/physics/img/21-5A-Further-Momentum-17.jpg",
         "papers/physics/img/21-5A-Further-Momentum-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q17.jpg",
+        "papers/physics/fig/21-5A-Further-Momentum-Q17-2.jpg"
       ]
     },
     {
@@ -761,13 +856,22 @@
         "momentum test"
       ],
       "question": "Using the spreadsheet values for objects A and B, deduce whether they show conservation of momentum.",
-      "status": "pending",
-      "answer": "The spreadsheet values are missing from the text, so the momentum totals cannot be compared.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Yes: both components of momentum are conserved within rounding (x: 1.105 before, 1.098 after; y: 0 before, -0.004 after).",
+      "steps": [
+        "Initial momentum (all along x): 0.85 x 1.30 = 1.105 kg m s^-1; y-component = 0.",
+        "Final x-component = 0.85 x 0.98 cos54.5 + 1.70 x 0.54 cos(-48.0) = 0.484 + 0.614 = 1.098 kg m s^-1.",
+        "Final y-component = 0.85 x 0.98 sin54.5 + 1.70 x 0.54 sin(-48.0) = 0.678 - 0.682 = -0.004 kg m s^-1.",
+        "The x-components differ by about 0.6% and the y-component is almost zero, so momentum is conserved within the precision of the data."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-16.jpg",
         "papers/physics/img/21-5A-Further-Momentum-17.jpg",
         "papers/physics/img/21-5A-Further-Momentum-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q17.jpg",
+        "papers/physics/fig/21-5A-Further-Momentum-Q17-2.jpg"
       ]
     },
     {
@@ -838,12 +942,21 @@
         "conservation of momentum"
       ],
       "question": "Two 19.1 kg granite stones collide; one moves at 1.70 m s^-1 towards a stationary stone. Show that the speed v after the collision is about 1.3 m s^-1.",
-      "status": "pending",
-      "answer": "The diagram showing the directions of the stones after the collision is missing, so the angles needed for the vector momentum calculation are not available.",
-      "steps": [],
+      "status": "ready",
+      "answer": "v = 1.33 m s^-1, which is about 1.3 m s^-1",
+      "steps": [
+        "The stones have equal mass and the second stone is initially at rest. The momentum perpendicular to the original direction is zero before, so it is zero after.",
+        "Perpendicular components: 0.87 sin50 = v sin30.",
+        "v = 0.87 x 0.766 / 0.500 = 1.33 m s^-1 = 1.3 m s^-1.",
+        "Check along the original direction: 0.87 cos50 + 1.33 cos30 = 0.56 + 1.15 = 1.71, which agrees with the initial 1.70 m s^-1."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-19.jpg",
         "papers/physics/img/21-5A-Further-Momentum-20.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q20.jpg",
+        "papers/physics/fig/21-5A-Further-Momentum-Q20-2.jpg"
       ]
     },
     {
@@ -860,12 +973,20 @@
         "19.1 kg"
       ],
       "question": "Deduce whether the curling stone collision was elastic, including a calculation.",
-      "status": "pending",
-      "answer": "Requires the post-collision directions and speeds shown in the missing diagram. Initial KE = 0.5 x 19.1 x 1.70^2 = 27.6 J.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Not elastic: kinetic energy falls from 27.6 J to 24.2 J.",
+      "steps": [
+        "Initial KE = 1/2 x 19.1 x 1.70^2 = 27.6 J.",
+        "Final KE = 1/2 x 19.1 x (0.87^2 + 1.33^2) = 9.55 x (0.757 + 1.77) = 24.2 J.",
+        "KE after is less than KE before (about 12% less), so the collision is inelastic, not elastic."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-19.jpg",
         "papers/physics/img/21-5A-Further-Momentum-20.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q20.jpg",
+        "papers/physics/fig/21-5A-Further-Momentum-Q20-2.jpg"
       ]
     },
     {
@@ -909,12 +1030,19 @@
         "collision time"
       ],
       "question": "A ball of speed u hits a wall at right angles and bounces back at speed v in the opposite direction in collision time t. Which expression gives the average force on the wall?",
-      "status": "pending",
-      "answer": "The answer options are missing from the text and the ball's mass is not defined in the text. Working gives F = m (u + v) / t.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: m (u + v) / t",
+      "steps": [
+        "Take the initial direction as positive: initial momentum = m u, final momentum = -m v.",
+        "Change in momentum of the ball = -m v - m u = -m (u + v), so its magnitude is m (u + v).",
+        "Average force = change in momentum / time = m (u + v) / t (on the wall, equal and opposite to the force on the ball)."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-20.jpg",
         "papers/physics/img/21-5A-Further-Momentum-21.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q22.jpg"
       ]
     },
     {
@@ -931,14 +1059,21 @@
         "second particle"
       ],
       "question": "A non-relativistic particle of mass m has momentum p and kinetic energy Ek. A second non-relativistic particle has momentum 2p. Which expression gives its kinetic energy?",
-      "status": "pending",
-      "answer": "The mass of the second particle is missing from the text and the answer options are missing. Working gives Ek = (2p)^2 / (2 x mass).",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 8 Ek",
+      "steps": [
+        "Ek = p^2 / 2m for a non-relativistic particle.",
+        "Second particle: mass m/2 and momentum 2p, so Ek2 = (2p)^2 / (2 x m/2) = 4 p^2 / m.",
+        "Compare with Ek = p^2 / 2m: Ek2 = 8 x p^2 / 2m = 8 Ek."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-21.jpg",
         "papers/physics/img/21-5A-Further-Momentum-22.jpg",
         "papers/physics/img/21-5A-Further-Momentum-23.jpg",
         "papers/physics/img/21-5A-Further-Momentum-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q23.jpg"
       ]
     },
     {
@@ -1042,14 +1177,23 @@
         "magnitude and direction"
       ],
       "question": "Using the directions of the three particles at the decay, determine the magnitude and direction of the neutron's momentum, given the + particle momentum 3.67 x 10^-19 kg m s^-1 and pion momentum 1.07 x 10^-19 kg m s^-1.",
-      "status": "pending",
-      "answer": "The diagram of particle directions and angles is missing from the text, so the vector triangle cannot be constructed.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Magnitude of neutron momentum = 3.4 x 10^-19 kg m s^-1; direction 17 degrees to the original direction of the Sigma-plus (on the opposite side to the pion).",
+      "steps": [
+        "Momentum is conserved in both directions. Take the original direction of the Sigma-plus as the vertical axis.",
+        "Perpendicular to the original direction (horizontal): p_n sin(theta) = p_pion sin65 = 1.07 x 10^-19 x 0.906 = 9.7 x 10^-20 kg m s^-1.",
+        "Along the original direction (vertical): p_n cos(theta) = 3.67 x 10^-19 - 1.07 x 10^-19 x cos65 = 3.67 x 10^-19 - 4.5 x 10^-20 = 3.22 x 10^-19 kg m s^-1.",
+        "p_n = sqrt[(9.7 x 10^-20)^2 + (3.22 x 10^-19)^2] = 3.4 x 10^-19 kg m s^-1.",
+        "tan(theta) = 9.7 x 10^-20 / 3.22 x 10^-19 = 0.30, so theta = 17 degrees to the original direction, on the opposite side from the pion."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-21.jpg",
         "papers/physics/img/21-5A-Further-Momentum-22.jpg",
         "papers/physics/img/21-5A-Further-Momentum-23.jpg",
         "papers/physics/img/21-5A-Further-Momentum-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q24-2.jpg"
       ]
     },
     {
@@ -1066,14 +1210,22 @@
         "charged particle"
       ],
       "question": "Add to the bubble chamber diagram all tracks visible after the decay at X, and label the diagram.",
-      "status": "pending",
-      "answer": "Requires a drawn, labelled diagram of the tracks, which cannot be given in one line. Neutral neutron leaves no track; the charged pion leaves a curved track.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Add one curved track from X for the positively charged pion, with a smaller radius than the sigma track; no track for the neutral neutron.",
+      "steps": [
+        "The pion (pi-plus) is charged, so it ionises the liquid and leaves a visible track starting at X, in the direction of its momentum (65 degrees from the sigma direction, on the opposite side to the neutron).",
+        "It has the same charge sign as the sigma, so it curves in the same sense in the magnetic field.",
+        "Its momentum is smaller (1.07 x 10^-19 compared with 3.67 x 10^-19 kg m s^-1), so r = p / (B q) is about 0.58 m, much smaller than 1.99 m: the track is more tightly curved.",
+        "The neutron is neutral and does not ionise, so no track is drawn for it (it may be labelled \"neutron: no track\"). Label the incoming track Sigma-plus and the new track pi-plus."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-21.jpg",
         "papers/physics/img/21-5A-Further-Momentum-22.jpg",
         "papers/physics/img/21-5A-Further-Momentum-23.jpg",
         "papers/physics/img/21-5A-Further-Momentum-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q24.jpg"
       ]
     },
     {
@@ -1118,13 +1270,23 @@
         "air table"
       ],
       "question": "Two identical pucks A and B collide with one puck initially stationary, and their paths after collision are at 90 degrees. Deduce using conservation of momentum whether the angle is 90 degrees.",
-      "status": "pending",
-      "answer": "The diagram of the collision and the recorded speed data are missing from the text, so the test cannot be carried out.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Yes: a + b = 33 + 58 = 91 degrees, which is about 90 degrees.",
+      "steps": [
+        "Puck B is initially stationary and the pucks have equal mass; B must gain momentum equal to the missing momentum of A.",
+        "Perpendicular to the original direction: p_B sin(b) = p_A sin33 = 0.039 x 0.545 = 0.0212 kg m s^-1.",
+        "Along the original direction: p_B cos(b) = 0.046 - 0.039 cos33 = 0.046 - 0.0327 = 0.0133 kg m s^-1.",
+        "tan(b) = 0.0212 / 0.0133 = 1.60, so b = 58 degrees.",
+        "The angle between the paths is a + b = 33 + 58 = 91 degrees, which is 90 degrees within the precision of the data."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-24.jpg",
         "papers/physics/img/21-5A-Further-Momentum-25.jpg",
         "papers/physics/img/21-5A-Further-Momentum-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q25.jpg",
+        "papers/physics/fig/21-5A-Further-Momentum-Q25-2.jpg"
       ]
     },
     {
@@ -1141,13 +1303,22 @@
         "recorded data"
       ],
       "question": "Deduce whether the collision between the identical pucks (mass 0.110 kg each) was elastic, using the recorded data.",
-      "status": "pending",
-      "answer": "The recorded speed data for the collision are missing from the text, so kinetic energy before and after cannot be compared.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Elastic: KE after = 9.8 x 10^-3 J, equal to KE before = 9.6 x 10^-3 J within about 2%.",
+      "steps": [
+        "Use Ek = p^2 / 2m with m = 0.110 kg.",
+        "Before: 0.046^2 / (2 x 0.110) = 9.6 x 10^-3 J.",
+        "After: puck A = 0.039^2 / 0.220 = 6.9 x 10^-3 J. Puck B momentum = sqrt(0.0133^2 + 0.0212^2) = 0.0251 kg m s^-1, so KE = 0.0251^2 / 0.220 = 2.9 x 10^-3 J. Total = 9.8 x 10^-3 J.",
+        "The totals agree within the rounding of the data (about 2%), so the collision was elastic."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-24.jpg",
         "papers/physics/img/21-5A-Further-Momentum-25.jpg",
         "papers/physics/img/21-5A-Further-Momentum-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q25.jpg",
+        "papers/physics/fig/21-5A-Further-Momentum-Q25-2.jpg"
       ]
     },
     {
@@ -1276,12 +1447,20 @@
         "momentum change"
       ],
       "question": "A helium atom of mass m and velocity v collides at right angles with a surface and rebounds with the same speed in the opposite direction in time t. Which is the mean force on the atom?",
-      "status": "pending",
-      "answer": "The answer options are missing from the text. Working gives F = 2 m v / t (on the atom, directed away from the surface).",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: -2 m v / delta t",
+      "steps": [
+        "Take the initial direction of motion (towards the surface, as shown by the arrow) as positive. Initial momentum = m v, final momentum = -m v.",
+        "Change in momentum of the atom = -m v - m v = -2 m v.",
+        "Mean force on the atom = change in momentum / delta t = -2 m v / delta t (negative: directed away from the surface)."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-28.jpg",
         "papers/physics/img/21-5A-Further-Momentum-29.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q27.jpg",
+        "papers/physics/fig/21-5A-Further-Momentum-Q27-2.jpg"
       ]
     },
     {
@@ -1436,12 +1615,19 @@
         "options"
       ],
       "question": "An electron has kinetic energy 3.5 x 10^-28 J. Which gives its momentum in kg m s^-1?",
-      "status": "pending",
-      "answer": "The answer options are missing from the text. Working gives p = sqrt(2 m Ek) = 2.5 x 10^-29 kg m s^-1.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: sqrt(2 x 9.11 x 10^-31 x 3.5 x 10^-28)",
+      "steps": [
+        "For a non-relativistic particle Ek = p^2 / 2m, so p = sqrt(2 m Ek).",
+        "With m = 9.11 x 10^-31 kg and Ek = 3.5 x 10^-28 J: p = sqrt(2 x 9.11 x 10^-31 x 3.5 x 10^-28), option D.",
+        "The value is about 2.5 x 10^-29 kg m s^-1."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-32.jpg",
         "papers/physics/img/21-5A-Further-Momentum-33.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q31.jpg"
       ]
     },
     {
@@ -1458,12 +1644,18 @@
         "joined together"
       ],
       "question": "A moving trolley collides with a stationary trolley and they move off together, with negligible friction and an inelastic collision. Which row of the table shows the change in total momentum and total kinetic energy?",
-      "status": "pending",
-      "answer": "The table of rows is missing from the text. Expected: total momentum is conserved and total kinetic energy decreases.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: total momentum conserved; total kinetic energy not conserved (decreases)",
+      "steps": [
+        "Frictional forces are negligible, so no resultant external force acts and the total momentum is conserved.",
+        "The collision is inelastic and the trolleys stick together, so some kinetic energy is transferred to other forms (heat, sound), and the total kinetic energy decreases. This is row B."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-32.jpg",
         "papers/physics/img/21-5A-Further-Momentum-33.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q32.jpg"
       ]
     },
     {
@@ -1535,12 +1727,19 @@
         "neutrons"
       ],
       "question": "In nuclear fission a nucleus splits into nucleus S, nucleus T and neutrons. S and T have the same kinetic energy and T has twice the mass of S. Which is the ratio shown in the missing expression?",
-      "status": "pending",
-      "answer": "The answer options and the ratio expression are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: square root of 2",
+      "steps": [
+        "For a non-relativistic particle Ek = p^2 / 2m, so p = sqrt(2 m Ek).",
+        "S and T have the same Ek, so p is proportional to sqrt(m).",
+        "p_T / p_S = sqrt(m_T / m_S) = sqrt(2)."
+      ],
       "images": [
         "papers/physics/img/21-5A-Further-Momentum-34.jpg",
         "papers/physics/img/21-5A-Further-Momentum-35.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/21-5A-Further-Momentum-Q34.jpg"
       ]
     },
     {

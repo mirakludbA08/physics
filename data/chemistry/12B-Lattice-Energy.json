@@ -21,11 +21,11 @@
       "status": "ready",
       "answer": "Levels from the bottom up: Ca(s) + Cl2(g); Ca(g) + Cl2(g); Ca(g) + 2Cl(g); Ca+(g) + e- + 2Cl(g); Ca2+(g) + 2e- + 2Cl(g); then (right side) Ca2+(g) + 2Cl-(g)",
       "steps": [
-        "DH2 (atomisation of Ca): the line above Ca(s) + Cl2(g) is Ca(g) + Cl2(g).",
-        "DH3 (atomisation of chlorine, 2 x +121.7): the next line is Ca(g) + 2Cl(g).",
-        "DH4 (first ionisation energy of Ca): the next line is Ca+(g) + e- + 2Cl(g).",
-        "DH5 (second ionisation energy of Ca): the top line is Ca2+(g) + 2e- + 2Cl(g).",
-        "DH6 is 2 x the electron affinity of Cl (down to Ca2+(g) + 2Cl-(g)); DH7 is the lattice energy; DH1 is the enthalpy change of formation."
+        "deltaH2 (atomisation of Ca): the line above Ca(s) + Cl2(g) is Ca(g) + Cl2(g).",
+        "deltaH3 (atomisation of chlorine, 2 x +121.7): the next line is Ca(g) + 2Cl(g).",
+        "deltaH4 (first ionisation energy of Ca): the next line is Ca+(g) + e- + 2Cl(g).",
+        "deltaH5 (second ionisation energy of Ca): the top line is Ca2+(g) + 2e- + 2Cl(g).",
+        "deltaH6 is 2 x the electron affinity of Cl (down to Ca2+(g) + 2Cl-(g)); deltaH7 is the lattice energy; deltaH1 is the enthalpy change of formation."
       ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-01.jpg",
@@ -53,7 +53,7 @@
       "status": "ready",
       "answer": "second ionisation energy of calcium = +1148 kJ mol-1",
       "steps": [
-        "Hess's law: DH1 = DH2 + DH3 + DH4 + DH5 + DH6 + DH7.",
+        "Hess's law: deltaH1 = deltaH2 + deltaH3 + deltaH4 + deltaH5 + deltaH6 + deltaH7.",
         "-795.8 = (+178.2) + 2(+121.7) + (+590.0) + IE2 + 2(-348.8) + (-2258).",
         "The known terms add to 178.2 + 243.4 + 590.0 - 697.6 - 2258 = -1944.0, so IE2 = -795.8 + 1944.0 = +1148.2 kJ mol-1 (about +1148 kJ mol-1, positive because it is endothermic)."
       ],
@@ -143,7 +143,7 @@
       "status": "ready",
       "answer": "enthalpy change of solution of CaCl2 = -120 kJ mol-1",
       "steps": [
-        "DsolH = -(lattice energy) + DhydH(Ca2+) + 2 x DhydH(Cl-).",
+        "deltaH(sol) = -(lattice energy) + deltaH(hyd, Ca2+) + 2 x deltaH(hyd, Cl-).",
         "= +2258 + (-1650) + 2(-364).",
         "= 2258 - 1650 - 728 = -120 kJ mol-1 (exothermic)."
       ],
@@ -174,7 +174,7 @@
       "answer": "A: the sum of the enthalpy changes of hydration of the gaseous ions",
       "steps": [
         "X is the arrow from Li+(g) + Cl-(g) to Li+(aq) + Cl-(aq): the gaseous ions are dissolved in water.",
-        "This is DhydH(Li+) + DhydH(Cl-); the other arrows are the lattice energy (gaseous ions to LiCl(s)) and the enthalpy change of solution (LiCl(s) to aqueous ions)."
+        "This is deltaH(hyd, Li+) + deltaH(hyd, Cl-); the other arrows are the lattice energy (gaseous ions to LiCl(s)) and the enthalpy change of solution (LiCl(s) to aqueous ions)."
       ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-03.jpg",
@@ -510,9 +510,9 @@
       "status": "ready",
       "answer": "B: -1650 kJ mol-1",
       "steps": [
-        "DsolH = -(lattice energy) + DhydH(Ca2+) + 2 x DhydH(Cl-).",
-        "-120 = +2258 + DhydH(Ca2+) + 2(-364).",
-        "DhydH(Ca2+) = -120 - 2258 + 728 = -1650 kJ mol-1."
+        "deltaH(sol) = -(lattice energy) + deltaH(hyd, Ca2+) + 2 x deltaH(hyd, Cl-).",
+        "-120 = +2258 + deltaH(hyd, Ca2+) + 2(-364).",
+        "deltaH(hyd, Ca2+) = -120 - 2258 + 728 = -1650 kJ mol-1."
       ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-09.jpg",
@@ -598,7 +598,7 @@
       "status": "ready",
       "answer": "+492.7 kJ mol-1",
       "steps": [
-        "DrH = sum of DfH(products) - sum of DfH(reactants).",
+        "deltaH(r) = sum of deltaH(f, products) - sum of deltaH(f, reactants).",
         "= [2(0) + 3(-110.5)] - [(-824.2) + 3(0)].",
         "= -331.5 + 824.2 = +492.7 kJ mol-1."
       ],
@@ -627,9 +627,9 @@
       ],
       "question": "Calculate the entropy change of the system for the reduction of iron(III) oxide by carbon using the given data.",
       "status": "ready",
-      "answer": "DS(system) = +542.9 J K-1 mol-1",
+      "answer": "deltaS(system) = +542.9 J K-1 mol-1",
       "steps": [
-        "DS(system) = sum of S(products) - sum of S(reactants).",
+        "deltaS(system) = sum of S(products) - sum of S(reactants).",
         "= [2(27.3) + 3(197.6)] - [87.4 + 3(5.7)].",
         "= (54.6 + 592.8) - (87.4 + 17.1) = 647.4 - 104.5 = +542.9 J K-1 mol-1."
       ],
@@ -661,8 +661,8 @@
       "status": "ready",
       "answer": "T = about 908 K (about 635 C)",
       "steps": [
-        "The reaction becomes feasible when DS(total) = DS(system) - DH/T is no longer negative (limit: DS(total) = 0).",
-        "So T = DH / DS(system) = 492 700 J mol-1 / 542.9 J K-1 mol-1 (convert kJ to J).",
+        "The reaction becomes feasible when deltaS(total) = deltaS(system) - deltaH/T is no longer negative (limit: deltaS(total) = 0).",
+        "So T = deltaH / deltaS(system) = 492 700 J mol-1 / 542.9 J K-1 mol-1 (convert kJ to J).",
         "T = 908 K (907.5 K, or about 635 C)."
       ],
       "images": [
@@ -871,7 +871,7 @@
       "status": "ready",
       "answer": "D: +107 kJ mol-1",
       "steps": [
-        "Formation of SrI2: -561 = (+164) + DatH(I2 -> 2I) + (+1614) + (-590) + (-1963).",
+        "Formation of SrI2: -561 = (+164) + deltaH(at, I2 -> 2I) + (+1614) + (-590) + (-1963).",
         "The known terms add to -775, so I2(s) -> 2I(g) = -561 + 775 = +214 kJ mol-1.",
         "Atomisation of iodine is defined per mole of atoms, 1/2 I2(s) -> I(g), so it is 214 / 2 = +107 kJ mol-1."
       ],
@@ -953,9 +953,9 @@
       ],
       "question": "Calculate the enthalpy change of formation of calcium chloride from the Born-Haber cycle. The values are in the diagram, not in the extracted text.",
       "status": "ready",
-      "answer": "DfH(CaCl2) = -799 kJ mol-1",
+      "answer": "deltaH(f, CaCl2) = -799 kJ mol-1",
       "steps": [
-        "DfH = sum of all steps in the cycle: atomisation Ca + IE1 + IE2 + 2 x atomisation Cl + 2 x EA + lattice energy.",
+        "deltaH(f) = sum of all steps in the cycle: atomisation Ca + IE1 + IE2 + 2 x atomisation Cl + 2 x EA + lattice energy.",
         "= (+178) + (+590) + (+1145) + 2(+122) + 2(-349) + (-2258).",
         "= 178 + 590 + 1145 + 244 - 698 - 2258 = -799 kJ mol-1."
       ],
@@ -1020,8 +1020,8 @@
       "steps": [
         "Write Ca2+(g) + 2Cl-(g) in the empty box under the cycle.",
         "Draw the arrow from this box to CaCl2(s), labelled lattice energy (LE = -2258 kJ mol-1).",
-        "Draw the arrow from the box to Ca2+(aq) + 2Cl-(aq), labelled DhydH(Ca2+) + 2 DhydH(Cl-) (sum of the hydration enthalpies).",
-        "The existing arrow CaCl2(s) -> Ca2+(aq) + 2Cl-(aq) is DsolH."
+        "Draw the arrow from the box to Ca2+(aq) + 2Cl-(aq), labelled deltaH(hyd, Ca2+) + 2 deltaH(hyd, Cl-) (sum of the hydration enthalpies).",
+        "The existing arrow CaCl2(s) -> Ca2+(aq) + 2Cl-(aq) is deltaH(sol)."
       ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-15.jpg",
@@ -1047,9 +1047,9 @@
       ],
       "question": "Calculate the enthalpy change of solution of calcium chloride using the completed energy cycle in (d)(i).",
       "status": "ready",
-      "answer": "DsolH(CaCl2) = -77 kJ mol-1",
+      "answer": "deltaH(sol, CaCl2) = -77 kJ mol-1",
       "steps": [
-        "From the cycle: DsolH = -LE + DhydH(Ca2+) + 2 DhydH(Cl-).",
+        "From the cycle: deltaH(sol) = -LE + deltaH(hyd, Ca2+) + 2 deltaH(hyd, Cl-).",
         "= +2258 + (-1579) + 2(-378).",
         "= 2258 - 1579 - 756 = -77 kJ mol-1."
       ],
@@ -1133,7 +1133,7 @@
       ],
       "question": "Which expression gives the enthalpy change of formation of sodium oxide? Options: A v + w + x - y - z, B v + w + x + y - z, C v + w + x - y + z, D v + w + x + y + z.",
       "status": "ready",
-      "answer": "D: DfH = v + w + x + y + z",
+      "answer": "D: deltaH(f) = v + w + x + y + z",
       "steps": [
         "u is the enthalpy change of formation of Na2O, and the longer route round the cycle is v + w + x + y + z.",
         "By Hess's law, u = v + w + x + y + z, with each value used with its own sign."
@@ -1191,9 +1191,9 @@
       ],
       "question": "Use the data given to calculate a value for quantity Z in the Born-Haber cycle for barium oxide, including sign and units. The data are not in the extracted text.",
       "status": "ready",
-      "answer": "DZ = DfH(BaO) = -499.9 kJ mol-1",
+      "answer": "deltaZ = deltaH(f, BaO) = -499.9 kJ mol-1",
       "steps": [
-        "Z is the enthalpy change of formation: DZ = atomisation Ba + atomisation O + IE1 + IE2 + DW + EA2 + LE.",
+        "Z is the enthalpy change of formation: deltaZ = atomisation Ba + atomisation O + IE1 + IE2 + deltaW + EA2 + LE.",
         "= 180.0 + 249.2 + 503.0 + 965.0 + (-141.1) + 798.0 + (-3054.0).",
         "= -499.9 kJ mol-1 (about -500 kJ mol-1, exothermic)."
       ],
@@ -1256,10 +1256,10 @@
       ],
       "question": "Using a fully labelled Hess cycle and the hydration enthalpy of OH- (-460 kJ mol-1), calculate the enthalpy change of solution of Ba(OH)2. The table data are not in the extracted text.",
       "status": "ready",
-      "answer": "DsolH(Ba(OH)2) = -50 kJ mol-1",
+      "answer": "deltaH(sol, Ba(OH)2) = -50 kJ mol-1",
       "steps": [
-        "Hess cycle: Ba(OH)2(s) -> Ba2+(g) + 2OH-(g) (-LE, +2230 kJ mol-1), then Ba2+(g) + 2OH-(g) -> Ba2+(aq) + 2OH-(aq) (sum of the hydration enthalpies); the direct route is DsolH.",
-        "DsolH = -LE + DhydH(Ba2+) + 2 DhydH(OH-).",
+        "Hess cycle: Ba(OH)2(s) -> Ba2+(g) + 2OH-(g) (-LE, +2230 kJ mol-1), then Ba2+(g) + 2OH-(g) -> Ba2+(aq) + 2OH-(aq) (sum of the hydration enthalpies); the direct route is deltaH(sol).",
+        "deltaH(sol) = -LE + deltaH(hyd, Ba2+) + 2 deltaH(hyd, OH-).",
         "= +2230 + (-1360) + 2(-460).",
         "= 2230 - 1360 - 920 = -50 kJ mol-1."
       ],
@@ -1323,7 +1323,7 @@
       "answer": "C: the enthalpy change of hydration of a lead(II) ion is more exothermic than that of a nitrate ion",
       "steps": [
         "Pb2+ hydration is -1485 kJ mol-1, whereas each nitrate ion has only about -314 kJ mol-1 (see part (b)), so C is true.",
-        "A is false: -2151 kJ mol-1 is the lattice energy, not the enthalpy change of formation; B is false: DsolH = +38 is endothermic; D is false: an endothermic dissolving process gives a negative entropy change of the surroundings (DS = -DH/T)."
+        "A is false: -2151 kJ mol-1 is the lattice energy, not the enthalpy change of formation; B is false: deltaH(sol) = +38 is endothermic; D is false: an endothermic dissolving process gives a negative entropy change of the surroundings (deltaS = -deltaH/T)."
       ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-22.jpg",
@@ -1350,9 +1350,9 @@
       "status": "ready",
       "answer": "D: -314 kJ mol-1",
       "steps": [
-        "DsolH = -LE + DhydH(Pb2+) + 2 DhydH(NO3-).",
+        "deltaH(sol) = -LE + deltaH(hyd, Pb2+) + 2 deltaH(hyd, NO3-).",
         "+38 = +2151 + (-1485) + 2x, so 2x = 38 - 2151 + 1485 = -628.",
-        "DhydH(NO3-) = -628 / 2 = -314 kJ mol-1."
+        "deltaH(hyd, NO3-) = -628 / 2 = -314 kJ mol-1."
       ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-22.jpg",
@@ -1377,9 +1377,9 @@
       ],
       "question": "Calculate the standard entropy change of the system for BaCO3(s) -> BaO(s) + CO2(g). The standard entropy data are not in the extracted text.",
       "status": "ready",
-      "answer": "DS(system) = +171.9 J K-1 mol-1",
+      "answer": "deltaS(system) = +171.9 J K-1 mol-1",
       "steps": [
-        "DS(system) = S(BaO) + S(CO2) - S(BaCO3).",
+        "deltaS(system) = S(BaO) + S(CO2) - S(BaCO3).",
         "= 70.4 + 213.6 - 112.1.",
         "= +171.9 J K-1 mol-1."
       ],
@@ -1408,11 +1408,11 @@
       ],
       "question": "The lowest temperature at which barium carbonate decomposes is 712 C. Using this and your answer to (a)(i), calculate the standard enthalpy change of the reaction, with an appropriate number of significant figures.",
       "status": "ready",
-      "answer": "DH = +169 kJ mol-1",
+      "answer": "deltaH = +169 kJ mol-1",
       "steps": [
-        "At the lowest temperature of decomposition DS(total) = 0, so DS(system) = DH/T and DH = T x DS(system).",
-        "T = 712 + 273 = 985 K, so DH = 985 x 171.9 = 169 300 J mol-1.",
-        "Convert and round to 3 s.f. (the temperature is given to 3 s.f.): DH = +169 kJ mol-1."
+        "At the lowest temperature of decomposition deltaS(total) = 0, so deltaS(system) = deltaH/T and deltaH = T x deltaS(system).",
+        "T = 712 + 273 = 985 K, so deltaH = 985 x 171.9 = 169 300 J mol-1.",
+        "Convert and round to 3 s.f. (the temperature is given to 3 s.f.): deltaH = +169 kJ mol-1."
       ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
@@ -1498,11 +1498,11 @@
       ],
       "question": "Calculate the standard enthalpy change of hydration of chloride ions, using the Hess cycle in (c)(i) and your answer to (b). If (b) was not obtained, use -155 kJ mol-1.",
       "status": "ready",
-      "answer": "DhydH(Cl-) = about -367 kJ mol-1 (using DsolH = -127 kJ mol-1 from part (b))",
+      "answer": "deltaH(hyd, Cl-) = about -367 kJ mol-1 (using deltaH(sol) = -127 kJ mol-1 from part (b))",
       "steps": [
-        "Hess's law: DhydH(Mg2+) + 2 DhydH(Cl-) = lattice energy + DsolH.",
+        "Hess's law: deltaH(hyd, Mg2+) + 2 deltaH(hyd, Cl-) = lattice energy + deltaH(sol).",
         "-1920 + 2x = -2526 + (-127), so 2x = -2653 + 1920 = -733.",
-        "DhydH(Cl-) = -733 / 2 = -367 kJ mol-1 (-368 if -130 kJ mol-1 is used for DsolH; with the substitute value -155 it would be -381)."
+        "deltaH(hyd, Cl-) = -733 / 2 = -367 kJ mol-1 (-368 if -130 kJ mol-1 is used for deltaH(sol); with the substitute value -155 it would be -381)."
       ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
@@ -1738,9 +1738,9 @@
       ],
       "question": "Calculate the standard molar enthalpy change of solution of MgCl2 using the data shown and the lattice energy LE[MgCl2] from the table.",
       "status": "ready",
-      "answer": "DsolH(MgCl2) = -122 kJ mol-1",
+      "answer": "deltaH(sol, MgCl2) = -122 kJ mol-1",
       "steps": [
-        "DsolH = -LE + DhydH(Mg2+) + 2 DhydH(Cl-).",
+        "deltaH(sol) = -LE + deltaH(hyd, Mg2+) + 2 deltaH(hyd, Cl-).",
         "= +2526 + (-1920) + 2(-364).",
         "= 2526 - 1920 - 728 = -122 kJ mol-1."
       ],
@@ -1938,11 +1938,11 @@
       ],
       "question": "For the reaction at 25 C, the standard entropy change of the surroundings is given in a value not shown in the extracted text. Calculate the enthalpy change of the reaction, including sign and units.",
       "status": "ready",
-      "answer": "DH = +70.0 kJ mol-1",
+      "answer": "deltaH = +70.0 kJ mol-1",
       "steps": [
-        "DS(surroundings) = -DH / T, so DH = -T x DS(surroundings).",
-        "T = 25 + 273 = 298 K, DS(surroundings) = -234.9 J K-1 mol-1, so DH = -298 x (-234.9) = +70 000 J mol-1.",
-        "DH = +70.0 kJ mol-1 (endothermic, which is why the surroundings' entropy falls)."
+        "deltaS(surroundings) = -deltaH / T, so deltaH = -T x deltaS(surroundings).",
+        "T = 25 + 273 = 298 K, deltaS(surroundings) = -234.9 J K-1 mol-1, so deltaH = -298 x (-234.9) = +70 000 J mol-1.",
+        "deltaH = +70.0 kJ mol-1 (endothermic, which is why the surroundings' entropy falls)."
       ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-30.jpg",
@@ -1972,7 +1972,7 @@
         "Top level: Na+(g) + HCO3-(g). Bottom level: NaHCO3(s). Middle level: Na+(aq) + HCO3-(aq), 18.6 kJ above the solid.",
         "Draw an arrow down from the top level to the bottom level, labelled lattice energy (exothermic, the longest arrow).",
         "Draw an arrow down from the top level to the middle level, labelled sum of enthalpy changes of hydration (exothermic, a bit shorter than the lattice energy arrow).",
-        "Draw an arrow up from NaHCO3(s) to the middle level, labelled DsolH = +18.6 kJ mol-1 (endothermic, because |lattice energy| is larger than |sum of hydration enthalpies| by 18.6 kJ mol-1)."
+        "Draw an arrow up from NaHCO3(s) to the middle level, labelled deltaH(sol) = +18.6 kJ mol-1 (endothermic, because |lattice energy| is larger than |sum of hydration enthalpies| by 18.6 kJ mol-1)."
       ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-30.jpg",
@@ -2021,9 +2021,9 @@
       ],
       "question": "Using the data in the table, calculate the standard enthalpy change for CuSO4.5H2O(s) -> CuSO4(s) + 5H2O(l).",
       "status": "ready",
-      "answer": "DH = +79.2 kJ mol-1",
+      "answer": "deltaH = +79.2 kJ mol-1",
       "steps": [
-        "DH = sum of DfH(products) - sum of DfH(reactants).",
+        "deltaH = sum of deltaH(f, products) - sum of deltaH(f, reactants).",
         "= [-771.4 + 5(-285.8)] - (-2279.6).",
         "= -771.4 - 1429.0 + 2279.6 = +79.2 kJ mol-1."
       ],
@@ -2050,9 +2050,9 @@
       ],
       "question": "Using the data in the table, calculate the standard molar entropy change for CuSO4.5H2O(s) -> CuSO4(s) + 5H2O(l).",
       "status": "ready",
-      "answer": "DS(system) = +158.1 J K-1 mol-1",
+      "answer": "deltaS(system) = +158.1 J K-1 mol-1",
       "steps": [
-        "DS = sum of S(products) - sum of S(reactants).",
+        "deltaS = sum of S(products) - sum of S(reactants).",
         "= [109.0 + 5(69.9)] - 300.4.",
         "= 109.0 + 349.5 - 300.4 = +158.1 J K-1 mol-1."
       ],
@@ -2082,7 +2082,7 @@
       "status": "ready",
       "answer": "T = 501 K (about 228 C)",
       "steps": [
-        "The reaction starts to be feasible when DS(total) = DS(system) - DH/T = 0, so T = DH / DS(system).",
+        "The reaction starts to be feasible when deltaS(total) = deltaS(system) - deltaH/T = 0, so T = deltaH / deltaS(system).",
         "T = 79 200 J mol-1 / 158.1 J K-1 mol-1 (convert kJ to J).",
         "T = 501 K (500.9 K), about 228 C."
       ],
@@ -2167,7 +2167,7 @@
       "answer": "Top box: Cu2+(g) + 2Cl-(g); left box: CuCl2(s)",
       "steps": [
         "The lattice energy arrow goes from the gaseous ions to the solid, so the top box is Cu2+(g) + 2Cl-(g) and the left box is CuCl2(s).",
-        "The right-hand arrow from the top box to Cu2+(aq) + 2Cl-(aq) is the sum of the hydration enthalpies; the bottom arrow CuCl2(s) -> aqueous ions is DsolH."
+        "The right-hand arrow from the top box to Cu2+(aq) + 2Cl-(aq) is the sum of the hydration enthalpies; the bottom arrow CuCl2(s) -> aqueous ions is deltaH(sol)."
       ],
       "images": [
         "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
@@ -2219,9 +2219,9 @@
       ],
       "question": "The lattice energy of CuCl2 is -2811 kJ mol-1. Using this value, the data in the table and your expression in (c)(iii), calculate the enthalpy change of solution.",
       "status": "ready",
-      "answer": "DsolH(CuCl2) = -45 kJ mol-1",
+      "answer": "deltaH(sol, CuCl2) = -45 kJ mol-1",
       "steps": [
-        "DsolH = -LE + DhydH(Cu2+) + 2 DhydH(Cl-).",
+        "deltaH(sol) = -LE + deltaH(hyd, Cu2+) + 2 deltaH(hyd, Cl-).",
         "= +2811 + (-2100) + 2(-378).",
         "= 2811 - 2100 - 756 = -45 kJ mol-1."
       ],

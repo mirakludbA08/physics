@@ -3093,6 +3093,9 @@
         "papers/biology/img/05BC-Ecology-Climate-060.jpg",
         "papers/biology/img/05BC-Ecology-Climate-061.jpg",
         "papers/biology/img/05BC-Ecology-Climate-062.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q21.jpg"
       ]
     },
     {
@@ -3110,13 +3113,20 @@
         "options"
       ],
       "question": "What is the estimated change in the mean surface temperature of the Earth in 2030? Options A 1.3, B 1.1, C 0.8, D 0.2.",
-      "status": "pending",
-      "answer": "Missing: the graph of temperature change from 1970 to 2017 needed to extend the trend to 2030 is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 1.3 C (extending the upward trend of the graph to 2030).",
+      "steps": [
+        "The mean temperature change rises from about 0 C in 1975 to about 1.0 C in 2017, a rate of about 0.024 C per year, and the rate is not slowing.",
+        "Extending the trend line to 2030 adds about 13 x 0.024 = 0.3 C to the 2017 value of 1.0 C.",
+        "The estimated change in 2030 is therefore about 1.3 C, option A (the other options are below the 2017 value or extend the line too little)."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-060.jpg",
         "papers/biology/img/05BC-Ecology-Climate-061.jpg",
         "papers/biology/img/05BC-Ecology-Climate-062.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q21.jpg"
       ]
     },
     {
@@ -3134,13 +3144,20 @@
         "reflected"
       ],
       "question": "Which row of the table describes the passage of ultraviolet light and infrared radiation, reflected from the Earth's surface, through gases in the atmosphere?",
-      "status": "pending",
-      "answer": "Missing: the table rows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: ultraviolet light passes through and infrared radiation does not pass through.",
+      "steps": [
+        "Short-wavelength ultraviolet light from the Sun passes through the atmosphere to the Earth's surface.",
+        "Infrared radiation re-emitted from the Earth is absorbed by greenhouse gases such as carbon dioxide and methane, so it does not pass through, which causes the greenhouse effect.",
+        "Only row B shows this."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-060.jpg",
         "papers/biology/img/05BC-Ecology-Climate-061.jpg",
         "papers/biology/img/05BC-Ecology-Climate-062.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q21-2.jpg"
       ]
     },
     {
@@ -3227,6 +3244,9 @@
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-062.jpg",
         "papers/biology/img/05BC-Ecology-Climate-063.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q22.jpg"
       ]
     },
     {
@@ -3244,12 +3264,19 @@
         "1.5 degrees"
       ],
       "question": "Calculate the percentage increase in the population exposed to drought if the temperature increases by 2 C rather than 1.5 C. Assume the bars are drawn to scale.",
-      "status": "pending",
-      "answer": "Missing: the bar values for population exposed to drought are shown in the diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "33%",
+      "steps": [
+        "The bar for the population exposed to drought is about 48 mm (1.5 C) and about 64 mm (2 C) long on the page, measured from the axis.",
+        "Increase = 64 - 48 = 16.",
+        "Percentage increase = 16 / 48 x 100 = 33% (one third more)."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-062.jpg",
         "papers/biology/img/05BC-Ecology-Climate-063.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q22.jpg"
       ]
     },
     {
@@ -3297,13 +3324,20 @@
         "calculation"
       ],
       "question": "Calculate the rate of oxygen production at 1200 seconds for C. pyrenoidosa with PBF attached.",
-      "status": "pending",
-      "answer": "Missing: the oxygen production graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 0.07 nmol s^-1 (accept about 0.06 to 0.08).",
+      "steps": [
+        "Draw a tangent to the curve for C. pyrenoidosa with PBF attached at 1200 s, where about 148 nmol of oxygen has been produced.",
+        "Take two points on the tangent, e.g. about 121 nmol at 800 s and about 175 nmol at 1600 s.",
+        "Rate = gradient = (175 - 121) / (1600 - 800) = 54 / 800 = 0.0675, so about 0.07 nmol s^-1."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-063.jpg",
         "papers/biology/img/05BC-Ecology-Climate-064.jpg",
         "papers/biology/img/05BC-Ecology-Climate-065.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q23.jpg"
       ]
     },
     {
@@ -3321,13 +3355,21 @@
         "graph"
       ],
       "question": "Explain the effect PBF has on the production of oxygen by the algae.",
-      "status": "pending",
-      "answer": "Missing: the oxygen production graph is needed to confirm the direction and size of the effect.",
-      "steps": [],
+      "status": "ready",
+      "answer": "PBF increases oxygen production: with PBF about 178 nmol is made in 1800 s against about 66 nmol without it (about 2.7 times more), because PBF absorbs green light that chlorophyll absorbs poorly.",
+      "steps": [
+        "With PBF attached, the algae produce more oxygen at every time, reaching about 178 nmol at 1800 s compared with about 66 nmol without PBF, which stops rising after 1200 s.",
+        "PBF absorbs green light, which chlorophyll absorbs poorly, and passes this energy on, so more light energy is available for the light-dependent reactions.",
+        "More photolysis of water releases more oxygen, and more ATP and reduced NADP are made.",
+        "PBF alone produces almost no oxygen (about 4 nmol), so the extra oxygen is made by the algae and not by PBF itself."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-063.jpg",
         "papers/biology/img/05BC-Ecology-Climate-064.jpg",
         "papers/biology/img/05BC-Ecology-Climate-065.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q23.jpg"
       ]
     },
     {
@@ -3374,14 +3416,21 @@
         "million tonnes"
       ],
       "question": "In 2020 Thailand produced 4.37 million tonnes of rubber. Estimate the mass of rubber produced in Thailand in 2019, using the graph.",
-      "status": "pending",
-      "answer": "Missing: the graph of rubber mass for 2019 and 2020 is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 4.8 million tonnes (4.8 x 10^6 tonnes).",
+      "steps": [
+        "Measure the height of each bar from the axis: 2019 is about 285 mm and 2020 about 258 mm on the page (about 1.1 times taller).",
+        "2019 mass = 4.37 million x 285 / 258 = 4.84 million tonnes.",
+        "So the estimate is about 4.8 x 10^6 tonnes (accept about 4.7 to 5.0 million)."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-065.jpg",
         "papers/biology/img/05BC-Ecology-Climate-066.jpg",
         "papers/biology/img/05BC-Ecology-Climate-067.jpg",
         "papers/biology/img/05BC-Ecology-Climate-068.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q24.jpg"
       ]
     },
     {
@@ -3488,13 +3537,20 @@
         "calculation"
       ],
       "question": "Calculate how many years the plants producing type D pollen grains were present in this rainforest, using the scale diagram.",
-      "status": "pending",
-      "answer": "Missing: the scale diagram of the mud core showing pollen depths is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 750 years (accept about 700 to 800).",
+      "steps": [
+        "The whole core covers 2700 years and is about 366 mm long on the page (present day to 2700 years ago), so 1 mm = 2700 / 366 = 7.4 years.",
+        "The bracket for type D is about 101 mm long.",
+        "Time = 101 x 7.4 = about 750 years."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-068.jpg",
         "papers/biology/img/05BC-Ecology-Climate-069.jpg",
         "papers/biology/img/05BC-Ecology-Climate-070.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q25.jpg"
       ]
     },
     {
@@ -3512,13 +3568,21 @@
         "scale diagram"
       ],
       "question": "Explain the distribution of the three types of pollen grain in this mud column, using the diagram.",
-      "status": "pending",
-      "answer": "Missing: the scale diagram showing where the pollen types were found in the mud core is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The pollen types are in different but overlapping layers: F deepest (oldest), D in the middle and E highest (youngest), showing that the plants in the rainforest changed over about 2700 years.",
+      "steps": [
+        "Mud and pollen build up in layers with the oldest at the bottom, so deeper pollen is older; pollen is preserved in the waterlogged, oxygen-poor mud.",
+        "Type F is found lowest, about 2200 to 1200 years ago, so those plants were present first; type D is in the middle, about 1550 to 800 years ago; type E is highest, about 1250 to 600 years ago.",
+        "The overlaps show that plants with different pollen grew at the same time, but each type appears and later disappears, so the community changed (succession or a response to a changing climate or human activity).",
+        "There is no pollen of these types in the top layer (the last 600 years or so), so the plants that produced them are no longer present in significant numbers."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-068.jpg",
         "papers/biology/img/05BC-Ecology-Climate-069.jpg",
         "papers/biology/img/05BC-Ecology-Climate-070.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q25.jpg"
       ]
     },
     {
@@ -3536,14 +3600,21 @@
         "base"
       ],
       "question": "Which diagram shows a mononucleotide of DNA?",
-      "status": "pending",
-      "answer": "Missing: the answer options are diagrams that are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C",
+      "steps": [
+        "A mononucleotide has a pentose sugar with a base attached to carbon 1 and a phosphate attached to carbon 5 (through carbon 4).",
+        "In C the base and phosphate are both bonded to the sugar, on the two carbons that are either side of the ring oxygen (not adjacent).",
+        "A and B have the phosphate or base joined to the other one, not to the sugar, and in D the phosphate is on the carbon next to the base carbon, so only C is correct."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-070.jpg",
         "papers/biology/img/05BC-Ecology-Climate-071.jpg",
         "papers/biology/img/05BC-Ecology-Climate-072.jpg",
         "papers/biology/img/05BC-Ecology-Climate-073.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q26.jpg"
       ]
     },
     {
@@ -3620,14 +3691,20 @@
         "correlation"
       ],
       "question": "Describe the relationship between the percentage change in abundance of lizards and the length of young lizards, using the graph.",
-      "status": "pending",
-      "answer": "Missing: the graph of percentage change in abundance against length of young lizards is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A negative relationship: longer young lizards are linked with a larger decrease in abundance (about 51 mm at -65% to about 44.5 mm at +100%), and the curve levels off above about +60%.",
+      "steps": [
+        "As the percentage change in abundance increases from about -65% to +100%, the length of young lizards decreases from about 51 mm to about 44.5 mm (negative correlation).",
+        "The decrease is steepest at the left (from about 51 to 46 mm between -65% and 0%) and flattens at the right (about 44.5 mm from +60% to +100%)."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-070.jpg",
         "papers/biology/img/05BC-Ecology-Climate-071.jpg",
         "papers/biology/img/05BC-Ecology-Climate-072.jpg",
         "papers/biology/img/05BC-Ecology-Climate-073.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q26-2.jpg"
       ]
     },
     {
@@ -3759,13 +3836,22 @@
         "sources"
       ],
       "question": "Explain the relative contribution of each source of greenhouse gas emissions, using the pie chart and own knowledge.",
-      "status": "pending",
-      "answer": "Missing: the pie chart of relative contributions of greenhouse gas sources is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Energy supply (25.9%) is the largest source because of burning fossil fuels; industry (19.4%), forestry (17.4%), agriculture (13.5%), transport (13.1%), buildings (7.9%) and waste (2.8%) follow, each releasing CO2, methane or nitrous oxide in different ways.",
+      "steps": [
+        "Energy supply, the largest contributor (25.9%), comes from burning coal, oil and gas in power stations, which releases carbon dioxide; industry (19.4%) releases CO2 from fuel use, cement and chemical manufacture.",
+        "Forestry (17.4%) is high because deforestation removes trees that absorb CO2 by photosynthesis, and burning or decay of the wood releases CO2.",
+        "Agriculture (13.5%) releases methane from cattle and rice fields, and nitrous oxide from fertilisers and soils.",
+        "Transport (13.1%) releases CO2 from burning petrol, diesel and aviation fuel; buildings (7.9%) release CO2 from burning fuels for heating and cooking (electricity use is counted under energy supply).",
+        "Waste and wastewater (2.8%) is the smallest, from methane produced by anaerobic decay in landfill and sewage; the three main gases (CO2, CH4, N2O) absorb infrared radiation and add to the greenhouse effect."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-073.jpg",
         "papers/biology/img/05BC-Ecology-Climate-074.jpg",
         "papers/biology/img/05BC-Ecology-Climate-075.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q27.jpg"
       ]
     },
     {
@@ -3783,13 +3869,20 @@
         "phytoplankton"
       ],
       "question": "Calculate the total volume of one E. huxleyi, in mm3, using the dimensions shown in the diagram.",
-      "status": "pending",
-      "answer": "Missing: the dimensions in the diagram and the formula image are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "2.1 x 10^-4 mm^3",
+      "steps": [
+        "The cell is 50 um across and the plates are 12 um thick on each side, so the total diameter = 50 + 12 + 12 = 74 um.",
+        "Radius = 37 um = 0.037 mm.",
+        "V = 4/3 x pi x r^3 = 4/3 x 3.142 x 0.037^3 = 2.1 x 10^-4 mm^3 (212 000 um^3 = 2.1 x 10^5 um^3, and 1 um^3 = 10^-9 mm^3)."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-075.jpg",
         "papers/biology/img/05BC-Ecology-Climate-076.jpg",
         "papers/biology/img/05BC-Ecology-Climate-077.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q28.jpg"
       ]
     },
     {
@@ -3924,13 +4017,20 @@
         "pigment bands"
       ],
       "question": "Compare and contrast the types of chloroplast pigment found in the seaweeds with those found in the spinach, using the diagram of results.",
-      "status": "pending",
-      "answer": "Missing: the chromatogram of the pigment bands for the seaweeds and spinach is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "All three contain chlorophyll a, beta-carotene and a xanthophyll, but spinach also has chlorophyll b and three xanthophylls, which the seaweeds lack, and the brown seaweed has extra pigments P and Q.",
+      "steps": [
+        "Similarity: all three have a band for chlorophyll a at the same height and a faint band for beta-carotene near the solvent front.",
+        "Difference: spinach has a chlorophyll b band and three xanthophyll bands, whereas neither seaweed has chlorophyll b and the seaweeds show only one band at the xanthophyll level.",
+        "Difference: the brown seaweed has two further bands, pigment P (between chlorophyll a and the xanthophyll) and pigment Q (near the origin), which are not found in spinach or the red seaweed."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-077.jpg",
         "papers/biology/img/05BC-Ecology-Climate-078.jpg",
         "papers/biology/img/05BC-Ecology-Climate-079.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q29.jpg"
       ]
     },
     {
@@ -3960,6 +4060,9 @@
         "papers/biology/img/05BC-Ecology-Climate-077.jpg",
         "papers/biology/img/05BC-Ecology-Climate-078.jpg",
         "papers/biology/img/05BC-Ecology-Climate-079.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q29.jpg"
       ]
     },
     {
@@ -3977,13 +4080,21 @@
         "depth"
       ],
       "question": "Which row of the table shows the light that green seaweed can absorb?",
-      "status": "pending",
-      "answer": "Missing: the table rows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: green light cannot be absorbed, red light can be absorbed.",
+      "steps": [
+        "Green seaweed contains chlorophyll, which absorbs red and blue light strongly.",
+        "Chlorophyll reflects green light, so green light is not absorbed (it is why the seaweed looks green).",
+        "Only row C shows green light 'cannot absorb' and red light 'can absorb'."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-077.jpg",
         "papers/biology/img/05BC-Ecology-Climate-078.jpg",
         "papers/biology/img/05BC-Ecology-Climate-079.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q29-2.jpg",
+        "papers/biology/fig/05BC-Ecology-Climate-Q29-3.jpg"
       ]
     },
     {
@@ -4001,13 +4112,20 @@
         "water"
       ],
       "question": "Explain the positions of the brown and red seaweeds on the submerged rock, using the diagram of light penetration.",
-      "status": "pending",
-      "answer": "Missing: the diagram of seaweed positions and the depths of light penetration is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Red light only penetrates near the surface, and green and blue light reach deeper; brown seaweed grows deeper than green seaweed and red seaweed deepest, as their pigments can absorb the green and blue light that reaches those depths.",
+      "steps": [
+        "Red light is absorbed by the water near the surface, so green seaweed (chlorophyll absorbing red and blue light) grows in the shallowest zone.",
+        "Green and blue light penetrate deeper, so the brown seaweed in the middle zone has different pigments (such as pigment P and carotenoids) that absorb blue and green light.",
+        "The red seaweed is deepest because its pigments absorb the blue and green light that penetrates furthest, so it can still photosynthesise where little red light reaches."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-077.jpg",
         "papers/biology/img/05BC-Ecology-Climate-078.jpg",
         "papers/biology/img/05BC-Ecology-Climate-079.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q29-2.jpg"
       ]
     },
     {
@@ -4053,13 +4171,20 @@
         "shapes"
       ],
       "question": "Which row of the table represents sympatric speciation, where dark grey shapes are the original species and light grey shapes the new species?",
-      "status": "pending",
-      "answer": "Missing: the table rows are shown as shapes in a diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D",
+      "steps": [
+        "Sympatric speciation happens within the same area, with no geographical separation of the population.",
+        "In row D a new (light grey) species arises inside the original (dark grey) population, in the same area, and remains within it.",
+        "In A the population is split by a barrier and in B and C part of the population moves away, which are allopatric (geographical) types."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-080.jpg",
         "papers/biology/img/05BC-Ecology-Climate-081.jpg",
         "papers/biology/img/05BC-Ecology-Climate-082.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q30.jpg"
       ]
     },
     {
@@ -4176,6 +4301,9 @@
         "papers/biology/img/05BC-Ecology-Climate-080.jpg",
         "papers/biology/img/05BC-Ecology-Climate-081.jpg",
         "papers/biology/img/05BC-Ecology-Climate-082.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q30-2.jpg"
       ]
     },
     {
@@ -4192,13 +4320,19 @@
         "table"
       ],
       "question": "Which row of the table shows the products of the light-dependent reactions that are used in the light-independent reactions?",
-      "status": "pending",
-      "answer": "Missing: the table rows are not in the text (the expected products are ATP and reduced NADP).",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: ATP from non-cyclic photophosphorylation and reduced NADP.",
+      "steps": [
+        "The light-independent reactions use ATP and reduced NADP made in the light-dependent reactions.",
+        "Reduced NADP is made only in non-cyclic photophosphorylation (cyclic makes ATP only), so only row D is correct."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-082.jpg",
         "papers/biology/img/05BC-Ecology-Climate-083.jpg",
         "papers/biology/img/05BC-Ecology-Climate-084.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q31.jpg"
       ]
     },
     {
@@ -4245,13 +4379,21 @@
         "enzymes"
       ],
       "question": "Describe three conclusions about the differences in the effect of temperature on the rate of photosynthesis in C3 and C4 plants, using the graph.",
-      "status": "pending",
-      "answer": "Missing: the graph of photosynthesis rate against temperature for C3 and C4 plants is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C4 plants have a higher maximum rate (about 36 a.u. against about 24 a.u.) at a higher optimum (about 35 C against about 27 C), and fall more slowly at high temperature, whereas C3 plants are faster below about 20 C.",
+      "steps": [
+        "The maximum rate of photosynthesis in C4 plants is about 36 a.u., higher than in C3 plants (about 24 a.u.).",
+        "The optimum temperature is higher for C4 plants (about 35 C) than for C3 plants (about 27 C).",
+        "Below about 20 C (where the curves cross, at about 22 a.u.) C3 plants have the higher rate; above about 20 C the C4 plants are higher.",
+        "The rate falls more slowly at high temperature in C4 plants (about 27 a.u. at 45 C) than in C3 plants (about 8 a.u. at 45 C)."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-082.jpg",
         "papers/biology/img/05BC-Ecology-Climate-083.jpg",
         "papers/biology/img/05BC-Ecology-Climate-084.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q31-2.jpg"
       ]
     },
     {
@@ -4269,13 +4411,20 @@
         "whole number"
       ],
       "question": "Calculate the Q10 for the enzymes in C4 plants, using the formula and giving your answer as a whole number.",
-      "status": "pending",
-      "answer": "Missing: the rates for C4 plants read from the graph are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "4",
+      "steps": [
+        "For C4 plants, the rate at 10 C is about 6 a.u. (R_t).",
+        "The rate at 20 C is about 22 a.u. (R_t+10).",
+        "Q10 = 22 / 6 = 3.7 = 4 to the nearest whole number."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-082.jpg",
         "papers/biology/img/05BC-Ecology-Climate-083.jpg",
         "papers/biology/img/05BC-Ecology-Climate-084.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q31-2.jpg"
       ]
     },
     {
@@ -4305,6 +4454,9 @@
         "papers/biology/img/05BC-Ecology-Climate-084.jpg",
         "papers/biology/img/05BC-Ecology-Climate-085.jpg",
         "papers/biology/img/05BC-Ecology-Climate-086.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q32.jpg"
       ]
     },
     {
@@ -4334,6 +4486,9 @@
         "papers/biology/img/05BC-Ecology-Climate-084.jpg",
         "papers/biology/img/05BC-Ecology-Climate-085.jpg",
         "papers/biology/img/05BC-Ecology-Climate-086.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q32.jpg"
       ]
     },
     {
@@ -4363,6 +4518,9 @@
         "papers/biology/img/05BC-Ecology-Climate-084.jpg",
         "papers/biology/img/05BC-Ecology-Climate-085.jpg",
         "papers/biology/img/05BC-Ecology-Climate-086.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q32.jpg"
       ]
     },
     {
@@ -4380,13 +4538,20 @@
         "predation"
       ],
       "question": "Explain how the niche of the slender loris affects the distribution and abundance of Bengal tigers, using the food chain.",
-      "status": "pending",
-      "answer": "Missing: the food chain diagram showing how the slender loris and the Bengal tiger are related is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The slender loris is the food of tigers, so tigers are found only where lorises live (in the rainforest trees) and the number of tigers depends on how many lorises there are.",
+      "steps": [
+        "In the food chain the Bengal tiger (trophic level 3) feeds on the slender loris (level 2), so the loris is part of the tiger's niche (its food supply).",
+        "The loris lives in trees and feeds on young leaves, so the tiger's distribution is limited to the places in the rainforest where lorises and their food are found.",
+        "Only about 10% of energy passes from one trophic level to the next, so the loris population can support only a small number of tigers; if loris numbers fall, tiger abundance falls."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-084.jpg",
         "papers/biology/img/05BC-Ecology-Climate-085.jpg",
         "papers/biology/img/05BC-Ecology-Climate-086.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q32.jpg"
       ]
     },
     {
@@ -4433,14 +4598,21 @@
         "calculation"
       ],
       "question": "Calculate the mean drop in height of the glacier from 1980 to 2000, giving suitable units.",
-      "status": "pending",
-      "answer": "Missing: the glacier height data from the graph are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.3 m per year (m yr^-1)",
+      "steps": [
+        "The decrease in height from 1980 to 2000 is 6 m (from 0 to -6 m).",
+        "The time taken is 20 years.",
+        "Mean drop = 6 / 20 = 0.3 m per year."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-086.jpg",
         "papers/biology/img/05BC-Ecology-Climate-087.jpg",
         "papers/biology/img/05BC-Ecology-Climate-088.jpg",
         "papers/biology/img/05BC-Ecology-Climate-089.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q33-2.jpg"
       ]
     },
     {
@@ -4471,6 +4643,9 @@
         "papers/biology/img/05BC-Ecology-Climate-087.jpg",
         "papers/biology/img/05BC-Ecology-Climate-088.jpg",
         "papers/biology/img/05BC-Ecology-Climate-089.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q33-2.jpg"
       ]
     },
     {
@@ -4488,14 +4663,20 @@
         "zones"
       ],
       "question": "Which letter on the diagram indicates the location of pioneer species only? A P, B Q, C R, D S.",
-      "status": "pending",
-      "answer": "Missing: the diagram of the retreating glacier with lettered zones is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: P (the zone nearest the glacier, exposed most recently).",
+      "steps": [
+        "Succession starts with pioneer species on newly exposed ground, so they are found alone where the ground has been exposed for the shortest time.",
+        "Zone P is the one nearest the front of the glacier, so it is the youngest ground; Q, R and S are further away and older, where other plants as well as pioneers occur."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-086.jpg",
         "papers/biology/img/05BC-Ecology-Climate-087.jpg",
         "papers/biology/img/05BC-Ecology-Climate-088.jpg",
         "papers/biology/img/05BC-Ecology-Climate-089.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q33.jpg"
       ]
     },
     {
@@ -4543,14 +4724,24 @@
         "graphs"
       ],
       "question": "Explain the variations in soil conditions and the organisms found at different distances from the front edge of the glacier, using the table and graphs.",
-      "status": "pending",
-      "answer": "Missing: the soil carbon:nitrogen table and the probability and diversity graphs are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "This is primary succession: ground exposed longest is furthest from the glacier, where pioneers are replaced by small then large plants as soil builds up, so diversity peaks at about 2000 years and then falls, while the soil C : N ratio changes from 9.8 to a maximum of 11.6.",
+      "steps": [
+        "Pioneer species colonise bare ground first (probability about 0.8 at about 500 years) and add organic matter; they decline to almost zero by about 5000 years as they are outcompeted by plants better suited to the improved soil.",
+        "As organic matter accumulates and nitrogen is fixed, soil depth and fertility increase, so small plants peak (about 0.85 at about 2000 years) and large plants increase to about 0.87 by 5000 years.",
+        "Plant diversity rises quickly to a maximum of about 34 a.u. at about 1500 to 2000 years because more species can colonise the improved soil and there are many niches.",
+        "Diversity then falls to about 22 a.u. at 5000 years as large dominant plants shade and outcompete the others, giving a climax community.",
+        "The carbon : nitrogen ratio rises from 9.8 (under 200 years) to 11.6 (2000 years) as plant litter adds carbon faster than nitrogen is added, then falls to 10.7 and 10.3 as decomposition releases nitrogen and nitrogen-fixing organisms add more nitrogen."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-086.jpg",
         "papers/biology/img/05BC-Ecology-Climate-087.jpg",
         "papers/biology/img/05BC-Ecology-Climate-088.jpg",
         "papers/biology/img/05BC-Ecology-Climate-089.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q33-3.jpg",
+        "papers/biology/fig/05BC-Ecology-Climate-Q33-4.jpg"
       ]
     },
     {

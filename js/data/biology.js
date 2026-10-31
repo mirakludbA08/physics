@@ -35566,7 +35566,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-103.jpg",
       "papers/biology/img/04A-Plant-Structure-104.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q42a.jpg"
+     ]
     },
     {
      "id": "4A-Q42b(i)",
@@ -35584,16 +35586,22 @@ window.BANK.biology = {
       "absorption"
      ],
      "question": "Give two conclusions for the effect of EDTA and citric acid on the calcium ion content in the roots of two types of maize, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of mean calcium ion mass in roots of the two maize types is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both EDTA and citric acid reduce the calcium ion content of the roots in both types of maize; EDTA affects type A more, and citric acid affects type B more.",
+     "steps": [
+      "Conclusion 1: with no treatment both types contain about 6.3 mg calcium per gram of dry mass, and both EDTA and citric acid lower the calcium content of the roots in both types.",
+      "Conclusion 2: EDTA lowers type A much more than type B (about 6.3 to 4.3, a 32% fall, against about 6.3 to 5.7, a 9% fall).",
+      "Citric acid has the larger effect on type B (about 6.3 to 4.4, a 31% fall) than on type A (about 6.3 to 5.3, a 16% fall), so the two types respond differently to the chemicals."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-101.jpg",
       "papers/biology/img/04A-Plant-Structure-102.jpg",
       "papers/biology/img/04A-Plant-Structure-103.jpg",
       "papers/biology/img/04A-Plant-Structure-104.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q42b.jpg"
+     ]
     },
     {
      "id": "4A-Q42b(ii)",
@@ -35687,7 +35695,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-107.jpg",
       "papers/biology/img/04A-Plant-Structure-108.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q43b.jpg"
+     ]
     },
     {
      "id": "4A-Q43b(ii)",
@@ -35717,7 +35727,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-107.jpg",
       "papers/biology/img/04A-Plant-Structure-108.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q43b.jpg"
+     ]
     },
     {
      "id": "4A-Q43b(iii)",
@@ -35734,9 +35746,13 @@ window.BANK.biology = {
       "names"
      ],
      "question": "Which row gives the names of the molecules labelled X and Z in the diagram of translation?",
-     "status": "pending",
-     "answer": "Pending: the diagram labelling X and Z and the table of options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: X is a polypeptide and Z is an RNA strand (mRNA)",
+     "steps": [
+      "The diagram shows translation: a ribosome (large and small subunit) moves along an mRNA strand and makes a growing chain of amino acids.",
+      "Molecule X is the beaded chain growing out of the ribosome, which is a polypeptide (a chain of amino acids), not a polysaccharide.",
+      "Molecule Z is the strand passing between the two subunits that is being read by the ribosome, which is mRNA (an RNA strand), not DNA; so the row is polypeptide and RNA strand, B."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-104.jpg",
       "papers/biology/img/04A-Plant-Structure-105.jpg",
@@ -35744,7 +35760,10 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-107.jpg",
       "papers/biology/img/04A-Plant-Structure-108.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q43b.jpg",
+      "papers/biology/fig/04A-Plant-Structure-Q43b-2.jpg"
+     ]
     },
     {
      "id": "4A-Q43c(i)",
@@ -35793,9 +35812,15 @@ window.BANK.biology = {
       "mice"
      ],
      "question": "Explain how treatment with Peperomin E and the other drug affect the activity of the RASSF1 gene and the changes in tumour volume, using graph A and your own knowledge.",
-     "status": "pending",
-     "answer": "Pending: graph A of tumour volume over 21 days and the description of the second treatment are not fully in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Methylation switches off the tumour suppressor gene RASSF1; peperomin E demethylates it so RASSF1 is expressed again and tumour growth is slowed (more at 50 mg kg^-1), but the current drug (group D) is the most effective.",
+     "steps": [
+      "With no treatment (group A) the RASSF1 gene stays methylated, so it is silenced and its protein is not made; cells divide without control, and the relative tumour volume rises from 1 to about 4.9 and the mean tumour mass is about 455 mg at 21 days.",
+      "Peperomin E causes demethylation of the RASSF1 gene, so it can be transcribed and translated again; the RASSF1 protein slows cell division or causes cell death, so tumours grow more slowly.",
+      "At 25 mg kg^-1 (group B) the volume at 21 days is about 2.8 (43% less than A) and the mass about 285 mg (37% less); at 50 mg kg^-1 (group C) the volume is about 2.5 (49% less) and the mass about 200 mg (56% less), so a higher dose gives a greater effect (dose-dependent) though the extra effect is small.",
+      "The current drug (group D) is the most effective: the tumour volume rises only to about 1.8 by day 13 and then falls to about 1.55 (68% less than A), and the mass is about 170 mg (63% less than A); it may also reactivate genes or act in another way (the page does not describe its action).",
+      "All the treatments keep the tumour smaller than no treatment, but none removes it; peperomin E may have fewer side effects, and only 10 mice per group were used, so more tests are needed."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-104.jpg",
       "papers/biology/img/04A-Plant-Structure-105.jpg",
@@ -35803,7 +35828,10 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-107.jpg",
       "papers/biology/img/04A-Plant-Structure-108.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q43c.jpg",
+      "papers/biology/fig/04A-Plant-Structure-Q43c-2.jpg"
+     ]
     },
     {
      "id": "4A-Q44a(i)",
@@ -35820,16 +35848,22 @@ window.BANK.biology = {
       "percentage"
      ],
      "question": "Calculate the ratio of cellulose to lignin for a one-year-old bamboo plant, from the graph of mean percentages.",
-     "status": "pending",
-     "answer": "Pending: the graph of mean percentage cellulose and lignin by age is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "2.0 : 1 (about 55 : 28)",
+     "steps": [
+      "Read the bars for 1 year: cellulose is about 55% and lignin is about 28%.",
+      "Ratio cellulose : lignin = 55 / 28 = 1.96.",
+      "So the ratio is about 2.0 : 1 (1.96 : 1)."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-108.jpg",
       "papers/biology/img/04A-Plant-Structure-109.jpg",
       "papers/biology/img/04A-Plant-Structure-110.jpg",
       "papers/biology/img/04A-Plant-Structure-111.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q44a.jpg"
+     ]
     },
     {
      "id": "4A-Q44a(ii)",
@@ -35846,16 +35880,21 @@ window.BANK.biology = {
       "percentage"
      ],
      "question": "Give one conclusion about the effect of age on the mean percentage of cellulose and lignin in bamboo plants.",
-     "status": "pending",
-     "answer": "Pending: the graph of mean percentages by age is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "As the bamboo plant gets older, the percentage of cellulose decreases while the percentage of lignin increases.",
+     "steps": [
+      "Cellulose falls from about 55% at 1 year to about 45% at 5 years.",
+      "Lignin rises from about 28% at 1 year to about 40% at 5 years, so the ratio of cellulose to lignin falls with age."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-108.jpg",
       "papers/biology/img/04A-Plant-Structure-109.jpg",
       "papers/biology/img/04A-Plant-Structure-110.jpg",
       "papers/biology/img/04A-Plant-Structure-111.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q44a.jpg"
+     ]
     },
     {
      "id": "4A-Q44a(iii)",
@@ -35886,7 +35925,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-110.jpg",
       "papers/biology/img/04A-Plant-Structure-111.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q44a.jpg"
+     ]
     },
     {
      "id": "4A-Q44b",
@@ -35904,16 +35945,22 @@ window.BANK.biology = {
       "photograph"
      ],
      "question": "Which are the structures labelled X in the photograph of part of a bamboo cell wall? A amyloplasts, B chloroplasts, C plasmodesmata, D tonoplasts.",
-     "status": "pending",
-     "answer": "Pending: the photograph with structures X is not in the text, so the labels cannot be checked (plasmodesmata, option C, is the likely answer).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: plasmodesmata",
+     "steps": [
+      "X points to small round holes (pits or pores) in the plant cell wall.",
+      "Channels through the cell wall that link neighbouring plant cells are plasmodesmata, so C.",
+      "Amyloplasts and chloroplasts are organelles inside cells and tonoplasts are the vacuole membranes, so none of these appears as holes in a wall."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-108.jpg",
       "papers/biology/img/04A-Plant-Structure-109.jpg",
       "papers/biology/img/04A-Plant-Structure-110.jpg",
       "papers/biology/img/04A-Plant-Structure-111.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q44b.jpg"
+     ]
     },
     {
      "id": "4A-Q44c(i)",
@@ -35961,16 +36008,22 @@ window.BANK.biology = {
       "vascular bundle"
      ],
      "question": "Give one difference between the distribution of phloem and xylem in a leaf compared with their distribution in a transverse section of a stem.",
-     "status": "pending",
-     "answer": "Pending: the diagram of xylem and phloem in a leaf section is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "In the leaf the xylem is above (towards the upper surface) and the phloem below (towards the lower surface) in each vein; in the stem the xylem is inside and the phloem outside the bundle.",
+     "steps": [
+      "In a leaf vein the xylem is on the upper (adaxial) side and the phloem on the lower (abaxial) side of the vein, as the diagram shows.",
+      "In a stem vascular bundle the xylem is on the inner side (towards the centre) and the phloem on the outer side (towards the epidermis).",
+      "Also, the leaf bundles are spread along the flat blade in one row, whereas the stem bundles form a ring near the outside of the stem."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-108.jpg",
       "papers/biology/img/04A-Plant-Structure-109.jpg",
       "papers/biology/img/04A-Plant-Structure-110.jpg",
       "papers/biology/img/04A-Plant-Structure-111.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q44c.jpg"
+     ]
     },
     {
      "id": "4A-Q45a",
@@ -36020,16 +36073,23 @@ window.BANK.biology = {
       "comment"
      ],
      "question": "Comment on the results of the investigation of olive oil extract antimicrobial properties at low and high concentrations, using the graph of living bacteria over time.",
-     "status": "pending",
-     "answer": "Pending: the graph of mean living bacteria against incubation time is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The extract kills bacteria: the number of living bacteria falls with time, faster with the high concentration (none left after 5 hours) than the low concentration (none after 7 hours), whereas the control stays at about 7.6 x 10^6 per cm^3.",
+     "steps": [
+      "Control: the number of living bacteria stays at about 7.6 to 7.9 x 10^6 per cm^3 for 7 h, so the fall in the other tubes is due to the extract.",
+      "Low concentration: the number falls from 7.6 to 6.1 (0.5 h), 4.9 (1 h), 3.3 (3 h) and 1.9 (5 h), and none at 7 h.",
+      "High concentration: the number falls more quickly, to 4.1 (0.5 h), 3.3 (1 h) and 2.2 (3 h), and there are no living bacteria at 5 h or 7 h, so a higher concentration is more effective (43% fewer than the control at 1 h for low and 57% for high).",
+      "The error bars are small and do not overlap between treatments at the same time, so the differences are probably significant; the extract has an antimicrobial (bactericidal) effect that depends on the time and the concentration."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-111.jpg",
       "papers/biology/img/04A-Plant-Structure-112.jpg",
       "papers/biology/img/04A-Plant-Structure-113.jpg",
       "papers/biology/img/04A-Plant-Structure-114.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q45b.jpg"
+     ]
     },
     {
      "id": "4A-Q45c(i)",
@@ -36045,16 +36105,21 @@ window.BANK.biology = {
       "relationship"
      ],
      "question": "State the relationship between the time spent in interphase and the number of white blood cells, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of time in interphase and cell number is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "As the time in interphase decreases, the number of cells increases (a negative relationship).",
+     "steps": [
+      "Time in interphase falls from about 180 hours (0 PHA) to about 5 hours at 1.0 ug cm^-3.",
+      "Over the same range the number of cells rises from about 2 to 16 x 10^6 per cm^3, so the shorter the interphase the more cells there are."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-111.jpg",
       "papers/biology/img/04A-Plant-Structure-112.jpg",
       "papers/biology/img/04A-Plant-Structure-113.jpg",
       "papers/biology/img/04A-Plant-Structure-114.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q45c.jpg"
+     ]
     },
     {
      "id": "4A-Q45c(ii)",
@@ -36070,16 +36135,21 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Which is the correct percentage change in cell number from 0.0 to 1.0 g cm-3 of PHA? A -700%, B -87.5%, C +87.5%, D +700%.",
-     "status": "pending",
-     "answer": "Pending: the cell number values at each PHA concentration are read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: +700%",
+     "steps": [
+      "Number of cells at 0.0 ug cm^-3 is 2 x 10^6 per cm^3 and at 1.0 ug cm^-3 it is 16 x 10^6 per cm^3.",
+      "Change = 16 - 2 = 14, so percentage change = 14 / 2 x 100 = +700%."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-111.jpg",
       "papers/biology/img/04A-Plant-Structure-112.jpg",
       "papers/biology/img/04A-Plant-Structure-113.jpg",
       "papers/biology/img/04A-Plant-Structure-114.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q45c.jpg"
+     ]
     },
     {
      "id": "4A-Q45c(iii)",
@@ -36096,16 +36166,23 @@ window.BANK.biology = {
       "explain"
      ],
      "question": "Explain the results of the investigation into the effect of PHA on white blood cell number and time in interphase.",
-     "status": "pending",
-     "answer": "Pending: the results graph for PHA treatment is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "PHA shortens interphase, so the cell cycle is faster and more cell divisions take place, giving more cells.",
+     "steps": [
+      "As the concentration of PHA rises, the time spent in interphase falls steeply from about 180 hours to about 5 hours, so the cell cycle is much shorter.",
+      "A shorter cell cycle means that the cells complete DNA replication and cell growth sooner, so they enter mitosis and divide more often in the same time, so the number of cells increases (from 2 to 16 x 10^6 per cm^3, 8 times as many).",
+      "Above about 0.4 to 0.6 ug cm^-3 the time in interphase hardly falls and the number of cells rises more slowly, because interphase cannot be shortened below a minimum (mitosis and cytokinesis still take time).",
+      "PHA is therefore acting as a mitogen, stimulating the cells to divide."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-111.jpg",
       "papers/biology/img/04A-Plant-Structure-112.jpg",
       "papers/biology/img/04A-Plant-Structure-113.jpg",
       "papers/biology/img/04A-Plant-Structure-114.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q45c.jpg"
+     ]
     },
     {
      "id": "4A-Q46a(i)",
@@ -36187,9 +36264,13 @@ window.BANK.biology = {
       "2021"
      ],
      "question": "Continent Q produced 634 288 000 kg of strawberries in 2021. Which is the mass produced in continent S? A 61 136 193 kg, B 760 212 883 kg, C 2 183 071 550 kg, D 4 531 720 288 kg.",
-     "status": "pending",
-     "answer": "Pending: the diagram showing the share of production for each continent is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 2 183 071 550 kg",
+     "steps": [
+      "The mass of strawberries is proportional to the angle of the sector.",
+      "Continent Q has 24.9 degrees for 634 288 000 kg, so continent S (85.7 degrees) = 634 288 000 x 85.7 / 24.9.",
+      "= 2 183 071 550 kg, which is C."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-115.jpg",
       "papers/biology/img/04A-Plant-Structure-116.jpg",
@@ -36197,7 +36278,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-118.jpg",
       "papers/biology/img/04A-Plant-Structure-119.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q46b.jpg"
+     ]
     },
     {
      "id": "4A-Q46c(i)",
@@ -36214,9 +36297,13 @@ window.BANK.biology = {
       "hydroponic"
      ],
      "question": "Calculate the percentage difference in mean mass of wheat grains per square metre between groups A and B, using the table.",
-     "status": "pending",
-     "answer": "Pending: the table of mean grain mass per square metre and gluten content for each treatment group is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "-11% (A is 11.4% lower than B)",
+     "steps": [
+      "Percentage difference = (A - B) / ((A + B) / 2) x 100, with A = 0.58 and B = 0.65 kg m^-2.",
+      "A - B = -0.07 and (A + B) / 2 = 0.615.",
+      "Percentage difference = -0.07 / 0.615 x 100 = -11.4%, so group A has a mean grain mass 11.4% lower than group B (about -11%)."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-115.jpg",
       "papers/biology/img/04A-Plant-Structure-116.jpg",
@@ -36224,7 +36311,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-118.jpg",
       "papers/biology/img/04A-Plant-Structure-119.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q46c-2.jpg"
+     ]
     },
     {
      "id": "4A-Q46c(ii)",
@@ -36242,9 +36331,15 @@ window.BANK.biology = {
       "discuss"
      ],
      "question": "Discuss the farmers' conclusion that they would make more money by adding magnesium ions to wheat, using the table of grain mass and gluten content and your own knowledge.",
-     "status": "pending",
-     "answer": "Pending: the table of grain mass and gluten content per treatment is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The conclusion is supported: magnesium increased both grain mass and gluten content, so the farmers would get more and higher-value flour, as long as the cost of the magnesium is less than the extra income.",
+     "steps": [
+      "Group A (no magnesium) had the lowest values: 0.58 kg m^-2 of grain and 265 g gluten per kg.",
+      "Magnesium on the leaves (group B) raised grain mass by 12% to 0.65 and gluten by 7% to 283; magnesium in the nutrient solution (group C) raised grain by 16% to 0.67 and gluten by 12% to 298; the total gluten per m^2 rose from about 154 g to 184 g (B) and 200 g (C).",
+      "More gluten means a higher protein content, and flour with a higher protein content is more expensive, so the farmers would earn more per kg as well as having a greater mass.",
+      "Magnesium is part of chlorophyll (more photosynthesis, more growth and grain) and activates enzymes for protein synthesis, so the results are biologically sensible.",
+      "Evaluation: group C is only slightly better than B for the grain (0.67 against 0.65), so spraying leaves may be a cheaper way of adding magnesium; but there is no cost information, no standard deviations or repeats, only one wheat variety and hydroponic conditions, so the profit cannot be proved."
+     ],
      "images": [
       "papers/biology/img/04A-Plant-Structure-115.jpg",
       "papers/biology/img/04A-Plant-Structure-116.jpg",
@@ -36252,7 +36347,10 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-118.jpg",
       "papers/biology/img/04A-Plant-Structure-119.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q46c.jpg",
+      "papers/biology/fig/04A-Plant-Structure-Q46c-2.jpg"
+     ]
     }
    ]
   },
@@ -36363,15 +36461,22 @@ window.BANK.biology = {
       "calcium"
      ],
      "question": "Using the graph of mean pollen tube length against Verapamil concentration, determine the effect of Verapamil concentration on pollen tube growth.",
-     "status": "pending",
-     "answer": "Pending: the graph of mean pollen tube length is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "As Verapamil concentration increases, the mean pollen tube length decreases: from about 680 um with none to about 62 um at 200 ug cm^-3 (about 91% shorter).",
+     "steps": [
+      "With no Verapamil the mean pollen tube length is about 680 um, and at 1 ug cm^-3 it is almost the same (about 665 um), so low concentrations have little effect.",
+      "As the concentration rises to 10, 50 and 100 ug cm^-3 the length falls to about 600, 395 and 235 um.",
+      "At 200 ug cm^-3 the length is only about 62 um, so Verapamil inhibits pollen tube growth, and the higher the concentration the greater the inhibition (a negative correlation).",
+      "This fits calcium ions being needed for pollen tube growth, because Verapamil blocks calcium uptake."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-001.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-002.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-003.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q1c.jpg"
+     ]
     },
     {
      "id": "4BC-Q1c(ii)",
@@ -36400,7 +36505,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-002.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-003.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q1c.jpg"
+     ]
     },
     {
      "id": "4BC-Q2a",
@@ -36444,15 +36551,22 @@ window.BANK.biology = {
       "biodiversity"
      ],
      "question": "Using the graph, explain the relationship between herbicide concentration and the mean number of insect species in three fields.",
-     "status": "pending",
-     "answer": "Pending: the graph of mean species number against herbicide concentration is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "As herbicide concentration rises the mean number of insect species falls (negative relationship), from about 9 species with none to about 2.8 species at 100 mg dm^-3, because the herbicide removes the plants that insects depend on.",
+     "steps": [
+      "The graph shows a negative relationship: the mean number of insect species falls from about 9 at 0 mg dm^-3 to about 6.2 at 20 and about 4 at 60, and to about 2.8 at 100 mg dm^-3 (a 69% decrease).",
+      "The fall is steepest at low concentrations (about 3 species lost by 20 mg dm^-3) and flattens at high concentrations.",
+      "Herbicide kills plants, so herbivorous insects lose their food source and habitat (shelter, egg-laying sites), and insects that feed on those insects (predators and parasites) also lose food.",
+      "The more herbicide, the more plant species are killed, so the more insect species decline or are lost; herbicide may also kill some insects directly, and species that depend on only one plant are lost first, so biodiversity falls."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-003.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-004.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-005.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q2b.jpg"
+     ]
     },
     {
      "id": "4BC-Q3a(i)",
@@ -36524,14 +36638,21 @@ window.BANK.biology = {
       "eukaryote"
      ],
      "question": "Which box in each row of the table shows whether each feature is found in each of the three domains?",
-     "status": "pending",
-     "answer": "Pending: the feature table and its tick boxes are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Absence of a nuclear envelope: Archaea and Bacteria only; presence of circular DNA: Archaea and Bacteria only; presence of a cell membrane: Archaea, Bacteria and Eukarya; presence of ribosomes: Archaea, Bacteria and Eukarya.",
+     "steps": [
+      "Archaea and Bacteria are prokaryotes, so they have no nucleus or nuclear envelope (Eukarya do), so tick the second box (\"Archaea and Bacteria only\") for the first row.",
+      "Prokaryotes have a circular chromosome, whereas eukaryotes have linear chromosomes in a nucleus, so tick \"Archaea and Bacteria only\" for circular DNA.",
+      "All cells have a cell surface membrane, so tick the last column (\"Archaea, Bacteria and Eukarya\") for the third row.",
+      "All cells have ribosomes (70S in prokaryotes and 80S in eukaryotes) to make proteins, so tick the last column for the fourth row."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-005.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-006.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q3b.jpg"
+     ]
     },
     {
      "id": "4BC-Q4a",
@@ -36577,16 +36698,22 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the width of the phloem vessel along line XY in micrometres, in standard form.",
-     "status": "pending",
-     "answer": "Pending: needs the scale or measurements from the sieve plate photograph, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "2.2 x 10^2 um",
+     "steps": [
+      "Measure the line XY in the photograph: about 43 mm on the printed page (154 px at 745 px per 210 mm); a ruler measurement of 43 mm to 44 mm is expected.",
+      "Actual width = image width / magnification = 43 mm / 200 = 0.215 mm.",
+      "Convert to micrometres: 0.215 mm x 1000 = 215 um to 217 um, which is 2.2 x 10^2 um in standard form (to 2 s.f.)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-006.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-007.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-008.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q4b.jpg"
+     ]
     },
     {
      "id": "4BC-Q4b(ii)",
@@ -36676,7 +36803,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-008.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q4c.jpg"
+     ]
     },
     {
      "id": "4BC-Q5a",
@@ -36723,9 +36852,15 @@ window.BANK.biology = {
       "alleles"
      ],
      "question": "Discuss two proposed solutions to the low genetic diversity of the 11 beavers introduced from Norway, using the map of European beaver locations.",
-     "status": "pending",
-     "answer": "Pending: the map of original European beaver locations is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both solutions can add new alleles, but more beavers from the same small Norwegian population adds little genetic diversity, whereas beavers from several different locations add more alleles and reduce inbreeding, with a higher risk of disease and unsuitable subspecies.",
+     "steps": [
+      "Genetic diversity means the number of different alleles in the population; only 11 founders carry few alleles, so there is inbreeding, genetic drift and a smaller ability to adapt to disease or change.",
+      "Solution 1 (more beavers from Norway): the Norwegian population is easy and quick to use, is a similar climate to Scotland and the same population, so beavers are well adapted and the risk of disease is lower; but on the map Norway has only a few small patches of beavers, so these animals are closely related and add few new alleles.",
+      "Solution 2 (beavers from several locations): the map shows beavers in many places, such as Sweden, Finland, the Baltic states, Poland, Russia, Germany and France, so beavers from unrelated populations would add many different alleles, which would greatly increase genetic diversity and reduce inbreeding.",
+      "Disadvantages of solution 2: beavers from distant populations could be a different subspecies, could be adapted to different conditions or carry different diseases or parasites, are more difficult and more costly to transport and need more licences; some of the western populations are small and isolated, so they have little diversity themselves.",
+      "Overall: using several populations (especially the large Scandinavian and Baltic ones) is likely to be the better way to increase genetic diversity, if the beavers are healthy and the same subspecies; Norway alone is simpler but less effective."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-009.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-010.jpg",
@@ -36733,7 +36868,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-012.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-013.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q5b.jpg"
+     ]
     },
     {
      "id": "4BC-Q5c",
@@ -36808,15 +36945,21 @@ window.BANK.biology = {
       "behavioural"
      ],
      "question": "Complete the table to show the type of each of the frog's three adaptations.",
-     "status": "pending",
-     "answer": "Pending: the table to be completed is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Bright red skin with black spots: anatomical (warning colouration); production of poison: physiological (biochemical); adhesive discs on toes: anatomical.",
+     "steps": [
+      "Adaptations can be anatomical (structural), physiological (processes inside the body) or behavioural (how the animal acts).",
+      "The bright red skin with black spots and the adhesive discs on the toes are structural features, so they are anatomical.",
+      "Making a poison is a biochemical process in the cells, so it is physiological."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-013.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-014.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-015.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q6b.jpg"
+     ]
     },
     {
      "id": "4BC-Q6c",
@@ -36980,16 +37123,22 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the percentage increase in the mass of bananas imported by one country from 2007 to 2011, using the table.",
-     "status": "pending",
-     "answer": "Pending: the table of banana import masses is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "148.5% (about 150%)",
+     "steps": [
+      "China imported 3.3 x 10^5 tonnes in 2007 and 8.2 x 10^5 tonnes in 2011.",
+      "Increase = 8.2 - 3.3 = 4.9 x 10^5 tonnes.",
+      "Percentage increase = 4.9 / 3.3 x 100 = 148.5%."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-015.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-016.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-017.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-018.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q7c.jpg"
+     ]
     },
     {
      "id": "4BC-Q7c(ii)",
@@ -37064,15 +37213,21 @@ window.BANK.biology = {
       "stages"
      ],
      "question": "Which labelled cell (P, Q, R or S) in the photograph is in metaphase of mitosis?",
-     "status": "pending",
-     "answer": "Pending: the labelled micrograph (cells P, Q, R, S) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: R",
+     "steps": [
+      "In metaphase the chromosomes are condensed and lined up at the equator (centre) of the cell, attached to spindle fibres.",
+      "Cell R has its chromosomes arranged across the middle of the cell, so it is in metaphase.",
+      "Q has coiled, condensed chromosomes spread through the nucleus area (prophase), S has chromatids being pulled to two poles (anaphase) and P has two separate groups of chromosomes at opposite ends with a cell plate forming (telophase)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-018.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-019.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-020.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q8a.jpg"
+     ]
     },
     {
      "id": "4BC-Q8a(iii)",
@@ -37088,15 +37243,21 @@ window.BANK.biology = {
       "tendril"
      ],
      "question": "Using the table of results, calculate the mitotic index of the tendril tip cells.",
-     "status": "pending",
-     "answer": "Pending: the results table with cell counts is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.22 (22%)",
+     "steps": [
+      "Mitotic index = number of cells in mitosis / total number of cells.",
+      "Cells in mitosis (prophase, metaphase, anaphase and telophase) = 15 + 3 + 10 + 5 = 33.",
+      "Total cells = 117 + 33 = 150, so mitotic index = 33 / 150 = 0.22 (22%)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-018.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-019.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-020.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q8a-2.jpg"
+     ]
     },
     {
      "id": "4BC-Q8b",
@@ -37380,15 +37541,21 @@ window.BANK.biology = {
       "ceyx"
      ],
      "question": "Using the proposed reclassification diagram, explain which kingfisher species are most closely related to Ceyx madagascariensis.",
-     "status": "pending",
-     "answer": "Pending: the classification diagrams for the five kingfisher species are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Alcedo leucogaster and Alcedo cristata are the most closely related to Ceyx madagascariensis, because they share the most recent common ancestor with it on the proposed tree.",
+     "steps": [
+      "In the proposed reclassification, C. madagascariensis branches from the same node as the two Alcedo species (A. leucogaster and A. cristata).",
+      "Species sharing the most recent (nearest) common ancestor are the most closely related, so the two Alcedo species are its closest relatives.",
+      "Ceyx lecontei and Ceyx picta branch off earlier, so they are less closely related, even though they share the genus name Ceyx."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-024.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-025.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-026.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q10b.jpg"
+     ]
     },
     {
      "id": "4BC-Q10b(ii)",
@@ -37419,7 +37586,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-025.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-026.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q10b.jpg"
+     ]
     },
     {
      "id": "4BC-Q11a(i)",
@@ -37522,15 +37691,21 @@ window.BANK.biology = {
       "female"
      ],
      "question": "Using the graph of temperature against percentage of male hatchlings, calculate the number of female crocodiles from 350 eggs incubated at 32 deg C.",
-     "status": "pending",
-     "answer": "Pending: the temperature-sex graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 270 females (269.5)",
+     "steps": [
+      "From the graph, at 32 degrees C about 23% of the crocodiles hatch as male.",
+      "So the percentage female = 100 - 23 = 77%.",
+      "Number of females = 350 x 77 / 100 = 269.5, about 270 females."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-026.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-027.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-028.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q11c.jpg"
+     ]
     },
     {
      "id": "4BC-Q11c(ii)",
@@ -37546,15 +37721,23 @@ window.BANK.biology = {
       "conservation"
      ],
      "question": "Explain how the egg collection and incubation project could increase crocodile numbers rapidly without reducing future genetic diversity, using the graph.",
-     "status": "pending",
-     "answer": "Pending: depends on the temperature-sex graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Collecting eggs from many nests and incubating them protects them, so more hatch and numbers rise quickly; choosing temperatures that give mostly females increases breeding output, while still producing enough males from many different parents keeps genetic diversity.",
+     "steps": [
+      "Eggs collected from nests in different parts of the park come from many different parents, so the hatchlings carry many different alleles and the genetic diversity of the future population is kept.",
+      "Incubating the eggs at a suitable temperature (and releasing them after hatching) protects them from predators, flooding and unsuitable temperatures, so a higher percentage hatch and the population increases quickly.",
+      "The graph shows temperature determines sex: at 28 degrees C 0% are male, at 29 degrees C about 6%, at 30 degrees C about 40%, at 31 degrees C about 82% (the maximum) and at 32 to 33 degrees C only about 23% and 21%; so the sex ratio can be controlled.",
+      "Incubating at a temperature such as 29 to 30 degrees C gives more females (60 to 94%), and each female lays many eggs, so the population grows faster than with mostly males (31 degrees C).",
+      "But some males must also be produced (not 28 degrees C, which gives none), from many different nests, so that the females can mate with many different males and the genetic diversity is not reduced by inbreeding."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-026.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-027.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-028.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q11c.jpg"
+     ]
     },
     {
      "id": "4BC-Q12a",
@@ -37600,16 +37783,21 @@ window.BANK.biology = {
       "correlation"
      ],
      "question": "Using the graph of tourist numbers and recorded non-endemic species, state the relationship shown.",
-     "status": "pending",
-     "answer": "Pending: the graph of tourist numbers and non-endemic species is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Positive correlation: as the number of tourists increases, the number of recorded non-endemic species increases.",
+     "steps": [
+      "The points rise from about 480 non-endemic species at about 17 000 tourists to about 1 530 species at about 225 000 tourists.",
+      "So there is a positive correlation (the rise is quicker at low tourist numbers and slows at high numbers), but correlation does not prove that tourists cause the introduction of species."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-028.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-029.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-030.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-031.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q12b.jpg"
+     ]
     },
     {
      "id": "4BC-Q12c(i)",
@@ -37625,16 +37813,22 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Using the table of species counts from the native forest in 1960, calculate the index of diversity (D) to one decimal place.",
-     "status": "pending",
-     "answer": "Pending: the table of species counts is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "4.6",
+     "steps": [
+      "Total number of individuals N = 21 + 2 + 4 + 13 + 54 + 15 + 6 + 32 = 147.",
+      "Fill in the missing values of n(n - 1): 420, 156, 2862 and 992, so the sum of n(n - 1) = 420 + 2 + 12 + 156 + 2862 + 210 + 30 + 992 = 4684.",
+      "D = N(N - 1) / sum of n(n - 1) = 147 x 146 / 4684 = 21 462 / 4684 = 4.58, which is 4.6 to one decimal place."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-028.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-029.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-030.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-031.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q12c.jpg"
+     ]
     },
     {
      "id": "4BC-Q12c(ii)",
@@ -37710,15 +37904,24 @@ window.BANK.biology = {
       "genetic diversity"
      ],
      "question": "Comment on the effect of three mating strategies (sperm middle region length, spermatophores, sperm storage) on reproductive success and offspring genetic diversity, using the graph and diagram.",
-     "status": "pending",
-     "answer": "Pending: depends on the sperm diagram and the sperm length-speed graph, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A longer middle region gives faster sperm (positive correlation), so those males fertilise more eggs; spermatophores raise a male's success but reduce female mating variety; sperm storage lets females have offspring from several males and so increases genetic diversity.",
+     "steps": [
+      "Middle region: the graph shows a positive correlation, as the length of the middle region increases from about 15 to 19 um the swimming speed increases from about 45 to 75 um s^-1; the middle region contains the mitochondria, so a longer one gives more ATP and faster swimming.",
+      "Since females mate with many males, sperm from different males compete, and faster sperm are more likely to reach and fertilise the egg first, so males with a longer middle region have greater reproductive success (and pass on the allele for a long middle region).",
+      "Spermatophores: nutrients help the female make more or better eggs, so both parents gain, and the chemicals make her less attractive to other males, so the male is more likely to be the father of all her offspring (greater male reproductive success); but the female mates with fewer males, so the genetic diversity of her offspring is lower.",
+      "Sperm storage (turtles): the female can fertilise eggs in years with no mating, and her offspring can have different fathers (stored sperm from numerous males), so her reproductive success and the genetic diversity of the offspring are higher; a male's success is less certain because his sperm competes with sperm from other males.",
+      "Overall these strategies increase the reproductive success of the individual using them (males with fast sperm or spermatophores, females with stored sperm), but those that limit female mating reduce genetic variation."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-031.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-032.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-033.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q13b.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q13b-2.jpg"
+     ]
     },
     {
      "id": "4BC-Q14a(i)",
@@ -37734,15 +37937,21 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the magnification of the photograph of M. smithii, to two significant figures.",
-     "status": "pending",
-     "answer": "Pending: needs the scale bar or image and actual size values, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "x3.3 x 10^4",
+     "steps": [
+      "Magnification = length of the scale bar in the image / actual length it represents.",
+      "The 1200 nm scale bar measures about 40 mm on the printed page (about 142 px at 745 px per 210 mm); a ruler should give 39 mm to 41 mm.",
+      "Convert: 40 mm = 4.0 x 10^7 nm, so magnification = 4.0 x 10^7 / 1200 = 33 000 = 3.3 x 10^4 (to 2 significant figures)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-033.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-034.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-035.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q14a.jpg"
+     ]
     },
     {
      "id": "4BC-Q14a(ii)",
@@ -37758,15 +37967,20 @@ window.BANK.biology = {
       "resolution"
      ],
      "question": "Explain which type of microscope was used to take the photograph of M. smithii.",
-     "status": "pending",
-     "answer": "Pending: depends on the appearance of the photograph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A scanning electron microscope (SEM).",
+     "steps": [
+      "The image shows the three-dimensional surface of the cells with shading, which is what a scanning electron microscope produces (a transmission electron microscope gives a flat 2D slice showing the inside of the cell).",
+      "A light microscope could not be used because the cells are only about 1 um across (the 1200 nm scale bar is about the width of a cell), which is close to the resolution limit of about 200 nm, and the magnification is about 30 000, which a light microscope cannot reach."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-033.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-034.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-035.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q14a.jpg"
+     ]
     },
     {
      "id": "4BC-Q14b(i)",
@@ -37840,15 +38054,21 @@ window.BANK.biology = {
       "trend"
      ],
      "question": "Describe the effect of length of storage time on the germination of the stored seeds, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the germination-against-storage-time graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The percentage of seeds that germinate stays high at first, then falls steeply as storage time increases, then levels off at a very low percentage.",
+     "steps": [
+      "At first the percentage of seeds that germinate stays at a high constant value (a plateau) for the early period of storage.",
+      "Then the percentage falls rapidly, so the longer the seeds are stored, the fewer germinate.",
+      "The fall then levels off near 0%, so after a long time almost no seeds germinate."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-035.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-036.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-037.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q15a.jpg"
+     ]
     },
     {
      "id": "4BC-Q15a(ii)",
@@ -37951,15 +38171,20 @@ window.BANK.biology = {
       "anatomical"
      ],
      "question": "Complete the table showing the type of each adaptation shown by this caterpillar.",
-     "status": "pending",
-     "answer": "Pending: the table to complete is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Looks like a pit viper snake: anatomical; tries to strike potential predators: behavioural.",
+     "steps": [
+      "Looking like a snake is a structural feature of the body (shape, colour and markings, a form of mimicry), so it is an anatomical adaptation.",
+      "Striking at predators is the way the animal acts, so it is a behavioural adaptation."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-037.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-038.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-039.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q16a.jpg"
+     ]
     },
     {
      "id": "4BC-Q16b(i)",
@@ -37975,15 +38200,20 @@ window.BANK.biology = {
       "identification"
      ],
      "question": "State the type of microscope used to view the organelle shown in the photograph.",
-     "status": "pending",
-     "answer": "Pending: depends on the photograph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A transmission electron microscope (TEM).",
+     "steps": [
+      "The photograph shows internal membranes (cristae) of a mitochondrion in a thin slice at a magnification of x72 500, which is far beyond a light microscope.",
+      "A flat, internal 2D view of the organelle is typical of a transmission electron microscope."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-037.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-038.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-039.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q16b.jpg"
+     ]
     },
     {
      "id": "4BC-Q16b(ii)",
@@ -37999,15 +38229,21 @@ window.BANK.biology = {
       "identification"
      ],
      "question": "Describe the function of the organelle shown in the photograph.",
-     "status": "pending",
-     "answer": "Pending: the organelle must be identified from the photograph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The organelle is a mitochondrion: it carries out aerobic respiration, which makes ATP for the cell.",
+     "steps": [
+      "The structure has a double membrane, with the inner membrane folded into cristae, so it is a mitochondrion.",
+      "It is the site of aerobic respiration: the Krebs cycle takes place in the matrix and the electron transport chain (oxidative phosphorylation) on the cristae, making most of the cell's ATP.",
+      "ATP is the energy source for cell processes such as active transport, protein synthesis and movement, and the cristae give a large surface area for ATP synthesis."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-037.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-038.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-039.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q16b.jpg"
+     ]
     },
     {
      "id": "4BC-Q16c",
@@ -38023,9 +38259,13 @@ window.BANK.biology = {
       "drawing"
      ],
      "question": "Draw a labelled diagram of rough endoplasmic reticulum.",
-     "status": "pending",
-     "answer": "Pending: requires a labelled drawing, which cannot be given as text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw a stack of flattened membrane-bound sacs (cisternae) with small dots (ribosomes) on the outer surface, connected to the nuclear envelope; label rough endoplasmic reticulum, cisterna (lumen), membrane and ribosomes.",
+     "steps": [
+      "Draw 3 to 5 long, flattened, parallel sacs (cisternae) formed by a membrane, close together and joined at the ends or folded, and labelled \"cisternae\" or \"lumen\".",
+      "Draw many small dots on the outside surface of the membrane and label them \"ribosomes\" (this is what makes the ER rough).",
+      "Show it connected to the outer membrane of the nuclear envelope, if space allows, and label with label lines \"rough endoplasmic reticulum\"."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-037.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-038.jpg",
@@ -38047,9 +38287,13 @@ window.BANK.biology = {
       "normal distribution"
      ],
      "question": "Sketch a graph showing the distribution of a phenotype with continuous variation in a population.",
-     "status": "pending",
-     "answer": "Pending: requires a sketched graph, which cannot be given as text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A symmetrical bell-shaped (normal distribution) curve, with the phenotype (e.g. height or mass) on the x axis and the number of individuals (frequency) on the y axis, peaking at the mean.",
+     "steps": [
+      "Label the axes: x axis = the measured phenotype (e.g. height / cm, a continuous variable) and y axis = number of individuals (frequency).",
+      "Draw a smooth, symmetrical bell-shaped curve with the highest point (the mean) in the middle and the curve tailing off to the left and right without touching the axis.",
+      "Continuous variation (a range with no clear categories, caused by many genes and the environment) therefore gives a normal distribution."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-039.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-040.jpg",
@@ -38144,7 +38388,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-044.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-045.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q18a.jpg"
+     ]
     },
     {
      "id": "4BC-Q18a(ii)",
@@ -38191,9 +38437,12 @@ window.BANK.biology = {
       "crops"
      ],
      "question": "Using the graph, which percentage of the world cassava crop is grown in Africa? A 33 % B 34 % C 66 % D 67 %.",
-     "status": "pending",
-     "answer": "Pending: the graph of crop masses is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 67%",
+     "steps": [
+      "Read the cassava bars: African production is about 160 million tonnes per year and world production about 240 million tonnes per year.",
+      "Percentage = 160 / 240 x 100 = 66.7%, which is 67%, so D."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-041.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-042.jpg",
@@ -38201,7 +38450,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-044.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-045.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q18b.jpg"
+     ]
     },
     {
      "id": "4BC-Q18b(ii)",
@@ -38217,9 +38468,13 @@ window.BANK.biology = {
       "million tonnes"
      ],
      "question": "Calculate the predicted world maize production after a 2.3 % increase, to the nearest whole number.",
-     "status": "pending",
-     "answer": "Pending: the current world maize production is read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1074 million tonnes",
+     "steps": [
+      "Read the world maize bar: about 1050 million tonnes per year.",
+      "Increase = 1050 x 0.023 = 24.15, so new production = 1050 + 24.15 = 1074.15.",
+      "To the nearest whole number: 1074 million tonnes."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-041.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-042.jpg",
@@ -38227,7 +38482,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-044.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-045.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q18b.jpg"
+     ]
     },
     {
      "id": "4BC-Q18c",
@@ -38243,9 +38500,15 @@ window.BANK.biology = {
       "disadvantages"
      ],
      "question": "Discuss the advantages and disadvantages of growing three crop plants for human food, using the cassava graph and table.",
-     "status": "pending",
-     "answer": "Pending: depends on the cassava dry mass graph and the crop table, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Cassava needs little water and few nutrients and gives a lot of carbohydrate, but bitter cassava is toxic and all cassava is low in protein; maize has more protein and few toxins but needs more water and nutrients and has less carbohydrate.",
+     "steps": [
+      "Advantages of cassava: low to medium water need and low nutrient need, so it grows in poor soil and dry areas; carbohydrate content is about 95 g per 100 g dry mass compared with 77 g for maize.",
+      "Bitter cassava gives a higher yield (mean dry mass about 0.23 kg per plant against about 0.16 kg for sweet cassava) and its bitter chemicals protect it against animals.",
+      "Disadvantages: the bitter chemicals (100 to 500 mg kg^-1 in bitter, 10 to 50 in sweet, 1 to 2 in maize) release hydrogen cyanide, which stops respiration, so the cassava must be processed before eating.",
+      "Cassava has very little protein (about 1.8 g per 100 g against 8.75 g in maize), so a diet based on it could lead to protein deficiency.",
+      "Maize is a good source of protein and has little toxin, but it needs medium to high water and nutrients (irrigation and fertiliser) and gives less carbohydrate; sweet cassava is safer than bitter but gives a lower yield."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-041.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-042.jpg",
@@ -38253,7 +38516,10 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-044.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-045.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q18c.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q18c-2.jpg"
+     ]
     },
     {
      "id": "4BC-Q19a(i)",
@@ -49735,7 +50001,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-061.jpg",
       "papers/biology/img/05BC-Ecology-Climate-062.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q21.jpg"
+     ]
     },
     {
      "id": "5BC-Q21b",
@@ -49752,15 +50020,21 @@ window.BANK.biology = {
       "options"
      ],
      "question": "What is the estimated change in the mean surface temperature of the Earth in 2030? Options A 1.3, B 1.1, C 0.8, D 0.2.",
-     "status": "pending",
-     "answer": "Missing: the graph of temperature change from 1970 to 2017 needed to extend the trend to 2030 is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 1.3 C (extending the upward trend of the graph to 2030).",
+     "steps": [
+      "The mean temperature change rises from about 0 C in 1975 to about 1.0 C in 2017, a rate of about 0.024 C per year, and the rate is not slowing.",
+      "Extending the trend line to 2030 adds about 13 x 0.024 = 0.3 C to the 2017 value of 1.0 C.",
+      "The estimated change in 2030 is therefore about 1.3 C, option A (the other options are below the 2017 value or extend the line too little)."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-060.jpg",
       "papers/biology/img/05BC-Ecology-Climate-061.jpg",
       "papers/biology/img/05BC-Ecology-Climate-062.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q21.jpg"
+     ]
     },
     {
      "id": "5BC-Q21c",
@@ -49777,15 +50051,21 @@ window.BANK.biology = {
       "reflected"
      ],
      "question": "Which row of the table describes the passage of ultraviolet light and infrared radiation, reflected from the Earth's surface, through gases in the atmosphere?",
-     "status": "pending",
-     "answer": "Missing: the table rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: ultraviolet light passes through and infrared radiation does not pass through.",
+     "steps": [
+      "Short-wavelength ultraviolet light from the Sun passes through the atmosphere to the Earth's surface.",
+      "Infrared radiation re-emitted from the Earth is absorbed by greenhouse gases such as carbon dioxide and methane, so it does not pass through, which causes the greenhouse effect.",
+      "Only row B shows this."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-060.jpg",
       "papers/biology/img/05BC-Ecology-Climate-061.jpg",
       "papers/biology/img/05BC-Ecology-Climate-062.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q21-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q21d(i)",
@@ -49874,7 +50154,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-062.jpg",
       "papers/biology/img/05BC-Ecology-Climate-063.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q22.jpg"
+     ]
     },
     {
      "id": "5BC-Q22a(ii)",
@@ -49891,14 +50173,20 @@ window.BANK.biology = {
       "1.5 degrees"
      ],
      "question": "Calculate the percentage increase in the population exposed to drought if the temperature increases by 2 C rather than 1.5 C. Assume the bars are drawn to scale.",
-     "status": "pending",
-     "answer": "Missing: the bar values for population exposed to drought are shown in the diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "33%",
+     "steps": [
+      "The bar for the population exposed to drought is about 48 mm (1.5 C) and about 64 mm (2 C) long on the page, measured from the axis.",
+      "Increase = 64 - 48 = 16.",
+      "Percentage increase = 16 / 48 x 100 = 33% (one third more)."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-062.jpg",
       "papers/biology/img/05BC-Ecology-Climate-063.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q22.jpg"
+     ]
     },
     {
      "id": "5BC-Q22b",
@@ -49946,15 +50234,21 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the rate of oxygen production at 1200 seconds for C. pyrenoidosa with PBF attached.",
-     "status": "pending",
-     "answer": "Missing: the oxygen production graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 0.07 nmol s^-1 (accept about 0.06 to 0.08).",
+     "steps": [
+      "Draw a tangent to the curve for C. pyrenoidosa with PBF attached at 1200 s, where about 148 nmol of oxygen has been produced.",
+      "Take two points on the tangent, e.g. about 121 nmol at 800 s and about 175 nmol at 1600 s.",
+      "Rate = gradient = (175 - 121) / (1600 - 800) = 54 / 800 = 0.0675, so about 0.07 nmol s^-1."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-063.jpg",
       "papers/biology/img/05BC-Ecology-Climate-064.jpg",
       "papers/biology/img/05BC-Ecology-Climate-065.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q23.jpg"
+     ]
     },
     {
      "id": "5BC-Q23a(ii)",
@@ -49971,15 +50265,22 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Explain the effect PBF has on the production of oxygen by the algae.",
-     "status": "pending",
-     "answer": "Missing: the oxygen production graph is needed to confirm the direction and size of the effect.",
-     "steps": [],
+     "status": "ready",
+     "answer": "PBF increases oxygen production: with PBF about 178 nmol is made in 1800 s against about 66 nmol without it (about 2.7 times more), because PBF absorbs green light that chlorophyll absorbs poorly.",
+     "steps": [
+      "With PBF attached, the algae produce more oxygen at every time, reaching about 178 nmol at 1800 s compared with about 66 nmol without PBF, which stops rising after 1200 s.",
+      "PBF absorbs green light, which chlorophyll absorbs poorly, and passes this energy on, so more light energy is available for the light-dependent reactions.",
+      "More photolysis of water releases more oxygen, and more ATP and reduced NADP are made.",
+      "PBF alone produces almost no oxygen (about 4 nmol), so the extra oxygen is made by the algae and not by PBF itself."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-063.jpg",
       "papers/biology/img/05BC-Ecology-Climate-064.jpg",
       "papers/biology/img/05BC-Ecology-Climate-065.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q23.jpg"
+     ]
     },
     {
      "id": "5BC-Q23b",
@@ -50026,16 +50327,22 @@ window.BANK.biology = {
       "million tonnes"
      ],
      "question": "In 2020 Thailand produced 4.37 million tonnes of rubber. Estimate the mass of rubber produced in Thailand in 2019, using the graph.",
-     "status": "pending",
-     "answer": "Missing: the graph of rubber mass for 2019 and 2020 is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 4.8 million tonnes (4.8 x 10^6 tonnes).",
+     "steps": [
+      "Measure the height of each bar from the axis: 2019 is about 285 mm and 2020 about 258 mm on the page (about 1.1 times taller).",
+      "2019 mass = 4.37 million x 285 / 258 = 4.84 million tonnes.",
+      "So the estimate is about 4.8 x 10^6 tonnes (accept about 4.7 to 5.0 million)."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-065.jpg",
       "papers/biology/img/05BC-Ecology-Climate-066.jpg",
       "papers/biology/img/05BC-Ecology-Climate-067.jpg",
       "papers/biology/img/05BC-Ecology-Climate-068.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q24.jpg"
+     ]
     },
     {
      "id": "5BC-Q24b",
@@ -50144,15 +50451,21 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate how many years the plants producing type D pollen grains were present in this rainforest, using the scale diagram.",
-     "status": "pending",
-     "answer": "Missing: the scale diagram of the mud core showing pollen depths is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 750 years (accept about 700 to 800).",
+     "steps": [
+      "The whole core covers 2700 years and is about 366 mm long on the page (present day to 2700 years ago), so 1 mm = 2700 / 366 = 7.4 years.",
+      "The bracket for type D is about 101 mm long.",
+      "Time = 101 x 7.4 = about 750 years."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-068.jpg",
       "papers/biology/img/05BC-Ecology-Climate-069.jpg",
       "papers/biology/img/05BC-Ecology-Climate-070.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q25.jpg"
+     ]
     },
     {
      "id": "5BC-Q25b(ii)",
@@ -50169,15 +50482,22 @@ window.BANK.biology = {
       "scale diagram"
      ],
      "question": "Explain the distribution of the three types of pollen grain in this mud column, using the diagram.",
-     "status": "pending",
-     "answer": "Missing: the scale diagram showing where the pollen types were found in the mud core is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The pollen types are in different but overlapping layers: F deepest (oldest), D in the middle and E highest (youngest), showing that the plants in the rainforest changed over about 2700 years.",
+     "steps": [
+      "Mud and pollen build up in layers with the oldest at the bottom, so deeper pollen is older; pollen is preserved in the waterlogged, oxygen-poor mud.",
+      "Type F is found lowest, about 2200 to 1200 years ago, so those plants were present first; type D is in the middle, about 1550 to 800 years ago; type E is highest, about 1250 to 600 years ago.",
+      "The overlaps show that plants with different pollen grew at the same time, but each type appears and later disappears, so the community changed (succession or a response to a changing climate or human activity).",
+      "There is no pollen of these types in the top layer (the last 600 years or so), so the plants that produced them are no longer present in significant numbers."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-068.jpg",
       "papers/biology/img/05BC-Ecology-Climate-069.jpg",
       "papers/biology/img/05BC-Ecology-Climate-070.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q25.jpg"
+     ]
     },
     {
      "id": "5BC-Q26a(i)",
@@ -50194,16 +50514,22 @@ window.BANK.biology = {
       "base"
      ],
      "question": "Which diagram shows a mononucleotide of DNA?",
-     "status": "pending",
-     "answer": "Missing: the answer options are diagrams that are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "A mononucleotide has a pentose sugar with a base attached to carbon 1 and a phosphate attached to carbon 5 (through carbon 4).",
+      "In C the base and phosphate are both bonded to the sugar, on the two carbons that are either side of the ring oxygen (not adjacent).",
+      "A and B have the phosphate or base joined to the other one, not to the sugar, and in D the phosphate is on the carbon next to the base carbon, so only C is correct."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-070.jpg",
       "papers/biology/img/05BC-Ecology-Climate-071.jpg",
       "papers/biology/img/05BC-Ecology-Climate-072.jpg",
       "papers/biology/img/05BC-Ecology-Climate-073.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q26.jpg"
+     ]
     },
     {
      "id": "5BC-Q26a(ii)",
@@ -50281,16 +50607,21 @@ window.BANK.biology = {
       "correlation"
      ],
      "question": "Describe the relationship between the percentage change in abundance of lizards and the length of young lizards, using the graph.",
-     "status": "pending",
-     "answer": "Missing: the graph of percentage change in abundance against length of young lizards is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A negative relationship: longer young lizards are linked with a larger decrease in abundance (about 51 mm at -65% to about 44.5 mm at +100%), and the curve levels off above about +60%.",
+     "steps": [
+      "As the percentage change in abundance increases from about -65% to +100%, the length of young lizards decreases from about 51 mm to about 44.5 mm (negative correlation).",
+      "The decrease is steepest at the left (from about 51 to 46 mm between -65% and 0%) and flattens at the right (about 44.5 mm from +60% to +100%)."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-070.jpg",
       "papers/biology/img/05BC-Ecology-Climate-071.jpg",
       "papers/biology/img/05BC-Ecology-Climate-072.jpg",
       "papers/biology/img/05BC-Ecology-Climate-073.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q26-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q26b(iii)",
@@ -50425,15 +50756,23 @@ window.BANK.biology = {
       "sources"
      ],
      "question": "Explain the relative contribution of each source of greenhouse gas emissions, using the pie chart and own knowledge.",
-     "status": "pending",
-     "answer": "Missing: the pie chart of relative contributions of greenhouse gas sources is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Energy supply (25.9%) is the largest source because of burning fossil fuels; industry (19.4%), forestry (17.4%), agriculture (13.5%), transport (13.1%), buildings (7.9%) and waste (2.8%) follow, each releasing CO2, methane or nitrous oxide in different ways.",
+     "steps": [
+      "Energy supply, the largest contributor (25.9%), comes from burning coal, oil and gas in power stations, which releases carbon dioxide; industry (19.4%) releases CO2 from fuel use, cement and chemical manufacture.",
+      "Forestry (17.4%) is high because deforestation removes trees that absorb CO2 by photosynthesis, and burning or decay of the wood releases CO2.",
+      "Agriculture (13.5%) releases methane from cattle and rice fields, and nitrous oxide from fertilisers and soils.",
+      "Transport (13.1%) releases CO2 from burning petrol, diesel and aviation fuel; buildings (7.9%) release CO2 from burning fuels for heating and cooking (electricity use is counted under energy supply).",
+      "Waste and wastewater (2.8%) is the smallest, from methane produced by anaerobic decay in landfill and sewage; the three main gases (CO2, CH4, N2O) absorb infrared radiation and add to the greenhouse effect."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-073.jpg",
       "papers/biology/img/05BC-Ecology-Climate-074.jpg",
       "papers/biology/img/05BC-Ecology-Climate-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q27.jpg"
+     ]
     },
     {
      "id": "5BC-Q28a",
@@ -50450,15 +50789,21 @@ window.BANK.biology = {
       "phytoplankton"
      ],
      "question": "Calculate the total volume of one E. huxleyi, in mm3, using the dimensions shown in the diagram.",
-     "status": "pending",
-     "answer": "Missing: the dimensions in the diagram and the formula image are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "2.1 x 10^-4 mm^3",
+     "steps": [
+      "The cell is 50 um across and the plates are 12 um thick on each side, so the total diameter = 50 + 12 + 12 = 74 um.",
+      "Radius = 37 um = 0.037 mm.",
+      "V = 4/3 x pi x r^3 = 4/3 x 3.142 x 0.037^3 = 2.1 x 10^-4 mm^3 (212 000 um^3 = 2.1 x 10^5 um^3, and 1 um^3 = 10^-9 mm^3)."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-075.jpg",
       "papers/biology/img/05BC-Ecology-Climate-076.jpg",
       "papers/biology/img/05BC-Ecology-Climate-077.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q28.jpg"
+     ]
     },
     {
      "id": "5BC-Q28b(i)",
@@ -50596,15 +50941,21 @@ window.BANK.biology = {
       "pigment bands"
      ],
      "question": "Compare and contrast the types of chloroplast pigment found in the seaweeds with those found in the spinach, using the diagram of results.",
-     "status": "pending",
-     "answer": "Missing: the chromatogram of the pigment bands for the seaweeds and spinach is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "All three contain chlorophyll a, beta-carotene and a xanthophyll, but spinach also has chlorophyll b and three xanthophylls, which the seaweeds lack, and the brown seaweed has extra pigments P and Q.",
+     "steps": [
+      "Similarity: all three have a band for chlorophyll a at the same height and a faint band for beta-carotene near the solvent front.",
+      "Difference: spinach has a chlorophyll b band and three xanthophyll bands, whereas neither seaweed has chlorophyll b and the seaweeds show only one band at the xanthophyll level.",
+      "Difference: the brown seaweed has two further bands, pigment P (between chlorophyll a and the xanthophyll) and pigment Q (near the origin), which are not found in spinach or the red seaweed."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-077.jpg",
       "papers/biology/img/05BC-Ecology-Climate-078.jpg",
       "papers/biology/img/05BC-Ecology-Climate-079.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q29.jpg"
+     ]
     },
     {
      "id": "5BC-Q29b(ii)",
@@ -50634,7 +50985,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-078.jpg",
       "papers/biology/img/05BC-Ecology-Climate-079.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q29.jpg"
+     ]
     },
     {
      "id": "5BC-Q29c(i)",
@@ -50651,15 +51004,22 @@ window.BANK.biology = {
       "depth"
      ],
      "question": "Which row of the table shows the light that green seaweed can absorb?",
-     "status": "pending",
-     "answer": "Missing: the table rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: green light cannot be absorbed, red light can be absorbed.",
+     "steps": [
+      "Green seaweed contains chlorophyll, which absorbs red and blue light strongly.",
+      "Chlorophyll reflects green light, so green light is not absorbed (it is why the seaweed looks green).",
+      "Only row C shows green light 'cannot absorb' and red light 'can absorb'."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-077.jpg",
       "papers/biology/img/05BC-Ecology-Climate-078.jpg",
       "papers/biology/img/05BC-Ecology-Climate-079.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q29-2.jpg",
+      "papers/biology/fig/05BC-Ecology-Climate-Q29-3.jpg"
+     ]
     },
     {
      "id": "5BC-Q29c(ii)",
@@ -50676,15 +51036,21 @@ window.BANK.biology = {
       "water"
      ],
      "question": "Explain the positions of the brown and red seaweeds on the submerged rock, using the diagram of light penetration.",
-     "status": "pending",
-     "answer": "Missing: the diagram of seaweed positions and the depths of light penetration is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Red light only penetrates near the surface, and green and blue light reach deeper; brown seaweed grows deeper than green seaweed and red seaweed deepest, as their pigments can absorb the green and blue light that reaches those depths.",
+     "steps": [
+      "Red light is absorbed by the water near the surface, so green seaweed (chlorophyll absorbing red and blue light) grows in the shallowest zone.",
+      "Green and blue light penetrate deeper, so the brown seaweed in the middle zone has different pigments (such as pigment P and carotenoids) that absorb blue and green light.",
+      "The red seaweed is deepest because its pigments absorb the blue and green light that penetrates furthest, so it can still photosynthesise where little red light reaches."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-077.jpg",
       "papers/biology/img/05BC-Ecology-Climate-078.jpg",
       "papers/biology/img/05BC-Ecology-Climate-079.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q29-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q30a",
@@ -50730,15 +51096,21 @@ window.BANK.biology = {
       "shapes"
      ],
      "question": "Which row of the table represents sympatric speciation, where dark grey shapes are the original species and light grey shapes the new species?",
-     "status": "pending",
-     "answer": "Missing: the table rows are shown as shapes in a diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D",
+     "steps": [
+      "Sympatric speciation happens within the same area, with no geographical separation of the population.",
+      "In row D a new (light grey) species arises inside the original (dark grey) population, in the same area, and remains within it.",
+      "In A the population is split by a barrier and in B and C part of the population moves away, which are allopatric (geographical) types."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-080.jpg",
       "papers/biology/img/05BC-Ecology-Climate-081.jpg",
       "papers/biology/img/05BC-Ecology-Climate-082.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q30.jpg"
+     ]
     },
     {
      "id": "5BC-Q30c(i)",
@@ -50858,7 +51230,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-081.jpg",
       "papers/biology/img/05BC-Ecology-Climate-082.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q30-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q31i",
@@ -50874,15 +51248,20 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Which row of the table shows the products of the light-dependent reactions that are used in the light-independent reactions?",
-     "status": "pending",
-     "answer": "Missing: the table rows are not in the text (the expected products are ATP and reduced NADP).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: ATP from non-cyclic photophosphorylation and reduced NADP.",
+     "steps": [
+      "The light-independent reactions use ATP and reduced NADP made in the light-dependent reactions.",
+      "Reduced NADP is made only in non-cyclic photophosphorylation (cyclic makes ATP only), so only row D is correct."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-082.jpg",
       "papers/biology/img/05BC-Ecology-Climate-083.jpg",
       "papers/biology/img/05BC-Ecology-Climate-084.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q31.jpg"
+     ]
     },
     {
      "id": "5BC-Q31ii",
@@ -50929,15 +51308,22 @@ window.BANK.biology = {
       "enzymes"
      ],
      "question": "Describe three conclusions about the differences in the effect of temperature on the rate of photosynthesis in C3 and C4 plants, using the graph.",
-     "status": "pending",
-     "answer": "Missing: the graph of photosynthesis rate against temperature for C3 and C4 plants is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C4 plants have a higher maximum rate (about 36 a.u. against about 24 a.u.) at a higher optimum (about 35 C against about 27 C), and fall more slowly at high temperature, whereas C3 plants are faster below about 20 C.",
+     "steps": [
+      "The maximum rate of photosynthesis in C4 plants is about 36 a.u., higher than in C3 plants (about 24 a.u.).",
+      "The optimum temperature is higher for C4 plants (about 35 C) than for C3 plants (about 27 C).",
+      "Below about 20 C (where the curves cross, at about 22 a.u.) C3 plants have the higher rate; above about 20 C the C4 plants are higher.",
+      "The rate falls more slowly at high temperature in C4 plants (about 27 a.u. at 45 C) than in C3 plants (about 8 a.u. at 45 C)."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-082.jpg",
       "papers/biology/img/05BC-Ecology-Climate-083.jpg",
       "papers/biology/img/05BC-Ecology-Climate-084.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q31-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q31bii",
@@ -50954,15 +51340,21 @@ window.BANK.biology = {
       "whole number"
      ],
      "question": "Calculate the Q10 for the enzymes in C4 plants, using the formula and giving your answer as a whole number.",
-     "status": "pending",
-     "answer": "Missing: the rates for C4 plants read from the graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "4",
+     "steps": [
+      "For C4 plants, the rate at 10 C is about 6 a.u. (R_t).",
+      "The rate at 20 C is about 22 a.u. (R_t+10).",
+      "Q10 = 22 / 6 = 3.7 = 4 to the nearest whole number."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-082.jpg",
       "papers/biology/img/05BC-Ecology-Climate-083.jpg",
       "papers/biology/img/05BC-Ecology-Climate-084.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q31-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q32ai",
@@ -50992,7 +51384,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-085.jpg",
       "papers/biology/img/05BC-Ecology-Climate-086.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q32.jpg"
+     ]
     },
     {
      "id": "5BC-Q32aii",
@@ -51022,7 +51416,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-085.jpg",
       "papers/biology/img/05BC-Ecology-Climate-086.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q32.jpg"
+     ]
     },
     {
      "id": "5BC-Q32aiii",
@@ -51052,7 +51448,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-085.jpg",
       "papers/biology/img/05BC-Ecology-Climate-086.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q32.jpg"
+     ]
     },
     {
      "id": "5BC-Q32b",
@@ -51069,15 +51467,21 @@ window.BANK.biology = {
       "predation"
      ],
      "question": "Explain how the niche of the slender loris affects the distribution and abundance of Bengal tigers, using the food chain.",
-     "status": "pending",
-     "answer": "Missing: the food chain diagram showing how the slender loris and the Bengal tiger are related is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The slender loris is the food of tigers, so tigers are found only where lorises live (in the rainforest trees) and the number of tigers depends on how many lorises there are.",
+     "steps": [
+      "In the food chain the Bengal tiger (trophic level 3) feeds on the slender loris (level 2), so the loris is part of the tiger's niche (its food supply).",
+      "The loris lives in trees and feeds on young leaves, so the tiger's distribution is limited to the places in the rainforest where lorises and their food are found.",
+      "Only about 10% of energy passes from one trophic level to the next, so the loris population can support only a small number of tigers; if loris numbers fall, tiger abundance falls."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-084.jpg",
       "papers/biology/img/05BC-Ecology-Climate-085.jpg",
       "papers/biology/img/05BC-Ecology-Climate-086.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q32.jpg"
+     ]
     },
     {
      "id": "5BC-Q32c",
@@ -51124,16 +51528,22 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the mean drop in height of the glacier from 1980 to 2000, giving suitable units.",
-     "status": "pending",
-     "answer": "Missing: the glacier height data from the graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.3 m per year (m yr^-1)",
+     "steps": [
+      "The decrease in height from 1980 to 2000 is 6 m (from 0 to -6 m).",
+      "The time taken is 20 years.",
+      "Mean drop = 6 / 20 = 0.3 m per year."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-086.jpg",
       "papers/biology/img/05BC-Ecology-Climate-087.jpg",
       "papers/biology/img/05BC-Ecology-Climate-088.jpg",
       "papers/biology/img/05BC-Ecology-Climate-089.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q33-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q33aii",
@@ -51164,7 +51574,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-088.jpg",
       "papers/biology/img/05BC-Ecology-Climate-089.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q33-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q33b",
@@ -51181,16 +51593,21 @@ window.BANK.biology = {
       "zones"
      ],
      "question": "Which letter on the diagram indicates the location of pioneer species only? A P, B Q, C R, D S.",
-     "status": "pending",
-     "answer": "Missing: the diagram of the retreating glacier with lettered zones is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: P (the zone nearest the glacier, exposed most recently).",
+     "steps": [
+      "Succession starts with pioneer species on newly exposed ground, so they are found alone where the ground has been exposed for the shortest time.",
+      "Zone P is the one nearest the front of the glacier, so it is the youngest ground; Q, R and S are further away and older, where other plants as well as pioneers occur."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-086.jpg",
       "papers/biology/img/05BC-Ecology-Climate-087.jpg",
       "papers/biology/img/05BC-Ecology-Climate-088.jpg",
       "papers/biology/img/05BC-Ecology-Climate-089.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q33.jpg"
+     ]
     },
     {
      "id": "5BC-Q33ci",
@@ -51238,16 +51655,25 @@ window.BANK.biology = {
       "graphs"
      ],
      "question": "Explain the variations in soil conditions and the organisms found at different distances from the front edge of the glacier, using the table and graphs.",
-     "status": "pending",
-     "answer": "Missing: the soil carbon:nitrogen table and the probability and diversity graphs are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "This is primary succession: ground exposed longest is furthest from the glacier, where pioneers are replaced by small then large plants as soil builds up, so diversity peaks at about 2000 years and then falls, while the soil C : N ratio changes from 9.8 to a maximum of 11.6.",
+     "steps": [
+      "Pioneer species colonise bare ground first (probability about 0.8 at about 500 years) and add organic matter; they decline to almost zero by about 5000 years as they are outcompeted by plants better suited to the improved soil.",
+      "As organic matter accumulates and nitrogen is fixed, soil depth and fertility increase, so small plants peak (about 0.85 at about 2000 years) and large plants increase to about 0.87 by 5000 years.",
+      "Plant diversity rises quickly to a maximum of about 34 a.u. at about 1500 to 2000 years because more species can colonise the improved soil and there are many niches.",
+      "Diversity then falls to about 22 a.u. at 5000 years as large dominant plants shade and outcompete the others, giving a climax community.",
+      "The carbon : nitrogen ratio rises from 9.8 (under 200 years) to 11.6 (2000 years) as plant litter adds carbon faster than nitrogen is added, then falls to 10.7 and 10.3 as decomposition releases nitrogen and nitrogen-fixing organisms add more nitrogen."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-086.jpg",
       "papers/biology/img/05BC-Ecology-Climate-087.jpg",
       "papers/biology/img/05BC-Ecology-Climate-088.jpg",
       "papers/biology/img/05BC-Ecology-Climate-089.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q33-3.jpg",
+      "papers/biology/fig/05BC-Ecology-Climate-Q33-4.jpg"
+     ]
     },
     {
      "id": "5BC-Q34a",

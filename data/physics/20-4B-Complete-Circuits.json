@@ -3502,13 +3502,13 @@
         "series circuit",
         "i squared r"
       ],
-      "question": "Thermistor in series with a wire resistor R; at 45 C the thermistor resistance is four times R; P in the resistor is 0.38 W. Derive the equation for the e.m.f.",
+      "question": "A thermistor is in series with a wire resistor of resistance R. At 45 C the thermistor resistance is four times R, and the power P dissipated in the resistor is 0.38 W. Derive the equation P = V^2 / R.",
       "status": "ready",
-      "answer": "E = 5 sqrt(P R)",
+      "answer": "P = I V and I = V / R, so P = V x V / R = V^2 / R.",
       "steps": [
-        "Power in resistor P = I^2 R, so I = sqrt(P / R).",
-        "Total resistance = 4R + R = 5R, so E = I x 5R.",
-        "Substitute: E = 5R sqrt(P / R) = 5 sqrt(P R)."
+        "Power is the rate of energy transfer: P = I V.",
+        "From the definition of resistance, V = I R, so I = V / R.",
+        "Substitute for I: P = (V / R) x V = V^2 / R."
       ],
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-67.jpg",
@@ -4460,11 +4460,12 @@
       ],
       "question": "EMF 4.5 V, negligible internal resistance, and the lamp-plus-resistor combination has resistance about 5 ohm. Determine the power dissipated when the voltmeter reads 3.6 V.",
       "status": "ready",
-      "answer": "About 4.1 W (using the 5 ohm total from part (a))",
+      "answer": "3.2 W",
       "steps": [
-        "Current I = E / R_total = 4.5 / 5.0 = 0.90 A.",
-        "Power dissipated in the circuit P = E I = 4.5 x 0.90 = 4.1 W.",
-        "(Check: the power is also V I = 3.6 x 0.90 in the lamp plus 0.9 x 0.90 in the resistor, totalling about 4.1 W.)"
+        "The variable resistor is in series with the lamp-and-resistor combination, so the battery current is the 0.71 A found in part (a).",
+        "The battery e.m.f. is 4.5 V and its internal resistance is negligible, so the power supplied to the whole circuit is P = E I.",
+        "P = 4.5 V x 0.71 A = 3.2 W.",
+        "(The variable resistor takes the remaining 4.5 - 3.6 = 0.9 V, so you cannot use I = 4.5 / 5.)"
       ],
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-86.jpg",

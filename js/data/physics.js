@@ -35915,13 +35915,13 @@ window.BANK.physics = {
       "series circuit",
       "i squared r"
      ],
-     "question": "Thermistor in series with a wire resistor R; at 45 C the thermistor resistance is four times R; P in the resistor is 0.38 W. Derive the equation for the e.m.f.",
+     "question": "A thermistor is in series with a wire resistor of resistance R. At 45 C the thermistor resistance is four times R, and the power P dissipated in the resistor is 0.38 W. Derive the equation P = V^2 / R.",
      "status": "ready",
-     "answer": "E = 5 sqrt(P R)",
+     "answer": "P = I V and I = V / R, so P = V x V / R = V^2 / R.",
      "steps": [
-      "Power in resistor P = I^2 R, so I = sqrt(P / R).",
-      "Total resistance = 4R + R = 5R, so E = I x 5R.",
-      "Substitute: E = 5R sqrt(P / R) = 5 sqrt(P R)."
+      "Power is the rate of energy transfer: P = I V.",
+      "From the definition of resistance, V = I R, so I = V / R.",
+      "Substitute for I: P = (V / R) x V = V^2 / R."
      ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-67.jpg",
@@ -36890,11 +36890,12 @@ window.BANK.physics = {
      ],
      "question": "EMF 4.5 V, negligible internal resistance, and the lamp-plus-resistor combination has resistance about 5 ohm. Determine the power dissipated when the voltmeter reads 3.6 V.",
      "status": "ready",
-     "answer": "About 4.1 W (using the 5 ohm total from part (a))",
+     "answer": "3.2 W",
      "steps": [
-      "Current I = E / R_total = 4.5 / 5.0 = 0.90 A.",
-      "Power dissipated in the circuit P = E I = 4.5 x 0.90 = 4.1 W.",
-      "(Check: the power is also V I = 3.6 x 0.90 in the lamp plus 0.9 x 0.90 in the resistor, totalling about 4.1 W.)"
+      "The variable resistor is in series with the lamp-and-resistor combination, so the battery current is the 0.71 A found in part (a).",
+      "The battery e.m.f. is 4.5 V and its internal resistance is negligible, so the power supplied to the whole circuit is P = E I.",
+      "P = 4.5 V x 0.71 A = 3.2 W.",
+      "(The variable resistor takes the remaining 4.5 - 3.6 = 0.9 V, so you cannot use I = 4.5 / 5.)"
      ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-86.jpg",
@@ -37437,14 +37438,21 @@ window.BANK.physics = {
       "angle"
      ],
      "question": "A gas molecule of mass m moves at speed v and strikes the side of a cylinder at an angle, taking time t to collide. Which gives the average force on the side of the cylinder?",
-     "status": "pending",
-     "answer": "The answer options and the angle definition are missing from the text. Working gives F = 2 m v cos(theta) / t.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 2 m v sin(theta) / t",
+     "steps": [
+      "The angle theta is between the molecule's path and the wall, so the velocity component perpendicular to the wall is v sin(theta).",
+      "The component along the wall is unchanged, but the perpendicular component reverses: change in momentum = m v sin(theta) - (-m v sin(theta)) = 2 m v sin(theta).",
+      "Average force F = change in momentum / time = 2 m v sin(theta) / t."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-01.jpg",
       "papers/physics/img/21-5A-Further-Momentum-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q1.jpg",
+      "papers/physics/fig/21-5A-Further-Momentum-Q1-2.jpg"
+     ]
     },
     {
      "id": "5A-Q2",
@@ -37460,14 +37468,21 @@ window.BANK.physics = {
       "two bodies"
      ],
      "question": "Momenta P and Q of two bodies about to merge are shown. Which diagram shows the resultant momentum after they move on as one body?",
-     "status": "pending",
-     "answer": "The momentum vector diagrams and options are missing from the text, so the correct diagram cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "Momentum is a vector, so the resultant is found by adding P and Q head to tail (tip to tail).",
+      "The resultant is drawn from the tail of the first vector to the tip of the second.",
+      "In diagram C, P and Q join head to tail and the resultant runs from the start of P to the end of Q. In A and B the arrows meet head to head; in D the resultant points the wrong way."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-01.jpg",
       "papers/physics/img/21-5A-Further-Momentum-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q2.jpg",
+      "papers/physics/fig/21-5A-Further-Momentum-Q2-2.jpg"
+     ]
     },
     {
      "id": "5A-Q3a",
@@ -37628,9 +37643,14 @@ window.BANK.physics = {
       "before and after collision"
      ],
      "question": "Sketch a labelled vector diagram showing the momenta of the spacecraft and asteroid before and after a collision at 90 degrees, where they remain joined.",
-     "status": "pending",
-     "answer": "Requires a drawn vector diagram, which cannot be given in one line. Expected: spacecraft momentum at 90 degrees to asteroid momentum before; resultant (combined) momentum after.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A right-angled vector triangle: the large asteroid momentum and the small spacecraft momentum at 90 degrees, with the resultant momentum after the collision as the hypotenuse.",
+     "steps": [
+      "Before: draw the asteroid momentum p_a as a long arrow and the spacecraft momentum p_s as a very short arrow at 90 degrees to it (label both).",
+      "Momentum is conserved, so after the collision the joined bodies have momentum equal to the vector sum of p_a and p_s.",
+      "Draw p_s from the tip of p_a (head to tail) and the resultant momentum from the tail of p_a to the tip of p_s, and label it \"momentum after collision\".",
+      "Mark the small angle between the resultant and the original asteroid direction (about 10^-7 rad, so the diagram must be exaggerated)."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-05.jpg",
       "papers/physics/img/21-5A-Further-Momentum-06.jpg",
@@ -37796,15 +37816,22 @@ window.BANK.physics = {
       "two-dimensional collision"
      ],
      "question": "Puck 1 (110 g) moves at 0.41 m s^-1 and hits stationary puck 2 (130 g). Puck 1 moves off at 0.28 m s^-1 after the collision. Calculate the speed of puck 2 after the collision.",
-     "status": "pending",
-     "answer": "The diagram of the puck paths and the angles between them are missing from the text. If the motion were one-dimensional, v2 would be 0.11 m s^-1, but the angles are needed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Speed of puck 2 = 0.26 m s^-1",
+     "steps": [
+      "The pucks start along the horizontal, so the total momentum perpendicular to the original direction is zero after the collision. Puck 1 goes at 49 degrees above and puck 2 at 43 degrees below.",
+      "Perpendicular components: m1 v1 sin49 = m2 v2 sin43, so 0.110 x 0.28 x sin49 = 0.130 x v2 x sin43.",
+      "v2 = (0.110 x 0.28 x 0.755) / (0.130 x 0.682) = 0.0232 / 0.0887.",
+      "v2 = 0.26 m s^-1. (Check along the original direction: 0.110 x 0.28 cos49 + 0.130 x 0.262 cos43 = 0.0451 kg m s^-1, equal to the initial 0.110 x 0.41.)"
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-07.jpg",
       "papers/physics/img/21-5A-Further-Momentum-08.jpg",
       "papers/physics/img/21-5A-Further-Momentum-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q7.jpg"
+     ]
     },
     {
      "id": "5A-Q7b(ii)",
@@ -37820,15 +37847,22 @@ window.BANK.physics = {
       "collision test"
      ],
      "question": "Deduce whether the collision between the two pucks described in part (b)(i) was elastic.",
-     "status": "pending",
-     "answer": "Depends on the puck speed from part (b)(i), which needs the missing path diagram and angles.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Not elastic: kinetic energy falls from 9.2 x 10^-3 J to 8.8 x 10^-3 J.",
+     "steps": [
+      "An elastic collision conserves kinetic energy, so compare the total KE before and after.",
+      "Before: 0.5 x 0.110 x 0.41^2 = 9.2 x 10^-3 J.",
+      "After: 0.5 x 0.110 x 0.28^2 + 0.5 x 0.130 x 0.262^2 = 4.3 x 10^-3 + 4.5 x 10^-3 = 8.8 x 10^-3 J.",
+      "The KE after is about 5% less than before, so some kinetic energy has been transferred to other forms and the collision was not perfectly elastic."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-07.jpg",
       "papers/physics/img/21-5A-Further-Momentum-08.jpg",
       "papers/physics/img/21-5A-Further-Momentum-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q7.jpg"
+     ]
     },
     {
      "id": "5A-Q7c",
@@ -37873,14 +37907,20 @@ window.BANK.physics = {
       "particles"
      ],
      "question": "A particle of mass m has kinetic energy Ek and momentum p. A second particle of mass 2m has kinetic energy 2Ek. Which is equal to the momentum of the second particle?",
-     "status": "pending",
-     "answer": "The answer options are missing from the text. Working gives p2 = 2p (p = sqrt(2 m Ek)).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 2p",
+     "steps": [
+      "For a non-relativistic particle Ek = p^2 / (2m), so p = sqrt(2 m Ek).",
+      "Second particle: p2 = sqrt(2 x 2m x 2Ek) = sqrt(8 m Ek) = 2 sqrt(2 m Ek).",
+      "So p2 = 2p."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-09.jpg",
       "papers/physics/img/21-5A-Further-Momentum-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q8.jpg"
+     ]
     },
     {
      "id": "5A-Q9",
@@ -37924,14 +37964,19 @@ window.BANK.physics = {
       "row"
      ],
      "question": "Which row of a table identifies what happens to momentum and kinetic energy in an elastic collision?",
-     "status": "pending",
-     "answer": "The table of rows is missing from the text, so the row cannot be identified (expected: both momentum and kinetic energy conserved).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: momentum conserved, kinetic energy conserved",
+     "steps": [
+      "Momentum is conserved in every collision when no external force acts.",
+      "In an elastic collision, kinetic energy is also conserved, so row A."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-10.jpg",
       "papers/physics/img/21-5A-Further-Momentum-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q10.jpg"
+     ]
     },
     {
      "id": "5A-Q11",
@@ -37947,14 +37992,20 @@ window.BANK.physics = {
       "joules"
      ],
      "question": "Two trolleys X and Y (each 0.25 kg) collide and join with velocity 1 m s^-1 afterwards. Which is the kinetic energy of trolley X before the collision (A 0.5 J, B 1 J, C 2 J, D 4 J)?",
-     "status": "pending",
-     "answer": "The momentum diagram for trolleys X and Y is missing from the text, so the momentum of X cannot be read.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 0.5 J",
+     "steps": [
+      "Trolley X has momentum p = 0.5 N s and mass 0.25 kg, so its speed is v = p / m = 0.5 / 0.25 = 2.0 m s^-1.",
+      "Kinetic energy = 1/2 m v^2 = 0.5 x 0.25 x 2.0^2 = 0.5 J (or p^2 / 2m = 0.25 / 0.5 = 0.5 J)."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-10.jpg",
       "papers/physics/img/21-5A-Further-Momentum-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q11.jpg",
+      "papers/physics/fig/21-5A-Further-Momentum-Q11-2.jpg"
+     ]
     },
     {
      "id": "5A-Q12",
@@ -37970,14 +38021,22 @@ window.BANK.physics = {
       "joined trolleys"
      ],
      "question": "Two trolleys X and Y (each 0.25 kg) join after colliding and move with velocity 1 m s^-1. Which row of the table is correct for this collision?",
-     "status": "pending",
-     "answer": "The momentum diagram and the table of rows are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: momentum conserved, inelastic collision",
+     "steps": [
+      "Momentum before = 0.5 N s + 0 = 0.5 N s. After, the joined trolleys have mass 0.50 kg and speed 1 m s^-1: momentum = 0.50 N s, so momentum is conserved.",
+      "KE before = p^2 / 2m = 0.5^2 / (2 x 0.25) = 0.5 J. KE after = 1/2 x 0.50 x 1^2 = 0.25 J.",
+      "Kinetic energy has decreased, so the collision is inelastic. This is row B."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-11.jpg",
       "papers/physics/img/21-5A-Further-Momentum-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q12.jpg",
+      "papers/physics/fig/21-5A-Further-Momentum-Q12-2.jpg",
+      "papers/physics/fig/21-5A-Further-Momentum-Q12-3.jpg"
+     ]
     },
     {
      "id": "5A-Q13",
@@ -37993,14 +38052,19 @@ window.BANK.physics = {
       "same mass"
      ],
      "question": "An object of mass m has momentum p and kinetic energy E. Which is the mass of an object with momentum 2p and kinetic energy 4E?",
-     "status": "pending",
-     "answer": "The answer options are missing from the text. Working gives mass = m.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: m",
+     "steps": [
+      "E = p^2 / 2m, so m = p^2 / 2E.",
+      "New object: m_new = (2p)^2 / (2 x 4E) = 4 p^2 / 8E = p^2 / 2E = m."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-12.jpg",
       "papers/physics/img/21-5A-Further-Momentum-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q13.jpg"
+     ]
     },
     {
      "id": "5A-Q14",
@@ -38116,7 +38180,10 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-15.jpg",
       "papers/physics/img/21-5A-Further-Momentum-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q16.jpg",
+      "papers/physics/fig/21-5A-Further-Momentum-Q16-2.jpg"
+     ]
     },
     {
      "id": "5A-Q16c",
@@ -38132,15 +38199,24 @@ window.BANK.physics = {
       "momentum"
      ],
      "question": "Using a scaled vector diagram, deduce whether the black ball moves towards the corner pocket shown in the figure.",
-     "status": "pending",
-     "answer": "The figure showing the pocket direction and the diagram of ball paths is missing from the text, so the direction cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes: the black ball leaves at about 50 degrees to the original direction, which is the direction of the pocket.",
+     "steps": [
+      "Both balls have the same mass m, so the velocity vectors can be used in place of momentum vectors (the m cancels).",
+      "Draw the initial velocity of the white ball (1.20 m s^-1) to scale, then the white ball final velocity (0.92 m s^-1) at 35 degrees below the original line, from the same start point.",
+      "The black ball velocity completes the triangle (initial = white final + black final). The closing side measures about 0.69 m s^-1.",
+      "By calculation: x-component = 1.20 - 0.92 cos35 = 0.45 m s^-1; y-component = 0.92 sin35 = 0.53 m s^-1 (opposite side to the white ball).",
+      "Angle = tan^-1(0.53 / 0.45) = 50 degrees, which matches the 50 degrees line to the pocket, so the black ball moves towards the pocket."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-14.jpg",
       "papers/physics/img/21-5A-Further-Momentum-15.jpg",
       "papers/physics/img/21-5A-Further-Momentum-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q16.jpg",
+      "papers/physics/fig/21-5A-Further-Momentum-Q16-2.jpg"
+     ]
     },
     {
      "id": "5A-Q17a",
@@ -38185,15 +38261,23 @@ window.BANK.physics = {
       "model"
      ],
      "question": "A spreadsheet modelled an elastic collision between objects A and B. Deduce from the initial and final values whether the collision was elastic.",
-     "status": "pending",
-     "answer": "The spreadsheet values are missing from the text, so the test cannot be applied.",
-     "steps": [],
+     "status": "ready",
+     "answer": "No: total kinetic energy falls from 0.72 J to 0.66 J, so the values do not show an elastic collision.",
+     "steps": [
+      "In an elastic collision the total kinetic energy is conserved.",
+      "Initial KE = 1/2 x 0.85 x 1.30^2 = 0.718 J (B is at rest).",
+      "Final KE = 1/2 x 0.85 x 0.98^2 + 1/2 x 1.70 x 0.54^2 = 0.408 + 0.248 = 0.656 J.",
+      "The final KE is about 9% lower, a larger difference than rounding of the data would explain, so the collision is not elastic."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-16.jpg",
       "papers/physics/img/21-5A-Further-Momentum-17.jpg",
       "papers/physics/img/21-5A-Further-Momentum-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q17.jpg",
+      "papers/physics/fig/21-5A-Further-Momentum-Q17-2.jpg"
+     ]
     },
     {
      "id": "5A-Q17b(ii)",
@@ -38209,15 +38293,23 @@ window.BANK.physics = {
       "momentum test"
      ],
      "question": "Using the spreadsheet values for objects A and B, deduce whether they show conservation of momentum.",
-     "status": "pending",
-     "answer": "The spreadsheet values are missing from the text, so the momentum totals cannot be compared.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes: both components of momentum are conserved within rounding (x: 1.105 before, 1.098 after; y: 0 before, -0.004 after).",
+     "steps": [
+      "Initial momentum (all along x): 0.85 x 1.30 = 1.105 kg m s^-1; y-component = 0.",
+      "Final x-component = 0.85 x 0.98 cos54.5 + 1.70 x 0.54 cos(-48.0) = 0.484 + 0.614 = 1.098 kg m s^-1.",
+      "Final y-component = 0.85 x 0.98 sin54.5 + 1.70 x 0.54 sin(-48.0) = 0.678 - 0.682 = -0.004 kg m s^-1.",
+      "The x-components differ by about 0.6% and the y-component is almost zero, so momentum is conserved within the precision of the data."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-16.jpg",
       "papers/physics/img/21-5A-Further-Momentum-17.jpg",
       "papers/physics/img/21-5A-Further-Momentum-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q17.jpg",
+      "papers/physics/fig/21-5A-Further-Momentum-Q17-2.jpg"
+     ]
     },
     {
      "id": "5A-Q18",
@@ -38289,14 +38381,22 @@ window.BANK.physics = {
       "conservation of momentum"
      ],
      "question": "Two 19.1 kg granite stones collide; one moves at 1.70 m s^-1 towards a stationary stone. Show that the speed v after the collision is about 1.3 m s^-1.",
-     "status": "pending",
-     "answer": "The diagram showing the directions of the stones after the collision is missing, so the angles needed for the vector momentum calculation are not available.",
-     "steps": [],
+     "status": "ready",
+     "answer": "v = 1.33 m s^-1, which is about 1.3 m s^-1",
+     "steps": [
+      "The stones have equal mass and the second stone is initially at rest. The momentum perpendicular to the original direction is zero before, so it is zero after.",
+      "Perpendicular components: 0.87 sin50 = v sin30.",
+      "v = 0.87 x 0.766 / 0.500 = 1.33 m s^-1 = 1.3 m s^-1.",
+      "Check along the original direction: 0.87 cos50 + 1.33 cos30 = 0.56 + 1.15 = 1.71, which agrees with the initial 1.70 m s^-1."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-19.jpg",
       "papers/physics/img/21-5A-Further-Momentum-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q20.jpg",
+      "papers/physics/fig/21-5A-Further-Momentum-Q20-2.jpg"
+     ]
     },
     {
      "id": "5A-Q20b",
@@ -38312,14 +38412,21 @@ window.BANK.physics = {
       "19.1 kg"
      ],
      "question": "Deduce whether the curling stone collision was elastic, including a calculation.",
-     "status": "pending",
-     "answer": "Requires the post-collision directions and speeds shown in the missing diagram. Initial KE = 0.5 x 19.1 x 1.70^2 = 27.6 J.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Not elastic: kinetic energy falls from 27.6 J to 24.2 J.",
+     "steps": [
+      "Initial KE = 1/2 x 19.1 x 1.70^2 = 27.6 J.",
+      "Final KE = 1/2 x 19.1 x (0.87^2 + 1.33^2) = 9.55 x (0.757 + 1.77) = 24.2 J.",
+      "KE after is less than KE before (about 12% less), so the collision is inelastic, not elastic."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-19.jpg",
       "papers/physics/img/21-5A-Further-Momentum-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q20.jpg",
+      "papers/physics/fig/21-5A-Further-Momentum-Q20-2.jpg"
+     ]
     },
     {
      "id": "5A-Q21",
@@ -38363,14 +38470,20 @@ window.BANK.physics = {
       "collision time"
      ],
      "question": "A ball of speed u hits a wall at right angles and bounces back at speed v in the opposite direction in collision time t. Which expression gives the average force on the wall?",
-     "status": "pending",
-     "answer": "The answer options are missing from the text and the ball's mass is not defined in the text. Working gives F = m (u + v) / t.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: m (u + v) / t",
+     "steps": [
+      "Take the initial direction as positive: initial momentum = m u, final momentum = -m v.",
+      "Change in momentum of the ball = -m v - m u = -m (u + v), so its magnitude is m (u + v).",
+      "Average force = change in momentum / time = m (u + v) / t (on the wall, equal and opposite to the force on the ball)."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-20.jpg",
       "papers/physics/img/21-5A-Further-Momentum-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q22.jpg"
+     ]
     },
     {
      "id": "5A-Q23",
@@ -38386,16 +38499,22 @@ window.BANK.physics = {
       "second particle"
      ],
      "question": "A non-relativistic particle of mass m has momentum p and kinetic energy Ek. A second non-relativistic particle has momentum 2p. Which expression gives its kinetic energy?",
-     "status": "pending",
-     "answer": "The mass of the second particle is missing from the text and the answer options are missing. Working gives Ek = (2p)^2 / (2 x mass).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 8 Ek",
+     "steps": [
+      "Ek = p^2 / 2m for a non-relativistic particle.",
+      "Second particle: mass m/2 and momentum 2p, so Ek2 = (2p)^2 / (2 x m/2) = 4 p^2 / m.",
+      "Compare with Ek = p^2 / 2m: Ek2 = 8 x p^2 / 2m = 8 Ek."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-21.jpg",
       "papers/physics/img/21-5A-Further-Momentum-22.jpg",
       "papers/physics/img/21-5A-Further-Momentum-23.jpg",
       "papers/physics/img/21-5A-Further-Momentum-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q23.jpg"
+     ]
     },
     {
      "id": "5A-Q24a",
@@ -38501,16 +38620,24 @@ window.BANK.physics = {
       "magnitude and direction"
      ],
      "question": "Using the directions of the three particles at the decay, determine the magnitude and direction of the neutron's momentum, given the + particle momentum 3.67 x 10^-19 kg m s^-1 and pion momentum 1.07 x 10^-19 kg m s^-1.",
-     "status": "pending",
-     "answer": "The diagram of particle directions and angles is missing from the text, so the vector triangle cannot be constructed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Magnitude of neutron momentum = 3.4 x 10^-19 kg m s^-1; direction 17 degrees to the original direction of the Sigma-plus (on the opposite side to the pion).",
+     "steps": [
+      "Momentum is conserved in both directions. Take the original direction of the Sigma-plus as the vertical axis.",
+      "Perpendicular to the original direction (horizontal): p_n sin(theta) = p_pion sin65 = 1.07 x 10^-19 x 0.906 = 9.7 x 10^-20 kg m s^-1.",
+      "Along the original direction (vertical): p_n cos(theta) = 3.67 x 10^-19 - 1.07 x 10^-19 x cos65 = 3.67 x 10^-19 - 4.5 x 10^-20 = 3.22 x 10^-19 kg m s^-1.",
+      "p_n = sqrt[(9.7 x 10^-20)^2 + (3.22 x 10^-19)^2] = 3.4 x 10^-19 kg m s^-1.",
+      "tan(theta) = 9.7 x 10^-20 / 3.22 x 10^-19 = 0.30, so theta = 17 degrees to the original direction, on the opposite side from the pion."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-21.jpg",
       "papers/physics/img/21-5A-Further-Momentum-22.jpg",
       "papers/physics/img/21-5A-Further-Momentum-23.jpg",
       "papers/physics/img/21-5A-Further-Momentum-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q24-2.jpg"
+     ]
     },
     {
      "id": "5A-Q24b(iv)",
@@ -38526,16 +38653,23 @@ window.BANK.physics = {
       "charged particle"
      ],
      "question": "Add to the bubble chamber diagram all tracks visible after the decay at X, and label the diagram.",
-     "status": "pending",
-     "answer": "Requires a drawn, labelled diagram of the tracks, which cannot be given in one line. Neutral neutron leaves no track; the charged pion leaves a curved track.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Add one curved track from X for the positively charged pion, with a smaller radius than the sigma track; no track for the neutral neutron.",
+     "steps": [
+      "The pion (pi-plus) is charged, so it ionises the liquid and leaves a visible track starting at X, in the direction of its momentum (65 degrees from the sigma direction, on the opposite side to the neutron).",
+      "It has the same charge sign as the sigma, so it curves in the same sense in the magnetic field.",
+      "Its momentum is smaller (1.07 x 10^-19 compared with 3.67 x 10^-19 kg m s^-1), so r = p / (B q) is about 0.58 m, much smaller than 1.99 m: the track is more tightly curved.",
+      "The neutron is neutral and does not ionise, so no track is drawn for it (it may be labelled \"neutron: no track\"). Label the incoming track Sigma-plus and the new track pi-plus."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-21.jpg",
       "papers/physics/img/21-5A-Further-Momentum-22.jpg",
       "papers/physics/img/21-5A-Further-Momentum-23.jpg",
       "papers/physics/img/21-5A-Further-Momentum-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q24.jpg"
+     ]
     },
     {
      "id": "5A-Q25a",
@@ -38580,15 +38714,24 @@ window.BANK.physics = {
       "air table"
      ],
      "question": "Two identical pucks A and B collide with one puck initially stationary, and their paths after collision are at 90 degrees. Deduce using conservation of momentum whether the angle is 90 degrees.",
-     "status": "pending",
-     "answer": "The diagram of the collision and the recorded speed data are missing from the text, so the test cannot be carried out.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes: a + b = 33 + 58 = 91 degrees, which is about 90 degrees.",
+     "steps": [
+      "Puck B is initially stationary and the pucks have equal mass; B must gain momentum equal to the missing momentum of A.",
+      "Perpendicular to the original direction: p_B sin(b) = p_A sin33 = 0.039 x 0.545 = 0.0212 kg m s^-1.",
+      "Along the original direction: p_B cos(b) = 0.046 - 0.039 cos33 = 0.046 - 0.0327 = 0.0133 kg m s^-1.",
+      "tan(b) = 0.0212 / 0.0133 = 1.60, so b = 58 degrees.",
+      "The angle between the paths is a + b = 33 + 58 = 91 degrees, which is 90 degrees within the precision of the data."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-24.jpg",
       "papers/physics/img/21-5A-Further-Momentum-25.jpg",
       "papers/physics/img/21-5A-Further-Momentum-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q25.jpg",
+      "papers/physics/fig/21-5A-Further-Momentum-Q25-2.jpg"
+     ]
     },
     {
      "id": "5A-Q25b(ii)",
@@ -38604,15 +38747,23 @@ window.BANK.physics = {
       "recorded data"
      ],
      "question": "Deduce whether the collision between the identical pucks (mass 0.110 kg each) was elastic, using the recorded data.",
-     "status": "pending",
-     "answer": "The recorded speed data for the collision are missing from the text, so kinetic energy before and after cannot be compared.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Elastic: KE after = 9.8 x 10^-3 J, equal to KE before = 9.6 x 10^-3 J within about 2%.",
+     "steps": [
+      "Use Ek = p^2 / 2m with m = 0.110 kg.",
+      "Before: 0.046^2 / (2 x 0.110) = 9.6 x 10^-3 J.",
+      "After: puck A = 0.039^2 / 0.220 = 6.9 x 10^-3 J. Puck B momentum = sqrt(0.0133^2 + 0.0212^2) = 0.0251 kg m s^-1, so KE = 0.0251^2 / 0.220 = 2.9 x 10^-3 J. Total = 9.8 x 10^-3 J.",
+      "The totals agree within the rounding of the data (about 2%), so the collision was elastic."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-24.jpg",
       "papers/physics/img/21-5A-Further-Momentum-25.jpg",
       "papers/physics/img/21-5A-Further-Momentum-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q25.jpg",
+      "papers/physics/fig/21-5A-Further-Momentum-Q25-2.jpg"
+     ]
     },
     {
      "id": "5A-Q26a(i)",
@@ -38744,14 +38895,21 @@ window.BANK.physics = {
       "momentum change"
      ],
      "question": "A helium atom of mass m and velocity v collides at right angles with a surface and rebounds with the same speed in the opposite direction in time t. Which is the mean force on the atom?",
-     "status": "pending",
-     "answer": "The answer options are missing from the text. Working gives F = 2 m v / t (on the atom, directed away from the surface).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: -2 m v / delta t",
+     "steps": [
+      "Take the initial direction of motion (towards the surface, as shown by the arrow) as positive. Initial momentum = m v, final momentum = -m v.",
+      "Change in momentum of the atom = -m v - m v = -2 m v.",
+      "Mean force on the atom = change in momentum / delta t = -2 m v / delta t (negative: directed away from the surface)."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-28.jpg",
       "papers/physics/img/21-5A-Further-Momentum-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q27.jpg",
+      "papers/physics/fig/21-5A-Further-Momentum-Q27-2.jpg"
+     ]
     },
     {
      "id": "5A-Q28",
@@ -38910,14 +39068,20 @@ window.BANK.physics = {
       "options"
      ],
      "question": "An electron has kinetic energy 3.5 x 10^-28 J. Which gives its momentum in kg m s^-1?",
-     "status": "pending",
-     "answer": "The answer options are missing from the text. Working gives p = sqrt(2 m Ek) = 2.5 x 10^-29 kg m s^-1.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: sqrt(2 x 9.11 x 10^-31 x 3.5 x 10^-28)",
+     "steps": [
+      "For a non-relativistic particle Ek = p^2 / 2m, so p = sqrt(2 m Ek).",
+      "With m = 9.11 x 10^-31 kg and Ek = 3.5 x 10^-28 J: p = sqrt(2 x 9.11 x 10^-31 x 3.5 x 10^-28), option D.",
+      "The value is about 2.5 x 10^-29 kg m s^-1."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-32.jpg",
       "papers/physics/img/21-5A-Further-Momentum-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q31.jpg"
+     ]
     },
     {
      "id": "5A-Q32",
@@ -38933,14 +39097,19 @@ window.BANK.physics = {
       "joined together"
      ],
      "question": "A moving trolley collides with a stationary trolley and they move off together, with negligible friction and an inelastic collision. Which row of the table shows the change in total momentum and total kinetic energy?",
-     "status": "pending",
-     "answer": "The table of rows is missing from the text. Expected: total momentum is conserved and total kinetic energy decreases.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: total momentum conserved; total kinetic energy not conserved (decreases)",
+     "steps": [
+      "Frictional forces are negligible, so no resultant external force acts and the total momentum is conserved.",
+      "The collision is inelastic and the trolleys stick together, so some kinetic energy is transferred to other forms (heat, sound), and the total kinetic energy decreases. This is row B."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-32.jpg",
       "papers/physics/img/21-5A-Further-Momentum-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q32.jpg"
+     ]
     },
     {
      "id": "5A-Q33a",
@@ -39013,14 +39182,20 @@ window.BANK.physics = {
       "neutrons"
      ],
      "question": "In nuclear fission a nucleus splits into nucleus S, nucleus T and neutrons. S and T have the same kinetic energy and T has twice the mass of S. Which is the ratio shown in the missing expression?",
-     "status": "pending",
-     "answer": "The answer options and the ratio expression are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: square root of 2",
+     "steps": [
+      "For a non-relativistic particle Ek = p^2 / 2m, so p = sqrt(2 m Ek).",
+      "S and T have the same Ek, so p is proportional to sqrt(m).",
+      "p_T / p_S = sqrt(m_T / m_S) = sqrt(2)."
+     ],
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-34.jpg",
       "papers/physics/img/21-5A-Further-Momentum-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/21-5A-Further-Momentum-Q34.jpg"
+     ]
     },
     {
      "id": "5A-Q35",
@@ -39162,15 +39337,21 @@ window.BANK.physics = {
       "19 degrees"
      ],
      "question": "Complete a free body force diagram for one aeroplane on its wire at the given speed, where the wire is at 19 degrees to the vertical.",
-     "status": "pending",
-     "answer": "Pending: the force diagram is not in the text extraction; it needs tension along the wire and weight vertically downward.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Two forces: weight mg acting vertically downwards, and tension T along the wire, directed up towards the point of support at 19 degrees to the vertical.",
+     "steps": [
+      "Draw the weight W = mg as an arrow vertically downwards from the dot (the aeroplane).",
+      "Draw the tension T in the wire as an arrow along the wire, pointing up and inwards towards the support, at 19 degrees to the vertical.",
+      "These are the only two forces (the horizontal component of T is the resultant force that provides the centripetal force)."
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-01.jpg",
       "papers/physics/img/22-5B-Circular-Motion-02.jpg",
       "papers/physics/img/22-5B-Circular-Motion-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q1.jpg"
+     ]
     },
     {
      "id": "5B-Q1b(ii)",
@@ -39203,7 +39384,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-02.jpg",
       "papers/physics/img/22-5B-Circular-Motion-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q1.jpg"
+     ]
     },
     {
      "id": "5B-Q1b(iii)",
@@ -39234,7 +39417,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-02.jpg",
       "papers/physics/img/22-5B-Circular-Motion-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q1.jpg"
+     ]
     },
     {
      "id": "5B-Q2",
@@ -39251,14 +39436,19 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A turntable rotates at 33 revolutions per minute. Select the angular velocity in rad s^-1 from the options.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice options (boxes A to D) are missing from the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: (33 / 60) x 2 pi",
+     "steps": [
+      "33 revolutions per minute = 33 / 60 revolutions per second.",
+      "Each revolution is 2 pi radians, so omega = (33 / 60) x 2 pi = 3.5 rad s^-1, which is option C."
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-03.jpg",
       "papers/physics/img/22-5B-Circular-Motion-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q2.jpg"
+     ]
     },
     {
      "id": "5B-Q3a",
@@ -39432,14 +39622,19 @@ window.BANK.physics = {
       "bob"
      ],
      "question": "Add to the diagram the two forces acting on the bob of a conical pendulum.",
-     "status": "pending",
-     "answer": "Pending: the conical pendulum diagram is not in the text extraction, so the forces cannot be marked on it.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Weight mg vertically downwards from the bob, and tension T along the wire towards the support.",
+     "steps": [
+      "Draw the weight mg as an arrow vertically downwards from the bob.",
+      "Draw the tension T in the wire as an arrow from the bob along the wire towards the support point, at angle theta to the vertical."
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-07.jpg",
       "papers/physics/img/22-5B-Circular-Motion-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q5.jpg"
+     ]
     },
     {
      "id": "5B-Q5b(i)",
@@ -39469,7 +39664,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-07.jpg",
       "papers/physics/img/22-5B-Circular-Motion-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q5.jpg"
+     ]
     },
     {
      "id": "5B-Q5b(ii)",
@@ -39516,14 +39713,22 @@ window.BANK.physics = {
       "friction negligible"
      ],
      "question": "A toy car of mass 33 g is released from 25 cm above point A on a track with a loop. Point C is 22 cm above A. Friction is negligible. Deduce whether the car completes the loop and reaches point D.",
-     "status": "pending",
-     "answer": "Pending: the radius of the loop, shown in the diagram and not in the text, is needed to find the minimum speed at the top of the loop.",
-     "steps": [],
+     "status": "ready",
+     "answer": "No: the car does not complete the loop. At C its speed is 0.77 m s^-1, below the 1.04 m s^-1 needed.",
+     "steps": [
+      "A is the bottom and C the top of the loop, so its diameter is 22 cm and the radius is r = 0.11 m.",
+      "To stay on the track at the top the weight must not be more than the centripetal force: m g <= m v^2 / r, so v_min = sqrt(g r) = sqrt(9.81 x 0.11) = 1.04 m s^-1.",
+      "Speed at C by conservation of energy (no friction): C is 22 cm above A and the release point is 25 cm above A, so the car has fallen only 3 cm below its starting height: 1/2 v^2 = g (0.25 - 0.22), so v = sqrt(2 x 9.81 x 0.030) = 0.77 m s^-1.",
+      "0.77 m s^-1 is less than 1.04 m s^-1. At C the centripetal force needed (m v^2 / r = 0.033 x 0.589 / 0.11 = 0.18 N) is less than the weight (0.32 N), so the car loses contact and falls off.",
+      "It would need to be released at least 22 + r / 2 = 27.5 cm above A to complete the loop, so it does not reach D."
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-08.jpg",
       "papers/physics/img/22-5B-Circular-Motion-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q6.jpg"
+     ]
     },
     {
      "id": "5B-Q7",
@@ -39539,16 +39744,21 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A website claims the Moon's orbital radius increases each year while its period stays constant. Select the correct row of the table, A to D, if the statement is true.",
-     "status": "pending",
-     "answer": "Pending: the table of rows A to D is not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: angular velocity constant; speed increasing",
+     "steps": [
+      "The period T is constant, so the angular velocity omega = 2 pi / T is constant.",
+      "The speed v = omega r. With omega constant and r increasing, the speed increases. This is row B."
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-09.jpg",
       "papers/physics/img/22-5B-Circular-Motion-10.jpg",
       "papers/physics/img/22-5B-Circular-Motion-11.jpg",
       "papers/physics/img/22-5B-Circular-Motion-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q7.jpg"
+     ]
     },
     {
      "id": "5B-Q8a",
@@ -39752,15 +39962,21 @@ window.BANK.physics = {
       "sphere"
      ],
      "question": "Draw the free-body force diagram for the sphere of the hammer at the position shown, where the chain is at 40 degrees to the horizontal.",
-     "status": "pending",
-     "answer": "Pending: the drawing is not in the text extraction; it must show tension T along the chain and weight vertically downward.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Two forces on the sphere: weight mg vertically downwards, and tension T along the chain towards the thrower (down and inwards at 40 degrees below the horizontal).",
+     "steps": [
+      "Draw the weight mg as an arrow vertically downwards from the dot.",
+      "Draw the tension T along the chain, pointing from the sphere towards the thrower's hands, i.e. down and to the left at 40 degrees below the horizontal.",
+      "Label both arrows. (There is no centripetal force arrow; it is the resultant of these two.)"
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-13.jpg",
       "papers/physics/img/22-5B-Circular-Motion-14.jpg",
       "papers/physics/img/22-5B-Circular-Motion-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q10.jpg"
+     ]
     },
     {
      "id": "5B-Q10a(ii)",
@@ -39901,16 +40117,25 @@ window.BANK.physics = {
       "scaled diagram"
      ],
      "question": "Using the scaled vector diagram of the heel momentum (3.0 N s) and the ball's momentum (ball mass 160 g, speed 13 m/s before and 16 m/s after), deduce whether momentum is conserved.",
-     "status": "pending",
-     "answer": "Pending: the scaled vector diagram and the directions of the momenta are in the figure, which is not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes: the vector sum of the initial momenta is about 2.5 N s, which equals the ball's final momentum of 2.56 N s within the accuracy of the data.",
+     "steps": [
+      "Ball momentum before: 0.160 x 13 = 2.08 N s (towards the heel). Ball momentum after: 0.160 x 16 = 2.56 N s. The heel stops, so it has no momentum afterwards.",
+      "Before the collision draw p_heel = 3.0 N s upwards (to scale), then from its tip draw the ball momentum 2.08 N s at 56 degrees to the vertical, in the direction of the ball travel.",
+      "The resultant (start of p_heel to end of the ball vector) measures about 2.5 N s, at about 43 degrees to the vertical, up and to the left.",
+      "Calculation check: horizontal = 2.08 sin56 = 1.72 N s; vertical = 3.0 - 2.08 cos56 = 1.84 N s; resultant = 2.52 N s.",
+      "This matches the ball's final momentum of 2.56 N s in size and direction (within about 2%), so momentum is conserved."
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-15.jpg",
       "papers/physics/img/22-5B-Circular-Motion-16.jpg",
       "papers/physics/img/22-5B-Circular-Motion-17.jpg",
       "papers/physics/img/22-5B-Circular-Motion-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q11.jpg",
+      "papers/physics/fig/22-5B-Circular-Motion-Q11-2.jpg"
+     ]
     },
     {
      "id": "5B-Q11b(ii)",
@@ -40081,13 +40306,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A car of mass m travels at constant speed v over the top of a humpback bridge of radius r. Select the expression for the force from the bridge on the car.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice expressions are missing from the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: m g - m v^2 / r",
+     "steps": [
+      "At the top of the bridge the car moves in a circle with the centre below it, so the resultant force is downwards: m v^2 / r.",
+      "Forces: weight m g downwards and the normal force N from the bridge upwards: m g - N = m v^2 / r.",
+      "So N = m g - m v^2 / r, option C."
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q14.jpg",
+      "papers/physics/fig/22-5B-Circular-Motion-Q14-2.jpg"
+     ]
     },
     {
      "id": "5B-Q15",
@@ -40136,15 +40368,21 @@ window.BANK.physics = {
       "vertical circle"
      ],
      "question": "Using the graph of resultant vertical force against time for the toy car in a plastic ball, show that the angular velocity about the ball's centre is about 40 rad/s.",
-     "status": "pending",
-     "answer": "Pending: the force-time graph is not in the text extraction, so the period cannot be read from it.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Period T = 0.16 s, so omega = 2 pi / T = 39 rad s^-1, which is about 40 rad s^-1",
+     "steps": [
+      "The force repeats once per revolution. Read the time between successive peaks on the graph: peaks at about 0.04 s, 0.20 s and 0.36 s.",
+      "Two periods = 0.36 - 0.04 = 0.32 s, so T = 0.16 s.",
+      "omega = 2 pi / T = 2 pi / 0.16 = 39 rad s^-1, which is about 40 rad s^-1."
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-22.jpg",
       "papers/physics/img/22-5B-Circular-Motion-23.jpg",
       "papers/physics/img/22-5B-Circular-Motion-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q16.jpg"
+     ]
     },
     {
      "id": "5B-Q16a(ii)",
@@ -40162,15 +40400,22 @@ window.BANK.physics = {
       "angular velocity"
      ],
      "question": "The student recorded 86 mm for the ball. Using the car's mass of 9.5 g and the force data from the graph, deduce whether 86 mm is the radius or the diameter.",
-     "status": "pending",
-     "answer": "Pending: the force values read from the graph are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "86 mm is the diameter: the radius of the car's path is about 43 mm.",
+     "steps": [
+      "The car moves at constant speed in a vertical circle, so the magnitude of the resultant force is the centripetal force m omega^2 r; its vertical component varies sinusoidally, with maximum equal to the amplitude of the graph, 0.63 N.",
+      "m = 9.5 g = 0.0095 kg and omega = 2 pi / 0.16 = 39.3 rad s^-1, so r = F / (m omega^2) = 0.63 / (0.0095 x 39.3^2) = 0.043 m = 43 mm.",
+      "43 mm is half of 86 mm, so the measured value of 86 mm must be the diameter of the ball."
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-22.jpg",
       "papers/physics/img/22-5B-Circular-Motion-23.jpg",
       "papers/physics/img/22-5B-Circular-Motion-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q16.jpg",
+      "papers/physics/fig/22-5B-Circular-Motion-Q16-2.jpg"
+     ]
     },
     {
      "id": "5B-Q16b",
@@ -40204,7 +40449,9 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-23.jpg",
       "papers/physics/img/22-5B-Circular-Motion-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q16.jpg"
+     ]
     },
     {
      "id": "5B-Q17",
@@ -40221,14 +40468,19 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A toy aeroplane completes 12 revolutions in 6 s. Select the expression giving its angular velocity in rad s^-1.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice options are missing from the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 12 x 2 pi / 6",
+     "steps": [
+      "12 revolutions in 6 s is 12 / 6 = 2 revolutions per second.",
+      "Each revolution is 2 pi rad, so omega = 12 x 2 pi / 6 = 12.6 rad s^-1, which is option B."
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-24.jpg",
       "papers/physics/img/22-5B-Circular-Motion-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q17.jpg"
+     ]
     },
     {
      "id": "5B-Q18",
@@ -40244,15 +40496,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A laboratory centrifuge rotates at 1500 revolutions per minute. Select the expression giving its angular velocity in radians per second.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice expressions are missing from the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 1500 x 2 pi / 60",
+     "steps": [
+      "1500 revolutions per minute is 1500 / 60 revolutions per second.",
+      "Multiply by 2 pi rad per revolution: omega = 1500 x 2 pi / 60 = 157 rad s^-1, option D."
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-25.jpg",
       "papers/physics/img/22-5B-Circular-Motion-26.jpg",
       "papers/physics/img/22-5B-Circular-Motion-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q18.jpg"
+     ]
     },
     {
      "id": "5B-Q19a",
@@ -40479,14 +40736,20 @@ window.BANK.physics = {
       "diagram"
      ],
      "question": "Add labelled arrows to each diagram to show the forces acting on the item of clothing in the drum.",
-     "status": "pending",
-     "answer": "Pending: the two diagrams are not in the text extraction; the arrows needed are weight downwards and the normal force from the drum wall.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both diagrams: weight mg vertically downwards. Normal contact force N from the drum, directed towards the centre: upwards at the bottom and downwards at the top.",
+     "steps": [
+      "Bottom position: draw the weight mg downwards, and the normal (contact) force N from the drum wall pointing upwards towards the centre; N is longer than mg.",
+      "Top position: draw the weight mg downwards, and the normal force N from the drum wall pointing downwards towards the centre.",
+      "Label each arrow (weight, normal contact force)."
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-29.jpg",
       "papers/physics/img/22-5B-Circular-Motion-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q21.jpg"
+     ]
     },
     {
      "id": "5B-Q21b(ii)",
@@ -40562,15 +40825,20 @@ window.BANK.physics = {
       "two sources"
      ],
      "question": "Two sources produce waves with a phase difference of 40 degrees. Select the expression that gives this angle in radians.",
-     "status": "pending",
-     "answer": "Pending: the multiple-choice options are missing from the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 40 x 2 pi / 360",
+     "steps": [
+      "360 degrees = 2 pi radians, so 1 degree = 2 pi / 360 rad.",
+      "40 degrees = 40 x 2 pi / 360 = 0.70 rad, option A."
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-31.jpg",
       "papers/physics/img/22-5B-Circular-Motion-32.jpg",
       "papers/physics/img/22-5B-Circular-Motion-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q22.jpg"
+     ]
     },
     {
      "id": "5B-Q23a(i)",
@@ -40646,15 +40914,22 @@ window.BANK.physics = {
       "diameter 50 cm"
      ],
      "question": "The maximum frictional force between the glass and the turntable is given by an expression in m, the mass of the glass. Someone says that a glass placed less than 5 cm from the edge of a 50.0 cm turntable (omega = 1.3 rad/s) will slide. Deduce whether they are correct.",
-     "status": "pending",
-     "answer": "Pending: the expression for the maximum frictional force is missing from the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "They are correct: the glass starts to slide when closer than about 5.6 cm to the edge, so a glass less than 5 cm from the edge will slide.",
+     "steps": [
+      "The glass stays on the turntable while the friction can provide the centripetal force: m omega^2 x <= m g / 30, where x is the distance from the centre.",
+      "x <= g / (30 omega^2) = 9.81 / (30 x 1.3^2) = 0.19 m = 19 cm from the centre.",
+      "The turntable radius is 25.0 cm, so the glass slides if it is more than 19.3 cm from the centre, that is closer than 25.0 - 19.3 = 5.6 cm to the edge.",
+      "A glass less than 5 cm from the edge is within this range (for example, at 5 cm from the edge x = 20 cm: m omega^2 x = 0.34 m N compared with the maximum friction m g / 30 = 0.33 m N), so the claim is correct."
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-31.jpg",
       "papers/physics/img/22-5B-Circular-Motion-32.jpg",
       "papers/physics/img/22-5B-Circular-Motion-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q23.jpg"
+     ]
     },
     {
      "id": "5B-Q23b(ii)",
@@ -40703,14 +40978,21 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A model aeroplane moves at constant speed in a horizontal circle, with velocities vF at F and vG at G. Select the correct vector diagram showing the change in velocity from F to G.",
-     "status": "pending",
-     "answer": "Pending: the vector diagram options are not in the text extraction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "The change in velocity is delta v = v_G - v_F = v_G + (-v_F).",
+      "In diagram C, v_G and -v_F are drawn head to tail, and delta v is the closing side from the start of v_G to the end of -v_F, so delta v = v_G + (-v_F).",
+      "A has v_G + delta v = v_F (delta v is the wrong way round), B adds v_F and v_G, and D draws v_F reversed with delta v pointing the wrong way."
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-33.jpg",
       "papers/physics/img/22-5B-Circular-Motion-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q24.jpg",
+      "papers/physics/fig/22-5B-Circular-Motion-Q24-2.jpg"
+     ]
     },
     {
      "id": "5B-Q25a(i)",
@@ -40819,16 +41101,22 @@ window.BANK.physics = {
       "forces"
      ],
      "question": "The forwards and backwards forces on the toy aeroplane are equal in magnitude. Add to the diagram the other forces acting on the toy aeroplane.",
-     "status": "pending",
-     "answer": "Pending: the diagram is not in the text extraction; the forces to add are tension along the thread and weight vertically downward.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Add two forces at the aeroplane: tension T along the thread (up and towards the fixed point) and weight mg vertically downwards.",
+     "steps": [
+      "Draw the tension T in the thread as an arrow along the thread, from the aeroplane up towards the fixed point (at angle theta to the vertical).",
+      "Draw the weight mg as an arrow vertically downwards from the aeroplane.",
+      "The forward thrust and backward air drag on the aeroplane are equal and opposite, so they cancel and only T and mg give the resultant force towards the centre."
+     ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-34.jpg",
       "papers/physics/img/22-5B-Circular-Motion-35.jpg",
       "papers/physics/img/22-5B-Circular-Motion-36.jpg",
       "papers/physics/img/22-5B-Circular-Motion-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/22-5B-Circular-Motion-Q25.jpg"
+     ]
     },
     {
      "id": "5B-Q25b(ii)",
@@ -45176,15 +45464,22 @@ window.BANK.physics = {
       "sketch"
      ],
      "question": "Add to the V-t graph of the generator output to show the output when the angular velocity of the coil is halved.",
-     "status": "pending",
-     "answer": "Pending: the original V-t graph is not in the text; expected answer is peak V halved and period doubled.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A sine curve of the same shape but with peak 2.5 V and period 0.40 s: it starts at 0, peaks at +2.5 V at 0.10 s, crosses zero at 0.20 s, reaches -2.5 V at 0.30 s and returns to 0 at 0.40 s, completing two cycles by 0.80 s.",
+     "steps": [
+      "The original output is a sine wave of peak 5.0 V and period 0.20 s (four cycles in 0.80 s).",
+      "Halving the angular velocity halves the rate of change of flux linkage, so the peak e.m.f. (proportional to omega) halves to 2.5 V.",
+      "The period is inversely proportional to omega, so it doubles to 0.40 s, giving only two cycles on the 0.80 s axis.",
+      "Draw it starting from zero at t = 0, same phase as the original, with the correct peaks at 0.10 s and 0.30 s."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-01.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-02.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q1b.jpg"
+     ]
     },
     {
      "id": "6C-Q1b(ii)",
@@ -45215,7 +45510,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-02.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q1b.jpg"
+     ]
     },
     {
      "id": "6C-Q1b(iii)",
@@ -45232,15 +45529,22 @@ window.BANK.physics = {
       "a.c. generator"
      ],
      "question": "The mean magnitude of the output p.d. is 3.2 V with B = 0.083 T and coil area 0.0048 m^2 at the original angular velocity. Find the number of turns.",
-     "status": "pending",
-     "answer": "Pending: the angular velocity (from the period on the original graph) is not in the text; mean |V| = (2/pi) N B A omega.",
-     "steps": [],
+     "status": "ready",
+     "answer": "400 turns (about 4.0 x 10^2)",
+     "steps": [
+      "From the graph the period is T = 0.20 s and the peak p.d. is 5.0 V, so omega = 2 pi / T = 31.4 rad s^-1.",
+      "The coil turns from zero flux linkage (plane parallel to the field) to N B A in a quarter period, T/4 = 0.050 s, so the average magnitude of the e.m.f. is N B A / (T/4).",
+      "N = V_average x (T/4) / (B A) = 3.2 x 0.050 / (0.083 x 0.0048) = 0.16 / 3.98 x 10^-4 = 4.0 x 10^2.",
+      "Check with the peak: V_max = N B A omega gives N = 5.0 / (0.083 x 0.0048 x 31.4) = 400, the same (and 3.2 V = (2/pi) x 5.0 V)."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-01.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-02.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q1b.jpg"
+     ]
     },
     {
      "id": "6C-Q2",
@@ -45257,16 +45561,22 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A proton enters a magnetic field at an angle. Choose the option giving the direction of the force on it as it enters.",
-     "status": "pending",
-     "answer": "Pending: the options are in the text but the field and velocity directions are shown only in the missing diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: into the page",
+     "steps": [
+      "The magnetic force on a moving charge, F = q v x B, is perpendicular to both v and B.",
+      "The velocity (up and to the right) and the field (to the right) both lie in the plane of the page, so the force must be perpendicular to the page: A and B are wrong.",
+      "For a positive proton, with the first finger along B (right) and the second finger along v (up-right), Fleming's left-hand rule gives the thumb (force) pointing into the page, option C."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-03.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-04.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-05.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q2.jpg"
+     ]
     },
     {
      "id": "6C-Q3a",
@@ -45350,16 +45660,22 @@ window.BANK.physics = {
       "rate of change"
      ],
      "question": "Using the B-t graph for the iron core (1700 turns, area 3.5 x 10^-4 m^2), show the maximum p.d. across the output coil is about 600 V.",
-     "status": "pending",
-     "answer": "Pending: the maximum rate of change of B must be read from the B-t graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "epsilon_max = N A (dB/dt)_max = 1700 x 3.5 x 10^-4 x 1.0 x 10^3 = about 6 x 10^2 V",
+     "steps": [
+      "The e.m.f. in the output coil is epsilon = N d(BA)/dt = N A dB/dt, so it is largest where the B-t graph is steepest, at the points where B = 0.",
+      "The graph has peak B = 8.3 x 10^-3 T and period 5.0 x 10^-5 s, so the maximum gradient is 2 pi B0 / T = 2 pi x 8.3 x 10^-3 / 5.0 x 10^-5 = 1.0 x 10^3 T s^-1 (a tangent drawn at a zero crossing gives the same).",
+      "epsilon_max = 1700 x 3.5 x 10^-4 x 1.0 x 10^3 = 6.0 x 10^2 V, about 600 V, as required."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-03.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-04.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-05.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q3b.jpg"
+     ]
     },
     {
      "id": "6C-Q3c",
@@ -45376,16 +45692,23 @@ window.BANK.physics = {
       "3000 ohm"
      ],
      "question": "Decide whether the mechanical or the electronic mouse trap stores more energy, using the capacitor charged to 600 V and the discharge graph through 3000 ohm.",
-     "status": "pending",
-     "answer": "Pending: the capacitance must be found from the discharge graph, which is not in the text (mechanical trap stores 0.5 J).",
-     "steps": [],
+     "status": "ready",
+     "answer": "The electronic trap stores much more energy: about 270 J, compared with 0.47 J (about 0.5 J) for the mechanical trap.",
+     "steps": [
+      "During discharge V = V0 e^(-t/RC) with V0 = 600 V. The time constant is the time for V to fall to 600/e = 221 V, which the graph gives at t of about 4.5 s.",
+      "C = RC / R = 4.5 / 3000 = 1.5 x 10^-3 F.",
+      "Energy stored E = 1/2 C V^2 = 0.5 x 1.5 x 10^-3 x 600^2 = 2.7 x 10^2 J.",
+      "The mechanical trap needed 0.47 J (average force x distance) to set, so the electronic trap stores far more energy (about 570 times as much)."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-03.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-04.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-05.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q3c.jpg"
+     ]
     },
     {
      "id": "6C-Q4",
@@ -45401,14 +45724,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A current-carrying wire lies between magnetic poles with B = 0.070 T. Choose the option giving the force magnitude and direction.",
-     "status": "pending",
-     "answer": "Pending: the wire length in the field (0.050 or 0.065 m) and direction come from the missing diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 0.070 x 1.5 x 0.050, out of the page (F = 5.3 x 10^-3 N)",
+     "steps": [
+      "The force is F = B I L sin(theta). Only the component of the wire length perpendicular to the field counts: with the field vertical and the wire at an angle, L sin(theta) = the 5.0 cm width of the poles, not the 6.5 cm length along the wire.",
+      "F = 0.070 x 1.5 x 0.050 = 5.3 x 10^-3 N.",
+      "The field goes from N (top) to S (bottom), i.e. downwards, and the conventional current flows to the left along the wire. By Fleming's left-hand rule (field down, current left) the force is out of the page, option C."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-06.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q4.jpg"
+     ]
     },
     {
      "id": "6C-Q5",
@@ -45425,13 +45754,19 @@ window.BANK.physics = {
       "table"
      ],
      "question": "A magnet is dropped through a coil. Choose the table row giving the poles at X (entry) and Y (exit).",
-     "status": "pending",
-     "answer": "Pending: the table of pole options is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: X is a north pole and Y is a south pole",
+     "steps": [
+      "Entering: the N pole of the magnet approaches the coil end X. By Lenz's law the induced current opposes the approach, so end X must become a north pole to repel the incoming north pole.",
+      "Leaving: the magnet moves away from the coil, and the induced current opposes this by attracting the magnet back. The end Y nearest the departing north pole must be a south pole to attract it.",
+      "X north when entering and Y south when leaving: option B."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q5.jpg"
+     ]
     },
     {
      "id": "6C-Q6",
@@ -45449,15 +45784,21 @@ window.BANK.physics = {
       "20 degrees"
      ],
      "question": "A model motor coil (10 turns, 5.0 cm by 3.5 cm, 6.9 A, B = 0.07 T) is at 20 degrees to the horizontal. Find the resultant moment about P.",
-     "status": "pending",
-     "answer": "Pending: the field direction and the angle between coil plane and field must be read from the missing diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "7.9 x 10^-3 N m",
+     "steps": [
+      "Force on each long side (length 5.0 cm, perpendicular to the horizontal field): F = N B I L = 10 x 0.07 x 6.9 x 0.050 = 0.24 N.",
+      "The forces on the two sides are equal and opposite and vertical (a couple). The perpendicular distance between their lines of action is the horizontal separation of X and Y: 0.035 cos 20 = 0.033 m.",
+      "Moment = F x d = 0.2415 x 0.035 x cos 20 = 7.9 x 10^-3 N m (equivalently N B I A cos 20 with A = 0.050 x 0.035)."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-08.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-09.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q6.jpg"
+     ]
     },
     {
      "id": "6C-Q7a",
@@ -45503,15 +45844,21 @@ window.BANK.physics = {
       "faraday motor"
      ],
      "question": "The wire carries 1.1 A and is at 10 degrees to the vertical, with 3.5 cm of its length in a horizontal field of B = 0.053 T. Find the force on the wire and its direction.",
-     "status": "pending",
-     "answer": "Pending: the direction needs the diagram; the magnitude depends on the wire-to-field angle (about 2.0 x 10^-3 N if 80 degrees).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Force = 2.0 x 10^-3 N, directed out of the page (horizontally, perpendicular to both the wire and the field).",
+     "steps": [
+      "The wire is at 10 degrees to the vertical, so it is at 80 degrees to the horizontal field.",
+      "F = B I L sin(theta) = 0.053 x 1.1 x 0.035 x sin 80 = 2.0 x 10^-3 N.",
+      "The force is perpendicular to both the field (to the right) and the current (downwards along the wire). By Fleming's left-hand rule (field right, current down) the thumb points out of the page, towards the viewer."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-08.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-09.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q7b.jpg"
+     ]
     },
     {
      "id": "6C-Q8a",
@@ -45621,13 +45968,19 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A current-carrying wire is at an angle to a uniform magnetic field. Choose the graph showing how force F varies as the angle increases from 0 to 90 degrees.",
-     "status": "pending",
-     "answer": "Pending: the graph options are not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: a curve starting at zero and rising with decreasing gradient to a maximum at 90 degrees (F proportional to sin theta)",
+     "steps": [
+      "F = B I L sin(theta), where theta is the angle between the wire and the field, so F is proportional to sin(theta).",
+      "At theta = 0 the force is zero, and F rises to its maximum value at 90 degrees, with the gradient decreasing as theta approaches 90 degrees (a quarter of a sine curve).",
+      "This is graph B (A is convex like theta squared; C and D start at their maximum)."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q9.jpg"
+     ]
     },
     {
      "id": "6C-Q10",
@@ -45644,15 +45997,21 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A wire between two magnets on a balance changes the reading from 1.500 N to 1.503 N with B = 0.07 T. Choose the current and its direction.",
-     "status": "pending",
-     "answer": "Pending: the option values are missing and the wire length in the field is not given in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: I = 0.003 / (0.07 x 0.05), from X to Y (I = 0.043 A)",
+     "steps": [
+      "The balance reading rises by 0.003 N, so the magnets are pushed down by 0.003 N and, by Newton's third law, the force on the wire is 0.003 N upwards.",
+      "F = B I L, with L = 5 cm = 0.05 m in the field, so I = F / (B L) = 0.003 / (0.07 x 0.05) = 0.043 A.",
+      "The field goes from the front N pole to the back S pole (away from the viewer). For an upward force on the wire, Fleming's left-hand rule (field away from viewer, thumb up) gives the current from X to Y (left to right): option A."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-13.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-14.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q10.jpg"
+     ]
     },
     {
      "id": "6C-Q11",
@@ -45731,14 +46090,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A rectangular coil of N turns is rotated through an angle in a field perpendicular to its plane. Choose the expression for the change in flux linkage.",
-     "status": "pending",
-     "answer": "Pending: the rotation angle is garbled in the text and the options are missing.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 2N phi",
+     "steps": [
+      "Initially the field is perpendicular to the coil plane and the flux linkage is N phi.",
+      "After a rotation of pi radians (180 degrees) the same face is turned to the opposite side, so the field passes through the coil in the opposite direction and the flux linkage is -N phi.",
+      "Change = (-N phi) - (N phi) = -2 N phi, so the magnitude of the change is 2 N phi (option D)."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-15.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q13.jpg"
+     ]
     },
     {
      "id": "6C-Q14",
@@ -45755,14 +46120,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A proton of speed v enters a field of B = 5.00 T and experiences a force of 1.20 x 10^-11 N. Choose the speed.",
-     "status": "pending",
-     "answer": "Pending: the options are missing; if entry is perpendicular, v = F/(eB) = 1.5 x 10^7 m s-1.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: v = 1.20 x 10^-11 / (5.00 x 1.60 x 10^-19) = 1.5 x 10^7 m s^-1",
+     "steps": [
+      "The proton moves at right angles to the field, so F = B q v with q = 1.60 x 10^-19 C.",
+      "Rearranging, v = F / (B q) = 1.20 x 10^-11 / (5.00 x 1.60 x 10^-19) = 1.5 x 10^7 m s^-1 (option B).",
+      "A uses the proton mass instead of its charge, so it is wrong; C and D are the reciprocals."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-16.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q14.jpg"
+     ]
     },
     {
      "id": "6C-Q15",
@@ -45903,14 +46274,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "Coil 1 carries the alternating current shown for two cycles. Choose the graph of the induced e.m.f. across coil 2.",
-     "status": "pending",
-     "answer": "Pending: the graph options are not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: a cosine-shaped curve starting at its minimum, the negative of the gradient of the I-t sine curve",
+     "steps": [
+      "The e.m.f. induced in coil 2 is proportional to minus the rate of change of the flux, which is proportional to -dI/dt.",
+      "I is a sine wave starting at zero, so dI/dt is a cosine wave (maximum at t = 0), and the e.m.f. is a negative cosine: it starts at its minimum, passes through zero at a quarter cycle and reaches its maximum at half a cycle, two cycles in all.",
+      "A is a negative sine (starts at zero) and C and D are rectified, so only B has the correct shape and phase."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-19.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q17.jpg"
+     ]
     },
     {
      "id": "6C-Q18",
@@ -45927,14 +46304,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A wire of length l carrying current I lies in the plane of a magnetic field B. Choose the table row giving the force.",
-     "status": "pending",
-     "answer": "Pending: the table options are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: B I l cos(phi), into the page",
+     "steps": [
+      "phi is the angle between the field and the normal to the wire, so the angle between the wire and the field is 90 - phi.",
+      "The force magnitude is B I l sin(90 - phi) = B I l cos(phi), which leaves A or B.",
+      "The field is to the right and the current is up and to the right in the plane of the page. By Fleming's left-hand rule (field right, current up-right) the force is into the page, so the answer is A."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-20.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q18.jpg"
+     ]
     },
     {
      "id": "6C-Q19a(i)",
@@ -46068,15 +46451,20 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "Using the table of plate thickness and percentage kinetic energy reduction, show the reduction is proportional to thickness.",
-     "status": "pending",
-     "answer": "Pending: the table of thickness and percentage reduction values is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Percentage reduction / thickness is constant (20 % per mm) for all three plates, so the reduction is proportional to thickness.",
+     "steps": [
+      "Calculate reduction / thickness: initial plate 10 / 0.50 = 20; second plate 16 / 0.80 = 20; third plate 22 / 1.1 = 20.",
+      "The ratio is the same (20 % per mm) for every plate, so the percentage reduction in kinetic energy is directly proportional to the thickness (the line through the origin)."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-21.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-22.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q19c.jpg"
+     ]
     },
     {
      "id": "6C-Q19c(ii)",
@@ -46124,16 +46512,21 @@ window.BANK.physics = {
       "name of term"
      ],
      "question": "State the name of the term and its unit in the form of Faraday's law shown in the question.",
-     "status": "pending",
-     "answer": "Pending: the Faraday's law equation is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "N phi is the magnetic flux linkage; its unit is the weber (Wb, equal to T m^2).",
+     "steps": [
+      "N is the number of turns and phi the magnetic flux through each turn, so N phi is the magnetic flux linkage of the coil.",
+      "The unit is the weber (Wb), which is the same as tesla metre squared (T m^2), since N is a pure number."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-23.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-24.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-25.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q20a.jpg"
+     ]
     },
     {
      "id": "6C-Q20b",
@@ -46150,16 +46543,23 @@ window.BANK.physics = {
       "electromagnet"
      ],
      "question": "A 500-turn coil of radius 3.0 mm lies between electromagnet poles, with B varying with time as a graph. Determine the maximum e.m.f.",
-     "status": "pending",
-     "answer": "Pending: the B-t graph values are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Maximum e.m.f. = 1.3 V",
+     "steps": [
+      "Area of the coil A = pi r^2 = pi x (3.0 x 10^-3)^2 = 2.8 x 10^-5 m^2.",
+      "The e.m.f. is epsilon = N A dB/dt, a maximum where the B-t graph is steepest, at B = 0.",
+      "The graph has peak B = 0.30 T and period 0.020 s, so the maximum gradient is 2 pi B0 / T = 2 pi x 0.30 / 0.020 = 94 T s^-1 (consistent with a tangent at a zero crossing).",
+      "epsilon_max = 500 x 2.8 x 10^-5 x 94 = 1.3 V."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-23.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-24.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-25.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q20b.jpg"
+     ]
     },
     {
      "id": "6C-Q20c",
@@ -46209,14 +46609,21 @@ window.BANK.physics = {
       "equilibrium"
      ],
      "question": "Two balloons of mass 1.1 g each, with equal negative charges, repel in diagram 2. Show the repulsive force is about 1 x 10^-3 N.",
-     "status": "pending",
-     "answer": "Pending: the thread angle or balloon separation is shown only in the missing diagram 2.",
-     "steps": [],
+     "status": "ready",
+     "answer": "F = 1.2 x 10^-3 N, about 1 x 10^-3 N",
+     "steps": [
+      "The threads are fixed 0.21 m apart (as in diagram 1) and the balloon centres are 0.47 m apart in diagram 2, so each balloon is displaced sideways by (0.47 - 0.21) / 2 = 0.13 m from the vertical below its support.",
+      "The thread length is 1.22 m, so tan(theta) = 0.13 / sqrt(1.22^2 - 0.13^2) = 0.13 / 1.213 = 0.107.",
+      "In equilibrium T cos(theta) = mg and T sin(theta) = F, so F = mg tan(theta).",
+      "F = 1.1 x 10^-3 x 9.81 x 0.107 = 1.2 x 10^-3 N, about 1 x 10^-3 N."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-26.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q21.jpg"
+     ]
     },
     {
      "id": "6C-Q21a(ii)",
@@ -46233,14 +46640,20 @@ window.BANK.physics = {
       "point charges"
      ],
      "question": "Using the repulsive force of about 1 x 10^-3 N, show each balloon carries a charge of about 2 x 10^-7 C.",
-     "status": "pending",
-     "answer": "Pending: the separation of the balloon centres is needed and is shown only in the missing diagram 2.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Q = 1.7 x 10^-7 C, about 2 x 10^-7 C",
+     "steps": [
+      "The balloon charges act as point charges at the centres, 0.47 m apart: F = kQ^2 / r^2.",
+      "Q = r sqrt(F / k) = 0.47 x sqrt(1.2 x 10^-3 / 8.99 x 10^9) = 0.47 x 3.6 x 10^-7.",
+      "Q = 1.7 x 10^-7 C, which is about 2 x 10^-7 C."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-26.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q21.jpg"
+     ]
     },
     {
      "id": "6C-Q21b",
@@ -46375,14 +46788,20 @@ window.BANK.physics = {
       "side length"
      ],
      "question": "A square coil PQRS of side l carries a clockwise current I, with its plane parallel to a field of flux density B. Choose the table row that is correct.",
-     "status": "pending",
-     "answer": "Pending: the table of options is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: side PQ has zero magnetic force",
+     "steps": [
+      "The force on a current-carrying side is F = B I l sin(theta), where theta is the angle between the side and the field, which is zero when they are parallel.",
+      "The field is to the right, parallel to sides PQ and RS (current to the right along PQ and to the left along RS), so these have no force: A is correct and C is wrong.",
+      "Sides QR and SP are perpendicular to the field and have force B I l; by Fleming's left-hand rule SP (current upwards) is into the page, and QR is out of the page, so B and D are wrong."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-30.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q25.jpg"
+     ]
     },
     {
      "id": "6C-Q26",
@@ -46442,7 +46861,9 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-31.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q27.jpg"
+     ]
     },
     {
      "id": "6C-Q27b",
@@ -46459,14 +46880,20 @@ window.BANK.physics = {
       "voltmeter"
      ],
      "question": "A wire moves vertically downwards between two magnets (magnet length 34 mm, height 20 mm, B = 0.35 T) at 2.2 m s-1. Calculate the maximum p.d. across the wire.",
-     "status": "pending",
-     "answer": "Pending: the diagram is needed to confirm the wire length in the field (34 mm gives E = B L v = 0.026 V).",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.026 V",
+     "steps": [
+      "The wire is horizontal across the faces of the magnets, so the length of wire in the field is the magnet length, L = 34 mm = 0.034 m (the 20 mm height is not needed).",
+      "The maximum p.d. occurs while the whole length is moving through the uniform field at constant speed: epsilon = B L v.",
+      "epsilon = 0.35 x 0.034 x 2.2 = 0.026 V."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-31.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q27.jpg"
+     ]
     },
     {
      "id": "6C-Q28a",
@@ -46545,16 +46972,22 @@ window.BANK.physics = {
       "rotation"
      ],
      "question": "Using the flux-time graph of the search coil (5000 turns) during rotation, determine the maximum p.d. across the terminals.",
-     "status": "pending",
-     "answer": "Pending: the flux-time graph values are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "2.3 V (about 2.3 to 2.4 V)",
+     "steps": [
+      "epsilon = N d(phi)/dt, so the maximum p.d. is where the flux-time graph is steepest, at the end of the rotation (t = 0.30 s), where the flux falls to zero.",
+      "The gradient there is about 4.6 x 10^-4 Wb s^-1 (for example, the flux falls from 1.85 x 10^-5 Wb at 0.26 s to 0 at 0.30 s). This also equals phi0 x omega = 8.8 x 10^-5 x (pi / 0.60) = 4.6 x 10^-4 Wb s^-1.",
+      "epsilon_max = 5000 x 4.6 x 10^-4 = 2.3 V."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-32.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-33.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-34.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q28c.jpg"
+     ]
     },
     {
      "id": "6C-Q28d",
@@ -46571,16 +47004,22 @@ window.BANK.physics = {
       "fleming's right hand rule"
      ],
      "question": "The coil terminals are shorted and the coil is rotated clockwise. A student says the current at side X is into the page. Comment on the statement.",
-     "status": "pending",
-     "answer": "Pending: the cross-section diagram showing side X and the field direction is missing.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The student is correct: the current at X is into the page.",
+     "steps": [
+      "As the coil rotates clockwise, side X (at the top) moves to the right, at right angles to the downward magnetic field, so it cuts the field lines and an e.m.f. is induced in it.",
+      "Fleming's right-hand rule (thumb = motion to the right, first finger = field downwards) gives the induced current (second finger) into the page at X.",
+      "Check with Lenz's law: a current into the page at X in a downward field gives a force to the left on X, which opposes its motion to the right. So the statement is correct."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-32.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-33.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-34.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q28d.jpg"
+     ]
     },
     {
      "id": "6C-Q29",
@@ -46597,14 +47036,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A current-carrying wire lies between magnetic poles with B = 0.85 T. Choose the option giving the force in newtons and its direction.",
-     "status": "pending",
-     "answer": "Pending: the options are garbled in the text and the diagram gives the angle and direction.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 0.85 x 0.17 x 0.052 into the page (F = 7.5 x 10^-3 N); the 0.085 printed in the options is presumably a misprint for the 0.85 T given in the question.",
+     "steps": [
+      "The field goes from N (top) to S (bottom), downwards. The part of the wire length that is perpendicular to the field is its horizontal extent, the 5.2 cm width of the poles, so F = B I (0.052) with no sin 35 factor (the wire length in the field is 0.052 / cos 35 and its angle to the field is 55 degrees, so L sin 55 = 0.052).",
+      "F = 0.85 x 0.17 x 0.052 = 7.5 x 10^-3 N.",
+      "Direction: the current flows to the right and down along the wire with the field downwards; by Fleming's left-hand rule the force is into the page, so option A."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-35.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q29.jpg"
+     ]
     },
     {
      "id": "6C-Q30",
@@ -46621,14 +47066,22 @@ window.BANK.physics = {
       "lenz's law"
      ],
      "question": "A bar magnet is dropped through a small coil connected to a data logger. Explain the variation of e.m.f. with time shown in the output graph.",
-     "status": "pending",
-     "answer": "Pending: the e.m.f.-time graph is not in the text, and the explanation depends on its shape.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A positive peak as the magnet enters, zero when it is in the middle of the coil, then a larger, narrower negative peak as it leaves, because the flux linkage first increases then decreases and the magnet is speeding up.",
+     "steps": [
+      "By Faraday's law the e.m.f. is the rate of change of flux linkage. As the magnet's north pole approaches and enters the coil the flux linkage increases, so an e.m.f. is induced and it rises to a peak.",
+      "When the middle of the magnet is at the coil the flux linkage is at its maximum, so its rate of change (and the e.m.f.) is zero: the graph crosses zero.",
+      "As the magnet leaves, the flux linkage decreases, so by Lenz's law the e.m.f. reverses direction, giving a negative peak.",
+      "The magnet is accelerating under gravity, so it is moving faster when it leaves than when it entered; the flux changes more quickly, so the second peak is taller and narrower. The areas of the two peaks are equal in size, since the total change in flux linkage is the same.",
+      "Before and after the passage of the magnet the flux linkage is constant (almost zero) so the e.m.f. is zero."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-36.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q30.jpg"
+     ]
     },
     {
      "id": "6C-Q31a",
@@ -46674,14 +47127,20 @@ window.BANK.physics = {
       "magnetic field"
      ],
      "question": "Explain the direction of the induced e.m.f. across the copper rod PQ.",
-     "status": "pending",
-     "answer": "Pending: the direction of motion and the labelling of P and Q are in the missing diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The induced e.m.f. acts from P to Q (Q is the positive end), because the force on the induced current must oppose the rod's motion (Lenz's law).",
+     "steps": [
+      "The rod moves to the left with velocity v in a field B directed downwards (into the page in the view from above).",
+      "Using Fleming's right-hand rule (thumb = motion to the left, first finger = field into the page), the induced current in the rod, the second finger, points from P to Q (down the page).",
+      "Check with Lenz's law: with current from P to Q, the force on the rod is I L x B, which points to the right, opposing the leftward motion. This is the direction needed to oppose the change that produces the e.m.f., so the e.m.f. acts from P to Q."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-37.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q31.jpg"
+     ]
     },
     {
      "id": "6C-Q32",
@@ -46815,14 +47274,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A proton of speed v enters a uniform field of 45 mT and experiences a force of 1.35 x 10^-13 N. Choose the expression for v.",
-     "status": "pending",
-     "answer": "Pending: the options A-D are not in the text; the expression is v = F/(eB), giving about 1.9 x 10^7 m s-1.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: v = 1.35 x 10^-13 / (45 x 10^-3 x 1.6 x 10^-19) = 1.9 x 10^7 m s^-1",
+     "steps": [
+      "The proton moves at right angles to the field, so F = B q v and v = F / (B q).",
+      "B = 45 mT = 45 x 10^-3 T and q = 1.6 x 10^-19 C, so v = 1.35 x 10^-13 / (45 x 10^-3 x 1.6 x 10^-19) = 1.9 x 10^7 m s^-1 (option C).",
+      "A does not convert mT to T and B and D use the proton mass, which does not appear in F = Bqv."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-41.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q35.jpg"
+     ]
     },
     {
      "id": "6C-Q36",
@@ -46839,14 +47304,20 @@ window.BANK.physics = {
       "current direction"
      ],
      "question": "A magnet is moved away from a coil, producing a current. Choose the table row giving the poles at X and Y.",
-     "status": "pending",
-     "answer": "Pending: the table of pole options and the diagram of X and Y are missing.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: X is a north pole and Y is a south pole",
+     "steps": [
+      "The south pole of the magnet is nearest the coil end X, and the magnet is being moved away, so the flux through the coil decreases.",
+      "By Lenz's law the induced current opposes this by attracting the magnet back: the coil end X nearest the magnet must be a north pole (attracting the south pole of the magnet).",
+      "The other end, Y, is then a south pole, so the row is X north, Y south: B."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-42.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q36.jpg"
+     ]
     },
     {
      "id": "6C-Q37",
@@ -46863,13 +47334,19 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A wire between bar magnets has force 4.8 x 10^-4 N with B = 0.024 T and length 0.010 m. Choose the current.",
-     "status": "pending",
-     "answer": "Pending: the option values are not in the text; the current is I = F/(BL) = 2.0 A.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: I = 4.8 x 10^-4 / (0.010 x 0.024) = 2.0 A",
+     "steps": [
+      "F = B I L for a wire perpendicular to the field, so I = F / (B L).",
+      "I = 4.8 x 10^-4 / (0.010 x 0.024) = 2.0 A (option C).",
+      "A multiplies the quantities, B and D put B or L the wrong way up."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q37.jpg"
+     ]
     },
     {
      "id": "6C-Q38",
@@ -46885,14 +47362,20 @@ window.BANK.physics = {
       "magnetic field"
      ],
      "question": "A current-carrying wire lies between two bar magnets with current into the page. Choose the diagram showing the force direction.",
-     "status": "pending",
-     "answer": "Pending: the options are diagrams, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: the force is downwards (down the page)",
+     "steps": [
+      "The wire sits between the N pole of the left magnet and the S pole of the right magnet, so the field points from left to right.",
+      "The current is into the page. By Fleming's left-hand rule (first finger to the right, second finger into the page) the thumb (force) points down the page.",
+      "This is diagram A (arrow pointing down)."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-44.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q38.jpg"
+     ]
     },
     {
      "id": "6C-Q39",
@@ -46909,14 +47392,21 @@ window.BANK.physics = {
       "fleming's left hand rule"
      ],
      "question": "An electron moves horizontally through a field at 24 degrees to the vertical, with force into the page. Choose the row giving the magnitude and direction of v.",
-     "status": "pending",
-     "answer": "Pending: the table options and the field orientation are in the missing diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: v = F / (B x e x sin 66), directed from Y to X",
+     "steps": [
+      "The velocity is horizontal along XY and the field is 24 degrees from the vertical, so the angle between v and B is 90 - 24 = 66 degrees.",
+      "F = B e v sin(66), so v = F / (B e sin 66): C or D.",
+      "The force on the electron is into the page. For a negative charge the force is opposite to that on a positive charge, so a velocity from X to Y would give a force out of the page and a velocity from Y to X gives a force into the page.",
+      "So the direction is from Y to X: option D."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-44.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q39.jpg"
+     ]
     },
     {
      "id": "6C-Q40a(i)",
@@ -46933,15 +47423,21 @@ window.BANK.physics = {
       "poles"
      ],
      "question": "Explain why the coil of the model motor rotates clockwise, viewed from the end, with current in direction ABDC.",
-     "status": "pending",
-     "answer": "Pending: the direction of the field and the coil sides are shown only in the missing diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The two sides AC and BD carry current in opposite directions in the field from N to S, so they feel forces in opposite directions (up on one side, down on the other), which form a couple turning the coil clockwise.",
+     "steps": [
+      "The field points from the N pole to the S pole (to the left, horizontal). The sides AC and BD are perpendicular to the field and carry currents in opposite directions (C to A and B to D).",
+      "Using Fleming's left-hand rule, the force on BD (near the N pole) is downwards and the force on AC (near the S pole) is upwards. The sides AB and DC are parallel to the field and feel no force.",
+      "The equal and opposite forces on opposite sides of the axle form a couple, which gives a clockwise moment about the axle when viewed from the end."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-45.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-46.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q40a.jpg"
+     ]
     },
     {
      "id": "6C-Q40a(ii)",
@@ -46958,15 +47454,22 @@ window.BANK.physics = {
       "axle"
      ],
      "question": "Calculate the resultant moment about the axle of the magnetic forces on the coil (32 turns, 5.0 cm x 3.5 cm, 0.24 A, B = 0.68 T).",
-     "status": "pending",
-     "answer": "Pending: assuming the coil plane is parallel to the field gives 9.1 x 10^-3 N m, but the orientation must be confirmed from the diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "9.1 x 10^-3 N m",
+     "steps": [
+      "In the position shown the coil plane is parallel to the field, so the moment of the couple is a maximum.",
+      "Force on each long side: F = N B I L = 32 x 0.68 x 0.24 x 0.050 = 0.26 N.",
+      "The two forces are equal and opposite, a perpendicular distance equal to the coil width apart, so moment = F x d = 0.26 x 0.035.",
+      "Moment = 9.1 x 10^-3 N m (equals N B I A with A = 0.050 x 0.035)."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-45.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-46.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q40a.jpg"
+     ]
     },
     {
      "id": "6C-Q40b(i)",
@@ -47013,15 +47516,22 @@ window.BANK.physics = {
       "horizontal to vertical"
      ],
      "question": "Deduce whether a quarter turn of the coil (from horizontal to vertical, 0.080 s) produces a reading on a voltmeter that reads 0.1 V.",
-     "status": "pending",
-     "answer": "Pending: the field direction relative to the horizontal and vertical positions is in the diagram; if the flux changes from 0 to NBA, the average e.m.f. is about 0.48 V.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes: the average e.m.f. is about 0.48 V, which is larger than the 0.1 V resolution, so a reading will be shown.",
+     "steps": [
+      "In the horizontal position the coil plane is parallel to the horizontal field, so the flux linkage is zero; in the vertical position the plane is perpendicular to the field, so the flux linkage is N B A.",
+      "N B A = 32 x 0.68 x (0.050 x 0.035) = 0.038 Wb.",
+      "Average e.m.f. = change in flux linkage / time = 0.038 / 0.080 = 0.48 V.",
+      "This is much more than the 0.1 V resolution of the voltmeter, so a reading would be shown (and the peak e.m.f. is larger still)."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-45.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-46.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q40a.jpg"
+     ]
     },
     {
      "id": "6C-Q41a",
@@ -47130,14 +47640,20 @@ window.BANK.physics = {
       "flux density"
      ],
      "question": "A 90 m power cable carries 700 A. Near the pylons the Earth's field is 48 uT at 20 degrees to the vertical. Determine the force on the cable.",
-     "status": "pending",
-     "answer": "Pending: the angle between the cable and the field depends on the diagram; the force is B I L sin(theta).",
-     "steps": [],
+     "status": "ready",
+     "answer": "2.8 N",
+     "steps": [
+      "The cable is horizontal and the field is at 20 degrees to the vertical, so the angle between the current and the field is 90 - 20 = 70 degrees.",
+      "F = B I L sin(theta) = 48 x 10^-6 x 700 x 90 x sin 70.",
+      "F = 3.02 x 0.940 = 2.8 N, at right angles to both the cable and the field."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-49.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q42.jpg"
+     ]
     },
     {
      "id": "6C-Q43a",
@@ -47214,14 +47730,20 @@ window.BANK.physics = {
       "table"
      ],
      "question": "Two coils P and Q are close together with an alternating supply across P. Choose the row giving the largest e.m.f. in Q by its turns and separation.",
-     "status": "pending",
-     "answer": "Pending: the table of turns and separation options is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: more turns in coil Q, closer together",
+     "steps": [
+      "The e.m.f. in Q is N_Q times the rate of change of the flux through each turn of Q, so more turns in coil Q give a larger e.m.f.",
+      "Bringing Q closer to P means more of the changing flux from P links with Q (less flux leakage), so the e.m.f. is larger.",
+      "Both effects together give the largest e.m.f.: more turns and closer together (option C)."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-52.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-53.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q44.jpg"
+     ]
     },
     {
      "id": "6C-Q45a",
@@ -47266,14 +47788,20 @@ window.BANK.physics = {
       "arc"
      ],
      "question": "Draw on the diagram the path of the proton in the magnetic field.",
-     "status": "pending",
-     "answer": "Pending: the diagram is required to draw the path; expected answer is a circular arc curving perpendicular to the velocity.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A circular arc starting at the proton and curving downwards (clockwise), always at right angles to its velocity, of constant radius.",
+     "steps": [
+      "The force on the positive proton is F = q v x B. With v to the right and B out of the page the force is downwards, at right angles to v.",
+      "The force stays perpendicular to the velocity, so the speed is constant and the path is a circular arc, with its centre below the point of entry; it curves downwards and turns clockwise.",
+      "The radius is r = mv / (qB) = 1.67 x 10^-27 x 7.8 x 10^6 / (1.6 x 10^-19 x 0.52) = 0.16 m."
+     ],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-52.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-53.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/25-6C-Electromagnetic-Effects-Q45b.jpg"
+     ]
     },
     {
      "id": "6C-Q46a",
@@ -47415,14 +47943,22 @@ window.BANK.physics = {
       "proton number"
      ],
      "question": "Deuterium (1 proton, 1 neutron) collides with a nucleus from a periodic table section to produce technetium (Tc) and neutrons. Complete the nuclear equation to find the element and number of neutrons released.",
-     "status": "pending",
-     "answer": "Pending: the periodic table section and the nucleon numbers needed for the equation are not readable in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Element = molybdenum (Mo-96, proton number 42), and 3 neutrons are released: Mo-96 + H-2 -> Tc-95 + 3 n.",
+     "steps": [
+      "Deuterium is 2 1 H (nucleon number 2, proton number 1).",
+      "Proton number is conserved: Z + 1 = 43 + 0, so Z = 42, which the table gives as Mo (molybdenum).",
+      "Nucleon number is conserved: 96 + 2 = 95 + (number of neutrons x 1), so 98 = 95 + 3 and 3 neutrons are released.",
+      "Complete equation: 96 42 Mo + 2 1 H -> 95 43 Tc + 3 (1 0 n)."
+     ],
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-01.jpg",
       "papers/physics/img/26-7A-Probing-Matter-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q1.jpg",
+      "papers/physics/fig/26-7A-Probing-Matter-Q1-2.jpg"
+     ]
     },
     {
      "id": "7A-Q2a",
@@ -47526,14 +48062,22 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "Two plates have potential difference V and an electron is deflected through an angle. Choose the row showing changes that decrease the deflection angle.",
-     "status": "pending",
-     "answer": "Pending: the table of options is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: V halved and distance between plates doubled.",
+     "steps": [
+      "Field between the plates E = V/d, so the force on the electron is eV/d and its acceleration is a = eV/(m d).",
+      "For plates of length L and entry speed v the time between them is t = L/v, so the sideways speed gained is a t = eVL/(m d v).",
+      "tan(theta) = (sideways speed)/v = eVL/(m d v^2), so theta increases when V/d increases (v and L unchanged).",
+      "Row A: V/d x 4, B: x 2, C: x 1/4, D: x 2. Only C reduces V/d, so only C decreases theta."
+     ],
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-02.jpg",
       "papers/physics/img/26-7A-Probing-Matter-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q4.jpg",
+      "papers/physics/fig/26-7A-Probing-Matter-Q4-2.jpg"
+     ]
     },
     {
      "id": "7A-Q5a",
@@ -47608,7 +48152,7 @@ window.BANK.physics = {
      ],
      "question": "Which of the following could not be concluded from high-speed alpha particle scattering experiments?",
      "status": "pending",
-     "answer": "Pending: each of options A-D is generally supported by the scattering results, so the intended key cannot be decided from the text alone.",
+     "answer": "Pending: as printed, all four options (empty space, positive nucleus, concentration of charge, concentration of mass) are valid conclusions from alpha scattering, so the intended key cannot be determined from the page.",
      "steps": [],
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-03.jpg",
@@ -47632,14 +48176,21 @@ window.BANK.physics = {
       "table"
      ],
      "question": "Choose the row giving the number of protons and neutrons in a nucleus of one isotope of oganesson.",
-     "status": "pending",
-     "answer": "Pending: the isotope symbol and the options table are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 118 protons and 176 neutrons.",
+     "steps": [
+      "In 294 118 Og the lower number (118) is the proton number, so there are 118 protons.",
+      "The upper number (294) is the nucleon number, so neutrons = 294 - 118 = 176.",
+      "Row A matches (118 protons, 176 neutrons); B, C and D use 294 or 176 as a proton count or misread the numbers."
+     ],
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-04.jpg",
       "papers/physics/img/26-7A-Probing-Matter-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q7.jpg",
+      "papers/physics/fig/26-7A-Probing-Matter-Q7-2.jpg"
+     ]
     },
     {
      "id": "7A-Q8",
@@ -47668,7 +48219,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-04.jpg",
       "papers/physics/img/26-7A-Probing-Matter-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q8.jpg"
+     ]
     },
     {
      "id": "7A-Q9a",
@@ -47802,14 +48355,21 @@ window.BANK.physics = {
       "proton number"
      ],
      "question": "Choose the row giving the number of nucleons and neutrons in an atom of an oxygen isotope.",
-     "status": "pending",
-     "answer": "Pending: the isotope symbol and the options table are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 17 nucleons and 9 neutrons.",
+     "steps": [
+      "In 17 8 O the upper number 17 is the nucleon number, so the nucleus has 17 nucleons.",
+      "The lower number 8 is the proton number, so neutrons = 17 - 8 = 9.",
+      "Row D (17 nucleons, 9 neutrons) is correct; A and B use 8 nucleons (that is the proton number)."
+     ],
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-07.jpg",
       "papers/physics/img/26-7A-Probing-Matter-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q12.jpg",
+      "papers/physics/fig/26-7A-Probing-Matter-Q12-2.jpg"
+     ]
     },
     {
      "id": "7A-Q13",
@@ -47882,15 +48442,22 @@ window.BANK.physics = {
       "radial field"
      ],
      "question": "Sketch lines to show the electric field between the two equipotential lines drawn around a gold nucleus.",
-     "status": "pending",
-     "answer": "Pending: the scaled diagram of equipotentials is not in the text; a sketch is required.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Straight radial field lines running outwards from the nucleus, crossing both equipotentials at right angles, with arrows pointing away from the nucleus and the lines further apart at larger radius.",
+     "steps": [
+      "The gold nucleus is positive, so the field points away from it: arrows on the lines point radially outwards.",
+      "Field lines are always perpendicular to equipotentials, so each line meets both dashed circles at 90 degrees (a radial straight line).",
+      "Draw several (at least 4) evenly spaced lines from the +40 V circle to the +10 V circle.",
+      "The lines spread out with distance, which shows the field gets weaker further from the nucleus."
+     ],
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-08.jpg",
       "papers/physics/img/26-7A-Probing-Matter-09.jpg",
       "papers/physics/img/26-7A-Probing-Matter-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q14.jpg"
+     ]
     },
     {
      "id": "7A-Q14b(ii)",
@@ -47907,15 +48474,22 @@ window.BANK.physics = {
       "inverse proportion"
      ],
      "question": "The 40 V equipotential is drawn to scale. Deduce whether the 10 V equipotential is in the correct scaled position.",
-     "status": "pending",
-     "answer": "Pending: the radii of the equipotentials must be measured from the missing scaled diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes, it is correct: V is proportional to 1/r, so the 10 V line should have 4 times the radius of the 40 V line, and on the diagram the 10 V circle has about 4 times the radius.",
+     "steps": [
+      "For a point charge V = kQ/r, so V r is constant and V is proportional to 1/r.",
+      "Hence r(10 V)/r(40 V) = 40/10 = 4.",
+      "Measuring the diagram from the nucleus to each dashed circle gives a radius ratio of about 163 : 40.6, which is 4.0 (the outer circle radius is about 4 times the inner one).",
+      "The ratio measured equals the ratio predicted, so the 10 V equipotential is drawn in the correct position."
+     ],
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-08.jpg",
       "papers/physics/img/26-7A-Probing-Matter-09.jpg",
       "papers/physics/img/26-7A-Probing-Matter-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q14.jpg"
+     ]
     },
     {
      "id": "7A-Q14b(iii)",
@@ -47945,7 +48519,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-09.jpg",
       "papers/physics/img/26-7A-Probing-Matter-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q14.jpg"
+     ]
     },
     {
      "id": "7A-Q15",
@@ -48018,14 +48594,22 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A nucleus emits a particle. Choose the table row giving the proton and nucleon numbers of the product nucleus.",
-     "status": "pending",
-     "answer": "Pending: the parent nucleus symbol and the table of options are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: proton number 18, nucleon number 38.",
+     "steps": [
+      "A nucleus of 38 19 K emits a positron (beta-plus): a proton changes to a neutron, p -> n + e+ + neutrino.",
+      "Proton number falls by 1: 19 - 1 = 18 (the product is argon).",
+      "Nucleon number is unchanged because a proton becomes a neutron: still 38.",
+      "Row B (18, 38) is correct; A has the wrong nucleon number and C, D have the wrong proton number."
+     ],
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-10.jpg",
       "papers/physics/img/26-7A-Probing-Matter-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q17.jpg",
+      "papers/physics/fig/26-7A-Probing-Matter-Q17-2.jpg"
+     ]
     },
     {
      "id": "7A-Q18",
@@ -48071,14 +48655,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "The nucleus of an isotope of osmium contains 76 protons and 190 neutrons. Choose the notation that represents this isotope.",
-     "status": "pending",
-     "answer": "Pending: the notation options are missing from the text; the correct form is 266 (mass number) over 76 (proton number) Os.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 266 76 Os (nucleon number 266, proton number 76).",
+     "steps": [
+      "Nucleon number = protons + neutrons = 76 + 190 = 266.",
+      "In the notation the nucleon number is written at the top and the proton number at the bottom: 266 76 Os.",
+      "B uses 190 as the nucleon number, and C and D swap the top and bottom numbers, so A is the only correct choice."
+     ],
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-11.jpg",
       "papers/physics/img/26-7A-Probing-Matter-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q19.jpg"
+     ]
     },
     {
      "id": "7A-Q20",
@@ -48124,14 +48714,21 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A nucleus of element X emits an alpha particle to produce a nucleus. Choose the correct nucleon structure of element X.",
-     "status": "pending",
-     "answer": "Pending: the symbol of the product nucleus is missing from the text, so the options cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 93 protons and 144 neutrons (X is 237 93 X).",
+     "steps": [
+      "An alpha particle is 4 2 He, so X -> 233 91 Y + 4 2 He.",
+      "Nucleon number of X = 233 + 4 = 237; proton number of X = 91 + 2 = 93.",
+      "Neutrons in X = 237 - 93 = 144.",
+      "So X has 93 protons and 144 neutrons, which is option B."
+     ],
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-12.jpg",
       "papers/physics/img/26-7A-Probing-Matter-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q21.jpg"
+     ]
     },
     {
      "id": "7A-Q22",
@@ -48205,9 +48802,14 @@ window.BANK.physics = {
       "nucleus protons neutrons"
      ],
      "question": "Scientists directed alpha particles at thin metal foils. Which conclusions could they make: charge concentrated in a small volume, mass concentrated in a small volume, electron energy levels, or a nucleus of protons and neutrons?",
-     "status": "pending",
-     "answer": "Pending: both options A and B are supported by the scattering results, so the single intended key cannot be decided from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: most of the mass of the atom is concentrated in a small volume.",
+     "steps": [
+      "A large fraction of alpha particles pass straight through, so most of the atom is empty space, while the few large deflections need a small, massive, positive centre; this supports B.",
+      "A is not valid: electrons carry negative charge and are spread through the whole atom, so not all of the charge is in the small volume.",
+      "C is not shown: electron energy levels come from line spectra, not from alpha scattering.",
+      "D is not shown: the scattering does not show that the nucleus is built of protons and neutrons (the neutron was found later)."
+     ],
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-13.jpg",
       "papers/physics/img/26-7A-Probing-Matter-14.jpg"
@@ -48272,7 +48874,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-14.jpg",
       "papers/physics/img/26-7A-Probing-Matter-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q26.jpg"
+     ]
     },
     {
      "id": "7A-Q27",
@@ -48318,14 +48922,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "Choose the number of neutrons in the nucleus of a given isotope (options 51, 70, 121, 172).",
-     "status": "pending",
-     "answer": "Pending: the isotope symbol is missing from the text, so neutrons = nucleon number minus proton number cannot be found.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 70 neutrons.",
+     "steps": [
+      "In 121 51 Sb the nucleon number is 121 and the proton number is 51.",
+      "Neutrons = nucleon number - proton number = 121 - 51 = 70.",
+      "So option B (70); A is the proton number and C is the nucleon number."
+     ],
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-15.jpg",
       "papers/physics/img/26-7A-Probing-Matter-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q28.jpg"
+     ]
     },
     {
      "id": "7A-Q29",
@@ -48342,14 +48952,22 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "An isotope decays by emitting an alpha particle. Choose the nucleons in the isotope produced by this decay.",
-     "status": "pending",
-     "answer": "Pending: the parent isotope symbol is missing from the text; if the parent is radon-222 the answer is A (134 neutrons, 84 protons).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 134 neutrons, 84 protons (polonium-218).",
+     "steps": [
+      "The parent is 222 86 Rn and an alpha particle 4 2 He is emitted.",
+      "Product: nucleon number 222 - 4 = 218; proton number 86 - 2 = 84 (polonium).",
+      "Neutrons = 218 - 84 = 134.",
+      "So the product has 134 neutrons and 84 protons, option A."
+     ],
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-15.jpg",
       "papers/physics/img/26-7A-Probing-Matter-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q29.jpg",
+      "papers/physics/fig/26-7A-Probing-Matter-Q29-2.jpg"
+     ]
     },
     {
      "id": "7A-Q30",
@@ -48406,7 +49024,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-16.jpg",
       "papers/physics/img/26-7A-Probing-Matter-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q31.jpg"
+     ]
     },
     {
      "id": "7A-Q31b",
@@ -48435,7 +49055,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-16.jpg",
       "papers/physics/img/26-7A-Probing-Matter-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q31.jpg"
+     ]
     },
     {
      "id": "7A-Q32",
@@ -48480,14 +49102,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "In large-angle alpha scattering alpha particles were detected at positions W, X, Y and Z. Where were most detected?",
-     "status": "pending",
-     "answer": "Pending: the positions W, X, Y and Z are shown only in the missing diagram; most particles are detected straight ahead of the beam.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: position Y.",
+     "steps": [
+      "Most alpha particles pass through the thin foil with little or no deflection because the atom is mostly empty space.",
+      "Y is the position on the far side of the foil directly in line with the incident beam, so this is where most are detected.",
+      "W and Z (larger angle of deflection) receive only a few, and X (reflected back towards the source side) receives very few."
+     ],
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-17.jpg",
       "papers/physics/img/26-7A-Probing-Matter-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q33.jpg"
+     ]
     },
     {
      "id": "7A-Q34",
@@ -48505,14 +49133,21 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "An isotope of astatine has a symbol given in the question. Choose the row showing its number of protons and number of neutrons.",
-     "status": "pending",
-     "answer": "Pending: the isotope symbol and the options table are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 85 protons and 128 neutrons.",
+     "steps": [
+      "In 213 85 At the proton number is 85 and the nucleon number is 213.",
+      "Neutrons = 213 - 85 = 128.",
+      "Row B (85 protons, 128 neutrons) is correct; A, C and D use the nucleon number as the proton number."
+     ],
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-18.jpg",
       "papers/physics/img/26-7A-Probing-Matter-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q34.jpg",
+      "papers/physics/fig/26-7A-Probing-Matter-Q34-2.jpg"
+     ]
     }
    ]
   },

@@ -52516,11 +52516,11 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "Levels from the bottom up: Ca(s) + Cl2(g); Ca(g) + Cl2(g); Ca(g) + 2Cl(g); Ca+(g) + e- + 2Cl(g); Ca2+(g) + 2e- + 2Cl(g); then (right side) Ca2+(g) + 2Cl-(g)",
      "steps": [
-      "DH2 (atomisation of Ca): the line above Ca(s) + Cl2(g) is Ca(g) + Cl2(g).",
-      "DH3 (atomisation of chlorine, 2 x +121.7): the next line is Ca(g) + 2Cl(g).",
-      "DH4 (first ionisation energy of Ca): the next line is Ca+(g) + e- + 2Cl(g).",
-      "DH5 (second ionisation energy of Ca): the top line is Ca2+(g) + 2e- + 2Cl(g).",
-      "DH6 is 2 x the electron affinity of Cl (down to Ca2+(g) + 2Cl-(g)); DH7 is the lattice energy; DH1 is the enthalpy change of formation."
+      "deltaH2 (atomisation of Ca): the line above Ca(s) + Cl2(g) is Ca(g) + Cl2(g).",
+      "deltaH3 (atomisation of chlorine, 2 x +121.7): the next line is Ca(g) + 2Cl(g).",
+      "deltaH4 (first ionisation energy of Ca): the next line is Ca+(g) + e- + 2Cl(g).",
+      "deltaH5 (second ionisation energy of Ca): the top line is Ca2+(g) + 2e- + 2Cl(g).",
+      "deltaH6 is 2 x the electron affinity of Cl (down to Ca2+(g) + 2Cl-(g)); deltaH7 is the lattice energy; deltaH1 is the enthalpy change of formation."
      ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-01.jpg",
@@ -52548,7 +52548,7 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "second ionisation energy of calcium = +1148 kJ mol-1",
      "steps": [
-      "Hess's law: DH1 = DH2 + DH3 + DH4 + DH5 + DH6 + DH7.",
+      "Hess's law: deltaH1 = deltaH2 + deltaH3 + deltaH4 + deltaH5 + deltaH6 + deltaH7.",
       "-795.8 = (+178.2) + 2(+121.7) + (+590.0) + IE2 + 2(-348.8) + (-2258).",
       "The known terms add to 178.2 + 243.4 + 590.0 - 697.6 - 2258 = -1944.0, so IE2 = -795.8 + 1944.0 = +1148.2 kJ mol-1 (about +1148 kJ mol-1, positive because it is endothermic)."
      ],
@@ -52639,7 +52639,7 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "enthalpy change of solution of CaCl2 = -120 kJ mol-1",
      "steps": [
-      "DsolH = -(lattice energy) + DhydH(Ca2+) + 2 x DhydH(Cl-).",
+      "deltaH(sol) = -(lattice energy) + deltaH(hyd, Ca2+) + 2 x deltaH(hyd, Cl-).",
       "= +2258 + (-1650) + 2(-364).",
       "= 2258 - 1650 - 728 = -120 kJ mol-1 (exothermic)."
      ],
@@ -52670,7 +52670,7 @@ window.BANK.chemistry = {
      "answer": "A: the sum of the enthalpy changes of hydration of the gaseous ions",
      "steps": [
       "X is the arrow from Li+(g) + Cl-(g) to Li+(aq) + Cl-(aq): the gaseous ions are dissolved in water.",
-      "This is DhydH(Li+) + DhydH(Cl-); the other arrows are the lattice energy (gaseous ions to LiCl(s)) and the enthalpy change of solution (LiCl(s) to aqueous ions)."
+      "This is deltaH(hyd, Li+) + deltaH(hyd, Cl-); the other arrows are the lattice energy (gaseous ions to LiCl(s)) and the enthalpy change of solution (LiCl(s) to aqueous ions)."
      ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-03.jpg",
@@ -53011,9 +53011,9 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "B: -1650 kJ mol-1",
      "steps": [
-      "DsolH = -(lattice energy) + DhydH(Ca2+) + 2 x DhydH(Cl-).",
-      "-120 = +2258 + DhydH(Ca2+) + 2(-364).",
-      "DhydH(Ca2+) = -120 - 2258 + 728 = -1650 kJ mol-1."
+      "deltaH(sol) = -(lattice energy) + deltaH(hyd, Ca2+) + 2 x deltaH(hyd, Cl-).",
+      "-120 = +2258 + deltaH(hyd, Ca2+) + 2(-364).",
+      "deltaH(hyd, Ca2+) = -120 - 2258 + 728 = -1650 kJ mol-1."
      ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-09.jpg",
@@ -53100,7 +53100,7 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "+492.7 kJ mol-1",
      "steps": [
-      "DrH = sum of DfH(products) - sum of DfH(reactants).",
+      "deltaH(r) = sum of deltaH(f, products) - sum of deltaH(f, reactants).",
       "= [2(0) + 3(-110.5)] - [(-824.2) + 3(0)].",
       "= -331.5 + 824.2 = +492.7 kJ mol-1."
      ],
@@ -53129,9 +53129,9 @@ window.BANK.chemistry = {
      ],
      "question": "Calculate the entropy change of the system for the reduction of iron(III) oxide by carbon using the given data.",
      "status": "ready",
-     "answer": "DS(system) = +542.9 J K-1 mol-1",
+     "answer": "deltaS(system) = +542.9 J K-1 mol-1",
      "steps": [
-      "DS(system) = sum of S(products) - sum of S(reactants).",
+      "deltaS(system) = sum of S(products) - sum of S(reactants).",
       "= [2(27.3) + 3(197.6)] - [87.4 + 3(5.7)].",
       "= (54.6 + 592.8) - (87.4 + 17.1) = 647.4 - 104.5 = +542.9 J K-1 mol-1."
      ],
@@ -53163,8 +53163,8 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "T = about 908 K (about 635 C)",
      "steps": [
-      "The reaction becomes feasible when DS(total) = DS(system) - DH/T is no longer negative (limit: DS(total) = 0).",
-      "So T = DH / DS(system) = 492 700 J mol-1 / 542.9 J K-1 mol-1 (convert kJ to J).",
+      "The reaction becomes feasible when deltaS(total) = deltaS(system) - deltaH/T is no longer negative (limit: deltaS(total) = 0).",
+      "So T = deltaH / deltaS(system) = 492 700 J mol-1 / 542.9 J K-1 mol-1 (convert kJ to J).",
       "T = 908 K (907.5 K, or about 635 C)."
      ],
      "images": [
@@ -53377,7 +53377,7 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "D: +107 kJ mol-1",
      "steps": [
-      "Formation of SrI2: -561 = (+164) + DatH(I2 -> 2I) + (+1614) + (-590) + (-1963).",
+      "Formation of SrI2: -561 = (+164) + deltaH(at, I2 -> 2I) + (+1614) + (-590) + (-1963).",
       "The known terms add to -775, so I2(s) -> 2I(g) = -561 + 775 = +214 kJ mol-1.",
       "Atomisation of iodine is defined per mole of atoms, 1/2 I2(s) -> I(g), so it is 214 / 2 = +107 kJ mol-1."
      ],
@@ -53459,9 +53459,9 @@ window.BANK.chemistry = {
      ],
      "question": "Calculate the enthalpy change of formation of calcium chloride from the Born-Haber cycle. The values are in the diagram, not in the extracted text.",
      "status": "ready",
-     "answer": "DfH(CaCl2) = -799 kJ mol-1",
+     "answer": "deltaH(f, CaCl2) = -799 kJ mol-1",
      "steps": [
-      "DfH = sum of all steps in the cycle: atomisation Ca + IE1 + IE2 + 2 x atomisation Cl + 2 x EA + lattice energy.",
+      "deltaH(f) = sum of all steps in the cycle: atomisation Ca + IE1 + IE2 + 2 x atomisation Cl + 2 x EA + lattice energy.",
       "= (+178) + (+590) + (+1145) + 2(+122) + 2(-349) + (-2258).",
       "= 178 + 590 + 1145 + 244 - 698 - 2258 = -799 kJ mol-1."
      ],
@@ -53526,8 +53526,8 @@ window.BANK.chemistry = {
      "steps": [
       "Write Ca2+(g) + 2Cl-(g) in the empty box under the cycle.",
       "Draw the arrow from this box to CaCl2(s), labelled lattice energy (LE = -2258 kJ mol-1).",
-      "Draw the arrow from the box to Ca2+(aq) + 2Cl-(aq), labelled DhydH(Ca2+) + 2 DhydH(Cl-) (sum of the hydration enthalpies).",
-      "The existing arrow CaCl2(s) -> Ca2+(aq) + 2Cl-(aq) is DsolH."
+      "Draw the arrow from the box to Ca2+(aq) + 2Cl-(aq), labelled deltaH(hyd, Ca2+) + 2 deltaH(hyd, Cl-) (sum of the hydration enthalpies).",
+      "The existing arrow CaCl2(s) -> Ca2+(aq) + 2Cl-(aq) is deltaH(sol)."
      ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-15.jpg",
@@ -53553,9 +53553,9 @@ window.BANK.chemistry = {
      ],
      "question": "Calculate the enthalpy change of solution of calcium chloride using the completed energy cycle in (d)(i).",
      "status": "ready",
-     "answer": "DsolH(CaCl2) = -77 kJ mol-1",
+     "answer": "deltaH(sol, CaCl2) = -77 kJ mol-1",
      "steps": [
-      "From the cycle: DsolH = -LE + DhydH(Ca2+) + 2 DhydH(Cl-).",
+      "From the cycle: deltaH(sol) = -LE + deltaH(hyd, Ca2+) + 2 deltaH(hyd, Cl-).",
       "= +2258 + (-1579) + 2(-378).",
       "= 2258 - 1579 - 756 = -77 kJ mol-1."
      ],
@@ -53639,7 +53639,7 @@ window.BANK.chemistry = {
      ],
      "question": "Which expression gives the enthalpy change of formation of sodium oxide? Options: A v + w + x - y - z, B v + w + x + y - z, C v + w + x - y + z, D v + w + x + y + z.",
      "status": "ready",
-     "answer": "D: DfH = v + w + x + y + z",
+     "answer": "D: deltaH(f) = v + w + x + y + z",
      "steps": [
       "u is the enthalpy change of formation of Na2O, and the longer route round the cycle is v + w + x + y + z.",
       "By Hess's law, u = v + w + x + y + z, with each value used with its own sign."
@@ -53697,9 +53697,9 @@ window.BANK.chemistry = {
      ],
      "question": "Use the data given to calculate a value for quantity Z in the Born-Haber cycle for barium oxide, including sign and units. The data are not in the extracted text.",
      "status": "ready",
-     "answer": "DZ = DfH(BaO) = -499.9 kJ mol-1",
+     "answer": "deltaZ = deltaH(f, BaO) = -499.9 kJ mol-1",
      "steps": [
-      "Z is the enthalpy change of formation: DZ = atomisation Ba + atomisation O + IE1 + IE2 + DW + EA2 + LE.",
+      "Z is the enthalpy change of formation: deltaZ = atomisation Ba + atomisation O + IE1 + IE2 + deltaW + EA2 + LE.",
       "= 180.0 + 249.2 + 503.0 + 965.0 + (-141.1) + 798.0 + (-3054.0).",
       "= -499.9 kJ mol-1 (about -500 kJ mol-1, exothermic)."
      ],
@@ -53762,10 +53762,10 @@ window.BANK.chemistry = {
      ],
      "question": "Using a fully labelled Hess cycle and the hydration enthalpy of OH- (-460 kJ mol-1), calculate the enthalpy change of solution of Ba(OH)2. The table data are not in the extracted text.",
      "status": "ready",
-     "answer": "DsolH(Ba(OH)2) = -50 kJ mol-1",
+     "answer": "deltaH(sol, Ba(OH)2) = -50 kJ mol-1",
      "steps": [
-      "Hess cycle: Ba(OH)2(s) -> Ba2+(g) + 2OH-(g) (-LE, +2230 kJ mol-1), then Ba2+(g) + 2OH-(g) -> Ba2+(aq) + 2OH-(aq) (sum of the hydration enthalpies); the direct route is DsolH.",
-      "DsolH = -LE + DhydH(Ba2+) + 2 DhydH(OH-).",
+      "Hess cycle: Ba(OH)2(s) -> Ba2+(g) + 2OH-(g) (-LE, +2230 kJ mol-1), then Ba2+(g) + 2OH-(g) -> Ba2+(aq) + 2OH-(aq) (sum of the hydration enthalpies); the direct route is deltaH(sol).",
+      "deltaH(sol) = -LE + deltaH(hyd, Ba2+) + 2 deltaH(hyd, OH-).",
       "= +2230 + (-1360) + 2(-460).",
       "= 2230 - 1360 - 920 = -50 kJ mol-1."
      ],
@@ -53829,7 +53829,7 @@ window.BANK.chemistry = {
      "answer": "C: the enthalpy change of hydration of a lead(II) ion is more exothermic than that of a nitrate ion",
      "steps": [
       "Pb2+ hydration is -1485 kJ mol-1, whereas each nitrate ion has only about -314 kJ mol-1 (see part (b)), so C is true.",
-      "A is false: -2151 kJ mol-1 is the lattice energy, not the enthalpy change of formation; B is false: DsolH = +38 is endothermic; D is false: an endothermic dissolving process gives a negative entropy change of the surroundings (DS = -DH/T)."
+      "A is false: -2151 kJ mol-1 is the lattice energy, not the enthalpy change of formation; B is false: deltaH(sol) = +38 is endothermic; D is false: an endothermic dissolving process gives a negative entropy change of the surroundings (deltaS = -deltaH/T)."
      ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-22.jpg",
@@ -53856,9 +53856,9 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "D: -314 kJ mol-1",
      "steps": [
-      "DsolH = -LE + DhydH(Pb2+) + 2 DhydH(NO3-).",
+      "deltaH(sol) = -LE + deltaH(hyd, Pb2+) + 2 deltaH(hyd, NO3-).",
       "+38 = +2151 + (-1485) + 2x, so 2x = 38 - 2151 + 1485 = -628.",
-      "DhydH(NO3-) = -628 / 2 = -314 kJ mol-1."
+      "deltaH(hyd, NO3-) = -628 / 2 = -314 kJ mol-1."
      ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-22.jpg",
@@ -53883,9 +53883,9 @@ window.BANK.chemistry = {
      ],
      "question": "Calculate the standard entropy change of the system for BaCO3(s) -> BaO(s) + CO2(g). The standard entropy data are not in the extracted text.",
      "status": "ready",
-     "answer": "DS(system) = +171.9 J K-1 mol-1",
+     "answer": "deltaS(system) = +171.9 J K-1 mol-1",
      "steps": [
-      "DS(system) = S(BaO) + S(CO2) - S(BaCO3).",
+      "deltaS(system) = S(BaO) + S(CO2) - S(BaCO3).",
       "= 70.4 + 213.6 - 112.1.",
       "= +171.9 J K-1 mol-1."
      ],
@@ -53914,11 +53914,11 @@ window.BANK.chemistry = {
      ],
      "question": "The lowest temperature at which barium carbonate decomposes is 712 C. Using this and your answer to (a)(i), calculate the standard enthalpy change of the reaction, with an appropriate number of significant figures.",
      "status": "ready",
-     "answer": "DH = +169 kJ mol-1",
+     "answer": "deltaH = +169 kJ mol-1",
      "steps": [
-      "At the lowest temperature of decomposition DS(total) = 0, so DS(system) = DH/T and DH = T x DS(system).",
-      "T = 712 + 273 = 985 K, so DH = 985 x 171.9 = 169 300 J mol-1.",
-      "Convert and round to 3 s.f. (the temperature is given to 3 s.f.): DH = +169 kJ mol-1."
+      "At the lowest temperature of decomposition deltaS(total) = 0, so deltaS(system) = deltaH/T and deltaH = T x deltaS(system).",
+      "T = 712 + 273 = 985 K, so deltaH = 985 x 171.9 = 169 300 J mol-1.",
+      "Convert and round to 3 s.f. (the temperature is given to 3 s.f.): deltaH = +169 kJ mol-1."
      ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
@@ -54005,11 +54005,11 @@ window.BANK.chemistry = {
      ],
      "question": "Calculate the standard enthalpy change of hydration of chloride ions, using the Hess cycle in (c)(i) and your answer to (b). If (b) was not obtained, use -155 kJ mol-1.",
      "status": "ready",
-     "answer": "DhydH(Cl-) = about -367 kJ mol-1 (using DsolH = -127 kJ mol-1 from part (b))",
+     "answer": "deltaH(hyd, Cl-) = about -367 kJ mol-1 (using deltaH(sol) = -127 kJ mol-1 from part (b))",
      "steps": [
-      "Hess's law: DhydH(Mg2+) + 2 DhydH(Cl-) = lattice energy + DsolH.",
+      "Hess's law: deltaH(hyd, Mg2+) + 2 deltaH(hyd, Cl-) = lattice energy + deltaH(sol).",
       "-1920 + 2x = -2526 + (-127), so 2x = -2653 + 1920 = -733.",
-      "DhydH(Cl-) = -733 / 2 = -367 kJ mol-1 (-368 if -130 kJ mol-1 is used for DsolH; with the substitute value -155 it would be -381)."
+      "deltaH(hyd, Cl-) = -733 / 2 = -367 kJ mol-1 (-368 if -130 kJ mol-1 is used for deltaH(sol); with the substitute value -155 it would be -381)."
      ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-23.jpg",
@@ -54250,9 +54250,9 @@ window.BANK.chemistry = {
      ],
      "question": "Calculate the standard molar enthalpy change of solution of MgCl2 using the data shown and the lattice energy LE[MgCl2] from the table.",
      "status": "ready",
-     "answer": "DsolH(MgCl2) = -122 kJ mol-1",
+     "answer": "deltaH(sol, MgCl2) = -122 kJ mol-1",
      "steps": [
-      "DsolH = -LE + DhydH(Mg2+) + 2 DhydH(Cl-).",
+      "deltaH(sol) = -LE + deltaH(hyd, Mg2+) + 2 deltaH(hyd, Cl-).",
       "= +2526 + (-1920) + 2(-364).",
       "= 2526 - 1920 - 728 = -122 kJ mol-1."
      ],
@@ -54452,11 +54452,11 @@ window.BANK.chemistry = {
      ],
      "question": "For the reaction at 25 C, the standard entropy change of the surroundings is given in a value not shown in the extracted text. Calculate the enthalpy change of the reaction, including sign and units.",
      "status": "ready",
-     "answer": "DH = +70.0 kJ mol-1",
+     "answer": "deltaH = +70.0 kJ mol-1",
      "steps": [
-      "DS(surroundings) = -DH / T, so DH = -T x DS(surroundings).",
-      "T = 25 + 273 = 298 K, DS(surroundings) = -234.9 J K-1 mol-1, so DH = -298 x (-234.9) = +70 000 J mol-1.",
-      "DH = +70.0 kJ mol-1 (endothermic, which is why the surroundings' entropy falls)."
+      "deltaS(surroundings) = -deltaH / T, so deltaH = -T x deltaS(surroundings).",
+      "T = 25 + 273 = 298 K, deltaS(surroundings) = -234.9 J K-1 mol-1, so deltaH = -298 x (-234.9) = +70 000 J mol-1.",
+      "deltaH = +70.0 kJ mol-1 (endothermic, which is why the surroundings' entropy falls)."
      ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-30.jpg",
@@ -54486,7 +54486,7 @@ window.BANK.chemistry = {
       "Top level: Na+(g) + HCO3-(g). Bottom level: NaHCO3(s). Middle level: Na+(aq) + HCO3-(aq), 18.6 kJ above the solid.",
       "Draw an arrow down from the top level to the bottom level, labelled lattice energy (exothermic, the longest arrow).",
       "Draw an arrow down from the top level to the middle level, labelled sum of enthalpy changes of hydration (exothermic, a bit shorter than the lattice energy arrow).",
-      "Draw an arrow up from NaHCO3(s) to the middle level, labelled DsolH = +18.6 kJ mol-1 (endothermic, because |lattice energy| is larger than |sum of hydration enthalpies| by 18.6 kJ mol-1)."
+      "Draw an arrow up from NaHCO3(s) to the middle level, labelled deltaH(sol) = +18.6 kJ mol-1 (endothermic, because |lattice energy| is larger than |sum of hydration enthalpies| by 18.6 kJ mol-1)."
      ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-30.jpg",
@@ -54537,9 +54537,9 @@ window.BANK.chemistry = {
      ],
      "question": "Using the data in the table, calculate the standard enthalpy change for CuSO4.5H2O(s) -> CuSO4(s) + 5H2O(l).",
      "status": "ready",
-     "answer": "DH = +79.2 kJ mol-1",
+     "answer": "deltaH = +79.2 kJ mol-1",
      "steps": [
-      "DH = sum of DfH(products) - sum of DfH(reactants).",
+      "deltaH = sum of deltaH(f, products) - sum of deltaH(f, reactants).",
       "= [-771.4 + 5(-285.8)] - (-2279.6).",
       "= -771.4 - 1429.0 + 2279.6 = +79.2 kJ mol-1."
      ],
@@ -54566,9 +54566,9 @@ window.BANK.chemistry = {
      ],
      "question": "Using the data in the table, calculate the standard molar entropy change for CuSO4.5H2O(s) -> CuSO4(s) + 5H2O(l).",
      "status": "ready",
-     "answer": "DS(system) = +158.1 J K-1 mol-1",
+     "answer": "deltaS(system) = +158.1 J K-1 mol-1",
      "steps": [
-      "DS = sum of S(products) - sum of S(reactants).",
+      "deltaS = sum of S(products) - sum of S(reactants).",
       "= [109.0 + 5(69.9)] - 300.4.",
       "= 109.0 + 349.5 - 300.4 = +158.1 J K-1 mol-1."
      ],
@@ -54598,7 +54598,7 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "T = 501 K (about 228 C)",
      "steps": [
-      "The reaction starts to be feasible when DS(total) = DS(system) - DH/T = 0, so T = DH / DS(system).",
+      "The reaction starts to be feasible when deltaS(total) = deltaS(system) - deltaH/T = 0, so T = deltaH / deltaS(system).",
       "T = 79 200 J mol-1 / 158.1 J K-1 mol-1 (convert kJ to J).",
       "T = 501 K (500.9 K), about 228 C."
      ],
@@ -54685,7 +54685,7 @@ window.BANK.chemistry = {
      "answer": "Top box: Cu2+(g) + 2Cl-(g); left box: CuCl2(s)",
      "steps": [
       "The lattice energy arrow goes from the gaseous ions to the solid, so the top box is Cu2+(g) + 2Cl-(g) and the left box is CuCl2(s).",
-      "The right-hand arrow from the top box to Cu2+(aq) + 2Cl-(aq) is the sum of the hydration enthalpies; the bottom arrow CuCl2(s) -> aqueous ions is DsolH."
+      "The right-hand arrow from the top box to Cu2+(aq) + 2Cl-(aq) is the sum of the hydration enthalpies; the bottom arrow CuCl2(s) -> aqueous ions is deltaH(sol)."
      ],
      "images": [
       "papers/chemistry/img/12B-Lattice-Energy-32.jpg",
@@ -54738,9 +54738,9 @@ window.BANK.chemistry = {
      ],
      "question": "The lattice energy of CuCl2 is -2811 kJ mol-1. Using this value, the data in the table and your expression in (c)(iii), calculate the enthalpy change of solution.",
      "status": "ready",
-     "answer": "DsolH(CuCl2) = -45 kJ mol-1",
+     "answer": "deltaH(sol, CuCl2) = -45 kJ mol-1",
      "steps": [
-      "DsolH = -LE + DhydH(Cu2+) + 2 DhydH(Cl-).",
+      "deltaH(sol) = -LE + deltaH(hyd, Cu2+) + 2 deltaH(hyd, Cl-).",
       "= +2811 + (-2100) + 2(-378).",
       "= 2811 - 2100 - 756 = -45 kJ mol-1."
      ],
@@ -54803,13 +54803,13 @@ window.BANK.chemistry = {
       "equilibrium",
       "part (a)(i) missing"
      ],
-     "question": "Calculate the standard entropy change of the system, delta S(system), for N2(g) + 3H2(g) <=> 2NH3(g) at 298 K, including a sign and units. Standard molar entropies S / J K-1 mol-1: N2 = 191.6, H2 = 130.6, NH3 = 192.3.",
+     "question": "Calculate the standard entropy change of the system, deltaS(system), for N2(g) + 3H2(g) <=> 2NH3(g) at 298 K, including a sign and units. Standard molar entropies S / J K-1 mol-1: N2 = 191.6, H2 = 130.6, NH3 = 192.3.",
      "status": "ready",
-     "answer": "delta S(system) = -198.8 J K-1 mol-1",
+     "answer": "deltaS(system) = -198.8 J K-1 mol-1",
      "steps": [
-      "delta S(system) = sum of S(products) - sum of S(reactants).",
+      "deltaS(system) = sum of S(products) - sum of S(reactants).",
       "Products: 2 x 192.3 = 384.6 J K-1 mol-1. Reactants: 191.6 + 3 x 130.6 = 583.4 J K-1 mol-1.",
-      "delta S(system) = 384.6 - 583.4 = -198.8 J K-1 mol-1 (negative: 4 mol of gas become 2 mol of gas)."
+      "deltaS(system) = 384.6 - 583.4 = -198.8 J K-1 mol-1 (negative: 4 mol of gas become 2 mol of gas)."
      ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-01.jpg",
@@ -55188,11 +55188,11 @@ window.BANK.chemistry = {
      ],
      "question": "Silicon tetrachloride is made from silicon carbide and hydrogen chloride with a nickel(II) chloride catalyst. Using the standard molar entropies in the table (not in the extracted text), calculate Stotal at 298 K with sign and units.",
      "status": "ready",
-     "answer": "delta S(total) = +1.78 x 10^3 J K-1 mol-1",
+     "answer": "deltaS(total) = +1.78 x 10^3 J K-1 mol-1",
      "steps": [
-      "delta S(system) = [239.7 + 186.2] - [16.5 + 4(186.8)] = 425.9 - 763.7 = -337.8 J K-1 mol-1.",
-      "delta S(surroundings) = -delta H / T = -(-631 300 J mol-1) / 298 K = +2118 J K-1 mol-1.",
-      "delta S(total) = -337.8 + 2118 = +1781, which is +1.78 x 10^3 J K-1 mol-1 to 3 s.f. (the temperature is given to 3 s.f.)."
+      "deltaS(system) = [239.7 + 186.2] - [16.5 + 4(186.8)] = 425.9 - 763.7 = -337.8 J K-1 mol-1.",
+      "deltaS(surroundings) = -deltaH / T = -(-631 300 J mol-1) / 298 K = +2118 J K-1 mol-1.",
+      "deltaS(total) = -337.8 + 2118 = +1781, which is +1.78 x 10^3 J K-1 mol-1 to 3 s.f. (the temperature is given to 3 s.f.)."
      ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-06.jpg",
@@ -55220,11 +55220,11 @@ window.BANK.chemistry = {
      ],
      "question": "In industry the reaction is carried out at 700 C. By considering entropy and other relevant factors, justify this temperature.",
      "status": "ready",
-     "answer": "At 700 C the reaction is still thermodynamically feasible (delta S(total) > 0), and the rate is high enough because the activation energy is large",
+     "answer": "At 700 C the reaction is still thermodynamically feasible (deltaS(total) > 0), and the rate is high enough because the activation energy is large",
      "steps": [
-      "Entropy: delta S(total) = delta S(system) - delta H/T is already hugely positive at 298 K; at 973 K it is still positive: -337.8 + 631 300/973 = +311 J K-1 mol-1, so the reaction remains feasible (K stays large) even though delta S(surroundings) gets smaller on heating this exothermic reaction.",
+      "Entropy: deltaS(total) = deltaS(system) - deltaH/T is already hugely positive at 298 K; at 973 K it is still positive: -337.8 + 631 300/973 = +311 J K-1 mol-1, so the reaction remains feasible (K stays large) even though deltaS(surroundings) gets smaller on heating this exothermic reaction.",
       "Kinetics: the reaction between solid SiC and HCl has a high activation energy (strong covalent bonds must break), so it is too slow at room temperature; a high temperature gives many more particles with energy above Ea and faster collisions.",
-      "700 C is therefore a compromise: fast enough for industry while delta S(total) is still positive (higher temperatures would waste energy and reduce the equilibrium constant)."
+      "700 C is therefore a compromise: fast enough for industry while deltaS(total) is still positive (higher temperatures would waste energy and reduce the equilibrium constant)."
      ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-06.jpg",
@@ -55253,7 +55253,7 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "K = about 1 x 10^93 (units atm-3 for Kp)",
      "steps": [
-      "delta S(total) = R ln K, so ln K = 1780.7 / 8.31 = 214.3.",
+      "deltaS(total) = R ln K, so ln K = 1780.7 / 8.31 = 214.3.",
       "K = e^214.3 = about 1 x 10^93 (1.1 x 10^93).",
       "K is vastly greater than 1: the equilibrium lies completely to the right at 298 K."
      ],
@@ -55314,9 +55314,9 @@ window.BANK.chemistry = {
      ],
      "question": "Use the data for the Born-Haber cycle to calculate the enthalpy change of formation of calcium iodide.",
      "status": "ready",
-     "answer": "delta Hf(CaI2) = -538 kJ mol-1",
+     "answer": "deltaHf(CaI2) = -538 kJ mol-1",
      "steps": [
-      "delta Hf = A + 2D + B + C + 2E + F (two iodine atoms are atomised and two are ionised).",
+      "deltaHf = A + 2D + B + C + 2E + F (two iodine atoms are atomised and two are ionised).",
       "= 178.2 + 2(106.8) + 590 + 1145 + 2(-295.4) + (-2074).",
       "= 178.2 + 213.6 + 590 + 1145 - 590.8 - 2074 = -538.0 kJ mol-1."
      ],
@@ -56140,11 +56140,11 @@ window.BANK.chemistry = {
      ],
      "question": "Using the gradient from (c)(iii), calculate the enthalpy change deltaH in J mol-1 for the reaction.",
      "status": "ready",
-     "answer": "delta H = -9.6 x 10^3 J mol-1",
+     "answer": "deltaH = -9.6 x 10^3 J mol-1",
      "steps": [
-      "gradient = -delta H / R, so delta H = -gradient x R.",
-      "delta H = -(1.15 x 10^3) x 8.31 = -9.56 x 10^3 J mol-1.",
-      "delta H = about -9.6 x 10^3 J mol-1 (negative: the reaction is exothermic, consistent with Kc falling as T rises)."
+      "gradient = -deltaH / R, so deltaH = -gradient x R.",
+      "deltaH = -(1.15 x 10^3) x 8.31 = -9.56 x 10^3 J mol-1.",
+      "deltaH = about -9.6 x 10^3 J mol-1 (negative: the reaction is exothermic, consistent with Kc falling as T rises)."
      ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-17.jpg",
@@ -56169,10 +56169,10 @@ window.BANK.chemistry = {
      ],
      "question": "Using deltaG = -RT ln Kc and the Kc value at 620 K from the table, calculate deltaG at 620 K, including units.",
      "status": "ready",
-     "answer": "delta G = -2.30 x 10^4 J mol-1 (-23.0 kJ mol-1)",
+     "answer": "deltaG = -2.30 x 10^4 J mol-1 (-23.0 kJ mol-1)",
      "steps": [
       "At 620 K, Kc = 86.5 and ln Kc = 4.46.",
-      "delta G = -RT ln Kc = -8.31 x 620 x 4.46.",
+      "deltaG = -RT ln Kc = -8.31 x 620 x 4.46.",
       "= -2.30 x 10^4 J mol-1 (-22 980 J mol-1)."
      ],
      "images": [
@@ -56199,9 +56199,9 @@ window.BANK.chemistry = {
      ],
      "question": "Using your answers to (c)(iv) and (c)(v), calculate the entropy change of the system at 620 K.",
      "status": "ready",
-     "answer": "delta S(system) = +21.6 J K-1 mol-1 (about +22)",
+     "answer": "deltaS(system) = +21.6 J K-1 mol-1 (about +22)",
      "steps": [
-      "Rearrange delta G = delta H - T delta S(system): delta S(system) = (delta H - delta G) / T.",
+      "Rearrange deltaG = deltaH - T deltaS(system): deltaS(system) = (deltaH - deltaG) / T.",
       "= (-9560 - (-22 980)) / 620 = 13 420 / 620.",
       "= +21.6 J K-1 mol-1."
      ],
@@ -56228,11 +56228,11 @@ window.BANK.chemistry = {
      ],
      "question": "Explain, in terms of the total entropy change, why the reaction H2 + I2 <=> 2HI is feasible at any temperature, assuming deltaH and deltaSsystem are independent of temperature.",
      "status": "ready",
-     "answer": "delta H is negative and delta S(system) is positive, so delta S(total) is positive at every temperature",
+     "answer": "deltaH is negative and deltaS(system) is positive, so deltaS(total) is positive at every temperature",
      "steps": [
-      "delta S(total) = delta S(system) + delta S(surroundings), with delta S(surroundings) = -delta H / T.",
-      "The reaction is exothermic (delta H = -9.6 kJ mol-1), so delta S(surroundings) = +9560/T is positive at any T; delta S(system) = +21.6 J K-1 mol-1 is also positive.",
-      "Both terms are positive, so delta S(total) > 0 at all temperatures, i.e. the reaction is always feasible."
+      "deltaS(total) = deltaS(system) + deltaS(surroundings), with deltaS(surroundings) = -deltaH / T.",
+      "The reaction is exothermic (deltaH = -9.6 kJ mol-1), so deltaS(surroundings) = +9560/T is positive at any T; deltaS(system) = +21.6 J K-1 mol-1 is also positive.",
+      "Both terms are positive, so deltaS(total) > 0 at all temperatures, i.e. the reaction is always feasible."
      ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-17.jpg",
@@ -56286,7 +56286,7 @@ window.BANK.chemistry = {
      "answer": "B: homogeneous; Kc decreases",
      "steps": [
       "All species (CO, H2O, CO2, H2) are gases, so the equilibrium is homogeneous.",
-      "The forward reaction is exothermic (delta H = -41.2 kJ mol-1), so raising the temperature moves the position of equilibrium to the left and Kc decreases."
+      "The forward reaction is exothermic (deltaH = -41.2 kJ mol-1), so raising the temperature moves the position of equilibrium to the left and Kc decreases."
      ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-21.jpg",
@@ -56509,7 +56509,7 @@ window.BANK.chemistry = {
      "answer": "D: Kc unchanged with iron powder; Kc decreases when the temperature is increased",
      "steps": [
       "Kc depends only on temperature, so changing the surface area (iron powder) does not change Kc.",
-      "The forward reaction is exothermic (delta H = -151.2 kJ mol-1), so increasing the temperature shifts the equilibrium to the left and Kc decreases."
+      "The forward reaction is exothermic (deltaH = -151.2 kJ mol-1), so increasing the temperature shifts the equilibrium to the left and Kc decreases."
      ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-23.jpg",
@@ -56535,9 +56535,9 @@ window.BANK.chemistry = {
      ],
      "question": "Calculate the entropy change of the system for the cracking of butane, C4H10(g) -> C2H6(g) + C2H4(g), with sign and units. The data table is not in the extracted text.",
      "status": "ready",
-     "answer": "delta S(system) = +138.9 J K-1 mol-1",
+     "answer": "deltaS(system) = +138.9 J K-1 mol-1",
      "steps": [
-      "delta S(system) = S(C2H6) + S(C2H4) - S(C4H10).",
+      "deltaS(system) = S(C2H6) + S(C2H4) - S(C4H10).",
       "= 229.5 + 219.5 - 310.1.",
       "= +138.9 J K-1 mol-1 (positive: 1 mol of gas gives 2 mol of gas)."
      ],
@@ -56566,9 +56566,9 @@ window.BANK.chemistry = {
      ],
      "question": "Calculate the enthalpy change of reaction for the cracking of butane, with sign and units. The data table is not in the extracted text.",
      "status": "ready",
-     "answer": "delta H = +94.0 kJ mol-1",
+     "answer": "deltaH = +94.0 kJ mol-1",
      "steps": [
-      "delta H = sum of delta Hf(products) - sum of delta Hf(reactants).",
+      "deltaH = sum of deltaHf(products) - sum of deltaHf(reactants).",
       "= [(-84.7) + (+52.2)] - (-126.5).",
       "= -32.5 + 126.5 = +94.0 kJ mol-1 (endothermic)."
      ],
@@ -56596,9 +56596,9 @@ window.BANK.chemistry = {
      ],
      "question": "Using your answer to (a)(ii), calculate the entropy change of the surroundings at 298 K for the cracking of butane, with sign and units.",
      "status": "ready",
-     "answer": "delta S(surroundings) = -315 J K-1 mol-1",
+     "answer": "deltaS(surroundings) = -315 J K-1 mol-1",
      "steps": [
-      "delta S(surroundings) = -delta H / T.",
+      "deltaS(surroundings) = -deltaH / T.",
       "= -94 000 J mol-1 / 298 K (convert kJ to J).",
       "= -315 J K-1 mol-1 (-315.4)."
      ],
@@ -56623,9 +56623,9 @@ window.BANK.chemistry = {
      ],
      "question": "Calculate the total entropy change at 298 K for the cracking of butane, using your answers to (a)(i) and (a)(iii), with sign and units.",
      "status": "ready",
-     "answer": "delta S(total) = -176.5 J K-1 mol-1 (about -177)",
+     "answer": "deltaS(total) = -176.5 J K-1 mol-1 (about -177)",
      "steps": [
-      "delta S(total) = delta S(system) + delta S(surroundings).",
+      "deltaS(total) = deltaS(system) + deltaS(surroundings).",
       "= +138.9 + (-315.4) = -176.5 J K-1 mol-1.",
       "Negative, so the cracking is not feasible at 298 K."
      ],
@@ -56653,9 +56653,9 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "T = 677 K (about 404 C)",
      "steps": [
-      "The reaction becomes feasible when delta S(total) = delta S(system) - delta H/T reaches 0.",
-      "T = delta H / delta S(system) = 94 000 J mol-1 / 138.9 J K-1 mol-1.",
-      "T = 677 K (676.7 K); above this temperature delta S(total) is positive."
+      "The reaction becomes feasible when deltaS(total) = deltaS(system) - deltaH/T reaches 0.",
+      "T = deltaH / deltaS(system) = 94 000 J mol-1 / 138.9 J K-1 mol-1.",
+      "T = 677 K (676.7 K); above this temperature deltaS(total) is positive."
      ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-24.jpg",
@@ -56740,9 +56740,9 @@ window.BANK.chemistry = {
      ],
      "question": "Calculate the entropy change for the reaction N2O4(g) <=> 2NO2(g), using the table of data, with sign and units. The table is not in the extracted text.",
      "status": "ready",
-     "answer": "delta S = +175.8 J K-1 mol-1",
+     "answer": "deltaS = +175.8 J K-1 mol-1",
      "steps": [
-      "delta S = 2 x S(NO2) - S(N2O4).",
+      "deltaS = 2 x S(NO2) - S(N2O4).",
       "= 2(240.0) - 304.2.",
       "= +175.8 J K-1 mol-1."
      ],
@@ -56770,10 +56770,10 @@ window.BANK.chemistry = {
      ],
      "question": "Calculate the enthalpy change of formation of N2O4(g) at 298 K, using the table and the enthalpy change of the reaction. The table is not in the extracted text.",
      "status": "ready",
-     "answer": "delta Hf(N2O4) = +9.2 kJ mol-1",
+     "answer": "deltaHf(N2O4) = +9.2 kJ mol-1",
      "steps": [
-      "delta H(reaction) = 2 delta Hf(NO2) - delta Hf(N2O4), so +57.2 = 2(+33.2) - delta Hf(N2O4).",
-      "delta Hf(N2O4) = 66.4 - 57.2 = +9.2 kJ mol-1."
+      "deltaH(reaction) = 2 deltaHf(NO2) - deltaHf(N2O4), so +57.2 = 2(+33.2) - deltaHf(N2O4).",
+      "deltaHf(N2O4) = 66.4 - 57.2 = +9.2 kJ mol-1."
      ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
@@ -56798,9 +56798,9 @@ window.BANK.chemistry = {
      ],
      "question": "Calculate the entropy change of the surroundings for the N2O4 reaction at 298 K, to an appropriate number of significant figures, with sign and units.",
      "status": "ready",
-     "answer": "delta S(surroundings) = -192 J K-1 mol-1",
+     "answer": "deltaS(surroundings) = -192 J K-1 mol-1",
      "steps": [
-      "delta S(surroundings) = -delta H / T = -(+57 200 J mol-1) / 298 K.",
+      "deltaS(surroundings) = -deltaH / T = -(+57 200 J mol-1) / 298 K.",
       "= -192 J K-1 mol-1 (-191.9; 3 s.f. as the temperature is given to 3 s.f.)."
      ],
      "images": [
@@ -56823,9 +56823,9 @@ window.BANK.chemistry = {
      ],
      "question": "Use your answers to (a) and (c) to calculate the total entropy change for the N2O4 reaction at 298 K.",
      "status": "ready",
-     "answer": "delta S(total) = -16.1 J K-1 mol-1",
+     "answer": "deltaS(total) = -16.1 J K-1 mol-1",
      "steps": [
-      "delta S(total) = delta S(system) + delta S(surroundings).",
+      "deltaS(total) = deltaS(system) + deltaS(surroundings).",
       "= +175.8 + (-191.9) = -16.1 J K-1 mol-1.",
       "Slightly negative at 298 K, so the dissociation is not feasible at this temperature (K < 1)."
      ],
@@ -56852,9 +56852,9 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "T = 325 K",
      "steps": [
-      "delta S(total) = 0 when delta S(system) = delta H / T.",
-      "T = delta H / delta S(system) = 57 200 J mol-1 / 175.8 J K-1 mol-1.",
-      "T = 325 K (325.4 K); above this temperature delta S(total) is positive and dissociation is feasible."
+      "deltaS(total) = 0 when deltaS(system) = deltaH / T.",
+      "T = deltaH / deltaS(system) = 57 200 J mol-1 / 175.8 J K-1 mol-1.",
+      "T = 325 K (325.4 K); above this temperature deltaS(total) is positive and dissociation is feasible."
      ],
      "images": [
       "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
@@ -57771,15 +57771,22 @@ window.BANK.chemistry = {
       "proton transfer"
      ],
      "question": "Identify the acids and bases in Equation 2 for phosphoric(V) acid and link the conjugate pairs.",
-     "status": "pending",
-     "answer": "Needs Equation 2 (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "H2PO4- is acid 1 and HPO4^2- its conjugate base (base 1); H2O is base 2 and H3O+ its conjugate acid (acid 2)",
+     "steps": [
+      "Equation 2: H2PO4-(aq) + H2O(l) <=> HPO4^2-(aq) + H3O+(aq).",
+      "Forward direction: H2PO4- donates a proton (acid 1) and becomes HPO4^2- (base 1).",
+      "H2O accepts the proton (base 2) and becomes H3O+ (acid 2).",
+      "The two conjugate pairs are H2PO4- / HPO4^2- and H3O+ / H2O."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-01.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-02.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q1.jpg"
+     ]
     },
     {
      "id": "Ch14-Q1b(ii)",
@@ -57796,15 +57803,20 @@ window.BANK.chemistry = {
       "hydrogen ion"
      ],
      "question": "Explain why very little dissociation of the ion occurs in phosphoric(V) acid solutions.",
-     "status": "pending",
-     "answer": "Needs the formula of the ion (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "H2PO4- is a very weak acid (small Ka2), and the H3O+ already present from the first dissociation pushes equilibrium 2 to the left",
+     "steps": [
+      "Losing a proton from an ion that is already negatively charged is difficult, because the H+ is strongly attracted to the 1- ion and the product HPO4^2- (2- charge) is unstable, so Ka2 is very small.",
+      "The H3O+ ions formed in the first dissociation (the common ion) are already present in solution, so by Le Chatelier's principle equilibrium 2 is pushed towards H2PO4-."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-01.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-02.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q1.jpg"
+     ]
     },
     {
      "id": "Ch14-Q1c(i)",
@@ -57993,14 +58005,19 @@ window.BANK.chemistry = {
       "0.1 mol dm-3"
      ],
      "question": "Which pH graph (1 to 4) has ethanoic acid as one of the reactants?",
-     "status": "pending",
-     "answer": "Needs the four titration graphs (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Graph 4",
+     "steps": [
+      "Ethanoic acid is a weak acid. Graph 4 starts at pH 13 (a strong alkali being titrated) and ends at about pH 3 (an excess of weak acid), whereas strong acid would give a final pH close to 1 (Graph 2).",
+      "In Graphs 1 and 3 the alkali or base is added to a strong acid (start at pH 1), so ethanoic acid is not involved."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-05.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q5.jpg"
+     ]
     },
     {
      "id": "Ch14-Q5b",
@@ -58016,14 +58033,20 @@ window.BANK.chemistry = {
       "graph"
      ],
      "question": "Which graph shows an acidic pH at the end-point?",
-     "status": "pending",
-     "answer": "Needs the four titration graphs (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Graph 3",
+     "steps": [
+      "The end-point is acidic when a strong acid is titrated with a weak base: the salt formed (e.g. ammonium chloride) is acidic because the cation hydrolyses.",
+      "Graph 3 starts at pH 1 and rises to about pH 9.5 with the vertical section centred around pH 5-6, so the equivalence point is acidic.",
+      "Graphs 1 and 2 are strong acid / strong base (pH 7 at the end-point) and Graph 4 is weak acid / strong base (basic end-point)."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-05.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q5.jpg"
+     ]
     },
     {
      "id": "Ch14-Q5c",
@@ -58039,14 +58062,20 @@ window.BANK.chemistry = {
       "phenol red"
      ],
      "question": "Which indicator suits the titration in Graph 3? Options: bromocresol green, bromothymol blue, phenol red, thymol blue (acid).",
-     "status": "pending",
-     "answer": "Needs Graph 3 (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: bromocresol green",
+     "steps": [
+      "Graph 3 is a strong acid with a weak base; the vertical section runs from about pH 3.5 to 8 and the equivalence point is about pH 5.",
+      "An indicator must change colour within the vertical section and around the equivalence pH: bromocresol green (pH 3.8-5.4) does this.",
+      "Bromothymol blue (6.0-7.6) and phenol red (6.8-8.4) change after the equivalence point, and thymol blue (acid range 1.2-2.8) changes before the steep part."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-05.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q5.jpg"
+     ]
     },
     {
      "id": "Ch14-Q6",
@@ -58063,14 +58092,20 @@ window.BANK.chemistry = {
       "weak acid strong base"
      ],
      "question": "Which two 0.10 mol dm-3 solutions gave the titration curve shown? Options: A HCl and KOH, B HCOOH and KOH, C HCl and NH3, D HCOOH and NH3.",
-     "status": "pending",
-     "answer": "Needs the titration curve (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: HCOOH(aq) and KOH(aq)",
+     "steps": [
+      "The curve starts at about pH 3, so the acid is weak (HCl at 0.10 mol dm-3 would start at pH 1).",
+      "It levels off at about pH 13, so the alkali is strong (ammonia would level off at about pH 11).",
+      "A weak acid with a strong alkali: HCOOH and KOH."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-06.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q6.jpg"
+     ]
     },
     {
      "id": "Ch14-Q7a",
@@ -58086,14 +58121,19 @@ window.BANK.chemistry = {
       "1.0 mol dm-3"
      ],
      "question": "Which acidic solution was used in the titration of the pH graph? Options: 0.1 mol dm-3 CH3COOH, 1.0 mol dm-3 CH3COOH, 0.1 mol dm-3 HCl, 1.0 mol dm-3 HCl.",
-     "status": "pending",
-     "answer": "Needs the pH graph (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 0.1 mol dm-3 HCl",
+     "steps": [
+      "The pH falls to about 1.5 at the end of the titration and stays there. A weak acid (CH3COOH) would level off at about pH 3, so the acid must be strong.",
+      "A level of about pH 1.5 after dilution corresponds to 0.1 mol dm-3 acid (1.0 mol dm-3 would give a pH of about 0.5), so the acid is 0.1 mol dm-3 HCl."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-07.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q7.jpg"
+     ]
     },
     {
      "id": "Ch14-Q7b",
@@ -58110,14 +58150,19 @@ window.BANK.chemistry = {
       "ph graph"
      ],
      "question": "Which basic solution was used in the titration of the pH graph? Options: NH3, LiOH, Ba(OH)2, NaOH.",
-     "status": "pending",
-     "answer": "Needs the pH graph (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: NH3",
+     "steps": [
+      "The titration starts at only about pH 10.5, and there is a gradual fall (buffer region) before the steep drop.",
+      "A strong alkali (LiOH, NaOH or Ba(OH)2) of this concentration would start at pH 13 or more, so the base must be weak: ammonia."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-07.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q7.jpg"
+     ]
     },
     {
      "id": "Ch14-Q7c",
@@ -58134,14 +58179,20 @@ window.BANK.chemistry = {
       "end-point"
      ],
      "question": "How many of thymol blue, methyl orange, bromophenol blue, bromocresol green and phenolphthalein are suitable for the titration in Question 7? Options A 5, B 4, C 3, D 2.",
-     "status": "pending",
-     "answer": "Needs the pH graph (missing from the text) and the Data Booklet ranges to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 3",
+     "steps": [
+      "Weak base with strong acid: the vertical section is from about pH 3 to 8, with the equivalence point at about pH 5.",
+      "Methyl orange (3.1-4.4), bromophenol blue (3.0-4.6) and bromocresol green (3.8-5.4) change colour inside this region.",
+      "Thymol blue (acid range 1.2-2.8) changes colour too early and phenolphthalein (8.3-10.0) is too late, so 3 are suitable."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-07.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q7.jpg"
+     ]
     },
     {
      "id": "Ch14-Q8",
@@ -58157,14 +58208,20 @@ window.BANK.chemistry = {
       "acid pairs"
      ],
      "question": "When ethanoic acid and chloroethanoic acid are mixed, an equilibrium is set up. Which species are the Bronsted-Lowry acids? The answer options are missing from the text.",
-     "status": "pending",
-     "answer": "Needs the answer options and equation (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: CH2ClCOOH and CH3COOH2+",
+     "steps": [
+      "A Bronsted-Lowry acid is a proton donor.",
+      "In the forward reaction CH2ClCOOH donates a proton to CH3COOH, giving CH3COOH2+ and CH2ClCOO-.",
+      "In the reverse reaction CH3COOH2+ donates a proton back, so the acids are CH2ClCOOH and CH3COOH2+."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-08.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q8.jpg"
+     ]
     },
     {
      "id": "Ch14-Q9",
@@ -58506,14 +58563,19 @@ window.BANK.chemistry = {
       "graph regions"
      ],
      "question": "On the HCl and NH3 titration curve, which region (T, U, V or W) represents the most effective buffer?",
-     "status": "pending",
-     "answer": "Needs the titration curve (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: region U",
+     "steps": [
+      "The most effective buffer is where there are roughly equal amounts of ammonia and ammonium ions, i.e. around the half-equivalence point on the flat section of the curve.",
+      "That is region U (pH about 9, close to the pKa of NH4+); T is the start, V is the steep section and W is excess acid."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-12.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q12.jpg"
+     ]
     },
     {
      "id": "Ch14-Q12b",
@@ -58822,14 +58884,19 @@ window.BANK.chemistry = {
       "options missing"
      ],
      "question": "Which is the acid-conjugate base pair in the reaction between ethanoic acid and chloroethanoic acid? The answer options are missing from the text.",
-     "status": "pending",
-     "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: acid CH2ClCOOH and conjugate base CH2ClCOO-",
+     "steps": [
+      "Chloroethanoic acid (pKa 2.9) is the stronger acid, so it donates the proton to ethanoic acid (pKa 4.8): CH3COOH + CH2ClCOOH <=> CH3COOH2+ + CH2ClCOO-.",
+      "The acid and its conjugate base are CH2ClCOOH and CH2ClCOO-."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-16.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q14.jpg"
+     ]
     },
     {
      "id": "Ch14-Q15a",
@@ -58845,14 +58912,19 @@ window.BANK.chemistry = {
       "ph curve"
      ],
      "question": "Which titration produced the curve shown (0.1 mol dm-3 acid added to 25 cm3 of 0.1 mol dm-3 alkali)? Options include HCl with NaOH and CH3COOH with NaOH.",
-     "status": "pending",
-     "answer": "Needs the titration curve (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: hydrochloric acid added to ammonia",
+     "steps": [
+      "The curve starts at about pH 11, which is too low for a strong alkali (NaOH would start near 13), so the alkali is a weak base: ammonia.",
+      "It ends at about pH 1.5 (an excess of acid), so the acid added is strong: HCl."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-17.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q15.jpg"
+     ]
     },
     {
      "id": "Ch14-Q15b",
@@ -58867,14 +58939,21 @@ window.BANK.chemistry = {
       "ph range"
      ],
      "question": "Which indicator is most suitable for the titration shown in Q15?",
-     "status": "pending",
-     "answer": "Needs the titration curve (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: methyl red (pH 4.2-6.3)",
+     "steps": [
+      "The vertical section of the curve runs from about pH 8 down to about pH 3.5; the equivalence point (an ammonium chloride solution) is at about pH 5.",
+      "Methyl red (4.2-6.3) changes colour right around this pH, inside the steep section.",
+      "Malachite green (0.2-1.8) and methyl yellow (2.9-4.0) change colour below the steep section, thymol blue (8.0-9.6) is above the equivalence point."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-17.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q15.jpg",
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q15-2.jpg"
+     ]
     },
     {
      "id": "Ch14-Q16",
@@ -58980,9 +59059,13 @@ window.BANK.chemistry = {
       "298 K"
      ],
      "question": "Using the standard entropy change of the Haber process at 298 K and the table of standard entropies, calculate the standard entropy of one mole of ammonia.",
-     "status": "pending",
-     "answer": "Needs the entropy value and data table (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "S(NH3) = 194.5 J K-1 mol-1 (about 195 J K-1 mol-1)",
+     "steps": [
+      "DS(system) = S(NH3) - [1/2 S(N2) + 3/2 S(H2)].",
+      "-98 = S(NH3) - [0.5(192) + 1.5(131)] = S(NH3) - 292.5.",
+      "S(NH3) = 292.5 - 98 = +194.5 J K-1 mol-1."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-19.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-20.jpg",
@@ -58991,7 +59074,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/14-Acid-Base-Equilibria-23.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q19.jpg",
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q19-2.jpg"
+     ]
     },
     {
      "id": "Ch14-Q19b",
@@ -59007,9 +59093,13 @@ window.BANK.chemistry = {
       "temperature"
      ],
      "question": "Plot a graph of total entropy against 1/T on the grid, with a line of best fit.",
-     "status": "pending",
-     "answer": "Needs the grid and data table (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A straight line of best fit with positive gradient, rising from lower left to upper right, passing through all five points and crossing the 1/T axis at about 2.17 x 10^-3 K-1",
+     "steps": [
+      "Axes: x = 1/T / K-1 (1.0 to 4.5 x 10^-3), y = total entropy change / kJ K-1 mol-1 (from about -0.05 to +0.10), with a scale using more than half of each axis.",
+      "Plot (4.00 x 10^-3, 8.27 x 10^-2), (2.67 x 10^-3, 2.25 x 10^-2), (2.00 x 10^-3, -0.764 x 10^-2), (1.60 x 10^-3, -2.57 x 10^-2) and (1.33 x 10^-3, -3.77 x 10^-2).",
+      "Draw one straight best-fit line through the points (they are almost exactly collinear); the line crosses zero at about 1/T = 2.17 x 10^-3 K-1."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-19.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-20.jpg",
@@ -59018,7 +59108,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/14-Acid-Base-Equilibria-23.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q19-3.jpg"
+     ]
     },
     {
      "id": "Ch14-Q19c(i)",
@@ -59034,9 +59126,13 @@ window.BANK.chemistry = {
       "slope"
      ],
      "question": "Determine the gradient of the line plotted in (b), including units.",
-     "status": "pending",
-     "answer": "Needs the plotted graph and data (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "gradient = +45 kJ mol-1 (about +4.5 x 10^4 J mol-1; accept 43 to 47)",
+     "steps": [
+      "Take two points far apart on the line, e.g. (4.00 x 10^-3, 8.27 x 10^-2) and (1.33 x 10^-3, -3.77 x 10^-2).",
+      "gradient = (8.27 x 10^-2 - (-3.77 x 10^-2)) / (4.00 x 10^-3 - 1.33 x 10^-3) = 0.1204 / 0.00267 = +45.1.",
+      "Units: kJ K-1 mol-1 divided by K-1 = kJ mol-1."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-19.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-20.jpg",
@@ -59045,7 +59141,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/14-Acid-Base-Equilibria-23.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q19-3.jpg"
+     ]
     },
     {
      "id": "Ch14-Q19c(ii)",
@@ -59092,9 +59190,13 @@ window.BANK.chemistry = {
       "haber process"
      ],
      "question": "Determine the temperature at which the reaction ceases to be thermodynamically feasible at 100 kPa.",
-     "status": "pending",
-     "answer": "Needs the graph intercept and gradient (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "about 460 K (accept 450 to 470 K)",
+     "steps": [
+      "The reaction stops being feasible when deltaS(total) falls to zero: where the best-fit line crosses the 1/T axis (y = 0).",
+      "The line crosses at 1/T = 2.17 x 10^-3 K-1.",
+      "T = 1 / (2.17 x 10^-3) = 461 K, so above about 460 K the total entropy change is negative and the reaction is not feasible at 100 kPa."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-19.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-20.jpg",
@@ -59103,7 +59205,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/14-Acid-Base-Equilibria-23.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q19-3.jpg"
+     ]
     },
     {
      "id": "Ch14-Q19d(i)",
@@ -59338,14 +59442,19 @@ window.BANK.chemistry = {
       "options missing"
      ],
      "question": "Which indicator is most suitable for the titration of ammonia solution with hydrochloric acid? The answer options are missing from the text.",
-     "status": "pending",
-     "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: bromocresol green (pKin = 4.7)",
+     "steps": [
+      "Ammonia (weak base) with HCl (strong acid): the equivalence point is acidic, at about pH 5 (ammonium chloride solution).",
+      "The best indicator has pKin close to this pH: bromocresol green with pKin 4.7."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-24.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q20.jpg"
+     ]
     },
     {
      "id": "Ch14-Q21a",
@@ -59419,14 +59528,19 @@ window.BANK.chemistry = {
       "options missing"
      ],
      "question": "Pure water has pH 7.00 at 25 C and pH 6.14 at 100 C. What can be deduced? The answer options are missing from the text.",
-     "status": "pending",
-     "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: endothermic; hydrogen ion concentration higher at 100 C than at 25 C",
+     "steps": [
+      "pH 6.14 at 100 C is lower than 7.00 at 25 C, so [H+] is higher at 100 C (10^-6.14 against 10^-7.00).",
+      "More dissociation of water at a higher temperature means the equilibrium shifts forward when heated, so the dissociation is endothermic."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-25.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q22.jpg"
+     ]
     },
     {
      "id": "Ch14-Q23",
@@ -59496,14 +59610,20 @@ window.BANK.chemistry = {
       "options missing"
      ],
      "question": "In which equation is H2O acting only as a Bronsted-Lowry acid? The answer options are missing from the text.",
-     "status": "pending",
-     "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: NH3 + H2O -> NH4+ + OH-",
+     "steps": [
+      "Water acts only as a Bronsted-Lowry acid when it donates a proton and never accepts one.",
+      "In C, water donates H+ to NH3 to give OH-.",
+      "In A and B water accepts H+ (forming H3O+) and in D one water molecule donates and the other accepts."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-26.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q25.jpg"
+     ]
     },
     {
      "id": "Ch14-Q26a(i)",
@@ -59548,16 +59668,22 @@ window.BANK.chemistry = {
       "table"
      ],
      "question": "Complete the table for an equilibrium of N2 and H2 in a 1:3 ratio at 450 C and 200 atm, containing 28% ammonia by volume.",
-     "status": "pending",
-     "answer": "Needs the completed table layout (missing from the text) to be checked against the PDF. Working: N2 0.180, H2 0.540, NH3 0.280 mole fractions; partial pressures 36.0, 108, 56.0 atm",
-     "steps": [],
+     "status": "ready",
+     "answer": "N2: mole fraction 0.18, partial pressure 36 atm; H2: mole fraction 0.54, partial pressure 108 atm",
+     "steps": [
+      "NH3 is 28% by volume, so the remaining 72% is N2 and H2 in a 1:3 ratio.",
+      "N2 = 0.72 x 1/4 = 0.18; H2 = 0.72 x 3/4 = 0.54 (the fractions sum to 1.00 with 0.28).",
+      "Partial pressure = mole fraction x 200 atm: N2 = 36 atm, H2 = 108 atm, NH3 = 56 atm (given)."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-27.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-28.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-29.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q26.jpg"
+     ]
     },
     {
      "id": "Ch14-Q26a(iii)",
@@ -59635,16 +59761,21 @@ window.BANK.chemistry = {
       "missing box"
      ],
      "question": "Complete the Hess cycle for the enthalpy of solution of ammonium chloride by filling the empty box.",
-     "status": "pending",
-     "answer": "Needs the Hess cycle diagram (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "NH4+(aq) + Cl-(aq)",
+     "steps": [
+      "The solution arrow goes from NH4Cl(s) to the right-hand box, and the hydration arrow goes from the gaseous ions to the same box.",
+      "So the empty box contains the aqueous ions: NH4+(aq) + Cl-(aq)."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-27.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-28.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-29.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q26-2.jpg"
+     ]
     },
     {
      "id": "Ch14-Q26b(ii)",
@@ -59779,14 +59910,20 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "Which indicators could be used for the titration curve shown (base added to acid)? Options include bromocresol green, methyl red and phenolphthalein.",
-     "status": "pending",
-     "answer": "Needs the titration curve (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: bromothymol blue, phenol red and phenolphthalein",
+     "steps": [
+      "Weak acid with strong base: the curve rises sharply at 10 cm3 from about pH 5.7 to 10.5, with equivalence at about pH 8-9.",
+      "Indicators that change colour within this region are bromothymol blue (6.0-7.6), phenol red (6.8-8.4) and phenolphthalein (8.3-10.0).",
+      "Bromocresol green and methyl red change colour on the flat buffer part (pH 4-6), thymol blue (acid), methyl orange and bromophenol blue change below pH 5."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-30.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q27.jpg"
+     ]
     },
     {
      "id": "Ch14-Q27b",
@@ -59802,14 +59939,19 @@ window.BANK.chemistry = {
       "curve identification"
      ],
      "question": "Which acid and base could produce the curve? Options: CH3COOH and NaOH, CH3COOH and NH3, HCl and NaOH, HCl and NH3.",
-     "status": "pending",
-     "answer": "Needs the titration curve (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: CH3COOH and NaOH",
+     "steps": [
+      "The curve starts at pH 2.9 (weak acid, not pH 1 for HCl) so the acid is CH3COOH.",
+      "It ends at about pH 12, so the alkali is strong (NaOH); ammonia would level off near pH 11 and would give an acidic equivalence point."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-30.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q27.jpg"
+     ]
     },
     {
      "id": "Ch14-Q28a",
@@ -59877,16 +60019,21 @@ window.BANK.chemistry = {
       "options missing"
      ],
      "question": "Which is not a conjugate acid-base pair? The answer options are missing from the text.",
-     "status": "pending",
-     "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: H2CO3, CO3^2-",
+     "steps": [
+      "A conjugate acid-base pair differs by exactly one proton.",
+      "H2CO3 and CO3^2- differ by two protons, so they are not a conjugate pair; the others are (NH3/NH2-, NH4+/NH3, H2CO3/HCO3-)."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-32.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-33.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-34.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q29.jpg"
+     ]
     },
     {
      "id": "Ch14-Q30a(i)",
@@ -60114,14 +60261,19 @@ window.BANK.chemistry = {
       "distilled water"
      ],
      "question": "A 1 mol dm-3 ethanoic acid solution is diluted with water. What happens to its degree of dissociation and its pH? The answer options are missing from the text.",
-     "status": "pending",
-     "answer": "Needs the answer options (missing from the text) to be checked against the PDF. Expected: degree of dissociation increases and pH increases",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: degree of dissociation increases and pH increases",
+     "steps": [
+      "On dilution, a weak acid dissociates to a greater extent (Le Chatelier / Ka = [H+][A-]/[HA] is constant, so a lower concentration gives a higher fraction dissociated).",
+      "However, the total [H+] falls because the solution is more dilute, so the pH increases."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-36.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q32.jpg"
+     ]
     },
     {
      "id": "Ch14-Q33",
@@ -60137,14 +60289,20 @@ window.BANK.chemistry = {
       "acid-base pairs"
      ],
      "question": "Equal amounts of ethanoic acid (pKa 4.8) and methanoic acid (pKa 3.8) are mixed. What are the conjugate acid-base pairs? The answer options are missing from the text.",
-     "status": "pending",
-     "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: acid 1 HCOOH, base 1 HCOO-, acid 2 CH3COOH2+, base 2 CH3COOH",
+     "steps": [
+      "Methanoic acid (pKa 3.8) is the stronger acid, so it donates the proton to ethanoic acid (pKa 4.8) which acts as a base.",
+      "HCOOH + CH3COOH <=> HCOO- + CH3COOH2+.",
+      "Pairs: HCOOH / HCOO- and CH3COOH2+ / CH3COOH."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-36.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q33.jpg"
+     ]
     },
     {
      "id": "Ch14-Q34a(i)",
@@ -60214,15 +60372,21 @@ window.BANK.chemistry = {
       "dissociation constant"
      ],
      "question": "Use the weak acid titration curve (equivalence point A, volume C at equivalence, volume B is half of C) to determine Ka.",
-     "status": "pending",
-     "answer": "Needs the titration curve (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Ka = about 1.6 x 10^-5 mol dm-3 (pKa 4.8)",
+     "steps": [
+      "At half the equivalence volume (B) half of the acid has been neutralised, so [HA] = [A-] and pH = pKa.",
+      "Reading the graph at B gives pH = 4.8 (about 4.76), so pKa = 4.8.",
+      "Ka = 10^-4.8 = 1.6 x 10^-5 mol dm-3 (accept 1.5 to 1.8 x 10^-5)."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-37.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-38.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q34.jpg"
+     ]
     },
     {
      "id": "Ch14-Q34b(ii)",
@@ -60250,7 +60414,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/14-Acid-Base-Equilibria-38.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q34.jpg"
+     ]
     },
     {
      "id": "Ch14-Q34c(i)",
@@ -60378,13 +60544,19 @@ window.BANK.chemistry = {
       "options missing"
      ],
      "question": "Ethanoic acid reacts with the hydrogensulfite ion HSO3-. Which is a correct acid conjugate-base pair? The answer options are missing from the text.",
-     "status": "pending",
-     "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: CH3COOH (acid) and CH3COO- (conjugate base)",
+     "steps": [
+      "Ethanoic acid (Ka 1.7 x 10^-5) is much stronger than HSO3- as an acid (Ka 6.2 x 10^-8), so it donates a proton to HSO3-, which acts as a base.",
+      "CH3COOH + HSO3- <=> CH3COO- + H2SO3.",
+      "The acid / conjugate base pair is CH3COOH / CH3COO-."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q37.jpg"
+     ]
     },
     {
      "id": "Ch14-Q38",
@@ -60426,13 +60598,18 @@ window.BANK.chemistry = {
       "hx"
      ],
      "question": "A titration curve for an acid with a strong base is shown. What could be the formula of the acid? Options: A HX, B HX2, C H2X, D H3X.",
-     "status": "pending",
-     "answer": "Needs the titration curve (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: H2X",
+     "steps": [
+      "The curve has two separate steep rises in pH, so two protons are neutralised in two stages: a diprotic acid.",
+      "H2X is the diprotic acid (HX would show one steep section and H3X would show three)."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q39.jpg"
+     ]
     },
     {
      "id": "Ch14-Q40a(i)",
@@ -60447,15 +60624,20 @@ window.BANK.chemistry = {
       "complete the table"
      ],
      "question": "Complete the table of Ka and pKa values for several weak acids.",
-     "status": "pending",
-     "answer": "Needs the table (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Ka(C5H5NH+) = 5.6 x 10^-6 mol dm-3; pKa(CHCl2COOH) = 1.35",
+     "steps": [
+      "Ka = 10^-pKa = 10^-5.25 = 5.6 x 10^-6 mol dm-3 (the pKa 5.25 box).",
+      "pKa = -log10(4.5 x 10^-2) = 1.35 (the Ka 4.5 x 10^-2 box)."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-42.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-43.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q40.jpg"
+     ]
     },
     {
      "id": "Ch14-Q40a(ii)",
@@ -60498,15 +60680,20 @@ window.BANK.chemistry = {
       "labelling"
      ],
      "question": "Label the two acid-base pairs (A1, B1 and A2, B2) in the equilibrium set up when methanoic acid is added to propanoic acid. The equilibrium equation is incomplete in the text.",
-     "status": "pending",
-     "answer": "Needs the incomplete equilibrium equation (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "CH3CH2COOH + HCOOH <=> CH3CH2COOH2+ + HCOO-, with labels: CH3CH2COOH = B2, HCOOH = A1, CH3CH2COOH2+ = A2, HCOO- = B1",
+     "steps": [
+      "Methanoic acid (pKa 3.75) is a stronger acid than propanoic acid (pKa 4.88), so HCOOH donates the proton and CH3CH2COOH accepts it.",
+      "Acid 1 / base 1: HCOOH / HCOO-. Acid 2 / base 2: CH3CH2COOH2+ / CH3CH2COOH."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-42.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-43.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q40-2.jpg"
+     ]
     },
     {
      "id": "Ch14-Q40a(iv)",
@@ -60523,15 +60710,22 @@ window.BANK.chemistry = {
       "weak acid approximation"
      ],
      "question": "Discuss differences between measured and calculated pH for 0.050 mol dm-3 CH2ClCOOH (Ka 1.4 x 10^-3) and CHCl2COOH (Ka 4.5 x 10^-2), using the assumptions [H+] = [A-] and [HA] equilibrium = [HA] initial. The measured pH values are missing from the text.",
-     "status": "pending",
-     "answer": "Needs the measured pH values table (missing from the text) to be checked against the PDF. Calculated values: CH2ClCOOH pH 2.1 and CHCl2COOH pH 1.3 (approximate)",
-     "steps": [],
+     "status": "ready",
+     "answer": "Calculated pH uses [H+] = sqrt(Ka x [HA]); the measured pH is higher because [HA] at equilibrium is less than 0.050 (the approximation fails, particularly for CHCl2COOH which is about 60% dissociated)",
+     "steps": [
+      "Calculation: [H+] = sqrt(Ka x [HA]). CH2ClCOOH: sqrt(1.4 x 10^-3 x 0.050) = 8.4 x 10^-3, pH = 2.08. CHCl2COOH: sqrt(4.5 x 10^-2 x 0.050) = 4.7 x 10^-2, pH = 1.32.",
+      "The assumption [H+] = [A-] is reasonable (water's contribution is negligible), but [HA]equilibrium = [HA]initial is not: the acid is partly dissociated, so the equilibrium [HA] is lower than 0.050 mol dm-3.",
+      "For CH2ClCOOH about 15% is dissociated, so the error is small (measured 2.11 compared with 2.08). For CHCl2COOH about 60% is dissociated (a strong-ish acid), so the error is large (1.52 compared with 1.32).",
+      "Because the calculation uses too large a value of [HA] it overestimates [H+], so the calculated pH is lower than the measured pH; solving the quadratic Ka = x^2/(0.050 - x) gives pH 2.11 and 1.52, matching the measurements."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-42.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-43.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q40-3.jpg"
+     ]
     },
     {
      "id": "Ch14-Q40b",
@@ -60547,15 +60741,22 @@ window.BANK.chemistry = {
       "pka"
      ],
      "question": "Complete the titration curve for 75.0 cm3 of 0.025 mol dm-3 NaOH added to 25.0 cm3 of 0.025 mol dm-3 4-hydroxybenzoic acid.",
-     "status": "pending",
-     "answer": "Needs the blank titration curve (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Curve continues from (18 cm3, pH 4.7) in a buffer region with a pH of 4.5 at 12.5 cm3, a steep rise at 25 cm3 to a second buffer region with pH 9.3 at 37.5 cm3, a second steep rise at 50 cm3 and levelling out at about pH 11.8",
+     "steps": [
+      "0.025 mol dm-3 NaOH reacts with the diprotic acid in two stages, each needing 25 cm3 (the acid is 25.0 cm3 of 0.025 mol dm-3), so there are two steep sections: at 25 cm3 and at 50 cm3.",
+      "First buffer region: pH = pKa1 = 4.5 at 12.5 cm3; the curve then rises to the first steep rise at 25 cm3, with the equivalence point at about pH 6.9 (midway between 4.5 and 9.3).",
+      "Second buffer region: pH = pKa2 = 9.3 at 37.5 cm3; the curve rises gradually from about pH 8 to pH 10.",
+      "Second steep rise at 50 cm3 (equivalence point near pH 10.7), reaching about pH 11.5 at 58 cm3 where it joins the printed section, then it levels off at about pH 11.8 at 75 cm3."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-42.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-43.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q40-4.jpg"
+     ]
     },
     {
      "id": "Ch14-Q40c",
@@ -60771,14 +60972,19 @@ window.BANK.chemistry = {
       "options missing"
      ],
      "question": "What is the conjugate acid of a species shown in the acid-base equations? The equations and answer options are missing from the text.",
-     "status": "pending",
-     "answer": "Needs the equations and answer options (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: H2PO4-",
+     "steps": [
+      "The conjugate acid of a species is the species plus one H+.",
+      "HPO4^2- + H+ -> H2PO4-, so the conjugate acid of HPO4^2- is H2PO4- (seen in the second equation, where H2PO4- donates a proton to give HPO4^2-)."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-46.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q44.jpg"
+     ]
     },
     {
      "id": "Ch14-Q45",
@@ -60821,14 +61027,20 @@ window.BANK.chemistry = {
       "options missing"
      ],
      "question": "Which reaction is most important in buffering the decrease in pH caused by carbon dioxide accumulation during exercise? The options are missing from the text.",
-     "status": "pending",
-     "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: HCO3- + H+ -> H2CO3",
+     "steps": [
+      "The decrease in pH is caused by extra H+ (from dissolved CO2 forming carbonic acid), so the buffer must remove H+.",
+      "Hydrogencarbonate ions accept the extra H+ and form H2CO3 (which can be removed as CO2), keeping the pH steady.",
+      "A and C release H+ (they would lower the pH further) and D needs carbonate ions, which are scarce at blood pH."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-47.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-48.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q46.jpg"
+     ]
     },
     {
      "id": "Ch14-Q47",
@@ -61088,15 +61300,21 @@ window.BANK.chemistry = {
       "options missing"
      ],
      "question": "Which species act as a Bronsted-Lowry acid in the equilibrium when ammonia dissolves in water? The answer options are missing from the text.",
-     "status": "pending",
-     "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: NH4+ and H2O",
+     "steps": [
+      "A Bronsted-Lowry acid donates a proton. In the forward reaction H2O donates a proton to NH3.",
+      "In the reverse reaction NH4+ donates a proton to OH-.",
+      "So the acids are H2O and NH4+."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-51.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-52.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-53.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q54.jpg"
+     ]
     },
     {
      "id": "Ch14-Q55a(i)",
@@ -61220,9 +61438,13 @@ window.BANK.chemistry = {
       "labelling"
      ],
      "question": "Complete the equilibrium CH3COOH + CH2ClCOOH and label the conjugate acid-base pairs A1, B1 and A2, B2. The equation is incomplete in the text.",
-     "status": "pending",
-     "answer": "Needs the complete equilibrium equation (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "CH3COOH (B2) + CH2ClCOOH (A1) <=> CH3COOH2+ (A2) + CH2ClCOO- (B1)",
+     "steps": [
+      "Chloroethanoic acid (Ka 1.30 x 10^-3) is the stronger acid and ethanoic acid (Ka 1.70 x 10^-5) the weaker one, so CH2ClCOOH donates a proton to CH3COOH.",
+      "Pairs: acid 1 CH2ClCOOH / base 1 CH2ClCOO- and acid 2 CH3COOH2+ / base 2 CH3COOH.",
+      "Complete the equation by writing CH3COOH2+ + CH2ClCOO- on the right and labelling CH3COOH = B2, CH2ClCOOH = A1, CH3COOH2+ = A2 and CH2ClCOO- = B1."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-51.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-52.jpg",
@@ -61381,15 +61603,21 @@ window.BANK.chemistry = {
       "graph matching"
      ],
      "question": "Which curve (1 to 4) is produced by adding ammonia to 25 cm3 of hydrochloric acid?",
-     "status": "pending",
-     "answer": "Needs the four titration curves (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Curve 3",
+     "steps": [
+      "Ammonia (a weak base) is added to hydrochloric acid, so the pH starts low (about 1) and rises.",
+      "The end of the curve is only about pH 9-10 (an excess of weak base), unlike Curve 1 which reaches pH 13-14 (strong base).",
+      "Curve 3 matches (starts at pH 1, steep rise at 25 cm3, ends at about pH 9.5)."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-54.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-55.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q59.jpg"
+     ]
     },
     {
      "id": "Ch14-Q59b",
@@ -61404,15 +61632,22 @@ window.BANK.chemistry = {
       "suitable indicator"
      ],
      "question": "Which indicator is most suitable for the titration giving Curve 4?",
-     "status": "pending",
-     "answer": "Needs the four titration curves (missing from the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: thymol blue (base), pH range 8.0-9.6",
+     "steps": [
+      "Curve 4 is a weak acid added to a strong alkali: the pH falls from about 13, drops steeply at 25 cm3 from about pH 10 to about pH 5.5 and then levels at about pH 4.5.",
+      "The equivalence point is at about pH 8-9, so the indicator must change colour within the steep section near this value.",
+      "Thymol blue (base) (8.0-9.6) fits; congo red (3.0-5.0) is below the steep section, bromocresol purple (5.2-6.8) is at the extreme bottom edge, and alizarin yellow R (10.1-13.0) is above it."
+     ],
      "images": [
       "papers/chemistry/img/14-Acid-Base-Equilibria-54.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-55.jpg",
       "papers/chemistry/img/14-Acid-Base-Equilibria-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q59.jpg",
+      "papers/chemistry/fig/14-Acid-Base-Equilibria-Q59-2.jpg"
+     ]
     }
    ]
   },
@@ -61470,14 +61705,21 @@ window.BANK.chemistry = {
       "chirality"
      ],
      "question": "Which of structures A to D is not identical to the other three?",
-     "status": "pending",
-     "answer": "Pending: structures A, B, C and D are diagrams that are missing from the text (only the option letters are present).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Structure D",
+     "steps": [
+      "Each structure has one carbon bonded to Cl, OH, CH2CH3 and CH3, so each is chiral and can exist as either of two mirror-image forms (enantiomers).",
+      "CIP priorities are Cl > OH > CH2CH3 > CH3. Looking with the CH3 group pointing away, Cl -> OH -> CH2CH3 runs anticlockwise (S) in A, B and C.",
+      "A, B and C are therefore the same molecule drawn from different viewpoints.",
+      "In D, Cl -> OH -> CH2CH3 runs clockwise (R), so D is the mirror image of the other three. It is the one that is not identical."
+     ],
      "images": [
       "papers/chemistry/img/15A-Chirality-1.jpg",
       "papers/chemistry/img/15A-Chirality-2.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15A-Chirality-Q2.jpg"
+     ]
     },
     {
      "id": "Ch15A-Q3",
@@ -61495,14 +61737,20 @@ window.BANK.chemistry = {
       "geranium oil"
      ],
      "question": "Which types of stereoisomerism does citronellol (found in rose and geranium oils) show? A optical and geometric, B optical only, C geometric only, D neither.",
-     "status": "pending",
-     "answer": "Pending: the structure of citronellol (referred to as shown) is a diagram missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: optical isomerism only",
+     "steps": [
+      "Citronellol is HOCH2CH2CH(CH3)CH2CH2CH=C(CH3)2.",
+      "The CH carrying the CH3 group is bonded to four different groups (H, CH3, CH2CH2OH, CH2CH2CH=C(CH3)2), so it is a chiral centre and the molecule shows optical isomerism.",
+      "The terminal alkene carbon is bonded to two identical CH3 groups, so there is no geometric (E/Z) isomerism."
+     ],
      "images": [
       "papers/chemistry/img/15A-Chirality-1.jpg",
       "papers/chemistry/img/15A-Chirality-2.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15A-Chirality-Q3.jpg"
+     ]
     },
     {
      "id": "Ch15A-Q4",
@@ -61520,13 +61768,19 @@ window.BANK.chemistry = {
       "chirality"
      ],
      "question": "How many optical isomers does the molecule shown have? A 2, B 3, C 6, D 8.",
-     "status": "pending",
-     "answer": "Pending: the diagram of the molecule is missing from the text (only the options are present).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 8",
+     "steps": [
+      "The molecule is Br-CH(CH3)-CH2-CH(OH)-CH(Cl)-CH3.",
+      "Three carbons are each bonded to four different groups: the C-Br carbon, the C-OH carbon and the C-Cl carbon.",
+      "Number of optical isomers = 2^n = 2^3 = 8."
+     ],
      "images": [
       "papers/chemistry/img/15A-Chirality-2.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15A-Chirality-Q4.jpg"
+     ]
     },
     {
      "id": "Ch15A-Q5",
@@ -61576,14 +61830,20 @@ window.BANK.chemistry = {
       "chiral carbon"
      ],
      "question": "How many chiral centres are there in one molecule of menthol? A 1, B 2, C 3, D 4.",
-     "status": "pending",
-     "answer": "Pending: the structural diagram of menthol is missing from the text (only the options are present).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 3",
+     "steps": [
+      "Menthol is 2-(1-methylethyl)-5-methylcyclohexanol.",
+      "Chiral centres are the ring carbon bonded to OH, the ring carbon bonded to the isopropyl group and the ring carbon bonded to the CH3 group. Each has four different groups, since the two ring paths differ.",
+      "The CH of the isopropyl group carries two identical CH3 groups, so it is not chiral. The CH2 ring carbons and CH3 carbons are not chiral either."
+     ],
      "images": [
       "papers/chemistry/img/15A-Chirality-3.jpg",
       "papers/chemistry/img/15A-Chirality-4.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15A-Chirality-Q6.jpg"
+     ]
     },
     {
      "id": "Ch15A-Q7",
@@ -61633,14 +61893,21 @@ window.BANK.chemistry = {
       "pair of compounds"
      ],
      "question": "Which pair of compounds can form a racemic mixture when mixed?",
-     "status": "pending",
-     "answer": "Pending: the structures of the compound pairs (options) are diagrams missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D",
+     "steps": [
+      "A racemic mixture needs two molecules that are non-superimposable mirror images of each other (a pair of enantiomers) in equal amounts.",
+      "In A the two structures are different compounds, and the right-hand one has two CH2OH groups, so it is achiral. In C the two compounds are also different, and the right-hand one has two CH3 groups, so it is achiral.",
+      "In B both drawings are the same enantiomer, so the mixture would still rotate plane-polarised light.",
+      "In D the right-hand structure is the reflection of the left-hand one (H, OH and C2H5 swapped left to right with the same wedge/dash), so they are enantiomers and form a racemic mixture."
+     ],
      "images": [
       "papers/chemistry/img/15A-Chirality-4.jpg",
       "papers/chemistry/img/15A-Chirality-5.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15A-Chirality-Q8.jpg"
+     ]
     },
     {
      "id": "Ch15A-Q9",
@@ -61658,14 +61925,20 @@ window.BANK.chemistry = {
       "heart drug"
      ],
      "question": "How many chiral centres are there in a molecule of metoprolol? A 0, B 1, C 2, D 3.",
-     "status": "pending",
-     "answer": "Pending: the structural diagram of metoprolol is missing from the text (only the options are present).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 1",
+     "steps": [
+      "Only the carbon bonded to OH has four different groups (H, OH, CH2-O-aryl and CH2-NH-), so it is the only chiral centre.",
+      "The carbon of the isopropyl group bonded to N carries two identical CH3 groups, so it is not chiral.",
+      "All other carbons are CH2, CH3 or sp2 carbons of the benzene ring, which cannot be chiral."
+     ],
      "images": [
       "papers/chemistry/img/15A-Chirality-5.jpg",
       "papers/chemistry/img/15A-Chirality-6.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15A-Chirality-Q9.jpg"
+     ]
     },
     {
      "id": "Ch15A-Q10",
@@ -61683,14 +61956,20 @@ window.BANK.chemistry = {
       "pair of molecules"
      ],
      "question": "Which pair of molecules, mixed in equimolar quantities, will not rotate the plane of plane-polarised light?",
-     "status": "pending",
-     "answer": "Pending: the structures of the molecule pairs (options) are diagrams missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "All the molecules are 2-bromobutane (CH3, H, Br, C2H5 on one carbon). An equimolar mixture does not rotate plane-polarised light only if it is a racemate, i.e. a pair of enantiomers.",
+      "Assigning R/S (priorities Br > C2H5 > CH3 > H): in A both are R, in C both are R, in D both are S, so each of these pairs is the same enantiomer drawn differently and would still rotate the light.",
+      "In B the left structure is R and the right structure is S, so they are mirror images and the 1:1 mixture is racemic."
+     ],
      "images": [
       "papers/chemistry/img/15A-Chirality-6.jpg",
       "papers/chemistry/img/15A-Chirality-7.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15A-Chirality-Q10.jpg"
+     ]
     },
     {
      "id": "Ch15A-Q11",
@@ -61708,15 +61987,23 @@ window.BANK.chemistry = {
       "counting"
      ],
      "question": "How many chiral centres are in the molecule shown? A 4, B 5, C 6, D 7.",
-     "status": "pending",
-     "answer": "Pending: the diagram of the molecule is missing from the text (only the options are present).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 6",
+     "steps": [
+      "The molecule is a steroid (progesterone). Chiral centres are carbons bonded to four different groups.",
+      "The two ring-fusion carbons that carry CH3 groups are chiral (2).",
+      "The three ring-fusion CH carbons (two between the B and C rings and the one between the C and D rings) are chiral (3).",
+      "The CH carbon bearing the COCH3 side chain on the five-membered ring is chiral (1).",
+      "The C=C carbons are sp2, so are not chiral; the C=O carbons and CH2 carbons are not chiral. Total = 2 + 3 + 1 = 6."
+     ],
      "images": [
       "papers/chemistry/img/15A-Chirality-7.jpg",
       "papers/chemistry/img/15A-Chirality-8.jpg",
       "papers/chemistry/img/15A-Chirality-9.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15A-Chirality-Q11.jpg"
+     ]
     },
     {
      "id": "Ch15A-Q12a(i)",
@@ -61765,15 +62052,22 @@ window.BANK.chemistry = {
       "bimolecular"
      ],
      "question": "Show that the initial rate data for the hydrolysis of 2-bromobutane by hydroxide ions are consistent with an SN2 mechanism.",
-     "status": "pending",
-     "answer": "Pending: the table of initial rates for 2-bromobutane is missing from the text, so the data cannot be analysed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Rate = k[2-bromobutane][OH-]: first order in each reactant and second order overall, as expected for SN2 (k = 1.2 dm^3 mol^-1 s^-1)",
+     "steps": [
+      "Experiments 1 and 2: [2-bromobutane] doubles (0.150 -> 0.300) with [OH-] constant, and the rate doubles (0.027 -> 0.054), so the reaction is first order in 2-bromobutane.",
+      "Experiments 1 and 3: [2-bromobutane] x3 and [OH-] x2 give a rate x6 (0.027 -> 0.162). The x3 is accounted for by 2-bromobutane, so the remaining x2 shows first order in OH-.",
+      "Rate = k[CH3CH2CHBrCH3][OH-]; k = 0.027 / (0.150 x 0.150) = 1.2 dm^3 mol^-1 s^-1.",
+      "Both reactants appear in the rate equation, so both are involved in the rate-determining step: a single bimolecular step, which is the SN2 mechanism. (SN1 would be first order in the halogenoalkane only and independent of [OH-].)"
+     ],
      "images": [
       "papers/chemistry/img/15A-Chirality-7.jpg",
       "papers/chemistry/img/15A-Chirality-8.jpg",
       "papers/chemistry/img/15A-Chirality-9.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15A-Chirality-Q12.jpg"
+     ]
     },
     {
      "id": "Ch15A-Q12a(iii)",
@@ -61823,15 +62117,22 @@ window.BANK.chemistry = {
       "tertiary halogenoalkane"
      ],
      "question": "Explain how all the features of the reaction profile for the SN1 hydrolysis of 2-bromo-2-methylbutane are consistent with an SN1 mechanism.",
-     "status": "pending",
-     "answer": "Pending: the reaction profile diagram is missing from the text, so its features cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Two-step profile with an intermediate (carbocation) and a higher first peak (slow, rate-determining C-Br bond breaking), which matches SN1",
+     "steps": [
+      "There are two maxima (two transition states) with a minimum between them, so there are two steps and an intermediate. In SN1 this is the tertiary carbocation (CH3)2C+CH2CH3 formed after Br- leaves.",
+      "The first peak is higher, so the first step (heterolytic breaking of the C-Br bond) has the larger activation energy. It is the slow, rate-determining step and involves only the halogenoalkane (unimolecular).",
+      "The second peak is lower: the fast attack of OH- on the carbocation has a small activation energy.",
+      "Products lie below reactants, so the overall reaction is exothermic."
+     ],
      "images": [
       "papers/chemistry/img/15A-Chirality-7.jpg",
       "papers/chemistry/img/15A-Chirality-8.jpg",
       "papers/chemistry/img/15A-Chirality-9.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15A-Chirality-Q12-2.jpg"
+     ]
     }
    ]
   },

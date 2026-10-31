@@ -77,13 +77,21 @@
         "proton transfer"
       ],
       "question": "Identify the acids and bases in Equation 2 for phosphoric(V) acid and link the conjugate pairs.",
-      "status": "pending",
-      "answer": "Needs Equation 2 (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "H2PO4- is acid 1 and HPO4^2- its conjugate base (base 1); H2O is base 2 and H3O+ its conjugate acid (acid 2)",
+      "steps": [
+        "Equation 2: H2PO4-(aq) + H2O(l) <=> HPO4^2-(aq) + H3O+(aq).",
+        "Forward direction: H2PO4- donates a proton (acid 1) and becomes HPO4^2- (base 1).",
+        "H2O accepts the proton (base 2) and becomes H3O+ (acid 2).",
+        "The two conjugate pairs are H2PO4- / HPO4^2- and H3O+ / H2O."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-01.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-02.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q1.jpg"
       ]
     },
     {
@@ -101,13 +109,19 @@
         "hydrogen ion"
       ],
       "question": "Explain why very little dissociation of the ion occurs in phosphoric(V) acid solutions.",
-      "status": "pending",
-      "answer": "Needs the formula of the ion (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "H2PO4- is a very weak acid (small Ka2), and the H3O+ already present from the first dissociation pushes equilibrium 2 to the left",
+      "steps": [
+        "Losing a proton from an ion that is already negatively charged is difficult, because the H+ is strongly attracted to the 1- ion and the product HPO4^2- (2- charge) is unstable, so Ka2 is very small.",
+        "The H3O+ ions formed in the first dissociation (the common ion) are already present in solution, so by Le Chatelier's principle equilibrium 2 is pushed towards H2PO4-."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-01.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-02.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q1.jpg"
       ]
     },
     {
@@ -291,12 +305,18 @@
         "0.1 mol dm-3"
       ],
       "question": "Which pH graph (1 to 4) has ethanoic acid as one of the reactants?",
-      "status": "pending",
-      "answer": "Needs the four titration graphs (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Graph 4",
+      "steps": [
+        "Ethanoic acid is a weak acid. Graph 4 starts at pH 13 (a strong alkali being titrated) and ends at about pH 3 (an excess of weak acid), whereas strong acid would give a final pH close to 1 (Graph 2).",
+        "In Graphs 1 and 3 the alkali or base is added to a strong acid (start at pH 1), so ethanoic acid is not involved."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-05.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q5.jpg"
       ]
     },
     {
@@ -313,12 +333,19 @@
         "graph"
       ],
       "question": "Which graph shows an acidic pH at the end-point?",
-      "status": "pending",
-      "answer": "Needs the four titration graphs (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Graph 3",
+      "steps": [
+        "The end-point is acidic when a strong acid is titrated with a weak base: the salt formed (e.g. ammonium chloride) is acidic because the cation hydrolyses.",
+        "Graph 3 starts at pH 1 and rises to about pH 9.5 with the vertical section centred around pH 5-6, so the equivalence point is acidic.",
+        "Graphs 1 and 2 are strong acid / strong base (pH 7 at the end-point) and Graph 4 is weak acid / strong base (basic end-point)."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-05.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q5.jpg"
       ]
     },
     {
@@ -335,12 +362,19 @@
         "phenol red"
       ],
       "question": "Which indicator suits the titration in Graph 3? Options: bromocresol green, bromothymol blue, phenol red, thymol blue (acid).",
-      "status": "pending",
-      "answer": "Needs Graph 3 (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: bromocresol green",
+      "steps": [
+        "Graph 3 is a strong acid with a weak base; the vertical section runs from about pH 3.5 to 8 and the equivalence point is about pH 5.",
+        "An indicator must change colour within the vertical section and around the equivalence pH: bromocresol green (pH 3.8-5.4) does this.",
+        "Bromothymol blue (6.0-7.6) and phenol red (6.8-8.4) change after the equivalence point, and thymol blue (acid range 1.2-2.8) changes before the steep part."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-05.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q5.jpg"
       ]
     },
     {
@@ -358,12 +392,19 @@
         "weak acid strong base"
       ],
       "question": "Which two 0.10 mol dm-3 solutions gave the titration curve shown? Options: A HCl and KOH, B HCOOH and KOH, C HCl and NH3, D HCOOH and NH3.",
-      "status": "pending",
-      "answer": "Needs the titration curve (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: HCOOH(aq) and KOH(aq)",
+      "steps": [
+        "The curve starts at about pH 3, so the acid is weak (HCl at 0.10 mol dm-3 would start at pH 1).",
+        "It levels off at about pH 13, so the alkali is strong (ammonia would level off at about pH 11).",
+        "A weak acid with a strong alkali: HCOOH and KOH."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-06.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q6.jpg"
       ]
     },
     {
@@ -380,12 +421,18 @@
         "1.0 mol dm-3"
       ],
       "question": "Which acidic solution was used in the titration of the pH graph? Options: 0.1 mol dm-3 CH3COOH, 1.0 mol dm-3 CH3COOH, 0.1 mol dm-3 HCl, 1.0 mol dm-3 HCl.",
-      "status": "pending",
-      "answer": "Needs the pH graph (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 0.1 mol dm-3 HCl",
+      "steps": [
+        "The pH falls to about 1.5 at the end of the titration and stays there. A weak acid (CH3COOH) would level off at about pH 3, so the acid must be strong.",
+        "A level of about pH 1.5 after dilution corresponds to 0.1 mol dm-3 acid (1.0 mol dm-3 would give a pH of about 0.5), so the acid is 0.1 mol dm-3 HCl."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-07.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q7.jpg"
       ]
     },
     {
@@ -403,12 +450,18 @@
         "ph graph"
       ],
       "question": "Which basic solution was used in the titration of the pH graph? Options: NH3, LiOH, Ba(OH)2, NaOH.",
-      "status": "pending",
-      "answer": "Needs the pH graph (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: NH3",
+      "steps": [
+        "The titration starts at only about pH 10.5, and there is a gradual fall (buffer region) before the steep drop.",
+        "A strong alkali (LiOH, NaOH or Ba(OH)2) of this concentration would start at pH 13 or more, so the base must be weak: ammonia."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-07.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q7.jpg"
       ]
     },
     {
@@ -426,12 +479,19 @@
         "end-point"
       ],
       "question": "How many of thymol blue, methyl orange, bromophenol blue, bromocresol green and phenolphthalein are suitable for the titration in Question 7? Options A 5, B 4, C 3, D 2.",
-      "status": "pending",
-      "answer": "Needs the pH graph (missing from the text) and the Data Booklet ranges to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 3",
+      "steps": [
+        "Weak base with strong acid: the vertical section is from about pH 3 to 8, with the equivalence point at about pH 5.",
+        "Methyl orange (3.1-4.4), bromophenol blue (3.0-4.6) and bromocresol green (3.8-5.4) change colour inside this region.",
+        "Thymol blue (acid range 1.2-2.8) changes colour too early and phenolphthalein (8.3-10.0) is too late, so 3 are suitable."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-07.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q7.jpg"
       ]
     },
     {
@@ -448,12 +508,19 @@
         "acid pairs"
       ],
       "question": "When ethanoic acid and chloroethanoic acid are mixed, an equilibrium is set up. Which species are the Bronsted-Lowry acids? The answer options are missing from the text.",
-      "status": "pending",
-      "answer": "Needs the answer options and equation (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: CH2ClCOOH and CH3COOH2+",
+      "steps": [
+        "A Bronsted-Lowry acid is a proton donor.",
+        "In the forward reaction CH2ClCOOH donates a proton to CH3COOH, giving CH3COOH2+ and CH2ClCOO-.",
+        "In the reverse reaction CH3COOH2+ donates a proton back, so the acids are CH2ClCOOH and CH3COOH2+."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-08.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q8.jpg"
       ]
     },
     {
@@ -785,12 +852,18 @@
         "graph regions"
       ],
       "question": "On the HCl and NH3 titration curve, which region (T, U, V or W) represents the most effective buffer?",
-      "status": "pending",
-      "answer": "Needs the titration curve (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: region U",
+      "steps": [
+        "The most effective buffer is where there are roughly equal amounts of ammonia and ammonium ions, i.e. around the half-equivalence point on the flat section of the curve.",
+        "That is region U (pH about 9, close to the pKa of NH4+); T is the start, V is the steep section and W is excess acid."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-12.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-13.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q12.jpg"
       ]
     },
     {
@@ -1090,12 +1163,18 @@
         "options missing"
       ],
       "question": "Which is the acid-conjugate base pair in the reaction between ethanoic acid and chloroethanoic acid? The answer options are missing from the text.",
-      "status": "pending",
-      "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: acid CH2ClCOOH and conjugate base CH2ClCOO-",
+      "steps": [
+        "Chloroethanoic acid (pKa 2.9) is the stronger acid, so it donates the proton to ethanoic acid (pKa 4.8): CH3COOH + CH2ClCOOH <=> CH3COOH2+ + CH2ClCOO-.",
+        "The acid and its conjugate base are CH2ClCOOH and CH2ClCOO-."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-16.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q14.jpg"
       ]
     },
     {
@@ -1112,12 +1191,18 @@
         "ph curve"
       ],
       "question": "Which titration produced the curve shown (0.1 mol dm-3 acid added to 25 cm3 of 0.1 mol dm-3 alkali)? Options include HCl with NaOH and CH3COOH with NaOH.",
-      "status": "pending",
-      "answer": "Needs the titration curve (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: hydrochloric acid added to ammonia",
+      "steps": [
+        "The curve starts at about pH 11, which is too low for a strong alkali (NaOH would start near 13), so the alkali is a weak base: ammonia.",
+        "It ends at about pH 1.5 (an excess of acid), so the acid added is strong: HCl."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-17.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q15.jpg"
       ]
     },
     {
@@ -1133,12 +1218,20 @@
         "ph range"
       ],
       "question": "Which indicator is most suitable for the titration shown in Q15?",
-      "status": "pending",
-      "answer": "Needs the titration curve (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: methyl red (pH 4.2-6.3)",
+      "steps": [
+        "The vertical section of the curve runs from about pH 8 down to about pH 3.5; the equivalence point (an ammonium chloride solution) is at about pH 5.",
+        "Methyl red (4.2-6.3) changes colour right around this pH, inside the steep section.",
+        "Malachite green (0.2-1.8) and methyl yellow (2.9-4.0) change colour below the steep section, thymol blue (8.0-9.6) is above the equivalence point."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-17.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q15.jpg",
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q15-2.jpg"
       ]
     },
     {
@@ -1242,9 +1335,13 @@
         "298 K"
       ],
       "question": "Using the standard entropy change of the Haber process at 298 K and the table of standard entropies, calculate the standard entropy of one mole of ammonia.",
-      "status": "pending",
-      "answer": "Needs the entropy value and data table (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "S(NH3) = 194.5 J K-1 mol-1 (about 195 J K-1 mol-1)",
+      "steps": [
+        "DS(system) = S(NH3) - [1/2 S(N2) + 3/2 S(H2)].",
+        "-98 = S(NH3) - [0.5(192) + 1.5(131)] = S(NH3) - 292.5.",
+        "S(NH3) = 292.5 - 98 = +194.5 J K-1 mol-1."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-19.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-20.jpg",
@@ -1252,6 +1349,10 @@
         "papers/chemistry/img/14-Acid-Base-Equilibria-22.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-23.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-24.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q19.jpg",
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q19-2.jpg"
       ]
     },
     {
@@ -1268,9 +1369,13 @@
         "temperature"
       ],
       "question": "Plot a graph of total entropy against 1/T on the grid, with a line of best fit.",
-      "status": "pending",
-      "answer": "Needs the grid and data table (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A straight line of best fit with positive gradient, rising from lower left to upper right, passing through all five points and crossing the 1/T axis at about 2.17 x 10^-3 K-1",
+      "steps": [
+        "Axes: x = 1/T / K-1 (1.0 to 4.5 x 10^-3), y = total entropy change / kJ K-1 mol-1 (from about -0.05 to +0.10), with a scale using more than half of each axis.",
+        "Plot (4.00 x 10^-3, 8.27 x 10^-2), (2.67 x 10^-3, 2.25 x 10^-2), (2.00 x 10^-3, -0.764 x 10^-2), (1.60 x 10^-3, -2.57 x 10^-2) and (1.33 x 10^-3, -3.77 x 10^-2).",
+        "Draw one straight best-fit line through the points (they are almost exactly collinear); the line crosses zero at about 1/T = 2.17 x 10^-3 K-1."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-19.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-20.jpg",
@@ -1278,6 +1383,9 @@
         "papers/chemistry/img/14-Acid-Base-Equilibria-22.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-23.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-24.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q19-3.jpg"
       ]
     },
     {
@@ -1294,9 +1402,13 @@
         "slope"
       ],
       "question": "Determine the gradient of the line plotted in (b), including units.",
-      "status": "pending",
-      "answer": "Needs the plotted graph and data (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "gradient = +45 kJ mol-1 (about +4.5 x 10^4 J mol-1; accept 43 to 47)",
+      "steps": [
+        "Take two points far apart on the line, e.g. (4.00 x 10^-3, 8.27 x 10^-2) and (1.33 x 10^-3, -3.77 x 10^-2).",
+        "gradient = (8.27 x 10^-2 - (-3.77 x 10^-2)) / (4.00 x 10^-3 - 1.33 x 10^-3) = 0.1204 / 0.00267 = +45.1.",
+        "Units: kJ K-1 mol-1 divided by K-1 = kJ mol-1."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-19.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-20.jpg",
@@ -1304,6 +1416,9 @@
         "papers/chemistry/img/14-Acid-Base-Equilibria-22.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-23.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-24.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q19-3.jpg"
       ]
     },
     {
@@ -1350,9 +1465,13 @@
         "haber process"
       ],
       "question": "Determine the temperature at which the reaction ceases to be thermodynamically feasible at 100 kPa.",
-      "status": "pending",
-      "answer": "Needs the graph intercept and gradient (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "about 460 K (accept 450 to 470 K)",
+      "steps": [
+        "The reaction stops being feasible when deltaS(total) falls to zero: where the best-fit line crosses the 1/T axis (y = 0).",
+        "The line crosses at 1/T = 2.17 x 10^-3 K-1.",
+        "T = 1 / (2.17 x 10^-3) = 461 K, so above about 460 K the total entropy change is negative and the reaction is not feasible at 100 kPa."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-19.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-20.jpg",
@@ -1360,6 +1479,9 @@
         "papers/chemistry/img/14-Acid-Base-Equilibria-22.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-23.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-24.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q19-3.jpg"
       ]
     },
     {
@@ -1588,12 +1710,18 @@
         "options missing"
       ],
       "question": "Which indicator is most suitable for the titration of ammonia solution with hydrochloric acid? The answer options are missing from the text.",
-      "status": "pending",
-      "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: bromocresol green (pKin = 4.7)",
+      "steps": [
+        "Ammonia (weak base) with HCl (strong acid): the equivalence point is acidic, at about pH 5 (ammonium chloride solution).",
+        "The best indicator has pKin close to this pH: bromocresol green with pKin 4.7."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-24.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-25.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q20.jpg"
       ]
     },
     {
@@ -1666,12 +1794,18 @@
         "options missing"
       ],
       "question": "Pure water has pH 7.00 at 25 C and pH 6.14 at 100 C. What can be deduced? The answer options are missing from the text.",
-      "status": "pending",
-      "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: endothermic; hydrogen ion concentration higher at 100 C than at 25 C",
+      "steps": [
+        "pH 6.14 at 100 C is lower than 7.00 at 25 C, so [H+] is higher at 100 C (10^-6.14 against 10^-7.00).",
+        "More dissociation of water at a higher temperature means the equilibrium shifts forward when heated, so the dissociation is endothermic."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-25.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q22.jpg"
       ]
     },
     {
@@ -1740,12 +1874,19 @@
         "options missing"
       ],
       "question": "In which equation is H2O acting only as a Bronsted-Lowry acid? The answer options are missing from the text.",
-      "status": "pending",
-      "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: NH3 + H2O -> NH4+ + OH-",
+      "steps": [
+        "Water acts only as a Bronsted-Lowry acid when it donates a proton and never accepts one.",
+        "In C, water donates H+ to NH3 to give OH-.",
+        "In A and B water accepts H+ (forming H3O+) and in D one water molecule donates and the other accepts."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-26.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-27.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q25.jpg"
       ]
     },
     {
@@ -1790,14 +1931,21 @@
         "table"
       ],
       "question": "Complete the table for an equilibrium of N2 and H2 in a 1:3 ratio at 450 C and 200 atm, containing 28% ammonia by volume.",
-      "status": "pending",
-      "answer": "Needs the completed table layout (missing from the text) to be checked against the PDF. Working: N2 0.180, H2 0.540, NH3 0.280 mole fractions; partial pressures 36.0, 108, 56.0 atm",
-      "steps": [],
+      "status": "ready",
+      "answer": "N2: mole fraction 0.18, partial pressure 36 atm; H2: mole fraction 0.54, partial pressure 108 atm",
+      "steps": [
+        "NH3 is 28% by volume, so the remaining 72% is N2 and H2 in a 1:3 ratio.",
+        "N2 = 0.72 x 1/4 = 0.18; H2 = 0.72 x 3/4 = 0.54 (the fractions sum to 1.00 with 0.28).",
+        "Partial pressure = mole fraction x 200 atm: N2 = 36 atm, H2 = 108 atm, NH3 = 56 atm (given)."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-27.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-28.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-29.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q26.jpg"
       ]
     },
     {
@@ -1874,14 +2022,20 @@
         "missing box"
       ],
       "question": "Complete the Hess cycle for the enthalpy of solution of ammonium chloride by filling the empty box.",
-      "status": "pending",
-      "answer": "Needs the Hess cycle diagram (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "NH4+(aq) + Cl-(aq)",
+      "steps": [
+        "The solution arrow goes from NH4Cl(s) to the right-hand box, and the hydration arrow goes from the gaseous ions to the same box.",
+        "So the empty box contains the aqueous ions: NH4+(aq) + Cl-(aq)."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-27.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-28.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-29.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q26-2.jpg"
       ]
     },
     {
@@ -2013,12 +2167,19 @@
         "options"
       ],
       "question": "Which indicators could be used for the titration curve shown (base added to acid)? Options include bromocresol green, methyl red and phenolphthalein.",
-      "status": "pending",
-      "answer": "Needs the titration curve (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: bromothymol blue, phenol red and phenolphthalein",
+      "steps": [
+        "Weak acid with strong base: the curve rises sharply at 10 cm3 from about pH 5.7 to 10.5, with equivalence at about pH 8-9.",
+        "Indicators that change colour within this region are bromothymol blue (6.0-7.6), phenol red (6.8-8.4) and phenolphthalein (8.3-10.0).",
+        "Bromocresol green and methyl red change colour on the flat buffer part (pH 4-6), thymol blue (acid), methyl orange and bromophenol blue change below pH 5."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-30.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q27.jpg"
       ]
     },
     {
@@ -2035,12 +2196,18 @@
         "curve identification"
       ],
       "question": "Which acid and base could produce the curve? Options: CH3COOH and NaOH, CH3COOH and NH3, HCl and NaOH, HCl and NH3.",
-      "status": "pending",
-      "answer": "Needs the titration curve (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: CH3COOH and NaOH",
+      "steps": [
+        "The curve starts at pH 2.9 (weak acid, not pH 1 for HCl) so the acid is CH3COOH.",
+        "It ends at about pH 12, so the alkali is strong (NaOH); ammonia would level off near pH 11 and would give an acidic equivalence point."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-30.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q27.jpg"
       ]
     },
     {
@@ -2107,14 +2274,20 @@
         "options missing"
       ],
       "question": "Which is not a conjugate acid-base pair? The answer options are missing from the text.",
-      "status": "pending",
-      "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: H2CO3, CO3^2-",
+      "steps": [
+        "A conjugate acid-base pair differs by exactly one proton.",
+        "H2CO3 and CO3^2- differ by two protons, so they are not a conjugate pair; the others are (NH3/NH2-, NH4+/NH3, H2CO3/HCO3-)."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-32.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-33.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-34.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-35.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q29.jpg"
       ]
     },
     {
@@ -2336,12 +2509,18 @@
         "distilled water"
       ],
       "question": "A 1 mol dm-3 ethanoic acid solution is diluted with water. What happens to its degree of dissociation and its pH? The answer options are missing from the text.",
-      "status": "pending",
-      "answer": "Needs the answer options (missing from the text) to be checked against the PDF. Expected: degree of dissociation increases and pH increases",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: degree of dissociation increases and pH increases",
+      "steps": [
+        "On dilution, a weak acid dissociates to a greater extent (Le Chatelier / Ka = [H+][A-]/[HA] is constant, so a lower concentration gives a higher fraction dissociated).",
+        "However, the total [H+] falls because the solution is more dilute, so the pH increases."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-36.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-37.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q32.jpg"
       ]
     },
     {
@@ -2358,12 +2537,19 @@
         "acid-base pairs"
       ],
       "question": "Equal amounts of ethanoic acid (pKa 4.8) and methanoic acid (pKa 3.8) are mixed. What are the conjugate acid-base pairs? The answer options are missing from the text.",
-      "status": "pending",
-      "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: acid 1 HCOOH, base 1 HCOO-, acid 2 CH3COOH2+, base 2 CH3COOH",
+      "steps": [
+        "Methanoic acid (pKa 3.8) is the stronger acid, so it donates the proton to ethanoic acid (pKa 4.8) which acts as a base.",
+        "HCOOH + CH3COOH <=> HCOO- + CH3COOH2+.",
+        "Pairs: HCOOH / HCOO- and CH3COOH2+ / CH3COOH."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-36.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-37.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q33.jpg"
       ]
     },
     {
@@ -2432,13 +2618,20 @@
         "dissociation constant"
       ],
       "question": "Use the weak acid titration curve (equivalence point A, volume C at equivalence, volume B is half of C) to determine Ka.",
-      "status": "pending",
-      "answer": "Needs the titration curve (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Ka = about 1.6 x 10^-5 mol dm-3 (pKa 4.8)",
+      "steps": [
+        "At half the equivalence volume (B) half of the acid has been neutralised, so [HA] = [A-] and pH = pKa.",
+        "Reading the graph at B gives pH = 4.8 (about 4.76), so pKa = 4.8.",
+        "Ka = 10^-4.8 = 1.6 x 10^-5 mol dm-3 (accept 1.5 to 1.8 x 10^-5)."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-37.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-38.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-39.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q34.jpg"
       ]
     },
     {
@@ -2466,6 +2659,9 @@
         "papers/chemistry/img/14-Acid-Base-Equilibria-37.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-38.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-39.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q34.jpg"
       ]
     },
     {
@@ -2590,11 +2786,18 @@
         "options missing"
       ],
       "question": "Ethanoic acid reacts with the hydrogensulfite ion HSO3-. Which is a correct acid conjugate-base pair? The answer options are missing from the text.",
-      "status": "pending",
-      "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: CH3COOH (acid) and CH3COO- (conjugate base)",
+      "steps": [
+        "Ethanoic acid (Ka 1.7 x 10^-5) is much stronger than HSO3- as an acid (Ka 6.2 x 10^-8), so it donates a proton to HSO3-, which acts as a base.",
+        "CH3COOH + HSO3- <=> CH3COO- + H2SO3.",
+        "The acid / conjugate base pair is CH3COOH / CH3COO-."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-40.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q37.jpg"
       ]
     },
     {
@@ -2636,11 +2839,17 @@
         "hx"
       ],
       "question": "A titration curve for an acid with a strong base is shown. What could be the formula of the acid? Options: A HX, B HX2, C H2X, D H3X.",
-      "status": "pending",
-      "answer": "Needs the titration curve (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: H2X",
+      "steps": [
+        "The curve has two separate steep rises in pH, so two protons are neutralised in two stages: a diprotic acid.",
+        "H2X is the diprotic acid (HX would show one steep section and H3X would show three)."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q39.jpg"
       ]
     },
     {
@@ -2656,13 +2865,19 @@
         "complete the table"
       ],
       "question": "Complete the table of Ka and pKa values for several weak acids.",
-      "status": "pending",
-      "answer": "Needs the table (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Ka(C5H5NH+) = 5.6 x 10^-6 mol dm-3; pKa(CHCl2COOH) = 1.35",
+      "steps": [
+        "Ka = 10^-pKa = 10^-5.25 = 5.6 x 10^-6 mol dm-3 (the pKa 5.25 box).",
+        "pKa = -log10(4.5 x 10^-2) = 1.35 (the Ka 4.5 x 10^-2 box)."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-42.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-43.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-44.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q40.jpg"
       ]
     },
     {
@@ -2705,13 +2920,19 @@
         "labelling"
       ],
       "question": "Label the two acid-base pairs (A1, B1 and A2, B2) in the equilibrium set up when methanoic acid is added to propanoic acid. The equilibrium equation is incomplete in the text.",
-      "status": "pending",
-      "answer": "Needs the incomplete equilibrium equation (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "CH3CH2COOH + HCOOH <=> CH3CH2COOH2+ + HCOO-, with labels: CH3CH2COOH = B2, HCOOH = A1, CH3CH2COOH2+ = A2, HCOO- = B1",
+      "steps": [
+        "Methanoic acid (pKa 3.75) is a stronger acid than propanoic acid (pKa 4.88), so HCOOH donates the proton and CH3CH2COOH accepts it.",
+        "Acid 1 / base 1: HCOOH / HCOO-. Acid 2 / base 2: CH3CH2COOH2+ / CH3CH2COOH."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-42.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-43.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-44.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q40-2.jpg"
       ]
     },
     {
@@ -2729,13 +2950,21 @@
         "weak acid approximation"
       ],
       "question": "Discuss differences between measured and calculated pH for 0.050 mol dm-3 CH2ClCOOH (Ka 1.4 x 10^-3) and CHCl2COOH (Ka 4.5 x 10^-2), using the assumptions [H+] = [A-] and [HA] equilibrium = [HA] initial. The measured pH values are missing from the text.",
-      "status": "pending",
-      "answer": "Needs the measured pH values table (missing from the text) to be checked against the PDF. Calculated values: CH2ClCOOH pH 2.1 and CHCl2COOH pH 1.3 (approximate)",
-      "steps": [],
+      "status": "ready",
+      "answer": "Calculated pH uses [H+] = sqrt(Ka x [HA]); the measured pH is higher because [HA] at equilibrium is less than 0.050 (the approximation fails, particularly for CHCl2COOH which is about 60% dissociated)",
+      "steps": [
+        "Calculation: [H+] = sqrt(Ka x [HA]). CH2ClCOOH: sqrt(1.4 x 10^-3 x 0.050) = 8.4 x 10^-3, pH = 2.08. CHCl2COOH: sqrt(4.5 x 10^-2 x 0.050) = 4.7 x 10^-2, pH = 1.32.",
+        "The assumption [H+] = [A-] is reasonable (water's contribution is negligible), but [HA]equilibrium = [HA]initial is not: the acid is partly dissociated, so the equilibrium [HA] is lower than 0.050 mol dm-3.",
+        "For CH2ClCOOH about 15% is dissociated, so the error is small (measured 2.11 compared with 2.08). For CHCl2COOH about 60% is dissociated (a strong-ish acid), so the error is large (1.52 compared with 1.32).",
+        "Because the calculation uses too large a value of [HA] it overestimates [H+], so the calculated pH is lower than the measured pH; solving the quadratic Ka = x^2/(0.050 - x) gives pH 2.11 and 1.52, matching the measurements."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-42.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-43.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-44.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q40-3.jpg"
       ]
     },
     {
@@ -2752,13 +2981,21 @@
         "pka"
       ],
       "question": "Complete the titration curve for 75.0 cm3 of 0.025 mol dm-3 NaOH added to 25.0 cm3 of 0.025 mol dm-3 4-hydroxybenzoic acid.",
-      "status": "pending",
-      "answer": "Needs the blank titration curve (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Curve continues from (18 cm3, pH 4.7) in a buffer region with a pH of 4.5 at 12.5 cm3, a steep rise at 25 cm3 to a second buffer region with pH 9.3 at 37.5 cm3, a second steep rise at 50 cm3 and levelling out at about pH 11.8",
+      "steps": [
+        "0.025 mol dm-3 NaOH reacts with the diprotic acid in two stages, each needing 25 cm3 (the acid is 25.0 cm3 of 0.025 mol dm-3), so there are two steep sections: at 25 cm3 and at 50 cm3.",
+        "First buffer region: pH = pKa1 = 4.5 at 12.5 cm3; the curve then rises to the first steep rise at 25 cm3, with the equivalence point at about pH 6.9 (midway between 4.5 and 9.3).",
+        "Second buffer region: pH = pKa2 = 9.3 at 37.5 cm3; the curve rises gradually from about pH 8 to pH 10.",
+        "Second steep rise at 50 cm3 (equivalence point near pH 10.7), reaching about pH 11.5 at 58 cm3 where it joins the printed section, then it levels off at about pH 11.8 at 75 cm3."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-42.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-43.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-44.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q40-4.jpg"
       ]
     },
     {
@@ -2968,12 +3205,18 @@
         "options missing"
       ],
       "question": "What is the conjugate acid of a species shown in the acid-base equations? The equations and answer options are missing from the text.",
-      "status": "pending",
-      "answer": "Needs the equations and answer options (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: H2PO4-",
+      "steps": [
+        "The conjugate acid of a species is the species plus one H+.",
+        "HPO4^2- + H+ -> H2PO4-, so the conjugate acid of HPO4^2- is H2PO4- (seen in the second equation, where H2PO4- donates a proton to give HPO4^2-)."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-46.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-47.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q44.jpg"
       ]
     },
     {
@@ -3016,12 +3259,19 @@
         "options missing"
       ],
       "question": "Which reaction is most important in buffering the decrease in pH caused by carbon dioxide accumulation during exercise? The options are missing from the text.",
-      "status": "pending",
-      "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: HCO3- + H+ -> H2CO3",
+      "steps": [
+        "The decrease in pH is caused by extra H+ (from dissolved CO2 forming carbonic acid), so the buffer must remove H+.",
+        "Hydrogencarbonate ions accept the extra H+ and form H2CO3 (which can be removed as CO2), keeping the pH steady.",
+        "A and C release H+ (they would lower the pH further) and D needs carbonate ions, which are scarce at blood pH."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-47.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-48.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q46.jpg"
       ]
     },
     {
@@ -3273,13 +3523,20 @@
         "options missing"
       ],
       "question": "Which species act as a Bronsted-Lowry acid in the equilibrium when ammonia dissolves in water? The answer options are missing from the text.",
-      "status": "pending",
-      "answer": "Needs the answer options (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: NH4+ and H2O",
+      "steps": [
+        "A Bronsted-Lowry acid donates a proton. In the forward reaction H2O donates a proton to NH3.",
+        "In the reverse reaction NH4+ donates a proton to OH-.",
+        "So the acids are H2O and NH4+."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-51.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-52.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-53.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q54.jpg"
       ]
     },
     {
@@ -3400,9 +3657,13 @@
         "labelling"
       ],
       "question": "Complete the equilibrium CH3COOH + CH2ClCOOH and label the conjugate acid-base pairs A1, B1 and A2, B2. The equation is incomplete in the text.",
-      "status": "pending",
-      "answer": "Needs the complete equilibrium equation (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "CH3COOH (B2) + CH2ClCOOH (A1) <=> CH3COOH2+ (A2) + CH2ClCOO- (B1)",
+      "steps": [
+        "Chloroethanoic acid (Ka 1.30 x 10^-3) is the stronger acid and ethanoic acid (Ka 1.70 x 10^-5) the weaker one, so CH2ClCOOH donates a proton to CH3COOH.",
+        "Pairs: acid 1 CH2ClCOOH / base 1 CH2ClCOO- and acid 2 CH3COOH2+ / base 2 CH3COOH.",
+        "Complete the equation by writing CH3COOH2+ + CH2ClCOO- on the right and labelling CH3COOH = B2, CH2ClCOOH = A1, CH3COOH2+ = A2 and CH2ClCOO- = B1."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-51.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-52.jpg",
@@ -3555,13 +3816,20 @@
         "graph matching"
       ],
       "question": "Which curve (1 to 4) is produced by adding ammonia to 25 cm3 of hydrochloric acid?",
-      "status": "pending",
-      "answer": "Needs the four titration curves (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Curve 3",
+      "steps": [
+        "Ammonia (a weak base) is added to hydrochloric acid, so the pH starts low (about 1) and rises.",
+        "The end of the curve is only about pH 9-10 (an excess of weak base), unlike Curve 1 which reaches pH 13-14 (strong base).",
+        "Curve 3 matches (starts at pH 1, steep rise at 25 cm3, ends at about pH 9.5)."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-54.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-55.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-56.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q59.jpg"
       ]
     },
     {
@@ -3577,13 +3845,21 @@
         "suitable indicator"
       ],
       "question": "Which indicator is most suitable for the titration giving Curve 4?",
-      "status": "pending",
-      "answer": "Needs the four titration curves (missing from the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: thymol blue (base), pH range 8.0-9.6",
+      "steps": [
+        "Curve 4 is a weak acid added to a strong alkali: the pH falls from about 13, drops steeply at 25 cm3 from about pH 10 to about pH 5.5 and then levels at about pH 4.5.",
+        "The equivalence point is at about pH 8-9, so the indicator must change colour within the steep section near this value.",
+        "Thymol blue (base) (8.0-9.6) fits; congo red (3.0-5.0) is below the steep section, bromocresol purple (5.2-6.8) is at the extreme bottom edge, and alizarin yellow R (10.1-13.0) is above it."
+      ],
       "images": [
         "papers/chemistry/img/14-Acid-Base-Equilibria-54.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-55.jpg",
         "papers/chemistry/img/14-Acid-Base-Equilibria-56.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q59.jpg",
+        "papers/chemistry/fig/14-Acid-Base-Equilibria-Q59-2.jpg"
       ]
     }
   ]

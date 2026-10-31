@@ -50,13 +50,20 @@
         "19 degrees"
       ],
       "question": "Complete a free body force diagram for one aeroplane on its wire at the given speed, where the wire is at 19 degrees to the vertical.",
-      "status": "pending",
-      "answer": "Pending: the force diagram is not in the text extraction; it needs tension along the wire and weight vertically downward.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Two forces: weight mg acting vertically downwards, and tension T along the wire, directed up towards the point of support at 19 degrees to the vertical.",
+      "steps": [
+        "Draw the weight W = mg as an arrow vertically downwards from the dot (the aeroplane).",
+        "Draw the tension T in the wire as an arrow along the wire, pointing up and inwards towards the support, at 19 degrees to the vertical.",
+        "These are the only two forces (the horizontal component of T is the resultant force that provides the centripetal force)."
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-01.jpg",
         "papers/physics/img/22-5B-Circular-Motion-02.jpg",
         "papers/physics/img/22-5B-Circular-Motion-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q1.jpg"
       ]
     },
     {
@@ -89,6 +96,9 @@
         "papers/physics/img/22-5B-Circular-Motion-01.jpg",
         "papers/physics/img/22-5B-Circular-Motion-02.jpg",
         "papers/physics/img/22-5B-Circular-Motion-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q1.jpg"
       ]
     },
     {
@@ -119,6 +129,9 @@
         "papers/physics/img/22-5B-Circular-Motion-01.jpg",
         "papers/physics/img/22-5B-Circular-Motion-02.jpg",
         "papers/physics/img/22-5B-Circular-Motion-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q1.jpg"
       ]
     },
     {
@@ -136,12 +149,18 @@
         "multiple choice"
       ],
       "question": "A turntable rotates at 33 revolutions per minute. Select the angular velocity in rad s^-1 from the options.",
-      "status": "pending",
-      "answer": "Pending: the multiple-choice options (boxes A to D) are missing from the text extraction.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: (33 / 60) x 2 pi",
+      "steps": [
+        "33 revolutions per minute = 33 / 60 revolutions per second.",
+        "Each revolution is 2 pi radians, so omega = (33 / 60) x 2 pi = 3.5 rad s^-1, which is option C."
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-03.jpg",
         "papers/physics/img/22-5B-Circular-Motion-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q2.jpg"
       ]
     },
     {
@@ -311,12 +330,18 @@
         "bob"
       ],
       "question": "Add to the diagram the two forces acting on the bob of a conical pendulum.",
-      "status": "pending",
-      "answer": "Pending: the conical pendulum diagram is not in the text extraction, so the forces cannot be marked on it.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Weight mg vertically downwards from the bob, and tension T along the wire towards the support.",
+      "steps": [
+        "Draw the weight mg as an arrow vertically downwards from the bob.",
+        "Draw the tension T in the wire as an arrow from the bob along the wire towards the support point, at angle theta to the vertical."
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-07.jpg",
         "papers/physics/img/22-5B-Circular-Motion-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q5.jpg"
       ]
     },
     {
@@ -346,6 +371,9 @@
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-07.jpg",
         "papers/physics/img/22-5B-Circular-Motion-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q5.jpg"
       ]
     },
     {
@@ -392,12 +420,21 @@
         "friction negligible"
       ],
       "question": "A toy car of mass 33 g is released from 25 cm above point A on a track with a loop. Point C is 22 cm above A. Friction is negligible. Deduce whether the car completes the loop and reaches point D.",
-      "status": "pending",
-      "answer": "Pending: the radius of the loop, shown in the diagram and not in the text, is needed to find the minimum speed at the top of the loop.",
-      "steps": [],
+      "status": "ready",
+      "answer": "No: the car does not complete the loop. At C its speed is 0.77 m s^-1, below the 1.04 m s^-1 needed.",
+      "steps": [
+        "A is the bottom and C the top of the loop, so its diameter is 22 cm and the radius is r = 0.11 m.",
+        "To stay on the track at the top the weight must not be more than the centripetal force: m g <= m v^2 / r, so v_min = sqrt(g r) = sqrt(9.81 x 0.11) = 1.04 m s^-1.",
+        "Speed at C by conservation of energy (no friction): C is 22 cm above A and the release point is 25 cm above A, so the car has fallen only 3 cm below its starting height: 1/2 v^2 = g (0.25 - 0.22), so v = sqrt(2 x 9.81 x 0.030) = 0.77 m s^-1.",
+        "0.77 m s^-1 is less than 1.04 m s^-1. At C the centripetal force needed (m v^2 / r = 0.033 x 0.589 / 0.11 = 0.18 N) is less than the weight (0.32 N), so the car loses contact and falls off.",
+        "It would need to be released at least 22 + r / 2 = 27.5 cm above A to complete the loop, so it does not reach D."
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-08.jpg",
         "papers/physics/img/22-5B-Circular-Motion-09.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q6.jpg"
       ]
     },
     {
@@ -414,14 +451,20 @@
         "multiple choice"
       ],
       "question": "A website claims the Moon's orbital radius increases each year while its period stays constant. Select the correct row of the table, A to D, if the statement is true.",
-      "status": "pending",
-      "answer": "Pending: the table of rows A to D is not in the text extraction.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: angular velocity constant; speed increasing",
+      "steps": [
+        "The period T is constant, so the angular velocity omega = 2 pi / T is constant.",
+        "The speed v = omega r. With omega constant and r increasing, the speed increases. This is row B."
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-09.jpg",
         "papers/physics/img/22-5B-Circular-Motion-10.jpg",
         "papers/physics/img/22-5B-Circular-Motion-11.jpg",
         "papers/physics/img/22-5B-Circular-Motion-12.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q7.jpg"
       ]
     },
     {
@@ -620,13 +663,20 @@
         "sphere"
       ],
       "question": "Draw the free-body force diagram for the sphere of the hammer at the position shown, where the chain is at 40 degrees to the horizontal.",
-      "status": "pending",
-      "answer": "Pending: the drawing is not in the text extraction; it must show tension T along the chain and weight vertically downward.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Two forces on the sphere: weight mg vertically downwards, and tension T along the chain towards the thrower (down and inwards at 40 degrees below the horizontal).",
+      "steps": [
+        "Draw the weight mg as an arrow vertically downwards from the dot.",
+        "Draw the tension T along the chain, pointing from the sphere towards the thrower's hands, i.e. down and to the left at 40 degrees below the horizontal.",
+        "Label both arrows. (There is no centripetal force arrow; it is the resultant of these two.)"
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-13.jpg",
         "papers/physics/img/22-5B-Circular-Motion-14.jpg",
         "papers/physics/img/22-5B-Circular-Motion-15.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q10.jpg"
       ]
     },
     {
@@ -764,14 +814,24 @@
         "scaled diagram"
       ],
       "question": "Using the scaled vector diagram of the heel momentum (3.0 N s) and the ball's momentum (ball mass 160 g, speed 13 m/s before and 16 m/s after), deduce whether momentum is conserved.",
-      "status": "pending",
-      "answer": "Pending: the scaled vector diagram and the directions of the momenta are in the figure, which is not in the text extraction.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Yes: the vector sum of the initial momenta is about 2.5 N s, which equals the ball's final momentum of 2.56 N s within the accuracy of the data.",
+      "steps": [
+        "Ball momentum before: 0.160 x 13 = 2.08 N s (towards the heel). Ball momentum after: 0.160 x 16 = 2.56 N s. The heel stops, so it has no momentum afterwards.",
+        "Before the collision draw p_heel = 3.0 N s upwards (to scale), then from its tip draw the ball momentum 2.08 N s at 56 degrees to the vertical, in the direction of the ball travel.",
+        "The resultant (start of p_heel to end of the ball vector) measures about 2.5 N s, at about 43 degrees to the vertical, up and to the left.",
+        "Calculation check: horizontal = 2.08 sin56 = 1.72 N s; vertical = 3.0 - 2.08 cos56 = 1.84 N s; resultant = 2.52 N s.",
+        "This matches the ball's final momentum of 2.56 N s in size and direction (within about 2%), so momentum is conserved."
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-15.jpg",
         "papers/physics/img/22-5B-Circular-Motion-16.jpg",
         "papers/physics/img/22-5B-Circular-Motion-17.jpg",
         "papers/physics/img/22-5B-Circular-Motion-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q11.jpg",
+        "papers/physics/fig/22-5B-Circular-Motion-Q11-2.jpg"
       ]
     },
     {
@@ -938,11 +998,19 @@
         "multiple choice"
       ],
       "question": "A car of mass m travels at constant speed v over the top of a humpback bridge of radius r. Select the expression for the force from the bridge on the car.",
-      "status": "pending",
-      "answer": "Pending: the multiple-choice expressions are missing from the text extraction.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: m g - m v^2 / r",
+      "steps": [
+        "At the top of the bridge the car moves in a circle with the centre below it, so the resultant force is downwards: m v^2 / r.",
+        "Forces: weight m g downwards and the normal force N from the bridge upwards: m g - N = m v^2 / r.",
+        "So N = m g - m v^2 / r, option C."
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-21.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q14.jpg",
+        "papers/physics/fig/22-5B-Circular-Motion-Q14-2.jpg"
       ]
     },
     {
@@ -991,13 +1059,20 @@
         "vertical circle"
       ],
       "question": "Using the graph of resultant vertical force against time for the toy car in a plastic ball, show that the angular velocity about the ball's centre is about 40 rad/s.",
-      "status": "pending",
-      "answer": "Pending: the force-time graph is not in the text extraction, so the period cannot be read from it.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Period T = 0.16 s, so omega = 2 pi / T = 39 rad s^-1, which is about 40 rad s^-1",
+      "steps": [
+        "The force repeats once per revolution. Read the time between successive peaks on the graph: peaks at about 0.04 s, 0.20 s and 0.36 s.",
+        "Two periods = 0.36 - 0.04 = 0.32 s, so T = 0.16 s.",
+        "omega = 2 pi / T = 2 pi / 0.16 = 39 rad s^-1, which is about 40 rad s^-1."
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-22.jpg",
         "papers/physics/img/22-5B-Circular-Motion-23.jpg",
         "papers/physics/img/22-5B-Circular-Motion-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q16.jpg"
       ]
     },
     {
@@ -1016,13 +1091,21 @@
         "angular velocity"
       ],
       "question": "The student recorded 86 mm for the ball. Using the car's mass of 9.5 g and the force data from the graph, deduce whether 86 mm is the radius or the diameter.",
-      "status": "pending",
-      "answer": "Pending: the force values read from the graph are not in the text extraction.",
-      "steps": [],
+      "status": "ready",
+      "answer": "86 mm is the diameter: the radius of the car's path is about 43 mm.",
+      "steps": [
+        "The car moves at constant speed in a vertical circle, so the magnitude of the resultant force is the centripetal force m omega^2 r; its vertical component varies sinusoidally, with maximum equal to the amplitude of the graph, 0.63 N.",
+        "m = 9.5 g = 0.0095 kg and omega = 2 pi / 0.16 = 39.3 rad s^-1, so r = F / (m omega^2) = 0.63 / (0.0095 x 39.3^2) = 0.043 m = 43 mm.",
+        "43 mm is half of 86 mm, so the measured value of 86 mm must be the diameter of the ball."
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-22.jpg",
         "papers/physics/img/22-5B-Circular-Motion-23.jpg",
         "papers/physics/img/22-5B-Circular-Motion-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q16.jpg",
+        "papers/physics/fig/22-5B-Circular-Motion-Q16-2.jpg"
       ]
     },
     {
@@ -1056,6 +1139,9 @@
         "papers/physics/img/22-5B-Circular-Motion-22.jpg",
         "papers/physics/img/22-5B-Circular-Motion-23.jpg",
         "papers/physics/img/22-5B-Circular-Motion-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q16.jpg"
       ]
     },
     {
@@ -1073,12 +1159,18 @@
         "multiple choice"
       ],
       "question": "A toy aeroplane completes 12 revolutions in 6 s. Select the expression giving its angular velocity in rad s^-1.",
-      "status": "pending",
-      "answer": "Pending: the multiple-choice options are missing from the text extraction.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 12 x 2 pi / 6",
+      "steps": [
+        "12 revolutions in 6 s is 12 / 6 = 2 revolutions per second.",
+        "Each revolution is 2 pi rad, so omega = 12 x 2 pi / 6 = 12.6 rad s^-1, which is option B."
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-24.jpg",
         "papers/physics/img/22-5B-Circular-Motion-25.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q17.jpg"
       ]
     },
     {
@@ -1095,13 +1187,19 @@
         "multiple choice"
       ],
       "question": "A laboratory centrifuge rotates at 1500 revolutions per minute. Select the expression giving its angular velocity in radians per second.",
-      "status": "pending",
-      "answer": "Pending: the multiple-choice expressions are missing from the text extraction.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 1500 x 2 pi / 60",
+      "steps": [
+        "1500 revolutions per minute is 1500 / 60 revolutions per second.",
+        "Multiply by 2 pi rad per revolution: omega = 1500 x 2 pi / 60 = 157 rad s^-1, option D."
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-25.jpg",
         "papers/physics/img/22-5B-Circular-Motion-26.jpg",
         "papers/physics/img/22-5B-Circular-Motion-27.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q18.jpg"
       ]
     },
     {
@@ -1322,12 +1420,19 @@
         "diagram"
       ],
       "question": "Add labelled arrows to each diagram to show the forces acting on the item of clothing in the drum.",
-      "status": "pending",
-      "answer": "Pending: the two diagrams are not in the text extraction; the arrows needed are weight downwards and the normal force from the drum wall.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both diagrams: weight mg vertically downwards. Normal contact force N from the drum, directed towards the centre: upwards at the bottom and downwards at the top.",
+      "steps": [
+        "Bottom position: draw the weight mg downwards, and the normal (contact) force N from the drum wall pointing upwards towards the centre; N is longer than mg.",
+        "Top position: draw the weight mg downwards, and the normal force N from the drum wall pointing downwards towards the centre.",
+        "Label each arrow (weight, normal contact force)."
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-29.jpg",
         "papers/physics/img/22-5B-Circular-Motion-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q21.jpg"
       ]
     },
     {
@@ -1402,13 +1507,19 @@
         "two sources"
       ],
       "question": "Two sources produce waves with a phase difference of 40 degrees. Select the expression that gives this angle in radians.",
-      "status": "pending",
-      "answer": "Pending: the multiple-choice options are missing from the text extraction.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 40 x 2 pi / 360",
+      "steps": [
+        "360 degrees = 2 pi radians, so 1 degree = 2 pi / 360 rad.",
+        "40 degrees = 40 x 2 pi / 360 = 0.70 rad, option A."
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-31.jpg",
         "papers/physics/img/22-5B-Circular-Motion-32.jpg",
         "papers/physics/img/22-5B-Circular-Motion-33.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q22.jpg"
       ]
     },
     {
@@ -1483,13 +1594,21 @@
         "diameter 50 cm"
       ],
       "question": "The maximum frictional force between the glass and the turntable is given by an expression in m, the mass of the glass. Someone says that a glass placed less than 5 cm from the edge of a 50.0 cm turntable (omega = 1.3 rad/s) will slide. Deduce whether they are correct.",
-      "status": "pending",
-      "answer": "Pending: the expression for the maximum frictional force is missing from the text extraction.",
-      "steps": [],
+      "status": "ready",
+      "answer": "They are correct: the glass starts to slide when closer than about 5.6 cm to the edge, so a glass less than 5 cm from the edge will slide.",
+      "steps": [
+        "The glass stays on the turntable while the friction can provide the centripetal force: m omega^2 x <= m g / 30, where x is the distance from the centre.",
+        "x <= g / (30 omega^2) = 9.81 / (30 x 1.3^2) = 0.19 m = 19 cm from the centre.",
+        "The turntable radius is 25.0 cm, so the glass slides if it is more than 19.3 cm from the centre, that is closer than 25.0 - 19.3 = 5.6 cm to the edge.",
+        "A glass less than 5 cm from the edge is within this range (for example, at 5 cm from the edge x = 20 cm: m omega^2 x = 0.34 m N compared with the maximum friction m g / 30 = 0.33 m N), so the claim is correct."
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-31.jpg",
         "papers/physics/img/22-5B-Circular-Motion-32.jpg",
         "papers/physics/img/22-5B-Circular-Motion-33.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q23.jpg"
       ]
     },
     {
@@ -1538,12 +1657,20 @@
         "multiple choice"
       ],
       "question": "A model aeroplane moves at constant speed in a horizontal circle, with velocities vF at F and vG at G. Select the correct vector diagram showing the change in velocity from F to G.",
-      "status": "pending",
-      "answer": "Pending: the vector diagram options are not in the text extraction.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C",
+      "steps": [
+        "The change in velocity is delta v = v_G - v_F = v_G + (-v_F).",
+        "In diagram C, v_G and -v_F are drawn head to tail, and delta v is the closing side from the start of v_G to the end of -v_F, so delta v = v_G + (-v_F).",
+        "A has v_G + delta v = v_F (delta v is the wrong way round), B adds v_F and v_G, and D draws v_F reversed with delta v pointing the wrong way."
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-33.jpg",
         "papers/physics/img/22-5B-Circular-Motion-34.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q24.jpg",
+        "papers/physics/fig/22-5B-Circular-Motion-Q24-2.jpg"
       ]
     },
     {
@@ -1650,14 +1777,21 @@
         "forces"
       ],
       "question": "The forwards and backwards forces on the toy aeroplane are equal in magnitude. Add to the diagram the other forces acting on the toy aeroplane.",
-      "status": "pending",
-      "answer": "Pending: the diagram is not in the text extraction; the forces to add are tension along the thread and weight vertically downward.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Add two forces at the aeroplane: tension T along the thread (up and towards the fixed point) and weight mg vertically downwards.",
+      "steps": [
+        "Draw the tension T in the thread as an arrow along the thread, from the aeroplane up towards the fixed point (at angle theta to the vertical).",
+        "Draw the weight mg as an arrow vertically downwards from the aeroplane.",
+        "The forward thrust and backward air drag on the aeroplane are equal and opposite, so they cancel and only T and mg give the resultant force towards the centre."
+      ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-34.jpg",
         "papers/physics/img/22-5B-Circular-Motion-35.jpg",
         "papers/physics/img/22-5B-Circular-Motion-36.jpg",
         "papers/physics/img/22-5B-Circular-Motion-37.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/22-5B-Circular-Motion-Q25.jpg"
       ]
     },
     {

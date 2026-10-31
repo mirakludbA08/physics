@@ -5304,6 +5304,9 @@
         "papers/biology/img/04A-Plant-Structure-102.jpg",
         "papers/biology/img/04A-Plant-Structure-103.jpg",
         "papers/biology/img/04A-Plant-Structure-104.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q42a.jpg"
       ]
     },
     {
@@ -5322,14 +5325,21 @@
         "absorption"
       ],
       "question": "Give two conclusions for the effect of EDTA and citric acid on the calcium ion content in the roots of two types of maize, using the graph.",
-      "status": "pending",
-      "answer": "Pending: the graph of mean calcium ion mass in roots of the two maize types is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both EDTA and citric acid reduce the calcium ion content of the roots in both types of maize; EDTA affects type A more, and citric acid affects type B more.",
+      "steps": [
+        "Conclusion 1: with no treatment both types contain about 6.3 mg calcium per gram of dry mass, and both EDTA and citric acid lower the calcium content of the roots in both types.",
+        "Conclusion 2: EDTA lowers type A much more than type B (about 6.3 to 4.3, a 32% fall, against about 6.3 to 5.7, a 9% fall).",
+        "Citric acid has the larger effect on type B (about 6.3 to 4.4, a 31% fall) than on type A (about 6.3 to 5.3, a 16% fall), so the two types respond differently to the chemicals."
+      ],
       "images": [
         "papers/biology/img/04A-Plant-Structure-101.jpg",
         "papers/biology/img/04A-Plant-Structure-102.jpg",
         "papers/biology/img/04A-Plant-Structure-103.jpg",
         "papers/biology/img/04A-Plant-Structure-104.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q42b.jpg"
       ]
     },
     {
@@ -5421,6 +5431,9 @@
         "papers/biology/img/04A-Plant-Structure-106.jpg",
         "papers/biology/img/04A-Plant-Structure-107.jpg",
         "papers/biology/img/04A-Plant-Structure-108.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q43b.jpg"
       ]
     },
     {
@@ -5450,6 +5463,9 @@
         "papers/biology/img/04A-Plant-Structure-106.jpg",
         "papers/biology/img/04A-Plant-Structure-107.jpg",
         "papers/biology/img/04A-Plant-Structure-108.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q43b.jpg"
       ]
     },
     {
@@ -5467,15 +5483,23 @@
         "names"
       ],
       "question": "Which row gives the names of the molecules labelled X and Z in the diagram of translation?",
-      "status": "pending",
-      "answer": "Pending: the diagram labelling X and Z and the table of options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: X is a polypeptide and Z is an RNA strand (mRNA)",
+      "steps": [
+        "The diagram shows translation: a ribosome (large and small subunit) moves along an mRNA strand and makes a growing chain of amino acids.",
+        "Molecule X is the beaded chain growing out of the ribosome, which is a polypeptide (a chain of amino acids), not a polysaccharide.",
+        "Molecule Z is the strand passing between the two subunits that is being read by the ribosome, which is mRNA (an RNA strand), not DNA; so the row is polypeptide and RNA strand, B."
+      ],
       "images": [
         "papers/biology/img/04A-Plant-Structure-104.jpg",
         "papers/biology/img/04A-Plant-Structure-105.jpg",
         "papers/biology/img/04A-Plant-Structure-106.jpg",
         "papers/biology/img/04A-Plant-Structure-107.jpg",
         "papers/biology/img/04A-Plant-Structure-108.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q43b.jpg",
+        "papers/biology/fig/04A-Plant-Structure-Q43b-2.jpg"
       ]
     },
     {
@@ -5524,15 +5548,25 @@
         "mice"
       ],
       "question": "Explain how treatment with Peperomin E and the other drug affect the activity of the RASSF1 gene and the changes in tumour volume, using graph A and your own knowledge.",
-      "status": "pending",
-      "answer": "Pending: graph A of tumour volume over 21 days and the description of the second treatment are not fully in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Methylation switches off the tumour suppressor gene RASSF1; peperomin E demethylates it so RASSF1 is expressed again and tumour growth is slowed (more at 50 mg kg^-1), but the current drug (group D) is the most effective.",
+      "steps": [
+        "With no treatment (group A) the RASSF1 gene stays methylated, so it is silenced and its protein is not made; cells divide without control, and the relative tumour volume rises from 1 to about 4.9 and the mean tumour mass is about 455 mg at 21 days.",
+        "Peperomin E causes demethylation of the RASSF1 gene, so it can be transcribed and translated again; the RASSF1 protein slows cell division or causes cell death, so tumours grow more slowly.",
+        "At 25 mg kg^-1 (group B) the volume at 21 days is about 2.8 (43% less than A) and the mass about 285 mg (37% less); at 50 mg kg^-1 (group C) the volume is about 2.5 (49% less) and the mass about 200 mg (56% less), so a higher dose gives a greater effect (dose-dependent) though the extra effect is small.",
+        "The current drug (group D) is the most effective: the tumour volume rises only to about 1.8 by day 13 and then falls to about 1.55 (68% less than A), and the mass is about 170 mg (63% less than A); it may also reactivate genes or act in another way (the page does not describe its action).",
+        "All the treatments keep the tumour smaller than no treatment, but none removes it; peperomin E may have fewer side effects, and only 10 mice per group were used, so more tests are needed."
+      ],
       "images": [
         "papers/biology/img/04A-Plant-Structure-104.jpg",
         "papers/biology/img/04A-Plant-Structure-105.jpg",
         "papers/biology/img/04A-Plant-Structure-106.jpg",
         "papers/biology/img/04A-Plant-Structure-107.jpg",
         "papers/biology/img/04A-Plant-Structure-108.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q43c.jpg",
+        "papers/biology/fig/04A-Plant-Structure-Q43c-2.jpg"
       ]
     },
     {
@@ -5550,14 +5584,21 @@
         "percentage"
       ],
       "question": "Calculate the ratio of cellulose to lignin for a one-year-old bamboo plant, from the graph of mean percentages.",
-      "status": "pending",
-      "answer": "Pending: the graph of mean percentage cellulose and lignin by age is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "2.0 : 1 (about 55 : 28)",
+      "steps": [
+        "Read the bars for 1 year: cellulose is about 55% and lignin is about 28%.",
+        "Ratio cellulose : lignin = 55 / 28 = 1.96.",
+        "So the ratio is about 2.0 : 1 (1.96 : 1)."
+      ],
       "images": [
         "papers/biology/img/04A-Plant-Structure-108.jpg",
         "papers/biology/img/04A-Plant-Structure-109.jpg",
         "papers/biology/img/04A-Plant-Structure-110.jpg",
         "papers/biology/img/04A-Plant-Structure-111.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q44a.jpg"
       ]
     },
     {
@@ -5575,14 +5616,20 @@
         "percentage"
       ],
       "question": "Give one conclusion about the effect of age on the mean percentage of cellulose and lignin in bamboo plants.",
-      "status": "pending",
-      "answer": "Pending: the graph of mean percentages by age is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "As the bamboo plant gets older, the percentage of cellulose decreases while the percentage of lignin increases.",
+      "steps": [
+        "Cellulose falls from about 55% at 1 year to about 45% at 5 years.",
+        "Lignin rises from about 28% at 1 year to about 40% at 5 years, so the ratio of cellulose to lignin falls with age."
+      ],
       "images": [
         "papers/biology/img/04A-Plant-Structure-108.jpg",
         "papers/biology/img/04A-Plant-Structure-109.jpg",
         "papers/biology/img/04A-Plant-Structure-110.jpg",
         "papers/biology/img/04A-Plant-Structure-111.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q44a.jpg"
       ]
     },
     {
@@ -5613,6 +5660,9 @@
         "papers/biology/img/04A-Plant-Structure-109.jpg",
         "papers/biology/img/04A-Plant-Structure-110.jpg",
         "papers/biology/img/04A-Plant-Structure-111.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q44a.jpg"
       ]
     },
     {
@@ -5631,14 +5681,21 @@
         "photograph"
       ],
       "question": "Which are the structures labelled X in the photograph of part of a bamboo cell wall? A amyloplasts, B chloroplasts, C plasmodesmata, D tonoplasts.",
-      "status": "pending",
-      "answer": "Pending: the photograph with structures X is not in the text, so the labels cannot be checked (plasmodesmata, option C, is the likely answer).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: plasmodesmata",
+      "steps": [
+        "X points to small round holes (pits or pores) in the plant cell wall.",
+        "Channels through the cell wall that link neighbouring plant cells are plasmodesmata, so C.",
+        "Amyloplasts and chloroplasts are organelles inside cells and tonoplasts are the vacuole membranes, so none of these appears as holes in a wall."
+      ],
       "images": [
         "papers/biology/img/04A-Plant-Structure-108.jpg",
         "papers/biology/img/04A-Plant-Structure-109.jpg",
         "papers/biology/img/04A-Plant-Structure-110.jpg",
         "papers/biology/img/04A-Plant-Structure-111.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q44b.jpg"
       ]
     },
     {
@@ -5686,14 +5743,21 @@
         "vascular bundle"
       ],
       "question": "Give one difference between the distribution of phloem and xylem in a leaf compared with their distribution in a transverse section of a stem.",
-      "status": "pending",
-      "answer": "Pending: the diagram of xylem and phloem in a leaf section is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "In the leaf the xylem is above (towards the upper surface) and the phloem below (towards the lower surface) in each vein; in the stem the xylem is inside and the phloem outside the bundle.",
+      "steps": [
+        "In a leaf vein the xylem is on the upper (adaxial) side and the phloem on the lower (abaxial) side of the vein, as the diagram shows.",
+        "In a stem vascular bundle the xylem is on the inner side (towards the centre) and the phloem on the outer side (towards the epidermis).",
+        "Also, the leaf bundles are spread along the flat blade in one row, whereas the stem bundles form a ring near the outside of the stem."
+      ],
       "images": [
         "papers/biology/img/04A-Plant-Structure-108.jpg",
         "papers/biology/img/04A-Plant-Structure-109.jpg",
         "papers/biology/img/04A-Plant-Structure-110.jpg",
         "papers/biology/img/04A-Plant-Structure-111.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q44c.jpg"
       ]
     },
     {
@@ -5743,14 +5807,22 @@
         "comment"
       ],
       "question": "Comment on the results of the investigation of olive oil extract antimicrobial properties at low and high concentrations, using the graph of living bacteria over time.",
-      "status": "pending",
-      "answer": "Pending: the graph of mean living bacteria against incubation time is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The extract kills bacteria: the number of living bacteria falls with time, faster with the high concentration (none left after 5 hours) than the low concentration (none after 7 hours), whereas the control stays at about 7.6 x 10^6 per cm^3.",
+      "steps": [
+        "Control: the number of living bacteria stays at about 7.6 to 7.9 x 10^6 per cm^3 for 7 h, so the fall in the other tubes is due to the extract.",
+        "Low concentration: the number falls from 7.6 to 6.1 (0.5 h), 4.9 (1 h), 3.3 (3 h) and 1.9 (5 h), and none at 7 h.",
+        "High concentration: the number falls more quickly, to 4.1 (0.5 h), 3.3 (1 h) and 2.2 (3 h), and there are no living bacteria at 5 h or 7 h, so a higher concentration is more effective (43% fewer than the control at 1 h for low and 57% for high).",
+        "The error bars are small and do not overlap between treatments at the same time, so the differences are probably significant; the extract has an antimicrobial (bactericidal) effect that depends on the time and the concentration."
+      ],
       "images": [
         "papers/biology/img/04A-Plant-Structure-111.jpg",
         "papers/biology/img/04A-Plant-Structure-112.jpg",
         "papers/biology/img/04A-Plant-Structure-113.jpg",
         "papers/biology/img/04A-Plant-Structure-114.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q45b.jpg"
       ]
     },
     {
@@ -5767,14 +5839,20 @@
         "relationship"
       ],
       "question": "State the relationship between the time spent in interphase and the number of white blood cells, using the graph.",
-      "status": "pending",
-      "answer": "Pending: the graph of time in interphase and cell number is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "As the time in interphase decreases, the number of cells increases (a negative relationship).",
+      "steps": [
+        "Time in interphase falls from about 180 hours (0 PHA) to about 5 hours at 1.0 ug cm^-3.",
+        "Over the same range the number of cells rises from about 2 to 16 x 10^6 per cm^3, so the shorter the interphase the more cells there are."
+      ],
       "images": [
         "papers/biology/img/04A-Plant-Structure-111.jpg",
         "papers/biology/img/04A-Plant-Structure-112.jpg",
         "papers/biology/img/04A-Plant-Structure-113.jpg",
         "papers/biology/img/04A-Plant-Structure-114.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q45c.jpg"
       ]
     },
     {
@@ -5791,14 +5869,20 @@
         "calculation"
       ],
       "question": "Which is the correct percentage change in cell number from 0.0 to 1.0 g cm-3 of PHA? A -700%, B -87.5%, C +87.5%, D +700%.",
-      "status": "pending",
-      "answer": "Pending: the cell number values at each PHA concentration are read from the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: +700%",
+      "steps": [
+        "Number of cells at 0.0 ug cm^-3 is 2 x 10^6 per cm^3 and at 1.0 ug cm^-3 it is 16 x 10^6 per cm^3.",
+        "Change = 16 - 2 = 14, so percentage change = 14 / 2 x 100 = +700%."
+      ],
       "images": [
         "papers/biology/img/04A-Plant-Structure-111.jpg",
         "papers/biology/img/04A-Plant-Structure-112.jpg",
         "papers/biology/img/04A-Plant-Structure-113.jpg",
         "papers/biology/img/04A-Plant-Structure-114.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q45c.jpg"
       ]
     },
     {
@@ -5816,14 +5900,22 @@
         "explain"
       ],
       "question": "Explain the results of the investigation into the effect of PHA on white blood cell number and time in interphase.",
-      "status": "pending",
-      "answer": "Pending: the results graph for PHA treatment is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "PHA shortens interphase, so the cell cycle is faster and more cell divisions take place, giving more cells.",
+      "steps": [
+        "As the concentration of PHA rises, the time spent in interphase falls steeply from about 180 hours to about 5 hours, so the cell cycle is much shorter.",
+        "A shorter cell cycle means that the cells complete DNA replication and cell growth sooner, so they enter mitosis and divide more often in the same time, so the number of cells increases (from 2 to 16 x 10^6 per cm^3, 8 times as many).",
+        "Above about 0.4 to 0.6 ug cm^-3 the time in interphase hardly falls and the number of cells rises more slowly, because interphase cannot be shortened below a minimum (mitosis and cytokinesis still take time).",
+        "PHA is therefore acting as a mitogen, stimulating the cells to divide."
+      ],
       "images": [
         "papers/biology/img/04A-Plant-Structure-111.jpg",
         "papers/biology/img/04A-Plant-Structure-112.jpg",
         "papers/biology/img/04A-Plant-Structure-113.jpg",
         "papers/biology/img/04A-Plant-Structure-114.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q45c.jpg"
       ]
     },
     {
@@ -5904,15 +5996,22 @@
         "2021"
       ],
       "question": "Continent Q produced 634 288 000 kg of strawberries in 2021. Which is the mass produced in continent S? A 61 136 193 kg, B 760 212 883 kg, C 2 183 071 550 kg, D 4 531 720 288 kg.",
-      "status": "pending",
-      "answer": "Pending: the diagram showing the share of production for each continent is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 2 183 071 550 kg",
+      "steps": [
+        "The mass of strawberries is proportional to the angle of the sector.",
+        "Continent Q has 24.9 degrees for 634 288 000 kg, so continent S (85.7 degrees) = 634 288 000 x 85.7 / 24.9.",
+        "= 2 183 071 550 kg, which is C."
+      ],
       "images": [
         "papers/biology/img/04A-Plant-Structure-115.jpg",
         "papers/biology/img/04A-Plant-Structure-116.jpg",
         "papers/biology/img/04A-Plant-Structure-117.jpg",
         "papers/biology/img/04A-Plant-Structure-118.jpg",
         "papers/biology/img/04A-Plant-Structure-119.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q46b.jpg"
       ]
     },
     {
@@ -5930,15 +6029,22 @@
         "hydroponic"
       ],
       "question": "Calculate the percentage difference in mean mass of wheat grains per square metre between groups A and B, using the table.",
-      "status": "pending",
-      "answer": "Pending: the table of mean grain mass per square metre and gluten content for each treatment group is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "-11% (A is 11.4% lower than B)",
+      "steps": [
+        "Percentage difference = (A - B) / ((A + B) / 2) x 100, with A = 0.58 and B = 0.65 kg m^-2.",
+        "A - B = -0.07 and (A + B) / 2 = 0.615.",
+        "Percentage difference = -0.07 / 0.615 x 100 = -11.4%, so group A has a mean grain mass 11.4% lower than group B (about -11%)."
+      ],
       "images": [
         "papers/biology/img/04A-Plant-Structure-115.jpg",
         "papers/biology/img/04A-Plant-Structure-116.jpg",
         "papers/biology/img/04A-Plant-Structure-117.jpg",
         "papers/biology/img/04A-Plant-Structure-118.jpg",
         "papers/biology/img/04A-Plant-Structure-119.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q46c-2.jpg"
       ]
     },
     {
@@ -5957,15 +6063,25 @@
         "discuss"
       ],
       "question": "Discuss the farmers' conclusion that they would make more money by adding magnesium ions to wheat, using the table of grain mass and gluten content and your own knowledge.",
-      "status": "pending",
-      "answer": "Pending: the table of grain mass and gluten content per treatment is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The conclusion is supported: magnesium increased both grain mass and gluten content, so the farmers would get more and higher-value flour, as long as the cost of the magnesium is less than the extra income.",
+      "steps": [
+        "Group A (no magnesium) had the lowest values: 0.58 kg m^-2 of grain and 265 g gluten per kg.",
+        "Magnesium on the leaves (group B) raised grain mass by 12% to 0.65 and gluten by 7% to 283; magnesium in the nutrient solution (group C) raised grain by 16% to 0.67 and gluten by 12% to 298; the total gluten per m^2 rose from about 154 g to 184 g (B) and 200 g (C).",
+        "More gluten means a higher protein content, and flour with a higher protein content is more expensive, so the farmers would earn more per kg as well as having a greater mass.",
+        "Magnesium is part of chlorophyll (more photosynthesis, more growth and grain) and activates enzymes for protein synthesis, so the results are biologically sensible.",
+        "Evaluation: group C is only slightly better than B for the grain (0.67 against 0.65), so spraying leaves may be a cheaper way of adding magnesium; but there is no cost information, no standard deviations or repeats, only one wheat variety and hydroponic conditions, so the profit cannot be proved."
+      ],
       "images": [
         "papers/biology/img/04A-Plant-Structure-115.jpg",
         "papers/biology/img/04A-Plant-Structure-116.jpg",
         "papers/biology/img/04A-Plant-Structure-117.jpg",
         "papers/biology/img/04A-Plant-Structure-118.jpg",
         "papers/biology/img/04A-Plant-Structure-119.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04A-Plant-Structure-Q46c.jpg",
+        "papers/biology/fig/04A-Plant-Structure-Q46c-2.jpg"
       ]
     }
   ]

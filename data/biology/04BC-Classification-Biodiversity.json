@@ -102,13 +102,21 @@
         "calcium"
       ],
       "question": "Using the graph of mean pollen tube length against Verapamil concentration, determine the effect of Verapamil concentration on pollen tube growth.",
-      "status": "pending",
-      "answer": "Pending: the graph of mean pollen tube length is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "As Verapamil concentration increases, the mean pollen tube length decreases: from about 680 um with none to about 62 um at 200 ug cm^-3 (about 91% shorter).",
+      "steps": [
+        "With no Verapamil the mean pollen tube length is about 680 um, and at 1 ug cm^-3 it is almost the same (about 665 um), so low concentrations have little effect.",
+        "As the concentration rises to 10, 50 and 100 ug cm^-3 the length falls to about 600, 395 and 235 um.",
+        "At 200 ug cm^-3 the length is only about 62 um, so Verapamil inhibits pollen tube growth, and the higher the concentration the greater the inhibition (a negative correlation).",
+        "This fits calcium ions being needed for pollen tube growth, because Verapamil blocks calcium uptake."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-001.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-002.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-003.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q1c.jpg"
       ]
     },
     {
@@ -137,6 +145,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-001.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-002.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-003.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q1c.jpg"
       ]
     },
     {
@@ -180,13 +191,21 @@
         "biodiversity"
       ],
       "question": "Using the graph, explain the relationship between herbicide concentration and the mean number of insect species in three fields.",
-      "status": "pending",
-      "answer": "Pending: the graph of mean species number against herbicide concentration is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "As herbicide concentration rises the mean number of insect species falls (negative relationship), from about 9 species with none to about 2.8 species at 100 mg dm^-3, because the herbicide removes the plants that insects depend on.",
+      "steps": [
+        "The graph shows a negative relationship: the mean number of insect species falls from about 9 at 0 mg dm^-3 to about 6.2 at 20 and about 4 at 60, and to about 2.8 at 100 mg dm^-3 (a 69% decrease).",
+        "The fall is steepest at low concentrations (about 3 species lost by 20 mg dm^-3) and flattens at high concentrations.",
+        "Herbicide kills plants, so herbivorous insects lose their food source and habitat (shelter, egg-laying sites), and insects that feed on those insects (predators and parasites) also lose food.",
+        "The more herbicide, the more plant species are killed, so the more insect species decline or are lost; herbicide may also kill some insects directly, and species that depend on only one plant are lost first, so biodiversity falls."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-003.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-004.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-005.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q2b.jpg"
       ]
     },
     {
@@ -257,12 +276,20 @@
         "eukaryote"
       ],
       "question": "Which box in each row of the table shows whether each feature is found in each of the three domains?",
-      "status": "pending",
-      "answer": "Pending: the feature table and its tick boxes are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Absence of a nuclear envelope: Archaea and Bacteria only; presence of circular DNA: Archaea and Bacteria only; presence of a cell membrane: Archaea, Bacteria and Eukarya; presence of ribosomes: Archaea, Bacteria and Eukarya.",
+      "steps": [
+        "Archaea and Bacteria are prokaryotes, so they have no nucleus or nuclear envelope (Eukarya do), so tick the second box (\"Archaea and Bacteria only\") for the first row.",
+        "Prokaryotes have a circular chromosome, whereas eukaryotes have linear chromosomes in a nucleus, so tick \"Archaea and Bacteria only\" for circular DNA.",
+        "All cells have a cell surface membrane, so tick the last column (\"Archaea, Bacteria and Eukarya\") for the third row.",
+        "All cells have ribosomes (70S in prokaryotes and 80S in eukaryotes) to make proteins, so tick the last column for the fourth row."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-005.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-006.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q3b.jpg"
       ]
     },
     {
@@ -308,14 +335,21 @@
         "calculation"
       ],
       "question": "Calculate the width of the phloem vessel along line XY in micrometres, in standard form.",
-      "status": "pending",
-      "answer": "Pending: needs the scale or measurements from the sieve plate photograph, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "2.2 x 10^2 um",
+      "steps": [
+        "Measure the line XY in the photograph: about 43 mm on the printed page (154 px at 745 px per 210 mm); a ruler measurement of 43 mm to 44 mm is expected.",
+        "Actual width = image width / magnification = 43 mm / 200 = 0.215 mm.",
+        "Convert to micrometres: 0.215 mm x 1000 = 215 um to 217 um, which is 2.2 x 10^2 um in standard form (to 2 s.f.)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-006.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-007.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-008.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-009.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q4b.jpg"
       ]
     },
     {
@@ -403,6 +437,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-007.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-008.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-009.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q4c.jpg"
       ]
     },
     {
@@ -449,15 +486,24 @@
         "alleles"
       ],
       "question": "Discuss two proposed solutions to the low genetic diversity of the 11 beavers introduced from Norway, using the map of European beaver locations.",
-      "status": "pending",
-      "answer": "Pending: the map of original European beaver locations is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both solutions can add new alleles, but more beavers from the same small Norwegian population adds little genetic diversity, whereas beavers from several different locations add more alleles and reduce inbreeding, with a higher risk of disease and unsuitable subspecies.",
+      "steps": [
+        "Genetic diversity means the number of different alleles in the population; only 11 founders carry few alleles, so there is inbreeding, genetic drift and a smaller ability to adapt to disease or change.",
+        "Solution 1 (more beavers from Norway): the Norwegian population is easy and quick to use, is a similar climate to Scotland and the same population, so beavers are well adapted and the risk of disease is lower; but on the map Norway has only a few small patches of beavers, so these animals are closely related and add few new alleles.",
+        "Solution 2 (beavers from several locations): the map shows beavers in many places, such as Sweden, Finland, the Baltic states, Poland, Russia, Germany and France, so beavers from unrelated populations would add many different alleles, which would greatly increase genetic diversity and reduce inbreeding.",
+        "Disadvantages of solution 2: beavers from distant populations could be a different subspecies, could be adapted to different conditions or carry different diseases or parasites, are more difficult and more costly to transport and need more licences; some of the western populations are small and isolated, so they have little diversity themselves.",
+        "Overall: using several populations (especially the large Scandinavian and Baltic ones) is likely to be the better way to increase genetic diversity, if the beavers are healthy and the same subspecies; Norway alone is simpler but less effective."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-009.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-010.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-011.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-012.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-013.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q5b.jpg"
       ]
     },
     {
@@ -531,13 +577,20 @@
         "behavioural"
       ],
       "question": "Complete the table to show the type of each of the frog's three adaptations.",
-      "status": "pending",
-      "answer": "Pending: the table to be completed is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Bright red skin with black spots: anatomical (warning colouration); production of poison: physiological (biochemical); adhesive discs on toes: anatomical.",
+      "steps": [
+        "Adaptations can be anatomical (structural), physiological (processes inside the body) or behavioural (how the animal acts).",
+        "The bright red skin with black spots and the adhesive discs on the toes are structural features, so they are anatomical.",
+        "Making a poison is a biochemical process in the cells, so it is physiological."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-013.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-014.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-015.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q6b.jpg"
       ]
     },
     {
@@ -697,14 +750,21 @@
         "calculation"
       ],
       "question": "Calculate the percentage increase in the mass of bananas imported by one country from 2007 to 2011, using the table.",
-      "status": "pending",
-      "answer": "Pending: the table of banana import masses is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "148.5% (about 150%)",
+      "steps": [
+        "China imported 3.3 x 10^5 tonnes in 2007 and 8.2 x 10^5 tonnes in 2011.",
+        "Increase = 8.2 - 3.3 = 4.9 x 10^5 tonnes.",
+        "Percentage increase = 4.9 / 3.3 x 100 = 148.5%."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-015.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-016.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-017.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-018.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q7c.jpg"
       ]
     },
     {
@@ -778,13 +838,20 @@
         "stages"
       ],
       "question": "Which labelled cell (P, Q, R or S) in the photograph is in metaphase of mitosis?",
-      "status": "pending",
-      "answer": "Pending: the labelled micrograph (cells P, Q, R, S) is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: R",
+      "steps": [
+        "In metaphase the chromosomes are condensed and lined up at the equator (centre) of the cell, attached to spindle fibres.",
+        "Cell R has its chromosomes arranged across the middle of the cell, so it is in metaphase.",
+        "Q has coiled, condensed chromosomes spread through the nucleus area (prophase), S has chromatids being pulled to two poles (anaphase) and P has two separate groups of chromosomes at opposite ends with a cell plate forming (telophase)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-018.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-019.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-020.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q8a.jpg"
       ]
     },
     {
@@ -801,13 +868,20 @@
         "tendril"
       ],
       "question": "Using the table of results, calculate the mitotic index of the tendril tip cells.",
-      "status": "pending",
-      "answer": "Pending: the results table with cell counts is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.22 (22%)",
+      "steps": [
+        "Mitotic index = number of cells in mitosis / total number of cells.",
+        "Cells in mitosis (prophase, metaphase, anaphase and telophase) = 15 + 3 + 10 + 5 = 33.",
+        "Total cells = 117 + 33 = 150, so mitotic index = 33 / 150 = 0.22 (22%)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-018.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-019.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-020.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q8a-2.jpg"
       ]
     },
     {
@@ -1083,13 +1157,20 @@
         "ceyx"
       ],
       "question": "Using the proposed reclassification diagram, explain which kingfisher species are most closely related to Ceyx madagascariensis.",
-      "status": "pending",
-      "answer": "Pending: the classification diagrams for the five kingfisher species are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Alcedo leucogaster and Alcedo cristata are the most closely related to Ceyx madagascariensis, because they share the most recent common ancestor with it on the proposed tree.",
+      "steps": [
+        "In the proposed reclassification, C. madagascariensis branches from the same node as the two Alcedo species (A. leucogaster and A. cristata).",
+        "Species sharing the most recent (nearest) common ancestor are the most closely related, so the two Alcedo species are its closest relatives.",
+        "Ceyx lecontei and Ceyx picta branch off earlier, so they are less closely related, even though they share the genus name Ceyx."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-024.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-025.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-026.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q10b.jpg"
       ]
     },
     {
@@ -1120,6 +1201,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-024.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-025.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-026.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q10b.jpg"
       ]
     },
     {
@@ -1220,13 +1304,20 @@
         "female"
       ],
       "question": "Using the graph of temperature against percentage of male hatchlings, calculate the number of female crocodiles from 350 eggs incubated at 32 deg C.",
-      "status": "pending",
-      "answer": "Pending: the temperature-sex graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 270 females (269.5)",
+      "steps": [
+        "From the graph, at 32 degrees C about 23% of the crocodiles hatch as male.",
+        "So the percentage female = 100 - 23 = 77%.",
+        "Number of females = 350 x 77 / 100 = 269.5, about 270 females."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-026.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-027.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-028.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q11c.jpg"
       ]
     },
     {
@@ -1243,13 +1334,22 @@
         "conservation"
       ],
       "question": "Explain how the egg collection and incubation project could increase crocodile numbers rapidly without reducing future genetic diversity, using the graph.",
-      "status": "pending",
-      "answer": "Pending: depends on the temperature-sex graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Collecting eggs from many nests and incubating them protects them, so more hatch and numbers rise quickly; choosing temperatures that give mostly females increases breeding output, while still producing enough males from many different parents keeps genetic diversity.",
+      "steps": [
+        "Eggs collected from nests in different parts of the park come from many different parents, so the hatchlings carry many different alleles and the genetic diversity of the future population is kept.",
+        "Incubating the eggs at a suitable temperature (and releasing them after hatching) protects them from predators, flooding and unsuitable temperatures, so a higher percentage hatch and the population increases quickly.",
+        "The graph shows temperature determines sex: at 28 degrees C 0% are male, at 29 degrees C about 6%, at 30 degrees C about 40%, at 31 degrees C about 82% (the maximum) and at 32 to 33 degrees C only about 23% and 21%; so the sex ratio can be controlled.",
+        "Incubating at a temperature such as 29 to 30 degrees C gives more females (60 to 94%), and each female lays many eggs, so the population grows faster than with mostly males (31 degrees C).",
+        "But some males must also be produced (not 28 degrees C, which gives none), from many different nests, so that the females can mate with many different males and the genetic diversity is not reduced by inbreeding."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-026.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-027.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-028.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q11c.jpg"
       ]
     },
     {
@@ -1295,14 +1395,20 @@
         "correlation"
       ],
       "question": "Using the graph of tourist numbers and recorded non-endemic species, state the relationship shown.",
-      "status": "pending",
-      "answer": "Pending: the graph of tourist numbers and non-endemic species is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Positive correlation: as the number of tourists increases, the number of recorded non-endemic species increases.",
+      "steps": [
+        "The points rise from about 480 non-endemic species at about 17 000 tourists to about 1 530 species at about 225 000 tourists.",
+        "So there is a positive correlation (the rise is quicker at low tourist numbers and slows at high numbers), but correlation does not prove that tourists cause the introduction of species."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-028.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-029.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-030.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-031.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q12b.jpg"
       ]
     },
     {
@@ -1319,14 +1425,21 @@
         "calculation"
       ],
       "question": "Using the table of species counts from the native forest in 1960, calculate the index of diversity (D) to one decimal place.",
-      "status": "pending",
-      "answer": "Pending: the table of species counts is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "4.6",
+      "steps": [
+        "Total number of individuals N = 21 + 2 + 4 + 13 + 54 + 15 + 6 + 32 = 147.",
+        "Fill in the missing values of n(n - 1): 420, 156, 2862 and 992, so the sum of n(n - 1) = 420 + 2 + 12 + 156 + 2862 + 210 + 30 + 992 = 4684.",
+        "D = N(N - 1) / sum of n(n - 1) = 147 x 146 / 4684 = 21 462 / 4684 = 4.58, which is 4.6 to one decimal place."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-028.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-029.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-030.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-031.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q12c.jpg"
       ]
     },
     {
@@ -1401,13 +1514,23 @@
         "genetic diversity"
       ],
       "question": "Comment on the effect of three mating strategies (sperm middle region length, spermatophores, sperm storage) on reproductive success and offspring genetic diversity, using the graph and diagram.",
-      "status": "pending",
-      "answer": "Pending: depends on the sperm diagram and the sperm length-speed graph, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A longer middle region gives faster sperm (positive correlation), so those males fertilise more eggs; spermatophores raise a male's success but reduce female mating variety; sperm storage lets females have offspring from several males and so increases genetic diversity.",
+      "steps": [
+        "Middle region: the graph shows a positive correlation, as the length of the middle region increases from about 15 to 19 um the swimming speed increases from about 45 to 75 um s^-1; the middle region contains the mitochondria, so a longer one gives more ATP and faster swimming.",
+        "Since females mate with many males, sperm from different males compete, and faster sperm are more likely to reach and fertilise the egg first, so males with a longer middle region have greater reproductive success (and pass on the allele for a long middle region).",
+        "Spermatophores: nutrients help the female make more or better eggs, so both parents gain, and the chemicals make her less attractive to other males, so the male is more likely to be the father of all her offspring (greater male reproductive success); but the female mates with fewer males, so the genetic diversity of her offspring is lower.",
+        "Sperm storage (turtles): the female can fertilise eggs in years with no mating, and her offspring can have different fathers (stored sperm from numerous males), so her reproductive success and the genetic diversity of the offspring are higher; a male's success is less certain because his sperm competes with sperm from other males.",
+        "Overall these strategies increase the reproductive success of the individual using them (males with fast sperm or spermatophores, females with stored sperm), but those that limit female mating reduce genetic variation."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-031.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-032.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-033.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q13b.jpg",
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q13b-2.jpg"
       ]
     },
     {
@@ -1424,13 +1547,20 @@
         "calculation"
       ],
       "question": "Calculate the magnification of the photograph of M. smithii, to two significant figures.",
-      "status": "pending",
-      "answer": "Pending: needs the scale bar or image and actual size values, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "x3.3 x 10^4",
+      "steps": [
+        "Magnification = length of the scale bar in the image / actual length it represents.",
+        "The 1200 nm scale bar measures about 40 mm on the printed page (about 142 px at 745 px per 210 mm); a ruler should give 39 mm to 41 mm.",
+        "Convert: 40 mm = 4.0 x 10^7 nm, so magnification = 4.0 x 10^7 / 1200 = 33 000 = 3.3 x 10^4 (to 2 significant figures)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-033.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-034.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-035.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q14a.jpg"
       ]
     },
     {
@@ -1447,13 +1577,19 @@
         "resolution"
       ],
       "question": "Explain which type of microscope was used to take the photograph of M. smithii.",
-      "status": "pending",
-      "answer": "Pending: depends on the appearance of the photograph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A scanning electron microscope (SEM).",
+      "steps": [
+        "The image shows the three-dimensional surface of the cells with shading, which is what a scanning electron microscope produces (a transmission electron microscope gives a flat 2D slice showing the inside of the cell).",
+        "A light microscope could not be used because the cells are only about 1 um across (the 1200 nm scale bar is about the width of a cell), which is close to the resolution limit of about 200 nm, and the magnification is about 30 000, which a light microscope cannot reach."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-033.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-034.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-035.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q14a.jpg"
       ]
     },
     {
@@ -1526,13 +1662,20 @@
         "trend"
       ],
       "question": "Describe the effect of length of storage time on the germination of the stored seeds, using the graph.",
-      "status": "pending",
-      "answer": "Pending: the germination-against-storage-time graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The percentage of seeds that germinate stays high at first, then falls steeply as storage time increases, then levels off at a very low percentage.",
+      "steps": [
+        "At first the percentage of seeds that germinate stays at a high constant value (a plateau) for the early period of storage.",
+        "Then the percentage falls rapidly, so the longer the seeds are stored, the fewer germinate.",
+        "The fall then levels off near 0%, so after a long time almost no seeds germinate."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-035.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-036.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-037.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q15a.jpg"
       ]
     },
     {
@@ -1633,13 +1776,19 @@
         "anatomical"
       ],
       "question": "Complete the table showing the type of each adaptation shown by this caterpillar.",
-      "status": "pending",
-      "answer": "Pending: the table to complete is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Looks like a pit viper snake: anatomical; tries to strike potential predators: behavioural.",
+      "steps": [
+        "Looking like a snake is a structural feature of the body (shape, colour and markings, a form of mimicry), so it is an anatomical adaptation.",
+        "Striking at predators is the way the animal acts, so it is a behavioural adaptation."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-037.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-038.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-039.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q16a.jpg"
       ]
     },
     {
@@ -1656,13 +1805,19 @@
         "identification"
       ],
       "question": "State the type of microscope used to view the organelle shown in the photograph.",
-      "status": "pending",
-      "answer": "Pending: depends on the photograph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A transmission electron microscope (TEM).",
+      "steps": [
+        "The photograph shows internal membranes (cristae) of a mitochondrion in a thin slice at a magnification of x72 500, which is far beyond a light microscope.",
+        "A flat, internal 2D view of the organelle is typical of a transmission electron microscope."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-037.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-038.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-039.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q16b.jpg"
       ]
     },
     {
@@ -1679,13 +1834,20 @@
         "identification"
       ],
       "question": "Describe the function of the organelle shown in the photograph.",
-      "status": "pending",
-      "answer": "Pending: the organelle must be identified from the photograph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The organelle is a mitochondrion: it carries out aerobic respiration, which makes ATP for the cell.",
+      "steps": [
+        "The structure has a double membrane, with the inner membrane folded into cristae, so it is a mitochondrion.",
+        "It is the site of aerobic respiration: the Krebs cycle takes place in the matrix and the electron transport chain (oxidative phosphorylation) on the cristae, making most of the cell's ATP.",
+        "ATP is the energy source for cell processes such as active transport, protein synthesis and movement, and the cristae give a large surface area for ATP synthesis."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-037.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-038.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-039.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q16b.jpg"
       ]
     },
     {
@@ -1702,9 +1864,13 @@
         "drawing"
       ],
       "question": "Draw a labelled diagram of rough endoplasmic reticulum.",
-      "status": "pending",
-      "answer": "Pending: requires a labelled drawing, which cannot be given as text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Draw a stack of flattened membrane-bound sacs (cisternae) with small dots (ribosomes) on the outer surface, connected to the nuclear envelope; label rough endoplasmic reticulum, cisterna (lumen), membrane and ribosomes.",
+      "steps": [
+        "Draw 3 to 5 long, flattened, parallel sacs (cisternae) formed by a membrane, close together and joined at the ends or folded, and labelled \"cisternae\" or \"lumen\".",
+        "Draw many small dots on the outside surface of the membrane and label them \"ribosomes\" (this is what makes the ER rough).",
+        "Show it connected to the outer membrane of the nuclear envelope, if space allows, and label with label lines \"rough endoplasmic reticulum\"."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-037.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-038.jpg",
@@ -1725,9 +1891,13 @@
         "normal distribution"
       ],
       "question": "Sketch a graph showing the distribution of a phenotype with continuous variation in a population.",
-      "status": "pending",
-      "answer": "Pending: requires a sketched graph, which cannot be given as text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A symmetrical bell-shaped (normal distribution) curve, with the phenotype (e.g. height or mass) on the x axis and the number of individuals (frequency) on the y axis, peaking at the mean.",
+      "steps": [
+        "Label the axes: x axis = the measured phenotype (e.g. height / cm, a continuous variable) and y axis = number of individuals (frequency).",
+        "Draw a smooth, symmetrical bell-shaped curve with the highest point (the mean) in the middle and the curve tailing off to the left and right without touching the axis.",
+        "Continuous variation (a range with no clear categories, caused by many genes and the environment) therefore gives a normal distribution."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-039.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-040.jpg",
@@ -1818,6 +1988,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-043.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-044.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-045.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q18a.jpg"
       ]
     },
     {
@@ -1864,15 +2037,21 @@
         "crops"
       ],
       "question": "Using the graph, which percentage of the world cassava crop is grown in Africa? A 33 % B 34 % C 66 % D 67 %.",
-      "status": "pending",
-      "answer": "Pending: the graph of crop masses is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 67%",
+      "steps": [
+        "Read the cassava bars: African production is about 160 million tonnes per year and world production about 240 million tonnes per year.",
+        "Percentage = 160 / 240 x 100 = 66.7%, which is 67%, so D."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-041.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-042.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-043.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-044.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-045.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q18b.jpg"
       ]
     },
     {
@@ -1889,15 +2068,22 @@
         "million tonnes"
       ],
       "question": "Calculate the predicted world maize production after a 2.3 % increase, to the nearest whole number.",
-      "status": "pending",
-      "answer": "Pending: the current world maize production is read from the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1074 million tonnes",
+      "steps": [
+        "Read the world maize bar: about 1050 million tonnes per year.",
+        "Increase = 1050 x 0.023 = 24.15, so new production = 1050 + 24.15 = 1074.15.",
+        "To the nearest whole number: 1074 million tonnes."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-041.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-042.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-043.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-044.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-045.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q18b.jpg"
       ]
     },
     {
@@ -1914,15 +2100,25 @@
         "disadvantages"
       ],
       "question": "Discuss the advantages and disadvantages of growing three crop plants for human food, using the cassava graph and table.",
-      "status": "pending",
-      "answer": "Pending: depends on the cassava dry mass graph and the crop table, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Cassava needs little water and few nutrients and gives a lot of carbohydrate, but bitter cassava is toxic and all cassava is low in protein; maize has more protein and few toxins but needs more water and nutrients and has less carbohydrate.",
+      "steps": [
+        "Advantages of cassava: low to medium water need and low nutrient need, so it grows in poor soil and dry areas; carbohydrate content is about 95 g per 100 g dry mass compared with 77 g for maize.",
+        "Bitter cassava gives a higher yield (mean dry mass about 0.23 kg per plant against about 0.16 kg for sweet cassava) and its bitter chemicals protect it against animals.",
+        "Disadvantages: the bitter chemicals (100 to 500 mg kg^-1 in bitter, 10 to 50 in sweet, 1 to 2 in maize) release hydrogen cyanide, which stops respiration, so the cassava must be processed before eating.",
+        "Cassava has very little protein (about 1.8 g per 100 g against 8.75 g in maize), so a diet based on it could lead to protein deficiency.",
+        "Maize is a good source of protein and has little toxin, but it needs medium to high water and nutrients (irrigation and fertiliser) and gives less carbohydrate; sweet cassava is safer than bitter but gives a lower yield."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-041.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-042.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-043.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-044.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-045.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q18c.jpg",
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q18c-2.jpg"
       ]
     },
     {
